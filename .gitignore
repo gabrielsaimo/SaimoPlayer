@@ -1,0 +1,8 @@
+# Saídas de build (o app, o DMG e o ffmpeg embutido são gerados por ./make_dmg.sh)
+build/
+
+# Ícone de origem opcional: cai para o desenhado quando ausente
+# (mantido fora do repositório por ser um asset grande e substituível)
+AppIcon.png
+
+.DS_Store
