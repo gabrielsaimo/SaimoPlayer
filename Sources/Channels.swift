@@ -389,6 +389,10 @@ private let catalog: [CatalogEntry] = [
         name: "Food Network",
         logo: "https://mondrian.claro.com.br/channels/inverse/food-network.png",
         sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=173&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318587-jiNY6eM7XRD%2FkW0wXhwxSh6laUG3oM%2BKParp6FtaoDc%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
             Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=178&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786301641-I%2B8e4UfH7a84n9jbFrfVRTAvhHz0XGzIVx0gpToH7zI%3D",
                    referer: nil,
                    userAgent: nil,
@@ -408,6 +412,240 @@ private let catalog: [CatalogEntry] = [
         logo: "https://mondrian.claro.com.br/channels/inverse/globo.png",
         sources: [
             Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/bobosp/__index.m3u8?sv=88&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786308190-ZJ9brWallKsnk%2F7UWQ%2FQTAGEXpmP%2FKcVaSUGn9znNbA%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Cartoonito",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cartoonito.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=114&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317656-1XIQOrlNN%2BHazl3Wst%2F7IlT24vGk2bzQvu%2BVvw7czSQ%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Cinemax",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cinemax.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cinemax/__index.m3u8?sv=89&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317781-Zb0ihZRP%2Fd8xd9LFBPc%2BJkw8LPD7h%2BCIG49P8T5DB3w%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Combate",
+        logo: nil,
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/combate/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317841-kasstfdIhiqSElnrlbwkM4AVYt3R8NSVQYvsaAz2vmc%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Channel",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discovery/__index.m3u8?sv=8&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317914-q0BTVDVdNa6OnGufXqIB18CL6Av9hu1qbjgZTCifu3s%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Home & Health",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryhomeihealth/__index.m3u8?sv=165&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317976-YfEFqP5bEhiFUgUHTxJ2R6BLc3rxZAasmpQOjE1xx8M%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Kids",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-kids.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverykids/__index.m3u8?sv=154&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318026-groDks79ir2Y%2Fkhwi%2FUklj48Q9TgNV6u8nXTUDyFtZA%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Theater",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-theater.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverytheater/__index.m3u8?sv=198&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318156-eEfPQ8%2F6bq3VdNNjLimmnVYV9pJAsGVi%2BvdBpgx1uGk%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery World",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-world.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryworld/__index.m3u8?sv=101&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318262-3PA%2BHb4nyzwzInWXdoGJEpIzuzxq4CopzX6sCTcr7uk%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "ESPN",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318392-QvKT%2FUp7bZQSZYJz6P10ssTqi7CQZwlTquxwquyZKOM%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "ESPN 2",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-2.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn2/__index.m3u8?sv=141&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318445-zhWacyLIG8lLoYvlDCss2l3Uzb6bPtJB7boGnCgWXvI%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "ESPN 4",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-4.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn4/__index.m3u8?sv=166&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318524-FDNFOsKiw6lTQJ35mV3KKuwHL8%2Bg%2FeKqmq3oedHtH9s%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Gloobinho",
+        logo: "https://mondrian.claro.com.br/channels/inverse/gloobinho.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=129&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318782-D10ReLfV9K9Pf5Sm4bYoowgfG3kuv5taawFmvkqoD4c%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo/__index.m3u8?sv=117&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318843-tRnuNe%2BqQBd6xIcIC0KbpLyPB3%2BcjofHgq1LlxVbA0M%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO2",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-2.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo2/__index.m3u8?sv=130&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318898-K3ZqHfTFH1G%2BGiR8Cm9Rj%2F97Hz%2FArnNn7isruGQHqK0%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Family",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-family.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbofamily/__index.m3u8?sv=110&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318990-VHr%2FSKUQMB04QL6bqlaqNJUjBnjWuqn%2BtRMC3XY30uw%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Mundi",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbomundi/__index.m3u8?sv=123&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319375-0KBZxAs709vCiKdjPn%2Bb%2B5W6MSguL8DqKgf04TSxglw%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Plus",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hboplus.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboplus/__index.m3u8?sv=1&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319431-Pi9MnjfX4JxMUuxnHJgxq52SXIFzdeOKuVtwNVT6KM0%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Pop",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-pop.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbopop/__index.m3u8?sv=157&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319479-lDYSgAj4ZFIepwV0vX8u9S0e7Ebxhf4BTv3EniTCBnY%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Signature",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-signature.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbosignature/__index.m3u8?sv=160&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319526-INBbshGXlD9TpQbIrO2o%2B%2Bvh2AdOSYyq40%2Bxn2K8TP8%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HBO Xtreme",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboxtreme/__index.m3u8?sv=54&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319588-UdulgZyZ6RDlqovJ2z2GT922OIYzhtERsRLNIvGENhw%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "HGTV",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hgtv.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hgtv/__index.m3u8?sv=19&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319632-e1qPFbo7TJi2Lby9%2BI9oTn0jZMeT0HApUMoTzAF%2FwJw%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Record",
+        logo: nil,
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/record/__index.m3u8?sv=56&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319751-ihJPWustFQ8fO9p1yyF%2BMusOyiKd5%2FAq0JfK%2FT7%2B2AY%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Space",
+        logo: "https://mondrian.claro.com.br/channels/inverse/space.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/space/__index.m3u8?sv=32&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319822-jZjECmMzIWG6zhTnKGLKJd%2BzLRKz4K5nb1etZg2KBOU%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TNT",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tnt.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/tnt/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320015-pLkZ%2FNdlgXV4jqtDYTJ51nEkLG8WRJkACfkgm5UMYF8%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TNT Séries",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tnt-series.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/tntseries/__index.m3u8?sv=5&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320066-hcnuxiV0uoL54pSnZai999RtJv4kuUlXop3OpOigZek%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Universal TV",
+        logo: "https://mondrian.claro.com.br/channels/inverse/universal.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=60&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320128-FxFFFQxrmw897iWMG7XhBfzLKd1XJ4nk1YU5W1ajEo4%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
