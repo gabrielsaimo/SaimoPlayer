@@ -96,6 +96,10 @@ struct EPGGuideView: View {
     /// while the timeline slides; both sit inside one vertical scroll, which
     /// keeps the rows aligned without any offset bookkeeping.
     private var grid: some View {
+        // The vertical reader centres the channel being watched when the guide
+        // opens: with dozens of rows, landing on the top of the list means
+        // hunting for your own channel every time.
+        ScrollViewReader { rows in
         ScrollView(.vertical) {
             HStack(alignment: .top, spacing: 0) {
                 VStack(spacing: 0) {
@@ -103,6 +107,7 @@ struct EPGGuideView: View {
                     ForEach(channels) { channel in
                         channelCell(channel)
                             .frame(width: nameWidth, height: rowHeight)
+                            .id(channel.id)
                         Divider().frame(width: nameWidth)
                     }
                 }
@@ -141,6 +146,13 @@ struct EPGGuideView: View {
                     }
                 }
             }
+        }
+        .onAppear {
+            guard let selection = model.selection else { return }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                rows.scrollTo(selection, anchor: .center)
+            }
+        }
         }
     }
 

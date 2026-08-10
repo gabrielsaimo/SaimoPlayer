@@ -158,7 +158,10 @@ final class EPGService: ObservableObject {
                     throw UpstreamError.transport("nenhuma fonte de EPG respondeu")
                 }
 
-                var merged: [UUID: [Programme]] = [:]
+                // meuguia.tv first: the XMLTV feeds carry the wrong schedule
+                // for several channels, so they only fill what it does not cover.
+                var merged = await MeuGuia.fetch(wanted: wanted, from: from, to: to)
+
                 for index in EPGService.sourceURLs.indices {
                     guard let data = payloads[index] else { continue }
                     let parsed = XMLTVParser.parse(data, wanted: wanted, from: from, to: to)
