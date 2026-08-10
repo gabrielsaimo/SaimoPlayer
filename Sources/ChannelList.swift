@@ -128,6 +128,9 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
     private let width: CGFloat = 260
     /// Hairline of desk showing between the two windows.
     private let gap: CGFloat = 2
+    /// How far the player was pushed right to fit the list, so closing it can
+    /// give that space back instead of leaving the video off-centre.
+    private var shiftApplied: CGFloat = 0
 
     private override init() { super.init() }
 
@@ -183,6 +186,18 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
 
         window = panel
         host = parent
+
+        // Full screen fills the display. A child window beside it has nowhere
+        // to go, and every attempt to accommodate one — nudging the player,
+        // hiding and restoring it around the transition — fought AppKit's own
+        // animation and left the video displaced. The list simply does not open
+        // while full screen, and closes on the way in.
+        guard !parent.styleMask.contains(.fullScreen) else {
+            window = nil
+            host = nil
+            model.detachedList = false
+            return
+        }
         makeRoomOnTheLeft(for: parent)
         parent.addChildWindow(panel, ordered: .above)
         sync()
@@ -198,11 +213,9 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
         // the edge; it is hidden for the duration and restored on exit.
         observers.append(center.addObserver(
             forName: NSWindow.willEnterFullScreenNotification, object: parent, queue: .main) { _ in
-                Task { @MainActor in SidebarWindowController.shared.setHidden(true) }
-            })
-        observers.append(center.addObserver(
-            forName: NSWindow.didExitFullScreenNotification, object: parent, queue: .main) { _ in
-                Task { @MainActor in SidebarWindowController.shared.setHidden(false) }
+                Task { @MainActor in
+                    PlayerModel.shared.detachedList = false
+                }
             })
     }
 
@@ -214,8 +227,8 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
             window.orderOut(nil)
         }
         window = nil
+        restorePlayerPosition()
         host = nil
-        hiddenForFullScreen = false
     }
 
     /// Moving either window emits `didMove` *asynchronously*, so a plain
@@ -244,12 +257,22 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
         let overflow = target.maxX - screen.visibleFrame.maxX
         if overflow > 0 { target.size.width = max(720, target.width - overflow) }
         parent.setFrame(target, display: true)
+        shiftApplied = deficit
+    }
+
+    /// Gives back what `makeRoomOnTheLeft` took.
+    private func restorePlayerPosition() {
+        guard shiftApplied > 0, let parent = host,
+              !parent.styleMask.contains(.fullScreen) else { shiftApplied = 0; return }
+        var target = parent.frame
+        target.origin.x -= shiftApplied
+        parent.setFrame(target, display: true)
+        shiftApplied = 0
     }
 
     /// Keeps the panel flush against the player's left edge and the same height.
     private func sync() {
-        guard !hiddenForFullScreen, Date() >= suppressUntil,
-              let window, let parent = host else { return }
+        guard Date() >= suppressUntil, let window, let parent = host else { return }
         suppressEchoes()
         window.setFrame(NSRect(x: parent.frame.minX - offset, y: parent.frame.minY,
                                width: width, height: parent.frame.height),
@@ -257,24 +280,6 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
     }
 
     /// Hidden while the player is full screen, without losing the child link.
-    private var hiddenForFullScreen = false
-
-    func setHidden(_ hidden: Bool) {
-        guard let window, let parent = host else { return }
-        hiddenForFullScreen = hidden
-        if hidden {
-            window.orderOut(nil)
-        } else {
-            // The child link is re-established here: full screen tore it down.
-            if window.parent == nil { parent.addChildWindow(window, ordered: .above) }
-            window.order(.above, relativeTo: parent.windowNumber)
-            sync()
-        }
-    }
-
-    /// The player is the app's own titled, parentless, on-screen window — the
-    /// content-view type is not a reliable marker because SwiftUI wraps the
-    /// root view in modifiers of its own.
     private var playerWindow: NSWindow? {
         NSApp.windows.first {
             $0.isVisible && $0.parent == nil && !($0 is NSPanel)
