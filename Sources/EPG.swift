@@ -7,9 +7,67 @@ struct Programme: Codable, Hashable, Identifiable {
     var category: String
     var start: Date
     var stop: Date
+    /// Extras the feeds publish unevenly, so every one of them is optional.
+    /// Note that none of the sources carry an age rating.
+    var subtitle: String?
+    var episode: String?
+    var year: String?
+    var credits: String?
+    var poster: URL?
 
     var id: String { "\(start.timeIntervalSince1970)-\(title)" }
     var duration: TimeInterval { stop.timeIntervalSince(start) }
+
+    /// XMLTV writes episodes as "0.2." in the xmltv_ns system: season, episode
+    /// and part, all zero-based and any of them possibly empty. Shown raw it is
+    /// meaningless, so it becomes "T1 E3".
+    var episodeLabel: String? {
+        guard let episode, !episode.isEmpty else { return nil }
+
+        // Feeds that use the "onscreen" system already write it readably, just
+        // in English ("S1 E7").
+        if !episode.contains(".") {
+            let translated = episode.replacingOccurrences(
+                of: #"^S(\d+)"#, with: "T$1", options: .regularExpression)
+            return plausible(translated) ? translated : nil
+        }
+
+        let fields = episode.split(separator: ".", omittingEmptySubsequences: false)
+            .map { $0.split(separator: "/").first.map(String.init) ?? "" }
+        func number(_ index: Int) -> Int? {
+            guard index < fields.count, let value = Int(fields[index].trimmingCharacters(in: .whitespaces))
+            else { return nil }
+            return value + 1
+        }
+        let label: String?
+        switch (number(0), number(1)) {
+        case let (season?, episode?): label = "T\(season) E\(episode)"
+        case let (season?, nil): label = "T\(season)"
+        case let (nil, episode?): label = "E\(episode)"
+        default: label = nil
+        }
+        guard let label, plausible(label) else { return nil }
+        return label
+    }
+
+    /// Daily programmes carry a running counter in this field — a newscast
+    /// reported as "T80 E221" is noise, not information.
+    private func plausible(_ label: String) -> Bool {
+        let numbers = label.split(whereSeparator: { !$0.isNumber }).compactMap { Int($0) }
+        guard let season = numbers.first else { return false }
+        if season > 40 { return false }
+        if numbers.count > 1, let episode = numbers.last, episode > 200 { return false }
+        return true
+    }
+
+    /// Compact line for the places that have room for one extra row: genre,
+    /// episode and year, whichever the feed actually published.
+    var shortDetail: String? {
+        let parts = [category, episodeLabel, year]
+            .compactMap { $0 }
+            .filter { !$0.isEmpty }
+        return parts.isEmpty ? nil : parts.joined(separator: " · ")
+    }
 
     func progress(at now: Date = Date()) -> Double {
         guard duration > 0 else { return 0 }
@@ -162,11 +220,39 @@ final class EPGService: ObservableObject {
                 // for several channels, so they only fill what it does not cover.
                 var merged = await MeuGuia.fetch(wanted: wanted, from: from, to: to)
 
+                // meuguia publishes only a title and a genre, so its entries are
+                // enriched from the feeds by title: the schedule stays accurate
+                // and the poster, episode and cast come along.
+                var byTitle: [String: Programme] = [:]
+
                 for index in EPGService.sourceURLs.indices {
                     guard let data = payloads[index] else { continue }
                     let parsed = XMLTVParser.parse(data, wanted: wanted, from: from, to: to)
-                    for (channel, programmes) in parsed where merged[channel] == nil {
-                        merged[channel] = programmes
+                    for (channel, programmes) in parsed {
+                        for programme in programmes {
+                            let key = XMLTVParser.normalise(programme.title)
+                            if !key.isEmpty, byTitle[key] == nil || byTitle[key]?.poster == nil {
+                                byTitle[key] = programme
+                            }
+                        }
+                        if merged[channel] == nil { merged[channel] = programmes }
+                    }
+                }
+
+                for (channel, programmes) in merged {
+                    merged[channel] = programmes.map { programme in
+                        guard programme.poster == nil,
+                              let rich = byTitle[XMLTVParser.normalise(programme.title)]
+                        else { return programme }
+                        var copy = programme
+                        copy.poster = rich.poster
+                        copy.subtitle = copy.subtitle ?? rich.subtitle
+                        copy.episode = copy.episode ?? rich.episode
+                        copy.year = copy.year ?? rich.year
+                        copy.credits = copy.credits ?? rich.credits
+                        if copy.desc.isEmpty { copy.desc = rich.desc }
+                        if copy.category.isEmpty { copy.category = rich.category }
+                        return copy
                     }
                 }
                 let signature = wanted.map(\.id.uuidString).sorted().joined(separator: ",")
@@ -436,8 +522,32 @@ enum XMLTVParser {
                     .trimmingCharacters(in: .whitespacesAndNewlines)
             }
 
+            func text(_ tag: String) -> String? {
+                guard let open = find(bytes, "<\(tag)", from: attrsEnd, before: close),
+                      let body = find(bytes, ">", from: open, before: close),
+                      let end = find(bytes, "</\(tag)>", from: body, before: close)
+                else { return nil }
+                let value = decodeEntities(string(bytes, body + 1, end))
+                    .trimmingCharacters(in: .whitespacesAndNewlines)
+                return value.isEmpty ? nil : value
+            }
+
+            // The poster lives in an attribute rather than in element text.
+            var poster: URL?
+            if let open = find(bytes, "<icon", from: attrsEnd, before: close),
+               let src = find(bytes, "src=\"", from: open, before: close),
+               let end = find(bytes, "\"", from: src + 5, before: close) {
+                poster = URL(string: decodeEntities(string(bytes, src + 5, end)))
+            }
+
             out[channelID, default: []].append(
-                Programme(title: title, desc: desc, category: category, start: start, stop: stop))
+                Programme(title: title, desc: desc, category: category,
+                          start: start, stop: stop,
+                          subtitle: text("sub-title"),
+                          episode: text("episode-num"),
+                          year: text("date"),
+                          credits: text("actor") ?? text("director"),
+                          poster: poster))
         }
 
         for key in out.keys {

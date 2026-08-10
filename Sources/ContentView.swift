@@ -138,6 +138,12 @@ struct ChannelRow: View {
                         .font(.system(size: 10))
                         .foregroundStyle(.secondary)
                         .lineLimit(1)
+                    if let detail = onAir.current.shortDetail {
+                        Text(detail)
+                            .font(.system(size: 9))
+                            .foregroundStyle(.tertiary)
+                            .lineLimit(1)
+                    }
                     ProgressView(value: onAir.progress)
                         .progressViewStyle(.linear)
                         .controlSize(.mini)
@@ -359,11 +365,20 @@ private struct ControlBar: View {
 private struct NowPlayingStrip: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
+    @ObservedObject private var posters = LogoLoader.shared
 
     var body: some View {
         if let channel = model.selectedChannel,
            let onAir = epg.nowNext(for: channel, at: epg.clock) {
-            HStack(spacing: 10) {
+            HStack(spacing: 12) {
+                if let poster = onAir.current.poster, let image = posters.image(for: poster) {
+                    Image(nsImage: image)
+                        .resizable()
+                        .interpolation(.high)
+                        .aspectRatio(contentMode: .fill)
+                        .frame(width: 66, height: 45)
+                        .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
+                }
                 VStack(alignment: .leading, spacing: 3) {
                     HStack(spacing: 6) {
                         Text(onAir.current.title)
@@ -372,6 +387,12 @@ private struct NowPlayingStrip: View {
                         Text("faltam \(onAir.remainingMinutes) min")
                             .font(.system(size: 10))
                             .foregroundStyle(.white.opacity(0.65))
+                    }
+                    if let detail = onAir.current.shortDetail {
+                        Text(detail)
+                            .font(.system(size: 10))
+                            .foregroundStyle(.white.opacity(0.6))
+                            .lineLimit(1)
                     }
                     if let next = onAir.next {
                         Text("a seguir · \(next.title)")

@@ -5,6 +5,7 @@ import SwiftUI
 struct EPGGuideView: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
+    @ObservedObject private var posters = LogoLoader.shared
     @Environment(\.dismiss) private var dismiss
 
     @State private var jumpToNow = 0
@@ -279,36 +280,62 @@ struct EPGGuideView: View {
     // MARK: - Detail
 
     private func detail(_ programme: Programme) -> some View {
-        VStack(alignment: .leading, spacing: 6) {
-            HStack {
-                Text(programme.title).font(.headline)
-                Spacer()
-                Button { selected = nil } label: { Image(systemName: "xmark") }
-                    .buttonStyle(.borderless)
+        HStack(alignment: .top, spacing: 16) {
+            if let poster = programme.poster, let image = posters.image(for: poster) {
+                Image(nsImage: image)
+                    .resizable()
+                    .interpolation(.high)
+                    .aspectRatio(contentMode: .fill)
+                    .frame(width: 186, height: 126)
+                    .clipShape(RoundedRectangle(cornerRadius: 8, style: .continuous))
             }
-            HStack(spacing: 8) {
-                Text(selectedChannelName)
-                Text("·")
-                Text(programme.start, format: .dateTime.weekday().hour().minute())
-                Text("–")
-                Text(programme.stop, format: .dateTime.hour().minute())
-                if !programme.category.isEmpty {
-                    Text("·"); Text(programme.category)
-                }
-            }
-            .font(.caption)
-            .foregroundStyle(.secondary)
 
-            if !programme.desc.isEmpty {
-                ScrollView {
-                    Text(programme.desc)
-                        .font(.callout)
-                        .frame(maxWidth: .infinity, alignment: .leading)
+            VStack(alignment: .leading, spacing: 6) {
+                HStack(alignment: .firstTextBaseline) {
+                    Text(programme.title).font(.headline)
+                    if let year = programme.year {
+                        Text(year).font(.subheadline).foregroundStyle(.secondary)
+                    }
+                    Spacer()
+                    Button { selected = nil } label: { Image(systemName: "xmark") }
+                        .buttonStyle(.borderless)
                 }
-                .frame(maxHeight: 90)
+
+                if let subtitle = programme.subtitle {
+                    Text(subtitle).font(.subheadline).foregroundStyle(.secondary)
+                }
+
+                HStack(spacing: 8) {
+                    Text(selectedChannelName)
+                    Text("·")
+                    Text(programme.start, format: .dateTime.weekday().hour().minute())
+                    Text("–")
+                    Text(programme.stop, format: .dateTime.hour().minute())
+                    if !programme.category.isEmpty { Text("·"); Text(programme.category) }
+                    if let episode = programme.episodeLabel { Text("·"); Text(episode) }
+                }
+                .font(.caption)
+                .foregroundStyle(.secondary)
+
+                if let credits = programme.credits {
+                    Text(credits)
+                        .font(.caption)
+                        .foregroundStyle(.tertiary)
+                        .lineLimit(2)
+                }
+
+                if !programme.desc.isEmpty {
+                    ScrollView {
+                        Text(programme.desc)
+                            .font(.callout)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                    }
+                    .frame(maxHeight: 82)
+                }
             }
         }
         .padding(14)
         .background(.regularMaterial)
     }
 }
+
