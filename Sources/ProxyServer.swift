@@ -80,7 +80,13 @@ final class ProxyServer {
     }
 
     /// The generated, playable link for a channel.
+    ///
+    /// Starts the server if it has not run yet: SwiftUI initialises the App's
+    /// stored properties before its `init` body, so the model could ask for a
+    /// link — and get port 0 — before `start()` had been called. The first
+    /// channel then failed to play until the viewer switched away and back.
     func link(for channel: Channel) -> URL {
+        if listenFD < 0 { try? start() }
         let id = channel.id.uuidString
         return URL(string: "http://\(advertisedHost):\(port)/proxy/\(id)/\(id).m3u8")!
     }
