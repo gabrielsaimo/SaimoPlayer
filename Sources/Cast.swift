@@ -241,16 +241,26 @@ final class CastService: ObservableObject {
 
     private func consume(_ data: Data) {
         buffer.append(data)
+        // Data keeps its original index base after removeFirst, so every offset
+        // is taken from startIndex and the remainder is re-based explicitly.
+        // Indexing from zero crashed the moment a second frame arrived.
         while buffer.count >= 4 {
-            let length = buffer.prefix(4).reduce(0) { Int($0) << 8 | Int($1) }
+            let base = buffer.startIndex
+            let length = (0..<4).reduce(0) { $0 << 8 | Int(buffer[base + $1]) }
+            guard length > 0, length < 8 << 20 else { buffer.removeAll(); return }
             guard buffer.count >= 4 + length else { return }
-            let message = buffer.subdata(in: 4..<(4 + length))
-            buffer.removeFirst(4 + length)
+
+            let start = base + 4
+            let message = Data(buffer[start..<(start + length)])
+            buffer = Data(buffer[(start + length)...])
             handle(message)
         }
     }
 
-    /// Only two fields matter coming back: the namespace and the JSON payload.
+    /// Only three things matter coming back: the receiver's heartbeat, which
+    /// must be answered or it drops the connection and playback stops; the
+    /// receiver status, which carries the session to load media into; and media
+    /// status, which is where failures surface.
     private func handle(_ message: Data) {
         var index = message.startIndex
         var namespace = ""
@@ -281,9 +291,30 @@ final class CastService: ObservableObject {
             }
         }
 
+        // Answering the receiver's PING is what keeps the session alive.
+        if namespace == Namespace.heartbeat, payload.contains("\"PING\"") {
+            send(namespace: Namespace.heartbeat, to: receiverID, payload: ["type": "PONG"])
+            return
+        }
+
+        guard let data = payload.data(using: .utf8),
+              let root = try? JSONSerialization.jsonObject(with: data) as? [String: Any]
+        else { return }
+
+        if namespace == Namespace.media {
+            let type = root["type"] as? String ?? ""
+            if type.hasSuffix("_ERROR") || type.contains("FAILED") {
+                let reason = root["reason"] as? String ?? type
+                status = "o aparelho recusou: \(reason)"
+                Log.shared.write("Cast recusado: \(payload.prefix(200))")
+            } else if let first = (root["status"] as? [[String: Any]])?.first,
+                      let state = first["playerState"] as? String {
+                status = state == "PLAYING" ? "transmitindo" : "no aparelho: \(state.lowercased())"
+            }
+            return
+        }
+
         guard namespace == Namespace.receiver,
-              let data = payload.data(using: .utf8),
-              let root = try? JSONSerialization.jsonObject(with: data) as? [String: Any],
               root["type"] as? String == "RECEIVER_STATUS",
               let statusBlock = root["status"] as? [String: Any],
               let apps = statusBlock["applications"] as? [[String: Any]],
