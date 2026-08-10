@@ -436,7 +436,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Combate",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/combate.png",
         sources: [
             Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/combate/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317841-kasstfdIhiqSElnrlbwkM4AVYt3R8NSVQYvsaAz2vmc%3D",
                    referer: nil,
@@ -607,7 +607,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Record",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/record-tv.png",
         sources: [
             Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/record/__index.m3u8?sv=56&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319751-ihJPWustFQ8fO9p1yyF%2BMusOyiKd5%2FAq0JfK%2FT7%2B2AY%3D",
                    referer: nil,

@@ -327,8 +327,13 @@ enum XMLTVParser {
                       from: Date, to: Date) -> [UUID: [Programme]] {
         let bytes = [UInt8](data)
 
-        // 1. display-name -> xmltv id
-        var nameToXML: [String: String] = [:]
+        // 1. display-name -> every xmltv id carrying that name
+        //
+        // Feeds repeat a channel under variations that normalise to the same
+        // string ("HBO", "HBO HD", "HBO BR"). Keeping only the first id meant
+        // binding to whichever copy happened to come first — and when that copy
+        // carried no programmes, the channel showed an empty guide.
+        var nameToXML: [String: [String]] = [:]
         var cursor = 0
         while let open = find(bytes, "<channel id=\"", from: cursor) {
             guard let idEnd = find(bytes, "\"", from: open + 13),
@@ -338,27 +343,50 @@ enum XMLTVParser {
                let dnText = find(bytes, ">", from: dnOpen, before: close),
                let dnEnd = find(bytes, "</display-name>", from: dnText, before: close) {
                 let key = normalise(string(bytes, dnText + 1, dnEnd))
-                if nameToXML[key] == nil { nameToXML[key] = xmlID }
+                nameToXML[key, default: []].append(xmlID)
             }
             cursor = close + 10
         }
 
         // 2. our channels -> xmltv id
+        //
+        // Two passes, because a fuzzy match must never outrank an exact one.
+        // "HBO2" normalises to "hbo2" while the feed says "HBO 2" -> "hbo 2",
+        // so the exact lookup misses and the prefix rule offers "hbo" — which
+        // belongs to plain HBO. A single-pass assignment let whichever channel
+        // came last overwrite the other, and HBO lost its own schedule.
         var xmlToChannel: [String: UUID] = [:]
+        var claimed: Set<String> = []
+        var unresolved: [(id: UUID, key: String)] = []
         var matched = 0
+
         for entry in wanted {
             let key = normalise(entry.name)
-            var xmlID = nameToXML[key]
-            if xmlID == nil, let alias = aliases[key] { xmlID = nameToXML[alias] }
-            if xmlID == nil {
-                // Last resort: a feed name that starts with ours (or the reverse).
-                xmlID = nameToXML.first { $0.key.hasPrefix(key) || key.hasPrefix($0.key) }?.value
-            }
-            if let xmlID {
-                xmlToChannel[xmlID] = entry.id
+            let ids = nameToXML[key] ?? aliases[key].flatMap { nameToXML[$0] }
+            if let ids, !ids.isEmpty {
+                for xmlID in ids {
+                    xmlToChannel[xmlID] = entry.id
+                    claimed.insert(xmlID)
+                }
                 matched += 1
+            } else {
+                unresolved.append((entry.id, key))
             }
         }
+
+        for entry in unresolved {
+            let candidates = nameToXML.filter {
+                $0.key.hasPrefix(entry.key) || entry.key.hasPrefix($0.key)
+            }
+            // Only when it is unambiguous, and never onto an id already taken
+            // by a channel that matched exactly.
+            guard candidates.count == 1, let ids = candidates.first?.value else { continue }
+            let free = ids.filter { !claimed.contains($0) }
+            guard !free.isEmpty else { continue }
+            for xmlID in free { xmlToChannel[xmlID] = entry.id }
+            matched += 1
+        }
+
         guard matched > 0 else { return [:] }
 
         // 3. programmes, filtered to those channels and the time window
