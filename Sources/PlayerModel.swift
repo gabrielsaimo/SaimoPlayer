@@ -69,6 +69,13 @@ final class PlayerModel: NSObject, ObservableObject {
     private var audioGroup: AVMediaSelectionGroup?
     private var subtitleGroup: AVMediaSelectionGroup?
 
+    /// Extra line-up, present only after the code is typed. Deliberately not
+    /// persisted: closing the app locks it again, so the next person to open it
+    /// sees the same list as everyone else.
+    private(set) var restrictedUnlocked = false
+    private var typed = ""
+    private var typedAt = Date.distantPast
+
     private override init() {
         super.init()
         channels = defaultChannels + Store.customChannels()
@@ -505,6 +512,11 @@ final class PlayerModel: NSObject, ObservableObject {
             if NSApp.keyWindow?.firstResponder is NSTextView { return event }
 
             let handled: Bool = MainActor.assumeIsolated {
+                if let digits = event.charactersIgnoringModifiers,
+                   digits.count == 1, digits.allSatisfy(\.isNumber) {
+                    self.typeDigit(digits)
+                    return true
+                }
                 switch event.keyCode {
                 case 49:  self.togglePlayPause(); return true                 // space
                 case 126: self.nudgeVolume(0.05); return true                 // up
@@ -524,6 +536,35 @@ final class PlayerModel: NSObject, ObservableObject {
             }
             return handled ? nil : event
         }
+    }
+
+    // MARK: - Code
+
+    /// Digits typed in a row. Nothing on screen reacts to them, so a wrong code
+    /// looks exactly like nothing happening — which is the point.
+    private func typeDigit(_ digit: String) {
+        if Date().timeIntervalSince(typedAt) > 2 { typed = "" }
+        typedAt = Date()
+        typed = String((typed + digit).suffix(8))
+        if typed.hasSuffix(Self.code) {
+            typed = ""
+            setRestricted(!restrictedUnlocked)
+        }
+    }
+
+    private static let code = "1010"
+
+    private func setRestricted(_ unlocked: Bool) {
+        guard unlocked != restrictedUnlocked, !restrictedChannels.isEmpty else { return }
+        restrictedUnlocked = unlocked
+        // Trancar com um desses no ar deixaria o nome à vista na tela; volta
+        // para o primeiro canal comum antes de sumir com a lista.
+        let restrictedIDs = Set(restrictedChannels.map(\.id))
+        let leaving = selection.map { restrictedIDs.contains($0) } ?? false
+        channels = defaultChannels + Store.customChannels() + (unlocked ? restrictedChannels : [])
+        for c in channels { ProxyServer.shared.register(c) }
+        if !unlocked, leaving { selection = channels.first?.id }
+        objectWillChange.send()
     }
 
     private func tearDownItemObservers() {
