@@ -345,6 +345,15 @@ private let catalog: [CatalogEntry] = [
                    clearKey: "7b2322a273843921a43e2c61dac7cae3"),
         ]),
     CatalogEntry(
+        name: "Telecine Action",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tc-action.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=191&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786409777-6357MK63%2ByysgfFiZNfFK3mJeGmSWEVxX3ET2vato6g%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
         name: "Telecine Pipoca",
         logo: "https://mondrian.claro.com.br/channels/inverse/tc-pipoca.png",
         sources: [
@@ -674,14 +683,45 @@ private let catalog: [CatalogEntry] = [
         ]),
 ]
 
-let defaultChannels: [Channel] = catalog.compactMap { entry in
-    let variants = entry.sources.compactMap { s -> Variant? in
-        guard let url = URL(string: s.url) else { return nil }
-        return Variant(url: url, referer: s.referer,
-                       userAgent: s.userAgent, clearKey: s.clearKey)
+/// Line-up that only exists once the viewer types the code.
+///
+/// It is kept apart from `catalog` rather than flagged inside it so nothing in
+/// the interface has to know it exists: while locked, these channels are not in
+/// the list at all, so there is no label, no gap and no count to notice.
+private let restrictedCatalog: [CatalogEntry] = [
+    CatalogEntry(
+        name: "Sexy Hot",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sexy-hot.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexhot/__index.m3u8?sv=108&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786409275-3SbSGeICp%2BQQE1GjPHhT3%2BEEN2faTpnK3nkAYc1ZZ%2Fk%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Sex Privé",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sexprive.png",
+        sources: [
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexprive/__index.m3u8?sv=155&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786409329-I1OhIzY4uS7zmKoJhWYDv0FInQCzunDEsQkyiw%2F%2Bm%2B4%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+]
+
+private func build(_ entries: [CatalogEntry]) -> [Channel] {
+    entries.compactMap { entry in
+        let variants = entry.sources.compactMap { s -> Variant? in
+            guard let url = URL(string: s.url) else { return nil }
+            return Variant(url: url, referer: s.referer,
+                           userAgent: s.userAgent, clearKey: s.clearKey)
+        }
+        guard !variants.isEmpty else { return nil }
+        return Channel(name: entry.name,
+                       variants: variants,
+                       logo: entry.logo.flatMap(URL.init(string:)))
     }
-    guard !variants.isEmpty else { return nil }
-    return Channel(name: entry.name,
-                   variants: variants,
-                   logo: entry.logo.flatMap(URL.init(string:)))
 }
+
+let defaultChannels: [Channel] = build(catalog)
+let restrictedChannels: [Channel] = build(restrictedCatalog)

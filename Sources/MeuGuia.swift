@@ -19,7 +19,7 @@ enum MeuGuia {
         "HBO2": "HB2", "History": "HIS", "Megapix": "MPX", "Record": "REC",
         "SBT": "SBT", "Space": "SPA",
         "SporTV": "SPO", "SporTV 2": "SP2", "SporTV 3": "SP3",
-        "TNT": "TNT", "TNT Séries": "TBS", "Telecine Pipoca": "TC4",
+        "TNT": "TNT", "TNT Séries": "TBS", "Telecine Action": "TC2", "Telecine Pipoca": "TC4",
         "Telecine Premium": "TC1", "Universal TV": "USA", "Warner": "WBT",
     ]
 
