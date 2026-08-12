@@ -78,7 +78,7 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private override init() {
         super.init()
-        channels = defaultChannels + Store.customChannels()
+        channels = RemoteCatalog.cached() + Store.customChannels()
         favorites = Store.favorites()
         volume = Store.volume()
         for c in channels { ProxyServer.shared.register(c) }
@@ -91,6 +91,32 @@ final class PlayerModel: NSObject, ObservableObject {
         setupRemoteCommands()
         selection = channels.first?.id
         EPGService.shared.load(channels: channels)
+        refreshCatalog()
+    }
+
+    /// Picks up the published list without disturbing what is on screen: the
+    /// channel being watched keeps playing if it survived the update.
+    private func refreshCatalog() {
+        Task { @MainActor in
+            guard let fresh = await RemoteCatalog.fetch() else {
+                Log.shared.write("lista publicada indisponível — usando a que já estava")
+                return
+            }
+            Log.shared.write("lista publicada: \(fresh.count) canais")
+            let playing = selectedChannel?.name
+            let extra = restrictedUnlocked ? restrictedChannels : []
+            let updated = fresh + Store.customChannels() + extra
+            guard updated.map(\.id) != channels.map(\.id) else { return }
+
+            channels = updated
+            for c in channels { ProxyServer.shared.register(c) }
+            if let playing, let same = channels.first(where: { $0.name == playing }) {
+                if same.id != selection { selection = same.id }
+            } else if selection == nil || !channels.contains(where: { $0.id == selection }) {
+                selection = channels.first?.id
+            }
+            EPGService.shared.load(channels: channels)
+        }
     }
 
     // MARK: - Library
@@ -561,7 +587,8 @@ final class PlayerModel: NSObject, ObservableObject {
         // para o primeiro canal comum antes de sumir com a lista.
         let restrictedIDs = Set(restrictedChannels.map(\.id))
         let leaving = selection.map { restrictedIDs.contains($0) } ?? false
-        channels = defaultChannels + Store.customChannels() + (unlocked ? restrictedChannels : [])
+        let base = channels.filter { !restrictedIDs.contains($0.id) }
+        channels = base + (unlocked ? restrictedChannels : [])
         for c in channels { ProxyServer.shared.register(c) }
         if !unlocked, leaving { selection = channels.first?.id }
         objectWillChange.send()
