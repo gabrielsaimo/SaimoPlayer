@@ -66,7 +66,7 @@ private let catalog: [CatalogEntry] = [
         name: "Cartoon Network",
         logo: "https://mondrian.claro.com.br/channels/inverse/cartoon-network.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=107&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786292306-acrlA6bT%2BIZ0DSCkZMH8EFCM%2BDEXQhTrgS8Q%2Fi7bwV4%3D",
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=31&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492570-yEMfkxGVCe7v1tyVjwD9gZ89%2BL%2FJf6Pm4pUvQ8LqU%2F4%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -357,7 +357,7 @@ private let catalog: [CatalogEntry] = [
         name: "Telecine Pipoca",
         logo: "https://mondrian.claro.com.br/channels/inverse/tc-pipoca.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=19&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786292214-lP96rLC%2BFMjwZq7332XNsUk1sMRP0nFGZe8RHZcF0fU%3D",
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=58&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492376-lVHrv7GkGdIq6AAU1c65luWS5GerVjL4DwRV0Ajf6x8%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -559,7 +559,7 @@ private let catalog: [CatalogEntry] = [
         name: "HBO",
         logo: "https://mondrian.claro.com.br/channels/inverse/hbo.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo/__index.m3u8?sv=117&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318843-tRnuNe%2BqQBd6xIcIC0KbpLyPB3%2BcjofHgq1LlxVbA0M%3D",
+            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo/__index.m3u8?sv=132&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492099-MUqmGUjva9IbHeQRUp%2BYUm3aOWZlUj6pQOchl2bOPoc%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
