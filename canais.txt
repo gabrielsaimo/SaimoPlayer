@@ -1,226 +1,560 @@
-SAIMO TV — LISTA DE CANAIS
-71 canais · gerado em 11/08/2026
-
-Cada canal traz suas fontes em ordem de preferência: o player desce
-para a seguinte quando a primeira falha. As marcadas com [DRM] são
-DASH com ClearKey e não tocam em player comum sem a chave.
-
-========================================================================
-
-  1. A&E
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/aie/__index.m3u8?sv=129&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786292396-Y5Yoli4LGQ3J7yOTuPXE%2BvnA3yQAMLNAUdYTF3HbDgg%3D
-     https://video39.mais.uol.com.br/live/267.mpd [DRM]
-
-  2. Adult Swim
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/adultswim/__index.m3u8?sv=10&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786290776-nJUghGmLjJRyjF0SPqaBgidgAOJiU3S97xh4hE2NE1I%3D
-
-  3. Animal Planet
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/animalplanet/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786291576-cljMHYyJK3iEhKhqrwvs2DVTA0kXJMj71miu9g%2Bmv9w%3D
-
-  4. Band
-     https://video41.mais.uol.com.br/live/3361.mpd [DRM]
-
-  5. Cartoon Network
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=31&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492570-yEMfkxGVCe7v1tyVjwD9gZ89%2BL%2FJf6Pm4pUvQ8LqU%2F4%3D
-
-  6. CazéTV
-     https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-  7. CNN Brasil
-     https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
-
-  8. CNN Brasil Money
-     https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
-
-  9. E!
-     https://video49.mais.uol.com.br/live/4503.mpd [DRM]
-
- 10. GE TV
-     https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-
- 11. Globo RJ
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/boborj/__index.m3u8?sv=44&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786291899-hGV11bG1ulIMifsBzTvVaZKkCLm227WfthQBbXp8w5g%3D
-
- 12. GloboNews
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd [DRM]
-
- 13. Globoplay Novelas
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd [DRM]
-
- 14. GNT
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd [DRM]
-
- 15. History
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history/__index.m3u8?sv=55&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786291762-tHU51SX3yOLe0qe6%2BM0vDfNsino79JkgeziJXPObC5E%3D
-     https://video46.mais.uol.com.br/live/281.mpd [DRM]
-
- 16. History 2
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history2/__index.m3u8?sv=97&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786291713-XbODG62M9FkfenILPzk1Tg1OMEzEmII4kllJIMtsWxI%3D
-
- 17. Jovem Pan News
-     https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
-
- 18. Megapix
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/megapix/__index.m3u8?sv=36&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786292042-lEvGkdtu6aw2yTM0jTeV5jlkTa8hKgsAEz2Kqrsvsu8%3D
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd [DRM]
-
- 19. Multishow
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd [DRM]
-
- 20. Premiere 2
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd [DRM]
-
- 21. Premiere 3
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd [DRM]
-
- 22. Premiere 4
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd [DRM]
-
- 23. Premiere 5
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd [DRM]
-
- 24. Premiere 6
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd [DRM]
-
- 25. Premiere 7
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd [DRM]
-
- 26. Premiere 8
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd [DRM]
-
- 27. Premiere Clubes
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd [DRM]
-
- 28. SBT
-     https://aovivo.maissbt.com/indexMobile.m3u8
-
- 29. SBT News
-     https://sbtnews.maissbt.com/index.m3u8
-
- 30. Sony Channel
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sony/__index.m3u8?sv=62&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408417-5jbaSSPBe88ByzCcAo3f6y4WaeKbPbezfqwb3pXoxvA%3D
-     https://video37.mais.uol.com.br/live/279.mpd [DRM]
-
- 31. Studio Universal
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=153&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408629-ttZQ50ex7Jw4GXXphI%2BVbOg5APRxPavlxoAW%2BCNOykY%3D
-
- 32. SporTV
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408554-MK0K7%2F0RIabb2i7ktFkDI1P2aEeyuwRUwvOxauQ5e1c%3D
-
- 33. SporTV 2
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd [DRM]
-
- 34. SporTV 3
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd [DRM]
-
- 35. Telecine Action
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=191&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786409777-6357MK63%2ByysgfFiZNfFK3mJeGmSWEVxX3ET2vato6g%3D
-
- 36. Telecine Pipoca
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=58&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492376-lVHrv7GkGdIq6AAU1c65luWS5GerVjL4DwRV0Ajf6x8%3D
-
- 37. Telecine Premium
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=79&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786292168-FKlxVeuJhXev%2F1KUUB5nexfVY5bv0OpgfJecX3Kk9q0%3D
-
- 38. TV Brasil
-     https://tvbrasil-stream.ebc.com.br/index.m3u8
-
- 39. Universal Premiere
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/khnyllds8v/out/v1/1cf61b7a057e4ffdb31f6d82fb24c679/cenc.mpd [DRM]
-
- 40. Universal Reality
-     https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/5ppjwg1ekb/out/v1/393342b545834c218745c3dd33661013/cenc.mpd [DRM]
-
- 41. Warner
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/warner/__index.m3u8?sv=45&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408187-kiwlPGYo%2BdoNAPFeEevo8dCwHVXiKq%2B%2BJBr%2FI5tNtFg%3D
-
- 42. IMPD
-     https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1464410885_b2691072.m3u8
-
- 43. Food Network
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=173&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318587-jiNY6eM7XRD%2FkW0wXhwxSh6laUG3oM%2BKParp6FtaoDc%3D
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=178&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786301641-I%2B8e4UfH7a84n9jbFrfVRTAvhHz0XGzIVx0gpToH7zI%3D
-
- 44. Gloob
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloob/__index.m3u8?sv=35&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786301449-TnMgF08Dd9XnKs8sugyFuOsAjSHmlVN5TN13pVqFhDk%3D
-
- 45. Globo SP
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/bobosp/__index.m3u8?sv=88&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786308190-ZJ9brWallKsnk%2F7UWQ%2FQTAGEXpmP%2FKcVaSUGn9znNbA%3D
-
- 46. Cartoonito
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=114&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317656-1XIQOrlNN%2BHazl3Wst%2F7IlT24vGk2bzQvu%2BVvw7czSQ%3D
-
- 47. Cinemax
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cinemax/__index.m3u8?sv=89&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317781-Zb0ihZRP%2Fd8xd9LFBPc%2BJkw8LPD7h%2BCIG49P8T5DB3w%3D
-
- 48. Combate
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/combate/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317841-kasstfdIhiqSElnrlbwkM4AVYt3R8NSVQYvsaAz2vmc%3D
-
- 49. Discovery Channel
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discovery/__index.m3u8?sv=8&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317914-q0BTVDVdNa6OnGufXqIB18CL6Av9hu1qbjgZTCifu3s%3D
-
- 50. Discovery Home & Health
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryhomeihealth/__index.m3u8?sv=165&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786317976-YfEFqP5bEhiFUgUHTxJ2R6BLc3rxZAasmpQOjE1xx8M%3D
-
- 51. Discovery Kids
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverykids/__index.m3u8?sv=154&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318026-groDks79ir2Y%2Fkhwi%2FUklj48Q9TgNV6u8nXTUDyFtZA%3D
-
- 52. Discovery Theater
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverytheater/__index.m3u8?sv=198&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318156-eEfPQ8%2F6bq3VdNNjLimmnVYV9pJAsGVi%2BvdBpgx1uGk%3D
-
- 53. Discovery World
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryworld/__index.m3u8?sv=101&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318262-3PA%2BHb4nyzwzInWXdoGJEpIzuzxq4CopzX6sCTcr7uk%3D
-
- 54. ESPN
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318392-QvKT%2FUp7bZQSZYJz6P10ssTqi7CQZwlTquxwquyZKOM%3D
-
- 55. ESPN 2
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn2/__index.m3u8?sv=141&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318445-zhWacyLIG8lLoYvlDCss2l3Uzb6bPtJB7boGnCgWXvI%3D
-
- 56. ESPN 4
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn4/__index.m3u8?sv=166&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318524-FDNFOsKiw6lTQJ35mV3KKuwHL8%2Bg%2FeKqmq3oedHtH9s%3D
-
- 57. Gloobinho
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=129&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318782-D10ReLfV9K9Pf5Sm4bYoowgfG3kuv5taawFmvkqoD4c%3D
-
- 58. HBO
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo/__index.m3u8?sv=132&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492099-MUqmGUjva9IbHeQRUp%2BYUm3aOWZlUj6pQOchl2bOPoc%3D
-
- 59. HBO2
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbo2/__index.m3u8?sv=130&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318898-K3ZqHfTFH1G%2BGiR8Cm9Rj%2F97Hz%2FArnNn7isruGQHqK0%3D
-
- 60. HBO Family
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbofamily/__index.m3u8?sv=110&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786318990-VHr%2FSKUQMB04QL6bqlaqNJUjBnjWuqn%2BtRMC3XY30uw%3D
-
- 61. HBO Mundi
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbomundi/__index.m3u8?sv=123&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319375-0KBZxAs709vCiKdjPn%2Bb%2B5W6MSguL8DqKgf04TSxglw%3D
-
- 62. HBO Plus
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboplus/__index.m3u8?sv=1&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319431-Pi9MnjfX4JxMUuxnHJgxq52SXIFzdeOKuVtwNVT6KM0%3D
-
- 63. HBO Pop
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbopop/__index.m3u8?sv=157&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319479-lDYSgAj4ZFIepwV0vX8u9S0e7Ebxhf4BTv3EniTCBnY%3D
-
- 64. HBO Signature
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbosignature/__index.m3u8?sv=160&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319526-INBbshGXlD9TpQbIrO2o%2B%2Bvh2AdOSYyq40%2Bxn2K8TP8%3D
-
- 65. HBO Xtreme
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboxtreme/__index.m3u8?sv=54&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319588-UdulgZyZ6RDlqovJ2z2GT922OIYzhtERsRLNIvGENhw%3D
-
- 66. HGTV
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hgtv/__index.m3u8?sv=19&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319632-e1qPFbo7TJi2Lby9%2BI9oTn0jZMeT0HApUMoTzAF%2FwJw%3D
-
- 67. Record
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/record/__index.m3u8?sv=56&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319751-ihJPWustFQ8fO9p1yyF%2BMusOyiKd5%2FAq0JfK%2FT7%2B2AY%3D
-
- 68. Space
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/space/__index.m3u8?sv=32&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319822-jZjECmMzIWG6zhTnKGLKJd%2BzLRKz4K5nb1etZg2KBOU%3D
-
- 69. TNT
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/tnt/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320015-pLkZ%2FNdlgXV4jqtDYTJ51nEkLG8WRJkACfkgm5UMYF8%3D
-
- 70. TNT Séries
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/tntseries/__index.m3u8?sv=5&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320066-hcnuxiV0uoL54pSnZai999RtJv4kuUlXop3OpOigZek%3D
-
- 71. Universal TV
-     https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=60&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786320128-FxFFFQxrmw897iWMG7XhBfzLKd1XJ4nk1YU5W1ajEo4%3D
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (NX)
+https://cdn-3.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (S46)
+http://46.151.196.223:14432
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19056/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (S2)
+http://s2.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (SV)
+https://stream.cloudflaire.lat/streamverde/espn.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S79)
+http://79.127.243.211:14506
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (NX)
+https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S46)
+http://46.151.196.223:14438
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19058/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (SV)
+https://stream.cloudflaire.lat/streamverde/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (S79)
+http://79.127.243.211:14510
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (NX)
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (S46)
+http://46.151.196.223:14444
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.ts
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (SV)
+https://stream.cloudflaire.lat/streamverde/espn3.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (S79)
+http://79.127.243.211:14514
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (NX)
+https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.ts
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (S46)
+http://46.151.196.223:14450
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (SV)
+https://stream.cloudflaire.lat/streamverde/espn4.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (NX)
+https://cdn-3.nxplay.com.br/ESPN_5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (SV)
+https://stream.cloudflaire.lat/streamverde/espn5.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (S46)
+http://46.151.196.223:14457
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (NX)
+https://cdn-3.nxplay.com.br/ESPN_6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (HL)
+http://hls1.sua.tv/live/espnextrafhd/s.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19057/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.ts
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (SV)
+https://stream.cloudflaire.lat/streamverde/espn6.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/disneyplus.png" group-title="ESPN", DISNEY PLUS (S46)
+http://46.151.196.223:14654
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 1 (S79)
+http://79.127.243.211:14653
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 2 (S79)
+http://79.127.243.211:14657
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 3 (S79)
+http://79.127.243.211:14658
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600176.ts
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600176.ts
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (SV)
+https://stream.cloudflaire.lat/streamverde/off.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (SS)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (MK)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (TCL)
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S79)
+http://79.127.243.211:14697
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (SV)
+https://stream.cloudflaire.lat/streamverde/caze1.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S46)
+http://46.151.196.223:14124
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT 2 (S46)
+http://46.151.196.223:14126
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S79)
+http://79.127.243.211:14449
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S46)
+http://46.151.196.223:14468
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (SV)
+https://stream.cloudflaire.lat/streamverde/combate.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (OT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (SS)
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (RK)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (NX)
+https://cdn-3.nxplay.com.br/NSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (S2)
+http://s2.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (S79)
+http://79.127.238.228:14157
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (S46)
+http://46.151.196.223:14588
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (S46)
+http://46.151.196.223:14098
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.ts
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (SV)
+https://stream.cloudflaire.lat/streamverde/premiere.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 2 (S79)
+http://79.127.243.211:14481
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (S46)
+http://46.151.196.223:14582
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere2.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (S79)
+http://79.127.243.211:14485
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (S46)
+http://46.151.196.223:14583
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere3.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (S79)
+http://79.127.243.211:14489
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (S46)
+http://46.151.196.223:14583
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (S46)
+http://46.151.196.223:14584
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere4.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (S79)
+http://79.127.243.211:14493
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (S46)
+http://46.151.196.223:14585
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1101.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere5.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S79)
+http://79.127.243.211:14497
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S46)
+http://46.151.196.223:14586
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere6.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (S79)
+http://79.127.243.211:14501
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (S46)
+http://46.151.196.223:14587
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (SV)
+https://stream.cloudflaire.lat/streamverde/premiere7.m3u8
+#EXTINF:-1 tvg-id="Premiere " tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE MOSAICO (S46)
+http://46.151.196.223:14197
+#EXTINF:-1 tvg-id="Premiere " tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE MOSAICO (SV)
+https://stream.cloudflaire.lat/streamverde/premiere8.m3u8
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (S46)
+http://46.151.196.223:14284
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (S46)
+http://46.151.196.223:14285
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (S2)
+http://s2.micineovs.com/SPTV1/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600232.ts
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600237.ts
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (SV)
+https://stream.cloudflaire.lat/streamverde/sportv.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (S185)
+http://185.152.67.187:14292
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (S2)
+http://s2.micineovs.com/SPTV2/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600233.ts
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600234.ts
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (S185)
+http://185.152.67.187:14298
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600235.ts
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600236.ts
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (SV)
+https://stream.cloudflaire.lat/streamverde/xsports.m3u8
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (CDN)
+https://cdn-sp2.satlabscloud.com.br/XSPORTS/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (NX)
+https://cdn-3.nxplay.com.br/XSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (NX)
+https://cdn-3.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6158/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.ts
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (S185)
+http://185.152.67.187:14474
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (SV)
+https://stream.cloudflaire.lat/streamverde/bandsports.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://api.reidoscanais.ooo/img/fishtv.png" group-title="ESPORTES", FISH TV (NX)
+https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://api.reidoscanais.ooo/img/fishtv.png" group-title="ESPORTES", FISH TV (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (S46)
+http://46.151.196.223:14349
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (S79)
+http://79.127.243.211:14648
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.ts
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (SV)
+https://stream.cloudflaire.lat/streamverde/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (S46)
+http://46.151.196.223:14343
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (S79)
+http://79.127.243.211:14644
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.ts
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (SV)
+https://stream.cloudflaire.lat/streamverde/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (S46)
+http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (S79)
+http://79.127.243.211:14632
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.ts
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (SV)
+https://stream.cloudflaire.lat/streamverde/telecineaction.m3u8
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (S46)
+http://46.151.196.223:14337
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.ts
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (SV)
+https://stream.cloudflaire.lat/streamverde/telecinefun.m3u8
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.ts
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (S46)
+http://46.151.196.223:14333
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (S46)
+http://46.151.196.223:14335
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (SV)
+https://stream.cloudflaire.lat/streamverde/telecinecult.m3u8
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (S46)
+http://46.151.196.223:14354
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (S79)
+http://79.127.243.211:14652
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.ts
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (SV)
+https://stream.cloudflaire.lat/streamverde/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (S79)
+http://79.127.243.211:14668
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19046/index.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.ts
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (SV)
+https://stream.cloudflaire.lat/streamverde/hbo.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (S79)
+http://79.127.243.211:14660
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19045/index.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO2/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (SV)
+https://stream.cloudflaire.lat/streamverde/hbo2.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (SV)
+https://stream.cloudflaire.lat/streamverde/hbofamily.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19047/index.m3u8
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1125.ts
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (SV)
+https://stream.cloudflaire.lat/streamverde/hbomundi.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19048/index.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1124.ts
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (SV)
+https://stream.cloudflaire.lat/streamverde/hboplus.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19049/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1123.ts
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (SV)
+https://stream.cloudflaire.lat/streamverde/hbopop.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19050/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1122.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (S46)
+http://46.151.196.223:14929
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1121.ts
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (CDN)
+https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (SV)
+https://stream.cloudflaire.lat/streamverde/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (S2)
+http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (SV)
+https://stream.cloudflaire.lat/streamverde/megapix.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (S79)
+http://79.127.243.211:14615
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (NX)
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (S2)
+http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (SV)
+https://stream.cloudflaire.lat/streamverde/tnt.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://api.reidoscanais.ooo/img/tntnovelas.png" group-title="NOVELAS",TNT NOVELAS (NX)
+https://cdn-3.nxplay.com.br/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://api.reidoscanais.ooo/img/tntnovelas.png" group-title="NOVELAS",TNT NOVELAS (SV)
+https://stream.cloudflaire.lat/streamverde/tntnovelas.m3u8
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (S79)
+http://79.127.243.211:14619
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (NX)
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (SV)
+https://stream.cloudflaire.lat/streamverde/tntseries.m3u8
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600283.ts
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600284.ts
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (S79)
+http://79.127.243.211:14623
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (SV)
+https://stream.cloudflaire.lat/streamverde/universaltv.m3u8
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1078.m3u8
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600238.ts
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600239.ts
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (S46)
+http://46.151.196.223:14612
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (SV)
+https://stream.cloudflaire.lat/streamverde/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="REALITY", UNIVERSAL REALITY (S46)
+http://46.151.196.223:14686
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
+http://79.127.238.228:14647
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (NX)
+https://cdn-3.nxplay.com.br/WARNER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S46)
+http://46.151.196.223:14648
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (SV)
+https://stream.cloudflaire.lat/streamverde/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (NX)
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (S46)
+http://46.151.196.223:14607
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (SV)
+https://stream.cloudflaire.lat/streamverde/space.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="FILMES E SÉRIES", FILM&ARTS (NX)
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="FILMES E SÉRIES", FILM&ARTS (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600091.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="FILMES E SÉRIES", FILM&ARTS (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600092.ts
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="https://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="FILMES E SÉRIES", EUROCHANNEL (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600089.ts
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="https://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="FILMES E SÉRIES", EUROCHANNEL (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600090.ts
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (NX)
+https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (NX)
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (S46)
+http://46.151.196.223:14603
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (SV)
+https://stream.cloudflaire.lat/streamverde/sonychannel.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (SV)
+https://stream.cloudflaire.lat/streamverde/ae.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S79)
+http://79.127.238.228:14551
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (NX)
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600001.ts
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600001.ts
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600285.ts
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600286.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S79)
+http://79.127.243.211:14565
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (NX)
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600009.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600010.ts
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S46)
+http://46.151.196.223:14636
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (SV)
+https://stream.cloudflaire.lat/streamverde/amc.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.243.211:14569
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.238.228:14563
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (NX)
+https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600015.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600016.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (SV)
+https://stream.cloudflaire.lat/streamverde/axn.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (CDN)
+https://cdn-sp2.satlabscloud.com.br/CINEMAX/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (SV)
+https://stream.cloudflaire.lat/streamverde/cinemax.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://is.gd/TgcPJw" group-title="FILMES E SÉRIES",TCM (NX)
+https://cdn-3.nxplay.com.br/TCM_TK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://is.gd/TgcPJw" group-title="FILMES E SÉRIES",TCM (SV)
+https://stream.cloudflaire.lat/streamverde/tcm.m3u8
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S79)
+http://79.127.243.211:14573
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600030.ts
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600031.ts
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600034.ts
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600035.ts
+#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL (S46)
+http://46.151.196.223:14056
+#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL (NX)
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (S79)
+http://79.127.238.228:14455
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (S2)
+http://s2.micineovs.com/VIVA/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (SV)
+https://stream.cloudflaire.lat/streamverde/globonovelas.m3u8
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.ts
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (CDN)
+https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (SV)
+https://stream.cloudflaire.lat/streamverde/adultswim.m3u8
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600003.ts
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600004.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (S79)
+http://79.127.243.211:14370
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (S200)
+http://200.229.190.189:8002/play/a00x
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (NX)
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (QI)
+http://balance1.QITV.TOP:8088/rj-live/rj-live/600013.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (S15)
+http://15.235.42.84:8088/rj-live/rj-live/600014.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (S185)
+http://185.152.67.187:14386
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (S200)
+http://200.229.190.189:8002/play/a00z
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (HL)
+http://hls1.sua.tv/live/discoveryhehfhd/s.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (S79)
+http://79.127.243.211:14769
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (NX)
+https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.ts
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (SV)
+https://stream.cloudflaire.lat/streamverde/discoveryhh.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES",HGTV (S200)
+http://200.229.190.189:8001/play/a01b
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES", HGTV (NX)
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES", HGTV (SV)
+https://stream.cloudflaire.lat/streamverde/hgtv.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (S200)
+http://200.229.190.189:8002/play/28
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (S79)
+http://79.127.243.211:14773
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (HL)
+http://hls1.sua.tv/live/discoverychannelfhd/s.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (NX)
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (SV)
+https://stream.cloudflaire.lat/streamverde/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (S185)
+http://185.152.67.187:14379
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (NX)
+https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
+#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (SV)
+https://stream.cloudflaire.lat/streamverde/discoveryid.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (S200)
+http://200.229.190.189:8002/play/a019
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (NX)
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (SV)
+https://stream.cloudflaire.lat/streamverde/discoveryscience.m3u8
+#EXTINF:-1 tvg-id=... (332 KB restante(s))
