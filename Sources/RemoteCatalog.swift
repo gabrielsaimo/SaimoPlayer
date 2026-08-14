@@ -44,6 +44,9 @@ enum RemoteCatalog {
     /// One `chave: valor` per line. `canal:` opens a channel, `fonte:` adds a
     /// source, and referer/agente/chave belong to the source above them.
     static func parse(_ text: String) -> [Channel] {
+        if text.trimmingCharacters(in: .whitespacesAndNewlines).hasPrefix("#EXTM3U") {
+            return parseM3u(text)
+        }
         var channels: [Channel] = []
         var name: String?
         var logo: String?
@@ -92,6 +95,77 @@ enum RemoteCatalog {
         flush()
         return withKnownLogos(channels)
     }
+
+    private static func parseM3u(_ text: String) -> [Channel] {
+        var out: [String: Channel] = [:]
+        
+        var currentTvgId: String?
+        var currentName: String?
+        var currentLogo: String?
+
+        for raw in text.split(separator: "\n", omittingEmptySubsequences: false) {
+            let line = raw.trimmingCharacters(in: .whitespaces)
+            if line.isEmpty || line == "#EXTM3U" { continue }
+
+            if line.hasPrefix("#EXTINF:") {
+                if let range = line.range(of: "tvg-id=\"([^\"]+)\"", options: .regularExpression) {
+                    let match = String(line[range])
+                    let start = match.index(match.startIndex, offsetBy: 8)
+                    let end = match.index(before: match.endIndex)
+                    currentTvgId = String(match[start..<end])
+                    if currentTvgId?.isEmpty == true { currentTvgId = nil }
+                } else {
+                    currentTvgId = nil
+                }
+
+                if let range = line.range(of: "tvg-logo=\"([^\"]+)\"", options: .regularExpression) {
+                    let match = String(line[range])
+                    let start = match.index(match.startIndex, offsetBy: 10)
+                    let end = match.index(before: match.endIndex)
+                    currentLogo = String(match[start..<end])
+                } else {
+                    currentLogo = nil
+                }
+
+                var inQuotes = false
+                var commaIdx: String.Index? = nil
+                for i in line.indices {
+                    if line[i] == "\"" { inQuotes.toggle() }
+                    if line[i] == "," && !inQuotes {
+                        commaIdx = i
+                        break
+                    }
+                }
+                
+                let rawName: String
+                if let commaIdx = commaIdx {
+                    rawName = String(line[line.index(after: commaIdx)...]).trimmingCharacters(in: .whitespaces)
+                } else if let lastComma = line.lastIndex(of: ",") {
+                    rawName = String(line[line.index(after: lastComma)...]).trimmingCharacters(in: .whitespaces)
+                } else {
+                    rawName = line
+                }
+                
+                let cleanedName = rawName.replacingOccurrences(of: "\\s*\\([^)]+\\)$", with: "", options: .regularExpression).trimmingCharacters(in: .whitespaces)
+                currentName = currentTvgId ?? cleanedName
+                
+            } else if !line.hasPrefix("#") {
+                if let name = currentName, let url = URL(string: line) {
+                    if var existing = out[name] {
+                        existing.variants.append(Variant(url: url))
+                        if existing.logo == nil, let currentLogo = currentLogo {
+                            existing.logo = URL(string: currentLogo)
+                        }
+                        out[name] = existing
+                    } else {
+                        out[name] = Channel(name: name, variants: [Variant(url: url)], logo: currentLogo.flatMap(URL.init(string:)))
+                    }
+                }
+            }
+        }
+        return withKnownLogos(Array(out.values))
+    }
+
 
     /// A published entry without a `logo:` line falls back to the compiled one.
     /// The list is edited by hand, and a channel losing its icon because a line
