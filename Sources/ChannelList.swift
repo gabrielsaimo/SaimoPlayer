@@ -16,6 +16,16 @@ struct ChannelListView: View {
                            toggleFavorite: { model.toggleFavorite(channel) })
                     .tag(channel.id)
                     .contextMenu {
+                        if channel.variants.count > 1 {
+                            Menu("Escolher Fonte") {
+                                ForEach(Array(channel.variants.enumerated()), id: \.offset) { index, variant in
+                                    Button(variant.label ?? "Fonte \(index + 1)") {
+                                        model.playVariant(channel, index: index)
+                                    }
+                                }
+                            }
+                            Divider()
+                        }
                         Button(model.isFavorite(channel) ? "Remover dos favoritos" : "Favoritar") {
                             model.toggleFavorite(channel)
                         }

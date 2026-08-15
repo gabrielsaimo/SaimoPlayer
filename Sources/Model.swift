@@ -9,6 +9,7 @@ struct Variant: Hashable {
     var userAgent: String?
     /// ClearKey (hex) for CENC-encrypted DASH sources.
     var clearKey: String?
+    var label: String?
 
     /// AVFoundation cannot play DASH at all, so those always go through the
     /// ffmpeg gateway.
@@ -35,10 +36,10 @@ struct Channel: Identifiable, Hashable {
     }
 
     init(name: String, source: URL, logo: URL? = nil, referer: String? = nil,
-         userAgent: String? = nil, clearKey: String? = nil) {
+         userAgent: String? = nil, clearKey: String? = nil, label: String? = nil) {
         self.init(name: name,
                   variants: [Variant(url: source, referer: referer,
-                                     userAgent: userAgent, clearKey: clearKey)],
+                                     userAgent: userAgent, clearKey: clearKey, label: label)],
                   logo: logo)
     }
 
