@@ -54,20 +54,21 @@ final class Upstream {
         session = URLSession(configuration: cfg)
     }
 
-    func fetch(_ url: URL, referer: String? = nil) throws -> UpstreamResponse {
+    func fetch(_ url: URL, method: String = "GET", referer: String? = nil) throws -> UpstreamResponse {
         do {
-            return try fetchViaURLSession(url, referer: referer)
+            return try fetchViaURLSession(url, method: method, referer: referer)
         } catch let e as NSError where e.domain == NSURLErrorDomain
             && (e.code == NSURLErrorCannotFindHost || e.code == NSURLErrorDNSLookupFailed) {
             Log.shared.write("DNS do sistema bloqueou \(url.host ?? "?") — usando DoH")
-            return try fetchViaRawTLS(url, referer: referer, redirectsLeft: 4)
+            return try fetchViaRawTLS(url, method: method, referer: referer, redirectsLeft: 4)
         }
     }
 
     // MARK: - URLSession path
 
-    private func fetchViaURLSession(_ url: URL, referer: String?) throws -> UpstreamResponse {
+    private func fetchViaURLSession(_ url: URL, method: String, referer: String?) throws -> UpstreamResponse {
         var req = URLRequest(url: url)
+        req.httpMethod = method
         if let referer { req.setValue(referer, forHTTPHeaderField: "Referer") }
 
         let sem = DispatchSemaphore(value: 0)
@@ -136,7 +137,7 @@ final class Upstream {
         return ips
     }
 
-    private func fetchViaRawTLS(_ url: URL, referer: String?, redirectsLeft: Int) throws -> UpstreamResponse {
+    private func fetchViaRawTLS(_ url: URL, method: String, referer: String?, redirectsLeft: Int) throws -> UpstreamResponse {
         guard redirectsLeft > 0 else { throw UpstreamError.tooManyRedirects }
         guard let host = url.host, let scheme = url.scheme else { throw UpstreamError.badURL }
         let port = UInt16(url.port ?? (scheme == "https" ? 443 : 80))
@@ -146,10 +147,10 @@ final class Upstream {
         for ip in ips.prefix(3) {
             do {
                 let raw = try rawRequest(ip: ip, port: port, tls: scheme == "https",
-                                         host: host, url: url, referer: referer)
+                                         host: host, url: url, method: method, referer: referer)
                 if (300...399).contains(raw.status), let loc = raw.headers["location"],
                    let next = URL(string: loc, relativeTo: url)?.absoluteURL {
-                    return try fetchViaRawTLS(next, referer: referer, redirectsLeft: redirectsLeft - 1)
+                    return try fetchViaRawTLS(next, method: method, referer: referer, redirectsLeft: redirectsLeft - 1)
                 }
                 return raw
             } catch {
@@ -160,11 +161,11 @@ final class Upstream {
     }
 
     private func rawRequest(ip: String, port: UInt16, tls: Bool, host: String,
-                            url: URL, referer: String?) throws -> UpstreamResponse {
+                            url: URL, method: String, referer: String?) throws -> UpstreamResponse {
         var path = url.path.isEmpty ? "/" : url.path
         if let q = url.query, !q.isEmpty { path += "?" + q }
 
-        var head = "GET \(path) HTTP/1.1\r\n"
+        var head = "\(method) \(path) HTTP/1.1\r\n"
         head += "Host: \(host)\r\n"
         head += "User-Agent: \(Upstream.userAgent)\r\n"
         head += "Accept: */*\r\n"

@@ -29,6 +29,7 @@ final class ProxyServer {
     /// streams are routed through the ffmpeg remux. The verdict is cached per
     /// variant after the first look at the upstream playlist.
     private var remuxVerdict: [String: Bool] = [:]
+    private var isDirectTSVerdict: [String: Bool] = [:]
     /// Which source of a channel is currently in use; advanced on failure.
     private var activeVariant: [UUID: Int] = [:]
 
@@ -61,6 +62,11 @@ final class ProxyServer {
             let ext = variant.url.pathExtension.lowercased()
             if ext.hasPrefix("ts") || ext.hasPrefix("m2t") {
                 verdict = true
+                lock.lock(); isDirectTSVerdict[key] = true; lock.unlock()
+            } else if let headRes = try? Upstream.shared.fetch(variant.url, method: "HEAD", referer: variant.referer),
+                      headRes.contentType.lowercased().contains("video/mp2t") {
+                verdict = true
+                lock.lock(); isDirectTSVerdict[key] = true; lock.unlock()
             } else if let res = try? Upstream.shared.fetch(variant.url, referer: variant.referer) {
                 let text = String(decoding: res.body.prefix(64_000), as: UTF8.self).lowercased()
                 verdict = text.contains("hvc1") || text.contains("hev1")
@@ -389,8 +395,10 @@ final class ProxyServer {
 
         if needsRemux(channel, variant) {
             let base = "http://\(advertisedHost):\(port)/proxy/\(id)/f/"
-            let ext = variant.url.pathExtension.lowercased()
-            let isDirectTS = ext.hasPrefix("ts") || ext.hasPrefix("m2t")
+            let key = "\(channel.id.uuidString)#\(variant.url.absoluteString)"
+            lock.lock()
+            let isDirectTS = isDirectTSVerdict[key] ?? (variant.url.pathExtension.lowercased().hasPrefix("ts") || variant.url.pathExtension.lowercased().hasPrefix("m2t"))
+            lock.unlock()
             let input = isDirectTS ? variant.url : URL(string: "http://127.0.0.1:\(port)/proxy/\(id)/\(variant.isDASH ? "manifest.mpd" : "raw.m3u8")")!
             guard let text = Remuxer.shared.playlist(for: channel, variant: variant,
                                                      sourceURL: input, rewriteBase: base)
