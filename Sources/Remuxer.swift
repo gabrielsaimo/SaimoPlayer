@@ -46,37 +46,15 @@ final class Remuxer {
         return candidates.first { FileManager.default.isExecutableFile(atPath: $0) }
     }
 
-    /// Number of audio tracks on a source, cached per variant. Needed up front
-    /// because the HLS muxer has to be told how many renditions to emit.
-    private var audioCounts: [URL: Int] = [:]
+    private var probeCache: [URL: (audioCount: Int, isHEVC: Bool)] = [:]
 
-    /// How many audio tracks ffmpeg will actually see.
-    ///
-    /// An HLS master lists every bitrate variant as its own program, each with
-    /// its own audio, so counting streams globally would wildly overcount and
-    /// make `-var_stream_map` ask for renditions that `-map 0:a` cannot supply.
-    /// Counting within a single program gives the real number of languages.
-    static func countAudioTracks(in json: Data) -> Int {
-        guard let root = try? JSONSerialization.jsonObject(with: json) as? [String: Any] else {
-            return 1
-        }
-        if let programs = root["programs"] as? [[String: Any]], !programs.isEmpty {
-            let perProgram = programs.map { program -> Int in
-                let streams = program["streams"] as? [[String: Any]] ?? []
-                return streams.filter { $0["codec_type"] as? String == "audio" }.count
-            }
-            return max(1, perProgram.max() ?? 1)
-        }
-        let streams = root["streams"] as? [[String: Any]] ?? []
-        return max(1, streams.filter { $0["codec_type"] as? String == "audio" }.count)
-    }
-
-    private func audioTrackCount(for variant: Variant, input: URL) -> Int {
+    private func probe(for variant: Variant, input: URL) -> (audioCount: Int, isHEVC: Bool) {
         lock.lock()
-        if let cached = audioCounts[variant.url] { lock.unlock(); return cached }
+        if let cached = probeCache[variant.url] { lock.unlock(); return cached }
         lock.unlock()
 
         var count = 1
+        var isHEVC = false
         if let ffprobe = Remuxer.ffprobePath {
             var args = ["-v", "error", "-show_programs", "-show_streams", "-of", "json"]
             if let ua = variant.userAgent { args += ["-user_agent", ua] }
@@ -93,14 +71,38 @@ final class Remuxer {
             process.standardOutput = pipe
             process.standardError = FileHandle.nullDevice
             if (try? process.run()) != nil {
+                DispatchQueue.global().asyncAfter(deadline: .now() + 10) {
+                    if process.isRunning { process.terminate() }
+                }
                 let data = pipe.fileHandleForReading.readDataToEndOfFile()
                 process.waitUntilExit()
-                count = Remuxer.countAudioTracks(in: data)
+                
+                if let root = try? JSONSerialization.jsonObject(with: data) as? [String: Any] {
+                    if let programs = root["programs"] as? [[String: Any]], !programs.isEmpty {
+                        let perProgram = programs.map { program -> Int in
+                            let streams = program["streams"] as? [[String: Any]] ?? []
+                            if let video = streams.first(where: { $0["codec_type"] as? String == "video" }),
+                               let codec = video["codec_name"] as? String, codec.lowercased() == "hevc" {
+                                isHEVC = true
+                            }
+                            return streams.filter { $0["codec_type"] as? String == "audio" }.count
+                        }
+                        count = max(1, perProgram.max() ?? 1)
+                    } else {
+                        let streams = root["streams"] as? [[String: Any]] ?? []
+                        if let video = streams.first(where: { $0["codec_type"] as? String == "video" }),
+                           let codec = video["codec_name"] as? String, codec.lowercased() == "hevc" {
+                            isHEVC = true
+                        }
+                        count = max(1, streams.filter { $0["codec_type"] as? String == "audio" }.count)
+                    }
+                }
             }
         }
-        lock.lock(); audioCounts[variant.url] = count; lock.unlock()
+        lock.lock(); probeCache[variant.url] = (count, isHEVC); lock.unlock()
         if count > 1 { Log.shared.write("remux: \(count) faixas de áudio") }
-        return count
+        if isHEVC { Log.shared.write("remux: vídeo é HEVC") }
+        return (count, isHEVC)
     }
 
     var isAvailable: Bool { Remuxer.ffmpegPath != nil }
@@ -183,7 +185,7 @@ final class Remuxer {
         if variant.isDASH, let key = variant.clearKey, !key.isEmpty {
             args += ["-cenc_decryption_key", key]
         }
-        let audioTracks = audioTrackCount(for: variant, input: sourceURL)
+        let probeResult = probe(for: variant, input: sourceURL)
 
         args += [
             "-i", sourceURL.absoluteString,
@@ -191,8 +193,11 @@ final class Remuxer {
         ]
         // Every audio track is carried through: dropping all but the first is
         // what loses the second language on dual-audio channels.
-        args += audioTracks > 1 ? ["-map", "0:a"] : ["-map", "0:a:0"]
-        args += ["-c", "copy", "-tag:v", "hvc1"]
+        args += probeResult.audioCount > 1 ? ["-map", "0:a"] : ["-map", "0:a:0"]
+        args += ["-c", "copy"]
+        if probeResult.isHEVC {
+            args += ["-tag:v", "hvc1"]
+        }
         // ADTS only exists in MPEG-TS input; the filter errors out on fMP4/DASH.
         if !variant.isDASH { args += ["-bsf:a", "aac_adtstoasc"] }
 
@@ -205,13 +210,13 @@ final class Remuxer {
             "-hls_fmp4_init_filename", "init.mp4",
         ]
 
-        if audioTracks > 1 {
+        if probeResult.audioCount > 1 {
             // Separate renditions in one audio group, which is what makes
             // AVFoundation show a switchable audio menu.
             // No `name:` here on purpose — it would rename the output folders
             // to stream_<name>, and the directories are pre-created by index.
             var mapping = ["v:0,agroup:aud"]
-            for index in 0..<audioTracks {
+            for index in 0..<probeResult.audioCount {
                 mapping.append("a:\(index),agroup:aud" + (index == 0 ? ",default:yes" : ""))
             }
             args += [
@@ -221,7 +226,7 @@ final class Remuxer {
                 dir.appendingPathComponent("stream_%v/index.m3u8").path,
             ]
             // The hls muxer will not create the per-variant directories itself.
-            for index in 0...audioTracks {
+            for index in 0...probeResult.audioCount {
                 try? FileManager.default.createDirectory(
                     at: dir.appendingPathComponent("stream_\(index)"),
                     withIntermediateDirectories: true)

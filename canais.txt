@@ -85,3 +85,87 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
 #EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S79)
+http://79.127.243.211:14506
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S46)
+http://46.151.196.223:14438
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19058/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (S46)
+http://46.151.196.223:14457
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/disneyplus.png" group-title="ESPN", DISNEY PLUS (S46)
+http://46.151.196.223:14654
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 1 (S79)
+http://79.127.243.211:14653
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 2 (S79)
+http://79.127.243.211:14657
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 3 (S79)
+http://79.127.243.211:14658
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (SS)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (MK)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (TCL)
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S79)
+http://79.127.243.211:14697
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S46)
+http://46.151.196.223:14124
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT 2 (S46)
+http://46.151.196.223:14126
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S79)
+http://79.127.243.211:14449
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S46)
+http://46.151.196.223:14468
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (OT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (SS)
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (RK)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S79)
+http://79.127.243.211:14497
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S46)
+http://46.151.196.223:14586
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (S79)
+http://79.127.243.211:14501
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (S46)
+http://46.151.196.223:14587
+#EXTINF:-1 tvg-id="Premiere " tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE MOSAICO (S46)
+http://46.151.196.223:14197
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (S79)
+http://79.127.243.211:14623
+#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="REALITY", UNIVERSAL REALITY (S46)
+http://46.151.196.223:14686
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
+http://79.127.238.228:14647
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S46)
+http://46.151.196.223:14648
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (S46)
+http://46.151.196.223:14607
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (S46)
+http://46.151.196.223:14603
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S79)
+http://79.127.238.228:14551
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S79)
+http://79.127.243.211:14565
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S46)
+http://46.151.196.223:14636
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.243.211:14569
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.238.228:14563
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S79)
+http://79.127.243.211:14573
+#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL (S46)
+http://46.151.196.223:14056
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES",HGTV (S200)
+http://200.229.190.189:8001/play/a01b
