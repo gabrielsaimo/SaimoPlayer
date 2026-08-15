@@ -53,13 +53,18 @@ final class ProxyServer {
 
         guard Remuxer.shared.isAvailable else { return false }
         var verdict = variant.isDASH
-        if !verdict, let res = try? Upstream.shared.fetch(variant.url, referer: variant.referer) {
-            let text = String(decoding: res.body.prefix(64_000), as: UTF8.self).lowercased()
-            verdict = text.contains("hvc1") || text.contains("hev1")
+        if !verdict {
+            let ext = variant.url.pathExtension.lowercased()
+            if ext.hasPrefix("ts") || ext.hasPrefix("m2t") {
+                verdict = true
+            } else if let res = try? Upstream.shared.fetch(variant.url, referer: variant.referer) {
+                let text = String(decoding: res.body.prefix(64_000), as: UTF8.self).lowercased()
+                verdict = text.contains("hvc1") || text.contains("hev1")
+            }
         }
         lock.lock(); remuxVerdict[key] = verdict; lock.unlock()
         if verdict && !variant.isDASH {
-            Log.shared.write("\(channel.name): HEVC em TS — usando remux")
+            Log.shared.write("\(channel.name): HEVC detectado — usando remux")
         }
         return verdict
     }
@@ -380,11 +385,10 @@ final class ProxyServer {
 
         if needsRemux(channel, variant) {
             let base = "http://\(advertisedHost):\(port)/proxy/\(id)/f/"
-            // Both feed ffmpeg from our own server: the DASH route repairs the
-            // manifest, the HLS one keeps the DoH fallback.
-            let route = variant.isDASH ? "manifest.mpd" : "raw.m3u8"
-            guard let input = URL(string: "http://127.0.0.1:\(port)/proxy/\(id)/\(route)"),
-                  let text = Remuxer.shared.playlist(for: channel, variant: variant,
+            let ext = variant.url.pathExtension.lowercased()
+            let isDirectTS = ext.hasPrefix("ts") || ext.hasPrefix("m2t")
+            let input = isDirectTS ? variant.url : URL(string: "http://127.0.0.1:\(port)/proxy/\(id)/\(variant.isDASH ? "manifest.mpd" : "raw.m3u8")")!
+            guard let text = Remuxer.shared.playlist(for: channel, variant: variant,
                                                      sourceURL: input, rewriteBase: base)
             else { return nil }
             return Payload(contentType: "application/vnd.apple.mpegurl", body: Data(text.utf8))
