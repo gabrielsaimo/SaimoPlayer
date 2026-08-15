@@ -180,6 +180,15 @@ final class PlayerModel: NSObject, ObservableObject {
         load(link, channel: channel)
     }
 
+    func playVariant(_ channel: Channel, index: Int) {
+        ProxyServer.shared.forceVariant(channel, index)
+        if selection != channel.id {
+            selection = channel.id
+        } else {
+            play()
+        }
+    }
+
     private func load(_ link: URL, channel: Channel) {
         tearDownItemObservers()
 

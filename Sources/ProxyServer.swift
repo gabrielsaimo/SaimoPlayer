@@ -45,6 +45,10 @@ final class ProxyServer {
         lock.lock(); activeVariant[channel.id] = index; lock.unlock()
     }
 
+    func forceVariant(_ channel: Channel, _ index: Int) {
+        setVariant(channel, index)
+    }
+
     private func needsRemux(_ channel: Channel, _ variant: Variant) -> Bool {
         let key = "\(channel.id.uuidString)#\(variant.url.absoluteString)"
         lock.lock()

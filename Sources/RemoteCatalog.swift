@@ -102,6 +102,7 @@ enum RemoteCatalog {
         var currentTvgId: String?
         var currentName: String?
         var currentLogo: String?
+        var currentLabel: String?
 
         for raw in text.split(separator: "\n", omittingEmptySubsequences: false) {
             let line = raw.trimmingCharacters(in: .whitespaces)
@@ -149,18 +150,25 @@ enum RemoteCatalog {
                 let cleanedName = rawName.replacingOccurrences(of: "\\s*\\([^)]+\\)$", with: "", options: .regularExpression).trimmingCharacters(in: .whitespaces)
                 currentName = currentTvgId ?? cleanedName
                 
+                if let match = rawName.range(of: "\\(([^)]+)\\)$", options: .regularExpression) {
+                    currentLabel = String(rawName[match])
+                } else {
+                    currentLabel = nil
+                }
+                
             } else if !line.hasPrefix("#") {
                 if let name = currentName, let url = URL(string: line) {
                     if var existing = out[name] {
-                        existing.variants.append(Variant(url: url))
+                        existing.variants.append(Variant(url: url, label: currentLabel))
                         if existing.logo == nil, let currentLogo = currentLogo {
                             existing.logo = URL(string: currentLogo)
                         }
                         out[name] = existing
                     } else {
-                        out[name] = Channel(name: name, variants: [Variant(url: url)], logo: currentLogo.flatMap(URL.init(string:)))
+                        out[name] = Channel(name: name, variants: [Variant(url: url, label: currentLabel)], logo: currentLogo.flatMap(URL.init(string:)))
                     }
                 }
+                currentLabel = nil
             }
         }
         return withKnownLogos(Array(out.values))
