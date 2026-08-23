@@ -68,6 +68,20 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Linha de apoio do arquivo: versão, temporada e episódio. É o que existe
     /// para dizer — a lista de origem não traz sinopse nem gênero.
     @Published private(set) var playingFileDetail = ""
+    /// Onde o arquivo no ar deve ser guardado. Ver Progresso.
+    private var chaveArquivo = ""
+
+    private var ultimoGuardado: Double = -100
+
+    /// Onde o que está tocando parou. De cinco em cinco segundos, que é o
+    /// bastante para não perder nada e pouco o bastante para não escrever em
+    /// disco a cada quadro.
+    private func guardarProgresso(forcado: Bool = false) {
+        guard playingFile != nil, !chaveArquivo.isEmpty, duration > 0 else { return }
+        guard forcado || abs(position - ultimoGuardado) >= 5 else { return }
+        ultimoGuardado = position
+        Progresso.salvar(chaveArquivo, posicao: position, duracao: duration)
+    }
     /// Posição e duração do arquivo, para a barra de progresso. Um canal ao
     /// vivo não tem duração, e é por isso que a barra só aparece no arquivo.
     @Published var duration: Double = 0
@@ -96,6 +110,7 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Se a fonte atual chegou a entregar imagem desde que o canal abriu.
     /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
     private var playedSinceOpen = false
+    private var retomou = false
     private var sourcesTried = 0
     /// Fontes do arquivo no ar, em ordem. O mesmo filme vem das duas listas.
     private var fileSources: [URL] = []
@@ -208,7 +223,9 @@ final class PlayerModel: NSObject, ObservableObject {
 
     func play() {
         guard let channel = selectedChannel else { return }
+        guardarProgresso(forcado: true)
         playingFile = nil
+        chaveArquivo = ""
         duration = 0
         position = 0
         let link = ProxyServer.shared.link(for: channel)
@@ -231,11 +248,15 @@ final class PlayerModel: NSObject, ObservableObject {
     /// A seleção de canal fica como está, de propósito: a lista lateral é uma
     /// List ligada a ela, e zerá-la fazia a própria lista devolver um canal —
     /// que entrava por cima do filme antes do primeiro quadro.
-    func playFile(_ urls: [URL], nome: String, detalhe: String = "") {
+    func playFile(_ urls: [URL], nome: String, detalhe: String = "", chave: String = "") {
         guard let primeira = urls.first else { return }
+        guardarProgresso(forcado: true)
+        chaveArquivo = chave
+        ultimoGuardado = -100
         fileSources = urls
         fileSourceIndex = 0
         playingFile = primeira
+        retomou = false
         playingFileName = nome
         playingFileDetail = detalhe
         duration = 0
@@ -319,6 +340,12 @@ final class PlayerModel: NSObject, ObservableObject {
             sourcesTried = 0
             playedSinceOpen = true
             stalledSince = nil
+            // Volta ao ponto em que parou, uma vez só por abertura.
+            if playingFile != nil, !retomou, !chaveArquivo.isEmpty {
+                retomou = true
+                let ponto = Progresso.posicao(chaveArquivo)
+                if ponto > 0 { seekQuandoPuder(ponto) }
+            }
             Log.shared.write("pronto — reproduzindo")
         case .failed:
             let msg = item.error?.localizedDescription ?? "erro desconhecido"
@@ -443,6 +470,24 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
+    /// A duração só existe depois de o item carregar; retomar antes disso
+    /// cairia no zero.
+    private func seekQuandoPuder(_ segundos: Double) {
+        guard let item = player.currentItem else { return }
+        let total = item.duration.seconds
+        if total.isFinite, total > 0 {
+            // A duração publicada só é lida no tique de um segundo, e o seek
+            // depende dela: sem preenchê-la aqui, a retomada seria descartada
+            // por "duração zero" justamente na abertura.
+            duration = total
+            seek(to: segundos)
+            return
+        }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
+            self?.seekQuandoPuder(segundos)
+        }
+    }
+
     /// Vai para um ponto do arquivo. Tolerância zero para o quadro cair onde a
     /// pessoa soltou, e não no ponto-chave mais próximo, que num filme pode
     /// estar dez segundos adiante.
@@ -500,6 +545,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 let atual = player.currentTime().seconds
                 position = atual.isFinite ? atual : 0
             }
+            guardarProgresso()
         }
         // presentationSize only fires once the first frame is decoded, and the
         // KVO can land before the layer is ready, so re-read it each tick.

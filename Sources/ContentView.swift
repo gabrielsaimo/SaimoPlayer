@@ -375,6 +375,7 @@ private struct NowPlayingStrip: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
     @ObservedObject private var posters = LogoLoader.shared
+    @ObservedObject private var capas = Capas.shared
 
     var body: some View {
         // Um filme não tem programação: no lugar dela vai o que se sabe do
@@ -449,11 +450,25 @@ private struct NowPlayingStrip: View {
 
     private var arquivoEmCartaz: some View {
         HStack(spacing: 12) {
-            Image(systemName: "film")
-                .font(.system(size: 20))
-                .foregroundStyle(.white.opacity(0.8))
-                .frame(width: 40, height: 40)
-                .background(.white.opacity(0.1), in: RoundedRectangle(cornerRadius: 6))
+            // A capa ao lado do nome: é ela que identifica o filme de longe,
+            // antes de qualquer texto ser lido.
+            ZStack {
+                RoundedRectangle(cornerRadius: 5, style: .continuous)
+                    .fill(.white.opacity(0.1))
+                if let capa = capas.imagem(para: model.playingFileName,
+                                           serie: model.playingFileDetail.hasPrefix("Temporada")) {
+                    Image(nsImage: capa)
+                        .resizable()
+                        .interpolation(.high)
+                        .aspectRatio(contentMode: .fill)
+                        .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
+                } else {
+                    Image(systemName: "film")
+                        .font(.system(size: 18))
+                        .foregroundStyle(.white.opacity(0.8))
+                }
+            }
+            .frame(width: 44, height: 64)
             VStack(alignment: .leading, spacing: 3) {
                 Text(model.playingFileName)
                     .font(.system(size: 12, weight: .semibold))
