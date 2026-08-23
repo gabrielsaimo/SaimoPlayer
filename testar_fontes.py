@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Testa toda fonte de todo canal e diz quais canais não têm nenhuma viva.
 
+Testa a lista que os apps realmente tocam: o catalogo.txt somado aos extras do
+canais.txt, casados por nome. Testar só o catálogo daria uma lista errada — o
+Adult Swim, por exemplo, está morto no catálogo e vivo pelo extra.
+
 Um canal com várias fontes só está realmente quebrado quando todas falham — é
 essa lista que interessa para trocar link. As demais o failover resolve sozinho.
 
@@ -94,9 +98,48 @@ def testar(item):
     return nome, indice, fonte["url"], code
 
 
+def normalizar(nome):
+    import unicodedata
+    texto = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]", "", texto)
+
+
+def extras():
+    """Canais do canais.txt publicado, que é um M3U."""
+    caminho = ROOT / "canais.txt"
+    if not caminho.exists():
+        return {}
+    out, nome, logo = {}, None, None
+    for linha in caminho.read_text(encoding="utf-8").splitlines():
+        linha = linha.strip()
+        if linha.startswith("#EXTINF:"):
+            marca = re.search(r'tvg-id="([^"]+)"', linha)
+            bruto = linha.split(",", 1)[-1].strip()
+            nome = marca.group(1) if marca else re.sub(r"\s*\([^)]+\)$", "", bruto).strip()
+        elif linha and not linha.startswith("#") and nome:
+            out.setdefault(normalizar(nome), []).append(
+                {"url": linha, "referer": None, "agente": None})
+    return out
+
+
 def main():
     canais = catalog("private let catalog: [CatalogEntry] = [")
     canais += catalog("private let restrictedCatalog: [CatalogEntry] = [")
+
+    # Mesma junção que os apps fazem: extras entram atrás, por nome.
+    publicados = extras()
+    usados = set()
+    juntos = []
+    for nome, fontes in canais:
+        chave = normalizar(nome)
+        vindas = publicados.get(chave, [])
+        usados.add(chave)
+        conhecidas = {f["url"] for f in fontes}
+        juntos.append((nome, fontes + [f for f in vindas if f["url"] not in conhecidas]))
+    for chave, fontes in publicados.items():
+        if chave not in usados:
+            juntos.append((chave, fontes))
+    canais = juntos
     hosts = {urlparse(f["url"]).hostname for _, fontes in canais for f in fontes}
     hosts.discard(None)
     print(f"resolvendo {len(hosts)} servidores…")
