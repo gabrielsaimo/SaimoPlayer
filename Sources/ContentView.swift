@@ -253,11 +253,15 @@ private struct ControlBar: View {
             }
             .help("Próximo canal")
 
-            LiveBadge(model: model)
+            if model.playingFile == nil { LiveBadge(model: model) }
 
             QualityBadge(model: model)
 
             SourceBadge(model: model)
+
+            if model.playingFile != nil, model.duration > 0 {
+                ScrubBar(model: model)
+            }
 
             volume
 
@@ -373,8 +377,13 @@ private struct NowPlayingStrip: View {
     @ObservedObject private var posters = LogoLoader.shared
 
     var body: some View {
-        if let channel = model.selectedChannel,
-           let onAir = epg.nowNext(for: channel, at: epg.clock) {
+        // Um filme não tem programação: no lugar dela vai o que se sabe do
+        // próprio arquivo. Deixar o guia do canal aqui seria dizer que está
+        // passando outra coisa.
+        if model.playingFile != nil {
+            arquivoEmCartaz
+        } else if let channel = model.selectedChannel,
+                  let onAir = epg.nowNext(for: channel, at: epg.clock) {
             HStack(spacing: 12) {
                 if let poster = onAir.current.poster, let image = posters.image(for: poster) {
                     Image(nsImage: image)
@@ -437,6 +446,52 @@ private struct NowPlayingStrip: View {
             .shadow(color: .black.opacity(0.3), radius: 10, y: 3)
         }
     }
+
+    private var arquivoEmCartaz: some View {
+        HStack(spacing: 12) {
+            Image(systemName: "film")
+                .font(.system(size: 20))
+                .foregroundStyle(.white.opacity(0.8))
+                .frame(width: 40, height: 40)
+                .background(.white.opacity(0.1), in: RoundedRectangle(cornerRadius: 6))
+            VStack(alignment: .leading, spacing: 3) {
+                Text(model.playingFileName)
+                    .font(.system(size: 12, weight: .semibold))
+                    .lineLimit(1)
+                if !model.playingFileDetail.isEmpty {
+                    Text(model.playingFileDetail)
+                        .font(.system(size: 10))
+                        .foregroundStyle(.white.opacity(0.6))
+                        .lineLimit(1)
+                }
+                if model.duration > 0 {
+                    Text(restante)
+                        .font(.system(size: 10))
+                        .foregroundStyle(.white.opacity(0.65))
+                }
+            }
+            Spacer(minLength: 12)
+            Button { model.showVod = true } label: {
+                Label("Filmes", systemImage: "film.stack")
+                    .font(.system(size: 11, weight: .medium))
+            }
+            .buttonStyle(.plain)
+            .help("Voltar à lista de filmes e séries (⌘F)")
+        }
+        .foregroundStyle(.white)
+        .padding(.horizontal, 16)
+        .padding(.vertical, 9)
+        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 12))
+        .environment(\.colorScheme, .dark)
+        .shadow(color: .black.opacity(0.3), radius: 10, y: 3)
+    }
+
+    private var restante: String {
+        let falta = max(0, model.duration - model.position)
+        let minutos = Int(falta / 60)
+        let total = Int(model.duration / 60)
+        return minutos > 0 ? "faltam \(minutos) min de \(total)" : "terminando"
+    }
 }
 
 /// Current video resolution, shown next to the live badge. Rides the same
@@ -459,6 +514,43 @@ private struct QualityBadge: View {
                 .background(.white.opacity(0.16), in: RoundedRectangle(cornerRadius: 4))
                 .help("Resolução do vídeo — \(model.stats.resolution)")
         }
+    }
+}
+
+/// Progress bar for a film or an episode.
+///
+/// A live channel has no end to slide towards, so this only exists for a file —
+/// and for a file it is the whole point: nobody watches two hours without
+/// jumping back over the bit they missed.
+private struct ScrubBar: View {
+    @ObservedObject var model: PlayerModel
+
+    var body: some View {
+        HStack(spacing: 8) {
+            Text(relogio(model.position))
+                .font(.system(size: 10, design: .monospaced))
+                .foregroundStyle(.white.opacity(0.75))
+            Slider(value: Binding(
+                get: { model.position },
+                set: { model.seek(to: $0) }),
+                   in: 0...max(model.duration, 1),
+                   onEditingChanged: { arrastando in model.scrubbing = arrastando })
+                .frame(minWidth: 180)
+                .controlSize(.small)
+            Text(relogio(model.duration))
+                .font(.system(size: 10, design: .monospaced))
+                .foregroundStyle(.white.opacity(0.5))
+        }
+        .help("Arraste para avançar ou voltar")
+    }
+
+    private func relogio(_ segundos: Double) -> String {
+        guard segundos.isFinite, segundos >= 0 else { return "--:--" }
+        let total = Int(segundos)
+        let horas = total / 3600, minutos = (total % 3600) / 60, resto = total % 60
+        return horas > 0
+            ? String(format: "%d:%02d:%02d", horas, minutos, resto)
+            : String(format: "%02d:%02d", minutos, resto)
     }
 }
 

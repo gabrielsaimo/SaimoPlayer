@@ -32,11 +32,15 @@
 	<array>
 		<string>_googlecast._tcp</string>
 	</array>
+	<!-- NSAllowsArbitraryLoads é ignorado quando NSAllowsLocalNetworking está
+	     presente, então sozinho ele não liberava nada além do proxy local: era
+	     por isso que canal tocava e filme em http remoto não. A chave que vale
+	     para o que o AVFoundation carrega é a de mídia. -->
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
-		<key>NSAllowsLocalNetworking</key>
+		<key>NSAllowsArbitraryLoadsInMedia</key>
 		<true/>
 	</dict>
 </dict>

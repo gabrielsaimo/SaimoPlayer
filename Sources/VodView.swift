@@ -117,8 +117,11 @@ struct VodView: View {
                         Text(filme.titulo)
                         Spacer()
                         ForEach(filme.fontes.keys.sorted(), id: \.self) { versao in
-                            Button(rotulo(versao)) { tocar(filme.titulo, filme.fontes[versao] ?? "") }
-                                .controlSize(.small)
+                            Button(rotulo(versao)) {
+                                tocar(filme.titulo, filme.fontes[versao] ?? "",
+                                      detalhe: "Filme · \(rotulo(versao))")
+                            }
+                            .controlSize(.small)
                         }
                     }
                 }
@@ -183,7 +186,9 @@ struct VodView: View {
                                     .foregroundStyle(.secondary).font(.caption)
                                 Spacer()
                                 Button("Assistir") {
-                                    tocar("\(serie.titulo) — E\(episodio.numero)", episodio.url)
+                                    tocar(serie.titulo, episodio.url,
+                                          detalhe: "Temporada \(episodio.temporada), episódio "
+                                            + "\(episodio.numero) · \(rotulo(episodio.versao))")
                                 }
                                 .controlSize(.small)
                             }
@@ -219,9 +224,9 @@ struct VodView: View {
         versao == "leg" ? "Legendado" : "Dublado"
     }
 
-    private func tocar(_ nome: String, _ url: String) {
+    private func tocar(_ nome: String, _ url: String, detalhe: String = "") {
         guard let destino = URL(string: url) else { return }
-        model.playFile(destino, nome: nome)
+        model.playFile(destino, nome: nome, detalhe: detalhe)
         dismiss()
     }
 }

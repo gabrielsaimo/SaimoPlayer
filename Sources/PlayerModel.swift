@@ -60,6 +60,22 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var sourceHost = ""
     @Published var isLoadingSource = false
 
+    /// Filme ou episódio no ar, em vez de canal. Guardado porque quase tudo
+    /// aqui é feito para canal ao vivo — reconexão, vigia de travamento, faixa
+    /// de fonte — e nada disso vale para um arquivo que tem começo e fim.
+    @Published private(set) var playingFile: URL?
+    @Published private(set) var playingFileName = ""
+    /// Linha de apoio do arquivo: versão, temporada e episódio. É o que existe
+    /// para dizer — a lista de origem não traz sinopse nem gênero.
+    @Published private(set) var playingFileDetail = ""
+    /// Posição e duração do arquivo, para a barra de progresso. Um canal ao
+    /// vivo não tem duração, e é por isso que a barra só aparece no arquivo.
+    @Published var duration: Double = 0
+    @Published var position: Double = 0
+    /// Enquanto a pessoa arrasta, o relógio do player não manda na barra: ela
+    /// pularia de volta a cada segundo e seria impossível mirar.
+    @Published var scrubbing = false
+
     // Tracks
     @Published var audioChoices: [MediaChoice] = []
     @Published var subtitleChoices: [MediaChoice] = []
@@ -81,6 +97,7 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
     private var playedSinceOpen = false
     private var sourcesTried = 0
+
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
     private var subtitleGroup: AVMediaSelectionGroup?
@@ -188,6 +205,9 @@ final class PlayerModel: NSObject, ObservableObject {
 
     func play() {
         guard let channel = selectedChannel else { return }
+        playingFile = nil
+        duration = 0
+        position = 0
         let link = ProxyServer.shared.link(for: channel)
         generatedLink = link
         status = "carregando…"
@@ -204,8 +224,16 @@ final class PlayerModel: NSObject, ObservableObject {
     /// AVFoundation lê sozinho, e o proxy só existe para reescrever playlist e
     /// remontar o que ele recusa. O provedor responde 302 para uma URL com
     /// token, e o redirecionamento o próprio AVFoundation segue.
-    func playFile(_ url: URL, nome: String) {
-        selection = nil
+    ///
+    /// A seleção de canal fica como está, de propósito: a lista lateral é uma
+    /// List ligada a ela, e zerá-la fazia a própria lista devolver um canal —
+    /// que entrava por cima do filme antes do primeiro quadro.
+    func playFile(_ url: URL, nome: String, detalhe: String = "") {
+        playingFile = url
+        playingFileName = nome
+        playingFileDetail = detalhe
+        duration = 0
+        position = 0
         generatedLink = url
         status = "carregando…"
         reconnectAttempt = 0
@@ -214,7 +242,7 @@ final class PlayerModel: NSObject, ObservableObject {
         sourceCount = 1
         sourceIndex = 0
         sourceHost = url.host ?? ""
-        Log.shared.write("abrindo \(nome)")
+        Log.shared.write("abrindo \(nome) — \(url.absoluteString)")
         load(url, channel: nil)
     }
 
@@ -343,6 +371,22 @@ final class PlayerModel: NSObject, ObservableObject {
     // MARK: - Reconnect
 
     private func scheduleReconnect(reason: String) {
+        if let arquivo = playingFile {
+            reconnectAttempt += 1
+            guard reconnectAttempt <= 4 else {
+                status = "falhou: \(reason)"
+                return
+            }
+            let retomar = position
+            status = "reconectando…"
+            Log.shared.write("\(playingFileName): \(reason) — tentando de novo")
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) { [weak self] in
+                guard let self, self.playingFile == arquivo else { return }
+                self.load(arquivo, channel: nil)
+                if retomar > 5 { self.seek(to: retomar) }
+            }
+            return
+        }
         guard let channel = selectedChannel else { return }
 
         // Enquanto o canal não tocou nenhuma vez, o problema é a fonte, não a
@@ -377,6 +421,16 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
+    /// Vai para um ponto do arquivo. Tolerância zero para o quadro cair onde a
+    /// pessoa soltou, e não no ponto-chave mais próximo, que num filme pode
+    /// estar dez segundos adiante.
+    func seek(to seconds: Double) {
+        guard playingFile != nil, duration > 0 else { return }
+        let alvo = CMTime(seconds: max(0, min(seconds, duration)), preferredTimescale: 600)
+        position = seconds
+        player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero)
+    }
+
     // MARK: - Timers
 
     private func startTimers() {
@@ -397,6 +451,12 @@ final class PlayerModel: NSObject, ObservableObject {
     /// O proxy só decide a fonte quando o player pede a playlist, então a
     /// escolha é lida de lá a cada segundo em vez de adivinhada aqui.
     private func refreshSource() {
+        if playingFile != nil {
+            sourceCount = 1
+            sourceIndex = 0
+            isLoadingSource = player.timeControlStatus != .playing
+            return
+        }
         guard let channel = selectedChannel else { return }
         let index = ProxyServer.shared.variantIndex(channel)
         let variant = channel.variants[min(index, channel.variants.count - 1)]
@@ -411,6 +471,14 @@ final class PlayerModel: NSObject, ObservableObject {
     private func refreshStats() {
         refreshSource()
         guard let item = player.currentItem else { return }
+        if playingFile != nil {
+            let total = item.duration.seconds
+            duration = total.isFinite && total > 0 ? total : 0
+            if !scrubbing {
+                let atual = player.currentTime().seconds
+                position = atual.isFinite ? atual : 0
+            }
+        }
         // presentationSize only fires once the first frame is decoded, and the
         // KVO can land before the layer is ready, so re-read it each tick.
         let size = item.presentationSize
