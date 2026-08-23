@@ -74,7 +74,7 @@ private let catalog: [CatalogEntry] = [
         name: "Cartoon Network",
         logo: "https://mondrian.claro.com.br/channels/inverse/cartoon-network.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=31&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786492570-yEMfkxGVCe7v1tyVjwD9gZ89%2BL%2FJf6Pm4pUvQ8LqU%2F4%3D",
+            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=206&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787508049-h5sT7JXl7pqAEjuwW2AvieOmBzyLFZ%2BW6VnCnVLXdYA%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
