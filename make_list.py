@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Escreve canais.txt, a lista que os dois apps baixam ao abrir.
+"""Escreve catalogo.txt, o catálogo inteiro em texto.
 
-Gerar do catálogo em vez de manter à mão é o que garante que a lista publicada e
-a que os apps tocam sejam a mesma coisa. O formato é de uma linha por campo, para
+É separado do canais.txt publicado de propósito: aquele é a lista de extras, em
+M3U, e um M3U não tem onde guardar chave de ClearKey, Referer nem User-Agent.
+Este aqui carrega tudo, e é o que vale publicar quando essas fontes precisarem
+viajar sem recompilar nada. O formato é de uma linha por campo, para
 continuar legível a olho e ainda assim carregar tudo o que um player precisa:
 sem o referer, o agente e a chave, um terço do catálogo não toca.
 
-O KID do ClearKey só existe no lado Android — o AVFoundation não o pede — então
-ele é lido de lá para o arquivo publicado ter o par completo.
+O catálogo guarda o ClearKey como KID:CHAVE, que é o que este arquivo publica:
+o AVFoundation usa só a chave, o ExoPlayer precisa das duas metades.
 """
 import re
 from datetime import date
@@ -15,8 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SWIFT = ROOT / "Sources" / "Channels.swift"
-KOTLIN = ROOT.parent / "SaimoTV-Android" / "app" / "src" / "main" / "java" / "br" / "com" / "saimo" / "tv" / "Catalog.kt"
-OUT = ROOT / "canais.txt"
+OUT = ROOT / "catalogo.txt"
 
 STRING = r'(?:nil|"(?:[^"\\]|\\.)*")'
 
@@ -45,21 +46,6 @@ def unquote(text):
     if text == "nil":
         return None
     return text[1:-1].replace('\\"', '"').replace("\\\\", "\\")
-
-
-def key_ids():
-    """URL -> KID, que só o catálogo Android guarda."""
-    if not KOTLIN.exists():
-        return {}
-    text = KOTLIN.read_text(encoding="utf-8")
-    pairs = {}
-    for block in re.finditer(
-            r'url = "((?:[^"\\]|\\.)*)",(.*?)\n            \)', text, re.S):
-        found = re.search(r'keyId = "([0-9a-fA-F]+)"', block.group(2))
-        if found:
-            url = block.group(1).replace('\\"', '"').replace("\\$", "$")
-            pairs[url] = found.group(1)
-    return pairs
 
 
 def channels(declaration):
@@ -94,7 +80,6 @@ def channels(declaration):
 
 def main():
     listing = channels("private let catalog: [CatalogEntry] = [")
-    kids = key_ids()
     faltando = []
 
     lines = [CABECALHO.format(contagem=len(listing),
@@ -110,9 +95,8 @@ def main():
             if source["agente"]:
                 lines.append(f'agente: {source["agente"]}')
             if source["chave"]:
-                kid = kids.get(source["url"])
-                if kid:
-                    lines.append(f'chave: {kid}:{source["chave"]}')
+                if source["chave"].count(":") == 1:
+                    lines.append(f'chave: {source["chave"]}')
                 else:
                     faltando.append(f'{channel["nome"]}: {source["url"][:60]}')
         lines.append("")

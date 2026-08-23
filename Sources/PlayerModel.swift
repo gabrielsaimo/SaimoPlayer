@@ -48,6 +48,17 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var detachedList = true
     @Published var stats = PlaybackStats()
 
+    /// Qual das fontes do canal está no ar, e se ela ainda está carregando.
+    ///
+    /// Um canal costuma ter três ou quatro fontes e o proxy desce para a
+    /// seguinte sozinho quando uma falha. Sem mostrar isso, uma imagem que
+    /// demora é indistinguível de uma que não vem, e não há como saber que a
+    /// primeira fonte morreu e a segunda salvou o canal.
+    @Published var sourceIndex = 0
+    @Published var sourceCount = 1
+    @Published var sourceHost = ""
+    @Published var isLoadingSource = false
+
     // Tracks
     @Published var audioChoices: [MediaChoice] = []
     @Published var subtitleChoices: [MediaChoice] = []
@@ -65,6 +76,10 @@ final class PlayerModel: NSObject, ObservableObject {
     private var watchdog: Timer?
     private var stalledSince: Date?
     private var reconnectAttempt = 0
+    /// Se a fonte atual chegou a entregar imagem desde que o canal abriu.
+    /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
+    private var playedSinceOpen = false
+    private var sourcesTried = 0
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
     private var subtitleGroup: AVMediaSelectionGroup?
@@ -176,6 +191,8 @@ final class PlayerModel: NSObject, ObservableObject {
         generatedLink = link
         status = "carregando…"
         reconnectAttempt = 0
+        playedSinceOpen = false
+        sourcesTried = 0
         Log.shared.write("abrindo \(channel.name) — \(link.absoluteString)")
         load(link, channel: channel)
     }
@@ -244,6 +261,8 @@ final class PlayerModel: NSObject, ObservableObject {
         case .readyToPlay:
             status = "tocando"
             reconnectAttempt = 0
+            sourcesTried = 0
+            playedSinceOpen = true
             stalledSince = nil
             Log.shared.write("pronto — reproduzindo")
         case .failed:
@@ -303,7 +322,25 @@ final class PlayerModel: NSObject, ObservableObject {
     // MARK: - Reconnect
 
     private func scheduleReconnect(reason: String) {
-        guard selectedChannel != nil else { return }
+        guard let channel = selectedChannel else { return }
+
+        // Enquanto o canal não tocou nenhuma vez, o problema é a fonte, não a
+        // rede: em vez de insistir na mesma com espera crescente, desce para a
+        // seguinte de imediato. Só depois de rodar a lista inteira é que faz
+        // sentido esperar e tentar tudo de novo.
+        if !playedSinceOpen, channel.variants.count > 1, sourcesTried + 1 < channel.variants.count {
+            sourcesTried += 1
+            let next = (ProxyServer.shared.variantIndex(channel) + 1) % channel.variants.count
+            ProxyServer.shared.forceVariant(channel, next)
+            status = "tentando a fonte \(next + 1) de \(channel.variants.count)…"
+            Log.shared.write("\(channel.name): \(reason) — indo para a fonte \(next + 1)")
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
+                guard let self, let channel = self.selectedChannel else { return }
+                self.load(ProxyServer.shared.link(for: channel), channel: channel)
+            }
+            return
+        }
+
         reconnectAttempt += 1
         guard reconnectAttempt <= 8 else {
             status = "falhou: \(reason)"
@@ -336,7 +373,22 @@ final class PlayerModel: NSObject, ObservableObject {
         watchdog?.invalidate(); watchdog = nil
     }
 
+    /// O proxy só decide a fonte quando o player pede a playlist, então a
+    /// escolha é lida de lá a cada segundo em vez de adivinhada aqui.
+    private func refreshSource() {
+        guard let channel = selectedChannel else { return }
+        let index = ProxyServer.shared.variantIndex(channel)
+        let variant = channel.variants[min(index, channel.variants.count - 1)]
+        if sourceIndex != index { sourceIndex = index }
+        if sourceCount != channel.variants.count { sourceCount = channel.variants.count }
+        let host = variant.url.host ?? ""
+        if sourceHost != host { sourceHost = host }
+        let loading = !isPlaying || player.timeControlStatus != .playing
+        if isLoadingSource != loading { isLoadingSource = loading }
+    }
+
     private func refreshStats() {
+        refreshSource()
         guard let item = player.currentItem else { return }
         // presentationSize only fires once the first frame is decoded, and the
         // KVO can land before the layer is ready, so re-read it each tick.
@@ -364,9 +416,13 @@ final class PlayerModel: NSObject, ObservableObject {
         guard isPlaying else { stalledSince = nil; return }
         if player.timeControlStatus == .waitingToPlayAtSpecifiedRate {
             if let since = stalledSince {
-                if Date().timeIntervalSince(since) > 12 {
+                // Uma fonte viva entrega imagem em segundos. Esperar doze antes
+                // de desconfiar só faz sentido depois que ela já tocou uma vez.
+                let limite: TimeInterval = playedSinceOpen ? 12 : 8
+                if Date().timeIntervalSince(since) > limite {
                     stalledSince = nil
-                    scheduleReconnect(reason: "travado sem dados")
+                    scheduleReconnect(reason: playedSinceOpen ? "travado sem dados"
+                                                             : "fonte não entregou imagem")
                 }
             } else {
                 stalledSince = Date()
