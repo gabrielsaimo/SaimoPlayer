@@ -10,6 +10,9 @@ struct ContentView: View {
     var body: some View {
         stage
             .frame(minWidth: 720, minHeight: 460)
+            .sheet(isPresented: $model.showVod) {
+                VodView(model: model)
+            }
             .sheet(isPresented: $model.showGuide) {
                 EPGGuideView(model: model)
             }
@@ -410,6 +413,13 @@ private struct NowPlayingStrip: View {
                 }
                 .buttonStyle(.plain)
                 .help("Programação completa (⌘G)")
+
+                Button { model.showVod = true } label: {
+                    Label("Filmes", systemImage: "film")
+                        .font(.system(size: 11, weight: .medium))
+                }
+                .buttonStyle(.plain)
+                .help("Filmes e séries (⌘F)")
             }
             .foregroundStyle(.white)
             .padding(.horizontal, 16)

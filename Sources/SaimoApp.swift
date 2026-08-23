@@ -66,6 +66,8 @@ struct SaimoApp: App {
 
             CommandMenu("Guia") {
                 Button("Programação") { model.showGuide = true }
+                Button("Filmes e Séries") { model.showVod = true }
+                    .keyboardShortcut("f", modifiers: .command)
                     .keyboardShortcut("g", modifiers: .command)
                 Button("Atualizar guia") { EPGService.shared.refresh(channels: model.channels) }
                     .keyboardShortcut("g", modifiers: [.command, .shift])
