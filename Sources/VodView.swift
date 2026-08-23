@@ -7,6 +7,7 @@ import SwiftUI
 /// vista, e cada clique estreita a busca em vez de trocar de tela.
 struct VodView: View {
     @ObservedObject var model: PlayerModel
+    @ObservedObject private var capas = Capas.shared
     @Environment(\.dismiss) private var dismiss
 
     @State private var gavetas: [Vod.Gaveta] = []
@@ -129,6 +130,7 @@ struct VodView: View {
             if visiveis.isEmpty { aviso("Nada aqui") } else {
                 List(visiveis) { filme in
                     HStack {
+                        capa(filme.titulo, serie: false)
                         Text(filme.titulo)
                         Spacer()
                         ForEach(filme.fontes.keys.sorted(), id: \.self) { versao in
@@ -160,6 +162,7 @@ struct VodView: View {
                         }
                     } label: {
                         HStack {
+                            capa(serie.titulo, serie: true)
                             Text(serie.titulo)
                             if !serie.ano.isEmpty {
                                 Text(serie.ano).foregroundStyle(.secondary).font(.caption)
@@ -221,6 +224,25 @@ struct VodView: View {
             }
             .controlSize(.small)
         }
+    }
+
+    /// A capa chega da rede quando a linha aparece; até lá, a moldura vazia
+    /// segura o lugar para a lista não pular de altura.
+    @ViewBuilder
+    private func capa(_ titulo: String, serie: Bool) -> some View {
+        let imagem = capas.imagem(para: titulo, serie: serie)
+        ZStack {
+            RoundedRectangle(cornerRadius: 4, style: .continuous)
+                .fill(Color.primary.opacity(0.08))
+            if let imagem {
+                Image(nsImage: imagem)
+                    .resizable()
+                    .interpolation(.high)
+                    .aspectRatio(contentMode: .fill)
+                    .clipShape(RoundedRectangle(cornerRadius: 4, style: .continuous))
+            }
+        }
+        .frame(width: 30, height: 44)
     }
 
     private func aviso(_ texto: String) -> some View {

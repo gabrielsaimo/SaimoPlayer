@@ -199,6 +199,15 @@ def main():
         (SAIDA / f"series-{chave_letra}.txt").write_text(
             "\n".join(indice_linhas) + "\n", encoding="utf-8")
 
+    # Índice de busca: só nome, tipo e letra. É o que permite procurar em todo
+    # o acervo sem baixar o acervo — trinta mil linhas curtas, uma vez.
+    busca = []
+    for registro in sorted(filmes.values(), key=lambda r: r["titulo"]):
+        busca.append(f'{registro["titulo"]}\tf\t{letra(registro["titulo"])}')
+    for registro in sorted(series.values(), key=lambda r: r["titulo"]):
+        busca.append(f'{registro["titulo"]}\ts\t{letra(registro["titulo"])}')
+    (SAIDA / "busca.txt").write_text("\n".join(busca) + "\n", encoding="utf-8")
+
     indice_linhas = [f"base: {i} {b}" for i, b in enumerate(bases.lista)]
     for chave_letra in sorted(set(contagem_filmes) | set(contagem_series) | set(contagem_reservado)):
         indice_linhas.append(
