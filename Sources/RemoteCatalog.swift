@@ -9,16 +9,27 @@ import Foundation
 /// missing network never costs the user their channels.
 enum RemoteCatalog {
 
-    static let url = URL(string:
-        "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/canais.txt")!
+    private static let base = "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/"
+    /// The whole catalogue, with ClearKey, Referer and User-Agent. This is the
+    /// list that rules: editing this file swaps a link with nothing to rebuild.
+    static let url = URL(string: base + "catalogo.txt")!
+    /// Extras published separately, as M3U. An M3U has nowhere to keep a key or
+    /// a header, so it joins as a spare and never replaces the catalogue.
+    static let extrasURL = URL(string: base + "canais.txt")!
 
     /// Whatever is available right now, without touching the network.
     static func cached() -> [Channel] {
-        guard let text = try? String(contentsOf: cacheFile, encoding: .utf8) else {
-            return defaultChannels
+        let base = read("catalogo.txt")
+        let extras = read("canais.txt")
+        guard !base.isEmpty || !extras.isEmpty else { return defaultChannels }
+        return merge(base: base, published: extras)
+    }
+
+    private static func read(_ name: String) -> [Channel] {
+        guard let text = try? String(contentsOf: cacheFile(name), encoding: .utf8) else {
+            return []
         }
-        let parsed = parse(text)
-        return parsed.isEmpty ? defaultChannels : merge(parsed)
+        return parse(text)
     }
 
     /// Joins the published list to the catalogue instead of replacing it.
@@ -30,12 +41,13 @@ enum RemoteCatalog {
     /// keeps its catalogue sources first and gains the published ones behind
     /// them as spares; anything that exists only in the published list joins the
     /// end as a new channel.
-    static func merge(_ published: [Channel]) -> [Channel] {
+    static func merge(base: [Channel], published: [Channel]) -> [Channel] {
+        let principal = base.isEmpty ? defaultChannels : base
         var extra: [String: Channel] = [:]
         for channel in published { extra[XMLTVParser.normalise(channel.name)] = channel }
 
         var used: Set<String> = []
-        let base = defaultChannels.map { channel -> Channel in
+        let merged = principal.map { channel -> Channel in
             let key = XMLTVParser.normalise(channel.name)
             guard let incoming = extra[key] else { return channel }
             used.insert(key)
@@ -46,25 +58,38 @@ enum RemoteCatalog {
             copy.variants += novos
             return copy
         }
-        return base + published.filter { !used.contains(XMLTVParser.normalise($0.name)) }
+        return merged + published.filter { !used.contains(XMLTVParser.normalise($0.name)) }
     }
 
     /// Downloads the published list. Returns nil when it cannot be read, so the
     /// caller keeps what it already had rather than emptying the list.
     static func fetch() async -> [Channel]? {
-        var request = URLRequest(url: url)
+        async let baixado = download(url, into: "catalogo.txt")
+        async let extras = download(extrasURL, into: "canais.txt")
+        let (base, publicados) = await (baixado, extras)
+        guard !base.isEmpty || !publicados.isEmpty else { return nil }
+
+        let merged = merge(base: base.isEmpty ? read("catalogo.txt") : base,
+                           published: publicados.isEmpty ? read("canais.txt") : publicados)
+        return merged.isEmpty ? nil : merged
+    }
+
+    /// Downloads and keeps a copy. Returns empty when nothing usable came back,
+    /// so the caller falls back to what is already on disk.
+    private static func download(_ from: URL, into name: String) async -> [Channel] {
+        var request = URLRequest(url: from)
         request.cachePolicy = .reloadIgnoringLocalCacheData
         request.timeoutInterval = 20
         request.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
 
         guard let (data, response) = try? await URLSession.shared.data(for: request),
               let http = response as? HTTPURLResponse, (200...299).contains(http.statusCode)
-        else { return nil }
+        else { return [] }
 
         let channels = parse(String(decoding: data, as: UTF8.self))
-        guard !channels.isEmpty else { return nil }
-        try? data.write(to: cacheFile, options: .atomic)
-        return merge(channels)
+        guard !channels.isEmpty else { return [] }
+        try? data.write(to: cacheFile(name), options: .atomic)
+        return channels
     }
 
     // MARK: - Parsing
@@ -222,10 +247,10 @@ enum RemoteCatalog {
 
     // MARK: - Cache
 
-    private static var cacheFile: URL {
-        let base = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
+    private static func cacheFile(_ name: String) -> URL {
+        let folder = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
             .appendingPathComponent("SaimoTV", isDirectory: true)
-        try? FileManager.default.createDirectory(at: base, withIntermediateDirectories: true)
-        return base.appendingPathComponent("canais.txt")
+        try? FileManager.default.createDirectory(at: folder, withIntermediateDirectories: true)
+        return folder.appendingPathComponent(name)
     }
 }
