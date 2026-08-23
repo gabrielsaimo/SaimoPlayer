@@ -254,6 +254,8 @@ private struct ControlBar: View {
 
             QualityBadge(model: model)
 
+            SourceBadge(model: model)
+
             volume
 
             Spacer(minLength: 8)
@@ -447,6 +449,55 @@ private struct QualityBadge: View {
                 .background(.white.opacity(0.16), in: RoundedRectangle(cornerRadius: 4))
                 .help("Resolução do vídeo — \(model.stats.resolution)")
         }
+    }
+}
+
+/// Which of the channel's sources is on air, and whether it is still loading.
+///
+/// A channel carries several sources and the proxy walks down the list on its
+/// own when one fails. Without showing it, a picture that takes a while looks
+/// exactly like one that never comes, and a viewer has no way of telling that
+/// the first source died and the second one saved the channel.
+private struct SourceBadge: View {
+    @ObservedObject var model: PlayerModel
+
+    var body: some View {
+        if model.sourceCount > 0, !model.sourceHost.isEmpty {
+            HStack(spacing: 5) {
+                if model.isLoadingSource {
+                    ProgressView()
+                        .controlSize(.mini)
+                        .scaleEffect(0.6)
+                        .frame(width: 9, height: 9)
+                } else {
+                    Circle()
+                        .fill(Color.green)
+                        .frame(width: 5, height: 5)
+                }
+                Text(rotulo)
+                    .font(.system(size: 10, weight: .medium, design: .rounded))
+                    .lineLimit(1)
+            }
+            .padding(.horizontal, 7)
+            .padding(.vertical, 2)
+            .background(.white.opacity(0.16), in: RoundedRectangle(cornerRadius: 4))
+            .help(ajuda)
+        }
+    }
+
+    private var rotulo: String {
+        let posicao = "\(model.sourceIndex + 1)/\(model.sourceCount)"
+        return model.isLoadingSource
+            ? "carregando fonte \(posicao) · \(model.sourceHost)"
+            : "fonte \(posicao) · \(model.sourceHost)"
+    }
+
+    private var ajuda: String {
+        guard let channel = model.selectedChannel,
+              model.sourceIndex < channel.variants.count else { return rotulo }
+        let url = channel.variants[model.sourceIndex].url.absoluteString
+        let estado = model.isLoadingSource ? "Carregando" : "No ar"
+        return "\(estado) pela fonte \(model.sourceIndex + 1) de \(model.sourceCount)\n\(url)"
     }
 }
 
