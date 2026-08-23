@@ -1,23 +1,24 @@
 #!/usr/bin/env python3
-"""Transforma a lista de 30 MB num catálogo de filmes e séries que cabe numa TV.
+"""Junta as listas de origem num catálogo de filmes e séries que cabe numa TV.
 
-A lista de origem tem 298 mil linhas e nenhum atributo: nem capa, nem gênero,
-nem grupo. Só nome e URL. Tudo o que dá para saber vem do nome, então é dele que
-sai a separação:
+As listas somam 60 MB e 590 mil linhas, e não trazem atributo nenhum: nem capa,
+nem gênero, nem grupo. Só nome e URL. Tudo o que dá para saber vem do nome:
 
     "Nome S01E02"  -> episódio de série
     "Nome [L]"     -> versão legendada do mesmo título
+    "[Adulto]"     -> vai para a parte reservada, não para a lista comum
     resto          -> filme
 
-Os canais de TV da lista (.ts) são ignorados: esta parte é só filme e série.
+O mesmo filme costuma existir nas duas listas. Em vez de aparecer duas vezes,
+ele aparece uma com as duas fontes: o player desce para a segunda quando a
+primeira falha, que é o mesmo que já acontece com canal.
 
-O resultado sai fatiado por letra inicial, e as séries ainda em pedaços dentro
-da letra. Um TV Box não abre um arquivo de 20 MB, mas abre o pedaço que a pessoa
-escolheu — e é assim que a tela funciona também, então o download acompanha a
-navegação em vez de contrariá-la.
+Os canais de TV das listas são ignorados: esta parte é só filme e série.
 
-As URLs também encolhem: todas partem do mesmo endereço, então o prefixo mora
-uma vez no índice e cada item guarda só o número. São 70 bytes que viram 7.
+O resultado sai fatiado por letra, e as séries ainda em pedaços dentro da letra,
+porque nenhum TV Box abre um arquivo de 20 MB. As URLs encolhem junto: o que se
+repete é o começo, então cada base mora uma vez no índice e o item guarda só o
+número.
 """
 import re
 import unicodedata
@@ -25,145 +26,195 @@ from collections import defaultdict
 from pathlib import Path
 from urllib.request import urlopen
 
-ORIGEM = "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8"
+ORIGENS = [
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8",
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8",
+]
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
 
 EPISODIO = re.compile(r"^(.*?)\s*S(\d{1,2})E(\d{1,3})\s*$", re.I)
-BASE_FILME = "http://tjtor8411.com:80/movie/Osiel123/Felicidade321/"
-BASE_SERIE = "http://tjtor8411.com:80/series/Osiel123/Felicidade321/"
-# Séries por pedaço. Abrir uma série baixa um pedaço, não a letra inteira.
+MARCADOR = re.compile(r"\s*[\[\(]([^\]\)]{1,24})[\]\)]")
+ANO_FIM = re.compile(r"\s*\((19|20)\d{2}\)\s*$")
+ANO_SOLTO = re.compile(r"\s+((?:19|20)\d{2})(?=\s|$)")
+ADULTO = {"adulto", "xxx", "+18", "18+"}
+QUALIDADE = re.compile(r"\s*\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv)\b\s*²?", re.I)
 POR_PEDACO = 120
-MARCADOR = re.compile(r"\s*\[([^\]]+)\]")
-ANO = re.compile(r"\s*\((19|20)\d{2}\)\s*$")
 
 
 def letra(titulo):
-    """Gaveta do título: A–Z, ou # para o que não começa por letra."""
     texto = unicodedata.normalize("NFKD", titulo).encode("ascii", "ignore").decode()
     inicial = texto.strip()[:1].upper()
     return inicial if "A" <= inicial <= "Z" else "#"
 
 
 def limpar(nome):
-    """Devolve (título, legendado). O marcador [L] é versão, não título."""
-    legendado = False
-    marcadores = MARCADOR.findall(nome)
-    if any(m.strip().upper() == "L" for m in marcadores):
-        legendado = True
-    titulo = MARCADOR.sub("", nome).strip()
-    return re.sub(r"\s{2,}", " ", titulo), legendado
+    """Devolve (título, legendado, adulto). Marcador é versão, não título."""
+    marcadores = [m.strip().lower() for m in MARCADOR.findall(nome)]
+    legendado = any(m == "l" for m in marcadores)
+    adulto = any(m in ADULTO for m in marcadores)
+    titulo = MARCADOR.sub(" ", nome)
+    titulo = titulo.replace("²", " ")
+    titulo = re.sub(r"\s{2,}", " ", titulo).strip()
+    return titulo, legendado, adulto
 
 
-def encurtar(url, base):
-    """Só o número, quando a URL parte do endereço conhecido."""
-    if url.startswith(base):
-        resto = url[len(base):]
-        return resto[:-4] if resto.endswith(".mp4") else resto
-    return url
+def chave(titulo):
+    """Nome comparável entre as listas: sem acento, sem ano solto, sem qualidade."""
+    texto = QUALIDADE.sub(" ", titulo)
+    texto = ANO_SOLTO.sub(" ", texto)
+    texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", texto).strip()
 
 
-def baixar():
-    print("baixando a lista de origem…")
-    with urlopen(ORIGEM, timeout=120) as resposta:
+class Bases:
+    """Começos de URL que se repetem, para o item guardar só o número."""
+
+    def __init__(self):
+        self.lista = []
+
+    def encurtar(self, url):
+        for indice, base in enumerate(self.lista):
+            if url.startswith(base):
+                resto = url[len(base):]
+                resto = resto[:-4] if resto.endswith(".mp4") else resto
+                return f"{indice}:{resto}"
+        corte = url.rfind("/") + 1
+        base = url[:corte]
+        if corte > 10 and len(self.lista) < 12:
+            self.lista.append(base)
+            return self.encurtar(url)
+        return url
+
+
+def baixar(url):
+    print(f"baixando {url.rsplit('/', 1)[-1]}…")
+    with urlopen(url, timeout=180) as resposta:
         return resposta.read().decode("utf-8", "replace")
 
 
 def main():
-    texto = baixar()
-    linhas = texto.split("\n")
-    print(f"{len(linhas)} linhas")
-
-    filmes = defaultdict(lambda: defaultdict(dict))  # letra -> título -> {versão: url}
-    series = defaultdict(lambda: defaultdict(dict))  # letra -> série -> (t,e,ver) -> url
-    anos = {}
+    bases = Bases()
+    filmes = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
+    series = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
+    reservado = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
     ignorados = 0
 
-    indice = 0
-    while indice < len(linhas) - 1:
-        linha = linhas[indice]
-        if not linha.startswith("#EXTINF"):
-            indice += 1
-            continue
-        nome = linha.split(",", 1)[-1].strip()
-        url = linhas[indice + 1].strip()
-        indice += 2
-        if not url or url.startswith("#"):
-            continue
-        # Canal de TV ao vivo: não é o assunto desta lista.
-        if url.endswith(".ts"):
-            ignorados += 1
-            continue
+    for origem in ORIGENS:
+        linhas = baixar(origem).split("\n")
+        indice = 0
+        while indice < len(linhas) - 1:
+            linha = linhas[indice]
+            if not linha.startswith("#EXTINF"):
+                indice += 1
+                continue
+            nome = linha.split(",", 1)[-1].strip()
+            url = linhas[indice + 1].strip()
+            indice += 2
+            if not url or url.startswith("#"):
+                continue
+            # Canal de TV ao vivo: não é o assunto desta lista. Na primeira ele
+            # termina em .ts; na segunda vem sem extensão nenhuma.
+            if url.endswith(".ts") or "." not in url.rsplit("/", 1)[-1]:
+                ignorados += 1
+                continue
 
-        titulo, legendado = limpar(nome)
-        versao = "leg" if legendado else "dub"
-        episodio = EPISODIO.match(titulo)
-        if episodio:
-            serie = episodio.group(1).strip()
-            temporada, numero = int(episodio.group(2)), int(episodio.group(3))
-            achado = ANO.search(serie)
-            if achado:
-                anos[ANO.sub("", serie).strip()] = achado.group(0).strip(" ()")
-                serie = ANO.sub("", serie).strip()
-            if serie:
-                series[letra(serie)][serie][(temporada, numero, versao)] = url
-        elif titulo:
-            filmes[letra(titulo)][titulo][versao] = url
+            titulo, legendado, adulto = limpar(nome)
+            if not titulo:
+                continue
+            versao = "leg" if legendado else "dub"
+            curta = bases.encurtar(url)
+
+            episodio = EPISODIO.match(titulo)
+            if episodio:
+                if adulto:
+                    continue
+                serie = episodio.group(1).strip()
+                achado = ANO_FIM.search(serie)
+                ano = achado.group(0).strip(" ()") if achado else ""
+                serie = ANO_FIM.sub("", serie).strip()
+                if not serie:
+                    continue
+                registro = series[chave(serie)]
+                registro["titulo"] = registro["titulo"] or serie
+                registro["ano"] = registro["ano"] or ano
+                alvo = (int(episodio.group(2)), int(episodio.group(3)), versao)
+                if curta not in registro["eps"][alvo]:
+                    registro["eps"][alvo].append(curta)
+            else:
+                destino = reservado if adulto else filmes
+                registro = destino[chave(titulo)]
+                registro["titulo"] = registro["titulo"] or titulo
+                if curta not in registro["versoes"][versao]:
+                    registro["versoes"][versao].append(curta)
 
     SAIDA.mkdir(exist_ok=True)
     for antigo in SAIDA.glob("*.txt"):
         antigo.unlink()
 
-    total_filmes = sum(len(v) for v in filmes.values())
-    for chave, titulos in sorted(filmes.items()):
-        linhas_saida = []
-        for titulo in sorted(titulos):
-            versoes = titulos[titulo]
-            partes = [f"{v}={encurtar(versoes[v], BASE_FILME)}"
-                      for v in ("dub", "leg") if v in versoes]
-            linhas_saida.append(f"{titulo}\t" + "\t".join(partes))
-        (SAIDA / f"filmes-{chave}.txt").write_text("\n".join(linhas_saida) + "\n",
-                                                   encoding="utf-8")
+    def gravar_filmes(colecao, prefixo):
+        gavetas = defaultdict(list)
+        for registro in colecao.values():
+            gavetas[letra(registro["titulo"])].append(registro)
+        for chave_letra, registros in sorted(gavetas.items()):
+            linhas_saida = []
+            for registro in sorted(registros, key=lambda r: r["titulo"]):
+                partes = [f"{v}=" + ",".join(registro["versoes"][v])
+                          for v in ("dub", "leg") if registro["versoes"].get(v)]
+                linhas_saida.append(registro["titulo"] + "\t" + "\t".join(partes))
+            nome = f"{prefixo}-{chave_letra}.txt"
+            (SAIDA / nome).write_text("\n".join(linhas_saida) + "\n", encoding="utf-8")
+        return {k: len(v) for k, v in gavetas.items()}
 
-    total_series = sum(len(v) for v in series.values())
+    contagem_filmes = gravar_filmes(filmes, "filmes")
+    contagem_reservado = gravar_filmes(reservado, "reservado")
+
+    gavetas_serie = defaultdict(list)
+    for registro in series.values():
+        gavetas_serie[letra(registro["titulo"])].append(registro)
+
     total_eps = 0
-    for chave, titulos in sorted(series.items()):
-        indice_serie = []
-        pedaco, linhas_pedaco, dentro = 0, [], 0
-        for titulo in sorted(titulos):
+    contagem_series = {}
+    for chave_letra, registros in sorted(gavetas_serie.items()):
+        registros.sort(key=lambda r: r["titulo"])
+        contagem_series[chave_letra] = len(registros)
+        indice_linhas, pedaco, linhas_pedaco, dentro = [], 0, [], 0
+        for registro in registros:
             if dentro >= POR_PEDACO:
-                (SAIDA / f"series-{chave}-{pedaco}.txt").write_text(
+                (SAIDA / f"series-{chave_letra}-{pedaco}.txt").write_text(
                     "\n".join(linhas_pedaco) + "\n", encoding="utf-8")
                 pedaco, linhas_pedaco, dentro = pedaco + 1, [], 0
-            episodios = titulos[titulo]
-            indice_serie.append(f"{titulo}\t{anos.get(titulo, '')}\t{pedaco}\t{len(episodios)}")
-            linhas_pedaco.append(f"@{titulo}")
-            for (temporada, numero, versao) in sorted(episodios):
+            eps = registro["eps"]
+            indice_linhas.append(
+                f'{registro["titulo"]}\t{registro["ano"]}\t{pedaco}\t{len(eps)}')
+            linhas_pedaco.append("@" + registro["titulo"])
+            for (temporada, numero, versao) in sorted(eps):
                 total_eps += 1
-                curto = encurtar(episodios[(temporada, numero, versao)], BASE_SERIE)
-                linhas_pedaco.append(f"{temporada}\t{numero}\t{versao}\t{curto}")
+                linhas_pedaco.append(
+                    f"{temporada}\t{numero}\t{versao}\t" + ",".join(eps[(temporada, numero, versao)]))
             dentro += 1
         if linhas_pedaco:
-            (SAIDA / f"series-{chave}-{pedaco}.txt").write_text(
+            (SAIDA / f"series-{chave_letra}-{pedaco}.txt").write_text(
                 "\n".join(linhas_pedaco) + "\n", encoding="utf-8")
-        (SAIDA / f"series-{chave}.txt").write_text("\n".join(indice_serie) + "\n",
-                                                   encoding="utf-8")
+        (SAIDA / f"series-{chave_letra}.txt").write_text(
+            "\n".join(indice_linhas) + "\n", encoding="utf-8")
 
-    # Índice pequeno, o único arquivo que a tela inicial precisa baixar.
-    indice_linhas = [
-        f"base-filme: {BASE_FILME}",
-        f"base-serie: {BASE_SERIE}",
-    ]
-    for chave in sorted(set(filmes) | set(series)):
-        indice_linhas.append(f"{chave}\t{len(filmes.get(chave, {}))}\t{len(series.get(chave, {}))}")
+    indice_linhas = [f"base: {i} {b}" for i, b in enumerate(bases.lista)]
+    for chave_letra in sorted(set(contagem_filmes) | set(contagem_series) | set(contagem_reservado)):
+        indice_linhas.append(
+            f"{chave_letra}\t{contagem_filmes.get(chave_letra, 0)}"
+            f"\t{contagem_series.get(chave_letra, 0)}"
+            f"\t{contagem_reservado.get(chave_letra, 0)}")
     (SAIDA / "indice.txt").write_text("\n".join(indice_linhas) + "\n", encoding="utf-8")
 
     tamanho = sum(f.stat().st_size for f in SAIDA.glob("*.txt"))
-    print(f"filmes: {total_filmes} | séries: {total_series} | episódios: {total_eps}")
+    fontes_filme = sum(len(v) for r in filmes.values() for v in r["versoes"].values())
+    print(f"filmes: {len(filmes)} ({fontes_filme} fontes) | séries: {len(series)} "
+          f"| episódios: {total_eps} | reservados: {len(reservado)}")
     print(f"canais de TV ignorados: {ignorados}")
-    print(f"{len(list(SAIDA.glob('*.txt')))} arquivos, {tamanho / 1e6:.1f} MB")
-    maiores = sorted(SAIDA.glob("*.txt"), key=lambda f: -f.stat().st_size)[:5]
-    for f in maiores:
+    print(f"{len(list(SAIDA.glob('*.txt')))} arquivos, {tamanho / 1e6:.1f} MB, "
+          f"{len(bases.lista)} bases")
+    for f in sorted(SAIDA.glob("*.txt"), key=lambda f: -f.stat().st_size)[:3]:
         print(f"   {f.name}: {f.stat().st_size / 1e6:.2f} MB")
 
 

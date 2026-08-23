@@ -2,8 +2,10 @@ import Foundation
 
 struct Filme: Identifiable, Hashable {
     var titulo: String
-    /// Versão ("dub"/"leg") -> endereço.
-    var fontes: [String: String]
+    /// Versão ("dub"/"leg") -> fontes em ordem de preferência. O mesmo filme
+    /// existe nas duas listas de origem, e em vez de aparecer duas vezes ele
+    /// aparece uma com as duas fontes.
+    var fontes: [String: [String]]
     var id: String { titulo }
 }
 
@@ -19,7 +21,7 @@ struct Episodio: Identifiable, Hashable {
     var temporada: Int
     var numero: Int
     var versao: String
-    var url: String
+    var urls: [String]
     var id: String { "\(temporada)-\(numero)-\(versao)" }
 }
 
@@ -38,43 +40,49 @@ enum Vod {
         var letra: String
         var filmes: Int
         var series: Int
+        var reservados: Int
         var id: String { letra }
     }
 
-    private static var baseFilme = ""
-    private static var baseSerie = ""
+    private static var bases: [String] = []
 
     static func indice() async -> [Gaveta] {
         guard let texto = await arquivo("indice.txt") else { return [] }
         var out: [Gaveta] = []
+        var encontradas: [String] = []
         for linha in texto.split(separator: "\n") {
-            if linha.hasPrefix("base-filme:") {
-                baseFilme = String(linha.dropFirst("base-filme:".count)).trimmingCharacters(in: .whitespaces)
-            } else if linha.hasPrefix("base-serie:") {
-                baseSerie = String(linha.dropFirst("base-serie:".count)).trimmingCharacters(in: .whitespaces)
+            if linha.hasPrefix("base:") {
+                let partes = String(linha.dropFirst("base:".count))
+                    .trimmingCharacters(in: .whitespaces)
+                    .split(separator: " ", maxSplits: 1)
+                if partes.count == 2 { encontradas.append(String(partes[1])) }
             } else {
                 let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
-                if campos.count == 3 {
+                if campos.count >= 3 {
                     out.append(Gaveta(letra: String(campos[0]),
                                       filmes: Int(campos[1]) ?? 0,
-                                      series: Int(campos[2]) ?? 0))
+                                      series: Int(campos[2]) ?? 0,
+                                      reservados: campos.count > 3 ? (Int(campos[3]) ?? 0) : 0))
                 }
             }
         }
+        if !encontradas.isEmpty { bases = encontradas }
         return out
     }
 
-    static func filmes(letra: String) async -> [Filme] {
-        guard let texto = await arquivo("filmes-\(gaveta(letra)).txt") else { return [] }
+    static func filmes(letra: String, reservados: Bool = false) async -> [Filme] {
+        let prefixo = reservados ? "reservado" : "filmes"
+        guard let texto = await arquivo("\(prefixo)-\(gaveta(letra)).txt") else { return [] }
         return texto.split(separator: "\n").compactMap { linha in
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 2, !campos[0].isEmpty else { return nil }
-            var fontes: [String: String] = [:]
+            var fontes: [String: [String]] = [:]
             for parte in campos.dropFirst() {
                 guard let marca = parte.firstIndex(of: "=") else { continue }
                 let versao = String(parte[parte.startIndex..<marca])
-                let valor = String(parte[parte.index(after: marca)...])
-                fontes[versao] = montar(valor, base: baseFilme)
+                let lista = String(parte[parte.index(after: marca)...])
+                    .split(separator: ",").map { montar(String($0)) }
+                if !lista.isEmpty { fontes[versao] = lista }
             }
             return fontes.isEmpty ? nil : Filme(titulo: String(campos[0]), fontes: fontes)
         }
@@ -105,19 +113,26 @@ enum Vod {
             guard dentro else { continue }
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 4 else { continue }
+            let urls = campos[3].split(separator: ",").map { montar(String($0)) }
+            guard !urls.isEmpty else { continue }
             out.append(Episodio(temporada: Int(campos[0]) ?? 0,
                                 numero: Int(campos[1]) ?? 0,
                                 versao: String(campos[2]),
-                                url: montar(String(campos[3]), base: baseSerie)))
+                                urls: urls))
         }
         return out
     }
 
-    /// O catálogo guarda só o número; o endereço inteiro sairia setenta vezes
-    /// maior e é sempre o mesmo.
-    private static func montar(_ valor: String, base: String) -> String {
+    /// O item guarda "base:resto"; o endereço inteiro sairia dezenas de vezes
+    /// maior, e o começo é sempre o mesmo punhado de servidores.
+    private static func montar(_ valor: String) -> String {
         if valor.hasPrefix("http") { return valor }
-        return valor.contains(".") ? base + valor : "\(base)\(valor).mp4"
+        guard let corte = valor.firstIndex(of: ":"),
+              let indice = Int(valor[valor.startIndex..<corte]),
+              bases.indices.contains(indice) else { return valor }
+        let resto = String(valor[valor.index(after: corte)...])
+        let base = bases[indice]
+        return resto.contains(".") ? base + resto : "\(base)\(resto).mp4"
     }
 
     private static func gaveta(_ letra: String) -> String {

@@ -11,6 +11,7 @@ struct VodView: View {
 
     @State private var gavetas: [Vod.Gaveta] = []
     @State private var filmes = true
+    @State private var reservado = false
     @State private var letra = ""
     @State private var titulosFilme: [Filme] = []
     @State private var titulosSerie: [Serie] = []
@@ -50,16 +51,28 @@ struct VodView: View {
 
     private var secoes: some View {
         List {
-            botaoSecao(titulo: "Filmes", total: gavetas.reduce(0) { $0 + $1.filmes }, filmes: true)
-            botaoSecao(titulo: "Séries", total: gavetas.reduce(0) { $0 + $1.series }, filmes: false)
+            botaoSecao(titulo: "Filmes", total: gavetas.reduce(0) { $0 + $1.filmes },
+                       filmes: true, extras: false)
+            botaoSecao(titulo: "Séries", total: gavetas.reduce(0) { $0 + $1.series },
+                       filmes: false, extras: false)
+            // Só existe depois do código, e como uma linha igual às outras.
+            if model.restrictedUnlocked {
+                let total = gavetas.reduce(0) { $0 + $1.reservados }
+                if total > 0 {
+                    botaoSecao(titulo: "Extras", total: total, filmes: true, extras: true)
+                }
+            }
         }
         .listStyle(.sidebar)
         .frame(width: 190)
     }
 
-    private func botaoSecao(titulo: String, total: Int, filmes alvo: Bool) -> some View {
-        Button {
+    private func botaoSecao(titulo: String, total: Int,
+                            filmes alvo: Bool, extras: Bool) -> some View {
+        let ativo = filmes == alvo && reservado == extras
+        return Button {
             filmes = alvo
+            reservado = extras
             serieAberta = nil
             if !letra.isEmpty { Task { await carregar() } }
         } label: {
@@ -70,11 +83,13 @@ struct VodView: View {
             }
         }
         .buttonStyle(.plain)
-        .fontWeight(filmes == alvo ? .semibold : .regular)
+        .fontWeight(ativo ? .semibold : .regular)
     }
 
     private var letras: some View {
-        List(gavetas.filter { filmes ? $0.filmes > 0 : $0.series > 0 }) { gaveta in
+        List(gavetas.filter {
+            reservado ? $0.reservados > 0 : (filmes ? $0.filmes > 0 : $0.series > 0)
+        }) { gaveta in
             Button {
                 letra = gaveta.letra
                 serieAberta = nil
@@ -84,7 +99,7 @@ struct VodView: View {
                 HStack {
                     Text(gaveta.letra).fontWeight(letra == gaveta.letra ? .bold : .regular)
                     Spacer()
-                    Text("\(filmes ? gaveta.filmes : gaveta.series)")
+                    Text("\(reservado ? gaveta.reservados : (filmes ? gaveta.filmes : gaveta.series))")
                         .foregroundStyle(.secondary).font(.caption)
                 }
             }
@@ -117,9 +132,9 @@ struct VodView: View {
                         Text(filme.titulo)
                         Spacer()
                         ForEach(filme.fontes.keys.sorted(), id: \.self) { versao in
-                            Button(rotulo(versao)) {
-                                tocar(filme.titulo, filme.fontes[versao] ?? "",
-                                      detalhe: "Filme · \(rotulo(versao))")
+                            let urls = filme.fontes[versao] ?? []
+                            Button(botao(versao, urls.count)) {
+                                tocar(filme.titulo, urls, detalhe: "Filme · \(rotulo(versao))")
                             }
                             .controlSize(.small)
                         }
@@ -178,24 +193,33 @@ struct VodView: View {
             List {
                 ForEach(temporadas, id: \.self) { temporada in
                     Section("Temporada \(temporada)") {
-                        ForEach(episodios.filter { $0.temporada == temporada }
-                            .sorted { ($0.numero, $0.versao) < ($1.numero, $1.versao) }) { episodio in
-                            HStack {
-                                Text("Episódio \(episodio.numero)")
-                                Text(rotulo(episodio.versao))
-                                    .foregroundStyle(.secondary).font(.caption)
-                                Spacer()
-                                Button("Assistir") {
-                                    tocar(serie.titulo, episodio.url,
-                                          detalhe: "Temporada \(episodio.temporada), episódio "
-                                            + "\(episodio.numero) · \(rotulo(episodio.versao))")
-                                }
-                                .controlSize(.small)
-                            }
+                        ForEach(daTemporada(temporada)) { episodio in
+                            linhaEpisodio(serie, episodio)
                         }
                     }
                 }
             }
+        }
+    }
+
+    private func daTemporada(_ temporada: Int) -> [Episodio] {
+        episodios.filter { $0.temporada == temporada }
+            .sorted { ($0.numero, $0.versao) < ($1.numero, $1.versao) }
+    }
+
+    private func linhaEpisodio(_ serie: Serie, _ episodio: Episodio) -> some View {
+        let detalhe = "Temporada \(episodio.temporada), episódio \(episodio.numero)"
+            + " · \(rotulo(episodio.versao))"
+        return HStack {
+            Text("Episódio \(episodio.numero)")
+            Text(botao(episodio.versao, episodio.urls.count))
+                .foregroundStyle(.secondary)
+                .font(.caption)
+            Spacer()
+            Button("Assistir") {
+                tocar(serie.titulo, episodio.urls, detalhe: detalhe)
+            }
+            .controlSize(.small)
         }
     }
 
@@ -211,7 +235,7 @@ struct VodView: View {
     private func carregar() async {
         carregando = true
         if filmes {
-            titulosFilme = await Vod.filmes(letra: letra)
+            titulosFilme = await Vod.filmes(letra: letra, reservados: reservado)
             titulosSerie = []
         } else {
             titulosSerie = await Vod.series(letra: letra)
@@ -224,9 +248,15 @@ struct VodView: View {
         versao == "leg" ? "Legendado" : "Dublado"
     }
 
-    private func tocar(_ nome: String, _ url: String, detalhe: String = "") {
-        guard let destino = URL(string: url) else { return }
-        model.playFile(destino, nome: nome, detalhe: detalhe)
+    /// Duas fontes não viram dois botões: viram um botão e uma reserva.
+    private func botao(_ versao: String, _ fontes: Int) -> String {
+        fontes > 1 ? "\(rotulo(versao)) (\(fontes))" : rotulo(versao)
+    }
+
+    private func tocar(_ nome: String, _ urls: [String], detalhe: String = "") {
+        let destinos = urls.compactMap(URL.init(string:))
+        guard !destinos.isEmpty else { return }
+        model.playFile(destinos, nome: nome, detalhe: detalhe)
         dismiss()
     }
 }

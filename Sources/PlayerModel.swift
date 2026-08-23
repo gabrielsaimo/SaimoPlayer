@@ -97,6 +97,9 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
     private var playedSinceOpen = false
     private var sourcesTried = 0
+    /// Fontes do arquivo no ar, em ordem. O mesmo filme vem das duas listas.
+    private var fileSources: [URL] = []
+    private var fileSourceIndex = 0
 
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
@@ -228,22 +231,25 @@ final class PlayerModel: NSObject, ObservableObject {
     /// A seleção de canal fica como está, de propósito: a lista lateral é uma
     /// List ligada a ela, e zerá-la fazia a própria lista devolver um canal —
     /// que entrava por cima do filme antes do primeiro quadro.
-    func playFile(_ url: URL, nome: String, detalhe: String = "") {
-        playingFile = url
+    func playFile(_ urls: [URL], nome: String, detalhe: String = "") {
+        guard let primeira = urls.first else { return }
+        fileSources = urls
+        fileSourceIndex = 0
+        playingFile = primeira
         playingFileName = nome
         playingFileDetail = detalhe
         duration = 0
         position = 0
-        generatedLink = url
+        generatedLink = primeira
         status = "carregando…"
         reconnectAttempt = 0
         playedSinceOpen = false
         sourcesTried = 0
-        sourceCount = 1
+        sourceCount = urls.count
         sourceIndex = 0
-        sourceHost = url.host ?? ""
-        Log.shared.write("abrindo \(nome) — \(url.absoluteString)")
-        load(url, channel: nil)
+        sourceHost = primeira.host ?? ""
+        Log.shared.write("abrindo \(nome) — \(primeira.absoluteString)")
+        load(primeira, channel: nil)
     }
 
     func playVariant(_ channel: Channel, index: Int) {
@@ -372,6 +378,22 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private func scheduleReconnect(reason: String) {
         if let arquivo = playingFile {
+            // Enquanto o arquivo não entregou nada, é fonte ruim: desce para a
+            // seguinte antes de insistir na mesma.
+            if !playedSinceOpen, fileSourceIndex + 1 < fileSources.count {
+                fileSourceIndex += 1
+                let proxima = fileSources[fileSourceIndex]
+                playingFile = proxima
+                sourceIndex = fileSourceIndex
+                sourceHost = proxima.host ?? ""
+                status = "tentando a fonte \(fileSourceIndex + 1) de \(fileSources.count)…"
+                Log.shared.write("\(playingFileName): \(reason) — indo para a fonte \(fileSourceIndex + 1)")
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
+                    guard let self, self.playingFile == proxima else { return }
+                    self.load(proxima, channel: nil)
+                }
+                return
+            }
             reconnectAttempt += 1
             guard reconnectAttempt <= 4 else {
                 status = "falhou: \(reason)"
@@ -452,8 +474,8 @@ final class PlayerModel: NSObject, ObservableObject {
     /// escolha é lida de lá a cada segundo em vez de adivinhada aqui.
     private func refreshSource() {
         if playingFile != nil {
-            sourceCount = 1
-            sourceIndex = 0
+            sourceCount = max(fileSources.count, 1)
+            sourceIndex = fileSourceIndex
             isLoadingSource = player.timeControlStatus != .playing
             return
         }
