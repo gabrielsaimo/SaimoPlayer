@@ -46,7 +46,17 @@ enum Vod {
 
     private static var bases: [String] = []
 
+    /// Sobe quando o formato do catálogo muda.
+    ///
+    /// O cache é por arquivo e dura entre aberturas, então um catálogo gravado
+    /// por uma versão antiga sobrevive à atualização do app — foi assim que um
+    /// índice sem as linhas `base:` deixou todo filme com endereço quebrado.
+    /// Guardar a versão junto e limpar a pasta quando ela muda evita que o
+    /// formato velho envenene o novo.
+    private static let versaoCache = "2"
+
     static func indice() async -> [Gaveta] {
+        conferirVersao()
         guard let texto = await arquivo("indice.txt") else { return [] }
         var out: [Gaveta] = []
         var encontradas: [String] = []
@@ -82,6 +92,7 @@ enum Vod {
                 let versao = String(parte[parte.startIndex..<marca])
                 let lista = String(parte[parte.index(after: marca)...])
                     .split(separator: ",").map { montar(String($0)) }
+                    .filter { !$0.isEmpty }
                 if !lista.isEmpty { fontes[versao] = lista }
             }
             return fontes.isEmpty ? nil : Filme(titulo: String(campos[0]), fontes: fontes)
@@ -114,6 +125,7 @@ enum Vod {
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 4 else { continue }
             let urls = campos[3].split(separator: ",").map { montar(String($0)) }
+                .filter { !$0.isEmpty }
             guard !urls.isEmpty else { continue }
             out.append(Episodio(temporada: Int(campos[0]) ?? 0,
                                 numero: Int(campos[1]) ?? 0,
@@ -127,12 +139,24 @@ enum Vod {
     /// maior, e o começo é sempre o mesmo punhado de servidores.
     private static func montar(_ valor: String) -> String {
         if valor.hasPrefix("http") { return valor }
+        // Sem a base o que sobra é "0:19927", que o player aceita como URL de
+        // esquema "0" e só falha na hora de tocar. Melhor não devolver fonte.
         guard let corte = valor.firstIndex(of: ":"),
               let indice = Int(valor[valor.startIndex..<corte]),
-              bases.indices.contains(indice) else { return valor }
+              bases.indices.contains(indice) else { return "" }
         let resto = String(valor[valor.index(after: corte)...])
         let base = bases[indice]
         return resto.contains(".") ? base + resto : "\(base)\(resto).mp4"
+    }
+
+    private static func conferirVersao() {
+        let marca = pasta.appendingPathComponent("versao.txt")
+        let atual = try? String(contentsOf: marca, encoding: .utf8)
+        guard atual != versaoCache else { return }
+        let arquivos = (try? FileManager.default.contentsOfDirectory(
+            at: pasta, includingPropertiesForKeys: nil)) ?? []
+        for arquivo in arquivos { try? FileManager.default.removeItem(at: arquivo) }
+        try? versaoCache.write(to: marca, atomically: true, encoding: .utf8)
     }
 
     private static func gaveta(_ letra: String) -> String {
