@@ -44,6 +44,7 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var showStats = false
     @Published var showLog = false
     @Published var showGuide = false
+    @Published var showVod = false
     /// Channel list living in its own window pinned to the player.
     @Published var detachedList = true
     @Published var stats = PlaybackStats()
@@ -197,6 +198,26 @@ final class PlayerModel: NSObject, ObservableObject {
         load(link, channel: channel)
     }
 
+    /// Toca um arquivo — filme ou episódio — em vez de um canal.
+    ///
+    /// Vai direto ao endereço, sem passar pelo proxy: um mp4 progressivo o
+    /// AVFoundation lê sozinho, e o proxy só existe para reescrever playlist e
+    /// remontar o que ele recusa. O provedor responde 302 para uma URL com
+    /// token, e o redirecionamento o próprio AVFoundation segue.
+    func playFile(_ url: URL, nome: String) {
+        selection = nil
+        generatedLink = url
+        status = "carregando…"
+        reconnectAttempt = 0
+        playedSinceOpen = false
+        sourcesTried = 0
+        sourceCount = 1
+        sourceIndex = 0
+        sourceHost = url.host ?? ""
+        Log.shared.write("abrindo \(nome)")
+        load(url, channel: nil)
+    }
+
     func playVariant(_ channel: Channel, index: Int) {
         ProxyServer.shared.forceVariant(channel, index)
         if selection != channel.id {
@@ -206,7 +227,7 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
-    private func load(_ link: URL, channel: Channel) {
+    private func load(_ link: URL, channel: Channel?) {
         tearDownItemObservers()
 
         let asset = AVURLAsset(url: link, options: [
@@ -252,7 +273,7 @@ final class PlayerModel: NSObject, ObservableObject {
         isPlaying = true
         startTimers()
         loadMediaOptions(for: asset, item: item)
-        updateNowPlaying(channel: channel)
+        if let channel { updateNowPlaying(channel: channel) }
         preventSleep(true)
     }
 
