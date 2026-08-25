@@ -56,7 +56,11 @@ final class Remuxer {
         var count = 1
         var isHEVC = false
         if let ffprobe = Remuxer.ffprobePath {
-            var args = ["-v", "error", "-show_programs", "-show_streams", "-of", "json"]
+            // Estes CDNs entregam o segmento com extensão de disfarce (.pdf,
+            // .png). O ffmpeg recusa o que não reconhece, então a lista fica
+            // aberta: o que manda é o conteúdo, não o nome do arquivo.
+            var args = ["-v", "error", "-show_programs", "-show_streams", "-of", "json",
+                        "-allowed_extensions", "ALL", "-extension_picky", "0"]
             if let ua = variant.userAgent { args += ["-user_agent", ua] }
             if let ref = variant.referer { args += ["-referer", ref] }
             if variant.isDASH, let key = variant.clearKey, !key.isEmpty {
@@ -177,7 +181,8 @@ final class Remuxer {
         try? FileManager.default.removeItem(at: dir)
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
 
-        var args = ["-hide_banner", "-loglevel", "error", "-fflags", "+genpts"]
+        var args = ["-hide_banner", "-loglevel", "error", "-fflags", "+genpts",
+                    "-allowed_extensions", "ALL", "-extension_picky", "0"]
         if let ua = variant.userAgent { args += ["-user_agent", ua] }
         if let ref = variant.referer { args += ["-referer", ref] }
         // CENC ClearKey — only the DASH demuxer understands this option;

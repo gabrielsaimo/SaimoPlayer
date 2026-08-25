@@ -71,7 +71,7 @@ private let catalog: [CatalogEntry] = [
         name: "Cartoon Network",
         logo: "https://mondrian.claro.com.br/channels/inverse/cartoon-network.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=206&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787508049-h5sT7JXl7pqAEjuwW2AvieOmBzyLFZ%2BW6VnCnVLXdYA%3D",
+            Source(url: "https://_______________________________________________________________.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=84&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787689309-%2FssbacY0lf%2FaEdVkBHNWxAAcCUGhU2J8y9NgGnE440g%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -638,7 +638,7 @@ private let catalog: [CatalogEntry] = [
         name: "Space",
         logo: "https://mondrian.claro.com.br/channels/inverse/space.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/space/__index.m3u8?sv=92&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511271-pvZFXRB6qIcrfFUyEDuS1MreRBFIgm3sYbySni7QoPs%3D",
+            Source(url: "https://_______________________________________________________________.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/space/__index.m3u8?sv=99&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787689135-lMYR0Q44VqZ1jjexU8svYO9V4nwIWjpMyvQGLchfKlk%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -682,7 +682,7 @@ private let restrictedCatalog: [CatalogEntry] = [
         name: "Sexy Hot",
         logo: "https://mondrian.claro.com.br/channels/inverse/sexy-hot.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexhot/__index.m3u8?sv=78&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511388-rZbfJ5bOpuDMWOJEcSsiyRRhOgnqQDs4s%2B%2BXoJWy43I%3D",
+            Source(url: "https://_______________________________________________________________.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexhot/__index.m3u8?sv=6&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787689564-aM005g6E%2FYMgnoZgUnYEF28ouVUon%2FXBOI7lMLZShac%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -691,7 +691,7 @@ private let restrictedCatalog: [CatalogEntry] = [
         name: "Sex Privé",
         logo: "https://mondrian.claro.com.br/channels/inverse/sexprive.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexprive/__index.m3u8?sv=110&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511437-dFK5X3iYi9G%2FI1YwlVC3CqnGpQyF75Cm83YWOxkbhuI%3D",
+            Source(url: "https://_______________________________________________________________.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sexprive/__index.m3u8?sv=54&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787689614-T5qTalNl2RblYNCOvkva1kwAqG1ahOhUp0YxwPPKWWE%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
