@@ -54,7 +54,28 @@ final class Upstream {
         session = URLSession(configuration: cfg)
     }
 
-    func fetch(_ url: URL, method: String = "GET", referer: String? = nil) throws -> UpstreamResponse {
+    /// Alguns CDNs escrevem o host da playlist em percent-escape:
+    /// "%64%31%6d..." é "d1muf25xaso8hp.cloudfront.net". O CFNetwork não
+    /// desfaz escape no host — tenta resolver o nome com os "%" dentro e a
+    /// conexão morre antes de sair da máquina. curl e ffmpeg desfazem, e é por
+    /// isso que o mesmo link funciona por fora e não funciona no app.
+    static func hostLegivel(_ url: URL) -> URL {
+        let texto = url.absoluteString
+        guard let barras = texto.range(of: "://") else { return url }
+        let inicio = barras.upperBound
+        // O host vai até a primeira barra, "?" ou "#"; o resto do endereço fica
+        // intocado, porque lá o escape faz parte do caminho e é para valer.
+        let fim = texto[inicio...].firstIndex(where: { $0 == "/" || $0 == "?" || $0 == "#" })
+            ?? texto.endIndex
+        let host = String(texto[inicio..<fim])
+        guard host.contains("%"), let aberto = host.removingPercentEncoding,
+              aberto != host, !aberto.contains("/")
+        else { return url }
+        return URL(string: texto.replacingCharacters(in: inicio..<fim, with: aberto)) ?? url
+    }
+
+    func fetch(_ endereco: URL, method: String = "GET", referer: String? = nil) throws -> UpstreamResponse {
+        let url = Upstream.hostLegivel(endereco)
         do {
             return try fetchViaURLSession(url, method: method, referer: referer)
         } catch let e as NSError where e.domain == NSURLErrorDomain
