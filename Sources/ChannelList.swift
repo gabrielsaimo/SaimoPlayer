@@ -8,8 +8,52 @@ struct ChannelListView: View {
     /// The detached window has no toolbar to hang the "+" menu on.
     var showsAddMenu: Bool = true
 
+    @ObservedObject private var vod = VodEstado.shared
+    @ObservedObject private var favoritos = VodFavoritos.shared
+
     var body: some View {
+        VStack(spacing: 0) {
+            // O acervo fica fora da List de propósito: dentro dela o clique
+            // era engolido pela seleção da linha, e o botão chegou a disparar
+            // sozinho na montagem, abrindo uma seção que ninguém escolheu.
+            acervo
+            Divider()
+            lista
+        }
+    }
+
+    private var acervo: some View {
+        VStack(alignment: .leading, spacing: 2) {
+            Text("Acervo")
+                .font(.system(size: 11, weight: .semibold))
+                .foregroundStyle(.secondary)
+                .padding(.horizontal, 14)
+                .padding(.top, 10)
+                .padding(.bottom, 2)
+            // Toque, e não Button: o botão desta lista dispara sozinho na
+            // montagem da janela e o acervo abria sem ninguém ter clicado.
+            ForEach(secoesDoAcervo) { secao in
+                HStack(spacing: 6) {
+                    Label(secao.titulo, systemImage: secao.icone)
+                        .fontWeight(vod.secao == secao ? .semibold : .regular)
+                    Spacer()
+                }
+                .padding(.vertical, 5)
+                .padding(.horizontal, 10)
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .background(vod.secao == secao ? Color.accentColor.opacity(0.25) : .clear,
+                            in: RoundedRectangle(cornerRadius: 6))
+                .contentShape(Rectangle())
+                .onTapGesture { vod.secao = secao }
+                .padding(.horizontal, 6)
+            }
+        }
+        .padding(.bottom, 8)
+    }
+
+    private var lista: some View {
         List(selection: $model.selection) {
+            Section("Canais") {
             ForEach(model.visibleChannels) { channel in
                 ChannelRow(channel: channel,
                            isFavorite: model.isFavorite(channel),
@@ -33,6 +77,7 @@ struct ChannelListView: View {
                         Button("Remover canal", role: .destructive) { model.removeChannel(channel) }
                     }
             }
+            }
         }
         .listStyle(.sidebar)
         .searchable(text: $model.search, placement: .sidebar, prompt: "Buscar canal")
@@ -50,6 +95,17 @@ struct ChannelListView: View {
                 }
             }
         }
+    }
+}
+
+extension ChannelListView {
+    /// Extras só existem depois do código, e favoritos só quando há algum:
+    /// uma seção vazia na lista seria um beco.
+    var secoesDoAcervo: [VodSecao] {
+        var out: [VodSecao] = [.filmes, .series]
+        if !favoritos.itens.isEmpty { out.append(.favoritos) }
+        if model.restrictedUnlocked { out.append(.extras) }
+        return out
     }
 }
 

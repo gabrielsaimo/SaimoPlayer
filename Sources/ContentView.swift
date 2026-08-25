@@ -7,12 +7,11 @@ struct ContentView: View {
     @State private var controlsVisible = true
     @State private var hideWork: DispatchWorkItem?
 
+    @ObservedObject private var vod = VodEstado.shared
+
     var body: some View {
-        stage
+        principal
             .frame(minWidth: 720, minHeight: 460)
-            .sheet(isPresented: $model.showVod) {
-                VodView(model: model)
-            }
             .sheet(isPresented: $model.showGuide) {
                 EPGGuideView(model: model)
             }
@@ -34,6 +33,18 @@ struct ContentView: View {
                     SidebarWindowController.shared.close()
                 }
             }
+    }
+
+    /// O acervo ocupa a área do vídeo quando está aberto: a capa grande é o
+    /// que faz escolher filme ser escolher, e não adivinhar por uma linha de
+    /// texto. O que estava tocando continua tocando por trás, sem recomeçar.
+    @ViewBuilder
+    private var principal: some View {
+        if vod.secao != nil {
+            VodGridView(model: model)
+        } else {
+            stage
+        }
     }
 
     // MARK: - Stage
@@ -424,7 +435,7 @@ private struct NowPlayingStrip: View {
                 .buttonStyle(.plain)
                 .help("Programação completa (⌘G)")
 
-                Button { model.showVod = true } label: {
+                Button { VodEstado.shared.secao = .filmes } label: {
                     Label("Filmes", systemImage: "film")
                         .font(.system(size: 11, weight: .medium))
                 }
@@ -486,7 +497,7 @@ private struct NowPlayingStrip: View {
                 }
             }
             Spacer(minLength: 12)
-            Button { model.showVod = true } label: {
+            Button { VodEstado.shared.secao = .filmes } label: {
                 Label("Filmes", systemImage: "film.stack")
                     .font(.system(size: 11, weight: .medium))
             }

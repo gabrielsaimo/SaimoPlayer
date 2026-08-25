@@ -44,7 +44,6 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var showStats = false
     @Published var showLog = false
     @Published var showGuide = false
-    @Published var showVod = false
     /// Channel list living in its own window pinned to the player.
     @Published var detachedList = true
     @Published var stats = PlaybackStats()
@@ -491,6 +490,14 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Vai para um ponto do arquivo. Tolerância zero para o quadro cair onde a
     /// pessoa soltou, e não no ponto-chave mais próximo, que num filme pode
     /// estar dez segundos adiante.
+    /// Anda no filme sem sair dele, mesmo antes de a duração ser conhecida.
+    func pular(_ segundos: Double) {
+        guard playingFile != nil else { return }
+        let atual = player.currentTime().seconds
+        let base = atual.isFinite ? atual : position
+        seek(to: max(0, base + segundos))
+    }
+
     func seek(to seconds: Double) {
         guard playingFile != nil, duration > 0 else { return }
         let alvo = CMTime(seconds: max(0, min(seconds, duration)), preferredTimescale: 600)
@@ -769,8 +776,15 @@ final class PlayerModel: NSObject, ObservableObject {
                 case 49:  self.togglePlayPause(); return true                 // space
                 case 126: self.nudgeVolume(0.05); return true                 // up
                 case 125: self.nudgeVolume(-0.05); return true                // down
-                case 123: self.step(-1); return true                          // left
-                case 124: self.step(1); return true                           // right
+                // Num filme a seta é o que ela é em qualquer player: dez
+                // segundos para trás ou para frente. Trocar de canal só faz
+                // sentido quando o que está no ar é canal.
+                case 123:                                                     // left
+                    if self.playingFile != nil { self.pular(-10) } else { self.step(-1) }
+                    return true
+                case 124:                                                     // right
+                    if self.playingFile != nil { self.pular(10) } else { self.step(1) }
+                    return true
                 default: break
                 }
                 switch event.charactersIgnoringModifiers?.lowercased() {
