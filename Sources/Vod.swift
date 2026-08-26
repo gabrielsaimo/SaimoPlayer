@@ -168,6 +168,25 @@ enum Vod {
         return lidos
     }
 
+    /// Os extras inteiros, juntando as letras que têm algum.
+    ///
+    /// Eles não entram no índice de busca de propósito — o que não aparece sem
+    /// o código também não pode aparecer numa busca comum —, então aqui a lista
+    /// é montada lendo os arquivos por letra. São só os nomes: as fontes ficam
+    /// para a hora de abrir, como na navegação normal.
+    static func todosReservados(_ letras: [String]) async -> [Achado] {
+        var out: [Achado] = []
+        for letra in letras {
+            guard let texto = await arquivo("reservado-\(gaveta(letra)).txt") else { continue }
+            for linha in texto.split(separator: "\n") {
+                let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
+                guard campos.count >= 2, !campos[0].isEmpty else { continue }
+                out.append(Achado(titulo: String(campos[0]), serie: false, letra: letra))
+            }
+        }
+        return out
+    }
+
     /// O item guarda "base:resto"; o endereço inteiro sairia dezenas de vezes
     /// maior, e o começo é sempre o mesmo punhado de servidores.
     private static func montar(_ valor: String) -> String {

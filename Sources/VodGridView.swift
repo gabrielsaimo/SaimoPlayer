@@ -71,15 +71,15 @@ struct VodGridView: View {
     private var reguaDeLetras: some View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack(spacing: 6) {
-                // Procurar um filme sem saber a letra dele é o caso comum;
+                // Procurar um título sem saber a letra dele é o caso comum;
                 // "Tudo" põe o acervo inteiro sob a mesma busca — o da seção
-                // aberta: em Filmes só filmes, em Séries só séries. Extras não
-                // entram no índice geral, e por isso não têm o atalho.
-                if estado.secao != .extras {
+                // aberta: em Filmes só filmes, em Séries só séries, em Extras
+                // só extras.
                 Button {
                     estado.tudo = true
                     estado.serieAberta = nil
                     estado.ancora = nil
+                    if estado.achadosDe != estado.secao { estado.achados = [] }
                     Task { await carregarTudo() }
                 } label: {
                     Text("Tudo")
@@ -91,7 +91,6 @@ struct VodGridView: View {
                 }
                 .buttonStyle(.plain)
                 .help("Todo o acervo desta seção, para buscar de uma vez")
-                }
 
                 ForEach(gavetasVisiveis) { gaveta in
                     let ativa = !estado.tudo && gaveta.letra == estado.letra
@@ -307,8 +306,8 @@ struct VodGridView: View {
                    progresso: achado.serie ? nil
                        : Progresso.fracao(Progresso.chaveFilme(achado.titulo)),
                    letra: achado.letra,
-                   reservado: false) {
-                Task { await abrirAchado(achado) }
+                   reservado: estado.secao == .extras) {
+                Task { await abrirAchado(achado, reservado: estado.secao == .extras) }
             }
         }
     }
@@ -398,10 +397,9 @@ struct VodGridView: View {
         if estado.gavetas.isEmpty { estado.gavetas = await Vod.indice() }
         estado.filmes = secao.pedeFilmes
         estado.reservado = secao == .extras
-        if secao == .extras { estado.tudo = false }
         guard secao != .favoritos else { return }
         if estado.tudo {
-            if estado.achados.isEmpty { await carregarTudo() }
+            if estado.achados.isEmpty || estado.achadosDe != secao { await carregarTudo() }
             return
         }
         // A letra escolhida antes continua valendo; só quando ela não serve
@@ -450,12 +448,18 @@ struct VodGridView: View {
     private func carregarTudo() async {
         carregando = true
         defer { carregando = false }
-        estado.achados = await Vod.todos()
+        if estado.secao == .extras {
+            // Fora do índice de busca, então a lista sai dos arquivos por letra.
+            estado.achados = await Vod.todosReservados(gavetasVisiveis.map(\.letra))
+        } else {
+            estado.achados = await Vod.todos()
+        }
+        estado.achadosDe = estado.secao
     }
 
-    private func abrirAchado(_ achado: Vod.Achado) async {
+    private func abrirAchado(_ achado: Vod.Achado, reservado: Bool) async {
         await abrirFavorito(VodFavoritos.Item(titulo: achado.titulo, serie: achado.serie,
-                                              letra: achado.letra, reservado: false))
+                                              letra: achado.letra, reservado: reservado))
     }
 
     private func abrirFavorito(_ item: VodFavoritos.Item) async {
