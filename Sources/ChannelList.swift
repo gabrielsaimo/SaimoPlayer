@@ -32,21 +32,23 @@ struct ChannelListView: View {
                 .padding(.bottom, 2)
             // Toque, e não Button: o botão desta lista dispara sozinho na
             // montagem da janela e o acervo abria sem ninguém ter clicado.
-            ForEach(secoesDoAcervo) { secao in
-                HStack(spacing: 6) {
+            // Lado a lado enquanto couber; o que não couber desce uma linha.
+            EmFila(espacamento: 6) {
+                ForEach(secoesDoAcervo) { secao in
                     Label(secao.titulo, systemImage: secao.icone)
+                        .labelStyle(.titleAndIcon)
+                        .font(.system(size: 12))
                         .fontWeight(vod.secao == secao ? .semibold : .regular)
-                    Spacer()
+                        .padding(.vertical, 5)
+                        .padding(.horizontal, 9)
+                        .background(vod.secao == secao ? Color.accentColor.opacity(0.25)
+                                                       : Color.primary.opacity(0.06),
+                                    in: RoundedRectangle(cornerRadius: 6))
+                        .contentShape(Rectangle())
+                        .onTapGesture { vod.secao = secao }
                 }
-                .padding(.vertical, 5)
-                .padding(.horizontal, 10)
-                .frame(maxWidth: .infinity, alignment: .leading)
-                .background(vod.secao == secao ? Color.accentColor.opacity(0.25) : .clear,
-                            in: RoundedRectangle(cornerRadius: 6))
-                .contentShape(Rectangle())
-                .onTapGesture { vod.secao = secao }
-                .padding(.horizontal, 6)
             }
+            .padding(.horizontal, 12)
         }
         .padding(.bottom, 8)
     }
@@ -95,6 +97,68 @@ struct ChannelListView: View {
                 }
             }
         }
+    }
+}
+
+/// Põe os filhos um ao lado do outro e quebra a linha quando não cabe mais.
+///
+/// A barra lateral é estreita e o número de seções muda com o que está
+/// destravado: quatro cabem em duas linhas numa lista larga e em quatro numa
+/// estreita, e nenhuma medida fixa acerta as duas.
+struct EmFila: Layout {
+    var espacamento: CGFloat = 6
+
+    func sizeThatFits(proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) -> CGSize {
+        let largura = proposal.width ?? .infinity
+        let linhas = distribuir(subviews, largura: largura)
+        let altura = linhas.reduce(0) { $0 + $1.altura } +
+            espacamento * CGFloat(max(0, linhas.count - 1))
+        return CGSize(width: proposal.width ?? linhas.map(\.largura).max() ?? 0,
+                      height: altura)
+    }
+
+    func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize,
+                       subviews: Subviews, cache: inout ()) {
+        var y = bounds.minY
+        for linha in distribuir(subviews, largura: bounds.width) {
+            var x = bounds.minX
+            for indice in linha.indices {
+                let tamanho = subviews[indice].sizeThatFits(.unspecified)
+                subviews[indice].place(at: CGPoint(x: x, y: y), anchor: .topLeading,
+                                       proposal: ProposedViewSize(tamanho))
+                x += tamanho.width + espacamento
+            }
+            y += linha.altura + espacamento
+        }
+    }
+
+    private struct Linha {
+        var indices: [Int] = []
+        var largura: CGFloat = 0
+        var altura: CGFloat = 0
+    }
+
+    private func distribuir(_ subviews: Subviews, largura limite: CGFloat) -> [Linha] {
+        var linhas: [Linha] = []
+        var atual = Linha()
+        for indice in subviews.indices {
+            let tamanho = subviews[indice].sizeThatFits(.unspecified)
+            let usada = atual.indices.isEmpty ? tamanho.width
+                                              : atual.largura + espacamento + tamanho.width
+            if !atual.indices.isEmpty, usada > limite {
+                linhas.append(atual)
+                atual = Linha()
+                atual.indices = [indice]
+                atual.largura = tamanho.width
+                atual.altura = tamanho.height
+            } else {
+                atual.indices.append(indice)
+                atual.largura = usada
+                atual.altura = max(atual.altura, tamanho.height)
+            }
+        }
+        if !atual.indices.isEmpty { linhas.append(atual) }
+        return linhas
     }
 }
 

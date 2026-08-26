@@ -42,6 +42,9 @@ final class VodEstado: ObservableObject {
     /// Nula quando o vídeo está no lugar dele.
     @Published var secao: VodSecao?
     @Published var letra = ""
+    /// Acervo inteiro numa lista só, em vez de uma letra por vez.
+    @Published var tudo = false
+    @Published var achados: [Vod.Achado] = []
     @Published var busca = ""
     @Published var titulosFilme: [Filme] = []
     @Published var titulosSerie: [Serie] = []

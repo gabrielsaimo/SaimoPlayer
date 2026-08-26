@@ -52,7 +52,7 @@ struct VodGridView: View {
             }
             if carregando { ProgressView().controlSize(.small) }
             Spacer()
-            TextField("Buscar", text: $estado.busca)
+            TextField(estado.tudo ? "Buscar em todo o acervo" : "Buscar", text: $estado.busca)
                 .textFieldStyle(.roundedBorder)
                 .frame(width: 220)
             Button {
@@ -71,10 +71,33 @@ struct VodGridView: View {
     private var reguaDeLetras: some View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack(spacing: 6) {
+                // Procurar um filme sem saber a letra dele é o caso comum;
+                // "Tudo" põe o acervo inteiro sob a mesma busca — o da seção
+                // aberta: em Filmes só filmes, em Séries só séries. Extras não
+                // entram no índice geral, e por isso não têm o atalho.
+                if estado.secao != .extras {
+                Button {
+                    estado.tudo = true
+                    estado.serieAberta = nil
+                    estado.ancora = nil
+                    Task { await carregarTudo() }
+                } label: {
+                    Text("Tudo")
+                        .font(.system(size: 13, weight: estado.tudo ? .bold : .regular))
+                        .padding(.vertical, 5)
+                        .padding(.horizontal, 10)
+                        .background(estado.tudo ? Color.accentColor.opacity(0.35) : Color.white.opacity(0.06),
+                                    in: RoundedRectangle(cornerRadius: 6))
+                }
+                .buttonStyle(.plain)
+                .help("Todo o acervo desta seção, para buscar de uma vez")
+                }
+
                 ForEach(gavetasVisiveis) { gaveta in
-                    let ativa = gaveta.letra == estado.letra
+                    let ativa = !estado.tudo && gaveta.letra == estado.letra
                     Button {
                         estado.letra = gaveta.letra
+                        estado.tudo = false
                         estado.serieAberta = nil
                         estado.busca = ""
                         estado.ancora = nil
@@ -123,6 +146,8 @@ struct VodGridView: View {
             episodiosDe(serie)
         } else if estado.secao == .favoritos {
             grade(itensFavoritos)
+        } else if estado.tudo {
+            grade(itensDeTudo)
         } else if estado.letra.isEmpty {
             aviso("Escolha uma letra")
         } else if estado.secao == .series {
@@ -272,6 +297,22 @@ struct VodGridView: View {
         }
     }
 
+    /// O índice só tem nome, tipo e letra; as fontes ficam para a hora de
+    /// abrir, que é quando vale a pena baixar o pedaço daquela letra.
+    private var itensDeTudo: [Cartao] {
+        estado.achados.filter { $0.serie == (estado.secao == .series) }.map { achado in
+            Cartao(titulo: achado.titulo,
+                   serie: achado.serie,
+                   detalhe: achado.serie ? "Série" : "Filme",
+                   progresso: achado.serie ? nil
+                       : Progresso.fracao(Progresso.chaveFilme(achado.titulo)),
+                   letra: achado.letra,
+                   reservado: false) {
+                Task { await abrirAchado(achado) }
+            }
+        }
+    }
+
     private var itensFavoritos: [Cartao] {
         favoritos.itens.map { item in
             Cartao(titulo: item.titulo,
@@ -357,7 +398,12 @@ struct VodGridView: View {
         if estado.gavetas.isEmpty { estado.gavetas = await Vod.indice() }
         estado.filmes = secao.pedeFilmes
         estado.reservado = secao == .extras
+        if secao == .extras { estado.tudo = false }
         guard secao != .favoritos else { return }
+        if estado.tudo {
+            if estado.achados.isEmpty { await carregarTudo() }
+            return
+        }
         // A letra escolhida antes continua valendo; só quando ela não serve
         // para esta seção é que se começa do zero.
         if !gavetasVisiveis.contains(where: { $0.letra == estado.letra }) {
@@ -399,6 +445,17 @@ struct VodGridView: View {
         guard let versao, let urls = filme.fontes[versao] else { return }
         tocar(filme.titulo, urls, detalhe: "Filme · \(rotulo(versao))",
               chave: Progresso.chaveFilme(filme.titulo))
+    }
+
+    private func carregarTudo() async {
+        carregando = true
+        defer { carregando = false }
+        estado.achados = await Vod.todos()
+    }
+
+    private func abrirAchado(_ achado: Vod.Achado) async {
+        await abrirFavorito(VodFavoritos.Item(titulo: achado.titulo, serie: achado.serie,
+                                              letra: achado.letra, reservado: false))
     }
 
     private func abrirFavorito(_ item: VodFavoritos.Item) async {
