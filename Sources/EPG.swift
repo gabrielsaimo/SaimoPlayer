@@ -532,6 +532,23 @@ enum XMLTVParser {
                 return value.isEmpty ? nil : value
             }
 
+            /// Todos os <actor> do bloco, e não só o primeiro: o elenco é o
+            /// dado que mais ajuda a reconhecer um filme, e vinha cortado no
+            /// primeiro nome.
+            func todos(_ tag: String) -> [String] {
+                var nomes: [String] = []
+                var cursor = attrsEnd
+                while let open = find(bytes, "<\(tag)", from: cursor, before: close),
+                      let body = find(bytes, ">", from: open, before: close),
+                      let end = find(bytes, "</\(tag)>", from: body, before: close) {
+                    let valor = decodeEntities(string(bytes, body + 1, end))
+                        .trimmingCharacters(in: .whitespacesAndNewlines)
+                    if !valor.isEmpty { nomes.append(valor) }
+                    cursor = end
+                }
+                return nomes
+            }
+
             // The poster lives in an attribute rather than in element text.
             var poster: URL?
             if let open = find(bytes, "<icon", from: attrsEnd, before: close),
@@ -546,7 +563,15 @@ enum XMLTVParser {
                           subtitle: text("sub-title"),
                           episode: text("episode-num"),
                           year: text("date"),
-                          credits: text("actor") ?? text("director"),
+                          credits: {
+                              let elenco = todos("actor")
+                              let direcao = todos("director")
+                              let partes = [
+                                  elenco.isEmpty ? nil : elenco.joined(separator: ", "),
+                                  direcao.isEmpty ? nil : "Direção: " + direcao.joined(separator: ", "),
+                              ].compactMap { $0 }
+                              return partes.isEmpty ? nil : partes.joined(separator: " · ")
+                          }(),
                           poster: poster))
         }
 

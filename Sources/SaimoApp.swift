@@ -69,6 +69,8 @@ struct SaimoApp: App {
                 Button("Filmes e Séries") { VodEstado.shared.secao = .filmes }
                     .keyboardShortcut("f", modifiers: .command)
                     .keyboardShortcut("g", modifiers: .command)
+                Button("Procurar atualização do app…") { Atualizacao.shared.procurar(manual: true) }
+                Divider()
                 Button("Atualizar guia") { EPGService.shared.refresh(channels: model.channels) }
                     .keyboardShortcut("g", modifiers: [.command, .shift])
             }

@@ -9,9 +9,22 @@ struct ContentView: View {
 
     @ObservedObject private var vod = VodEstado.shared
 
+    @ObservedObject private var atualizacao = Atualizacao.shared
+
     var body: some View {
         principal
             .frame(minWidth: 720, minHeight: 460)
+            .sheet(item: $atualizacao.disponivel) { versao in
+                AtualizacaoView(atualizacao: atualizacao, versao: versao)
+            }
+            .task { atualizacao.procurar() }
+            .alert("Atualização", isPresented: Binding(
+                get: { atualizacao.aviso != nil },
+                set: { if !$0 { atualizacao.aviso = nil } })) {
+                Button("OK", role: .cancel) { atualizacao.aviso = nil }
+            } message: {
+                Text(atualizacao.aviso ?? "")
+            }
             .sheet(isPresented: $model.showGuide) {
                 EPGGuideView(model: model)
             }
