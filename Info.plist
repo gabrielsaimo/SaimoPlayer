@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleName</key>
-	<string>Saimo TV</string>
 	<key>CFBundleDisplayName</key>
 	<string>Saimo TV</string>
 	<key>CFBundleExecutable</key>
@@ -14,6 +12,8 @@
 	<string>dev.saimo.player</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Saimo TV</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -22,20 +22,6 @@
 	<string>1</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>15.0</string>
-	<key>NSHighResolutionCapable</key>
-	<true/>
-	<key>NSPrincipalClass</key>
-	<string>NSApplication</string>
-	<key>NSLocalNetworkUsageDescription</key>
-	<string>Encontrar Chromecast e aparelhos Google TV na sua rede para transmitir os canais.</string>
-	<key>NSBonjourServices</key>
-	<array>
-		<string>_googlecast._tcp</string>
-	</array>
-	<!-- NSAllowsArbitraryLoads é ignorado quando NSAllowsLocalNetworking está
-	     presente, então sozinho ele não liberava nada além do proxy local: era
-	     por isso que canal tocava e filme em http remoto não. A chave que vale
-	     para o que o AVFoundation carrega é a de mídia. -->
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -43,5 +29,15 @@
 		<key>NSAllowsArbitraryLoadsInMedia</key>
 		<true/>
 	</dict>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_googlecast._tcp</string>
+	</array>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Encontrar Chromecast e aparelhos Google TV na sua rede para transmitir os canais.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
 </dict>
 </plist>

@@ -59,8 +59,15 @@ final class Remuxer {
             // Estes CDNs entregam o segmento com extensão de disfarce (.pdf,
             // .png). O ffmpeg recusa o que não reconhece, então a lista fica
             // aberta: o que manda é o conteúdo, não o nome do arquivo.
+            //
+            // "-extension_picky" só existe na classe de opções do demuxer HLS;
+            // passada antes de "-i" ela é aplicada cedo demais para o ffmpeg
+            // saber que a entrada vai ser DASH, e ele recusa a opção com
+            // "Option not found" — derrubando o canal inteiro antes de tentar
+            // ler qualquer coisa. Por isso só entra quando não é DASH.
             var args = ["-v", "error", "-show_programs", "-show_streams", "-of", "json",
-                        "-allowed_extensions", "ALL", "-extension_picky", "0"]
+                        "-allowed_extensions", "ALL"]
+            if !variant.isDASH { args += ["-extension_picky", "0"] }
             if let ua = variant.userAgent { args += ["-user_agent", ua] }
             if let ref = variant.referer { args += ["-referer", ref] }
             if variant.isDASH, let key = variant.clearKey, !key.isEmpty {
@@ -181,8 +188,11 @@ final class Remuxer {
         try? FileManager.default.removeItem(at: dir)
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
 
+        // Mesma ressalva do probe: "-extension_picky" derruba a leitura de um
+        // canal DASH com "Option not found" antes mesmo de abrir o manifesto.
         var args = ["-hide_banner", "-loglevel", "error", "-fflags", "+genpts",
-                    "-allowed_extensions", "ALL", "-extension_picky", "0"]
+                    "-allowed_extensions", "ALL"]
+        if !variant.isDASH { args += ["-extension_picky", "0"] }
         if let ua = variant.userAgent { args += ["-user_agent", ua] }
         if let ref = variant.referer { args += ["-referer", ref] }
         // CENC ClearKey — only the DASH demuxer understands this option;
