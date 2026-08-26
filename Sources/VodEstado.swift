@@ -45,6 +45,8 @@ final class VodEstado: ObservableObject {
     /// Acervo inteiro numa lista só, em vez de uma letra por vez.
     @Published var tudo = false
     @Published var achados: [Vod.Achado] = []
+    /// De que seção veio a lista acima: trocar de seção obriga a refazê-la.
+    @Published var achadosDe: VodSecao?
     @Published var busca = ""
     @Published var titulosFilme: [Filme] = []
     @Published var titulosSerie: [Serie] = []
