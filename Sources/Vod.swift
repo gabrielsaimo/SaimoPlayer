@@ -135,6 +135,39 @@ enum Vod {
         return out
     }
 
+    // MARK: - Acervo inteiro
+
+    struct Achado: Identifiable, Hashable {
+        let titulo: String
+        let serie: Bool
+        let letra: String
+        var id: String { (serie ? "s:" : "f:") + titulo }
+    }
+
+    @MainActor
+    private static var indiceBusca: [Achado] = []
+
+    /// Todo o acervo numa lista só, para procurar sem escolher letra.
+    ///
+    /// O índice traz nome, tipo e letra — 780 KB para trinta mil títulos —,
+    /// então dá para varrer o acervo inteiro sem baixar o acervo. Os extras
+    /// ficam de fora dele de propósito: o que não aparece sem o código também
+    /// não pode aparecer numa busca geral.
+    @MainActor
+    static func todos() async -> [Achado] {
+        if !indiceBusca.isEmpty { return indiceBusca }
+        guard let texto = await arquivo("busca.txt") else { return [] }
+        let lidos = texto.split(separator: "\n").compactMap { linha -> Achado? in
+            let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
+            guard campos.count >= 3, !campos[0].isEmpty else { return nil }
+            return Achado(titulo: String(campos[0]),
+                          serie: campos[1] == "s",
+                          letra: String(campos[2]))
+        }
+        indiceBusca = lidos
+        return lidos
+    }
+
     /// O item guarda "base:resto"; o endereço inteiro sairia dezenas de vezes
     /// maior, e o começo é sempre o mesmo punhado de servidores.
     private static func montar(_ valor: String) -> String {
