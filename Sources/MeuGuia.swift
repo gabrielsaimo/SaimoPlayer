@@ -31,7 +31,7 @@ enum MeuGuia {
         "Telecine Action": "TC2", "Telecine Pipoca": "TC4", "Telecine Premium": "TC1",
         "TNT": "TNT", "TNT Séries": "TBS",
         "Universal TV": "USA", "Viva": "VIV", "Warner": "WBT",
-    ]
+    , "Arte 1": "BQ5", "TLC": "TRV"]
 
     private static let timeZone = TimeZone(identifier: "America/Sao_Paulo") ?? .current
 
