@@ -11,17 +11,27 @@ import Foundation
 enum MeuGuia {
     /// Catalog name -> meuguia channel code.
     static let codes: [String: String] = [
-        "A&E": "MDO", "Animal Planet": "APL", "Band": "BAN", "Cartoon Network": "CAR",
-        "Cinemax": "MNX", "Combate": "135", "Discovery Kids": "DIK",
-        "Discovery World": "DIW", "ESPN": "ESP", "ESPN 2": "ES2", "ESPN 4": "ES4",
+        "A&E": "MDO", "Animal Planet": "APL", "AXN": "AXN",
+        "Band": "BAN", "Band Sports": "BSP", "Cartoon Network": "CAR",
+        "canal-brasil": "CBR", "canal-off": "OFF",
+        "Cinemax": "MNX", "Combate": "135",
+        "Discovery Channel": "DIS", "Discovery Home & Health": "HEA",
+        "Discovery Kids": "DIK", "Discovery Science": "DSC",
+        "Discovery Turbo": "DTU", "Discovery World": "DIW",
+        "E!": "EET", "ESPN": "ESP", "ESPN 2": "ES2", "ESPN 3": "ES3",
+        "ESPN 4": "ES4", "ESPN 5": "ES5",
         "GNT": "GNT", "Globo RJ": "GRD", "Globo SP": "GRD", "GloboNews": "GLN",
-        "Gloob": "GOB", "HBO": "HBO", "HBO Family": "HFA", "HBO Plus": "HPL",
-        "HBO2": "HB2", "History": "HIS", "Megapix": "MPX", "Record": "REC",
-        "SBT": "SBT", "Space": "SPA",
+        "Gloob": "GOB",
+        "HBO": "HBO", "HBO Family": "HFA", "HBO Plus": "HPL", "HBO2": "HB2",
+        "History": "HIS", "Megapix": "MPX", "Multishow": "MSH",
+        "Premiere Clubes": "121", "Record": "REC",
+        "SBT": "SBT", "Sony Channel": "SET", "Space": "SPA",
         "SporTV": "SPO", "SporTV 2": "SP2", "SporTV 3": "SP3",
-        "TNT": "TNT", "TNT Séries": "TBS", "Telecine Action": "TC2", "Telecine Pipoca": "TC4",
-        "Telecine Premium": "TC1", "Universal TV": "USA", "Warner": "WBT",
-    , "AXN": "AXN", "canal-brasil": "CBR", "Discovery Channel": "DIS", "Discovery Home & Health": "HEA", "Discovery Science": "DSC", "Discovery Turbo": "DTU", "E!": "EET", "Sony Channel": "SET", "Studio Universal": "HAL", "Band Sports": "BSP", "ESPN 3": "ES3", "ESPN 5": "ES5", "canal-off": "OFF", "Premiere Clubes": "121", "Multishow": "MSH", "Viva": "VIV"]
+        "Studio Universal": "HAL",
+        "Telecine Action": "TC2", "Telecine Pipoca": "TC4", "Telecine Premium": "TC1",
+        "TNT": "TNT", "TNT Séries": "TBS",
+        "Universal TV": "USA", "Viva": "VIV", "Warner": "WBT",
+    ]
 
     private static let timeZone = TimeZone(identifier: "America/Sao_Paulo") ?? .current
 

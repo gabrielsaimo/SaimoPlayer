@@ -798,6 +798,15 @@ private let restrictedCatalog: [CatalogEntry] = [
                    userAgent: nil,
                    clearKey: nil),
         ]),
+    CatalogEntry(
+        name: "Playboy TV",
+        logo: "https://mondrian.claro.com.br/channels/inverse/playboy-tv.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/playboytv/__index.m3u8?sv=48&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787840278-pcqPCfDH7M3QsYXk1k6laCLQIhqLIrTK4YxaTqKUJVc%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
 ]
 
 private func build(_ entries: [CatalogEntry]) -> [Channel] {
