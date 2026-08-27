@@ -91,8 +91,6 @@ https://xn--l---------------------------_________________________-2w85c.null-nul
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.ts
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1125.ts
 #EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1123.ts
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ST)
