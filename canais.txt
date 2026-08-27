@@ -1,98 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.ts
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.ts
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.ts
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.ts
-#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1101.m3u8
-#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
-#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.ts
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://api.reidoscanais.ooo/img/fishtv.png" group-title="ESPORTES", FISH TV (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.ts
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.ts
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.ts
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.ts
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.ts
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.ts
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.ts
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1125.ts
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1124.ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1123.ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1122.ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1121.ts
-#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
-#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
-#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1078.m3u8
-#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
-#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
-#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/adultswim/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787832979-YAG1dbxJke%2BsvwTnD3Q5OT7SG%2BMPbOiCalEgPlErMfk%3D
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.ts
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S79)
-http://79.127.243.211:14506
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S46)
-http://46.151.196.223:14438
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (ME)
-http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19058/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (S46)
-http://46.151.196.223:14457
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/disneyplus.png" group-title="ESPN", DISNEY PLUS (S46)
 http://46.151.196.223:14654
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 1 (S79)
@@ -101,28 +11,114 @@ http://79.127.243.211:14653
 http://79.127.243.211:14657
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/paramountplus.png" group-title="ESPORTES", PAROMOUNT+ 3 (S79)
 http://79.127.243.211:14658
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (SS)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (MK)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV FAST (TCL)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S79)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 http://79.127.243.211:14697
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT (S46)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 http://46.151.196.223:14124
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV YT 2 (S46)
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
 http://46.151.196.223:14126
-#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S79)
-http://79.127.243.211:14449
-#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S46)
-http://46.151.196.223:14468
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (OT)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (SS)
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (RK)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S79)
+http://79.127.238.228:14551
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/adultswim/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787832979-YAG1dbxJke%2BsvwTnD3Q5OT7SG%2BMPbOiCalEgPlErMfk%3D
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S79)
+http://79.127.243.211:14565
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S46)
+http://46.151.196.223:14636
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.243.211:14569
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+http://79.127.238.228:14563
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.ts
+#EXTINF:-1 tvg-id="Box Kids TV" tvg-logo="https://api.reidoscanais.ooo/img/boxkidstv.png" group-title="INFANTIL", BOX KIDS TV (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/boxkidstv/__index.m3u8?sv=21&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787838967-79OiKWKHQQWUlBGqKqRf5MU808%2BMS1IlT8zPY%2BzcUhE%3D
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S79)
+http://79.127.243.211:14573
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S79)
+http://79.127.243.211:14449
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S46)
+http://46.151.196.223:14468
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryhomeihealth/__index.m3u8?sv=188&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787839056-Scw31BtqVtjLQVxXb0CWIhFUlkh92UEFPWozL68TLe0%3D
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S79)
+http://79.127.243.211:14506
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S46)
+http://46.151.196.223:14438
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (ME)
+http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19058/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.ts
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.ts
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5 (S46)
+http://46.151.196.223:14457
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://api.reidoscanais.ooo/img/fishtv.png" group-title="ESPORTES", FISH TV (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://api.reidoscanais.ooo/img/foodnetwork.png" group-title="VARIEDADES", FOOD NETWORK (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=56&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787839130-pT8HVHky%2FsjKkc%2BPXo7gIz0eKxWbFhevgiwCk7QbYO8%3D
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.ts
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://embedcanaisdetv.com/images/hbomundi.png" group-title="HBO", HBO MUNDI (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1125.ts
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1123.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1122.ts
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1121.ts
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.ts
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1124.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES",HGTV (S200)
+http://200.229.190.189:8001/play/a01b
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
+#EXTINF:-1 tvg-id="Premiere " tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE MOSAICO (S46)
+http://46.151.196.223:14197
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1101.m3u8
 #EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S79)
 http://79.127.243.211:14497
 #EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 6 (S46)
@@ -131,41 +127,51 @@ http://46.151.196.223:14586
 http://79.127.243.211:14501
 #EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 7 (S46)
 http://46.151.196.223:14587
-#EXTINF:-1 tvg-id="Premiere " tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE MOSAICO (S46)
-http://46.151.196.223:14197
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (S79)
-http://79.127.243.211:14623
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.ts
+#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL (S46)
+http://46.151.196.223:14056
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (S46)
+http://46.151.196.223:14603
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (S46)
+http://46.151.196.223:14607
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1078.m3u8
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.ts
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.ts
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.ts
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.ts
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.ts
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://api.reidoscanais.ooo/img/tntnovelas.png" group-title="NOVELAS", TNT NOVELAS (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/tntnovelas/__index.m3u8?sv=182&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787839279-YpCZKvMktZ7zjSEzbHr4lkhA0v8bAslMyYgvgmJYskk%3D
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
 #EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="REALITY", UNIVERSAL REALITY (S46)
 http://46.151.196.223:14686
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="https://api.reidoscanais.ooo/img/universaltv.png" group-title="FILMES E SÉRIES", UNIVERSAL TV (S79)
+http://79.127.243.211:14623
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S46)
 http://46.151.196.223:14648
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (S46)
-http://46.151.196.223:14607
-#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
-https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (S46)
-http://46.151.196.223:14603
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
-https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S79)
-http://79.127.238.228:14551
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S79)
-http://79.127.243.211:14565
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://api.reidoscanais.ooo/img/amc.png" group-title="FILMES E SÉRIES", AMC (S46)
-http://46.151.196.223:14636
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
-http://79.127.243.211:14569
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
-http://79.127.238.228:14563
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
-http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
-#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES",CANAL BRASIL (S79)
-http://79.127.243.211:14573
-#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL (S46)
-http://46.151.196.223:14056
-#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES",HGTV (S200)
-http://200.229.190.189:8001/play/a01b
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (ST)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.m3u8
