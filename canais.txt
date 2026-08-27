@@ -67,23 +67,23 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
 #EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1078.m3u8
-#EXTINF:-1 tvg-id="USA" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
 #EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
 #EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://api.reidoscanais.ooo/img/adultswim.png" group-title="FILMES E SÉRIES", ADULT SWIM (ST)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.ts
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/adultswim/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787832979-YAG1dbxJke%2BsvwTnD3Q5OT7SG%2BMPbOiCalEgPlErMfk%3D
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
-#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (ST)
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://api.reidoscanais.ooo/img/discoveryheh.webp" group-title="ESTILO DE VIDA", DISCOVERY H&H (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.ts
-#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
-#EXTINF:-1 tvg-id="Discovery HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S79)
 http://79.127.243.211:14506
@@ -137,11 +137,11 @@ http://46.151.196.223:14197
 http://79.127.243.211:14623
 #EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="REALITY", UNIVERSAL REALITY (S46)
 http://46.151.196.223:14686
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S46)
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S46)
 http://46.151.196.223:14648
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="Space HD" tvg-logo="https://api.reidoscanais.ooo/img/space.png" group-title="FILMES E SÉRIES", SPACE (S46)
 http://46.151.196.223:14607
