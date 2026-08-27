@@ -36,7 +36,7 @@ struct AtualizacaoView: View {
 
             if atualizacao.baixando {
                 VStack(alignment: .leading, spacing: 6) {
-                    ProgressView().progressViewStyle(.linear)
+                    ProgressView(value: atualizacao.progresso).progressViewStyle(.linear)
                     Text("Baixando… o app fecha e abre sozinho quando terminar.")
                         .font(.system(size: 11))
                         .foregroundStyle(.secondary)
