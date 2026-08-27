@@ -21,7 +21,7 @@ enum MeuGuia {
         "SporTV": "SPO", "SporTV 2": "SP2", "SporTV 3": "SP3",
         "TNT": "TNT", "TNT Séries": "TBS", "Telecine Action": "TC2", "Telecine Pipoca": "TC4",
         "Telecine Premium": "TC1", "Universal TV": "USA", "Warner": "WBT",
-    ]
+    , "AXN": "AXN", "canal-brasil": "CBR", "Discovery Channel": "DIS", "Discovery Home & Health": "HEA", "Discovery Science": "DSC", "Discovery Turbo": "DTU", "E!": "EET", "Sony Channel": "SET", "Studio Universal": "HAL", "Band Sports": "BSP", "ESPN 3": "ES3", "ESPN 5": "ES5", "canal-off": "OFF", "Premiere Clubes": "121", "Multishow": "MSH", "Viva": "VIV"]
 
     private static let timeZone = TimeZone(identifier: "America/Sao_Paulo") ?? .current
 
