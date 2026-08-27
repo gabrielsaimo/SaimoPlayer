@@ -44,7 +44,15 @@ private let catalog: [CatalogEntry] = [
         name: "AMC",
         logo: "https://mondrian.claro.com.br/channels/inverse/amc.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510151-YIGtfAhUh4aAlbp%2Bsl0oNeDHoIaO9jxfdbx82zsKvFA%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=135&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791802-19E0T04G7LhoYwlfFJelb6WdUgMP6m04036lcJ1Yxcc%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/boborj/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792590-2LgoEndsN2iiGA42jdnqsJadhO3ya4uZwPZcspcd%2B%2Bs%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/bobomg/__index.m3u8?sv=25&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792519-woB%2B15HwWmKrWM20RPsHNIIUT5wyYjEAhpr%2FAMYrPUo%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -161,6 +169,10 @@ private let catalog: [CatalogEntry] = [
         name: "History",
         logo: "https://mondrian.claro.com.br/channels/inverse/history-channel.png",
         sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history/__index.m3u8?sv=135&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793059-f3m9JkdrjrQJxep1Ii5aqo1mnsxh3C9Hhd24xvNSqxs%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
             Source(url: "https://video46.mais.uol.com.br/live/281.mpd",
                    referer: "https://painel.play.uol.com.br/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
@@ -170,7 +182,11 @@ private let catalog: [CatalogEntry] = [
         name: "History 2",
         logo: "https://mondrian.claro.com.br/channels/inverse/history-2.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history2/__index.m3u8?sv=97&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786291713-XbODG62M9FkfenILPzk1Tg1OMEzEmII4kllJIMtsWxI%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history2/__index.m3u8?sv=41&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793125-3Gtiog3L2lWYU21WxnFk1mORI7RK%2Bgrmq9nU0M4H%2F0w%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/history2-sd/__index.m3u8?sv=41&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793125-qJ1cp%2FaZU0TB2TS53Hy%2F6OU3u1nHdGgLjGMnC94BSJA%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -305,7 +321,7 @@ private let catalog: [CatalogEntry] = [
         name: "Studio Universal",
         logo: "https://mondrian.claro.com.br/channels/inverse/studio-universal.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=153&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408629-ttZQ50ex7Jw4GXXphI%2BVbOg5APRxPavlxoAW%2BCNOykY%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=9&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793443-Zlu3fC86O%2B%2FxXEhoyYY0lO7n%2FD6Ey7xed6N8%2FtOvBNE%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -422,7 +438,7 @@ private let catalog: [CatalogEntry] = [
         name: "Gloob",
         logo: "https://mondrian.claro.com.br/channels/inverse/gloob.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloob/__index.m3u8?sv=35&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786301449-TnMgF08Dd9XnKs8sugyFuOsAjSHmlVN5TN13pVqFhDk%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloob/__index.m3u8?sv=91&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793787-9h%2Bs%2B%2FRV9nGKt4Fclr9SyE2NXEr1j09Qx7tlNvn6FB0%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -440,7 +456,7 @@ private let catalog: [CatalogEntry] = [
         name: "Cartoonito",
         logo: "https://mondrian.claro.com.br/channels/inverse/cartoonito.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=104&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510257-GQhBnx%2BG5cpajilROyCzjS%2FP4S314BXTNWvXEwkEJbw%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792050-bykfcjcri4xlMawMEAbEK0ib1ZngaZ96MUudlmODfgk%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -467,7 +483,7 @@ private let catalog: [CatalogEntry] = [
         name: "Discovery Channel",
         logo: "https://mondrian.claro.com.br/channels/inverse/discovery.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discovery/__index.m3u8?sv=84&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510373-0HgEmdOEGldo50qybV3oLKZNVQWv%2Bey9ClwFeLZJ0QY%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discovery/__index.m3u8?sv=139&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792290-fJWwTtvayu87khQ1dLjP6IO6DYBxOFtm53vvQJV4G3U%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -485,7 +501,7 @@ private let catalog: [CatalogEntry] = [
         name: "Discovery Kids",
         logo: "https://mondrian.claro.com.br/channels/inverse/discovery-kids.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverykids/__index.m3u8?sv=41&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510570-wQNMSqGrzYbqhAFRD0FcTi7fjlw2po6ZvQkdxdN8qMI%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverykids/__index.m3u8?sv=20&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792246-o4vHOJkg%2BDj4Caq%2FNBQ3IdIgxJpQ0cavj5QIWJuedCI%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -494,7 +510,7 @@ private let catalog: [CatalogEntry] = [
         name: "Discovery Theater",
         logo: "https://mondrian.claro.com.br/channels/inverse/discovery-theater.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverytheater/__index.m3u8?sv=190&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510630-Op%2Bsog%2Bv2erU8IV6JPCrEGzkbErasNbwsbUPXPOzhQ8%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoverytheater/__index.m3u8?sv=135&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792363-9cDXDK11ov3pxrqmTh5xvDzwIlVxwFtcCbc%2BUklF%2BTM%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -503,7 +519,7 @@ private let catalog: [CatalogEntry] = [
         name: "Discovery World",
         logo: "https://mondrian.claro.com.br/channels/inverse/discovery-world.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryworld/__index.m3u8?sv=41&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510703-6MLdUm4d8J0NguUbdHYIDN%2BB5mxIu7%2FTQSCAQTYXYWw%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryworld/__index.m3u8?sv=136&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792469-Nwvl6a9j4BZymbR6g6UCqBuxq4SfH0dfrSki5m%2B%2BL%2Bg%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -539,7 +555,7 @@ private let catalog: [CatalogEntry] = [
         name: "Gloobinho",
         logo: "https://mondrian.claro.com.br/channels/inverse/gloobinho.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=152&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787510910-dWg7AzcPE2zHD3WIjWatnOkglW%2FPAZcLFjjICoFp4d4%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=79&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793838-tRD7tqVyKyrzRDnGYUPHk2%2Bj7uP%2B8BgM3QTmfsFiAd0%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -584,7 +600,7 @@ private let catalog: [CatalogEntry] = [
         name: "HBO Plus",
         logo: "https://mondrian.claro.com.br/channels/inverse/hboplus.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboplus/__index.m3u8?sv=1&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319431-Pi9MnjfX4JxMUuxnHJgxq52SXIFzdeOKuVtwNVT6KM0%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboplus/__index.m3u8?sv=21&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792726-KQmSGCAyZyUy1umOzA2nw%2FQO6Fc%2F1HLZTGIBBUSf7x4%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -593,16 +609,16 @@ private let catalog: [CatalogEntry] = [
         name: "HBO Pop",
         logo: "https://mondrian.claro.com.br/channels/inverse/hbo-pop.png",
         sources: [
-            Source(url: "https://getcdn.clarocdn.com.br/Content/Channel/SPOMAXHD/dsc3/manifest.mpd",
-                   referer: "https://www.clarotvmais.com.br/",
-                   userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-                   clearKey: "1d0c9de86aa3375ab848fc728343f4a2:46cb51c3726930edb0e2b98382273f56"),
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbopop/__index.m3u8?sv=184&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792797-vFVR9HJei0AJ1XncxfiSBXWqecgVajCY7kDtx8DlYKE%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "HBO Signature",
         logo: "https://mondrian.claro.com.br/channels/inverse/hbo-signature.png",
         sources: [
-            Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbosignature/__index.m3u8?sv=160&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786319526-INBbshGXlD9TpQbIrO2o%2B%2Bvh2AdOSYyq40%2Bxn2K8TP8%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbosignature/__index.m3u8?sv=137&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792847-gKuBecM2dgXOdarnYlV6N1p3n3h5Hwy%2FVOWSK9Ehk6s%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -611,7 +627,7 @@ private let catalog: [CatalogEntry] = [
         name: "HBO Xtreme",
         logo: "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboxtreme/__index.m3u8?sv=189&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511065-MF8cOCgOLxbhNjlDx7aYgFiqI3wzNWscj9lyMGAo870%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboxtreme/__index.m3u8?sv=115&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792909-dvan3YZAo5p5M8Wu514eJ8dDMo7wzKsJo4MasYCNtYk%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -620,7 +636,7 @@ private let catalog: [CatalogEntry] = [
         name: "HGTV",
         logo: "https://mondrian.claro.com.br/channels/inverse/hgtv.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hgtv/__index.m3u8?sv=188&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511107-5Gqm2EtvzFQgO5xWcbBEWw3h3s3gsAbFx3JKsKK2jG0%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hgtv/__index.m3u8?sv=110&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792996-HY%2FoZh3zHW%2BSz49EWOXZcgCnmpBuHFUXxm39Te5AY%2FU%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -629,7 +645,7 @@ private let catalog: [CatalogEntry] = [
         name: "Record",
         logo: "https://mondrian.claro.com.br/channels/inverse/record-tv.png",
         sources: [
-            Source(url: "https://p12-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/record-sd/__index.m3u8?sv=73&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787511191-SNf%2FD88bP%2BjjhIapnxWU19X0mBN5cdY85xCqEanPUsI%3D",
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/record/__index.m3u8?sv=198&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793316-1%2F7AHwT%2BrGJghZvWrDk%2F0w53u6n8C02UvEtZOjNOawI%3D",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -665,10 +681,104 @@ private let catalog: [CatalogEntry] = [
         name: "Universal TV",
         logo: "https://mondrian.claro.com.br/channels/inverse/universal.png",
         sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=145&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793650-GnrhkyMAFFyYcMrbYnyoK5iNJOpaR%2FxBaNSV1xhO1SY%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
             Source(url: "https://getcdn.clarocdn.com.br/Content/Channel/SPOUNVHD/dsc3/manifest.mpd",
                    referer: "https://www.clarotvmais.com.br/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
                    clearKey: "0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea"),
+        ]),
+    CatalogEntry(
+        name: "AMC Séries",
+        logo: "https://mondrian.claro.com.br/channels/inverse/amc.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/amcseries/__index.m3u8?sv=47&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791897-8Wm%2BGGutqxTv63fxI3XWxW194BK1noTzs%2FLdK3eauCs%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Turbo",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryturbo/__index.m3u8?sv=187&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792423-HLnTQInVZdS8M8NMkNE9XAXOEhN26tz%2FkdWQ5xEMI7U%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "USA Network",
+        logo: "https://mondrian.claro.com.br/channels/inverse/usa.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=162&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793737-hfQnyiPMhLyTb5vIRG%2BkDol7dTIZYzvZvAZewbE3vlc%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Bloomberg",
+        logo: "https://mondrian.claro.com.br/channels/inverse/bloomberg.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/bloomberg/__index.m3u8?sv=140&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793922-WeDZahYYiI%2Bdr73LHvPediWhQmdj6dctBNCDi6f45Yk%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "canal-brasil",
+        logo: "https://api.reidoscanais.ooo/img/canalbrasil.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/canalbrasil/__index.m3u8?sv=155&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791989-l5AGuGfDmmdtOq0t8pJFxsQmhh7Upxvn%2FDstVgjia5k%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "canal-off",
+        logo: "https://api.reidoscanais.ooo/img/canaloff.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/off/__index.m3u8?sv=143&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793259-sSVLAlB%2FyEIDR1SYL1gWsDeonZz8E6h7esY7TXSA%2F94%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Telecine Fun",
+        logo: "https://embedcanaisdetv.com/images/tcfun.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=164&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793521-AgfMEtyIf7thou7yDHByqO2ulZwFKnnFeMdLGfnXEMo%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Telecine Cult",
+        logo: "https://embedcanaisdetv.com/images/tccult.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=97&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793482-yEwhUO%2BYTFWaVoO3aH%2FerazomyKF74oEBwlw%2BBW2CT8%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Telecine Touch",
+        logo: "https://embedcanaisdetv.com/images/tctouch.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=104&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793560-W9IjDsYoBCDmrZ35n%2FSbaXlsYhE84n%2Fd90%2B36hjStSI%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "SONY Movies",
+        logo: "https://api.reidoscanais.ooo/img/sonymovies.png",
+        sources: [
+            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sonymovies/__index.m3u8?sv=192&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793366-cTNy2GtWbETsxXemEnMTs1INUxwZjhES5tp6LWV%2FkVU%3D",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
 ]
 
