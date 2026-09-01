@@ -19,38 +19,38 @@
 
 
 canal: A&E
-logo: https://mondrian.claro.com.br/channels/inverse/aee.png
+logo: https://cdn.reidoscanais.st/imagens/ae.png
 fonte: https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Adult Swim
-logo: https://mondrian.claro.com.br/channels/inverse/adult-swim.png
+logo: https://cdn.reidoscanais.st/imagens/adultswim.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: AMC
-logo: https://mondrian.claro.com.br/channels/inverse/amc.png
+logo: https://cdn.reidoscanais.st/imagens/amc.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=47&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289103-VK8dnUE770fqD%2FoW4pMt6YYc0XFiSJtn6OzsLu0ArIQ%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=135&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791802-19E0T04G7LhoYwlfFJelb6WdUgMP6m04036lcJ1Yxcc%3D
 
 canal: Animal Planet
-logo: https://mondrian.claro.com.br/channels/inverse/animal-planet.png
+logo: https://cdn.reidoscanais.st/imagens/animalplanet.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Band
-logo: https://mondrian.claro.com.br/channels/inverse/band.png
+logo: https://cdn.reidoscanais.st/imagens/band.png
 fonte: https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Cartoon Network
-logo: https://mondrian.claro.com.br/channels/inverse/cartoon-network.png
+logo: https://cdn.reidoscanais.st/imagens/cartoonnetwork.webp
 fonte: https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=55&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788281416-bi%2FqmCP0JXVL7CPg8KO17uAbSSaC2aBFhcigfk1vQcU%3D
 
 canal: CazéTV
-logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/s151990_lw_h8_aa._SL170_FMpng_.png
+logo: https://cdn.reidoscanais.st/imagens/cazetv.webp
 fonte: https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: CNN Brasil
-logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png
+logo: https://cdn.reidoscanais.st/imagens/cnnbrasil.png
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
@@ -60,7 +60,7 @@ fonte: https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/am
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: E!
-logo: https://mondrian.claro.com.br/channels/inverse/e!.png
+logo: https://cdn.reidoscanais.st/imagens/e.png
 fonte: https://video49.mais.uol.com.br/live/4503.mpd
 referer: https://painel.play.uol.com.br/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -72,165 +72,165 @@ fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: Globo RJ
-logo: https://mondrian.claro.com.br/channels/inverse/globo.png
+logo: https://cdn.reidoscanais.st/imagens/tvglobo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: GloboNews
-logo: https://mondrian.claro.com.br/channels/inverse/globonews.png
+logo: https://cdn.reidoscanais.st/imagens/globonews.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 
 canal: Globoplay Novelas
-logo: https://mondrian.claro.com.br/channels/inverse/viva.png
+logo: https://cdn.reidoscanais.st/imagens/globoplaynovelas.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 
 canal: GNT
-logo: https://mondrian.claro.com.br/channels/inverse/gnt.png
+logo: https://cdn.reidoscanais.st/imagens/gnt.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
 
 canal: History
-logo: https://mondrian.claro.com.br/channels/inverse/history-channel.png
+logo: https://cdn.reidoscanais.st/imagens/history.webp
 fonte: https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: History 2
-logo: https://mondrian.claro.com.br/channels/inverse/history-2.png
+logo: https://cdn.reidoscanais.st/imagens/history2.png
 fonte: https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Jovem Pan News
-logo: https://mondrian.claro.com.br/channels/inverse/jp-news-vertical.png
+logo: https://cdn.reidoscanais.st/imagens/jpnews.webp
 fonte: https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: Megapix
-logo: https://mondrian.claro.com.br/channels/inverse/megapix.png
+logo: https://cdn.reidoscanais.st/imagens/megapix.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 
 canal: Multishow
-logo: https://mondrian.claro.com.br/channels/inverse/multishow.png
+logo: https://cdn.reidoscanais.st/imagens/multishow.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 
 canal: Premiere 2
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-2.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 
 canal: Premiere 3
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-3.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 
 canal: Premiere 4
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-4.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 
 canal: Premiere 5
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-5.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 
 canal: Premiere 6
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-6.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 
 canal: Premiere 7
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-7.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 238f5cf32228c1877f8b939f5f9d7bd8:47571c93e4335b3d1590a5ae3f5c48ef
 
 canal: Premiere 8
-logo: https://mondrian.claro.com.br/channels/inverse/premiere-8.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 19aec31e45751958c1d963435d725f33:fb24357e80520fd600dd43c1d8ce8a7a
 
 canal: Premiere Clubes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://cdn.reidoscanais.st/imagens/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
 canal: SBT
-logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
+logo: https://cdn.reidoscanais.st/imagens/sbt.png
 fonte: https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: SBT News
-logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
+logo: https://cdn.reidoscanais.st/imagens/sbtnews.png
 fonte: https://sbtnews.maissbt.com/index.m3u8
 referer: https://mais.sbt.com.br/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 
 canal: Sony Channel
-logo: https://mondrian.claro.com.br/channels/inverse/sony.png
+logo: https://cdn.reidoscanais.st/imagens/sonychannel.png
 fonte: https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Studio Universal
-logo: https://mondrian.claro.com.br/channels/inverse/studio-universal.png
+logo: https://cdn.reidoscanais.st/imagens/studiouniversal.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=168&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289550-%2FVgaqs3uHqdHOs3oadsyru6RNQo6DjCwMeStFLjAB5U%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=9&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793443-Zlu3fC86O%2B%2FxXEhoyYY0lO7n%2FD6Ey7xed6N8%2FtOvBNE%3D
 
 canal: SporTV
-logo: https://mondrian.claro.com.br/channels/inverse/sportv.png
+logo: https://cdn.reidoscanais.st/imagens/sportv.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289502-5n%2F67D%2BgZ1MuVBznFvkfYrNL99JMQf0kealKrOtdJc8%3D
 fonte: https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408554-MK0K7%2F0RIabb2i7ktFkDI1P2aEeyuwRUwvOxauQ5e1c%3D
 
 canal: SporTV 2
-logo: https://mondrian.claro.com.br/channels/inverse/sportv-2.png
+logo: https://cdn.reidoscanais.st/imagens/sportv.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 
 canal: SporTV 3
-logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
+logo: https://cdn.reidoscanais.st/imagens/sportv.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
 canal: Telecine Action
-logo: https://mondrian.claro.com.br/channels/inverse/tc-action.png
+logo: https://cdn.reidoscanais.st/imagens/telecineaction.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=65&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282861-aoKYkiZeKtrLTheu479TRoyPmDfsKa5zJweP7EimknQ%3D
 
 canal: Telecine Pipoca
-logo: https://mondrian.claro.com.br/channels/inverse/tc-pipoca.png
+logo: https://cdn.reidoscanais.st/imagens/telecinepipoca.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=206&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282959-3qjOVT%2Bg1UFwS9wUbT%2B%2BYx2y%2BVWtbigNg1%2FrRl%2Fdyug%3D
 
 canal: Telecine Premium
-logo: https://mondrian.claro.com.br/channels/inverse/tc-premium.png
+logo: https://cdn.reidoscanais.st/imagens/telecinepremium.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=104&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788283005-hy2w8s5QaWo34TbclnSO6LsgzLu1mYnLArfARhQEE2w%3D
 
 canal: TV Brasil
-logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
+logo: https://cdn.reidoscanais.st/imagens/tvbrasil.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Universal Premiere
@@ -248,84 +248,85 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
 canal: Warner
-logo: https://mondrian.claro.com.br/channels/inverse/warner-channel.png
+logo: https://cdn.reidoscanais.st/imagens/warnertv.png
 fonte: https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: IMPD
+logo: https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png
 fonte: https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1464410885_b2691072.m3u8
 
 canal: Food Network
-logo: https://mondrian.claro.com.br/channels/inverse/food-network.png
+logo: https://cdn.reidoscanais.st/imagens/foodnetwork.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=46&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788283652-sZhESWHgtKoa0AHOUAC04QFA0NU%2B%2Fa7%2F9YByGOdWodM%3D
 
 canal: Gloob
-logo: https://mondrian.claro.com.br/channels/inverse/gloob.png
+logo: https://cdn.reidoscanais.st/imagens/gloob.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=55&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788281416-bi%2FqmCP0JXVL7CPg8KO17uAbSSaC2aBFhcigfk1vQcU%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/gloob/__index.m3u8?sv=44&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282571-gk4cH1WiXG%2FLaG9A7Y0ZtxiJq8hUvnG0E2JylBENtHw%3D
 
 canal: Globo SP
-logo: https://mondrian.claro.com.br/channels/inverse/globo.png
+logo: https://cdn.reidoscanais.st/imagens/tvglobo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Cartoonito
-logo: https://mondrian.claro.com.br/channels/inverse/cartoonito.png
+logo: https://cdn.reidoscanais.st/imagens/cartoonito.webp
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=13&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282202-dPu0xfaZZXYy9rFVfQhcULjp%2BxqQvGbiwCxIwoq65UQ%3D
 
 canal: Cinemax
-logo: https://mondrian.claro.com.br/channels/inverse/cinemax.png
+logo: https://cdn.reidoscanais.st/imagens/cinemax.png
 fonte: https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Combate
-logo: https://mondrian.claro.com.br/channels/inverse/combate.png
+logo: https://cdn.reidoscanais.st/imagens/combate.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/combate/__index.m3u8?sv=210&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282359-UvS0u7yuQe6D0Xl3BQoxuG0Oq3l4jjOjWxj4o5hfm%2Bc%3D
 
 canal: Discovery Channel
-logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
+logo: https://cdn.reidoscanais.st/imagens/discoverychannel.webp
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Home & Health
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-home-and-health.png
+logo: https://cdn.reidoscanais.st/imagens/discoveryheh.webp
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/discoveryhomeihealth/__index.m3u8?sv=71&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282427-ZEudIRlfmyP0YdW67oUXU9td%2Fr2nDQRwpDFLP95FvFI%3D
 
 canal: Discovery Kids
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-kids.png
+logo: https://cdn.reidoscanais.st/imagens/discoverykids.png
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Theater
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-theater.png
+logo: https://cdn.reidoscanais.st/imagens/discoverytheater.png
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery World
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-world.png
+logo: https://cdn.reidoscanais.st/imagens/discoveryworld.png
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN
-logo: https://mondrian.claro.com.br/channels/inverse/espn.png
+logo: https://cdn.reidoscanais.st/imagens/espn.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 2
-logo: https://mondrian.claro.com.br/channels/inverse/espn-2.png
+logo: https://cdn.reidoscanais.st/imagens/espn.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 4
-logo: https://mondrian.claro.com.br/channels/inverse/espn-4.png
+logo: https://cdn.reidoscanais.st/imagens/espn.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Gloobinho
-logo: https://mondrian.claro.com.br/channels/inverse/gloobinho.png
+logo: https://cdn.reidoscanais.st/imagens/gloobinho.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=113&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289424-%2F4xU5rJ4F2GM31qy1mfJIRYWI0n2Zc7i%2Fpg5qcGMxwY%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=79&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793838-tRD7tqVyKyrzRDnGYUPHk2%2Bj7uP%2B8BgM3QTmfsFiAd0%3D
 
 canal: HBO
-logo: https://mondrian.claro.com.br/channels/inverse/hbo.png
+logo: https://cdn.reidoscanais.st/imagens/hbo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO2
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-2.png
+logo: https://cdn.reidoscanais.st/imagens/hbo2.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Family
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-family.png
+logo: https://cdn.reidoscanais.st/imagens/hbofamily.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Mundi
@@ -333,43 +334,43 @@ logo: https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Plus
-logo: https://mondrian.claro.com.br/channels/inverse/hboplus.png
+logo: https://cdn.reidoscanais.st/imagens/hboplus.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Pop
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-pop.png
+logo: https://cdn.reidoscanais.st/imagens/hbopop.webp
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Signature
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
+logo: https://cdn.reidoscanais.st/imagens/hbosignature.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Xtreme
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
+logo: https://cdn.reidoscanais.st/imagens/hboxtreme.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HGTV
-logo: https://mondrian.claro.com.br/channels/inverse/hgtv.png
+logo: https://cdn.reidoscanais.st/imagens/hgtv.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Record
-logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
+logo: https://cdn.reidoscanais.st/imagens/record.png
 fonte: https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Space
-logo: https://mondrian.claro.com.br/channels/inverse/space.png
+logo: https://cdn.reidoscanais.st/imagens/space.png
 fonte: https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TNT
-logo: https://mondrian.claro.com.br/channels/inverse/tnt.png
+logo: https://cdn.reidoscanais.st/imagens/tnt.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TNT Séries
-logo: https://mondrian.claro.com.br/channels/inverse/tnt-series.png
+logo: https://cdn.reidoscanais.st/imagens/tntseries.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Universal TV
-logo: https://mondrian.claro.com.br/channels/inverse/universal.png
+logo: https://cdn.reidoscanais.st/imagens/universaltv.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=145&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793650-GnrhkyMAFFyYcMrbYnyoK5iNJOpaR%2FxBaNSV1xhO1SY%3D
 fonte: https://getcdn.clarocdn.com.br/Content/Channel/SPOUNVHD/dsc3/manifest.mpd
 referer: https://www.clarotvmais.com.br/
@@ -381,11 +382,11 @@ logo: https://mondrian.claro.com.br/channels/inverse/amc.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/amcseries/__index.m3u8?sv=47&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791897-8Wm%2BGGutqxTv63fxI3XWxW194BK1noTzs%2FLdK3eauCs%3D
 
 canal: Discovery Turbo
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png
+logo: https://cdn.reidoscanais.st/imagens/discoveryturbo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: USA Network
-logo: https://mondrian.claro.com.br/channels/inverse/usa.png
+logo: https://cdn.reidoscanais.st/imagens/usa.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=49&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289647-uYiBn4vGocAAq8DRir0rMDdKdda6a%2FR68QQ6vxUS8DI%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=162&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793737-hfQnyiPMhLyTb5vIRG%2BkDol7dTIZYzvZvAZewbE3vlc%3D
 
@@ -395,53 +396,53 @@ fonte: https://xn--l---------------------------_________________________-2w85c.n
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/bloomberg/__index.m3u8?sv=140&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793922-WeDZahYYiI%2Bdr73LHvPediWhQmdj6dctBNCDi6f45Yk%3D
 
 canal: canal-brasil
-logo: https://api.reidoscanais.ooo/img/canalbrasil.png
+logo: https://cdn.reidoscanais.st/imagens/canalbrasil.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/canalbrasil/__index.m3u8?sv=173&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289338-dkeV0sxD37jlg8xl3mljOBGbV8J1l7AywwA8ZVQahF0%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/canalbrasil/__index.m3u8?sv=155&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787791989-l5AGuGfDmmdtOq0t8pJFxsQmhh7Upxvn%2FDstVgjia5k%3D
 
 canal: canal-off
-logo: https://api.reidoscanais.ooo/img/canaloff.png
+logo: https://cdn.reidoscanais.st/imagens/canaloff.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/off/__index.m3u8?sv=196&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282271-L98hh4f38CWyEv6e8hbPxYnoZSx04zmJ6sqM%2B27%2BnFs%3D
 
 canal: Telecine Fun
-logo: https://embedcanaisdetv.com/images/tcfun.png
+logo: https://cdn.reidoscanais.st/imagens/telecinefun.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=197&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282913-QUfl0OgkKjzzhN2SK5Vc1b8ajh3xesFQDuQUd0LPnRw%3D
 
 canal: Telecine Cult
-logo: https://embedcanaisdetv.com/images/tccult.png
+logo: https://cdn.reidoscanais.st/imagens/telecinecult.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=92&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289598-dmFlEqKYWODlnpARc3wg9Hif23XjQgbPEENKjncBgI8%3D
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=97&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787793482-yEwhUO%2BYTFWaVoO3aH%2FerazomyKF74oEBwlw%2BBW2CT8%3D
 
 canal: Telecine Touch
-logo: https://embedcanaisdetv.com/images/tctouch.png
+logo: https://cdn.reidoscanais.st/imagens/telecinetouch.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=70&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788283053-ctAUK48c2z5sn3wmVtILp4lugwD5gPdwZMpTCbf9j%2Fk%3D
 
 canal: SONY Movies
-logo: https://api.reidoscanais.ooo/img/sonymovies.png
+logo: https://cdn.reidoscanais.st/imagens/sonymovies.png
 fonte: https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Globo
-logo: https://mondrian.claro.com.br/channels/inverse/globo.png
+logo: https://cdn.reidoscanais.st/imagens/tvglobo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Tooncast
-logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
+logo: https://cdn.reidoscanais.st/imagens/tooncast.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TLC
-logo: https://mondrian.claro.com.br/channels/inverse/tlc.png
+logo: https://cdn.reidoscanais.st/imagens/tlc.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Arte 1
-logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
+logo: https://cdn.reidoscanais.st/imagens/arte1.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TNT Novelas
-logo: https://mondrian.claro.com.br/channels/inverse/tnt-novelas.png
+logo: https://cdn.reidoscanais.st/imagens/tntnovelas.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Science
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-science.png
+logo: https://cdn.reidoscanais.st/imagens/discoveryscience.webp
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Boomerang
@@ -449,7 +450,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/boomerang.png
 fonte: https://cdn-sp2.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: AXN
-logo: https://mondrian.claro.com.br/channels/inverse/axn.png
+logo: https://cdn.reidoscanais.st/imagens/axn.png
 fonte: https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TCM
@@ -457,7 +458,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/tcm.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Band News
-logo: https://mondrian.claro.com.br/channels/inverse/band-news.png
+logo: https://cdn.reidoscanais.st/imagens/bandnews.png
 fonte: https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: BAND SPORTS HD
@@ -465,27 +466,27 @@ logo: https://mondrian.claro.com.br/channels/inverse/band-sports.png
 fonte: https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: RedeTV!
-logo: https://mondrian.claro.com.br/channels/inverse/redetv.png
+logo: https://cdn.reidoscanais.st/imagens/redetv.png
 fonte: https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TV Cultura
-logo: https://mondrian.claro.com.br/channels/inverse/tv-cultura.png
+logo: https://cdn.reidoscanais.st/imagens/tvcultura.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Terra Viva
-logo: https://mondrian.claro.com.br/channels/inverse/terraviva.png
+logo: https://www.tvlogo.org/brazil/terraviva-br.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TERRA_VIVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Woohoo
-logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
+logo: https://cdn.reidoscanais.st/imagens/woohoo.png
 fonte: https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: PRIME BOX BRAZIL
-logo: https://mondrian.claro.com.br/channels/inverse/prime-box-brazil.png
+logo: https://www.tvlogo.org/brazil/prime-box-brazil-br.png
 fonte: https://cdn-sp2.satlabscloud.com.br/PRIME_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 3
-logo: https://mondrian.claro.com.br/channels/inverse/espn3.png
+logo: https://cdn.reidoscanais.st/imagens/espn.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN Extra
@@ -497,7 +498,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
 fonte: https://cdn-sp2.satlabscloud.com.br/GAZETA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Record News
-logo: https://mondrian.claro.com.br/channels/inverse/record-news.png
+logo: https://cdn.reidoscanais.st/imagens/recordnews.png
 fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Canção Nova
@@ -505,37 +506,37 @@ logo: https://mondrian.claro.com.br/channels/inverse/cancao-nova.png
 fonte: https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TV Aparecida
-logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
+logo: https://cdn.reidoscanais.st/imagens/aparecida.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Rede Vida
-logo: https://mondrian.claro.com.br/channels/inverse/redevida.png
+logo: https://www.tvlogo.org/brazil/rede-vida-br.png
 fonte: https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery ID
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-id.png
+logo: https://cdn.reidoscanais.st/imagens/discoveryid.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Fish TV
-logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
+logo: https://cdn.reidoscanais.st/imagens/fishtv.png
 fonte: https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Box Kids TV
-logo: https://mondrian.claro.com.br/channels/inverse/box-kids.png
+logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 fonte: https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Sabor & Arte
-logo: https://mondrian.claro.com.br/channels/inverse/sabor-arte.png
+logo: https://cdn.reidoscanais.st/imagens/saborearte.png
 fonte: https://cdn-sp2.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: X Sports
-logo: https://mondrian.claro.com.br/channels/inverse/xsports.png
+logo: https://cdn.reidoscanais.st/imagens/xsports.png
 fonte: https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: N SPORTS
-logo: https://mondrian.claro.com.br/channels/inverse/nsports.png
+logo: https://cdn.reidoscanais.st/imagens/nsports.png
 fonte: https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Music Box Brazil
-logo: https://mondrian.claro.com.br/channels/inverse/music-box-brazil.png
+logo: https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png
 fonte: https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
