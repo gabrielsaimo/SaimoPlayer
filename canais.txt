@@ -57,6 +57,8 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.ts
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://api.reidoscanais.ooo/img/foodnetwork.png" group-title="VARIEDADES", FOOD NETWORK (ST)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/foodnetwork/__index.m3u8?sv=56&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787839130-pT8HVHky%2FsjKkc%2BPXo7gIz0eKxWbFhevgiwCk7QbYO8%3D
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://api.reidoscanais.ooo/img/gloob.png" group-title="INFANTIL", GLOOB (ST)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=55&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788281416-bi%2FqmCP0JXVL7CPg8KO17uAbSSaC2aBFhcigfk1vQcU%3D
 #EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
@@ -137,5 +139,21 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
 http://79.127.238.228:14647
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="FILMES E SÉRIES", AMC (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=47&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289103-VK8dnUE770fqD%2FoW4pMt6YYc0XFiSJtn6OzsLu0ArIQ%3D
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bloomberg.png" group-title="NOTÍCIAS", BLOOMBERG (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/bloomberg/__index.m3u8?sv=150&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289267-kb%2FFBhBCbra3LVxFPUK43PPBkHSOvNx%2FR49AiEhbSUY%3D
+#EXTINF:-1 tvg-id="canal-brasil" tvg-logo="https://api.reidoscanais.ooo/img/canalbrasil.png" group-title="FILMES E SÉRIES", CANAL BRASIL (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/canalbrasil/__index.m3u8?sv=173&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289338-dkeV0sxD37jlg8xl3mljOBGbV8J1l7AywwA8ZVQahF0%3D
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://mondrian.claro.com.br/channels/inverse/gloobinho.png" group-title="INFANTIL", GLOOBINHO (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/gloobinho/__index.m3u8?sv=113&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289424-%2F4xU5rJ4F2GM31qy1mfJIRYWI0n2Zc7i%2Fpg5qcGMxwY%3D
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289502-5n%2F67D%2BgZ1MuVBznFvkfYrNL99JMQf0kealKrOtdJc8%3D
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/studiouniversal/__index.m3u8?sv=168&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289550-%2FVgaqs3uHqdHOs3oadsyru6RNQo6DjCwMeStFLjAB5U%3D
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=92&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289598-dmFlEqKYWODlnpARc3wg9Hif23XjQgbPEENKjncBgI8%3D
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA NETWORK (NOVA)
+https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=49&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788289647-uYiBn4vGocAAq8DRir0rMDdKdda6a%2FR68QQ6vxUS8DI%3D
 #EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.m3u8
