@@ -86,15 +86,17 @@ final class Capas: ObservableObject {
         return capa
     }
 
-    /// Nome de busca: sem marca de qualidade, sem colchete, sem ano no fim.
+    /// Nome de busca: sem marcas de qualidade, mas com o ano. Ele é o que
+    /// impede a capa de uma refilmagem de aparecer no filme errado.
     static func limpar(_ titulo: String) -> String {
         var texto = titulo.replacingOccurrences(
-            of: #"[\[\(][^\]\)]*[\]\)]"#, with: " ", options: .regularExpression)
+            of: #"\[[^\]]*\]"#, with: " ", options: .regularExpression)
+        texto = texto.replacingOccurrences(
+            of: #"\((?!(?:19|20)\d{2}\))[^\)]*\)"#,
+            with: " ", options: .regularExpression)
         texto = texto.replacingOccurrences(
             of: #"(?i)\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv|dual|remux|legendado|dublado|leg|dub)\b"#,
             with: " ", options: .regularExpression)
-        texto = texto.replacingOccurrences(
-            of: #"\s+((19|20)\d{2})\s*$"#, with: " ", options: .regularExpression)
         return texto.replacingOccurrences(of: #"\s{2,}"#, with: " ", options: .regularExpression)
             .trimmingCharacters(in: .whitespaces)
     }

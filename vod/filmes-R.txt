@@ -1,605 +1,1093 @@
-R M N	dub=2:1268770
-R.I.P.D. 2: Rise of the Damned	dub=0:196702,2:1039067	leg=0:196701,2:1034409
-R.I.P.D.: Agentes do Além	dub=0:127443,0:21271,2:1039651
-RADAR: As Aventuras do Cão Biônico	dub=0:289620,2:1067292	leg=0:289621,2:1027234
-RED - Aposentados e Perigosos	dub=0:353942,0:20210,2:1057381	leg=0:353941,2:1265392
-REV: Adrenalina Total	dub=0:187857,2:1046980	leg=0:187863,2:1249457
-RIQUINHO DE PAPAI	dub=0:351912,2:1253472	leg=0:351911,2:1264845
-ROMI	dub=0:362266,2:1266969	leg=0:362265,2:1266902
+R M N (2022)	dub=2:1268770
+R.I.P.D Agentes do Alem - (2013)	dub=2:1039651
+R.I.P.D. 2: Rise of the Damned	dub=0:196702	leg=0:196701
+R.I.P.D. 2: Rise of the Damned - (2022)	dub=2:1039067	leg=2:1034409
+R.I.P.D.: Agentes do Além	dub=0:127443,0:21271
+RADAR: As Aventuras do Cão Biônico	dub=0:289620	leg=0:289621
+RADAR: As Aventuras do Cão Biônico - (2023)	dub=2:1067292	leg=2:1027234
+RED - Aposentados e Perigosos	dub=0:353942,0:20210	leg=0:353941
+RED - Aposentados e Perigosos (2010)	dub=2:1057381	leg=2:1265392
+REMEMBER (2023)	dub=2:1268716
+REV: Adrenalina Total	dub=0:187857	leg=0:187863
+REV: Adrenalina Total - (2020)	dub=2:1046980	leg=2:1249457
+RIQUINHO DE PAPAI	dub=0:351912	leg=0:351911
+RIQUINHO DE PAPAI (2024)	leg=2:1264845
+ROMI	dub=0:362266	leg=0:362265
+ROMI (2023)	dub=2:1266969	leg=2:1266902
 RRR	leg=0:161539
-RRR Revolta Rebeliao Revolucao	dub=0:176814,2:1055937	leg=0:176812,2:1032960
-RRRrrrr!!! - Na Idade da Pedra	dub=0:63087,2:1055370
-Raat Akeli Hai	leg=0:64463,2:1031350
-Rabbids: A Invasão – Missão para Marte	dub=0:151944,2:1061946	leg=0:151941,2:1028901
-Rabbit Trap	dub=0:370007	leg=0:370006,0:347698,2:1249845
-Rabia As Esposas Do Estado Islamico	leg=2:1273079,2:1266305
-Rabid	dub=0:167505,2:1267782	leg=0:167506
-Rabid Legendado	dub=0:30567,2:1059830
-Rabin O Ultimo Dia	dub=2:1268743
-Racetime - Hora da Corrida	dub=0:35968,2:1062669
-Racionais: Das Ruas de São Paulo pro Mundo	dub=0:180354,2:1072266
-Radical	dub=0:359261,2:1269522	leg=0:359260,0:246884,2:1034304
-Radio Flyer	dub=0:134110,2:1041958
-Radioactive	dub=0:102489,2:1045284	leg=0:76705,2:1033514
-Rafa Márquez: O Capitão	dub=0:264355,2:1265253	leg=0:264356
-Rafinha Bastos Ultimato	dub=0:22589,2:1053160
-Raging Grace	dub=2:1269569	leg=0:246454,2:1031952
-Ragnarok	dub=0:34750,2:1056074
-Raia 4	dub=0:134066,2:1042651
-Rain Man	dub=0:170839,2:1042120
-Rainbow	dub=0:175617,2:1071529	leg=0:175622,2:1026741
-Rainha de Copas	dub=0:85171,2:1042667
-Rainha de Espadas	dub=0:193057,2:1057788	leg=0:193056,2:1036031
-Rainha de Katwe	dub=0:336857,0:97207,2:1041169	leg=0:336856,2:1249417
-Rainha do Carvão	dub=0:358065,2:1254901	leg=0:358064,2:1266182
-Rainha do Deserto	dub=2:1267607
-Rainha do Everest: No Topo com Lhakpa Sherpa	dub=0:278122,2:1048646	leg=0:278123,2:1025660
-Rainha do Natal	dub=0:227019,2:1049690
-Rainha do Ring	dub=2:1271336	leg=0:329643,2:1037329
-Rainhas do Crime	dub=0:30438,2:1052157
-Rainhas em Fuga	dub=0:192105,2:1053241	leg=0:192107,2:1035095
-Raio-X Banco Master 4K	dub=0:367819,0:367701,2:1267984,2:1257488
-Raising Buchanan	dub=2:1266468
-Raiva	dub=0:218269,2:1057895	leg=0:358156,0:218270,2:1025006
-Raizes Do Amor	dub=0:96876,2:1042919
-Raizes da Ambicao	dub=2:1270699
-Raizes da Escuridao	dub=2:1271124
-Rajada de Fogo	dub=2:1266992
-Ralph Barbosa Planeta Bosa	dub=2:1269862
-Rambo 1	dub=0:20204,2:1066158
-Rambo 2	dub=0:20205,2:1066542
-Rambo 3	dub=0:20206,2:1066914
-Rambo 4	dub=0:20207,2:1066105
-Rambo Ate O Fim	dub=0:31451,2:1249789
-Rambo Last Blood	leg=2:1267753
+RRR Revolta Rebeliao Revolucao	dub=0:176814	leg=0:176812
+RRR Revolta Rebeliao Revolucao - (2022)	dub=2:1055937	leg=2:1032960
+RRRrrrr!!! - Na Idade da Pedra	dub=0:63087
+RRRrrrr!!! - Na Idade da Pedra - (2004)	dub=2:1055370
+Raat Akeli Hai	leg=0:64463
+Raat Akeli Hai - (2020)	leg=2:1031350
+Rabbids: A Invasão – Missão para Marte	dub=0:151944	leg=0:151941
+Rabbids: A Invasão – Missão para Marte - (2021)	dub=2:1061946	leg=2:1028901
+Rabbit Trap	dub=0:370007	leg=0:370006,0:347698
+Rabbit Trap - (2025)	leg=2:1249845
+Rabia As Esposas Do Estado Islamico (2024)	leg=2:1273079
+Rabia As Esposas Do Estado Islamico - (2025)	leg=2:1266305
+Rabid	dub=0:167505	leg=0:167506
+Rabid (2019)	dub=2:1267782
+Rabid Legendado	dub=0:30567
+Rabid Legendado - (2019)	dub=2:1059830
+Rabin O Ultimo Dia (2015)	dub=2:1268743
+Racetime - Hora da Corrida	dub=0:35968
+Racetime - Hora da Corrida - (2018)	dub=2:1062669
+Racionais: Das Ruas de São Paulo pro Mundo	dub=0:180354
+Racionais: Das Ruas de São Paulo pro Mundo - (2022)	dub=2:1072266
+Radical	dub=0:359261	leg=0:359260,0:246884
+Radical (2023)	dub=2:1269522	leg=2:1034304
+Radio Flyer	dub=0:134110
+Radio Flyer - (1992)	dub=2:1041958
+Radioactive	dub=0:102489	leg=0:76705
+Radioactive - (2020)	dub=2:1045284	leg=2:1033514
+Rafa Marquez O Capitao (2024)	dub=2:1265253
+Rafa Márquez: O Capitão	dub=0:264355	leg=0:264356
+Rafinha Bastos Ultimato	dub=0:22589
+Rafinha Bastos Ultimato - (2018)	dub=2:1053160
+Raging Grace	leg=0:246454
+Raging Grace (2023)	dub=2:1269569	leg=2:1031952
+Ragnarok	dub=0:34750
+Ragnarok - (2013)	dub=2:1056074
+Raia 4	dub=0:134066
+Raia 4 - (2019)	dub=2:1042651
+Rain Man	dub=0:170839
+Rain Man - (1988)	dub=2:1042120
+Rainbow	dub=0:175617	leg=0:175622
+Rainbow - (2022)	dub=2:1071529	leg=2:1026741
+Rainha de Copas	dub=0:85171
+Rainha de Copas - (2019)	dub=2:1042667
+Rainha de Espadas	dub=0:193057	leg=0:193056
+Rainha de Espadas - (2021)	dub=2:1057788	leg=2:1036031
+Rainha de Katwe	dub=0:336857,0:97207	leg=0:336856
+Rainha de Katwe - (2016)	dub=2:1041169	leg=2:1249417
+Rainha do Carvão	dub=0:358065	leg=0:358064
+Rainha do Carvão (2025)	dub=2:1254901	leg=2:1266182
+Rainha do Deserto (2015)	dub=2:1267607
+Rainha do Everest: No Topo com Lhakpa Sherpa	dub=0:278122	leg=0:278123
+Rainha do Everest: No Topo com Lhakpa Sherpa - (2024)	dub=2:1048646	leg=2:1025660
+Rainha do Natal	dub=0:227019
+Rainha do Natal - (2022)	dub=2:1049690
+Rainha do Ring	leg=0:329643
+Rainha do Ring (2025)	dub=2:1271336	leg=2:1037329
+Rainhas do Crime	dub=0:30438
+Rainhas do Crime - (2019)	dub=2:1052157
+Rainhas em Fuga	dub=0:192105	leg=0:192107
+Rainhas em Fuga - (2023)	dub=2:1053241	leg=2:1035095
+Raio-X Banco Master 4K	dub=0:367819,0:367701
+Raio-X Banco Master 4K (2026)	dub=2:1267984,2:1257488
+Raising Buchanan (2019)	dub=2:1266468
+Raiva	dub=0:218269	leg=0:358156,0:218270
+Raiva - (2023)	dub=2:1057895	leg=2:1025006
+Raizes Do Amor	dub=0:96876
+Raizes Do Amor - (2019)	dub=2:1042919
+Raizes da Ambicao (1978)	dub=2:1270699
+Raizes da Escuridao (2019)	dub=2:1271124
+Rajada de Fogo (1992)	dub=2:1266992
+Ralph Barbosa Planeta Bosa (2025)	dub=2:1269862
+Rambo 1	dub=0:20204
+Rambo 1 - (1982)	dub=2:1066158
+Rambo 2	dub=0:20205
+Rambo 2 - (1985)	dub=2:1066542
+Rambo 3	dub=0:20206
+Rambo 3 - (1988)	dub=2:1066914
+Rambo 4	dub=0:20207
+Rambo 4 - (2008)	dub=2:1066105
+Rambo Ate O Fim	dub=0:31451
+Rambo Last Blood (2019)	leg=2:1267753
 Rambo Last Blood Legendado	dub=0:31431
-Rampage - Destruição Total 4K	dub=0:381207,0:336678,0:21500,0:20208,2:1056087,2:1022162
-Ran	dub=0:352239,2:1264902	leg=0:352238,2:1264890
-Rango	dub=0:44185,2:1069364
-Ranma 1 2 Filme 2 Nihao My Concubine	dub=2:1264644
-Rapida e Mortal	dub=0:21389,2:1069331
-Raposa de Fogo	dub=0:104509,2:1057262
-Rapto	dub=2:1266800
-Rapture	dub=2:1267462
+Rambo: Até o Fim (2019)	dub=2:1249789
+Rampage - Destruição Total 4K	dub=0:381207,0:336678,0:21500,0:20208
+Rampage: Destruição Total - (2018)	dub=2:1056087,2:1022162
+Ran	dub=0:352239	leg=0:352238
+Ran (1985)	dub=2:1264902	leg=2:1264890
+Rango	dub=0:44185
+Rango - (2011)	dub=2:1069364
+Ranma 1 2 Filme 2 Nihao My Concubine (1992)	dub=2:1264644
+Rapida e Mortal	dub=0:21389
+Rapida e Mortal - (1995)	dub=2:1069331
+Raposa de Fogo	dub=0:104509
+Raposa de Fogo - (1982)	dub=2:1057262
+Rapto (2019)	dub=2:1266800
+Rapture (2024)	dub=2:1267462
 Rapunzel: Enrolados	dub=0:20440
-Raqqa: Spy vs. Spy	dub=2:1291032
-Raquel 1:1	dub=0:193270,2:1071002
-Rascal Does Not Dream of a Knapsack Kid	leg=0:340979,2:1024759
-Rascal Does Not Dream of a Sister Venturing Out	leg=0:340980,2:1028450
-Rasga Coracao	dub=0:22080,2:1042272
-Rastos de Sangue	dub=0:194455,2:1049685	leg=0:194448,2:1036117
-Rastreado	dub=2:1262998
-Rastro De Maldade	dub=0:21828,2:1069339
-Rastro Mortal	dub=0:300840,2:1047122	leg=0:300841,2:1028911
-Rastro Perdido	dub=2:1273130
-Rastro de Violência	dub=0:203325,2:1051814	leg=0:203324,2:1032972
-Rastro do Ouro	dub=0:377110,2:1268284	leg=0:377109,2:1268384
-Rastros da Violência	dub=0:378062,2:1268897	leg=0:378061,2:1268935
-Rastros de Vingança	dub=0:365280,2:1267316	leg=0:365279,2:1267539
-Rastros de um Crime	dub=0:160626,0:160625,2:1069717
-Rastros de um Sequestro	dub=0:303671,2:1070824
-Rastros de Ódio	dub=0:371941,0:365278,2:1267325
-Rastros do Além	dub=0:355760,0:26393,2:1040184	leg=0:355759,2:1265780
-Ratatouille	dub=0:20441,2:1062727
-Ratos e Homens	dub=0:350947,0:138904,2:1042935
-Ratsasan	dub=2:1270383
-Raul - O Início, o Fim e o Meio	dub=0:336971,2:1071946
-Ravanasura	dub=2:1269477
-Raven - O Nome da Vingança	dub=0:307314,2:1271009	leg=0:307315
-Ravens	leg=0:370719,2:1267600
-Ravers	dub=2:1267512
-Ray	dub=0:103977,2:1071436
-Ray And Liz Legendado	dub=0:30533,2:1041878
-Ray Donovan - O Filme	dub=0:160630,0:160611,0:148734,2:1049490,2:1022504
-Raya E O Ultimo Dragao 4K	dub=0:97159,0:97142,2:1062768,2:1021827
-Raymond & Ray 4K	dub=0:179810,0:178293,2:1040492,2:1021588	leg=0:178294,2:1026621
-Razão e Sensibilidade	dub=0:130249,2:1065425
-Raça	dub=0:354269,2:1265469	leg=0:354268,2:1265533
-Raça da Ganância	leg=0:362581,2:1266970
-Raça das Trevas	dub=0:309554,2:1039267	leg=0:309555,2:1028586
-Raça e Redenção	dub=0:47425,2:1045750
-Raízes Macabras	dub=0:122880,2:1039481	leg=0:122914,2:1030093
-Raízes de Sangue	dub=0:45105,2:1051094
-Re Animator Fase Terminal	dub=0:64464,2:1059972
+Raqqa: Spy vs. Spy (2024)	dub=2:1291032
+Raquel 1:1	dub=0:193270
+Raquel 1:1 - (2023)	dub=2:1071002
+Rascal Does Not Dream of a Knapsack Kid	leg=0:340979
+Rascal Does Not Dream of a Knapsack Kid - (2023)	leg=2:1024759
+Rascal Does Not Dream of a Sister Venturing Out	leg=0:340980
+Rascal Does Not Dream of a Sister Venturing Out - (2023)	leg=2:1028450
+Rasga Coracao	dub=0:22080
+Rasga Coracao - (2018)	dub=2:1042272
+Rastos de Sangue	dub=0:194455	leg=0:194448
+Rastos de Sangue - (2022)	dub=2:1049685	leg=2:1036117
+Rastreado (2025)	dub=2:1262998
+Rastro De Maldade	dub=0:21828
+Rastro De Maldade - (2015)	dub=2:1069339
+Rastro Mortal	dub=0:300840	leg=0:300841
+Rastro Mortal - (2019)	dub=2:1047122	leg=2:1028911
+Rastro Perdido (2006)	dub=2:1273130
+Rastro de Violência	dub=0:203325	leg=0:203324
+Rastro de Violência - (2019)	dub=2:1051814	leg=2:1032972
+Rastro do Ouro	dub=0:377110	leg=0:377109
+Rastro do Ouro (2026)	dub=2:1268284	leg=2:1268384
+Rastros da Violência	dub=0:378062	leg=0:378061
+Rastros da Violência (2013)	dub=2:1268897	leg=2:1268935
+Rastros de Vingança	dub=0:365280	leg=0:365279
+Rastros de Vingança (2008)	dub=2:1267316	leg=2:1267539
+Rastros de um Crime	dub=0:160626,0:160625
+Rastros de um Crime - (2021)	dub=2:1069717
+Rastros de um Sequestro	dub=0:303671
+Rastros de um Sequestro - (2017)	dub=2:1070824
+Rastros de Ódio	dub=0:371941,0:365278
+Rastros de Ódio (1956)	dub=2:1267325
+Rastros do Além	dub=0:355760,0:26393	leg=0:355759
+Rastros do Além (2018)	dub=2:1040184	leg=2:1265780
+Ratatouille	dub=0:20441
+Ratatouille - (2007)	dub=2:1062727
+Ratos e Homens	dub=0:350947,0:138904
+Ratos e Homens - (1992)	dub=2:1042935
+Ratsasan (2018)	dub=2:1270383
+Raul - O Início, o Fim e o Meio	dub=0:336971
+Raul - O Início, o Fim e o Meio - (2012)	dub=2:1071946
+Ravanasura (2023)	dub=2:1269477
+Raven - O Nome da Vingança	dub=0:307314	leg=0:307315
+Raven O Nome da Vinganca (2022)	dub=2:1271009
+Ravens	leg=0:370719
+Ravens (2025)	leg=2:1267600
+Ravers (2020)	dub=2:1267512
+Ray	dub=0:103977
+Ray - (2004)	dub=2:1071436
+Ray And Liz Legendado	dub=0:30533
+Ray And Liz Legendado - (2018)	dub=2:1041878
+Ray Donovan - O Filme	dub=0:160630,0:160611,0:148734
+Ray Donovan - O Filme - (2022)	dub=2:1049490,2:1022504
+Raya E O Ultimo Dragao 4K	dub=0:97159,0:97142
+Raya e o Último Dragão - (2021)	dub=2:1062768,2:1021827
+Raymond & Ray - (2022)	dub=2:1040492,2:1021588	leg=2:1026621
+Raymond & Ray 4K	dub=0:179810,0:178293	leg=0:178294
+Razão e Sensibilidade	dub=0:130249
+Razão e Sensibilidade - (1995)	dub=2:1065425
+Raça	dub=0:354269	leg=0:354268
+Raça (2016)	dub=2:1265469	leg=2:1265533
+Raça da Ganância	leg=0:362581
+Raça da Ganância (2025)	leg=2:1266970
+Raça das Trevas	dub=0:309554	leg=0:309555
+Raça das Trevas - (1990)	dub=2:1039267	leg=2:1028586
+Raça e Redenção	dub=0:47425
+Raça e Redenção - (2019)	dub=2:1045750
+Raízes Macabras	dub=0:122880	leg=0:122914
+Raízes Macabras - (2020)	dub=2:1039481	leg=2:1030093
+Raízes de Sangue	dub=0:45105
+Raízes de Sangue - (2018)	dub=2:1051094
+Re Animator Fase Terminal	dub=0:64464
+Re Animator Fase Terminal - (2003)	dub=2:1059972
 Re Member The Last Night	leg=0:369374
-Re-Animator: A Hora dos Mortos-Vivos	dub=0:311150,2:1060728
-Re/Member: A Última Noite Legendado	dub=2:1258236
-ReMember	dub=0:187563,2:1268716,2:1058474	leg=0:187578,2:1025347
-Reading Lolita in Tehran	dub=0:347353,2:1248812	leg=0:347352,2:1249592
-Ready or Not Legendado	dub=0:31432,2:1057779
-Reagan	dub=0:308402,2:1045440	leg=0:308403,2:1034570
-Real - O Plano por Tras da Historia	dub=2:1271642
-Real Madrid - O Filme	dub=0:367057,2:1267647	leg=0:367056,2:1267642
-Realeza Rebelde: Um Amor Improvável	dub=0:343939,2:1036958	leg=0:343938,2:1036956
-Realidades Paralelas	dub=0:246831,2:1060262	leg=0:246832,2:1249096
-Reality	dub=0:309302,2:1043831	leg=0:309303,2:1025668
-Really Love	dub=0:122918,2:1064336	leg=0:122898,2:1030628
-Reação em Cadeia	dub=0:141459,0:105264,2:1269172,2:1056968,2:1047538
-Rebecca - A Mulher Inesquecível	dub=0:77830,2:1069572
-Rebel Moon - Parte 1: A Menina do Fogo 4K	dub=0:284560,0:278681,0:236315,0:235136,2:1249746,2:1055659	leg=0:278682,0:235137,2:1031165
-Rebel Moon - Parte 2: A Marcadora de Cicatrizes 4K	dub=0:284561,0:278683,0:256951,0:256929,2:1249699,2:1056165	leg=0:278684,0:256930,2:1036279
-Rebel Ridge 4K	dub=0:297476,0:284562,2:1051016,2:1023034	leg=0:284563,2:1023768
-Rebelde Com Causa	dub=0:110832,2:1065261
-Rebeldes	dub=0:324837,2:1047073	leg=0:324836,2:1027496
-Rebeldes aos 16	dub=0:255013,2:1054120	leg=0:255014,2:1030865
-Rebeldes e Heróis	dub=0:138915,2:1056631
-Rebeldia Indomável	dub=2:1273269
-Rebeliao	dub=0:24317,2:1047661
-Rebelião Silenciosa Legendado	dub=2:1262439
-Rebelião em Alto Mar	dub=0:106841,2:1046035
-Rebelles	leg=0:48209,2:1034743
-Rebellious	dub=2:1269041	leg=0:313167,2:1030883
-Rebento	dub=0:146806,2:1069613
-Rebirth	dub=0:319862,2:1044386
-Reboot Camp	dub=2:1270940
-Receba!	dub=0:371678,2:1268002
-Receita Secreta	dub=0:255108,0:92585,2:1053573	leg=0:255109,2:1028607
-Receita para Amar	dub=0:158004,2:1050439
-Recife Assombrado	dub=0:368249,0:162363,2:1059415
-Recife Frio	dub=0:353669,2:1265312
-Recontagem	dub=2:1273270
-Recreo	dub=0:330037,2:1054727
-Recuperando a Esperanca	dub=0:21144,2:1040798
-Recém-Casados	dub=0:44186,0:20804,2:1064801
-Recém-Chegada	dub=0:251299,2:1065506
-Red - Aposentados e Perigosos 2	dub=0:20209,2:1046294
-Red Hot Chili Peppers: Ao Vivo no Slane Castle	dub=2:1266135
-Red Right Hand	leg=0:252793,2:1025848
-Red Rocket	dub=0:168543,2:1053634	leg=0:168518,2:1035203
-Red Rooms	dub=0:309929,2:1051811	leg=0:309930
-Red Screening	dub=2:1266033
-Red Shoes And The Seven Dwarfs	leg=0:62472,2:1249212
-Red Sonja	dub=2:1265947	leg=0:341305,2:1037181
-Red Static Rising	dub=2:1267469
-Red Stone - Caçada Mortal	dub=0:173290,2:1051550	leg=0:173297,2:1249269
-Red: Crescer é Uma Fera 4K	dub=0:155504,0:151987,2:1066979,2:1022733	leg=0:151995,2:1249586
-RedBad: A Invasão dos Francos	dub=0:27652,2:1066631
-Rede Tóxica	dub=2:1259688
-Rede de Corrupção	dub=0:377251,0:20211,2:1047684	leg=0:377250,2:1268303
-Rede de Intrigas	dub=0:352107,0:309886,2:1042202	leg=0:352106,2:1264863
-Rede de Mentiras	dub=0:92603,2:1044803
-Rede de Ódio	dub=0:64426,2:1044439
-Redemoinho	dub=2:1269957
-Redemption Day	leg=0:92586,2:1249052
-Redentor	dub=0:243257,2:1040091
-Redenção	dub=0:133766,0:93741,2:1270959,2:1051205
-Redes do Crime	dub=0:318567,2:1051884	leg=0:318568,2:1249313
-Reeducando Molly	dub=0:261696,2:1053601	leg=0:261697,2:1024648
-Reefa: O Artista	dub=0:180575,2:1040770	leg=0:180580,2:1035170
-Reencarnacao	dub=2:1271087
-Reencarnação: Falha no Sistema	dub=0:341095,2:1059928	leg=0:341094,2:1031847
-Reencontro de Natal	dub=0:144034,2:1050714
-Refavela 40	dub=0:31932,2:1072317
-Refazendo Laços	dub=0:343957,2:1040554	leg=0:343956,2:1023555
-Refem Do Espirito	dub=0:97208,2:1249972
-Refem da Verdade	dub=2:1270497	leg=2:1273047
-Refem do Medo	dub=0:25191,2:1043255
-Refem do Silencio	dub=0:95948,2:1071279
-Refens Do Crime	dub=0:26885,2:1071304
-Refens do Mal	dub=2:1271488
-Reflexoes No Espelho	dub=2:1268822
-Reflexões de um Liquidificador	dub=0:352108,2:1264873
-Reforma com Romance	dub=0:352977,2:1265182	leg=0:352976,2:1265188
-Refugiado Americano	dub=0:155745,2:1043768	leg=0:155746,2:1029395
-Refém	dub=0:341804,0:104510,2:1269195,2:1046750	leg=0:341803,2:1035385
-Refém Rebelde	dub=0:382669,0:129537,2:1056342	leg=0:382668,0:129540,2:1025486
-Refém da Paixão	dub=0:357597,0:307949,2:1044496	leg=0:357596,2:1268487
-Refém de Uma Mentira	dub=0:328514,2:1043931	leg=0:328513,2:1033011
-Reféns	dub=0:378064,2:1270978,2:1266004	leg=0:378063,2:1268936
-Reféns da Guerra	dub=0:186758,2:1044195	leg=0:186752,2:1029457
+Re-Animator: A Hora dos Mortos-Vivos	dub=0:311150
+Re-Animator: A Hora dos Mortos-Vivos - (1985)	dub=2:1060728
+Re/Member: A Última Noite Legendado (2025)	dub=2:1258236
+ReMember	dub=0:187563	leg=0:187578
+ReMember - (2022)	dub=2:1058474	leg=2:1025347
+Reacao em Cadeia (1996)	dub=2:1269172
+Reading Lolita in Tehran	dub=0:347353	leg=0:347352
+Reading Lolita in Tehran - (2024)	dub=2:1248812	leg=2:1249592
+Ready or Not Legendado	dub=0:31432
+Ready or Not Legendado - (2019)	dub=2:1057779
+Reagan	dub=0:308402	leg=0:308403
+Reagan - (2024)	dub=2:1045440	leg=2:1034570
+Real - O Plano por Tras da Historia (2017)	dub=2:1271642
+Real Madrid - O Filme	dub=0:367057	leg=0:367056
+Real Madrid - O Filme (2005)	dub=2:1267647	leg=2:1267642
+Realeza Rebelde: Um Amor Improvável	dub=0:343939	leg=0:343938
+Realeza Rebelde: Um Amor Improvável - (2025)	dub=2:1036958	leg=2:1036956
+Realidades Paralelas	dub=0:246831	leg=0:246832
+Realidades Paralelas - (2021)	dub=2:1060262	leg=2:1249096
+Reality	dub=0:309302	leg=0:309303
+Reality - (2023)	dub=2:1043831	leg=2:1025668
+Really Love	dub=0:122918	leg=0:122898
+Really Love - (2020)	dub=2:1064336	leg=2:1030628
+Reação em Cadeia	dub=0:141459,0:105264
+Reação em Cadeia - (2015)	dub=2:1056968
+Reação em Cadeia - (2021)	dub=2:1047538
+Rebecca - A Mulher Inesquecível	dub=0:77830
+Rebecca - A Mulher Inesquecível - (2020)	dub=2:1069572
+Rebel Moon - Parte 1: A Menina do Fogo 4K	dub=0:284560,0:278681,0:236315,0:235136	leg=0:278682,0:235137
+Rebel Moon - Parte 1: A Menina do Fogo 4K - (2023)	dub=2:1249746,2:1055659	leg=2:1031165
+Rebel Moon - Parte 2: A Marcadora de Cicatrizes 4K	dub=0:284561,0:278683,0:256951,0:256929	leg=0:278684,0:256930
+Rebel Moon - Parte 2: A Marcadora de Cicatrizes 4K - (2024)	dub=2:1249699,2:1056165	leg=2:1036279
+Rebel Ridge - (2024)	dub=2:1051016,2:1023034	leg=2:1023768
+Rebel Ridge 4K	dub=0:297476,0:284562	leg=0:284563
+Rebelde Com Causa	dub=0:110832
+Rebelde Com Causa - (2009)	dub=2:1065261
+Rebeldes	dub=0:324837	leg=0:324836
+Rebeldes - (1996)	dub=2:1047073	leg=2:1027496
+Rebeldes aos 16	dub=0:255013	leg=0:255014
+Rebeldes aos 16 - (2021)	dub=2:1054120	leg=2:1030865
+Rebeldes e Heróis	dub=0:138915
+Rebeldes e Heróis - (1991)	dub=2:1056631
+Rebeldia Indomável (1967)	dub=2:1273269
+Rebeliao	dub=0:24317
+Rebeliao - (2015)	dub=2:1047661
+Rebelião Silenciosa Legendado (2026)	dub=2:1262439
+Rebelião em Alto Mar	dub=0:106841
+Rebelião em Alto Mar - (1984)	dub=2:1046035
+Rebelles	leg=0:48209
+Rebelles - (2019)	leg=2:1034743
+Rebellious	leg=0:313167
+Rebellious (2024)	dub=2:1269041	leg=2:1030883
+Rebento	dub=0:146806
+Rebento - (2018)	dub=2:1069613
+Rebirth	dub=0:319862
+Rebirth - (2016)	dub=2:1044386
+Reboot Camp (2020)	dub=2:1270940
+Receba!	dub=0:371678
+Receba! (2024)	dub=2:1268002
+Receita Secreta	dub=0:255108,0:92585	leg=0:255109
+Receita Secreta - (2020)	dub=2:1053573	leg=2:1028607
+Receita para Amar	dub=0:158004
+Receita para Amar - (2019)	dub=2:1050439
+Recife Assombrado	dub=0:368249,0:162363
+Recife Assombrado - (2019)	dub=2:1059415
+Recife Frio	dub=0:353669
+Recife Frio (2009)	dub=2:1265312
+Recontagem (2008)	dub=2:1273270
+Recreo	dub=0:330037
+Recreo - (2018)	dub=2:1054727
+Recuperando a Esperanca	dub=0:21144
+Recuperando a Esperanca - (2013)	dub=2:1040798
+Recém-Casados	dub=0:44186,0:20804
+Recém-Casados - (2003)	dub=2:1064801
+Recém-Chegada	dub=0:251299
+Recém-Chegada - (2009)	dub=2:1065506
+Red - Aposentados e Perigosos 2	dub=0:20209
+Red - Aposentados e Perigosos 2 - (2013)	dub=2:1046294
+Red Hot Chili Peppers: Ao Vivo no Slane Castle (2003)	dub=2:1266135
+Red Right Hand	leg=0:252793
+Red Right Hand - (2024)	leg=2:1025848
+Red Rocket	dub=0:168543	leg=0:168518
+Red Rocket - (2021)	dub=2:1053634	leg=2:1035203
+Red Rooms	dub=0:309929	leg=0:309930
+Red Rooms - (2023)	dub=2:1051811
+Red Screening (2020)	dub=2:1266033
+Red Shoes And The Seven Dwarfs	leg=0:62472
+Red Shoes And The Seven Dwarfs - (2019)	leg=2:1249212
+Red Sonja	leg=0:341305
+Red Sonja (2025)	dub=2:1265947	leg=2:1037181
+Red Static Rising (2025)	dub=2:1267469
+Red Stone - Caçada Mortal	dub=0:173290	leg=0:173297
+Red Stone - Caçada Mortal - (2021)	dub=2:1051550	leg=2:1249269
+Red: Crescer é Uma Fera - (2022)	dub=2:1066979,2:1022733	leg=2:1249586
+Red: Crescer é Uma Fera 4K	dub=0:155504,0:151987	leg=0:151995
+RedBad: A Invasão dos Francos	dub=0:27652
+RedBad: A Invasão dos Francos - (2018)	dub=2:1066631
+Rede Tóxica (2025)	dub=2:1259688
+Rede de Corrupção	dub=0:377251,0:20211	leg=0:377250
+Rede de Corrupção (2001)	dub=2:1047684	leg=2:1268303
+Rede de Intrigas	dub=0:352107,0:309886	leg=0:352106
+Rede de Intrigas (1976)	dub=2:1042202	leg=2:1264863
+Rede de Mentiras	dub=0:92603
+Rede de Mentiras - (2008)	dub=2:1044803
+Rede de Ódio	dub=0:64426
+Rede de Ódio - (2020)	dub=2:1044439
+Redemoinho (2000)	dub=2:1269957
+Redemption Day	leg=0:92586
+Redemption Day - (2021)	leg=2:1249052
+Redencao (2013)	dub=2:1270959
+Redentor	dub=0:243257
+Redentor - (2004)	dub=2:1040091
+Redenção	dub=0:133766,0:93741
+Redenção - (2011)	dub=2:1051205
+Redes do Crime	dub=0:318567	leg=0:318568
+Redes do Crime - (2008)	dub=2:1051884	leg=2:1249313
+Reeducando Molly	dub=0:261696	leg=0:261697
+Reeducando Molly - (2023)	dub=2:1053601	leg=2:1024648
+Reefa: O Artista	dub=0:180575	leg=0:180580
+Reefa: O Artista - (2021)	dub=2:1040770	leg=2:1035170
+Reencarnacao (2004)	dub=2:1271087
+Reencarnação: Falha no Sistema	dub=0:341095	leg=0:341094
+Reencarnação: Falha no Sistema - (2022)	dub=2:1059928	leg=2:1031847
+Reencontro de Natal	dub=0:144034
+Reencontro de Natal - (2017)	dub=2:1050714
+Refavela 40	dub=0:31932
+Refavela 40 - (2019)	dub=2:1072317
+Refazendo Laços	dub=0:343957	leg=0:343956
+Refazendo Laços - (2023)	dub=2:1040554	leg=2:1023555
+Refem (2021)	dub=2:1269195
+Refem Do Espirito	dub=0:97208
+Refem Do Espirito - (2008)	dub=2:1249972
+Refem da Verdade (2022)	dub=2:1270497	leg=2:1273047
+Refem do Medo	dub=0:25191
+Refem do Medo - (2016)	dub=2:1043255
+Refem do Silencio	dub=0:95948
+Refem do Silencio - (2001)	dub=2:1071279
+Refens (2011)	dub=2:1270978	leg=2:1268936
+Refens (2020)	dub=2:1266004
+Refens Do Crime	dub=0:26885
+Refens Do Crime - (2010)	dub=2:1071304
+Refens do Mal (2007)	dub=2:1271488
+Reflexoes No Espelho (2022)	dub=2:1268822
+Reflexões de um Liquidificador	dub=0:352108
+Reflexões de um Liquidificador (2010)	dub=2:1264873
+Reforma com Romance	dub=0:352977	leg=0:352976
+Reforma com Romance (2024)	dub=2:1265182	leg=2:1265188
+Refugiado Americano	dub=0:155745	leg=0:155746
+Refugiado Americano - (2021)	dub=2:1043768	leg=2:1029395
+Refém	dub=0:341804,0:104510	leg=0:341803
+Refém - (2005)	dub=2:1046750	leg=2:1035385
+Refém Rebelde	dub=0:382669,0:129537	leg=0:382668,0:129540
+Refém Rebelde - (2021)	dub=2:1056342	leg=2:1025486
+Refém da Paixão	dub=0:357597,0:307949	leg=0:357596
+Refém da Paixão (2013)	dub=2:1044496	leg=2:1268487
+Refém de Uma Mentira	dub=0:328514	leg=0:328513
+Refém de Uma Mentira - (2023)	dub=2:1043931	leg=2:1033011
+Reféns	dub=0:378064	leg=0:378063
+Reféns da Guerra	dub=0:186758	leg=0:186752
+Reféns da Guerra - (2021)	dub=2:1044195	leg=2:1029457
 Reféns da Noite	dub=0:266021	leg=0:266022
-Reféns da Terra	dub=0:352688,2:1265016	leg=0:352687,2:1265019
-Reféns do Desconhecido	dub=0:19992,2:1059695
-Reféns na Ponte	dub=0:318598,2:1047199	leg=0:318599,2:1030055
-Refúgio	dub=0:147460,2:1060234	leg=0:147451,2:1025924
-Refúgio de Inverno	dub=2:1263047
-Refúgio do Medo	dub=0:139269,2:1070976
+Reféns da Terra	dub=0:352688	leg=0:352687
+Reféns da Terra (2023)	dub=2:1265016	leg=2:1265019
+Reféns do Desconhecido	dub=0:19992
+Reféns do Desconhecido - (2008)	dub=2:1059695
+Reféns na Ponte	dub=0:318598	leg=0:318599
+Reféns na Ponte - (2024)	dub=2:1047199	leg=2:1030055
+Refúgio	dub=0:147460	leg=0:147451
+Refúgio - (2021)	dub=2:1060234	leg=2:1025924
+Refúgio de Inverno (2026)	dub=2:1263047
+Refúgio do Medo	dub=0:139269
+Refúgio do Medo - (2014)	dub=2:1070976
 Refúgio dos Pássaros	dub=0:297477
-Refúgio no Paraíso	dub=0:157965,2:1050832
-Reggae Resistência	dub=0:337601,2:1048416	leg=0:337600,2:1023806
-Reggie	dub=2:1269608
-Regra 34	dub=0:189548,2:1040805
-Regra de Duas Paredes	dub=2:1265041	leg=0:357787,2:1265130
-Regra de Três	dub=0:159935,2:1050298	leg=0:159936,2:1026645
-Regras Nao Se Aplicam	dub=0:23933,2:1065510
-Regras da Atração	dub=0:347163,0:101409,2:1063568	leg=0:347162,2:1036465
-Regras do Amor na Cidade Grande	dub=2:1269765	leg=0:338677,2:1025158
-Regras do Jogo	dub=0:363911,2:1267146	leg=0:363910,2:1264667
-Regresso a Halloweentown	dub=2:1270066
-Regresso ao Po	dub=2:1266103
-Regresso do Mal	dub=0:328171,0:128550,2:1058363	leg=0:328170,2:1025688
-Rei Arthur	dub=0:97599,2:1066634
-Rei Arthur: A Lenda da Espada	dub=0:112989,2:1039674
-Rei Charles III	dub=0:30441,2:1042688
+Refúgio no Paraíso	dub=0:157965
+Refúgio no Paraíso - (2020)	dub=2:1050832
+Reggae Resistência	dub=0:337601	leg=0:337600
+Reggae Resistência - (2023)	dub=2:1048416	leg=2:1023806
+Reggie (2023)	dub=2:1269608
+Regra 34	dub=0:189548
+Regra 34 - (2023)	dub=2:1040805
+Regra de Duas Paredes	leg=0:357787
+Regra de Duas Paredes (2023)	dub=2:1265041	leg=2:1265130
+Regra de Três	dub=0:159935	leg=0:159936
+Regra de Três - (2019)	dub=2:1050298	leg=2:1026645
+Regras Nao Se Aplicam	dub=0:23933
+Regras Nao Se Aplicam - (2016)	dub=2:1065510
+Regras da Atracao - (2002)	dub=2:1063568	leg=2:1036465
+Regras da Atração	dub=0:347163,0:101409	leg=0:347162
+Regras do Amor na Cidade Grande	leg=0:338677
+Regras do Amor na Cidade Grande (2024)	dub=2:1269765	leg=2:1025158
+Regras do Jogo	dub=0:363911	leg=0:363910
+Regras do Jogo (2000)	dub=2:1267146	leg=2:1264667
+Regresso a Halloweentown (2006)	dub=2:1270066
+Regresso ao Po (2022)	dub=2:1266103
+Regresso do Mal	dub=0:328171,0:128550	leg=0:328170
+Regresso do Mal - (2015)	dub=2:1058363	leg=2:1025688
+Rei Arthur	dub=0:97599
+Rei Arthur - (2004)	dub=2:1066634
+Rei Arthur: A Lenda da Espada	dub=0:112989
+Rei Arthur: A Lenda da Espada - (2017)	dub=2:1039674
+Rei Charles III	dub=0:30441
+Rei Charles III - (2017)	dub=2:1042688
 Rei Davi O Filme	dub=0:22590
-Rei David	dub=0:350949,2:1264711	leg=0:350948,2:1264748
-Rei Dos Ladroes	dub=0:47443,2:1052684
-Rei do Ringue: A História de Jem Belcher	dub=0:186810,2:1045602	leg=0:186809,2:1026225
-Rei do Rio	dub=0:309887,2:1052382
-Reine Sobre Mim	dub=0:363913,0:91273,2:1041052	leg=0:363912,2:1267124
-Reino Dos Assassinos	dub=0:31750,2:1056859
-Reino Escondido	dub=0:20442,2:1063121
-Reino de Deus	dub=0:359760,2:1266695	leg=0:359759,2:1266660
-Reino de Fogo	dub=0:345128,2:1040438
-Reino do Superman	dub=0:354271,0:22081,2:1062762	leg=0:354270,2:1265494
+Rei David	dub=0:350949	leg=0:350948
+Rei David (1985)	dub=2:1264711	leg=2:1264748
+Rei Dos Ladroes	dub=0:47443
+Rei Dos Ladroes - (2018)	dub=2:1052684
+Rei do Ringue: A História de Jem Belcher	dub=0:186810	leg=0:186809
+Rei do Ringue: A História de Jem Belcher - (2022)	dub=2:1045602	leg=2:1026225
+Rei do Rio	dub=0:309887
+Rei do Rio - (1985)	dub=2:1052382
+Reine Sobre Mim	dub=0:363913,0:91273	leg=0:363912
+Reine Sobre Mim (2007)	dub=2:1041052	leg=2:1267124
+Reino Dos Assassinos	dub=0:31750
+Reino Dos Assassinos - (2010)	dub=2:1056859
+Reino Escondido	dub=0:20442
+Reino Escondido - (2013)	dub=2:1063121
+Reino de Deus	dub=0:359760	leg=0:359759
+Reino de Deus (2017)	dub=2:1266695	leg=2:1266660
+Reino de Fogo	dub=0:345128
+Reino de Fogo - (2002)	dub=2:1040438
+Reino do Superman	dub=0:354271,0:22081	leg=0:354270
+Reino do Superman (2019)	dub=2:1062762	leg=2:1265494
 Reinventing Elvis: The 68' Comeback	leg=0:304586
-Reis Magos vs. Papai Noel	dub=0:183746,2:1039219	leg=0:183732,2:1028784
-Rejeitados pelo Diabo	dub=2:1265871
-Relacao Explosiva	dub=2:1271534
-Relacionamento Aberto	dub=0:265321,2:1041659	leg=0:265322,2:1034920
-Relacoes Perigosas	dub=2:1270621
-Relatos Selvagens	dub=0:21146,2:1043285	leg=0:375936,2:1272350
-Relatos de Guerra	dub=0:296888,2:1066117
-Relatos do Mundo	dub=0:94736,2:1250055
-Relaxe, eu sou do futuro	dub=0:241571,2:1061355	leg=0:241572,2:1034454
-Relay	leg=0:343977,2:1036961
-Relay: Contrato Perigoso	dub=0:350382,2:1268849	leg=0:350381
-Relação em Risco	dub=0:358845,0:21145,2:1042320	leg=0:358844,2:1266440
-Relic	leg=0:62576,2:1028434
-Relíquia Macabra	dub=0:112406,0:108131,2:1071148,2:1070026
-Remando para o Ouro 4K	dub=0:265873,0:249246,2:1249673,2:1045507	leg=0:249247,2:1024641
-Remanescentes - Esquecidos Por Deus	dub=0:21664,2:1057624
-Remember Me	dub=2:1267767
-Remédio Amargo	dub=0:73012,2:1043544
-Renascer da Terra	leg=0:381785,2:1272764
-Renascida das Trevas	dub=2:1267471
-Renascida do Inferno	dub=0:33407,2:1059862
+Reis Magos vs. Papai Noel	dub=0:183746	leg=0:183732
+Reis Magos vs. Papai Noel - (2022)	dub=2:1039219	leg=2:1028784
+Rejeitados pelo Diabo (2005)	dub=2:1265871
+Relacao Explosiva (2012)	dub=2:1271534
+Relacionamento Aberto	dub=0:265321	leg=0:265322
+Relacionamento Aberto - (2023)	dub=2:1041659	leg=2:1034920
+Relacoes Perigosas (2019)	dub=2:1270621
+Relatos Selvagens	dub=0:21146	leg=0:375936
+Relatos Selvagens (2014)	dub=2:1043285	leg=2:1272350
+Relatos de Guerra	dub=0:296888
+Relatos de Guerra - (2015)	dub=2:1066117
+Relatos do Mundo	dub=0:94736
+Relatos do Mundo - (2020)	dub=2:1250055
+Relaxe, eu sou do futuro	dub=0:241571	leg=0:241572
+Relaxe, eu sou do futuro - (2023)	dub=2:1061355	leg=2:1034454
+Relay	leg=0:343977
+Relay - (2025)	leg=2:1036961
+Relay: Contrato Perigoso	dub=0:350382	leg=0:350381
+Relay: Contrato Perigoso (2025)	dub=2:1268849
+Relação em Risco	dub=0:358845,0:21145	leg=0:358844
+Relação em Risco (2013)	dub=2:1042320	leg=2:1266440
+Relic	leg=0:62576
+Relic - (2020)	leg=2:1028434
+Relíquia Macabra	dub=0:112406,0:108131
+Relíquia Macabra - (1941)	dub=2:1071148
+Relíquia Macabra - (2020)	dub=2:1070026
+Remando para o Ouro 4K	dub=0:265873,0:249246	leg=0:249247
+Remando para o Ouro 4K - (2023)	dub=2:1249673,2:1045507	leg=2:1024641
+Remanescentes - Esquecidos Por Deus	dub=0:21664
+Remanescentes - Esquecidos Por Deus - (2014)	dub=2:1057624
+Remember Me (2022)	dub=2:1267767
+Remédio Amargo	dub=0:73012
+Remédio Amargo - (2020)	dub=2:1043544
+Renascer da Terra	leg=0:381785
+Renascer da Terra (2026)	leg=2:1272764
+Renascida das Trevas (2018)	dub=2:1267471
+Renascida do Inferno	dub=0:33407
+Renascida do Inferno - (2015)	dub=2:1059862
 Renato Albani Compilado interagindo com a plateia - 0	dub=2:1265908
-Renato Albani: O Plano Era Bom	dub=0:278099,2:1270904	leg=0:278100
-Renato Albani: Zona de Conforto	dub=2:1293175
-Renegades	dub=0:266023,2:1046781	leg=0:266024,2:1249174
-Renegado Imortal: Descida Divina	dub=2:1271400	leg=0:343564,2:1036860
-Renfield: Dando Sangue pelo Chefe	dub=0:198448,0:198447,2:1038806,2:1000527	leg=0:198452,2:1025097
-Renoir	dub=2:1290989
-Renovação do Coração	dub=0:148737,2:1064203	leg=0:148736,2:1033401
-Rent A Pal	leg=0:73288,2:1029882
-Repay It in Blood	leg=2:1273260
-Repetente	dub=2:1269400	leg=0:352376,2:1264948
-Replicante	dub=0:265626,2:1060604
-Repo Men: O Resgate de Órgãos	dub=0:357599,2:1269798	leg=0:357598,2:1267634
-Reprisal: Contra Ataque	dub=0:72644,2:1056646
-Reputação	dub=0:181455,2:1055520	leg=0:181415
-Resgatados Pela Graça	dub=0:110747,2:1249988
-Resgatados dos Tubarões	dub=0:207373,2:1048834
-Resgate 2 4K	dub=0:199047,0:198701,2:1249634,2:1043156	leg=0:198700,2:1024819
-Resgate 4K	dub=0:189900,0:44239,2:1046150,2:1022415
-Resgate Abaixo de Zero	dub=0:21147,2:1055797
-Resgate Fantástico	dub=0:309888,2:1045202	leg=0:309889,2:1033999
-Resgate Implacável 4K	dub=0:321252,0:321085,2:1037659,2:1036778	leg=0:321084,2:1037237
-Resgate Impossível: 70 Dias Sob a Terra	dub=0:328172,2:1049445
-Resgate Mortal	dub=0:26573,2:1050579
-Resgate Polar	dub=0:373837,0:370709,2:1267599	leg=0:373836,0:370708,2:1267597
-Resgate Sem Limites	dub=0:20213,2:1044931
-Resgate do Coração	dub=0:31933,2:1065860
-Resgate em 12 Horas	dub=0:221932,2:1046438	leg=0:221931,2:1030052
-Resgate em Alta Velocidade	dub=0:148753,0:128522,2:1051691	leg=0:148754,2:1029862
-Resgate em Amsterdã	dub=0:257906,2:1070260	leg=0:257907,2:1030176
-Resgate em Grande Altitude	dub=0:376094,2:1260105	leg=0:376093,2:1267286
-Resgate em Malibu: A Próxima Onda	dub=0:64465,2:1053426
-Resgate em Medelín	dub=0:196779,0:196778,2:1052869,2:1022304	leg=0:196777,2:1032150
-Resgate na Mina	dub=2:1270103	leg=0:246432,2:1024338
-Resgate nas Profundezas	dub=2:1291019
-Resgate no Golfo	dub=0:372120,2:1259086	leg=0:372119,2:1268221
-Resgate no Oeste	dub=0:30442,2:1069160
-Resident Evil 2: Apocalipse	dub=0:108242,2:1060624
-Resident Evil 3: A Extinção	dub=0:108243,2:1061228
-Resident Evil 4: Recomeço	dub=0:108244,2:1061066
-Resident Evil 5: Retribuição	dub=0:108245,2:1060978
-Resident Evil 6: O Capítulo Final	dub=0:108246,2:1061280
-Resident Evil: A Vingança	dub=0:108249,2:1062791
-Resident Evil: Bem-Vindo a Raccoon City 4K	dub=0:147458,0:144868,2:1059502,2:1022929	leg=0:144872,2:1024945
-Resident Evil: Condenação	dub=0:108248,2:1062464
-Resident Evil: Degeneração	dub=0:108247,2:1062383
-Resident Evil: Ilha da Morte 4K	dub=0:205920,0:205547,2:1061432,2:1021637	leg=0:204462,2:1023753
-Resident Evil: O Hóspede Maldito	dub=0:383012,0:108241,2:1061148	leg=0:383011
-Resiliência	dub=0:41208,2:1072519
+Renato Albani O Plano Era Bom (2021)	dub=2:1270904
+Renato Albani: O Plano Era Bom	dub=0:278099	leg=0:278100
+Renato Albani: Zona de Conforto (2026)	dub=2:1293175
+Renegades	dub=0:266023	leg=0:266024
+Renegades - (2022)	dub=2:1046781	leg=2:1249174
+Renegado Imortal Descida Divina (2025)	dub=2:1271400	leg=2:1036860
+Renegado Imortal: Descida Divina	leg=0:343564
+Renfield: Dando Sangue pelo Chefe	dub=0:198448,0:198447	leg=0:198452
+Renfield: Dando Sangue pelo Chefe - (2023)	dub=2:1038806,2:1000527	leg=2:1025097
+Renoir (2012)	dub=2:1290989
+Renovação do Coração	dub=0:148737	leg=0:148736
+Renovação do Coração - (2019)	dub=2:1064203	leg=2:1033401
+Rent A Pal	leg=0:73288
+Rent A Pal - (2020)	leg=2:1029882
+Repay It in Blood (2026)	leg=2:1273260
+Repetente	leg=0:352376
+Repetente (2023)	dub=2:1269400	leg=2:1264948
+Replicante	dub=0:265626
+Replicante - (2001)	dub=2:1060604
+Repo Men: O Resgate de Orgaos (2010)	dub=2:1269798	leg=2:1267634
+Repo Men: O Resgate de Órgãos	dub=0:357599	leg=0:357598
+Reprisal: Contra Ataque	dub=0:72644
+Reprisal: Contra Ataque - (2018)	dub=2:1056646
+Reputação	dub=0:181455	leg=0:181415
+Reputação - (2020)	dub=2:1055520
+Resgatados Pela Graça	dub=0:110747
+Resgatados Pela Graça - (2013)	dub=2:1249988
+Resgatados dos Tubarões	dub=0:207373
+Resgatados dos Tubarões - (2023)	dub=2:1048834
+Resgate - (2020)	dub=2:1046150,2:1022415
+Resgate 2 4K	dub=0:199047,0:198701	leg=0:198700
+Resgate 2 4K - (2023)	dub=2:1249634,2:1043156	leg=2:1024819
+Resgate 4K	dub=0:189900,0:44239
+Resgate Abaixo de Zero	dub=0:21147
+Resgate Abaixo de Zero - (2006)	dub=2:1055797
+Resgate Fantástico	dub=0:309888	leg=0:309889
+Resgate Fantástico - (1976)	dub=2:1045202	leg=2:1033999
+Resgate Implacável 4K	dub=0:321252,0:321085	leg=0:321084
+Resgate Implacável 4K - (2025)	dub=2:1037659,2:1036778	leg=2:1037237
+Resgate Impossível: 70 Dias Sob a Terra	dub=0:328172
+Resgate Impossível: 70 Dias Sob a Terra - (2010)	dub=2:1049445
+Resgate Mortal	dub=0:26573
+Resgate Mortal - (2018)	dub=2:1050579
+Resgate Polar	dub=0:373837,0:370709	leg=0:373836,0:370708
+Resgate Polar (2022)	dub=2:1267599	leg=2:1267597
+Resgate Sem Limites	dub=0:20213
+Resgate Sem Limites - (2003)	dub=2:1044931
+Resgate do Coração	dub=0:31933
+Resgate do Coração - (2019)	dub=2:1065860
+Resgate em 12 Horas	dub=0:221932	leg=0:221931
+Resgate em 12 Horas - (2022)	dub=2:1046438	leg=2:1030052
+Resgate em Alta Velocidade	dub=0:148753,0:128522	leg=0:148754
+Resgate em Alta Velocidade - (2020)	dub=2:1051691	leg=2:1029862
+Resgate em Amsterdã	dub=0:257906	leg=0:257907
+Resgate em Amsterdã - (2023)	dub=2:1070260	leg=2:1030176
+Resgate em Grande Altitude	dub=0:376094	leg=0:376093
+Resgate em Grande Altitude (2025)	dub=2:1260105	leg=2:1267286
+Resgate em Malibu: A Próxima Onda	dub=0:64465
+Resgate em Malibu: A Próxima Onda - (2020)	dub=2:1053426
+Resgate em Medelín	dub=0:196779,0:196778	leg=0:196777
+Resgate em Medelín - (2023)	dub=2:1052869,2:1022304	leg=2:1032150
+Resgate na Mina	leg=0:246432
+Resgate na Mina (2023)	dub=2:1270103	leg=2:1024338
+Resgate nas Profundezas (2000)	dub=2:1291019
+Resgate no Golfo	dub=0:372120	leg=0:372119
+Resgate no Golfo (2025)	dub=2:1259086	leg=2:1268221
+Resgate no Oeste	dub=0:30442
+Resgate no Oeste - (2016)	dub=2:1069160
+Resident Evil 2: Apocalipse	dub=0:108242
+Resident Evil 2: Apocalipse - (2004)	dub=2:1060624
+Resident Evil 3: A Extinção	dub=0:108243
+Resident Evil 3: A Extinção - (2007)	dub=2:1061228
+Resident Evil 4: Recomeço	dub=0:108244
+Resident Evil 4: Recomeço - (2010)	dub=2:1061066
+Resident Evil 5: Retribuição	dub=0:108245
+Resident Evil 5: Retribuição - (2012)	dub=2:1060978
+Resident Evil 6: O Capítulo Final	dub=0:108246
+Resident Evil 6: O Capítulo Final - (2016)	dub=2:1061280
+Resident Evil: A Vingança	dub=0:108249
+Resident Evil: A Vingança - (2017)	dub=2:1062791
+Resident Evil: Bem-Vindo a Raccoon City - (2021)	dub=2:1059502,2:1022929	leg=2:1024945
+Resident Evil: Bem-Vindo a Raccoon City 4K	dub=0:147458,0:144868	leg=0:144872
+Resident Evil: Condenação	dub=0:108248
+Resident Evil: Condenação - (2012)	dub=2:1062464
+Resident Evil: Degeneração	dub=0:108247
+Resident Evil: Degeneração - (2008)	dub=2:1062383
+Resident Evil: Ilha da Morte - (2023)	dub=2:1061432,2:1021637	leg=2:1023753
+Resident Evil: Ilha da Morte 4K	dub=0:205920,0:205547	leg=0:204462
+Resident Evil: O Hóspede Maldito	dub=0:383012,0:108241	leg=0:383011
+Resident Evil: O Hóspede Maldito - (2002)	dub=2:1061148
+Resiliência	dub=0:41208
+Resiliência - (2006)	dub=2:1072519
 Resistance	leg=0:63086
-Resistentes	dub=0:307316,2:1049176
-Resistindo às Tentações	dub=0:246984,2:1072263
-Resistência	dub=0:233799,0:233798,0:165660,2:1249639,2:1066425,2:1061347	leg=0:233800,0:165667,2:1027632,2:1025907
-Respect: A História de Aretha Franklin	dub=0:227421,2:1071483	leg=0:162573,2:1027330
-Respire 4K	dub=0:305584,0:305272,2:1060223,2:1021931	leg=0:305273,2:1025938
-Respire Fundo	dub=0:159805,2:1040619	leg=0:159806,2:1033411
-Respite	dub=2:1269726
-Resplendor	dub=0:300630,2:1048797
-Ressaca de Amor	dub=2:1266802
-Ressignificar	dub=0:345481,2:1049464
-Ressurreição	dub=0:311238,0:110781,2:1056190	leg=0:311239,2:1249239
-Ressurreição - Retalhos de Um Crime	dub=0:329694,2:1070734
-Ressurreição do Mal	dub=0:223888,2:1060355	leg=0:223887,2:1249292
-Resurgence	dub=2:1267401
-Resurrection	dub=0:180622,2:1070111	leg=0:180643,0:33408,2:1034861
-Retaliação	dub=0:335997,2:1046626	leg=0:335996,2:1023822
-Retiro Mortal	dub=0:204471,2:1043731	leg=0:204472,2:1249363
-Retiro Mortal 2	dub=0:299607,2:1043909	leg=0:299608,2:1036016
-Retiro do Amor	dub=0:316309,2:1050072	leg=0:316310,2:1035681
-Retorno	dub=0:168540,2:1051986	leg=0:168555,2:1033251
-Retorno a Seul	dub=0:223873,2:1041175	leg=0:223872,2:1029719
-Retorno da Lenda	dub=0:354960,0:179794,0:178545,2:1068854,2:1022471	leg=0:354959,0:178573,2:1249248
-Retrato de um Certo Oriente	dub=2:1273257
+Resistentes	dub=0:307316
+Resistentes - (2024)	dub=2:1049176
+Resistindo às Tentações	dub=0:246984
+Resistindo às Tentações - (2003)	dub=2:1072263
+Resistência	dub=0:233799,0:233798,0:165660	leg=0:233800,0:165667
+Resistência - (2020)	dub=2:1066425	leg=2:1025907
+Resistência 4K - (2023)	dub=2:1249639,2:1061347	leg=2:1027632
+Respect: A História de Aretha Franklin	dub=0:227421	leg=0:162573
+Respect: A História de Aretha Franklin - (2021)	dub=2:1071483	leg=2:1027330
+Respire - (2024)	dub=2:1060223,2:1021931	leg=2:1025938
+Respire 4K	dub=0:305584,0:305272	leg=0:305273
+Respire Fundo	dub=0:159805	leg=0:159806
+Respire Fundo - (2021)	dub=2:1040619	leg=2:1033411
+Respite (2020)	dub=2:1269726
+Resplendor	dub=0:300630
+Resplendor - (2019)	dub=2:1048797
+Ressaca de Amor (2008)	dub=2:1266802
+Ressignificar	dub=0:345481
+Ressignificar - (2023)	dub=2:1049464
+Ressurreição	dub=0:311238,0:110781	leg=0:311239
+Ressurreição - (2016)	dub=2:1056190	leg=2:1249239
+Ressurreição - Retalhos de Um Crime	dub=0:329694
+Ressurreição - Retalhos de Um Crime - (1999)	dub=2:1070734
+Ressurreição do Mal	dub=0:223888	leg=0:223887
+Ressurreição do Mal - (2023)	dub=2:1060355	leg=2:1249292
+Resurgence (2021)	dub=2:1267401
+Resurrection	dub=0:180622	leg=0:180643,0:33408
+Resurrection - (2022)	dub=2:1070111	leg=2:1034861
+Retaliação	dub=0:335997	leg=0:335996
+Retaliação - (2022)	dub=2:1046626	leg=2:1023822
+Retiro Mortal	dub=0:204471	leg=0:204472
+Retiro Mortal - (2019)	dub=2:1043731	leg=2:1249363
+Retiro Mortal 2	dub=0:299607	leg=0:299608
+Retiro Mortal 2 - (2023)	dub=2:1043909	leg=2:1036016
+Retiro do Amor	dub=0:316309	leg=0:316310
+Retiro do Amor - (2023)	dub=2:1050072	leg=2:1035681
+Retorno	dub=0:168540	leg=0:168555
+Retorno - (2022)	dub=2:1051986	leg=2:1033251
+Retorno a Seul	dub=0:223873	leg=0:223872
+Retorno a Seul - (2022)	dub=2:1041175	leg=2:1029719
+Retorno da Lenda	dub=0:354960,0:179794,0:178545	leg=0:354959,0:178573
+Retorno da Lenda - (2021)	dub=2:1068854,2:1022471	leg=2:1249248
+Retrato de um Certo Oriente (2024)	dub=2:1273257
 Retrato de uma Jovem em Chamas	leg=0:289527
-Retratos Fantasmas	dub=0:219677,2:1049425
-Retratos de Guerra	dub=0:329626,2:1041444	leg=0:329625,2:1249173
-Retratos de um Amor	dub=2:1269961
-Retratos de uma Guerra	dub=0:113018,2:1065040
-Retro	dub=2:1268239	leg=0:329340,2:1037337
-Retroceder Nunca, Render-se Jamais	dub=0:186672,2:1051405
+Retratos Fantasmas	dub=0:219677
+Retratos Fantasmas - (2023)	dub=2:1049425
+Retratos de Guerra	dub=0:329626	leg=0:329625
+Retratos de Guerra - (2019)	dub=2:1041444	leg=2:1249173
+Retratos de um Amor (2023)	dub=2:1269961
+Retratos de uma Guerra	dub=0:113018
+Retratos de uma Guerra - (2018)	dub=2:1065040
+Retro	leg=0:329340
+Retro (2025)	dub=2:1268239	leg=2:1037337
+Retroceder Nunca, Render-se Jamais	dub=0:186672
+Retroceder Nunca, Render-se Jamais - (1986)	dub=2:1051405
 Retrocontagem de Amor - 0 - 0	dub=2:1272733
-Retrospectiva Band	dub=0:184043,0:144892,2:1055001
-Retrospectiva Globo 2025	dub=0:359325,0:182916
-Retrospectiva Record	dub=0:184040,0:145229
-Retrospectiva Rede Globo	dub=0:144900
-Retrospectiva SBT	dub=0:145231
-Return to Reason	leg=0:264146,2:1030701
-Reuniao De Família Natal Especial	dub=0:31779,2:1067395
+Retrospectiva Band (2021)	dub=0:144892
+Retrospectiva Band (2022)	dub=0:184043
+Retrospectiva Band - (2023)	dub=2:1055001
+Retrospectiva Globo (2022)	dub=0:182916
+Retrospectiva Globo (2025)	dub=0:359325
+Retrospectiva Record (2021)	dub=0:145229
+Retrospectiva Record (2022)	dub=0:184040
+Retrospectiva Rede Globo (2021)	dub=0:144900
+Retrospectiva SBT (2021)	dub=0:145231
+Return to Reason	leg=0:264146
+Return to Reason - (2023)	leg=2:1030701
+Reuniao De Família Natal Especial	dub=0:31779
+Reuniao De Família Natal Especial - (2019)	dub=2:1067395
 Reunion	leg=0:100415
-Revelação	dub=0:314678,2:1070565	leg=0:314679,2:1249481
-Revelação Fatal	dub=0:263717,2:1043198	leg=0:263718,2:1030264
-Revelações 4K	dub=0:317475,0:316241,0:262184,0:129579,2:1065406,2:1044337,2:1037607,2:1036770	leg=0:316242,2:1037083,2:1036471
-Revelações Perigosas	dub=0:203322,2:1043805	leg=0:203323,2:1249165
-Revenger	leg=0:133966,2:1033598
-Reviravolta	dub=0:115496,2:1044814
+Revelação	dub=0:314678	leg=0:314679
+Revelação - (2000)	dub=2:1070565	leg=2:1249481
+Revelação Fatal	dub=0:263717	leg=0:263718
+Revelação Fatal - (2023)	dub=2:1043198	leg=2:1030264
+Revelações - (2003)	dub=2:1065406
+Revelações - (2022)	dub=2:1044337	leg=2:1036471
+Revelações 4K	dub=0:317475,0:316241,0:262184,0:129579	leg=0:316242
+Revelações 4K - (2025)	dub=2:1037607,2:1036770	leg=2:1037083
+Revelações Perigosas	dub=0:203322	leg=0:203323
+Revelações Perigosas - (2019)	dub=2:1043805	leg=2:1249165
+Revenger	leg=0:133966
+Revenger - (2018)	leg=2:1033598
+Reviravolta	dub=0:115496
+Reviravolta - (1997)	dub=2:1044814
 Reviver	dub=0:383013
-Revolta	dub=0:128530,2:1061108
-Revolta dos Malês	dub=0:378701,2:1270254
-Revolution Rent	dub=0:208232,2:1048249	leg=0:208231,2:1029511
-Revolution of Our Times	dub=2:1270867
-Revolução	dub=0:144028,2:1066897
-Revolver	dub=2:1265228
-Rewind	dub=0:198708,2:1048696	leg=0:198707,2:1034377
-Reza a Lenda	dub=2:1269181
-Reze Depois de Ler	dub=0:290778,2:1057890	leg=0:290779,2:1028386
-Reze pelas Mulheres Roubadas	dub=2:1268589
-Rheingold	dub=0:194195,2:1072072
-Rhino	dub=2:1268454
+Revolta	dub=0:128530
+Revolta - (2017)	dub=2:1061108
+Revolta dos Males (2023)	dub=2:1270254
+Revolta dos Malês	dub=0:378701
+Revolution Rent	dub=0:208232	leg=0:208231
+Revolution Rent - (2019)	dub=2:1048249	leg=2:1029511
+Revolution of Our Times (2021)	dub=2:1270867
+Revolução	dub=0:144028
+Revolução - (1985)	dub=2:1066897
+Revolver (2005)	dub=2:1265228
+Rewind	dub=0:198708	leg=0:198707
+Rewind - (2019)	dub=2:1048696	leg=2:1034377
+Reza a Lenda (2016)	dub=2:1269181
+Reze Depois de Ler	dub=0:290778	leg=0:290779
+Reze Depois de Ler - (2022)	dub=2:1057890	leg=2:1028386
+Reze pelas Mulheres Roubadas (2021)	dub=2:1268589
+Rheingold	dub=0:194195
+Rheingold - (2022)	dub=2:1072072
+Rhino (2021)	dub=2:1268454
 Rick and Morty in the Eternal Nightmare Machine	dub=0:218858	leg=0:218859
 Rick and Morty vs. Genocider	dub=0:218888	leg=0:218887
 Rick and Morty: Summer Meets God	dub=0:218871	leg=0:208890
 Rick and Morty: The Great Yokai Battle of Akihabara	dub=0:218882	leg=0:218883
-Ricki and the Flash: De Volta pra Casa	dub=0:378703,0:95540,2:1072154	leg=0:378702,2:1271978
-Ricky Bobby: A Toda Velocidade	dub=0:144117,2:1053170
-Ricky Gervais Armageddon	dub=2:1271163
-Ricky Stanicky 4K	dub=0:265874,0:252070,2:1052955,2:1022665	leg=0:252071,2:1031529
-Ricochete	dub=0:382568,2:1272770	leg=0:382567,2:1272891
-Ricos de Amor	dub=0:44612,2:1065809
-Ricos de Amor 2 4K	dub=0:219961,0:196783,2:1063356,2:1021584
-Riddick 1	dub=0:21347,2:1061277
-Riddick 2	dub=0:21348,2:1060501
-Riddick 3	dub=0:21349,2:1060456
-Ride	dub=0:337603,2:1051229	leg=0:337602,0:62566,2:1032111,2:1029776
-Riders of Justice	leg=0:103144,2:1249344
-Rihanna - Loud Tour Live at the O2	dub=2:1265425
-Rihanna: Rock in Rio 2015	dub=0:25491,2:1071548
-Riki: O Rinoceronte Corajoso	dub=0:168529,2:1062080	leg=0:168551,2:1027100
-Rimdogittanga	leg=0:275519,2:1034123
-Rio	dub=0:20444,2:1062895
-Rio 2	dub=0:20443,2:1062329
-Rio Babilônia	dub=0:379128,2:1272517
-Rio Lobo	dub=0:108301,2:1069234
-Rio Negro	dub=0:241309,2:1048257
-Rio de Janeiro: Paraíso em Chamas	dub=0:320269,0:320267,2:1037636,2:1036666	leg=0:320268,2:1038134
-Rio de Sangue	dub=0:381803,0:381801,2:1272781,2:1261605	leg=0:381802,2:1272957
-Rio, Eu Te Amo	dub=0:113017,2:1065331
-Riocorrente	dub=2:1271514
-Rip in Time	dub=2:1270761
-Riphagen	dub=0:21148,2:1045160
-Riquinho	dub=0:370923,0:79223,2:1067943	leg=0:370922,2:1267742
-Rir ou Morrer	dub=0:231358,2:1066099	leg=0:231356,2:1249449
-Risa e o Telefone do Vento	dub=0:381252,2:1272750	leg=0:381251,2:1272751
-Riscado	dub=0:141519,2:1041870
-Risco Duplo	dub=0:370355,0:133801,2:1070652	leg=0:370354,2:1266535
-Risco Imediato	dub=0:264152,2:1047490
-Risco Máximo	dub=0:265627,0:76706,2:1052806,2:1043293
-Risco Total	dub=0:309890,0:257367,2:1056058
-Rise 4K	dub=0:167511,0:163288,2:1040482,2:1000489	leg=0:163286,2:1024747
-Rise Above	dub=2:1270182
-Risen	leg=0:213965,2:1033147
-Risque - 2025	leg=2:1266306
-Risqué: A Vingança	dub=0:358158	leg=0:358157,2:1266343
-Rita	leg=0:359082,2:1273022,2:1266541,2:1266303
-Rita Lee: Mania de Você	dub=0:327381,2:1038508
-Ritas	dub=0:344358,2:1036981	leg=0:344357,2:1036987
-Ritmo Cubano	dub=0:323701,2:1064249	leg=0:323700,2:1030516
-Ritmo De Um Sonho	dub=0:99818,2:1072165
-Ritmo Flow Franca Depois da Batalha	dub=2:1265229
-Ritmo Total	dub=0:187621,2:1071973
-Ritmo Total 2: A Nova Batida	dub=2:1270399
-Ritmo de Natal 4K	dub=0:355676,0:230138,2:1265696,2:1050797
-Ritmo do Amor	dub=0:100923,2:1064806
-Ritual Maldito	dub=0:229482,2:1058444	leg=0:229461,2:1027491
-Ritual das Bruxas	dub=0:224752,2:1058524	leg=0:224978,2:1025556
-Ritual das Trevas	dub=0:305641,2:1058405	leg=0:305642,2:1036007
-Ritual de Inverno	dub=0:193052,2:1070417	leg=0:193053,2:1027450
-Rivais	dub=0:263164,0:263157,2:1249621,2:1040495	leg=0:263165,0:261698,2:1031950
-River	dub=2:1271234	leg=0:115490
-River Wild	dub=0:209522,2:1057376
-Riverdance: Uma Aventura Dançante	dub=0:146828,2:1071559	leg=0:146827,2:1031401
-Rize	dub=0:357601,2:1268447	leg=0:357600,2:1268254
-Road to Damascus	dub=2:1271282
-Rob Peace 4K	dub=0:367004,0:299210,0:299209,2:1249625,2:1045063	leg=0:299211,2:1030283
-Rob1n: Inteligência Assassina	dub=2:1259692
-Robbie Williams Live At The Royal Albert Hall	dub=2:1269929
-Robert Downey Sr	dub=2:1267258
-Robert The Bruce	leg=0:64427,2:1249076
-Roberto Farias - Memórias de um Cineasta	dub=0:353487,2:1265271
-Robin Hood	dub=0:96033,0:21462,2:1045702
-Robin Hood - A Origem 4K	dub=0:21501,2:1023215
-Robin Hood – O Invencível	dub=0:351005,2:1264745
-Robin Hood, O Trapalhão da Floresta	dub=0:323745,0:64428,2:1056033
-Robin Hood: O Herói dos Ladrões	dub=0:328174,2:1049818	leg=0:328173,2:1032863
-Robin Hood: O Justiceiro	dub=2:1272457
-Robin Hood: O Principe dos Ladroes	dub=2:1270481
-Robin Williams: Entre na Minha Mente	dub=0:296751,2:1048444	leg=0:296752,2:1024281
+Ricki and the Flash: De Volta pra Casa	dub=0:378703,0:95540	leg=0:378702
+Ricki and the Flash: De Volta pra Casa (2015)	dub=2:1072154	leg=2:1271978
+Ricky Bobby: A Toda Velocidade	dub=0:144117
+Ricky Bobby: A Toda Velocidade - (2006)	dub=2:1053170
+Ricky Gervais Armageddon (2023)	dub=2:1271163
+Ricky Stanicky - (2024)	dub=2:1052955,2:1022665	leg=2:1031529
+Ricky Stanicky 4K	dub=0:265874,0:252070	leg=0:252071
+Ricochete	dub=0:382568	leg=0:382567
+Ricochete (2011)	dub=2:1272770	leg=2:1272891
+Ricos de Amor	dub=0:44612
+Ricos de Amor - (2020)	dub=2:1065809
+Ricos de Amor 2 - (2023)	dub=2:1063356,2:1021584
+Ricos de Amor 2 4K	dub=0:219961,0:196783
+Riddick 1	dub=0:21347
+Riddick 1 - (2000)	dub=2:1061277
+Riddick 2	dub=0:21348
+Riddick 2 - (2004)	dub=2:1060501
+Riddick 3	dub=0:21349
+Riddick 3 - (2013)	dub=2:1060456
+Ride	dub=0:337603	leg=0:337602,0:62566
+Ride - (2018)	leg=2:1029776
+Ride - (2024)	dub=2:1051229	leg=2:1032111
+Riders of Justice	leg=0:103144
+Riders of Justice - (2020)	leg=2:1249344
+Rihanna - Loud Tour Live at the O2 (2012)	dub=2:1265425
+Rihanna: Rock in Rio (2015)	dub=0:25491
+Rihanna: Rock in Rio 2015 - (2015)	dub=2:1071548
+Riki: O Rinoceronte Corajoso	dub=0:168529	leg=0:168551
+Riki: O Rinoceronte Corajoso - (2020)	dub=2:1062080	leg=2:1027100
+Rimdogittanga	leg=0:275519
+Rimdogittanga - (2024)	leg=2:1034123
+Rio	dub=0:20444
+Rio - (2011)	dub=2:1062895
+Rio 2	dub=0:20443
+Rio 2 - (2014)	dub=2:1062329
+Rio Babilônia	dub=0:379128
+Rio Babilônia (1982)	dub=2:1272517
+Rio Lobo	dub=0:108301
+Rio Lobo - (1970)	dub=2:1069234
+Rio Negro	dub=0:241309
+Rio Negro - (2023)	dub=2:1048257
+Rio de Janeiro: Paraíso em Chamas	dub=0:320269,0:320267	leg=0:320268
+Rio de Janeiro: Paraíso em Chamas - (2025)	dub=2:1037636,2:1036666	leg=2:1038134
+Rio de Sangue	dub=0:381803,0:381801	leg=0:381802
+Rio de Sangue (2026)	dub=2:1272781,2:1261605	leg=2:1272957
+Rio, Eu Te Amo	dub=0:113017
+Rio, Eu Te Amo - (2014)	dub=2:1065331
+Riocorrente (2013)	dub=2:1271514
+Rip in Time (2022)	dub=2:1270761
+Riphagen	dub=0:21148
+Riphagen - (2016)	dub=2:1045160
+Riquinho	dub=0:370923,0:79223	leg=0:370922
+Riquinho (1994)	dub=2:1067943	leg=2:1267742
+Riquinho de Papai (2025)	dub=2:1253472
+Rir ou Morrer	dub=0:231358	leg=0:231356
+Rir ou Morrer - (2018)	dub=2:1066099	leg=2:1249449
+Risa e o Telefone do Vento	dub=0:381252	leg=0:381251
+Risa e o Telefone do Vento (2026)	dub=2:1272750	leg=2:1272751
+Riscado	dub=0:141519
+Riscado - (2010)	dub=2:1041870
+Risco Duplo	dub=0:370355,0:133801	leg=0:370354
+Risco Duplo (1999)	dub=2:1070652	leg=2:1266535
+Risco Imediato	dub=0:264152
+Risco Imediato - (2014)	dub=2:1047490
+Risco Máximo	dub=0:265627,0:76706
+Risco Máximo - (1996)	dub=2:1052806
+Risco Máximo - (2017)	dub=2:1043293
+Risco Total	dub=0:309890,0:257367
+Risco Total - (1993)	dub=2:1056058
+Rise - (2022)	dub=2:1040482,2:1000489	leg=2:1024747
+Rise 4K	dub=0:167511,0:163288	leg=0:163286
+Rise Above (2022)	dub=2:1270182
+Risen	leg=0:213965
+Risen - (2021)	leg=2:1033147
+Risque - (2025)	leg=2:1266306
+Risqué: A Vingança	dub=0:358158	leg=0:358157
+Risqué: A Vingança (2025)	leg=2:1266343
+Rita	leg=0:359082
+Rita (2024)	leg=2:1273022,2:1266541,2:1266303
+Rita Lee: Mania de Você	dub=0:327381
+Rita Lee: Mania de Você - (2025)	dub=2:1038508
+Ritas	dub=0:344358	leg=0:344357
+Ritas - (2025)	dub=2:1036981	leg=2:1036987
+Ritmo Cubano	dub=0:323701	leg=0:323700
+Ritmo Cubano - (2014)	dub=2:1064249	leg=2:1030516
+Ritmo De Um Sonho	dub=0:99818
+Ritmo De Um Sonho - (2005)	dub=2:1072165
+Ritmo Flow Franca Depois da Batalha (2025)	dub=2:1265229
+Ritmo Total	dub=0:187621
+Ritmo Total - (2002)	dub=2:1071973
+Ritmo Total 2: A Nova Batida (2014)	dub=2:1270399
+Ritmo de Natal 4K	dub=0:355676,0:230138
+Ritmo de Natal 4K (2023)	dub=2:1265696,2:1050797
+Ritmo do Amor	dub=0:100923
+Ritmo do Amor - (2009)	dub=2:1064806
+Ritual Maldito	dub=0:229482	leg=0:229461
+Ritual Maldito - (2020)	dub=2:1058444	leg=2:1027491
+Ritual das Bruxas	dub=0:224752	leg=0:224978
+Ritual das Bruxas - (2020)	dub=2:1058524	leg=2:1025556
+Ritual das Trevas	dub=0:305641	leg=0:305642
+Ritual das Trevas - (2024)	dub=2:1058405	leg=2:1036007
+Ritual de Inverno	dub=0:193052	leg=0:193053
+Ritual de Inverno - (2018)	dub=2:1070417	leg=2:1027450
+Rivais	dub=0:263164,0:263157	leg=0:263165,0:261698
+Rivais 4K - (2024)	dub=2:1249621,2:1040495	leg=2:1031950
+River	leg=0:115490
+River (2021)	dub=2:1271234
+River Wild	dub=0:209522
+River Wild - (2023)	dub=2:1057376
+Riverdance: Uma Aventura Dançante	dub=0:146828	leg=0:146827
+Riverdance: Uma Aventura Dançante - (2021)	dub=2:1071559	leg=2:1031401
+Rize	dub=0:357601	leg=0:357600
+Rize (2005)	dub=2:1268447	leg=2:1268254
+Road to Damascus (2021)	dub=2:1271282
+Rob Peace 4K	dub=0:367004,0:299210,0:299209	leg=0:299211
+Rob Peace 4K - (2024)	dub=2:1249625,2:1045063	leg=2:1030283
+Rob1n: Inteligência Assassina (2025)	dub=2:1259692
+Robbie Williams Live At The Royal Albert Hall (2001)	dub=2:1269929
+Robert Downey Sr (2022)	dub=2:1267258
+Robert The Bruce	leg=0:64427
+Robert The Bruce - (2019)	leg=2:1249076
+Roberto Farias - Memórias de um Cineasta	dub=0:353487
+Roberto Farias - Memórias de um Cineasta (2023)	dub=2:1265271
+Robin Hood	dub=0:96033,0:21462
+Robin Hood - (2010)	dub=2:1045702
+Robin Hood - A Origem 4K	dub=0:21501
+Robin Hood - A Origem 4K - (2018)	dub=2:1023215
+Robin Hood – O Invencível	dub=0:351005
+Robin Hood – O Invencível (1960)	dub=2:1264745
+Robin Hood, O Trapalhão da Floresta	dub=0:323745,0:64428
+Robin Hood, O Trapalhão da Floresta - (1974)	dub=2:1056033
+Robin Hood: O Herói dos Ladrões	dub=0:328174	leg=0:328173
+Robin Hood: O Herói dos Ladrões - (1991)	dub=2:1049818	leg=2:1032863
+Robin Hood: O Justiceiro (1952)	dub=2:1272457
+Robin Hood: O Principe dos Ladroes (1991)	dub=2:1270481
+Robin Williams: Entre na Minha Mente	dub=0:296751	leg=0:296752
+Robin Williams: Entre na Minha Mente - (2018)	dub=2:1048444	leg=2:1024281
 RoboCop	dub=0:341066
-RoboCop 2	dub=0:341067,2:1056786
-RoboCop 3	dub=0:89599,2:1057048
-RoboCop O Policial do Futuro	dub=0:89597,2:1266090,2:1060513
-Robosapien - Meu Melhor Amigo	dub=2:1266573
-Robotica Destructiva	dub=2:1266130
-Robô Selvagem 4K	dub=0:296089,0:295743,2:1066994,2:1023134	leg=0:295744,2:1031235
-Robôs	dub=0:316417,2:1062459
+RoboCop - O Policial do Futuro (1987)	dub=2:1266090
+RoboCop 2	dub=0:341067
+RoboCop 2 - (1990)	dub=2:1056786
+RoboCop 3	dub=0:89599
+RoboCop 3 - (1993)	dub=2:1057048
+RoboCop O Policial do Futuro	dub=0:89597
+RoboCop O Policial do Futuro - (2014)	dub=2:1060513
+Robosapien - Meu Melhor Amigo (2013)	dub=2:1266573
+Robotica Destructiva (2023)	dub=2:1266130
+Robô Selvagem - (2024)	dub=2:1066994,2:1023134	leg=2:1031235
+Robô Selvagem 4K	dub=0:296089,0:295743	leg=0:295744
+Robôs	dub=0:316417
+Robôs - (2005)	dub=2:1062459
 Rock Alternativo: 30 Seconds to Mars	dub=0:21968
 Rock Alternativo: Coldplay - Ghost Stories Live	dub=0:21969
-Rock Alternativo: Evanescence Rock am Ring 2012	dub=0:21970
-Rock Alternativo: Linkin Park - Sao Paulo 2012	dub=0:21971
-Rock Alternativo: Metallica Rock In Rio 2011	dub=0:21972
-Rock Alternativo: System of a Down: Rock in Rio 2011	dub=0:21973
+Rock Alternativo: Evanescence Rock am Ring (2012)	dub=0:21970
+Rock Alternativo: Linkin Park - Sao Paulo (2012)	dub=0:21971
+Rock Alternativo: Metallica Rock In Rio (2011)	dub=0:21972
+Rock Alternativo: System of a Down: Rock in Rio (2011)	dub=0:21973
 Rock Alternativo: U2 Vertigo 2005 - Live from Chicago	dub=0:21974
-Rock Dog - Uma Estrela Renasce	dub=0:130193,2:1071809	leg=0:130192,2:1032735
-Rock Dog: No Faro do Sucesso	dub=0:352418,2:1264946	leg=0:352417,2:1264954
-Rock Dog: Uma Batida Animal	dub=0:194156,2:1055926	leg=0:194161,2:1028882
-Rock My Heart	dub=0:24014,2:1056041
-Rock N' Roll: Vivendo no Limite	dub=0:216993,2:1071772	leg=0:216997,2:1030800
+Rock Dog - Uma Estrela Renasce	dub=0:130193	leg=0:130192
+Rock Dog - Uma Estrela Renasce - (2021)	dub=2:1071809	leg=2:1032735
+Rock Dog: No Faro do Sucesso	dub=0:352418	leg=0:352417
+Rock Dog: No Faro do Sucesso (2016)	dub=2:1264946	leg=2:1264954
+Rock Dog: Uma Batida Animal	dub=0:194156	leg=0:194161
+Rock Dog: Uma Batida Animal - (2023)	dub=2:1055926	leg=2:1028882
+Rock My Heart	dub=0:24014
+Rock My Heart - (2017)	dub=2:1056041
+Rock N' Roll: Vivendo no Limite	dub=0:216993	leg=0:216997
+Rock N' Roll: Vivendo no Limite - (2020)	dub=2:1071772	leg=2:1030800
 Rock Nacional: Cazuza o tempo nao para	dub=0:21975
-Rock Star	dub=0:128876,2:1072017
-Rock em Cabul	dub=2:1269031
-Rock of Ages: O Filme	dub=0:378705,0:270428,2:1072075	leg=0:378704,2:1271997
-Rocketeer	dub=0:348076,2:1249801	leg=0:348075,2:1248917
-Rocketman	dub=0:368251,0:28256,2:1267780	leg=0:368250
-Rocketman Legendado	dub=0:26886,2:1071868
-RocknRolla A Grande Roubada	dub=0:91421,2:1046361
-Rockstar: DUKI desde el fin del mundo	dub=2:1271799	leg=0:346843,2:1038598
-Rocky Balboa	dub=0:93659,2:1041974
-Rocky II - A Revanche	dub=0:93655,2:1041055
-Rocky III: O Desafio Supremo	dub=0:93656,2:1042646
-Rocky IV	dub=0:93657,2:1042999
-Rocky V	dub=0:93658,2:1042495
-Rocky: Um Lutador	dub=0:93654,2:1042412
-Roda Gigante	dub=0:41630,2:1065653
-Roda de Fogo	dub=0:366115,0:319012,2:1068954	leg=0:366114,2:1266930
+Rock Star	dub=0:128876
+Rock Star - (2001)	dub=2:1072017
+Rock em Cabul (2015)	dub=2:1269031
+Rock of Ages: O Filme	dub=0:378705,0:270428	leg=0:378704
+Rock of Ages: O Filme (2012)	dub=2:1072075	leg=2:1271997
+Rocketeer	dub=0:348076	leg=0:348075
+Rocketeer - (1991)	dub=2:1249801	leg=2:1248917
+Rocketman	dub=0:368251,0:28256	leg=0:368250
+Rocketman (2019)	dub=2:1267780
+Rocketman Legendado	dub=0:26886
+Rocketman Legendado - (2019)	dub=2:1071868
+RocknRolla A Grande Roubada	dub=0:91421
+RocknRolla A Grande Roubada - (2008)	dub=2:1046361
+Rockstar DUKI Desde el fin Del Mundo (2025)	dub=2:1271799	leg=2:1038598
+Rockstar: DUKI desde el fin del mundo	leg=0:346843
+Rocky Balboa	dub=0:93659
+Rocky Balboa - (2006)	dub=2:1041974
+Rocky II - A Revanche	dub=0:93655
+Rocky II - A Revanche - (1979)	dub=2:1041055
+Rocky III: O Desafio Supremo	dub=0:93656
+Rocky III: O Desafio Supremo - (1982)	dub=2:1042646
+Rocky IV	dub=0:93657
+Rocky IV - (1985)	dub=2:1042999
+Rocky V	dub=0:93658
+Rocky V - (1990)	dub=2:1042495
+Rocky: Um Lutador	dub=0:93654
+Rocky: Um Lutador - (1976)	dub=2:1042412
+Roda Gigante	dub=0:41630
+Roda Gigante - (2017)	dub=2:1065653
+Roda de Fogo	dub=0:366115,0:319012	leg=0:366114
+Roda de Fogo (2002)	dub=2:1068954	leg=2:1266930
 Rodada Final	dub=0:264479	leg=0:264480
-Rodeio Rock	dub=0:230879,2:1072209
-Rodovia Belém - Brasília	dub=0:336972,2:1048836
-Rodrigo Marques: O Inimigo do Nível	dub=0:237178,2:1053833	leg=0:237168,2:1026280
-Rodrigo Sant Anna Cheguei	dub=2:1269532
-Rogai Por Nós	dub=0:374314,0:110845,0:110844,2:1272200,2:1070218,2:1021972
-Rogue	dub=0:69947,2:1056972
-Rogue Agent	dub=2:1268533
+Rodeio Rock	dub=0:230879
+Rodeio Rock - (2023)	dub=2:1072209
+Rodovia Belém - Brasília	dub=0:336972
+Rodovia Belém - Brasília - (1973)	dub=2:1048836
+Rodrigo Marques: O Inimigo do Nível	dub=0:237178	leg=0:237168
+Rodrigo Marques: O Inimigo do Nível - (2022)	dub=2:1053833	leg=2:1026280
+Rodrigo Sant Anna Cheguei (2022)	dub=2:1269532
+Rogai Por Nós	dub=0:374314,0:110845,0:110844
+Rogai Por Nós (2022)	dub=2:1272200
+Rogai por Nós - (2021)	dub=2:1070218,2:1021972
+Rogue	dub=0:69947
+Rogue - (2020)	dub=2:1056972
+Rogue Agent (2022)	dub=2:1268533
 Rogue Hostage	leg=0:120708
-Rogue One: Uma Historia Star Wars	dub=0:20218,2:1056916
-Rogue Trader	dub=2:1268606
-Rogue Warfare 2 A Cacada	dub=0:89323,2:1047869
-Rogue Warfare 3 A Morte De Uma Nacao	dub=0:89324,2:1066082
-Rogue Warfare Ameaca Global	dub=0:89744,2:1066516
-Rogue o Assassino	dub=0:97209,2:1044662
-Rojo	leg=0:85140,2:1036216
+Rogue One: Uma Historia Star Wars	dub=0:20218
+Rogue One: Uma Historia Star Wars - (2016)	dub=2:1056916
+Rogue Trader (1999)	dub=2:1268606
+Rogue Warfare 2 A Cacada	dub=0:89323
+Rogue Warfare 2 A Cacada - (2019)	dub=2:1047869
+Rogue Warfare 3 A Morte De Uma Nacao	dub=0:89324
+Rogue Warfare 3 A Morte De Uma Nacao - (2020)	dub=2:1066082
+Rogue Warfare Ameaca Global	dub=0:89744
+Rogue Warfare Ameaca Global - (2019)	dub=2:1066516
+Rogue o Assassino	dub=0:97209
+Rogue o Assassino - (2007)	dub=2:1044662
+Rojo	leg=0:85140
+Rojo - (2018)	leg=2:1036216
 Roland Doe: A Verdadeira História de O Exorcista	dub=0:277883	leg=0:277884
-Role Historias dos Rolezinhos	dub=2:1268981
-Roma	dub=2:1271693	leg=2:1273037
-Roman J. Israel	dub=0:214178,2:1052096
-Romance	dub=0:366523,2:1267519
-Romance Real na Estrada	dub=0:366911,2:1267616	leg=0:366910,2:1267622
-Romance da Empregada	dub=0:311929,2:1065786
-Romance de Formação	dub=0:377252,2:1268405
-Romance e Cigarros	dub=0:138842,2:1071607
-Romance na Ficção	dub=0:368114,2:1268140
-Romance nas Alturas	dub=0:157981,2:1050668
-Romance no Ar Uma Garota Apaixonada	dub=0:294262,2:1064698	leg=0:294263,2:1024130
-Romance to the Rescue	dub=2:1268633
-Romance à la Carte	dub=0:345130,2:1050897	leg=0:345129,2:1036583
-Romasanta a Casa da Besta	dub=2:1270676
-Romeu + Julieta	dub=0:341068,0:33555,2:1064793
-Romeu Tem Que Morrer	dub=0:20219,2:1051343
-Romeu e Julieta	dub=0:320243,2:1054793
-Romeu: O Vira Lata Atrapalhado	dub=2:1273092
-Romina	dub=2:1270455
-Rompendo Barreiras: Nosso Planeta	dub=2:1271389
-Romy e Michele	dub=2:1269908
-Ron Bugado 4K	dub=0:147442,0:144058,2:1061379,2:1022651	leg=0:144078,2:1023829
-Ronaldo	dub=0:375057,0:110833,2:1046078	leg=0:375056,2:1272259
-Ronaldo, O Fenômeno	dub=0:178295,2:1048778
-Ronda Noturna	dub=0:104140,2:1042097
-Ronin	dub=2:1267182
-Ronny Chieng Love to Hate It	dub=2:1271463
-Roohi	dub=2:1270503	leg=2:1273027
-Rookie: Um Profissional do Perigo	dub=0:370925,2:1267665	leg=0:370924,2:1267741
-Room Taken	leg=0:365870,2:1266789
-Rooming With Danger	dub=0:194198,2:1050863
-Rooney	dub=2:1271228	leg=0:150124,2:1028535
-Root	dub=0:194173,2:1072544
-Rory McIlroy: A Espera pelo Masters Legendado	dub=2:1259067
+Role Historias dos Rolezinhos (2021)	dub=2:1268981
+Roma (2018)	dub=2:1271693	leg=2:1273037
+Roman J. Israel	dub=0:214178
+Roman J. Israel - (2017)	dub=2:1052096
+Romance	dub=0:366523
+Romance (2021)	dub=2:1267519
+Romance Real na Estrada	dub=0:366911	leg=0:366910
+Romance Real na Estrada (2022)	dub=2:1267616	leg=2:1267622
+Romance da Empregada	dub=0:311929
+Romance da Empregada - (1988)	dub=2:1065786
+Romance de Formação	dub=0:377252
+Romance de Formação (2012)	dub=2:1268405
+Romance e Cigarros	dub=0:138842
+Romance e Cigarros - (2005)	dub=2:1071607
+Romance na Ficção	dub=0:368114
+Romance na Ficção (2023)	dub=2:1268140
+Romance nas Alturas	dub=0:157981
+Romance nas Alturas - (2020)	dub=2:1050668
+Romance no Ar Uma Garota Apaixonada	dub=0:294262	leg=0:294263
+Romance no Ar Uma Garota Apaixonada - (2024)	dub=2:1064698	leg=2:1024130
+Romance to the Rescue (2022)	dub=2:1268633
+Romance à la Carte	dub=0:345130	leg=0:345129
+Romance à la Carte - (2020)	dub=2:1050897	leg=2:1036583
+Romasanta a Casa da Besta (2004)	dub=2:1270676
+Romeu + Julieta	dub=0:341068,0:33555
+Romeu + Julieta - (1996)	dub=2:1064793
+Romeu Tem Que Morrer	dub=0:20219
+Romeu Tem Que Morrer - (2000)	dub=2:1051343
+Romeu e Julieta	dub=0:320243
+Romeu e Julieta - (2003)	dub=2:1054793
+Romeu: O Vira Lata Atrapalhado (2008)	dub=2:1273092
+Romina (2018)	dub=2:1270455
+Rompendo Barreiras: Nosso Planeta (2021)	dub=2:1271389
+Romy e Michele (1997)	dub=2:1269908
+Ron Bugado - (2021)	dub=2:1061379,2:1022651	leg=2:1023829
+Ron Bugado 4K	dub=0:147442,0:144058	leg=0:144078
+Ronaldo	dub=0:375057,0:110833	leg=0:375056
+Ronaldo (2015)	dub=2:1046078	leg=2:1272259
+Ronaldo, O Fenômeno	dub=0:178295
+Ronaldo, O Fenômeno - (2022)	dub=2:1048778
+Ronda Noturna	dub=0:104140
+Ronda Noturna - (2020)	dub=2:1042097
+Ronin (1998)	dub=2:1267182
+Ronny Chieng Love to Hate It (2024)	dub=2:1271463
+Roohi (2021)	dub=2:1270503	leg=2:1273027
+Rookie: Um Profissional do Perigo	dub=0:370925	leg=0:370924
+Rookie: Um Profissional do Perigo (1990)	dub=2:1267665	leg=2:1267741
+Room Taken	leg=0:365870
+Room Taken (2023)	leg=2:1266789
+Rooming With Danger	dub=0:194198
+Rooming With Danger - (2023)	dub=2:1050863
+Rooney	leg=0:150124
+Rooney (2022)	dub=2:1271228	leg=2:1028535
+Root	dub=0:194173
+Root - (2023)	dub=2:1072544
+Rory McIlroy: A Espera pelo Masters Legendado (2026)	dub=2:1259067
 Rory McIlroy: The Masters Wait	leg=0:372121
-Rory Scovel Religion Sex and a Few Things In Between	dub=2:1268677
-Rosa Amarela	dub=0:106462,2:1072314
-Rosa de Saron: Acustico e Ao Vivo 2/3	dub=2:1265217
-Rosa de Versalhes	dub=0:320089,2:1038026	leg=0:320088,2:1038357
-Rosa e Momo	dub=0:88481,2:1040970
-Rosalina 4K	dub=0:179733,0:177210,2:1064079,2:1023307	leg=0:177204,2:1033186
-Rosario	dub=0:348318,2:1251089	leg=0:348317,2:1251110
-Rosario Tijeras	dub=0:264153,2:1052118
-Rose	dub=0:346823,2:1271235,2:1043063	leg=0:346822,2:1036435
-Rose Matafeo: Sem Parar	dub=2:1269909	leg=0:300637,2:1033287
-Rose Red - 1994	dub=0:21838,2:1059714
-Rota 666 A Estrada da Morte	dub=2:1264648
-Rota De Fuga 3 O Resgate	dub=0:25483,2:1047262
-Rota Mortal	dub=2:1270129
-Rota Mortal 2	dub=0:21839,2:1058770
-Rota Sem Saída	dub=0:267104,0:267103,2:1051029,2:1022722	leg=0:267105,2:1023796
-Rota de Fuga 1	dub=0:20220,2:1271216,2:1047504
-Rota de Fuga 2	dub=0:20221,2:1061114
-Roteiro de Casamento	dub=0:329628,0:329627,2:1248840
-Roter Himmel	dub=2:1270285
-Rotting in the Sun	leg=0:246456,2:1034908
-Roubando Mussolini	dub=0:178539,2:1052861	leg=0:178559,2:1025191
-Roubando Vidas	dub=0:129543,2:1044926
-Roubo Cibernético: Bilhões em Bitcoins	dub=0:297478,2:1271877	leg=0:297479
-Roubo Entre Ladrões	dub=0:373839,2:1051863	leg=0:373838,2:1024559
-Roubo do Cão 4K	dub=0:351559,2:1272431,2:1264838
-Roubo em Monte Carlo	dub=2:1270885
-Roubo nas Alturas	dub=0:192668,2:1047331
-Roubo pelos Ares 4K	dub=0:192525,0:189938,2:1050927,2:1022325	leg=0:189909,2:1031927
-Roupa Nova 40 anos - Ao Vivo	dub=0:194888,2:1072177
-Roupa Nova: 30 Anos Ao Vivo	dub=2:1270234
-Roxanne	dub=0:309892,0:127412,2:1065194
+Rory Scovel Religion Sex and a Few Things In Between (2024)	dub=2:1268677
+Rosa Amarela	dub=0:106462
+Rosa Amarela - (2020)	dub=2:1072314
+Rosa de Saron: Acustico e Ao Vivo 2/3 (2015)	dub=2:1265217
+Rosa de Versalhes	dub=0:320089	leg=0:320088
+Rosa de Versalhes - (2025)	dub=2:1038026	leg=2:1038357
+Rosa e Momo	dub=0:88481
+Rosa e Momo - (2020)	dub=2:1040970
+Rosalina - (2022)	dub=2:1064079,2:1023307	leg=2:1033186
+Rosalina 4K	dub=0:179733,0:177210	leg=0:177204
+Rosario	dub=0:348318	leg=0:348317
+Rosario - (2025)	dub=2:1251089	leg=2:1251110
+Rosario Tijeras	dub=0:264153
+Rosario Tijeras - (2005)	dub=2:1052118
+Rose	dub=0:346823	leg=0:346822
+Rose (2020)	dub=2:1271235
+Rose - (2021)	dub=2:1043063	leg=2:1036435
+Rose Matafeo Sem Parar (2024)	dub=2:1269909	leg=2:1033287
+Rose Matafeo: Sem Parar	leg=0:300637
+Rose Red - (1994)	dub=0:21838
+Rose Red - 1994 - (1994)	dub=2:1059714
+Rota 666 A Estrada da Morte (2001)	dub=2:1264648
+Rota De Fuga 3 O Resgate	dub=0:25483
+Rota De Fuga 3 O Resgate - (2019)	dub=2:1047262
+Rota Mortal (2006)	dub=2:1270129
+Rota Mortal 2	dub=0:21839
+Rota Mortal 2 - (2008)	dub=2:1058770
+Rota Sem Saída	dub=0:267104,0:267103	leg=0:267105
+Rota Sem Saída - (2023)	dub=2:1051029,2:1022722	leg=2:1023796
+Rota de Fuga 1	dub=0:20220
+Rota de Fuga 1 - (2017)	dub=2:1047504
+Rota de Fuga 1- (2013)	dub=2:1271216
+Rota de Fuga 2	dub=0:20221
+Rota de Fuga 2 - (2018)	dub=2:1061114
+Roteiro de Casamento	dub=0:329628,0:329627
+Roteiro de Casamento - (2016)	dub=2:1248840
+Roter Himmel (2023)	dub=2:1270285
+Rotting in the Sun	leg=0:246456
+Rotting in the Sun - (2023)	leg=2:1034908
+Roubando Mussolini	dub=0:178539	leg=0:178559
+Roubando Mussolini - (2022)	dub=2:1052861	leg=2:1025191
+Roubando Vidas	dub=0:129543
+Roubando Vidas - (2004)	dub=2:1044926
+Roubo Cibernetico Bilhoes em Bitcoins (2024)	dub=2:1271877
+Roubo Cibernético: Bilhões em Bitcoins	dub=0:297478	leg=0:297479
+Roubo Entre Ladrões	dub=0:373839	leg=0:373838
+Roubo Entre Ladrões - (2022)	dub=2:1051863	leg=2:1024559
+Roubo do Cao (2025)	dub=2:1272431,2:1264838
+Roubo do Cão 4K	dub=0:351559
+Roubo em Monte Carlo (2019)	dub=2:1270885
+Roubo nas Alturas	dub=0:192668
+Roubo nas Alturas - (2011)	dub=2:1047331
+Roubo pelos Ares - (2023)	dub=2:1050927,2:1022325	leg=2:1031927
+Roubo pelos Ares 4K	dub=0:192525,0:189938	leg=0:189909
+Roupa Nova 40 anos - Ao Vivo	dub=0:194888
+Roupa Nova 40 anos - Ao Vivo - (2023)	dub=2:1072177
+Roupa Nova: 30 Anos Ao Vivo (2010)	dub=2:1270234
+Roxanne	dub=0:309892,0:127412
+Roxanne - (1987)	dub=2:1065194
 Roy Wood Jr.: Falha na Conexão	leg=0:307749
-Royalteen	dub=0:169641,2:1064632	leg=0:169661,2:1032796
-Royalteen: Princesa Margrethe 4K	dub=0:219955,0:194862,2:1063277,2:1023041	leg=0:194863,2:1032231
-Rua Cloverfield 10	dub=0:21840,2:1060866
-Rua Descalça	dub=0:362614,2:1266985
-Rua do Medo: 1666 – Parte 3	dub=0:112970,2:1071086
-Rua do Medo: 1978 - Parte 2	dub=0:112945,2:1070964
-Rua do Medo: 1994 - Parte 1	dub=0:112385,2:1069681
-Rua do Medo: Rainha do Baile 4K	dub=0:324696,0:322817,2:1037710,2:1036825	leg=0:322816,2:1038029
-Rua dos Pecados	dub=0:212947,2:1057966	leg=0:212942,2:1035152
-Ruas Em Guerra	dub=0:45040,2:1047395
-Ruas Sangrentas - O Acerto Final	dub=0:20222,2:1056584
-Ruas da Glória	dub=2:1273163
-Ruas da Liberdade	dub=0:372788,2:1272090	leg=0:372787,2:1272041
-Ruas de Fogo	dub=2:1268988
-Rubikon	dub=0:178285,2:1059848	leg=0:178272,2:1249128
-Ruby Marinho - Monstro Adolescente 4K	dub=0:321016,0:208325,0:208208,2:1061387,2:1022786	leg=0:210702,2:1023786
-Rucula Com Tomate Seco	dub=2:1267496
-Rudy	dub=0:127410,2:1045963
-Rugrats em Paris O Filme	dub=2:1266856
-Ruido	dub=0:185181,2:1270738	leg=0:185171
-Ruim pra Cachorro	dub=0:255110,0:225526,0:225418,2:1052875,2:1023024	leg=0:255111,0:225423,2:1031758
-Rumble Through the Dark	dub=0:249801,2:1047215	leg=0:249802,2:1027738
-Rumbos	dub=0:348077,2:1248818
-Rumo	dub=0:373840,2:1272180
-Rumo ao Paraíso	dub=0:309893,2:1041288	leg=0:309894,2:1024619
-Rumo ao Vento	dub=2:1265937	leg=0:311813,2:1038465
-Rumspringa: Um Amish em Berlim	dub=0:159305,2:1054090	leg=0:159313,2:1025127
-Run	dub=2:1266678	leg=0:91426,2:1249293
-Run - Nunca Pare de Correr	dub=0:160424,2:1059627
-Run Rabbit Run	dub=0:249897,2:1058338	leg=0:249898,2:1028354
-Running for Good - The Fiona Oakes Documentary	dub=2:1266001
-Running with the Devil	leg=0:33409,0:30443,2:1026695
-Rush No Limite da Emocao	dub=0:21156,2:1047382
-Russell, O Cãopeão	dub=0:349058,2:1252111
-Rust	leg=0:337604,2:1038400
-Rust: A Lei do Oeste	dub=0:343566,2:1036875	leg=0:343565
-Rustin	dub=0:228044,2:1045552	leg=0:228047,2:1030576
-Rute e Boaz	dub=0:345452,2:1038647	leg=0:345451,2:1038642
-Ruth e Alex	dub=0:368253,2:1268198	leg=0:368252,2:1268199
-Ruído Branco 4K	dub=0:184044,0:183741,2:1249760,2:1052923	leg=0:183742,2:1031999
+Royalteen	dub=0:169641	leg=0:169661
+Royalteen - (2022)	dub=2:1064632	leg=2:1032796
+Royalteen: Princesa Margrethe - (2023)	dub=2:1063277,2:1023041	leg=2:1032231
+Royalteen: Princesa Margrethe 4K	dub=0:219955,0:194862	leg=0:194863
+Rua Cloverfield 10	dub=0:21840
+Rua Cloverfield 10 - (2016)	dub=2:1060866
+Rua Descalça	dub=0:362614
+Rua Descalça (1971)	dub=2:1266985
+Rua do Medo: 1666 – Parte 3	dub=0:112970
+Rua do Medo: 1666 – Parte 3 - (2021)	dub=2:1071086
+Rua do Medo: 1978 - Parte 2	dub=0:112945
+Rua do Medo: 1978 - Parte 2 - (2021)	dub=2:1070964
+Rua do Medo: 1994 - Parte 1	dub=0:112385
+Rua do Medo: 1994 - Parte 1 - (2021)	dub=2:1069681
+Rua do Medo: Rainha do Baile - (2025)	dub=2:1037710,2:1036825	leg=2:1038029
+Rua do Medo: Rainha do Baile 4K	dub=0:324696,0:322817	leg=0:322816
+Rua dos Pecados	dub=0:212947	leg=0:212942
+Rua dos Pecados - (2020)	dub=2:1057966	leg=2:1035152
+Ruas Em Guerra	dub=0:45040
+Ruas Em Guerra - (2019)	dub=2:1047395
+Ruas Sangrentas - O Acerto Final	dub=0:20222
+Ruas Sangrentas - O Acerto Final - (2006)	dub=2:1056584
+Ruas da Glória (2026)	dub=2:1273163
+Ruas da Liberdade	dub=0:372788	leg=0:372787
+Ruas da Liberdade (1999)	dub=2:1272090	leg=2:1272041
+Ruas de Fogo (1984)	dub=2:1268988
+Rubikon	dub=0:178285	leg=0:178272
+Rubikon - (2022)	dub=2:1059848	leg=2:1249128
+Ruby Marinho - Monstro Adolescente - (2023)	dub=2:1061387,2:1022786	leg=2:1023786
+Ruby Marinho - Monstro Adolescente 4K	dub=0:321016,0:208325,0:208208	leg=0:210702
+Rucula Com Tomate Seco (2017)	dub=2:1267496
+Rudy	dub=0:127410
+Rudy - (1993)	dub=2:1045963
+Rugrats em Paris O Filme (2000)	dub=2:1266856
+Ruido	dub=0:185181	leg=0:185171
+Ruido (2022)	dub=2:1270738
+Ruim pra Cachorro	dub=0:255110,0:225526,0:225418	leg=0:255111,0:225423
+Ruim pra Cachorro - (2023)	dub=2:1052875,2:1023024	leg=2:1031758
+Rumble Through the Dark	dub=0:249801	leg=0:249802
+Rumble Through the Dark - (2023)	dub=2:1047215	leg=2:1027738
+Rumbos	dub=0:348077
+Rumbos - (2016)	dub=2:1248818
+Rumo	dub=0:373840
+Rumo (2019)	dub=2:1272180
+Rumo ao Paraíso	dub=0:309893	leg=0:309894
+Rumo ao Paraíso - (2003)	dub=2:1041288	leg=2:1024619
+Rumo ao Vento	leg=0:311813
+Rumo ao Vento (2025)	dub=2:1265937	leg=2:1038465
+Rumspringa: Um Amish em Berlim	dub=0:159305	leg=0:159313
+Rumspringa: Um Amish em Berlim - (2022)	dub=2:1054090	leg=2:1025127
+Run	leg=0:91426
+Run (2020)	dub=2:1266678	leg=2:1249293
+Run - Nunca Pare de Correr	dub=0:160424
+Run - Nunca Pare de Correr - (2020)	dub=2:1059627
+Run Rabbit Run	dub=0:249897	leg=0:249898
+Run Rabbit Run - (2024)	dub=2:1058338	leg=2:1028354
+Running for Good - The Fiona Oakes Documentary (2018)	dub=2:1266001
+Running with the Devil	leg=0:33409,0:30443
+Running with the Devil - (2019)	leg=2:1026695
+Rush No Limite da Emocao	dub=0:21156
+Rush No Limite da Emocao - (2013)	dub=2:1047382
+Russell, O Cãopeão	dub=0:349058
+Russell, O Cãopeão - (2015)	dub=2:1252111
+Rust	leg=0:337604
+Rust - (2025)	leg=2:1038400
+Rust: A Lei do Oeste	dub=0:343566	leg=0:343565
+Rust: A Lei do Oeste - (2025)	dub=2:1036875
+Rustin	dub=0:228044	leg=0:228047
+Rustin - (2023)	dub=2:1045552	leg=2:1030576
+Rute e Boaz	dub=0:345452	leg=0:345451
+Rute e Boaz - (2025)	dub=2:1038647	leg=2:1038642
+Ruth e Alex	dub=0:368253	leg=0:368252
+Ruth e Alex (2014)	dub=2:1268198	leg=2:1268199
+Ruído Branco 4K	dub=0:184044,0:183741	leg=0:183742
+Ruído Branco 4K - (2022)	dub=2:1249760,2:1052923	leg=2:1031999
 Ruído da Morte	dub=0:370473	leg=0:370472
-Ruídos	dub=0:369163,2:1258241	leg=0:369162,2:1272306
-Rye Lane: Um Amor Inesperado 4K	dub=0:190769,0:190652,2:1052978,2:1022117	leg=0:190651,2:1026501
-Ryusoulger Vs. Lupinranger Vs. Patranger	leg=0:63088,2:1024474
-Rádio Pesadelo	dub=0:291905,2:1058554	leg=0:291906,2:1033740
-Rápida Vingança	dub=0:107782,2:1047234
-Rápidos e Perigosos	dub=0:320241,0:254655,2:1046470	leg=0:320242,2:1024543
-Rápidos e Perigosos 2	dub=0:254656,2:1046242	leg=0:254657,2:1027316
-Rânia	dub=0:382667,2:1272802
-Rédeas da Vida	dub=0:341995,2:1067421	leg=0:341994,2:1033922
-Réquiem para um Sonho	dub=0:197448,2:1052385
+Ruídos	dub=0:369163	leg=0:369162
+Ruídos (2025)	dub=2:1258241	leg=2:1272306
+Rye Lane: Um Amor Inesperado - (2023)	dub=2:1052978,2:1022117	leg=2:1026501
+Rye Lane: Um Amor Inesperado 4K	dub=0:190769,0:190652	leg=0:190651
+Ryusoulger Vs. Lupinranger Vs. Patranger	leg=0:63088
+Ryusoulger Vs. Lupinranger Vs. Patranger - (2020)	leg=2:1024474
+Rádio Pesadelo	dub=0:291905	leg=0:291906
+Rádio Pesadelo - (2023)	dub=2:1058554	leg=2:1033740
+Rápida Vingança	dub=0:107782
+Rápida Vingança - (2010)	dub=2:1047234
+Rápidos e Perigosos	dub=0:320241,0:254655	leg=0:320242
+Rápidos e Perigosos - (2014)	dub=2:1046470	leg=2:1024543
+Rápidos e Perigosos 2	dub=0:254656	leg=0:254657
+Rápidos e Perigosos 2 - (2016)	dub=2:1046242	leg=2:1027316
+Rânia	dub=0:382667
+Rânia (2012)	dub=2:1272802
+Rédeas da Vida	dub=0:341995	leg=0:341994
+Rédeas da Vida - (2021)	dub=2:1067421	leg=2:1033922
+Réquiem para um Sonho	dub=0:197448
+Réquiem para um Sonho - (2000)	dub=2:1052385

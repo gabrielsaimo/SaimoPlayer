@@ -1,439 +1,790 @@
-M - A Última Esperança	dub=0:284034,0:282097,2:1057445	leg=0:284035,0:282098,2:1024671
-M-8: Quando a Morte Socorre a Vida	dub=0:96029,2:1044506
-M. Butterfly	dub=0:138880,2:1063530
-M3GAN	dub=0:188217,0:188215,2:1057531,2:1022640	leg=0:188216,2:1032048
-M3GAN 2.0 4K	dub=0:338426,0:338306,2:1038706,2:1037773	leg=0:338305,0:335235,2:1038073
-MASH	dub=0:337586,0:100407,2:1066751
-MEB - Matadouro Extra Blood	dub=0:340249,2:1249911
-MIB - Homens de Preto	dub=0:358887	leg=0:358886,2:1266453
-MIB Homens de Preto: Internacional	dub=0:380568,0:337588,0:29565,0:29561,0:29553,2:1265841,2:1022140	leg=0:380567,0:337587,2:1031563
-MIB: Homens de Preto I	dub=0:21321,2:1056044
-MIB: Homens de Preto II	dub=0:21322,2:1060967
-MIB: Homens de Preto III	dub=0:21323,2:1059884
-MILF	dub=0:63107,2:1063949
-MK Ultra: Controlando Mentes	dub=0:353748,2:1265352	leg=0:353747,2:1265343
-MMA - Meu Melhor Amigo	dub=0:316306,0:316236,2:1038545,2:1037979	leg=0:316759,2:1249932
-MR 9 Missao Mortal	dub=2:1265637
-MST - Terra Prometida	dub=0:322815,0:322814,2:1037725,2:1036839
+M - A Última Esperança	dub=0:284034,0:282097	leg=0:284035,0:282098
+M - A Última Esperança - (2023)	dub=2:1057445	leg=2:1024671
+M-8: Quando a Morte Socorre a Vida	dub=0:96029
+M-8: Quando a Morte Socorre a Vida - (2019)	dub=2:1044506
+M. Butterfly	dub=0:138880
+M. Butterfly - (1993)	dub=2:1063530
+M3GAN	dub=0:188217,0:188215	leg=0:188216
+M3GAN - (2022)	dub=2:1057531,2:1022640	leg=2:1032048
+M3GAN 2.0 4K	dub=0:338426,0:338306	leg=0:338305,0:335235
+M3GAN 2.0 4K - (2025)	dub=2:1038706,2:1037773	leg=2:1038073
+MAMA (2024)	dub=2:1270362	leg=2:1273085
+MASH	dub=0:337586,0:100407
+MASH - (1970)	dub=2:1066751
+MEB - Matadouro Extra Blood	dub=0:340249
+MEB - Matadouro Extra Blood - (2025)	dub=2:1249911
+MIB - Homens de Preto	dub=0:358887	leg=0:358886
+MIB - Homens de Preto (1997)	leg=2:1266453
+MIB Homens de Preto: Internacional	dub=0:380568,0:337588,0:29565,0:29561,0:29553	leg=0:380567,0:337587
+MIB Homens de Preto: Internacional (2019)	dub=2:1265841,2:1022140	leg=2:1031563
+MIB: Homens de Preto I	dub=0:21321
+MIB: Homens de Preto I - (1997)	dub=2:1056044
+MIB: Homens de Preto II	dub=0:21322
+MIB: Homens de Preto II - (2002)	dub=2:1060967
+MIB: Homens de Preto III	dub=0:21323
+MIB: Homens de Preto III - (2012)	dub=2:1059884
+MILF	dub=0:63107
+MILF - (2018)	dub=2:1063949
+MK Ultra: Controlando Mentes	dub=0:353748	leg=0:353747
+MK Ultra: Controlando Mentes (2022)	dub=2:1265352	leg=2:1265343
+MMA - Meu Melhor Amigo	dub=0:316306,0:316236	leg=0:316759
+MMA - Meu Melhor Amigo - (2025)	dub=2:1038545,2:1037979	leg=2:1249932
+MR 9 Missao Mortal (2023)	dub=2:1265637
+MST - Terra Prometida	dub=0:322815,0:322814
+MST - Terra Prometida 4K - (2025)	dub=2:1037725,2:1036839
 MTV Europe Music Awards	dub=0:303579
-MTV Video Music Awards	dub=0:304582,2:1269160
-MTV ao Vivo: Charlie Brown Jr.	dub=2:1273201
-Ma	dub=0:185621,0:29096,2:1059087
-MaXXXine	dub=0:285160,2:1058154	leg=0:285161,0:282099,2:1249110
-Mac e Devin Vao Para a Escola	dub=2:1270942
-MacGyver e o Tesouro Perdido de Atlantida	dub=2:1269136
-MacGyver o Julgamento Final	dub=2:1270647	leg=2:1273084
-Macabro	dub=0:92019,2:1059348
-Macaco vs. Máquina	dub=0:256336,2:1060134	leg=0:256337,2:1035424
-Macacos Assassinos	dub=0:329661,2:1061213
-Macaléia	dub=0:368825,2:1272513
-Macbeth - Vozes do Harlem	dub=0:318592,2:1040813	leg=0:318593,2:1035763
-Macbeth: Ambição e Guerra	dub=0:134043,2:1066908
-Machado do Brasil	dub=0:320899,2:1048244
-Machete	dub=0:328982,0:291859,2:1046548	leg=0:328981,2:1024707
-Machete Mata	dub=0:336843,2:1046970	leg=0:336842,2:1028811
-Machine Gun Kelly A Vida de um Astro	dub=2:1270483	leg=2:1273135
-Macho Alfa	dub=0:270417,2:1051619	leg=0:270418,2:1028092
-Mad God	dub=2:1268923
-Mad Heidi	dub=2:1269546
-Mad Max 1	dub=0:20088,2:1061117
-Mad Max 2	dub=0:20089,2:1057408
-Mad Max 3	dub=0:20090,2:1057117
+MTV Video Music Awards	dub=0:304582
+MTV Video Music Awards (2010)	dub=2:1269160
+MTV ao Vivo: Charlie Brown Jr. (2001)	dub=2:1273201
+Ma	dub=0:185621,0:29096
+Ma - (2019)	dub=2:1059087
+MaXXXine	dub=0:285160	leg=0:285161,0:282099
+MaXXXine - (2024)	dub=2:1058154	leg=2:1249110
+Mac e Devin Vao Para a Escola (2012)	dub=2:1270942
+MacGyver e o Tesouro Perdido de Atlantida (1994)	dub=2:1269136
+MacGyver o Julgamento Final (1994)	dub=2:1270647	leg=2:1273084
+Macabro	dub=0:92019
+Macabro - (2019)	dub=2:1059348
+Macaco vs. Máquina	dub=0:256336	leg=0:256337
+Macaco vs. Máquina - (2023)	dub=2:1060134	leg=2:1035424
+Macacos Assassinos	dub=0:329661
+Macacos Assassinos - (2013)	dub=2:1061213
+Macaléia	dub=0:368825
+Macaléia (2023)	dub=2:1272513
+Macbeth - Vozes do Harlem	dub=0:318592	leg=0:318593
+Macbeth - Vozes do Harlem - (2021)	dub=2:1040813	leg=2:1035763
+Macbeth: Ambição e Guerra	dub=0:134043
+Macbeth: Ambição e Guerra - (2015)	dub=2:1066908
+Machado do Brasil	dub=0:320899
+Machado do Brasil - (2014)	dub=2:1048244
+Machete	dub=0:328982,0:291859	leg=0:328981
+Machete - (2010)	dub=2:1046548	leg=2:1024707
+Machete Mata	dub=0:336843	leg=0:336842
+Machete Mata - (2013)	dub=2:1046970	leg=2:1028811
+Machine Gun Kelly A Vida de um Astro (2022)	dub=2:1270483	leg=2:1273135
+Macho Alfa	dub=0:270417	leg=0:270418
+Macho Alfa - (2022)	dub=2:1051619	leg=2:1028092
+Mad God (2021)	dub=2:1268923
+Mad Heidi (2022)	dub=2:1269546
+Mad Max 1	dub=0:20088
+Mad Max 1 - (1979)	dub=2:1061117
+Mad Max 2	dub=0:20089
+Mad Max 2 - (1981)	dub=2:1057408
+Mad Max 3	dub=0:20090
+Mad Max 3 - (1985)	dub=2:1057117
 Mad Max 4	dub=0:20091
-Mad Max: Estrada da Fúria	dub=0:317231,2:1056502	leg=0:317232,2:1028528
-Mad Square	dub=2:1269539
-MadS	dub=2:1269018	leg=0:292864,2:1030098
-Madagascar 1	dub=0:20384,2:1063056
-Madagascar 2	dub=0:20385,2:1057302
-Madagascar 3	dub=0:20386,2:1062539
-Madalena	dub=0:149579,2:1059289
-Madame Durocher	dub=0:352673,2:1045070	leg=0:347676,2:1248965
-Madame Satã	dub=0:281484,2:1045976
-Madame Teia	dub=0:253276,0:253275,2:1039259,2:1023405	leg=0:253277,2:1026678
-Madame X	dub=2:1271674
-Made in England: The Films of Powell and Pressburger	dub=2:1271922	leg=0:267700,2:1030216
-Made in Korea	dub=0:370005,2:1258238	leg=0:370004,2:1265022
-Madea e o Casamento nas Bahamas	dub=0:334609,2:1038190	leg=0:334608,2:1038385
-Madea: O Retorno	dub=0:150703,2:1053707	leg=0:150705,2:1029332
-Madeline	dub=0:127465,2:1068803
-Madeline - Uma Aventura em Paris	dub=0:376921,2:1268380
-Mademoiselle Vingança	dub=0:22042,2:1065255
-Madison	dub=0:378681,2:1271979	leg=0:378680,2:1271986
-Madly	dub=2:1269612	leg=0:341429,2:1038447
-Madonna The Celebration Tour in Rio	dub=2:1269099
-Madre Superiora	dub=0:307307,2:1044210	leg=0:307308,2:1030970
-Madres: Mães de Ninguém	dub=0:131220,2:1070049	leg=0:131221,2:1034616
-Madrinhas de Casamento Brutais	dub=0:112415,2:1049847
-Madrugada Muito Louca 1	dub=0:20660,2:1057260
-Madrugada Muito Louca 2	dub=0:20661,2:1057192
-Madrugada dos Mortos	dub=0:189986,0:100342,2:1046289
-Madu	dub=2:1269926	leg=0:255023,2:1029484
-Mae e Mae	dub=0:98618,2:1054634
-Mae e Pai	dub=0:26446,2:1059119
-Maestro	dub=0:233795,2:1071650	leg=0:233794,2:1032835
-Mafia	dub=0:97186,2:1052256
-Mafia Mamma: De Repente Criminosa	dub=0:200312,2:1047140	leg=0:200313,2:1032133
-Mafia contra Mafia	dub=0:99886,2:1047658
-Magal e os Formigas	dub=0:376322,2:1270364
-Magazine Dreams	dub=2:1271169	leg=0:338427,2:1038292
-Maggie Moore	dub=0:292099,2:1069667	leg=0:292100,2:1026062
-Maghrib Time	dub=2:1270176
-Magia Estranha	dub=0:20387,2:1072087
-Magia Invertida	dub=0:76664,2:1050654
-Magia do Ator Legendado	dub=2:1254619
-Magic Camp	leg=0:68453,2:1031273
-Magic Farm	dub=2:1270432	leg=0:339401,2:1038470
-Magic Mike	dub=0:180693,2:1055084
-Magic Mike XXL	dub=0:180698,2:1055316
-Magic Mike: A Última Dança	dub=0:188588,2:1064768	leg=0:188589,2:1024107
-Magnatas do Crime	dub=0:281087,2:1051978	leg=0:281088,2:1028352
-Magnatas do Espaço: Musk, Bezos e Branson	dub=0:146842,2:1049139
-Magnum 44	dub=0:144111,2:1047240
-Magnum 578	dub=0:273069,2:1046913	leg=0:273070,2:1028135
-Magnífico	dub=0:223078,2:1053664	leg=0:223098,2:1249422
-Magnólia	dub=0:368221,2:1042128	leg=0:368220,2:1264901
-Magos do Cubo	dub=0:64458,2:1048786
-Magpie	dub=2:1270846
-Mahalia	dub=0:150735,2:1045557	leg=0:150736,2:1028083
-Maharaja	dub=0:269810,2:1069545	leg=0:282100,0:269811,2:1033589
-Mahavatar Narsimha	dub=2:1265045	leg=0:357796,2:1265032
-Maid to Order	dub=0:336664,2:1039492	leg=0:336663,2:1034195
-Maigret e a Jovem Morta	dub=0:226074,2:1070001	leg=0:226084,2:1025862
-Mainstream	dub=0:149412,2:1053979	leg=0:149413,2:1025011
-Maior Viagem: Uma Aventura Psicodélica	dub=0:48265,2:1048926
-Maior que o Mundo	dub=0:216996,0:188927,2:1042523,2:1041167	leg=0:216995,2:1032989
-Maira Porongyta – O aviso do céu	dub=0:366518,2:1256877
-Mais Cedo Morto do que Casado	dub=0:187153,2:1268662	leg=0:187152
-Mais Estranho que a Ficcao	dub=0:94730,2:1039598
-Mais Forte Que Bombas	dub=0:144052,2:1042407
-Mais Forte Que o Mundo a Historia de Jose Aldo	dub=0:21026,2:1047514
-Mais Outro Filho	dub=0:89739,2:1054518
-Mais Pesado é o Céu	dub=0:359062,2:1266493
-Mais Que Especiais	dub=0:133970,2:1054169	leg=0:133979,2:1026317
-Mais Que Vencedor	dub=2:1273156
-Mais Que o Acaso	dub=2:1290986
-Mais Um Tiro Certo 4K	dub=0:310612,0:239812,2:1046153,2:1023332	leg=0:239813,2:1028441
-Mais Um Verao com Mamae	dub=0:93064,2:1055501
-Mais Uma Chance	dub=0:22570,2:1053474
-Mais Uma Sexta-Feira em Apuros	dub=0:328168,0:120668,2:1055479
-Mais Uma Vida	dub=0:259011,2:1054038	leg=0:259012,2:1034795
-Mais do Que um Jogo	dub=0:378053,2:1268917	leg=0:378052,2:1268942
-Mais e Melhores Blues	dub=0:48229,2:1072064
-Mais que Amigos	dub=0:281316,0:182902,2:1064399	leg=0:281317,0:182888,2:1249581
-Mais que Amigos: Vizinhos	dub=0:134004,2:1053064	leg=0:134003,2:1025147
-Mais que Demais pra Mim	dub=0:142962,2:1064612	leg=0:142961,2:1026977
-Mais que Vencedores	dub=0:36003,2:1041517
-Mais um Besteirol ao Extremo	dub=0:362863,2:1267028	leg=0:362862,2:1267034
-Major Grom Contra o Dr. Peste	dub=0:113005,2:1248889
-Make Up	leg=0:90740,2:1035606
-Making It Up	dub=2:1271843
-Making a Murderer	dub=2:1271177
-Making the Witcher	leg=0:69616,2:1249507
-Mal Nosso	dub=0:22677,2:1059386
+Mad Max: Estrada da Fúria	dub=0:317231	leg=0:317232
+Mad Max: Estrada da Fúria - (2015)	dub=2:1056502	leg=2:1028528
+Mad Square (2025)	dub=2:1269539
+MadS	leg=0:292864
+MadS (2024)	dub=2:1269018	leg=2:1030098
+Madagascar 1	dub=0:20384
+Madagascar 1 - (2005)	dub=2:1063056
+Madagascar 2	dub=0:20385
+Madagascar 2 - (2008)	dub=2:1057302
+Madagascar 3	dub=0:20386
+Madagascar 3 - (2012)	dub=2:1062539
+Madalena	dub=0:149579
+Madalena - (2021)	dub=2:1059289
+Madame Durocher	dub=0:352673	leg=0:347676
+Madame Durocher - (2024)	dub=2:1045070	leg=2:1248965
+Madame Satã	dub=0:281484
+Madame Satã - (2002)	dub=2:1045976
+Madame Teia	dub=0:253276,0:253275	leg=0:253277
+Madame Teia - (2024)	dub=2:1039259,2:1023405	leg=2:1026678
+Madame X (2021)	dub=2:1271674
+Made in England The Films of Powell and Pressburger (2024)	dub=2:1271922	leg=2:1030216
+Made in England: The Films of Powell and Pressburger	leg=0:267700
+Made in Korea	dub=0:370005	leg=0:370004
+Made in Korea (2026)	dub=2:1258238	leg=2:1265022
+Madea e o Casamento nas Bahamas	dub=0:334609	leg=0:334608
+Madea e o Casamento nas Bahamas - (2025)	dub=2:1038190	leg=2:1038385
+Madea: O Retorno	dub=0:150703	leg=0:150705
+Madea: O Retorno - (2022)	dub=2:1053707	leg=2:1029332
+Madeline	dub=0:127465
+Madeline - (1998)	dub=2:1068803
+Madeline - Uma Aventura em Paris	dub=0:376921
+Madeline - Uma Aventura em Paris (1999)	dub=2:1268380
+Mademoiselle Vingança	dub=0:22042
+Mademoiselle Vingança - (2018)	dub=2:1065255
+Madison	dub=0:378681	leg=0:378680
+Madison (2020)	dub=2:1271979	leg=2:1271986
+Madly	leg=0:341429
+Madly (2025)	dub=2:1269612	leg=2:1038447
+Madonna The Celebration Tour in Rio (2024)	dub=2:1269099
+Madre Superiora	dub=0:307307	leg=0:307308
+Madre Superiora - (2022)	dub=2:1044210	leg=2:1030970
+Madres: Mães de Ninguém	dub=0:131220	leg=0:131221
+Madres: Mães de Ninguém - (2021)	dub=2:1070049	leg=2:1034616
+Madrinhas de Casamento Brutais	dub=0:112415
+Madrinhas de Casamento Brutais - (2020)	dub=2:1049847
+Madrugada Muito Louca 1	dub=0:20660
+Madrugada Muito Louca 1 - (2004)	dub=2:1057260
+Madrugada Muito Louca 2	dub=0:20661
+Madrugada Muito Louca 2 - (2008)	dub=2:1057192
+Madrugada dos Mortos	dub=0:189986,0:100342
+Madrugada dos Mortos - (2004)	dub=2:1046289
+Madu	leg=0:255023
+Madu (2024)	dub=2:1269926	leg=2:1029484
+Mae (2019)	dub=2:1270147
+Mae e Mae	dub=0:98618
+Mae e Mae - (1996)	dub=2:1054634
+Mae e Pai	dub=0:26446
+Mae e Pai - (2018)	dub=2:1059119
+Maestro	dub=0:233795	leg=0:233794
+Maestro - (2023)	dub=2:1071650	leg=2:1032835
+Mafia	dub=0:97186
+Mafia - (1998)	dub=2:1052256
+Mafia Mamma: De Repente Criminosa	dub=0:200312	leg=0:200313
+Mafia Mamma: De Repente Criminosa - (2023)	dub=2:1047140	leg=2:1032133
+Mafia contra Mafia	dub=0:99886
+Mafia contra Mafia - (2019)	dub=2:1047658
+Magal e os Formigas	dub=0:376322
+Magal e os Formigas (2016)	dub=2:1270364
+Magazine Dreams	leg=0:338427
+Magazine Dreams (2025)	dub=2:1271169	leg=2:1038292
+Maggie Moore	dub=0:292099	leg=0:292100
+Maggie Moore - (2023)	dub=2:1069667	leg=2:1026062
+Maghrib Time (2023)	dub=2:1270176
+Magia Estranha	dub=0:20387
+Magia Estranha - (2015)	dub=2:1072087
+Magia Invertida	dub=0:76664
+Magia Invertida - (2020)	dub=2:1050654
+Magia do Ator Legendado (2025)	dub=2:1254619
+Magic Camp	leg=0:68453
+Magic Camp - (2020)	leg=2:1031273
+Magic Farm	leg=0:339401
+Magic Farm (2025)	dub=2:1270432	leg=2:1038470
+Magic Mike	dub=0:180693
+Magic Mike - (2012)	dub=2:1055084
+Magic Mike XXL	dub=0:180698
+Magic Mike XXL - (2015)	dub=2:1055316
+Magic Mike: A Última Dança	dub=0:188588	leg=0:188589
+Magic Mike: A Última Dança - (2023)	dub=2:1064768	leg=2:1024107
+Magnatas do Crime	dub=0:281087	leg=0:281088
+Magnatas do Crime - (2020)	dub=2:1051978	leg=2:1028352
+Magnatas do Espaço: Musk, Bezos e Branson	dub=0:146842
+Magnatas do Espaço: Musk, Bezos e Branson - (2021)	dub=2:1049139
+Magnum 44	dub=0:144111
+Magnum 44 - (1973)	dub=2:1047240
+Magnum 578	dub=0:273069	leg=0:273070
+Magnum 578 - (2022)	dub=2:1046913	leg=2:1028135
+Magnífico	dub=0:223078	leg=0:223098
+Magnífico - (2019)	dub=2:1053664	leg=2:1249422
+Magnólia	dub=0:368221	leg=0:368220
+Magnólia (1999)	dub=2:1042128	leg=2:1264901
+Magos do Cubo	dub=0:64458
+Magos do Cubo - (2020)	dub=2:1048786
+Magpie (2024)	dub=2:1270846
+Mahalia	dub=0:150735	leg=0:150736
+Mahalia - (2021)	dub=2:1045557	leg=2:1028083
+Maharaja	dub=0:269810	leg=0:282100,0:269811
+Maharaja - (2024)	dub=2:1069545	leg=2:1033589
+Mahavatar Narsimha	leg=0:357796
+Mahavatar Narsimha (2025)	dub=2:1265045	leg=2:1265032
+Maid to Order	dub=0:336664	leg=0:336663
+Maid to Order - (1987)	dub=2:1039492	leg=2:1034195
+Maigret e a Jovem Morta	dub=0:226074	leg=0:226084
+Maigret e a Jovem Morta - (2022)	dub=2:1070001	leg=2:1025862
+Mainstream	dub=0:149412	leg=0:149413
+Mainstream - (2021)	dub=2:1053979	leg=2:1025011
+Maior Viagem: Uma Aventura Psicodélica	dub=0:48265
+Maior Viagem: Uma Aventura Psicodélica - (2020)	dub=2:1048926
+Maior que o Mundo	dub=0:216996,0:188927	leg=0:216995
+Maior que o Mundo - (2019)	dub=2:1041167	leg=2:1032989
+Maior que o Mundo - (2022)	dub=2:1042523
+Maira Porongyta – O aviso do céu	dub=0:366518
+Maira Porongyta – O aviso do céu (2025)	dub=2:1256877
+Mais Cedo Morto do que Casado	dub=0:187153	leg=0:187152
+Mais Cedo Morto do que Casado (2023)	dub=2:1268662
+Mais Estranho que a Ficcao	dub=0:94730
+Mais Estranho que a Ficcao - (2006)	dub=2:1039598
+Mais Forte Que Bombas	dub=0:144052
+Mais Forte Que Bombas - (2015)	dub=2:1042407
+Mais Forte Que o Mundo a Historia de Jose Aldo	dub=0:21026
+Mais Forte Que o Mundo a Historia de Jose Aldo - (2016)	dub=2:1047514
+Mais Outro Filho	dub=0:89739
+Mais Outro Filho - (2020)	dub=2:1054518
+Mais Pesado é o Céu	dub=0:359062
+Mais Pesado é o Céu (2023)	dub=2:1266493
+Mais Que Especiais	dub=0:133970	leg=0:133979
+Mais Que Especiais - (2019)	dub=2:1054169	leg=2:1026317
+Mais Que Vencedor (2014)	dub=2:1273156
+Mais Que o Acaso (2000)	dub=2:1290986
+Mais Um Tiro Certo - (2024)	dub=2:1046153,2:1023332	leg=2:1028441
+Mais Um Tiro Certo 4K	dub=0:310612,0:239812	leg=0:239813
+Mais Um Verao com Mamae	dub=0:93064
+Mais Um Verao com Mamae - (2020)	dub=2:1055501
+Mais Uma Chance	dub=0:22570
+Mais Uma Chance - (2018)	dub=2:1053474
+Mais Uma Sexta-Feira em Apuros	dub=0:328168,0:120668
+Mais Uma Sexta-Feira em Apuros - (2000)	dub=2:1055479
+Mais Uma Vida	dub=0:259011	leg=0:259012
+Mais Uma Vida - (2022)	dub=2:1054038	leg=2:1034795
+Mais do Que um Jogo	dub=0:378053	leg=0:378052
+Mais do Que um Jogo (2008)	dub=2:1268917	leg=2:1268942
+Mais e Melhores Blues	dub=0:48229
+Mais e Melhores Blues - (1990)	dub=2:1072064
+Mais que Amigos	dub=0:281316,0:182902	leg=0:281317,0:182888
+Mais que Amigos - (2022)	dub=2:1064399	leg=2:1249581
+Mais que Amigos: Vizinhos	dub=0:134004	leg=0:134003
+Mais que Amigos: Vizinhos - (2021)	dub=2:1053064	leg=2:1025147
+Mais que Demais pra Mim	dub=0:142962	leg=0:142961
+Mais que Demais pra Mim - (2021)	dub=2:1064612	leg=2:1026977
+Mais que Vencedores	dub=0:36003
+Mais que Vencedores - (2019)	dub=2:1041517
+Mais um Besteirol ao Extremo	dub=0:362863	leg=0:362862
+Mais um Besteirol ao Extremo (2008)	dub=2:1267028	leg=2:1267034
+Major Grom Contra o Dr. Peste	dub=0:113005
+Major Grom Contra o Dr. Peste - (2021)	dub=2:1248889
+Make Up	leg=0:90740
+Make Up - (2020)	leg=2:1035606
+Making It Up (2023)	dub=2:1271843
+Making a Murderer (1987)	dub=2:1271177
+Making the Witcher	leg=0:69616
+Making the Witcher - (2020)	leg=2:1249507
+Mal Nosso	dub=0:22677
+Mal Nosso - (2017)	dub=2:1059386
 Malcolm & Marie	dub=0:94169
-Malcolm X	dub=0:352221,0:134080,2:1045997	leg=0:352220,2:1264894
-Malcolm e Marie	dub=0:189923,0:189905,2:1040474,2:1022108	leg=0:189931,2:1031922
-Maldicao Eterna	dub=2:1267800
-Maldita Aranha Gigante	dub=2:1290980
-Maldita Sorte	dub=0:97187,2:1065336
-Malditas Aranhas!	dub=0:122884,2:1046570
-Maldito Futebol Fantasy	dub=0:340992,2:1249883	leg=0:340991,2:1038345
-Maldição da Escola Edelvine	dub=0:177214,2:1058279	leg=0:177216,2:1030459
-Maldição da Múmia 4K	dub=0:378991,0:378716,0:378715,0:378240,0:376712,2:1272007,2:1261032	leg=0:378239,2:1271958
-Maldição de Crom: A Lenda do Halloween	dub=0:307309,2:1039208	leg=0:307310,2:1033698
-Maldição de Família	dub=0:310419,2:1058020	leg=0:310420,2:1030888
-Malevola	dub=0:21247,2:1040001
-Malibu Crush	dub=0:164236,2:1055087
-Maligno	dub=0:312948,0:132476,2:1070850,2:1043901	leg=0:312949,0:128585,2:1027000
-Mallandro: O Errado que Deu Certo	dub=0:284524,2:1054683
-Malmkrog	dub=2:1266804
-Malta	dub=2:1268126
-Malu	dub=0:344531,2:1040446
-Malu de Bicicleta	dub=0:313307,2:1064812
-Maluca Paixão	dub=0:382415,2:1272831	leg=0:382414,2:1272923
-Malum	dub=0:362258,2:1265869	leg=0:362257,2:1266961
-Malèna	dub=0:330496,2:1042618
-Malévola: Dona do Mal	dub=0:382462,0:317233,0:33384,0:33383,0:33382,2:1056108,2:1021829	leg=0:382461,0:317234,2:1026007
-Malês	dub=0:361812,2:1266828
-Malícia	dub=0:309533,0:108289,2:1269516,2:1043718	leg=0:309534,2:1026402
-Mama	dub=0:21764,2:1270362,2:1059323	leg=2:1273085
-Mama Im Home	dub=2:1269009
-Mama's Little Murderer	leg=2:1273131
-Mamae saiu de ferias	dub=2:1269738
-Mami Wata	leg=0:373343,2:1272109
+Malcolm X	dub=0:352221,0:134080	leg=0:352220
+Malcolm X (1992)	dub=2:1045997	leg=2:1264894
+Malcolm e Marie	dub=0:189923,0:189905	leg=0:189931
+Malcolm e Marie - (2021)	dub=2:1040474,2:1022108	leg=2:1031922
+Maldicao Eterna (2023)	dub=2:1267800
+Maldita Aranha Gigante (2013)	dub=2:1290980
+Maldita Sorte	dub=0:97187
+Maldita Sorte - (2007)	dub=2:1065336
+Malditas Aranhas!	dub=0:122884
+Malditas Aranhas! - (2002)	dub=2:1046570
+Maldito Futebol Fantasy	dub=0:340992	leg=0:340991
+Maldito Futebol Fantasy - (2025)	dub=2:1249883	leg=2:1038345
+Maldição da Escola Edelvine	dub=0:177214	leg=0:177216
+Maldição da Escola Edelvine - (2021)	dub=2:1058279	leg=2:1030459
+Maldição da Múmia 4K	dub=0:378991,0:378716,0:378715,0:378240,0:376712	leg=0:378239
+Maldição da Múmia 4K (2026)	dub=2:1272007,2:1261032	leg=2:1271958
+Maldição de Crom: A Lenda do Halloween	dub=0:307309	leg=0:307310
+Maldição de Crom: A Lenda do Halloween - (2022)	dub=2:1039208	leg=2:1033698
+Maldição de Família	dub=0:310419	leg=0:310420
+Maldição de Família - (2022)	dub=2:1058020	leg=2:1030888
+Malevola	dub=0:21247
+Malevola - (2014)	dub=2:1040001
+Malibu Crush	dub=0:164236
+Malibu Crush - (2022)	dub=2:1055087
+Malicia (1973)	dub=2:1269516
+Maligno	dub=0:312948,0:132476	leg=0:312949,0:128585
+Maligno - (2019)	dub=2:1043901	leg=2:1027000
+Maligno - (2021)	dub=2:1070850
+Mallandro: O Errado que Deu Certo	dub=0:284524
+Mallandro: O Errado que Deu Certo - (2024)	dub=2:1054683
+Malmkrog (2020)	dub=2:1266804
+Malta (2024)	dub=2:1268126
+Malu	dub=0:344531
+Malu - (2024)	dub=2:1040446
+Malu de Bicicleta	dub=0:313307
+Malu de Bicicleta - (2011)	dub=2:1064812
+Maluca Paixão	dub=0:382415	leg=0:382414
+Maluca Paixão (2009)	dub=2:1272831	leg=2:1272923
+Malum	dub=0:362258	leg=0:362257
+Malum (2023)	dub=2:1265869	leg=2:1266961
+Malèna	dub=0:330496
+Malèna - (2000)	dub=2:1042618
+Malévola: Dona do Mal	dub=0:382462,0:317233,0:33384,0:33383,0:33382	leg=0:382461,0:317234
+Malévola: Dona do Mal - (2019)	dub=2:1056108,2:1021829	leg=2:1026007
+Malês	dub=0:361812
+Malês (2025)	dub=2:1266828
+Malícia	dub=0:309533,0:108289	leg=0:309534
+Malícia - (1993)	dub=2:1043718	leg=2:1026402
+Mama	dub=0:21764
+Mama - (2013)	dub=2:1059323
+Mama Im Home (2022)	dub=2:1269009
+Mama's Little Murderer (2026)	leg=2:1273131
+Mamae Operacao Balada - (2014)	dub=2:1053683	leg=2:1035975
+Mamae saiu de ferias (2019)	dub=2:1269738
+Mami Wata	leg=0:373343
+Mami Wata (2023)	leg=2:1272109
 Mamma Mia 2	dub=0:20663
-Mamma Mia!	dub=0:20664,2:1065401
+Mamma Mia!	dub=0:20664
+Mamma Mia! - (2008)	dub=2:1065401
 Mamma Mia! O Filme	dub=0:105247
-Mamma Mia!: Lá Vamos Nós de Novo	dub=0:323986,2:1064746	leg=0:323985,2:1023929
-Mamma Mu - Voltando Para Casa	dub=0:349738,2:1063264	leg=0:349737,2:1036377
-Mamonas Assassinas: O Filme	dub=0:247277,2:1072157
-Mamonas Pra Sempre	dub=0:336846,2:1071895
-Mamonas: Eu Te Ai Lóve Iú	dub=2:1257829
-Mamãe	dub=0:159287,2:1070388	leg=0:159288,2:1025167
-Mamãe Foi Viajar	dub=0:329617,2:1067619	leg=0:329616,2:1026220
-Mamãe Golpista	dub=0:316760,2:1037954	leg=0:316761,2:1038440
-Mamãe Morta e Querida	dub=0:139254,2:1048842
-Mamãe É Uma Espiã	dub=0:31906,2:1054620
-Mamãe, Virei Um Peixe!	dub=0:366099,2:1266799
-Mamãe: Operação Balada	dub=0:336845,0:20662,2:1053683	leg=0:336844,2:1035975
-Man Down - A Guerra	dub=0:20092,2:1066079
-Man Underground	dub=2:1273293
-Man vs. Bigfoot	dub=2:1269990
-ManSuang	dub=2:1268639	leg=0:267701,2:1026750
-Manas	dub=0:341033,2:1249892
-Manaus Hot City	dub=0:367043,2:1267721
-Manchester A Beira Mar	dub=0:24936,2:1042084
-Manco Capac	dub=2:1271717	leg=2:1273051
-Manda Chuva O Filme	dub=0:28606,2:1063137
+Mamma Mia!: Lá Vamos Nós de Novo	dub=0:323986	leg=0:323985
+Mamma Mia!: Lá Vamos Nós de Novo - (2018)	dub=2:1064746	leg=2:1023929
+Mamma Mu - Voltando Para Casa	dub=0:349738	leg=0:349737
+Mamma Mu - Voltando Para Casa - (2021)	dub=2:1063264	leg=2:1036377
+Mamonas Assassinas: O Filme	dub=0:247277
+Mamonas Assassinas: O Filme - (2023)	dub=2:1072157
+Mamonas Pra Sempre	dub=0:336846
+Mamonas Pra Sempre - (2009)	dub=2:1071895
+Mamonas: Eu Te Ai Lóve Iú (2026)	dub=2:1257829
+Mamãe	dub=0:159287	leg=0:159288
+Mamãe - (2022)	dub=2:1070388	leg=2:1025167
+Mamãe Foi Viajar	dub=0:329617	leg=0:329616
+Mamãe Foi Viajar - (2017)	dub=2:1067619	leg=2:1026220
+Mamãe Golpista	dub=0:316760	leg=0:316761
+Mamãe Golpista - (2025)	dub=2:1037954	leg=2:1038440
+Mamãe Morta e Querida	dub=0:139254
+Mamãe Morta e Querida - (2017)	dub=2:1048842
+Mamãe É Uma Espiã	dub=0:31906
+Mamãe É Uma Espiã - (2019)	dub=2:1054620
+Mamãe, Virei Um Peixe!	dub=0:366099
+Mamãe, Virei Um Peixe! (2000)	dub=2:1266799
+Mamãe: Operação Balada	dub=0:336845,0:20662	leg=0:336844
+Man Down - A Guerra	dub=0:20092
+Man Down - A Guerra - (2015)	dub=2:1066079
+Man Underground (2017)	dub=2:1273293
+Man vs. Bigfoot (2021)	dub=2:1269990
+ManSuang	leg=0:267701
+ManSuang (2023)	dub=2:1268639	leg=2:1026750
+Manas	dub=0:341033
+Manas - (2025)	dub=2:1249892
+Manaus Hot City	dub=0:367043
+Manaus Hot City (2020)	dub=2:1267721
+Manchester A Beira Mar	dub=0:24936
+Manchester A Beira Mar - (2016)	dub=2:1042084
+Manco Capac (2020)	dub=2:1271717	leg=2:1273051
+Manda Chuva O Filme	dub=0:28606
+Manda Chuva O Filme - (2011)	dub=2:1063137
 Mandado	dub=0:247944
-Mandando Bala	dub=0:134102,2:1047562
-Mandela: O Caminho para a Liberdade	dub=0:350925,2:1264744	leg=0:350924,2:1264720
-Mandibulas Sangrentas	dub=2:1268745
-Mandioca Frita	dub=0:366180,2:1256825
-Mandy Sede de Vingança	dub=0:89014,2:1040083
-Mandíbulas à Espreita	dub=0:365647,2:1265025	leg=0:365646,2:1265028
-Maneater	dub=2:1269407
-Manequim	dub=0:208855,2:1040073
-Manga	dub=0:352261,2:1253358	leg=0:352260,2:1264927
-Mangue Negro	dub=0:320900,2:1058933
-Manhattan	dub=0:95913,2:1065841
-Maniaco do Controle	dub=2:1271078
-Manifest West	dub=0:246549,2:1043559	leg=0:246550,2:1031101
-Manjummel Boys	leg=0:373344,2:1272130
-Mank	dub=0:100019,2:1045888
-Manobra Arriscada	dub=0:279207,0:279206,2:1046786,2:1022004	leg=0:279208,2:1029460
-Manobra Radical	dub=0:291882,2:1248888	leg=0:291883,2:1033414
-Manobras Radicais	dub=2:1269615
-Manobras do Destino	dub=0:192512,2:1041558	leg=0:192511,2:1030146
-Manodrome	dub=0:249902,2:1070166	leg=0:249903,2:1035668
-Mansão Mal-Assombrada	dub=0:380566,0:218892,0:218267,0:99898,2:1249612,2:1039201,2:1038966	leg=0:380565,0:218266,2:1024938
-Mantis	dub=0:345449,2:1038650	leg=0:345448,2:1038658
-Mantra	dub=2:1269987
-Manual Prático da Vingança Lucrativa 4K	dub=0:374629,0:374492,2:1272243,2:1259650	leg=0:374491,2:1272230
-Manual de Caça a Monstros	dub=0:76693,2:1068684
-Manufacturing Death: Birth of the Atom Bomb	dub=2:1267184	leg=0:288574,2:1033755
-Manutenção Necessária	dub=0:347340,2:1249949	leg=0:347339,2:1249946
-Maníaco do Parque	dub=0:291162,0:291161,2:1050951,2:1023055	leg=0:291163,2:1032414
-Maomé, o Mensageiro de Deus	dub=2:1273232
-Maos Talentosas A Historia de Ben Carson	dub=0:21027,2:1040662
-Maos de Pedra A Historia Verdadeira de Roberto Duran	dub=2:1269773
-Maquina Mortifera	dub=0:20096,2:1265641,2:1052286
-Maquina Mortifera 2	dub=0:20093,2:1056000
-Maquina Mortifera 3	dub=0:20094,2:1047668
-Maquina Mortifera 4	dub=0:20095,2:1057146
+Mandando Bala	dub=0:134102
+Mandando Bala - (2007)	dub=2:1047562
+Mandela: O Caminho para a Liberdade	dub=0:350925	leg=0:350924
+Mandela: O Caminho para a Liberdade (2013)	dub=2:1264744	leg=2:1264720
+Mandibulas Sangrentas (2021)	dub=2:1268745
+Mandioca Frita	dub=0:366180
+Mandioca Frita (2026)	dub=2:1256825
+Mandy Sede de Vingança	dub=0:89014
+Mandy Sede de Vingança - (2018)	dub=2:1040083
+Mandíbulas à Espreita	dub=0:365647	leg=0:365646
+Mandíbulas à Espreita (2022)	dub=2:1265025	leg=2:1265028
+Maneater (2022)	dub=2:1269407
+Manequim	dub=0:208855
+Manequim - (1987)	dub=2:1040073
+Manga	dub=0:352261	leg=0:352260
+Manga (2025)	dub=2:1253358	leg=2:1264927
+Mangue Negro	dub=0:320900
+Mangue Negro - (2008)	dub=2:1058933
+Manhattan	dub=0:95913
+Manhattan - (1979)	dub=2:1065841
+Maniaco do Controle (2025)	dub=2:1271078
+Manifest West	dub=0:246549	leg=0:246550
+Manifest West - (2022)	dub=2:1043559	leg=2:1031101
+Manjummel Boys	leg=0:373344
+Manjummel Boys (2024)	leg=2:1272130
+Mank	dub=0:100019
+Mank - (2020)	dub=2:1045888
+Manobra Arriscada	dub=0:279207,0:279206	leg=0:279208
+Manobra Arriscada - (2024)	dub=2:1046786,2:1022004	leg=2:1029460
+Manobra Radical	dub=0:291882	leg=0:291883
+Manobra Radical - (2021)	dub=2:1248888	leg=2:1033414
+Manobras Radicais (2003)	dub=2:1269615
+Manobras do Destino	dub=0:192512	leg=0:192511
+Manobras do Destino - (2018)	dub=2:1041558	leg=2:1030146
+Manodrome	dub=0:249902	leg=0:249903
+Manodrome - (2023)	dub=2:1070166	leg=2:1035668
+Mansao Mal Assombrada - (2003)	dub=2:1038966
+Mansão Mal-Assombrada	dub=0:380566,0:218892,0:218267,0:99898	leg=0:380565,0:218266
+Mansão Mal-Assombrada 4K - (2023)	dub=2:1249612,2:1039201	leg=2:1024938
+Mantis	dub=0:345449	leg=0:345448
+Mantis - (2025)	dub=2:1038650	leg=2:1038658
+Mantra (2022)	dub=2:1269987
+Manual Prático da Vingança Lucrativa 4K	dub=0:374629,0:374492	leg=0:374491
+Manual Prático da Vingança Lucrativa 4K (2026)	dub=2:1272243,2:1259650	leg=2:1272230
+Manual de Caça a Monstros	dub=0:76693
+Manual de Caça a Monstros - (2020)	dub=2:1068684
+Manufacturing Death Birth of the Atom Bomb (2023)	dub=2:1267184	leg=2:1033755
+Manufacturing Death: Birth of the Atom Bomb	leg=0:288574
+Manutenção Necessária	dub=0:347340	leg=0:347339
+Manutenção Necessária - (2025)	dub=2:1249949	leg=2:1249946
+Maníaco do Parque	dub=0:291162,0:291161	leg=0:291163
+Maníaco do Parque - (2024)	dub=2:1050951,2:1023055	leg=2:1032414
+Maomé, o Mensageiro de Deus (2015)	dub=2:1273232
+Maos Talentosas A Historia de Ben Carson	dub=0:21027
+Maos Talentosas A Historia de Ben Carson - (2009)	dub=2:1040662
+Maos de Pedra A Historia Verdadeira de Roberto Duran (2016)	dub=2:1269773
+Maquina De Guerra (2017)	dub=2:1270702	leg=2:1268081
+Maquina Mortifera	dub=0:20096
+Maquina Mortifera (1987)	dub=2:1265641
+Maquina Mortifera - (1993)	dub=2:1052286
+Maquina Mortifera 2	dub=0:20093
+Maquina Mortifera 2 - (1989)	dub=2:1056000
+Maquina Mortifera 3	dub=0:20094
+Maquina Mortifera 3 - (1992)	dub=2:1047668
+Maquina Mortifera 4	dub=0:20095
+Maquina Mortifera 4 - (1998)	dub=2:1057146
 Maquinas Assassinas	leg=0:216025
-Maquinas Mortais 4K	dub=0:21491,0:21442,2:1060733,2:1021924
-Mar Aberto	dub=2:1269549
-Mar Branco A Surreal Historia de Rabo de Peixe	dub=2:1270321
-Mar Brasileiro	dub=0:292268,2:1049192
-Mar Infinito	dub=0:225676,2:1060539
-Mar Negro	dub=0:257478,2:1056660
-Mar Profundo	dub=0:341035,2:1250037	leg=0:341034,2:1031980
-Mar de Dentro	dub=0:178858,2:1042149
-Mar de Fogo	dub=0:366100,0:98385,2:1266796,2:1069290
-Mar de Plástico	dub=0:352917,2:1265111	leg=0:352916,2:1265085
-Mar em Chamas	dub=0:171921,2:1043928	leg=0:171933,2:1035351
-Mar em Furia	dub=0:21028,2:1268884
-Mar.IA	dub=0:370298,2:1266491	leg=0:370297,2:1266478
-Mara O Demonio Do Sono	dub=2:1270110
-Maratona da Morte	dub=0:350992,2:1264749	leg=0:350991,2:1264818
-Maratona do Amor	dub=0:311854,2:1063589
-Maravilhoso Mundo Novo	dub=2:1261585
-Marc Maron: Panicked	dub=2:1265951	leg=0:339402,2:1038462
-Marcado Para a Morte	dub=2:1268513
-Marcado pela Promessa	dub=0:140797,2:1040790
-Marcados Para Morrer	dub=0:360853,2:1043317	leg=0:360852,2:1033917
-Marcados Pela Guerra	dub=2:1266918
-Marcados Pelo Sangue	dub=0:376923,2:1268371	leg=0:376922,2:1268363
-Marcados: A História do Racismo nos EUA	dub=0:229481,2:1048441	leg=0:229470,2:1034068
-Marcados: Tradicoes da Nigeria	dub=2:1270578	leg=2:1273100
-Marcando Território	dub=0:203153,2:1043551
-Marcas Da Prisão	dub=0:26677,2:1042243
-Marcas da Guerra	dub=2:1270032
-Marcas da Maldição	dub=0:169650,2:1058394	leg=0:169687,2:1033086
-Marcas da Vida	dub=0:251778,2:1040761	leg=0:251779,2:1249286
-Marcas da Violência	dub=0:119713,2:1044498
-Marcas do Destino	dub=0:310754,2:1042136
-Marcas do Passado	dub=0:343970,0:319851,2:1063390,2:1044148,2:1042228	leg=0:343969,0:319850,2:1034896,2:1023581
-Marcas do Silencio	dub=2:1266465
-Marcel	dub=2:1270330
-Marcel, a Concha de Sapatos 4K	dub=0:192521,0:192508,2:1063226,2:1022211	leg=0:192507,2:1249095
-Marcelino Pão e Vinho	dub=0:379467,2:1272645
-Marcello Mio	dub=2:1266881	leg=0:341767,2:1030840
-Marco Luque - Tamo Junto	dub=2:1269839
-Marco: Justiça Implacável	dub=0:378013,2:1268429	leg=0:378012,2:1268430
-Marcos E Belutti Acustico Tao Feliz- Acustico ao Vivo	dub=2:1269039
+Maquinas Mortais - (2018)	dub=2:1060733,2:1021924
+Maquinas Mortais 4K	dub=0:21491,0:21442
+Mar Aberto (2004)	dub=2:1269549
+Mar Branco A Surreal Historia de Rabo de Peixe (2025)	dub=2:1270321
+Mar Brasileiro	dub=0:292268
+Mar Brasileiro - (2024)	dub=2:1049192
+Mar Infinito	dub=0:225676
+Mar Infinito - (2021)	dub=2:1060539
+Mar Negro	dub=0:257478
+Mar Negro - (2014)	dub=2:1056660
+Mar Profundo	dub=0:341035	leg=0:341034
+Mar Profundo - (2023)	dub=2:1250037	leg=2:1031980
+Mar de Dentro	dub=0:178858
+Mar de Dentro - (2020)	dub=2:1042149
+Mar de Fogo	dub=0:366100,0:98385
+Mar de Fogo (2014)	dub=2:1266796
+Mar de Fogo - (2004)	dub=2:1069290
+Mar de Plástico	dub=0:352917	leg=0:352916
+Mar de Plástico (2020)	dub=2:1265111	leg=2:1265085
+Mar em Chamas	dub=0:171921	leg=0:171933
+Mar em Chamas - (2021)	dub=2:1043928	leg=2:1035351
+Mar em Furia	dub=0:21028
+Mar em Furia (2000)	dub=2:1268884
+Mar.IA	dub=0:370298	leg=0:370297
+Mar.IA (2023)	dub=2:1266491	leg=2:1266478
+Mara O Demonio Do Sono (2018)	dub=2:1270110
+Maratona da Morte	dub=0:350992	leg=0:350991
+Maratona da Morte (1976)	dub=2:1264749	leg=2:1264818
+Maratona do Amor	dub=0:311854
+Maratona do Amor - (2007)	dub=2:1063589
+Maravilhoso Mundo Novo (2025)	dub=2:1261585
+Marc Maron Panicked (2025)	dub=2:1265951	leg=2:1038462
+Marc Maron: Panicked	leg=0:339402
+Marcado Para a Morte (1990)	dub=2:1268513
+Marcado pela Promessa	dub=0:140797
+Marcado pela Promessa - (2013)	dub=2:1040790
+Marcados Para Morrer	dub=0:360853	leg=0:360852
+Marcados Pela Guerra (2014)	dub=2:1266918
+Marcados Pelo Sangue	dub=0:376923	leg=0:376922
+Marcados Pelo Sangue (1993)	dub=2:1268371	leg=2:1268363
+Marcados para Morrer - (2012)	dub=2:1043317	leg=2:1033917
+Marcados: A História do Racismo nos EUA	dub=0:229481	leg=0:229470
+Marcados: A História do Racismo nos EUA - (2023)	dub=2:1048441	leg=2:1034068
+Marcados: Tradicoes da Nigeria (2019)	dub=2:1270578	leg=2:1273100
+Marcando Território	dub=0:203153
+Marcando Território - (2016)	dub=2:1043551
+Marcas Da Prisão	dub=0:26677
+Marcas Da Prisão - (2017)	dub=2:1042243
+Marcas da Guerra (2015)	dub=2:1270032
+Marcas da Maldição	dub=0:169650	leg=0:169687
+Marcas da Maldição - (2022)	dub=2:1058394	leg=2:1033086
+Marcas da Vida	dub=0:251778	leg=0:251779
+Marcas da Vida - (2022)	dub=2:1040761	leg=2:1249286
+Marcas da Violência	dub=0:119713
+Marcas da Violência - (2005)	dub=2:1044498
+Marcas do Destino	dub=0:310754
+Marcas do Destino - (1985)	dub=2:1042136
+Marcas do Passado	dub=0:343970,0:319851	leg=0:343969,0:319850
+Marcas do Passado - (2006)	dub=2:1044148	leg=2:1034896
+Marcas do Passado - (2014)	dub=2:1042228
+Marcas do Passado - (2022)	dub=2:1063390	leg=2:1023581
+Marcas do Silencio (1996)	dub=2:1266465
+Marcel (2022)	dub=2:1270330
+Marcel, a Concha de Sapatos - (2022)	dub=2:1063226,2:1022211	leg=2:1249095
+Marcel, a Concha de Sapatos 4K	dub=0:192521,0:192508	leg=0:192507
+Marcelino Pão e Vinho	dub=0:379467
+Marcelino Pão e Vinho (1955)	dub=2:1272645
+Marcello Mio	leg=0:341767
+Marcello Mio (2024)	dub=2:1266881	leg=2:1030840
+Marco Luque - Tamo Junto (2017)	dub=2:1269839
+Marco: Justiça Implacável	dub=0:378013	leg=0:378012
+Marco: Justiça Implacável (2024)	dub=2:1268429	leg=2:1268430
+Marcos E Belutti Acustico Tao Feliz- Acustico ao Vivo (2015)	dub=2:1269039
 Marcus Cirillo - A Verdadeira Virada de Ano	dub=0:33574
-Mardaani 2 Legendado	dub=2:1258735
-Mardaani Legendado	dub=2:1258734
-Mare Negra	dub=2:1265888
-Mare Nostrum	dub=2:1269240
-Mare Vermelha	dub=2:1265835
-Margaux	dub=0:200741,2:1060026	leg=0:200740,2:1024700
-Margaux: A Inteligência Mortal 4K	dub=0:208209,2:1022008
-Margin Call - O Dia Antes do Fim	dub=2:1271689
-Margrete Queen of the North	dub=2:1270300
-Maria	dub=0:195264,2:1050810
-Maria Antonieta	dub=0:127458,2:1045126
-Maria Callas	dub=0:313829,2:1071781	leg=0:313830,2:1028446
-Maria Legendado	dub=0:22865,2:1249787
-Maria Madalena	dub=0:21529,2:1040665
-Maria Montessori - Ensinando com Amor	dub=0:361359,2:1266821	leg=0:361358,2:1266778
-Maria Montessori una vita per i bambini	dub=2:1271052
-Maria do Caritó	dub=0:173301,0:34234,2:1055061
-Maria e José - Uma Adaptação da Novela Jesus	dub=0:300663,2:1270136
-Maria e João: O Conto das Bruxas	dub=0:44586,2:1039589
-Maria, Mãe do Filho de Deus	dub=0:110741,2:1042264
-Maria: Ninguém Sabe Quem Sou Eu	dub=0:285814,2:1071633
-Marianne e Leonard: Palavras de Amor	dub=2:1266754
-Marido e Mulher	dub=0:20665,2:1054377
-Marido por Acaso	dub=0:20666,2:1248844
-Maridos	dub=0:348994,2:1250965	leg=0:348993,2:1251031
-Maridos em Ação	dub=2:1262215
-Marighella	dub=0:144089,0:105248,0:92599,2:1049005,2:1045776
-Marigold Burning Desire 2026 ~ Day 7	dub=2:1273294
-Marilia Mendonca - Ao Vivo	dub=2:1269467
+Mardaani 2 Legendado (2019)	dub=2:1258735
+Mardaani Legendado (2014)	dub=2:1258734
+Mare Negra (2018)	dub=2:1265888
+Mare Nostrum (2018)	dub=2:1269240
+Mare Vermelha (1995)	dub=2:1265835
+Margaux	dub=0:200741	leg=0:200740
+Margaux - (2022)	dub=2:1060026	leg=2:1024700
+Margaux: A Inteligência Mortal 4K	dub=0:208209
+Margaux: A Inteligência Mortal 4K - (2022)	dub=2:1022008
+Margin Call - O Dia Antes do Fim (2011)	dub=2:1271689
+Margrete Queen of the North (2021)	dub=2:1270300
+Maria	dub=0:195264
+Maria - (2023)	dub=2:1050810
+Maria Antonieta	dub=0:127458
+Maria Antonieta - (2006)	dub=2:1045126
+Maria Callas	dub=0:313829	leg=0:313830
+Maria Callas - (2024)	dub=2:1071781	leg=2:1028446
+Maria Legendado	dub=0:22865
+Maria Legendado - (2019)	dub=2:1249787
+Maria Madalena	dub=0:21529
+Maria Madalena - (2018)	dub=2:1040665
+Maria Montessori - Ensinando com Amor	dub=0:361359	leg=0:361358
+Maria Montessori - Ensinando com Amor (2023)	dub=2:1266821	leg=2:1266778
+Maria Montessori una vita per i bambini (2007)	dub=2:1271052
+Maria do Caritó	dub=0:173301,0:34234
+Maria do Caritó - (2019)	dub=2:1055061
+Maria e Jose Uma Adaptacao da Novela Jesus (2024)	dub=2:1270136
+Maria e José - Uma Adaptação da Novela Jesus	dub=0:300663
+Maria e João: O Conto das Bruxas	dub=0:44586
+Maria e João: O Conto das Bruxas - (2020)	dub=2:1039589
+Maria, Mãe do Filho de Deus	dub=0:110741
+Maria, Mãe do Filho de Deus - (2003)	dub=2:1042264
+Maria: Ninguém Sabe Quem Sou Eu	dub=0:285814
+Maria: Ninguém Sabe Quem Sou Eu - (2022)	dub=2:1071633
+Marianne e Leonard: Palavras de Amor (2019)	dub=2:1266754
+Marido e Mulher	dub=0:20665
+Marido e Mulher - (2017)	dub=2:1054377
+Marido por Acaso	dub=0:20666
+Marido por Acaso - (2008)	dub=2:1248844
+Maridos	dub=0:348994	leg=0:348993
+Maridos - (2023)	dub=2:1250965	leg=2:1251031
+Maridos em Ação (2026)	dub=2:1262215
+Marighella	dub=0:144089,0:92599
+Marighella (2019)	dub=0:105248
+Marighella - (2012)	dub=2:1049005
+Marighella - (2021)	dub=2:1045776
+Marigold Burning Desire 2026 ~ Day 7 (2026)	dub=2:1273294
+Marilia Mendonca - Ao Vivo (2016)	dub=2:1269467
 Marilia Mendonca Caldas Country	dub=0:137608
-Marinette	dub=0:316307,2:1045502	leg=0:316308,2:1034621
-Mario Batali: A Queda do Superchef	dub=0:226070,2:1048612	leg=0:226077,2:1031040
-Mariya - O Simbolo de Uma Guerra	dub=0:162333,0:162328,2:1066491
-Marjorie Prime	dub=0:22043,2:1061254
-Mark Cavendish, Pedalando Até O Fim	dub=0:205544,2:1049440	leg=0:205543,2:1026862
-Mark Felt: O Homem que Derrubou a Casa Branca	dub=0:45123,2:1046059
-Mark, Mary + Some Other People	dub=0:166203,2:1063447	leg=0:166215,2:1025784
-Marley & Eu	dub=0:106851,2:1068067
-Marley & Eu 2 Filhote Encrenqueiro	dub=0:106830,2:1067238
-Marlon Wayans God Loves Me	dub=2:1271558
-Marmaduke	dub=0:322011,0:159823,2:1067630,2:1062205	leg=0:322012,0:159829,2:1026470,2:1025747
-Marnie Confissoes de uma Ladra	dub=2:1269184
-Marnie E Os Amigos	dub=0:48193,2:1063112
-Mars Express 4K	dub=0:281318,0:280613,2:1061421,2:1022247	leg=0:280614,2:1031825
-Marshall - Igualdade e Justica	dub=0:21030,2:1040973
-Marshmallow	dub=2:1269060	leg=0:329641,2:1037435
-Marte Ataca!	dub=0:192672,2:1039794
-Marte Precisa de Mães	dub=0:347149,0:129546,2:1062351	leg=0:347148,2:1036563
-Marte Um	dub=0:185851,2:1042574
-Martha 4K	dub=0:297445,0:292302,2:1048436,2:1023398	leg=0:292303,2:1032546
-Martin Eden	dub=2:1269524	leg=0:34748,2:1025475
-Martin Short: Uma Vida de Comédia	dub=0:377997,2:1268270	leg=0:377996,2:1268374
-Marty	dub=0:371903,2:1268066	leg=0:373825,2:1272174
-Marty Supreme	dub=0:368942,2:1257843	leg=0:368941,2:1268131
-Marui Video	dub=2:1269784
-Marvel One Shot Agente Carter	dub=2:1265212
-Marvel One-Shot: Artigo 47	dub=2:1292812
-Marvel One-Shot: Todos Saúdem o Rei	dub=2:1291036
-Marvel Por Tras da Mascara	dub=2:1268876
-Marvel Rising - Guerreiros Secretos	dub=0:30414,0:28759,2:1248858
-Marvel Rising: Brincando com Fogo	dub=2:1291000
-Marvel Rising: Coracao de Ferro	dub=0:30413,2:1061058
-Marvel Studios Assembled The Making of X-Men 97	dub=2:1271348
-Marvel Studios' The Fantastic Four: First Steps - World Premiere	dub=2:1264828	leg=2:1264833
-Marvel Superheroes: Vingadores Reunidos!	dub=2:1271086
-Marvelous and the Black Hole	dub=2:1270239
-Mary J. Blige: Minha Vida	dub=0:263155,2:1071691	leg=0:263156,2:1034886
-Mary Kay Letourneau: Faces de Um Escândalo	dub=0:178296,2:1049414
-Mary Poppins	dub=0:365260,0:359747,2:1266670	leg=0:365259,0:359746,2:1266668
-Mary Shelley	dub=0:21031,2:1065633
-Mary e Max Uma Amizade Diferente	dub=2:1270381
-Mary e a Flor da Feiticeira	dub=2:1270090
-Mary para Prefeita	dub=0:187845,2:1067054	leg=0:187844,2:1249281
-Março de 1968	dub=0:366909,2:1267620	leg=0:366908,2:1267621
-Maré Alta	dub=0:329433,2:1064762	leg=0:329432,0:320563,2:1024724
-Maré Baixa	dub=0:196765,2:1044095	leg=0:196764
-Maré de Azar	dub=0:108689,2:1055124
-Maré: Nossa História de Amor	dub=0:138928,2:1042856
-María Soledad: O Fim do Silêncio	dub=0:289644,2:1048540	leg=0:289645,2:1031734
-Masameer Junior	dub=0:328299,2:1037497	leg=0:328298,2:1038467
-Masha e o Urso O Filme	dub=0:21406,2:1061837
-Masha e o Urso Vol 1	dub=2:1266230
-Masha e o Urso Vol 3	dub=2:1265220
-Mass	dub=2:1269015	leg=0:145372,2:1027534
-Mass Jathara	dub=2:1269994	leg=0:356896
-Massa Cinzenta	dub=0:221648,2:1060121	leg=0:221647,2:1036084
-Massacre 1976	dub=0:348996,2:1251139	leg=0:348995,2:1251042
-Massacre de Tulsa	dub=0:288874,2:1048885
-Massacre na Ucrania	dub=0:23217,2:1045800
-Massacre no Bairro Chines	dub=0:97188,2:1047257
-Massacre no Bairro Japones	dub=0:20097,2:1046459
-Massacre no Texas	dub=0:45098,2:1057739
-Master Kid - O Despertar de um Herói	dub=0:301970,2:1062045	leg=0:301971,2:1033419
-Master Moley em O Convite Real	dub=0:142967,2:1061820
-Mata	dub=0:369422,2:1270209
-Mata Batin	leg=0:101177,2:1029492
-Mata Batin 2	leg=0:101189,2:1032997
-Mata-me de Prazer	dub=0:114399,2:1043364
-Matador de Aluguel	dub=0:254638,0:254637,2:1269931,2:1046124,2:1023012	leg=0:254639,2:1032385
-Matador em Perigo	dub=0:109037,2:1046330
-Matadores De Aliens Do Espaço Sideral	dub=0:332846,2:1037712
-Matadores de Canibais	dub=0:196786,2:1069081	leg=0:196782,2:1029709
-Matadores de Vampiras Lésbicas	dub=0:130254,2:1057907
-Matadores de Velhinha	dub=0:103973,2:1044436
-Matadouro 2: Death Metal	dub=2:1254733
-Matando Deus	dub=0:363885,2:1267169	leg=0:363884,2:1267166
-Matando Gunther	dub=0:64459,2:1047790
-Matança	dub=0:223409,2:1051569	leg=0:223406,2:1025992
-Matar Jesus	dub=0:24313,2:1051370
-Matar ou Morrer	dub=0:330024,2:1069011	leg=0:330023,2:1024132
-Matar um Tigre	dub=0:254640,2:1048754
-Matar. Vingar. Repetir	dub=0:369168,2:1272301	leg=0:369167,2:1272304
-Match Divino	dub=0:335761,2:1064187	leg=0:335760,2:1024007
-Match Point	dub=0:379469	leg=0:379468,2:1272595
-Match de Natal	dub=0:227007,2:1048759
-Match do Amor	dub=0:363613,2:1267104
-Mate ou Morra	dub=0:137605,2:1060312	leg=0:137588
-Mate-a, se Conseguir	dub=0:354020,2:1265405	leg=0:354019,2:1265432
-Mate-me Por Favor	dub=2:1270637
-Mate-me se Puder 4K	dub=0:219167,0:218862,2:1069416,2:1022469	leg=0:218863,2:1032363
-Matei Minha Amiga	dub=2:1270333
-Mateina A Erva Perdida	dub=2:1265936
-Matheus e Kauan - na Praia 2	dub=2:1269776
-Matilda	dub=0:20669,2:1039627
-Matilda: O Musical 4K	dub=0:184019,0:182913,2:1066973,2:1023097	leg=0:182910,2:1031895
-Matilha Voraz	dub=0:350389,2:1252822	leg=0:350388,2:1268812
-Matinee: Uma Sessão Muito Louca	dub=0:361821,2:1266834	leg=0:361820,2:1266830
-Mato Seco em Chamas	dub=0:200805,2:1049267
-Mato Sem Cachorro	dub=0:26447,2:1054893
-Matrimilhas	dub=0:181452,2:1064099,2:1023368	leg=0:181449,2:1029920
-Matrix	dub=0:88686,2:1060437
-Matrix Resurrections 4K	dub=0:146809,0:146808,2:1249744,2:1055684	leg=0:144035,2:1032209
-Matrix Revolutions	dub=0:88681,2:1059630
-Matt Rife Lucid A Crowd Work Special	dub=2:1270624	leg=2:1273083
-Matt Rife Natural Selection	dub=2:1269763
-Matt and Mara	dub=2:1271019	leg=0:339407,2:1034499
-Matteo Lane com Amigos	dub=2:1269671
-Matter of Time	leg=0:365863,2:1266794
-Matthew Perry: Uma Tragédia de Hollywood	dub=0:350377,2:1268869	leg=0:350376,2:1268866
-Mau Por Um Momento	dub=2:1270835	leg=0:329434,2:1027396
-Mau-olhado	dub=0:76695,2:1070833
-Maudie: Sua Vida e Sua Arte	dub=0:339291,2:1064105	leg=0:339290,2:1032651
-Mauricio Meirelles Levando o Caos	dub=2:1271423
-Mauricio de Sousa: O Filme 4K	dub=0:357798,0:357797,0:357120,2:1265029,2:1254726
-Maus Momentos no Hotel Royale	dub=0:22044,2:1071306
-Maverick	dub=0:341061,0:105249,2:1069027	leg=0:341060,2:1034143
-Mavka: Aventura na Floresta	dub=0:230899,2:1062315	leg=0:230898,2:1033658
-Max 2 - Um Agente Animal	dub=2:1266226
-Max Ernst - Der Surrealist und das faschistische Trampeltier	leg=0:376052,2:1272394
-Max Payne	dub=0:281752,2:1071157
-Max Payne Retribuicao	dub=2:1269868
-Max Reload And The Nether Blasters	leg=0:67492,2:1030081
-Max Reload: O Jogo Começou	dub=0:322013,2:1268261	leg=0:322014
-Max Steel	dub=0:355734,2:1265768	leg=0:355733,2:1265758
-Max: O Cão Herói	dub=0:319158,2:1056117	leg=0:319159,2:1026093
-Maximiliano Kolbe e Eu	dub=0:311809,2:1045500	leg=0:311810,2:1033806
-Maximum Ride: Projeto Angel	dub=0:377238,2:1268388	leg=0:377237,2:1268262
-Maxine	dub=2:1269678
-Maya	dub=0:42507,2:1039720
-Mayday	dub=2:1270488,2:1264798	leg=0:131094,2:1025850
-Mayhem - Senhores Do Caos	dub=0:35264,2:1071447
-Maze Runner 1	dub=0:21324,2:1060566
-Maze Runner 2	dub=0:21325,2:1060780
-Maze Runner 3	dub=0:20101,2:1059917
-Mazinger Z – Infinito	dub=0:94757,2:1059650
-Mazzaropi - A Banda Das Velhas Virgens	dub=0:20670,2:1054645
+Marinette	dub=0:316307	leg=0:316308
+Marinette - (2023)	dub=2:1045502	leg=2:1034621
+Mario Batali: A Queda do Superchef	dub=0:226070	leg=0:226077
+Mario Batali: A Queda do Superchef - (2022)	dub=2:1048612	leg=2:1031040
+Mariya - O Simbolo de Uma Guerra	dub=0:162333,0:162328
+Mariya - O Simbolo de Uma Guerra - (2022)	dub=2:1066491
+Marjorie Prime	dub=0:22043
+Marjorie Prime - (2017)	dub=2:1061254
+Mark Cavendish, Pedalando Até O Fim	dub=0:205544	leg=0:205543
+Mark Cavendish, Pedalando Até O Fim - (2023)	dub=2:1049440	leg=2:1026862
+Mark Felt: O Homem que Derrubou a Casa Branca	dub=0:45123
+Mark Felt: O Homem que Derrubou a Casa Branca - (2017)	dub=2:1046059
+Mark, Mary + Some Other People	dub=0:166203	leg=0:166215
+Mark, Mary + Some Other People - (2021)	dub=2:1063447	leg=2:1025784
+Marley & Eu	dub=0:106851
+Marley & Eu - (2008)	dub=2:1068067
+Marley & Eu 2 Filhote Encrenqueiro	dub=0:106830
+Marley & Eu 2 Filhote Encrenqueiro - (2011)	dub=2:1067238
+Marlon Wayans God Loves Me (2023)	dub=2:1271558
+Marmaduke	dub=0:322011,0:159823	leg=0:322012,0:159829
+Marmaduke - (2010)	dub=2:1067630	leg=2:1025747
+Marmaduke - (2022)	dub=2:1062205	leg=2:1026470
+Marnie Confissoes de uma Ladra (1964)	dub=2:1269184
+Marnie E Os Amigos	dub=0:48193
+Marnie E Os Amigos - (2019)	dub=2:1063112
+Mars Express - (2023)	dub=2:1061421,2:1022247	leg=2:1031825
+Mars Express 4K	dub=0:281318,0:280613	leg=0:280614
+Marshall - Igualdade e Justica	dub=0:21030
+Marshall - Igualdade e Justica - (2017)	dub=2:1040973
+Marshmallow	leg=0:329641
+Marshmallow (2025)	dub=2:1269060	leg=2:1037435
+Marte Ataca!	dub=0:192672
+Marte Ataca! - (1996)	dub=2:1039794
+Marte Precisa de Mães	dub=0:347149,0:129546	leg=0:347148
+Marte Precisa de Mães - (2011)	dub=2:1062351	leg=2:1036563
+Marte Um	dub=0:185851
+Marte Um - (2022)	dub=2:1042574
+Martha - (2024)	dub=2:1048436,2:1023398	leg=2:1032546
+Martha 4K	dub=0:297445,0:292302	leg=0:292303
+Martin Eden	leg=0:34748
+Martin Eden (2019)	dub=2:1269524	leg=2:1025475
+Martin Short: Uma Vida de Comédia	dub=0:377997	leg=0:377996
+Martin Short: Uma Vida de Comédia (2026)	dub=2:1268270	leg=2:1268374
+Marty	dub=0:371903	leg=0:373825
+Marty (1955)	dub=2:1268066	leg=2:1272174
+Marty Supreme	dub=0:368942	leg=0:368941
+Marty Supreme (2025)	dub=2:1257843	leg=2:1268131
+Marui Video (2023)	dub=2:1269784
+Marvel One Shot Agente Carter (2013)	dub=2:1265212
+Marvel One-Shot: Artigo 47 (2012)	dub=2:1292812
+Marvel One-Shot: Todos Saúdem o Rei (2014)	dub=2:1291036
+Marvel Por Tras da Mascara (2021)	dub=2:1268876
+Marvel Rising - Guerreiros Secretos	dub=0:30414,0:28759
+Marvel Rising - Guerreiros Secretos - (2018)	dub=2:1248858
+Marvel Rising: Brincando com Fogo (2019)	dub=2:1291000
+Marvel Rising: Coracao de Ferro	dub=0:30413
+Marvel Rising: Coracao de Ferro - (2019)	dub=2:1061058
+Marvel Studios Assembled The Making of X-Men 97 (2024)	dub=2:1271348
+Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)	dub=2:1264828	leg=2:1264833
+Marvel Superheroes: Vingadores Reunidos! (2015)	dub=2:1271086
+Marvelous and the Black Hole (2022)	dub=2:1270239
+Mary J. Blige: Minha Vida	dub=0:263155	leg=0:263156
+Mary J. Blige: Minha Vida - (2021)	dub=2:1071691	leg=2:1034886
+Mary Kay Letourneau: Faces de Um Escândalo	dub=0:178296
+Mary Kay Letourneau: Faces de Um Escândalo - (2022)	dub=2:1049414
+Mary Poppins	dub=0:365260,0:359747	leg=0:365259,0:359746
+Mary Poppins (1964)	dub=2:1266670	leg=2:1266668
+Mary Shelley	dub=0:21031
+Mary Shelley - (2017)	dub=2:1065633
+Mary e Max Uma Amizade Diferente (2009)	dub=2:1270381
+Mary e a Flor da Feiticeira (2017)	dub=2:1270090
+Mary para Prefeita	dub=0:187845	leg=0:187844
+Mary para Prefeita - (2020)	dub=2:1067054	leg=2:1249281
+Março de (1968)	dub=0:366909,2:1267620	leg=0:366908,2:1267621
+Maré Alta	dub=0:329433	leg=0:329432,0:320563
+Maré Alta - (2024)	dub=2:1064762	leg=2:1024724
+Maré Baixa	dub=0:196765	leg=0:196764
+Maré Baixa - (2019)	dub=2:1044095
+Maré de Azar	dub=0:108689
+Maré de Azar - (2009)	dub=2:1055124
+Maré: Nossa História de Amor	dub=0:138928
+Maré: Nossa História de Amor - (2008)	dub=2:1042856
+María Soledad: O Fim do Silêncio	dub=0:289644	leg=0:289645
+María Soledad: O Fim do Silêncio - (2024)	dub=2:1048540	leg=2:1031734
+Masameer Junior	dub=0:328299	leg=0:328298
+Masameer Junior - (2025)	dub=2:1037497	leg=2:1038467
+Masha e o Urso O Filme	dub=0:21406
+Masha e o Urso O Filme - (2016)	dub=2:1061837
+Masha e o Urso Vol 1 (2009)	dub=2:1266230
+Masha e o Urso Vol 3 (2008)	dub=2:1265220
+Mass	leg=0:145372
+Mass (2021)	dub=2:1269015	leg=2:1027534
+Mass Jathara	leg=0:356896
+Mass Jathara (2025)	dub=2:1269994
+Massa Cinzenta	dub=0:221648	leg=0:221647
+Massa Cinzenta - (2023)	dub=2:1060121	leg=2:1036084
+Massacre (1976)	dub=0:348996	leg=0:348995
+Massacre 1976 - (2024)	dub=2:1251139	leg=2:1251042
+Massacre de Tulsa	dub=0:288874
+Massacre de Tulsa - (2021)	dub=2:1048885
+Massacre na Ucrania	dub=0:23217
+Massacre na Ucrania - (2017)	dub=2:1045800
+Massacre no Bairro Chines	dub=0:97188
+Massacre no Bairro Chines - (2009)	dub=2:1047257
+Massacre no Bairro Japones	dub=0:20097
+Massacre no Bairro Japones - (1991)	dub=2:1046459
+Massacre no Texas	dub=0:45098
+Massacre no Texas - (2017)	dub=2:1057739
+Master Kid - O Despertar de um Herói	dub=0:301970	leg=0:301971
+Master Kid - O Despertar de um Herói - (2021)	dub=2:1062045	leg=2:1033419
+Master Moley em O Convite Real	dub=0:142967
+Master Moley em O Convite Real - (2020)	dub=2:1061820
+Mata	dub=0:369422
+Mata (2020)	dub=2:1270209
+Mata Batin	leg=0:101177
+Mata Batin - (2017)	leg=2:1029492
+Mata Batin 2	leg=0:101189
+Mata Batin 2 - (2019)	leg=2:1032997
+Mata-me de Prazer	dub=0:114399
+Mata-me de Prazer - (2002)	dub=2:1043364
+Matador de Aluguel	dub=0:254638,0:254637	leg=0:254639
+Matador de Aluguel (1989)	dub=2:1269931
+Matador de Aluguel - (2024)	dub=2:1046124,2:1023012	leg=2:1032385
+Matador em Perigo	dub=0:109037
+Matador em Perigo - (2010)	dub=2:1046330
+Matadores De Aliens Do Espaço Sideral	dub=0:332846
+Matadores De Aliens Do Espaço Sideral - (2025)	dub=2:1037712
+Matadores de Canibais	dub=0:196786	leg=0:196782
+Matadores de Canibais - (2017)	dub=2:1069081	leg=2:1029709
+Matadores de Vampiras Lésbicas	dub=0:130254
+Matadores de Vampiras Lésbicas - (2009)	dub=2:1057907
+Matadores de Velhinha	dub=0:103973
+Matadores de Velhinha - (2004)	dub=2:1044436
+Matadouro 2: Death Metal (2025)	dub=2:1254733
+Matando Deus	dub=0:363885	leg=0:363884
+Matando Deus (2017)	dub=2:1267169	leg=2:1267166
+Matando Gunther	dub=0:64459
+Matando Gunther - (2017)	dub=2:1047790
+Matança	dub=0:223409	leg=0:223406
+Matança - (2020)	dub=2:1051569	leg=2:1025992
+Matar Jesus	dub=0:24313
+Matar Jesus - (2017)	dub=2:1051370
+Matar ou Morrer	dub=0:330024	leg=0:330023
+Matar ou Morrer - (2016)	dub=2:1069011	leg=2:1024132
+Matar um Tigre	dub=0:254640
+Matar um Tigre - (2023)	dub=2:1048754
+Matar. Vingar. Repetir	dub=0:369168	leg=0:369167
+Matar. Vingar. Repetir (2025)	dub=2:1272301	leg=2:1272304
+Match Divino	dub=0:335761	leg=0:335760
+Match Divino - (2014)	dub=2:1064187	leg=2:1024007
+Match Point	dub=0:379469	leg=0:379468
+Match Point (2005)	leg=2:1272595
+Match de Natal	dub=0:227007
+Match de Natal - (2020)	dub=2:1048759
+Match do Amor	dub=0:363613
+Match do Amor (2021)	dub=2:1267104
+Mate ou Morra	dub=0:137605	leg=0:137588
+Mate ou Morra - (2021)	dub=2:1060312
+Mate-a, se Conseguir	dub=0:354020	leg=0:354019
+Mate-a, se Conseguir (2023)	dub=2:1265405	leg=2:1265432
+Mate-me Por Favor (2015)	dub=2:1270637
+Mate-me se Puder - (2023)	dub=2:1069416,2:1022469	leg=2:1032363
+Mate-me se Puder 4K	dub=0:219167,0:218862	leg=0:218863
+Matei Minha Amiga (2018)	dub=2:1270333
+Mateina A Erva Perdida (2021)	dub=2:1265936
+Matheus e Kauan - na Praia 2 (2017)	dub=2:1269776
+Matilda	dub=0:20669
+Matilda - (1996)	dub=2:1039627
+Matilda: O Musical - (2022)	dub=2:1066973,2:1023097	leg=2:1031895
+Matilda: O Musical 4K	dub=0:184019,0:182913	leg=0:182910
+Matilha Voraz	dub=0:350389	leg=0:350388
+Matilha Voraz (2025)	dub=2:1252822	leg=2:1268812
+Matinee: Uma Sessão Muito Louca	dub=0:361821	leg=0:361820
+Matinee: Uma Sessão Muito Louca (1993)	dub=2:1266834	leg=2:1266830
+Mato Seco em Chamas	dub=0:200805
+Mato Seco em Chamas - (2023)	dub=2:1049267
+Mato Sem Cachorro	dub=0:26447
+Mato Sem Cachorro - (2013)	dub=2:1054893
+Matrimilhas	dub=0:181452	leg=0:181449
+Matrimilhas - (2022)	dub=2:1064099,2:1023368	leg=2:1029920
+Matrix	dub=0:88686
+Matrix - (1999)	dub=2:1060437
+Matrix Resurrections 4K	dub=0:146809,0:146808	leg=0:144035
+Matrix Resurrections 4K - (2021)	dub=2:1249744,2:1055684	leg=2:1032209
+Matrix Revolutions	dub=0:88681
+Matrix Revolutions - (2003)	dub=2:1059630
+Matt Rife Lucid A Crowd Work Special (2024)	dub=2:1270624	leg=2:1273083
+Matt Rife Natural Selection (2023)	dub=2:1269763
+Matt and Mara	leg=0:339407
+Matt and Mara (2024)	dub=2:1271019	leg=2:1034499
+Matteo Lane com Amigos (2025)	dub=2:1269671
+Matter of Time	leg=0:365863
+Matter of Time (2026)	leg=2:1266794
+Matthew Perry: Uma Tragédia de Hollywood	dub=0:350377	leg=0:350376
+Matthew Perry: Uma Tragédia de Hollywood (2025)	dub=2:1268869	leg=2:1268866
+Mau Por Um Momento	leg=0:329434
+Mau Por Um Momento (2024)	dub=2:1270835	leg=2:1027396
+Mau-olhado	dub=0:76695
+Mau-olhado - (2020)	dub=2:1070833
+Maudie: Sua Vida e Sua Arte	dub=0:339291	leg=0:339290
+Maudie: Sua Vida e Sua Arte - (2016)	dub=2:1064105	leg=2:1032651
+Mauricio Meirelles Levando o Caos (2020)	dub=2:1271423
+Mauricio de Sousa: O Filme 4K	dub=0:357798,0:357797,0:357120
+Mauricio de Sousa: O Filme 4K (2025)	dub=2:1265029,2:1254726
+Maus Momentos no Hotel Royale	dub=0:22044
+Maus Momentos no Hotel Royale - (2018)	dub=2:1071306
+Maverick	dub=0:341061,0:105249	leg=0:341060
+Maverick - (1994)	dub=2:1069027	leg=2:1034143
+Mavka: Aventura na Floresta	dub=0:230899	leg=0:230898
+Mavka: Aventura na Floresta - (2023)	dub=2:1062315	leg=2:1033658
+Max 2 - Um Agente Animal (2017)	dub=2:1266226
+Max Ernst - Der Surrealist und das faschistische Trampeltier	leg=0:376052
+Max Ernst - Der Surrealist und das faschistische Trampeltier (2026)	leg=2:1272394
+Max Payne	dub=0:281752
+Max Payne - (2008)	dub=2:1071157
+Max Payne Retribuicao (2017)	dub=2:1269868
+Max Reload And The Nether Blasters	leg=0:67492
+Max Reload And The Nether Blasters - (2020)	leg=2:1030081
+Max Reload O Jogo Comecou (2020)	dub=2:1268261
+Max Reload: O Jogo Começou	dub=0:322013	leg=0:322014
+Max Steel	dub=0:355734	leg=0:355733
+Max Steel (2016)	dub=2:1265768	leg=2:1265758
+Max: O Cão Herói	dub=0:319158	leg=0:319159
+Max: O Cão Herói - (2015)	dub=2:1056117	leg=2:1026093
+Maximiliano Kolbe e Eu	dub=0:311809	leg=0:311810
+Maximiliano Kolbe e Eu - (2023)	dub=2:1045500	leg=2:1033806
+Maximum Ride: Projeto Angel	dub=0:377238	leg=0:377237
+Maximum Ride: Projeto Angel (2016)	dub=2:1268388	leg=2:1268262
+Maxine (2023)	dub=2:1269678
+Maya	dub=0:42507
+Maya - (2020)	dub=2:1039720
+Mayday	leg=0:131094
+Mayday (2019)	dub=2:1264798
+Mayday (2021)	dub=2:1270488	leg=2:1025850
+Mayhem - Senhores Do Caos	dub=0:35264
+Mayhem - Senhores Do Caos - (2018)	dub=2:1071447
+Maze Runner 1	dub=0:21324
+Maze Runner 1 - (2014)	dub=2:1060566
+Maze Runner 2	dub=0:21325
+Maze Runner 2 - (2015)	dub=2:1060780
+Maze Runner 3	dub=0:20101
+Maze Runner 3 - (2018)	dub=2:1059917
+Mazinger Z – Infinito	dub=0:94757
+Mazinger Z – Infinito - (2017)	dub=2:1059650
+Mazzaropi - A Banda Das Velhas Virgens	dub=0:20670
+Mazzaropi - A Banda Das Velhas Virgens - (1979)	dub=2:1054645
 Mazzaropi - A Carrocinha	dub=0:20671
 Mazzaropi - As Aventuras de Pedro Malazartes	dub=0:20672
 Mazzaropi - Betao Ronca Ferro	dub=0:20673
-Mazzaropi - Candinho	dub=0:20674,2:1055287
+Mazzaropi - Candinho	dub=0:20674
+Mazzaropi - Candinho - (1954)	dub=2:1055287
 Mazzaropi - Casinha Pequenina	dub=0:20675
 Mazzaropi - Chico Fumaca	dub=0:20676
 Mazzaropi - Chofer de Praca	dub=0:20677
@@ -444,876 +795,1589 @@ Mazzaropi - Jeca contra o Capeta	dub=0:20681
 Mazzaropi - Jeca e Seu Filho Preto	dub=0:20682
 Mazzaropi - Jecao Um Fofoqueiro No Ceu	dub=0:20683
 Mazzaropi - Meu Japao Brasileiro	dub=0:20684
-Mazzaropi - Nadando em Dinheiro	dub=0:20685,2:1054913
+Mazzaropi - Nadando em Dinheiro	dub=0:20685
+Mazzaropi - Nadando em Dinheiro - (1952)	dub=2:1054913
 Mazzaropi - No paraiso das solteironas	dub=0:20686
-Mazzaropi - O Corintiano	dub=0:20687,2:1054434
+Mazzaropi - O Corintiano	dub=0:20687
+Mazzaropi - O Corintiano - (1967)	dub=2:1054434
 Mazzaropi - O Grande Xerife	dub=0:20688
-Mazzaropi - O Jeca Macumbeiro	dub=0:20689,2:1054782
+Mazzaropi - O Jeca Macumbeiro	dub=0:20689
+Mazzaropi - O Jeca Macumbeiro - (1975)	dub=2:1054782
 Mazzaropi - O Jeca e a Egua Milagrosa	dub=0:20690
-Mazzaropi - O Jeca e a Freira	dub=0:20691,2:1054565
+Mazzaropi - O Jeca e a Freira	dub=0:20691
+Mazzaropi - O Jeca e a Freira - (1968)	dub=2:1054565
 Mazzaropi - O Lamparina	dub=0:20692
 Mazzaropi - O Puritano da rua augusta	dub=0:20693
-Mazzaropi - O Vendedor de Linguica	dub=0:20694,2:1054732
-Mazzaropi - O cineasta das plateias	dub=0:20695,2:1048912
+Mazzaropi - O Vendedor de Linguica	dub=0:20694
+Mazzaropi - O Vendedor de Linguica - (1962)	dub=2:1054732
+Mazzaropi - O cineasta das plateias	dub=0:20695
+Mazzaropi - O cineasta das plateias - (2002)	dub=2:1048912
 Mazzaropi - Portugal Minha Saudade	dub=0:20696
-Mazzaropi - Sai da frente	dub=0:20697,2:1053345
+Mazzaropi - Sai da frente	dub=0:20697
+Mazzaropi - Sai da frente - (1952)	dub=2:1053345
 Mazzaropi - Tristeza do Jeca	dub=0:20698
 Mazzaropi - Um Caipira em Bariloche	dub=0:20699
 Mazzaropi - Uma Pistola para Djeca	dub=0:20700
 Mazzaropi - Ze Periquito	dub=0:20701
-Mazzaropi - Ze do Periquito	dub=2:1267187
+Mazzaropi - Ze do Periquito (1961)	dub=2:1267187
 Mazzaropi- O Noivo Da Girafa	dub=0:20702
-McFarland dos EUA	dub=0:134086,2:1067363
-McQuade: O Lobo Solitário	dub=0:382417,2:1272854	leg=0:382416,2:1272866
-Me Ame Com Ternura	leg=0:371669,2:1268022
-Me Assuste	dub=0:185812,2:1058022	leg=0:185814,2:1034206
-Me Chama Que Eu Vou	dub=0:363886,2:1267157
-Me Chame Pelo Seu Nome	dub=0:98609,2:1063422
-Me Contro Te A Vinganca do Senhor S	dub=0:148741,2:1067476	leg=0:148757,2:1030202
-Me Encontrando	leg=0:348297,2:1251099
-Me Mate, Querido	dub=0:247316,2:1064459	leg=0:247317,2:1036049
-Me Sinto Bem com Você	dub=0:108690,2:1063541
-Me Tira da Mira	dub=0:160412,2:1056845
-Mea Culpa	dub=0:249795,2:1051997,2:1023366	leg=0:249796,2:1029579
-Meal Ticket	leg=0:370684,2:1267558
-Mean Spirited	dub=0:194205,2:1058634
-Meander	dub=2:1266118
-Medalha de Bronze	dub=2:1269336
-Medida Provisória	dub=0:162343,2:1061330
-Medidas Desesperadas	dub=0:197452,2:1269821,2:1046250
-Medidas Extremas	dub=0:267755,0:133799,2:1046691,2:1043304	leg=0:267756,2:1025203
-Medieval	dub=0:179786,0:179767,2:1045347,2:1023387	leg=0:179788,2:1032824
-Medo	dub=0:359056,0:319847,0:217555,2:1070327,2:1058646,2:1044729	leg=0:359055,0:319874,2:1249202,2:1036516
-Medo Da Chuva	dub=0:95980,2:1058911
-Medo Ponto Com Br	dub=0:128562,2:1051360
-Medo Profundo	dub=0:130236,0:21032,2:1056781,2:1044773
-Medo Profundo - O Segundo Ataque	dub=0:75631,2:1267774
-Medo S.A.	dub=0:76696,2:1058993
-Medo da Verdade	dub=0:376788,0:96867,2:1070642
-Medo e Delirio	dub=2:1266233
-Medo no Pacífico	dub=0:348998,2:1251148	leg=0:348997,2:1251037
-Medusa	dub=0:185176,2:1271739,2:1039709
-Medusa Deluxe	dub=2:1271929
-Mee-Shee: O Gigante das Aguas	dub=0:358833,2:1266437	leg=0:358832,2:1266442
-Meet Cute	dub=0:181080,2:1039257	leg=0:181095
-Meet Me In Paris	dub=2:1270436	leg=2:1272998
-Meet Me in the Margins Legendado	dub=2:1262989
-Mega Pítons vs Jacarés Gigantes	dub=0:340465,2:1057241
-Mega Shark Contra Mecha Shark	dub=0:318554,2:1250031
-Megaboa	dub=0:193068,2:1060072	leg=0:193067,2:1026927
-Megalodon	dub=0:224976,2:1050673
-Megalodon The Frenzy	dub=2:1269203
-Megalomaniac	dub=0:252969,2:1069782	leg=0:252970,2:1029414
-Megalópolis	dub=0:339767,0:336847,2:1250016,2:1049107	leg=0:339766,0:295706,2:1032116
-Megamente	dub=0:20388,2:1063028
-Megamente Vs. O Sindicato da Perdição	dub=0:255104,2:1062303	leg=0:255105,2:1023686
-Megan	dub=2:1271037
-Megan Is Missing	dub=2:1271157	leg=0:291838,2:1029816
-Megan Leavey	dub=0:21033,2:1066683
-Megan Thee Stallion Por Ela Mesma	dub=2:1271723	leg=0:295707,2:1027129
-Megarromantico	dub=0:21443,2:1039101
-Megaterremoto	dub=0:267757,2:1265152	leg=0:267758
-Megatubarao 4K	dub=0:98635,0:98619,2:1061182,2:1021970
-Megatubarão 2	dub=0:211630,0:211629,2:1249638,2:1057528	leg=0:211632,2:1024785
-Meia Irma	dub=0:87121,2:1072174
-Meia Noite e um	dub=0:130267,2:1049601
-Meia Noite em Paris	dub=0:31422,2:1040307
-Meia-Noite no Jardim do Bem e do Mal	dub=0:133770,2:1071036
-Meia-Noite no Switchgrass	dub=0:118154,2:1070483
-Mein bester Freund, seine Freundin und ich	dub=2:1293174
-Meio Expediente	dub=0:362607,2:1266981
-Meio Grávida	dub=0:309606,2:1038165	leg=0:309607,2:1037309
-Meio Irmão	dub=0:43850,2:1042620
-Meio-Irmãos	dub=0:336665,2:1052099
-Meios-irmãos	dub=0:112467,2:1055009
-Mektoub My Love Canto Uno	dub=2:1269412
-Melancolia	dub=0:317715,2:1059842	leg=0:317716,2:1033047
+McFarland dos EUA	dub=0:134086
+McFarland dos EUA - (2015)	dub=2:1067363
+McQuade: O Lobo Solitário	dub=0:382417	leg=0:382416
+McQuade: O Lobo Solitário (1983)	dub=2:1272854	leg=2:1272866
+Me Ame Com Ternura	leg=0:371669
+Me Ame Com Ternura (2025)	leg=2:1268022
+Me Assuste	dub=0:185812	leg=0:185814
+Me Assuste - (2020)	dub=2:1058022	leg=2:1034206
+Me Chama Que Eu Vou	dub=0:363886
+Me Chama Que Eu Vou (2020)	dub=2:1267157
+Me Chame Pelo Seu Nome	dub=0:98609
+Me Chame Pelo Seu Nome - (2017)	dub=2:1063422
+Me Contro Te A Vinganca do Senhor S	dub=0:148741	leg=0:148757
+Me Contro Te A Vinganca do Senhor S - (2020)	dub=2:1067476	leg=2:1030202
+Me Encontrando	leg=0:348297
+Me Encontrando - (2025)	leg=2:1251099
+Me Mate, Querido	dub=0:247316	leg=0:247317
+Me Mate, Querido - (2024)	dub=2:1064459	leg=2:1036049
+Me Sinto Bem com Você	dub=0:108690
+Me Sinto Bem com Você - (2021)	dub=2:1063541
+Me Tira da Mira	dub=0:160412
+Me Tira da Mira - (2022)	dub=2:1056845
+Mea Culpa	dub=0:249795	leg=0:249796
+Mea Culpa - (2024)	dub=2:1051997,2:1023366	leg=2:1029579
+Meal Ticket	leg=0:370684
+Meal Ticket (2026)	leg=2:1267558
+Mean Spirited	dub=0:194205
+Mean Spirited - (2022)	dub=2:1058634
+Meander (2019)	dub=2:1266118
+Medalha de Bronze (2016)	dub=2:1269336
+Medida Provisória	dub=0:162343
+Medida Provisória - (2022)	dub=2:1061330
+Medidas Desesperadas	dub=0:197452
+Medidas Desesperadas (2017)	dub=2:1269821
+Medidas Desesperadas - (1998)	dub=2:1046250
+Medidas Extremas	dub=0:267755,0:133799	leg=0:267756
+Medidas Extremas - (1996)	dub=2:1043304
+Medidas Extremas - (2022)	dub=2:1046691	leg=2:1025203
+Medieval	dub=0:179786,0:179767	leg=0:179788
+Medieval - (2022)	dub=2:1045347,2:1023387	leg=2:1032824
+Medo	dub=0:359056,0:319847,0:217555	leg=0:359055,0:319874
+Medo - (1996)	dub=2:1044729
+Medo - (2003)	dub=2:1070327	leg=2:1249202
+Medo - (2023)	dub=2:1058646	leg=2:1036516
+Medo Da Chuva	dub=0:95980
+Medo Da Chuva - (2021)	dub=2:1058911
+Medo Da Verdade - (2007)	dub=2:1070642
+Medo Ponto Com Br	dub=0:128562
+Medo Ponto Com Br - (2002)	dub=2:1051360
+Medo Profundo	dub=0:130236,0:21032
+Medo Profundo - (2007)	dub=2:1056781
+Medo Profundo - (2017)	dub=2:1044773
+Medo Profundo - O Segundo Ataque	dub=0:75631
+Medo Profundo - O Segundo Ataque (2019)	dub=2:1267774
+Medo S.A.	dub=0:76696
+Medo S.A. - (2016)	dub=2:1058993
+Medo da Verdade	dub=0:376788,0:96867
+Medo e Delirio (1998)	dub=2:1266233
+Medo no Pacífico	dub=0:348998	leg=0:348997
+Medo no Pacífico - (2024)	dub=2:1251148	leg=2:1251037
+Medusa	dub=0:185176
+Medusa (2022)	dub=2:1271739
+Medusa - (2021)	dub=2:1039709
+Medusa Deluxe (2023)	dub=2:1271929
+Mee-Shee: O Gigante das Aguas	dub=0:358833	leg=0:358832
+Mee-Shee: O Gigante das Aguas (2005)	dub=2:1266437	leg=2:1266442
+Meet Cute	dub=0:181080	leg=0:181095
+Meet Cute - (2022)	dub=2:1039257
+Meet Me In Paris (2023)	dub=2:1270436	leg=2:1272998
+Meet Me in the Margins Legendado (2026)	dub=2:1262989
+Mega Pítons vs Jacarés Gigantes	dub=0:340465
+Mega Pítons vs Jacarés Gigantes - (2011)	dub=2:1057241
+Mega Shark Contra Mecha Shark	dub=0:318554
+Mega Shark Contra Mecha Shark - (2014)	dub=2:1250031
+Megaboa	dub=0:193068	leg=0:193067
+Megaboa - (2021)	dub=2:1060072	leg=2:1026927
+Megalodon	dub=0:224976
+Megalodon - (2018)	dub=2:1050673
+Megalodon The Frenzy (2023)	dub=2:1269203
+Megalomaniac	dub=0:252969	leg=0:252970
+Megalomaniac - (2023)	dub=2:1069782	leg=2:1029414
+Megalópolis	dub=0:339767,0:336847	leg=0:339766,0:295706
+Megalópolis - (1973)	dub=2:1049107
+Megalópolis - (2024)	dub=2:1250016	leg=2:1032116
+Megamente	dub=0:20388
+Megamente - (2010)	dub=2:1063028
+Megamente Vs. O Sindicato da Perdição	dub=0:255104	leg=0:255105
+Megamente Vs. O Sindicato da Perdição - (2024)	dub=2:1062303	leg=2:1023686
+Megan (2020)	dub=2:1271037
+Megan Is Missing	leg=0:291838
+Megan Is Missing (2011)	dub=2:1271157	leg=2:1029816
+Megan Leavey	dub=0:21033
+Megan Leavey - (2017)	dub=2:1066683
+Megan Thee Stallion Por Ela Mesma	leg=0:295707
+Megan Thee Stallion Por Ela Mesma (2024)	dub=2:1271723	leg=2:1027129
+Megarromantico	dub=0:21443
+Megarromantico - (2019)	dub=2:1039101
+Megaterremoto	dub=0:267757	leg=0:267758
+Megaterremoto (2023)	dub=2:1265152
+Megatubarao - (2018)	dub=2:1061182,2:1021970
+Megatubarao 4K	dub=0:98635,0:98619
+Megatubarão 2	dub=0:211630,0:211629	leg=0:211632
+Megatubarão 2 4K - (2023)	dub=2:1249638,2:1057528	leg=2:1024785
+Meia Irma	dub=0:87121
+Meia Irma - (2017)	dub=2:1072174
+Meia Noite e um	dub=0:130267
+Meia Noite e um - (1993)	dub=2:1049601
+Meia Noite em Paris	dub=0:31422
+Meia Noite em Paris - (2011)	dub=2:1040307
+Meia-Noite no Jardim do Bem e do Mal	dub=0:133770
+Meia-Noite no Jardim do Bem e do Mal - (1997)	dub=2:1071036
+Meia-Noite no Switchgrass	dub=0:118154
+Meia-Noite no Switchgrass - (2021)	dub=2:1070483
+Mein bester Freund, seine Freundin und ich (2026)	dub=2:1293174
+Meio Expediente	dub=0:362607
+Meio Expediente (2017)	dub=2:1266981
+Meio Grávida	dub=0:309606	leg=0:309607
+Meio Grávida - (2025)	dub=2:1038165	leg=2:1037309
+Meio Irmão	dub=0:43850
+Meio Irmão - (2018)	dub=2:1042620
+Meio-Irmãos	dub=0:336665
+Meio-Irmãos - (2015)	dub=2:1052099
+Meios-irmãos	dub=0:112467
+Meios-irmãos - (2020)	dub=2:1055009
+Mektoub My Love Canto Uno (2018)	dub=2:1269412
+Melancolia	dub=0:317715	leg=0:317716
+Melancolia - (2011)	dub=2:1059842	leg=2:1033047
 Melania	leg=0:369373
-Melania Legendado	dub=2:1258235
-Melanie A Ultima Esperanca	dub=0:21034,2:1061100
-Melhor Morrer	dub=0:343240,2:1043447	leg=0:343239,2:1034501
-Melhor Viúva Do Que Mal Acompanhada	dub=0:284548,2:1051447	leg=0:284549,2:1033627
-Melhor e Impossivel	dub=2:1266631
-Melhores A igos: Volume 2	dub=0:30647,2:1069566
-Melhores Amigos	dub=0:332848,2:1067854	leg=0:332847
-Melodia do Mal	dub=0:297446,2:1039049	leg=0:297447,2:1025111
-Memoria	dub=2:1270068
-Memorial Day - Lembranças de uma Guerra	dub=0:139243,2:1250052
-Memorias Roubadas	dub=2:1272439
-Memory	dub=2:1267204	leg=0:251175,2:1030951
-Memory Box	dub=0:180600,2:1041210	leg=0:180599,2:1026818
-Memphis Belle - A Fortaleza Voadora	dub=0:163380,2:1066883
-Memória Sufocada	dub=0:363184,2:1267056
-Memória de um Crime	dub=0:315680,2:1056466	leg=0:315681,2:1029361
-Memórias Ocultas	dub=0:313292,2:1268703	leg=0:313293
-Memórias Póstumas	dub=0:101354,2:1040034
-Memórias Que Não Se Apagam	dub=0:286356,2:1060421	leg=0:286357,2:1032665
-Memórias Secretas	dub=0:320901,0:96023,2:1049310	leg=0:320902,2:1028347
-Memórias de Natal	dub=0:292269,2:1049988	leg=0:292270,2:1026081
-Memórias de Um Amor	dub=0:191124,0:148750,2:1063937	leg=0:191135,0:148748,2:1028121
-Memórias de Um Espião	dub=0:129563,2:1040702
-Memórias de Uma Paixão	dub=0:155747,2:1064706	leg=0:155748,2:1028899
-Memórias de Verão	dub=0:112454,2:1065874
-Memórias de um Assassino	dub=0:200581,0:95914,2:1060404,2:1051410	leg=0:200582,2:1035162
-Memórias de um Caracol	dub=2:1269145	leg=0:312350,2:1030132
-Memórias de um Verão	dub=0:361815,2:1266824	leg=0:361814,2:1266822
-Memórias de uma Gueixa	dub=0:207702,2:1045105
+Melania Legendado (2026)	dub=2:1258235
+Melanie A Ultima Esperanca	dub=0:21034
+Melanie A Ultima Esperanca - (2016)	dub=2:1061100
+Melhor Morrer	dub=0:343240	leg=0:343239
+Melhor Morrer - (2021)	dub=2:1043447	leg=2:1034501
+Melhor Viúva Do Que Mal Acompanhada	dub=0:284548	leg=0:284549
+Melhor Viúva Do Que Mal Acompanhada - (2024)	dub=2:1051447	leg=2:1033627
+Melhor e Impossivel (1997)	dub=2:1266631
+Melhores A igos: Volume 2	dub=0:30647
+Melhores A igos: Volume 2 - (2018)	dub=2:1069566
+Melhores Amigos	dub=0:332848	leg=0:332847
+Melhores Amigos - (2023)	dub=2:1067854
+Melodia do Mal	dub=0:297446	leg=0:297447
+Melodia do Mal - (2023)	dub=2:1039049	leg=2:1025111
+Memoria (2021)	dub=2:1270068
+Memorial Day - Lembranças de uma Guerra	dub=0:139243
+Memorial Day - Lembranças de uma Guerra - (2011)	dub=2:1250052
+Memorias Ocultas (2024)	dub=2:1268703
+Memorias Roubadas (2023)	dub=2:1272439
+Memorias Secretas - (2015)	dub=2:1049310	leg=2:1028347
+Memorias de um Caracol (2024)	dub=2:1269145	leg=2:1030132
+Memory	leg=0:251175
+Memory (2023)	dub=2:1267204	leg=2:1030951
+Memory Box	dub=0:180600	leg=0:180599
+Memory Box - (2022)	dub=2:1041210	leg=2:1026818
+Memphis Belle - A Fortaleza Voadora	dub=0:163380
+Memphis Belle - A Fortaleza Voadora - (1990)	dub=2:1066883
+Memória Sufocada	dub=0:363184
+Memória Sufocada (2021)	dub=2:1267056
+Memória de um Crime	dub=0:315680	leg=0:315681
+Memória de um Crime - (2018)	dub=2:1056466	leg=2:1029361
+Memórias Ocultas	dub=0:313292	leg=0:313293
+Memórias Póstumas	dub=0:101354
+Memórias Póstumas - (2001)	dub=2:1040034
+Memórias Que Não Se Apagam	dub=0:286356	leg=0:286357
+Memórias Que Não Se Apagam - (2023)	dub=2:1060421	leg=2:1032665
+Memórias Secretas	dub=0:320901,0:96023	leg=0:320902
+Memórias de Natal	dub=0:292269	leg=0:292270
+Memórias de Natal - (2022)	dub=2:1049988	leg=2:1026081
+Memórias de Um Amor	dub=0:191124,0:148750	leg=0:191135,0:148748
+Memórias de Um Amor - (2020)	dub=2:1063937	leg=2:1028121
+Memórias de Um Espião	dub=0:129563
+Memórias de Um Espião - (1984)	dub=2:1040702
+Memórias de Uma Paixão	dub=0:155747	leg=0:155748
+Memórias de Uma Paixão - (2019)	dub=2:1064706	leg=2:1028899
+Memórias de Verão	dub=0:112454
+Memórias de Verão - (2021)	dub=2:1065874
+Memórias de um Assassino	dub=0:200581,0:95914	leg=0:200582
+Memórias de um Assassino - (2003)	dub=2:1051410
+Memórias de um Assassino - (2018)	dub=2:1060404	leg=2:1035162
+Memórias de um Caracol	leg=0:312350
+Memórias de um Verão	dub=0:361815	leg=0:361814
+Memórias de um Verão (2025)	dub=2:1266824	leg=2:1266822
+Memórias de uma Gueixa	dub=0:207702
+Memórias de uma Gueixa - (2005)	dub=2:1045105
 Men In Black International Legendado	dub=0:28285
-Men: Faces do Medo 4K	dub=0:179813,0:178855,2:1039407,2:1021793	leg=0:178842,2:1027515
-Menarca	dub=0:249252,2:1040333
-Menendez Brothers: Misjudged?	dub=0:286623,2:1048514	leg=0:286624,2:1033857
+Men: Faces do Medo - (2022)	dub=2:1039407,2:1021793	leg=2:1027515
+Men: Faces do Medo 4K	dub=0:179813,0:178855	leg=0:178842
+Menarca	dub=0:249252
+Menarca - (2020)	dub=2:1040333
+Menendez Brothers: Misjudged?	dub=0:286623	leg=0:286624
+Menendez Brothers: Misjudged? - (2022)	dub=2:1048514	leg=2:1033857
 Menendez Irmaos de Sangue	dub=0:21036
-Menendez: El dia del Senor	dub=2:1271455
-Menina Dos Olhos	dub=0:330402,2:1271847,2:1067888	leg=0:330401,2:1034225
-Menina Macom	dub=2:1270097
-Menina de Ouro	dub=0:120676,0:25102,2:1041916
-Meninas Malvadas	dub=0:250699,0:250698,0:20704,2:1054736,2:1053543,2:1021798	leg=0:250700,2:1032899
-Meninas Malvadas 2	dub=0:20703,2:1053110
-Meninas Não Choram	dub=0:259371,2:1068782
-Menino Maluquinho 2: A Aventura	dub=0:376789,2:1266811
-Menino Maluquinho: O Filme	dub=0:210517,2:1068035
-Menino Malvado	dub=0:338628,2:1058061	leg=0:338627,2:1249074
-Mens Sana in Corpore Sano	dub=0:362608,2:1267005
+Menendez: El dia del Senor (2020)	dub=2:1271455
+Menina Dos Olhos	dub=0:330402	leg=0:330401
+Menina Dos Olhos - (2017)	dub=2:1067888	leg=2:1034225
+Menina Macom (2005)	dub=2:1270097
+Menina de Ouro	dub=0:120676,0:25102
+Menina de Ouro - (2004)	dub=2:1041916
+Menina dos Olhos (2004)	dub=2:1271847
+Meninas Malvadas	dub=0:250699,0:250698,0:20704	leg=0:250700
+Meninas Malvadas - (2004)	dub=2:1054736
+Meninas Malvadas - (2024)	dub=2:1053543,2:1021798	leg=2:1032899
+Meninas Malvadas 2	dub=0:20703
+Meninas Malvadas 2 - (2011)	dub=2:1053110
+Meninas Não Choram	dub=0:259371
+Meninas Não Choram - (2024)	dub=2:1068782
+Menino Maluquinho 2 A Aventura (1998)	dub=2:1266811
+Menino Maluquinho 2: A Aventura	dub=0:376789
+Menino Maluquinho: O Filme	dub=0:210517
+Menino Maluquinho: O Filme - (1995)	dub=2:1068035
+Menino Malvado	dub=0:338628	leg=0:338627
+Menino Malvado - (2020)	dub=2:1058061	leg=2:1249074
+Mens Sana in Corpore Sano	dub=0:362608
+Mens Sana in Corpore Sano (2011)	dub=2:1267005
 Mens@gem Para Você	dub=0:106831
-Mensageiro da Morte	dub=2:1291033
-Mensagem Para Voce	dub=0:20705,2:1063917
-Mensagem Para a Humanidade	dub=0:218866,2:1048979
-Mensagem em uma Garrafa	dub=0:328306,2:1038213	leg=0:328305,2:1037366
-Mensagens para Isabelle	dub=2:1262217
-Mente Criminosa	dub=0:20102,2:1060615
-Mente Demôniaca	dub=0:358129,2:1266294	leg=0:358128,2:1266341
-Mente Obsessiva	dub=0:30568,2:1059059
-Mente Perturbada	dub=0:353482,2:1265280	leg=0:353481,2:1265264
-Mentes Brilhantes	dub=0:230902,2:1041359	leg=0:230901,2:1035335
-Mentes Malignas	dub=0:42017,2:1059253
-Mentes Perigosas	dub=0:302756,2:1042367
-Mentes Que Brilham	dub=2:1290997
-Mentes Sombrias	dub=0:316408,0:21327,2:1056260	leg=0:316409,2:1034951
-Mentira Incondicional	dub=0:75043,2:1071039
-Mentira Nada Inocente	dub=0:223091,2:1040773	leg=0:223083,2:1025268
-Mentiras Perigosas 4K	dub=0:46142,0:44607,2:1044609,2:1021741
-Mentiras Secretas	dub=0:191477,2:1043858	leg=0:191482,2:1249387
-Mentiras de Família	dub=0:188331,2:1043206	leg=0:188330,2:1030992
-Merantau	leg=0:98620,2:1024804
-Mercador de Guerra	dub=0:382560,2:1272881
-Mercadores da Morte	dub=0:368223,2:1268210	leg=0:368222,2:1268180
-Mercenário	dub=0:68454,2:1052168
+Mensageiro da Morte (1988)	dub=2:1291033
+Mensagem Para Voce	dub=0:20705
+Mensagem Para Voce - (1998)	dub=2:1063917
+Mensagem Para a Humanidade	dub=0:218866
+Mensagem Para a Humanidade - (2023)	dub=2:1048979
+Mensagem em uma Garrafa	dub=0:328306	leg=0:328305
+Mensagem em uma Garrafa - (2025)	dub=2:1038213	leg=2:1037366
+Mensagens para Isabelle (2026)	dub=2:1262217
+Mente Criminosa	dub=0:20102
+Mente Criminosa - (2016)	dub=2:1060615
+Mente Demôniaca	dub=0:358129	leg=0:358128
+Mente Demôniaca (2024)	dub=2:1266294	leg=2:1266341
+Mente Obsessiva	dub=0:30568
+Mente Obsessiva - (2009)	dub=2:1059059
+Mente Perturbada	dub=0:353482	leg=0:353481
+Mente Perturbada (2023)	dub=2:1265280	leg=2:1265264
+Mentes Brilhantes	dub=0:230902	leg=0:230901
+Mentes Brilhantes - (2020)	dub=2:1041359	leg=2:1035335
+Mentes Malignas	dub=0:42017
+Mentes Malignas - (2018)	dub=2:1059253
+Mentes Perigosas	dub=0:302756
+Mentes Perigosas - (1995)	dub=2:1042367
+Mentes Que Brilham (1991)	dub=2:1290997
+Mentes Sombrias	dub=0:316408,0:21327	leg=0:316409
+Mentes Sombrias - (2018)	dub=2:1056260	leg=2:1034951
+Mentira Incondicional	dub=0:75043
+Mentira Incondicional - (2018)	dub=2:1071039
+Mentira Nada Inocente	dub=0:223091	leg=0:223083
+Mentira Nada Inocente - (2019)	dub=2:1040773	leg=2:1025268
+Mentiras Perigosas - (2020)	dub=2:1044609,2:1021741
+Mentiras Perigosas 4K	dub=0:46142,0:44607
+Mentiras Secretas	dub=0:191477	leg=0:191482
+Mentiras Secretas - (2022)	dub=2:1043858	leg=2:1249387
+Mentiras de Família	dub=0:188331	leg=0:188330
+Mentiras de Família - (2019)	dub=2:1043206	leg=2:1030992
+Merantau	leg=0:98620
+Merantau - (2009)	leg=2:1024804
+Mercador de Guerra	dub=0:382560
+Mercador de Guerra (1989)	dub=2:1272881
+Mercadores da Morte	dub=0:368223	leg=0:368222
+Mercadores da Morte (1987)	dub=2:1268210	leg=2:1268180
+Mercenário	dub=0:68454
+Mercenário - (2017)	dub=2:1052168
 Mercy	leg=0:202578
-Mercy Black	dub=0:129531,2:1070385	leg=0:92016,2:1249100
-Mercy: Golpe de Misericórdia 4K	dub=0:227017,0:226083,2:1069476,2:1022564	leg=0:226073,2:1033109
-Mergulhando no Amor 4K	dub=0:295391,0:274996,2:1071407,2:1022832	leg=0:274997,2:1023711
-Mergulho	dub=0:182626,2:1040756	leg=0:182623,2:1031453
-Mergulho Noturno 4K	dub=0:253539,0:252064,2:1058391,2:1021927	leg=0:246436,2:1033006
-Mergulho Profundo	dub=2:1272980
-Mergulho Radical	dub=0:20103,2:1057149
-Mermaids Curse 2 Return of the Witch	dub=2:1265660
-Merv 4K	dub=0:357799,0:356898,2:1265034,2:1254734	leg=0:356897,2:1264643
-Mesa Maldita	dub=0:345061,2:1043110	leg=0:345060,2:1023485
-Mesa para Quatro	dub=0:145920,2:1053607	leg=0:145923,2:1035725
-Mesmo Se Nada Der Certo	dub=0:185858,2:1071595
-Message Man	leg=0:48230,2:1034778
-Messi: La Cinta Olvidada Legendado	dub=2:1263540
+Mercy Black	dub=0:129531	leg=0:92016
+Mercy Black - (2019)	dub=2:1070385	leg=2:1249100
+Mercy: Golpe de Misericórdia - (2023)	dub=2:1069476,2:1022564	leg=2:1033109
+Mercy: Golpe de Misericórdia 4K	dub=0:227017,0:226083	leg=0:226073
+Mergulhando no Amor - (2024)	dub=2:1071407,2:1022832	leg=2:1023711
+Mergulhando no Amor 4K	dub=0:295391,0:274996	leg=0:274997
+Mergulho	dub=0:182626	leg=0:182623
+Mergulho - (2022)	dub=2:1040756	leg=2:1031453
+Mergulho Noturno - (2024)	dub=2:1058391,2:1021927	leg=2:1033006
+Mergulho Noturno 4K	dub=0:253539,0:252064	leg=0:246436
+Mergulho Profundo (2013)	dub=2:1272980
+Mergulho Radical	dub=0:20103
+Mergulho Radical - (2005)	dub=2:1057149
+Mermaids Curse 2 Return of the Witch (2025)	dub=2:1265660
+Merv 4K	dub=0:357799,0:356898	leg=0:356897
+Merv 4K (2025)	dub=2:1265034,2:1254734	leg=2:1264643
+Mesa Maldita	dub=0:345061	leg=0:345060
+Mesa Maldita - (2023)	dub=2:1043110	leg=2:1023485
+Mesa para Quatro	dub=0:145920	leg=0:145923
+Mesa para Quatro - (2022)	dub=2:1053607	leg=2:1035725
+Mesmo Se Nada Der Certo	dub=0:185858
+Mesmo Se Nada Der Certo - (2013)	dub=2:1071595
+Message Man	leg=0:48230
+Message Man - (2018)	leg=2:1034778
+Messi: La Cinta Olvidada Legendado (2026)	dub=2:1263540
 Mestre Z: O Legado de Ip Man	dub=0:379470
-Mestre dos Mares - O Lado Mais Distante do Mundo	dub=0:45120,2:1066608
-Mestres do Assalto	dub=0:316913,0:316912,2:1037638,2:1036885	leg=0:316914,2:1038078
-Mestres do Cinema Indiano	dub=2:1268806
-Mestres do Cinema Indiano: SS Rajamouli	leg=0:282101,2:1029615
-Mestres do Universo	dub=0:382562,0:365262,2:1271008,2:1263556	leg=0:382561,0:365261,2:1267338
-Mestres do Yin-Yang: O Sonho da Eternidade	dub=2:1267405
-Metal Lords	dub=0:157421,2:1071769	leg=0:157425,2:1030558
-Metaleiros de Jesus	dub=0:182891,2:1071706	leg=0:182879,2:1030668
-Metallica - Live in Berlin 2019	dub=2:1267910
-Metalocalypse: Army of the Doomstar	dub=0:255988,2:1071763	leg=0:255989,2:1023916
-Metamorphosis	dub=2:1271839	leg=0:73281,2:1032819
-Metas de Relacionamento 4K	dub=0:365651,0:365404,2:1265039,2:1256709	leg=0:365403,2:1265014
-Meteor	dub=2:1271189
-Meteor Moon	dub=2:1265630
+Mestre dos Mares - O Lado Mais Distante do Mundo	dub=0:45120
+Mestre dos Mares - O Lado Mais Distante do Mundo - (2003)	dub=2:1066608
+Mestres do Assalto	dub=0:316913,0:316912	leg=0:316914
+Mestres do Assalto - (2025)	dub=2:1037638,2:1036885	leg=2:1038078
+Mestres do Cinema Indiano (2024)	dub=2:1268806
+Mestres do Cinema Indiano: SS Rajamouli	leg=0:282101
+Mestres do Cinema Indiano: SS Rajamouli - (2024)	leg=2:1029615
+Mestres do Universo	dub=0:382562,0:365262	leg=0:382561,0:365261
+Mestres do Universo (1987)	dub=2:1271008	leg=2:1267338
+Mestres do Universo (2026)	dub=2:1263556
+Mestres do Yin-Yang: O Sonho da Eternidade (2020)	dub=2:1267405
+Metal Lords	dub=0:157421	leg=0:157425
+Metal Lords - (2022)	dub=2:1071769	leg=2:1030558
+Metaleiros de Jesus	dub=0:182891	leg=0:182879
+Metaleiros de Jesus - (2020)	dub=2:1071706	leg=2:1030668
+Metallica - Live in Berlin (2019)	dub=2:1267910
+Metalocalypse: Army of the Doomstar	dub=0:255988	leg=0:255989
+Metalocalypse: Army of the Doomstar - (2023)	dub=2:1071763	leg=2:1023916
+Metamorphosis	leg=0:73281
+Metamorphosis (2022)	dub=2:1271839
+Metamorphosis - (2019)	leg=2:1032819
+Metas de Relacionamento 4K	dub=0:365651,0:365404	leg=0:365403
+Metas de Relacionamento 4K (2026)	dub=2:1265039,2:1256709	leg=2:1265014
+Meteor (2021)	dub=2:1271189
+Meteor Moon (2020)	dub=2:1265630
 Meteoro: A Fuga	dub=0:140497
-Meteoro: O Fim dos Tempos	dub=0:278688,2:1060209	leg=0:278689,2:1035880
-Meteoros	dub=0:159832,2:1043301
+Meteoro: O Fim dos Tempos	dub=0:278688	leg=0:278689
+Meteoro: O Fim dos Tempos - (2023)	dub=2:1060209	leg=2:1035880
+Meteoros	dub=0:159832
+Meteoros - (2022)	dub=2:1043301
 Metro In Dino	leg=0:345062
-Metropolis	dub=2:1270961
-Meu "Querido" Elfo	dub=0:161981,0:161980,2:1067272
-Meu Amigo Dahmer	dub=0:45099,2:1045625
-Meu Amigo Enzo 4K	dub=0:341036,0:340467,0:210389,0:30663,2:1064035,2:1021922	leg=0:340466,2:1024538
-Meu Amigo Flash	dub=2:1266371
-Meu Amigo Harvey	dub=0:350994,2:1264822	leg=0:350993,2:1264751
-Meu Amigo Lutcha 4K	dub=0:208206,0:191128,2:1067010,2:1021556	leg=0:191448,2:1032016
-Meu Amigo Ninja	dub=0:198720,2:1039581	leg=0:182899,2:1249230
-Meu Amigo Panda	dub=0:162035,2:1068814
-Meu Amigo Pinguim	dub=0:292271,2:1056480	leg=0:292272,2:1028916
-Meu Amigo Robô	dub=0:76697,2:1269869,2:1067896	leg=0:288575,2:1249362
-Meu Amigo Totoro	dub=0:309535,0:46143,2:1062167	leg=0:309536,2:1029068
-Meu Amigo Vampiro	dub=0:20389,2:1062713
-Meu Amigo, O Dragão	dub=0:117070,2:1068289
-Meu Amigo, o Unicórnio	dub=0:128572,2:1067246
-Meu Amigãozão: O Filme	dub=0:200858,2:1072192
-Meu Amor Por Grace	dub=0:297090,2:1067561	leg=0:297091,2:1034140
-Meu Amor Vai Fazer Voce Desaparecer	dub=2:1269965
-Meu Amor É Um Príncipe	dub=0:31449,2:1049709
-Meu Ano em Oxford 4K	dub=0:341037,0:337418,2:1038701,2:1037799	leg=0:337417,2:1038055
-Meu Avô Stanislau	dub=0:365296,2:1256654
-Meu Bebê	dub=0:33385,2:1053402
-Meu Bolo Favorito	dub=2:1266072	leg=0:365402,2:1033032
-Meu Cachorro é um Robô	dub=0:310755,2:1067830	leg=0:310756,2:1035241
-Meu Caro Vampiro	dub=0:208345,2:1058086	leg=0:208346,2:1029521
-Meu Casamento Preferido	dub=0:376791,2:1268377	leg=0:376790,2:1268300
-Meu Coração Só Irá Bater Se Você Pedir	dub=0:297092,0:195617,2:1057753	leg=0:297093,0:195610,2:1023749
-Meu Coração é um Pouco Mais Vazio na Cheia	dub=2:1273178
-Meu Corpo, Minha Vida	dub=0:366101,2:1266925
-Meu Cunhado é Um Vampiro 4K	dub=0:239788,0:235501,2:1057550,2:1022379
-Meu Eterno Primeiro Amor	dub=0:176809,0:107000,2:1064038	leg=0:176807,2:1030879
-Meu Eterno Talvez 4K	dub=0:189907,0:24162,2:1052920,2:1022334
-Meu Eu do Futuro 4K	dub=0:329195,0:328958,2:1052885,2:1023123	leg=0:328957,0:294169,2:1027394
-Meu Ex e um Espiao	dub=0:20104,2:1056988
-Meu Extraordinário Verão com Tess	dub=0:161971,0:161968,2:1040890
-Meu Filho	dub=0:382832,0:301661,0:148644,2:1051649	leg=0:382831,0:301662,0:148637,2:1024566
-Meu Filho e Eu	dub=0:338601,2:1039524	leg=0:338600,2:1029334
-Meu Filho, Nosso Mundo 4K	dub=0:294126,0:288576,2:1055567,2:1022485	leg=0:288577,2:1249280
-Meu Filho, O Estuprador	dub=0:338603,2:1050270	leg=0:338602,2:1028477
-Meu Irmão e Eu	dub=2:1265991	leg=0:284331,0:266655,2:1025841
-Meu Irmão, Minha Irmã	dub=0:131226,2:1040949	leg=0:131227,2:1028210
-Meu Japao Brasileiro	dub=2:1268532
-Meu Leal Companheiro	dub=0:73282,2:1068551
-Meu Malvado Favorito	dub=0:21409,2:1062435
-Meu Malvado Favorito 2	dub=0:21407,2:1061556
-Meu Malvado Favorito 3	dub=0:21408,2:1061797
-Meu Malvado Favorito 4	dub=0:281510,0:281509,2:1061393,2:1022209	leg=0:281511,2:1032482
-Meu Marido Virou um Cachorro	dub=0:317310,2:1068125
-Meu Melhor Amigo Vai Casar	dub=0:236311,2:1063598	leg=0:236313,2:1028319
-Meu Mestre, Minha Vida	dub=0:129572,2:1042177
-Meu Monstro de Estimação	dub=0:92020,2:1039957
-Meu Namorado Fake	dub=0:162023,0:162022,2:1053274
-Meu Namorado e um Zumbi	dub=2:1268718
-Meu Nome Era Eileen 4K	dub=0:267629,0:255567,2:1043164,2:1022624	leg=0:255568
-Meu Nome Nao E Johnny	dub=0:24937,2:1052362
-Meu Nome e Mo Nique	dub=2:1265257
-Meu Nome e Paul Walker	dub=2:1271023
-Meu Nome e Radio	dub=0:21037,2:1042832
-Meu Nome É Emily	dub=0:35265,2:1042331
-Meu Nome é Agneta 4K	dub=0:376602,0:376517,2:1267376,2:1260116	leg=0:376516,2:1267307
-Meu Nome é Bagdá	dub=0:157963,2:1042732
-Meu Nome é Chihiro	dub=0:187855,2:1040580	leg=0:187854,2:1026508
-Meu Nome é Coogan	dub=0:350996,2:1264719	leg=0:350995,2:1264742
-Meu Nome é Dolemite	dub=0:30464,2:1045844
-Meu Nome é Gal	dub=0:363887,0:229467,2:1267145,2:1072291
-Meu Nome é Greta	dub=0:119641,2:1048633	leg=0:119639,2:1024829
-Meu Nome é Jeeg Robot	dub=0:330026,2:1060407	leg=0:330025,2:1027311
-Meu Nome é Khan	dub=0:264150,2:1065871
-Meu Nome é Loh Kiwan	dub=0:251176,2:1064124	leg=0:251177,2:1030542
-Meu Nome é Maria	dub=2:1271045	leg=0:324544,2:1035523
-Meu Nome é Ninguém	dub=0:370344,0:20706,2:1069310
-Meu Nome é Sara	dub=0:369424,2:1272461	leg=0:369423,2:1272400
-Meu Nome é Taylor, Drillbit Taylor	dub=0:347291,0:214171,2:1054412	leg=0:347290,2:1036601
-Meu Nome é Vingança	dub=0:181079,2:1056347	leg=0:181083,2:1036046
-Meu Novo Brinquedo	dub=0:229164,2:1053726	leg=0:229171,2:1033536
-Meu Não Tão Perfeito Marido	dub=0:46144,2:1049590
-Meu Padrasto Malvado	dub=0:48266,2:1050550
-Meu Pai 4K	dub=0:101187,0:101178,2:1040515,2:1021593
-Meu Pai é um Perigo	dub=0:207323,2:1053364	leg=0:207322,2:1027597
-Meu Pai, o Assassino BTK	dub=0:347679,2:1249871	leg=0:347678,2:1249850
-Meu Pais Imaginario	dub=2:1270813
-Meu Papai e Noel 1	dub=2:1268700
-Meu Passado Me Condena	dub=0:26448,2:1054948
-Meu Passado me Condena 2	dub=2:1269644
-Meu País	dub=0:106832,2:1042354
-Meu Pedaço de Terra	dub=0:242160,0:242159,2:1043385
-Meu Pequeno Ladrao	dub=2:1269611
-Meu Policial 4K	dub=0:179783,0:178829,2:1040536,2:1021635	leg=0:178808,2:1030027
-Meu Porto Seguro	dub=0:155718,2:1064751	leg=0:155725,2:1034992
-Meu Porto Seguro 2	dub=0:262351,2:1064687	leg=0:262352,2:1024068
-Meu Primeiro Amor	dub=0:20707,2:1270553,2:1068175
-Meu Primeiro Amor de Verão	dub=0:371177,2:1267886	leg=0:371176,2:1267852
-Meu Primeiro Verão na Califórnia	dub=0:230284,2:1065929	leg=0:230288,2:1249383
-Meu Primo	dub=0:168513,2:1053021	leg=0:168516,2:1030413
-Meu Primo Vinny	dub=2:1270693
-Meu Professor, Minha Obsessão	dub=0:317235,2:1050558
-Meu Próprio Filho	dub=2:1293151
-Meu Psicólogo Imaginário	dub=0:161522,0:161518,2:1054344
-Meu Pé de Laranja Lima	dub=0:358834,2:1269535
-Meu Querido Assassino 4K	dub=0:378014,0:377102,2:1268427,2:1260299	leg=0:377101,2:1268336
-Meu Querido Bobby: Era Tudo uma Farsa	dub=0:291164,2:1049221
-Meu Querido Demônio	dub=0:319000,2:1040150
-Meu Querido Golpista	dub=0:336969,2:1064497	leg=0:336968,2:1023725
-Meu Romance Perfeito	dub=2:1271814
-Meu Sangue Ferve por Você	dub=0:279209,2:1072096
-Meu Sangue é Vermelho	dub=0:229160,2:1049046
-Meu Sonho Americano	dub=0:370714,2:1267583	leg=0:370713,2:1267586
-Meu Sonho, Seu Filho	dub=0:221626,2:1041556	leg=0:221625,2:1026494
-Meu Super Aniversario de 16 Anos	dub=2:1269523
-Meu Tio José	dub=0:169728,2:1062615
-Meu Tricolor de Aço	dub=0:33386,2:1048182
-Meu Vizinho Adolf	dub=0:200748,2:1041646	leg=0:200749,2:1029569
-Meu Vizinho Mafioso	dub=0:222394,2:1052726
-Meu Vizinho Mafioso 2	dub=0:103974,2:1052348
-Meu Álbum de Amores	dub=0:207374,2:1072102
-Meu Ódio Será Sua Herança	dub=0:371905,0:96024,2:1069135	leg=0:371904,2:1268085
+Metropolis (2001)	dub=2:1270961
+Meu "Querido" Elfo	dub=0:161981,0:161980
+Meu Amigo Dahmer	dub=0:45099
+Meu Amigo Dahmer - (2017)	dub=2:1045625
+Meu Amigo Enzo - (2019)	dub=2:1064035,2:1021922	leg=2:1024538
+Meu Amigo Enzo 4K	dub=0:341036,0:340467,0:210389,0:30663	leg=0:340466
+Meu Amigo Flash (1997)	dub=2:1266371
+Meu Amigo Harvey	dub=0:350994	leg=0:350993
+Meu Amigo Harvey (1950)	dub=2:1264822	leg=2:1264751
+Meu Amigo Lutcha - (2023)	dub=2:1067010,2:1021556	leg=2:1032016
+Meu Amigo Lutcha 4K	dub=0:208206,0:191128	leg=0:191448
+Meu Amigo Ninja	dub=0:198720	leg=0:182899
+Meu Amigo Ninja - (2018)	dub=2:1039581	leg=2:1249230
+Meu Amigo Panda	dub=0:162035
+Meu Amigo Panda - (1995)	dub=2:1068814
+Meu Amigo Pinguim	dub=0:292271	leg=0:292272
+Meu Amigo Pinguim - (2024)	dub=2:1056480	leg=2:1028916
+Meu Amigo Robo (2023)	dub=2:1269869	leg=2:1249362
+Meu Amigo Robô	dub=0:76697	leg=0:288575
+Meu Amigo Robô - (2019)	dub=2:1067896
+Meu Amigo Totoro	dub=0:309535,0:46143	leg=0:309536
+Meu Amigo Totoro - (1988)	dub=2:1062167	leg=2:1029068
+Meu Amigo Vampiro	dub=0:20389
+Meu Amigo Vampiro - (2017)	dub=2:1062713
+Meu Amigo, O Dragão	dub=0:117070
+Meu Amigo, O Dragão - (2016)	dub=2:1068289
+Meu Amigo, o Unicórnio	dub=0:128572
+Meu Amigo, o Unicórnio - (1998)	dub=2:1067246
+Meu Amigãozão: O Filme	dub=0:200858
+Meu Amigãozão: O Filme - (2022)	dub=2:1072192
+Meu Amor Por Grace	dub=0:297090	leg=0:297091
+Meu Amor Por Grace - (2018)	dub=2:1067561	leg=2:1034140
+Meu Amor Vai Fazer Voce Desaparecer (2025)	dub=2:1269965
+Meu Amor É Um Príncipe	dub=0:31449
+Meu Amor É Um Príncipe - (2017)	dub=2:1049709
+Meu Ano em Oxford 4K	dub=0:341037,0:337418	leg=0:337417
+Meu Ano em Oxford 4K - (2025)	dub=2:1038701,2:1037799	leg=2:1038055
+Meu Avô Stanislau	dub=0:365296
+Meu Avô Stanislau (2026)	dub=2:1256654
+Meu Bebê	dub=0:33385
+Meu Bebê - (2019)	dub=2:1053402
+Meu Bolo Favorito	leg=0:365402
+Meu Bolo Favorito (2024)	dub=2:1266072	leg=2:1033032
+Meu Cachorro é um Robô	dub=0:310755	leg=0:310756
+Meu Cachorro é um Robô - (2017)	dub=2:1067830	leg=2:1035241
+Meu Caro Vampiro	dub=0:208345	leg=0:208346
+Meu Caro Vampiro - (2019)	dub=2:1058086	leg=2:1029521
+Meu Casamento Preferido	dub=0:376791	leg=0:376790
+Meu Casamento Preferido (2017)	dub=2:1268377	leg=2:1268300
+Meu Coração Só Irá Bater Se Você Pedir	dub=0:297092,0:195617	leg=0:297093,0:195610
+Meu Coração Só Irá Bater Se Você Pedir - (2020)	dub=2:1057753	leg=2:1023749
+Meu Coração é um Pouco Mais Vazio na Cheia (2021)	dub=2:1273178
+Meu Corpo, Minha Vida	dub=0:366101
+Meu Corpo, Minha Vida (2017)	dub=2:1266925
+Meu Cunhado é Um Vampiro - (2023)	dub=2:1057550,2:1022379
+Meu Cunhado é Um Vampiro 4K	dub=0:239788,0:235501
+Meu Eterno Primeiro Amor	dub=0:176809,0:107000	leg=0:176807
+Meu Eterno Primeiro Amor - (2020)	dub=2:1064038	leg=2:1030879
+Meu Eterno Talvez - (2019)	dub=2:1052920,2:1022334
+Meu Eterno Talvez 4K	dub=0:189907,0:24162
+Meu Eu do Futuro - (2024)	dub=2:1052885,2:1023123	leg=2:1027394
+Meu Eu do Futuro 4K	dub=0:329195,0:328958	leg=0:328957,0:294169
+Meu Ex e um Espiao	dub=0:20104
+Meu Ex e um Espiao - (2018)	dub=2:1056988
+Meu Extraordinário Verão com Tess	dub=0:161971,0:161968
+Meu Extraordinário Verão com Tess - (2019)	dub=2:1040890
+Meu Filho	dub=0:382832,0:301661,0:148644	leg=0:382831,0:301662,0:148637
+Meu Filho - (2021)	dub=2:1051649	leg=2:1024566
+Meu Filho e Eu	dub=0:338601	leg=0:338600
+Meu Filho e Eu - (2016)	dub=2:1039524	leg=2:1029334
+Meu Filho, Nosso Mundo - (2024)	dub=2:1055567,2:1022485	leg=2:1249280
+Meu Filho, Nosso Mundo 4K	dub=0:294126,0:288576	leg=0:288577
+Meu Filho, O Estuprador	dub=0:338603	leg=0:338602
+Meu Filho, O Estuprador - (1995)	dub=2:1050270	leg=2:1028477
+Meu Irmao e Eu (2023)	dub=2:1265991	leg=2:1025841
+Meu Irmão e Eu	leg=0:284331,0:266655
+Meu Irmão, Minha Irmã	dub=0:131226	leg=0:131227
+Meu Irmão, Minha Irmã - (2021)	dub=2:1040949	leg=2:1028210
+Meu Japao Brasileiro (1964)	dub=2:1268532
+Meu Leal Companheiro	dub=0:73282
+Meu Leal Companheiro - (1961)	dub=2:1068551
+Meu Malvado Favorito	dub=0:21409
+Meu Malvado Favorito - (2010)	dub=2:1062435
+Meu Malvado Favorito 2	dub=0:21407
+Meu Malvado Favorito 2 - (2013)	dub=2:1061556
+Meu Malvado Favorito 3	dub=0:21408
+Meu Malvado Favorito 3 - (2017)	dub=2:1061797
+Meu Malvado Favorito 4	dub=0:281510,0:281509	leg=0:281511
+Meu Malvado Favorito 4 - (2024)	dub=2:1061393,2:1022209	leg=2:1032482
+Meu Marido Virou um Cachorro	dub=0:317310
+Meu Marido Virou um Cachorro - (2022)	dub=2:1068125
+Meu Melhor Amigo Vai Casar	dub=0:236311	leg=0:236313
+Meu Melhor Amigo Vai Casar - (2019)	dub=2:1063598	leg=2:1028319
+Meu Mestre, Minha Vida	dub=0:129572
+Meu Mestre, Minha Vida - (1989)	dub=2:1042177
+Meu Monstro de Estimação	dub=0:92020
+Meu Monstro de Estimação - (2007)	dub=2:1039957
+Meu Namorado Fake	dub=0:162023,0:162022
+Meu Namorado Fake - (2022)	dub=2:1053274
+Meu Namorado e um Zumbi (2013)	dub=2:1268718
+Meu Nome E Ninguem - (1973)	dub=2:1069310
+Meu Nome Era Eileen - (2023)	dub=2:1043164,2:1022624
+Meu Nome Era Eileen 4K	dub=0:267629,0:255567	leg=0:255568
+Meu Nome Nao E Johnny	dub=0:24937
+Meu Nome Nao E Johnny - (2008)	dub=2:1052362
+Meu Nome e Maria (2024)	dub=2:1271045	leg=2:1035523
+Meu Nome e Mo Nique (2023)	dub=2:1265257
+Meu Nome e Paul Walker (2018)	dub=2:1271023
+Meu Nome e Radio	dub=0:21037
+Meu Nome e Radio - (2003)	dub=2:1042832
+Meu Nome É Emily	dub=0:35265
+Meu Nome É Emily - (2016)	dub=2:1042331
+Meu Nome é Agneta 4K	dub=0:376602,0:376517	leg=0:376516
+Meu Nome é Agneta 4K (2026)	dub=2:1267376,2:1260116	leg=2:1267307
+Meu Nome é Bagdá	dub=0:157963
+Meu Nome é Bagdá - (2021)	dub=2:1042732
+Meu Nome é Chihiro	dub=0:187855	leg=0:187854
+Meu Nome é Chihiro - (2023)	dub=2:1040580	leg=2:1026508
+Meu Nome é Coogan	dub=0:350996	leg=0:350995
+Meu Nome é Coogan (1968)	dub=2:1264719	leg=2:1264742
+Meu Nome é Dolemite	dub=0:30464
+Meu Nome é Dolemite - (2019)	dub=2:1045844
+Meu Nome é Gal	dub=0:363887,0:229467
+Meu Nome é Gal (1970)	dub=2:1267145
+Meu Nome é Gal - (2023)	dub=2:1072291
+Meu Nome é Greta	dub=0:119641	leg=0:119639
+Meu Nome é Greta - (2020)	dub=2:1048633	leg=2:1024829
+Meu Nome é Jeeg Robot	dub=0:330026	leg=0:330025
+Meu Nome é Jeeg Robot - (2016)	dub=2:1060407	leg=2:1027311
+Meu Nome é Khan	dub=0:264150
+Meu Nome é Khan - (2010)	dub=2:1065871
+Meu Nome é Loh Kiwan	dub=0:251176	leg=0:251177
+Meu Nome é Loh Kiwan - (2024)	dub=2:1064124	leg=2:1030542
+Meu Nome é Maria	leg=0:324544
+Meu Nome é Ninguém	dub=0:370344,0:20706
+Meu Nome é Sara	dub=0:369424	leg=0:369423
+Meu Nome é Sara (2020)	dub=2:1272461	leg=2:1272400
+Meu Nome é Taylor, Drillbit Taylor	dub=0:347291,0:214171	leg=0:347290
+Meu Nome é Taylor, Drillbit Taylor - (2008)	dub=2:1054412	leg=2:1036601
+Meu Nome é Vingança	dub=0:181079	leg=0:181083
+Meu Nome é Vingança - (2022)	dub=2:1056347	leg=2:1036046
+Meu Novo Brinquedo	dub=0:229164	leg=0:229171
+Meu Novo Brinquedo - (2022)	dub=2:1053726	leg=2:1033536
+Meu Não Tão Perfeito Marido	dub=0:46144
+Meu Não Tão Perfeito Marido - (2019)	dub=2:1049590
+Meu Padrasto Malvado	dub=0:48266
+Meu Padrasto Malvado - (2019)	dub=2:1050550
+Meu Pai - (2020)	dub=2:1040515,2:1021593
+Meu Pai 4K	dub=0:101187,0:101178
+Meu Pai é um Perigo	dub=0:207323	leg=0:207322
+Meu Pai é um Perigo - (2023)	dub=2:1053364	leg=2:1027597
+Meu Pai, o Assassino BTK	dub=0:347679	leg=0:347678
+Meu Pai, o Assassino BTK - (2025)	dub=2:1249871	leg=2:1249850
+Meu Pais Imaginario (2022)	dub=2:1270813
+Meu Papai e Noel 1 (1994)	dub=2:1268700
+Meu Passado Me Condena	dub=0:26448
+Meu Passado Me Condena - (2013)	dub=2:1054948
+Meu Passado me Condena 2 (2015)	dub=2:1269644
+Meu País	dub=0:106832
+Meu País - (2011)	dub=2:1042354
+Meu Pe de Laranja Lima (2012)	dub=2:1269535
+Meu Pedaço de Terra	dub=0:242160,0:242159
+Meu Pedaço de Terra - (2022)	dub=2:1043385
+Meu Pequeno Ladrao (1994)	dub=2:1269611
+Meu Policial - (2022)	dub=2:1040536,2:1021635	leg=2:1030027
+Meu Policial 4K	dub=0:179783,0:178829	leg=0:178808
+Meu Porto Seguro	dub=0:155718	leg=0:155725
+Meu Porto Seguro - (2022)	dub=2:1064751	leg=2:1034992
+Meu Porto Seguro 2	dub=0:262351	leg=0:262352
+Meu Porto Seguro 2 - (2024)	dub=2:1064687	leg=2:1024068
+Meu Primeiro Amor	dub=0:20707
+Meu Primeiro Amor (1991)	dub=2:1270553
+Meu Primeiro Amor - (1994)	dub=2:1068175
+Meu Primeiro Amor de Verão	dub=0:371177	leg=0:371176
+Meu Primeiro Amor de Verão (2024)	dub=2:1267886	leg=2:1267852
+Meu Primeiro Verão na Califórnia	dub=0:230284	leg=0:230288
+Meu Primeiro Verão na Califórnia - (2018)	dub=2:1065929	leg=2:1249383
+Meu Primo	dub=0:168513	leg=0:168516
+Meu Primo - (2020)	dub=2:1053021	leg=2:1030413
+Meu Primo Vinny (1992)	dub=2:1270693
+Meu Professor, Minha Obsessão	dub=0:317235
+Meu Professor, Minha Obsessão - (2018)	dub=2:1050558
+Meu Próprio Filho (2026)	dub=2:1293151
+Meu Psicólogo Imaginário	dub=0:161522,0:161518
+Meu Psicólogo Imaginário - (2021)	dub=2:1054344
+Meu Pé de Laranja Lima	dub=0:358834
+Meu Querido Assassino 4K	dub=0:378014,0:377102	leg=0:377101
+Meu Querido Assassino 4K (2026)	dub=2:1268427,2:1260299	leg=2:1268336
+Meu Querido Bobby: Era Tudo uma Farsa	dub=0:291164
+Meu Querido Bobby: Era Tudo uma Farsa - (2024)	dub=2:1049221
+Meu Querido Demônio	dub=0:319000
+Meu Querido Demônio - (1987)	dub=2:1040150
+Meu Querido Elfo - (2019)	dub=2:1067272
+Meu Querido Golpista	dub=0:336969	leg=0:336968
+Meu Querido Golpista - (1991)	dub=2:1064497	leg=2:1023725
+Meu Romance Perfeito (2018)	dub=2:1271814
+Meu Sangue Ferve por Você	dub=0:279209
+Meu Sangue Ferve por Você - (2024)	dub=2:1072096
+Meu Sangue é Vermelho	dub=0:229160
+Meu Sangue é Vermelho - (2019)	dub=2:1049046
+Meu Sonho Americano	dub=0:370714	leg=0:370713
+Meu Sonho Americano (2024)	dub=2:1267583	leg=2:1267586
+Meu Sonho, Seu Filho	dub=0:221626	leg=0:221625
+Meu Sonho, Seu Filho - (2019)	dub=2:1041556	leg=2:1026494
+Meu Super Aniversario de 16 Anos (2009)	dub=2:1269523
+Meu Tio José	dub=0:169728
+Meu Tio José - (2021)	dub=2:1062615
+Meu Tricolor de Aço	dub=0:33386
+Meu Tricolor de Aço - (2018)	dub=2:1048182
+Meu Vizinho Adolf	dub=0:200748	leg=0:200749
+Meu Vizinho Adolf - (2022)	dub=2:1041646	leg=2:1029569
+Meu Vizinho Mafioso	dub=0:222394
+Meu Vizinho Mafioso - (2000)	dub=2:1052726
+Meu Vizinho Mafioso 2	dub=0:103974
+Meu Vizinho Mafioso 2 - (2004)	dub=2:1052348
+Meu Álbum de Amores	dub=0:207374
+Meu Álbum de Amores - (2022)	dub=2:1072102
+Meu Ódio Será Sua Herança	dub=0:371905,0:96024	leg=0:371904
+Meu Ódio Será Sua Herança (1969)	dub=2:1069135	leg=2:1268085
 Meu Último Desejo	dub=0:274998	leg=0:274999
-Meus 15 Anos	dub=0:131035,0:20708,2:1055158,2:1042685
-Meus 84 m	dub=0:335551,2:1037173	leg=0:335550,2:1038244
-Meus Amigos Dinossauros	dub=0:20390,2:1062837
-Meus Amigos Dinossauros 2	dub=0:321270,2:1068780
-Meus Dias de Compaixão	dub=0:48194,2:1063562
-Meus Encontros com Amber	dub=0:328239,2:1064523	leg=0:328238,2:1028490
-Meus Heróis Eram Cowboys	dub=0:128888,0:128875,2:1068945
-Meus Irmãos	dub=0:229142,2:1041723	leg=0:229141,2:1029051
-Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho - 2023	dub=2:1266288
-Meus Sogros Tão pro Crime	dub=0:370725,0:202582,0:202002,2:1249728,2:1046203	leg=0:370724,0:202003,2:1034080
-Meus Vizinhos Sao um Terror	dub=0:20709,2:1058651
-Mexicali: Terra sem Lei	dub=0:375709,2:1259743	leg=0:375708,2:1272338
-Mexida	dub=0:261339,2:1054904	leg=2:1036581
-Miami Vice	dub=0:198532,2:1047772
-Michael 4K	dub=0:382542,0:382530,0:381984,2:1272942,2:1261768	leg=0:381983,2:1272819
-Michael Jackson A Vida de Um Icone	dub=2:1267001
-Michael Jackson's This Is It	leg=0:307737,2:1030309
-Michael Jackson: Live in Bucharest - The Dangerous Tour	dub=2:1270518
-Michigan Hell House	dub=0:328507,2:1048684	leg=0:328506,2:1024420
-Mickey 17 4K	dub=0:318104,0:317721,2:1249875,2:1038016	leg=0:317697,2:1037433
-Mickey Salva o Natal	dub=0:182287,2:1050023	leg=0:182284,2:1249276
-Mickey e Seus Amigos: Gostosuras ou Travessuras	dub=0:228040,2:1062829
-Mickey e os Muitos Natais	dub=0:348307,2:1251077	leg=0:348306,2:1250999
-Mickey, Donald e Pateta: Os Três Mosqueteiros	dub=0:348118,2:1249804	leg=0:348117,2:1248956
-Mickey: A História de um Camundongo	dub=0:180303,2:1049115
-Midas Man	dub=2:1266869
-Midnight in the Switchgrass	leg=0:115495,2:1031256
-Midsommar: O Mal Não Espera a Noite	dub=0:32243,2:1069607
-Midway	leg=0:35266,2:1028804
-Midway - Batalha em Alto Mar 4K	dub=0:35983,0:35982,2:1249671,2:1066243
-Migrações Animais Épicas: Patagônia	dub=2:1270485	leg=0:246430,2:1027890
-Miguel Vem pro Fight	dub=2:1269999
-Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha	dub=2:1272760
-Mikaela	dub=0:376734,2:1260298	leg=0:376733,0:325913,2:1037219
-Mike & Nick & Nick & Alice 4K	dub=0:372418,0:371511,2:1272019,2:1258743	leg=0:371510,2:1267929
-Mike Birbiglia: The Good Life	dub=2:1270831	leg=0:323715,2:1038411
-Mike Epps: Sem Noção	leg=0:364619,2:1267272
+Meus 15 Anos	dub=0:131035,0:20708
+Meus 15 Anos - (2006)	dub=2:1042685
+Meus 15 Anos - (2017)	dub=2:1055158
+Meus 84 m	dub=0:335551	leg=0:335550
+Meus 84 m - (2025)	dub=2:1037173	leg=2:1038244
+Meus Amigos Dinossauros	dub=0:20390
+Meus Amigos Dinossauros - (2012)	dub=2:1062837
+Meus Amigos Dinossauros 2	dub=0:321270
+Meus Amigos Dinossauros 2 - (1994)	dub=2:1068780
+Meus Dias de Compaixão	dub=0:48194
+Meus Dias de Compaixão - (2018)	dub=2:1063562
+Meus Encontros com Amber	dub=0:328239	leg=0:328238
+Meus Encontros com Amber - (2020)	dub=2:1064523	leg=2:1028490
+Meus Heróis Eram Cowboys	dub=0:128888,0:128875
+Meus Heróis Eram Cowboys - (2021)	dub=2:1068945
+Meus Irmãos	dub=0:229142	leg=0:229141
+Meus Irmãos - (2018)	dub=2:1041723	leg=2:1029051
+Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho - (2023)	dub=2:1266288
+Meus Sogros Tão pro Crime	dub=0:370725,0:202582,0:202002	leg=0:370724,0:202003
+Meus Sogros Tão pro Crime 4K - (2023)	dub=2:1249728,2:1046203	leg=2:1034080
+Meus Vizinhos Sao um Terror	dub=0:20709
+Meus Vizinhos Sao um Terror - (1989)	dub=2:1058651
+Mexicali: Terra sem Lei	dub=0:375709	leg=0:375708
+Mexicali: Terra sem Lei (2026)	dub=2:1259743	leg=2:1272338
+Mexida	dub=0:261339
+Mexida - (2024)	dub=2:1054904	leg=2:1036581
+Miami Vice	dub=0:198532
+Miami Vice - (2006)	dub=2:1047772
+Michael 4K	dub=0:382542,0:382530,0:381984	leg=0:381983
+Michael 4K (2026)	dub=2:1272942,2:1261768	leg=2:1272819
+Michael Jackson A Vida de Um Icone (2011)	dub=2:1267001
+Michael Jackson's This Is It	leg=0:307737
+Michael Jackson's This Is It - (2009)	leg=2:1030309
+Michael Jackson: Live in Bucharest - The Dangerous Tour (1992)	dub=2:1270518
+Michigan Hell House	dub=0:328507	leg=0:328506
+Michigan Hell House - (2023)	dub=2:1048684	leg=2:1024420
+Mickey 17 4K	dub=0:318104,0:317721	leg=0:317697
+Mickey 17 4K - (2025)	dub=2:1249875,2:1038016	leg=2:1037433
+Mickey Salva o Natal	dub=0:182287	leg=0:182284
+Mickey Salva o Natal - (2022)	dub=2:1050023	leg=2:1249276
+Mickey e Seus Amigos: Gostosuras ou Travessuras	dub=0:228040
+Mickey e Seus Amigos: Gostosuras ou Travessuras - (2023)	dub=2:1062829
+Mickey e os Muitos Natais	dub=0:348307	leg=0:348306
+Mickey e os Muitos Natais - (2024)	dub=2:1251077	leg=2:1250999
+Mickey, Donald e Pateta: Os Três Mosqueteiros	dub=0:348118	leg=0:348117
+Mickey, Donald e Pateta: Os Três Mosqueteiros - (2004)	dub=2:1249804	leg=2:1248956
+Mickey: A História de um Camundongo	dub=0:180303
+Mickey: A História de um Camundongo - (2022)	dub=2:1049115
+Midas Man (2024)	dub=2:1266869
+Midnight in the Switchgrass	leg=0:115495
+Midnight in the Switchgrass - (2021)	leg=2:1031256
+Midsommar: O Mal Não Espera a Noite	dub=0:32243
+Midsommar: O Mal Não Espera a Noite - (2019)	dub=2:1069607
+Midway	leg=0:35266
+Midway - (2019)	leg=2:1028804
+Midway - Batalha em Alto Mar 4K	dub=0:35983,0:35982
+Midway - Batalha em Alto Mar 4K - (2019)	dub=2:1249671,2:1066243
+Migracoes Animais Epicas Patagonia (2023)	dub=2:1270485	leg=2:1027890
+Migrações Animais Épicas: Patagônia	leg=0:246430
+Miguel Vem pro Fight (2023)	dub=2:1269999
+Miguel Ángel Blanco: As 48 Horas que Mudaram a Espanha (2026)	dub=2:1272760
+Mikaela	dub=0:376734	leg=0:376733,0:325913
+Mikaela (2025)	dub=2:1260298	leg=2:1037219
+Mike & Nick & Nick & Alice 4K	dub=0:372418,0:371511	leg=0:371510
+Mike & Nick & Nick & Alice 4K (2026)	dub=2:1272019,2:1258743	leg=2:1267929
+Mike Birbiglia The Good Life (2025)	dub=2:1270831	leg=2:1038411
+Mike Birbiglia: The Good Life	leg=0:323715
+Mike Epps: Sem Noção	leg=0:364619
+Mike Epps: Sem Noção (2026)	leg=2:1267272
 Mikolo	leg=0:246431
-Mil Coisas que Faria por Voce	dub=2:1269754
-Mil Seculos Antes de Cristo	dub=2:1270491
-Mil Vezes Boa Noite	dub=0:341796,2:1041461	leg=0:341795,2:1030072
-Mil e Um 4K	dub=0:210991,2:1271251,2:1249642
-Milada	dub=0:367045,2:1264801	leg=0:367044,2:1267705
-Milagre Azul	dub=0:108588,2:1068764
-Milagre Vivo	dub=0:379426,2:1272718	leg=0:379425,2:1272532
-Milagre do Destino	dub=0:316363,2:1037982	leg=0:316364,2:1037479
-Milagre na Caverna	dub=2:1265422
-Milagre na Cela 7	dub=0:369426,0:63113,2:1272411,2:1041325	leg=0:369425,0:42068,2:1272399,2:1032991
-Milagres de Jesus - O Filme	dub=0:21530,2:1045931
-Milagres do Amor	dub=0:200869,2:1040954	leg=0:200870,2:1024650
-Milagres do Paraiso	dub=0:21038,2:1068369
-Milagros: Uma Ursa Extraordinária	dub=0:348309,2:1250977	leg=0:348308,2:1251004
+Mil Coisas que Faria por Voce (2017)	dub=2:1269754
+Mil Seculos Antes de Cristo (1966)	dub=2:1270491
+Mil Vezes Boa Noite	dub=0:341796	leg=0:341795
+Mil Vezes Boa Noite - (2013)	dub=2:1041461	leg=2:1030072
+Mil e Um (2023)	dub=2:1271251,2:1249642
+Mil e Um 4K	dub=0:210991
+Milada	dub=0:367045	leg=0:367044
+Milada (2017)	dub=2:1264801	leg=2:1267705
+Milagre Azul	dub=0:108588
+Milagre Azul - (2021)	dub=2:1068764
+Milagre Vivo	dub=0:379426	leg=0:379425
+Milagre Vivo (2024)	dub=2:1272718	leg=2:1272532
+Milagre do Destino	dub=0:316363	leg=0:316364
+Milagre do Destino - (2025)	dub=2:1037982	leg=2:1037479
+Milagre na Caverna (2019)	dub=2:1265422
+Milagre na Cela 7	dub=0:369426,0:63113	leg=0:369425,0:42068
+Milagre na Cela 7 (2013)	dub=2:1272411	leg=2:1272399
+Milagre na Cela 7 - (2019)	dub=2:1041325	leg=2:1032991
+Milagres de Jesus - O Filme	dub=0:21530
+Milagres de Jesus - O Filme - (2016)	dub=2:1045931
+Milagres do Amor	dub=0:200869	leg=0:200870
+Milagres do Amor - (2019)	dub=2:1040954	leg=2:1024650
+Milagres do Paraiso	dub=0:21038
+Milagres do Paraiso - (2016)	dub=2:1068369
+Milagros: Uma Ursa Extraordinária	dub=0:348309	leg=0:348308
+Milagros: Uma Ursa Extraordinária - (2023)	dub=2:1250977	leg=2:1251004
 Mile 666	leg=0:373345
-Mile 666 Legendado	dub=2:1259081
-Miles Davis: Birth of the Cool	leg=0:46145,2:1026811
-Milionário	dub=0:341039,2:1037784	leg=0:341038,2:1037951
-Millenium A Garota na Teia de Aranha 4K	dub=0:22510,2:1023206
-Millennium 1 Os Homens que Nao Amavam as Mulheres	dub=0:21039,2:1069881
-Millennium 2 A Menina que Brincava com Fogo	dub=0:21040,2:1071230
-Millennium 3 A Rainha do Castelo de Ar	dub=0:21041,2:1070915
-Millennium A Garota Na Teia De Aranha	dub=0:21444,2:1052852
-Millennium: Os Homens Que Não Amavam as Mulheres	dub=0:352223,0:129532,2:1069837	leg=0:352222,2:1264889
-Milli Vanilli O Maior Escandalo do Mundo da Musica	dub=2:1268260
-Milton Gonçalves, Além do Espetáculo	dub=0:372118,2:1268232
-Milton Nascimento A Ultima Sessao de Musica	dub=2:1268536
+Mile 666 Legendado (2025)	dub=2:1259081
+Miles Davis: Birth of the Cool	leg=0:46145
+Miles Davis: Birth of the Cool - (2019)	leg=2:1026811
+Milionário	dub=0:341039	leg=0:341038
+Milionário - (2025)	dub=2:1037784	leg=2:1037951
+Millenium A Garota na Teia de Aranha 4K	dub=0:22510
+Millenium A Garota na Teia de Aranha 4K - (2018)	dub=2:1023206
+Millennium 1 Os Homens que Nao Amavam as Mulheres	dub=0:21039
+Millennium 1 Os Homens que Nao Amavam as Mulheres - (2009)	dub=2:1069881
+Millennium 2 A Menina que Brincava com Fogo	dub=0:21040
+Millennium 2 A Menina que Brincava com Fogo - (2009)	dub=2:1071230
+Millennium 3 A Rainha do Castelo de Ar	dub=0:21041
+Millennium 3 A Rainha do Castelo de Ar - (2009)	dub=2:1070915
+Millennium A Garota Na Teia De Aranha	dub=0:21444
+Millennium A Garota Na Teia De Aranha - (2018)	dub=2:1052852
+Millennium: Os Homens Que Não Amavam as Mulheres	dub=0:352223,0:129532	leg=0:352222
+Millennium: Os Homens Que Não Amavam as Mulheres (2011)	dub=2:1069837	leg=2:1264889
+Milli Vanilli O Maior Escandalo do Mundo da Musica (2023)	dub=2:1268260
+Milton Gonçalves, Além do Espetáculo	dub=0:372118
+Milton Gonçalves, Além do Espetáculo (2025)	dub=2:1268232
+Milton Nascimento A Ultima Sessao de Musica (2022)	dub=2:1268536
 Mimada pelo Amigo Multimilionário do Meu Ex-marido - 0 - 0	dub=2:1272735
-Mimadinhos	dub=0:140788,2:1053662	leg=0:140785,2:1249535
-Mina Abandonada	dub=2:1273243
-Minamata	dub=0:193264,2:1045484	leg=0:193265,2:1028416
-Minari - Em Busca da Felicidade	dub=0:126543,2:1040965	leg=0:126542,2:1035633
-Mind Body Spirit	dub=2:1266863	leg=0:286606,2:1026984
-Mind Talker	dub=2:1266145
-Mindcage	dub=0:185170,0:185169,2:1070100,2:1021725	leg=0:185168,2:1030241
-Mine 9	leg=0:33387,2:1033161
-Mineirinho, Vivo ou Morto	dub=0:348808,2:1251156
-Minha Amada Imortal	dub=0:98819,2:1071994
-Minha Amiga Morta Zoe	dub=0:323955,2:1038172	leg=0:323954,0:319797,2:1037109
-Minha Amiga Palma	dub=0:130195,2:1067215	leg=0:130194,2:1027482
-Minha Amiga é um E.T.	dub=0:373827,2:1272170	leg=0:373826,2:1272175
-Minha Arma Era a Lei	dub=0:281512,2:1270420	leg=0:281513
-Minha Babá é uma Vampira: O Filme	dub=0:202456,2:1050548
-Minha Casa	dub=0:204446,2:1069750	leg=0:204452,2:1030895
-Minha Casa Rosa	dub=0:22045,2:1041941
-Minha Culpa 4K	dub=0:198192,0:197639,2:1063336,2:1022279	leg=0:197638,2:1032106
-Minha Culpa: Londres 4K	dub=0:310765,0:310613,2:1037667,2:1036768	leg=0:310614,2:1038081
-Minha Estranha Família	dub=0:233509,2:1053771	leg=0:233514,2:1028470
-Minha Fama de Mau	dub=0:23821,2:1071956
-Minha Familia Ja Te Ama	dub=0:24938,2:1053173
-Minha Familia e o Lobo	dub=2:1271398
-Minha Família Perfeita	dub=0:192111,2:1054426
-Minha Família Quer que Eu Case	dub=0:230271,2:1063411	leg=0:230274,2:1028497
-Minha Família de Natal	dub=0:294415,0:294127,2:1050079	leg=0:294416,0:294128,2:1027346
-Minha Fera	dub=0:345479,2:1059460	leg=0:345478,2:1036369
-Minha Festa de 30 Anos	dub=2:1267225
-Minha Filha É Um Quarterback	dub=0:371907,2:1268100	leg=0:371906,2:1268043
-Minha Irma	dub=2:1271303
+Mimadinhos	dub=0:140788	leg=0:140785
+Mimadinhos - (2021)	dub=2:1053662	leg=2:1249535
+Mina Abandonada (2012)	dub=2:1273243
+Minamata	dub=0:193264	leg=0:193265
+Minamata - (2020)	dub=2:1045484	leg=2:1028416
+Minari - Em Busca da Felicidade	dub=0:126543	leg=0:126542
+Minari - Em Busca da Felicidade - (2020)	dub=2:1040965	leg=2:1035633
+Mind Body Spirit	leg=0:286606
+Mind Body Spirit (2023)	dub=2:1266863	leg=2:1026984
+Mind Talker (2021)	dub=2:1266145
+Mindcage	dub=0:185170,0:185169	leg=0:185168
+Mindcage - (2022)	dub=2:1070100,2:1021725	leg=2:1030241
+Mine 9	leg=0:33387
+Mine 9 - (2019)	leg=2:1033161
+Mineirinho, Vivo ou Morto	dub=0:348808
+Mineirinho, Vivo ou Morto - (1967)	dub=2:1251156
+Minha Amada Imortal	dub=0:98819
+Minha Amada Imortal - (1994)	dub=2:1071994
+Minha Amiga Morta Zoe	dub=0:323955	leg=0:323954,0:319797
+Minha Amiga Morta Zoe - (2025)	dub=2:1038172	leg=2:1037109
+Minha Amiga Palma	dub=0:130195	leg=0:130194
+Minha Amiga Palma - (2021)	dub=2:1067215	leg=2:1027482
+Minha Amiga é um E.T.	dub=0:373827	leg=0:373826
+Minha Amiga é um E.T. (2022)	dub=2:1272170	leg=2:1272175
+Minha Arma Era a Lei	dub=0:281512	leg=0:281513
+Minha Arma Era a Lei (2023)	dub=2:1270420
+Minha Babá é uma Vampira: O Filme	dub=0:202456
+Minha Babá é uma Vampira: O Filme - (2010)	dub=2:1050548
+Minha Casa	dub=0:204446	leg=0:204452
+Minha Casa - (2023)	dub=2:1069750	leg=2:1030895
+Minha Casa Rosa	dub=0:22045
+Minha Casa Rosa - (2018)	dub=2:1041941
+Minha Culpa - (2023)	dub=2:1063336,2:1022279	leg=2:1032106
+Minha Culpa 4K	dub=0:198192,0:197639	leg=0:197638
+Minha Culpa: Londres - (2025)	dub=2:1037667,2:1036768	leg=2:1038081
+Minha Culpa: Londres 4K	dub=0:310765,0:310613	leg=0:310614
+Minha Estranha Família	dub=0:233509	leg=0:233514
+Minha Estranha Família - (2021)	dub=2:1053771	leg=2:1028470
+Minha Fama de Mau	dub=0:23821
+Minha Fama de Mau - (2019)	dub=2:1071956
+Minha Familia Ja Te Ama	dub=0:24938
+Minha Familia Ja Te Ama - (2016)	dub=2:1053173
+Minha Familia e o Lobo (2019)	dub=2:1271398
+Minha Família Perfeita	dub=0:192111
+Minha Família Perfeita - (2022)	dub=2:1054426
+Minha Família Quer que Eu Case	dub=0:230271	leg=0:230274
+Minha Família Quer que Eu Case - (2023)	dub=2:1063411	leg=2:1028497
+Minha Família de Natal	dub=0:294415,0:294127	leg=0:294416,0:294128
+Minha Família de Natal - (2022)	dub=2:1050079	leg=2:1027346
+Minha Fera	dub=0:345479	leg=0:345478
+Minha Fera - (2024)	dub=2:1059460	leg=2:1036369
+Minha Festa de 30 Anos (2016)	dub=2:1267225
+Minha Filha É Um Quarterback	dub=0:371907	leg=0:371906
+Minha Filha É Um Quarterback (2008)	dub=2:1268100	leg=2:1268043
+Minha Irma (2020)	dub=2:1271303
 Minha Irma Arrasa	dub=0:22670
-Minha Irmã e Eu	dub=0:250660,2:1054463
-Minha Melhor Amiga	dub=0:370908,2:1267659	leg=0:370907,2:1267661
-Minha Morte	dub=0:144079,2:1070464	leg=0:144094,2:1249160
-Minha Mãe é Uma Peça 3	dub=0:41635,2:1053094
-Minha Namorada Assombrosa	dub=2:1269307	leg=0:295708,2:1028019
-Minha Namorada Favorita	dub=0:283257,2:1063468	leg=0:283258,2:1030292
-Minha Namorada Fora de Controle	dub=2:1270581
-Minha Noiva é de Matar	dub=0:160442,2:1052565
-Minha Obra-Prima	dub=0:281089,2:1054205	leg=0:281090,2:1249139
-Minha Patria Amada	dub=2:1270014	leg=2:1036454
-Minha Primeira Luta	dub=0:21042,2:1042418
-Minha Professora de Francês	dub=0:112397,2:1063498
-Minha Querida Confraria	dub=0:31928,2:1054473
-Minha Querida Esme	dub=0:299599,2:1057845	leg=0:299600,2:1026435
-Minha Querida Nora	dub=0:93651,2:1055195
-Minha Querida Oni	dub=0:262353,2:1039026	leg=0:262354,2:1249106
-Minha Querida Senhorita 4K	dub=0:376724,0:376604,2:1267377,2:1260138	leg=0:376603,2:1267300
-Minha Sogra me Odeia	dub=2:1269380
-Minha Solidão Tem Asas	dub=0:241787,0:241786,2:1248804
-Minha Super Ex-Namorada	dub=0:105250,2:1060832
-Minha Teoria da Popularidade	dub=0:256926,2:1068164	leg=2:1036598
-Minha Vida	dub=0:100365,2:1065780
-Minha Vida Além do Circo	dub=0:187888,2:1053942	leg=0:187889,2:1028482
-Minha Vida Dava um Filme	dub=0:122940,2:1054598
-Minha Vida Fora dos Trilhos	dub=0:282103,0:282102,2:1248766
-Minha Vida Incomoda Muita Gente	dub=0:151942,2:1064732	leg=0:151939,2:1029784
-Minha Vida Pela Sua	dub=0:188920,2:1053649	leg=0:188923,2:1033337
-Minha Vida Perfeita	dub=0:150725,2:1064121	leg=0:150724,2:1033051
-Minha Vida de Abobrinha	dub=2:1269097
-Minha Vida em Marte	dub=0:21445,2:1065591
-Minha Vida na Outra Vida	dub=2:1270102
-Minha Vingança	dub=0:185302,2:1046881	leg=0:185301,2:1024042
-Minha Zoe Minha Vida	dub=0:101659,2:1059742
-Minha mae e uma peca	dub=0:20711,2:1053162
-Minha mae e uma peca 2	dub=0:20710,2:1054809
-Minha Árvore de Natal Favorita	dub=0:190631,2:1049808	leg=0:190632,2:1032955
-Minhas Adoraveis Ex-Namoradas	dub=0:20712,2:1040133
-Minhas Férias com Patrick	dub=0:164210,2:1056345	leg=0:164217
-Minhas Mães e Meu Pai	dub=0:144102,2:1055094
-Minimalism: A Documentary About the Important Things	dub=2:1269075
-Minimalismo Já	dub=0:91269,2:1049198
-Minions	dub=0:20391,2:1063107
-Minions & Monstros	dub=2:1273234
-Minions Escoteiros	dub=2:1271399
-Minions: A Origem de Gru	dub=0:169766,0:169695,2:1061852,2:1021874	leg=0:169699,2:1249083
-Minor Premise	leg=0:89582,2:1035373
-Minority Report: A Nova Lei	dub=0:98252,2:1059810
-Minsk em Chamas	dub=0:273071,2:1041349	leg=0:273072,2:1028016
-Minta Para Mim	dub=0:174626,2:1043667	leg=0:174967,2:1249170
-Minta se For Capaz	dub=0:196773,2:1058211	leg=0:196781,2:1024065
-Minutemen: Viajantes do Tempo	dub=0:113023,2:1049688
-Minúsculos: O Filme	dub=0:353663,2:1265325
-Miraculous World - Xangai, a Lenda de Lady Dragon	dub=0:125648,2:1050561
-Miraculous World: Londres, Corrida Contra o Tempo	dub=0:307311,2:1061706
-Miraculous World: Nova Iorque, Herois Unidos	dub=2:1269811
-Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir	dub=0:249797,0:245496,2:1049805	leg=0:249798,0:245497,2:1029791
-Miraculous World: Tóquio – Força Estelar	dub=0:355669,2:1254627
-Miraculous: As Aventuras de Ladybug - O Filme	dub=0:205186,2:1248871	leg=0:205185,2:1033943
-Mirador	dub=0:336137,0:185847,2:1248799
-Miragem	dub=2:1271589
-Mirai	dub=0:370346	leg=0:370345,2:1266685
-Mirai no Mirai	dub=2:1266299
-Mirante	dub=0:369427,2:1272464
-Miroirs No. 3	leg=0:358146,2:1266260
-Miroirs No. 3 Legendado	dub=2:1255179
+Minha Irmã e Eu	dub=0:250660
+Minha Irmã e Eu - (2023)	dub=2:1054463
+Minha Melhor Amiga	dub=0:370908	leg=0:370907
+Minha Melhor Amiga (2014)	dub=2:1267659	leg=2:1267661
+Minha Morte	dub=0:144079	leg=0:144094
+Minha Morte - (2020)	dub=2:1070464	leg=2:1249160
+Minha Mãe é Uma Peça 3	dub=0:41635
+Minha Mãe é Uma Peça 3 - (2019)	dub=2:1053094
+Minha Namorada Assombrosa	leg=0:295708
+Minha Namorada Assombrosa (2024)	dub=2:1269307	leg=2:1028019
+Minha Namorada Favorita	dub=0:283257	leg=0:283258
+Minha Namorada Favorita - (2022)	dub=2:1063468	leg=2:1030292
+Minha Namorada Fora de Controle (2014)	dub=2:1270581
+Minha Noiva é de Matar	dub=0:160442
+Minha Noiva é de Matar - (2020)	dub=2:1052565
+Minha Obra-Prima	dub=0:281089	leg=0:281090
+Minha Obra-Prima - (2018)	dub=2:1054205	leg=2:1249139
+Minha Patria Amada (2024)	dub=2:1270014	leg=2:1036454
+Minha Primeira Luta	dub=0:21042
+Minha Primeira Luta - (2018)	dub=2:1042418
+Minha Professora de Francês	dub=0:112397
+Minha Professora de Francês - (1983)	dub=2:1063498
+Minha Querida Confraria	dub=0:31928
+Minha Querida Confraria - (2018)	dub=2:1054473
+Minha Querida Esme	dub=0:299599	leg=0:299600
+Minha Querida Esme - (2023)	dub=2:1057845	leg=2:1026435
+Minha Querida Nora	dub=0:93651
+Minha Querida Nora - (2020)	dub=2:1055195
+Minha Querida Oni	dub=0:262353	leg=0:262354
+Minha Querida Oni - (2024)	dub=2:1039026	leg=2:1249106
+Minha Querida Senhorita 4K	dub=0:376724,0:376604	leg=0:376603
+Minha Querida Senhorita 4K (2026)	dub=2:1267377,2:1260138	leg=2:1267300
+Minha Sogra me Odeia (2022)	dub=2:1269380
+Minha Solidão Tem Asas	dub=0:241787,0:241786
+Minha Solidão Tem Asas - (2023)	dub=2:1248804
+Minha Super Ex-Namorada	dub=0:105250
+Minha Super Ex-Namorada - (2006)	dub=2:1060832
+Minha Teoria da Popularidade	dub=0:256926
+Minha Teoria da Popularidade - (2024)	dub=2:1068164	leg=2:1036598
+Minha Vida	dub=0:100365
+Minha Vida - (1993)	dub=2:1065780
+Minha Vida Além do Circo	dub=0:187888	leg=0:187889
+Minha Vida Além do Circo - (2020)	dub=2:1053942	leg=2:1028482
+Minha Vida Dava um Filme	dub=0:122940
+Minha Vida Dava um Filme - (2012)	dub=2:1054598
+Minha Vida Fora dos Trilhos	dub=0:282103,0:282102
+Minha Vida Fora dos Trilhos - (2020)	dub=2:1248766
+Minha Vida Incomoda Muita Gente	dub=0:151942	leg=0:151939
+Minha Vida Incomoda Muita Gente - (2021)	dub=2:1064732	leg=2:1029784
+Minha Vida Pela Sua	dub=0:188920	leg=0:188923
+Minha Vida Pela Sua - (2020)	dub=2:1053649	leg=2:1033337
+Minha Vida Perfeita	dub=0:150725	leg=0:150724
+Minha Vida Perfeita - (2021)	dub=2:1064121	leg=2:1033051
+Minha Vida de Abobrinha (2016)	dub=2:1269097
+Minha Vida em Marte	dub=0:21445
+Minha Vida em Marte - (2018)	dub=2:1065591
+Minha Vida na Outra Vida (2000)	dub=2:1270102
+Minha Vingança	dub=0:185302	leg=0:185301
+Minha Vingança - (2021)	dub=2:1046881	leg=2:1024042
+Minha Zoe Minha Vida	dub=0:101659
+Minha Zoe Minha Vida - (2019)	dub=2:1059742
+Minha mae e uma peca	dub=0:20711
+Minha mae e uma peca - (2013)	dub=2:1053162
+Minha mae e uma peca 2	dub=0:20710
+Minha mae e uma peca 2 - (2016)	dub=2:1054809
+Minha Árvore de Natal Favorita	dub=0:190631	leg=0:190632
+Minha Árvore de Natal Favorita - (2022)	dub=2:1049808	leg=2:1032955
+Minhas Adoraveis Ex-Namoradas	dub=0:20712
+Minhas Adoraveis Ex-Namoradas - (2009)	dub=2:1040133
+Minhas Férias com Patrick	dub=0:164210	leg=0:164217
+Minhas Férias com Patrick - (2020)	dub=2:1056345
+Minhas Mães e Meu Pai	dub=0:144102
+Minhas Mães e Meu Pai - (2010)	dub=2:1055094
+Minimalism: A Documentary About the Important Things (2015)	dub=2:1269075
+Minimalismo Já	dub=0:91269
+Minimalismo Já - (2021)	dub=2:1049198
+Minions	dub=0:20391
+Minions & Monstros (2026)	dub=2:1273234
+Minions - (2015)	dub=2:1063107
+Minions Escoteiros (2019)	dub=2:1271399
+Minions: A Origem de Gru	dub=0:169766,0:169695	leg=0:169699
+Minions: A Origem de Gru - (2022)	dub=2:1061852,2:1021874	leg=2:1249083
+Minor Premise	leg=0:89582
+Minor Premise - (2020)	leg=2:1035373
+Minority Report: A Nova Lei	dub=0:98252
+Minority Report: A Nova Lei - (2002)	dub=2:1059810
+Minsk em Chamas	dub=0:273071	leg=0:273072
+Minsk em Chamas - (2022)	dub=2:1041349	leg=2:1028016
+Minta Para Mim	dub=0:174626	leg=0:174967
+Minta Para Mim - (2022)	dub=2:1043667	leg=2:1249170
+Minta se For Capaz	dub=0:196773	leg=0:196781
+Minta se For Capaz - (2020)	dub=2:1058211	leg=2:1024065
+Minutemen: Viajantes do Tempo	dub=0:113023
+Minutemen: Viajantes do Tempo - (2008)	dub=2:1049688
+Minúsculos: O Filme	dub=0:353663
+Minúsculos: O Filme (2013)	dub=2:1265325
+Miraculous World - Xangai, a Lenda de Lady Dragon	dub=0:125648
+Miraculous World - Xangai, a Lenda de Lady Dragon - (2021)	dub=2:1050561
+Miraculous World: Londres, Corrida Contra o Tempo	dub=0:307311
+Miraculous World: Londres, Corrida Contra o Tempo - (2024)	dub=2:1061706
+Miraculous World: Nova Iorque, Herois Unidos (2020)	dub=2:1269811
+Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir	dub=0:249797,0:245496	leg=0:249798,0:245497
+Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir - (2023)	dub=2:1049805	leg=2:1029791
+Miraculous World: Tóquio – Força Estelar	dub=0:355669
+Miraculous World: Tóquio – Força Estelar (2025)	dub=2:1254627
+Miraculous: As Aventuras de Ladybug - O Filme	dub=0:205186	leg=0:205185
+Miraculous: As Aventuras de Ladybug - O Filme - (2023)	dub=2:1248871	leg=2:1033943
+Mirador	dub=0:336137,0:185847
+Mirador - (2022)	dub=2:1248799
+Miragem (2014)	dub=2:1271589
+Mirai	dub=0:370346	leg=0:370345
+Mirai (2018)	leg=2:1266685
+Mirai no Mirai (2018)	dub=2:1266299
+Mirante	dub=0:369427
+Mirante (2019)	dub=2:1272464
+Miroirs No 3 - (2025)	leg=2:1266260
+Miroirs No. 3	leg=0:358146
+Miroirs No. 3 Legendado (2025)	dub=2:1255179
 Misdirection	dub=0:383135	leg=0:383134
-Misericórdia	dub=2:1271448	leg=0:365124,0:328510,2:1035037
-Miss	dub=0:185867,2:1054084	leg=0:185866,2:1024615
-Miss Americana	dub=2:1269398
-Miss Bala	dub=0:22046,2:1046567
-Miss Fisher and the Crypt of Tears	leg=0:46146,2:1030260
-Miss Itália Não Pode Morrer	dub=0:313280,2:1037517	leg=0:313281,2:1249924
-Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to Be Loved Legendado	dub=2:1256319
+Misericordia (2024)	dub=2:1271448	leg=2:1035037
+Misericórdia	leg=0:365124,0:328510
+Miss	dub=0:185867	leg=0:185866
+Miss - (2020)	dub=2:1054084	leg=2:1024615
+Miss Americana (2020)	dub=2:1269398
+Miss Bala	dub=0:22046
+Miss Bala - (2019)	dub=2:1046567
+Miss Fisher and the Crypt of Tears	leg=0:46146
+Miss Fisher and the Crypt of Tears - (2020)	leg=2:1030260
+Miss Itália Não Pode Morrer	dub=0:313280	leg=0:313281
+Miss Itália Não Pode Morrer - (2025)	dub=2:1037517	leg=2:1249924
+Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to Be Loved Legendado (2025)	dub=2:1256319
 Miss Kobayashis Dragon Maid A Lonely Dragon Wants to be Loved	leg=0:364620
-Miss Março: A Garota da Capa	dub=0:382464,2:1269441	leg=0:382463,2:1272931
-Miss Potter	dub=0:344507,2:1067036	leg=0:344506,2:1023602
-Miss Revolução	dub=0:162382,0:162373,2:1045580
-Miss Simpatia	dub=0:382833,0:48267,2:1052659
-Miss Simpatia 2: Armada e Poderosa	dub=0:336667,0:48268,2:1046231	leg=0:336666,2:1033507
-Miss Violence	dub=2:1271199	leg=0:253284,0:148694,2:1026541
-Miss Willoughby and the Haunted Bookshop	dub=2:1271875
-Missao Amsterdam	dub=2:1270277
-Missao Babilonia	dub=2:1269100
-Missao Extraordinaria	dub=0:28685,2:1056604
-Missao Extrema 2 Guerra ao Terror	dub=2:1271337
-Missao Final	dub=0:30597,2:1047415
-Missao Impossivel Fallout 4K	dub=0:22511,2:1023222
-Missao Madrinha de Casamento	dub=2:1271869
-Missao Planeta Terra	dub=2:1270078
-Missao Quase Impossivel	dub=0:97189,2:1068710
-Missao Russia	dub=0:166222,2:1268841	leg=0:166218
-Missed Connections	dub=2:1271227
-Missing	dub=2:1266005
-Missing and Alone	dub=2:1269480
-Mississipi em Chamas	dub=0:43840,2:1069627
-Missão - Improvável	dub=2:1262216
-Missão Antena: Uma Aventura Intergaláctica	dub=0:298475,0:285090,2:1061714	leg=0:298476,2:1034863
-Missão Ataque	dub=0:305639,2:1060336	leg=0:305640,2:1249290
-Missão Baile de Natal	dub=0:185253,2:1050085	leg=0:185252,2:1031509
-Missão Clandestina	dub=0:212944,2:1069519	leg=0:212943,2:1028631
-Missão Condor	dub=0:230876,2:1066292	leg=0:230867,2:1028576
-Missão Cruzada	dub=0:279210,2:1047120	leg=0:279211,2:1029927
-Missão Cupido	dub=0:203901,2:1063923
-Missão Despedida de Solteira	dub=0:210533,2:1054188	leg=0:210534,2:1027246
-Missão Dragão - Sua História	dub=0:40572,2:1039111
-Missão Especial	dub=0:347151,2:1050900	leg=0:347150,2:1036508
-Missão Extrema	dub=0:309739,2:1051916	leg=0:309740,2:1030269
-Missão Majnu	dub=2:1291014
-Missão Para Salvar o Mundo	dub=2:1267834	leg=0:284332,2:1031233
-Missão Pet	dub=0:361364,0:356861,2:1265803	leg=0:361363,0:356860,2:1265806
-Missão Pijamas	dub=0:68455,2:1068581
-Missão Porto Seguro 4K	dub=0:305582,0:301995,2:1037570,2:1036717	leg=0:301996,2:1037334
-Missão Presente de Natal 4K	dub=0:193269,0:85161,2:1050874,2:1023252
-Missão Refúgio 4K	dub=0:380677,0:376608,0:376528,2:1267389,2:1260141	leg=0:376527,0:367832
-Missão Refúgio Legendado	dub=2:1257496
-Missão Resgate	dub=0:149407,2:1046954	leg=0:149411,2:1033416
-Missão Resgate 2: Vingança	leg=0:330512,2:1037984
-Missão Resgate: Vingança	dub=0:343130,2:1037807	leg=0:343129
-Missão Suicida	dub=0:279177,2:1047138	leg=0:279178,2:1249243
-Missão Titã	dub=0:338308,2:1250015	leg=0:338307,2:1031977
-Missão de Honra	dub=0:33572,2:1066602
-Missão de Sobrevivência	dub=0:215063,0:215061,2:1249606,2:1065986	leg=0:215062,2:1025536
-Missão no Mar Vermelho	dub=0:26686,2:1045124
-Missão: Impossível	dub=0:108232,2:1056063
-Missão: Impossível - Acerto de Contas Parte 1 4K	dub=0:219168,0:219165,0:219162,2:1249703,2:1055673	leg=0:219163,2:1024181
-Missão: Impossível - Efeito Fallout	dub=0:108237,2:1055702
-Missão: Impossível - Nação Secreta	dub=0:108236,2:1056066
-Missão: Impossível - O Acerto Final 4K	dub=0:340244,0:340153,2:1249878,2:1037035	leg=0:340152,2:1038254
-Missão: Impossível - Protocolo Fantasma	dub=0:108235,2:1056016
-Missão: Impossível 2	dub=0:108233,2:1056792
-Missão: Impossível 3	dub=0:108234,2:1056905
-Missão: Pandora	dub=0:349000,2:1251162	leg=0:348999,2:1251035
-Misterio na Venda de Garagem: Morte na Praia	dub=2:1270713
-Misty – A História De Erroll Garner	dub=2:1269881	leg=0:353483,2:1265288
-Mistério da Rua 7	dub=0:377240,2:1266010	leg=0:377239,2:1268362
-Mistério da Terra dos Doces	dub=0:182293,2:1067257	leg=0:182294,2:1034562
-Mistério das Palavras Cruzadas: A Queda Fatal	dub=0:157439,2:1050360	leg=0:157442,2:1024810
-Mistério das Palavras Cruzadas: Enigma Mortal	dub=0:162384,0:162383,2:1050892
-Mistério em Alto Mar	dub=0:203310,2:1044013	leg=0:203309,2:1028474
-Mistério em Paris	dub=0:190640,2:1069485	leg=0:190647,2:1032448
-Mistério em Paris 4K {Hybrid]	dub=0:190973,2:1249747
-Mistério na TV: Um Assassinato em Questão	dub=0:144397,2:1050876	leg=0:144386,2:1031935
-Mistério no Mediterrâneo 4K	dub=0:190979,0:109171,2:1071333,2:1000517
+Miss Março: A Garota da Capa	dub=0:382464	leg=0:382463
+Miss Março: A Garota da Capa (2009)	dub=2:1269441	leg=2:1272931
+Miss Potter	dub=0:344507	leg=0:344506
+Miss Potter - (2006)	dub=2:1067036	leg=2:1023602
+Miss Revolução	dub=0:162382,0:162373
+Miss Revolução - (2020)	dub=2:1045580
+Miss Simpatia	dub=0:382833,0:48267
+Miss Simpatia - (2000)	dub=2:1052659
+Miss Simpatia 2 - Armada e Poderosa - (2005)	dub=2:1046231	leg=2:1033507
+Miss Simpatia 2: Armada e Poderosa	dub=0:336667,0:48268	leg=0:336666
+Miss Violence	leg=0:253284,0:148694
+Miss Violence (2013)	dub=2:1271199	leg=2:1026541
+Miss Willoughby and the Haunted Bookshop (2022)	dub=2:1271875
+Missao Amsterdam (2017)	dub=2:1270277
+Missao Babilonia (2008)	dub=2:1269100
+Missao Extraordinaria	dub=0:28685
+Missao Extraordinaria - (2017)	dub=2:1056604
+Missao Extrema 2 Guerra ao Terror (2023)	dub=2:1271337
+Missao Final	dub=0:30597
+Missao Final - (2018)	dub=2:1047415
+Missao Impossivel Fallout 4K	dub=0:22511
+Missao Impossivel Fallout 4K - (2018)	dub=2:1023222
+Missao Madrinha de Casamento (2011)	dub=2:1271869
+Missao Para Salvar o Mundo (2023)	dub=2:1267834	leg=2:1031233
+Missao Planeta Terra (2020)	dub=2:1270078
+Missao Quase Impossivel	dub=0:97189
+Missao Quase Impossivel - (2010)	dub=2:1068710
+Missao Russia	dub=0:166222	leg=0:166218
+Missao Russia (2020)	dub=2:1268841
+Missed Connections (2023)	dub=2:1271227
+Missing (2024)	dub=2:1266005
+Missing and Alone (2021)	dub=2:1269480
+Mississipi em Chamas	dub=0:43840
+Mississipi em Chamas - (1988)	dub=2:1069627
+Missão - Improvável (2025)	dub=2:1262216
+Missão Antena: Uma Aventura Intergaláctica	dub=0:298475,0:285090	leg=0:298476
+Missão Antena: Uma Aventura Intergaláctica - (2022)	dub=2:1061714	leg=2:1034863
+Missão Ataque	dub=0:305639	leg=0:305640
+Missão Ataque - (2022)	dub=2:1060336	leg=2:1249290
+Missão Baile de Natal	dub=0:185253	leg=0:185252
+Missão Baile de Natal - (2021)	dub=2:1050085	leg=2:1031509
+Missão Clandestina	dub=0:212944	leg=0:212943
+Missão Clandestina - (2023)	dub=2:1069519	leg=2:1028631
+Missão Condor	dub=0:230876	leg=0:230867
+Missão Condor - (2023)	dub=2:1066292	leg=2:1028576
+Missão Cruzada	dub=0:279210	leg=0:279211
+Missão Cruzada - (2024)	dub=2:1047120	leg=2:1029927
+Missão Cupido	dub=0:203901
+Missão Cupido - (2021)	dub=2:1063923
+Missão Despedida de Solteira	dub=0:210533	leg=0:210534
+Missão Despedida de Solteira - (2021)	dub=2:1054188	leg=2:1027246
+Missão Dragão - Sua História	dub=0:40572
+Missão Dragão - Sua História - (2019)	dub=2:1039111
+Missão Especial	dub=0:347151	leg=0:347150
+Missão Especial - (2004)	dub=2:1050900	leg=2:1036508
+Missão Extrema	dub=0:309739	leg=0:309740
+Missão Extrema - (2021)	dub=2:1051916	leg=2:1030269
+Missão Majnu (2023)	dub=2:1291014
+Missão Para Salvar o Mundo	leg=0:284332
+Missão Pet	dub=0:361364,0:356861	leg=0:361363,0:356860
+Missão Pet (2025)	dub=2:1265803	leg=2:1265806
+Missão Pijamas	dub=0:68455
+Missão Pijamas - (2020)	dub=2:1068581
+Missão Porto Seguro 4K	dub=0:305582,0:301995	leg=0:301996
+Missão Porto Seguro 4K - (2025)	dub=2:1037570,2:1036717	leg=2:1037334
+Missão Presente de Natal - (2020)	dub=2:1050874,2:1023252
+Missão Presente de Natal 4K	dub=0:193269,0:85161
+Missão Refúgio 4K	dub=0:380677,0:376608,0:376528	leg=0:376527,0:367832
+Missão Refúgio 4K (2026)	dub=2:1267389,2:1260141
+Missão Refúgio Legendado (2026)	dub=2:1257496
+Missão Resgate	dub=0:149407	leg=0:149411
+Missão Resgate - (2021)	dub=2:1046954	leg=2:1033416
+Missão Resgate 2: Vingança	leg=0:330512
+Missão Resgate 2: Vingança - (2025)	leg=2:1037984
+Missão Resgate: Vingança	dub=0:343130	leg=0:343129
+Missão Resgate: Vingança - (2025)	dub=2:1037807
+Missão Suicida	dub=0:279177	leg=0:279178
+Missão Suicida - (2024)	dub=2:1047138	leg=2:1249243
+Missão Titã	dub=0:338308	leg=0:338307
+Missão Titã - (2024)	dub=2:1250015	leg=2:1031977
+Missão de Honra	dub=0:33572
+Missão de Honra - (2018)	dub=2:1066602
+Missão de Sobrevivência	dub=0:215063,0:215061	leg=0:215062
+Missão de Sobrevivência 4K - (2023)	dub=2:1249606,2:1065986	leg=2:1025536
+Missão no Mar Vermelho	dub=0:26686
+Missão no Mar Vermelho - (2019)	dub=2:1045124
+Missão: Impossível	dub=0:108232
+Missão: Impossível - (1996)	dub=2:1056063
+Missão: Impossível - Acerto de Contas Parte 1 4K	dub=0:219168,0:219165,0:219162	leg=0:219163
+Missão: Impossível - Acerto de Contas Parte 1 4K - (2023)	dub=2:1249703,2:1055673	leg=2:1024181
+Missão: Impossível - Efeito Fallout	dub=0:108237
+Missão: Impossível - Efeito Fallout - (2018)	dub=2:1055702
+Missão: Impossível - Nação Secreta	dub=0:108236
+Missão: Impossível - Nação Secreta - (2015)	dub=2:1056066
+Missão: Impossível - O Acerto Final 4K	dub=0:340244,0:340153	leg=0:340152
+Missão: Impossível - O Acerto Final 4K - (2025)	dub=2:1249878,2:1037035	leg=2:1038254
+Missão: Impossível - Protocolo Fantasma	dub=0:108235
+Missão: Impossível - Protocolo Fantasma - (2011)	dub=2:1056016
+Missão: Impossível 2	dub=0:108233
+Missão: Impossível 2 - (2000)	dub=2:1056792
+Missão: Impossível 3	dub=0:108234
+Missão: Impossível 3 - (2006)	dub=2:1056905
+Missão: Pandora	dub=0:349000	leg=0:348999
+Missão: Pandora - (2022)	dub=2:1251162	leg=2:1251035
+Misterio na Venda de Garagem: Morte na Praia (2017)	dub=2:1270713
+Misterios da Carne (2005)	dub=2:1266912	leg=2:1023539
+Misty A Historia De Erroll Garner (2024)	dub=2:1269881	leg=2:1265288
+Misty – A História De Erroll Garner	leg=0:353483
+Mistério da Rua 7	dub=0:377240	leg=0:377239
+Mistério da Rua 7 (2010)	dub=2:1266010	leg=2:1268362
+Mistério da Terra dos Doces	dub=0:182293	leg=0:182294
+Mistério da Terra dos Doces - (2022)	dub=2:1067257	leg=2:1034562
+Mistério das Palavras Cruzadas: A Queda Fatal	dub=0:157439	leg=0:157442
+Mistério das Palavras Cruzadas: A Queda Fatal - (2021)	dub=2:1050360	leg=2:1024810
+Mistério das Palavras Cruzadas: Enigma Mortal	dub=0:162384,0:162383
+Mistério das Palavras Cruzadas: Enigma Mortal - (2021)	dub=2:1050892
+Mistério em Alto Mar	dub=0:203310	leg=0:203309
+Mistério em Alto Mar - (2023)	dub=2:1044013	leg=2:1028474
+Mistério em Paris	dub=0:190640	leg=0:190647
+Mistério em Paris - (2023)	dub=2:1069485	leg=2:1032448
+Mistério em Paris 4K {Hybrid]	dub=0:190973
+Mistério em Paris 4K {Hybrid] - (2023)	dub=2:1249747
+Mistério na TV: Um Assassinato em Questão	dub=0:144397	leg=0:144386
+Mistério na TV: Um Assassinato em Questão - (2019)	dub=2:1050876	leg=2:1031935
+Mistério no Mediterrâneo - (2019)	dub=2:1071333,2:1000517
+Mistério no Mediterrâneo 4K	dub=0:190979,0:109171
 Mistério no Set	leg=0:360044
-Mistério no Set Legendado	dub=2:1255569
-Mistério no Ártico	dub=0:297448,2:1060064	leg=0:297449,2:1030914
-Mistérios Do Universo	dub=0:138863,2:1070529	leg=0:138913,2:1027260
-Mistérios Na Radio	dub=0:33389,2:1049842
-Mistérios Ocultos	dub=0:46147,2:1071131
-Mistérios da Carne	dub=2:1266912	leg=0:345090,2:1023539
+Mistério no Set Legendado (2025)	dub=2:1255569
+Mistério no Ártico	dub=0:297448	leg=0:297449
+Mistério no Ártico - (2023)	dub=2:1060064	leg=2:1030914
+Mistérios Do Universo	dub=0:138863	leg=0:138913
+Mistérios Do Universo - (2019)	dub=2:1070529	leg=2:1027260
+Mistérios Na Radio	dub=0:33389
+Mistérios Na Radio - (2019)	dub=2:1049842
+Mistérios Ocultos	dub=0:46147
+Mistérios Ocultos - (2019)	dub=2:1071131
+Mistérios da Carne	leg=0:345090
 Mistérios de Lisboa	dub=0:105251
-Mixed by Erry	dub=0:196751,2:1071521	leg=0:196752,2:1035483
-Miyamoto Musashi e os 400 Samurais	dub=0:230143,2:1046870	leg=0:230136,2:1032849
-Miúcha, a Voz da Bossa Nova	dub=0:247318,2:1072387
-Mo Amer: Wild World	leg=0:350378,2:1268850
-Mo Gilligan: Momentum	dub=0:30415,2:1053124
-Moana	dub=2:1273252
-Moana 2 4K	dub=0:315199,0:315170,2:1061412,2:1022453	leg=0:315171,2:1032021
-Moana Um Mar de Aventuras	dub=0:20392,2:1062900
-Mobile Suit Gundam SEED FREEDOM	leg=0:285091,2:1029887
-Mobile Suit Gundam: Hathaway	dub=0:112426,2:1062462
-Mod Squad - O Filme	dub=0:138876,2:1071276
-Model House: A Morte Segue Você	dub=0:359297,2:1266607	leg=0:359296,2:1266610
-Modest Heroes	dub=0:29555,2:1062912
-Modo Avião 4K	dub=0:41560,0:33577,2:1064815,2:1021847
-Modo Herói	dub=0:169138,2:1067535	leg=0:169150,2:1249551
-Moeda Digital: O Mistério do Bitcoin	dub=2:1266066	leg=0:291259,2:1249196
-Moffie	leg=0:68456,2:1027752
-Mogli - Entre Dois Mundos	dub=0:21043,2:1056567
-Mogli - O Menino Lobo	dub=0:21044,2:1269223,2:1039620
-Mogli – O Menino Lobo 2	dub=2:1265416
+Mixed by Erry	dub=0:196751	leg=0:196752
+Mixed by Erry - (2023)	dub=2:1071521	leg=2:1035483
+Miyamoto Musashi e os 400 Samurais	dub=0:230143	leg=0:230136
+Miyamoto Musashi e os 400 Samurais - (2020)	dub=2:1046870	leg=2:1032849
+Miúcha, a Voz da Bossa Nova	dub=0:247318
+Miúcha, a Voz da Bossa Nova - (2022)	dub=2:1072387
+Mo Amer: Wild World	leg=0:350378
+Mo Amer: Wild World (2025)	leg=2:1268850
+Mo Gilligan: Momentum	dub=0:30415
+Mo Gilligan: Momentum - (2019)	dub=2:1053124
+Moana (2026)	dub=2:1273252
+Moana 2 - (2024)	dub=2:1061412,2:1022453	leg=2:1032021
+Moana 2 4K	dub=0:315199,0:315170	leg=0:315171
+Moana Um Mar de Aventuras	dub=0:20392
+Moana Um Mar de Aventuras - (2016)	dub=2:1062900
+Mobile Suit Gundam SEED FREEDOM	leg=0:285091
+Mobile Suit Gundam SEED FREEDOM - (2024)	leg=2:1029887
+Mobile Suit Gundam: Hathaway	dub=0:112426
+Mobile Suit Gundam: Hathaway - (2021)	dub=2:1062462
+Mod Squad - O Filme	dub=0:138876
+Mod Squad - O Filme - (1999)	dub=2:1071276
+Model House: A Morte Segue Você	dub=0:359297	leg=0:359296
+Model House: A Morte Segue Você (2024)	dub=2:1266607	leg=2:1266610
+Modest Heroes	dub=0:29555
+Modest Heroes - (2018)	dub=2:1062912
+Modo Avião - (2020)	dub=2:1064815,2:1021847
+Modo Avião 4K	dub=0:41560,0:33577
+Modo Herói	dub=0:169138	leg=0:169150
+Modo Herói - (2021)	dub=2:1067535	leg=2:1249551
+Moeda Digital O Misterio do Bitcoin (2024)	dub=2:1266066	leg=2:1249196
+Moeda Digital: O Mistério do Bitcoin	leg=0:291259
+Moffie	leg=0:68456
+Moffie - (2020)	leg=2:1027752
+Mogli - Entre Dois Mundos	dub=0:21043
+Mogli - Entre Dois Mundos - (2018)	dub=2:1056567
+Mogli - O Menino Lobo	dub=0:21044
+Mogli - O Menino Lobo (1967)	dub=2:1269223
+Mogli - O Menino Lobo - (2016)	dub=2:1039620
+Mogli – O Menino Lobo 2 (2003)	dub=2:1265416
 Moisés	dub=0:110786
-Mojin The Secret Coffin aka Touching gold captain	dub=2:1266163
-Moloch	dub=2:1270112
-Moment of Contact	dub=0:180350,2:1266947
-Momento Critico	dub=0:20111,2:1055829
-Momento de Afeto	dub=0:328232,2:1041551	leg=0:328231,2:1026086
-Momento de Contato: Novas Revelações Alienígenas	leg=0:358714,2:1266356
-Momentos Decisivos	dub=0:328099,0:138868,2:1067345,2:1054243	leg=0:328098,2:1033544
-Momentum	dub=2:1267219
-Mommy	dub=0:214177,2:1042042
-Mon Laferte, te amo	dub=2:1269589	leg=0:282104,2:1026576
-Mona Lisa e a Lua de Sangue	dub=0:216980,2:1039479	leg=0:216981,2:1249242
-Mond	dub=2:1270284	leg=0:335681,2:1035554
-Monella, a Travessa	dub=2:1269038
-Money	dub=2:1292816
-Mong e Loide	dub=2:1266064
-Monica	dub=2:1271753
-Monica, O My Darling	dub=0:297450,0:179737,2:1069990	leg=0:179751,2:1030905
-Monkey King Reborn	dub=2:1267222
-Monolith	dub=2:1265227	leg=0:169414,2:1029168
-Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira	dub=0:339570,2:1037129	leg=0:339569,2:1037030
-Mononoke - O Filme: O Fantasma na Chuva	dub=0:297119,2:1062291	leg=0:297120,2:1023718
-Monos	dub=2:1269411	leg=0:34192,2:1031705
-Monsieur Aznavour	dub=2:1269494	leg=0:347680,2:1248970
-Monster	dub=0:336139,2:1069975	leg=0:336138,0:251178
-Monster High 2	dub=0:223110,0:223090,2:1039325,2:1022027	leg=0:223095,2:1024979
-Monster High: A Assustadora Barreira de Coral	dub=2:1269165
-Monster High: Bem-Vindos a Monster High	dub=0:161498,2:1063197
-Monster High: Boo York, Boo York	dub=2:1269334
-Monster High: Monster Fusion	dub=0:333281,2:1062986
-Monster High: O Filme	dub=0:176801,2:1056372	leg=0:176800,2:1249191
-Monster High: Scaris, a Cidade Sem Luz	dub=0:286868,2:1062372
-Monster Hunter	dub=0:99891,0:99890,2:1056407,2:1021811	leg=0:95915,2:1025248
-Monster Hunter: Legends of the Guild	dub=0:120666,2:1040379	leg=0:120675
-Monster Hunters	leg=0:68457,2:1034975
-Monster Trucks	dub=0:27542,2:1061035
-Monster: Desejo Assassino	dub=0:380476,2:1265885	leg=0:380475,2:1272519
-Monsternado	dub=2:1270421	leg=2:1273139
-Monsters Of Man	leg=0:89583,2:1025458
-Monsterville: O Armário das Almas	dub=0:131018,0:94731,2:1050553
-Monstro	dub=0:292304,0:105065,2:1052270	leg=0:292305,2:1031594
-Monstro Robô - Meu Melhor Amigo	dub=0:194534,2:1067723	leg=0:194533,2:1035934
-Monstro a Bordo	dub=0:375948,2:1272381	leg=0:375947,2:1272389
-Monstros A Maldicao do Dragao	dub=2:1270478
-Monstros S.A	dub=0:20393,2:1068244
-Monstros da Califórnia	dub=0:376723,2:1267229	leg=0:376722,2:1267291
-Monstros do Homem 4K	dub=0:197134,0:196733,2:1249689,2:1060097	leg=0:196731
-Monstros vs Alienígenas	dub=0:152009,2:1063045
-Monstrous	dub=2:1269887
-Montado na Bala	dub=0:311855,2:1043188	leg=0:311856,2:1249284
-Monte Carlo	dub=0:374297,2:1272193	leg=0:374296,2:1272194
-Monuments	dub=2:1267211
-Moon Manor	dub=2:1271580
-Moonage Daydream	dub=2:1267179
-Moonfall: Ameaça Lunar	dub=0:156707,2:1060018	leg=0:156702,2:1034249
-Moonlight: Sob a Luz do Luar	dub=0:328241,2:1041505	leg=0:328240,2:1030641
-Moonrise	dub=2:1270533	leg=2:1273126
-Moonwalker	dub=0:318574,0:184559,2:1071464
-Morando Com o Ex	dub=0:349740,2:1065966	leg=0:349739,2:1036511
-Morando com Inimigo	dub=0:368944,2:1272221	leg=0:368943,2:1272218
-Morando com a Sogra	dub=0:295709,2:1054152	leg=0:295710,2:1029963
-Morando com o Crush 4K	dub=0:269956,0:269812,2:1063344,2:1022715
-Moranguinho e o Monstro do Pântano	dub=0:220054,2:1049655
-Morbius 4K	dub=0:160618,0:160416,2:1038759,2:1022506	leg=0:160425,2:1024918
-Morcego Negro	dub=0:363460,2:1266316
-More Than Miyagi: The Pat Morita Story	dub=2:1271705	leg=2:1273129
-Morgan: A Evolução	dub=0:318555,0:141508,2:1060161	leg=0:318556,2:1248973
-Mormaco	dub=2:1269955
-Morra, Amor	dub=0:358132,0:358130,2:1266346,2:1254906	leg=0:358131,0:356885,2:1264659
-Morrer Mil Vezes	dub=0:309537,0:128563,2:1052091
-Morrison	dub=2:1271120
-Mortadelo e Salaminho: Missao Inacreditavel	dub=2:1266225
-Mortal	dub=0:98359,2:1039432	leg=0:85115,2:1025043
-Mortal Kombat 1	dub=0:20112,2:1039052
-Mortal Kombat 2 4K	dub=0:382494,0:382418,0:381986,2:1272945,2:1261769,2:1039682	leg=0:381985,2:1272925
-Mortal Kombat 4K	dub=0:111610,0:111551,0:111550,2:1249763,2:1021559	leg=0:103984,2:1032541
-Mortal Kombat Legends Scorpions Revenge	leg=0:43810,2:1033777
-Mortal Kombat Legends: A Vingança de Scorpion	dub=0:43841,2:1039042
-Mortal Kombat Legends: Batalha dos Reinos 4K	dub=0:127401,0:125988,2:1038780,2:1022557
-Mortal Kombat Legends: Cage Bom de Luta 4K	dub=0:286358,0:223883,2:1061497,2:1021906	leg=0:223881,2:1025810
-Mortal Kombat Legends: Cegueira Glacial 4K	dub=0:179792,0:177224,2:1062086,2:1022138
-Mortal Kombat Legends: Snow Blind	leg=0:175615,2:1033104
+Mojin The Secret Coffin aka Touching gold captain (2022)	dub=2:1266163
+Moloch (2022)	dub=2:1270112
+Moment of Contact	dub=0:180350
+Moment of Contact (2022)	dub=2:1266947
+Momento Critico	dub=0:20111
+Momento Critico - (1996)	dub=2:1055829
+Momento de Afeto	dub=0:328232	leg=0:328231
+Momento de Afeto - (1997)	dub=2:1041551	leg=2:1026086
+Momento de Contato: Novas Revelações Alienígenas	leg=0:358714
+Momento de Contato: Novas Revelações Alienígenas (2025)	leg=2:1266356
+Momentos Decisivos	dub=0:328099,0:138868	leg=0:328098
+Momentos Decisivos - (1986)	dub=2:1067345
+Momentos Decisivos - (2021)	dub=2:1054243	leg=2:1033544
+Momentum (2015)	dub=2:1267219
+Mommy	dub=0:214177
+Mommy - (2014)	dub=2:1042042
+Mon Laferte te amo (2024)	dub=2:1269589	leg=2:1026576
+Mon Laferte, te amo	leg=0:282104
+Mona Lisa e a Lua de Sangue	dub=0:216980	leg=0:216981
+Mona Lisa e a Lua de Sangue - (2022)	dub=2:1039479	leg=2:1249242
+Mond	leg=0:335681
+Mond (2024)	dub=2:1270284	leg=2:1035554
+Monella, a Travessa (1998)	dub=2:1269038
+Money (2016)	dub=2:1292816
+Mong e Loide (1995)	dub=2:1266064
+Monica (2023)	dub=2:1271753
+Monica, O My Darling	dub=0:297450,0:179737	leg=0:179751
+Monica, O My Darling - (2022)	dub=2:1069990	leg=2:1030905
+Monkey King Reborn (2021)	dub=2:1267222
+Monolith	leg=0:169414
+Monolith (2016)	dub=2:1265227	leg=2:1029168
+Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira	dub=0:339570	leg=0:339569
+Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira - (2025)	dub=2:1037129	leg=2:1037030
+Mononoke - O Filme: O Fantasma na Chuva	dub=0:297119	leg=0:297120
+Mononoke - O Filme: O Fantasma na Chuva - (2024)	dub=2:1062291	leg=2:1023718
+Monos	leg=0:34192
+Monos (2019)	dub=2:1269411	leg=2:1031705
+Monsieur Aznavour	leg=0:347680
+Monsieur Aznavour (2024)	dub=2:1269494	leg=2:1248970
+Monster	dub=0:336139	leg=0:336138,0:251178
+Monster - (2023)	dub=2:1069975
+Monster High 2	dub=0:223110,0:223090	leg=0:223095
+Monster High 2 - (2023)	dub=2:1039325,2:1022027	leg=2:1024979
+Monster High: A Assustadora Barreira de Coral (2016)	dub=2:1269165
+Monster High: Bem-Vindos a Monster High	dub=0:161498
+Monster High: Bem-Vindos a Monster High - (2016)	dub=2:1063197
+Monster High: Boo York, Boo York (2015)	dub=2:1269334
+Monster High: Monster Fusion	dub=0:333281
+Monster High: Monster Fusion - (2014)	dub=2:1062986
+Monster High: O Filme	dub=0:176801	leg=0:176800
+Monster High: O Filme - (2022)	dub=2:1056372	leg=2:1249191
+Monster High: Scaris, a Cidade Sem Luz	dub=0:286868
+Monster High: Scaris, a Cidade Sem Luz - (2013)	dub=2:1062372
+Monster Hunter	dub=0:99891,0:99890	leg=0:95915
+Monster Hunter - (2020)	dub=2:1056407,2:1021811	leg=2:1025248
+Monster Hunter: Legends of the Guild	dub=0:120666	leg=0:120675
+Monster Hunter: Legends of the Guild - (2021)	dub=2:1040379
+Monster Hunters	leg=0:68457
+Monster Hunters - (2020)	leg=2:1034975
+Monster Trucks	dub=0:27542
+Monster Trucks - (2016)	dub=2:1061035
+Monster: Desejo Assassino	dub=0:380476	leg=0:380475
+Monster: Desejo Assassino (2003)	dub=2:1265885	leg=2:1272519
+Monsternado (2023)	dub=2:1270421	leg=2:1273139
+Monsters Of Man	leg=0:89583
+Monsters Of Man - (2020)	leg=2:1025458
+Monsterville - O Armario das Almas - (2015)	dub=2:1050553
+Monsterville: O Armário das Almas	dub=0:131018,0:94731
+Monstro	dub=0:292304,0:105065	leg=0:292305
+Monstro - (2021)	dub=2:1052270
+Monstro - (2023)	leg=2:1031594
+Monstro Robô - Meu Melhor Amigo	dub=0:194534	leg=0:194533
+Monstro Robô - Meu Melhor Amigo - (2018)	dub=2:1067723	leg=2:1035934
+Monstro a Bordo	dub=0:375948	leg=0:375947
+Monstro a Bordo (2024)	dub=2:1272381	leg=2:1272389
+Monstros A Maldicao do Dragao (2024)	dub=2:1270478
+Monstros S.A	dub=0:20393
+Monstros S.A - (2001)	dub=2:1068244
+Monstros da Califórnia	dub=0:376723	leg=0:376722
+Monstros da Califórnia (2023)	dub=2:1267229	leg=2:1267291
+Monstros do Homem 4K	dub=0:197134,0:196733	leg=0:196731
+Monstros do Homem 4K - (2020)	dub=2:1249689,2:1060097
+Monstros vs Alienígenas	dub=0:152009
+Monstros vs Alienígenas - (2009)	dub=2:1063045
+Monstrous (2022)	dub=2:1269887
+Montado na Bala	dub=0:311855	leg=0:311856
+Montado na Bala - (2004)	dub=2:1043188	leg=2:1249284
+Monte Carlo	dub=0:374297	leg=0:374296
+Monte Carlo (2011)	dub=2:1272193	leg=2:1272194
+Monuments (2021)	dub=2:1267211
+Moon Manor (2022)	dub=2:1271580
+Moonage Daydream (2022)	dub=2:1267179
+Moonfall: Ameaça Lunar	dub=0:156707	leg=0:156702
+Moonfall: Ameaça Lunar - (2022)	dub=2:1060018	leg=2:1034249
+Moonlight: Sob a Luz do Luar	dub=0:328241	leg=0:328240
+Moonlight: Sob a Luz do Luar - (2016)	dub=2:1041505	leg=2:1030641
+Moonrise (1948)	dub=2:1270533	leg=2:1273126
+Moonwalker	dub=0:318574,0:184559
+Moonwalker - (1988)	dub=2:1071464
+Morando Com o Ex	dub=0:349740	leg=0:349739
+Morando Com o Ex - (2021)	dub=2:1065966	leg=2:1036511
+Morando com Inimigo	dub=0:368944	leg=0:368943
+Morando com Inimigo (2022)	dub=2:1272221	leg=2:1272218
+Morando com a Sogra	dub=0:295709	leg=0:295710
+Morando com a Sogra - (2021)	dub=2:1054152	leg=2:1029963
+Morando com o Crush - (2024)	dub=2:1063344,2:1022715
+Morando com o Crush 4K	dub=0:269956,0:269812
+Moranguinho e o Monstro do Pântano	dub=0:220054
+Moranguinho e o Monstro do Pântano - (2023)	dub=2:1049655
+Morbius - (2022)	dub=2:1038759,2:1022506	leg=2:1024918
+Morbius 4K	dub=0:160618,0:160416	leg=0:160425
+Morcego Negro	dub=0:363460
+Morcego Negro (2023)	dub=2:1266316
+More Than Miyagi: The Pat Morita Story (2021)	dub=2:1271705	leg=2:1273129
+Morgan: A Evolução	dub=0:318555,0:141508	leg=0:318556
+Morgan: A Evolução - (2016)	dub=2:1060161	leg=2:1248973
+Mormaco (2018)	dub=2:1269955
+Morra, Amor	dub=0:358132,0:358130	leg=0:358131,0:356885
+Morra, Amor 4K (2025)	dub=2:1266346,2:1254906	leg=2:1264659
+Morrer Mil Vezes	dub=0:309537,0:128563
+Morrer Mil Vezes - (1986)	dub=2:1052091
+Morrison (2024)	dub=2:1271120
+Mortadelo e Salaminho: Missao Inacreditavel (2014)	dub=2:1266225
+Mortal	dub=0:98359	leg=0:85115
+Mortal - (2020)	dub=2:1039432	leg=2:1025043
+Mortal Kombat (2021)	dub=2:1249763,2:1021559	leg=2:1032541
+Mortal Kombat 1	dub=0:20112
+Mortal Kombat 1 - (1995)	dub=2:1039052
+Mortal Kombat 2 - (1997)	dub=2:1039682
+Mortal Kombat 2 4K	dub=0:382494,0:382418,0:381986	leg=0:381985
+Mortal Kombat 2 4K (2026)	dub=2:1272945,2:1261769	leg=2:1272925
+Mortal Kombat 4K	dub=0:111610,0:111551,0:111550	leg=0:103984
+Mortal Kombat Legends Scorpions Revenge	leg=0:43810
+Mortal Kombat Legends Scorpions Revenge - (2020)	leg=2:1033777
+Mortal Kombat Legends: A Vingança de Scorpion	dub=0:43841
+Mortal Kombat Legends: A Vingança de Scorpion - (2020)	dub=2:1039042
+Mortal Kombat Legends: Batalha dos Reinos - (2021)	dub=2:1038780,2:1022557
+Mortal Kombat Legends: Batalha dos Reinos 4K	dub=0:127401,0:125988
+Mortal Kombat Legends: Cage Bom de Luta - (2023)	dub=2:1061497,2:1021906	leg=2:1025810
+Mortal Kombat Legends: Cage Bom de Luta 4K	dub=0:286358,0:223883	leg=0:223881
+Mortal Kombat Legends: Cegueira Glacial - (2022)	dub=2:1062086,2:1022138
+Mortal Kombat Legends: Cegueira Glacial 4K	dub=0:179792,0:177224
+Mortal Kombat Legends: Snow Blind	leg=0:175615
+Mortal Kombat Legends: Snow Blind - (2022)	leg=2:1033104
 Mortal Kombat: A Aniquilação	dub=0:338629
-Mortdecai: A Arte da Trapaça	dub=0:347153,2:1057447	leg=0:347152,2:1036483
-Morte Abaixo de Zero	dub=0:200992,2:1044129	leg=0:200991,2:1036129
-Morte Antes do Casamento	dub=0:310403,2:1038231	leg=0:310404,2:1037248
-Morte Instantânea	dub=0:134006,2:1267933	leg=0:134007
-Morte Súbita	dub=0:382564,0:223813,2:1271906,2:1047530	leg=0:382563,0:375052,2:1272278
-Morte a Pinochet	dub=0:226078,2:1045249	leg=0:226069,2:1035833
-Morte ao Verão	dub=0:161542,0:161524,2:1041883
-Morte de um Operador de TeleMarketing	dub=0:158017,2:1053568	leg=0:158015,2:1033669
-Morte de um Unicórnio	dub=2:1269954	leg=0:333241,2:1038372
-Morte e Vida de Um Ativista Político	dub=0:258322,2:1045361	leg=0:258323,2:1249365
-Morte em LaRoy, Texas 4K	dub=0:295392,0:294988,2:1051460,2:1021713	leg=0:294989,2:1026707
-Morte em Veneza	dub=2:1266271
-Morte na Fronteira	dub=2:1273182
-Morte no Funeral	dub=0:122872,0:20714,2:1054607
-Morte no Lago	dub=0:348069,2:1249779	leg=0:348068,2:1248911
-Morte no Nilo	dub=0:156689,2:1070189	leg=0:156690,2:1249357
-Morte ou Revés	dub=0:35984,2:1071239
-Morte sem Misericórdia	dub=2:1270556	leg=0:309921,2:1026065
-Morte às Seis da Tarde	dub=0:44561,2:1051352
-Morte, Morte, Morte	dub=0:178799,2:1070198	leg=0:178849,2:1034310
-Morto Não Fala	dub=0:104361,2:1070970
-Mortos Entre Vivos	dub=0:352965,2:1265164	leg=0:352964
-Mortos de Fome	dub=0:121038,2:1069191
-Mortuária	dub=0:382604,2:1272926
-Moscou Contra 007	dub=0:381951,0:94122,2:1057135	leg=0:381950,2:1272867
-Moscow - Onde o Inesperado Sempre Acontece	dub=0:136798,2:1070591
-Mosley	dub=0:361823,2:1266831	leg=0:361822,2:1266833
-Mosquitos Assassinos	dub=0:196324,2:1059122
-Mostra-Me O Pai	dub=0:148623,2:1048488	leg=0:148662,2:1030572
-Mosul	dub=0:88687,2:1048762
-Motel Acácia	dub=0:213935,2:1069953	leg=0:213936,2:1036034
-Motel Destino	dub=0:288875,2:1044297
-Motel Melati	dub=0:309859,2:1058244	leg=0:309860,2:1025056
-Mother	leg=0:85166,2:1248978
+Mortdecai: A Arte da Trapaça	dub=0:347153	leg=0:347152
+Mortdecai: A Arte da Trapaça - (2015)	dub=2:1057447	leg=2:1036483
+Morte Abaixo de Zero	dub=0:200992	leg=0:200991
+Morte Abaixo de Zero - (2018)	dub=2:1044129	leg=2:1036129
+Morte Antes do Casamento	dub=0:310403	leg=0:310404
+Morte Antes do Casamento - (2025)	dub=2:1038231	leg=2:1037248
+Morte Instantânea	dub=0:134006	leg=0:134007
+Morte Instantânea (2019)	dub=2:1267933
+Morte Súbita	dub=0:382564,0:223813	leg=0:382563,0:375052
+Morte Súbita (2007)	dub=2:1271906	leg=2:1272278
+Morte Súbita - (1995)	dub=2:1047530
+Morte a Pinochet	dub=0:226078	leg=0:226069
+Morte a Pinochet - (2020)	dub=2:1045249	leg=2:1035833
+Morte ao Verão	dub=0:161542,0:161524
+Morte ao Verão - (2021)	dub=2:1041883
+Morte de um Operador de TeleMarketing	dub=0:158017	leg=0:158015
+Morte de um Operador de TeleMarketing - (2021)	dub=2:1053568	leg=2:1033669
+Morte de um Unicornio (2025)	dub=2:1269954	leg=2:1038372
+Morte de um Unicórnio	leg=0:333241
+Morte e Vida de Um Ativista Político	dub=0:258322	leg=0:258323
+Morte e Vida de Um Ativista Político - (2021)	dub=2:1045361	leg=2:1249365
+Morte em LaRoy, Texas - (2024)	dub=2:1051460,2:1021713	leg=2:1026707
+Morte em LaRoy, Texas 4K	dub=0:295392,0:294988	leg=0:294989
+Morte em Veneza (1971)	dub=2:1266271
+Morte na Fronteira (2023)	dub=2:1273182
+Morte no Funeral	dub=0:122872,0:20714
+Morte no Funeral - (2010)	dub=2:1054607
+Morte no Lago	dub=0:348069	leg=0:348068
+Morte no Lago - (2013)	dub=2:1249779	leg=2:1248911
+Morte no Nilo	dub=0:156689	leg=0:156690
+Morte no Nilo - (2022)	dub=2:1070189	leg=2:1249357
+Morte ou Revés	dub=0:35984
+Morte ou Revés - (2019)	dub=2:1071239
+Morte sem Misericordia (2024)	dub=2:1270556	leg=2:1026065
+Morte sem Misericórdia	leg=0:309921
+Morte às Seis da Tarde	dub=0:44561
+Morte às Seis da Tarde - (2018)	dub=2:1051352
+Morte, Morte, Morte	dub=0:178799	leg=0:178849
+Morte, Morte, Morte - (2022)	dub=2:1070198	leg=2:1034310
+Morto Não Fala	dub=0:104361
+Morto Não Fala - (2019)	dub=2:1070970
+Mortos Entre Vivos	dub=0:352965	leg=0:352964
+Mortos Entre Vivos (2024)	dub=2:1265164
+Mortos de Fome	dub=0:121038
+Mortos de Fome - (1999)	dub=2:1069191
+Mortuária	dub=0:382604
+Mortuária (2005)	dub=2:1272926
+Moscou Contra 007	dub=0:381951,0:94122	leg=0:381950
+Moscou Contra 007 (1963)	dub=2:1057135	leg=2:1272867
+Moscow - Onde o Inesperado Sempre Acontece	dub=0:136798
+Moscow - Onde o Inesperado Sempre Acontece - (2021)	dub=2:1070591
+Mosley	dub=0:361823	leg=0:361822
+Mosley (2019)	dub=2:1266831	leg=2:1266833
+Mosquitos Assassinos	dub=0:196324
+Mosquitos Assassinos - (2018)	dub=2:1059122
+Mostra-Me O Pai	dub=0:148623	leg=0:148662
+Mostra-Me O Pai - (2021)	dub=2:1048488	leg=2:1030572
+Mosul	dub=0:88687
+Mosul - (2019)	dub=2:1048762
+Motel Acácia	dub=0:213935	leg=0:213936
+Motel Acácia - (2020)	dub=2:1069953	leg=2:1036034
+Motel Destino	dub=0:288875
+Motel Destino - (2024)	dub=2:1044297
+Motel Melati	dub=0:309859	leg=0:309860
+Motel Melati - (2023)	dub=2:1058244	leg=2:1025056
+Mother	leg=0:85166
+Mother - (1933)	leg=2:1248978
 Mother Mary	leg=0:378992
-Mother Mary Legendado	dub=2:1261018
+Mother Mary Legendado (2026)	dub=2:1261018
 Mother of Flies	leg=0:365782
-Mother of Flies Legendado	dub=2:1256822
-Mother's Deadly Son	dub=0:194180,2:1049631
-Motichoor Chaknachoor	leg=0:33882,2:1024866
-Motoqueiro Fantasma	dub=0:21632,2:1040238
-Motoqueiro Fantasma 2	dub=0:21631,2:1040399
-Motoqueiros Selvagens	dub=0:20115,2:1057061
-Motorista de Fuga	dub=0:370348,0:341040,0:340974,2:1268622,2:1037679	leg=0:370347,2:1266546
-Motorrad	dub=0:344508,2:1057552
-Moulin Rouge: Amor em Vermelho	dub=0:356266,2:1265789	leg=0:356265,2:1265795
-Mountainhead	dub=0:327565,2:1038266	leg=0:327564,0:324545,2:1249891
-Mouse	dub=0:194191,2:1044934
-Mouse Trap: A Diversão Agora é Outra	dub=0:339572,2:1044978	leg=0:339571,2:1031160
-Mouseboat - Massacre no Barco	dub=0:347682,2:1249859	leg=0:347681,2:1249853
-Move Like a Boss	dub=2:1266071	leg=0:292874,2:1031023
-Movimento	leg=0:380267,2:1272569
-Movimento de Jesus	dub=0:359670,0:217194,2:1045342	leg=0:359669,0:217195,2:1026046
-Moving On	dub=0:204488,2:1053777	leg=0:204487,2:1029438
-Moxie: Quando as Garotas Vão À Luta	dub=0:96868,2:1072333
-Mr Dressup A Magia do Faz de Conta	dub=2:1271796	leg=2:1273055
-Mr. Bean - O Filme	dub=0:185622,2:1068087
-Mr. Dreamer	dub=2:1270562	leg=2:1272985
+Mother of Flies Legendado (2025)	dub=2:1256822
+Mother's Deadly Son	dub=0:194180
+Mother's Deadly Son - (2022)	dub=2:1049631
+Motichoor Chaknachoor	leg=0:33882
+Motichoor Chaknachoor - (2019)	leg=2:1024866
+Motoqueiro Fantasma	dub=0:21632
+Motoqueiro Fantasma - (2007)	dub=2:1040238
+Motoqueiro Fantasma 2	dub=0:21631
+Motoqueiro Fantasma 2 - (2011)	dub=2:1040399
+Motoqueiros Selvagens	dub=0:20115
+Motoqueiros Selvagens - (2007)	dub=2:1057061
+Motorista de Fuga	dub=0:370348,0:341040,0:340974	leg=0:370347
+Motorista de Fuga (2025)	dub=2:1268622,2:1037679	leg=2:1266546
+Motorrad	dub=0:344508
+Motorrad - (2017)	dub=2:1057552
+Moulin Rouge: Amor em Vermelho	dub=0:356266	leg=0:356265
+Moulin Rouge: Amor em Vermelho (2001)	dub=2:1265789	leg=2:1265795
+Mountainhead	dub=0:327565	leg=0:327564,0:324545
+Mountainhead - (2025)	dub=2:1038266	leg=2:1249891
+Mouse	dub=0:194191
+Mouse - (2022)	dub=2:1044934
+Mouse Trap: A Diversão Agora é Outra	dub=0:339572	leg=0:339571
+Mouse Trap: A Diversão Agora é Outra - (2024)	dub=2:1044978	leg=2:1031160
+Mouseboat - Massacre no Barco	dub=0:347682	leg=0:347681
+Mouseboat - Massacre no Barco - (2025)	dub=2:1249859	leg=2:1249853
+Move Like a Boss	leg=0:292874
+Move Like a Boss (2024)	dub=2:1266071	leg=2:1031023
+Movimento	leg=0:380267
+Movimento (2025)	leg=2:1272569
+Movimento de Jesus	dub=0:359670,0:217194	leg=0:359669,0:217195
+Movimento de Jesus - (2023)	dub=2:1045342	leg=2:1026046
+Moving On	dub=0:204488	leg=0:204487
+Moving On - (2023)	dub=2:1053777	leg=2:1029438
+Moxie: Quando as Garotas Vão À Luta	dub=0:96868
+Moxie: Quando as Garotas Vão À Luta - (2021)	dub=2:1072333
+Mr Dressup A Magia do Faz de Conta (2023)	dub=2:1271796	leg=2:1273055
+Mr. Bean - O Filme	dub=0:185622
+Mr. Bean - O Filme - (1997)	dub=2:1068087
+Mr. Dreamer (2021)	dub=2:1270562	leg=2:1272985
 Mr. Jones	leg=0:42911
-Mr. K	dub=0:349761,2:1252157	leg=0:349760,0:322813,2:1037119
-Mr. Magoo	dub=0:317236,2:1067625	leg=0:317237,2:1030530
-Mr. Nice Guy: Bom de Briga	dub=0:243254,2:1047717
-Mr. Turner	dub=0:30615,2:1045649
-Ms. Kanyin	dub=2:1268679	leg=0:348310,2:1251114
-Ms. Purple	dub=2:1267940	leg=0:33390,2:1028248
-Mucho Locos no Natal	dub=0:181431,2:1053230	leg=0:181440,2:1033841
-Mudanca No Jogo	dub=0:96895,2:1052767
-Mudanca de Habito 1	dub=0:20715,2:1071518
-Mudanca de Habito 2	dub=0:20716,2:1072342
-Mudanca do Barulho	dub=2:1268617
-Mudanca na Firma	dub=2:1268558
-Mudança Mortal	dub=0:117532,2:1058546	leg=0:117530,2:1024721
-Mudbound - Lagrimas Sobre o Mississipi	dub=2:1268707
-Mudo	dub=0:21045,2:1060658
-Mufasa: O Rei Leão 4K	dub=0:316847,0:316762,2:1249691,2:1062062	leg=0:316763,2:1027816
-Muita Calma Nessa Hora	dub=0:20718,2:1055453
-Muita Calma Nessa Hora 2	dub=0:20717,2:1054927
-Muito Além do Lucro	dub=2:1291034
-Muito Além do Ordinário	dub=0:87141,2:1039809
-Muito Amor Pra Dar	dub=0:72641,2:1055342
-Muito Barulho Por Nada	dub=2:1270310
-Muito Bem Acompanhada	dub=0:20719,2:1065216
-Muito Louca	dub=0:20720,2:1055539
+Mr. K	dub=0:349761	leg=0:349760,0:322813
+Mr. K - (2025)	dub=2:1252157	leg=2:1037119
+Mr. Magoo	dub=0:317236	leg=0:317237
+Mr. Magoo - (1997)	dub=2:1067625	leg=2:1030530
+Mr. Nice Guy: Bom de Briga	dub=0:243254
+Mr. Nice Guy: Bom de Briga - (1997)	dub=2:1047717
+Mr. Turner	dub=0:30615
+Mr. Turner - (2014)	dub=2:1045649
+Ms Kanyin (2025)	dub=2:1268679	leg=2:1251114
+Ms Purple (2019)	dub=2:1267940	leg=2:1028248
+Ms. Kanyin	leg=0:348310
+Ms. Purple	leg=0:33390
+Mucho Locos no Natal	dub=0:181431	leg=0:181440
+Mucho Locos no Natal - (2022)	dub=2:1053230	leg=2:1033841
+Mudanca No Jogo	dub=0:96895
+Mudanca No Jogo - (2017)	dub=2:1052767
+Mudanca de Habito 1	dub=0:20715
+Mudanca de Habito 1 - (1992)	dub=2:1071518
+Mudanca de Habito 2	dub=0:20716
+Mudanca de Habito 2 - (1993)	dub=2:1072342
+Mudanca do Barulho (1988)	dub=2:1268617
+Mudanca na Firma (2019)	dub=2:1268558
+Mudança Mortal	dub=0:117532	leg=0:117530
+Mudança Mortal - (2021)	dub=2:1058546	leg=2:1024721
+Mudbound - Lagrimas Sobre o Mississipi (2017)	dub=2:1268707
+Mudo	dub=0:21045
+Mudo - (2018)	dub=2:1060658
+Mufasa: O Rei Leão 4K	dub=0:316847,0:316762	leg=0:316763
+Mufasa: O Rei Leão 4K - (2024)	dub=2:1249691,2:1062062	leg=2:1027816
+Muita Calma Nessa Hora	dub=0:20718
+Muita Calma Nessa Hora - (2010)	dub=2:1055453
+Muita Calma Nessa Hora 2	dub=0:20717
+Muita Calma Nessa Hora 2 - (2014)	dub=2:1054927
+Muito Além do Lucro (2025)	dub=2:1291034
+Muito Além do Ordinário	dub=0:87141
+Muito Além do Ordinário - (2019)	dub=2:1039809
+Muito Amor Pra Dar	dub=0:72641
+Muito Amor Pra Dar - (2020)	dub=2:1055342
+Muito Barulho Por Nada (1993)	dub=2:1270310
+Muito Bem Acompanhada	dub=0:20719
+Muito Bem Acompanhada - (2005)	dub=2:1065216
+Muito Louca	dub=0:20720
+Muito Louca - (2018)	dub=2:1055539
 Muito Mais que o Esperado	dub=0:252897	leg=0:252898
-Muito Perto para o Natal	dub=0:111594,2:1049658
-Muito Ralph: Vida e Obra de Ralph Lauren	dub=0:31929,2:1048172
-Muitos Homens Num So	dub=2:1267410
-Mula sa Buwan	dub=0:194211,2:1072441
-Mulan 1	dub=0:20394,2:1062850
-Mulan 2	dub=0:20395,2:1061660
-Mulan 4K	dub=0:72650,0:71079,2:1038791,2:1023181
-Muleque Té Doido - O Filme	dub=0:344563,2:1052915
-Muleque Té Doido 2: A Lenda de Dom Sebastião	dub=0:344564,2:1072556
-Muleque Té Doido 3: Mais Doido Ainda!	dub=0:344565,2:1055634
-Muleque Té Doido 4 - Morreu Maria Preá	dub=0:318627,2:1054806
-Mulher Fatal	dub=2:1270023
-Mulher Gato	dub=0:20116,2:1039608
-Mulher Nota 1000	dub=2:1269967
-Mulher Objeto	dub=0:309872,2:1059366
-Mulher Oceano	dub=0:281469,2:1041439	leg=0:281470,2:1249220
-Mulher Proibida	dub=0:370149,0:368225,2:1268185,2:1265116	leg=0:370148,0:368224,2:1268173,2:1265251
-Mulher Solteira Procura	dub=0:328984,2:1058459	leg=0:328983,2:1024447
-Mulher-Gato: A Caçada 4K	dub=0:155477,0:149577,2:1061376,2:1022633	leg=0:149581,2:1249342
-Mulher-Maravilha	dub=0:379472,0:350926,0:297828,0:100001,0:98637,0:93485,0:22512,0:20117,2:1264738,2:1249761,2:1039319,2:1038754,2:1023199	leg=0:379471,2:1272714
-Mulher-Maravilha - Linhagem de Sangue	dub=0:68458,0:30416,2:1062962
-Mulher?	dub=0:198189,2:1060298	leg=0:198188,2:1023436
-Mulheres Alteradas	dub=2:1269809
-Mulheres Ocultas	dub=2:1271249
-Mulheres Perfeitas	dub=0:110253,2:1060683
-Mulheres Perigosas	dub=0:148635,2:1057794
-Mulheres Radicais	dub=0:365864,2:1266785
-Mulheres Rebeldes	dub=0:264349,2:1044135	leg=0:264350,2:1027572
-Mulheres ao Ataque	dub=0:382466,0:20721,2:1065206	leg=0:382465,2:1272962
-Mulheres de Verdade Têm Curvas	dub=0:363889,2:1267156	leg=0:363888,2:1267147
-Mulheres no Poder	dub=2:1266270
-Mulheres: Jogar para Ganhar	dub=0:241746,2:1054128	leg=0:241747,2:1033389
-Mulheres: Uma Outra História	dub=0:370349,2:1266209
-Multiverso - Realidade Paralela	dub=0:333283,2:1060052	leg=0:333282,2:1025288
-Mumbai Saga	dub=2:1268883	leg=0:129544,2:1030965
-Munch	dub=2:1268747
-Mundo Cão	dub=0:382467,0:252899,2:1269972,2:1060254	leg=0:252900,2:1035743
-Mundo Duplo	dub=2:1271191
+Muito Perto para o Natal	dub=0:111594
+Muito Perto para o Natal - (2020)	dub=2:1049658
+Muito Ralph: Vida e Obra de Ralph Lauren	dub=0:31929
+Muito Ralph: Vida e Obra de Ralph Lauren - (2019)	dub=2:1048172
+Muitos Homens Num So (2015)	dub=2:1267410
+Mula sa Buwan	dub=0:194211
+Mula sa Buwan - (2023)	dub=2:1072441
+Mulan - (2020)	dub=2:1038791,2:1023181
+Mulan 1	dub=0:20394
+Mulan 1 - (1998)	dub=2:1062850
+Mulan 2	dub=0:20395
+Mulan 2 - (2004)	dub=2:1061660
+Mulan 4K	dub=0:72650,0:71079
+Muleque Té Doido - O Filme	dub=0:344563
+Muleque Té Doido - O Filme - (2014)	dub=2:1052915
+Muleque Té Doido 2: A Lenda de Dom Sebastião	dub=0:344564
+Muleque Té Doido 2: A Lenda de Dom Sebastião - (2016)	dub=2:1072556
+Muleque Té Doido 3: Mais Doido Ainda!	dub=0:344565
+Muleque Té Doido 3: Mais Doido Ainda! - (2019)	dub=2:1055634
+Muleque Té Doido 4 - Morreu Maria Preá	dub=0:318627
+Muleque Té Doido 4 - Morreu Maria Preá - (2023)	dub=2:1054806
+Mulher Fatal (2002)	dub=2:1270023
+Mulher Gato	dub=0:20116
+Mulher Gato - (2004)	dub=2:1039608
+Mulher Maravilha 1984 4K	dub=0:93485
+Mulher Maravilha 1984 4K - (2020)	dub=2:1249761,2:1039319
+Mulher Nota 1000 (1985)	dub=2:1269967
+Mulher Objeto	dub=0:309872
+Mulher Objeto - (1981)	dub=2:1059366
+Mulher Oceano	dub=0:281469	leg=0:281470
+Mulher Oceano - (2020)	dub=2:1041439	leg=2:1249220
+Mulher Proibida	dub=0:370149,0:368225	leg=0:370148,0:368224
+Mulher Proibida (1932)	dub=2:1268185	leg=2:1268173
+Mulher Proibida (2024)	dub=2:1265116	leg=2:1265251
+Mulher Solteira Procura	dub=0:328984	leg=0:328983
+Mulher Solteira Procura - (1992)	dub=2:1058459	leg=2:1024447
+Mulher-Gato: A Caçada - (2022)	dub=2:1061376,2:1022633	leg=2:1249342
+Mulher-Gato: A Caçada 4K	dub=0:155477,0:149577	leg=0:149581
+Mulher-Maravilha	dub=0:379472,0:350926,0:100001,0:22512,0:20117	leg=0:379471
+Mulher-Maravilha (1984)	dub=0:297828,0:98637
+Mulher-Maravilha (2009)	dub=2:1264738
+Mulher-Maravilha (2017)	dub=2:1038754,2:1023199	leg=2:1272714
+Mulher-Maravilha - Linhagem de Sangue	dub=0:68458,0:30416
+Mulher-Maravilha - Linhagem de Sangue - (2019)	dub=2:1062962
+Mulher?	dub=0:198189	leg=0:198188
+Mulher? - (2022)	dub=2:1060298	leg=2:1023436
+Mulheres Alteradas (2018)	dub=2:1269809
+Mulheres Ocultas (2020)	dub=2:1271249
+Mulheres Perfeitas	dub=0:110253
+Mulheres Perfeitas - (2004)	dub=2:1060683
+Mulheres Perigosas	dub=0:148635
+Mulheres Perigosas - (2015)	dub=2:1057794
+Mulheres Radicais	dub=0:365864
+Mulheres Radicais (2023)	dub=2:1266785
+Mulheres Rebeldes	dub=0:264349	leg=0:264350
+Mulheres Rebeldes - (2022)	dub=2:1044135	leg=2:1027572
+Mulheres ao Ataque	dub=0:382466,0:20721	leg=0:382465
+Mulheres ao Ataque (2014)	dub=2:1065206	leg=2:1272962
+Mulheres de Verdade Têm Curvas	dub=0:363889	leg=0:363888
+Mulheres de Verdade Têm Curvas (2002)	dub=2:1267156	leg=2:1267147
+Mulheres no Poder (2016)	dub=2:1266270
+Mulheres: Jogar para Ganhar	dub=0:241746	leg=0:241747
+Mulheres: Jogar para Ganhar - (2021)	dub=2:1054128	leg=2:1033389
+Mulheres: Uma Outra História	dub=0:370349
+Mulheres: Uma Outra História (1988)	dub=2:1266209
+Multiverso - Realidade Paralela	dub=0:333283	leg=0:333282
+Multiverso - Realidade Paralela - (2021)	dub=2:1060052	leg=2:1025288
+Mumbai Saga	leg=0:129544
+Mumbai Saga (2021)	dub=2:1268883	leg=2:1030965
+Munch (2023)	dub=2:1268747
+Mundo Cao (2016)	dub=2:1269972
+Mundo Cão	dub=0:382467,0:252899	leg=0:252900
+Mundo Cão - (2021)	dub=2:1060254	leg=2:1035743
+Mundo Duplo (2020)	dub=2:1271191
 Mundo Escondido	dub=0:297451
-Mundo Estranho 4K	dub=0:184017,0:182634,2:1062000,2:1021718	leg=0:182633,2:1031008
-Mundo Futuro: Ano 2003, Operação Terra	dub=0:315682,2:1056494	leg=0:317685,0:315683,2:1031697
+Mundo Estranho - (2022)	dub=2:1062000,2:1021718	leg=2:1031008
+Mundo Estranho 4K	dub=0:184017,0:182634	leg=0:182633
+Mundo Futuro: Ano 2003, Operação Terra	dub=0:315682	leg=0:317685,0:315683
+Mundo Futuro: Ano 2003, Operação Terra - (1976)	dub=2:1056494	leg=2:1031697
 Mundo Novo	dub=0:382993
-Mundo Proibido	dub=2:1271032
-Mundo Sombrio: Equilibrium	dub=0:374299,2:1272185	leg=0:374298,2:1272187
-Mundo em Caos 4K	dub=0:115507,0:115504,2:1059508,2:1022238
-Mundo em Chamas	dub=0:313600,2:1044103	leg=0:313601,2:1029154
-Mundos Paralelos	dub=0:146836,2:1062234	leg=0:146835,2:1035063
-Mune O Guardiao da Lua	dub=2:1267625
-Munique: No Limite da Guerra	dub=0:148663,2:1045457	leg=0:148664,2:1028750
-Muppets 2: Procurados e Amados	dub=0:350998,2:1067578	leg=0:350997,2:1035149
-Muppets Haunted Mansion: A Festa Aterrorizante	dub=0:133028,2:1049948	leg=0:133020,2:1024165
-Muppets do Espaço	dub=0:351000,2:1264723	leg=0:350999,2:1264775
-Muppets: O Filme	dub=0:351002,0:329663,2:1071775	leg=0:351001,0:329662,2:1035575
-Murder in Monaco	dub=0:357801,2:1265030	leg=0:357800,2:1265035
-Murder in the Dark	leg=0:378241,2:1271953
-Murder in the Dark Legendado	dub=2:1261019
-Murderville Quem Matou o Papai Noel	dub=2:1271515
-Murilo Couto	dub=0:92560,2:1271584,2:1248776
-Murilo Couto - Eu, eu, Murilo	dub=2:1269757
-Murilo Couto: Leso	dub=0:199754,2:1054707
-Murina	dub=2:1271311
-Muse	dub=2:1271096
-Muse: Simulation Theory	dub=2:1268560
-Museu	dub=2:1271899
-Museu de Cera	dub=0:105442,2:1058827
-Music	dub=0:149576,2:1270361,2:1071721	leg=0:264118,0:149578,2:1033213,2:1024519
-Musica, Maestro!	dub=2:1271198
-Mussum - Um Filme do Cacildis	dub=0:28686,2:1071918
-Mussum: O Filmis	dub=0:233482,2:1045864
-Mutano: Lobo Solitário	dub=0:309931,2:1269306	leg=0:309932
-Mutação	dub=0:254854,2:1267488,2:1058083	leg=0:254855,2:1026100
-Mutação 3: O Sentinela	dub=2:1272442
-Muti: Crime e Poder	dub=0:219661,2:1070058	leg=0:219662,2:1033224
+Mundo Proibido (1992)	dub=2:1271032
+Mundo Sombrio: Equilibrium	dub=0:374299	leg=0:374298
+Mundo Sombrio: Equilibrium (2013)	dub=2:1272185	leg=2:1272187
+Mundo em Caos - (2021)	dub=2:1059508,2:1022238
+Mundo em Caos 4K	dub=0:115507,0:115504
+Mundo em Chamas	dub=0:313600	leg=0:313601
+Mundo em Chamas - (2023)	dub=2:1044103	leg=2:1029154
+Mundos Paralelos	dub=0:146836	leg=0:146835
+Mundos Paralelos - (2019)	dub=2:1062234	leg=2:1035063
+Mune O Guardiao da Lua (2015)	dub=2:1267625
+Munique: No Limite da Guerra	dub=0:148663	leg=0:148664
+Munique: No Limite da Guerra - (2022)	dub=2:1045457	leg=2:1028750
+Muppets 2: Procurados e Amados	dub=0:350998	leg=0:350997
+Muppets 2: Procurados e Amados - (2014)	dub=2:1067578	leg=2:1035149
+Muppets Haunted Mansion: A Festa Aterrorizante	dub=0:133028	leg=0:133020
+Muppets Haunted Mansion: A Festa Aterrorizante - (2021)	dub=2:1049948	leg=2:1024165
+Muppets do Espaço	dub=0:351000	leg=0:350999
+Muppets do Espaço (1999)	dub=2:1264723	leg=2:1264775
+Muppets: O Filme	dub=0:351002,0:329663	leg=0:351001,0:329662
+Muppets: O Filme - (1979)	dub=2:1071775	leg=2:1035575
+Murder in Monaco	dub=0:357801	leg=0:357800
+Murder in Monaco (2025)	dub=2:1265030	leg=2:1265035
+Murder in the Dark	leg=0:378241
+Murder in the Dark (2013)	leg=2:1271953
+Murder in the Dark Legendado (2026)	dub=2:1261019
+Murderville Quem Matou o Papai Noel (2022)	dub=2:1271515
+Murilo Couto	dub=0:92560
+Murilo Couto (2021)	dub=2:1271584
+Murilo Couto - (2020)	dub=2:1248776
+Murilo Couto - Eu, eu, Murilo (2017)	dub=2:1269757
+Murilo Couto: Leso	dub=0:199754
+Murilo Couto: Leso - (2023)	dub=2:1054707
+Murina (2022)	dub=2:1271311
+Muse (2017)	dub=2:1271096
+Muse: Simulation Theory (2020)	dub=2:1268560
+Museu (2018)	dub=2:1271899
+Museu de Cera	dub=0:105442
+Museu de Cera - (1953)	dub=2:1058827
+Music	dub=0:149576	leg=0:264118,0:149578
+Music (2023)	dub=2:1270361	leg=2:1033213
+Music - (2021)	dub=2:1071721	leg=2:1024519
+Musica, Maestro! (1946)	dub=2:1271198
+Mussum - Um Filme do Cacildis	dub=0:28686
+Mussum - Um Filme do Cacildis - (2019)	dub=2:1071918
+Mussum: O Filmis	dub=0:233482
+Mussum: O Filmis - (2023)	dub=2:1045864
+Mutacao (1997)	dub=2:1267488
+Mutano Lobo Solitario (2024)	dub=2:1269306
+Mutano: Lobo Solitário	dub=0:309931	leg=0:309932
+Mutação	dub=0:254854	leg=0:254855
+Mutação - (2021)	dub=2:1058083	leg=2:1026100
+Mutação 3: O Sentinela (2003)	dub=2:1272442
+Muti: Crime e Poder	dub=0:219661	leg=0:219662
+Muti: Crime e Poder - (2023)	dub=2:1070058	leg=2:1033224
 Muzzle: City of Wolves	leg=0:355670
-My Boyfriends Meds	leg=0:48195,2:1034575
-My Dad's Christmas Date	dub=2:1265259
-My First Film	dub=2:1270439	leg=0:285092,2:1023919
-My First Summer	leg=0:100408,2:1249353
-My Heart Puppy	leg=0:246435,2:1026337
-My Hero Academia: 2 Heróis - O Filme	dub=0:29098,2:1061553
-My Hero Academia: Agora é a Sua Vez	dub=0:319067,2:1061931	leg=0:312860,2:1023639
-My Hero Academia: Ascensao dos Herois	dub=2:1269948
-My Hero Academia: Missao Mundial de Herois	dub=2:1265895
-My Little Pony: Nova Geração	dub=0:130265,2:1062269	leg=0:130248,2:1027548
-My Little Pony: O Filme	dub=0:20396,2:1068553
-My Love Will Make You Disappear	leg=0:334601,2:1037106
-My Next Life as a Villainess: All Routes Lead to Doom! O Filme	dub=2:1269686	leg=0:321253,2:1036300
-My Octopus Teacher	dub=2:1269130
-My Old School	dub=2:1271618	leg=2:1273025
-My Professor's Guide to Murder	dub=0:252789,2:1050778
-My Salinger Year	leg=0:100137,2:1035231
+My Boyfriends Meds	leg=0:48195
+My Boyfriends Meds - (2020)	leg=2:1034575
+My Dad's Christmas Date (2020)	dub=2:1265259
+My First Film	leg=0:285092
+My First Film (2024)	dub=2:1270439	leg=2:1023919
+My First Summer	leg=0:100408
+My First Summer - (2020)	leg=2:1249353
+My Heart Puppy	leg=0:246435
+My Heart Puppy - (2023)	leg=2:1026337
+My Hero Academia: 2 Heróis - O Filme	dub=0:29098
+My Hero Academia: 2 Heróis - O Filme - (2018)	dub=2:1061553
+My Hero Academia: Agora é a Sua Vez	dub=0:319067	leg=0:312860
+My Hero Academia: Agora é a Sua Vez - (2024)	dub=2:1061931	leg=2:1023639
+My Hero Academia: Ascensao dos Herois (2019)	dub=2:1269948
+My Hero Academia: Missao Mundial de Herois (2021)	dub=2:1265895
+My Little Pony: Nova Geração	dub=0:130265	leg=0:130248
+My Little Pony: Nova Geração - (2021)	dub=2:1062269	leg=2:1027548
+My Little Pony: O Filme	dub=0:20396
+My Little Pony: O Filme - (2017)	dub=2:1068553
+My Love Will Make You Disappear	leg=0:334601
+My Love Will Make You Disappear - (2025)	leg=2:1037106
+My Next Life as a Villainess All Routes Lead to Doom O Filme (2023)	dub=2:1269686	leg=2:1036300
+My Next Life as a Villainess: All Routes Lead to Doom! O Filme	leg=0:321253
+My Octopus Teacher (2020)	dub=2:1269130
+My Old School (2022)	dub=2:1271618	leg=2:1273025
+My Professor's Guide to Murder	dub=0:252789
+My Professor's Guide to Murder - (2023)	dub=2:1050778
+My Salinger Year	leg=0:100137
+My Salinger Year - (2020)	leg=2:1035231
 My Special One	leg=0:367414
-My Special One Legendado	dub=2:1257221
-My Spy	leg=0:69604,2:1029894
-My Teacher My Love	leg=0:69605,2:1026216
-My True Fairytale	dub=0:335237,2:1069852	leg=0:335236,2:1032338
-My Way - Prisioneiros de Guerra	dub=2:1268752
-My Year of Dicks	dub=2:1268691
-Má Educação 4K	dub=0:196771,0:69945,2:1249730,2:1050919
-Má Influência	dub=0:320772,2:1038076	leg=0:320771,2:1037143
-Máfia Digital	dub=0:339289,2:1051606	leg=0:339288,2:1249084
-Máfia S.A	dub=0:148658,2:1051935	leg=0:148651,2:1026712
-Máfia da Dor	dub=0:223398,2:1041705	leg=0:223378,2:1029010
-Máfia de Mumbai: Polícia Contra o Crime Organizado	dub=2:1293092
-Máfia no Divã	dub=0:332689,2:1051803	leg=0:332688,2:1028755
-Máquina da Vingança	dub=0:36059,2:1059745
-Máquina de Guerra	dub=0:371902,0:368948,0:127434,2:1270702,2:1258242,2:1066192	leg=0:371901,0:368947,2:1272223,2:1268081
-Máquina do Desejo	dub=0:363459,2:1267067
-Mário e Leon: No Amor e no Jogo	dub=0:179818,2:1064696	leg=0:179817,2:1031668
-Mártires	dub=0:344505,2:1057555	leg=0:344504,0:330022,2:1030408
-Más Intenções	dub=0:35951,2:1050754
-Mátria	leg=0:346712,2:1036425
-Mãe Fora da Caixa	dub=0:363498,2:1256118
-Mãe Obsessiva	dub=0:48192,2:1050751
-Mãe Só Há Uma	dub=0:130261,2:1042162
-Mãe Terra	dub=0:255565,2:1041362	leg=0:255566,2:1034754
-Mãe de Aluguel	dub=0:254852,2:1041570	leg=0:254853,2:1026449
-Mãe e Filha	dub=0:160614,2:1042822
-Mãe e Muito Mais 4K	dub=0:193281,0:26864,2:1052968,2:1022913
-Mãe em Fúria	dub=0:256851,2:1070368	leg=0:256852,2:1026626
-Mãe x Androides 4K	dub=0:148654,0:145958,2:1249616,2:1059477	leg=0:145954,2:1032164
-Mães Paralelas	dub=0:150141,2:1041842	leg=0:150142,2:1024128
-Mão na Cabeça	dub=0:326978,2:1051721	leg=0:326977,2:1028661
-Mão na Luva	dub=2:1273166
-México 1986	dub=0:381790,2:1261607	leg=0:381789,2:1272961
-Música 4K	dub=0:277861,0:255569,2:1071370,2:1022882	leg=0:255570,2:1032099
-Música Para Morrer de Amor	dub=0:75044,2:1065594
-Música a Bordo	dub=0:133019,2:1053736	leg=0:133025,2:1028909
-Música do Coração	dub=0:129574,2:1071941
-Música, Amigos e Festa	dub=0:197451,2:1072012
-Mārama Legendado	dub=2:1262175
-maboroshi	dub=0:241302,2:1062112	leg=0:241303,2:1029659
-mãe!	dub=0:110820,2:1270147,2:1059201
+My Special One Legendado (2025)	dub=2:1257221
+My Spy	leg=0:69604
+My Spy - (2020)	leg=2:1029894
+My Teacher My Love	leg=0:69605
+My Teacher My Love - (2018)	leg=2:1026216
+My True Fairytale	dub=0:335237	leg=0:335236
+My True Fairytale - (2021)	dub=2:1069852	leg=2:1032338
+My Way - Prisioneiros de Guerra (2011)	dub=2:1268752
+My Year of Dicks (2023)	dub=2:1268691
+Má Educação 4K	dub=0:196771,0:69945
+Má Educação 4K - (2019)	dub=2:1249730,2:1050919
+Má Influência	dub=0:320772	leg=0:320771
+Má Influência - (2025)	dub=2:1038076	leg=2:1037143
+Máfia Digital	dub=0:339289	leg=0:339288
+Máfia Digital - (2019)	dub=2:1051606	leg=2:1249084
+Máfia S.A	dub=0:148658	leg=0:148651
+Máfia S.A - (2020)	dub=2:1051935	leg=2:1026712
+Máfia da Dor	dub=0:223398	leg=0:223378
+Máfia da Dor - (2023)	dub=2:1041705	leg=2:1029010
+Máfia de Mumbai: Polícia Contra o Crime Organizado (2023)	dub=2:1293092
+Máfia no Divã	dub=0:332689	leg=0:332688
+Máfia no Divã - (1999)	dub=2:1051803	leg=2:1028755
+Máquina da Vingança	dub=0:36059
+Máquina da Vingança - (2019)	dub=2:1059745
+Máquina de Guerra	dub=0:371902,0:368948,0:127434	leg=0:371901,0:368947
+Máquina de Guerra (2026)	dub=2:1258242	leg=2:1272223
+Máquina de Guerra - (1998)	dub=2:1066192
+Máquina do Desejo	dub=0:363459
+Máquina do Desejo (2021)	dub=2:1267067
+Mário e Leon: No Amor e no Jogo	dub=0:179818	leg=0:179817
+Mário e Leon: No Amor e no Jogo - (2018)	dub=2:1064696	leg=2:1031668
+Mártires	dub=0:344505	leg=0:344504,0:330022
+Mártires - (2008)	dub=2:1057555	leg=2:1030408
+Más Intenções	dub=0:35951
+Más Intenções - (2018)	dub=2:1050754
+Mátria	leg=0:346712
+Mátria - (2023)	leg=2:1036425
+Mãe Fora da Caixa	dub=0:363498
+Mãe Fora da Caixa (2025)	dub=2:1256118
+Mãe Obsessiva	dub=0:48192
+Mãe Obsessiva - (2019)	dub=2:1050751
+Mãe Só Há Uma	dub=0:130261
+Mãe Só Há Uma - (2016)	dub=2:1042162
+Mãe Terra	dub=0:255565	leg=0:255566
+Mãe Terra - (2023)	dub=2:1041362	leg=2:1034754
+Mãe de Aluguel	dub=0:254852	leg=0:254853
+Mãe de Aluguel - (2021)	dub=2:1041570	leg=2:1026449
+Mãe e Filha	dub=0:160614
+Mãe e Filha - (2021)	dub=2:1042822
+Mãe e Muito Mais - (2019)	dub=2:1052968,2:1022913
+Mãe e Muito Mais 4K	dub=0:193281,0:26864
+Mãe em Fúria	dub=0:256851	leg=0:256852
+Mãe em Fúria - (2021)	dub=2:1070368	leg=2:1026626
+Mãe x Androides 4K	dub=0:148654,0:145958	leg=0:145954
+Mãe x Androides 4K - (2021)	dub=2:1249616,2:1059477	leg=2:1032164
+Mães Paralelas	dub=0:150141	leg=0:150142
+Mães Paralelas - (2021)	dub=2:1041842	leg=2:1024128
+Mão na Cabeça	dub=0:326978	leg=0:326977
+Mão na Cabeça - (2019)	dub=2:1051721	leg=2:1028661
+Mão na Luva (2014)	dub=2:1273166
+México (1986)	dub=0:381790,2:1261607	leg=0:381789,2:1272961
+Música - (2024)	dub=2:1071370,2:1022882	leg=2:1032099
+Música 4K	dub=0:277861,0:255569	leg=0:255570
+Música Para Morrer de Amor	dub=0:75044
+Música Para Morrer de Amor - (2019)	dub=2:1065594
+Música a Bordo	dub=0:133019	leg=0:133025
+Música a Bordo - (2019)	dub=2:1053736	leg=2:1028909
+Música do Coração	dub=0:129574
+Música do Coração - (1999)	dub=2:1071941
+Música, Amigos e Festa	dub=0:197451
+Música, Amigos e Festa - (2015)	dub=2:1072012
+Mārama Legendado (2026)	dub=2:1262175
+maboroshi	dub=0:241302	leg=0:241303
+maboroshi - (2023)	dub=2:1062112	leg=2:1029659
+mãe!	dub=0:110820
+mãe! - (2017)	dub=2:1059201

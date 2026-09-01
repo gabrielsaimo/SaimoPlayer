@@ -1,837 +1,1528 @@
-E Agora Mamãe Saiu de Férias 2… E Levou A Família	dub=0:164222,2:1067797	leg=0:164203,2:1032508
-E Agora Me Chamam O Magnífico	dub=0:44181,2:1069273
-E Agora? A Mamãe Saiu de Férias!	dub=0:41633,2:1067136
-E Ai Comeu	dub=0:20594,2:1055178
-E Amanha O Mundo Todo	dub=0:105067,2:1052451
-E Apenas o Fim do Mundo	dub=2:1268712
-E Depois	dub=2:1269960
-E Então Nós Dançamos	dub=0:180572,2:1064676	leg=0:180576,2:1035628
-E Fada	dub=0:20595,2:1039118
-E Se Fosse Verdade	dub=0:20596,2:1040389
-E Se Voce Tivesse a Segunda Chance	dub=0:20597,2:1068592
-E a Vida Continua...	dub=2:1269438
-E o Sangue Semeou a Terra	dub=2:1269164
-E o mundo era muito maior que a minha casa	dub=0:369395,2:1272408
-E.T.: O Extraterrestre	dub=0:257909,2:1039883
-EGUM	dub=0:284027,2:1058824
-EO	dub=2:1269704
-EPiC: Elvis Presley in Concert	leg=0:373339,2:1272108
-ESTRADA PARA PERDICAO	dub=2:1271930
-EU	dub=0:242180,2:1048193
-EXmas	dub=2:1266944	leg=0:246184,2:1033437
-Earth Protectors	dub=2:1268467	leg=0:247939,2:1024922
-Earthquake: Joke Telling Business	dub=2:1268593	leg=0:346713,2:1038624
-Echo	dub=2:1269333
-Echo Boomers: A Geração Esquecida	dub=0:185291,2:1051711	leg=0:185292,2:1029423
-Echo Valley 4K	dub=0:328469,0:328303,2:1037664,2:1036674	leg=0:328302,2:1037752
-Eclipse Mortal	dub=0:98816,2:1050656
-Eclipse Total	dub=0:106823,2:1070958
-Ecologia	dub=0:336826,2:1049020
-Ecos de Um Crime	dub=0:155736,2:1044163	leg=0:155735,2:1028350
-Ecos do Além	dub=0:77612,2:1070967
-Ecos do Passado	dub=0:255251,2:1041534	leg=0:255252,2:1026452
-Ecos na Escuridao	dub=2:1268688
-Ed Sheeran - Live At Wembley Stadium	dub=2:1268959
-Ed Stafford: Desafio em Família	dub=0:345083,0:291879,2:1048009	leg=0:345082,2:1023532
-Ed Wood	dub=0:352202,2:1264905	leg=0:352201,2:1264907
-Ed e Lorraine Warren: A Ordem do Demonio	dub=2:1271933
-Eddington 4K	dub=0:358053,0:357793,2:1266188,2:1254725	leg=0:357792,0:347174,2:1038686
-Edge Of Extinction	dub=2:1270315	leg=0:68440,2:1025761
-Edificio Gagarine	dub=2:1271755
-Edifício N	dub=0:337282,2:1057986	leg=0:337281,2:1031763
-Edifício do Medo	dub=0:366896,2:1267579	leg=0:366895,2:1267589
-Edição de Natal	dub=0:140697,2:1050141	leg=0:140693,2:1026358
-Eduardo e Mônica	dub=0:159834,2:1063803
-Educacao	dub=0:106824,2:1064939
-Educacao Americana: Fraude E Privilegio	dub=2:1271153
-Edward Mãos de Tesoura	dub=0:112928,0:21235,2:1038981
-Edwin Boyd: A Lenda do Crime	dub=0:379457,2:1272568
-Een schitterend gebrek	leg=0:301052,2:1029277
-Eerie	dub=2:1270890
-Eerie Legendado	dub=0:26676,2:1052093
-Efeito Blackout	dub=2:1291023
+E Agora Mamãe Saiu de Férias 2… E Levou A Família	dub=0:164222	leg=0:164203
+E Agora Mamãe Saiu de Férias 2… E Levou A Família - (2020)	dub=2:1067797	leg=2:1032508
+E Agora Me Chamam O Magnífico	dub=0:44181
+E Agora Me Chamam O Magnífico - (1972)	dub=2:1069273
+E Agora? A Mamãe Saiu de Férias!	dub=0:41633
+E Agora? A Mamãe Saiu de Férias! - (2019)	dub=2:1067136
+E Ai Comeu	dub=0:20594
+E Ai Comeu - (2012)	dub=2:1055178
+E Amanha O Mundo Todo	dub=0:105067
+E Amanha O Mundo Todo - (2021)	dub=2:1052451
+E Amor (2022)	dub=2:1267365	leg=2:1266344
+E Apenas o Fim do Mundo (2016)	dub=2:1268712
+E Depois (2024)	dub=2:1269960
+E Então Nós Dançamos	dub=0:180572	leg=0:180576
+E Então Nós Dançamos - (2019)	dub=2:1064676	leg=2:1035628
+E Fada	dub=0:20595
+E Fada - (2016)	dub=2:1039118
+E O Fim - (2013)	dub=2:1047387
+E Se Fosse Verdade	dub=0:20596
+E Se Fosse Verdade - (2005)	dub=2:1040389
+E Se Voce Tivesse a Segunda Chance	dub=0:20597
+E Se Voce Tivesse a Segunda Chance - (2010)	dub=2:1068592
+E a Vida Continua... (1942)	dub=2:1269438
+E o Sangue Semeou a Terra (1952)	dub=2:1269164
+E o mundo era muito maior que a minha casa	dub=0:369395
+E o mundo era muito maior que a minha casa (1976)	dub=2:1272408
+E.T.: O Extraterrestre	dub=0:257909
+E.T.: O Extraterrestre - (1982)	dub=2:1039883
+EGUM	dub=0:284027
+EGUM - (2020)	dub=2:1058824
+EO (2022)	dub=2:1269704
+EPiC: Elvis Presley in Concert	leg=0:373339
+EPiC: Elvis Presley in Concert (2026)	leg=2:1272108
+ESTRADA PARA PERDICAO (2002)	dub=2:1271930
+EU	dub=0:242180
+EU - (2023)	dub=2:1048193
+EXmas	leg=0:246184
+EXmas (2023)	dub=2:1266944	leg=2:1033437
+Earth Protectors	leg=0:247939
+Earth Protectors (2023)	dub=2:1268467	leg=2:1024922
+Earthquake Joke Telling Business (2025)	dub=2:1268593	leg=2:1038624
+Earthquake: Joke Telling Business	leg=0:346713
+Echo (2014)	dub=2:1269333
+Echo Boomers: A Geração Esquecida	dub=0:185291	leg=0:185292
+Echo Boomers: A Geração Esquecida - (2020)	dub=2:1051711	leg=2:1029423
+Echo Valley - (2025)	dub=2:1037664,2:1036674	leg=2:1037752
+Echo Valley 4K	dub=0:328469,0:328303	leg=0:328302
+Eclipse Mortal	dub=0:98816
+Eclipse Mortal - (2000)	dub=2:1050656
+Eclipse Total	dub=0:106823
+Eclipse Total - (1995)	dub=2:1070958
+Ecologia	dub=0:336826
+Ecologia - (1973)	dub=2:1049020
+Ecos de Um Crime	dub=0:155736	leg=0:155735
+Ecos de Um Crime - (2022)	dub=2:1044163	leg=2:1028350
+Ecos do Além	dub=0:77612
+Ecos do Além - (1999)	dub=2:1070967
+Ecos do Passado	dub=0:255251	leg=0:255252
+Ecos do Passado - (2021)	dub=2:1041534	leg=2:1026452
+Ecos na Escuridao (2018)	dub=2:1268688
+Ed Sheeran - Live At Wembley Stadium (2015)	dub=2:1268959
+Ed Stafford: Desafio em Família	dub=0:345083,0:291879	leg=0:345082
+Ed Stafford: Desafio em Família - (2019)	dub=2:1048009	leg=2:1023532
+Ed Wood	dub=0:352202	leg=0:352201
+Ed Wood (1994)	dub=2:1264905	leg=2:1264907
+Ed e Lorraine Warren: A Ordem do Demonio (2021)	dub=2:1271933
+Eddington 4K	dub=0:358053,0:357793	leg=0:357792,0:347174
+Eddington 4K (2025)	dub=2:1266188,2:1254725	leg=2:1038686
+Edge Of Extinction	leg=0:68440
+Edge Of Extinction - (2020)	leg=2:1025761
+Edge of Extinction (2022)	dub=2:1270315
+Edificio Gagarine (2020)	dub=2:1271755
+Edifício N	dub=0:337282	leg=0:337281
+Edifício N - (2022)	dub=2:1057986	leg=2:1031763
+Edifício do Medo	dub=0:366896	leg=0:366895
+Edifício do Medo (2024)	dub=2:1267579	leg=2:1267589
+Edição de Natal	dub=0:140697	leg=0:140693
+Edição de Natal - (2020)	dub=2:1050141	leg=2:1026358
+Eduardo e Mônica	dub=0:159834
+Eduardo e Mônica - (2022)	dub=2:1063803
+Educacao	dub=0:106824
+Educacao - (2009)	dub=2:1064939
+Educacao Americana: Fraude E Privilegio (2021)	dub=2:1271153
+Edward Mãos de Tesoura	dub=0:112928,0:21235
+Edward Mãos de Tesoura - (1990)	dub=2:1038981
+Edwin Boyd: A Lenda do Crime	dub=0:379457
+Edwin Boyd: A Lenda do Crime (2011)	dub=2:1272568
+Een schitterend gebrek	leg=0:301052
+Een schitterend gebrek - (2024)	leg=2:1029277
+Eerie (1974)	dub=2:1270890
+Eerie Legendado	dub=0:26676
+Eerie Legendado - (2019)	dub=2:1052093
+Efeito Blackout (1998)	dub=2:1291023
 Efeito Borboleta	dub=0:382979	leg=0:382978
-Efeito Borboleta 1	dub=0:21293,2:1061168
-Efeito Borboleta 2	dub=0:21294,2:1060694
-Efeito Borboleta 3	dub=0:21295,2:1061225
-Efeito Colateral	dub=0:20014,2:1044410
-Efeito Dominó	dub=0:214006,2:1052492
-Efeito Espacial	dub=0:308388,2:1051675	leg=0:308389,2:1025284
-Efeito Flashback	dub=0:136782,2:1070175	leg=0:136777,2:1025304
-Efeito Paradoxo	dub=0:324692,2:1047096	leg=0:324691,0:267697,2:1028467
-Efeito Pigmaleao	dub=2:1269838
-Ehero	dub=2:1269074	leg=0:73268,2:1027555
-Ehrengard: A Ninfa do Lago 4K	dub=0:215883,0:214616,2:1063331,2:1000521	leg=0:215055,2:1032626
-Eiffel	dub=0:151973,2:1064690	leg=0:151972,2:1029738
-Eight Postcards from Utopia	dub=2:1271489
-Eike: Tudo ou Nada	dub=0:180629,2:1051268
-Eileen	leg=0:246185,2:1031589
-Einstein e a Bomba	dub=0:247940,2:1048233,2:1023352	leg=0:247941,2:1249177
-Eko	leg=0:361352,2:1266782
-El	dub=0:144890,2:1248857	leg=0:144893,2:1025314
-El Ascensor	dub=0:92574,2:1061103
-El Camino: A Breaking Bad Film	dub=0:30384,2:1052814
-El Chicano: O Mito	dub=0:352400,0:48181,2:1042656	leg=0:352399,2:1264968
-El Dorado	dub=0:128521,2:1069205
-El Halcón: Sed de Venganza	dub=2:1268672	leg=0:266656
-El Mate	dub=0:375046,2:1272253
+Efeito Borboleta 1	dub=0:21293
+Efeito Borboleta 1 - (2004)	dub=2:1061168
+Efeito Borboleta 2	dub=0:21294
+Efeito Borboleta 2 - (2006)	dub=2:1060694
+Efeito Borboleta 3	dub=0:21295
+Efeito Borboleta 3 - (2009)	dub=2:1061225
+Efeito Colateral	dub=0:20014
+Efeito Colateral - (2002)	dub=2:1044410
+Efeito Dominó	dub=0:214006
+Efeito Dominó - (2008)	dub=2:1052492
+Efeito Espacial	dub=0:308388	leg=0:308389
+Efeito Espacial - (2002)	dub=2:1051675	leg=2:1025284
+Efeito Flashback	dub=0:136782	leg=0:136777
+Efeito Flashback - (2021)	dub=2:1070175	leg=2:1025304
+Efeito Paradoxo	dub=0:324692	leg=0:324691,0:267697
+Efeito Paradoxo - (2024)	dub=2:1047096	leg=2:1028467
+Efeito Pigmaleao (2019)	dub=2:1269838
+Ehero	leg=0:73268
+Ehrengard: A Ninfa do Lago - (2023)	dub=2:1063331,2:1000521	leg=2:1032626
+Ehrengard: A Ninfa do Lago 4K	dub=0:215883,0:214616	leg=0:215055
+Eiffel	dub=0:151973	leg=0:151972
+Eiffel - (2021)	dub=2:1064690	leg=2:1029738
+Eight Postcards from Utopia (2024)	dub=2:1271489
+Eike: Tudo ou Nada	dub=0:180629
+Eike: Tudo ou Nada - (2022)	dub=2:1051268
+Eileen	leg=0:246185
+Eileen - (2023)	leg=2:1031589
+Einstein e a Bomba	dub=0:247940	leg=0:247941
+Einstein e a Bomba - (2024)	dub=2:1048233,2:1023352	leg=2:1249177
+Eko	leg=0:361352
+Eko (2025)	leg=2:1266782
+El	dub=0:144890	leg=0:144893
+El - (2021)	dub=2:1248857	leg=2:1025314
+El Ascensor	dub=0:92574
+El Ascensor - (2021)	dub=2:1061103
+El Camino: A Breaking Bad Film	dub=0:30384
+El Camino: A Breaking Bad Film - (2019)	dub=2:1052814
+El Chicano: O Mito	dub=0:352400,0:48181	leg=0:352399
+El Chicano: O Mito (2019)	dub=2:1042656	leg=2:1264968
+El Dorado	dub=0:128521
+El Dorado - (1966)	dub=2:1069205
+El Gran Coco Legrand (2025)	dub=2:1265142	leg=2:1251101
+El Halcon Sed de Venganza (2023)	dub=2:1268672
+El Halcón: Sed de Venganza	leg=0:266656
+El Mate	dub=0:375046
+El Mate (2016)	dub=2:1272253
 El Robo Del Siglo	leg=0:69600
-El Salvador - O dia em que o medo mudou de lado 4K	dub=0:378988,0:378888,2:1272669,2:1272540	leg=0:378887,2:1272531
-El Titán: The Adrián González Story	dub=0:328471,2:1048690	leg=0:328470,2:1032738
-El gran Coco Legrand	dub=2:1265142	leg=0:348327,2:1251101
-El intercambio	leg=0:347359,2:1249596
-El mesero	leg=0:141471,2:1029993
-El pádel es nuestro - 2025	dub=2:1036976	leg=2:1036938
-Ela	dub=0:23724,2:1061174
-Ela Dança, Eu Danço	dub=0:108226,2:1072008
-Ela Dança, Eu Danço 2	dub=0:358814,0:108227,2:1071909	leg=0:358813,2:1266402
-Ela Dança, Eu Danço 3	dub=0:108228,2:1063900
-Ela Dança, Eu Danço 4	dub=0:108229,2:1071889
-Ela Dança, Eu Danço 5: Tudo ou Nada	dub=0:108230,2:1071499
-Ela Dança, Eu Danço 6	dub=0:108231,2:1071478
-Ela Disse 4K	dub=0:188319,0:188317,2:1249713,2:1045421	leg=0:188318,2:1033701
-Ela Disse Talvez 4K	dub=0:345476,0:344351,2:1038670,2:1036992	leg=0:344350,2:1036995
-Ela Disse, Ele Disse	dub=0:32238,2:1065091
-Ela Escolhe Perdoar	dub=0:381076,2:1261441	leg=0:381075,2:1272748
-Ela Luta Sumô	dub=0:344502,0:117062,2:1049035	leg=0:344501,2:1023600
-Ela e Eu	dub=0:320039,2:1041129	leg=0:320038,2:1026074
-Ela e o Cara	dub=0:101655,2:1065686
-Ela e os Caras	dub=0:138874,2:1055378
-Ela me Ensinou a Amar	dub=2:1271435	leg=0:288571,2:1033512
-Ela é Demais	dub=0:352997,0:214175,2:1065322	leg=0:352996,2:1265204
-Ela é Demais para Mim	dub=0:208853,2:1065569
-Ela é a Poderosa	dub=0:144084,2:1063571
-Ela é o Diabo	dub=0:381945,0:343237,2:1054036	leg=0:381944,0:343236,2:1025561
-Elas Contra o Serial Killer	dub=0:127403,2:1048262	leg=0:127427,2:1029106
-Elas por Elas	dub=0:225673,2:1047112	leg=0:225684,2:1249072
-Elcano e Magalhães: A Primeira Volta ao Mundo	dub=2:1273183
-Eldorado - Mengele Vivo ou Morto?	dub=0:42502,2:1048794
-Ele Acredita em Papai Noel!	dub=0:182290,2:1063669	leg=0:182273,2:1034654
-Ele Esta La Fora	dub=2:1265635
-Ele Está de Volta	dub=0:121040,0:20599,2:1053165
-Ele Nunca Morre	dub=0:130208,2:1039993
-Ele Não Está Tão a Fim de Você	dub=0:112992,0:112981,2:1065937
-Ele Te Vê Enquanto Você Dorme	dub=0:375707,2:1272330	leg=0:375706,2:1272337
-Ele Vem à Noite	dub=0:223389,2:1070089	leg=0:223405,2:1028588
-Ele disse, ela disse: Blake Lively contra Justin Baldoni	dub=0:343935,2:1038562	leg=0:343934,2:1036948
-Ele é Demais 4K	dub=0:189893,0:122876,2:1063324,2:1000529	leg=0:122868,2:1026262
-Ele é Um Gato!	dub=0:321251,2:1064500	leg=0:321250,2:1034412
-Electra	dub=0:347336,2:1249991	leg=0:347335,2:1249601
-Elefante	dub=0:48182,2:1270574,2:1048322
-Elefantes Fantasmas	leg=0:369372,2:1272482
-Elektra	dub=0:20015,2:1040223
-Elementos 4K	dub=0:214619,0:214618,2:1061437,2:1022361	leg=0:214617,2:1032329
-Elena Sabe 4K	dub=0:230583,0:229150,2:1040472,2:1023095	leg=0:229140,2:1031837
-Eles Existem	dub=0:48260,2:1057904
-Eles Vivem	dub=0:94723,2:1059876
-Eles Voltam	dub=0:377832,2:1268383
-Eles Vão te Matar 4K	dub=0:376529,0:376101,2:1265815,2:1260117	leg=0:376100,2:1267262
-Eletrodoméstica	dub=0:355718,2:1265779
-Eletronica: Alok Villa Mix Goiania 2017	dub=0:21960
-Eli	dub=0:30385,2:1058802
-Eli Manning apresenta: Os Infiltrados - Donovan Mitchell	leg=0:377094,2:1268334
-Elio	dub=0:343944,2:1036953	leg=0:343943,2:1036951
-Elis	dub=2:1270012
-Elis e Tom So Tinha de Ser com Voce	dub=0:229149,2:1266872
-Elisa e Marcela	dub=0:24190,2:1065541
-Elite Devassa	dub=2:1290990
-Elizabeth A Era de Ouro	dub=2:1271523
+El Salvador - O dia em que o medo mudou de lado (2026)	dub=2:1272669,2:1272540	leg=2:1272531
+El Salvador - O dia em que o medo mudou de lado 4K	dub=0:378988,0:378888	leg=0:378887
+El Titán: The Adrián González Story	dub=0:328471	leg=0:328470
+El Titán: The Adrián González Story - (2023)	dub=2:1048690	leg=2:1032738
+El gran Coco Legrand	leg=0:348327
+El intercambio	leg=0:347359
+El intercambio - (2023)	leg=2:1249596
+El mesero	leg=0:141471
+El mesero - (2021)	leg=2:1029993
+El pádel es nuestro - (2025)	dub=2:1036976	leg=2:1036938
+Ela	dub=0:23724
+Ela - (2013)	dub=2:1061174
+Ela Dança, Eu Danço	dub=0:108226
+Ela Dança, Eu Danço - (2006)	dub=2:1072008
+Ela Dança, Eu Danço 2	dub=0:358814,0:108227	leg=0:358813
+Ela Dança, Eu Danço 2 (2008)	dub=2:1071909	leg=2:1266402
+Ela Dança, Eu Danço 3	dub=0:108228
+Ela Dança, Eu Danço 3 - (2010)	dub=2:1063900
+Ela Dança, Eu Danço 4	dub=0:108229
+Ela Dança, Eu Danço 4 - (2012)	dub=2:1071889
+Ela Dança, Eu Danço 5: Tudo ou Nada	dub=0:108230
+Ela Dança, Eu Danço 5: Tudo ou Nada - (2014)	dub=2:1071499
+Ela Dança, Eu Danço 6	dub=0:108231
+Ela Dança, Eu Danço 6 - (2019)	dub=2:1071478
+Ela Disse 4K	dub=0:188319,0:188317	leg=0:188318
+Ela Disse 4K - (2022)	dub=2:1249713,2:1045421	leg=2:1033701
+Ela Disse Talvez 4K	dub=0:345476,0:344351	leg=0:344350
+Ela Disse Talvez 4K - (2025)	dub=2:1038670,2:1036992	leg=2:1036995
+Ela Disse, Ele Disse	dub=0:32238
+Ela Disse, Ele Disse - (2019)	dub=2:1065091
+Ela Escolhe Perdoar	dub=0:381076	leg=0:381075
+Ela Escolhe Perdoar (2025)	dub=2:1261441	leg=2:1272748
+Ela Luta Sumô	dub=0:344502,0:117062	leg=0:344501
+Ela Luta Sumô - (2018)	dub=2:1049035	leg=2:1023600
+Ela e Eu	dub=0:320039	leg=0:320038
+Ela e Eu - (2021)	dub=2:1041129	leg=2:1026074
+Ela e o Cara	dub=0:101655
+Ela e o Cara - (2006)	dub=2:1065686
+Ela e os Caras	dub=0:138874
+Ela e os Caras - (2007)	dub=2:1055378
+Ela me Ensinou a Amar	leg=0:288571
+Ela me Ensinou a Amar (2024)	dub=2:1271435	leg=2:1033512
+Ela é Demais	dub=0:352997,0:214175	leg=0:352996
+Ela é Demais (1999)	dub=2:1065322	leg=2:1265204
+Ela é Demais para Mim	dub=0:208853
+Ela é Demais para Mim - (2010)	dub=2:1065569
+Ela é a Poderosa	dub=0:144084
+Ela é a Poderosa - (2007)	dub=2:1063571
+Ela é o Diabo	dub=0:381945,0:343237	leg=0:381944,0:343236
+Ela é o Diabo - (1989)	dub=2:1054036	leg=2:1025561
+Elas Contra o Serial Killer	dub=0:127403	leg=0:127427
+Elas Contra o Serial Killer - (2021)	dub=2:1048262	leg=2:1029106
+Elas por Elas	dub=0:225673	leg=0:225684
+Elas por Elas - (2022)	dub=2:1047112	leg=2:1249072
+Elcano e Magalhães: A Primeira Volta ao Mundo (2019)	dub=2:1273183
+Eldorado - Mengele Vivo ou Morto?	dub=0:42502
+Eldorado - Mengele Vivo ou Morto? - (2019)	dub=2:1048794
+Ele Acredita em Papai Noel!	dub=0:182290	leg=0:182273
+Ele Acredita em Papai Noel! - (2022)	dub=2:1063669	leg=2:1034654
+Ele Esta La Fora (2018)	dub=2:1265635
+Ele Está de Volta	dub=0:121040,0:20599
+Ele Está de Volta - (2015)	dub=2:1053165
+Ele Nunca Morre	dub=0:130208
+Ele Nunca Morre - (2015)	dub=2:1039993
+Ele Não Está Tão a Fim de Você	dub=0:112992,0:112981
+Ele Não Está Tão a Fim de Você - (2009)	dub=2:1065937
+Ele Te Vê Enquanto Você Dorme	dub=0:375707	leg=0:375706
+Ele Te Vê Enquanto Você Dorme (2024)	dub=2:1272330	leg=2:1272337
+Ele Vem à Noite	dub=0:223389	leg=0:223405
+Ele Vem à Noite - (2022)	dub=2:1070089	leg=2:1028588
+Ele disse, ela disse: Blake Lively contra Justin Baldoni	dub=0:343935	leg=0:343934
+Ele disse, ela disse: Blake Lively contra Justin Baldoni - (2025)	dub=2:1038562	leg=2:1036948
+Ele é Demais - (2021)	dub=2:1063324,2:1000529	leg=2:1026262
+Ele é Demais 4K	dub=0:189893,0:122876	leg=0:122868
+Ele é Um Gato!	dub=0:321251	leg=0:321250
+Ele é Um Gato! - (2023)	dub=2:1064500	leg=2:1034412
+Electra	dub=0:347336	leg=0:347335
+Electra - (2024)	dub=2:1249991	leg=2:1249601
+Elefante	dub=0:48182
+Elefante (2003)	dub=2:1270574
+Elefante - (2020)	dub=2:1048322
+Elefantes Fantasmas	leg=0:369372
+Elefantes Fantasmas (2026)	leg=2:1272482
+Elektra	dub=0:20015
+Elektra - (2005)	dub=2:1040223
+Elementos - (2023)	dub=2:1061437,2:1022361	leg=2:1032329
+Elementos 4K	dub=0:214619,0:214618	leg=0:214617
+Elena Sabe 4K	dub=0:230583,0:229150	leg=0:229140
+Elena sabe - (2023)	dub=2:1040472,2:1023095	leg=2:1031837
+Eles Existem	dub=0:48260
+Eles Existem - (2014)	dub=2:1057904
+Eles Vivem	dub=0:94723
+Eles Vivem - (1988)	dub=2:1059876
+Eles Voltam	dub=0:377832
+Eles Voltam (2012)	dub=2:1268383
+Eles Vão te Matar (2026)	dub=2:1265815,2:1260117	leg=2:1267262
+Eles Vão te Matar 4K	dub=0:376529,0:376101	leg=0:376100
+Eletrodoméstica	dub=0:355718
+Eletrodoméstica (2005)	dub=2:1265779
+Eletronica: Alok Villa Mix Goiania (2017)	dub=0:21960
+Eli	dub=0:30385
+Eli - (2019)	dub=2:1058802
+Eli Manning apresenta: Os Infiltrados - Donovan Mitchell	leg=0:377094
+Eli Manning apresenta: Os Infiltrados - Donovan Mitchell (2026)	leg=2:1268334
+Elio	dub=0:343944	leg=0:343943
+Elio - (2025)	dub=2:1036953	leg=2:1036951
+Elis (2016)	dub=2:1270012
+Elis e Tom So Tinha de Ser com Voce	dub=0:229149
+Elis e Tom So Tinha de Ser com Voce (2023)	dub=2:1266872
+Elisa e Marcela	dub=0:24190
+Elisa e Marcela - (2019)	dub=2:1065541
+Elite Devassa (1984)	dub=2:1290990
+Elizabeth A Era de Ouro (2007)	dub=2:1271523
 Elizabeth II e Margaret: Amor e Lealdade	dub=0:149556
-Elizabeth Taylor - As Fitas Perdidas	dub=2:1270424	leg=0:282081,2:1036183
-Elize: Sombras de uma Mulher	dub=2:1263543
-Ella Bella Bingo	dub=2:1271638
-Ella e John	dub=0:158002,2:1057405
-Elle	dub=0:381947,0:22019,2:1044703	leg=0:381946,2:1272788
-Ellen DeGeneres Bem Relacionada	dub=2:1271590
-Ellen DeGeneres For Your Approval	dub=2:1270347	leg=2:1273060
-Ellen DeGeneres Salvando os Gorillas	dub=2:1271805
-Ellie And Abbie And Ellies Dead Aunt	leg=0:89391,2:1032480
-Elliot: Uma História de Natal	dub=0:89590,2:1062797
-Elmo na Terra dos Rabugentos	dub=0:41996,2:1071949
-Elon Não Acredita na Morte	dub=0:22020,2:1041946
-Elton John: Never Too Late	dub=2:1270515	leg=0:299618,2:1030117
-Elvira: a Rainha das Trevas	dub=0:314689,2:1040054
-Elvis & Anabelle: O Despertar de Um Amor	dub=0:129568,2:1063504
-Elvis & Nixon	dub=0:45090,2:1045950
-Elvis 4K	dub=0:169706,0:169298,2:1071373,2:1022815	leg=0:169297,2:1030975
-Elvis E Assim	dub=2:1269602
-Elvis Triunfal	dub=2:1266673
-Elway	leg=0:358136,2:1266328,2:1266304
-Elyas	dub=2:1266571	leg=0:295699,2:1031770
-Elyse - A coragem vem do coração	dub=0:182890,2:1041244	leg=0:182893,2:1023815
-Elysium	dub=0:198528,2:1061297
-Em 97 Era Assim	dub=2:1268928
-Em Algum Lugar do Passado	dub=0:311128,0:128883,2:1039512	leg=0:311129,2:1034884
-Em Algum Lugar do Queens	dub=0:210536,2:1054279	leg=0:210537,2:1023964
-Em Algum Momento Além de Agora	dub=0:328093,2:1040967	leg=0:328092,2:1033762
-Em Busca Da Fama	dub=0:89733,2:1052678
-Em Busca De Um Lar	dub=0:100363,2:1042783
-Em Busca da Carta Proibida	dub=0:22021,2:1045764
-Em Busca da Cerveja Perfeita	dub=2:1270109
-Em Busca da Eterna Juventude	dub=0:209523,2:1059992	leg=0:209524,2:1027212
-Em Busca da Justiça	dub=0:374291,0:21379,2:1069304	leg=0:374290,2:1272195
-Em Busca da Liberdade	dub=0:371877,2:1271841	leg=0:371876,2:1268038
-Em Busca da Terra do Nunca	dub=2:1271419
-Em Busca da Verdade	dub=0:371879,2:1268068	leg=0:371878,2:1268070
-Em Busca da Verdade A Historia de Amanda Knox	dub=2:1270823
-Em Busca da Vitória	dub=0:370335,0:30386,2:1271269,2:1047348	leg=0:370334,2:1266557
-Em Busca de Carlos Zéfiro	dub=0:343034,2:1048765
-Em Busca de Mim	dub=0:186739,2:1041297	leg=0:186740,2:1032236
-Em Busca de Redenção	dub=0:371881,2:1271725,2:1268104	leg=0:371880,2:1268148
-Em Busca de Vingança	dub=0:20016,2:1043356
-Em Busca de Zoe	dub=0:42544,2:1071215
-Em Busca de um Milagre	dub=0:91414,2:1042781
-Em Busca do Amor	dub=0:368211,2:1268186	leg=0:368210,2:1268176
-Em Busca do Anel Perdido	dub=0:289531,2:1038840	leg=0:289532,2:1033018
-Em Busca do Barco Perdido	dub=0:265311,2:1067673	leg=0:265312,2:1249184
-Em Busca do Bilhete Premiado 4K	dub=0:184067,0:180314,2:1050993,2:1023256	leg=0:180319,2:1032324
-Em Busca do Cálice Sagrado	dub=0:319053,0:306869,2:1066350	leg=0:319054,0:306870,2:1024389
-Em Busca do Enfermeiro da Noite 4K	dub=0:297424,0:179734,2:1048362
-Em Busca do Ouro	dub=0:128621,2:1057055
-Em Busca do Paraíso	dub=0:281464,0:79220,2:1039236	leg=0:281465,2:1029005
-Em Busca do Portal Mágico	dub=0:163578,2:1068463
-Em Busca do Vale Encantado 1	dub=0:20354,2:1265125
-Em Busca do Vale Encantado 2	dub=0:20355,2:1061643
-Em Busca do Vale Encantado 3	dub=0:20356,2:1062683
-Em Busca do Vale Encantado 4	dub=0:20357,2:1062602
-Em Busca do Vale Encantado 5	dub=0:20358,2:1061840
+Elizabeth Taylor - As Fitas Perdidas	leg=0:282081
+Elizabeth Taylor - As Fitas Perdidas (2024)	dub=2:1270424	leg=2:1036183
+Elize: Sombras de uma Mulher (2026)	dub=2:1263543
+Ella Bella Bingo (2020)	dub=2:1271638
+Ella e John	dub=0:158002
+Ella e John - (2018)	dub=2:1057405
+Elle	dub=0:381947,0:22019	leg=0:381946
+Elle (2016)	dub=2:1044703	leg=2:1272788
+Ellen DeGeneres Bem Relacionada (2018)	dub=2:1271590
+Ellen DeGeneres For Your Approval (2024)	dub=2:1270347	leg=2:1273060
+Ellen DeGeneres Salvando os Gorillas (2023)	dub=2:1271805
+Ellie And Abbie And Ellies Dead Aunt	leg=0:89391
+Ellie And Abbie And Ellies Dead Aunt - (2020)	leg=2:1032480
+Elliot: Uma História de Natal	dub=0:89590
+Elliot: Uma História de Natal - (2018)	dub=2:1062797
+Elmo na Terra dos Rabugentos	dub=0:41996
+Elmo na Terra dos Rabugentos - (1999)	dub=2:1071949
+Elon Não Acredita na Morte	dub=0:22020
+Elon Não Acredita na Morte - (2017)	dub=2:1041946
+Elton John Never Too Late (2024)	dub=2:1270515	leg=2:1030117
+Elton John: Never Too Late	leg=0:299618
+Elvira: a Rainha das Trevas	dub=0:314689
+Elvira: a Rainha das Trevas - (1988)	dub=2:1040054
+Elvis & Anabelle: O Despertar de Um Amor	dub=0:129568
+Elvis & Anabelle: O Despertar de Um Amor - (2007)	dub=2:1063504
+Elvis & Nixon	dub=0:45090
+Elvis & Nixon - (2016)	dub=2:1045950
+Elvis - (2022)	dub=2:1071373,2:1022815	leg=2:1030975
+Elvis 4K	dub=0:169706,0:169298	leg=0:169297
+Elvis E Assim (1970)	dub=2:1269602
+Elvis Triunfal (1972)	dub=2:1266673
+Elway	leg=0:358136
+Elway (2025)	leg=2:1266328,2:1266304
+Elyas	leg=0:295699
+Elyas (2024)	dub=2:1266571	leg=2:1031770
+Elyse - A coragem vem do coração	dub=0:182890	leg=0:182893
+Elyse - A coragem vem do coração - (2020)	dub=2:1041244	leg=2:1023815
+Elysium	dub=0:198528
+Elysium - (2013)	dub=2:1061297
+Em 97 Era Assim (2016)	dub=2:1268928
+Em Algum Lugar do Passado	dub=0:311128,0:128883	leg=0:311129
+Em Algum Lugar do Passado - (1980)	dub=2:1039512	leg=2:1034884
+Em Algum Lugar do Queens	dub=0:210536	leg=0:210537
+Em Algum Lugar do Queens - (2023)	dub=2:1054279	leg=2:1023964
+Em Algum Momento Além de Agora	dub=0:328093	leg=0:328092
+Em Algum Momento Além de Agora - (2021)	dub=2:1040967	leg=2:1033762
+Em Busca Da Fama	dub=0:89733
+Em Busca Da Fama - (2020)	dub=2:1052678
+Em Busca De Um Lar	dub=0:100363
+Em Busca De Um Lar - (2013)	dub=2:1042783
+Em Busca da Carta Proibida	dub=0:22021
+Em Busca da Carta Proibida - (2017)	dub=2:1045764
+Em Busca da Cerveja Perfeita (2019)	dub=2:1270109
+Em Busca da Eterna Juventude	dub=0:209523	leg=0:209524
+Em Busca da Eterna Juventude - (2018)	dub=2:1059992	leg=2:1027212
+Em Busca da Justiça	dub=0:374291,0:21379	leg=0:374290
+Em Busca da Justiça (2015)	dub=2:1069304	leg=2:1272195
+Em Busca da Liberdade	dub=0:371877	leg=0:371876
+Em Busca da Liberdade (2016)	dub=2:1271841	leg=2:1268038
+Em Busca da Terra do Nunca (2004)	dub=2:1271419
+Em Busca da Verdade	dub=0:371879	leg=0:371878
+Em Busca da Verdade (2019)	dub=2:1268068	leg=2:1268070
+Em Busca da Verdade A Historia de Amanda Knox (2025)	dub=2:1270823
+Em Busca da Vitoria (1985)	dub=2:1271269
+Em Busca da Vitória	dub=0:370335,0:30386	leg=0:370334
+Em Busca da Vitória (2019)	dub=2:1047348	leg=2:1266557
+Em Busca de Carlos Zéfiro	dub=0:343034
+Em Busca de Carlos Zéfiro - (2020)	dub=2:1048765
+Em Busca de Mim	dub=0:186739	leg=0:186740
+Em Busca de Mim - (2022)	dub=2:1041297	leg=2:1032236
+Em Busca de Redencao (2023)	dub=2:1271725
+Em Busca de Redenção	dub=0:371881	leg=0:371880
+Em Busca de Redenção (2009)	dub=2:1268104	leg=2:1268148
+Em Busca de Vingança	dub=0:20016
+Em Busca de Vingança - (2017)	dub=2:1043356
+Em Busca de Zoe	dub=0:42544
+Em Busca de Zoe - (2019)	dub=2:1071215
+Em Busca de um Milagre	dub=0:91414
+Em Busca de um Milagre - (2020)	dub=2:1042781
+Em Busca do Amor	dub=0:368211	leg=0:368210
+Em Busca do Amor (2009)	dub=2:1268186	leg=2:1268176
+Em Busca do Anel Perdido	dub=0:289531	leg=0:289532
+Em Busca do Anel Perdido - (2023)	dub=2:1038840	leg=2:1033018
+Em Busca do Barco Perdido	dub=0:265311	leg=0:265312
+Em Busca do Barco Perdido - (2021)	dub=2:1067673	leg=2:1249184
+Em Busca do Bilhete Premiado - (2022)	dub=2:1050993,2:1023256	leg=2:1032324
+Em Busca do Bilhete Premiado 4K	dub=0:184067,0:180314	leg=0:180319
+Em Busca do Cálice Sagrado	dub=0:319053,0:306869	leg=0:319054,0:306870
+Em Busca do Cálice Sagrado - (2022)	dub=2:1066350	leg=2:1024389
+Em Busca do Enfermeiro da Noite - (2022)	dub=2:1048362
+Em Busca do Enfermeiro da Noite 4K	dub=0:297424,0:179734
+Em Busca do Ouro	dub=0:128621
+Em Busca do Ouro - (1925)	dub=2:1057055
+Em Busca do Paraíso	dub=0:281464,0:79220	leg=0:281465
+Em Busca do Paraíso - (2020)	dub=2:1039236	leg=2:1029005
+Em Busca do Portal Mágico	dub=0:163578
+Em Busca do Portal Mágico - (2018)	dub=2:1068463
+Em Busca do Vale Encantado 1	dub=0:20354
+Em Busca do Vale Encantado 1 (1988)	dub=2:1265125
+Em Busca do Vale Encantado 2	dub=0:20355
+Em Busca do Vale Encantado 2 - (1994)	dub=2:1061643
+Em Busca do Vale Encantado 3	dub=0:20356
+Em Busca do Vale Encantado 3 - (1995)	dub=2:1062683
+Em Busca do Vale Encantado 4	dub=0:20357
+Em Busca do Vale Encantado 4 - (1996)	dub=2:1062602
+Em Busca do Vale Encantado 5	dub=0:20358
+Em Busca do Vale Encantado 5 - (1997)	dub=2:1061840
 Em Busca do Vale Encantado II: A Grande Aventura do Vale	dub=0:376304
-Em Busca do Vale Encantado IX: Viagem à Água Grande	dub=0:376305,2:1267378
-Em Busca do Vale Encantado VI: O Segredo do Rochedo	dub=0:376306,2:1266359
-Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado	dub=0:338620,2:1061778
-Em Busca do Vale Encantado VIII: A Grande Nevasca	dub=0:376307,2:1267375
-Em Busca do Vale Encantado X: A Grande Migração	dub=0:376308,2:1267374
-Em Busca do Vale Encantado XI: A Invasão dos Minissauros	dub=0:376309,2:1267373
-Em Busca do Vale Encantado XII: O Grande Dia dos Voadores	dub=0:376310,2:1266358
-Em Busca do Vale Encantado XIII: A União dos Amigos	dub=0:376311,2:1267390
-Em Casa para o Dia de Natal	dub=0:144057,2:1050524
-Em Chamas	dub=0:258419,2:1056297	leg=0:258420,2:1026235
-Em Cima Do Muro	dub=0:26860,2:1065465
-Em Confinamento 4K	dub=0:224982,0:181093,2:1057542,2:1022855	leg=0:181099,2:1023803
-Em Defesa de Cristo	dub=0:44164,2:1042215
-Em Dívida com a Sorte	dub=0:313848,2:1043699	leg=0:313849,2:1033035
-Em Fuga	dub=0:162967,2:1046602	leg=0:162968,2:1027911
-Em Guerra com o Vovô	dub=0:111545,2:1067788
-Em Nome da Honra	dub=0:300831,2:1043039	leg=0:300832,2:1249132
-Em Nome da Lei	dub=0:21615,2:1071298
-Em Nome da Razão	dub=0:340433,2:1049377
-Em Nome de Quem? Legendado	dub=2:1256650
-Em Nome do Pai	dub=0:128505,0:100441,2:1058402,2:1042452	leg=0:128534,2:1034688
-Em Nome do Rei 1	dub=2:1271746
-Em Nome do Rei 2: Entre Dois Mundos	dub=0:376313,2:1265819	leg=0:376312,2:1267294
-Em Nome do Rei 3 A Ultima Missao	dub=2:1268733
-Em Outra Vida	dub=0:133077,2:1059914
-Em Outros Tempos	dub=0:210527,0:210526,2:1040459,2:1022261	leg=0:210528,2:1032256
-Em Pé de Guerra	dub=0:138919,2:1248815
-Em Qualquer Lugar, a Qualquer Hora	leg=0:336381,2:1024396
-Em Retirada	dub=0:138853,2:1057276
-Em Ritmo de Fuga	dub=0:20017,2:1052817
-Em Rota de Colisão	dub=0:291272,2:1043869	leg=0:291273,2:1028369
-Em Rumo a Uma Terra Desconhecida	dub=2:1270926	leg=2:1273004
-Em Ruínas	dub=0:243290,0:243289,2:1069744
-Em Segredo	dub=0:374293,2:1272212	leg=0:374292,2:1272209
-Em Seu Lugar	dub=0:382445,0:301144,0:22022,2:1270430,2:1064911	leg=0:382444,0:301145,2:1272814
-Em Seus Passos, O Que Faria Jesus?	dub=0:247348,2:1266953
-Em Seus Sonhos	dub=0:192503,2:1063765	leg=0:192502,2:1028182
-Em Silencio	dub=2:1269214
-Em Suas Maos	dub=2:1271304
-Em Terreno Selvagem	dub=0:120667,2:1056894
-Em Todas as Partes 4K	dub=0:193277,0:187591,2:1043012,2:1023249
-Em Transe	dub=2:1267922
-Em Um Piscar de Olhos	dub=0:368083,0:368078,2:1268138,2:1257831	leg=0:368079,2:1268127
-Em Um Relacionamento Sério	dub=0:127418,0:90734,2:1064781
-Em Uma Ilha Bem Distante	dub=0:188910,2:1063680	leg=0:188916,2:1033485
-Em busca de 'Ohana	dub=0:93782,2:1067191
-Em busca de Sheela	dub=2:1269376
-Em um Bairro de Nova York	dub=0:125645,0:113030,2:1063702
-Em um Passe de Mágica	dub=0:169756,2:1064016	leg=0:169757,2:1027107
-Em uma Terra Muito Distante… Havia um Crime 4K	dub=0:215899,0:215052,2:1040423,2:1023247	leg=0:215051,2:1031788
-Em Águas Agitadas	dub=0:189547,2:1051828	leg=0:189546,2:1025407
-Emancipação: Uma História de Liberdade	dub=0:181447,0:181433,2:1066029,2:1022395	leg=0:181435,2:1249554
-Embaixo da Luz de Neon	dub=2:1264917	leg=0:352960,2:1265171
-Embarque Imediato	dub=0:63073,2:1054431
-Embattled	dub=0:119638,2:1249793	leg=0:119640,2:1028814
+Em Busca do Vale Encantado IX: Viagem à Água Grande	dub=0:376305
+Em Busca do Vale Encantado IX: Viagem à Água Grande (2002)	dub=2:1267378
+Em Busca do Vale Encantado VI: O Segredo do Rochedo	dub=0:376306
+Em Busca do Vale Encantado VI: O Segredo do Rochedo (1998)	dub=2:1266359
+Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado	dub=0:338620
+Em Busca do Vale Encantado VII: A Pedra do Fogo Gelado - (2000)	dub=2:1061778
+Em Busca do Vale Encantado VIII: A Grande Nevasca	dub=0:376307
+Em Busca do Vale Encantado VIII: A Grande Nevasca (2001)	dub=2:1267375
+Em Busca do Vale Encantado X: A Grande Migração	dub=0:376308
+Em Busca do Vale Encantado X: A Grande Migração (2003)	dub=2:1267374
+Em Busca do Vale Encantado XI: A Invasão dos Minissauros	dub=0:376309
+Em Busca do Vale Encantado XI: A Invasão dos Minissauros (2005)	dub=2:1267373
+Em Busca do Vale Encantado XII: O Grande Dia dos Voadores	dub=0:376310
+Em Busca do Vale Encantado XII: O Grande Dia dos Voadores (2006)	dub=2:1266358
+Em Busca do Vale Encantado XIII: A União dos Amigos	dub=0:376311
+Em Busca do Vale Encantado XIII: A União dos Amigos (2007)	dub=2:1267390
+Em Casa para o Dia de Natal	dub=0:144057
+Em Casa para o Dia de Natal - (2017)	dub=2:1050524
+Em Chamas	dub=0:258419	leg=0:258420
+Em Chamas - (2023)	dub=2:1056297	leg=2:1026235
+Em Cima Do Muro	dub=0:26860
+Em Cima Do Muro - (2017)	dub=2:1065465
+Em Confinamento - (2022)	dub=2:1057542,2:1022855	leg=2:1023803
+Em Confinamento 4K	dub=0:224982,0:181093	leg=0:181099
+Em Defesa de Cristo	dub=0:44164
+Em Defesa de Cristo - (2017)	dub=2:1042215
+Em Dívida com a Sorte	dub=0:313848	leg=0:313849
+Em Dívida com a Sorte - (2020)	dub=2:1043699	leg=2:1033035
+Em Fuga	dub=0:162967	leg=0:162968
+Em Fuga - (2022)	dub=2:1046602	leg=2:1027911
+Em Guerra com o Vovô	dub=0:111545
+Em Guerra com o Vovô - (2020)	dub=2:1067788
+Em Nome Do Pai - (1993)	dub=2:1042452
+Em Nome da Honra	dub=0:300831	leg=0:300832
+Em Nome da Honra - (2023)	dub=2:1043039	leg=2:1249132
+Em Nome da Lei	dub=0:21615
+Em Nome da Lei - (2016)	dub=2:1071298
+Em Nome da Razão	dub=0:340433
+Em Nome da Razão - (1979)	dub=2:1049377
+Em Nome de Quem? Legendado (2025)	dub=2:1256650
+Em Nome do Pai	dub=0:128505,0:100441	leg=0:128534
+Em Nome do Pai - (2020)	dub=2:1058402	leg=2:1034688
+Em Nome do Rei 1 (2007)	dub=2:1271746
+Em Nome do Rei 2: Entre Dois Mundos	dub=0:376313	leg=0:376312
+Em Nome do Rei 2: Entre Dois Mundos (2011)	dub=2:1265819	leg=2:1267294
+Em Nome do Rei 3 A Ultima Missao (2014)	dub=2:1268733
+Em Outra Vida	dub=0:133077
+Em Outra Vida - (2014)	dub=2:1059914
+Em Outros Tempos	dub=0:210527,0:210526	leg=0:210528
+Em Outros Tempos - (2023)	dub=2:1040459,2:1022261	leg=2:1032256
+Em Pé de Guerra	dub=0:138919
+Em Pé de Guerra - (2007)	dub=2:1248815
+Em Qualquer Lugar, a Qualquer Hora	leg=0:336381
+Em Qualquer Lugar, a Qualquer Hora - (2024)	leg=2:1024396
+Em Retirada	dub=0:138853
+Em Retirada - (2017)	dub=2:1057276
+Em Ritmo de Fuga	dub=0:20017
+Em Ritmo de Fuga - (2017)	dub=2:1052817
+Em Rota de Colisão	dub=0:291272	leg=0:291273
+Em Rota de Colisão - (2020)	dub=2:1043869	leg=2:1028369
+Em Rumo a Uma Terra Desconhecida (2025)	dub=2:1270926	leg=2:1273004
+Em Ruínas	dub=0:243290,0:243289
+Em Ruínas - (2024)	dub=2:1069744
+Em Segredo	dub=0:374293	leg=0:374292
+Em Segredo (2014)	dub=2:1272212	leg=2:1272209
+Em Seu Lugar	dub=0:382445,0:301144,0:22022	leg=0:382444,0:301145
+Em Seu Lugar (2005)	dub=2:1064911	leg=2:1272814
+Em Seus Passos O Que Faria Jesus (2010)	dub=2:1266953
+Em Seus Passos, O Que Faria Jesus?	dub=0:247348
+Em Seus Sonhos	dub=0:192503	leg=0:192502
+Em Seus Sonhos - (2023)	dub=2:1063765	leg=2:1028182
+Em Silencio (2011)	dub=2:1269214
+Em Suas Maos (2022)	dub=2:1271304
+Em Terreno Selvagem	dub=0:120667
+Em Terreno Selvagem - (1994)	dub=2:1056894
+Em Todas as Partes - (2023)	dub=2:1043012,2:1023249
+Em Todas as Partes 4K	dub=0:193277,0:187591
+Em Transe (2013)	dub=2:1267922
+Em Um Piscar de Olhos	dub=0:368083,0:368078	leg=0:368079
+Em Um Piscar de Olhos 4K (2026)	dub=2:1268138,2:1257831	leg=2:1268127
+Em Um Relacionamento Sério	dub=0:127418,0:90734
+Em Um Relacionamento Sério - (2018)	dub=2:1064781
+Em Uma Ilha Bem Distante	dub=0:188910	leg=0:188916
+Em Uma Ilha Bem Distante - (2023)	dub=2:1063680	leg=2:1033485
+Em busca de 'Ohana	dub=0:93782
+Em busca de 'Ohana - (2021)	dub=2:1067191
+Em busca de Sheela (2021)	dub=2:1269376
+Em seu lugar (2018)	dub=2:1270430
+Em um Bairro de Nova York	dub=0:125645,0:113030
+Em um Bairro de Nova York - (2021)	dub=2:1063702
+Em um Passe de Mágica	dub=0:169756	leg=0:169757
+Em um Passe de Mágica - (2022)	dub=2:1064016	leg=2:1027107
+Em uma Terra Muito Distante… Havia um Crime - (2023)	dub=2:1040423,2:1023247	leg=2:1031788
+Em uma Terra Muito Distante… Havia um Crime 4K	dub=0:215899,0:215052	leg=0:215051
+Em Águas Agitadas	dub=0:189547	leg=0:189546
+Em Águas Agitadas - (2019)	dub=2:1051828	leg=2:1025407
+Emancipação: Uma História de Liberdade	dub=0:181447,0:181433	leg=0:181435
+Emancipação: Uma História de Liberdade - (2022)	dub=2:1066029,2:1022395	leg=2:1249554
+Embaixo da Luz de Neon	leg=0:352960
+Embaixo da Luz de Neon (2025)	dub=2:1264917	leg=2:1265171
+Embarque Imediato	dub=0:63073
+Embarque Imediato - (2009)	dub=2:1054431
+Embattled	dub=0:119638	leg=0:119640
+Embattled - (2020)	dub=2:1249793	leg=2:1028814
 Emblema da Fe	dub=0:20976
-Emblema de Fe	dub=2:1270104
-Emboscada	dub=0:265415,0:148610,2:1056146,2:1046876	leg=0:265416,0:148612,2:1249555,2:1027840
-Embriagado de Amor	dub=0:355720,2:1265746	leg=0:355719,2:1265743
-Emergência	dub=0:160593,2:1043997	leg=0:160599,2:1026176
-Emicida Amarelo E Tudo Pra Ontem	dub=0:89579,2:1072099
-Emilia Pérez	dub=0:378233,2:1271127	leg=0:378232,2:1024531
-Emily the Criminal	dub=0:180635,2:1051197	leg=0:180631,2:1032675
-Eminence Hill	dub=2:1271214
-Emma	dub=0:45041,2:1065672
-Emmanuelle	dub=0:352254,2:1253470	leg=0:352253,2:1264920
-Emoji O Filme	dub=0:20359,2:1062507
-Empate	dub=0:367038,2:1267728
+Emblema de Fe (2015)	dub=2:1270104
+Emboscada	dub=0:265415,0:148610	leg=0:265416,0:148612
+Emboscada - (2022)	dub=2:1056146	leg=2:1249555
+Emboscada - (2023)	dub=2:1046876	leg=2:1027840
+Embriagado de Amor	dub=0:355720	leg=0:355719
+Embriagado de Amor (2002)	dub=2:1265746	leg=2:1265743
+Emergência	dub=0:160593	leg=0:160599
+Emergência - (2022)	dub=2:1043997	leg=2:1026176
+Emicida Amarelo E Tudo Pra Ontem	dub=0:89579
+Emicida Amarelo E Tudo Pra Ontem - (2020)	dub=2:1072099
+Emilia Perez (2024)	dub=2:1271127	leg=2:1024531
+Emilia Pérez	dub=0:378233	leg=0:378232
+Emily the Criminal	dub=0:180635	leg=0:180631
+Emily the Criminal - (2022)	dub=2:1051197	leg=2:1032675
+Eminence Hill (2019)	dub=2:1271214
+Emma	dub=0:45041
+Emma - (2020)	dub=2:1065672
+Emmanuelle	dub=0:352254	leg=0:352253
+Emmanuelle (2024)	dub=2:1253470	leg=2:1264920
+Emoji O Filme	dub=0:20359
+Emoji O Filme - (2017)	dub=2:1062507
+Empate	dub=0:367038
+Empate (2018)	dub=2:1267728
 Emperor	leg=0:68441
-Empire Queen: The Golden Age of Magic	leg=0:376051,2:1272395
-Empire State	dub=0:20018,2:1052575
-En brazos de un Asesino	leg=0:73269,2:1027604
-Enaldinho e o Mistério da Lagoa	dub=0:367407,2:1267805
-Encaixe Perfeito	dub=0:113029,2:1065423
-Encantada	dub=0:291837,0:20600,2:1068618,2:1040361
-Encantado - 2018	dub=0:22023,2:1072061
-Encantadora de Tubarões	dub=0:330414,2:1038219	leg=0:330413,2:1038450
-Encanto 4K	dub=0:147455,0:144380,2:1061442,2:1023231	leg=0:144375,2:1032057
-Encanto Quebrado - 0	dub=2:1273259
-Enchente Quem Salvara Nossos Filhos	dub=2:1268236
-Enclausurados	dub=0:348984,2:1251147	leg=0:348983,2:1251050
-Encolhi a Professora	dub=2:1271780
-Encomenda para o Natal	dub=2:1269998
-Encontradas	dub=2:1271889
-Encontrando Forrester	dub=0:128511,2:1045814
-Encontrando Nina	dub=2:1269271	leg=0:348298,2:1251104
-Encontrando o Amor em Nebraska	dub=0:41197,2:1050535
-Encontrando o Amor em Oxford	dub=0:327379,2:1063719	leg=0:327378,2:1031283
-Encontrando o Amor em Sugarcreek	dub=0:33884,2:1050569
-Encontrando o Amor em Yosemite	dub=0:368077,2:1268130
-Encontrando o Caminho	dub=0:242158,0:242157,2:1041903
-Encontrando um Amor no Natal	dub=0:371660,2:1268006	leg=0:371659,2:1268032
-Encontrando um Propósito	dub=0:196770,2:1041164	leg=0:196769,2:1249113
-Encontro Arriscado	dub=0:265313,2:1043234	leg=0:265314,2:1033207
-Encontro Com A Morte	dub=0:186455,2:1051900	leg=0:186456,2:1026765
-Encontro Com o Ditador	dub=2:1269805	leg=0:311808,2:1034221
-Encontro Criminoso	dub=0:90735,2:1050603
-Encontro Explosivo	dub=0:113028,0:20019,2:1046248
-Encontro Fatal	dub=0:264470,0:62573,2:1050053,2:1044415	leg=0:264471,2:1023651
-Encontro Inesperado	dub=0:161966,2:1050651
-Encontro Macabro	dub=0:348986,2:1251164	leg=0:348985,2:1251040
-Encontro Maligno	dub=0:322003,2:1070018	leg=0:322004,2:1033844
-Encontro Marcado	dub=0:382447,0:148681,2:1040165	leg=0:382446,2:1272847
-Encontro Selvagem	dub=0:348152,2:1248755	leg=2:1267131
-Encontro as Escuras	dub=2:1265147
-Encontro com um Anjo	dub=0:112387,2:1039914
-Encontro de Amor	dub=0:369397,2:1065301	leg=0:369396,2:1272463
-Encontro de Casais	dub=0:254067,2:1268993,2:1065046
-Encontro de Natal	dub=0:227004,2:1050733
-Encontro por Acaso	dub=0:157438,2:1050179	leg=0:157444,2:1027265
+Empire Queen: The Golden Age of Magic	leg=0:376051
+Empire Queen: The Golden Age of Magic (2024)	leg=2:1272395
+Empire State	dub=0:20018
+Empire State - (1987)	dub=2:1052575
+En brazos de un Asesino	leg=0:73269
+En brazos de un Asesino - (2019)	leg=2:1027604
+Enaldinho e o Mistério da Lagoa	dub=0:367407
+Enaldinho e o Mistério da Lagoa (2023)	dub=2:1267805
+Encaixe Perfeito	dub=0:113029
+Encaixe Perfeito - (2021)	dub=2:1065423
+Encantada	dub=0:291837,0:20600
+Encantada - (1994)	dub=2:1040361
+Encantada - (2007)	dub=2:1068618
+Encantado - (2018)	dub=0:22023
+Encantado - 2018 - (2018)	dub=2:1072061
+Encantadora de Tubarões	dub=0:330414	leg=0:330413
+Encantadora de Tubarões - (2025)	dub=2:1038219	leg=2:1038450
+Encanto - (2021)	dub=2:1061442,2:1023231	leg=2:1032057
+Encanto 4K	dub=0:147455,0:144380	leg=0:144375
+Encanto Quebrado - 0 (2024)	dub=2:1273259
+Enchente Quem Salvara Nossos Filhos (1993)	dub=2:1268236
+Enclausurados	dub=0:348984	leg=0:348983
+Enclausurados - (2023)	dub=2:1251147	leg=2:1251050
+Encolhi a Professora (2015)	dub=2:1271780
+Encomenda para o Natal (2022)	dub=2:1269998
+Encontradas (2021)	dub=2:1271889
+Encontrando Forrester	dub=0:128511
+Encontrando Forrester - (2000)	dub=2:1045814
+Encontrando Nina	leg=0:348298
+Encontrando Nina (2025)	dub=2:1269271	leg=2:1251104
+Encontrando o Amor em Nebraska	dub=0:41197
+Encontrando o Amor em Nebraska - (2016)	dub=2:1050535
+Encontrando o Amor em Oxford	dub=0:327379	leg=0:327378
+Encontrando o Amor em Oxford - (2023)	dub=2:1063719	leg=2:1031283
+Encontrando o Amor em Sugarcreek	dub=0:33884
+Encontrando o Amor em Sugarcreek - (2014)	dub=2:1050569
+Encontrando o Amor em Yosemite	dub=0:368077
+Encontrando o Amor em Yosemite (2022)	dub=2:1268130
+Encontrando o Caminho	dub=0:242158,0:242157
+Encontrando o Caminho - (2020)	dub=2:1041903
+Encontrando um Amor no Natal	dub=0:371660	leg=0:371659
+Encontrando um Amor no Natal (2023)	dub=2:1268006	leg=2:1268032
+Encontrando um Propósito	dub=0:196770	leg=0:196769
+Encontrando um Propósito - (2021)	dub=2:1041164	leg=2:1249113
+Encontro Arriscado	dub=0:265313	leg=0:265314
+Encontro Arriscado - (2021)	dub=2:1043234	leg=2:1033207
+Encontro Com A Morte	dub=0:186455	leg=0:186456
+Encontro Com A Morte - (2020)	dub=2:1051900	leg=2:1026765
+Encontro Com o Ditador	leg=0:311808
+Encontro Com o Ditador (2024)	dub=2:1269805	leg=2:1034221
+Encontro Criminoso	dub=0:90735
+Encontro Criminoso - (2019)	dub=2:1050603
+Encontro Explosivo	dub=0:113028,0:20019
+Encontro Explosivo - (2010)	dub=2:1046248
+Encontro Fatal	dub=0:264470,0:62573	leg=0:264471
+Encontro Fatal - (2020)	dub=2:1044415
+Encontro Fatal - (2022)	dub=2:1050053	leg=2:1023651
+Encontro Inesperado	dub=0:161966
+Encontro Inesperado - (2018)	dub=2:1050651
+Encontro Macabro	dub=0:348986	leg=0:348985
+Encontro Macabro - (2022)	dub=2:1251164	leg=2:1251040
+Encontro Maligno	dub=0:322003	leg=0:322004
+Encontro Maligno - (2012)	dub=2:1070018	leg=2:1033844
+Encontro Marcado	dub=0:382447,0:148681	leg=0:382446
+Encontro Marcado (1998)	dub=2:1040165	leg=2:1272847
+Encontro Selvagem	dub=0:348152
+Encontro Selvagem (2015)	dub=2:1248755	leg=2:1267131
+Encontro as Escuras (1987)	dub=2:1265147
+Encontro com um Anjo	dub=0:112387
+Encontro com um Anjo - (1987)	dub=2:1039914
+Encontro de Amor	dub=0:369397	leg=0:369396
+Encontro de Amor (2002)	dub=2:1065301	leg=2:1272463
+Encontro de Casais	dub=0:254067
+Encontro de Casais (2011)	dub=2:1268993
+Encontro de Casais - (2009)	dub=2:1065046
+Encontro de Natal	dub=0:227004
+Encontro de Natal - (2020)	dub=2:1050733
+Encontro por Acaso	dub=0:157438	leg=0:157444
+Encontro por Acaso - (2021)	dub=2:1050179	leg=2:1027265
 Encontro, Cumprimentos E Despedida	leg=0:367413
-Encontro, Cumprimentos E Despedida Legendado	dub=2:1257208
-Encontros 4K	dub=0:147470,0:142951,2:1069464,2:1000500	leg=0:142950,2:1249410
-Encontros ao Acaso	dub=0:162016,0:161970,2:1064737
-Encontros e Desencantos	dub=0:195614,2:1041855	leg=0:195611,2:1036136
-Encontros e Desencontros	dub=0:130256,2:1063837
-Encounter	dub=2:1271160
-EncrenCão	dub=0:108698,2:1072220
-Encruzilhada	dub=0:348102,2:1249780	leg=0:348101,2:1248938
-Encurralada	dub=2:1267473
-Encurralados	dub=0:345085,0:192612,2:1043380,2:1043169	leg=0:345084,0:192611,2:1026109,2:1023621
-Encurralados em Veneza	dub=0:171899,2:1058213	leg=0:171903,2:1026760
-Endangered Species	leg=0:109036,2:1249237
-Ender's Game: O Jogo do Exterminador	dub=0:338622,0:152002,2:1056228	leg=0:338621,2:1025728
-Endgame: Roubo de Identidade	dub=0:168559,2:1051696	leg=0:168562,2:1027657
-Endiabrado	dub=0:20601,2:1040335
-Endless	leg=0:68442,2:1033891
-Endurance	dub=0:292837,0:292836,2:1049430,2:1022575	leg=0:292844,2:1032228
-Energia Pura	dub=2:1271380
-Enfeitiçados	dub=0:296495,2:1062263	leg=0:296496,2:1030266
-Enfermeira da Morte	dub=0:252786,2:1050749
-Enforcados	dub=2:1267491
-Enforcados 3	dub=2:1268637	leg=0:246958,2:1249008
-Enfrentando a Barra	dub=2:1270608
-Enfrentando o Natal	leg=0:356884,2:1264657
-Engolidos	dub=0:294982,2:1057975	leg=0:294983,2:1029872
-Enigma	dub=0:96846,2:1269249,2:1066844	leg=0:329893,2:1038365
-Enigmas de um Crime	dub=0:382599,2:1272944	leg=0:382598,2:1272873
-Enjaulada	dub=0:312946,2:1057884	leg=0:312947,2:1027510
-Enjaulado	dub=0:169751,2:1058549	leg=0:169729,2:1024241
-Enola Holmes	dub=0:73270,2:1057384
-Enola Holmes 2	dub=0:178812,2:1056123	leg=0:178841,2:1249260
-Enola Holmes 3	dub=2:1263000
-Enquanto Ela Dorme	dub=0:289533,2:1058233	leg=0:289534,2:1026896
-Enquanto Ela Está Fora	dub=0:340459,0:144116,2:1043741	leg=0:340458,2:1034646
-Enquanto Estivermos Juntos	dub=0:382449,0:89734,2:1071653	leg=0:382448
-Enquanto Houver Amor	dub=0:328221,0:169664,2:1063450,2:1040593	leg=0:328220,0:169711,2:1034271,2:1033116
-Enquanto Houver Esperanca	dub=0:30617,2:1067115
-Enquanto Voce Dormia	dub=0:101656,2:1063699
-Enquanto Você Dorme	dub=0:348104,0:259333,2:1058687,2:1057606	leg=0:348103,0:259334,2:1248924,2:1023670
-Enquanto a Cidade Dorme	dub=0:326987,2:1051732	leg=0:326986,2:1029875
-Enquanto a Guerra Durar	dub=0:95910,2:1066186
-Enquanto estamos aqui	dub=0:219680,2:1049324
-Enquanto o Amor Durar	dub=2:1290991
-Enredada	dub=2:1267049	leg=0:352987,2:1265163
-Enrolados	dub=0:110812,2:1062380
-Enrolados Outra Vez: Rainha por um dia	dub=2:1268825
-Enrolados para Sempre	dub=0:140721,2:1068556
-Enron: Os Mais Espertos da Sala	dub=0:161957,2:1049422
-Ensaio Fatal	dub=2:1257498
-Ensaio Sobre a Cegueira	dub=0:302426,2:1060618
-Ensinando Como Apreciar Vinhos	dub=0:286953,2:1267789	leg=0:286956
-Enter The Fat Dragon	leg=0:62556,2:1030651
-Entergalactic	dub=0:175816,2:1071712	leg=0:175818,2:1030757
-Enterrados	dub=2:1272971
-Enterrando os Mortos	dub=0:378752,2:1261029
-Enterre Seus Mortos 4K	dub=0:369161,0:368938,2:1272308,2:1272214	leg=0:368937,2:1272219
-Enterre-me Quando Eu Morrer	dub=0:334860,2:1038587	leg=0:334859,2:1249928
-Enterrem Meu Coração na Curva do Rio	dub=0:134041,2:1068897
-Entes Queridos	dub=2:1269969
-Entourage: Fama e Amizade	dub=0:31419,2:1054819
-Entra En Mi Vida	dub=2:1270856	leg=0:292845,2:1030497
-Entrando Numa Fria	dub=0:320886,2:1064082	leg=0:320887,2:1028119
-Entrando Numa Fria Maior Ainda	dub=0:95891,2:1065585
-Entrando Numa Fria Maior Ainda com a Família	dub=0:95892,2:1065013
-Entrando Numa Roubada	dub=0:230865,2:1266955,2:1053477	leg=0:230871,2:1026520
-Entrando no Clima do Natal	dub=0:215893,2:1050028	leg=0:215896,2:1028367
-Entre A Vingança e O Perdão	dub=0:110777,2:1042862
-Entre Abelhas	dub=2:1266675
-Entre Aguas	dub=2:1269208
-Entre Amigas: De Volta ao Passado	dub=0:318095,2:1041330	leg=0:318096,2:1023924
-Entre Amores e Cores	dub=0:35945,2:1050574
-Entre Amores e Vinhos	leg=0:246161,2:1026479
-Entre Armas E Brinquedos	dub=0:89580,2:1038942
-Entre Chegadas e Despedidas	dub=0:357656,2:1254729	leg=0:357653,2:1268471
-Entre Dois Amores	dub=0:263707,2:1064339	leg=0:263708,2:1034182
-Entre Duas Mulheres	leg=0:358074,2:1266262
-Entre Duas Mulheres Legendado	dub=2:1254896
-Entre Facas e Segredos	dub=0:352204,0:36061,0:36058,2:1249622,2:1069441	leg=0:352203
-Entre Frestas	dub=0:133096,2:1051897	leg=0:133084,2:1249142
-Entre Garotos	dub=0:378016,2:1260495	leg=0:378015,2:1268438
-Entre Idas E Vindas	dub=0:22586,2:1063851
-Entre Irmaos	dub=0:20977,2:1066857
-Entre Irmãs	dub=0:309857,2:1269635,2:1053852	leg=0:309858,2:1024500
-Entre Lencois	dub=2:1266690
-Entre Mentiras e Segredos	dub=0:258316,2:1044048	leg=0:258317,2:1032847
-Entre Montanhas 4K	dub=0:379436,0:311157,0:311095,2:1037592,2:1036872	leg=0:311096,2:1037547
-Entre Mulheres	dub=0:210709,2:1041498	leg=0:210710,2:1030675
-Entre Mundos	dub=0:26443,2:1069673
-Entre Nesta Dança: Hip Hop no Pedaço	dub=0:109204,2:1072362
-Entre Nós, O Amor	dub=2:1270335	leg=0:339770,2:1027645
-Entre Nós: Uma Dose Extra de Amor	dub=0:365037,2:1256656	leg=0:365036,2:1267358
-Entre Pais e Filhos	dub=0:328095,2:1067649	leg=0:328094,2:1028114
-Entre Piadas e Cigarros	dub=0:325018,2:1040946	leg=0:325017,2:1024135
-Entre Realidades	dub=2:1269347
-Entre Rosas	dub=0:179756,2:1054006	leg=0:179784,2:1025068
-Entre Segredos e Mentiras	dub=2:1272737
-Entre Tiros e Beijos	dub=0:137582,2:1046610	leg=0:137577,2:1030307
-Entre Vinho E Vinagre	dub=0:22484,2:1054642
-Entre as Luzes	dub=0:355558,2:1265681	leg=0:355557,2:1265686
-Entre as Sombras	dub=0:357568,0:195625,2:1051988	leg=0:357567,0:195626,2:1030958
-Entre o Amor e a Fama	dub=0:33885,2:1050399
-Entre o Ceu e a Terra	dub=2:1269959
-Entre o Céu e o Inferno	dub=0:353923,2:1265386	leg=0:353922,2:1265388
-Entre o Louco e o Monstro	dub=0:348988,2:1251138	leg=0:348987
-Entre os Templos	dub=0:295387,2:1053812	leg=0:295388,2:1034521
-Entre os Vivos	dub=0:345057,2:1043107	leg=0:345056,2:1023480
-Entre sombras	dub=0:277858,2:1061860
-Entrega Especial	dub=2:1269756
-Entrega de Risco	dub=0:369399,2:1272415	leg=0:369398,2:1272458
-Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado	dub=0:97180,2:1057677
-Entrelinhas	dub=0:324543,2:1044907
-Entrelobos	dub=2:1264759
-Entrevista com Deus	dub=0:273056,2:1070955
-Entrevista com o Demônio	dub=0:281504,0:281503,2:1057810,2:1021997	leg=0:281505,2:1026673
-Entrevista com o Vampiro	dub=0:100017,2:1040032
-Então é Natal	dub=0:355665,2:1265699	leg=0:355664,2:1265693
-Enxame	dub=0:180305,2:1053358	leg=0:180301,2:1028071
-Enzo	dub=2:1271112	leg=0:351552
-Enzo Legendado	dub=2:1253273
-Epa! Cadê o Noé?	dub=0:141542,2:1061572
-Epa! Cadê o Noé? 2	dub=0:163281,2:1068657
-Epidemia	dub=0:370898,0:41856,2:1060471	leg=0:370897,2:1267645
-Epiphany Amor e Perdao	dub=2:1268924
-Equal Standard	dub=2:1270188
-Equilibrium	dub=0:24307,2:1059887
-Equipe Anticorrupção	dub=0:42545,2:1047782
+Encontro, Cumprimentos E Despedida Legendado (2025)	dub=2:1257208
+Encontros - (2021)	dub=2:1069464,2:1000500	leg=2:1249410
+Encontros 4K	dub=0:147470,0:142951	leg=0:142950
+Encontros ao Acaso	dub=0:162016,0:161970
+Encontros ao Acaso - (2019)	dub=2:1064737
+Encontros e Desencantos	dub=0:195614	leg=0:195611
+Encontros e Desencantos - (2018)	dub=2:1041855	leg=2:1036136
+Encontros e Desencontros	dub=0:130256
+Encontros e Desencontros - (2003)	dub=2:1063837
+Encounter (2018)	dub=2:1271160
+EncrenCão	dub=0:108698
+EncrenCão - (2019)	dub=2:1072220
+Encruzilhada	dub=0:348102	leg=0:348101
+Encruzilhada - (2013)	dub=2:1249780	leg=2:1248938
+Encurralada (2002)	dub=2:1267473
+Encurralados	dub=0:345085,0:192612	leg=0:345084,0:192611
+Encurralados - (2007)	dub=2:1043169	leg=2:1023621
+Encurralados - (2023)	dub=2:1043380	leg=2:1026109
+Encurralados em Veneza	dub=0:171899	leg=0:171903
+Encurralados em Veneza - (2022)	dub=2:1058213	leg=2:1026760
+Endangered Species	leg=0:109036
+Endangered Species - (2021)	leg=2:1249237
+Ender's Game: O Jogo do Exterminador	dub=0:338622,0:152002	leg=0:338621
+Ender's Game: O Jogo do Exterminador - (2013)	dub=2:1056228	leg=2:1025728
+Endgame: Roubo de Identidade	dub=0:168559	leg=0:168562
+Endgame: Roubo de Identidade - (2021)	dub=2:1051696	leg=2:1027657
+Endiabrado	dub=0:20601
+Endiabrado - (2000)	dub=2:1040335
+Endless	leg=0:68442
+Endless - (2020)	leg=2:1033891
+Endurance	dub=0:292837,0:292836	leg=0:292844
+Endurance - (2024)	dub=2:1049430,2:1022575	leg=2:1032228
+Energia Pura (1995)	dub=2:1271380
+Enfeitiçados	dub=0:296495	leg=0:296496
+Enfeitiçados - (2024)	dub=2:1062263	leg=2:1030266
+Enfermeira da Morte	dub=0:252786
+Enfermeira da Morte - (2023)	dub=2:1050749
+Enforcados (2020)	dub=2:1267491
+Enforcados 3	leg=0:246958
+Enforcados 3 (2023)	dub=2:1268637	leg=2:1249008
+Enfrentando a Barra (2017)	dub=2:1270608
+Enfrentando o Natal	leg=0:356884
+Enfrentando o Natal (2023)	leg=2:1264657
+Engolidos	dub=0:294982	leg=0:294983
+Engolidos - (2022)	dub=2:1057975	leg=2:1029872
+Enigma	dub=0:96846	leg=0:329893
+Enigma (2025)	dub=2:1269249	leg=2:1038365
+Enigma - (2001)	dub=2:1066844
+Enigmas de um Crime	dub=0:382599	leg=0:382598
+Enigmas de um Crime (2008)	dub=2:1272944	leg=2:1272873
+Enjaulada	dub=0:312946	leg=0:312947
+Enjaulada - (2016)	dub=2:1057884	leg=2:1027510
+Enjaulado	dub=0:169751	leg=0:169729
+Enjaulado - (2021)	dub=2:1058549	leg=2:1024241
+Enola Holmes	dub=0:73270
+Enola Holmes - (2020)	dub=2:1057384
+Enola Holmes 2	dub=0:178812	leg=0:178841
+Enola Holmes 2 - (2022)	dub=2:1056123	leg=2:1249260
+Enola Holmes 3 (2026)	dub=2:1263000
+Enquanto Ela Dorme	dub=0:289533	leg=0:289534
+Enquanto Ela Dorme - (2019)	dub=2:1058233	leg=2:1026896
+Enquanto Ela Está Fora	dub=0:340459,0:144116	leg=0:340458
+Enquanto Ela Está Fora - (2008)	dub=2:1043741	leg=2:1034646
+Enquanto Estivermos Juntos	dub=0:382449,0:89734	leg=0:382448
+Enquanto Estivermos Juntos - (2020)	dub=2:1071653
+Enquanto Houver Amor	dub=0:328221,0:169664	leg=0:328220,0:169711
+Enquanto Houver Amor - (2012)	dub=2:1063450	leg=2:1034271
+Enquanto Houver Amor - (2019)	dub=2:1040593	leg=2:1033116
+Enquanto Houver Esperanca	dub=0:30617
+Enquanto Houver Esperanca - (2015)	dub=2:1067115
+Enquanto Voce Dormia	dub=0:101656
+Enquanto Voce Dormia - (1995)	dub=2:1063699
+Enquanto Você Dorme	dub=0:348104,0:259333	leg=0:348103,0:259334
+Enquanto Você Dorme - (2011)	dub=2:1058687	leg=2:1248924
+Enquanto Você Dorme - (2021)	dub=2:1057606	leg=2:1023670
+Enquanto a Cidade Dorme	dub=0:326987	leg=0:326986
+Enquanto a Cidade Dorme - (2019)	dub=2:1051732	leg=2:1029875
+Enquanto a Guerra Durar	dub=0:95910
+Enquanto a Guerra Durar - (2019)	dub=2:1066186
+Enquanto estamos aqui	dub=0:219680
+Enquanto estamos aqui - (2019)	dub=2:1049324
+Enquanto o Amor Durar (2022)	dub=2:1290991
+Enredada	leg=0:352987
+Enredada (2024)	dub=2:1267049	leg=2:1265163
+Enrolados	dub=0:110812
+Enrolados - (2010)	dub=2:1062380
+Enrolados Outra Vez: Rainha por um dia (2017)	dub=2:1268825
+Enrolados para Sempre	dub=0:140721
+Enrolados para Sempre - (2012)	dub=2:1068556
+Enron: Os Mais Espertos da Sala	dub=0:161957
+Enron: Os Mais Espertos da Sala - (2005)	dub=2:1049422
+Ensaio Fatal (2026)	dub=2:1257498
+Ensaio Sobre a Cegueira	dub=0:302426
+Ensaio Sobre a Cegueira - (2008)	dub=2:1060618
+Ensinando Como Apreciar Vinhos	dub=0:286953	leg=0:286956
+Ensinando Como Apreciar Vinhos (2023)	dub=2:1267789
+Enter The Fat Dragon	leg=0:62556
+Enter The Fat Dragon - (2020)	leg=2:1030651
+Entergalactic	dub=0:175816	leg=0:175818
+Entergalactic - (2022)	dub=2:1071712	leg=2:1030757
+Enterrados (2019)	dub=2:1272971
+Enterrando os Mortos	dub=0:378752
+Enterrando os Mortos (2026)	dub=2:1261029
+Enterre Seus Mortos 4K	dub=0:369161,0:368938	leg=0:368937
+Enterre Seus Mortos 4K (2025)	dub=2:1272308,2:1272214	leg=2:1272219
+Enterre-me Quando Eu Morrer	dub=0:334860	leg=0:334859
+Enterre-me Quando Eu Morrer - (2025)	dub=2:1038587	leg=2:1249928
+Enterrem Meu Coração na Curva do Rio	dub=0:134041
+Enterrem Meu Coração na Curva do Rio - (2007)	dub=2:1068897
+Entes Queridos (2010)	dub=2:1269969
+Entourage: Fama e Amizade	dub=0:31419
+Entourage: Fama e Amizade - (2015)	dub=2:1054819
+Entra En Mi Vida	leg=0:292845
+Entra En Mi Vida (2024)	dub=2:1270856	leg=2:1030497
+Entrando Numa Fria	dub=0:320886	leg=0:320887
+Entrando Numa Fria Maior Ainda	dub=0:95891
+Entrando Numa Fria Maior Ainda - (2004)	dub=2:1065585
+Entrando Numa Fria Maior Ainda com a Família	dub=0:95892
+Entrando Numa Fria Maior Ainda com a Família - (2010)	dub=2:1065013
+Entrando Numa Roubada	dub=0:230865	leg=0:230871
+Entrando Numa Roubada (2015)	dub=2:1266955
+Entrando Numa Roubada - (2022)	dub=2:1053477	leg=2:1026520
+Entrando no Clima do Natal	dub=0:215893	leg=0:215896
+Entrando no Clima do Natal - (2022)	dub=2:1050028	leg=2:1028367
+Entrando numa Fria - (2000)	dub=2:1064082	leg=2:1028119
+Entre A Vingança e O Perdão	dub=0:110777
+Entre A Vingança e O Perdão - (2015)	dub=2:1042862
+Entre Abelhas (2015)	dub=2:1266675
+Entre Aguas (2021)	dub=2:1269208
+Entre Amigas: De Volta ao Passado	dub=0:318095	leg=0:318096
+Entre Amigas: De Volta ao Passado - (2023)	dub=2:1041330	leg=2:1023924
+Entre Amores e Cores	dub=0:35945
+Entre Amores e Cores - (2019)	dub=2:1050574
+Entre Amores e Vinhos	leg=0:246161
+Entre Amores e Vinhos - (2023)	leg=2:1026479
+Entre Armas E Brinquedos	dub=0:89580
+Entre Armas E Brinquedos - (2020)	dub=2:1038942
+Entre Chegadas e Despedidas	dub=0:357656	leg=0:357653
+Entre Chegadas e Despedidas (2025)	dub=2:1254729	leg=2:1268471
+Entre Dois Amores	dub=0:263707	leg=0:263708
+Entre Dois Amores - (2020)	dub=2:1064339	leg=2:1034182
+Entre Duas Mulheres	leg=0:358074
+Entre Duas Mulheres - (2025)	leg=2:1266262
+Entre Duas Mulheres Legendado (2025)	dub=2:1254896
+Entre Facas e Segredos	dub=0:352204,0:36061,0:36058	leg=0:352203
+Entre Facas e Segredos 4K - (2019)	dub=2:1249622,2:1069441
+Entre Frestas	dub=0:133096	leg=0:133084
+Entre Frestas - (2021)	dub=2:1051897	leg=2:1249142
+Entre Garotos	dub=0:378016	leg=0:378015
+Entre Garotos (2025)	dub=2:1260495	leg=2:1268438
+Entre Idas E Vindas	dub=0:22586
+Entre Idas E Vindas - (2016)	dub=2:1063851
+Entre Irmaos	dub=0:20977
+Entre Irmaos - (2009)	dub=2:1066857
+Entre Irmas (2017)	dub=2:1269635
+Entre Irmãs	dub=0:309857	leg=0:309858
+Entre Irmãs - (2023)	dub=2:1053852	leg=2:1024500
+Entre Lencois (2008)	dub=2:1266690
+Entre Mentiras e Segredos	dub=0:258316	leg=0:258317
+Entre Mentiras e Segredos - (2021)	dub=2:1044048	leg=2:1032847
+Entre Montanhas 4K	dub=0:379436,0:311157,0:311095	leg=0:311096
+Entre Montanhas 4K - (2025)	dub=2:1037592,2:1036872	leg=2:1037547
+Entre Mulheres	dub=0:210709	leg=0:210710
+Entre Mulheres - (2022)	dub=2:1041498	leg=2:1030675
+Entre Mundos	dub=0:26443
+Entre Mundos - (2018)	dub=2:1069673
+Entre Nesta Dança: Hip Hop no Pedaço	dub=0:109204
+Entre Nesta Dança: Hip Hop no Pedaço - (2004)	dub=2:1072362
+Entre Nos O Amor (2024)	dub=2:1270335	leg=2:1027645
+Entre Nós, O Amor	leg=0:339770
+Entre Nós: Uma Dose Extra de Amor	dub=0:365037	leg=0:365036
+Entre Nós: Uma Dose Extra de Amor (2025)	dub=2:1256656	leg=2:1267358
+Entre Pais e Filhos	dub=0:328095	leg=0:328094
+Entre Pais e Filhos - (2024)	dub=2:1067649	leg=2:1028114
+Entre Piadas e Cigarros	dub=0:325018	leg=0:325017
+Entre Piadas e Cigarros - (2023)	dub=2:1040946	leg=2:1024135
+Entre Realidades (2020)	dub=2:1269347
+Entre Rosas	dub=0:179756	leg=0:179784
+Entre Rosas - (2020)	dub=2:1054006	leg=2:1025068
+Entre Segredos e Mentiras (2010)	dub=2:1272737
+Entre Tiros e Beijos	dub=0:137582	leg=0:137577
+Entre Tiros e Beijos - (2021)	dub=2:1046610	leg=2:1030307
+Entre Vinho E Vinagre	dub=0:22484
+Entre Vinho E Vinagre - (2019)	dub=2:1054642
+Entre as Luzes	dub=0:355558	leg=0:355557
+Entre as Luzes (2023)	dub=2:1265681	leg=2:1265686
+Entre as Sombras	dub=0:357568,0:195625	leg=0:357567,0:195626
+Entre as Sombras - (2019)	dub=2:1051988	leg=2:1030958
+Entre o Amor e a Fama	dub=0:33885
+Entre o Amor e a Fama - (2018)	dub=2:1050399
+Entre o Ceu e a Terra (1993)	dub=2:1269959
+Entre o Céu e o Inferno	dub=0:353923	leg=0:353922
+Entre o Céu e o Inferno (2006)	dub=2:1265386	leg=2:1265388
+Entre o Louco e o Monstro	dub=0:348988	leg=0:348987
+Entre o Louco e o Monstro - (2024)	dub=2:1251138
+Entre os Templos	dub=0:295387	leg=0:295388
+Entre os Templos - (2024)	dub=2:1053812	leg=2:1034521
+Entre os Vivos	dub=0:345057	leg=0:345056
+Entre os Vivos - (2022)	dub=2:1043107	leg=2:1023480
+Entre sombras	dub=0:277858
+Entre sombras - (2018)	dub=2:1061860
+Entrega Especial (2022)	dub=2:1269756
+Entrega de Risco	dub=0:369399	leg=0:369398
+Entrega de Risco (2012)	dub=2:1272415	leg=2:1272458
+Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado	dub=0:97180
+Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado - (2001)	dub=2:1057677
+Entrelinhas	dub=0:324543
+Entrelinhas - (2024)	dub=2:1044907
+Entrelobos (2010)	dub=2:1264759
+Entrevista com Deus	dub=0:273056
+Entrevista com Deus - (2018)	dub=2:1070955
+Entrevista com o Demônio	dub=0:281504,0:281503	leg=0:281505
+Entrevista com o Demônio - (2024)	dub=2:1057810,2:1021997	leg=2:1026673
+Entrevista com o Vampiro	dub=0:100017
+Entrevista com o Vampiro - (1994)	dub=2:1040032
+Então é Natal	dub=0:355665	leg=0:355664
+Então é Natal (2021)	dub=2:1265699	leg=2:1265693
+Enxame	dub=0:180305	leg=0:180301
+Enxame - (2020)	dub=2:1053358	leg=2:1028071
+Enzo	leg=0:351552
+Enzo (2025)	dub=2:1271112
+Enzo Legendado (2025)	dub=2:1253273
+Epa! Cadê o Noé?	dub=0:141542
+Epa! Cadê o Noé? - (2015)	dub=2:1061572
+Epa! Cadê o Noé? 2	dub=0:163281
+Epa! Cadê o Noé? 2 - (2020)	dub=2:1068657
+Epidemia	dub=0:370898,0:41856	leg=0:370897
+Epidemia (1995)	dub=2:1060471	leg=2:1267645
+Epiphany Amor e Perdao (2019)	dub=2:1268924
+Equal Standard (2021)	dub=2:1270188
+Equilibrium	dub=0:24307
+Equilibrium - (2002)	dub=2:1059887
+Equipe Anticorrupção	dub=0:42545
+Equipe Anticorrupção - (2019)	dub=2:1047782
 Equipe Assassina	dub=0:350903
-Era Só Uma Brincadeira	dub=0:48183,2:1050514
-Era Uma Vez	dub=0:20978,2:1041982
-Era Uma Vez Em Roma	dub=0:161517,2:1049919	leg=0:161520,2:1033781
-Era Uma Vez Eu, Verônica	dub=0:321265,2:1042479
-Era Uma Vez Minha Mãe	dub=2:1262445
-Era Uma Vez Na Minha Vida	dub=0:336135,2:1039007	leg=0:336134,2:1031957
-Era Uma Vez Um Conto de Fadas	dub=2:1265946
-Era Uma Vez Um Deadpool	dub=0:21432,2:1056595
-Era Uma Vez Um Principe	dub=0:22485,2:1050720
-Era Uma Vez em Londres	dub=0:215887,2:1051577	leg=0:215886,2:1024465
-Era Uma Vez em Nova York	dub=0:105239,2:1065144
-Era Uma Vez em… Hollywood	dub=0:31420,2:1267931	leg=0:344503,2:1023604
-Era Uma Vez na America	dub=2:1267464
-Era Uma Vez na China 3	dub=0:310751,2:1046223	leg=0:310752,2:1029075
-Era Uma Vez na Venezuela	dub=2:1271897
-Era Uma Vez um Boneco de Neve	dub=0:89591,2:1040368
-Era Uma Vez um Colchão	dub=0:112919,2:1071604
-Era Uma Vez um Gênio	dub=0:181142,2:1038832	leg=0:181141,2:1034728
-Era Uma Vez... Um Baile de Natal	dub=0:352947,2:1265183	leg=0:352946,2:1265177
-Era Uma vez no México	dub=0:345120,0:21380,2:1044378
-Era o Hotel Cambridge	dub=0:382652,2:1272789
-Era uma Vez no Oeste	dub=0:281751,2:1069208
-Era uma Vez um Estúdio	dub=0:219949,0:219948,2:1067676,2:1021849	leg=0:219950,2:1027114
-Era uma Vez um Sonho	dub=0:88685,2:1043004
-Era uma Vez uma Estrela	dub=0:219657,2:1041401	leg=0:219658,2:1249183
-Era uma Vez: Anastasia	dub=0:36658,2:1040285
-Era uma vez em Gaza	dub=2:1268574	leg=0:364718
-Era uma vez em Gaza Legendado	dub=2:1253698
-Eragon	dub=0:134092,2:1068713
-Eraser Reborn	dub=2:1264686
+Era Só Uma Brincadeira	dub=0:48183
+Era Só Uma Brincadeira - (2019)	dub=2:1050514
+Era Uma Vez	dub=0:20978
+Era Uma Vez - (2008)	dub=2:1041982
+Era Uma Vez Em Roma	dub=0:161517	leg=0:161520
+Era Uma Vez Em Roma - (2019)	dub=2:1049919	leg=2:1033781
+Era Uma Vez Eu, Verônica	dub=0:321265
+Era Uma Vez Eu, Verônica - (2012)	dub=2:1042479
+Era Uma Vez Minha Mãe (2025)	dub=2:1262445
+Era Uma Vez Na Minha Vida	dub=0:336135	leg=0:336134
+Era Uma Vez Na Minha Vida - (2021)	dub=2:1039007	leg=2:1031957
+Era Uma Vez Um Conto de Fadas (2022)	dub=2:1265946
+Era Uma Vez Um Deadpool	dub=0:21432
+Era Uma Vez Um Deadpool - (2018)	dub=2:1056595
+Era Uma Vez Um Principe	dub=0:22485
+Era Uma Vez Um Principe - (2018)	dub=2:1050720
+Era Uma Vez em Londres	dub=0:215887	leg=0:215886
+Era Uma Vez em Londres - (2019)	dub=2:1051577	leg=2:1024465
+Era Uma Vez em Nova York	dub=0:105239
+Era Uma Vez em Nova York - (2013)	dub=2:1065144
+Era Uma Vez em… Hollywood	dub=0:31420	leg=0:344503
+Era Uma Vez em… Hollywood (2019)	dub=2:1267931	leg=2:1023604
+Era Uma Vez na America (1984)	dub=2:1267464
+Era Uma Vez na China 3	dub=0:310751	leg=0:310752
+Era Uma Vez na China 3 - (1993)	dub=2:1046223	leg=2:1029075
+Era Uma Vez na Venezuela (2020)	dub=2:1271897
+Era Uma Vez no Mexico - (2003)	dub=2:1044378
+Era Uma Vez um Boneco de Neve	dub=0:89591
+Era Uma Vez um Boneco de Neve - (2020)	dub=2:1040368
+Era Uma Vez um Colchão	dub=0:112919
+Era Uma Vez um Colchão - (2005)	dub=2:1071604
+Era Uma Vez um Gênio	dub=0:181142	leg=0:181141
+Era Uma Vez um Gênio - (2022)	dub=2:1038832	leg=2:1034728
+Era Uma Vez... Um Baile de Natal	dub=0:352947	leg=0:352946
+Era Uma Vez... Um Baile de Natal (2024)	dub=2:1265183	leg=2:1265177
+Era Uma vez no México	dub=0:345120,0:21380
+Era o Hotel Cambridge	dub=0:382652
+Era o Hotel Cambridge (2017)	dub=2:1272789
+Era uma Vez no Oeste	dub=0:281751
+Era uma Vez no Oeste - (1968)	dub=2:1069208
+Era uma Vez um Estúdio	dub=0:219949,0:219948	leg=0:219950
+Era uma Vez um Estúdio - (2023)	dub=2:1067676,2:1021849	leg=2:1027114
+Era uma Vez um Sonho	dub=0:88685
+Era uma Vez um Sonho - (2020)	dub=2:1043004
+Era uma Vez uma Estrela	dub=0:219657	leg=0:219658
+Era uma Vez uma Estrela - (2023)	dub=2:1041401	leg=2:1249183
+Era uma Vez: Anastasia	dub=0:36658
+Era uma Vez: Anastasia - (2020)	dub=2:1040285
+Era uma vez em Gaza	leg=0:364718
+Era uma vez em Gaza (2025)	dub=2:1268574
+Era uma vez em Gaza Legendado (2025)	dub=2:1253698
+Eragon	dub=0:134092
+Eragon - (2006)	dub=2:1068713
+Eraser Reborn (2022)	dub=2:1264686
 Eric Clapton Unplugged… Over 30 Years Later	leg=0:313159
-Erin Brockovich: Uma Mulher de Talento	dub=0:192119,2:1042169
-Ernest Cole: Lost and Found	dub=2:1269949	leg=0:334605,2:1024327
-Ernest O Bobo e A Fera	dub=0:108081,2:1068753
-Errementari: O Ferreiro e o Diabo	dub=0:301798,2:1039661
-Erupcja Legendado	dub=2:1262173
-Ervas Secas	dub=2:1269384	leg=0:275501,2:1249247
-Escalada Mortal	dub=0:227009,2:1043776	leg=0:226996,2:1035371
-Escalada Sem Limites	dub=0:261642,2:1056187	leg=0:261643,2:1032909
-Escapando da Seita Nxivm: A Luta de uma Mãe para Salvar a Filha	dub=0:262178,0:193049,2:1049532	leg=0:193048,2:1034759
-Escape From Area 51	dub=2:1268832
-Escape From The 21st Century	leg=0:372356,2:1268249
+Erin Brockovich: Uma Mulher de Talento	dub=0:192119
+Erin Brockovich: Uma Mulher de Talento - (2000)	dub=2:1042169
+Ernest Cole Lost and Found (2024)	dub=2:1269949	leg=2:1024327
+Ernest Cole: Lost and Found	leg=0:334605
+Ernest O Bobo e A Fera	dub=0:108081
+Ernest O Bobo e A Fera - (1991)	dub=2:1068753
+Errementari: O Ferreiro e o Diabo	dub=0:301798
+Errementari: O Ferreiro e o Diabo - (2018)	dub=2:1039661
+Erupcja Legendado (2026)	dub=2:1262173
+Ervas Secas	leg=0:275501
+Ervas Secas (2023)	dub=2:1269384	leg=2:1249247
+Escalada Mortal	dub=0:227009	leg=0:226996
+Escalada Mortal - (2022)	dub=2:1043776	leg=2:1035371
+Escalada Sem Limites	dub=0:261642	leg=0:261643
+Escalada Sem Limites - (2022)	dub=2:1056187	leg=2:1032909
+Escapando da Seita Nxivm: A Luta de uma Mãe para Salvar a Filha	dub=0:262178,0:193049	leg=0:193048
+Escapando da Seita Nxivm: A Luta de uma Mãe para Salvar a Filha - (2019)	dub=2:1049532	leg=2:1034759
+Escape From Area 51 (2021)	dub=2:1268832
+Escape From The 21st Century	leg=0:372356
+Escape From The 21st Century (2024)	leg=2:1268249
 Escape Room	dub=0:108082
-Escape Room - Sem Saída	dub=0:263709,2:1043643	leg=0:263710,2:1249474
-Escape Room 2: Tensão Máxima	dub=0:133041,2:1070512	leg=0:129559,2:1028196
-Escape from Germany	dub=0:352369,2:1264983	leg=0:352368,2:1264952
-Escape from Mogadish	dub=2:1270199
-Escaping My Stalker	leg=0:68444,2:1032636
-Escavadores	dub=2:1267475
-Escobar - A Traicao	dub=0:20979,2:1052583
-Escobar: Paraiso Perdido	dub=2:1266878
-Escola Base Um Reporter Enfrenta o Passado	dub=2:1271402
-Escola Da Morte	dub=0:22887,2:1039136
-Escola De Rock	dub=0:20606,2:1072119
-Escola da Fraude: O Escândalo da Bishop Sycamore	dub=2:1269381	leg=0:246170,2:1249518
-Escola da Máfia	dub=0:323716,2:1054225	leg=0:323717,2:1036254
-Escola da Vida	dub=0:361828,2:1266836
-Escola de Espiões	dub=0:110813,2:1057141
-Escola de Magia	dub=0:157451,2:1062834
-Escola de Quebrada	dub=0:188578,2:1055531
-Escola de Solteiras	dub=0:30387,2:1063550
-Escolha ou Morra	dub=0:157961,2:1060021	leg=0:157986,2:1028222
-Escolhas do Coração	dub=0:259001,2:1269530	leg=0:259002
-Escolhida	dub=0:84588,2:1058526
-Escolho Acreditar: O Caminho do Campeão	dub=2:1270045	leg=0:246186,2:1029109
-Esconderijo Maldito	dub=0:339398,2:1051480	leg=0:339397,2:1032292
-Escondidos	dub=0:192120,2:1059303
-Escorpião Apaixonado	dub=0:162988,2:1043273
-Escorregando Para a Gloria	dub=2:1267202
-Escrevendo Uma Nova Vida	dub=2:1270448
-Escrito Nas Estrelas	dub=0:20607,2:1270849,2:1040205
-Escritores da Liberdade	dub=0:355722,0:96020,2:1052375	leg=0:355721,2:1265754
-Esculturas da Vida	dub=0:239976,2:1054260	leg=0:239977,2:1026820
-Escuridão	dub=0:249701,2:1066355	leg=0:249702,2:1027944
-Escândalos Na Igreja A Luz Do Mundo	dub=0:216982,2:1048430	leg=0:216985,2:1029617
-Espada da Vingança: Até a Última Linha	dub=0:47440,2:1040288
-Espada de Deus A Última Cruzada	dub=0:87101,2:1045246
-Espangles	dub=2:1269496
-Espantalho	dub=0:100942,2:1058665
-Espantalho Assassino	dub=2:1269070
-Espartalhoes	dub=0:20608,2:1039738
-Especial - A Revolucao Dos Games	dub=0:31923,2:1048804
-Especial Beleza Fatal - 0	dub=2:1268475
-Especial Beleza Fatal 4K	dub=0:357802,0:357618,2:1265026
-Especial De Natal Porta Dos Fundos - A Primeira Tentacao De Cristo	dub=0:31577,2:1039924
+Escape Room - Sem Saída	dub=0:263709	leg=0:263710
+Escape Room - Sem Saída - (2022)	dub=2:1043643	leg=2:1249474
+Escape Room 2: Tensão Máxima	dub=0:133041	leg=0:129559
+Escape Room 2: Tensão Máxima - (2021)	dub=2:1070512	leg=2:1028196
+Escape from Germany	dub=0:352369	leg=0:352368
+Escape from Germany (2024)	dub=2:1264983	leg=2:1264952
+Escape from Mogadish (2021)	dub=2:1270199
+Escaping My Stalker	leg=0:68444
+Escaping My Stalker - (2020)	leg=2:1032636
+Escavadores (2008)	dub=2:1267475
+Escobar - A Traicao	dub=0:20979
+Escobar - A Traicao - (2017)	dub=2:1052583
+Escobar: Paraiso Perdido (2014)	dub=2:1266878
+Escola Base Um Reporter Enfrenta o Passado (2022)	dub=2:1271402
+Escola Da Morte	dub=0:22887
+Escola Da Morte - (2018)	dub=2:1039136
+Escola De Rock	dub=0:20606
+Escola De Rock - (2003)	dub=2:1072119
+Escola da Fraude O Escandalo da Bishop Sycamore (2023)	dub=2:1269381	leg=2:1249518
+Escola da Fraude: O Escândalo da Bishop Sycamore	leg=0:246170
+Escola da Máfia	dub=0:323716	leg=0:323717
+Escola da Máfia - (2021)	dub=2:1054225	leg=2:1036254
+Escola da Vida	dub=0:361828
+Escola da Vida (2005)	dub=2:1266836
+Escola de Espiões	dub=0:110813
+Escola de Espiões - (2015)	dub=2:1057141
+Escola de Magia	dub=0:157451
+Escola de Magia - (2020)	dub=2:1062834
+Escola de Quebrada	dub=0:188578
+Escola de Quebrada - (2023)	dub=2:1055531
+Escola de Solteiras	dub=0:30387
+Escola de Solteiras - (2019)	dub=2:1063550
+Escolha ou Morra	dub=0:157961	leg=0:157986
+Escolha ou Morra - (2022)	dub=2:1060021	leg=2:1028222
+Escolhas do Coracao (2022)	dub=2:1269530
+Escolhas do Coração	dub=0:259001	leg=0:259002
+Escolhida	dub=0:84588
+Escolhida - (2020)	dub=2:1058526
+Escolho Acreditar O Caminho do Campeao (2023)	dub=2:1270045	leg=2:1029109
+Escolho Acreditar: O Caminho do Campeão	leg=0:246186
+Esconderijo Maldito	dub=0:339398	leg=0:339397
+Esconderijo Maldito - (2021)	dub=2:1051480	leg=2:1032292
+Escondidos	dub=0:192120
+Escondidos - (2015)	dub=2:1059303
+Escorpião Apaixonado	dub=0:162988
+Escorpião Apaixonado - (2013)	dub=2:1043273
+Escorregando Para a Gloria (2007)	dub=2:1267202
+Escrevendo Uma Nova Vida (2011)	dub=2:1270448
+Escrito Nas Estrelas	dub=0:20607
+Escrito Nas Estrelas - (1993)	dub=2:1040205
+Escrito nas Estrelas (2001)	dub=2:1270849
+Escritores da Liberdade	dub=0:355722,0:96020	leg=0:355721
+Escritores da Liberdade (2007)	dub=2:1052375	leg=2:1265754
+Esculturas da Vida	dub=0:239976	leg=0:239977
+Esculturas da Vida - (2022)	dub=2:1054260	leg=2:1026820
+Escuridão	dub=0:249701	leg=0:249702
+Escuridão - (2022)	dub=2:1066355	leg=2:1027944
+Escândalos Na Igreja A Luz Do Mundo	dub=0:216982	leg=0:216985
+Escândalos Na Igreja A Luz Do Mundo - (2023)	dub=2:1048430	leg=2:1029617
+Espada da Vingança: Até a Última Linha	dub=0:47440
+Espada da Vingança: Até a Última Linha - (2018)	dub=2:1040288
+Espada de Deus A Última Cruzada	dub=0:87101
+Espada de Deus A Última Cruzada - (2020)	dub=2:1045246
+Espangles (2004)	dub=2:1269496
+Espantalho	dub=0:100942
+Espantalho - (2011)	dub=2:1058665
+Espantalho Assassino (2013)	dub=2:1269070
+Espartalhoes	dub=0:20608
+Espartalhoes - (2008)	dub=2:1039738
+Especial - A Revolucao Dos Games	dub=0:31923
+Especial - A Revolucao Dos Games - (2019)	dub=2:1048804
+Especial Beleza Fatal - 0 (2025)	dub=2:1268475
+Especial Beleza Fatal 4K	dub=0:357802,0:357618
+Especial Beleza Fatal 4K (2025)	dub=2:1265026
+Especial De Natal Porta Dos Fundos - A Primeira Tentacao De Cristo	dub=0:31577
+Especial De Natal Porta Dos Fundos - A Primeira Tentacao De Cristo - (2019)	dub=2:1039924
 Especial Roberto Carlos Reencontro	dub=0:144891
 Especial: 40 Anos do SBT	dub=0:122929
 Especial: Leonardo & Raça Negra	dub=0:146750
-Especialista em Crise	dub=0:31742,2:1054686
-Espelho, Espelho Meu	dub=0:128631,2:1068005
-Espelhos do Medo	dub=0:134081,2:1070892
-Esperando Pela Chuva	dub=0:192088,2:1064623	leg=0:192101,2:1033649
-Esperando a Dali	dub=2:1271942
+Especialista em Crise	dub=0:31742
+Especialista em Crise - (2015)	dub=2:1054686
+Espelho, Espelho Meu	dub=0:128631
+Espelho, Espelho Meu - (2012)	dub=2:1068005
+Espelhos do Medo	dub=0:134081
+Espelhos do Medo - (2008)	dub=2:1070892
+Esperando Pela Chuva	dub=0:192088	leg=0:192101
+Esperando Pela Chuva - (2021)	dub=2:1064623	leg=2:1033649
+Esperando a Dali (2023)	dub=2:1271942
 Esperando os Bárbaros	dub=0:378044	leg=0:378043
-Esperando por Voce	dub=2:1266579
-Esperar para Sempre	dub=2:1269321
-Espero Tua volta	dub=0:333431,2:1049223
-Espetáculo de Sangue	dub=0:341056,2:1070713
-Espiao por Acidente	dub=0:97176,2:1046519
-Espionagem em Londres	dub=0:300833,2:1051930	leg=0:300834,2:1030150
-Espiral de Violência	dub=0:353769,2:1265366	leg=0:353768,2:1265367
-Espiral: O Legado de Jogos Mortais 4K	dub=0:127446,0:125979,2:1069915,2:1022015
-Espiritos 1	dub=0:21732,2:1059028
+Esperando por Voce (2016)	dub=2:1266579
+Esperar para Sempre (2010)	dub=2:1269321
+Espero Tua volta	dub=0:333431
+Espero Tua volta - (2019)	dub=2:1049223
+Espetáculo de Sangue	dub=0:341056
+Espetáculo de Sangue - (1967)	dub=2:1070713
+Espiao por Acidente	dub=0:97176
+Espiao por Acidente - (2001)	dub=2:1046519
+Espionagem em Londres	dub=0:300833	leg=0:300834
+Espionagem em Londres - (2020)	dub=2:1051930	leg=2:1030150
+Espiral de Violência	dub=0:353769	leg=0:353768
+Espiral de Violência (2024)	dub=2:1265366	leg=2:1265367
+Espiral: O Legado de Jogos Mortais - (2021)	dub=2:1069915,2:1022015
+Espiral: O Legado de Jogos Mortais 4K	dub=0:127446,0:125979
+Espiritos 1	dub=0:21732
+Espiritos 1 - (2014)	dub=2:1059028
 Espiritos 2	dub=0:21733
-Espiões Sem Rosto	dub=0:75629,2:1046307
-Espontânea	dub=0:380562,0:89397,2:1059278	leg=0:380561,2:1272687
-Esporte Sangrento	dub=0:20020,2:1047249
-Esposa de Aluguel	dub=0:177220,2:1064879
-Esposa de Mentirinha	dub=0:20609,2:1065530
-Esposa e Mãe	dub=2:1269774	leg=0:277878,2:1035368
-Espumas ao Vento	dub=0:381648,2:1272897
-Espécies em Perigo	dub=0:111608,2:1056234
-Espírito Jovem	dub=0:30388,2:1071906
-Espírito Selvagem	dub=0:128525,2:1069256
-Espírito de Família	dub=0:106825,2:1054817
-Espíritos 2: Você Nunca Está Sozinho	dub=0:376315,2:1271310	leg=0:376314,2:1266949
-Espíritos Obscuros	dub=0:345110,0:145374,2:1070137	leg=0:345109,0:145367,2:1026774
-Espíritos: A Morte Esta Ao Seu Lado	dub=0:270423,2:1070676
-Esquadrao Trovao	dub=0:101402,2:1055888
-Esquadrao de Elite Home Run	dub=2:1270710	leg=2:1273034
-Esquadrão 303	dub=0:72638,2:1267937
-Esquadrão 6	dub=0:31896,2:1046364
-Esquadrão Classe A	dub=0:380564,0:20610,2:1046264	leg=0:380563,2:1272685
-Esquadrão Implacável	dub=0:359741,2:1266663	leg=0:359740,2:1266672
-Esquadrão Lobo	dub=0:87131,2:1046010
-Esquadrão Red Tails	dub=0:48227,2:1066668
-Esquadrão Secreto 4K	dub=0:179800,0:175614,2:1067021,2:1022277	leg=0:175613,2:1030766
-Esquadrão Sem Limites	dub=0:166043,2:1047775
-Esquadrão Suicida	dub=0:380459,0:100000,2:1040009	leg=0:380458,2:1272542
-Esquadrão Suicida: Acerto de Contas	dub=0:336661,0:335221,2:1063231,2:1023330	leg=0:336660,2:1031220
-Esquadrão Tigre	dub=0:128840,2:1066639
-Esquadrão de Elite	dub=0:164198,2:1060006	leg=0:164196,2:1028616
-Esquadrão do Papai Noel	dub=0:226994,2:1050681
-Esqueceram de Mim	dub=0:157966,2:1068202
-Esqueceram de Mim 2: Perdido em Nova York	dub=0:157993,2:1068315
-Esqueceram de Mim 3	dub=0:93609,2:1068536
-Esqueceram de Mim 4	dub=0:93610,2:1050851
-Esqueceram de Mim 5: Sozinho no Natal	dub=0:93611,2:1049702
-Esqueceram de Mim no Lar, Doce Lar	dub=0:138081,2:1067695	leg=0:138082,2:1031507
-Esqueceram de Nós	dub=0:142964,2:1067069	leg=0:142968,2:1032982
-Esquema de Risco: Operação Fortune	dub=0:191138,0:191137,2:1046179,2:1022195	leg=0:191136,2:1032226
-Esquentando o Alasca	dub=0:347112,2:1055596	leg=0:347111,2:1036342
-Esqueça Paris	dub=0:357570,2:1267604	leg=0:357569,2:1267868
-Esquiando para a Morte	dub=0:28252,2:1059107
-Essas Garotas!	dub=0:138897,2:1065749
-Esse Ano Vai	dub=2:1270003
-Esse é o Meu Lugar	dub=0:239789,2:1041852	leg=0:239790,2:1249054
-Esta Noite, Você Dorme Comigo	dub=0:188315,2:1064615	leg=0:188322,2:1024880
-Esta Sou Eu 4K	dub=0:366731,0:366730,0:366186,2:1267550,2:1256827	leg=0:366185,2:1267265
-Esta é a Sua Morte: O Show	dub=0:197453,2:1042482
-Estado de Calamidade	dub=2:1266101
-Estado de Consciência	dub=0:312767,2:1043626	leg=0:312768,2:1028775
-Estado de Emergência	dub=0:193433,2:1051783	leg=0:193432,2:1025351
-Estado de silencio	dub=2:1271764	leg=0:291254,2:1035890
-Estados Unidos Vs Billie Holiday	dub=0:103536,2:1071741
-Estarei de Volta no Natal	dub=0:355724,2:1265750	leg=0:355723,2:1265778
-Estarei em casa para o Natal	dub=0:31578,2:1049782
-Estas me Matando Susana	dub=2:1267828
-Estação Polar Zebra	dub=0:368213,2:1268195	leg=0:368212,2:1268205
-Estação Rock	dub=0:253535,2:1042223
-Estações do Amor	dub=0:202012,2:1064538	leg=0:202013,2:1025212
-Este Velório é uma Parada	dub=0:352998,2:1265215
-Este é o Meu Garoto	dub=0:87161,2:1054410
-Esticando a Festa	dub=0:125886,2:1039550	leg=0:125884,2:1033209
-Estou Me Guardando para Quando o Carnaval Chegar	dub=2:1271903
-Estou Pensando em Acabar com Tudo	dub=0:72639,2:1070691
-Estrada Florestal 825	dub=0:349684,2:1252102	leg=0:349683
-Estrada Florestal 825 Legendado	dub=2:1252101
-Estrada Maldita	dub=2:1270605
-Estrada Para a Glória	dub=0:151978,2:1046037
-Estrada Para o Natal	dub=0:31897,2:1050711
-Estrada Sem Lei 4K	dub=0:22503,0:21433,2:1050965,2:1023208
-Estrada da Morte	dub=0:313290,2:1269528	leg=0:313291
-Estrada de Sonhos	dub=0:35965,2:1049363
-Estrada do Crime	dub=0:284522,2:1046867	leg=0:284523,2:1027473
-Estrada para a Loucura	dub=0:324819,2:1041805	leg=0:324818,2:1029022
-Estranha Forma de Vida	dub=0:292097,0:292096,0:270424,2:1068863,2:1022206	leg=0:292098,2:1031802
-Estranha Obsessão	dub=0:330017,2:1047081	leg=0:330016,2:1249163
-Estranha Presença	dub=0:30389,2:1071110
-Estranhas Metamorfoses	dub=0:110814,2:1060975
-Estranho Caminho	dub=0:343966,2:1038811
-Estranho Mas Verdade	dub=0:89319,2:1044986
-Estranho Passageiro: Sputnik	dub=0:359743,0:103373,2:1059857	leg=0:359742
-Estranhos Visitantes	dub=0:344555,2:1059500	leg=0:344554,2:1023501
-Estranhos em Casa	dub=2:1270932
-Estratégia Xavante	dub=0:370899,2:1267683
-Estrela Nua	dub=2:1269910
-Estrelas Alem do Tempo	dub=0:20980,2:1045139
-Estrelas de Cinema Nunca Morrem	dub=0:128864,2:1065625
-Estritamente Confidencial	dub=0:256846,2:1070151	leg=0:256847,2:1035409
-Estudante Exemplar	dub=0:343558,2:1043154	leg=0:343557,2:1023512
-Estudante de Honra	dub=2:1272426
-Está Tudo Bem	dub=0:169709,2:1054220	leg=0:169731,2:1026709
-Está Tudo Bem Comigo?	dub=0:264344,0:264343,2:1040520,2:1023228	leg=0:264345,2:1024230
-Estômago	dub=0:157968,0:129576,2:1070797
-Estômago 2: O Poderoso Chef	dub=0:290753,2:1052548
-Eternal Beauty	leg=0:69601,2:1026987
-Eternal Winter	dub=0:301175,2:1045515	leg=0:301176,2:1025222
-Eternamente Demais pra Mim	dub=0:156685,2:1063739	leg=0:156688,2:1035065
-Eternamente Jovem	dub=2:1265988
-Eternidade 4K	dub=0:379414,0:367461,0:359054,0:359052,2:1266547,2:1255180	leg=0:359053,2:1266538
-Eterno 831	dub=0:197135,2:1061769
-Eterno Amor	dub=0:311130,2:1066839
-Eternos 4K	dub=0:146831,0:146799,2:1061344,2:1022601	leg=0:146795,2:1032248
-Eternos Companheiros	dub=0:158961,2:1067643	leg=0:169296,2:1029231
-Ethel & Ernest	dub=2:1270839
-Eu & Você na Toscana	dub=0:378003,2:1260498	leg=0:378002,2:1268322
-Eu Aceito	dub=0:286601,2:1064229	leg=0:286602,2:1029254
-Eu Acredito	dub=0:33373,2:1068116
-Eu Acredito em Conto de Fadas	dub=0:200985,2:1057255
-Eu Ainda Sei o Que Vocês Fizeram no Verão Passado	dub=0:130258,2:1071016
-Eu Antes de Mim	dub=2:1263343
-Eu Deus E Bin Laden	dub=0:97177,2:1053490
-Eu Fico Loko	dub=2:1265208
+Espiritos 2 - Voce nunca esta sozinho (2007)	dub=2:1271310	leg=2:1266949
+Espiões Sem Rosto	dub=0:75629
+Espiões Sem Rosto - (1988)	dub=2:1046307
+Espontânea	dub=0:380562,0:89397	leg=0:380561
+Espontânea (2020)	dub=2:1059278	leg=2:1272687
+Esporte Sangrento	dub=0:20020
+Esporte Sangrento - (1993)	dub=2:1047249
+Esposa de Aluguel	dub=0:177220
+Esposa de Aluguel - (2022)	dub=2:1064879
+Esposa de Mentirinha	dub=0:20609
+Esposa de Mentirinha - (2011)	dub=2:1065530
+Esposa e Mae (2024)	dub=2:1269774	leg=2:1035368
+Esposa e Mãe	leg=0:277878
+Espumas ao Vento	dub=0:381648
+Espumas ao Vento (2022)	dub=2:1272897
+Espécies em Perigo	dub=0:111608
+Espécies em Perigo - (2021)	dub=2:1056234
+Espírito Jovem	dub=0:30388
+Espírito Jovem - (2019)	dub=2:1071906
+Espírito Selvagem	dub=0:128525
+Espírito Selvagem - (2000)	dub=2:1069256
+Espírito de Família	dub=0:106825
+Espírito de Família - (2020)	dub=2:1054817
+Espíritos 2: Você Nunca Está Sozinho	dub=0:376315	leg=0:376314
+Espíritos Obscuros	dub=0:345110,0:145374	leg=0:345109,0:145367
+Espíritos Obscuros - (2021)	dub=2:1070137	leg=2:1026774
+Espíritos: A Morte Esta Ao Seu Lado	dub=0:270423
+Espíritos: A Morte Esta Ao Seu Lado - (2004)	dub=2:1070676
+Esquadrao Trovao	dub=0:101402
+Esquadrao Trovao - (2021)	dub=2:1055888
+Esquadrao de Elite Home Run (2023)	dub=2:1270710	leg=2:1273034
+Esquadrão 303	dub=0:72638
+Esquadrão 303 (2018)	dub=2:1267937
+Esquadrão 6	dub=0:31896
+Esquadrão 6 - (2019)	dub=2:1046364
+Esquadrão Classe A	dub=0:380564,0:20610	leg=0:380563
+Esquadrão Classe A (2010)	dub=2:1046264	leg=2:1272685
+Esquadrão Implacável	dub=0:359741	leg=0:359740
+Esquadrão Implacável (1973)	dub=2:1266663	leg=2:1266672
+Esquadrão Lobo	dub=0:87131
+Esquadrão Lobo - (2018)	dub=2:1046010
+Esquadrão Red Tails	dub=0:48227
+Esquadrão Red Tails - (2012)	dub=2:1066668
+Esquadrão Secreto - (2022)	dub=2:1067021,2:1022277	leg=2:1030766
+Esquadrão Secreto 4K	dub=0:179800,0:175614	leg=0:175613
+Esquadrão Sem Limites	dub=0:166043
+Esquadrão Sem Limites - (2012)	dub=2:1047775
+Esquadrão Suicida	dub=0:380459,0:100000	leg=0:380458
+Esquadrão Suicida (2016)	dub=2:1040009	leg=2:1272542
+Esquadrão Suicida: Acerto de Contas	dub=0:336661,0:335221	leg=0:336660
+Esquadrão Suicida: Acerto de Contas - (2018)	dub=2:1063231,2:1023330	leg=2:1031220
+Esquadrão Tigre	dub=0:128840
+Esquadrão Tigre - (2016)	dub=2:1066639
+Esquadrão de Elite	dub=0:164198	leg=0:164196
+Esquadrão de Elite - (2019)	dub=2:1060006	leg=2:1028616
+Esquadrão do Papai Noel	dub=0:226994
+Esquadrão do Papai Noel - (2020)	dub=2:1050681
+Esqueceram de Mim	dub=0:157966
+Esqueceram de Mim - (1990)	dub=2:1068202
+Esqueceram de Mim 2: Perdido em Nova York	dub=0:157993
+Esqueceram de Mim 2: Perdido em Nova York - (1992)	dub=2:1068315
+Esqueceram de Mim 3	dub=0:93609
+Esqueceram de Mim 3 - (1997)	dub=2:1068536
+Esqueceram de Mim 4	dub=0:93610
+Esqueceram de Mim 4 - (2002)	dub=2:1050851
+Esqueceram de Mim 5: Sozinho no Natal	dub=0:93611
+Esqueceram de Mim 5: Sozinho no Natal - (2012)	dub=2:1049702
+Esqueceram de Mim no Lar, Doce Lar	dub=0:138081	leg=0:138082
+Esqueceram de Mim no Lar, Doce Lar - (2021)	dub=2:1067695	leg=2:1031507
+Esqueceram de Nós	dub=0:142964	leg=0:142968
+Esqueceram de Nós - (2021)	dub=2:1067069	leg=2:1032982
+Esquema de Risco: Operação Fortune	dub=0:191138,0:191137	leg=0:191136
+Esquema de Risco: Operação Fortune - (2023)	dub=2:1046179,2:1022195	leg=2:1032226
+Esquentando o Alasca	dub=0:347112	leg=0:347111
+Esquentando o Alasca - (1999)	dub=2:1055596	leg=2:1036342
+Esqueça Paris	dub=0:357570	leg=0:357569
+Esqueça Paris (1995)	dub=2:1267604	leg=2:1267868
+Esquiando para a Morte	dub=0:28252
+Esquiando para a Morte - (2003)	dub=2:1059107
+Essas Garotas!	dub=0:138897
+Essas Garotas! - (1988)	dub=2:1065749
+Esse Ano Vai (2021)	dub=2:1270003
+Esse é o Meu Lugar	dub=0:239789	leg=0:239790
+Esse é o Meu Lugar - (2021)	dub=2:1041852	leg=2:1249054
+Esta Noite, Você Dorme Comigo	dub=0:188315	leg=0:188322
+Esta Noite, Você Dorme Comigo - (2023)	dub=2:1064615	leg=2:1024880
+Esta Sou Eu 4K	dub=0:366731,0:366730,0:366186	leg=0:366185
+Esta Sou Eu 4K (2026)	dub=2:1267550,2:1256827	leg=2:1267265
+Esta é a Sua Morte: O Show	dub=0:197453
+Esta é a Sua Morte: O Show - (2017)	dub=2:1042482
+Estado de Calamidade (2017)	dub=2:1266101
+Estado de Consciência	dub=0:312767	leg=0:312768
+Estado de Consciência - (2023)	dub=2:1043626	leg=2:1028775
+Estado de Emergência	dub=0:193433	leg=0:193432
+Estado de Emergência - (2019)	dub=2:1051783	leg=2:1025351
+Estado de Silencio (2024)	dub=2:1271764	leg=2:1035890
+Estado de silencio	leg=0:291254
+Estados Unidos Vs Billie Holiday	dub=0:103536
+Estados Unidos Vs Billie Holiday - (2021)	dub=2:1071741
+Estarei de Volta no Natal	dub=0:355724	leg=0:355723
+Estarei de Volta no Natal (2019)	dub=2:1265750	leg=2:1265778
+Estarei em casa para o Natal	dub=0:31578
+Estarei em casa para o Natal - (2016)	dub=2:1049782
+Estas me Matando Susana (2016)	dub=2:1267828
+Estação Polar Zebra	dub=0:368213	leg=0:368212
+Estação Polar Zebra (1968)	dub=2:1268195	leg=2:1268205
+Estação Rock	dub=0:253535
+Estação Rock - (2020)	dub=2:1042223
+Estações do Amor	dub=0:202012	leg=0:202013
+Estações do Amor - (2023)	dub=2:1064538	leg=2:1025212
+Este Velório é uma Parada	dub=0:352998
+Este Velório é uma Parada (1992)	dub=2:1265215
+Este é o Meu Garoto	dub=0:87161
+Este é o Meu Garoto - (2012)	dub=2:1054410
+Esticando a Festa	dub=0:125886	leg=0:125884
+Esticando a Festa - (2021)	dub=2:1039550	leg=2:1033209
+Estou Me Guardando para Quando o Carnaval Chegar (2019)	dub=2:1271903
+Estou Pensando em Acabar com Tudo	dub=0:72639
+Estou Pensando em Acabar com Tudo - (2020)	dub=2:1070691
+Estrada Florestal 825	dub=0:349684	leg=0:349683
+Estrada Florestal 825 (2025)	dub=2:1252102
+Estrada Florestal 825 Legendado (2025)	dub=2:1252101
+Estrada Maldita (2007)	dub=2:1270605
+Estrada Para a Glória	dub=0:151978
+Estrada Para a Glória - (2006)	dub=2:1046037
+Estrada Para o Natal	dub=0:31897
+Estrada Para o Natal - (2018)	dub=2:1050711
+Estrada Sem Lei - (2019)	dub=2:1050965,2:1023208
+Estrada Sem Lei 4K	dub=0:22503,0:21433
+Estrada da Morte	dub=0:313290	leg=0:313291
+Estrada da Morte (2023)	dub=2:1269528
+Estrada de Sonhos	dub=0:35965
+Estrada de Sonhos - (2015)	dub=2:1049363
+Estrada do Crime	dub=0:284522	leg=0:284523
+Estrada do Crime - (2018)	dub=2:1046867	leg=2:1027473
+Estrada para a Loucura	dub=0:324819	leg=0:324818
+Estrada para a Loucura - (2021)	dub=2:1041805	leg=2:1029022
+Estranha Forma de Vida	dub=0:292097,0:292096,0:270424	leg=0:292098
+Estranha Forma de Vida - (2023)	dub=2:1068863,2:1022206	leg=2:1031802
+Estranha Obsessão	dub=0:330017	leg=0:330016
+Estranha Obsessão - (1996)	dub=2:1047081	leg=2:1249163
+Estranha Presença	dub=0:30389
+Estranha Presença - (2018)	dub=2:1071110
+Estranhas Metamorfoses	dub=0:110814
+Estranhas Metamorfoses - (1982)	dub=2:1060975
+Estranho Caminho	dub=0:343966
+Estranho Caminho - (2024)	dub=2:1038811
+Estranho Mas Verdade	dub=0:89319
+Estranho Mas Verdade - (2019)	dub=2:1044986
+Estranho Passageiro Sputnik - (2020)	dub=2:1059857
+Estranho Passageiro: Sputnik	dub=0:359743,0:103373	leg=0:359742
+Estranhos Visitantes	dub=0:344555	leg=0:344554
+Estranhos Visitantes - (1989)	dub=2:1059500	leg=2:1023501
+Estranhos em Casa (2019)	dub=2:1270932
+Estratégia Xavante	dub=0:370899
+Estratégia Xavante (2006)	dub=2:1267683
+Estrela Nua (1984)	dub=2:1269910
+Estrelas Alem do Tempo	dub=0:20980
+Estrelas Alem do Tempo - (2016)	dub=2:1045139
+Estrelas de Cinema Nunca Morrem	dub=0:128864
+Estrelas de Cinema Nunca Morrem - (2017)	dub=2:1065625
+Estritamente Confidencial	dub=0:256846	leg=0:256847
+Estritamente Confidencial - (2024)	dub=2:1070151	leg=2:1035409
+Estudante Exemplar	dub=0:343558	leg=0:343557
+Estudante Exemplar - (2023)	dub=2:1043154	leg=2:1023512
+Estudante de Honra (2014)	dub=2:1272426
+Está Tudo Bem	dub=0:169709	leg=0:169731
+Está Tudo Bem - (2021)	dub=2:1054220	leg=2:1026709
+Está Tudo Bem Comigo?	dub=0:264344,0:264343	leg=0:264345
+Está Tudo Bem Comigo? - (2024)	dub=2:1040520,2:1023228	leg=2:1024230
+Estômago	dub=0:157968,0:129576
+Estômago - (2007)	dub=2:1070797
+Estômago 2: O Poderoso Chef	dub=0:290753
+Estômago 2: O Poderoso Chef - (2024)	dub=2:1052548
+Eternal Beauty	leg=0:69601
+Eternal Beauty - (2020)	leg=2:1026987
+Eternal Winter	dub=0:301175	leg=0:301176
+Eternal Winter - (2018)	dub=2:1045515	leg=2:1025222
+Eternamente Demais pra Mim	dub=0:156685	leg=0:156688
+Eternamente Demais pra Mim - (2022)	dub=2:1063739	leg=2:1035065
+Eternamente Jovem (1992)	dub=2:1265988
+Eternidade 4K	dub=0:379414,0:367461,0:359054,0:359052	leg=0:359053
+Eternidade 4K (2025)	dub=2:1266547,2:1255180	leg=2:1266538
+Eterno 831	dub=0:197135
+Eterno 831 - (2022)	dub=2:1061769
+Eterno Amor	dub=0:311130
+Eterno Amor - (2004)	dub=2:1066839
+Eternos - (2021)	dub=2:1061344,2:1022601	leg=2:1032248
+Eternos 4K	dub=0:146831,0:146799	leg=0:146795
+Eternos Companheiros	dub=0:158961	leg=0:169296
+Eternos Companheiros - (2019)	dub=2:1067643	leg=2:1029231
+Ethel & Ernest (2016)	dub=2:1270839
+Eu & Você na Toscana	dub=0:378003	leg=0:378002
+Eu & Você na Toscana (2026)	dub=2:1260498	leg=2:1268322
+Eu Aceito	dub=0:286601	leg=0:286602
+Eu Aceito - (2021)	dub=2:1064229	leg=2:1029254
+Eu Acredito	dub=0:33373
+Eu Acredito - (2019)	dub=2:1068116
+Eu Acredito em Conto de Fadas	dub=0:200985
+Eu Acredito em Conto de Fadas - (2022)	dub=2:1057255
+Eu Ainda Sei o Que Vocês Fizeram no Verão Passado	dub=0:130258
+Eu Ainda Sei o Que Vocês Fizeram no Verão Passado - (1998)	dub=2:1071016
+Eu Antes de Mim (2026)	dub=2:1263343
+Eu Deus E Bin Laden	dub=0:97177
+Eu Deus E Bin Laden - (2016)	dub=2:1053490
+Eu Fico Loko (2017)	dub=2:1265208
 Eu Matei Lúcio Flávio	dub=0:382980
 Eu Mato Gigantes	dub=0:20981
-Eu Me Importo	dub=0:95947,2:1052297
-Eu Nao Sou Seu Negro	dub=2:1269094
-Eu Nao Sou Um Homem Facil	dub=0:20614,2:1040230
-Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo com a Minha Vida	dub=0:329609,2:1054931
-Eu Não Sou um Robô	dub=0:148685,2:1039593
-Eu Odeio o Big Broder	dub=0:347113,2:1050906
-Eu Posso Ouvir o Oceano	dub=2:1270641
-Eu Queria Ter a Sua Vida	dub=0:380461,2:1271099	leg=0:380460,2:1272630
-Eu Receberia as Piores Notícias dos Seus Lindos Lábios	dub=0:141522,2:1042753
-Eu Sei o Que Vocês Fizeram no Verão Passado	dub=0:380463,0:341025,0:340963,2:1071265,2:1037845,2:1037015	leg=0:380462,0:340962,2:1272573,2:1037740
-Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado	dub=0:333433,2:1249970	leg=0:333432,2:1032458
-Eu Sinto Muito	dub=0:376316,2:1266386
-Eu Sou	dub=0:378674,2:1271983	leg=0:378673,2:1272001
-Eu Sou Ali: A Historia de Muhammad Ali	dub=2:1270460
-Eu Sou Brasileiro	dub=0:136786,2:1042585
-Eu Sou Carlos Imperial	dub=0:363875,2:1267173
-Eu Sou Charlie Walker	dub=0:319055,2:1040900	leg=0:319056,2:1033509
-Eu Sou Mais Eu	dub=2:1270026
-Eu Sou Maria	dub=0:255563,2:1042386
-Eu Sou Mulher	dub=2:1269418
-Eu Sou Racista -2024	leg=2:1266040
-Eu Sou Racista?	leg=0:292846,2:1033404
-Eu Sou Todas as Meninas	dub=0:106468,2:1070673
-Eu Sou Vanessa Guillen	dub=0:180300,2:1048711	leg=0:180313,2:1035262
-Eu Sou a Fúria	dub=0:20022,2:1052440
-Eu Sou a Lenda	dub=0:382982,0:21735,2:1060956	leg=0:382981
-Eu Sou a Vingança	dub=0:184073,2:1249788	leg=0:184058,2:1034394
-Eu Sou o Número Quatro	dub=0:198529,2:1060953
-Eu Sou o Segredo em Seu Coração	dub=2:1268991	leg=0:301059,2:1025876
-Eu Sou: Celine Dion	dub=2:1266364	leg=0:267698,2:1025414
-Eu Só Posso Imaginar	dub=0:108285,2:1072345
-Eu Só Posso Imaginar 2 4K	dub=0:377994,0:377815,2:1268394,2:1260491	leg=0:377814,2:1268422
-Eu Te Amo Cara	dub=2:1270685
-Eu Te Amo é no Sol	dub=0:347664,2:1250066	leg=0:347663,2:1250065
-Eu Te Amo, Beth Cooper	dub=0:338624,0:92675,2:1063980	leg=0:338623,2:1034963
-Eu Tenho Tourette, Mas Tourette Não Me Tem	dub=0:358883,2:1266475	leg=0:358882,2:1266447
-Eu Tonya	dub=0:20983,2:1054916
-Eu Vi o Brilho da TV	dub=0:279171,0:279170,2:1022582	leg=0:279172
-Eu Vi o Diabo	dub=2:1271441	leg=0:307736,2:1024719
-Eu Você e a Garota Que Vai Morrer	dub=0:35946,2:1055492
-Eu Voltarei	dub=0:247942,2:1041794	leg=0:247943,2:1034686
-Eu e Meu Avô Nihonjin	dub=0:361353,2:1255586
-Eu e Meu Guarda Chuva	dub=0:199881,2:1067112
-Eu e Voce Nos Para Sempre	dub=2:1270413
-Eu nao sou um Serial Killer	dub=2:1268930
-Eu os Declaro Marido e Larry	dub=0:20615,2:1065803
-Eu sei que vou te amar	dub=0:341791,2:1042989
-Eu sou Bolt	dub=2:1268610	leg=0:145365,2:1026755
-Eu sou Frankelda	dub=2:1261955
-Eu te amo, Bressan	dub=0:373817,0:372117,2:1268224	leg=0:372116,2:1268228
-Eu, Capitão	dub=0:258421,2:1056507	leg=0:258422
-Eu, Christiane F. - 13 Anos, Drogada e Prostituída	dub=0:196386,2:1042605
-Eu, Eddie	dub=2:1253510
-Eu, Eu Mesma e Diana	dub=0:224743,2:1064514	leg=0:224742,2:1032859
-Eu, Eu Mesmo & Irene	dub=0:382451,0:100109,2:1054484	leg=0:382450,2:1272804
-Eu, Nirvana	dub=0:366513,2:1267516
-Eu, Robô	dub=0:42917,2:1060706
-Eu, Traidor	dub=0:175814,2:1041667	leg=0:175813,2:1024831
-Eu. Empresa	dub=2:1265852
-Euforia	dub=0:159934,0:22116,2:1041378	leg=0:159938,2:1028762
-Eulália	dub=0:229477,2:1042851
+Eu Me Importo	dub=0:95947
+Eu Me Importo - (2021)	dub=2:1052297
+Eu Nao Sou Seu Negro (2017)	dub=2:1269094
+Eu Nao Sou Um Homem Facil	dub=0:20614
+Eu Nao Sou Um Homem Facil - (2018)	dub=2:1040230
+Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo com a Minha Vida	dub=0:329609
+Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo com a Minha Vida - (2013)	dub=2:1054931
+Eu Não Sou um Robô	dub=0:148685
+Eu Não Sou um Robô - (2021)	dub=2:1039593
+Eu Odeio o Big Broder	dub=0:347113
+Eu Odeio o Big Broder - (2013)	dub=2:1050906
+Eu Posso Ouvir o Oceano (1993)	dub=2:1270641
+Eu Queria Ter a Sua Vida	dub=0:380461	leg=0:380460
+Eu Queria Ter a Sua Vida (2011)	dub=2:1271099	leg=2:1272630
+Eu Receberia as Piores Notícias dos Seus Lindos Lábios	dub=0:141522
+Eu Receberia as Piores Notícias dos Seus Lindos Lábios - (2011)	dub=2:1042753
+Eu Sei o Que Vocês Fizeram no Verão Passado	dub=0:380463,0:341025,0:340963	leg=0:380462,0:340962
+Eu Sei o Que Vocês Fizeram no Verão Passado (1997)	dub=2:1071265	leg=2:1272573
+Eu Sei o Que Vocês Fizeram no Verão Passado - (2025)	dub=2:1037845,2:1037015	leg=2:1037740
+Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado	dub=0:333433	leg=0:333432
+Eu Sempre Vou Saber o Que Vocês Fizeram no Verão Passado - (2006)	dub=2:1249970	leg=2:1032458
+Eu Sinto Muito	dub=0:376316
+Eu Sinto Muito (2019)	dub=2:1266386
+Eu Sou	dub=0:378674	leg=0:378673
+Eu Sou (2010)	dub=2:1271983	leg=2:1272001
+Eu Sou Ali: A Historia de Muhammad Ali (2014)	dub=2:1270460
+Eu Sou Brasileiro	dub=0:136786
+Eu Sou Brasileiro - (2019)	dub=2:1042585
+Eu Sou Carlos Imperial	dub=0:363875
+Eu Sou Carlos Imperial (2015)	dub=2:1267173
+Eu Sou Celine Dion (2024)	dub=2:1266364	leg=2:1025414
+Eu Sou Charlie Walker	dub=0:319055	leg=0:319056
+Eu Sou Charlie Walker - (2022)	dub=2:1040900	leg=2:1033509
+Eu Sou Mais Eu (2019)	dub=2:1270026
+Eu Sou Maria	dub=0:255563
+Eu Sou Maria - (2023)	dub=2:1042386
+Eu Sou Mulher (2020)	dub=2:1269418
+Eu Sou Racista - (2024)	leg=2:1266040,2:1033404
+Eu Sou Racista?	leg=0:292846
+Eu Sou Todas as Meninas	dub=0:106468
+Eu Sou Todas as Meninas - (2021)	dub=2:1070673
+Eu Sou Vanessa Guillen	dub=0:180300	leg=0:180313
+Eu Sou Vanessa Guillen - (2022)	dub=2:1048711	leg=2:1035262
+Eu Sou a Fúria	dub=0:20022
+Eu Sou a Fúria - (2016)	dub=2:1052440
+Eu Sou a Lenda	dub=0:382982,0:21735	leg=0:382981
+Eu Sou a Lenda - (2007)	dub=2:1060956
+Eu Sou a Vingança	dub=0:184073	leg=0:184058
+Eu Sou a Vingança - (2018)	dub=2:1249788	leg=2:1034394
+Eu Sou o Número Quatro	dub=0:198529
+Eu Sou o Número Quatro - (2011)	dub=2:1060953
+Eu Sou o Segredo em Seu Coracao (2024)	dub=2:1268991	leg=2:1025876
+Eu Sou o Segredo em Seu Coração	leg=0:301059
+Eu Sou: Celine Dion	leg=0:267698
+Eu Só Posso Imaginar	dub=0:108285
+Eu Só Posso Imaginar - (2018)	dub=2:1072345
+Eu Só Posso Imaginar 2 (2026)	dub=2:1268394,2:1260491	leg=2:1268422
+Eu Só Posso Imaginar 2 4K	dub=0:377994,0:377815	leg=0:377814
+Eu Te Amo Cara (2009)	dub=2:1270685
+Eu Te Amo é no Sol	dub=0:347664	leg=0:347663
+Eu Te Amo é no Sol - (2022)	dub=2:1250066	leg=2:1250065
+Eu Te Amo, Beth Cooper	dub=0:338624,0:92675	leg=0:338623
+Eu Te Amo, Beth Cooper - (2009)	dub=2:1063980	leg=2:1034963
+Eu Tenho Tourette, Mas Tourette Não Me Tem	dub=0:358883	leg=0:358882
+Eu Tenho Tourette, Mas Tourette Não Me Tem (2005)	dub=2:1266475	leg=2:1266447
+Eu Tonya	dub=0:20983
+Eu Tonya - (2017)	dub=2:1054916
+Eu Vi o Brilho da TV	dub=0:279171,0:279170	leg=0:279172
+Eu Vi o Brilho da TV 4K - (2024)	dub=2:1022582
+Eu Vi o Diabo	leg=0:307736
+Eu Vi o Diabo (2010)	dub=2:1271441	leg=2:1024719
+Eu Você e a Garota Que Vai Morrer	dub=0:35946
+Eu Você e a Garota Que Vai Morrer - (2015)	dub=2:1055492
+Eu Voltarei	dub=0:247942	leg=0:247943
+Eu Voltarei - (2023)	dub=2:1041794	leg=2:1034686
+Eu e Meu Avô Nihonjin	dub=0:361353
+Eu e Meu Avô Nihonjin (2025)	dub=2:1255586
+Eu e Meu Guarda Chuva	dub=0:199881
+Eu e Meu Guarda Chuva - (2010)	dub=2:1067112
+Eu e Voce Nos Para Sempre (2008)	dub=2:1270413
+Eu nao sou um Serial Killer (2016)	dub=2:1268930
+Eu os Declaro Marido e Larry	dub=0:20615
+Eu os Declaro Marido e Larry - (2007)	dub=2:1065803
+Eu sei que vou te amar	dub=0:341791
+Eu sei que vou te amar - (1986)	dub=2:1042989
+Eu sou Bolt	leg=0:145365
+Eu sou Bolt (2016)	dub=2:1268610	leg=2:1026755
+Eu sou Frankelda (2025)	dub=2:1261955
+Eu te amo, Bressan	dub=0:373817,0:372117	leg=0:372116
+Eu te amo, Bressan (2021)	dub=2:1268224	leg=2:1268228
+Eu, Capitão	dub=0:258421	leg=0:258422
+Eu, Capitão - (2023)	dub=2:1056507
+Eu, Christiane F. - 13 Anos, Drogada e Prostituída	dub=0:196386
+Eu, Christiane F. - 13 Anos, Drogada e Prostituída - (1981)	dub=2:1042605
+Eu, Eddie (2025)	dub=2:1253510
+Eu, Eu Mesma e Diana	dub=0:224743	leg=0:224742
+Eu, Eu Mesma e Diana - (2021)	dub=2:1064514	leg=2:1032859
+Eu, Eu Mesmo & Irene	dub=0:382451,0:100109	leg=0:382450
+Eu, Eu Mesmo & Irene (2000)	dub=2:1054484	leg=2:1272804
+Eu, Nirvana	dub=0:366513
+Eu, Nirvana (2024)	dub=2:1267516
+Eu, Robô	dub=0:42917
+Eu, Robô - (2004)	dub=2:1060706
+Eu, Traidor	dub=0:175814	leg=0:175813
+Eu, Traidor - (2022)	dub=2:1041667	leg=2:1024831
+Eu. Empresa (2021)	dub=2:1265852
+Euforia	dub=0:159934,0:22116	leg=0:159938
+Euforia - (2018)	dub=2:1041378	leg=2:1028762
+Eulália	dub=0:229477
+Eulália - (2023)	dub=2:1042851
 Eunice Gutman Tem Histórias	dub=0:369205
-Eunice Gutman Tem Histórias - 0	dub=2:1272369
-Euphoria: Um Olhar para Trás	dub=2:1263705
-Eureka	leg=0:379415,2:1272619
-EuroTrip Passaporte Para a Confusao	dub=0:20616,2:1054490
-Eva, um Novo Começo	dub=0:138846,2:1060626
-Evangelion: 3.0+1.01 A Esperança	dub=0:120661,2:1062089	leg=0:120678,2:1249375
-Evangelion: Death	dub=0:328978,2:1061883	leg=0:328977,2:1035598
-Evel Knievel Desafio em Duas Rodas	dub=0:74758,2:1050415
-Evelyn	dub=2:1271481
-Even Hell Has Its Heroes	leg=0:255021,2:1028046
-Everest	dub=0:20984,2:1045460
-Everest Procurando Michael	dub=2:1269157
-Evereste	dub=0:316401	leg=0:316402,2:1249161
-Every Body	dub=0:251167,2:1048643	leg=0:251168,2:1030870
-Every Breath She Takes	dub=0:194200,2:1049889
-Every Breath You Take	dub=0:136810,2:1070091	leg=0:136770,2:1027403
-Everything's Going to Be Great	dub=0:352704	leg=0:352703,2:1265065
-Evidencias De Um Crime	dub=0:101172,2:1069735
-Evidências do Amor 4K	dub=0:263145,0:263020,2:1038725,2:1023226
-Evie	dub=0:339400,2:1057992	leg=0:339399,2:1023530
-Evil Raizes do mal	dub=2:1271152
-Evocando Espiritos 1	dub=0:21736,2:1058841
-Evocando Espiritos 2	dub=0:21737,2:1044307
-Evolucao de Detroit	dub=2:1268751
-Evolução	dub=0:134079,2:1060934
-Ewoks: A Batalha de Endor	dub=0:358815,0:151996,2:1049863
-Ex Casados	dub=0:168542,2:1053609	leg=0:168541,2:1029675
-Ex Machina Instinto Artificial	dub=0:102644,2:1061069
-Ex em Domicilio	dub=0:22554,2:1055029
-Exame	dub=2:1271281
-Excalibur	dub=0:133099,2:1249775
-Excellent Cadavers	dub=0:133769,2:1045740
-Excluídos 4K	dub=0:196745,0:187832,2:1043651,2:1021952	leg=0:187835,2:1032878
-Exhuma	dub=2:1270278	leg=0:278676,2:1029248
-Exit	dub=0:161543,2:1047045	leg=0:42503,2:1035118
-Exit 8	dub=2:1262188	leg=0:366997
-Exit 8 Legendado	dub=2:1257206
-Exit Elena	dub=2:1266862
-Exodo Deuses e Reis	dub=0:20985,2:1056673
-Exodus	dub=2:1269956
-Exorcismo Sagrado	dub=0:162340,0:162338,2:1039015
-Exorcismos e Demonios	dub=0:21738,2:1070894
-Exorcismus: A Possessão	dub=0:371883,2:1268039	leg=0:371882,2:1268151
-Exorcist Vengeance	dub=2:1264791
-Exorcistas do Vaticano	dub=0:138885,2:1044760
-Expandir Jeca e Seu Filho Preto	dub=2:1266633
-Expedicao Amelia A Busca Pelo Corpo	dub=2:1269278
-Expedição Amazônia	dub=0:290754,2:1048580	leg=0:290755,2:1031131
-Expedição China	dub=0:352206,2:1264892	leg=0:352205,2:1264908
-Expedição Kon Tiki	dub=0:130242,2:1046033
+Eunice Gutman Tem Histórias - 0 (2025)	dub=2:1272369
+Euphoria: Um Olhar para Trás (2026)	dub=2:1263705
+Eureka	leg=0:379415
+Eureka (2024)	leg=2:1272619
+EuroTrip Passaporte Para a Confusao	dub=0:20616
+EuroTrip Passaporte Para a Confusao - (2004)	dub=2:1054490
+Eva, um Novo Começo	dub=0:138846
+Eva, um Novo Começo - (2011)	dub=2:1060626
+Evangelion: 3.0+1.01 A Esperança	dub=0:120661	leg=0:120678
+Evangelion: 3.0+1.01 A Esperança - (2021)	dub=2:1062089	leg=2:1249375
+Evangelion: Death	dub=0:328978	leg=0:328977
+Evangelion: Death - (1998)	dub=2:1061883	leg=2:1035598
+Evel Knievel Desafio em Duas Rodas	dub=0:74758
+Evel Knievel Desafio em Duas Rodas - (2004)	dub=2:1050415
+Evelyn (2019)	dub=2:1271481
+Even Hell Has Its Heroes	leg=0:255021
+Even Hell Has Its Heroes - (2023)	leg=2:1028046
+Everest	dub=0:20984
+Everest - (2015)	dub=2:1045460
+Everest Procurando Michael (2023)	dub=2:1269157
+Evereste	dub=0:316401	leg=0:316402
+Evereste - (2015)	leg=2:1249161
+Every Body	dub=0:251167	leg=0:251168
+Every Body - (2023)	dub=2:1048643	leg=2:1030870
+Every Breath She Takes	dub=0:194200
+Every Breath She Takes - (2023)	dub=2:1049889
+Every Breath You Take	dub=0:136810	leg=0:136770
+Every Breath You Take - (2021)	dub=2:1070091	leg=2:1027403
+Everything's Going to Be Great	dub=0:352704	leg=0:352703
+Everything's Going to Be Great (2025)	leg=2:1265065
+Evidencias De Um Crime	dub=0:101172
+Evidencias De Um Crime - (2007)	dub=2:1069735
+Evidências do Amor - (2024)	dub=2:1038725,2:1023226
+Evidências do Amor 4K	dub=0:263145,0:263020
+Evie	dub=0:339400	leg=0:339399
+Evie - (2023)	dub=2:1057992	leg=2:1023530
+Evil Raizes do mal (2003)	dub=2:1271152
+Evocando Espiritos 1	dub=0:21736
+Evocando Espiritos 1 - (2009)	dub=2:1058841
+Evocando Espiritos 2	dub=0:21737
+Evocando Espiritos 2 - (2013)	dub=2:1044307
+Evolucao de Detroit (2020)	dub=2:1268751
+Evolução	dub=0:134079
+Evolução - (2001)	dub=2:1060934
+Ewoks: A Batalha de Endor	dub=0:358815,0:151996
+Ewoks: A Batalha de Endor - (1985)	dub=2:1049863
+Ex Casados	dub=0:168542	leg=0:168541
+Ex Casados - (2021)	dub=2:1053609	leg=2:1029675
+Ex Machina Instinto Artificial	dub=0:102644
+Ex Machina Instinto Artificial - (2015)	dub=2:1061069
+Ex em Domicilio	dub=0:22554
+Ex em Domicilio - (2017)	dub=2:1055029
+Exame (2009)	dub=2:1271281
+Excalibur	dub=0:133099
+Excalibur - (1981)	dub=2:1249775
+Excellent Cadavers	dub=0:133769
+Excellent Cadavers - (1999)	dub=2:1045740
+Excluídos - (2023)	dub=2:1043651,2:1021952	leg=2:1032878
+Excluídos 4K	dub=0:196745,0:187832	leg=0:187835
+Exhuma	leg=0:278676
+Exhuma (2024)	dub=2:1270278	leg=2:1029248
+Exit	dub=0:161543	leg=0:42503
+Exit - (2019)	dub=2:1047045	leg=2:1035118
+Exit 8	leg=0:366997
+Exit 8 (2025)	dub=2:1262188
+Exit 8 Legendado (2025)	dub=2:1257206
+Exit Elena (2012)	dub=2:1266862
+Exodo Deuses e Reis	dub=0:20985
+Exodo Deuses e Reis - (2014)	dub=2:1056673
+Exodus (2021)	dub=2:1269956
+Exorcismo Sagrado	dub=0:162340,0:162338
+Exorcismo Sagrado - (2022)	dub=2:1039015
+Exorcismos e Demonios	dub=0:21738
+Exorcismos e Demonios - (2017)	dub=2:1070894
+Exorcismus: A Possessão	dub=0:371883	leg=0:371882
+Exorcismus: A Possessão (2010)	dub=2:1268039	leg=2:1268151
+Exorcist Vengeance (2022)	dub=2:1264791
+Exorcistas do Vaticano	dub=0:138885
+Exorcistas do Vaticano - (2015)	dub=2:1044760
+Expandir Jeca e Seu Filho Preto (1978)	dub=2:1266633
+Expedicao Amelia A Busca Pelo Corpo (2019)	dub=2:1269278
+Expedição Amazônia	dub=0:290754	leg=0:290755
+Expedição Amazônia - (2024)	dub=2:1048580	leg=2:1031131
+Expedição China	dub=0:352206	leg=0:352205
+Expedição China (2017)	dub=2:1264892	leg=2:1264908
+Expedição Kon Tiki	dub=0:130242
+Expedição Kon Tiki - (2012)	dub=2:1046033
 Expedição Roosevelt Rondon	dub=0:243866
-Expedição ao Ártico	dub=0:171928,2:1056193	leg=0:171918,2:1024293
+Expedição ao Ártico	dub=0:171928	leg=0:171918
+Expedição ao Ártico - (2021)	dub=2:1056193	leg=2:1024293
 Expedição no Everest	dub=0:305214
-Experimento Arco Iris	dub=0:204458,2:1041234	leg=0:204459,2:1024306
+Experimento Arco Iris	dub=0:204458	leg=0:204459
+Experimento Arco Iris - (2018)	dub=2:1041234	leg=2:1024306
 Experimento Assassino	dub=0:256321
-Experimento Maldito	dub=0:276018,2:1039519	leg=0:276019,2:1026405
-Experimento do Medo	dub=0:204478,2:1058346	leg=0:204479,2:1025087
-Experimentos Macabros	dub=0:161531,2:1059061
-Experiência Alpha	dub=0:188904,2:1060301	leg=0:188917,2:1249354
-Exploited	dub=2:1269835
-Explorando o Desconhecido Robos Assassinos	dub=0:202247,2:1048447	leg=0:202248,2:1036322
-Explorando o Desconhecido: A Maquina do Tempo Cosmica	dub=0:203890,2:1249839	leg=0:203889,2:1030343
-Explorer	dub=0:182637,2:1048775
-Explorer Labirintos Subterraneos	dub=2:1269830
-Explorer: Lago de Fogo	dub=0:223885,0:223884,2:1049502,2:1022293	leg=0:223886,2:1032096
-Explorer: Mistério no Ártico	dub=2:1270774	leg=0:246187,2:1025343
-Explorer: The Last Tepui	dub=0:379104	leg=0:379103,2:1272661
-Explosão no Trem-Bala 4K	dub=0:374335,0:373335,0:319057,2:1272118,2:1037961	leg=0:319058,2:1037209
-Explota Explota	dub=0:121051,2:1053895	leg=0:121055,2:1249414
-Expresso Galático Metrô Via-Lácteo: O Filme	dub=2:1262996	leg=0:380984
-Expresso Galático Metrô Via-Lácteo: O Filme Legendado	dub=2:1261433
-Expresso Transiberiano	dub=0:96021,2:1070952
-Expresso da Morte	dub=0:130224,2:1042503
-Expresso de Natal	dub=0:191130,2:1049945	leg=0:191131,2:1249355
-Expresso do Amanhã	dub=0:63074,2:1060465
-Expresso do Destino	dub=2:1267443
-Expresso para o Inferno	dub=0:113027,2:1057211
-Exterminador: Cavaleiros e Dragões	dub=0:68445,2:1059937
-Exterminadores do Além Contra a Loira do Banheiro	dub=0:73272,0:21434,2:1057638
-Extermínio	dub=0:110841,2:1059771
-Extermínio 2	dub=0:246943,2:1060700
-Extermínio: A Evolução 4K	dub=0:337405,0:337217,2:1038709,2:1037789	leg=0:337207,2:1037495
-Extermínio: O Templo dos Ossos 4K	dub=0:367079,0:366994,2:1267736,2:1257228	leg=0:366993,2:1267627
-Exterritorial 4K	dub=0:321374,0:320080,2:1037646,2:1036694	leg=0:320079,2:1037168
-Extinção 4K	dub=0:190968,0:190967,2:1060344,2:1021682	leg=0:190966,2:1027904
-Extra! Extra!	dub=0:317226,2:1071431	leg=0:317227,2:1025266
-Extraordinario 4K	dub=0:103971,0:103970,2:1068187,2:1023302
+Experimento Maldito	dub=0:276018	leg=0:276019
+Experimento Maldito - (2023)	dub=2:1039519	leg=2:1026405
+Experimento do Medo	dub=0:204478	leg=0:204479
+Experimento do Medo - (2019)	dub=2:1058346	leg=2:1025087
+Experimentos Macabros	dub=0:161531
+Experimentos Macabros - (2020)	dub=2:1059061
+Experiência Alpha	dub=0:188904	leg=0:188917
+Experiência Alpha - (2021)	dub=2:1060301	leg=2:1249354
+Exploited (2022)	dub=2:1269835
+Explorando o Desconhecido Robos Assassinos	dub=0:202247	leg=0:202248
+Explorando o Desconhecido Robos Assassinos - (2023)	dub=2:1048447	leg=2:1036322
+Explorando o Desconhecido: A Maquina do Tempo Cosmica	dub=0:203890	leg=0:203889
+Explorando o Desconhecido: A Maquina do Tempo Cosmica - (2023)	dub=2:1249839	leg=2:1030343
+Explorer	dub=0:182637
+Explorer - (2022)	dub=2:1048775
+Explorer Labirintos Subterraneos (2022)	dub=2:1269830
+Explorer Misterio no Artico (2023)	dub=2:1270774	leg=2:1025343
+Explorer: Lago de Fogo	dub=0:223885,0:223884	leg=0:223886
+Explorer: Lago de Fogo - (2023)	dub=2:1049502,2:1022293	leg=2:1032096
+Explorer: Mistério no Ártico	leg=0:246187
+Explorer: The Last Tepui	dub=0:379104	leg=0:379103
+Explorer: The Last Tepui (2022)	leg=2:1272661
+Explosão no Trem-Bala 4K	dub=0:374335,0:373335,0:319057	leg=0:319058
+Explosão no Trem-Bala 4K (2025)	dub=2:1272118,2:1037961	leg=2:1037209
+Explota Explota	dub=0:121051	leg=0:121055
+Explota Explota - (2020)	dub=2:1053895	leg=2:1249414
+Expresso Galático Metrô Via-Lácteo: O Filme	leg=0:380984
+Expresso Galático Metrô Via-Lácteo: O Filme (2026)	dub=2:1262996
+Expresso Galático Metrô Via-Lácteo: O Filme Legendado (2026)	dub=2:1261433
+Expresso Transiberiano	dub=0:96021
+Expresso Transiberiano - (2008)	dub=2:1070952
+Expresso da Morte	dub=0:130224
+Expresso da Morte - (2010)	dub=2:1042503
+Expresso de Natal	dub=0:191130	leg=0:191131
+Expresso de Natal - (2020)	dub=2:1049945	leg=2:1249355
+Expresso do Amanhã	dub=0:63074
+Expresso do Amanhã - (2013)	dub=2:1060465
+Expresso do Destino (2020)	dub=2:1267443
+Expresso para o Inferno	dub=0:113027
+Expresso para o Inferno - (1985)	dub=2:1057211
+Exterminador: Cavaleiros e Dragões	dub=0:68445
+Exterminador: Cavaleiros e Dragões - (2020)	dub=2:1059937
+Exterminadores do Além Contra a Loira do Banheiro	dub=0:73272,0:21434
+Exterminadores do Além Contra a Loira do Banheiro - (2018)	dub=2:1057638
+Extermínio	dub=0:110841
+Extermínio - (2002)	dub=2:1059771
+Extermínio 2	dub=0:246943
+Extermínio 2 - (2007)	dub=2:1060700
+Extermínio: A Evolução 4K	dub=0:337405,0:337217	leg=0:337207
+Extermínio: A Evolução 4K - (2025)	dub=2:1038709,2:1037789	leg=2:1037495
+Extermínio: O Templo dos Ossos 4K	dub=0:367079,0:366994	leg=0:366993
+Extermínio: O Templo dos Ossos 4K (2026)	dub=2:1267736,2:1257228	leg=2:1267627
+Exterritorial 4K	dub=0:321374,0:320080	leg=0:320079
+Exterritorial 4K - (2025)	dub=2:1037646,2:1036694	leg=2:1037168
+Extinção - (2018)	dub=2:1060344,2:1021682	leg=2:1027904
+Extinção 4K	dub=0:190968,0:190967	leg=0:190966
+Extra! Extra!	dub=0:317226	leg=0:317227
+Extra! Extra! - (1992)	dub=2:1071431	leg=2:1025266
+Extraordinario 4K	dub=0:103971,0:103970
+Extraordinário - (2017)	dub=2:1068187,2:1023302
 Extremely Wicked, Shockingly Evil and Vile Legendado	dub=0:23236
-Extremis	dub=0:370901,2:1267651	leg=0:370900,2:1267688
-Exército de Ladrões: Invasão da Europa	dub=0:136766,2:1047960	leg=0:136774,2:1033564
-Exército do Amanhã	dub=0:181143,2:1059986	leg=0:181149,2:1031276
-Exílio	dub=0:354127,2:1254086	leg=0:354126,2:1265455
-Eye Without a Face	dub=2:1268958
-Eye for an Eye	dub=0:366724	leg=0:366723,2:1267548
+Extremis	dub=0:370901	leg=0:370900
+Extremis (2016)	dub=2:1267651	leg=2:1267688
+Exército de Ladrões: Invasão da Europa	dub=0:136766	leg=0:136774
+Exército de Ladrões: Invasão da Europa - (2021)	dub=2:1047960	leg=2:1033564
+Exército do Amanhã	dub=0:181143	leg=0:181149
+Exército do Amanhã - (2022)	dub=2:1059986	leg=2:1031276
+Exílio	dub=0:354127	leg=0:354126
+Exílio (2025)	dub=2:1254086	leg=2:1265455
+Eye Without a Face (2021)	dub=2:1268958
+Eye for an Eye	dub=0:366724	leg=0:366723
+Eye for an Eye (2025)	leg=2:1267548
 Ezra	leg=0:267955
-É Amor?	dub=0:358135,2:1267365	leg=0:358134,2:1266344
-É Apenas uma Fase, Amor	dub=0:181434,2:1064312	leg=0:181410,2:1033632
-É Assim Que Acaba	dub=0:287010,0:287009,2:1063321,2:1022658	leg=0:287011,2:1031194
-É Como Se Ninguém Me Entendesse	dub=0:212945,2:1041135	leg=0:212946,2:1025878
-É Culpa da Alegria	dub=0:210391,2:1063969	leg=0:210386,2:1031111
-É Doce!	dub=0:104127,2:1038866
-É Hora de Passar o Natal em Casa	dub=0:185254,2:1049523	leg=0:185244,2:1024431
-É Hora de Viajar!	dub=0:320884,2:1061691	leg=0:320885,2:1027916
-É Hora do Show	dub=0:144055,2:1047443
-É Mágica, Charlie Brown	dub=0:323976,2:1050077	leg=0:323975,2:1033672
-É Natal de Novo	dub=0:371658,2:1268000	leg=0:371657,2:1268004
-É Natal de novo, Charlie Brown	dub=0:355717,2:1265732	leg=0:355716,2:1265776
-É Noite na América	dub=0:196292,2:1049253
-É Para o Seu Próprio Bem	dub=0:128871,0:128626,2:1053072
+eHero (2018)	dub=2:1269074	leg=2:1027555
+É Amor?	dub=0:358135	leg=0:358134
+É Apenas uma Fase, Amor	dub=0:181434	leg=0:181410
+É Apenas uma Fase, Amor - (2021)	dub=2:1064312	leg=2:1033632
+É Assim Que Acaba	dub=0:287010,0:287009	leg=0:287011
+É Assim Que Acaba - (2024)	dub=2:1063321,2:1022658	leg=2:1031194
+É Como Se Ninguém Me Entendesse	dub=0:212945	leg=0:212946
+É Como Se Ninguém Me Entendesse - (2017)	dub=2:1041135	leg=2:1025878
+É Culpa da Alegria	dub=0:210391	leg=0:210386
+É Culpa da Alegria - (2019)	dub=2:1063969	leg=2:1031111
+É Doce!	dub=0:104127
+É Doce! - (2019)	dub=2:1038866
+É Hora de Passar o Natal em Casa	dub=0:185254	leg=0:185244
+É Hora de Passar o Natal em Casa - (2021)	dub=2:1049523	leg=2:1024431
+É Hora de Viajar!	dub=0:320884	leg=0:320885
+É Hora de Viajar! - (2013)	dub=2:1061691	leg=2:1027916
+É Hora do Show	dub=0:144055
+É Hora do Show - (2002)	dub=2:1047443
+É Mágica, Charlie Brown	dub=0:323976	leg=0:323975
+É Mágica, Charlie Brown - (1981)	dub=2:1050077	leg=2:1033672
+É Natal de Novo	dub=0:371658	leg=0:371657
+É Natal de Novo (2022)	dub=2:1268000	leg=2:1268004
+É Natal de novo, Charlie Brown	dub=0:355717	leg=0:355716
+É Natal de novo, Charlie Brown (1992)	dub=2:1265732	leg=2:1265776
+É Noite na América	dub=0:196292
+É Noite na América - (2022)	dub=2:1049253
+É Para o Seu Próprio Bem	dub=0:128871,0:128626
+É Para o Seu Próprio Bem - (2020)	dub=2:1053072
 É Preciso Acreditar	dub=0:344524,0:344349	leg=0:344523,0:344348
-É Preciso um Vilarejo…	dub=0:372360,2:1259078	leg=0:372359,2:1268248
-É Proibido Amar	dub=0:133803,2:1070467	leg=0:133802,2:1033439
-É Proibido Fumar	dub=0:378672,2:1271984
-É Quase Verdade	dub=0:373375,2:1259085
-É Rocha e Rio, Negro Leo	dub=0:284521,2:1049318
+É Preciso um Vilarejo…	dub=0:372360	leg=0:372359
+É Preciso um Vilarejo… (2026)	dub=2:1259078	leg=2:1268248
+É Proibido Amar	dub=0:133803	leg=0:133802
+É Proibido Amar - (2021)	dub=2:1070467	leg=2:1033439
+É Proibido Fumar	dub=0:378672
+É Proibido Fumar (2009)	dub=2:1271984
+É Quase Verdade	dub=0:373375
+É Quase Verdade (2026)	dub=2:1259085
+É Rocha e Rio, Negro Leo	dub=0:284521
+É Rocha e Rio, Negro Leo - (2020)	dub=2:1049318
 É Tempo de Amar	dub=0:286353	leg=0:286354
-É Um Valentão, Charlie Brown	dub=0:324023,2:1049935	leg=0:324022,2:1035643
-É de Chuá!	dub=0:341790,2:1071997
-É o Bicho!	dub=0:68443,2:1057154
-É o Dia da Árvore, Charlie Brown	dub=0:324006,2:1049967	leg=0:324005,2:1025771
-É o Fim	dub=0:376777,0:24306,2:1047387
-Éden	dub=0:349755,2:1252109	leg=0:349754,0:344525,2:1036653
-Éden - O Mundo de Eva	dub=0:147446,2:1041142	leg=0:147438,2:1028239
+É Um Valentão, Charlie Brown	dub=0:324023	leg=0:324022
+É Um Valentão, Charlie Brown - (2006)	dub=2:1049935	leg=2:1035643
+É de Chuá!	dub=0:341790
+É de Chuá! - (1958)	dub=2:1071997
+É o Bicho!	dub=0:68443
+É o Bicho! - (2017)	dub=2:1057154
+É o Dia da Árvore, Charlie Brown	dub=0:324006	leg=0:324005
+É o Dia da Árvore, Charlie Brown - (1976)	dub=2:1049967	leg=2:1025771
+É o Fim	dub=0:376777,0:24306
+Éden	dub=0:349755	leg=0:349754,0:344525
+Éden (2025)	dub=2:1252109	leg=2:1036653
+Éden - O Mundo de Eva	dub=0:147446	leg=0:147438
+Éden - O Mundo de Eva - (2020)	dub=2:1041142	leg=2:1028239
