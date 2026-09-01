@@ -505,3 +505,27 @@ fonte: https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1
 canal: Discovery ID
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-id.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Fish TV
+logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
+fonte: https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Box Kids TV
+logo: https://mondrian.claro.com.br/channels/inverse/box-kids.png
+fonte: https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Sabor & Arte
+logo: https://mondrian.claro.com.br/channels/inverse/sabor-arte.png
+fonte: https://cdn-sp2.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: X Sports
+logo: https://mondrian.claro.com.br/channels/inverse/xsports.png
+fonte: https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: N SPORTS
+logo: https://mondrian.claro.com.br/channels/inverse/nsports.png
+fonte: https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Music Box Brazil
+logo: https://mondrian.claro.com.br/channels/inverse/music-box-brazil.png
+fonte: https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7

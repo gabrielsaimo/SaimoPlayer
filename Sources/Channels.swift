@@ -981,6 +981,60 @@ private let catalog: [CatalogEntry] = [
                    userAgent: nil,
                    clearKey: nil),
         ]),
+    CatalogEntry(
+        name: "Fish TV",
+        logo: "https://mondrian.claro.com.br/channels/inverse/fish-tv.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Box Kids TV",
+        logo: "https://mondrian.claro.com.br/channels/inverse/box-kids.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Sabor & Arte",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sabor-arte.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "X Sports",
+        logo: "https://mondrian.claro.com.br/channels/inverse/xsports.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "N SPORTS",
+        logo: "https://mondrian.claro.com.br/channels/inverse/nsports.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Music Box Brazil",
+        logo: "https://mondrian.claro.com.br/channels/inverse/music-box-brazil.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
 ]
 
 /// Line-up that only exists once the viewer types the code.
