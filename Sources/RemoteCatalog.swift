@@ -44,11 +44,11 @@ enum RemoteCatalog {
     static func merge(base: [Channel], published: [Channel]) -> [Channel] {
         let principal = base.isEmpty ? defaultChannels : base
         var extra: [String: Channel] = [:]
-        for channel in published { extra[XMLTVParser.normalise(channel.name)] = channel }
+        for channel in published { extra[chaveDeCanal(channel.name)] = channel }
 
         var used: Set<String> = []
         let merged = principal.map { channel -> Channel in
-            let key = XMLTVParser.normalise(channel.name)
+            let key = chaveDeCanal(channel.name)
             guard let incoming = extra[key] else { return channel }
             used.insert(key)
             let known = Set(channel.variants.map(\.url))
@@ -58,7 +58,30 @@ enum RemoteCatalog {
             copy.variants += novos
             return copy
         }
-        return merged + published.filter { !used.contains(XMLTVParser.normalise($0.name)) }
+        return merged + published.filter { !used.contains(chaveDeCanal($0.name)) }
+    }
+
+    /// Nome reduzido ao que identifica o canal, para casar as duas listas.
+    ///
+    /// As duas fontes escrevem o mesmo canal de jeitos diferentes: "Cinemax" e
+    /// "Cinemax HD", "SporTV 2" e "SPORTV2". Casando só pelo nome normalizado
+    /// do EPG, esses pares não se encontravam e o canal aparecia duas vezes na
+    /// lista. Aqui a marca de qualidade sai e o número gruda separado da
+    /// palavra, que é o bastante para os dois lados chegarem na mesma chave.
+    ///
+    /// Fica separado do `XMLTVParser.normalise` de propósito: aquele casa nome
+    /// de canal com programação, onde "HD" às vezes é o que distingue duas
+    /// grades diferentes.
+    static func chaveDeCanal(_ nome: String) -> String {
+        var texto = XMLTVParser.normalise(nome)
+        texto = texto.replacingOccurrences(
+            of: #"\b(hd|sd|fhd|uhd|4k|hq)\b"#, with: " ", options: .regularExpression)
+        texto = texto.replacingOccurrences(
+            of: #"([a-z])(\d)"#, with: "$1 $2", options: .regularExpression)
+        texto = texto.replacingOccurrences(
+            of: #"(\d)([a-z])"#, with: "$1 $2", options: .regularExpression)
+        return texto.replacingOccurrences(of: #"\s+"#, with: " ", options: .regularExpression)
+            .trimmingCharacters(in: .whitespaces)
     }
 
     /// Downloads the published list. Returns nil when it cannot be read, so the

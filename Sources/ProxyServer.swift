@@ -490,13 +490,38 @@ final class ProxyServer {
                 out.append(line)
             } else if trimmed.hasPrefix("#") {
                 out.append(rewriteURIAttribute(in: line, base: base, channelID: channelID))
-            } else if let abs = URL(string: trimmed, relativeTo: base)?.absoluteURL {
+            } else if let abs = URL(string: trimmed, relativeTo: baseDosSegmentos(base))?.absoluteURL {
                 out.append(proxyURL(for: abs, channelID: channelID))
             } else {
                 out.append(line)
             }
         }
         return prioritiseHighestVariant(out).joined(separator: "\n")
+    }
+
+    /// De onde os segmentos relativos desta playlist realmente saem.
+    ///
+    /// Há CDN que serve a playlist num endereço e os segmentos noutro: o pedido
+    /// vai para `/tos-.../proxy.m3u8?...&url=https://origem/docs/canal/x.m3u8`,
+    /// mas dentro da lista vem só o nome do arquivo, e resolvê-lo ao lado da
+    /// playlist devolve a própria playlist de novo — o player roda em círculo e
+    /// nunca mostra imagem. O caminho certo está no parâmetro `url`: é a pasta
+    /// dele, no host que respondeu, que guarda os segmentos.
+    ///
+    /// Sem esse parâmetro nada muda, e a playlist continua sendo a base — que é
+    /// o que a norma manda e o que todos os outros canais precisam.
+    private func baseDosSegmentos(_ playlist: URL) -> URL {
+        guard let partes = URLComponents(url: playlist, resolvingAgainstBaseURL: false),
+              let origem = partes.queryItems?.first(where: { $0.name == "url" })?.value,
+              let caminho = URLComponents(string: origem)?.path,
+              caminho.contains("/"),
+              var destino = URLComponents(url: playlist, resolvingAgainstBaseURL: false)
+        else { return playlist }
+
+        destino.path = (caminho as NSString).deletingLastPathComponent + "/"
+        destino.query = nil
+        destino.fragment = nil
+        return destino.url ?? playlist
     }
 
     /// Puts the highest-bandwidth variant first in a master playlist.
