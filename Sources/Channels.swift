@@ -438,10 +438,6 @@ private let catalog: [CatalogEntry] = [
         name: "Gloob",
         logo: "https://cdn.reidoscanais.st/imagens/gloob.png",
         sources: [
-            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoon/__index.m3u8?sv=55&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788281416-bi%2FqmCP0JXVL7CPg8KO17uAbSSaC2aBFhcigfk1vQcU%3D",
-                   referer: nil,
-                   userAgent: nil,
-                   clearKey: nil),
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/gloob/__index.m3u8?sv=44&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788282571-gk4cH1WiXG%2FLaG9A7Y0ZtxiJq8hUvnG0E2JylBENtHw%3D",
                    referer: nil,
                    userAgent: nil,

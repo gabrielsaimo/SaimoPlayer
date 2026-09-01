@@ -320,7 +320,7 @@ final class EPGService: ObservableObject {
     private var cachedSignature: String?
 
     private static func signature(of channels: [Channel]) -> String {
-        channels.map(\.id.uuidString).sorted().joined(separator: ",")
+        "v2:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
     }
 
     private func readCache() -> [UUID: [Programme]]? {
@@ -360,6 +360,7 @@ final class EPGService: ObservableObject {
 enum XMLTVParser {
     /// Display names in the feed that differ from ours.
     static let aliases: [String: String] = [
+        "adult swim": "trutv",
         "history": "history channel",
         "sony channel": "sony",
         "sportv 2": "sportv2",
