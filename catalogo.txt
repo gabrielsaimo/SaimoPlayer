@@ -166,9 +166,7 @@ chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
 canal: SBT
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
-fonte: https://aovivo.maissbt.com/indexMobile.m3u8
-referer: https://mais.sbt.com.br/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+fonte: https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: SBT News
 logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
@@ -223,10 +221,7 @@ chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
 canal: Warner
 logo: https://mondrian.claro.com.br/channels/inverse/warner-channel.png
-fonte: https://video45.mais.uol.com.br/live/277.mpd
-referer: https://painel.play.uol.com.br/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-chave: ff12e06c66327cd35b99013b38dd4f84:08320e9a44185e55074ac435d8c9a856
+fonte: https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: IMPD
 fonte: https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1464410885_b2691072.m3u8
@@ -262,16 +257,19 @@ fonte: https://xn--l---------------------------_________________________-2w85c.n
 
 canal: HBO Plus
 logo: https://mondrian.claro.com.br/channels/inverse/hboplus.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboplus/__index.m3u8?sv=21&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792726-KQmSGCAyZyUy1umOzA2nw%2FQO6Fc%2F1HLZTGIBBUSf7x4%3D
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
 canal: HBO Pop
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-pop.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbopop/__index.m3u8?sv=184&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792797-vFVR9HJei0AJ1XncxfiSBXWqecgVajCY7kDtx8DlYKE%3D
 canal: HBO Signature
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hbosignature/__index.m3u8?sv=137&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792847-gKuBecM2dgXOdarnYlV6N1p3n3h5Hwy%2FVOWSK9Ehk6s%3D
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
 canal: HBO Xtreme
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hboxtreme/__index.m3u8?sv=115&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792909-dvan3YZAo5p5M8Wu514eJ8dDMo7wzKsJo4MasYCNtYk%3D
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
 canal: HGTV
 logo: https://mondrian.claro.com.br/channels/inverse/hgtv.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/hgtv/__index.m3u8?sv=110&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787792996-HY%2FoZh3zHW%2BSz49EWOXZcgCnmpBuHFUXxm39Te5AY%2FU%3D
@@ -338,3 +336,27 @@ fonte: https://xn--l---------------------------_________________________-2w85c.n
 canal: Cinemax
 logo: https://mondrian.claro.com.br/channels/inverse/cinemax.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/cinemax/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787869342-xmr2kkXjj4dR6Tr%2BosRjb4q91QedQVIqxZ2Cqa4BhUE%3D
+
+canal: HBO
+logo: https://mondrian.claro.com.br/channels/inverse/hbo.png
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Adult Swim
+logo: https://mondrian.claro.com.br/channels/inverse/adult-swim.png
+fonte: https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/720p_000093558.ts?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: HBO2
+logo: https://mondrian.claro.com.br/channels/inverse/hbo2.png
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: HBO Family
+logo: https://mondrian.claro.com.br/channels/inverse/hbo-family.png
+fonte: https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Globo
+logo: https://mondrian.claro.com.br/channels/inverse/globo.png
+fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Tooncast
+logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
+fonte: https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
