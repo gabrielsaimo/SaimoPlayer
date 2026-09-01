@@ -1,455 +1,779 @@
-H2: Halloween 2	dub=0:377229,0:21743,2:1059038	leg=0:377228,2:1268325
-HAIKYU!! The Dumpster Battle	dub=0:292417,2:1061677	leg=0:292418,2:1030977
-HELL DOGS	dub=2:1270806
-HIT: O Terceiro Caso	dub=2:1267541	leg=0:357623
-HIT: O Terceiro Caso Legendado	dub=2:1254712
+H2: Halloween 2	dub=0:377229,0:21743	leg=0:377228
+H2: Halloween 2 (2009)	dub=2:1059038	leg=2:1268325
+HAIKYU!! The Dumpster Battle	dub=0:292417	leg=0:292418
+HAIKYU!! The Dumpster Battle - (2024)	dub=2:1061677	leg=2:1030977
+HELL DOGS (2022)	dub=2:1270806
+HIT O Terceiro Caso (2025)	dub=2:1267541
+HIT: O Terceiro Caso	leg=0:357623
+HIT: O Terceiro Caso Legendado (2025)	dub=2:1254712
 HIV A Pandemia Negligenciada	dub=0:195151	leg=0:195150
-HOMECOMING A film by Beyonce	dub=2:1269275
-Habit	dub=2:1271555
-Hachiko: Para Sempre	dub=0:300646,2:1067779	leg=0:300647,2:1035239
-Hacker	dub=0:102480,2:1047720
+HOMECOMING A film by Beyonce (2019)	dub=2:1269275
+Habit (2021)	dub=2:1271555
+Hachiko: Para Sempre	dub=0:300646	leg=0:300647
+Hachiko: Para Sempre - (2023)	dub=2:1067779	leg=2:1035239
+Hacker	dub=0:102480
+Hacker - (2015)	dub=2:1047720
 Hacker - Privacidade Violada	dub=0:299196	leg=0:299197
-Hacker: Todo Crime Tem Um Início	dub=0:379106,2:1265967	leg=0:379105,2:1272611
-Hackers - Piratas de Computador	dub=0:355728,0:21618,2:1051412	leg=0:355727,2:1265741
-Hackers no Controle	dub=0:178791,2:1047035	leg=0:178856,2:1023616
-Hagen	dub=2:1266757
-Haikyuu!! Movie: Owari to Hajimari	leg=0:281483,2:1026188
-Hail Satan	leg=0:114406,2:1025912
-Hair	dub=2:1268590
-Hairspray: Em Busca da Fama	dub=0:376317,0:104412,2:1065247
-Hala 4K	dub=0:367698,0:40617,0:40593,0:31596,2:1040508,2:1000490
-Hallelujah: Leonard Cohen, Uma Jornada, Uma canção	dub=0:252169,2:1071417	leg=0:252170,2:1035496
-Hallow Road	leg=0:340243,2:1038397
-Hallow Road: Caminho Sem Volta	dub=0:367411,2:1257217	leg=0:367410,0:350964
-Halloween - A Lenda De Jack	dub=2:1268983
-Halloween - A Noite do Terror	dub=0:133073,0:21438,2:1057901
-Halloween - O Espantalho Assassino	dub=0:375703,2:1259741	leg=0:375702,2:1272339
-Halloween 1	dub=0:21744,2:1072542
-Halloween 2	dub=0:21745,2:1039885
-Halloween 3	dub=0:21746,2:1061038
-Halloween 4	dub=0:21747,2:1058866
-Halloween 4K	dub=0:21483,2:1267457,2:1023192
-Halloween 5	dub=0:21748,2:1043538
-Halloween 6	dub=0:21749,2:1058979
-Halloween 7	dub=0:21750,2:1059171
+Hacker: Todo Crime Tem Um Início	dub=0:379106	leg=0:379105
+Hacker: Todo Crime Tem Um Início (2016)	dub=2:1265967	leg=2:1272611
+Hackers - Piratas de Computador	dub=0:355728,0:21618	leg=0:355727
+Hackers - Piratas de Computador (1995)	dub=2:1051412	leg=2:1265741
+Hackers no Controle	dub=0:178791	leg=0:178856
+Hackers no Controle - (2022)	dub=2:1047035	leg=2:1023616
+Hagen (2024)	dub=2:1266757
+Haikyuu!! Movie: Owari to Hajimari	leg=0:281483
+Haikyuu!! Movie: Owari to Hajimari - (2015)	leg=2:1026188
+Hail Satan	leg=0:114406
+Hail Satan - (2019)	leg=2:1025912
+Hair (1979)	dub=2:1268590
+Hairspray Em Busca da Fama - (2007)	dub=2:1065247
+Hairspray: Em Busca da Fama	dub=0:376317,0:104412
+Hala - (2019)	dub=2:1040508,2:1000490
+Hala 4K	dub=0:367698,0:40617,0:40593,0:31596
+Hallelujah: Leonard Cohen, Uma Jornada, Uma canção	dub=0:252169	leg=0:252170
+Hallelujah: Leonard Cohen, Uma Jornada, Uma canção - (2022)	dub=2:1071417	leg=2:1035496
+Hallow Road	leg=0:340243
+Hallow Road - (2025)	leg=2:1038397
+Hallow Road: Caminho Sem Volta	dub=0:367411	leg=0:367410,0:350964
+Hallow Road: Caminho Sem Volta (2025)	dub=2:1257217
+Halloween (2018)	dub=2:1267457,2:1023192
+Halloween - A Lenda De Jack (2018)	dub=2:1268983
+Halloween - A Noite do Terror	dub=0:133073,0:21438
+Halloween - A Noite do Terror - (1978)	dub=2:1057901
+Halloween - O Espantalho Assassino	dub=0:375703	leg=0:375702
+Halloween - O Espantalho Assassino (2025)	dub=2:1259741	leg=2:1272339
+Halloween 1	dub=0:21744
+Halloween 1 - (2013)	dub=2:1072542
+Halloween 2	dub=0:21745
+Halloween 2 - (2018)	dub=2:1039885
+Halloween 3	dub=0:21746
+Halloween 3 - (1982)	dub=2:1061038
+Halloween 4	dub=0:21747
+Halloween 4 - (1988)	dub=2:1058866
+Halloween 4K	dub=0:21483
+Halloween 5	dub=0:21748
+Halloween 5 - (1989)	dub=2:1043538
+Halloween 6	dub=0:21749
+Halloween 6 - (1995)	dub=2:1058979
+Halloween 7	dub=0:21750
+Halloween 7 - (1998)	dub=2:1059171
 Halloween 8	dub=0:21751
-Halloween Ends	dub=0:180596,0:180594,2:1057523,2:1000510	leg=0:177222,2:1030545
-Halloween II: O Pesadelo Continua	dub=0:285811,2:1058719
-Halloween Kills: O Terror Continua 4K	dub=0:147462,0:146812,2:1043143,2:1022589	leg=0:140799,2:1034092
-Halloween Macabro	dub=2:1270568
-Halloween Party	dub=2:1270747
-Halloween: O Início	dub=0:377231,0:21752,2:1057657	leg=0:377230,2:1268274
-Halloween: Ressurreição	dub=0:286473,2:1058916
-Halloweentown 2: A Vingança de Kalabar	dub=0:376319,2:1266263	leg=0:376318,2:1267311
-Hamburger Hill	dub=0:379108,0:94725,2:1066815	leg=0:379107,2:1272558
-Hamilton	leg=0:62558,2:1030803
-Hamnet: A Vida Antes de Hamlet	dub=0:367000,0:366998,2:1267630,2:1257214	leg=0:366999,0:365650,2:1265031
-Hampstead: Nunca é Tarde para Amar	dub=0:94726,2:1065627
-Han Solo - Uma Historia Star Wars 4K	dub=0:21484,0:21301,2:1056554,2:1021773
+Halloween Ends	dub=0:180596,0:180594	leg=0:177222
+Halloween Ends - (2022)	dub=2:1057523,2:1000510	leg=2:1030545
+Halloween II: O Pesadelo Continua	dub=0:285811
+Halloween II: O Pesadelo Continua - (1981)	dub=2:1058719
+Halloween Kills: O Terror Continua - (2021)	dub=2:1043143,2:1022589	leg=2:1034092
+Halloween Kills: O Terror Continua 4K	dub=0:147462,0:146812	leg=0:140799
+Halloween Macabro (2015)	dub=2:1270568
+Halloween Party (2020)	dub=2:1270747
+Halloween: O Início	dub=0:377231,0:21752	leg=0:377230
+Halloween: O Início (2007)	dub=2:1057657	leg=2:1268274
+Halloween: Ressurreição	dub=0:286473
+Halloween: Ressurreição - (2002)	dub=2:1058916
+Halloweentown 2: A Vingança de Kalabar	dub=0:376319	leg=0:376318
+Halloweentown 2: A Vingança de Kalabar (2001)	dub=2:1266263	leg=2:1267311
+Hamburger Hill	dub=0:379108,0:94725	leg=0:379107
+Hamburger Hill (1987)	dub=2:1066815	leg=2:1272558
+Hamilton	leg=0:62558
+Hamilton - (2025)	leg=2:1030803
+Hamnet: A Vida Antes de Hamlet	dub=0:367000,0:366998	leg=0:366999,0:365650
+Hamnet: A Vida Antes de Hamlet 4K (2025)	dub=2:1267630,2:1257214	leg=2:1265031
+Hampstead: Nunca é Tarde para Amar	dub=0:94726
+Hampstead: Nunca é Tarde para Amar - (2017)	dub=2:1065627
+Han Solo - Uma Historia Star Wars 4K	dub=0:21484,0:21301
+Han Solo Uma Historia Star Wars - (2018)	dub=2:1056554,2:1021773
 Hanami	leg=0:373789
-Hanami Legendado	dub=2:1259636
-Hancock	dub=0:314675,0:45095,2:1039375	leg=0:314676,2:1023986
-Handling The Undead	leg=0:266651,2:1028970
-Handsome: Um Filme de Mistério Netflix	dub=0:378049,2:1271118	leg=0:378048,2:1268938
-Hanna	dub=0:317050,0:133779,2:1056671
+Hanami Legendado (2025)	dub=2:1259636
+Hancock	dub=0:314675,0:45095	leg=0:314676
+Hancock - (2008)	dub=2:1039375	leg=2:1023986
+Handling The Undead	leg=0:266651
+Handling The Undead - (2024)	leg=2:1028970
+Handsome Um Filme de Misterio Netflix (2017)	dub=2:1271118	leg=2:1268938
+Handsome: Um Filme de Mistério Netflix	dub=0:378049	leg=0:378048
+Hanna	dub=0:317050,0:133779
+Hanna - (2011)	dub=2:1056671
 Hannah Montana: Especial de 20° Aniversário	leg=0:371103
-Hannah Montana: Especial de 20° Aniversário Legendado	dub=2:1258689
-Hannah Montana: O Filme	dub=0:130211,2:1072395
-Hannah Waddingham Em Casa Para o Natal	dub=2:1270538	leg=2:1273053
-Hannah e Suas Irmãs	dub=0:363877,2:1267152	leg=0:363876,2:1267158
-Hannibal	dub=0:104413,2:1052190
-Hannibal - A Origem do Mal	dub=0:108311,2:1052372
-Hannibal Hopkins Sir Anthony	dub=2:1270150
+Hannah Montana: Especial de 20° Aniversário Legendado (2026)	dub=2:1258689
+Hannah Montana: O Filme	dub=0:130211
+Hannah Montana: O Filme - (2009)	dub=2:1072395
+Hannah Waddingham Em Casa Para o Natal (2023)	dub=2:1270538	leg=2:1273053
+Hannah e Suas Irmãs	dub=0:363877	leg=0:363876
+Hannah e Suas Irmãs (1986)	dub=2:1267152	leg=2:1267158
+Hannibal	dub=0:104413
+Hannibal - (2001)	dub=2:1052190
+Hannibal - A Origem do Mal	dub=0:108311
+Hannibal - A Origem do Mal - (2007)	dub=2:1052372
+Hannibal Hopkins Sir Anthony (2021)	dub=2:1270150
 Hans Zimmer Ao Vivo em Praga	dub=0:31421
-Hans Zimmer: Live in Prague	dub=2:1271577
-Happiest Season	leg=0:89004,2:1030476
-Happily	leg=0:99894,2:1027332
-Happy Feet - O Pinguim	dub=0:110816,2:1062513
-Happy Feet 2 - O Pinguim	dub=0:110817,2:1062547
-Happy Hour - Verdades e Consequências	dub=0:26387,2:1054982
+Hans Zimmer: Live in Prague (2017)	dub=2:1271577
+Happiest Season	leg=0:89004
+Happiest Season - (2020)	leg=2:1030476
+Happily	leg=0:99894
+Happily - (2021)	leg=2:1027332
+Happy Feet - O Pinguim	dub=0:110816
+Happy Feet - O Pinguim - (2006)	dub=2:1062513
+Happy Feet 2 - O Pinguim	dub=0:110817
+Happy Feet 2 - O Pinguim - (2011)	dub=2:1062547
+Happy Hour - Verdades e Consequências	dub=0:26387
+Happy Hour - Verdades e Consequências - (2018)	dub=2:1054982
 Happy Patel Khatarnak Jasoos	leg=0:374337
-Happy Patel: Khatarnak Jasoos Legendado	dub=2:1259637
+Happy Patel: Khatarnak Jasoos Legendado (2026)	dub=2:1259637
 Haq	leg=0:359295
-Haq Legendado	dub=2:1255523
-Hard Kill	leg=0:69603,2:1030698
-Hard Truths	dub=2:1266028
-Hardball - O Jogo da Vida	dub=0:134078,0:26869,2:1042082
-Hardcore: Missão Extrema	dub=0:333437,2:1056277	leg=0:333436,2:1028383
-Hardcore: No Submundo do Sexo	dub=0:369407,2:1272478	leg=0:369406,2:1272414
-Harley Davidson e Marlboro Man - Cacada Sem Treguas	dub=2:1267248
-Harmonia Silenciosa	dub=0:223100,2:1040585	leg=0:223103,2:1025740
-Harmony From The Heart	dub=2:1267626
-Harold	dub=0:316404,2:1054235	leg=0:316405,2:1028640
-Harold e o Lápis Mágico	dub=0:285147,0:285146,2:1039409,2:1021818	leg=0:285148,2:1025888
-Harpia: Presença Maligna	dub=0:363619,2:1267103	leg=0:363618,2:1267100
-Harriet	dub=0:46162,2:1045435	leg=0:33982,2:1026559
-Harry & Sally: Feitos um para o Outro	dub=2:1269337
-Harry Brown	dub=0:104722,2:1046256
-Harry Potter Uma Historia Magica	dub=2:1268455
-Harry Potter e a Câmara Secreta	dub=0:82524,2:1055640	leg=0:252733,2:1249312
-Harry Potter e a Ordem da Fênix	dub=0:82536,2:1038733
-Harry Potter e a Pedra Filosofal	dub=0:82520,2:1039349	leg=0:252734,2:1026058
-Harry Potter e as Relíquias da Morte - Parte 1	dub=0:82544,2:1055761
-Harry Potter e as Relíquias da Morte - Parte 2	dub=0:82548,2:1040410
-Harry Potter e o Cálice de Fogo	dub=0:82532,2:1040418	leg=0:252735,2:1030774
-Harry Potter e o Enigma do Príncipe	dub=0:82540,2:1038730
-Harry Potter e o Prisioneiro de Azkaban	dub=0:82528,2:1055862
-Harry e Meghan: Escapando do Palacio	dub=2:1268678
-Harry: O Príncipe que Sobrou	dub=0:194861,2:1048823
-Haruki Murakami de Underground 1Q84	dub=2:1271338
-Haruki Murakami, de "Underground" à "1Q84", l’attentat de la secte Aum	leg=0:328096,2:1031646
-Hasan Minhaj: Off With His Head	dub=2:1267975	leg=0:295702,2:1033976
-Hate to Love: Nickelback	dub=2:1271883	leg=0:264115,2:1035608
-HauntedWeen	dub=2:1273251
-Hauntology	dub=2:1270301
-Havana Darkness	leg=0:64382,2:1249079
+Haq Legendado (2025)	dub=2:1255523
+Hard Kill	leg=0:69603
+Hard Kill - (2020)	leg=2:1030698
+Hard Truths (2024)	dub=2:1266028
+Hardball - O Jogo da Vida	dub=0:134078,0:26869
+Hardball - O Jogo da Vida - (2001)	dub=2:1042082
+Hardcore: Missão Extrema	dub=0:333437	leg=0:333436
+Hardcore: Missão Extrema - (2015)	dub=2:1056277	leg=2:1028383
+Hardcore: No Submundo do Sexo	dub=0:369407	leg=0:369406
+Hardcore: No Submundo do Sexo (1979)	dub=2:1272478	leg=2:1272414
+Harley Davidson e Marlboro Man - Cacada Sem Treguas (1991)	dub=2:1267248
+Harmonia Silenciosa	dub=0:223100	leg=0:223103
+Harmonia Silenciosa - (2020)	dub=2:1040585	leg=2:1025740
+Harmony From The Heart (2022)	dub=2:1267626
+Harold	dub=0:316404	leg=0:316405
+Harold - (2008)	dub=2:1054235	leg=2:1028640
+Harold e o Lápis Mágico	dub=0:285147,0:285146	leg=0:285148
+Harold e o Lápis Mágico - (2024)	dub=2:1039409,2:1021818	leg=2:1025888
+Harpia: Presença Maligna	dub=0:363619	leg=0:363618
+Harpia: Presença Maligna (2025)	dub=2:1267103	leg=2:1267100
+Harriet	dub=0:46162	leg=0:33982
+Harriet - (2019)	dub=2:1045435	leg=2:1026559
+Harry & Sally: Feitos um para o Outro (1989)	dub=2:1269337
+Harry Brown	dub=0:104722
+Harry Brown - (2009)	dub=2:1046256
+Harry Potter Uma Historia Magica (2017)	dub=2:1268455
+Harry Potter e a Câmara Secreta	dub=0:82524	leg=0:252733
+Harry Potter e a Câmara Secreta - (2002)	dub=2:1055640	leg=2:1249312
+Harry Potter e a Ordem da Fênix	dub=0:82536
+Harry Potter e a Ordem da Fênix - (2007)	dub=2:1038733
+Harry Potter e a Pedra Filosofal	dub=0:82520	leg=0:252734
+Harry Potter e a Pedra Filosofal - (2001)	dub=2:1039349	leg=2:1026058
+Harry Potter e as Relíquias da Morte - Parte 1	dub=0:82544
+Harry Potter e as Relíquias da Morte - Parte 1 - (2010)	dub=2:1055761
+Harry Potter e as Relíquias da Morte - Parte 2	dub=0:82548
+Harry Potter e as Relíquias da Morte - Parte 2 - (2011)	dub=2:1040410
+Harry Potter e o Cálice de Fogo	dub=0:82532	leg=0:252735
+Harry Potter e o Cálice de Fogo - (2005)	dub=2:1040418	leg=2:1030774
+Harry Potter e o Enigma do Príncipe	dub=0:82540
+Harry Potter e o Enigma do Príncipe - (2009)	dub=2:1038730
+Harry Potter e o Prisioneiro de Azkaban	dub=0:82528
+Harry Potter e o Prisioneiro de Azkaban - (2004)	dub=2:1055862
+Harry e Meghan: Escapando do Palacio (2021)	dub=2:1268678
+Harry: O Príncipe que Sobrou	dub=0:194861
+Harry: O Príncipe que Sobrou - (2023)	dub=2:1048823
+Haruki Murakami de Underground 1Q84 (2025)	dub=2:1271338
+Haruki Murakami, de "Underground" à "1Q84", l’attentat de la secte Aum	leg=0:328096
+Haruki Murakami, de Underground à 1Q84, l’attentat de la secte Aum - (2024)	leg=2:1031646
+Hasan Minhaj Off With His Head (2024)	dub=2:1267975	leg=2:1033976
+Hasan Minhaj: Off With His Head	leg=0:295702
+Hate to Love Nickelback (2024)	dub=2:1271883	leg=2:1035608
+Hate to Love: Nickelback	leg=0:264115
+HauntedWeen (1991)	dub=2:1273251
+Hauntology (2024)	dub=2:1270301
+Havana Darkness	leg=0:64382
+Havana Darkness - (2019)	leg=2:1249079
 Havaí: Terra Dos Vulcões	dub=0:31785
-Have You Ever Seen Fireflies	leg=0:101410,2:1034936
-Have You Seen Andy?	dub=0:138871,2:1049231
-Haw	dub=0:194184,2:1040715
-Hawa	dub=0:181414,2:1053549	leg=0:181412,2:1027991
-Hawking: Can You Hear Me?	dub=2:1266075
-Hayao Miyazaki e a Garca	dub=2:1269105
-Hazard	dub=2:1268753	leg=0:353473
-Hazard Legendado	dub=2:1253832
-He Went That Way	dub=0:259005,2:1043444	leg=0:259006,0:246193,2:1028729
-He-Man E She-Ra - O Segredo da Espada Magica -1985	dub=2:1266414
-Headhunters	dub=2:1270743
-Heart Eyes 4K	dub=0:341311,0:324694,2:1037525,2:1036664	leg=0:324693,2:1037386
-Heart of the Home	dub=2:1271221
-Heartstopper Para Sempre	dub=2:1272978
-Heathers The Musical	dub=2:1269486
-Heavier Trip	dub=2:1269936
-Heavy Armor 4 Monster Attack	dub=0:194210,2:1061320
-Heavy Metal do Horror / O Rock do Dia das Bruxas	dub=0:311131,2:1072427
-Hebe: A Estrela do Brasil	dub=0:32252,2:1045907
-Hector	dub=0:139256,2:1268695,2:1052210
-Hector e a Procura da Felicidade	dub=0:352404,2:1264965	leg=0:352403,2:1264977
-Hedda	dub=0:350372,2:1252821	leg=0:350371,2:1268861
-Heel	dub=2:1291016	leg=0:370711
-Heidi	dub=0:286866,2:1067956
-Heks	dub=2:1264760
-Heleno	dub=0:114383,2:1045241
-Hell	dub=0:108287,2:1044856
-Hell Girl Legendado	dub=0:28868,2:1057819
-Hell Hath No Fury	dub=2:1271570
-Hell House - A Origem	dub=0:358055	leg=0:358054,2:1266192
-Hell House LLC III: Lake of Fire	dub=2:1267946
-Hell House LLC Origins The Carmichael Manor	dub=2:1270807
-Hellbender	dub=2:1267949
+Have You Ever Seen Fireflies	leg=0:101410
+Have You Ever Seen Fireflies - (2021)	leg=2:1034936
+Have You Seen Andy?	dub=0:138871
+Have You Seen Andy? - (2003)	dub=2:1049231
+Haw	dub=0:194184
+Haw - (2022)	dub=2:1040715
+Hawa	dub=0:181414	leg=0:181412
+Hawa - (2022)	dub=2:1053549	leg=2:1027991
+Hawking: Can You Hear Me? (2021)	dub=2:1266075
+Hayao Miyazaki e a Garca (2024)	dub=2:1269105
+Hazard	leg=0:353473
+Hazard (2024)	dub=2:1268753
+Hazard Legendado (2025)	dub=2:1253832
+He Went That Way	dub=0:259005	leg=0:259006,0:246193
+He Went That Way - (2024)	dub=2:1043444	leg=2:1028729
+He-Man E She-Ra - O Segredo da Espada Magica - (1985)	dub=2:1266414
+Headhunters (2011)	dub=2:1270743
+Heart Eyes - (2025)	dub=2:1037525,2:1036664	leg=2:1037386
+Heart Eyes 4K	dub=0:341311,0:324694	leg=0:324693
+Heart of the Home (2021)	dub=2:1271221
+Heartstopper Para Sempre (2026)	dub=2:1272978
+Heathers The Musical (2023)	dub=2:1269486
+Heavier Trip (2024)	dub=2:1269936
+Heavy Armor 4 Monster Attack	dub=0:194210
+Heavy Armor 4 Monster Attack - (2022)	dub=2:1061320
+Heavy Metal do Horror / O Rock do Dia das Bruxas	dub=0:311131
+Heavy Metal do Horror / O Rock do Dia das Bruxas - (1986)	dub=2:1072427
+Hebe: A Estrela do Brasil	dub=0:32252
+Hebe: A Estrela do Brasil - (2019)	dub=2:1045907
+Hector	dub=0:139256
+Hector (2018)	dub=2:1268695
+Hector - (2016)	dub=2:1052210
+Hector e a Procura da Felicidade	dub=0:352404	leg=0:352403
+Hector e a Procura da Felicidade (2014)	dub=2:1264965	leg=2:1264977
+Hedda	dub=0:350372	leg=0:350371
+Hedda (2025)	dub=2:1252821	leg=2:1268861
+Heel	leg=0:370711
+Heel (2026)	dub=2:1291016
+Heidi	dub=0:286866
+Heidi - (2015)	dub=2:1067956
+Heks (2020)	dub=2:1264760
+Heleno	dub=0:114383
+Heleno - (2011)	dub=2:1045241
+Hell	dub=0:108287
+Hell - (2003)	dub=2:1044856
+Hell Girl Legendado	dub=0:28868
+Hell Girl Legendado - (2019)	dub=2:1057819
+Hell Hath No Fury (2021)	dub=2:1271570
+Hell House - A Origem	dub=0:358055	leg=0:358054
+Hell House - A Origem (2023)	leg=2:1266192
+Hell House LLC III: Lake of Fire (2019)	dub=2:1267946
+Hell House LLC Origins The Carmichael Manor (2023)	dub=2:1270807
+Hellbender (2021)	dub=2:1267949
 Hellblazers - O Inferno na Terra	dub=0:267751	leg=0:267752
-Hellboy 1 - Espadas da Tempestade	dub=2:1266623
-Hellboy 2	dub=0:21302,2:1040059
-Hellboy 4K	dub=0:28604,0:28287,0:21303,2:1267903,2:1039088,2:1022017
-Hellboy Legendado	dub=0:25487,2:1039012
-Hellboy e o Homem Torto	dub=0:291899,0:291898,2:1039354,2:1022062	leg=0:291900,0:291255,2:1249073
-Hellboy: A Espada das Tempestades	dub=0:377834	leg=0:377833,2:1268333
-Hellboy: Sangue e Ferro	dub=0:378050,2:1266045
-Helldose	dub=0:256335,2:1058784
-Hellfire	leg=0:373790,2:1272156
-Hellion	dub=0:328235,2:1043696	leg=0:328234,2:1035801
-Hello Ghost	dub=2:1270357	leg=0:246194,2:1249420
-Hello Kitty e Amigos: Vamos Aprender	dub=0:230148,2:1067386
-Hello Kitty e Amigos: Vamos Brincar	dub=0:230147,2:1067106
-Hello Kitty e amigos: Nossa Casa	dub=0:230134,2:1063051
+Hellboy (2004)	dub=0:21303,2:1039088
+Hellboy (2019)	dub=2:1267903,2:1022017
+Hellboy 1 - Espadas da Tempestade (2006)	dub=2:1266623
+Hellboy 2	dub=0:21302
+Hellboy 2 - (2008)	dub=2:1040059
+Hellboy 4K	dub=0:28604,0:28287
+Hellboy Legendado	dub=0:25487
+Hellboy Legendado - (2019)	dub=2:1039012
+Hellboy e o Homem Torto	dub=0:291899,0:291898	leg=0:291900,0:291255
+Hellboy e o Homem Torto - (2024)	dub=2:1039354,2:1022062	leg=2:1249073
+Hellboy: A Espada das Tempestades	dub=0:377834	leg=0:377833
+Hellboy: A Espada das Tempestades (2006)	leg=2:1268333
+Hellboy: Sangue e Ferro	dub=0:378050
+Hellboy: Sangue e Ferro (2007)	dub=2:1266045
+Helldose	dub=0:256335
+Helldose - (2021)	dub=2:1058784
+Hellfire	leg=0:373790
+Hellfire (2026)	leg=2:1272156
+Hellion	dub=0:328235	leg=0:328234
+Hellion - (2014)	dub=2:1043696	leg=2:1035801
+Hello Ghost	leg=0:246194
+Hello Ghost (2023)	dub=2:1270357	leg=2:1249420
+Hello Kitty e Amigos: Vamos Aprender	dub=0:230148
+Hello Kitty e Amigos: Vamos Aprender - (2019)	dub=2:1067386
+Hello Kitty e Amigos: Vamos Brincar	dub=0:230147
+Hello Kitty e Amigos: Vamos Brincar - (2019)	dub=2:1067106
+Hello Kitty e amigos: Nossa Casa	dub=0:230134
+Hello Kitty e amigos: Nossa Casa - (2019)	dub=2:1063051
 Hello Ladies: O Filme	dub=0:382990	leg=0:382989
-Hello World	dub=2:1269013
-Hello, Love, Again	dub=2:1270261	leg=0:311097,2:1249041
-Hellraiser II: Renascido das Trevas	dub=0:349045,0:96879,2:1040086	leg=0:349044,2:1251058
-Hellraiser III: Inferno na Terra	dub=0:349047,0:96880,2:1043476	leg=0:349046,2:1251055
-Hellraiser IV: Herança Maldita	dub=0:349049,0:96881,2:1250030	leg=0:349048,2:1251056
-Hellraiser IX - Revelacoes	dub=2:1271041
-Hellraiser V - Inferno	dub=0:96882,2:1039591
-Hellraiser VI - Caçador do Inferno	dub=0:96883,2:1070685
-Hellraiser VII - O Retorno dos Mortos	dub=0:96884,2:1071034
-Hellraiser VIII - O Mundo do Inferno	dub=0:96885,2:1061004
-Hellraiser: O Julgamento	dub=0:48264,2:1057862
-Hellraiser: Renascido do Inferno	dub=0:349051,0:181439,0:96878,2:1070553,2:1039717	leg=0:349050,0:181413,2:1252115,2:1032267
-Help	dub=2:1271317,2:1266127
-Helter Skelter	dub=2:1266709
-Hemisphere	dub=2:1270117
-Henrique & Juliano Ao Vivo Em Brasilia	dub=2:1266291
-Henry Danger: O Filme 4K	dub=0:310580,0:310417,2:1037582,2:1037003	leg=0:310418,2:1249926
-Henry Klauss Mestres da Magica	dub=2:1269293
-Henry e June - Delírios Eróticos	dub=0:353929,2:1265395	leg=0:353928,2:1265391
-Heranca de Sangue	dub=0:20999,2:1270094,2:1042916
-Herança	dub=0:369409,2:1070426	leg=0:369408,2:1031712
-Herança Maldita	dub=0:179819,0:114402,0:112462,2:1071282,2:1070306,2:1057923	leg=0:179822,2:1030379
-Herança Roubada	dub=0:256323,2:1270304
-Herança de Família	dub=0:239794,2:1053870	leg=0:239793,2:1033581
-Herbie: Meu Fusca Turbinado	dub=0:343036,2:1038837	leg=0:343035,2:1025698
-Herbie: Um Fusca em Monte Carlo	dub=2:1268548
-Herchcovitch; Exposto	dub=0:328476,0:328474,0:283255,2:1048203,2:1023267	leg=0:328475,2:1028935
-Hercules 1 - e as Amazonas	dub=2:1270535
-Hercules 2 - e o Reino Perdido	dub=2:1271763
-Hercules 5 - e o Labirinto do Minotauro	dub=2:1265244
-Hercules em Nova York	dub=2:1269604
-Herdeiro	dub=2:1266625
-Here	dub=2:1266763	leg=0:318435,2:1027051
-Here After	leg=0:286604,2:1035088
-Here Are the Young Men	dub=2:1270237
-Hereditário	dub=0:382404,0:21755,2:1070945	leg=0:382403,2:1272793
-Herege	dub=0:301147,0:301146,2:1057751,2:1021861	leg=0:301148,0:299620,2:1024223
-Herman Kills	leg=2:1273070,2:1267624
-Hermanoteu na Terra de Godah: O Filme	dub=0:162028,0:149565,2:1055229
-Hero Dog: The Journey Home	dub=0:358713,2:1269812	leg=0:358712,2:1266352
-Heroes And Cowards	leg=0:89735,2:1025881
-Heroína	dub=2:1266852	leg=0:338672,2:1038435
-Herói	dub=0:172043,2:1045913
-Herói da Liberdade	dub=0:166210,2:1066309	leg=0:166206,2:1033362
-Herói de Dois Mundos	dub=0:133983,2:1056302	leg=0:134011,2:1023968
-Herói por Acidente	dub=0:371889,2:1268102	leg=0:371888,2:1268147
-Herói por Encomenda	dub=0:254651,2:1047053,2:1023357	leg=0:254652,2:1031671
-Heróico	dub=2:1269216	leg=0:246195,2:1249522
-Heróis	dub=0:320228,2:1056328	leg=0:320229,2:1025277
-Heróis Pokémon: Latios & Latias	dub=0:77629,2:1061533
-Heróis da Máscara Dourada	dub=0:213928,0:205181,2:1061920	leg=0:213929,0:205199,2:1249591
-Heróis de Fogo	dub=0:133995,2:1046837	leg=0:134009,2:1025869
-Heróis de Guerra	dub=0:162351,0:162350,2:1066055
-Heróis de Ressaca	dub=0:95912,2:1060800
-Heróis de Uma Guerra	dub=0:47417,2:1066710
-Heróis do Amanhecer	dub=0:320256,2:1066150	leg=0:320255,2:1034442
-Heróis do Ar	dub=0:122945,2:1066444	leg=0:122943,2:1026564
-Hex - Salto Mortal	dub=0:235125,2:1046615	leg=0:235127,2:1024505
-Hey Arnold! Na Selva – O Filme	dub=0:69941,2:1049725
-Hey Arnold! O Filme	dub=0:69942,2:1062747
-Hibike! Euphonium Movie 3: Chikai no Finale	dub=0:263146,2:1062997
-Hibike! Euphonium: Ensemble Contest-hen	dub=0:264990,2:1071865
-Hidden Murder Island	dub=0:363612,2:1267106
-Hideo Kojima: Connecting Worlds	dub=2:1265138	leg=0:251169,2:1026230
-Hierarquia do Crime	dub=0:367818,2:1257491	leg=0:367817,2:1267985
-High Flying Bird	dub=0:22027,2:1042103
-High Ground	dub=2:1269189	leg=0:335234,2:1037096
-High Life - Uma Nova Vida	dub=0:88667,2:1267772
-High Life Legendado	dub=0:22864,2:1060451
-High School Band	dub=0:318548,2:1071537	leg=0:318549,2:1027003
-High School Musical	dub=0:20632,2:1071900
-High School Musical 2	dub=0:20630,2:1071924
-High School Musical 3	dub=0:20631,2:1071985
-High School Musical 4 - O Desafio	dub=2:1270859
-High School Musical: O Musical: Especial de Festas	dub=0:90737,2:1071898
-Highlander 2: A Ressurreição	dub=0:341059,2:1039812
-Highlander 3: O Feiticeiro	dub=0:350923,2:1264724
-Highlander 4: A Batalha Final	dub=0:348112,2:1248877	leg=0:348111,2:1248925
-Highlander 5 - A Origem	dub=2:1268734
-Highlander, O Guerreiro Imortal	dub=0:48185,2:1039144
-Higuita: El camino del Escorpión	dub=0:224734,2:1048389	leg=0:224733,2:1024799
-Hijack 1971	leg=0:288572
-Hilda E O Rei Da Montanha	dub=0:144906,2:1062138	leg=0:144912,2:1029178
-Hill: Amor Pelo Jogo	dub=0:247272,2:1045308	leg=0:247273,2:1036101
-Hinterland	dub=2:1269017
-Hip Hop Beats	dub=0:24864,2:1072360
-Hip-Hop e a Casa Branca	dub=2:1269588	leg=0:286605,2:1024572
-Hipnose	dub=0:213966,2:1058224	leg=0:213967,2:1028170
+Hello Love Again (2024)	dub=2:1270261	leg=2:1249041
+Hello World (2019)	dub=2:1269013
+Hello, Love, Again	leg=0:311097
+Hellraiser II: Renascido das Trevas	dub=0:349045,0:96879	leg=0:349044
+Hellraiser II: Renascido das Trevas - (1988)	dub=2:1040086	leg=2:1251058
+Hellraiser III: Inferno na Terra	dub=0:349047,0:96880	leg=0:349046
+Hellraiser III: Inferno na Terra - (1992)	dub=2:1043476	leg=2:1251055
+Hellraiser IV: Herança Maldita	dub=0:349049,0:96881	leg=0:349048
+Hellraiser IV: Herança Maldita - (1996)	dub=2:1250030	leg=2:1251056
+Hellraiser IX - Revelacoes (2011)	dub=2:1271041
+Hellraiser V - Inferno	dub=0:96882
+Hellraiser V - Inferno - (2000)	dub=2:1039591
+Hellraiser VI - Caçador do Inferno	dub=0:96883
+Hellraiser VI - Caçador do Inferno - (2002)	dub=2:1070685
+Hellraiser VII - O Retorno dos Mortos	dub=0:96884
+Hellraiser VII - O Retorno dos Mortos - (2005)	dub=2:1071034
+Hellraiser VIII - O Mundo do Inferno	dub=0:96885
+Hellraiser VIII - O Mundo do Inferno - (2005)	dub=2:1061004
+Hellraiser: O Julgamento	dub=0:48264
+Hellraiser: O Julgamento - (2018)	dub=2:1057862
+Hellraiser: Renascido do Inferno	dub=0:349051,0:181439,0:96878	leg=0:349050,0:181413
+Hellraiser: Renascido do Inferno - (1987)	dub=2:1039717	leg=2:1252115
+Hellraiser: Renascido do Inferno - (2022)	dub=2:1070553	leg=2:1032267
+Help (2021)	dub=2:1271317,2:1266127
+Helter Skelter (2012)	dub=2:1266709
+Hemisphere (2023)	dub=2:1270117
+Henrique & Juliano Ao Vivo Em Brasilia (2014)	dub=2:1266291
+Henry Danger: O Filme - (2025)	dub=2:1037582,2:1037003	leg=2:1249926
+Henry Danger: O Filme 4K	dub=0:310580,0:310417	leg=0:310418
+Henry Klauss Mestres da Magica (2025)	dub=2:1269293
+Henry e June - Delírios Eróticos	dub=0:353929	leg=0:353928
+Henry e June - Delírios Eróticos (1990)	dub=2:1265395	leg=2:1265391
+Heranca Roubada (2024)	dub=2:1270304
+Heranca de Sangue	dub=0:20999
+Heranca de Sangue (2016)	dub=2:1270094
+Heranca de Sangue - (1986)	dub=2:1042916
+Herança	dub=0:369409	leg=0:369408
+Herança - (2020)	dub=2:1070426	leg=2:1031712
+Herança Maldita	leg=0:179822
+Herança Maldita (1995)	dub=0:114402,2:1071282
+Herança Maldita (2020)	dub=0:112462,2:1057923
+Herança Maldita (2022)	dub=0:179819,2:1070306	leg=2:1030379
+Herança Roubada	dub=0:256323
+Herança de Família	dub=0:239794	leg=0:239793
+Herança de Família - (2022)	dub=2:1053870	leg=2:1033581
+Herbie: Meu Fusca Turbinado	dub=0:343036	leg=0:343035
+Herbie: Meu Fusca Turbinado - (2005)	dub=2:1038837	leg=2:1025698
+Herbie: Um Fusca em Monte Carlo (1977)	dub=2:1268548
+Herchcovitch; Exposto	dub=0:328476,0:328474,0:283255	leg=0:328475
+Herchcovitch; Exposto - (2024)	dub=2:1048203,2:1023267	leg=2:1028935
+Hercules 1 - e as Amazonas (1994)	dub=2:1270535
+Hercules 2 - e o Reino Perdido (1994)	dub=2:1271763
+Hercules 5 - e o Labirinto do Minotauro (1994)	dub=2:1265244
+Hercules em Nova York (1970)	dub=2:1269604
+Herdeiro (2021)	dub=2:1266625
+Here	leg=0:318435
+Here (2024)	dub=2:1266763	leg=2:1027051
+Here After	leg=0:286604
+Here After - (2024)	leg=2:1035088
+Here Are the Young Men (2021)	dub=2:1270237
+Hereditário	dub=0:382404,0:21755	leg=0:382403
+Hereditário (2018)	dub=2:1070945	leg=2:1272793
+Herege	dub=0:301147,0:301146	leg=0:301148,0:299620
+Herege - (2024)	dub=2:1057751,2:1021861	leg=2:1024223
+Herman Kills (2021)	leg=2:1273070,2:1267624
+Hermanoteu na Terra de Godah: O Filme	dub=0:162028,0:149565
+Hermanoteu na Terra de Godah: O Filme - (2021)	dub=2:1055229
+Hero Dog: The Journey Home	dub=0:358713	leg=0:358712
+Hero Dog: The Journey Home (2021)	dub=2:1269812	leg=2:1266352
+Heroes And Cowards	leg=0:89735
+Heroes And Cowards - (2019)	leg=2:1025881
+Heroico (2023)	dub=2:1269216	leg=2:1249522
+Heroina (2025)	dub=2:1266852	leg=2:1038435
+Heroína	leg=0:338672
+Herói (2002)	dub=0:172043,2:1045913
+Herói da Liberdade	dub=0:166210	leg=0:166206
+Herói da Liberdade - (2020)	dub=2:1066309	leg=2:1033362
+Herói de Dois Mundos	dub=0:133983	leg=0:134011
+Herói de Dois Mundos - (2021)	dub=2:1056302	leg=2:1023968
+Herói por Acidente	dub=0:371889	leg=0:371888
+Herói por Acidente (1992)	dub=2:1268102	leg=2:1268147
+Herói por Encomenda	dub=0:254651	leg=0:254652
+Herói por Encomenda - (2023)	dub=2:1047053,2:1023357	leg=2:1031671
+Heróico	leg=0:246195
+Heróis	dub=0:320228	leg=0:320229
+Heróis - (2009)	dub=2:1056328	leg=2:1025277
+Heróis Pokémon: Latios & Latias	dub=0:77629
+Heróis Pokémon: Latios & Latias - (2002)	dub=2:1061533
+Heróis da Máscara Dourada	dub=0:213928,0:205181	leg=0:213929,0:205199
+Heróis da Máscara Dourada - (2023)	dub=2:1061920	leg=2:1249591
+Heróis de Fogo	dub=0:133995	leg=0:134009
+Heróis de Fogo - (2020)	dub=2:1046837	leg=2:1025869
+Heróis de Guerra	dub=0:162351,0:162350
+Heróis de Guerra - (2019)	dub=2:1066055
+Heróis de Ressaca	dub=0:95912
+Heróis de Ressaca - (2013)	dub=2:1060800
+Heróis de Uma Guerra	dub=0:47417
+Heróis de Uma Guerra - (2018)	dub=2:1066710
+Heróis do Amanhecer	dub=0:320256	leg=0:320255
+Heróis do Amanhecer - (2024)	dub=2:1066150	leg=2:1034442
+Heróis do Ar	dub=0:122945	leg=0:122943
+Heróis do Ar - (2020)	dub=2:1066444	leg=2:1026564
+Hex - Salto Mortal	dub=0:235125	leg=0:235127
+Hex - Salto Mortal - (2022)	dub=2:1046615	leg=2:1024505
+Hey Arnold! Na Selva – O Filme	dub=0:69941
+Hey Arnold! Na Selva – O Filme - (2018)	dub=2:1049725
+Hey Arnold! O Filme	dub=0:69942
+Hey Arnold! O Filme - (2002)	dub=2:1062747
+Hibike! Euphonium Movie 3: Chikai no Finale	dub=0:263146
+Hibike! Euphonium Movie 3: Chikai no Finale - (2019)	dub=2:1062997
+Hibike! Euphonium: Ensemble Contest-hen	dub=0:264990
+Hibike! Euphonium: Ensemble Contest-hen - (2023)	dub=2:1071865
+Hidden Murder Island	dub=0:363612
+Hidden Murder Island (2023)	dub=2:1267106
+Hideo Kojima Connecting Worlds (2023)	dub=2:1265138	leg=2:1026230
+Hideo Kojima: Connecting Worlds	leg=0:251169
+Hierarquia do Crime	dub=0:367818	leg=0:367817
+Hierarquia do Crime (2025)	dub=2:1257491	leg=2:1267985
+High Flying Bird	dub=0:22027
+High Flying Bird - (2019)	dub=2:1042103
+High Ground	leg=0:335234
+High Ground (2025)	dub=2:1269189	leg=2:1037096
+High Life - Uma Nova Vida	dub=0:88667
+High Life - Uma Nova Vida (2018)	dub=2:1267772
+High Life Legendado	dub=0:22864
+High Life Legendado - (2018)	dub=2:1060451
+High School Band	dub=0:318548	leg=0:318549
+High School Band - (2009)	dub=2:1071537	leg=2:1027003
+High School Musical	dub=0:20632
+High School Musical - (2006)	dub=2:1071900
+High School Musical 2	dub=0:20630
+High School Musical 2 - (2007)	dub=2:1071924
+High School Musical 3	dub=0:20631
+High School Musical 3 - (2008)	dub=2:1071985
+High School Musical 4 - O Desafio (2010)	dub=2:1270859
+High School Musical: O Musical: Especial de Festas	dub=0:90737
+High School Musical: O Musical: Especial de Festas - (2020)	dub=2:1071898
+Highlander 2: A Ressurreição	dub=0:341059
+Highlander 2: A Ressurreição - (1991)	dub=2:1039812
+Highlander 3: O Feiticeiro	dub=0:350923
+Highlander 3: O Feiticeiro (1994)	dub=2:1264724
+Highlander 4: A Batalha Final	dub=0:348112	leg=0:348111
+Highlander 4: A Batalha Final - (2000)	dub=2:1248877	leg=2:1248925
+Highlander 5 - A Origem (2007)	dub=2:1268734
+Highlander, O Guerreiro Imortal	dub=0:48185
+Highlander, O Guerreiro Imortal - (1986)	dub=2:1039144
+Higuita: El camino del Escorpión	dub=0:224734	leg=0:224733
+Higuita: El camino del Escorpión - (2023)	dub=2:1048389	leg=2:1024799
+Hijack (1971)	leg=0:288572
+Hilda E O Rei Da Montanha	dub=0:144906	leg=0:144912
+Hilda E O Rei Da Montanha - (2021)	dub=2:1062138	leg=2:1029178
+Hill: Amor Pelo Jogo	dub=0:247272	leg=0:247273
+Hill: Amor Pelo Jogo - (2023)	dub=2:1045308	leg=2:1036101
+Hinterland (2021)	dub=2:1269017
+Hip Hop Beats	dub=0:24864
+Hip Hop Beats - (2019)	dub=2:1072360
+Hip Hop e a Casa Branca (2024)	dub=2:1269588	leg=2:1024572
+Hip-Hop e a Casa Branca	leg=0:286605
+Hipnose	dub=0:213966	leg=0:213967
+Hipnose - (2021)	dub=2:1058224	leg=2:1028170
 Hipnótico	leg=0:212961
-Hipocondriaco	dub=2:1265131
-His Killer Fan	dub=2:1271604
-Histeria	dub=0:297827,2:1065853
-Historia de um Casamento	dub=0:31597,2:1041926
-Historia do Oculto	dub=2:1271936
-Historias Assustadoras Para Contar No Escuro	dub=0:30562,2:1267908
-Historias Incomuns	dub=0:102575,2:1065891
-Historias Que So Existem Quando Lembradas	dub=2:1270598
-Historias Que e Melhor Nao Contar	dub=2:1268538
-Historias de Amor Duram Apenas 90 Minutos	dub=2:1268510
-Historietas Assombradas - O Filme	dub=0:133764,2:1063251
-History of Evil	dub=2:1269707	leg=0:251170,2:1035165
-História de Amor em Copenhague 4K	dub=0:313541,0:313160,2:1037612,2:1036773	leg=0:313161,2:1037532
-História de Amor no Inverno	dub=0:30398,2:1049827
-História de um Crime: O Cabeleireiro das Estrelas	dub=0:229159,2:1069695	leg=0:229162,2:1031654
-Histórias Cruzadas	dub=0:133090,0:21000,2:1041976
-Histórias Estranhas	dub=0:310601,2:1057746
-Histórias Estranhas 2	dub=0:358141,2:1266295
-Histórias Invisíveis	dub=0:310399,2:1268947	leg=0:310400
-Histórias Que Nossas Babás Não Contavam	dub=0:120673,2:1038958
-Histórias de Amor	dub=0:324821,2:1064373	leg=0:324820,2:1027177
-Histórias de Meninas	dub=0:215897,2:1041576	leg=0:215898,2:1035108
-Histórias de Terror Para Quem Odeia o Natal	dub=0:231330,2:1057598	leg=0:231334,2:1035399
-Histórias do Coração	dub=0:300659,2:1053271	leg=0:300660,2:1034439
-Hit Para Dois	dub=2:1264598
-Hit Para Dois Legendado	dub=2:1263038
-Hitch - Conselheiro Amoroso	dub=0:20633,2:1065563
-Hitler: Guerra no Deserto	dub=0:241300,2:1045568	leg=0:241301,2:1027272
-Hitman - Assassino 47	dub=0:20040,2:1044957
-Hitman O Rei dos Assassinos	dub=2:1268760
-Hitman: Agente 47	dub=0:20039,2:1044407
-Hitori No Shita - The Outcast	leg=0:359312,2:1266617
+Hipocondriaco (2022)	dub=2:1265131
+His Killer Fan (2021)	dub=2:1271604
+Histeria	dub=0:297827
+Histeria - (2011)	dub=2:1065853
+Historia de um Casamento	dub=0:31597
+Historia de um Casamento - (2019)	dub=2:1041926
+Historia do Oculto (2023)	dub=2:1271936
+Historias Assustadoras Para Contar No Escuro	dub=0:30562
+Historias Assustadoras Para Contar No Escuro (2019)	dub=2:1267908
+Historias Cruzadas - (2011)	dub=2:1041976
+Historias Estranhas 2 - (2024)	dub=2:1266295
+Historias Incomuns	dub=0:102575
+Historias Incomuns - (2021)	dub=2:1065891
+Historias Invisiveis (2024)	dub=2:1268947
+Historias Que So Existem Quando Lembradas (2012)	dub=2:1270598
+Historias Que e Melhor Nao Contar (2022)	dub=2:1268538
+Historias de Amor Duram Apenas 90 Minutos (2009)	dub=2:1268510
+Historietas Assombradas - O Filme	dub=0:133764
+Historietas Assombradas - O Filme - (2017)	dub=2:1063251
+History of Evil	leg=0:251170
+History of Evil (2023)	dub=2:1269707	leg=2:1035165
+História de Amor em Copenhague 4K	dub=0:313541,0:313160	leg=0:313161
+História de Amor em Copenhague 4K - (2025)	dub=2:1037612,2:1036773	leg=2:1037532
+História de Amor no Inverno	dub=0:30398
+História de Amor no Inverno - (2019)	dub=2:1049827
+História de um Crime: O Cabeleireiro das Estrelas	dub=0:229159	leg=0:229162
+História de um Crime: O Cabeleireiro das Estrelas - (2023)	dub=2:1069695	leg=2:1031654
+Histórias Cruzadas	dub=0:133090,0:21000
+Histórias Estranhas	dub=0:310601
+Histórias Estranhas - (2019)	dub=2:1057746
+Histórias Estranhas 2	dub=0:358141
+Histórias Invisíveis	dub=0:310399	leg=0:310400
+Histórias Que Nossas Babás Não Contavam	dub=0:120673
+Histórias Que Nossas Babás Não Contavam - (1979)	dub=2:1038958
+Histórias de Amor	dub=0:324821	leg=0:324820
+Histórias de Amor - (2012)	dub=2:1064373	leg=2:1027177
+Histórias de Meninas	dub=0:215897	leg=0:215898
+Histórias de Meninas - (2020)	dub=2:1041576	leg=2:1035108
+Histórias de Terror Para Quem Odeia o Natal	dub=0:231330	leg=0:231334
+Histórias de Terror Para Quem Odeia o Natal - (2018)	dub=2:1057598	leg=2:1035399
+Histórias do Coração	dub=0:300659	leg=0:300660
+Histórias do Coração - (2022)	dub=2:1053271	leg=2:1034439
+Hit Para Dois (2026)	dub=2:1264598
+Hit Para Dois Legendado (2026)	dub=2:1263038
+Hitch - Conselheiro Amoroso	dub=0:20633
+Hitch - Conselheiro Amoroso - (2005)	dub=2:1065563
+Hitler: Guerra no Deserto	dub=0:241300	leg=0:241301
+Hitler: Guerra no Deserto - (2021)	dub=2:1045568	leg=2:1027272
+Hitman - Assassino 47	dub=0:20040
+Hitman - Assassino 47 - (2007)	dub=2:1044957
+Hitman O Rei dos Assassinos (1998)	dub=2:1268760
+Hitman: Agente 47	dub=0:20039
+Hitman: Agente 47 - (2015)	dub=2:1044407
+Hitori No Shita - The Outcast	leg=0:359312
+Hitori No Shita - The Outcast (2024)	leg=2:1266617
 Hiver à Sokcho	leg=0:352276
-Hoax	leg=0:89392,2:1030805
-Hoje Consertamos o Mundo	dub=0:155502,2:1053696	leg=0:155503,2:1249521
-Hoje Eu Quero Voltar Sozinho	dub=2:1270510
-Hoje Falaremos sobre Aquele Dia	dub=0:204502,2:1067093	leg=0:204501,2:1028866
-Hokum: O Pesadelo da Bruxa	dub=2:1262181	leg=0:381204
-Hokum: O Pesadelo da Bruxa Legendado	dub=2:1261430
-Hokusai	dub=2:1268768
-Hold Me Tight	dub=2:1267478
-Hold Your Fire	dub=2:1265976
-Holland	dub=0:316909,0:316908,2:1037936,2:1036841	leg=0:316910,2:1038320
-HollyBlood	dub=0:171922,2:1039540	leg=0:171927,2:1034800
-Holmes e Watson	dub=0:333276,0:22028,2:1070009	leg=0:333275,2:1033541
+Hoax	leg=0:89392
+Hoax - (2019)	leg=2:1030805
+Hoje Consertamos o Mundo	dub=0:155502	leg=0:155503
+Hoje Consertamos o Mundo - (2022)	dub=2:1053696	leg=2:1249521
+Hoje Eu Quero Voltar Sozinho (2014)	dub=2:1270510
+Hoje Falaremos sobre Aquele Dia	dub=0:204502	leg=0:204501
+Hoje Falaremos sobre Aquele Dia - (2023)	dub=2:1067093	leg=2:1028866
+Hokum: O Pesadelo da Bruxa	leg=0:381204
+Hokum: O Pesadelo da Bruxa (2026)	dub=2:1262181
+Hokum: O Pesadelo da Bruxa Legendado (2026)	dub=2:1261430
+Hokusai (2021)	dub=2:1268768
+Hold Me Tight (2021)	dub=2:1267478
+Hold Your Fire (2021)	dub=2:1265976
+Holland	dub=0:316909,0:316908	leg=0:316910
+Holland - (2025)	dub=2:1037936,2:1036841	leg=2:1038320
+HollyBlood	dub=0:171922	leg=0:171927
+HollyBlood - (2022)	dub=2:1039540	leg=2:1034800
+Holmes e Watson	dub=0:333276,0:22028	leg=0:333275
+Holmes e Watson - (2018)	dub=2:1070009	leg=2:1033541
 Holo Live at Coachella	dub=0:202584
-Holocausto Brasileiro	dub=0:252171,2:1048920
-Holocausto Canibal	dub=2:1268584
-Holy Cow	dub=2:1269456
-Holy Spider	dub=2:1270919
-Hombre	dub=2:1273193
-Home Sweet Home: Recomeço	dub=2:1259690
-Home for Rent	dub=2:1269081
-Home2Home	dub=2:1268520
-Homebird	dub=2:1268701
-Homebound	dub=2:1264918	leg=0:357794
-Homem Livre	dub=0:336828,0:314677,2:1041972
-Homem Onça	dub=0:191139,2:1042259
-Homem ao Mar	dub=0:44558,2:1065616
-Homem com H	dub=0:329330,2:1038224	leg=0:329329,2:1038370
-Homem de Deus	dub=0:158014,2:1041638	leg=0:158016,2:1025441
-Homem de Ferro	dub=0:98644,2:1061251
-Homem de Ferro 2	dub=0:98646,2:1057138
-Homem de Ferro 3	dub=0:98652,2:1056919
-Homem de Ferro: A Batalha Contra Ezekiel Stane	dub=0:379110,2:1272535	leg=0:379109,2:1272723
-Homem de Fé	dub=0:202580,2:1045271	leg=0:202579,2:1025522
-Homem-Absorvente	dub=2:1266054
-Homem-Aranha	dub=0:93643,2:1060875
-Homem-Aranha 2	dub=0:93644,2:1061001
-Homem-Aranha 3	dub=0:93645,2:1056684
-Homem-Aranha: Através do Aranhaverso 4K	dub=0:208235,0:207380,2:1249688,2:1061889	leg=0:207379,2:1249582
-Homem-Aranha: De Volta ao Lar	dub=0:93648,0:22507,2:1061349,2:1023171
-Homem-Aranha: Longe de Casa	dub=0:317683,0:93649,0:30399,2:1056231,2:1021670	leg=0:317684,2:1026136
-Homem-Aranha: No Aranhaverso	dub=0:316406,0:21485,0:21439,2:1061700,2:1022042	leg=0:316407,2:1027429
-Homem-Aranha: Sem Volta Para Casa 4K	dub=0:155511,0:154575,2:1059580,2:1022701	leg=0:152017,2:1032191
-Homem-Aranha: Um Novo Dia - QUALIDADE CINEMA	dub=2:1290975
-Homem-Formiga	dub=0:98656,2:1056959
-Homem-Formiga e a Vespa	dub=0:98663,0:22508,2:1060998,2:1021892
-Homem-Formiga e a Vespa: Quantumania	dub=0:195263,0:195262,2:1249640,2:1059531	leg=0:192527,2:1029257
-Homens Brancos Não Sabem Enterrar 4K	dub=0:196293,0:195880,0:102645,2:1249743,2:1055565,2:1053227	leg=0:195879,2:1032177
-Homens Comuns Assassinos do Holocausto	dub=2:1271599
-Homens Maus	dub=0:294985,2:1051698	leg=0:294986,2:1035187
-Homens Não Choram	dub=0:226082,2:1041404	leg=0:226081,2:1031942
-Homens Perigosos	dub=2:1269246
-Homens da plastica	dub=2:1268599
-Homens de Bem	dub=0:354133,2:1265567	leg=0:354132,2:1265486
-Homens de Coragem	dub=0:372759,2:1066820,2:1047368	leg=0:372758,2:1272084
-Homens de Honra	dub=0:382826,0:96002,2:1040872	leg=0:382825
+Holocausto Brasileiro	dub=0:252171
+Holocausto Brasileiro - (2016)	dub=2:1048920
+Holocausto Canibal (1980)	dub=2:1268584
+Holy Cow (2024)	dub=2:1269456
+Holy Spider (2022)	dub=2:1270919
+Hombre (1967)	dub=2:1273193
+Home Sweet Home: Recomeço (2025)	dub=2:1259690
+Home for Rent (2023)	dub=2:1269081
+Home2Home (2022)	dub=2:1268520
+Homebird (2022)	dub=2:1268701
+Homebound	leg=0:357794
+Homebound (2025)	dub=2:1264918
+Homem Livre	dub=0:336828,0:314677
+Homem Livre - (2017)	dub=2:1041972
+Homem Onça	dub=0:191139
+Homem Onça - (2021)	dub=2:1042259
+Homem ao Mar	dub=0:44558
+Homem ao Mar - (2018)	dub=2:1065616
+Homem com H	dub=0:329330	leg=0:329329
+Homem com H - (2025)	dub=2:1038224	leg=2:1038370
+Homem de Deus	dub=0:158014	leg=0:158016
+Homem de Deus - (2022)	dub=2:1041638	leg=2:1025441
+Homem de Ferro	dub=0:98644
+Homem de Ferro - (2008)	dub=2:1061251
+Homem de Ferro 2	dub=0:98646
+Homem de Ferro 2 - (2010)	dub=2:1057138
+Homem de Ferro 3	dub=0:98652
+Homem de Ferro 3 - (2013)	dub=2:1056919
+Homem de Ferro: A Batalha Contra Ezekiel Stane	dub=0:379110	leg=0:379109
+Homem de Ferro: A Batalha Contra Ezekiel Stane (2013)	dub=2:1272535	leg=2:1272723
+Homem de Fé	dub=0:202580	leg=0:202579
+Homem de Fé - (2021)	dub=2:1045271	leg=2:1025522
+Homem-Absorvente (2018)	dub=2:1266054
+Homem-Aranha	dub=0:93643
+Homem-Aranha - (2002)	dub=2:1060875
+Homem-Aranha 2	dub=0:93644
+Homem-Aranha 2 - (2004)	dub=2:1061001
+Homem-Aranha 3	dub=0:93645
+Homem-Aranha 3 - (2007)	dub=2:1056684
+Homem-Aranha: Através do Aranhaverso 4K	dub=0:208235,0:207380	leg=0:207379
+Homem-Aranha: Através do Aranhaverso 4K - (2023)	dub=2:1249688,2:1061889	leg=2:1249582
+Homem-Aranha: De Volta ao Lar	dub=0:93648,0:22507
+Homem-Aranha: De Volta ao Lar - (2017)	dub=2:1061349,2:1023171
+Homem-Aranha: Longe de Casa	dub=0:317683,0:93649,0:30399	leg=0:317684
+Homem-Aranha: Longe de Casa - (2019)	dub=2:1056231,2:1021670	leg=2:1026136
+Homem-Aranha: No Aranhaverso	dub=0:316406,0:21485,0:21439	leg=0:316407
+Homem-Aranha: No Aranhaverso - (2018)	dub=2:1061700,2:1022042	leg=2:1027429
+Homem-Aranha: Sem Volta Para Casa - (2021)	dub=2:1059580,2:1022701	leg=2:1032191
+Homem-Aranha: Sem Volta Para Casa 4K	dub=0:155511,0:154575	leg=0:152017
+Homem-Aranha: Um Novo Dia - QUALIDADE CINEMA (2026)	dub=2:1290975
+Homem-Formiga	dub=0:98656
+Homem-Formiga - (2015)	dub=2:1056959
+Homem-Formiga e a Vespa	dub=0:98663,0:22508
+Homem-Formiga e a Vespa - (2018)	dub=2:1060998,2:1021892
+Homem-Formiga e a Vespa: Quantumania	dub=0:195263,0:195262	leg=0:192527
+Homem-Formiga e a Vespa: Quantumania 4K - (2023)	dub=2:1249640,2:1059531	leg=2:1029257
+Homens Brancos Nao Sabem Enterrar - (1992)	dub=2:1053227
+Homens Brancos Não Sabem Enterrar 4K	dub=0:196293,0:195880,0:102645	leg=0:195879
+Homens Brancos Não Sabem Enterrar 4K - (2023)	dub=2:1249743,2:1055565	leg=2:1032177
+Homens Comuns Assassinos do Holocausto (2022)	dub=2:1271599
+Homens Maus	dub=0:294985	leg=0:294986
+Homens Maus - (2023)	dub=2:1051698	leg=2:1035187
+Homens Não Choram	dub=0:226082	leg=0:226081
+Homens Não Choram - (2022)	dub=2:1041404	leg=2:1031942
+Homens Perigosos (1997)	dub=2:1269246
+Homens da plastica (2022)	dub=2:1268599
+Homens de Bem	dub=0:354133	leg=0:354132
+Homens de Bem (2025)	dub=2:1265567	leg=2:1265486
+Homens de Coragem	dub=0:372759	leg=0:372758
+Homens de Coragem (2017)	dub=2:1047368	leg=2:1272084
+Homens de Coragem - (2016)	dub=2:1066820
+Homens de Honra	dub=0:382826,0:96002	leg=0:382825
+Homens de Honra - (2000)	dub=2:1040872
 Homens de Honrra	dub=0:21001
-Homens de Ouro	dub=0:169741,2:1051874	leg=0:169747,2:1028402
-Homens e Deuses	dub=0:274983,2:1045910
-Homens em Conflito	dub=2:1266017
-Homens à beira de um ataque de nervos	dub=0:181461,2:1053186	leg=0:181458,2:1026197
-Homens, Mulheres e Filhos	dub=0:291857,2:1054653
-Homestead	dub=2:1269151
+Homens de Ouro	dub=0:169741	leg=0:169747
+Homens de Ouro - (2019)	dub=2:1051874	leg=2:1028402
+Homens e Deuses	dub=0:274983
+Homens e Deuses - (2010)	dub=2:1045910
+Homens em Conflito (2012)	dub=2:1266017
+Homens à beira de um ataque de nervos	dub=0:181461	leg=0:181458
+Homens à beira de um ataque de nervos - (2022)	dub=2:1053186	leg=2:1026197
+Homens, Mulheres e Filhos	dub=0:291857
+Homens, Mulheres e Filhos - (2014)	dub=2:1054653
+Homestead (2023)	dub=2:1269151
 Homo Argentum	leg=0:362692
-Homo Argentum Legendado	dub=2:1255810
-Homunculus	dub=2:1270894
-Honest Thief	leg=0:89736,2:1030262
-Honesty Weekend	dub=2:1270253	leg=0:108307,2:1029337
-Honey	dub=0:21005,2:1072409
-Honey 2	dub=0:21002,2:1071578
-Honey 3	dub=0:21003,2:1072078
-Honey 4	dub=0:21004,2:1071613
-Honey Boy	leg=0:43807,2:1024919
-Honey Girls: Garotas Talentosas	dub=2:1270592	leg=2:1273049
-Honey, Não! 4K	dub=0:357795,0:357628,2:1265037,2:1254731	leg=0:357626,0:352966
-Honey, Não! Legendado	dub=2:1253697
-Honeydew	dub=2:1263326
-Honeyland	dub=2:1266047	leg=0:42919,2:1025331
-Honor Among Thieves	dub=2:1265911
-Honor Society	dub=0:173315,2:1053042,2:1023334	leg=0:173289,2:1029147
-Honra & Coragem - As Quatro Plumas	dub=0:128632,2:1066522
-Honra ao Merito	dub=0:21006,2:1066584
-Hook: A Volta do Capitão Gancho	dub=0:130247,0:21244,2:1068839
-Hooking Up	dub=0:73275,2:1054504
-Hooligans	dub=0:198531,2:1051123
-Hoops, Hopes & Dreams	leg=0:363455,2:1267064
-Hop: Rebelde Sem Páscoa	dub=0:251910,2:1062948
-Hora de Brilhar	dub=0:168561,2:1054788
-Hora de Recomecar	dub=0:30401,2:1067156
-Hora do Massacre	dub=0:290760,2:1046446	leg=0:290761,2:1034444
-Hora do Recreio: Novas Aventuras na 5ª Série	dub=0:322006,2:1067313	leg=0:322007,2:1033703
-Horas Decisivas	dub=0:157988,2:1045986
-Horas de Agonia	dub=0:44559,2:1059351
-Horas de Desespero	dub=0:20051,2:1271187,2:1044402
-Hordas Selvagens	dub=0:343065,2:1069163
-Horizon: Uma Saga Americana - Capítulo 1	dub=0:291157,0:291156,2:1068872,2:1022661	leg=0:291158,0:275505,2:1024190
-Horizonte	dub=0:376513,2:1265821
-Horizonte Profundo	dub=0:20052,2:1047242
-Hormônios à Flor da Pele	dub=0:196297,2:1054076	leg=0:196296,2:1032026
-Horror	dub=2:1270306
-Horror Noire	dub=2:1267080
-Horror Sangrento	dub=0:168539,2:1058012	leg=0:168523
-Horror em Amityville	dub=2:1271513	leg=0:157980,2:1028037
-Horror in the High Desert	dub=2:1270862
+Homo Argentum Legendado (2025)	dub=2:1255810
+Homunculus (2021)	dub=2:1270894
+Honest Thief	leg=0:89736
+Honest Thief - (2020)	leg=2:1030262
+Honesty Weekend	leg=0:108307
+Honesty Weekend (2021)	dub=2:1270253	leg=2:1029337
+Honey	dub=0:21005
+Honey - (2003)	dub=2:1072409
+Honey 2	dub=0:21002
+Honey 2 - (2011)	dub=2:1071578
+Honey 3	dub=0:21003
+Honey 3 - (2016)	dub=2:1072078
+Honey 4	dub=0:21004
+Honey 4 - (2018)	dub=2:1071613
+Honey Boy	leg=0:43807
+Honey Boy - (2019)	leg=2:1024919
+Honey Girls: Garotas Talentosas (2021)	dub=2:1270592	leg=2:1273049
+Honey, Não! 4K	dub=0:357795,0:357628	leg=0:357626,0:352966
+Honey, Não! 4K (2025)	dub=2:1265037,2:1254731
+Honey, Não! Legendado (2025)	dub=2:1253697
+Honeydew (2021)	dub=2:1263326
+Honeyland	leg=0:42919
+Honeyland (2019)	dub=2:1266047	leg=2:1025331
+Honor Among Thieves (2021)	dub=2:1265911
+Honor Society	dub=0:173315	leg=0:173289
+Honor Society - (2022)	dub=2:1053042,2:1023334	leg=2:1029147
+Honra & Coragem - As Quatro Plumas	dub=0:128632
+Honra & Coragem - As Quatro Plumas - (2002)	dub=2:1066522
+Honra ao Merito	dub=0:21006
+Honra ao Merito - (2017)	dub=2:1066584
+Hook - A Volta do Capitao Gancho - (1991)	dub=2:1068839
+Hook: A Volta do Capitão Gancho	dub=0:130247,0:21244
+Hooking Up	dub=0:73275
+Hooking Up - (2020)	dub=2:1054504
+Hooligans	dub=0:198531
+Hooligans - (2005)	dub=2:1051123
+Hoops, Hopes & Dreams	leg=0:363455
+Hoops, Hopes & Dreams (2025)	leg=2:1267064
+Hop: Rebelde Sem Páscoa	dub=0:251910
+Hop: Rebelde Sem Páscoa - (2011)	dub=2:1062948
+Hora de Brilhar	dub=0:168561
+Hora de Brilhar - (2022)	dub=2:1054788
+Hora de Recomecar	dub=0:30401
+Hora de Recomecar - (2018)	dub=2:1067156
+Hora do Massacre	dub=0:290760	leg=0:290761
+Hora do Massacre - (2024)	dub=2:1046446	leg=2:1034444
+Hora do Recreio: Novas Aventuras na 5ª Série	dub=0:322006	leg=0:322007
+Hora do Recreio: Novas Aventuras na 5ª Série - (2003)	dub=2:1067313	leg=2:1033703
+Horas Decisivas	dub=0:157988
+Horas Decisivas - (2016)	dub=2:1045986
+Horas de Agonia	dub=0:44559
+Horas de Agonia - (2018)	dub=2:1059351
+Horas de Desespero	dub=0:20051
+Horas de Desespero (1990)	dub=2:1271187
+Horas de Desespero - (2015)	dub=2:1044402
+Hordas Selvagens	dub=0:343065
+Hordas Selvagens - (1953)	dub=2:1069163
+Horizon: Uma Saga Americana - Capítulo 1	dub=0:291157,0:291156	leg=0:291158,0:275505
+Horizon: Uma Saga Americana - Capítulo 1 - (2024)	dub=2:1068872,2:1022661	leg=2:1024190
+Horizonte	dub=0:376513
+Horizonte (2024)	dub=2:1265821
+Horizonte Profundo	dub=0:20052
+Horizonte Profundo - (2016)	dub=2:1047242
+Hormônios à Flor da Pele	dub=0:196297	leg=0:196296
+Hormônios à Flor da Pele - (2023)	dub=2:1054076	leg=2:1032026
+Horror (2015)	dub=2:1270306
+Horror Noire (2021)	dub=2:1267080
+Horror Sangrento	dub=0:168539	leg=0:168523
+Horror Sangrento - (2019)	dub=2:1058012
+Horror em Amityville	leg=0:157980
+Horror em Amityville (2005)	dub=2:1271513	leg=2:1028037
+Horror in the High Desert (2021)	dub=2:1270862
 Hors Normes	leg=0:48186
-Horse Camp: A Love Tail	dub=2:1271852
-Horton e o Mundo dos Quem!	dub=0:94727,2:1063042
-Horácio	dub=0:208220,2:1042055
-Hospedagem Mortal	dub=0:64383,2:1059328
-Hospede Indesejado	dub=2:1271257
-Hospedeira	dub=2:1271698	leg=0:349702,2:1252147
-Hospital	dub=2:1271388
-Hospital Macabro	dub=0:311132,2:1057837
+Horse Camp: A Love Tail (2022)	dub=2:1271852
+Horton e o Mundo dos Quem!	dub=0:94727
+Horton e o Mundo dos Quem! - (2008)	dub=2:1063042
+Horácio	dub=0:208220
+Horácio - (2019)	dub=2:1042055
+Hospedagem Mortal	dub=0:64383
+Hospedagem Mortal - (2019)	dub=2:1059328
+Hospede Indesejado (2019)	dub=2:1271257
+Hospedeira	leg=0:349702
+Hospedeira (2025)	dub=2:1271698	leg=2:1252147
+Hospital (2020)	dub=2:1271388
+Hospital Macabro	dub=0:311132
+Hospital Macabro - (2006)	dub=2:1057837
 Host	leg=0:76690
-Hostage House	dub=2:1269699
-Hostiles	dub=0:21382,2:1068942
-Hosts	dub=2:1268748
-Hot Milk	dub=2:1271236
-Hot Potato The Story of The Wiggles	dub=2:1266467
-Hot Rod - Loucos Sobre Rodas	dub=0:95944,2:1046277
-Hot Seat	dub=0:164224	leg=0:164227,2:1025603
-Hot Wheels AcceleRacers: A Velocidade Do Silêncio	dub=0:356264,2:1265788
-Hotel Artemis	dub=0:333439,0:21619,0:21487,2:1060047,2:1022086	leg=0:333438,2:1249331
-Hotel Bitcoin	dub=2:1270106
-Hotel Coppelia	dub=0:186800,2:1041829	leg=0:186801,2:1034350
-Hotel Desire	leg=0:328980,2:1024836
-Hotel Dunsmuir	dub=0:350374,2:1268852	leg=0:350373,2:1268817
-Hotel Inferno	dub=2:1267608
-Hotel Inferno 2: A Catedral da Dor	dub=2:1267436
-Hotel Inferno 3: The Castle of Screams	dub=2:1271695	leg=2:1273082
-Hotel Ruanda	dub=0:352215,2:1066289	leg=0:352214,2:1033444
-Hotel Transilvania 2	dub=0:20372,2:1062483
-Hotel Transilvania 3	dub=0:20373,2:1062576
-Hotel Transilvânia	dub=0:318552,2:1067749	leg=0:318553,2:1249560
-Hotel Transilvânia: Transformonstrão	dub=0:318550,2:1061519	leg=0:318551,2:1035348
+Hostage House (2021)	dub=2:1269699
+Hostiles	dub=0:21382
+Hostiles - (2017)	dub=2:1068942
+Hosts (2020)	dub=2:1268748
+Hot Milk (2025)	dub=2:1271236
+Hot Potato The Story of The Wiggles (2023)	dub=2:1266467
+Hot Rod - Loucos Sobre Rodas	dub=0:95944
+Hot Rod - Loucos Sobre Rodas - (2007)	dub=2:1046277
+Hot Seat	dub=0:164224	leg=0:164227
+Hot Seat - (2022)	leg=2:1025603
+Hot Wheels AcceleRacers: A Velocidade Do Silêncio	dub=0:356264
+Hot Wheels AcceleRacers: A Velocidade Do Silêncio (2005)	dub=2:1265788
+Hotel Artemis	dub=0:333439,0:21619,0:21487	leg=0:333438
+Hotel Artemis - (2018)	dub=2:1060047,2:1022086	leg=2:1249331
+Hotel Bitcoin (2024)	dub=2:1270106
+Hotel Coppelia	dub=0:186800	leg=0:186801
+Hotel Coppelia - (2021)	dub=2:1041829	leg=2:1034350
+Hotel Desire	leg=0:328980
+Hotel Desire - (2011)	leg=2:1024836
+Hotel Dunsmuir	dub=0:350374	leg=0:350373
+Hotel Dunsmuir (2022)	dub=2:1268852	leg=2:1268817
+Hotel Inferno (2013)	dub=2:1267608
+Hotel Inferno 2: A Catedral da Dor (2017)	dub=2:1267436
+Hotel Inferno 3: The Castle of Screams (2020)	dub=2:1271695	leg=2:1273082
+Hotel Ruanda	dub=0:352215	leg=0:352214
+Hotel Ruanda - (2004)	dub=2:1066289	leg=2:1033444
+Hotel Transilvania 2	dub=0:20372
+Hotel Transilvania 2 - (2015)	dub=2:1062483
+Hotel Transilvania 3	dub=0:20373
+Hotel Transilvania 3 - (2018)	dub=2:1062576
+Hotel Transilvânia	dub=0:318552	leg=0:318553
+Hotel Transilvânia - (2012)	dub=2:1067749	leg=2:1249560
+Hotel Transilvânia: Transformonstrão	dub=0:318550	leg=0:318551
+Hotel Transilvânia: Transformonstrão - (2022)	dub=2:1061519	leg=2:1035348
 Hotel Transylvania 1	dub=0:20374
-Hotel do Medo	dub=0:353750,0:233498,2:1058250	leg=0:353749,0:233504,2:1248994
-HottieBoombaLottie	dub=0:357575,2:1267039
-Houdini O Homem Miraculoso	dub=0:100364,2:1045921
-Hour Of Lead	leg=0:68449,2:1249103
-House of Sayur	dub=2:1269587
-Housekeeping for Beginners	dub=0:286492,2:1054158	leg=0:286493,2:1249453
-Hovering Blade	dub=2:1265136	leg=0:266652,2:1249013
-How to Blow Up a Pipeline	dub=2:1266219
-How to Change the World	dub=2:1269042
-How to Have Sex	dub=0:301173,0:301172,2:1040479,2:1022872	leg=0:301174,0:246196,2:1027349
-How to Train Your Dragon: The Hidden World Legendado	dub=0:22009,2:1062289
-Howard o Super Heroi	dub=2:1270000
-Howard: Sons de um Gênio	dub=0:352406,2:1264988	leg=0:352405,2:1264967
-Huck e Zelensky - Não Está Tudo Bem	dub=0:286355,2:1271888
-Huda's Salon	dub=2:1270486	leg=2:1273127
-Hudson Hawk O Falcao Esta a Solta	dub=0:104414,2:1056770
-Hudson – Os Altos e Baixos da Vida	dub=0:215904,2:1053890	leg=0:215905,2:1030677
-Huesera	dub=2:1271115
-Huge Shark	dub=2:1271131
-Hulk	dub=2:1269958
-Hulk: Onde os Monstros Habitam	dub=0:382405,2:1272947
-Humane	leg=0:261684,2:1036146
-Humane: Até Onde O Ser Humano Pode Chegar	dub=0:352969,0:352967,2:1265191,2:1265168	leg=0:352968
-Humor Negro	dub=2:1270760
-Hungria: A Escolha de um Sonho	dub=2:1291026
-Hunted	dub=2:1270246	leg=0:92578,2:1030030
-Hunter Hunter	leg=0:92006,2:1249252
-Hunter x Hunter Fantasma Vermelho	dub=2:1268517
-Hunter x Hunter: A Ultima Missao	dub=2:1268980
-Hunting Games	leg=0:284329,2:1028133
-Hunting Grounds	leg=0:334600,2:1037332
-Hurricane – Livre como o Vento	dub=0:182289,2:1067522	leg=0:182276,2:1028455
-Hurricane: O Furacão	dub=0:204315,2:1042812
-Hurry Up Tomorrow: Além dos Holofotes	dub=0:330417,0:330416,2:1037946,2:1036882	leg=0:330415,0:328097,2:1037266
-Hush - A Morte Ouve	dub=0:64384,2:1043528
-Hustlers Legendado	dub=0:31745,2:1051256
-Hypnotic 4K	dub=0:190978,0:134589,2:1059439,2:1000487	leg=0:134588,2:1023751
-Hypnotic: Ameaça Invisível	dub=0:233525,2:1059602	leg=0:233526,2:1024077
-Há Algo no Celeiro	dub=0:230874,2:1039245	leg=0:230878,2:1249045
-Hércules	dub=0:376782,0:309714,0:133762,2:1056712,2:1055901
-Hércules e as Amazonas	dub=0:376916	leg=0:376915,2:1268376
-Hércules e o Círculo de Fogo	dub=0:376918,2:1268406	leg=0:376917,2:1268311
-Hércules no Mundo dos Mortos	dub=0:376919,2:1268411
+Hotel do Medo	dub=0:353750,0:233498	leg=0:353749,0:233504
+Hotel do Medo - (2018)	dub=2:1058250	leg=2:1248994
+HottieBoombaLottie	dub=0:357575
+HottieBoombaLottie (2008)	dub=2:1267039
+Houdini O Homem Miraculoso	dub=0:100364
+Houdini O Homem Miraculoso - (1953)	dub=2:1045921
+Hour Of Lead	leg=0:68449
+Hour Of Lead - (2020)	leg=2:1249103
+House of Sayur (2024)	dub=2:1269587
+Housekeeping for Beginners	dub=0:286492	leg=0:286493
+Housekeeping for Beginners - (2024)	dub=2:1054158	leg=2:1249453
+Hovering Blade	leg=0:266652
+Hovering Blade (2024)	dub=2:1265136	leg=2:1249013
+How to Blow Up a Pipeline (2023)	dub=2:1266219
+How to Change the World (2014)	dub=2:1269042
+How to Have Sex	dub=0:301173,0:301172	leg=0:301174,0:246196
+How to Have Sex - (2023)	dub=2:1040479,2:1022872	leg=2:1027349
+How to Train Your Dragon: The Hidden World Legendado	dub=0:22009
+How to Train Your Dragon: The Hidden World Legendado - (2019)	dub=2:1062289
+Howard o Super Heroi (1986)	dub=2:1270000
+Howard: Sons de um Gênio	dub=0:352406	leg=0:352405
+Howard: Sons de um Gênio (2018)	dub=2:1264988	leg=2:1264967
+Huck e Zelensky - Não Está Tudo Bem	dub=0:286355
+Huck e Zelensky Nao Esta Tudo Bem (2024)	dub=2:1271888
+Huda's Salon (2022)	dub=2:1270486	leg=2:1273127
+Hudson Hawk O Falcao Esta a Solta	dub=0:104414
+Hudson Hawk O Falcao Esta a Solta - (1991)	dub=2:1056770
+Hudson – Os Altos e Baixos da Vida	dub=0:215904	leg=0:215905
+Hudson – Os Altos e Baixos da Vida - (2019)	dub=2:1053890	leg=2:1030677
+Huesera (2023)	dub=2:1271115
+Huge Shark (2021)	dub=2:1271131
+Hulk (2003)	dub=2:1269958
+Hulk: Onde os Monstros Habitam	dub=0:382405
+Hulk: Onde os Monstros Habitam (2016)	dub=2:1272947
+Humane	leg=0:261684
+Humane - (2024)	leg=2:1036146
+Humane: Até Onde O Ser Humano Pode Chegar	dub=0:352969,0:352967	leg=0:352968
+Humane: Até Onde O Ser Humano Pode Chegar 4K (2024)	dub=2:1265191,2:1265168
+Humor Negro (2022)	dub=2:1270760
+Hungria: A Escolha de um Sonho (2026)	dub=2:1291026
+Hunted	leg=0:92578
+Hunted (2021)	dub=2:1270246	leg=2:1030030
+Hunter Hunter	leg=0:92006
+Hunter Hunter - (2020)	leg=2:1249252
+Hunter x Hunter Fantasma Vermelho (2013)	dub=2:1268517
+Hunter x Hunter: A Ultima Missao (2013)	dub=2:1268980
+Hunting Games	leg=0:284329
+Hunting Games - (2023)	leg=2:1028133
+Hunting Grounds	leg=0:334600
+Hunting Grounds - (2025)	leg=2:1037332
+Hurricane – Livre como o Vento	dub=0:182289	leg=0:182276
+Hurricane – Livre como o Vento - (2021)	dub=2:1067522	leg=2:1028455
+Hurricane: O Furacão	dub=0:204315
+Hurricane: O Furacão - (1999)	dub=2:1042812
+Hurry Up Tomorrow: Além dos Holofotes	dub=0:330417,0:330416	leg=0:330415,0:328097
+Hurry Up Tomorrow: Além dos Holofotes - (2025)	dub=2:1037946,2:1036882	leg=2:1037266
+Hush - A Morte Ouve (2016)	dub=0:64384,2:1043528
+Hustlers Legendado	dub=0:31745
+Hustlers Legendado - (2019)	dub=2:1051256
+Hypnotic - (2021)	dub=2:1059439,2:1000487	leg=2:1023751
+Hypnotic 4K	dub=0:190978,0:134589	leg=0:134588
+Hypnotic: Ameaça Invisível	dub=0:233525	leg=0:233526
+Hypnotic: Ameaça Invisível - (2023)	dub=2:1059602	leg=2:1024077
+Há Algo no Celeiro	dub=0:230874	leg=0:230878
+Há Algo no Celeiro - (2023)	dub=2:1039245	leg=2:1249045
+Hércules	dub=0:376782,0:309714,0:133762
+Hércules - (1997)	dub=2:1055901
+Hércules - (2014)	dub=2:1056712
+Hércules e as Amazonas	dub=0:376916	leg=0:376915
+Hércules e as Amazonas (1994)	leg=2:1268376
+Hércules e o Círculo de Fogo	dub=0:376918	leg=0:376917
+Hércules e o Círculo de Fogo (1994)	dub=2:1268406	leg=2:1268311
+Hércules no Mundo dos Mortos	dub=0:376919
+Hércules no Mundo dos Mortos (1994)	dub=2:1268411

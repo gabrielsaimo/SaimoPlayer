@@ -14,7 +14,8 @@ struct Serie: Identifiable, Hashable {
     var ano: String
     var pedaco: Int
     var episodios: Int
-    var id: String { titulo }
+    var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
+    var id: String { nomeCompleto }
 }
 
 struct Episodio: Identifiable, Hashable {
@@ -53,7 +54,7 @@ enum Vod {
     /// índice sem as linhas `base:` deixou todo filme com endereço quebrado.
     /// Guardar a versão junto e limpar a pasta quando ela muda evita que o
     /// formato velho envenene o novo.
-    private static let versaoCache = "2"
+    private static let versaoCache = "3"
 
     static func indice() async -> [Gaveta] {
         conferirVersao()
@@ -118,7 +119,11 @@ enum Vod {
         for linha in texto.split(separator: "\n", omittingEmptySubsequences: false) {
             if linha.hasPrefix("@") {
                 if dentro { break }
-                dentro = String(linha.dropFirst()) == serie.titulo
+                let identidade = linha.dropFirst().split(
+                    separator: "\t", omittingEmptySubsequences: false)
+                let titulo = identidade.first.map(String.init) ?? ""
+                let ano = identidade.count > 1 ? String(identidade[1]) : ""
+                dentro = titulo == serie.titulo && ano == serie.ano
                 continue
             }
             guard dentro else { continue }
@@ -141,7 +146,9 @@ enum Vod {
         let titulo: String
         let serie: Bool
         let letra: String
-        var id: String { (serie ? "s:" : "f:") + titulo }
+        let ano: String
+        var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
+        var id: String { (serie ? "s:" : "f:") + nomeCompleto }
     }
 
     @MainActor
@@ -162,7 +169,8 @@ enum Vod {
             guard campos.count >= 3, !campos[0].isEmpty else { return nil }
             return Achado(titulo: String(campos[0]),
                           serie: campos[1] == "s",
-                          letra: String(campos[2]))
+                          letra: String(campos[2]),
+                          ano: campos.count > 3 ? String(campos[3]) : "")
         }
         indiceBusca = lidos
         return lidos
@@ -181,7 +189,8 @@ enum Vod {
             for linha in texto.split(separator: "\n") {
                 let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
                 guard campos.count >= 2, !campos[0].isEmpty else { continue }
-                out.append(Achado(titulo: String(campos[0]), serie: false, letra: letra))
+                out.append(Achado(titulo: String(campos[0]), serie: false,
+                                  letra: letra, ano: ""))
             }
         }
         return out

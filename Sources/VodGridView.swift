@@ -13,8 +13,25 @@ struct VodGridView: View {
     @ObservedObject private var favoritos = VodFavoritos.shared
 
     @State private var carregando = false
+    @State private var selecaoFonte: SelecaoFonte?
 
     private let colunas = [GridItem(.adaptive(minimum: 168, maximum: 220), spacing: 18)]
+
+    private struct OpcaoFonte: Identifiable {
+        let versao: String
+        let url: String
+        let numero: Int
+        let total: Int
+        var id: String { "\(numero)|\(url)" }
+    }
+
+    private struct SelecaoFonte: Identifiable {
+        let id = UUID()
+        let nome: String
+        let detalhe: String
+        let chave: String
+        let opcoes: [OpcaoFonte]
+    }
 
     var body: some View {
         VStack(spacing: 0) {
@@ -31,9 +48,54 @@ struct VodGridView: View {
             if antiga != nova { estado.busca = "" }
             Task { await abrir() }
         }
+        .sheet(item: $selecaoFonte) { selecao in
+            seletorDeFontes(selecao)
+        }
     }
 
     // MARK: - Topo
+
+    private func seletorDeFontes(_ selecao: SelecaoFonte) -> some View {
+        VStack(alignment: .leading, spacing: 16) {
+            Text(selecao.nome)
+                .font(.title2.weight(.semibold))
+            Text("Escolha a fonte")
+                .foregroundStyle(.secondary)
+            ScrollView {
+                LazyVStack(spacing: 8) {
+                    ForEach(selecao.opcoes) { opcao in
+                        Button {
+                            selecaoFonte = nil
+                            tocar(selecao.nome, [opcao.url],
+                                  detalhe: detalheDaFonte(selecao.detalhe, opcao),
+                                  chave: selecao.chave)
+                        } label: {
+                            HStack {
+                                VStack(alignment: .leading, spacing: 3) {
+                                    Text("\(rotulo(opcao.versao)) · Fonte \(opcao.numero) de \(opcao.total)")
+                                        .font(.system(size: 14, weight: .medium))
+                                    Text(origem(opcao.url))
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                }
+                                Spacer()
+                                Image(systemName: "play.fill")
+                            }
+                            .padding(10)
+                            .contentShape(Rectangle())
+                        }
+                        .buttonStyle(.plain)
+                        .background(Color.white.opacity(0.06),
+                                    in: RoundedRectangle(cornerRadius: 8))
+                    }
+                }
+            }
+            Button("Cancelar", role: .cancel) { selecaoFonte = nil }
+                .keyboardShortcut(.cancelAction)
+        }
+        .padding(22)
+        .frame(minWidth: 440, minHeight: 260)
+    }
 
     private var cabecalho: some View {
         HStack(spacing: 12) {
@@ -41,7 +103,7 @@ struct VodGridView: View {
                 .font(.system(size: 20, weight: .semibold))
             if let serie = estado.serieAberta {
                 Image(systemName: "chevron.right").foregroundStyle(.secondary)
-                Text(serie.titulo).font(.system(size: 17))
+                Text(serie.nomeCompleto).font(.system(size: 17))
                 Button {
                     estado.serieAberta = nil
                 } label: {
@@ -159,18 +221,20 @@ struct VodGridView: View {
     /// O que uma célula precisa mostrar, venha de filme, série ou favorito.
     private struct Cartao: Identifiable {
         let titulo: String
+        let ano: String
         let serie: Bool
         let detalhe: String
         let progresso: Double?
         let letra: String
         let reservado: Bool
         let abrir: () -> Void
-        var id: String { (serie ? "s:" : "f:") + titulo }
+        var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
+        var id: String { (serie ? "s:" : "f:") + nomeCompleto }
     }
 
     private func grade(_ itens: [Cartao]) -> some View {
         let visiveis = estado.busca.isEmpty ? itens : itens.filter {
-            $0.titulo.localizedCaseInsensitiveContains(estado.busca)
+            $0.nomeCompleto.localizedCaseInsensitiveContains(estado.busca)
         }
         return Group {
             if visiveis.isEmpty {
@@ -199,7 +263,7 @@ struct VodGridView: View {
     private func celula(_ cartao: Cartao) -> some View {
         VStack(alignment: .leading, spacing: 7) {
             ZStack(alignment: .bottom) {
-                capa(cartao.titulo, serie: cartao.serie)
+                capa(cartao.nomeCompleto, serie: cartao.serie)
                 if let visto = cartao.progresso {
                     // A barra vai na própria capa: é onde o olho já está.
                     ProgressView(value: visto)
@@ -213,7 +277,7 @@ struct VodGridView: View {
             .contentShape(Rectangle())
             .onTapGesture { cartao.abrir() }
 
-            Text(cartao.titulo)
+            Text(cartao.nomeCompleto)
                 .font(.system(size: 13, weight: .medium))
                 .lineLimit(2, reservesSpace: true)
                 .foregroundStyle(.white)
@@ -222,13 +286,14 @@ struct VodGridView: View {
                 .foregroundStyle(.white.opacity(0.55))
                 .lineLimit(1)
         }
-        .help(cartao.titulo)
+        .help(cartao.nomeCompleto)
     }
 
     private func estrela(_ cartao: Cartao) -> some View {
         let item = VodFavoritos.Item(titulo: cartao.titulo, serie: cartao.serie,
-                                     letra: cartao.letra, reservado: cartao.reservado)
-        let marcado = favoritos.contem(cartao.titulo, serie: cartao.serie)
+                                     letra: cartao.letra, reservado: cartao.reservado,
+                                     ano: cartao.ano)
+        let marcado = favoritos.contem(cartao.titulo, serie: cartao.serie, ano: cartao.ano)
         return Button {
             favoritos.alternar(item)
         } label: {
@@ -271,6 +336,7 @@ struct VodGridView: View {
     private var itensFilmes: [Cartao] {
         estado.titulosFilme.map { filme in
             Cartao(titulo: filme.titulo,
+                   ano: "",
                    serie: false,
                    detalhe: detalheFilme(filme),
                    progresso: Progresso.fracao(Progresso.chaveFilme(filme.titulo)),
@@ -284,13 +350,13 @@ struct VodGridView: View {
     private var itensSeries: [Cartao] {
         estado.titulosSerie.map { serie in
             Cartao(titulo: serie.titulo,
+                   ano: serie.ano,
                    serie: true,
-                   detalhe: [serie.ano, "\(serie.episodios) episódios"]
-                       .filter { !$0.isEmpty }.joined(separator: " · "),
+                   detalhe: "\(serie.episodios) episódios",
                    progresso: nil,
                    letra: estado.letra,
                    reservado: false) {
-                estado.ancora = serie.titulo
+                estado.ancora = "s:" + serie.nomeCompleto
                 abrirSerie(serie, letra: estado.letra)
             }
         }
@@ -301,6 +367,7 @@ struct VodGridView: View {
     private var itensDeTudo: [Cartao] {
         estado.achados.filter { $0.serie == (estado.secao == .series) }.map { achado in
             Cartao(titulo: achado.titulo,
+                   ano: achado.ano,
                    serie: achado.serie,
                    detalhe: achado.serie ? "Série" : "Filme",
                    progresso: achado.serie ? nil
@@ -315,6 +382,7 @@ struct VodGridView: View {
     private var itensFavoritos: [Cartao] {
         favoritos.itens.map { item in
             Cartao(titulo: item.titulo,
+                   ano: item.ano,
                    serie: item.serie,
                    detalhe: item.serie ? "Série" : "Filme",
                    progresso: item.serie ? nil
@@ -359,9 +427,9 @@ struct VodGridView: View {
     }
 
     private func linhaEpisodio(_ serie: Serie, _ episodio: Episodio) -> some View {
-        let chave = Progresso.chaveEpisodio(serie.titulo, episodio.temporada, episodio.numero)
+        let chave = Progresso.chaveEpisodio(
+            serie.nomeCompleto, episodio.temporada, episodio.numero)
         let detalhe = "Temporada \(episodio.temporada), episódio \(episodio.numero)"
-            + " · \(rotulo(episodio.versao))"
         return HStack(spacing: 12) {
             VStack(alignment: .leading, spacing: 4) {
                 HStack(spacing: 8) {
@@ -382,7 +450,9 @@ struct VodGridView: View {
             }
             Spacer()
             Button("Assistir") {
-                tocar(serie.titulo, episodio.urls, detalhe: detalhe, chave: chave)
+                escolherFonte(nome: serie.nomeCompleto,
+                              fontes: [episodio.versao: episodio.urls],
+                              detalhe: detalhe, chave: chave)
             }
             .controlSize(.small)
         }
@@ -436,13 +506,8 @@ struct VodGridView: View {
     }
 
     private func tocarFilme(_ filme: Filme) {
-        // Uma versão só: nada a escolher, toca. Duas: a preferida é a dublada,
-        // e a outra continua a um clique no menu de contexto da fonte.
-        let versao = filme.fontes.keys.sorted().first { $0 != "leg" }
-            ?? filme.fontes.keys.sorted().first
-        guard let versao, let urls = filme.fontes[versao] else { return }
-        tocar(filme.titulo, urls, detalhe: "Filme · \(rotulo(versao))",
-              chave: Progresso.chaveFilme(filme.titulo))
+        escolherFonte(nome: filme.titulo, fontes: filme.fontes, detalhe: "Filme",
+                      chave: Progresso.chaveFilme(filme.titulo))
     }
 
     private func carregarTudo() async {
@@ -459,7 +524,8 @@ struct VodGridView: View {
 
     private func abrirAchado(_ achado: Vod.Achado, reservado: Bool) async {
         await abrirFavorito(VodFavoritos.Item(titulo: achado.titulo, serie: achado.serie,
-                                              letra: achado.letra, reservado: reservado))
+                                              letra: achado.letra, reservado: reservado,
+                                              ano: achado.ano))
     }
 
     private func abrirFavorito(_ item: VodFavoritos.Item) async {
@@ -467,7 +533,9 @@ struct VodGridView: View {
         defer { carregando = false }
         if item.serie {
             guard let achada = await Vod.series(letra: item.letra)
-                .first(where: { $0.titulo == item.titulo }) else { return }
+                .first(where: {
+                    $0.titulo == item.titulo && (item.ano.isEmpty || $0.ano == item.ano)
+                }) else { return }
             estado.episodios = await Vod.episodios(letra: item.letra, serie: achada)
             estado.serieAberta = achada
         } else {
@@ -477,12 +545,46 @@ struct VodGridView: View {
         }
     }
 
+    /// Uma única fonte abre direto. Com duas ou mais, nenhuma ganha prioridade
+    /// escondida: idioma, número e servidor ficam visíveis antes do play.
+    private func escolherFonte(nome: String, fontes: [String: [String]],
+                               detalhe: String, chave: String) {
+        let ordenadas = fontes.keys.sorted {
+            let esquerda = ($0 == "leg" ? 1 : 0, $0)
+            let direita = ($1 == "leg" ? 1 : 0, $1)
+            return esquerda < direita
+        }
+        let pares = ordenadas.flatMap { versao in
+            (fontes[versao] ?? []).map { (versao, $0) }
+        }
+        let opcoes = pares.enumerated().map { indice, par in
+            OpcaoFonte(versao: par.0, url: par.1,
+                       numero: indice + 1, total: pares.count)
+        }
+        guard let unica = opcoes.first else { return }
+        if opcoes.count == 1 {
+            tocar(nome, [unica.url], detalhe: detalheDaFonte(detalhe, unica), chave: chave)
+        } else {
+            selecaoFonte = SelecaoFonte(nome: nome, detalhe: detalhe,
+                                        chave: chave, opcoes: opcoes)
+        }
+    }
+
+    private func detalheDaFonte(_ base: String, _ opcao: OpcaoFonte) -> String {
+        "\(base) · \(rotulo(opcao.versao)) · Fonte \(opcao.numero) de \(opcao.total)"
+    }
+
+    private func origem(_ url: String) -> String {
+        URL(string: url)?.host?.replacingOccurrences(of: "www.", with: "")
+            ?? "Servidor não identificado"
+    }
+
     private func tocar(_ nome: String, _ urls: [String], detalhe: String, chave: String) {
         let destinos = urls.compactMap(URL.init(string:))
         guard !destinos.isEmpty else { return }
         // Guarda onde a pessoa estava: é para esta célula que a grade volta
         // quando ela reabrir para escolher o próximo.
-        estado.ancora = estado.serieAberta.map { "s:" + $0.titulo } ?? ("f:" + nome)
+        estado.ancora = estado.serieAberta.map { "s:" + $0.nomeCompleto } ?? ("f:" + nome)
         model.playFile(destinos, nome: nome, detalhe: detalhe, chave: chave)
         estado.secao = nil
     }

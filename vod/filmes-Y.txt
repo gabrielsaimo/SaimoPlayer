@@ -1,38 +1,61 @@
 Y2K	leg=0:305587
-Y2K: Bomba-Relógio	dub=2:1270705	leg=0:246972,2:1030386
-Y2K: O Bug do Milênio	dub=0:320777,2:1060000	leg=0:320776,2:1033354
-YOLO: O Destino de Le Ying	dub=0:284054,2:1047207	leg=0:284055,2:1026421
-Yaksha: Operação Implacável	dub=0:157430,2:1051189	leg=0:157424,2:1028189
-Yannick	dub=2:1269433	leg=0:256858,2:1027375
-Yara	dub=0:136800,2:1041268	leg=0:136773,2:1024617
-Yaõkwa - Imagem e Memória	dub=0:281523,2:1048866
-Yellow Cat	dub=2:1266034
-Yesterday	dub=0:30528,2:1267934
-Yesterday Legendado	dub=0:29642,2:1250061
-Yiya Murano: Muerte a la hora del té	dub=0:375719,2:1272335	leg=0:375718,2:1272329
-Yo Yo Honey Singh Famous -2024	leg=2:1266416
-Yo Yo Honey Singh: Famous	leg=0:300144,2:1033686
-Yonlu	dub=0:22112,2:1064955
-Yorimatã	dub=0:371964,2:1268105
-You Are Not My Mother	dub=2:1269341
-You Can't Escape Me	dub=0:194207,2:1050564
+Y2K Bomba Relogio (2023)	dub=2:1270705	leg=2:1030386
+Y2K: Bomba-Relógio	leg=0:246972
+Y2K: O Bug do Milênio	dub=0:320777	leg=0:320776
+Y2K: O Bug do Milênio - (2024)	dub=2:1060000	leg=2:1033354
+YOLO: O Destino de Le Ying	dub=0:284054	leg=0:284055
+YOLO: O Destino de Le Ying - (2024)	dub=2:1047207	leg=2:1026421
+Yaksha: Operação Implacável	dub=0:157430	leg=0:157424
+Yaksha: Operação Implacável - (2022)	dub=2:1051189	leg=2:1028189
+Yannick	leg=0:256858
+Yannick (2023)	dub=2:1269433	leg=2:1027375
+Yara	dub=0:136800	leg=0:136773
+Yara - (2021)	dub=2:1041268	leg=2:1024617
+Yaõkwa - Imagem e Memória	dub=0:281523
+Yaõkwa - Imagem e Memória - (2020)	dub=2:1048866
+Yellow Cat (2020)	dub=2:1266034
+Yesterday	dub=0:30528
+Yesterday (2019)	dub=2:1267934
+Yesterday Legendado	dub=0:29642
+Yesterday Legendado - (2019)	dub=2:1250061
+Yiya Murano: Muerte a la hora del té	dub=0:375719	leg=0:375718
+Yiya Murano: Muerte a la hora del té (2026)	dub=2:1272335	leg=2:1272329
+Yo Yo Honey Singh Famous - (2024)	leg=2:1266416,2:1033686
+Yo Yo Honey Singh: Famous	leg=0:300144
+Yonlu	dub=0:22112
+Yonlu - (2018)	dub=2:1064955
+Yorimatã	dub=0:371964
+Yorimatã (2016)	dub=2:1268105
+You Are Not My Mother (2022)	dub=2:1269341
+You Can't Escape Me	dub=0:194207
+You Can't Escape Me - (2023)	dub=2:1050564
 You Hurt My Feelings	leg=0:202575
-You Should Have Left	leg=0:48234,2:1028364
-You Tubers	dub=0:353687,2:1265305
-You and Me and Me	dub=2:1269051
+You Should Have Left	leg=0:48234
+You Should Have Left - (2020)	leg=2:1028364
+You Tubers	dub=0:353687
+You Tubers (2020)	dub=2:1265305
+You and Me and Me (2023)	dub=2:1269051
 You'll Never Find Me	leg=0:255027
-You're a Good Sport, Charlie Brown	dub=0:324021,2:1061986	leg=0:324020,2:1033721
-Young Hearts	dub=2:1269918
-Youngblood	dub=2:1261030	leg=0:378250,2:1271951
+You're a Good Sport, Charlie Brown	dub=0:324021	leg=0:324020
+You're a Good Sport, Charlie Brown - (1975)	dub=2:1061986	leg=2:1033721
+Young Hearts (2024)	dub=2:1269918
+Youngblood	leg=0:378250
+Youngblood (2026)	dub=2:1261030	leg=2:1271951
 Your Lucky Day	leg=0:246965
-Your Name Engraved Herein	leg=0:90758,2:1028602
-Youth Legendado	dub=2:1264588
-Yu Gi Oh Vinculos Alem do Tempo	dub=2:1270192
-Yu Yu Hakusho Invasores do Inferno	dub=2:1269525
-Yu-Gi-Oh! O Filme: Pirâmide de Luz	dub=0:375064,2:1271926
-Yu-Gi-Oh! O Lado Negro das Dimensoes	dub=2:1264785
-Yucatán	dub=0:76921,2:1055100
-Yummy	leg=0:68473,2:1035319
-Yuni	dub=2:1271768
-Yuri Marçal: Ledo Engano	dub=0:161982,2:1054449
-Yves Saint Laurent	leg=0:285096,2:1028293
+Your Name Engraved Herein	leg=0:90758
+Your Name Engraved Herein - (2020)	leg=2:1028602
+Youth Legendado (2026)	dub=2:1264588
+Yu Gi Oh Vinculos Alem do Tempo (2010)	dub=2:1270192
+Yu Yu Hakusho Invasores do Inferno (1994)	dub=2:1269525
+Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	dub=2:1271926
+Yu-Gi-Oh! O Filme: Pirâmide de Luz	dub=0:375064
+Yu-Gi-Oh! O Lado Negro das Dimensoes (2016)	dub=2:1264785
+Yucatán	dub=0:76921
+Yucatán - (2018)	dub=2:1055100
+Yummy	leg=0:68473
+Yummy - (2019)	leg=2:1035319
+Yuni (2021)	dub=2:1271768
+Yuri Marçal: Ledo Engano	dub=0:161982
+Yuri Marçal: Ledo Engano - (2022)	dub=2:1054449
+Yves Saint Laurent	leg=0:285096
+Yves Saint Laurent - (2014)	leg=2:1028293

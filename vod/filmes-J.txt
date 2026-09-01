@@ -1,398 +1,716 @@
-J. Edgar	dub=0:340463,0:104417,2:1045353	leg=0:340462,2:1024557
-JFK: A Pergunta Que Não Quer Calar	dub=0:380524,2:1272581	leg=0:380523,2:1272578
-JFK: What The Doctors Saw	leg=0:367412,2:1267806
-JIM GAFFIGAN Revelando Segredos	dub=2:1271896
-JJ+E 4K	dub=0:297430,0:127466,2:1063365,2:1022531	leg=0:127411,2:1032607
+J. Edgar	dub=0:340463,0:104417	leg=0:340462
+J. Edgar - (2011)	dub=2:1045353	leg=2:1024557
+JFK: A Pergunta Que Não Quer Calar	dub=0:380524	leg=0:380523
+JFK: A Pergunta Que Não Quer Calar (1991)	dub=2:1272581	leg=2:1272578
+JFK: What The Doctors Saw	leg=0:367412
+JFK: What The Doctors Saw (2023)	leg=2:1267806
+JIM GAFFIGAN Revelando Segredos (2024)	dub=2:1271896
+JJ+E - (2021)	dub=2:1063365,2:1022531	leg=2:1032607
+JJ+E 4K	dub=0:297430,0:127466	leg=0:127411
 JOTA25 Ao Vivo	dub=0:200993
 JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie	leg=0:381788
-JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie Legendado	dub=2:1261943
-Ja Nao me Sinto em Casa Nesse Mundo	dub=0:20636,2:1052113
-Jaat	dub=2:1267213	leg=0:329331,2:1038340
-Jack	dub=0:320231,2:1067981
-Jack & Jill Nos Passos do Amor	dub=0:254783,2:1064258	leg=0:254784,2:1028682
-Jack Chega A Tempo Para O Natal	dub=0:297431,2:1050183	leg=0:297432,2:1249419
-Jack Osbourne: Em Busca dos Óvnis	dub=0:182918,2:1048278
-Jack Reacher o Ultimo Tiro	dub=0:20061,2:1044899
-Jack Reacher: Sem Retorno	dub=0:382559,0:20060,2:1043270	leg=0:382558,2:1272932
-Jack Ryan de Tom Clancy: Guerra Fantasma 4K	dub=0:378994,0:378746,0:378745,2:1272029,2:1261026
-Jack Walker, Um Herói em Ação	dub=0:219670,2:1046234	leg=0:219669,2:1249377
-Jack, O Estripador: A História não Contada	dub=0:133793,2:1058148	leg=0:133787,2:1026589
-Jack: A Caixa Maldita	dub=0:169632,2:1058109	leg=0:169639,2:1028789
-Jack: A Caixa Maldita 2 - O Despertar	dub=0:335993,0:212428,2:1249963	leg=0:335992,0:212427,2:1031180
-Jack: A Caixa Maldita 3 - A Ascensão	dub=0:291901,2:1057726	leg=0:291902,2:1249471
-Jack: O Caçador de Gigantes	dub=0:265790,2:1038930
-Jackass 2 O Filme	dub=0:97181,2:1048111
-Jackass 2.5	dub=0:372761,2:1265929	leg=0:372760,2:1272077
-Jackass 3	dub=2:1270520
-Jackass 3.5	dub=0:97182,2:1049158
-Jackass 4.5	dub=0:160410,2:1048378	leg=0:160430,2:1249080
-Jackass Apresenta: Vovô Sem Vergonha	dub=0:97220,2:1053086
-Jackass Nadando com Tubaroes	dub=0:148739,2:1048330
-Jackass O Filme	dub=0:97183,2:1049092
-Jackass para Sempre	dub=0:156683,2:1048623	leg=0:156698,2:1034529
-Jackass: O Último é o Melhor	dub=2:1292882
-Jackie Brown	dub=0:363880,2:1267141	leg=0:363879,2:1267163
-Jackpot: Loteria Mortal	dub=0:280999,0:280998,2:1047063,2:1022033	leg=0:281000,2:1029402
-Jaco	dub=2:1271079
-Jacob Tyler	dub=2:1268690
-Jacquin Como Você Nunca Viu!	dub=0:356893,2:1264663
-Jade Black, a Agente Secreta	dub=0:249705,2:1046696	leg=0:249706,2:1035695
-Jade Dynasty	leg=0:67489,2:1030549
-Jade: Guerreira Solitária	dub=0:259320,2:1046693	leg=0:259321,2:1034342
-Jaguaretê-Avá: Pantanal em Chamas	dub=0:194872,0:194871,2:1072559
-Jagun Jagun: O Guerreiro	dub=0:208323,2:1046886	leg=0:208322,2:1026486
-Jailangkung: Sandekala	dub=0:194170,2:1071271
+JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie Legendado (2025)	dub=2:1261943
+Ja Nao me Sinto em Casa Nesse Mundo	dub=0:20636
+Ja Nao me Sinto em Casa Nesse Mundo - (2017)	dub=2:1052113
+Jaat	leg=0:329331
+Jaat (2025)	dub=2:1267213	leg=2:1038340
+Jack	dub=0:320231
+Jack & Jill Nos Passos do Amor	dub=0:254783	leg=0:254784
+Jack & Jill Nos Passos do Amor - (2022)	dub=2:1064258	leg=2:1028682
+Jack - (1996)	dub=2:1067981
+Jack Chega A Tempo Para O Natal	dub=0:297431	leg=0:297432
+Jack Chega A Tempo Para O Natal - (2024)	dub=2:1050183	leg=2:1249419
+Jack Osbourne: Em Busca dos Óvnis	dub=0:182918
+Jack Osbourne: Em Busca dos Óvnis - (2022)	dub=2:1048278
+Jack Reacher o Ultimo Tiro	dub=0:20061
+Jack Reacher o Ultimo Tiro - (2012)	dub=2:1044899
+Jack Reacher: Sem Retorno	dub=0:382559,0:20060	leg=0:382558
+Jack Reacher: Sem Retorno (2016)	dub=2:1043270	leg=2:1272932
+Jack Ryan de Tom Clancy: Guerra Fantasma 4K	dub=0:378994,0:378746,0:378745
+Jack Ryan de Tom Clancy: Guerra Fantasma 4K (2026)	dub=2:1272029,2:1261026
+Jack Walker, Um Herói em Ação	dub=0:219670	leg=0:219669
+Jack Walker, Um Herói em Ação - (2021)	dub=2:1046234	leg=2:1249377
+Jack, O Estripador: A História não Contada	dub=0:133793	leg=0:133787
+Jack, O Estripador: A História não Contada - (2021)	dub=2:1058148	leg=2:1026589
+Jack: A Caixa Maldita	dub=0:169632	leg=0:169639
+Jack: A Caixa Maldita - (2019)	dub=2:1058109	leg=2:1028789
+Jack: A Caixa Maldita 2 - O Despertar	dub=0:335993,0:212428	leg=0:335992,0:212427
+Jack: A Caixa Maldita 2 - O Despertar - (2022)	dub=2:1249963	leg=2:1031180
+Jack: A Caixa Maldita 3 - A Ascensão	dub=0:291901	leg=0:291902
+Jack: A Caixa Maldita 3 - A Ascensão - (2024)	dub=2:1057726	leg=2:1249471
+Jack: O Caçador de Gigantes	dub=0:265790
+Jack: O Caçador de Gigantes - (2013)	dub=2:1038930
+Jackass 2 O Filme	dub=0:97181
+Jackass 2 O Filme - (2006)	dub=2:1048111
+Jackass 2.5	dub=0:372761	leg=0:372760
+Jackass 2.5 (2007)	dub=2:1265929	leg=2:1272077
+Jackass 3 (2010)	dub=2:1270520
+Jackass 3.5	dub=0:97182
+Jackass 3.5 - (2011)	dub=2:1049158
+Jackass 4.5	dub=0:160410	leg=0:160430
+Jackass 4.5 - (2022)	dub=2:1048378	leg=2:1249080
+Jackass Apresenta: Vovô Sem Vergonha	dub=0:97220
+Jackass Apresenta: Vovô Sem Vergonha - (2014)	dub=2:1053086
+Jackass Nadando com Tubaroes	dub=0:148739
+Jackass Nadando com Tubaroes - (2021)	dub=2:1048330
+Jackass O Filme	dub=0:97183
+Jackass O Filme - (2002)	dub=2:1049092
+Jackass para Sempre	dub=0:156683	leg=0:156698
+Jackass para Sempre - (2022)	dub=2:1048623	leg=2:1034529
+Jackass: O Último é o Melhor (2026)	dub=2:1292882
+Jackie Brown	dub=0:363880	leg=0:363879
+Jackie Brown (1997)	dub=2:1267141	leg=2:1267163
+Jackpot: Loteria Mortal	dub=0:280999,0:280998	leg=0:281000
+Jackpot: Loteria Mortal - (2024)	dub=2:1047063,2:1022033	leg=2:1029402
+Jaco (1994)	dub=2:1271079
+Jacob Tyler (2024)	dub=2:1268690
+Jacquin Como Você Nunca Viu!	dub=0:356893
+Jacquin Como Você Nunca Viu! (2025)	dub=2:1264663
+Jade Black, a Agente Secreta	dub=0:249705	leg=0:249706
+Jade Black, a Agente Secreta - (2020)	dub=2:1046696	leg=2:1035695
+Jade Dynasty	leg=0:67489
+Jade Dynasty - (2019)	leg=2:1030549
+Jade: Guerreira Solitária	dub=0:259320	leg=0:259321
+Jade: Guerreira Solitária - (2024)	dub=2:1046693	leg=2:1034342
+Jaguaretê-Avá: Pantanal em Chamas	dub=0:194872,0:194871
+Jaguaretê-Avá: Pantanal em Chamas - (2021)	dub=2:1072559
+Jagun Jagun: O Guerreiro	dub=0:208323	leg=0:208322
+Jagun Jagun: O Guerreiro - (2023)	dub=2:1046886	leg=2:1026486
+Jailangkung: Sandekala	dub=0:194170
+Jailangkung: Sandekala - (2022)	dub=2:1071271
 Jailer	leg=0:378714
-Jake Grandao	dub=2:1270977
-Jakob's Wife	dub=2:1264694
-Jallikattu	dub=2:1271539
-Jalsa	dub=2:1270031
-Jamaica Abaixo de Zero	dub=0:366096,2:1269540	leg=0:366095,2:1266938
-Jamais Fomos Modernos	leg=0:369376,2:1272419
-James Brown - Live In Montreux Jazz Festival 1981	dub=2:1270130
-James Brown Live	dub=0:21964,2:1071878
-James e o Pessego Gigante	dub=2:1266849
-Jamie Foxx: What Had Happened Was...	dub=2:1269342	leg=0:299621,2:1025000
-Jamón, jamón	dub=0:309530,2:1064610	leg=0:309531,2:1034432
-Jane A Mae dos Chimpanzes	dub=2:1268525
-Jane Austen Destruiu Minha Vida	dub=0:347672,2:1249849	leg=0:347671,2:1249856
-Jane Eyre	dub=0:21013,2:1064952
-Jane Goodall: A Esperança	dub=0:163587,2:1048463	leg=0:163583,2:1035009
-Jane Não Está Bem	dub=0:371665,2:1268016	leg=0:371664,2:1268030
-Jane par Charlotte	dub=2:1270979
-Janela Para a Morte	dub=2:1271166
-Janelas Para o Mundo	dub=0:241785,0:241784,2:1040875
-Jardim do Éden	dub=0:366330,2:1267400	leg=0:366329,2:1267398
-Jardim dos Desejos	dub=0:300835,2:1070131	leg=0:300836,2:1029853
-Jardim dos Girassóis	dub=0:305215,2:1044846
-Jards	dub=0:371895,2:1268087
-Jasao e o Velo de Ouro	dub=2:1270009
-Jason Bourne	dub=0:375051,0:79305,2:1057103	leg=0:375050,2:1272277
-Jason Vai para o Inferno: A Última Sexta-Feira	dub=0:270425,0:134042,2:1058883
-Jason X	dub=0:317709,0:270426,2:1059591	leg=0:317710,2:1028041
-Jaula	dub=0:178558,2:1070574	leg=0:178579,2:1025717
-Javier Milei: la revolución liberal	dub=0:347180,2:1046085	leg=0:347179,2:1036608
-Jawan	dub=2:1266714
-Jaws vs. the Meg	dub=0:346836,2:1049470	leg=0:346835,2:1036402
-Jay Kelly	dub=0:355562,2:1254626	leg=0:355561,2:1265607
-Jayne Mansfield, Minha Mãe	dub=2:1271901	leg=0:330418,2:1037466
-Je Suis Karl	dub=0:129588,2:1043757	leg=0:129591,2:1027582
-Jeanne du Barry	dub=2:1270081
-Jeca Contra o Capeta	dub=2:1270827
-Jeca Tatu	dub=2:1269800
+Jake Grandao (1971)	dub=2:1270977
+Jakob's Wife (2021)	dub=2:1264694
+Jallikattu (2019)	dub=2:1271539
+Jalsa (2022)	dub=2:1270031
+Jamaica Abaixo de Zero	dub=0:366096	leg=0:366095
+Jamaica Abaixo de Zero (1993)	dub=2:1269540	leg=2:1266938
+Jamais Fomos Modernos	leg=0:369376
+Jamais Fomos Modernos (2023)	leg=2:1272419
+James Brown - Live In Montreux Jazz Festival (1981)	dub=2:1270130
+James Brown Live	dub=0:21964
+James Brown Live - (2008)	dub=2:1071878
+James e o Pessego Gigante (1996)	dub=2:1266849
+Jamie Foxx What Had Happened Was (2024)	dub=2:1269342	leg=2:1025000
+Jamie Foxx: What Had Happened Was...	leg=0:299621
+Jamón, jamón	dub=0:309530	leg=0:309531
+Jamón, jamón - (1992)	dub=2:1064610	leg=2:1034432
+Jane A Mae dos Chimpanzes (2017)	dub=2:1268525
+Jane Austen Destruiu Minha Vida	dub=0:347672	leg=0:347671
+Jane Austen Destruiu Minha Vida - (2025)	dub=2:1249849	leg=2:1249856
+Jane Eyre	dub=0:21013
+Jane Eyre - (2011)	dub=2:1064952
+Jane Goodall: A Esperança	dub=0:163587	leg=0:163583
+Jane Goodall: A Esperança - (2020)	dub=2:1048463	leg=2:1035009
+Jane Não Está Bem	dub=0:371665	leg=0:371664
+Jane Não Está Bem (2023)	dub=2:1268016	leg=2:1268030
+Jane par Charlotte (2022)	dub=2:1270979
+Janela Para a Morte (2018)	dub=2:1271166
+Janelas Para o Mundo	dub=0:241785,0:241784
+Janelas Para o Mundo - (2019)	dub=2:1040875
+Jardim do Éden	dub=0:366330	leg=0:366329
+Jardim do Éden (2025)	dub=2:1267400	leg=2:1267398
+Jardim dos Desejos	dub=0:300835	leg=0:300836
+Jardim dos Desejos - (2023)	dub=2:1070131	leg=2:1029853
+Jardim dos Girassóis	dub=0:305215
+Jardim dos Girassóis - (2024)	dub=2:1044846
+Jards	dub=0:371895
+Jards (2013)	dub=2:1268087
+Jasao e o Velo de Ouro (1963)	dub=2:1270009
+Jason Bourne	dub=0:375051,0:79305	leg=0:375050
+Jason Bourne (2016)	dub=2:1057103	leg=2:1272277
+Jason Vai para o Inferno: A Última Sexta-Feira	dub=0:270425,0:134042
+Jason Vai para o Inferno: A Última Sexta-Feira - (1993)	dub=2:1058883
+Jason X	dub=0:317709,0:270426	leg=0:317710
+Jason X - (2001)	dub=2:1059591	leg=2:1028041
+Jaula	dub=0:178558	leg=0:178579
+Jaula - (2022)	dub=2:1070574	leg=2:1025717
+Javier Milei: la revolución liberal	dub=0:347180	leg=0:347179
+Javier Milei: la revolución liberal - (2023)	dub=2:1046085	leg=2:1036608
+Jawan (2023)	dub=2:1266714
+Jaws vs. the Meg	dub=0:346836	leg=0:346835
+Jaws vs. the Meg - (2023)	dub=2:1049470	leg=2:1036402
+Jay Kelly	dub=0:355562	leg=0:355561
+Jay Kelly (2025)	dub=2:1254626	leg=2:1265607
+Jayne Mansfield Minha Mae (2025)	dub=2:1271901	leg=2:1037466
+Jayne Mansfield, Minha Mãe	leg=0:330418
+Je Suis Karl	dub=0:129588	leg=0:129591
+Je Suis Karl - (2021)	dub=2:1043757	leg=2:1027582
+Jeanne du Barry (2023)	dub=2:1270081
+Jeca Contra o Capeta (1976)	dub=2:1270827
+Jeca Tatu (1959)	dub=2:1269800
 Jeca e Seu Filho Preto	dub=0:320894
-Jecao... Um Fofoqueiro no Ceu	dub=2:1269171
-Jenni	dub=2:1271591
-Jennifer 8 - A Próxima Vítima	dub=0:354228,2:1265583	leg=0:354227,2:1265617
-Jennifer Lopez Halftime	dub=2:1267000
-Jenny Slate: Seasoned Professional	dub=2:1271827	leg=0:251171,2:1026289
-Jeremiah Terminator LeRoy	dub=0:31904,2:1045834
-Jeritan Malam	dub=2:1269320
-Jerry & Marge Tiram a Sorte Grande 4K	dub=0:162718,0:162355,0:162344,2:1054265,2:1022099
-Jerry Maguire: A Grande Virada	dub=0:112990,0:96028,2:1065016
-Jerry West: O Logo	leg=0:374630,2:1272237
-Jeruzalem	dub=2:1265945
-Jessabelle: O Passado Nunca Morre	dub=0:353005,2:1043678	leg=0:353004,2:1249426
-Jesse James	dub=2:1269048
-Jesse James - O Roubo do Trem Negro	dub=2:1273229
-Jesse Stone Perdido no Paraiso	dub=2:1270452	leg=2:1273063
-Jesse Stone: Benefício da Dúvida	dub=0:368217,2:1268197	leg=0:368216,2:1268183
-Jesse Stone: Gelo Fino	dub=0:369411,2:1272475	leg=0:369410,2:1272405
-Jesse Stone: Inocentes Perdidos	dub=0:369413,2:1272493	leg=0:369412,2:1272409
-Jesse Stone: Sem Remorso	dub=0:369415,2:1272465	leg=0:369414,2:1272398
-Jesse Stone: Tempo de Despertar	dub=0:369417,2:1272488	leg=0:369416,2:1272401
-Jester: A Morte Sorri	dub=0:233789,2:1069753	leg=0:233788,2:1036106
-Jester: Não Dá para Enganar A Morte Duas Vezes	dub=0:377112,2:1260302	leg=0:377111,2:1268272
-Jesus	dub=0:48187,2:1050815
-Jesus - A História do Nascimento	dub=0:120663,2:1042060
-Jesus Cristo Superstar	dub=2:1271941
+Jecao... Um Fofoqueiro no Ceu (1977)	dub=2:1269171
+Jenni (2024)	dub=2:1271591
+Jennifer 8 - A Próxima Vítima	dub=0:354228	leg=0:354227
+Jennifer 8 - A Próxima Vítima (1992)	dub=2:1265583	leg=2:1265617
+Jennifer Lopez Halftime (2022)	dub=2:1267000
+Jenny Slate Seasoned Professional (2024)	dub=2:1271827	leg=2:1026289
+Jenny Slate: Seasoned Professional	leg=0:251171
+Jeremiah Terminator LeRoy	dub=0:31904
+Jeremiah Terminator LeRoy - (2019)	dub=2:1045834
+Jeritan Malam (2019)	dub=2:1269320
+Jerry & Marge Tiram a Sorte Grande - (2022)	dub=2:1054265,2:1022099
+Jerry & Marge Tiram a Sorte Grande 4K	dub=0:162718,0:162355,0:162344
+Jerry Maguire: A Grande Virada	dub=0:112990,0:96028
+Jerry Maguire: A Grande Virada - (1996)	dub=2:1065016
+Jerry West: O Logo	leg=0:374630
+Jerry West: O Logo (2026)	leg=2:1272237
+Jeruzalem (2016)	dub=2:1265945
+Jessabelle: O Passado Nunca Morre	dub=0:353005	leg=0:353004
+Jessabelle: O Passado Nunca Morre - (2014)	dub=2:1043678	leg=2:1249426
+Jesse James (1939)	dub=2:1269048
+Jesse James - O Roubo do Trem Negro (2018)	dub=2:1273229
+Jesse Stone Perdido no Paraiso (2015)	dub=2:1270452	leg=2:1273063
+Jesse Stone: Benefício da Dúvida	dub=0:368217	leg=0:368216
+Jesse Stone: Benefício da Dúvida (2012)	dub=2:1268197	leg=2:1268183
+Jesse Stone: Gelo Fino	dub=0:369411	leg=0:369410
+Jesse Stone: Gelo Fino (2009)	dub=2:1272475	leg=2:1272405
+Jesse Stone: Inocentes Perdidos	dub=0:369413	leg=0:369412
+Jesse Stone: Inocentes Perdidos (2011)	dub=2:1272493	leg=2:1272409
+Jesse Stone: Sem Remorso	dub=0:369415	leg=0:369414
+Jesse Stone: Sem Remorso (2010)	dub=2:1272465	leg=2:1272398
+Jesse Stone: Tempo de Despertar	dub=0:369417	leg=0:369416
+Jesse Stone: Tempo de Despertar (2007)	dub=2:1272488	leg=2:1272401
+Jester: A Morte Sorri	dub=0:233789	leg=0:233788
+Jester: A Morte Sorri - (2023)	dub=2:1069753	leg=2:1036106
+Jester: Não Dá para Enganar A Morte Duas Vezes	dub=0:377112	leg=0:377111
+Jester: Não Dá para Enganar A Morte Duas Vezes (2025)	dub=2:1260302	leg=2:1268272
+Jesus	dub=0:48187
+Jesus - (1999)	dub=2:1050815
+Jesus - A História do Nascimento	dub=0:120663
+Jesus - A História do Nascimento - (2006)	dub=2:1042060
+Jesus Cristo Superstar (1973)	dub=2:1271941
 Jesus De Nazare 1	dub=0:21525
 Jesus De Nazare 2	dub=0:21526
 Jesus De Nazare 3	dub=0:21527
-Jesus De Nazare 4	dub=0:21528,2:1045915
-Jesus Kid	dub=0:336841,0:185837,2:1069226
-Jesus Segundo o Evangelho de Lucas	dub=2:1271812
-Jesus: Seguindo os Passos do Messias	dub=0:317470,2:1267428
-Jeungin	leg=0:73278,2:1036221
-Jewel Thief - The Heist Begins	dub=0:319124,2:1037707	leg=0:319125,2:1038430
-Jexi	leg=0:33378,2:1030581
-Jexi: Um Celular Sem Filtro	dub=0:42952,2:1053785
-Jezabel	dub=2:1269092
-Jiang Ziya The Legend of Deification	dub=2:1271728
-Jigarthanda DoubleX	dub=2:1270308	leg=0:246200,2:1025180
-Jim Henson, o Homem-Ideia	dub=2:1270771	leg=0:264116,2:1034716
-Jim Jefferies Two Limb Policy	dub=2:1271857
-Jim Knopf e Lucas: O Maquinista	dub=0:177207,2:1067590	leg=0:177206,2:1249440
-Jim Knopf e os 13 Piratas	dub=0:227024,2:1038845	leg=0:227032,2:1026685
-Jimmy - Um Elo de Amor	dub=2:1273239
-Jiu Jitsu	dub=0:376786,0:93653,2:1249773	leg=0:376785,0:92579,2:1034958
-Jo Pil-ho - O Despertar da Ira	dub=0:48228,2:1052309
-Joana D'Arc	dub=0:111590,2:1266367,2:1045257
-Joao de Deus - O Silencio e uma Prece	dub=2:1266801
-Joao e Maria Cacadores de Bruxas	dub=0:21304,2:1039147
-Joaquim	dub=2:1269748
-Jobs	dub=2:1266080
-Jockey	dub=0:202592,2:1041522	leg=0:202593,2:1035525
+Jesus De Nazare 4	dub=0:21528
+Jesus De Nazare 4 - (1942)	dub=2:1045915
+Jesus Kid	dub=0:336841,0:185837
+Jesus Kid - (2022)	dub=2:1069226
+Jesus Seguindo os Passos do Messias (2022)	dub=2:1267428
+Jesus Segundo o Evangelho de Lucas (1979)	dub=2:1271812
+Jesus: Seguindo os Passos do Messias	dub=0:317470
+Jeungin	leg=0:73278
+Jeungin - (1980)	leg=2:1036221
+Jewel Thief - The Heist Begins	dub=0:319124	leg=0:319125
+Jewel Thief - The Heist Begins - (2025)	dub=2:1037707	leg=2:1038430
+Jexi	leg=0:33378
+Jexi - (2019)	leg=2:1030581
+Jexi: Um Celular Sem Filtro	dub=0:42952
+Jexi: Um Celular Sem Filtro - (2019)	dub=2:1053785
+Jezabel (2022)	dub=2:1269092
+Jiang Ziya The Legend of Deification (2020)	dub=2:1271728
+Jigarthanda DoubleX	leg=0:246200
+Jigarthanda DoubleX (2023)	dub=2:1270308	leg=2:1025180
+Jim Henson o Homem Ideia (2024)	dub=2:1270771	leg=2:1034716
+Jim Henson, o Homem-Ideia	leg=0:264116
+Jim Jefferies Two Limb Policy (2025)	dub=2:1271857
+Jim Knopf e Lucas: O Maquinista	dub=0:177207	leg=0:177206
+Jim Knopf e Lucas: O Maquinista - (2018)	dub=2:1067590	leg=2:1249440
+Jim Knopf e os 13 Piratas	dub=0:227024	leg=0:227032
+Jim Knopf e os 13 Piratas - (2020)	dub=2:1038845	leg=2:1026685
+Jimmy - Um Elo de Amor (2013)	dub=2:1273239
+Jiu Jitsu	dub=0:376786,0:93653	leg=0:376785,0:92579
+Jiu Jitsu - (2020)	dub=2:1249773	leg=2:1034958
+Jo Pil-ho - O Despertar da Ira	dub=0:48228
+Jo Pil-ho - O Despertar da Ira - (2019)	dub=2:1052309
+Joana D'Arc	dub=0:111590
+Joana D'Arc (1999)	dub=2:1266367
+Joana D'Arc - (1948)	dub=2:1045257
+Joao de Deus - O Silencio e uma Prece (2018)	dub=2:1266801
+Joao e Maria Cacadores de Bruxas	dub=0:21304
+Joao e Maria Cacadores de Bruxas - (2013)	dub=2:1039147
+Joaquim (2017)	dub=2:1269748
+Jobs (2013)	dub=2:1266080
+Jockey	dub=0:202592	leg=0:202593
+Jockey - (2021)	dub=2:1041522	leg=2:1035525
 Joderism	dub=0:285087
-Joe Bell	dub=0:150135,2:1041578	leg=0:150134,2:1025947
-Joe Contra o Vulcão	dub=0:141569,2:1063574
-Joe Crist	dub=2:1265121
-Joe Kidd	dub=0:377233,2:1268389	leg=0:377232,2:1268370
-Joe O Pistoleiro Implacavel	dub=2:1268664
-Joe e a Viagem de Carro 4K	dub=0:368088,0:366876,2:1268141,2:1256887	leg=0:366875,2:1267572
-Joe e as Baratas	dub=0:128893,2:1038912
-Joey e Anna - Mundo de Aventuras	dub=0:267753,2:1248872	leg=0:267754,2:1035831
-Jogada Certa	dub=0:359745,0:310602,2:1064592	leg=0:359744,0:203501,2:1027005
-Jogada De Amor	dub=0:178839,2:1064488	leg=0:198723,2:1030302
-Jogada Decisiva	dub=0:326991,2:1040830	leg=0:326990,2:1028558
-Jogada Divina	dub=0:22029,2:1051338
-Jogada Final	dub=0:21461,2:1056776
-Jogada Perigosa	dub=2:1270737	leg=2:1273136
-Jogada de Gênio	dub=0:169394,2:1041067
-Jogada de Mestre	dub=0:366097,2:1272447,2:1266897
-Jogada de Rei	dub=2:1270800
-Jogada de Verão	dub=0:134051,2:1063906
+Joe Bell	dub=0:150135	leg=0:150134
+Joe Bell - (2021)	dub=2:1041578	leg=2:1025947
+Joe Contra o Vulcão	dub=0:141569
+Joe Contra o Vulcão - (1990)	dub=2:1063574
+Joe Crist (2024)	dub=2:1265121
+Joe Kidd	dub=0:377233	leg=0:377232
+Joe Kidd (1972)	dub=2:1268389	leg=2:1268370
+Joe O Pistoleiro Implacavel (1966)	dub=2:1268664
+Joe e a Viagem de Carro 4K	dub=0:368088,0:366876	leg=0:366875
+Joe e a Viagem de Carro 4K (2026)	dub=2:1268141,2:1256887	leg=2:1267572
+Joe e as Baratas	dub=0:128893
+Joe e as Baratas - (1996)	dub=2:1038912
+Joey e Anna - Mundo de Aventuras	dub=0:267753	leg=0:267754
+Joey e Anna - Mundo de Aventuras - (2022)	dub=2:1248872	leg=2:1035831
+Jogada Certa	dub=0:359745,0:310602	leg=0:359744,0:203501
+Jogada Certa - (2010)	dub=2:1064592	leg=2:1027005
+Jogada De Amor	dub=0:178839	leg=0:198723
+Jogada De Amor - (2022)	dub=2:1064488	leg=2:1030302
+Jogada Decisiva	dub=0:326991	leg=0:326990
+Jogada Decisiva - (1998)	dub=2:1040830	leg=2:1028558
+Jogada Divina	dub=0:22029
+Jogada Divina - (2014)	dub=2:1051338
+Jogada Final	dub=0:21461
+Jogada Final - (2018)	dub=2:1056776
+Jogada Perigosa (2022)	dub=2:1270737	leg=2:1273136
+Jogada de Gênio	dub=0:169394
+Jogada de Gênio - (2008)	dub=2:1041067
+Jogada de Mestre	dub=0:366097
+Jogada de Mestre (2000)	dub=2:1266897
+Jogada de Mestre (2015)	dub=2:1272447
+Jogada de Rei (2013)	dub=2:1270800
+Jogada de Verão	dub=0:134051
+Jogada de Verão - (2001)	dub=2:1063906
 Jogador No 1	dub=0:21305
-Jogador Numero 1	dub=0:22509,2:1059533
-Jogador N° 1	dub=0:376787,0:325912,2:1023017
-Jogando Sujo	dub=0:251970,2:1051202	leg=0:251971,2:1030781
-Jogando a Linha	dub=0:219930,0:219929,2:1066414,2:1023389	leg=0:219928,2:1029509
-Jogando com Prazer	dub=0:112429,2:1065921
-Jogando com o Amor	dub=0:269808,2:1049674	leg=0:269809,2:1034901
-Jogo Assassino	dub=0:89277,2:1044244
-Jogo Bonito	dub=0:255006,2:1041654	leg=0:255007,2:1030276
-Jogo Bruto	dub=0:101174,2:1052785
-Jogo Duplo	dub=0:329688,0:25518,2:1041320	leg=0:329687,2:1249270
-Jogo Entre Ladroes	dub=2:1271170
-Jogo Justo 4K	dub=0:219159,0:218864,2:1043126,2:1022818	leg=0:218865,2:1032422
-Jogo Pela Sobrevivência	dub=0:368219,2:1268237	leg=0:368218,2:1268243
-Jogo Perigoso	dub=0:136775,0:21014,2:1057936	leg=0:136791,2:1027147
-Jogo Perigoso: Vítimas da Legado	leg=0:192603,2:1031703
-Jogo Perigoso: Vítimas do Legado	dub=0:192604,2:1057614
-Jogo Sujo 4K	dub=0:374340,0:373350,0:353932,0:346838,2:1272122,2:1265390,2:1038635	leg=0:353931,0:346837,2:1265397,2:1038606
-Jogo da Vida	dub=0:21015,2:1266996
-Jogo das Traições	dub=0:150744,2:1043635	leg=0:150745,2:1035686
-Jogo de Amor em Florença	dub=0:230137,2:1057030
-Jogo de Amor em Las Vegas	dub=0:328237,0:20637,2:1064076	leg=0:328236,2:1029932
-Jogo de Assassinato	dub=0:297434,2:1043468	leg=0:297435,2:1024576
-Jogo de Bruxas	dub=0:337219,2:1057995	leg=0:337218,2:1032587
-Jogo de Espiões	dub=0:100921,2:1046269
-Jogo de Interesses	dub=0:144112,2:1042045
-Jogo de Intrigas	dub=0:322008,2:1044460
-Jogo de Poder	dub=0:361819,0:125982,2:1266839,2:1047822	leg=0:361818,2:1266832
-Jogo de Risco	dub=0:322009,2:1047104	leg=0:322010,2:1034821
-Jogo de Sacrifício	dub=0:313598,2:1058437	leg=0:313599,2:1032730
-Jogo de Sedução	dub=0:338626,2:1043743	leg=0:338625,2:1025045
+Jogador Numero 1	dub=0:22509
+Jogador Numero 1 - (2018)	dub=2:1059533
+Jogador N° 1	dub=0:376787,0:325912
+Jogador N° 1 4K - (2018)	dub=2:1023017
+Jogando Sujo	dub=0:251970	leg=0:251971
+Jogando Sujo - (2020)	dub=2:1051202	leg=2:1030781
+Jogando a Linha	dub=0:219930,0:219929	leg=0:219928
+Jogando a Linha - (2023)	dub=2:1066414,2:1023389	leg=2:1029509
+Jogando com Prazer	dub=0:112429
+Jogando com Prazer - (2009)	dub=2:1065921
+Jogando com o Amor	dub=0:269808	leg=0:269809
+Jogando com o Amor - (2020)	dub=2:1049674	leg=2:1034901
+Jogo Assassino	dub=0:89277
+Jogo Assassino - (2019)	dub=2:1044244
+Jogo Bonito	dub=0:255006	leg=0:255007
+Jogo Bonito - (2024)	dub=2:1041654	leg=2:1030276
+Jogo Bruto	dub=0:101174
+Jogo Bruto - (1986)	dub=2:1052785
+Jogo Duplo	dub=0:329688,0:25518	leg=0:329687
+Jogo Duplo - (2018)	dub=2:1041320	leg=2:1249270
+Jogo Entre Ladroes (2009)	dub=2:1271170
+Jogo Justo - (2023)	dub=2:1043126,2:1022818	leg=2:1032422
+Jogo Justo 4K	dub=0:219159,0:218864	leg=0:218865
+Jogo Pela Sobrevivência	dub=0:368219	leg=0:368218
+Jogo Pela Sobrevivência (2005)	dub=2:1268237	leg=2:1268243
+Jogo Perigoso	leg=0:136791
+Jogo Perigoso (2017)	dub=0:21014,2:1057936
+Jogo Perigoso (2022)	dub=0:136775
+Jogo Perigoso - (2020)	leg=2:1027147
+Jogo Perigoso: Vítimas da Legado	leg=0:192603
+Jogo Perigoso: Vítimas da Legado - (2022)	leg=2:1031703
+Jogo Perigoso: Vítimas do Legado	dub=0:192604
+Jogo Perigoso: Vítimas do Legado - (2022)	dub=2:1057614
+Jogo Sujo (1973)	dub=2:1265390	leg=2:1265397
+Jogo Sujo 4K	dub=0:374340,0:373350,0:353932,0:346838	leg=0:353931,0:346837
+Jogo Sujo 4K (2025)	dub=2:1272122,2:1038635	leg=2:1038606
+Jogo da Vida	dub=0:21015
+Jogo da Vida (2011)	dub=2:1266996
+Jogo das Traições	dub=0:150744	leg=0:150745
+Jogo das Traições - (2020)	dub=2:1043635	leg=2:1035686
+Jogo de Amor Em Las Vegas - (2008)	dub=2:1064076	leg=2:1029932
+Jogo de Amor em Florença	dub=0:230137
+Jogo de Amor em Florença - (2017)	dub=2:1057030
+Jogo de Amor em Las Vegas	dub=0:328237,0:20637	leg=0:328236
+Jogo de Assassinato	dub=0:297434	leg=0:297435
+Jogo de Assassinato - (2021)	dub=2:1043468	leg=2:1024576
+Jogo de Bruxas	dub=0:337219	leg=0:337218
+Jogo de Bruxas - (2023)	dub=2:1057995	leg=2:1032587
+Jogo de Espiões	dub=0:100921
+Jogo de Espiões - (2001)	dub=2:1046269
+Jogo de Interesses	dub=0:144112
+Jogo de Interesses - (2013)	dub=2:1042045
+Jogo de Intrigas	dub=0:322008
+Jogo de Intrigas - (2001)	dub=2:1044460
+Jogo de Poder	dub=0:361819,0:125982	leg=0:361818
+Jogo de Poder (2010)	dub=2:1266839	leg=2:1266832
+Jogo de Poder - (1995)	dub=2:1047822
+Jogo de Risco	dub=0:322009	leg=0:322010
+Jogo de Risco - (2003)	dub=2:1047104	leg=2:1034821
+Jogo de Sacrifício	dub=0:313598	leg=0:313599
+Jogo de Sacrifício - (2023)	dub=2:1058437	leg=2:1032730
+Jogo de Sedução	dub=0:338626	leg=0:338625
+Jogo de Sedução - (2003)	dub=2:1043743	leg=2:1025045
 Jogo de Traições - A Origem	dub=0:313104	leg=0:313105
-Jogo de Xadrez	dub=2:1271480
-Jogo do Amor	dub=0:352095,0:210701,2:1264870,2:1064682	leg=0:352094,0:210699,2:1264853,2:1026475
-Jogo do Destino	dub=0:258423,2:1043567	leg=0:258424,2:1029974
-Jogo do Dinheiro	dub=0:232161,2:1044252
-Jogos Entre Amigos	dub=0:91423,2:1053779
-Jogos Entre Amigos: Eulogia Atrapalhada	dub=0:228050,0:228049,2:1053763,2:1021703	leg=0:228051,2:1027529
-Jogos Letais	dub=0:379464,0:130270,2:1052742	leg=0:379463,2:1272575
-Jogos Mortais	dub=0:95879,2:1070844
-Jogos Mortais II	dub=0:95880,2:1057616
-Jogos Mortais III	dub=0:95881,2:1059334
-Jogos Mortais IV	dub=0:95882,2:1043520
-Jogos Mortais V	dub=0:95883,2:1059134
-Jogos Mortais VI	dub=0:95884,2:1044792
-Jogos Mortais X	dub=0:223096,0:223081,0:223079,2:1249676,2:1069513	leg=0:221638,2:1028359
-Jogos Mortais: Jigsaw	dub=0:95886,2:1070740
-Jogos Mortais: O Final	dub=0:95885,2:1051080
-Jogos Patrióticos	dub=0:111591,2:1051335
-Jogos Psicológicos	dub=0:179736,2:1043691	leg=0:179759,2:1030909
-Jogos Sombrios	dub=0:287361,2:1044007	leg=0:287362,2:1035027
-Jogos Trapacas e Dois Canos Fumegantes	dub=0:98616,2:1052380
-Jogos Virtuais: O Início	dub=0:202573,2:1053598	leg=0:202572,2:1034676
-Jogos Vorazes	dub=0:95929,2:1056636
-Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes	dub=0:233792,0:233791,2:1249680,2:1057434	leg=0:233793,2:1026640
-Jogos Vorazes: A Esperança - O Final	dub=0:324829,0:95932,2:1056143	leg=0:324828,2:1023772
-Jogos Vorazes: A Esperança - Parte 1	dub=0:95931,2:1061176
-Jogos Vorazes: Em Chamas	dub=0:95930,2:1061010
-Jogos de Amor	dub=0:247314,2:1064726,2:1023350	leg=0:247315,2:1035501
-Jogos de Caça	dub=0:351902,2:1264841	leg=0:351901
-Jogos de Estrada	dub=0:311134,2:1070503	leg=0:311135,2:1029772
-Jogos de Guerra	dub=2:1266076
-Jogos de Sedução 4K	dub=0:335680,0:335547,2:1249881,2:1036903	leg=0:335546,2:1038262
-Jogos do Poder	dub=0:110250,2:1045890
-Jogue ou Morra	dub=0:42505,2:1070751
-John Candy: Eu Me Amo	dub=2:1269300	leg=0:347673,2:1249869
-John Carter: Entre Dois Mundos	dub=0:77829,2:1060914
-John Farnham: Finding the Voice	dub=2:1265151	leg=0:261685,2:1034242
-John McAfee: Gênio, Polêmico e Fugitivo	dub=0:312323,2:1048542	leg=0:312324,2:1027484
-John Wick 1	dub=0:20066,2:1047569
-John Wick 2	dub=0:20067,2:1047487
-John Wick 3 4K	dub=0:28869,0:28766,0:28758,2:1267817,2:1021706
-John Wick 4: Baba Yaga 4K	dub=0:377995,0:198451,0:198450,2:1249623,2:1050968	leg=0:196710,2:1024324
-John Wick Chapter 3 Parabellum Legendado	dub=0:28683,2:1046416
-John and Carolyn: Love, Beauty and Loss	leg=0:372415,2:1272020
-John e o Potrinho Mágico	dub=0:178804,2:1039664
-Johnny & Clyde - Parceiros no Crime	dub=0:290772,2:1046472	leg=0:294920,0:290773,2:1249541
-Johnny & June	dub=0:45119,2:1072023
-Johnny Bom de Transa	dub=0:354229,0:112920,2:1054287
-Johnny English	dub=0:94714,2:1056897
-Johnny English 3.0	dub=0:94716,2:1057233
-Johnny Mnemonic, o Cyborg do Futuro	dub=0:105246,2:1061027
-Johnny Todos Tem Uma Missão Especial	dub=0:128609,2:1042455
-Johnny Yuma O Vingador	dub=2:1266099
-Joias Brutas	dub=0:34233,2:1044342
-Joika: Uma Americana no Bolshoi	dub=0:262346,2:1040933	leg=0:262347
-Jojo Rabbit 4K	dub=0:42943,0:42921,2:1066401,2:1021784	leg=0:34763,2:1031067
-Joker	leg=0:32240,2:1029516
-Jolly LLB 3	dub=2:1270506	leg=0:354022
-Jolly LLB 3 Legendado	dub=2:1254083
-Jolt: Fúria Fatal	dub=0:113025,2:1051756	leg=0:142440,2:1028868
-Jon Batiste: American Symphony	dub=2:1266521	leg=0:246166,2:1024608
-Jonah	dub=2:1266847
-Jonah Hex: Caçador de Recompensas	dub=0:165077,2:1069264
-Jonas	dub=2:1265141
-Jonas Kaufmann A Global Star in Private	dub=2:1268519
-Jonas Kaufmann – Mein Wien	leg=0:115491,2:1028167
-Jonny Quest e a Jornada do Ouro	dub=0:372762,2:1272038
-Jorge E Mateus At The Royal Albert Hall Ao Vivo Em Londres	dub=2:1269636
-Jorge E Mateus: - Villa Mix Goiania	dub=2:1271155
-Jorge Quer Ser Repórter	dub=2:1272994
-Jorge da Capadócia	dub=0:264117,2:1066817
+Jogo de Xadrez (2014)	dub=2:1271480
+Jogo do Amor	dub=0:352095,0:210701	leg=0:352094,0:210699
+Jogo do Amor (2004)	dub=2:1264870	leg=2:1264853
+Jogo do Amor - (2022)	dub=2:1064682	leg=2:1026475
+Jogo do Destino	dub=0:258423	leg=0:258424
+Jogo do Destino - (2023)	dub=2:1043567	leg=2:1029974
+Jogo do Dinheiro	dub=0:232161
+Jogo do Dinheiro - (2016)	dub=2:1044252
+Jogos Entre Amigos	dub=0:91423
+Jogos Entre Amigos - (2019)	dub=2:1053779
+Jogos Entre Amigos: Eulogia Atrapalhada	dub=0:228050,0:228049	leg=0:228051
+Jogos Entre Amigos: Eulogia Atrapalhada - (2023)	dub=2:1053763,2:1021703	leg=2:1027529
+Jogos Letais	dub=0:379464,0:130270	leg=0:379463
+Jogos Letais (2011)	dub=2:1052742	leg=2:1272575
+Jogos Mortais	dub=0:95879
+Jogos Mortais - (2004)	dub=2:1070844
+Jogos Mortais II	dub=0:95880
+Jogos Mortais II - (2005)	dub=2:1057616
+Jogos Mortais III	dub=0:95881
+Jogos Mortais III - (2006)	dub=2:1059334
+Jogos Mortais IV	dub=0:95882
+Jogos Mortais IV - (2007)	dub=2:1043520
+Jogos Mortais V	dub=0:95883
+Jogos Mortais V - (2008)	dub=2:1059134
+Jogos Mortais VI	dub=0:95884
+Jogos Mortais VI - (2009)	dub=2:1044792
+Jogos Mortais X	dub=0:223096,0:223081,0:223079	leg=0:221638
+Jogos Mortais X 4K - (2023)	dub=2:1249676,2:1069513	leg=2:1028359
+Jogos Mortais: Jigsaw	dub=0:95886
+Jogos Mortais: Jigsaw - (2017)	dub=2:1070740
+Jogos Mortais: O Final	dub=0:95885
+Jogos Mortais: O Final - (2010)	dub=2:1051080
+Jogos Patrióticos	dub=0:111591
+Jogos Patrióticos - (1992)	dub=2:1051335
+Jogos Psicológicos	dub=0:179736	leg=0:179759
+Jogos Psicológicos - (2021)	dub=2:1043691	leg=2:1030909
+Jogos Sombrios	dub=0:287361	leg=0:287362
+Jogos Sombrios - (2021)	dub=2:1044007	leg=2:1035027
+Jogos Trapacas e Dois Canos Fumegantes	dub=0:98616
+Jogos Trapacas e Dois Canos Fumegantes - (1998)	dub=2:1052380
+Jogos Virtuais: O Início	dub=0:202573	leg=0:202572
+Jogos Virtuais: O Início - (2018)	dub=2:1053598	leg=2:1034676
+Jogos Vorazes	dub=0:95929
+Jogos Vorazes - (2012)	dub=2:1056636
+Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes	dub=0:233792,0:233791	leg=0:233793
+Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes 4K - (2023)	dub=2:1249680,2:1057434	leg=2:1026640
+Jogos Vorazes: A Esperança - O Final	dub=0:324829,0:95932	leg=0:324828
+Jogos Vorazes: A Esperança - O Final - (2015)	dub=2:1056143	leg=2:1023772
+Jogos Vorazes: A Esperança - Parte 1	dub=0:95931
+Jogos Vorazes: A Esperança - Parte 1 - (2014)	dub=2:1061176
+Jogos Vorazes: Em Chamas	dub=0:95930
+Jogos Vorazes: Em Chamas - (2013)	dub=2:1061010
+Jogos de Amor	dub=0:247314	leg=0:247315
+Jogos de Amor - (2024)	dub=2:1064726,2:1023350	leg=2:1035501
+Jogos de Caça	dub=0:351902	leg=0:351901
+Jogos de Caça (2023)	dub=2:1264841
+Jogos de Estrada	dub=0:311134	leg=0:311135
+Jogos de Estrada - (1981)	dub=2:1070503	leg=2:1029772
+Jogos de Guerra (1983)	dub=2:1266076
+Jogos de Sedução - (2025)	dub=2:1249881,2:1036903	leg=2:1038262
+Jogos de Sedução 4K	dub=0:335680,0:335547	leg=0:335546
+Jogos do Poder	dub=0:110250
+Jogos do Poder - (2007)	dub=2:1045890
+Jogue ou Morra	dub=0:42505
+Jogue ou Morra - (2019)	dub=2:1070751
+John Candy Eu Me Amo (2025)	dub=2:1269300	leg=2:1249869
+John Candy: Eu Me Amo	leg=0:347673
+John Carter: Entre Dois Mundos	dub=0:77829
+John Carter: Entre Dois Mundos - (2012)	dub=2:1060914
+John Farnham Finding the Voice (2023)	dub=2:1265151	leg=2:1034242
+John Farnham: Finding the Voice	leg=0:261685
+John McAfee: Gênio, Polêmico e Fugitivo	dub=0:312323	leg=0:312324
+John McAfee: Gênio, Polêmico e Fugitivo - (2022)	dub=2:1048542	leg=2:1027484
+John Wick 1	dub=0:20066
+John Wick 1 - (2014)	dub=2:1047569
+John Wick 2	dub=0:20067
+John Wick 2 - (2017)	dub=2:1047487
+John Wick 3 (2019)	dub=2:1267817,2:1021706
+John Wick 3 4K	dub=0:28869,0:28766,0:28758
+John Wick 4: Baba Yaga 4K	dub=0:377995,0:198451,0:198450	leg=0:196710
+John Wick 4: Baba Yaga 4K - (2023)	dub=2:1249623,2:1050968	leg=2:1024324
+John Wick Chapter 3 Parabellum Legendado	dub=0:28683
+John Wick Chapter 3 Parabellum Legendado - (2019)	dub=2:1046416
+John and Carolyn: Love, Beauty and Loss	leg=0:372415
+John and Carolyn: Love, Beauty and Loss (2026)	leg=2:1272020
+John e o Potrinho Mágico	dub=0:178804
+John e o Potrinho Mágico - (2021)	dub=2:1039664
+Johnny & Clyde - Parceiros no Crime	dub=0:290772	leg=0:294920,0:290773
+Johnny & Clyde - Parceiros no Crime - (2023)	dub=2:1046472	leg=2:1249541
+Johnny & June	dub=0:45119
+Johnny & June - (2005)	dub=2:1072023
+Johnny Bom de Transa	dub=0:354229,0:112920
+Johnny Bom de Transa - (1988)	dub=2:1054287
+Johnny English	dub=0:94714
+Johnny English - (2003)	dub=2:1056897
+Johnny English 3.0	dub=0:94716
+Johnny English 3.0 - (2018)	dub=2:1057233
+Johnny Mnemonic, o Cyborg do Futuro	dub=0:105246
+Johnny Mnemonic, o Cyborg do Futuro - (1995)	dub=2:1061027
+Johnny Todos Tem Uma Missão Especial	dub=0:128609
+Johnny Todos Tem Uma Missão Especial - (2010)	dub=2:1042455
+Johnny Yuma O Vingador (1966)	dub=2:1266099
+Joias Brutas	dub=0:34233
+Joias Brutas - (2019)	dub=2:1044342
+Joika: Uma Americana no Bolshoi	dub=0:262346	leg=0:262347
+Joika: Uma Americana no Bolshoi - (2023)	dub=2:1040933
+Jojo Rabbit - (2019)	dub=2:1066401,2:1021784	leg=2:1031067
+Jojo Rabbit 4K	dub=0:42943,0:42921	leg=0:34763
+Joker	leg=0:32240
+Joker - (2019)	leg=2:1029516
+Jolly LLB 3	leg=0:354022
+Jolly LLB 3 (2025)	dub=2:1270506
+Jolly LLB 3 Legendado (2025)	dub=2:1254083
+Jolt: Fúria Fatal	dub=0:113025	leg=0:142440
+Jolt: Fúria Fatal - (2021)	dub=2:1051756	leg=2:1028868
+Jon Batiste American Symphony (2023)	dub=2:1266521	leg=2:1024608
+Jon Batiste: American Symphony	leg=0:246166
+Jonah (2023)	dub=2:1266847
+Jonah Hex: Caçador de Recompensas	dub=0:165077
+Jonah Hex: Caçador de Recompensas - (2010)	dub=2:1069264
+Jonas (2016)	dub=2:1265141
+Jonas Kaufmann A Global Star in Private (2020)	dub=2:1268519
+Jonas Kaufmann – Mein Wien	leg=0:115491
+Jonas Kaufmann – Mein Wien - (2020)	leg=2:1028167
+Jonny Quest e a Jornada do Ouro	dub=0:372762
+Jonny Quest e a Jornada do Ouro (1993)	dub=2:1272038
+Jorge E Mateus At The Royal Albert Hall Ao Vivo Em Londres (2013)	dub=2:1269636
+Jorge E Mateus: - Villa Mix Goiania (2007)	dub=2:1271155
+Jorge Quer Ser Repórter (2025)	dub=2:1272994
+Jorge da Capadócia	dub=0:264117
+Jorge da Capadócia - (2024)	dub=2:1066817
 Jorginho Guinle So Se Vive uma Vez	dub=0:213958
-Jornada Nas Estrelas 1	dub=0:21306,2:1057236
-Jornada Nas Estrelas 10	dub=0:21307,2:1056764
+Jornada Nas Estrelas 1	dub=0:21306
+Jornada Nas Estrelas 1 - (1979)	dub=2:1057236
+Jornada Nas Estrelas 10	dub=0:21307
+Jornada Nas Estrelas 10 - (2002)	dub=2:1056764
 Jornada Nas Estrelas 11	dub=0:21308
 Jornada Nas Estrelas 12	dub=0:21309
-Jornada Nas Estrelas 13	dub=0:21310,2:1059931
-Jornada Nas Estrelas 2	dub=0:21311,2:1057069
-Jornada Nas Estrelas 3	dub=0:21312,2:1057025
-Jornada Nas Estrelas 4	dub=0:21313,2:1060775
-Jornada Nas Estrelas 5	dub=0:21314,2:1056773
-Jornada Nas Estrelas 6	dub=0:21315,2:1061300
-Jornada Nas Estrelas 7	dub=0:21316,2:1057182
-Jornada Nas Estrelas 8	dub=0:21317,2:1056977
-Jornada Nas Estrelas 9	dub=0:21318,2:1060792
-Jornada Para Belém	dub=0:237166,2:1067473	leg=0:246201,0:237184,2:1029637
-Jornada Para o Inferno	dub=0:229478,2:1069381	leg=0:229463,2:1033623
+Jornada Nas Estrelas 13	dub=0:21310
+Jornada Nas Estrelas 13 - (2016)	dub=2:1059931
+Jornada Nas Estrelas 2	dub=0:21311
+Jornada Nas Estrelas 2 - (1982)	dub=2:1057069
+Jornada Nas Estrelas 3	dub=0:21312
+Jornada Nas Estrelas 3 - (1984)	dub=2:1057025
+Jornada Nas Estrelas 4	dub=0:21313
+Jornada Nas Estrelas 4 - (1986)	dub=2:1060775
+Jornada Nas Estrelas 5	dub=0:21314
+Jornada Nas Estrelas 5 - (1989)	dub=2:1056773
+Jornada Nas Estrelas 6	dub=0:21315
+Jornada Nas Estrelas 6 - (1991)	dub=2:1061300
+Jornada Nas Estrelas 7	dub=0:21316
+Jornada Nas Estrelas 7 - (1994)	dub=2:1057182
+Jornada Nas Estrelas 8	dub=0:21317
+Jornada Nas Estrelas 8 - (1996)	dub=2:1056977
+Jornada Nas Estrelas 9	dub=0:21318
+Jornada Nas Estrelas 9 - (1998)	dub=2:1060792
+Jornada Para Belém	dub=0:237166	leg=0:246201,0:237184
+Jornada Para Belém - (2023)	dub=2:1067473	leg=2:1029637
+Jornada Para o Inferno	dub=0:229478	leg=0:229463
+Jornada Para o Inferno - (2023)	dub=2:1069381	leg=2:1033623
 Jornada Pela Justiça	dub=0:162990
-Jornada da Vida	dub=0:127404,0:36066,2:1054383
-Jornada do Herói: Os Bastidores do Percy Jackson e os Olimpianos	leg=0:246155,2:1023910
-Jornada pela Liberdade	dub=0:21016,2:1041886
-Jose Do Egito O Filme	dub=2:1271064
-Josee	dub=2:1270983	leg=2:1273103
-Josee to Tora to Sakana-tachi	dub=2:1264681
-Josef Mengele: O Anjo da Morte	dub=0:320232,2:1046000
-Josey Wales: O Fora da Lei	dub=0:363882,0:330400,2:1068957	leg=0:363881,0:330399,2:1025295
-Josh Johnson: Sinfonia	leg=0:381206,2:1272749
-Joshua - O Filho do Mal	dub=0:311226,2:1059137
-José Aparecido de Oliveira – O Maior Mineiro do Mundo	dub=0:371896,2:1268144
-José e Maria	dub=0:110778,2:1042383
-José: O Rei dos Sonhos	dub=0:380468,0:157952,2:1062432
-Journal 64	leg=0:63078,2:1024512
-Journey To China The Mystery Of Iron Mask	leg=0:63102,2:1029315
-Journey to You	dub=2:1265119
-Journeyman: Fora de Combate	dub=0:26080,2:1042346
-Jovens Bruxas: Nova Irmandade	dub=0:119711,2:1039182	leg=0:119726,2:1249558
-Jovens Coracoes	dub=2:1270167
-Jovens Delinquentes	dub=2:1270408	leg=2:1273021
-Jovens Demais para Morrer	dub=0:199885,2:1068968	leg=0:340464,2:1026998
-Jovens Feiticeiras	dub=0:194530,2:1043879	leg=0:194529,2:1025177
-Jovens Justiceiros	dub=0:285109,2:1069228
-Jovens Mulheres	dub=0:30403,2:1042471
-Jovens Mães	dub=0:377119,2:1260301	leg=0:377118
-Jovens Mães Legendado	dub=2:1252565
-Jovens Polacas	dub=0:189944,2:1042254
-Jovens Titãs: O Contrato de Judas	dub=0:348805,2:1251159	leg=0:348804,2:1251024
-Jovens Águias	dub=2:1291025
-Jovens, Doidos e Alucinados	dub=0:372764,2:1272073	leg=0:372763,2:1272099
-Jovens, Loucos e Rebeldes	dub=0:320233,2:1053122
-Joy	dub=0:296499,2:1041436	leg=0:296500,2:1026107
-Joy Legendado	dub=0:23238,2:1041872
-Joy: O Nome do Sucesso	dub=0:382603,0:363883,0:200737,2:1055266	leg=0:382602,2:1272843
-João e Maria	dub=2:1272425
-João e Maria - Depois do para Sempre	dub=0:194890,2:1039417	leg=0:194891,2:1032725
-Ju-on: A Maldição 2	dub=2:1272455
-Juang	dub=2:1267970
-Juanita	dub=0:22030,2:1042024
-Jubiabá	dub=0:367040,2:1267640
-Judas And The Black Messiah	leg=0:97184,2:1028112
-Judas Collar	dub=2:1269898
-Judas e o Messias Negro	dub=0:382455,0:113001,0:112994,2:1249751,2:1045547	leg=0:382454
-Judy	leg=0:32241,2:1028619
-Judy: Muito Além do Arco-Íris	dub=0:48188,2:1071434
-JugJugg Jeeyo	dub=2:1270140
-Juice WRLD: Into the Abyss	dub=2:1269885
-Juizo	dub=2:1267220
-Jujutsu Kaisen 0: O Filme	dub=0:174618,2:1061514	leg=0:174617,2:1035932
-Julgamento: O Estado Contra Um Homem Comum	dub=2:1267544	leg=0:318513,2:1037463
-Julho Sangrento	dub=0:253287,2:1043296
-Julie & Julia	dub=0:103972,2:1064991
-Julieta	dub=0:21570,2:1065120
-Jumanji	dub=0:362606,0:112971,2:1039799	leg=0:362605,2:1267008
-Jumanji - Bem-Vindo a Selva	dub=0:20639,2:1068575
-Jumanji The Next Level	leg=0:40619,2:1035112
-Jumanji: Próxima Fase 4K	dub=0:42546,0:42019,0:42016,2:1038822,2:1000494
-Jumbo	dub=0:24865,2:1062800
-Jumbo: Um Coração Gigante	dub=0:370003,2:1265017	leg=0:370002,2:1265100
-Jumper	dub=0:316425,2:1056676
-June	dub=2:1265910	leg=0:246202,2:1028438
-June e John	dub=0:335549,2:1037156	leg=0:335548,2:1038200
-Junebug	dub=2:1271932
-Jung_E	dub=0:185322,2:1060149	leg=0:185321,2:1035491
-Jungle - Protegendo a Selva	dub=0:43809,2:1056828
-Jungle Boy	dub=0:358105,2:1266235
-Jungle Cruise 4K	dub=0:117057,0:115500,2:1039225,2:1023416	leg=0:115508,2:1030069
-Jungleland	leg=0:88471,2:1036191
-Junior	dub=0:92598,2:1061134
-Juno	dub=0:112935,2:1065411
-Juntas no Crime	dub=0:41201,2:1046379
-Juntos 4K	dub=0:344352,0:343968,2:1037018,2:1036946	leg=0:343967,0:340990,2:1037539
-Juntos Mas Separados	dub=0:185243,2:1063707	leg=0:185260,2:1249575
-Juntos Novamente	dub=0:148632,0:104418,2:1062495,2:1053452
-Juntos Pela Vida	dub=0:134035,2:1049707
-Juntos Pelo Acaso	dub=0:310603,0:20640,2:1054046	leg=0:310604,2:1027843
-Juntos e Enrolados	dub=0:159812,2:1053480
-Juntos e Misturados	dub=0:20641,2:1065019
-Juntos e Separados	dub=0:349736,2:1065961	leg=0:349735,2:1036523
-Juntos para Sempre	dub=0:29639,2:1267863
-Jurado Nº 2	dub=0:297437,0:297436,2:1043123,2:1023116	leg=0:297438,2:1026973
-Jurassic Park	dub=0:20070,2:1056682
-Jurassic Park 2	dub=0:20068,2:1059952
-Jurassic Park 3	dub=0:20069,2:1055842
+Jornada da Vida	dub=0:127404,0:36066
+Jornada da Vida - (2019)	dub=2:1054383
+Jornada do Herói: Os Bastidores do Percy Jackson e os Olimpianos	leg=0:246155
+Jornada do Herói: Os Bastidores do Percy Jackson e os Olimpianos - (2024)	leg=2:1023910
+Jornada pela Liberdade	dub=0:21016
+Jornada pela Liberdade - (2006)	dub=2:1041886
+Jose Do Egito O Filme (2016)	dub=2:1271064
+Josee (2020)	dub=2:1270983	leg=2:1273103
+Josee to Tora to Sakana-tachi (2020)	dub=2:1264681
+Josef Mengele: O Anjo da Morte	dub=0:320232
+Josef Mengele: O Anjo da Morte - (2010)	dub=2:1046000
+Josey Wales: O Fora da Lei	dub=0:363882,0:330400	leg=0:363881,0:330399
+Josey Wales: O Fora da Lei - (1976)	dub=2:1068957	leg=2:1025295
+Josh Johnson: Sinfonia	leg=0:381206
+Josh Johnson: Sinfonia (2026)	leg=2:1272749
+Joshua - O Filho do Mal	dub=0:311226
+Joshua - O Filho do Mal - (2007)	dub=2:1059137
+José Aparecido de Oliveira – O Maior Mineiro do Mundo	dub=0:371896
+José Aparecido de Oliveira – O Maior Mineiro do Mundo (2019)	dub=2:1268144
+José e Maria	dub=0:110778
+José e Maria - (2016)	dub=2:1042383
+José: O Rei dos Sonhos	dub=0:380468,0:157952
+José: O Rei dos Sonhos - (2000)	dub=2:1062432
+Journal 64	leg=0:63078
+Journal 64 - (2018)	leg=2:1024512
+Journey To China The Mystery Of Iron Mask	leg=0:63102
+Journey To China The Mystery Of Iron Mask - (2019)	leg=2:1029315
+Journey to You (2025)	dub=2:1265119
+Journeyman: Fora de Combate	dub=0:26080
+Journeyman: Fora de Combate - (2018)	dub=2:1042346
+Jovens Bruxas: Nova Irmandade	dub=0:119711	leg=0:119726
+Jovens Bruxas: Nova Irmandade - (2020)	dub=2:1039182	leg=2:1249558
+Jovens Coracoes (2020)	dub=2:1270167
+Jovens Delinquentes (2012)	dub=2:1270408	leg=2:1273021
+Jovens Demais para Morrer	dub=0:199885	leg=0:340464
+Jovens Demais para Morrer - (1990)	dub=2:1068968	leg=2:1026998
+Jovens Feiticeiras	dub=0:194530	leg=0:194529
+Jovens Feiticeiras - (2018)	dub=2:1043879	leg=2:1025177
+Jovens Justiceiros	dub=0:285109
+Jovens Justiceiros - (2001)	dub=2:1069228
+Jovens Mulheres	dub=0:30403
+Jovens Mulheres - (2018)	dub=2:1042471
+Jovens Mães	dub=0:377119	leg=0:377118
+Jovens Mães (2025)	dub=2:1260301
+Jovens Mães Legendado (2025)	dub=2:1252565
+Jovens Polacas	dub=0:189944
+Jovens Polacas - (2020)	dub=2:1042254
+Jovens Titãs: O Contrato de Judas	dub=0:348805	leg=0:348804
+Jovens Titãs: O Contrato de Judas - (2017)	dub=2:1251159	leg=2:1251024
+Jovens Águias (2022)	dub=2:1291025
+Jovens, Doidos e Alucinados	dub=0:372764	leg=0:372763
+Jovens, Doidos e Alucinados (2006)	dub=2:1272073	leg=2:1272099
+Jovens, Loucos e Rebeldes	dub=0:320233
+Jovens, Loucos e Rebeldes - (1993)	dub=2:1053122
+Joy	dub=0:296499	leg=0:296500
+Joy - (2024)	dub=2:1041436	leg=2:1026107
+Joy Legendado	dub=0:23238
+Joy Legendado - (2018)	dub=2:1041872
+Joy: O Nome do Sucesso	dub=0:382603,0:363883,0:200737	leg=0:382602
+Joy: O Nome do Sucesso (2015)	dub=2:1055266	leg=2:1272843
+João e Maria (1988)	dub=2:1272425
+João e Maria - Depois do para Sempre	dub=0:194890	leg=0:194891
+João e Maria - Depois do para Sempre - (2021)	dub=2:1039417	leg=2:1032725
+Ju-on: A Maldição 2 (2000)	dub=2:1272455
+Juang (2022)	dub=2:1267970
+Juanita	dub=0:22030
+Juanita - (2019)	dub=2:1042024
+Jubiabá	dub=0:367040
+Jubiabá (1987)	dub=2:1267640
+Judas And The Black Messiah	leg=0:97184
+Judas And The Black Messiah - (2021)	leg=2:1028112
+Judas Collar (2018)	dub=2:1269898
+Judas e o Messias Negro	dub=0:382455,0:113001,0:112994	leg=0:382454
+Judas e o Messias Negro 4K - (2021)	dub=2:1249751,2:1045547
+Judy	leg=0:32241
+Judy - (2019)	leg=2:1028619
+Judy: Muito Além do Arco-Íris	dub=0:48188
+Judy: Muito Além do Arco-Íris - (2019)	dub=2:1071434
+JugJugg Jeeyo (2022)	dub=2:1270140
+Juice WRLD: Into the Abyss (2021)	dub=2:1269885
+Juizo (2007)	dub=2:1267220
+Jujutsu Kaisen 0: O Filme	dub=0:174618	leg=0:174617
+Jujutsu Kaisen 0: O Filme - (2021)	dub=2:1061514	leg=2:1035932
+Julgamento O Estado Contra Um Homem Comum (2025)	dub=2:1267544	leg=2:1037463
+Julgamento: O Estado Contra Um Homem Comum	leg=0:318513
+Julho Sangrento	dub=0:253287
+Julho Sangrento - (2014)	dub=2:1043296
+Julie & Julia	dub=0:103972
+Julie & Julia - (2009)	dub=2:1064991
+Julieta	dub=0:21570
+Julieta - (2016)	dub=2:1065120
+Jumanji	dub=0:362606,0:112971	leg=0:362605
+Jumanji (1995)	dub=2:1039799	leg=2:1267008
+Jumanji - Bem-Vindo a Selva	dub=0:20639
+Jumanji - Bem-Vindo a Selva - (2017)	dub=2:1068575
+Jumanji The Next Level	leg=0:40619
+Jumanji The Next Level - (2019)	leg=2:1035112
+Jumanji: Próxima Fase - (2019)	dub=2:1038822,2:1000494
+Jumanji: Próxima Fase 4K	dub=0:42546,0:42019,0:42016
+Jumbo	dub=0:24865
+Jumbo - (2019)	dub=2:1062800
+Jumbo: Um Coração Gigante	dub=0:370003	leg=0:370002
+Jumbo: Um Coração Gigante (2025)	dub=2:1265017	leg=2:1265100
+Jumper	dub=0:316425
+Jumper - (2008)	dub=2:1056676
+June	leg=0:246202
+June (2023)	dub=2:1265910	leg=2:1028438
+June e John	dub=0:335549	leg=0:335548
+June e John - (2025)	dub=2:1037156	leg=2:1038200
+Junebug (2024)	dub=2:1271932
+Jung_E	dub=0:185322	leg=0:185321
+Jung_E - (2023)	dub=2:1060149	leg=2:1035491
+Jungle - Protegendo a Selva	dub=0:43809
+Jungle - Protegendo a Selva - (2019)	dub=2:1056828
+Jungle Boy	dub=0:358105
+Jungle Boy (1996)	dub=2:1266235
+Jungle Cruise - (2021)	dub=2:1039225,2:1023416	leg=2:1030069
+Jungle Cruise 4K	dub=0:117057,0:115500	leg=0:115508
+Jungleland	leg=0:88471
+Jungleland - (2020)	leg=2:1036191
+Junior	dub=0:92598
+Junior - (1994)	dub=2:1061134
+Juno	dub=0:112935
+Juno - (2007)	dub=2:1065411
+Juntas no Crime	dub=0:41201
+Juntas no Crime - (2019)	dub=2:1046379
+Juntos - (2025)	dub=2:1037018,2:1036946	leg=2:1037539
+Juntos 4K	dub=0:344352,0:343968	leg=0:343967,0:340990
+Juntos Mas Separados	dub=0:185243	leg=0:185260
+Juntos Mas Separados - (2021)	dub=2:1063707	leg=2:1249575
+Juntos Novamente	dub=0:148632
+Juntos Novamente (2020)	dub=0:104418,2:1053452
+Juntos Novamente - (2021)	dub=2:1062495
+Juntos Pela Vida	dub=0:134035
+Juntos Pela Vida - (2007)	dub=2:1049707
+Juntos Pelo Acaso	dub=0:310603,0:20640	leg=0:310604
+Juntos Pelo Acaso - (2010)	dub=2:1054046	leg=2:1027843
+Juntos e Enrolados	dub=0:159812
+Juntos e Enrolados - (2021)	dub=2:1053480
+Juntos e Misturados	dub=0:20641
+Juntos e Misturados - (2014)	dub=2:1065019
+Juntos e Separados	dub=0:349736	leg=0:349735
+Juntos e Separados - (2023)	dub=2:1065961	leg=2:1036523
+Juntos para Sempre	dub=0:29639
+Juntos para Sempre (2019)	dub=2:1267863
+Jurado Nº 2	dub=0:297437,0:297436	leg=0:297438
+Jurado Nº 2 - (2024)	dub=2:1043123,2:1023116	leg=2:1026973
+Jurassic Park	dub=0:20070
+Jurassic Park - (1993)	dub=2:1056682
+Jurassic Park 2	dub=0:20068
+Jurassic Park 2 - (1997)	dub=2:1059952
+Jurassic Park 3	dub=0:20069
+Jurassic Park 3 - (2001)	dub=2:1055842
 Jurassic Park: O Parque dos Dinossauros	dub=0:112973
-Jurassic Predator	dub=2:1268561
-Jurassic Triangle	dub=2:1270733
-Jurassic World	dub=0:20071,2:1060751
-Jurassic World - Reino Ameacado 4K	dub=0:21489,2:1021908
-Jurassic World 2 - Reino Ameacado	dub=0:21319,2:1055769
-Jurassic World: Domínio	dub=0:165669,0:165661,2:1249632,2:1057429	leg=0:165673,2:1032595
-Jurassic World: Recomeço 4K	dub=0:338673,0:338551,2:1249912,2:1249880	leg=0:338425,2:1038332
-Just Mercy	leg=0:41202,2:1031890
-Just My Type	dub=2:1269979
-Just a Father	dub=0:144031,2:1064980
-Justica - Entre a Lei e a Vinganca	dub=2:1266713
-Justica de um Bravo	dub=2:1271556
-Justice League Snyders Cut	leg=0:98633,2:1025971
-Justice League vs. the Fatal Five Legendado	dub=0:22037,2:1061686
-Justiceiras	dub=0:173292,2:1044034	leg=0:173288,2:1029134
-Justin Bieber: Never Say Never	dub=0:353934,2:1265372	leg=0:353933,2:1265396
-Justin Bieber: Nosso Mundo	dub=2:1269889	leg=0:140796,2:1029284
-Justin Timberlake: Futuresex/Loveshow - Live from Madison Square Garden	dub=2:1268705
-Justin e a Espada da Coragem	dub=0:371897,2:1268045
-Justiça	dub=0:133030,2:1049355
-Justiça - Entre o Poder e a Lei	dub=0:117071,2:1049644
-Justiça Artificial 4K	dub=0:367082,0:367002,2:1267735,2:1257227	leg=0:367001,2:1267628
-Justiça Brutal	dub=0:317711,0:94170,2:1051455	leg=0:317712,2:1029320
-Justiça Cega	dub=0:354231,2:1269829,2:1265551	leg=0:354230,2:1265453
-Justiça Sem Fronteiras	dub=0:33379,2:1042274
-Justiça Sem Limites	dub=0:361366	leg=0:361365,2:1266779
-Justiça Urbana	dub=0:365258,2:1267342	leg=0:365257,2:1267370
-Justiça Vermelha	dub=0:333278,2:1051767	leg=0:333277,2:1033689
-Justiça em Chamas	dub=0:130216,0:32242,2:1052489
-Justiça em Família 4K	dub=0:189899,0:121160,2:1249756,2:1046111	leg=0:121155,2:1031163
-Justiça para Todos	dub=0:128578,2:1042251
-Juventude Perdida	dub=0:297439,2:1041536	leg=0:297440,2:1030734
-Juventude e Ternura	dub=0:370906,2:1267660
-Juwanna Mann	dub=0:380470,2:1272520	leg=0:380469,2:1272563
-Já Era Hora	dub=0:189324,2:1064288	leg=0:189325,2:1249001
-Já Estou Te Vendo	dub=0:209520,2:1071151
-Já Fui Famoso	dub=0:373823,0:369990,0:227021,2:1267445,2:1022406	leg=0:373822,0:369989,2:1272504
-Já que Ninguém me Tira Para Dançar	dub=0:256620,2:1049369
-Júpiter	dub=0:148649,2:1248792
-jigra	dub=0:297433,2:1052758
+Jurassic Predator (2018)	dub=2:1268561
+Jurassic Triangle (2024)	dub=2:1270733
+Jurassic World	dub=0:20071
+Jurassic World - (2015)	dub=2:1060751
+Jurassic World - Reino Ameacado 4K	dub=0:21489
+Jurassic World - Reino Ameacado 4K - (2018)	dub=2:1021908
+Jurassic World 2 - Reino Ameacado	dub=0:21319
+Jurassic World 2 - Reino Ameacado - (2018)	dub=2:1055769
+Jurassic World: Domínio	dub=0:165669,0:165661	leg=0:165673
+Jurassic World: Domínio 4K - (2022)	dub=2:1249632,2:1057429	leg=2:1032595
+Jurassic World: Recomeço - (2025)	dub=2:1249912,2:1249880	leg=2:1038332
+Jurassic World: Recomeço 4K	dub=0:338673,0:338551	leg=0:338425
+Just Mercy	leg=0:41202
+Just Mercy - (2019)	leg=2:1031890
+Just My Type (2020)	dub=2:1269979
+Just a Father	dub=0:144031
+Just a Father - (2008)	dub=2:1064980
+Justica - Entre a Lei e a Vinganca (2017)	dub=2:1266713
+Justica Cega (2014)	dub=2:1269829
+Justica Em Chamas - (2019)	dub=2:1052489
+Justica de um Bravo (1999)	dub=2:1271556
+Justice League Snyders Cut	leg=0:98633
+Justice League Snyders Cut - (2021)	leg=2:1025971
+Justice League vs. the Fatal Five Legendado	dub=0:22037
+Justice League vs. the Fatal Five Legendado - (2019)	dub=2:1061686
+Justiceiras	dub=0:173292	leg=0:173288
+Justiceiras - (2022)	dub=2:1044034	leg=2:1029134
+Justin Bieber: Never Say Never	dub=0:353934	leg=0:353933
+Justin Bieber: Never Say Never (2011)	dub=2:1265372	leg=2:1265396
+Justin Bieber: Nosso Mundo	leg=0:140796
+Justin Bieber: Nosso Mundo (2021)	dub=2:1269889	leg=2:1029284
+Justin Timberlake: Futuresex/Loveshow - Live from Madison Square Garden (2007)	dub=2:1268705
+Justin e a Espada da Coragem	dub=0:371897
+Justin e a Espada da Coragem (2013)	dub=2:1268045
+Justiça	dub=0:133030
+Justiça - (2004)	dub=2:1049355
+Justiça - Entre o Poder e a Lei	dub=0:117071
+Justiça - Entre o Poder e a Lei - (1999)	dub=2:1049644
+Justiça Artificial 4K	dub=0:367082,0:367002	leg=0:367001
+Justiça Artificial 4K (2026)	dub=2:1267735,2:1257227	leg=2:1267628
+Justiça Brutal	dub=0:317711,0:94170	leg=0:317712
+Justiça Brutal - (2019)	dub=2:1051455	leg=2:1029320
+Justiça Cega	dub=0:354231	leg=0:354230
+Justiça Cega (1990)	dub=2:1265551	leg=2:1265453
+Justiça Sem Fronteiras	dub=0:33379
+Justiça Sem Fronteiras - (2019)	dub=2:1042274
+Justiça Sem Limites	dub=0:361366	leg=0:361365
+Justiça Sem Limites (2023)	leg=2:1266779
+Justiça Urbana	dub=0:365258	leg=0:365257
+Justiça Urbana (2007)	dub=2:1267342	leg=2:1267370
+Justiça Vermelha	dub=0:333278	leg=0:333277
+Justiça Vermelha - (1997)	dub=2:1051767	leg=2:1033689
+Justiça em Chamas	dub=0:130216,0:32242
+Justiça em Família 4K	dub=0:189899,0:121160	leg=0:121155
+Justiça em Família 4K - (2021)	dub=2:1249756,2:1046111	leg=2:1031163
+Justiça para Todos	dub=0:128578
+Justiça para Todos - (1979)	dub=2:1042251
+Juventude Perdida	dub=0:297439	leg=0:297440
+Juventude Perdida - (2019)	dub=2:1041536	leg=2:1030734
+Juventude e Ternura	dub=0:370906
+Juventude e Ternura (1968)	dub=2:1267660
+Juwanna Mann	dub=0:380470	leg=0:380469
+Juwanna Mann (2002)	dub=2:1272520	leg=2:1272563
+Já Era Hora	dub=0:189324	leg=0:189325
+Já Era Hora - (2023)	dub=2:1064288	leg=2:1249001
+Já Estou Te Vendo	dub=0:209520
+Já Estou Te Vendo - (2023)	dub=2:1071151
+Já Fui Famoso	dub=0:373823,0:369990,0:227021	leg=0:373822,0:369989
+Já Fui Famoso (2022)	dub=2:1267445,2:1022406	leg=2:1272504
+Já que Ninguém me Tira Para Dançar	dub=0:256620
+Já que Ninguém me Tira Para Dançar - (2021)	dub=2:1049369
+Júpiter	dub=0:148649
+Júpiter - (2022)	dub=2:1248792
+jigra	dub=0:297433
+jigra - (2024)	dub=2:1052758

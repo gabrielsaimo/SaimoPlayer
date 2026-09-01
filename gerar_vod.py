@@ -9,9 +9,10 @@ nem gênero, nem grupo. Só nome e URL. Tudo o que dá para saber vem do nome:
     "[Adulto]"     -> vai para a parte reservada, não para a lista comum
     resto          -> filme
 
-O mesmo filme costuma existir nas duas listas. Em vez de aparecer duas vezes,
-ele aparece uma com as duas fontes: o player desce para a segunda quando a
-primeira falha, que é o mesmo que já acontece com canal.
+O mesmo filme costuma existir nas duas listas. Fontes do mesmo título, ano e
+idioma ficam juntas, mas refilmagens nunca podem ser confundidas: "Mestres do
+Universo (1987)" e "Mestres do Universo (2026)" são dois itens. Quando há mais
+de uma fonte, os apps deixam a pessoa escolher qual quer abrir.
 
 Os canais de TV das listas são ignorados: esta parte é só filme e série.
 
@@ -35,8 +36,7 @@ SAIDA = ROOT / "vod"
 
 EPISODIO = re.compile(r"^(.*?)\s*S(\d{1,2})E(\d{1,3})\s*$", re.I)
 MARCADOR = re.compile(r"\s*[\[\(]([^\]\)]{1,24})[\]\)]")
-ANO_FIM = re.compile(r"\s*\((19|20)\d{2}\)\s*$")
-ANO_SOLTO = re.compile(r"\s+((?:19|20)\d{2})(?=\s|$)")
+ANO_FIM = re.compile(r"\s*(?:\(((?:19|20)\d{2})\)|((?:19|20)\d{2}))\s*$")
 ADULTO = {"adulto", "xxx", "+18", "18+"}
 QUALIDADE = re.compile(r"\s*\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv)\b\s*²?", re.I)
 POR_PEDACO = 120
@@ -50,21 +50,39 @@ def letra(titulo):
 
 def limpar(nome):
     """Devolve (título, legendado, adulto). Marcador é versão, não título."""
+    ano_final = ANO_FIM.search(nome)
+    ano = (ano_final.group(1) or ano_final.group(2)) if ano_final else ""
     marcadores = [m.strip().lower() for m in MARCADOR.findall(nome)]
     legendado = any(m == "l" for m in marcadores)
     adulto = any(m in ADULTO for m in marcadores)
     titulo = MARCADOR.sub(" ", nome)
     titulo = titulo.replace("²", " ")
     titulo = re.sub(r"\s{2,}", " ", titulo).strip()
+    # O parser de marcadores também encontra "(1987)". Recolocar o ano evita
+    # que duas refilmagens voltem a cair na mesma chave depois da limpeza.
+    if ano and not ANO_FIM.search(titulo):
+        titulo = f"{titulo} ({ano})"
     return titulo, legendado, adulto
 
 
-def chave(titulo):
-    """Nome comparável entre as listas: sem acento, sem ano solto, sem qualidade."""
+def separar_ano(titulo):
+    """Devolve título sem ano e o ano final, entre parênteses ou solto."""
+    achado = ANO_FIM.search(titulo)
+    if not achado:
+        return titulo, ""
+    sem_ano = ANO_FIM.sub("", titulo).strip()
+    # "2012" também é título de filme. Nunca o transforme num nome vazio.
+    if not sem_ano:
+        return titulo, ""
+    return sem_ano, achado.group(1) or achado.group(2)
+
+
+def chave(titulo, ano=""):
+    """Nome comparável entre listas, preservando o ano que separa refilmagens."""
     texto = QUALIDADE.sub(" ", titulo)
-    texto = ANO_SOLTO.sub(" ", texto)
     texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
-    return re.sub(r"[^a-z0-9]+", " ", texto).strip()
+    base = re.sub(r"[^a-z0-9]+", " ", texto).strip()
+    return f"{base}|{ano}" if ano else base
 
 
 class Bases:
@@ -130,12 +148,10 @@ def main():
                 if adulto:
                     continue
                 serie = episodio.group(1).strip()
-                achado = ANO_FIM.search(serie)
-                ano = achado.group(0).strip(" ()") if achado else ""
-                serie = ANO_FIM.sub("", serie).strip()
+                serie, ano = separar_ano(serie)
                 if not serie:
                     continue
-                registro = series[chave(serie)]
+                registro = series[chave(serie, ano)]
                 registro["titulo"] = registro["titulo"] or serie
                 registro["ano"] = registro["ano"] or ano
                 alvo = (int(episodio.group(2)), int(episodio.group(3)), versao)
@@ -143,8 +159,10 @@ def main():
                     registro["eps"][alvo].append(curta)
             else:
                 destino = reservado if adulto else filmes
-                registro = destino[chave(titulo)]
-                registro["titulo"] = registro["titulo"] or titulo
+                titulo, ano = separar_ano(titulo)
+                exibido = f"{titulo} ({ano})" if ano else titulo
+                registro = destino[chave(titulo, ano)]
+                registro["titulo"] = registro["titulo"] or exibido
                 if curta not in registro["versoes"][versao]:
                     registro["versoes"][versao].append(curta)
 
@@ -187,7 +205,12 @@ def main():
             eps = registro["eps"]
             indice_linhas.append(
                 f'{registro["titulo"]}\t{registro["ano"]}\t{pedaco}\t{len(eps)}')
-            linhas_pedaco.append("@" + registro["titulo"])
+            # O ano faz parte da identidade. Duas séries homônimas podem cair
+            # no mesmo pedaço e o app precisa abrir os episódios da série certa.
+            identidade = "@" + registro["titulo"]
+            if registro["ano"]:
+                identidade += "\t" + registro["ano"]
+            linhas_pedaco.append(identidade)
             for (temporada, numero, versao) in sorted(eps):
                 total_eps += 1
                 linhas_pedaco.append(
@@ -204,8 +227,11 @@ def main():
     busca = []
     for registro in sorted(filmes.values(), key=lambda r: r["titulo"]):
         busca.append(f'{registro["titulo"]}\tf\t{letra(registro["titulo"])}')
-    for registro in sorted(series.values(), key=lambda r: r["titulo"]):
-        busca.append(f'{registro["titulo"]}\ts\t{letra(registro["titulo"])}')
+    for registro in sorted(series.values(), key=lambda r: (r["titulo"], r["ano"])):
+        linha_busca = f'{registro["titulo"]}\ts\t{letra(registro["titulo"])}'
+        if registro["ano"]:
+            linha_busca += "\t" + registro["ano"]
+        busca.append(linha_busca)
     (SAIDA / "busca.txt").write_text("\n".join(busca) + "\n", encoding="utf-8")
 
     indice_linhas = [f"base: {i} {b}" for i, b in enumerate(bases.lista)]
