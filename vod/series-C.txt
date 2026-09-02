@@ -1,581 +1,1409 @@
 C The Money of Soul and Possibility Control	2011	0	11
+C The Money of Soul and Possibility Control		0	11
 C.H.U.E.C.O	2023	0	25
-CIA		0	12
+C.H.U.E.C.O		0	25
+CIA		0	24
 CITY THE ANIMATION	2025	0	13
+CITY THE ANIMATION		0	13
 COBRA	2020	0	12
+COBRA		0	12
 COMPASS2.0 ANIMATION PROJECT	2025	0	12
+COMPASS2.0 ANIMATION PROJECT		0	12
 CSI Cyber	2015	0	31
+CSI Cyber		0	31
 CSI Miami: Casos Reais		0	10
 CSI Vegas	2021	0	82
+CSI Vegas		0	82
 CSI: Investigação Criminal	2000	0	335
+CSI: Investigação Criminal		0	335
 CSI: Miami	2002	0	232
+CSI: Miami		0	232
 CSI: Nova York	2004	0	184
+CSI: Nova York		0	184
 Cabanas: Histórias Especiais		0	21
 Cabeça Quente	2022	0	8
+Cabeça Quente		0	8
 Cabo do Medo		0	10
 Cabocla	2004	0	167
+Cabocla		0	167
+Caca Tempestades		0	4
 Caca aos Famosos com Bear Grylls	2025	0	8
+Caca aos Famosos com Bear Grylls		0	8
 Cacada no Deserto O Caso Adam Nayeri	2025	0	3
+Cacada no Deserto O Caso Adam Nayeri		0	3
 Cacador de Demonios	2025	0	8
+Cacador de Demonios		0	8
 Cacador de Marajas	2025	0	7
+Cacador de Marajas		0	7
 Cacadores de Dinossauros	2020	0	5
+Cacadores de Dinossauros		0	14
 Cacadores de Ditadores	2024	0	6
+Cacadores de Ditadores		0	6
 Cacadores de Fantasmas	2004	0	29
+Cacadores de Fantasmas		0	29
 Cacadores de Fugitivos	2025	0	9
+Cacadores de Fugitivos		0	9
+Cacadores de Pitons		0	14
 Cacadores de Trolls	2016	0	52
+Cacadores de Trolls		0	52
 Cachorrinhos do Outro Mundo	2022	0	10
+Cachorrinhos do Outro Mundo		0	10
+Cachorro. Vai! S01 E01" tvg-logo="http://gstaticontent.com/images/a2448eec73d2189a78400f0309ee372b.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E02" tvg-logo="http://gstaticontent.com/images/9fb416313534e59b223556d58e428326.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E03" tvg-logo="http://gstaticontent.com/images/fc3879d262b2c7def5731b0ad6f4a218.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E04" tvg-logo="http://gstaticontent.com/images/a580c0131a02c7984d361b9021d634a4.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E05" tvg-logo="http://gstaticontent.com/images/15cad8d28e7340a5cc30f845d53da432.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E06" tvg-logo="http://gstaticontent.com/images/e3f150cafbe870a7c658840e5a21b0fe.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E07" tvg-logo="http://gstaticontent.com/images/1e567a51bc8c8e3314e6a3f86d222ff5.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E08" tvg-logo="http://gstaticontent.com/images/7d291b46bb0136b890941b2f0dd04a12.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S01 E09" tvg-logo="http://gstaticontent.com/images/935de576c0490617a7462f97fb64032d.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E01" tvg-logo="http://gstaticontent.com/images/404789ae393cb61cfeb0c58d884605f3.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E02" tvg-logo="http://gstaticontent.com/images/193f7c8ab88c9548a9756763049542f7.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E03" tvg-logo="http://gstaticontent.com/images/e62c9dc8311aeddc31e430f5c5a0c3cb.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E04" tvg-logo="http://gstaticontent.com/images/22950318310ffaa30cf281638361b9b8.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E05" tvg-logo="http://gstaticontent.com/images/b5496c54cd35723f142ea8c2a756c092.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E06" tvg-logo="http://gstaticontent.com/images/4389e27845f35192341e018b0558dc9d.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E07" tvg-logo="http://gstaticontent.com/images/60ddb612cc74a84e787a3693c07e3dfc.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E08" tvg-logo="http://gstaticontent.com/images/b469bcae00784ba92be3b3cb546e9566.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S02 E09" tvg-logo="http://gstaticontent.com/images/862f71471e59455656fa161cf8e9a728.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E01" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E02" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E03" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E04" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E05" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E06" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E07" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
+Cachorro. Vai! S03 E08" tvg-logo="http://gstaticontent.com/images/c435af436252d7c755bbeff925779f15.jpg" group-title="Series | Netflix",Vai, Cachorro. Vai!		0	1
 Cada Minuto Conta	2024	0	10
+Cada Minuto Conta		0	10
+Cadê Meu Avião? S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6kY4J5Qo4QQpoeybqhsF9G4xqIS.jpg" group-title="Series | Netflix",Pepsi, Cadê Meu Avião?		0	1
+Cadê Meu Avião? S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/918JrdzCBdS5mq1SIsKGH611Re1.jpg" group-title="Series | Netflix",Pepsi, Cadê Meu Avião?		0	1
+Cadê Meu Avião? S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bNk2R7YwEs0ZI0aIaQptQKCd93g.jpg" group-title="Series | Netflix",Pepsi, Cadê Meu Avião?		0	1
+Cadê Meu Avião? S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7trJwBiaDBRSbvxiCCfD8HgjWsj.jpg" group-title="Series | Netflix",Pepsi, Cadê Meu Avião?		0	1
 Caezinhos no Passeio	2025	0	8
+Caezinhos no Passeio		0	8
+Cafe com Chef		0	5
 Cafe do Principe	2007	0	17
+Cafe do Principe		0	17
 Café Minamdang	2022	0	18
+Café Minamdang		0	18
 Café com Aroma de Mulher	2021	0	176
+Café com Aroma de Mulher		0	176
 Caillou	1998	0	13
+Caillou		0	13
 Cair em Tentação	2017	0	103
+Calabasas Confidential		0	8
 Caldeirao Com Mion	2021	0	11
+Caldeirao Com Mion		0	11
 Caleidoscópio	2023	0	9
+Caleidoscópio		0	9
 Califado	2016	0	8
+Califado		0	8
 Californication	2007	0	84
+Californication		0	84
 Califórnia em Chamas	2021	0	6
+Califórnia em Chamas		0	6
 Call DiCaprio	2018	0	1
+Call DiCaprio		0	1
 Call Me By No Name	2025	0	7
+Call Me By No Name		0	7
 Call Me Kat	2021	0	66
+Call Me Kat		0	66
 Calle e Poche: Sem Filtro	2023	0	8
+Calle e Poche: Sem Filtro		0	8
 Calls	2005	0	8
+Calls		0	8
 Cama de Gato	2009	0	161
+Cama de Gato		0	161
 Camera Entre Balas	2025	0	8
+Camera Entre Balas		0	8
 Caminantes A Trilha do Medo	2020	0	7
-Caminhando Sobre Gelo Fino	2025	0	2
-Caminho das Índias	2009	0	203
-Caminhos dos Orixas	2023	0	16
-Campfire Cooking in Another World with My Absurd Skill	2023	0	24
-Can You Hear My Heart	2011	0	16
-Can a Boy Girl Friendship Survive	2025	0	12
-Canada Shore		0	10
-Cancoes da Noite	2022	0	25
-Candice Renoir	2013	0	89
-Candy Color Paradox	2022	0	8
-Candy Cruz	2023	0	10
-Candy: Uma História de Paixão e Crime	2022	0	5
-Cangaço Novo	2023	0	15
-Canibal		0	3
-Canibal	2022	0	10
-Cannon Busters	2019	0	12
-Canto ao Tempo	2023	0	5
-Capadocia	2008	0	39
-Capitaes do Mundo	2023	0	6
-Capitalismo Americano O Culto a Riqueza	2023	0	3
-Capitao Laserhawk Remix Blood Dragon	2023	0	6
-Capitães	2022	0	8
-Capitães da América	2022	0	4
-Capitão Fall	2023	0	10
-Capoeiras	2025	0	6
-Caprica	2010	0	18
-Captain Tsubasa	2018	0	91
-Captivated	2024	0	16
-Captivated By You	2025	0	5
-Captive Historias sobre Refens		0	8
-Capturando seu Assassino As Garotas da Ponte	2025	0	3
-Capture Lover	2020	0	10
-Cara e Coragem	2022	0	197
-Cara e Coroa	1995	0	212
-Carangas Absurdas	2021	0	6
-Caras		0	14
-Caras	2023	0	26
-Caras & Bocas	2009	0	230
-Caravana das Drags	2023	0	9
-Carcereiros	2017	0	30
-Cardcaptor Sakura	1998	0	105
-Cardfight Vanguard overDress	2021	0	89
-Cardinal	2017	0	24
-Careme O Rebelde da Culinaria	2025	0	8
-Carga Pesada		0	64
-Carinha de Anjo	2016	0	402
-Carlos Alcaraz Do Meu Jeito	2025	0	3
-Carma	2025	0	6
-Carmen Sandiego	2019	0	32
-Carnaval da Sabrina	2022	0	28
-Carnival Row	2019	0	18
-Carnivale		0	24
-Carol e o Fim do Mundo	2023	0	10
-Carro Ostentacao com Will Castro	2016	0	19
-Carros Irado	2014	0	126
-Carros Irados A Disputa	2020	0	8
-Carros Unicos	2023	0	12
-Carros na Estrada	2022	0	9
-Carrossel	2016	0	26
-Carrossel	2012	0	310
-Carruagem Errada Noivo Certo	2023	0	23
-Carta ao Rei	2020	0	6
-Cartas do Passado	2025	0	8
-Cartas na Manga: A Série		0	4
-Cartel Crew	2019	0	10
-Carter	2018	0	20
-Caríssima		0	10
-Casa Feia Nunca Mais!	2022	0	11
-Casa Kalimann	2021	0	13
-Casa das Facas A Batalha	2025	0	8
-Casa de Davi	2025	0	16
-Casa do Patrão		0	43
-Casa dos Sonhos da Barbie: O Desafio	2023	0	1
-Casa em Obra do Pesadelo ao Sonho	2023	0	8
-Casada mas	2025	1	12
-Casadas e Caçadoras		1	8
-Casados	2024	1	24
-Casados com o Inimigo	2023	1	12
-Casamento Arranjado	2022	1	10
-Casamento Impossivel	2024	1	12
-Casamento as Cegas Alemanha	2025	1	20
-Casamento as Cegas Argentina	2024	1	11
-Casamento as Cegas Franca	2025	1	10
-Casamento as Cegas Habibi	2024	1	10
-Casamento as Cegas Japao	2022	1	11
-Casamento as Cegas Reino Unido	2024	1	23
-Casamento as Cegas Suecia	2024	1	32
-Casamento sem Filtro	2021	1	6
-Casamento à Moda Judaica	2023	1	8
-Casamento às Cegas	2020	1	125
-Casamento às Cegas: Brasil	2021	1	56
-Casamento às Cegas: Itália		1	10
-Casar com VOCE	2024	1	10
-Casas Muito Loucas	2024	1	9
-Casas Sobre Rodas	2021	1	8
-Casas na Arvore	2013	1	93
-Case X Decoded - Legendado		1	12
-Casey Anthony Where the Truth Lies		1	3
-Cashero		1	8
-Caso Arquivado Os Assassinatos do Tylenol	2025	1	3
-Caso Arquivado Quem Matou JonBenet Ramsey	2024	1	3
-Caso Jean Charles Um Brasileiro Morto Por Engano	2025	1	4
-Caso Roswell O Veredito Final	2021	1	6
-Casos Arquivados Os Assassinatos de Rifkin	2023	1	2
-Casos Arquivados: Mortes no Velho Oeste	2025	1	6
-Casos Chocantes da Historia	2025	1	8
-Cassandra	2025	1	6
-Casseta & Planeta, Urgente!	1992	1	49
-Castelo Ra Tim Bum	1994	1	91
-Castle	2009	1	172
-Castle Rock	2018	1	19
-Castlevania	2017	1	32
-Castlevania Noturno	2023	1	16
-Casual		1	10
-Casual	2020	1	10
-Casão: Num Jogo Sem Regras	2022	1	4
-Catalogo	2025	1	8
-Catastrofes da Engenharia	2021	1	6
-Catch Me at the Ballpark	2025	1	11
-Catfish Brasil	2016	1	22
-Catfish UK	2021	1	4
-Catherine the Great	2019	1	4
-Cats Eye	2025	1	12
-Cats Eyes	2024	1	8
-Cautious Hero The Hero is Overpowered but Overly Cautious	2019	1	12
-Cautiva Por Amor		1	70
-Cavaleiro da Lua	2022	1	6
-Cavalos e Carrascos	2025	1	4
-Caverna do Dragão	1983	1	27
-Caçadora de Relíquias	1999	1	44
-Caçadoras de Recompensas	2020	1	10
-Caçadores de Bugs	2020	1	19
-Caçadores de Demônios	2020	1	44
-Caçadores de Naufrágios Austrália	2022	1	6
-Cecilia	2021	1	8
-Cela 211	2025	1	6
-Celebridade	2003	1	221
-Celebridades à Prova de Tudo: O Desafio	2022	1	14
-Celebrity	2023	1	12
-Celestial Bonds	2025	1	5
-Cells at Work	2018	1	21
-Celtics City	2025	1	9
-Cem Anos de Solidao	2024	1	15
-Cemiterio	2022	1	4
-Cena do Crime: Arquivos Confidenciais	2022	1	14
-Cena do Crime: Mistério e Morte no Hotel Cecil	2021	1	4
-Cena do Crime: O Campo da Morte no Texas	2022	1	3
-Cenas de Amor - Legendado		1	8
-Cenas de um Crime		1	8
-Central Park	2020	1	39
-Central de Bicos	2021	1	40
-Cesar Millan: Melhores Humanos, Melhores Cachorros	2021	1	22
-Ceu Selvagem	2025	1	2
-Chacrinha - A Minissérie	2020	1	4
-Chad	2021	1	8
-Chad Powers O Quarterback	2025	1	13
-Chai Chai	2010	1	78
-Chainsaw Man	2022	1	12
-Challenger: Voo Final	2020	1	4
-Chamadas Criminosas	2021	1	16
-Chamas do Destino	2019	1	8
-Chamas do Destino	2020	1	90
-Chame a Parteira	2012	1	43
-Champagne		1	5
-Champion	2023	1	8
-Champions	2018	1	10
-Channel Zero	2016	1	18
-Chantel e Pedro em Familia	2019	1	18
-Chaotic	2006	1	74
-Chapelwaite	2021	1	10
-Chapolin Colorado	1973	1	250
-Chapolin e Os Colorados		1	10
-Charles O Novo Rei	2022	1	2
-Charlotte	2015	1	13
-Charmed: Nova Geração	2018	1	71
-Chasing Monsters	2015	1	12
-Chaves	1973	1	259
-Cheaters: Amor e Traição	2022	1	6
-Cheer Up	2022	1	28
-Chef 5 Estrelas	2023	1	6
-Chef Alex Contra Todos	2022	1	13
-Chef Kath Fang Legado de Familia	2022	1	6
-Chef de Alto Nivel	2025	1	12
-Chef's Table: Pizza	2022	1	6
-Chefe da Casa	2024	1	7
-Chefe de Guerra	2025	1	9
-Chefs A Nova Geracao	2025	1	8
-Chefs Sob Pressão	2023	1	8
-Chefs Table	2015	1	30
-Chefs Table Lendas	2025	1	4
-Chefs Table Macarrao	2024	1	34
-Chefs de Alto Nivel com Gordon Ramsay Reino Unido	2023	1	8
-Chefs de Alto Nível com Gordon Ramsay	2022	1	56
-Chega Mais	1980	1	6
-Cheias de Charme	2012	2	143
-Chernobyl	2019	2	5
-Cherry Blossoms After Winter	2022	2	8
-Cherry Magic Thirty Years of Virginity Can Make You a Wizard	2024	2	12
-Chesapeake Shores	2016	2	56
-Chespirito Sem Querer Querendo	2025	2	8
-Chewing Gum	2015	2	12
-Chibiverso	2022	2	4
-Chica Vampiro	2013	2	120
-Chicago Fire: Heróis Contra o Fogo	2012	2	295
-Chicago Justice A Servico da Lei		2	13
-Chicago Med: Atendimento de Emergência	2015	2	219
-Chicago P.D.: Distrito 21	2014	2	263
-Chicken Nugget	2024	2	10
-Chico Anysio Um Homem a Procura de Um Personagem	2025	2	5
-Chico Xavier: A Série	2023	2	6
-Chihayafuru Ciclo Completo	2025	2	3
-Chiikawa	2022	2	24
-Chillin in Another World with Level 2 Super Cheat Powers	2024	2	12
-Chimp Crazy	2024	2	4
-Chip e Potato	2018	2	10
-Chiquititas	2013	2	545
-Chitaozinho e Xororo Uma Historia de Sucesso		2	5
-Chitose Is in the Ramune Bottle	2025	2	2
-Chloe	2022	2	6
-Chocolate com Pimenta	2003	2	209
-Chopped Nova Geracao	2021	2	5
-Choque de Cultura	2016	2	34
-Choque de Cultura: A Série		2	4
-Chosen	2021	2	18
-Christina Boyer No Corredor da Morte	2023	2	3
-Chuck	2007	2	84
-Chuck Norris: O Homem da Lei	1993	2	194
-Chucky: A Série	2021	2	24
-Chuhai Lips	2025	2	4
-Churchill em Guerra	2024	2	4
-Chuteira Preta	2019	2	13
-Chuva Negra	2023	2	10
-Ciao House A Competicao	2023	2	8
-Ciclo Infinito do Amor		2	24
-Cidade Cruel	2019	2	70
-Cidade Fantasma: Terror em Montana	2022	2	6
-Cidade Invisível	2021	2	12
-Cidade Pacata, Crime Cruel	2017	2	69
-Cidade Secreta		2	12
-Cidade Toxica	2025	2	4
-Cidade das Esmeraldas	2017	2	10
-Cidade das Estrelas		2	8
-Cidade de Deus A Luta Nao Para	2024	2	6
-Cidade de Fantasmas	2021	2	6
-Cidade de Sombras		2	6
-Cidade do Caos	2023	2	6
-Cidade dos Campeões	2021	2	8
-Cidade dos Homens		2	18
-Cidade dos Mortos	2019	2	8
-Cidade dos Pinguins	2021	2	8
-Cidade em Chamas	2023	2	8
-Cilada	2025	2	20
-Cinco Dias	2007	2	5
-Cinco Dias no Hospital Memorial	2022	2	8
-Cinderella Chef	2018	2	36
-Cinderella Closet	2025	2	12
-Cinderella Game	2024	2	101
-Cinderella e os Quatro Cavaleiros	2016	2	16
-Cindy La Regia Adolescencia	2023	2	7
-Cine Holliúdy	2019	2	33
-Ciranda de Pedra	2008	2	131
-Cirurgia Plastica Vai Encarar	2019	2	6
-Cirurgiao do Mal	2023	2	3
-Cirurgias e Artimanhas		2	16
-Cirurgias e Artimanhas	2023	2	8
-Cirurgioes No Limite da Vida	2018	2	25
-Cisne Vermelho		2	10
-Cisne Vermelho	2024	2	10
-Citadel	2023	2	13
-Citadel Diana	2024	2	6
-Citadel Honey Bunny	2024	2	6
-City on a Hill	2019	2	26
-Clara e o Chuveiro do Tempo	2005	2	4
-Clarice	2021	2	13
-Clark	2022	2	6
-Clas Sangue e Poder	2020	2	3
-Classe Mortal	2019	2	10
-Classe dos Herois Fracos	2022	2	16
-Classes	2023	2	8
-Classic Stars	2025	2	13
-Classroom of the Elite	2017	2	87
-Claymore		2	26
-Cleo & Cuquin	2018	2	78
-Clevatess	2025	2	16
-Click BBB	2022	2	320
-Clickbait	2021	2	8
-Clima do Amor	2022	2	16
-Clipped	2024	2	6
-Clique	2017	2	12
-Club 57	2019	2	60
-Clube Spelunca		2	10
-Clube Winx A Magia esta de volta	2025	2	13
-Clube da Aventura	2022	2	6
-Clube das Mães	2022	2	16
-Clube do Medo	2021	2	20
-Clube do Terror	2019	2	9
-Clubinho Pikwik	2020	2	52
-Clássico Americano		2	8
-Clímax - Legendado		2	10
-Clínica Animal com Dr. Pol	2011	2	66
-Cobra Kai	2021	2	30
-Cobra Kai	2018	2	65
-Cobras & Lagartos	2006	2	179
-Cobras e Escadas	2025	2	8
-Cocaine Cowboys: The Kings of Miami	2021	2	6
-Cocoricó	1996	2	233
-Code 404	2020	2	12
-Code Black	2015	2	47
-Codename Annika	2023	2	6
-Codex 632	2023	2	6
-Coffee Melody	2022	2	12
-Coiote Heroi e Fera	2025	2	8
-Coisa Mais Linda	2019	2	13
-Coisa de Menino	2023	2	5
-Colapso	2025	3	6
-Cold Courage	2020	3	8
-Coletivo Terror	2020	3	6
-Colin em Preto e Branco	2021	3	6
-Colin from Accounts	2022	3	15
-Coliseu		3	8
-Colony	2005	3	35
-Color Rush	2020	3	16
-Columbo		3	30
-Colônia	2021	3	10
-Colônia Dignidade: Uma Seita Nazista no Chile	2021	3	6
-Com Agua ate o Pescoco	2011	3	147
-Com Amor	2021	3	5
-Com Amor Meghan	2025	3	8
-Com Amor, Victor	2020	3	28
-Com Pocoes Eu Me Garanto	2023	3	12
-Com a Permissão do Tribunal	2022	3	12
-Comando Estelar Flashman	1986	3	50
-Comando das Criaturas	2024	3	7
-Come Back Mister	2016	3	16
-Comedy Revenge	2024	3	6
-Comedy Royale	2023	3	6
-Comer Correr Amar	2025	3	28
-Cometerra		3	7
-Comidas Cheias de História	2013	3	20
-Community	2009	3	109
-Como Acabar Com o Natal: O Casamento	2020	3	4
-Como Acabar com o Amor		3	4
-Como Agua para Chocolate	2024	3	12
-Como Criar um Escandalo Sexual	2023	3	3
-Como Defender um Assassino	2014	3	90
-Como Ficar Rico	2023	3	8
-Como Funciona o Universo	2010	3	30
-Como Ganhar na Loteria		3	6
-Como Morrer Sozinha	2024	3	8
-Como Mudar sua Mente	2022	3	4
-Como Raeliana Foi Parar na Mansão do Duque	2023	3	12
-Como Se Livrar de Um Corpo	2024	3	6
-Como Se Tornar Uma Divindade na Flórida	2019	3	10
-Como Se Tornar um Chefe do Crime	2023	3	6
-Como Se Tornar um Líder de Seita	2023	3	6
-Como Se Tornar um Tirano	2021	3	6
-Como Sobreviver Entre Irmãos	2021	3	29
-Como Sobreviver Solteiro	2020	3	26
-Como Vender Drogas Online	2019	3	24
-Como Viver até os 100: Os Segredos das Zonas Azuis	2023	3	4
-Como Voce Pode		3	32
-Como Walt Disney Mudou o Mundo	2024	3	6
-Como um Relâmpago		3	4
-Companheiros de Viagem	2023	3	8
-Complexo do Salvador	2023	3	3
-Compramos, Vendemos e Trocamos	2021	3	12
-Compro Likes	2023	3	5
-Compulsion	2022	3	4
-Conan O Menino do Futuro		3	26
-Condenados pela Mídia	2020	3	6
-Condor		3	20
-Conexao Extraterrestre	2025	3	10
-Conexoes Traicoeiras	2024	3	14
-Conexão: Comer, Amar e Matar	2022	3	16
-Conexões	2023	3	8
-Conexões de Risco		3	8
-Confeitaria do Terror	2024	3	2
-Confie em Mim		3	8
-Confie em Mim	2022	3	6
-Confissoes Diabolicas	2015	3	12
-Confissoes de um Crime	2024	3	12
-Confissoes de um Serial Killer	2022	3	4
-Confissoes do Assassino da Times Square	2023	3	2
-Confissões de Assassinos: Verdades Perturbadoras		3	8
-Confissões de Mulheres de 50	2020	3	10
-Conflict	2024	3	6
-Confrontando um Serial Killer	2021	3	5
-Confronto dos Deuses	2009	3	10
-Confusões de Leslie	2009	3	125
-Congonhas Tragedia Anunciada	2025	3	3
-Congresso Bitcoin		3	3
-Congresso Brasil Paralelo	2016	3	6
-Conheca Homem de Ferro e seus Amigos Incriveis	2025	3	10
-Conhecendo as Esculturas e Modelagens dos Filmes Disney	2020	3	8
-Conor McGregor: Além do Octógono	2023	3	4
-Consciencia	2019	3	5
-Conspiracao Americana Os Crimes da Octopus	2024	3	4
-Constantine	2014	3	13
-Constelacao	2024	3	8
-Construcoes que Mudaram o Mundo	2021	3	8
-Construindo no Alasca		3	99
-Construções Remotas	2014	3	7
-Consumidas pelo Fogo	2023	3	8
-Contagem Regressiva	2025	3	13
-Contagem Regressiva Jake Paul vs Mike Tyson	2024	3	3
-Contatos Imediatos Oceania	2023	3	6
-Conte Tudo Para Mim	2022	3	6
-Contigo, Guerrero	2022	3	6
-Continuum	2012	3	42
-Contos Futurísticos	2022	3	7
-Contos do Loop	2020	3	8
-Contratempos	1989	3	8
-Contrato de Casamento	2016	3	16
-Control Z	2020	3	24
-Conversa com Bial	2017	3	189
-Conversando Com Um Serial killer O Filho de Sam	2025	3	3
-Conversando com um Serial Killer: O Canibal de Milwaukee	2022	3	3
-Conversando com um Serial Killer: O Palhaço Assassino	2022	3	3
-Conversando com um serial killer: A Mente de Charles Manson		3	3
-Conversas Entre Amigos	2022	3	11
-Conversas que Curam	2025	3	8
-Cook Island: Ilha do Sabor	2022	3	10
-Cookies de Natal O Desafio	2017	3	36
-Cooking Life	2020	3	8
-Copa Rio Vira Latas E O Supermundial	2025	3	3
-Copan	2015	3	10
-Copenhagen Cowboy	2023	3	6
-Coppelion	2013	3	13
-Coppers: Justiça Implacável		3	13
-Coracao Alado	1980	3	6
-Coracao Sombrio	2022	3	5
-Coracao de Ferro	2025	3	6
-Coracao de Vidro	2025	3	10
-Coragem Irmao	2024	3	6
-Coragem O Cao Covarde	1999	4	52
-Coração Acelerado		4	177
-Coração Indomável	2013	4	162
-Coração Inimigo	2022	4	16
-Coração Marcado	2022	4	24
-Coração Suburbano	2022	4	6
-Coração de Estudante	2002	4	185
-Corações Destinados		4	38
-Cordel Encantado	2011	4	143
-Coreia O Pais do Kimchi	2023	4	3
-Coroas em Crise	2023	4	8
-Coronavirus Explained	2020	4	3
-Corpo Dourado	1998	4	12
-Corpo Humano: Nosso Mundo Interior	2021	4	6
-Corpo em Chamas	2023	4	8
-Corpos	2023	4	8
-Corpos Extraordinarios	2008	4	4
-Corpos no Porao	2023	4	3
-Corre Compra e Cozinha	2019	4	39
-Corrente Implacavel	2025	4	9
-Corretores de Luxo em Marbella	2024	4	12
-Corrida Maluca	1968	4	34
-Corrida ao Redor da Terra	2021	4	7
-Corrida na Lama	2024	4	6
-Corrida pela Coroa	2025	4	6
-Corridas Proibidas Os Melhores da America	2021	4	28
-Corridas Proibidas Tudo ou Nada	2021	4	12
-Corridas Proibidas: Reis das Pistas: G-8	2022	4	14
-Cortina de Fumaca	2025	4	9
-Cosmos Mundos Possiveis	2014	4	13
-Council of Dads Lembranças do Meu Pai	2020	4	1
-Counterpart: Mundo Paralelo	2017	4	20
-Courtois O Retorno do Numero 1	2024	4	4
-Covert Affairs: Assuntos Confidenciais	2010	4	75
-Cowboy Bebop	2021	4	8
-Cowboy Cartel	2024	4	4
-Coyote	2021	4	6
-Coyotes	2021	4	6
-Cozinha Selvagem: O Duelo	2022	4	8
-Cozinha em Conta	2022	4	8
-Cozinhando com Paris Hilton	2021	4	6
-Cozinhando em 4:20	2018	4	12
-Cozinhando o Impossível	2021	4	8
-Craftopia	2020	4	12
-Crash Landing On You	2019	4	16
-Crashing	2017	4	16
-Crazy Love	2022	4	16
-Creepshow	2019	4	25
-Crepusculo de Um Crime	2019	4	6
-Crepusculo dos Deuses	2024	4	8
-Crescendo	2022	4	10
-Criadas e Malvadas	2013	4	13
-Criadores de Diversão	2022	4	8
-Criadores de Supercarros	2016	4	10
-Criadores do Futuro		4	3
-Criando Delicias	2025	4	31
-Criaturas Estranhas	2015	4	13
-Criaturas Misteriosas Com Forrest Galante	2021	4	6
-Criaturinhas	2024	4	39
-Crime Scene Zero	2025	4	10
-Crime de uma Dinastia O Caso Murdaugh	2025	4	8
-Crime em Tempo Real	2022	4	6
-Crimes Graves	2012	4	105
-Crimes do Colarinho Branco	2009	4	81
-Crimes na Cabana	2024	4	6
-Crimes que Abalaram o Mundo	2020	4	8
-Crimes que Viralizaram	2020	4	61
-Criminal: Alemanha	2019	4	3
-Criminal: Espanha	2019	4	3
-Criminal: França	2019	4	3
-Criminal: UK	2019	4	7
-Criminosos	2024	4	14
-Criminosos	2023	4	8
-Crise em Seis Cenas	2016	4	6
-Cristobal Balenciaga	2024	4	6
-Crisálida		4	4
-Critter Fixers: Hospital Veterinário	2020	4	20
-Cromanon A Noite do Incendio	2024	4	8
-Cronicas da Deusa Gato	2011	4	13
-Cronicas de Metal Hurlant	2012	4	12
-Crossbones	2014	4	9
-Crossing Swords	2020	4	20
-Crossover	2023	4	8
-Cruel Summer	2021	4	20
-Crushology 101	2025	4	12
-Crutch		4	8
-Cuidado com o Anjo	2008	4	194
-Cult Massacre One Day in Jonestown	2024	4	3
-Cultural Exchange with a Game Centre Girl	2025	4	12
-Cuphead: A Série	2022	4	36
-Curon	2020	4	7
-Cursed - A Lenda do Lago	2020	4	10
-Cursed Films	2020	4	5
-Curta Essa com Zac Efron	2020	4	16
-Curto Circuito	2020	4	20
-Cuspirei Em Seus Tumulos	2024	4	60
-Custe o que Custar		4	8
-Cyberpunk: Mercenários	2022	4	10
-Cães de Caça	2023	4	15
-Círculo Fechado	2023	4	6
-Círculo de Fogo: The Black	2021	4	14
+Caminantes A Trilha do Medo		1	7
+Caminhando Sobre Gelo Fino	2025	1	2
+Caminhando Sobre Gelo Fino		1	12
+Caminho das Índias	2009	1	203
+Caminho das Índias		1	203
+Caminhos dos Orixas	2023	1	16
+Caminhos dos Orixas		1	16
+Campfire Cooking in Another World with My Absurd Skill	2023	1	24
+Campfire Cooking in Another World with My Absurd Skill		1	24
+Can You Hear My Heart	2011	1	16
+Can You Hear My Heart		1	16
+Can a Boy Girl Friendship Survive	2025	1	12
+Can a Boy Girl Friendship Survive		1	12
+Canada Shore		1	10
+Cancoes da Noite	2022	1	25
+Cancoes da Noite		1	25
+Cancoes de Halloween do Mickey e da Minnie		1	3
+Candice Renoir	2013	1	89
+Candice Renoir		1	89
+Candy		1	8
+Candy Color Paradox	2022	1	8
+Candy Color Paradox		1	8
+Candy Cruz	2023	1	10
+Candy Cruz		1	10
+Candy: Uma História de Paixão e Crime	2022	1	5
+Candy: Uma História de Paixão e Crime		1	5
+Cangaco Novo		1	15
+Cangaço Novo	2023	1	15
+Canibal		1	3
+Canibal	2022	1	10
+Cannon Busters	2019	1	12
+Cannon Busters		1	12
+Canto ao Tempo	2023	1	5
+Canto ao Tempo		1	5
+Capadocia	2008	1	39
+Capadocia		1	39
+Capitaes do Mundo	2023	1	6
+Capitaes do Mundo		1	6
+Capitalismo Americano O Culto a Riqueza	2023	1	3
+Capitalismo Americano O Culto a Riqueza		1	3
+Capitao Laserhawk Remix Blood Dragon	2023	1	6
+Capitao Laserhawk Remix Blood Dragon		1	6
+Capitao Planeta		1	26
+Capitao Tsubasa		1	143
+Capitães	2022	1	8
+Capitães		1	8
+Capitães da América	2022	1	4
+Capitães da América		1	4
+Capitão Fall	2023	1	10
+Capitão Fall		1	10
+Capoeiras	2025	1	6
+Capoeiras		1	6
+Caprica	2010	1	18
+Caprica		1	18
+Captain Fantastic		1	3
+Captain Tsubasa	2018	1	91
+Captain Tsubasa		1	91
+Captivated	2024	1	16
+Captivated		1	4
+Captivated By You	2025	1	5
+Captivated By You		1	5
+Captive Historias sobre Refens		1	8
+Capturando seu Assassino As Garotas da Ponte	2025	1	3
+Capturando seu Assassino As Garotas da Ponte		1	3
+Capture Lover	2020	1	10
+Capture Lover		1	10
+Cara e Coragem	2022	1	197
+Cara e Coragem		1	197
+Cara e Coroa	1995	1	212
+Cara e Coroa		1	212
+Carangas Absurdas	2021	1	6
+Carangas Absurdas		1	6
+Caras		1	26
+Caras	2023	1	26
+Caras & Bocas	2009	1	230
+Caras & Bocas		1	230
+Caravana das Drags	2023	1	9
+Caravana das Drags		1	9
+Carcereiros	2017	1	30
+Carcereiros		1	30
+Cardcaptor Sakura	1998	1	105
+Cardcaptor Sakura		1	105
+Cardfight Vanguard overDress	2021	1	89
+Cardfight Vanguard overDress		1	89
+Cardinal	2017	1	24
+Cardinal		1	24
+Careme O Rebelde da Culinaria	2025	1	8
+Careme O Rebelde da Culinaria		1	8
+Carga Pesada		1	64
+Carinha de Anjo	2016	1	402
+Carinha de Anjo		1	402
+Carlo! S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlo! S01 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg" group-title="Series | Netflix",Acorda, Carlo!		1	1
+Carlos Alcaraz Do Meu Jeito	2025	1	3
+Carlos Alcaraz Do Meu Jeito		1	3
+Carma	2025	1	6
+Carma		1	6
+Carmen Sandiego	2019	1	32
+Carmen Sandiego		1	32
+Carnaval RJ		1	12
+Carnaval SP		1	14
+Carnaval da Sabrina	2022	1	28
+Carnaval da Sabrina		1	27
+Carniceiros		1	5
+Carnival Row	2019	1	18
+Carnival Row		1	18
+Carnivale		1	24
+Carol e o Fim do Mundo	2023	1	10
+Carol e o Fim do Mundo		1	10
+Carolina Marin		2	4
+Caroline Flack A Busca Pela Verdade		2	2
+Carro Ostentacao com Will Castro	2016	2	19
+Carro Ostentacao com Will Castro		2	19
+Carros Irado	2014	2	126
+Carros Irado		2	126
+Carros Irados		2	9
+Carros Irados A Disputa	2020	2	8
+Carros Irados A Disputa		2	8
+Carros Unicos	2023	2	12
+Carros Unicos		2	12
+Carros na Estrada	2022	2	9
+Carros na Estrada		2	9
+Carrossel	2016	2	26
+Carrossel	2012	2	310
+Carrossel		2	310
+Carruagem Errada Noivo Certo	2023	2	23
+Carruagem Errada Noivo Certo		2	23
+Carta ao Rei	2020	2	6
+Carta ao Rei		2	6
+Cartas Para Eva		2	5
+Cartas do Passado	2025	2	8
+Cartas do Passado		2	8
+Cartas na Manga: A Série		2	4
+Cartel Crew	2019	2	10
+Cartel Crew		2	10
+Carter	2018	2	20
+Carter		2	20
+Caríssima		2	10
+Casa Fantasma Hospedeiro Fantasma		2	8
+Casa Feia Nunca Mais!	2022	2	11
+Casa Feia Nunca Mais!		2	11
+Casa Kalimann	2021	2	13
+Casa Kalimann		2	13
+Casa das Facas A Batalha	2025	2	8
+Casa das Facas A Batalha		2	8
+Casa de Davi	2025	2	16
+Casa de Davi		2	16
+Casa de Stassi Schroeder		2	8
+Casa do Patrão		2	80
+Casa dos Sonhos da Barbie: O Desafio	2023	2	1
+Casa dos Sonhos da Barbie: O Desafio		2	1
+Casa em Obra do Pesadelo ao Sonho	2023	2	8
+Casa em Obra do Pesadelo ao Sonho		2	8
+Casada mas	2025	2	12
+Casada mas		2	12
+Casadas e Caçadoras		2	8
+Casados	2024	2	24
+Casados		2	24
+Casados com o Inimigo	2023	2	12
+Casados com o Inimigo		2	12
+Casais em Terapia		2	8
+Casamento Arranjado	2022	2	10
+Casamento Arranjado		2	10
+Casamento Impossivel	2024	2	12
+Casamento Impossivel		2	12
+Casamento as Cegas Alemanha	2025	2	20
+Casamento as Cegas Alemanha		2	20
+Casamento as Cegas Argentina	2024	2	11
+Casamento as Cegas Argentina		2	11
+Casamento as Cegas Franca	2025	2	10
+Casamento as Cegas Franca		2	10
+Casamento as Cegas Habibi	2024	2	10
+Casamento as Cegas Habibi		2	10
+Casamento as Cegas Japao	2022	2	11
+Casamento as Cegas Japao		2	11
+Casamento as Cegas Reino Unido	2024	2	23
+Casamento as Cegas Reino Unido		2	22
+Casamento as Cegas Suecia	2024	2	32
+Casamento as Cegas Suecia		2	32
+Casamento e Divórcio S01 E01" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E02" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E03" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E04" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E05" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E06" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E07" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E08" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E09" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E10" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E11" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E12" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E13" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E14" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E15" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S01 E16" tvg-logo="http://gstaticontent.com/images/gyqkFhriSoWVsMTdH03XrXg6JR6_big.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3rd2E1DReSb3enZ6ZGjMyuWrqJA.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qYiY2mgPf8zb5udJbYAXgojkM45.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z5xSHSIihAQnDuSD8BNOzrL9Hw.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7S3DQ29erehQJD6FjZqqGFM0DSO.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wCdCDKXRXmzAEAyFEJb1qm8vspy.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o561dOW7GtImXmmoz6hsT5MsJx4.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6PxiCONttLMpkrdVZ1q3I34aCz.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2k4UtSPjtmJnhAgThMuD8RSrNfX.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/diDsuhkpA77YHBJl0vCpTbG8ubA.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvTI7cwia52cWFFHAJrvkREaKwN.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pCBI0HQUUODTgYiDHGYrtHUeRd3.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o4eV0D9H6Fyr9CCXDt2kvCU4evK.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vqj77WYn4AeXYMQyHTl9JpLLfIJ.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sJFi9gqu8gx04kajum7Vcd926nI.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i3PmaVZX6JG7mG23NaPQWeZVPpQ.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento e Divórcio S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/adEfoSKJxDThvEThCTCCfmJ9lDJ.jpg" group-title="Series | Netflix",Amor, Casamento e Divórcio		2	1
+Casamento sem Filtro	2021	2	6
+Casamento sem Filtro		2	6
+Casamento à Moda Judaica	2023	2	8
+Casamento à Moda Judaica		2	8
+Casamento às Cegas	2020	2	125
+Casamento às Cegas		2	126
+Casamento às Cegas: Brasil	2021	2	56
+Casamento às Cegas: Brasil		2	56
+Casamento às Cegas: Itália		2	10
+Casar com VOCE	2024	2	10
+Casar com VOCE		2	10
+Casar com um Assassino		2	3
+Casas Muito Loucas	2024	2	9
+Casas Muito Loucas		2	9
+Casas Sobre Rodas	2021	2	8
+Casas Sobre Rodas		2	8
+Casas na Arvore	2013	2	93
+Casas na Arvore		2	93
+Case S01 E01" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E02" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E03" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E04" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E05" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E06" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E07" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E08" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E09" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E10" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E11" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E12" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E13" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E14" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E15" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E16" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E17" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E18" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E19" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S01 E20" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E01" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E02" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E03" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E04" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E05" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E06" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E07" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E08" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E09" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E10" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E11" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E12" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E13" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E14" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E15" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E16" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E17" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E18" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E19" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S02 E20" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E01" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E02" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E03" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E04" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E05" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E06" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E07" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E08" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E09" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E10" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E11" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E12" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E13" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E14" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E15" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E16" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E17" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E18" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E19" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S03 E20" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E01" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E02" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E03" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E04" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E05" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E06" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E07" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E08" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E09" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E10" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E11" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E12" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E13" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E14" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E15" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9LNp4wA2DzZhdYUbTan3shbC8j8.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E17" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E18" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E19" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case S04 E20" tvg-logo="http://gstaticontent.com/images/9hrx5UZCe5IQGo6wVUgfawqcK1s_big.jpg" group-title="Series | Globoplay",Se Sobreviver, Case		3	1
+Case X Decoded		3	12
+Case X Decoded - Legendado		3	12
+Casey Anthony Where the Truth Lies		3	3
+Cashero		3	8
+Caso Arquivado Os Assassinatos do Tylenol	2025	3	3
+Caso Arquivado Os Assassinatos do Tylenol		3	3
+Caso Arquivado Quem Matou JonBenet Ramsey	2024	3	3
+Caso Arquivado Quem Matou JonBenet Ramsey		3	3
+Caso Jean Charles Um Brasileiro Morto Por Engano	2025	3	4
+Caso Jean Charles Um Brasileiro Morto Por Engano		3	4
+Caso Roswell O Veredito Final	2021	3	6
+Caso Roswell O Veredito Final		3	6
+Casos Arquivados Os Assassinatos de Rifkin	2023	3	2
+Casos Arquivados Os Assassinatos de Rifkin		3	2
+Casos Arquivados: Mortes no Velho Oeste	2025	3	6
+Casos Arquivados: Mortes no Velho Oeste		3	6
+Casos Bizarros		3	9
+Casos Chocantes da Historia	2025	3	8
+Casos Chocantes da Historia		3	8
+Cassandra	2025	3	6
+Cassandra		3	6
+Casseta & Planeta, Urgente!	1992	3	49
+Castelo Ra Tim Bum	1994	3	91
+Castelo Ra Tim Bum		3	91
+Castle	2009	3	172
+Castle		3	172
+Castle Rock	2018	3	19
+Castle Rock		3	19
+Castlevania	2017	3	32
+Castlevania		3	32
+Castlevania Noturno	2023	3	16
+Castlevania Noturno		3	16
+Casual		3	10
+Casual	2020	3	10
+Casão: Num Jogo Sem Regras	2022	3	4
+Casão: Num Jogo Sem Regras		3	4
+Cat e Keet		3	78
+Catalendas		3	86
+Catalogo	2025	3	8
+Catalogo		3	8
+Catastrofes da Engenharia	2021	4	6
+Catastrofes da Engenharia		4	6
+Catch Me at the Ballpark	2025	4	11
+Catch Me at the Ballpark		4	11
+Catfish Brasil	2016	4	22
+Catfish Brasil		4	22
+Catfish UK	2021	4	4
+Catfish UK		4	4
+Catherine the Great	2019	4	4
+Catherine the Great		4	4
+Cats Eye	2025	4	12
+Cats Eye		4	12
+Cats Eyes	2024	4	8
+Cats Eyes		4	8
+Cautious Hero The Hero is Overpowered but Overly Cautious	2019	4	12
+Cautious Hero The Hero is Overpowered but Overly Cautious		4	12
+Cautiva Por Amor		4	70
+Cavaleiro da Lua	2022	4	6
+Cavaleiro da Lua		4	6
+Cavalos e Carrascos	2025	4	4
+Cavalos e Carrascos		4	4
+Caverna do Dragão	1983	4	27
+Caverna do Dragão		4	27
+Cazalbe O Herdeiro da Graca		4	5
+Caçadora de Relíquias	1999	4	44
+Caçadora de Relíquias		4	44
+Caçadoras de Recompensas	2020	4	10
+Caçadoras de Recompensas		4	10
+Caçadores		4	19
+Caçadores de Bugs	2020	4	19
+Caçadores de Bugs		4	19
+Caçadores de Demônios	2020	4	44
+Caçadores de Demônios		4	44
+Caçadores de Naufrágios Austrália	2022	4	6
+Caçadores de Naufrágios Austrália		4	6
+Cecilia	2021	4	8
+Cecilia		4	8
+Cela 211	2025	4	6
+Cela 211		4	6
+Celebridade	2003	4	221
+Celebridade		4	221
+Celebridades à Prova de Tudo: O Desafio	2022	4	14
+Celebridades à Prova de Tudo: O Desafio		4	14
+Celebrity	2023	4	12
+Celebrity		4	12
+Celestial Above All		4	60
+Celestial Bonds	2025	4	5
+Celestial Bonds		4	5
+Cells at Work	2018	4	21
+Cells at Work		4	21
+Celtics City	2025	4	9
+Celtics City		4	9
+Cem Anos de Solidao	2024	4	15
+Cem Anos de Solidao		4	8
+Cemiterio	2022	4	4
+Cemiterio		4	4
+Cena do Crime Assassinatos na Alemanha		4	3
+Cena do Crime: Arquivos Confidenciais	2022	4	14
+Cena do Crime: Arquivos Confidenciais		4	14
+Cena do Crime: Mistério e Morte no Hotel Cecil	2021	4	4
+Cena do Crime: Mistério e Morte no Hotel Cecil		4	4
+Cena do Crime: O Campo da Morte no Texas	2022	4	3
+Cena do Crime: O Campo da Morte no Texas		4	3
+Cenas de Amor		4	9
+Cenas de Amor - Legendado		4	8
+Cenas de um Crime		4	8
+Central Park	2020	4	39
+Central Park		4	39
+Central de Bicos	2021	4	40
+Central de Bicos		4	40
+Cesar Millan: Melhores Humanos, Melhores Cachorros	2021	4	22
+Ceu Selvagem	2025	4	2
+Ceu Selvagem		4	2
+Chacrinha - A Minissérie	2020	4	4
+Chacrinha - A Minissérie		4	4
+Chad	2021	4	8
+Chad		4	8
+Chad Powers O Quarterback	2025	4	13
+Chad Powers O Quarterback		4	6
+Chai Chai	2010	4	78
+Chai Chai		4	78
+Chainsaw Man	2022	4	12
+Chainsaw Man		4	12
+Chainsmoker Cat		4	7
+Challenger: Voo Final	2020	4	4
+Challenger: Voo Final		4	4
+Chamadas Criminosas	2021	4	16
+Chamadas Criminosas		4	16
+Chamando da Galaxia		4	48
+Chamas da Vida		4	253
+Chamas do Destino	2019	4	8
+Chamas do Destino	2020	4	90
+Chamas do Destino		4	90
+Chame a Parteira	2012	4	43
+Chame a Parteira		4	43
+Champagne		4	5
+Champignon Witch		4	11
+Champion	2023	4	8
+Champion		4	8
+Champions	2018	4	10
+Champions		4	10
+Channel Zero	2016	4	18
+Channel Zero		4	18
+Chantel e Pedro em Familia	2019	4	18
+Chantel e Pedro em Familia		4	18
+Chaotic	2006	4	74
+Chaotic		4	72
+Chapelwaite	2021	4	10
+Chapelwaite		4	10
+Chapolin Colorado	1973	4	250
+Chapolin Colorado		4	250
+Chapolin e Os Colorados		4	10
+Charles O Novo Rei	2022	4	2
+Charles O Novo Rei		4	2
+Charlie Brown - Os Viajantes Mayflower		4	6
+Charlotte	2015	4	13
+Charlotte		4	13
+Charmed: Nova Geração	2018	4	71
+Charmed: Nova Geração		4	71
+Chasing Monsters	2015	4	12
+Chasing Monsters		5	12
+Chaves	1973	5	259
+Chaves		5	221
+Cheaters: Amor e Traição	2022	5	6
+Cheaters: Amor e Traição		5	6
+Check In to You		5	6
+Cheer Up	2022	5	28
+Cheer Up		5	28
+Cheers Aquele Bar		5	46
+Chef 5 Estrelas	2023	5	6
+Chef 5 Estrelas		5	6
+Chef Alex Contra Todos	2022	5	13
+Chef Alex Contra Todos		5	13
+Chef Kath Fang Legado de Familia	2022	5	6
+Chef Kath Fang Legado de Familia		5	6
+Chef de Alto Nivel	2025	5	12
+Chef de Alto Nivel		5	12
+Chef's Table		5	34
+Chef's Table: Pizza	2022	5	6
+Chef's Table: Pizza		5	6
+Chefe da Casa	2024	5	7
+Chefe da Casa		5	7
+Chefe de Guerra	2025	5	9
+Chefe de Guerra		5	9
+Chefs A Nova Geracao	2025	5	8
+Chefs A Nova Geracao		5	8
+Chefs Sob Pressão	2023	5	8
+Chefs Sob Pressão		5	8
+Chefs Table	2015	5	30
+Chefs Table		5	30
+Chefs Table Lendas	2025	5	4
+Chefs Table Lendas		5	4
+Chefs Table Macarrao	2024	5	34
+Chefs Table Macarrao		5	4
+Chefs de Alto Nivel com Gordon Ramsay Reino Unido	2023	5	8
+Chefs de Alto Nivel com Gordon Ramsay Reino Unido		5	8
+Chefs de Alto Nível com Gordon Ramsay	2022	5	56
+Chefs de Alto Nível com Gordon Ramsay		5	56
+Chega Mais	1980	5	6
+Chega Mais		5	6
+Chega de Bagunca com Stacey Solomon		5	7
+Cheias de Charme	2012	5	143
+Cheias de Charme		5	143
+Chernobyl	2019	5	5
+Chernobyl		5	10
+Cherry Blossoms After Winter	2022	5	8
+Cherry Blossoms After Winter		5	8
+Cherry Magic Thirty Years of Virginity Can Make You a Wizard	2024	5	12
+Cherry Magic Thirty Years of Virginity Can Make You a Wizard		5	12
+Chesapeake Shores	2016	5	56
+Chesapeake Shores		5	56
+Chespirito Sem Querer Querendo	2025	5	8
+Chespirito Sem Querer Querendo		5	8
+Chewing Gum	2015	5	12
+Chewing Gum		5	12
+Chibiverso	2022	5	4
+Chibiverso		5	4
+Chica Vampiro	2013	5	120
+Chica Vampiro		5	120
+Chicago Fire: Heróis Contra o Fogo	2012	5	295
+Chicago Fire: Heróis Contra o Fogo		5	295
+Chicago Justice A Servico da Lei		5	13
+Chicago Med: Atendimento de Emergência	2015	5	219
+Chicago Med: Atendimento de Emergência		5	219
+Chicago P.D.: Distrito 21	2014	5	263
+Chicago P.D.: Distrito 21		5	263
+Chicken Nugget	2024	5	10
+Chicken Nugget		5	10
+Chico Anysio Um Homem a Procura de Um Personagem	2025	5	5
+Chico Anysio Um Homem a Procura de Um Personagem		5	5
+Chico Xavier: A Série	2023	5	6
+Chico Xavier: A Série		5	6
+Chihayafuru Ciclo Completo	2025	5	3
+Chihayafuru Ciclo Completo		5	3
+Chiikawa	2022	5	24
+Chiikawa		5	24
+Chillin in Another World with Level 2 Super Cheat Powers	2024	5	12
+Chillin in Another World with Level 2 Super Cheat Powers		5	12
+Chimp Crazy	2024	5	4
+Chimp Crazy		5	4
+Chip e Potato	2018	5	10
+Chip e Potato		5	10
+Chiquititas	2013	5	545
+Chiquititas		5	545
+Chitaozinho e Xororo Uma Historia de Sucesso		5	5
+Chitose Is in the Ramune Bottle	2025	5	2
+Chitose Is in the Ramune Bottle		5	13
+Chloe	2022	5	6
+Chloe		5	6
+Chocolate com Pimenta	2003	5	209
+Chocolate com Pimenta		5	209
+Choose Earth		5	4
+Chopped Nova Geracao	2021	5	5
+Chopped Nova Geracao		5	5
+Choque de Cultura	2016	5	34
+Choque de Cultura		5	34
+Choque de Cultura: A Série		5	4
+Chosen	2021	5	18
+Chosen		5	18
+Christina Boyer No Corredor da Morte	2023	5	3
+Christina Boyer: No Corredor da Morte		5	3
+Chuck	2007	5	84
+Chuck		5	84
+Chuck Norris: O Homem da Lei	1993	5	194
+Chuck Norris: O Homem da Lei		5	194
+Chucky: A Série	2021	5	24
+Chucky: A Série		5	24
+Chuhai Lips	2025	5	4
+Chuhai Lips		5	4
+Churchill em Guerra	2024	5	4
+Churchill em Guerra		5	4
+Churrasqueiros do Texas		5	8
+Chuteira Preta	2019	5	13
+Chuteira Preta		5	13
+Chuva Negra	2023	5	10
+Chuva Negra		5	10
+Ciao House A Competicao	2023	5	8
+Ciao House A Competicao		5	8
+Ciclo Infinito do Amor		5	24
+Cidade Cruel	2019	5	70
+Cidade Cruel		6	70
+Cidade Fantasma: Terror em Montana	2022	6	6
+Cidade Fantasma: Terror em Montana		6	6
+Cidade Invisível	2021	6	12
+Cidade Invisível		6	12
+Cidade Pacata, Crime Cruel	2017	6	69
+Cidade Secreta		6	12
+Cidade Toxica	2025	6	4
+Cidade Toxica		6	4
+Cidade das Esmeraldas	2017	6	10
+Cidade das Esmeraldas		6	10
+Cidade das Estrelas		6	8
+Cidade de Deus A Luta Nao Para	2024	6	6
+Cidade de Deus A Luta Nao Para		6	6
+Cidade de Fantasmas	2021	6	6
+Cidade de Fantasmas		6	6
+Cidade de Sombras		6	6
+Cidade do Caos	2023	6	6
+Cidade do Caos		6	6
+Cidade dos Campeões	2021	6	8
+Cidade dos Campeões		6	8
+Cidade dos Homens		6	18
+Cidade dos Mortos	2019	6	8
+Cidade dos Mortos		6	8
+Cidade dos Pinguins	2021	6	8
+Cidade dos Pinguins		6	8
+Cidade em Chamas	2023	6	8
+Cidade em Chamas		6	8
+Cilada	2025	6	20
+Cilada		6	20
+Cinco Dias	2007	6	5
+Cinco Dias		6	5
+Cinco Dias no Hospital Memorial	2022	6	8
+Cinco Dias no Hospital Memorial		6	8
+Cinderella Chef	2018	6	36
+Cinderella Chef		6	36
+Cinderella Closet	2025	6	12
+Cinderella Closet		6	12
+Cinderella Game	2024	6	101
+Cinderella Game		6	101
+Cinderella e os Quatro Cavaleiros	2016	6	16
+Cinderella e os Quatro Cavaleiros		6	16
+Cindy La Regia Adolescencia	2023	6	7
+Cindy La Regia Adolescencia		6	7
+Cine Holliúdy	2019	6	33
+Cine Holliúdy		6	33
+Cinquentinha		6	8
+Cinquentões de Elite		6	12
+Ciranda de Pedra	2008	6	131
+Ciranda de Pedra		6	104
+Cirurgia Plastica Vai Encarar	2019	6	6
+Cirurgia Plastica Vai Encarar		6	6
+Cirurgiao do Mal	2023	6	3
+Cirurgiao do Mal		6	3
+Cirurgias e Artimanhas		6	24
+Cirurgias e Artimanhas	2023	6	8
+Cirurgioes No Limite da Vida	2018	6	25
+Cirurgioes No Limite da Vida		6	25
+Cisne Vermelho		6	20
+Cisne Vermelho	2024	6	10
+Citadel	2023	6	13
+Citadel		6	13
+Citadel Diana	2024	6	6
+Citadel Diana		6	6
+Citadel Honey Bunny	2024	6	6
+Citadel Honey Bunny		6	6
+City on a Hill	2019	6	26
+City on a Hill		6	26
+ClaireBell		6	8
+Clara e o Chuveiro do Tempo	2005	6	4
+Clara e o Chuveiro do Tempo		6	4
+Clarice	2021	6	13
+Clarice		6	13
+Clark	2022	6	6
+Clark		6	6
+Clas Sangue e Poder	2020	6	3
+Clas Sangue e Poder		6	3
+Class Crush Crisis		6	1
+Classe Mortal	2019	6	10
+Classe Mortal		6	10
+Classe dos Herois Fracos	2022	6	16
+Classe dos Herois Fracos		6	16
+Classes	2023	6	8
+Classes		6	8
+Classic Stars	2025	6	13
+Classic Stars		6	13
+Classroom of the Elite	2017	6	87
+Classroom of the Elite		6	107
+Claymore		6	26
+Cleo & Cuquin	2018	6	78
+Cleo & Cuquin		6	78
+Clevatess	2025	6	16
+Clevatess		6	16
+Click BBB	2022	6	320
+Click BBB		6	320
+Clickbait	2021	6	8
+Clickbait		6	8
+Clima do Amor	2022	6	16
+Clima do Amor		6	16
+Climax		6	7
+Clipped	2024	6	6
+Clipped		6	6
+Clique	2017	6	12
+Clique		6	12
+Club 57	2019	6	60
+Club 57		6	60
+Clube Spelunca		6	10
+Clube Winx A Magia esta de volta	2025	6	13
+Clube Winx A Magia esta de volta		6	13
+Clube da Aventura	2022	6	6
+Clube da Aventura		6	6
+Clube das Mães	2022	6	16
+Clube das Mães		6	16
+Clube do Medo	2021	6	20
+Clube do Medo		6	20
+Clube do Terror	2019	6	9
+Clube do Terror		6	26
+Clubinho Pikwik	2020	6	52
+Clubinho Pikwik		6	52
+Clássico Americano		6	8
+Clímax - Legendado		7	10
+Clínica Animal com Dr. Pol	2011	7	66
+Clínica Animal com Dr. Pol		7	66
+Cobra Kai	2021	7	30
+Cobra Kai	2018	7	65
+Cobra Kai		7	95
+Cobras & Lagartos	2006	7	179
+Cobras & Lagartos		7	179
+Cobras e Escadas	2025	7	8
+Cobras e Escadas		7	8
+Cocaine Cowboys: The Kings of Miami	2021	7	6
+Cocaine Cowboys: The Kings of Miami		7	6
+Cocoricó	1996	7	233
+Cocoricó		7	233
+Code 404	2020	7	12
+Code 404		7	12
+Code Black	2015	7	47
+Code Black		7	47
+Codename Annika	2023	7	6
+Codename Annika		7	6
+Codex 632	2023	7	6
+Codex 632		7	6
+Codigo do Silencio		7	6
+Coffee Melody	2022	7	12
+Coffee Melody		7	12
+Coiote Heroi e Fera	2025	7	8
+Coiote Heroi e Fera		7	8
+Coisa Mais Linda	2019	7	13
+Coisa Mais Linda		7	13
+Coisa de Menino	2023	7	5
+Coisa de Menino		7	5
+Colapso	2025	7	6
+Colapso		7	6
+Cold Courage	2020	7	8
+Cold Courage		7	8
+Coletivo Terror	2020	7	6
+Coletivo Terror		7	6
+Colin em Preto e Branco	2021	7	6
+Colin em Preto e Branco		7	6
+Colin from Accounts	2022	7	15
+Colin from Accounts		7	15
+Coliseu		7	8
+Colony	2005	7	35
+Colony		7	35
+Color Rush	2020	7	16
+Color Rush		7	16
+Colosio Assassinato Politico		7	3
+Columbo		7	31
+Colônia	2021	7	10
+Colônia		7	10
+Colônia Dignidade: Uma Seita Nazista no Chile	2021	7	6
+Colônia Dignidade: Uma Seita Nazista no Chile		7	6
+Com Agua ate o Pescoco	2011	7	147
+Com Agua ate o Pescoco		7	147
+Com Amor	2021	7	5
+Com Amor		7	5
+Com Amor Meghan	2025	7	8
+Com Amor Meghan		7	8
+Com Amor, Victor	2020	7	28
+Com Carinho Kitty		7	26
+Com Pocoes Eu Me Garanto	2023	7	12
+Com Pocoes Eu Me Garanto		7	12
+Com a Permissão do Tribunal	2022	7	12
+Com a Permissão do Tribunal		7	12
+Coma		7	4
+Comando Estelar Flashman	1986	7	50
+Comando Estelar Flashman		7	50
+Comando das Criaturas	2024	7	7
+Comando das Criaturas		7	7
+Come Back Mister	2016	7	16
+Come Back Mister		7	16
+Comedy Revenge	2024	7	6
+Comedy Revenge		7	6
+Comedy Royale	2023	7	6
+Comedy Royale		7	6
+Comer Correr Amar	2025	7	28
+Comer Correr Amar		7	28
+Cometerra		7	7
+Comidas Cheias de História	2013	7	20
+Comidas Cheias de História		7	20
+Community	2009	7	109
+Community		7	109
+Como Acabar Com o Natal: O Casamento	2020	7	4
+Como Acabar Com o Natal: O Casamento		7	4
+Como Acabar com o Amor		7	4
+Como Agua para Chocolate	2024	7	12
+Como Agua para Chocolate		7	12
+Como Criar um Escandalo Sexual	2023	7	3
+Como Criar um Escandalo Sexual		7	3
+Como Defender um Assassino	2014	7	90
+Como Defender um Assassino		7	180
+Como Escapei a Minha Seita		7	10
+Como Eu Conheci Sua Mae		7	207
+Como Ficar Rico	2023	7	8
+Como Ficar Rico		7	8
+Como Funciona o Universo	2010	7	30
+Como Funciona o Universo		7	30
+Como Ganhar na Loteria		7	6
+Como Morrer Sozinha	2024	7	8
+Como Morrer Sozinha		7	8
+Como Mudar sua Mente	2022	7	4
+Como Mudar sua Mente		7	4
+Como Raeliana Foi Parar na Mansão do Duque	2023	7	12
+Como Raeliana Foi Parar na Mansão do Duque		7	12
+Como Se Livrar de Um Corpo	2024	7	6
+Como Se Livrar de Um Corpo		7	6
+Como Se Tornar Uma Divindade na Flórida	2019	7	10
+Como Se Tornar Uma Divindade na Flórida		7	10
+Como Se Tornar um Chefe do Crime	2023	7	6
+Como Se Tornar um Chefe do Crime		7	6
+Como Se Tornar um Líder de Seita	2023	7	6
+Como Se Tornar um Líder de Seita		7	6
+Como Se Tornar um Tirano	2021	7	6
+Como Se Tornar um Tirano		7	6
+Como Sobreviver Entre Irmãos	2021	7	29
+Como Sobreviver Entre Irmãos		7	29
+Como Sobreviver Solteiro	2020	7	26
+Como Sobreviver Solteiro		7	26
+Como Treinar Seu Dragao As Lendas		7	3
+Como Vender Drogas Online	2019	7	24
+Como Vender Drogas Online		8	24
+Como Virar um Cowboy		8	6
+Como Viver até os 100: Os Segredos das Zonas Azuis	2023	8	4
+Como Viver até os 100: Os Segredos das Zonas Azuis		8	4
+Como Voce Pode		8	32
+Como Voce Se Atreve		8	24
+Como Walt Disney Mudou o Mundo	2024	8	6
+Como Walt Disney Mudou o Mundo		8	6
+Como um Relâmpago		8	4
+Companheiros de Viagem	2023	8	8
+Companheiros de Viagem		8	8
+Complexo do Salvador	2023	8	3
+Complexo do Salvador		8	3
+Compramos, Vendemos e Trocamos	2021	8	12
+Compro Likes	2023	8	5
+Compro Likes		8	5
+Compulsion	2022	8	4
+Compulsion		8	4
+Conan O Menino do Futuro		8	26
+Concrete Market		8	7
+Condenados pela Mídia	2020	8	6
+Condenados pela Mídia		8	6
+Condor		8	20
+Conexao Extraterrestre	2025	8	10
+Conexao Extraterrestre		8	10
+Conexoes Traicoeiras	2024	8	14
+Conexoes Traicoeiras		8	14
+Conexão: Comer, Amar e Matar	2022	8	16
+Conexões	2023	8	8
+Conexões		8	8
+Conexões de Risco		8	8
+Confeitaria do Terror	2024	8	2
+Confeitaria do Terror		8	2
+Confeiteiros em Acao Desafios de Pascoa		8	5
+Confie em Mim		8	10
+Confie em Mim	2022	8	6
+Confie em Mim O Falso Profeta		8	4
+Confissoes Diabolicas	2015	8	12
+Confissoes Diabolicas		8	12
+Confissoes de um Crime	2024	8	12
+Confissoes de um Crime		8	12
+Confissoes de um Serial Killer	2022	8	4
+Confissoes de um Serial Killer		8	4
+Confissoes do Assassino da Times Square	2023	8	2
+Confissoes do Assassino da Times Square		8	2
+Confissões de Assassinos: Verdades Perturbadoras		8	8
+Confissões de Mulheres de 50	2020	8	10
+Confissões de Mulheres de 50		8	10
+Conflict	2024	8	6
+Conflict		8	6
+Confrontando um Serial Killer	2021	8	5
+Confrontando um Serial Killer		8	5
+Confronto Entre Potencias		8	7
+Confronto dos Deuses	2009	8	10
+Confronto dos Deuses		8	10
+Confusões de Leslie	2009	8	125
+Confusões de Leslie		8	125
+Congonhas Tragedia Anunciada	2025	8	3
+Congonhas Tragedia Anunciada		8	3
+Congresso Bitcoin		8	3
+Congresso Brasil Paralelo	2016	8	6
+Congresso Brasil Paralelo		8	6
+Conheca Homem de Ferro e seus Amigos Incriveis	2025	8	10
+Conheca Homem de Ferro e seus Amigos Incriveis		8	10
+Conhecendo as Esculturas e Modelagens dos Filmes Disney	2020	8	8
+Conhecendo as Esculturas e Modelagens dos Filmes Disney		8	8
+Conor McGregor: Além do Octógono	2023	8	4
+Conor McGregor: Além do Octógono		8	4
+Consciencia	2019	8	5
+Consciencia		8	5
+Conspiracao Americana Os Crimes da Octopus	2024	8	4
+Conspiracao Americana Os Crimes da Octopus		8	4
+Conspiracao do Amor		8	24
+Constantine	2014	8	13
+Constantine		8	13
+Constelacao	2024	8	8
+Constelacao		8	8
+Construcoes que Mudaram o Mundo	2021	8	8
+Construcoes que Mudaram o Mundo		8	8
+Construindo no Alasca		8	99
+Construções Remotas	2014	8	7
+Construções Remotas		8	7
+Consumidas pelo Fogo	2023	8	8
+Consumidas pelo Fogo		8	8
+Contagem Regressiva	2025	8	13
+Contagem Regressiva		8	13
+Contagem Regressiva Jake Paul vs Mike Tyson	2024	8	3
+Contagem Regressiva Jake Paul vs Mike Tyson		8	3
+Contatos Imediatos Oceania	2023	8	6
+Contatos Imediatos Oceania		8	6
+Conte Tudo Para Mim	2022	8	6
+Conte Tudo Para Mim		8	6
+Contigo, Guerrero	2022	8	6
+Continuum	2012	8	42
+Continuum		8	42
+Contos		8	4
+Contos Futurísticos	2022	8	7
+Contos Futurísticos		8	7
+Contos do Loop	2020	8	8
+Contos do Loop		8	8
+Contracapa		8	13
+Contraste		8	8
+Contratempos	1989	8	8
+Contratempos		8	8
+Contrato de Casamento	2016	8	16
+Contrato de Casamento		8	16
+Control Z	2020	8	24
+Control Z		8	24
+Conversa com Bial	2017	8	189
+Conversa com Bial		8	189
+Conversando Com Um Serial killer O Filho de Sam	2025	8	3
+Conversando Com Um Serial killer O Filho de Sam		8	3
+Conversando com um Serial Killer: O Canibal de Milwaukee	2022	8	3
+Conversando com um Serial Killer: O Canibal de Milwaukee		8	3
+Conversando com um Serial Killer: O Palhaço Assassino	2022	8	3
+Conversando com um Serial Killer: O Palhaço Assassino		8	3
+Conversando com um serial killer: A Mente de Charles Manson		8	3
+Conversas Entre Amigos	2022	8	11
+Conversas Entre Amigos		8	11
+Conversas que Curam	2025	8	8
+Conversas que Curam		9	8
+Cook Island: Ilha do Sabor	2022	9	10
+Cook Island: Ilha do Sabor		9	10
+Cookies de Natal O Desafio	2017	9	36
+Cookies de Natal O Desafio		9	36
+Cooking Life	2020	9	8
+Cooking Life		9	8
+Cooper e Fry		9	1
+Copa Rio Vira Latas E O Supermundial	2025	9	3
+Copa Rio Vira Latas E O Supermundial		9	3
+Copan	2015	9	10
+Copan		9	10
+Copenhagen Cowboy	2023	9	6
+Copenhagen Cowboy		9	6
+Coppelion	2013	9	13
+Coppelion		9	13
+Coppers: Justiça Implacável		9	13
+Coracao Alado	1980	9	6
+Coracao Alado		9	6
+Coracao Sombrio	2022	9	5
+Coracao Sombrio		9	5
+Coracao de Ferro	2025	9	6
+Coracao de Ferro		9	6
+Coracao de Vidro	2025	9	10
+Coracao de Vidro		9	10
+Coragem Irmao	2024	9	6
+Coragem Irmao		9	6
+Coragem O Cao Covarde	1999	9	52
+Coragem O Cao Covarde		9	52
+Coração Acelerado		9	177
+Coração Indomável	2013	9	162
+Coração Indomável		9	162
+Coração Inimigo	2022	9	16
+Coração Inimigo		9	16
+Coração Marcado	2022	9	24
+Coração Marcado		9	24
+Coração Suburbano	2022	9	6
+Coração Suburbano		9	6
+Coração de Estudante	2002	9	185
+Coração de Estudante		9	185
+Corações Destinados		9	38
+Cordel Encantado	2011	9	143
+Cordel Encantado		9	143
+Cordelicos		9	26
+Coreia O Pais do Kimchi	2023	9	3
+Coreia O Pais do Kimchi		9	3
+Coroas em Crise	2023	9	8
+Coroas em Crise		9	8
+Coronavirus Explained	2020	9	3
+Coronavirus Explained		9	3
+Coroner		9	37
+Corpo Dourado	1998	9	12
+Corpo Dourado		9	12
+Corpo Humano: Nosso Mundo Interior	2021	9	6
+Corpo Humano: Nosso Mundo Interior		9	6
+Corpo em Chamas	2023	9	8
+Corpo em Chamas		9	8
+Corpos	2023	9	8
+Corpos		9	8
+Corpos Extraordinarios	2008	9	4
+Corpos Extraordinarios		9	4
+Corpos no Porao	2023	9	3
+Corpos no Porao		9	3
+Corre Compra e Cozinha	2019	9	39
+Corre Compra e Cozinha		9	39
+Corrente Implacavel	2025	9	9
+Corrente Implacavel		9	9
+Corretores de Luxo em Marbella	2024	9	12
+Corretores de Luxo em Marbella		9	6
+Corrida Maluca	1968	9	34
+Corrida Maluca		9	34
+Corrida ao Redor da Terra	2021	9	7
+Corrida ao Redor da Terra		9	7
+Corrida na Lama	2024	9	6
+Corrida na Lama		9	6
+Corrida pela Coroa	2025	9	6
+Corrida pela Coroa		9	6
+Corridas Proibidas Os Melhores da America	2021	9	28
+Corridas Proibidas Os Melhores da America		9	28
+Corridas Proibidas Tudo ou Nada	2021	9	12
+Corridas Proibidas Tudo ou Nada		9	12
+Corridas Proibidas: Reis das Pistas: G-8	2022	9	14
+Corridas Proibidas: Reis das Pistas: G-8		9	14
+Cortina de Fumaca	2025	9	9
+Cortina de Fumaca		9	9
+Cosme e Damiao Quase Santos		9	10
+Cosmo O Cosmonauta		9	13
+Cosmos		9	13
+Cosmos Mundos Possiveis	2014	9	13
+Cosmos Mundos Possiveis		9	13
+Cosmos: Possible Worlds		9	12
+Council of Dads Lembranças do Meu Pai	2020	9	1
+Council of Dads Lembranças do Meu Pai		9	1
+Counterpart: Mundo Paralelo	2017	9	20
+Counterpart: Mundo Paralelo		9	20
+Courtois O Retorno do Numero 1	2024	9	4
+Courtois O Retorno do Numero 1		9	4
+Covert Affairs: Assuntos Confidenciais	2010	9	75
+Covert Affairs: Assuntos Confidenciais		9	75
+Cowboy Bebop	2021	9	8
+Cowboy Bebop		9	8
+Cowboy Cartel	2024	9	4
+Cowboy Cartel		9	4
+Coyote	2021	9	6
+Coyote		9	6
+Coyotes	2021	9	6
+Coyotes		9	6
+Cozinha Selvagem: O Duelo	2022	9	8
+Cozinha Selvagem: O Duelo		9	8
+Cozinha em Conta	2022	9	8
+Cozinha em Conta		9	8
+Cozinhando com Paris Hilton	2021	9	6
+Cozinhando com Paris Hilton		9	6
+Cozinhando em 4:20	2018	9	12
+Cozinhando em 4:20		9	12
+Cozinhando o Impossível	2021	9	8
+Cozinhando o Impossível		9	8
+Cozinhar Um Urso		9	6
+Craftopia	2020	9	12
+Craftopia		9	12
+Crash Landing On You	2019	10	16
+Crash Landing On You		10	16
+Crashing	2017	10	16
+Crashing		10	16
+Crazy Love	2022	10	16
+Crazy Love		10	15
+Creepshow	2019	10	25
+Creepshow		10	25
+Crepusculo de Um Crime	2019	10	6
+Crepusculo de Um Crime		10	6
+Crepusculo dos Deuses	2024	10	8
+Crepusculo dos Deuses		10	8
+Crescendo	2022	10	10
+Crescendo		10	10
+Criadas e Malvadas	2013	10	13
+Criadas e Malvadas		10	13
+Criadores de Diversão	2022	10	8
+Criadores de Diversão		10	8
+Criadores de Supercarros	2016	10	10
+Criadores de Supercarros		10	10
+Criadores do Futuro		10	3
+Criando Delicias	2025	10	31
+Criando Delicias		10	31
+Criaturas Estranhas	2015	10	13
+Criaturas Estranhas		10	13
+Criaturas Misteriosas Com Forrest Galante	2021	10	6
+Criaturas Misteriosas Com Forrest Galante		10	6
+Criaturinhas	2024	10	39
+Criaturinhas		10	39
+Crime Cruel S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S02 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S03 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S04 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S05 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S06 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S07 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S08 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Cruel S09 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ys7l6zoWCiCqPSCSjlV1Sxs77jS.jpg" group-title="Series | Amazon Prime Video",Cidade Pacata, Crime Cruel		10	1
+Crime Scene Zero	2025	10	10
+Crime Scene Zero		10	10
+Crime de uma Dinastia O Caso Murdaugh	2025	10	8
+Crime de uma Dinastia O Caso Murdaugh		10	8
+Crime em Tempo Real	2022	10	6
+Crime em Tempo Real		10	6
+Crimes Graves	2012	10	105
+Crimes Graves		10	105
+Crimes do Colarinho Branco	2009	10	81
+Crimes do Colarinho Branco		10	81
+Crimes na Cabana	2024	10	6
+Crimes na Cabana		10	6
+Crimes que Abalaram o Mundo	2020	10	8
+Crimes que Abalaram o Mundo		10	8
+Crimes que Viralizaram	2020	10	61
+Crimes que Viralizaram		10	61
+Criminal		10	7
+Criminal: Alemanha	2019	10	3
+Criminal: Alemanha		10	3
+Criminal: Espanha	2019	10	3
+Criminal: Espanha		10	3
+Criminal: França	2019	10	3
+Criminal: França		11	3
+Criminal: UK	2019	11	7
+Criminal: UK		11	7
+Criminosos	2024	11	14
+Criminosos	2023	11	8
+Criminosos		11	22
+Crise em Seis Cenas	2016	11	6
+Crise em Seis Cenas		11	6
+Cristobal Balenciaga	2024	11	6
+Cristobal Balenciaga		11	6
+Crisálida		11	4
+Critter Fixers: Hospital Veterinário	2020	11	20
+Critter Fixers: Hospital Veterinário		11	20
+Cromanon A Noite do Incendio	2024	11	8
+Cromanon A Noite do Incendio		11	8
+Cronicas da Deusa Gato	2011	11	13
+Cronicas da Deusa Gato		11	13
+Cronicas de Metal Hurlant	2012	11	12
+Cronicas de Metal Hurlant		11	12
+Cronicas de um Lar		11	10
+Crossbones	2014	11	9
+Crossbones		11	9
+Crossing Swords	2020	11	20
+Crossing Swords		11	20
+Crossover	2023	11	8
+Crossover		11	8
+Crowned in a Hundred Days		11	15
+Cruel Summer	2021	11	20
+Cruel Summer		11	20
+Crushology 101	2025	11	12
+Crushology 101		11	12
+Crutch		11	8
+Crônicas de São Francisco		11	10
+Crônicas de um Aristocrata em Outro Mundo		11	12
+Cuba Libre		11	6
+Cuidado com o Anjo	2008	11	194
+Cuidado com o Anjo		11	194
+Cult Hunter		11	1
+Cult Massacre One Day in Jonestown	2024	11	3
+Cult Massacre One Day in Jonestown		11	3
+Cultural Exchange with a Game Centre Girl	2025	11	12
+Cultural Exchange with a Game Centre Girl		11	12
+Cuphead: A Série	2022	11	36
+Cuphead: A Série		11	36
+Curon	2020	11	7
+Curon		11	7
+Cursed - A Lenda do Lago	2020	11	10
+Cursed - A Lenda do Lago		11	10
+Cursed Films	2020	11	5
+Cursed Films		11	5
+Curta Essa com Zac Efron	2020	11	16
+Curta Essa com Zac Efron		11	16
+Curto Circuito	2020	11	20
+Curto Circuito		11	20
+Cuspirei Em Seus Tumulos	2024	11	60
+Cuspirei Em Seus Tumulos		11	60
+Custe o que Custar		11	8
+Cyberpunk: Mercenários	2022	11	10
+Cyberpunk: Mercenários		11	10
+Cães de Caça	2023	11	15
+Cães de Caça		11	15
+Círculo Fechado	2023	11	6
+Círculo Fechado		11	6
+Círculo de Fogo: The Black	2021	11	14
+Círculo de Fogo: The Black		11	14
+cientista S01 E01" tvg-logo="http://gstaticontent.com/images/64ad9a01050e6ab11a2098aa19084429.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S01 E02" tvg-logo="http://gstaticontent.com/images/84c6ec85aed7d130eb92d823d8ce7667.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S01 E03" tvg-logo="http://gstaticontent.com/images/be1acf4ce8a17687ebdf54851650c0bb.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S01 E04" tvg-logo="http://gstaticontent.com/images/443ba4085f6ed7e3f92160d5276eeb7d.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S01 E05" tvg-logo="http://gstaticontent.com/images/10a4c9070658fd84292ca6e40590ee4a.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S01 E06" tvg-logo="http://gstaticontent.com/images/5c14d3e77938e48a41dc8433a501d12a.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E01" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E02" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E03" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E04" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E05" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S02 E06" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E01" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E02" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E03" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E04" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E05" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E06" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E07" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+cientista S03 E08" tvg-logo="http://gstaticontent.com/images/2fd9238c1463d5cacd953654e0bd3109.jpg" group-title="Series | Netflix",Ada Batista, cientista		11	1
+com Papa Francisco S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fBsXeZqyrOIaz96r4TrO1B15AW8.jpg" group-title="Series | Netflix",A Sabedoria do Tempo, com Papa Francisco		11	1
+com Papa Francisco S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ZrAs7wBXUhFpwZaVbT4lBQW8BC.jpg" group-title="Series | Netflix",A Sabedoria do Tempo, com Papa Francisco		11	1
+com Papa Francisco S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g5INSXZAKu6KaV0u613afczHUKj.jpg" group-title="Series | Netflix",A Sabedoria do Tempo, com Papa Francisco		11	1
+com Papa Francisco S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yBBbxz3J8hLiWWHDntf07Ws7Q0W.jpg" group-title="Series | Netflix",A Sabedoria do Tempo, com Papa Francisco		11	1

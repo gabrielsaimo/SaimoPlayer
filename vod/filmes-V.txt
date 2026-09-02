@@ -1,8 +1,13 @@
-V de Vingança - (2006)	dub=0:1060083	leg=0:1035590
-V para Vingança - (2022)	dub=0:1047194	leg=0:1026579
-V/H/S/85 - (2023)	dub=0:1251146	leg=0:1251059
+V de Vinganca	dub=2:649724
+V de Vingança (2006)	dub=0:1060083	leg=0:1035590
+V para Vingança	dub=2:654734
+V para Vingança (2022)	dub=0:1047194	leg=0:1026579
+V/H/S/85	dub=2:901179
+V/H/S/85 (2023)	dub=0:1251146	leg=0:1251059
+V/H/S/Beyond	dub=2:900535,2:901105	leg=2:670573
 V/H/S/Beyond (2024)	dub=0:1265490	leg=0:1026131
-V/H/S/HALLOWEEN - (2025)	dub=0:1251132	leg=0:1249948
+V/H/S/HALLOWEEN	dub=2:901178
+V/H/S/HALLOWEEN (2025)	dub=0:1251132	leg=0:1249948
 VHS 1 As Cronicas do Medo (2012)	dub=0:1267421
 VHS 2 (2013)	dub=0:1269121
 VHS 3 Viral (2014)	dub=0:1268872
@@ -11,429 +16,753 @@ VHS 5 99 (2022)	dub=0:1270911
 VIRUNGA (2014)	dub=0:1270502
 Va e Veja (1985)	dub=0:1269626	leg=0:1035267
 Vagas para Moças de Fino Trato (1993)	dub=0:1271998
-Vagão nº 6 - (2021)	dub=0:1041213	leg=0:1249584
-Vai Corinthians - (2023)	dub=0:1048604	leg=0:1249430
-Vai Dar Nada - (2022)	dub=0:1047845
-Vai Que Cola: O Filme - (2015)	dub=0:1054582
-Vai Que Dá Certo - (2013)	dub=0:1055441
-Vai Que Dá Certo 2 - (2016)	dub=0:1053238
-Vai Ter Troco - (2023)	dub=0:1053471	leg=0:1031732
-Vai que Cola 2: O Começo - (2019)	dub=0:1055435
+Vagão nº 6	dub=2:652572
+Vagão nº 6 (2021)	dub=0:1041213	leg=0:1249584
+Vai Corinthians	dub=2:846488
+Vai Corinthians (2023)	dub=0:1048604	leg=0:1249430
+Vai Dar Nada	dub=2:648744
+Vai Dar Nada (2022)	dub=0:1047845
+Vai Que Cola: O Filme	dub=2:644394
+Vai Que Cola: O Filme (2015)	dub=0:1054582
+Vai Que Dá Certo	dub=2:651086
+Vai Que Dá Certo (2013)	dub=0:1055441
+Vai Que Dá Certo 2	dub=2:770319
+Vai Que Dá Certo 2 (2016)	dub=0:1053238
+Vai Ter Troco	dub=2:762882	leg=2:762615
+Vai Ter Troco (2023)	dub=0:1053471	leg=0:1031732
+Vai que Cola 2: O Começo	dub=2:651403
+Vai que Cola 2: O Começo (2019)	dub=0:1055435
 Vai! (2021)	dub=0:1271213
-Valan: Vale dos Anjos - (2019)	dub=0:1051463	leg=0:1032822
+Valan: Vale dos Anjos	dub=2:644899,2:649175
+Valan: Vale dos Anjos (2019)	dub=0:1051463	leg=0:1032822
+Valatty: Jornada de Amor e Amizade	dub=2:906604,2:910035
 Valatty: Jornada de Amor e Amizade (2023)	dub=0:1267986	leg=0:1267998
+Vale Maligno	dub=2:901149
 Vale Maligno (2024)	dub=0:1268856	leg=0:1268815
 Vale Night (2022)	dub=0:1269914
-Vale da Morte - (2021)	dub=0:1251163	leg=0:1251036
-Vale das Sombras - (2024)	dub=0:1055907	leg=0:1025634
-Vale do Medo - (2022)	dub=0:1070304	leg=0:1027382
-Vale dos Deuses - (2020)	dub=0:1039443	leg=0:1035131
+Vale da Morte	dub=2:901177
+Vale da Morte (2021)	dub=0:1251163	leg=0:1251036
+Vale das Sombras	dub=2:885144
+Vale das Sombras (2024)	dub=0:1055907	leg=0:1025634
+Vale do Medo	dub=2:654850
+Vale do Medo (2022)	dub=0:1070304	leg=0:1027382
+Vale dos Deuses	dub=2:652703
+Vale dos Deuses (2020)	dub=0:1039443	leg=0:1035131
 Vale dos Isolados O Assassinato de Bruno e Dom (2023)	dub=0:1271073
+Vale dos Reis: Os Segredos do Egito	dub=2:648092
+Vale dos Vermes do Rei Xian e Lâmpada Fantasma	dub=2:913177
 Vale dos Vermes do Rei Xian e Lâmpada Fantasma (2023)	dub=0:1272311	leg=0:1272316
+Valente	dub=2:646345,2:653145
 Valente (2007)	dub=0:1052354	leg=0:1267677
-Valente - (2012)	dub=0:1062126	leg=0:1025677
-Valentes - (2022)	dub=0:1040489,0:1022444	leg=0:1035080
-Valentina - (2020)	dub=0:1040637
-Valentina Despertando Para Os Sonhos - (2021)	dub=0:1071423	leg=0:1029831
-Valentino, Pode Ser Seu Próprio Herói Ou Vilão - (2022)	dub=0:1053061	leg=0:1249578
-Valerian e a Cidade dos Mil Planetas 4K - (2017)	dub=0:1249641,0:1059568
-Valhalla: A Lenda de Thor - (2019)	dub=0:1040200
+Valente (2012)	dub=0:1062126	leg=0:1025677
+Valentes	dub=2:652588
+Valentes (2022)	dub=0:1040489,0:1022444	leg=0:1035080
+Valentina	dub=2:653132
+Valentina (2020)	dub=0:1040637
+Valentina Despertando Para Os Sonhos	dub=2:646045
+Valentina Despertando Para Os Sonhos (2021)	dub=0:1071423	leg=0:1029831
+Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)	dub=0:1053061	leg=0:1249578
+Valerian e a Cidade dos Mil Planetas	dub=2:646987
+Valerian e a Cidade dos Mil Planetas 4K (2017)	dub=0:1249641,0:1059568
+Valhalla: A Lenda de Thor	dub=2:646925
+Valhalla: A Lenda de Thor (2019)	dub=0:1040200
 Valiant - Um Heroi que Vale a Pena (2005)	dub=0:1271628
-Valley Girl - (2020)	leg=0:1031136
+Valley Girl (2020)	leg=0:1031136
 Valley of the Kings: The Lost Tombs (2021)	dub=0:1271566
 Valor Sentimental (2025)	dub=0:1268602
 Valor Sentimental Legendado (2025)	dub=0:1254721
-Valsa com Bashir - (2008)	dub=0:1066044	leg=0:1028948
-Valsa de Natal - (2020)	dub=0:1050306	leg=0:1034931
-Vamos Assustar a Julie - (2020)	dub=0:1070450	leg=0:1029552
+Valsa com Bashir	dub=2:770471	leg=2:762564
+Valsa com Bashir (2008)	dub=0:1066044	leg=0:1028948
+Valsa de Natal	dub=2:645611
+Valsa de Natal (2020)	dub=0:1050306	leg=0:1034931
+Vamos Assustar a Julie	dub=2:654385	leg=2:670214
+Vamos Assustar a Julie (2020)	dub=0:1070450	leg=0:1029552
 Vamos Dançar? (1937)	leg=0:1273013
-Vamos Nessa! - (1999)	dub=0:1044765
-Vamp A Noite dos Vampiros - (1986)	dub=0:1059231
+Vamos Nessa!	dub=2:650945
+Vamos Nessa! (1999)	dub=0:1044765
+Vamp A Noite dos Vampiros	dub=2:651316
+Vamp A Noite dos Vampiros (1986)	dub=0:1059231
+Vampira Humanista Procura Suicida Voluntário	dub=2:900633,2:901127
 Vampira Humanista Procura Suicida Voluntário (2023)	dub=0:1265190
-Vampiras - (2012)	dub=0:1058931
-Vampiras: The Brides - (2024)	dub=0:1039239	leg=0:1035823
+Vampiras	dub=2:651016
+Vampiras (2012)	dub=0:1058931
+Vampiras: The Brides	dub=2:654538
+Vampiras: The Brides (2024)	dub=0:1039239	leg=0:1035823
 Vampire Clay (2018)	dub=0:1271271
 Vampire Hunter D: Bloodlust (2001)	leg=0:1267639
-Vampire humaniste cherche suicidaire consentant - (2023)	leg=0:1025479
-Vampiro 40º - (2016)	dub=0:1059237
-Vampiros X The Bronx - (2020)	dub=0:1059056
-Vampiros de John Carpenter - (1998)	dub=0:1039059	leg=0:1249515
+Vampire humaniste cherche suicidaire consentant	leg=2:670852
+Vampire humaniste cherche suicidaire consentant (2023)	leg=0:1025479
+Vampiro 40º	dub=2:885011
+Vampiro 40º (2016)	dub=0:1059237
+Vampiros X The Bronx	dub=2:651315
+Vampiros X The Bronx (2020)	dub=0:1059056
+Vampiros de John Carpenter	dub=2:703557	leg=2:762696
+Vampiros de John Carpenter (1998)	dub=0:1039059	leg=0:1249515
 Vampiros: A Conversão (2005)	dub=0:1268892	leg=0:1268939
 Van Gogh A Criacao de Um Mestre (2023)	dub=0:1269126
-Van Helsing - O Cacador De Monstros - (2004)	dub=0:1056196	leg=0:1029801
-Van Helsing de Bram Stoker - (2021)	dub=0:1058312	leg=0:1249090
-Van Wilder - (2002)	dub=0:1248846
-Vanilla Sky - (2001)	dub=0:1060809
-Vanquish - (2021)	dub=0:1057108
-Varig: A Caixa-Preta do Brasil - (2022)	dub=0:1048155
-Vazante - (2017)	dub=0:1042450
-Vazio Coração - (2013)	dub=0:1072466
-Veia de Campeão - (1986)	dub=0:1065680
+Van Gogh" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes | Drama",Com Amor, Van Gogh	dub=2:911588
+Van Helsing - O Cacador De Monstros	dub=2:655452,2:823002
+Van Helsing - O Cacador De Monstros (2004)	dub=0:1056196	leg=0:1029801
+Van Helsing de Bram Stoker	dub=2:654773
+Van Helsing de Bram Stoker (2021)	dub=0:1058312	leg=0:1249090
+Van Wilder	dub=2:762928
+Van Wilder (2002)	dub=0:1248846
+Vanilla Sky	dub=2:645677
+Vanilla Sky (2001)	dub=0:1060809
+Vanquish	dub=2:649133
+Vanquish (2021)	dub=0:1057108
+Vares X	dub=2:919863
+Varig: A Caixa-Preta do Brasil	dub=2:648032
+Varig: A Caixa-Preta do Brasil (2022)	dub=0:1048155
+Vazante	dub=2:644531
+Vazante (2017)	dub=0:1042450
+Vazio Coração	dub=2:644424
+Vazio Coração (2013)	dub=0:1072466
+Veia de Campeão	dub=2:652715
+Veia de Campeão (1986)	dub=0:1065680
 Veia de Lutador (2009)	dub=0:1269224
-Veja Como Eles Correm - (2022)	dub=0:1069432,0:1000491	leg=0:1024279
-Veja por Mim - (2022)	dub=0:1052025	leg=0:1028921
-Velhas Chamas Nunca Morrem - (2022)	dub=0:1050709
-Velhos - (2023)	dub=0:1252127	leg=0:1252124
+Veja Como Eles Correm	dub=2:650579
+Veja Como Eles Correm (2022)	dub=0:1069432,0:1000491	leg=0:1024279
+Veja por Mim	dub=2:647366
+Veja por Mim (2022)	dub=0:1052025	leg=0:1028921
+Velhas Chamas Nunca Morrem	dub=2:647188
+Velhas Chamas Nunca Morrem (2022)	dub=0:1050709
+Velho Henry	dub=2:648784
+Velhos	dub=2:901165
+Velhos (2023)	dub=0:1252127	leg=0:1252124
+Velhos Bandidos	dub=2:918171
 Velhos Bandidos (2026)	dub=0:1261444	leg=0:1272594
-Velocidade Mortal - (2010)	dub=0:1047582
-Velocidade Mortal - (2018)	dub=0:1044808
-Velocidade Máxima - (1994)	dub=0:1047479
-Velocidade Máxima 2 - (1997)	dub=0:1057203
-Velocidade Total - (2024)	dub=0:1046623	leg=0:1031905
+Velocidade Mortal	dub=2:649067,2:654092
+Velocidade Mortal (2010)	dub=0:1047582
+Velocidade Mortal (2018)	dub=0:1044808
+Velocidade Máxima	dub=2:649026
+Velocidade Máxima (1994)	dub=0:1047479
+Velocidade Máxima 2	dub=2:648549
+Velocidade Máxima 2 (1997)	dub=0:1057203
+Velocidade Total	dub=2:884339
+Velocidade Total (2024)	dub=0:1046623	leg=0:1031905
+Velocidade sem Limites	dub=2:663182
 Velocidade sem Limites (2007)	dub=0:1047805	leg=0:1265479
-Veloz Como o Vento - (2016)	dub=0:1047189
-Velozes & Furiosos 10 - (2023)	dub=0:1069413,0:1022426	leg=0:1025077
-Velozes & Furiosos 7 - (2015)	dub=0:1052801
-Velozes & Furiosos 8 - (2017)	dub=0:1052591
-Velozes & Furiosos 9 4K - (2021)	dub=0:1249714,0:1055719	leg=0:1032307
-Velozes & Furiosos: Hobbs & Shaw 4K - (2019)	dub=0:1021715
-Velozes e Furiosos - (2001)	dub=0:1047419
-Velozes e Furiosos 4 - (2009)	dub=0:1047418
-Velozes e Furiosos 5: Operação Rio - (2011)	dub=0:1051150
-Velozes e Furiosos 6 - (2013)	dub=0:1044811
-Velozes e Furiosos: Desafio em Tóquio - (2006)	dub=0:1051115
-Velozes e Furiosos: Hobbs & Shaw - (2019)	dub=0:1056207	leg=0:1249517
-Velozes e Mortais - (2004)	dub=0:1046535
+Veloz Como o Vento	dub=2:653901
+Veloz Como o Vento (2016)	dub=0:1047189
+Velozes & Furiosos 10	dub=2:648572
+Velozes & Furiosos 10 (2023)	dub=0:1069413,0:1022426	leg=0:1025077
+Velozes & Furiosos 7	dub=2:649212
+Velozes & Furiosos 7 (2015)	dub=0:1052801
+Velozes & Furiosos 8	dub=2:649211
+Velozes & Furiosos 8 (2017)	dub=0:1052591
+Velozes & Furiosos 9	dub=2:649000
+Velozes & Furiosos 9 4K (2021)	dub=0:1249714,0:1055719	leg=0:1032307
+Velozes & Furiosos: Hobbs & Shaw 4K (2019)	dub=0:1021715
+Velozes e Furiosos	dub=2:649218
+Velozes e Furiosos (2001)	dub=0:1047419
+Velozes e Furiosos 4	dub=2:649215
+Velozes e Furiosos 4 (2009)	dub=0:1047418
+Velozes e Furiosos 5: Operação Rio	dub=2:649214
+Velozes e Furiosos 5: Operação Rio (2011)	dub=0:1051150
+Velozes e Furiosos 6	dub=2:649213
+Velozes e Furiosos 6 (2013)	dub=0:1044811
+Velozes e Furiosos: Desafio em Tóquio	dub=2:649216
+Velozes e Furiosos: Desafio em Tóquio (2006)	dub=0:1051115
+Velozes e Furiosos: Hobbs & Shaw	dub=2:649210
+Velozes e Furiosos: Hobbs & Shaw (2019)	dub=0:1056207	leg=0:1249517
+Velozes e Mortais	dub=2:649476
+Velozes e Mortais (2004)	dub=0:1046535
+Veludo Azul	dub=2:901240
 Veludo Azul (1986)	dub=0:1265517	leg=0:1265518
-Vem Brincar - (2020)	dub=0:1070232	leg=0:1025529
-Vem Dançar - (2006)	dub=0:1071967
-Vem com o Papai - (2019)	dub=0:1070827
+Vem Brincar	dub=2:655118
+Vem Brincar (2020)	dub=0:1070232	leg=0:1025529
+Vem Dançar	dub=2:650553
+Vem Dançar (2006)	dub=0:1071967
+Vem com o Papai	dub=2:651328
+Vem com o Papai (2019)	dub=0:1070827
 Vencendo Sem Parar (2024)	leg=0:1267348
-Vencer ou Morrer - (1993)	dub=0:1047733
-Vencer ou Morrer - (2023)	dub=0:1250050	leg=0:1032174
-Vende-Se Imovel - (2019)	dub=0:1059085
-Vende-se Esta Casa - (2018)	dub=0:1044277
+Vencer ou Morrer	dub=2:648409
+Vencer ou Morrer (1993)	dub=0:1047733
+Vencer ou Morrer (2023)	dub=0:1250050	leg=0:1032174
+Vende-Se Imovel	dub=2:655427
+Vende-Se Imovel (2019)	dub=0:1059085
+Vende-se Esta Casa	dub=2:647641
+Vende-se Esta Casa (2018)	dub=0:1044277
 Vendo ou Alugo (2013)	dub=0:1270100
 Veneno (1952)	dub=0:1272694
 Veneno (2023)	dub=0:1269463
-Veneza - (2021)	dub=0:1053253
+Veneza	dub=2:653129
+Veneza (2021)	dub=0:1053253
+Venganza	dub=2:912354
 Venganza (2026)	leg=0:1272241
-Venom - (2018)	dub=0:1060533,0:1022075
-Venom: A Última Rodada - (2024)	dub=0:1059565,0:1022536	leg=0:1032233
-Venom: Tempo de Carnificina - (2021)	dub=0:1056220,0:1021836	leg=0:1026855
-Vento Seco - (2020)	dub=0:1040272
-Vento Selvagem - (2022)	dub=0:1051651	leg=0:1027888
+Venom	dub=2:655451
+Venom (2018)	dub=0:1060533,0:1022075
+Venom: A Última Rodada	dub=2:644556	leg=2:670339
+Venom: A Última Rodada (2024)	dub=0:1059565,0:1022536	leg=0:1032233
+Venom: Tempo de Carnificina	dub=2:644717
+Venom: Tempo de Carnificina (2021)	dub=0:1056220,0:1021836	leg=0:1026855
+Vento Seco	dub=2:653383
+Vento Seco (2020)	dub=0:1040272
+Vento Selvagem	dub=2:644910
+Vento Selvagem (2022)	dub=0:1051651	leg=0:1027888
 Ventos Que Sopram - Pará (2020)	dub=0:1291005
 Ventos Que Sopram Maranhão (2021)	dub=0:1272266
-Ventos da Liberdade - (2018)	dub=0:1045852
+Ventos da Liberdade	dub=2:647524
+Ventos da Liberdade (2018)	dub=0:1045852
+Ventos do Mar	leg=2:670284
 Ventos do Mar (2024)	dub=0:1269915	leg=0:1028928
+Venus	dub=2:654761
+Venus (2022)	dub=0:1058066	leg=0:1249264
 Venus (2023)	dub=0:1271377
-Venus - (2022)	dub=0:1058066	leg=0:1249264
-Vera - Sonhos de Inverno - (2019)	dub=0:1068569
+Vera - Sonhos de Inverno	dub=2:646512
+Vera - Sonhos de Inverno (2019)	dub=0:1068569
 Vera Andrron Detin (2025)	dub=0:1269040
-Vera Cruz - (1954)	dub=0:1069267
-Vera e o Prazer dos Outros - (2024)	dub=0:1053579	leg=0:1032597
-Verao 2003 - (2018)	dub=0:1065436
+Vera Cruz	dub=2:645157
+Vera Cruz (1954)	dub=0:1069267
+Vera e o Prazer dos Outros	dub=2:884749
+Vera e o Prazer dos Outros (2024)	dub=0:1053579	leg=0:1032597
+Verao (2003)	dub=2:651517
+Verao 2003 (2018)	dub=0:1065436
 Verao Monstruoso (2024)	dub=0:1270803	leg=0:1034476
 Verdade Oculta (2017)	dub=0:1268193	leg=0:1268200
 Verdade e Honra (2020)	dub=0:1271285
-Verdade e Justiça - (2019)	dub=0:1045076	leg=0:1033201
+Verdade e Justiça	dub=2:652242,2:653643
+Verdade e Justiça (2019)	dub=0:1045076	leg=0:1033201
 Verdade e Traição (2025)	dub=0:1256127
-Verdade ou Desafio - (2017)	dub=0:1251158	leg=0:1251030
-Verdade ou Desafio - (2018)	dub=0:1058654	leg=0:1251023
-Verdades Dolorosas - (2023)	dub=0:1064155	leg=0:1249289
+Verdade ou Desafio	dub=2:647640,2:901190
+Verdade ou Desafio (2017)	dub=0:1251158	leg=0:1251030
+Verdade ou Desafio (2018)	dub=0:1058654	leg=0:1251023
+Verdades Dolorosas	dub=2:650301
+Verdades Dolorosas (2023)	dub=0:1064155	leg=0:1249289
 Verde-Esperanza: Aborto Legal na América Latina (2022)	dub=0:1291002
-Vermelho Monet - (2024)	dub=0:1248835
+Vermelho Monet	dub=2:884911
+Vermelho Monet (2024)	dub=0:1248835
 Vermelho Sol (2018)	dub=0:1264806
-Vermelho, Branco e Sangue Azul - (2023)	dub=0:1064402	leg=0:1030439
+Vermelho, Branco e Sangue Azul (2023)	dub=0:1064402	leg=0:1030439
 Vermiglio (2024)	dub=0:1268537	leg=0:1034558
-Vermin - (2023)	dub=0:1053747	leg=0:1029804
+Vermiglio: A Noiva da Montanha	dub=2:922244
+Vermin	dub=2:650067	leg=2:670688
+Vermin (2023)	dub=0:1053747	leg=0:1029804
 Veronica Jogo Sobrenatural (2017)	dub=0:1270409
 Veronica Mars - O Filme (2014)	dub=0:1269302
 Versos de um Crime (2013)	dub=0:1270419
-Versões de um Crime - (2016)	dub=0:1044991
+Versões de um Crime	dub=2:653768,2:653826
+Versões de um Crime (2016)	dub=0:1044991
+Vertigem	dub=2:903649
 Vertigem (2009)	dub=0:1267466	leg=0:1267540
-Verão Fantasma - (2022)	dub=0:1072348
+Verão Fantasma	dub=2:654800
+Verão Fantasma (2022)	dub=0:1072348
+Verão Monstruoso	leg=2:670174
 Verão da Lata - 0 (2026)	dub=0:1268179
-Verão de 84 - (2018)	dub=0:1070586
-Verão de 85 - (2020)	dub=0:1064462	leg=0:1032890
-Verão: A Summer Romance - (2019)	dub=0:1049527	leg=0:1035985
-Verônica - (2009)	dub=0:1051389
+Verão de 84	dub=2:647470
+Verão de 84 (2018)	dub=0:1070586
+Verão de 85	dub=2:653109
+Verão de 85 (2020)	dub=0:1064462	leg=0:1032890
+Verão: A Summer Romance	dub=2:645446
+Verão: A Summer Romance (2019)	dub=0:1049527	leg=0:1035985
+Verônica	dub=2:884949
+Verônica (2009)	dub=0:1051389
+Verônica" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ii9tMkXwfyQjIvZOgxXE4KrNEPl.jpg" group-title="Filmes | Drama",Era Uma Vez Eu, Verônica	dub=2:884833
 Vesper (2022)	dub=0:1270247
 Vestibular para a Vida (2024)	leg=0:1267075
-Vestida Para Matar - (1980)	dub=0:1070985
-Vestida para Casar - (2008)	dub=0:1065818
-Vestido Maldito - (2018)	dub=0:1039730
+Vestida Para Matar	dub=2:647500
+Vestida Para Matar (1980)	dub=0:1070985
+Vestida para Casar	dub=2:736082
+Vestida para Casar (2008)	dub=0:1065818
+Vestido Maldito	dub=2:655298
+Vestido Maldito (2018)	dub=0:1039730
 Vestido Pra Casar (2014)	dub=0:1271135
+Veteranos de Guerra	dub=2:910017
 Veteranos de Guerra (2019)	dub=0:1267679	leg=0:1267740
-Veículo 19 - (2013)	dub=0:1046538
-Viagem 2: A Ilha Misteriosa - (2012)	dub=0:1061077
-Viagem Clandestina - (1985)	dub=0:1068349
-Viagem Entre Estranhos - (2021)	dub=0:1053728	leg=0:1024406
+Veículo 19	dub=2:647426
+Veículo 19 (2013)	dub=0:1046538
+Viagem 2: A Ilha Misteriosa	dub=2:649320
+Viagem 2: A Ilha Misteriosa (2012)	dub=0:1061077
+Viagem Ao Centro do Terra	dub=2:649723
+Viagem Clandestina	dub=2:653525
+Viagem Clandestina (1985)	dub=0:1068349
+Viagem Entre Estranhos	dub=2:650532
+Viagem Entre Estranhos (2021)	dub=0:1053728	leg=0:1024406
 Viagem Gelada: O Resgate do Urso Polar (2022)	dub=0:1273157
-Viagem Insolita - (1987)	dub=0:1059677
+Viagem Insolita	dub=2:649722
+Viagem Insolita (1987)	dub=0:1059677
 Viagem Maldita (2006)	dub=0:1271017
-Viagem Sem Destino - (2002)	dub=0:1039817
-Viagem Sem Volta - (2013)	dub=0:1044983
-Viagem Sombria - (2023)	dub=0:1044153	leg=0:1030391
-Viagem a Lua de Jupiter - (2013)	dub=0:1060886
-Viagem ao Centro da Terra: O Filme - (2008)	dub=0:1056737
-Viagem ao Fundo do Mar - (1961)	dub=0:1057358	leg=0:1036478
-Viagem ao Topo da Terra - (2021)	dub=0:1062028	leg=0:1025950
-Viagem das Garotas - (2017)	dub=0:1055764
-Viagem das Loucas - (2017)	dub=0:1047648
-Viagem de Formatura: Mallorca - (2025)	dub=0:1038696,0:1038042	leg=0:1249933
-Viagem de Volta à Vida - (2020)	dub=0:1063943	leg=0:1027942
+Viagem Sem Destino	dub=2:884581
+Viagem Sem Destino (2002)	dub=0:1039817
+Viagem Sem Volta	dub=2:647478
+Viagem Sem Volta (2013)	dub=0:1044983
+Viagem Sombria	dub=2:654605
+Viagem Sombria (2023)	dub=0:1044153	leg=0:1030391
+Viagem a Lua de Jupiter	dub=2:646882
+Viagem a Lua de Jupiter (2013)	dub=0:1060886
+Viagem ao Centro da Terra: O Filme	dub=2:644773
+Viagem ao Centro da Terra: O Filme (2008)	dub=0:1056737
+Viagem ao Fundo do Mar	dub=2:652623
+Viagem ao Fundo do Mar (1961)	dub=0:1057358	leg=0:1036478
+Viagem ao Topo da Terra	dub=2:646250
+Viagem ao Topo da Terra (2021)	dub=0:1062028	leg=0:1025950
+Viagem das Garotas	dub=2:650644
+Viagem das Garotas (2017)	dub=0:1055764
+Viagem das Loucas	dub=2:649569
+Viagem das Loucas (2017)	dub=0:1047648
+Viagem de Formatura: Mallorca	dub=2:884554
+Viagem de Formatura: Mallorca (2025)	dub=0:1038696,0:1038042	leg=0:1249933
+Viagem de Volta à Vida	dub=2:884827
+Viagem de Volta à Vida (2020)	dub=0:1063943	leg=0:1027942
+Viagem para Agartha	dub=2:900444,2:902554
 Viagem para Agartha (2011)	dub=0:1268432	leg=0:1267394
-Viajantes - Instinto e Desejo - (2021)	dub=0:1059545,0:1023086	leg=0:1030778
-Viajantes Destemidos - (2023)	dub=0:1248768	leg=0:1032358
-Viajantes: Perdidos No Tempo - (2022)	dub=0:1067851	leg=0:1027029
-Viajar é Preciso - (2012)	dub=0:1065516
+Viajantes - Instinto e Desejo	dub=2:644758
+Viajantes - Instinto e Desejo (2021)	dub=0:1059545,0:1023086	leg=0:1030778
+Viajantes Destemidos	dub=2:884502
+Viajantes Destemidos (2023)	dub=0:1248768	leg=0:1032358
+Viajantes: Perdidos No Tempo	dub=2:650612
+Viajantes: Perdidos No Tempo (2022)	dub=0:1067851	leg=0:1027029
+Viajar é Preciso	dub=2:651541
+Viajar é Preciso (2012)	dub=0:1065516
+Vibes: Boas Vibrações	dub=2:901320
 Vibes: Boas Vibrações (1988)	dub=0:1265497	leg=0:1265408
-Vic o Viking e a Espada Mágica - (2019)	dub=0:1063189
-Vice - (2018)	dub=0:1054637
+Vic o Viking e a Espada Mágica	dub=2:646053
+Vic o Viking e a Espada Mágica (2019)	dub=0:1063189
+Vice	dub=2:654091
+Vice (2018)	dub=0:1054637
 Vice Is Broke (2025)	dub=0:1270928	leg=0:1249917
-Viciados em Amor - (2023)	dub=0:1063734	leg=0:1031129
-Vicky Cristina Barcelona - (2008)	dub=0:1065552
+Viciadas em Dinheiro" tvg-logo="http://gstaticontent.com/images/pMaygAnovaDuwZCAPdKZEpyM8uQ_big.jpg" group-title="Filmes | Comedia",Loucas por Amor, Viciadas em Dinheiro	dub=2:651833
+Viciadas em Dinheiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pMaygAnovaDuwZCAPdKZEpyM8uQ.jpg" group-title="Filmes | Acao",Loucas Por Amor, Viciadas em Dinheiro	dub=2:648850
+Viciados em Amor	dub=2:645373
+Viciados em Amor (2023)	dub=0:1063734	leg=0:1031129
+Vicky Cristina Barcelona	dub=2:645542
+Vicky Cristina Barcelona (2008)	dub=0:1065552
 Victor Frankenstein (2015)	dub=0:1270901
-Victoria e Mistério - (2021)	dub=0:1067549	leg=0:1249466
+Victoria e Mistério	dub=2:652985
+Victoria e Mistério (2021)	dub=0:1067549	leg=0:1249466
 Victories of the Third Reich (2025)	dub=0:1269354
-Vida - (2017)	dub=0:1060987
-Vida Adulta 4K - (2025)	dub=0:1252154,0:1252134	leg=0:1252144
-Vida Após a Vida - (2020)	dub=0:1060041	leg=0:1028063
-Vida Bandida - (2001)	dub=0:1051208
-Vida Dupla - (2023)	dub=0:1070383	leg=0:1036029
-Vida Eterna - (2022)	dub=0:1039484	leg=0:1035376
+Vida	dub=2:644793
+Vida (2017)	dub=0:1060987
+Vida Adulta	dub=2:889790
+Vida Adulta 4K (2025)	dub=0:1252154,0:1252134	leg=0:1252144
+Vida Após a Vida	dub=2:762828	leg=2:670200
+Vida Após a Vida (2020)	dub=0:1060041	leg=0:1028063
+Vida Bandida	dub=2:651103
+Vida Bandida (2001)	dub=0:1051208
+Vida Dupla	dub=2:647236
+Vida Dupla (2023)	dub=0:1070383	leg=0:1036029
+Vida Eterna	dub=2:762824	leg=2:670135
+Vida Eterna (2022)	dub=0:1039484	leg=0:1035376
+Vida Privada	dub=2:925517
 Vida Privada (2025)	dub=0:1291031
 Vida Privada Legendado (2025)	dub=0:1263335
-Vida Selvagem - (2018)	dub=0:1043055	leg=0:1036360
+Vida Selvagem	dub=2:897186
+Vida Selvagem (2018)	dub=0:1043055	leg=0:1036360
+Vida de Cabra	leg=2:670824
 Vida de Cabra (2024)	dub=0:1266622	leg=0:1035570
-Vida de Cachorro - (1918)	dub=0:1053399
-Vida de Cidade - (1991)	dub=0:1041675	leg=0:1249461
-Vida de Inseto - (1998)	dub=0:1063200
-Vida em Jogo - (2019)	dub=0:1051638	leg=0:1249016
-Vida em Silêncio - (2020)	dub=0:1041908
-Vidas Cruzadas - (2019)	dub=0:1041332	leg=0:1034725
-Vidas Cruzadas: A Vida Íntima de Pippa Lee - (2009)	dub=0:1064132	leg=0:1033009
-Vidas Duplas - (2018)	dub=0:1064986
-Vidas Emaranhadas - (2020)	dub=0:1043738	leg=0:1028600
+Vida de Cachorro	dub=2:650920
+Vida de Cachorro (1918)	dub=0:1053399
+Vida de Cidade	dub=2:884668
+Vida de Cidade (1991)	dub=0:1041675	leg=0:1249461
+Vida de Inseto	dub=2:646581
+Vida de Inseto (1998)	dub=0:1063200
+Vida em Jogo	dub=2:652975
+Vida em Jogo (2019)	dub=0:1051638	leg=0:1249016
+Vida em Silêncio	dub=2:652808
+Vida em Silêncio (2020)	dub=0:1041908
+Vidas Cruzadas	dub=2:652601
+Vidas Cruzadas (2019)	dub=0:1041332	leg=0:1034725
+Vidas Cruzadas: A Vida Íntima de Pippa Lee	dub=2:762914
+Vidas Cruzadas: A Vida Íntima de Pippa Lee (2009)	dub=0:1064132	leg=0:1033009
+Vidas Duplas	dub=2:650225,2:651362
+Vidas Duplas (2018)	dub=0:1064986
+Vidas Emaranhadas	dub=2:652416
+Vidas Emaranhadas (2020)	dub=0:1043738	leg=0:1028600
+Vidas Entrelaçadas	dub=2:884831,2:918159
+Vidas Entrelaçadas (2019)	dub=0:1038829	leg=0:1030316
 Vidas Entrelaçadas (2026)	dub=0:1261446	leg=0:1272754
-Vidas Entrelaçadas - (2019)	dub=0:1038829	leg=0:1030316
-Vidas Negras Importam - (2019)	dub=0:1041759	leg=0:1028436
-Vidas Paralelas - (2024)	dub=0:1060129	leg=0:1024253
-Vidas Partidas - (2016)	dub=0:1043052
+Vidas Importam	dub=2:648408
+Vidas Negras Importam	dub=2:884683
+Vidas Negras Importam (2019)	dub=0:1041759	leg=0:1028436
+Vidas Paralelas	dub=2:762817	leg=2:762704
+Vidas Paralelas (2024)	dub=0:1060129	leg=0:1024253
+Vidas Partidas	dub=2:897172
+Vidas Partidas (2016)	dub=0:1043052
+Vidas Passadas	dub=2:645372
 Vidas Passadas (2006)	dub=0:1272418
-Vidas Passadas - (2023)	dub=0:1063983	leg=0:1023727
+Vidas Passadas (2023)	dub=0:1063983	leg=0:1023727
 Vidas Sem Rumo (1983)	dub=0:1266464
+Vidas a Deriva	dub=2:649670,2:885079,2:912358
 Vidas ao Vento (2013)	dub=0:1267439
+Vidas em Jogo	dub=2:647244
 Vidas em Jogo (1997)	dub=0:1273198
-Vidas em Jogo - (2022)	dub=0:1043782	leg=0:1025512
-Vidas que se Encontram - (2020)	dub=0:1041228	leg=0:1033691
+Vidas em Jogo (2022)	dub=0:1043782	leg=0:1025512
+Vidas que se Encontram	dub=2:652234
+Vidas que se Encontram (2020)	dub=0:1041228	leg=0:1033691
+Vidas à Deriva (2018)	dub=0:1056263	leg=0:1026638
 Vidas à Deriva (2023)	dub=0:1272244	leg=0:1272242
-Vidas à Deriva - (2018)	dub=0:1056263	leg=0:1026638
-Vidente Por Acidente - (2024)	dub=0:1040497,0:1023072
-Videomannen - (2018)	dub=0:1043725	leg=0:1249326
+Vidente Por Acidente	dub=2:644246
+Vidente Por Acidente (2024)	dub=0:1040497,0:1023072
+Videomannen	dub=2:647289
+Videomannen (2018)	dub=0:1043725	leg=0:1249326
+Vidro	dub=2:647706,2:826364
 Vidro (2019)	dub=0:1267860	leg=0:1031182
-Vidro Fumê - (2024)	dub=0:1051876	leg=0:1030953
+Vidro Fumê	dub=2:770320	leg=2:762420
+Vidro Fumê (2024)	dub=0:1051876	leg=0:1030953
 Viet and Nam (2024)	dub=0:1269489
 Vigaristas (2008)	dub=0:1270354
-Vigaristas em Hollywood - (2020)	dub=0:1052014	leg=0:1028220
-Vigiados - (2020)	dub=0:1058119
+Vigaristas em Hollywood	dub=2:650742
+Vigaristas em Hollywood (2020)	dub=0:1052014	leg=0:1028220
+Vigia Noturno: O Legado	dub=2:915634
+Vigiados	dub=2:655297
+Vigiados (2020)	dub=0:1058119
 Vigilantes da Guerra (2014)	dub=0:1269415
 ViihTube: Amiga do Inimigo (2020)	dub=0:1271609
-Viking - (2016)	dub=0:1045639
+Viking	dub=2:649150
+Viking (2016)	dub=0:1045639
 Vile Prey (2016)	dub=0:1290976
 Villa-Lobos: Uma Vida de Paixão (2000)	dub=0:1272820
-Villain - (2020)	leg=0:1029930
-Villains - (2019)	leg=0:1249356
-Vilões - (2019)	dub=0:1043882
+Villain (2020)	leg=0:1029930
+Villains (2019)	leg=0:1249356
+Vilões	dub=2:655117
+Vilões (2019)	dub=0:1043882
+Vincent doit mourir	leg=2:762655
 Vincent doit mourir (2023)	dub=0:1271307	leg=0:1026437
+Vingadora	dub=2:915641
 Vingadora (2026)	dub=0:1271659
 Vingadora Legendado (2026)	dub=0:1260111
-Vingadores: Era de Ultron - (2015)	dub=0:1059596	leg=0:1028844
-Vingadores: Guerra Infinita - (2018)	dub=0:1059539,0:1023178
-Vingadores: Ultimato - (2019)	dub=0:1055645,0:1000493	leg=0:1023885
+Vingadores: Era de Ultron	dub=2:649237,2:884865
+Vingadores: Era de Ultron (2015)	dub=0:1059596	leg=0:1028844
+Vingadores: Guerra Infinita	dub=2:649230
+Vingadores: Guerra Infinita (2018)	dub=0:1059539,0:1023178
+Vingadores: Ultimato	dub=2:649227,2:822986
+Vingadores: Ultimato (2019)	dub=0:1055645,0:1000493	leg=0:1023885
 Vinganca (2015)	dub=0:1271524
 Vinganca Redentora (2004)	dub=0:1265916
 Vinganca sem Limites (2004)	dub=0:1264805
-Vingança & Castigo - (2021)	dub=0:1069040	leg=0:1035776
+Vingança	dub=2:647319,2:649721	leg=2:901396
+Vingança & Castigo	dub=2:645148
+Vingança & Castigo (2021)	dub=0:1069040	leg=0:1035776
 Vingança (1990)	dub=0:1265505	leg=0:1265480
-Vingança (2017)	dub=0:1055246	leg=0:1272258
-Vingança - (2018)	dub=0:1059360
-Vingança - (2022)	dub=0:1069791,0:1022083	leg=0:1249085
-Vingança Acima da Lei - (2023)	dub=0:1051614	leg=0:1033938
+Vingança (2017)	dub=0:1055246,2:649157	leg=0:1272258
+Vingança (2018)	dub=0:1059360
+Vingança (2022)	dub=0:1069791,0:1022083	leg=0:1249085
+Vingança Acima da Lei	dub=2:770372
+Vingança Acima da Lei (2023)	dub=0:1051614	leg=0:1033938
+Vingança Ancestral	dub=2:901154
 Vingança Ancestral (2023)	dub=0:1268870	leg=0:1268859
+Vingança Brutal	dub=2:904312
 Vingança Brutal (2025)	leg=0:1266773
 Vingança Brutal 4K (2026)	dub=0:1272286,0:1259662
-Vingança Entre Assassinos - (2009)	dub=0:1047362
-Vingança FM - (2019)	dub=0:1057736
-Vingança Fatal - (2014)	dub=0:1056396	leg=0:1025695
-Vingança Fatal - (2022)	dub=0:1047019	leg=0:1025797
-Vingança Final - (2003)	dub=0:1046672	leg=0:1035621
-Vingança Pelo Passado - (2022)	dub=0:1046946	leg=0:1025293
-Vingança Solitária - (2020)	dub=0:1046982	leg=0:1031545
-Vingança e Redenção - (2022)	dub=0:1051680	leg=0:1031441
-Vingança e Traição - (2019)	dub=0:1052525
-Vingança em Cold Cross - (2023)	dub=0:1068984	leg=0:1031550
-Vingança em Dobro - (2021)	dub=0:1051889	leg=0:1027777
-Vingança em Duas Rodas - (2021)	dub=0:1051499	leg=0:1032561
+Vingança Entre Assassinos	dub=2:649118
+Vingança Entre Assassinos (2009)	dub=0:1047362
+Vingança FM	dub=2:655358
+Vingança FM (2019)	dub=0:1057736
+Vingança Fatal	dub=2:648716,2:703554,2:762714	leg=2:762334
+Vingança Fatal (2014)	dub=0:1056396,2:649718	leg=0:1025695
+Vingança Fatal (2022)	dub=0:1047019	leg=0:1025797
+Vingança Final	dub=2:681762
+Vingança Final (2003)	dub=0:1046672	leg=0:1035621
+Vingança Pelo Passado	dub=2:647264
+Vingança Pelo Passado (2022)	dub=0:1046946	leg=0:1025293
+Vingança Solitária	dub=2:648614,2:648772
+Vingança Solitária (2020)	dub=0:1046982	leg=0:1031545
+Vingança e Redenção	dub=2:648681
+Vingança e Redenção (2022)	dub=0:1051680	leg=0:1031441
+Vingança e Traição	dub=2:653020
+Vingança e Traição (2019)	dub=0:1052525
+Vingança em Cold Cross (2023)	dub=0:1068984	leg=0:1031550
+Vingança em Dobro	dub=2:644874
+Vingança em Dobro (2021)	dub=0:1051889	leg=0:1027777
+Vingança em Duas Rodas	dub=2:648525
+Vingança em Duas Rodas (2021)	dub=0:1051499	leg=0:1032561
+Vingança no Deserto	dub=2:900386,2:901072
 Vingança no Deserto (2024)	dub=0:1266487	leg=0:1266545
-Vingança no Oeste - (2018)	dub=0:1069090	leg=0:1025262
-Vingança à Queima-Roupa - (1998)	dub=0:1047722
-Vingança à Sangue Frio - (2019)	dub=0:1044641
-Vingt Dieux - (2024)	leg=0:1036613
-Vinicius - (2005)	dub=0:1072163
+Vingança no Oeste (2018)	dub=0:1069090	leg=0:1025262
+Vingança à Queima-Roupa	dub=2:648932
+Vingança à Queima-Roupa (1998)	dub=0:1047722
+Vingança à Sangue Frio	dub=2:647593,2:649703
+Vingança à Sangue Frio (2019)	dub=0:1044641
+Vingt Dieux (2024)	leg=0:1036613
+Vini" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2yzoEUZTf41h6SXVz6V0Z9fHkHN.jpg" group-title="Documentarios",Baila, Vini	dub=2:846485
+Vinicius	dub=2:648145
+Vinicius (2005)	dub=0:1072163
+Vinski - O Herói Invisível	dub=2:896993,2:900667
 Vinski - O Herói Invisível (2021)	dub=0:1264997	leg=0:1264995
-Violacao de Privacidade - (2004)	dub=0:1059660
-Violação de Conduta - (2003)	dub=0:1069738	leg=0:1034678
+Violacao de Privacidade	dub=2:653467
+Violacao de Privacidade (2004)	dub=0:1059660
+Violação de Conduta	dub=2:884363
+Violação de Conduta (2003)	dub=0:1069738	leg=0:1034678
 Violet (2020)	dub=0:1266112
-Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória - (2019)	dub=0:1061742	leg=0:1031411
+Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória	dub=2:646001
+Violet Evergarden Gaiden: Eternidade e a Boneca de Automemória (2019)	dub=0:1061742	leg=0:1031411
 Violet Evergarden Memorias (2021)	dub=0:1270663
-Violet Evergarden: O Filme - (2020)	dub=0:1062251	leg=0:1026133
-Violet no Mundo da Fantasia - (2023)	dub=0:1067096	leg=0:1032733
-Violência Gratuita - (2008)	dub=0:1057821	leg=0:1028777
-Vips - (2011)	dub=0:1042551
+Violet Evergarden: O Filme	dub=2:653138
+Violet Evergarden: O Filme (2020)	dub=0:1062251	leg=0:1026133
+Violet no Mundo da Fantasia	dub=2:646731	leg=2:670199
+Violet no Mundo da Fantasia (2023)	dub=0:1067096	leg=0:1032733
+Violência Explícita	dub=2:654597
+Violência Gratuita	dub=2:885054
+Violência Gratuita (2008)	dub=0:1057821	leg=0:1028777
+Vips	dub=2:654128
+Vips (2011)	dub=0:1042551
 Vira Mar (2020)	dub=0:1291020
-Viral - (2016)	dub=0:1061131
+Viral	dub=2:653822
+Viral (2016)	dub=0:1061131
+Viralize ou Morra	dub=2:654537
 Viralize ou Morra (2022)	dub=0:1270323
-Virando a Mesa - (2020)	dub=0:1047611
-Virando a Mesa do Poder - (2019)	dub=0:1048333
-Virando o Jogo - (2021)	dub=0:1040624	leg=0:1027594
+Virando a Mesa	dub=2:648819
+Virando a Mesa (2020)	dub=0:1047611
+Virando a Mesa do Poder	dub=2:648273
+Virando a Mesa do Poder (2019)	dub=0:1048333
+Virando o Jogo	dub=2:652370
+Virando o Jogo (2021)	dub=0:1040624	leg=0:1027594
 Virando o jogo (2000)	dub=0:1271484
-Virei um Gato - (2016)	dub=0:1039853
-Virgem Maria - (2024)	dub=0:1045521	leg=0:1024948
-Virgínia e Adelaide - (2025)	dub=0:1249951	leg=0:1249955
+Virei um Gato	dub=2:650720
+Virei um Gato (2016)	dub=0:1039853
+Virei uma Garota!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b4Vt2IKLYpCRvouqGNj4hbft4Vk.jpg" group-title="Filmes | Comedia",Socorro, Virei uma Garota!	dub=2:884514
+Virgem Maria	dub=2:652010	leg=2:670340
+Virgem Maria (2024)	dub=0:1045521	leg=0:1024948
+Virgínia e Adelaide	dub=2:901444
+Virgínia e Adelaide (2025)	dub=0:1249951	leg=0:1249955
 Virus (1999)	dub=0:1269527
 Virus Shark (2021)	dub=0:1270588	leg=0:1273036
 Visita ao Inferno (2016)	dub=0:1269174
-Visitantes Alienígenas - (2022)	dub=0:1048548	leg=0:1035791
-Visitas Extraterrestres - (2022)	dub=0:1049250
-Visoes De Um Crime - (2011)	dub=0:1052503
+Visitantes Alienígenas	dub=2:846458
+Visitantes Alienígenas (2022)	dub=0:1048548	leg=0:1035791
+Visitas Extraterrestres	dub=2:648041
+Visitas Extraterrestres (2022)	dub=0:1049250
+Visoes De Um Crime	dub=2:647506
+Visoes De Um Crime (2011)	dub=0:1052503
 Visoes do Imperio (2022)	dub=0:1267427
-Visoes do Passado - (2015)	dub=0:1071248
-Vista Perigosa - (2021)	dub=0:1049758	leg=0:1035100
-Visão: Estendida - (2023)	dub=0:1060137	leg=0:1034012
-Visões - (2023)	dub=0:1071071	leg=0:1036379
+Visoes do Passado	dub=2:655450
+Visoes do Passado (2015)	dub=0:1071248
+Vista Perigosa	dub=2:652330
+Vista Perigosa (2021)	dub=0:1049758	leg=0:1035100
+Visão: Estendida	dub=2:644560	leg=2:670675
+Visão: Estendida (2023)	dub=0:1060137	leg=0:1034012
+Visões	dub=2:647175
+Visões (2023)	dub=0:1071071	leg=0:1036379
 Visões - Você Pode Me Ajudar? (2000)	dub=0:1272063	leg=0:1272082
-Visões Mortais - (2023)	dub=0:1058416	leg=0:1028208
-Visões da Mente - (2021)	dub=0:1044212	leg=0:1036195
-Vita & Virginia Legendado - (2019)	dub=0:1248838
-Vitória - (2025)	dub=0:1037063	leg=0:1038392
-Viuva Negra 4K - (2021)	dub=0:1249669,0:1055875	leg=0:1031065
-Viva - A Vida e uma Festa - (2017)	dub=0:1072234
+Visões Mortais	dub=2:654641
+Visões Mortais (2023)	dub=0:1058416	leg=0:1028208
+Visões da Mente	dub=2:823012
+Visões da Mente (2021)	dub=0:1044212	leg=0:1036195
+Vita & Virginia Legendado (2019)	dub=0:1248838
+Vitória	dub=2:884950
+Vitória (2025)	dub=0:1037063	leg=0:1038392
+Viuva Negra 4K (2021)	dub=0:1249669,0:1055875	leg=0:1031065
+Viva - A Vida e uma Festa	dub=2:646580
+Viva - A Vida e uma Festa (2017)	dub=0:1072234
 Viva A Vida e uma Festa - Ao Vivo (2020)	dub=0:1264678
-Viva Django - (1968)	dub=0:1069337
-Viva a Liberdade - (2013)	dub=0:1055605	leg=0:1036448
-Viva a Vida - (2025)	dub=0:1249938	leg=0:1037355
-Viva o México! - (2023)	dub=0:1053366	leg=0:1033016
-Viva os Noivos! - (2025)	dub=0:1037758	leg=0:1038287
-Viva! A Babá Morreu - (2024)	dub=0:1052953,0:1022454	leg=0:1031167
-Vivarium - (2019)	leg=0:1249235
-Viveiro - (2019)	dub=0:1049161
+Viva Django	dub=2:645168
+Viva Django (1968)	dub=0:1069337
+Viva a Liberdade	dub=2:889834
+Viva a Liberdade (2013)	dub=0:1055605	leg=0:1036448
+Viva a Vida	dub=2:884958
+Viva a Vida (2025)	dub=0:1249938	leg=0:1037355
+Viva o México!	dub=2:652520
+Viva o México! (2023)	dub=0:1053366	leg=0:1033016
+Viva os Noivos!	dub=2:703553	leg=2:762677
+Viva os Noivos! (2025)	dub=0:1037758	leg=0:1038287
+Viva! A Babá Morreu	dub=2:650059	leg=2:670569
+Viva! A Babá Morreu (2024)	dub=0:1052953,0:1022454	leg=0:1031167
+Vivarium (2019)	leg=0:1249235
+Viveiro	dub=2:648223
+Viveiro (2019)	dub=0:1049161
 Vivendo na Eternidade (2002)	dub=0:1271563
-Vivendo no Limite - (2019)	dub=0:1053023	leg=0:1027920
+Vivendo no Limite	dub=2:650476
+Vivendo no Limite (2019)	dub=0:1053023	leg=0:1027920
 Vivendo no Vermelho (2023)	dub=0:1271256	leg=0:1033487
-Viver - (2022)	dub=0:1041103	leg=0:1026248
-Viver Duas Vezes - (2019)	dub=0:1053205
+Viver	dub=2:652422
+Viver (2022)	dub=0:1041103	leg=0:1026248
+Viver Duas Vezes	dub=2:651458
+Viver Duas Vezes (2019)	dub=0:1053205
 Viver e Morrer em Los Angeles (1985)	dub=0:1263352
 Viver para cantar (2019)	dub=0:1269724
-Viver, Amar e Aprender - (2021)	dub=0:1053056	leg=0:1026412
-Vivo - (2021)	leg=0:1024147
-Vivo ou Morto - (2023)	dub=0:1049611
+Viver, Amar e Aprender (2021)	dub=0:1053056	leg=0:1026412
+Vivo	dub=2:648008
+Vivo (2021)	leg=0:1024147
+Vivo ou Morto	dub=2:650233
+Vivo ou Morto (2023)	dub=0:1049611
+Vivo ou Morto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1K63iGAdlkCWu8RyBsDyVG9hdYv.jpg" group-title="Filmes | Crime",Mineirinho, Vivo ou Morto	dub=2:901923
+Vivo ou Morto: Um Mistério Knives Out	dub=2:900460,2:901234
 Vivo ou Morto: Um Mistério Knives Out 4K (2025)	dub=0:1266332,0:1254739	leg=0:1264697
-Vivos - (1993)	dub=0:1045424
-Vixen: O Filme - (2017)	dub=0:1062812
-Vizinhança do Barulho - (1996)	dub=0:1051381
+Vivos	dub=2:653745
+Vivos (1993)	dub=0:1045424
+Vixen: O Filme	dub=2:646306
+Vixen: O Filme (2017)	dub=0:1062812
+Vizinhança do Barulho	dub=2:651402
+Vizinhança do Barulho (1996)	dub=0:1051381
+Vizinhos	dub=2:650600,2:651636
+Vizinhos (2010)	dub=0:1055394
 Vizinhos (2014)	dub=0:1270638
-Vizinhos - (2010)	dub=0:1055394
-Vizinhos - (2022)	dub=0:1052966,0:1000486
-Vizinhos 2 - (2016)	dub=0:1055381
+Vizinhos (2022)	dub=0:1052966,0:1000486
+Vizinhos 2	dub=2:651638
+Vizinhos 2 (2016)	dub=0:1055381
+Vizinhos Bárbaros	dub=2:904949
 Vizinhos Bárbaros (2024)	dub=0:1267538	leg=0:1267542
-Vizinhos Imediatos de 3º Grau - (2012)	dub=0:1060498
-Vizinhos Nada Secretos - (2016)	dub=0:1047674
+Vizinhos Imediatos de 3º Grau	dub=2:677915
+Vizinhos Imediatos de 3º Grau (2012)	dub=0:1060498
+Vizinhos Nada Secretos	dub=2:651637
+Vizinhos Nada Secretos (2016)	dub=0:1047674
+Viúva Negra	dub=2:649024
+Vjeran Tomic: O Homem-Aranha de Paris	dub=2:920917
 Vlavianos, o Impulso e a Razão (2025)	dub=0:1272141
-Voando Alto - (2016)	dub=0:1045829
-Voando Alto - (2019)	dub=0:1062368
+Voando Alto	dub=2:646511,2:651502
+Voando Alto (2016)	dub=0:1045829
+Voando Alto (2019)	dub=0:1062368
+Voando para Casa	dub=2:645775
+Voando para Casa (1996)	dub=0:1068423
 Voando para Casa (2014)	dub=0:1270777
-Voando para Casa - (1996)	dub=0:1068423
-Voce Deveria Ter Partido - (2020)	dub=0:1058612
+Voce Deveria Ter Partido	dub=2:655198
+Voce Deveria Ter Partido (2020)	dub=0:1058612
 Voce Foi Meu Primeiro Amor (2024)	dub=0:1269922
 Voce Ja Viu Vagalumes? (2021)	dub=0:1271077
 Voce Nao Estava Aqui (2019)	dub=0:1265672
 Voce Nao e Um Soldado (2021)	dub=0:1270873
 Voce Radical com Ranveer Singh e Bear Grylls (2022)	dub=0:1269697
-Voce e o Proximo - (2013)	dub=0:1069828
+Voce e o Proximo	dub=2:655241
+Voce e o Proximo (2013)	dub=0:1069828
 Voce e o Universo (2025)	dub=0:1265822	leg=0:1038284
-Você Acredita? - (2015)	dub=0:1042362
-Você Está Apaixonado, Charlie Brown - (1967)	dub=0:1049972	leg=0:1024000
-Você Já Foi à Bahia? - (1944)	dub=0:1071642
+Você Acredita?	dub=2:645861
+Você Acredita? (2015)	dub=0:1042362
+Você Dorme Comigo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Filmes | Romance",Esta Noite, Você Dorme Comigo	dub=2:645478
+Você Está Apaixonado, Charlie Brown (1967)	dub=0:1049972	leg=0:1024000
+Você Está Aí? " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t2dwWZ5pDvxieFBhh25Lyg1ZLie.jpg" group-title="Filmes | Legendados",Charlie, Você Está Aí?	leg=2:670790
+Você Está Aí?" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t2dwWZ5pDvxieFBhh25Lyg1ZLie.jpg" group-title="Filmes | Terror",Charlie, Você Está Aí?	dub=2:654469
+Você Está Sendo Filmado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vsUmlZDp7xHH5wEcctDOq0DHciH.jpg" group-title="Filmes | Nacionais",Sorria, Você Está Sendo Filmado	dub=2:739606
+Você Já Foi à Bahia? (1944)	dub=0:1071642
+Você Nem Imagina	dub=2:651383
 Você Nem Imagina (2020)	dub=0:1065374	leg=0:1272256
-Você Nunca Esteve Realmente Aqui - (2017)	dub=0:1043442	leg=0:1024585
-Você Nunca Me Encontrará - (2023)	dub=0:1044090	leg=0:1249063
-Você Não Estará Só! - (2022)	dub=0:1057933	leg=0:1035997
-Você Não Está Sozinha - (2020)	dub=0:1043988	leg=0:1032743
-Você Não Foi Eleito, Charlie Brown - (1972)	dub=0:1062068	leg=0:1033059
-Você Não Pode Chorar - (2022)	dub=0:1041490	leg=0:1024049
-Você Não Tá Convidada pro Meu Bat Mitzvá! - (2023)	dub=0:1052909,0:1021616	leg=0:1036285
-Você Pode Me Ouvir? - (2021)	dub=0:1248834	leg=0:1031986
+Você Nunca Esteve Realmente Aqui	dub=2:647479,2:770457	leg=2:762497
+Você Nunca Esteve Realmente Aqui (2017)	dub=0:1043442	leg=0:1024585
+Você Nunca Me Encontrará	dub=2:736000	leg=2:762476
+Você Nunca Me Encontrará (2023)	dub=0:1044090	leg=0:1249063
+Você Não Estará Só!	dub=2:654867
+Você Não Estará Só! (2022)	dub=0:1057933	leg=0:1035997
+Você Não Está Sozinha	dub=2:654699
+Você Não Está Sozinha (2020)	dub=0:1043988	leg=0:1032743
+Você Não Foi Eleito, Charlie Brown (1972)	dub=0:1062068	leg=0:1033059
+Você Não Pode Chorar	dub=2:652039	leg=2:670517
+Você Não Pode Chorar (2022)	dub=0:1041490	leg=0:1024049
+Você Não Tá Convidada pro Meu Bat Mitzvá!	dub=2:650357
+Você Não Tá Convidada pro Meu Bat Mitzvá! (2023)	dub=0:1052909,0:1021616	leg=0:1036285
+Você Pode Me Ouvir?	dub=2:885074
+Você Pode Me Ouvir? (2021)	dub=0:1248834	leg=0:1031986
+Você Radical - Amnésia	dub=2:903355,2:903652
 Você Radical - Amnésia (2021)	dub=0:1267506	leg=0:1267357
-Você Vai Lembrar Meu Nome - (2022)	dub=0:1041746	leg=0:1032943
+Você Vai Lembrar Meu Nome	dub=2:652543
+Você Vai Lembrar Meu Nome (2022)	dub=0:1041746	leg=0:1032943
+Você Vai Morrer em 6 Horas	dub=2:903359
 Você Vai Morrer em 6 Horas (2024)	dub=0:1267507	leg=0:1267330
 Você ou eu? (2026)	leg=0:1272155
-Você É O Maior, Charlie Brown - (1979)	dub=0:1050067	leg=0:1026586
-Você é Minha Casa - (2020)	dub=0:1068719
+Você É O Maior, Charlie Brown (1979)	dub=0:1050067	leg=0:1026586
+Você é Minha Casa	dub=2:653039
+Você é Minha Casa (2020)	dub=0:1068719
 Você, Eu e Ele (2018)	dub=0:1267745	leg=0:1267681
-Voe com a Águia - (2021)	dub=0:1053032	leg=0:1027489
+Voe com a Águia	dub=2:650724
+Voe com a Águia (2021)	dub=0:1053032	leg=0:1027489
+Voice of Shadows	dub=2:901058,2:902511
 Voice of Shadows (2024)	dub=0:1266899	leg=0:1266903
-Volcano - (1997)	dub=0:1061151
+Volcano	dub=2:646986
+Volcano (1997)	dub=0:1061151
 Volevo nascondermi (2020)	dub=0:1271790	leg=0:1272991
-Volition - (2019)	leg=0:1249408
-Volkov - O Nome da Violência - (2022)	dub=0:1051861	leg=0:1027344
+Volition (2019)	leg=0:1249408
+Volkov - O Nome da Violência	dub=2:647143	leg=2:670732
+Volkov - O Nome da Violência (2022)	dub=0:1051861	leg=0:1027344
+Vollúpya	dub=2:906585
 Vollúpya (2024)	dub=0:1272510
-Volta Pra Mim 4K - (2022)	dub=0:1249630,0:1065906	leg=0:1032429
-Volta ao Mundo em 80 Dias Uma Aposta Muito Louca - (2004)	dub=0:1055981
-Voltando a Viver - Antwone Fisher - (2002)	dub=0:1045905
+Volta Pra Mim	dub=2:645577
+Volta Pra Mim 4K (2022)	dub=0:1249630,0:1065906	leg=0:1032429
+Volta ao Mundo em 80 Dias Uma Aposta Muito Louca	dub=2:649296
+Volta ao Mundo em 80 Dias Uma Aposta Muito Louca (2004)	dub=0:1055981
+Voltando Para Casa	dub=2:650901
+Voltando a Viver - Antwone Fisher	dub=2:653357
+Voltando a Viver - Antwone Fisher (2002)	dub=0:1045905
 Voltando as Raizes (2024)	dub=0:1270329	leg=0:1031499
-Voltando da Lua de Mel - (2020)	dub=0:1049797	leg=0:1027789
-Voltando do Inferno - (2015)	dub=0:1062555
-Voltando para Casa no Escuro - (2021)	leg=0:1028623
-Voltando à Ativa - (2020)	dub=0:1051194	leg=0:1032673
-Voltando às Pistas - (2023)	dub=0:1056239	leg=0:1024742
-Volte Sempre! - (2023)	dub=0:1053734	leg=0:1033236
-Volte para Casa - (2024)	dub=0:1057534	leg=0:1023507
-Volume Morto - (2019)	dub=0:1042152
-Vombate Ao Combate - (2020)	dub=0:1062272
+Voltando da Lua de Mel	dub=2:645456
+Voltando da Lua de Mel (2020)	dub=0:1049797	leg=0:1027789
+Voltando do Inferno	dub=2:646478
+Voltando do Inferno (2015)	dub=0:1062555
+Voltando para Casa no Escuro	leg=2:670687
+Voltando para Casa no Escuro (2021)	leg=0:1028623
+Voltando à Ativa	dub=2:648348	leg=2:670803
+Voltando à Ativa (2020)	dub=0:1051194	leg=0:1032673
+Voltando às Pistas	dub=2:650047	leg=2:670411
+Voltando às Pistas (2023)	dub=0:1056239	leg=0:1024742
+Voltando às Raízes	leg=2:670406
+Volte Sempre!	dub=2:650462
+Volte Sempre! (2023)	dub=0:1053734	leg=0:1033236
+Volte para Casa	dub=2:901214
+Volte para Casa (2024)	dub=0:1057534	leg=0:1023507
+Volume Morto	dub=2:653678
+Volume Morto (2019)	dub=0:1042152
+Vombate Ao Combate	dub=2:646413
+Vombate Ao Combate (2020)	dub=0:1062272
 Voo 7500 (2014)	dub=0:1268177	leg=0:1268215
-Voo Mortal - (2020)	dub=0:1050020	leg=0:1026839
+Voo Mortal	dub=2:648837
+Voo Mortal (2020)	dub=0:1050020	leg=0:1026839
 Voo Noturno (1997)	dub=0:1270174
 Voo Sobre o Everest (2019)	dub=0:1270809
-Voo United 93 - (2006)	dub=0:1045617
+Voo United 93	dub=2:653570
+Voo United 93 (2006)	dub=0:1045617
 Vortex (2021)	dub=0:1269722
-Voto de Coragem - (2020)	dub=0:1046805	leg=0:1027505
-Votos de Amor - (2016)	dub=0:1065738
-Vou Morrer Amanha - (2020)	dub=0:1042778
-Vou Nadar Até Você - (2020)	dub=0:1042615
+Voto de Coragem	dub=2:649006
+Voto de Coragem (2020)	dub=0:1046805	leg=0:1027505
+Votos de Amor	dub=2:652204
+Votos de Amor (2016)	dub=0:1065738
+Vou Morrer Amanha	dub=2:653356
+Vou Morrer Amanha (2020)	dub=0:1042778
+Vou Nadar Até Você	dub=2:653689
+Vou Nadar Até Você (2020)	dub=0:1042615
 Vou Rifar Meu Coração (2012)	dub=0:1271973
-Vovo Zona - (2006)	dub=0:1052418
-Vovo Zona 3 - (2011)	dub=0:1052648
+Vovo Zona	dub=2:651633
+Vovo Zona (2006)	dub=0:1052418
+Vovo Zona 2	dub=2:651635
+Vovo Zona 3	dub=2:651634
+Vovo Zona 3 (2011)	dub=0:1052648
 Vovo... Zona (2000)	dub=0:1265924
-Vovó Babá - (2020)	dub=0:1067212	leg=0:1028150
+Vovó Babá	dub=2:650941
+Vovó Babá (2020)	dub=0:1067212	leg=0:1028150
+Vovó Ninja	dub=2:909058
 Vovó Ninja (2024)	dub=0:1267927
-Vovó Saiu Do Armário - (2020)	dub=0:1064270
-Vox Lux O Preco da Fama - (2018)	dub=0:1072336
-Vozes - (2020)	dub=0:1059008
-Vozes Que Inspiram - (2020)	dub=0:1049385
-Vozes da Escuridão - (2016)	dub=0:1039746
+Vovó Saiu Do Armário	dub=2:651232
+Vovó Saiu Do Armário (2020)	dub=0:1064270
+Vox Lux O Preco da Fama	dub=2:653968
+Vox Lux O Preco da Fama (2018)	dub=0:1072336
+Vozes	dub=2:655273
+Vozes (2020)	dub=0:1059008
+Vozes Que Inspiram	dub=2:648194
+Vozes Que Inspiram (2020)	dub=0:1049385
+Vozes da Escuridão	dub=2:655262
+Vozes da Escuridão (2016)	dub=0:1039746
 Vozes do Alem (2005)	dub=0:1267440
+Vozes do Passado	dub=2:654982
 Vozes do Passado (2007)	dub=0:1268077
-Vozes do Passado - (2020)	dub=0:1058329	leg=0:1030088
-Vozes e Vultos - (2021)	dub=0:1059090
-Vozes na Escuridão - (2020)	dub=0:1043957	leg=0:1034671
-Vulcão Whakaari: Resgate na Nova Zelândia - (2022)	dub=0:1048359
+Vozes do Passado (2020)	dub=0:1058329	leg=0:1030088
+Vozes e Vultos	dub=2:653436
+Vozes e Vultos (2021)	dub=0:1059090
+Vozes na Escuridão	dub=2:654945
+Vozes na Escuridão (2020)	dub=0:1043957	leg=0:1034671
+Vulcão Whakaari: Resgate na Nova Zelândia	dub=2:648034
+Vulcão Whakaari: Resgate na Nova Zelândia (2022)	dub=0:1048359
 Vulcão: Fogo debaixo da Terra (2025)	dub=0:1262187
-Vulcões e Tubarões: Havaí - (2023)	dub=0:1048292
-Vulcões: A Tragédia de Katia e Maurice Krafft - (2022)	dub=0:1048309
-Vyzov - (2023)	leg=0:1027320
+Vulcões e Tubarões: Havaí	dub=2:647940
+Vulcões e Tubarões: Havaí (2023)	dub=0:1048292
+Vulcões: A Tragédia de Katia e Maurice Krafft	dub=2:648051
+Vulcões: A Tragédia de Katia e Maurice Krafft (2022)	dub=0:1048309
+Vyzov (2023)	leg=0:1027320
 Véu, Sangue e Grinalda (2022)	dub=0:1266963
-Vênus Negra - (2010)	leg=0:1033836
-Vício Frenético - (2009)	dub=0:1051104
-Vício Inerente - (2014)	dub=0:1070921
-Vício Perfeito 4K - (2023)	dub=0:1249726,0:1063359	leg=0:1024368
-Vírus - (2009)	dub=0:1060593
-Vítima 3/19 - (2021)	dub=0:1041821	leg=0:1030613
-Vítima X Suspeita - (2023)	dub=0:1048586	leg=0:1029557
-Vítimas da Inocência - (2019)	dub=0:1040959	leg=0:1035993
-Vítimas do Dia - (2025)	dub=0:1037502,0:1036684	leg=0:1038312
-Vítimas do Silêncio - (2021)	dub=0:1057964	leg=0:1026769
+Vênus Negra (2010)	leg=0:1033836
+Vício Frenético	dub=2:653310
+Vício Frenético (2009)	dub=0:1051104
+Vício Inerente	dub=2:650970
+Vício Inerente (2014)	dub=0:1070921
+Vício Perfeito	dub=2:652563
+Vício Perfeito 4K (2023)	dub=0:1249726,0:1063359	leg=0:1024368
+Vírus	dub=2:653842
+Vírus (2009)	dub=0:1060593
+Vítima 3/19	dub=2:652335
+Vítima 3/19 (2021)	dub=0:1041821	leg=0:1030613
+Vítima X Suspeita	dub=2:647988
+Vítima X Suspeita (2023)	dub=0:1048586	leg=0:1029557
+Vítimas da Inocência	dub=2:652420
+Vítimas da Inocência (2019)	dub=0:1040959	leg=0:1035993
+Vítimas do Dia	dub=2:739624	leg=2:670173
+Vítimas do Dia (2025)	dub=0:1037502,0:1036684	leg=0:1038312
+Vítimas do Silêncio	dub=2:654573
+Vítimas do Silêncio (2021)	dub=0:1057964	leg=0:1026769
 voando para o amor (2013)	dub=0:1272738
-¡Viva Maestro! - (2022)	leg=0:1035693
+¡Viva Maestro! (2022)	leg=0:1035693

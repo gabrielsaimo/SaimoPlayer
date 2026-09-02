@@ -29,11 +29,14 @@ from urllib.request import urlopen
 
 ORIGENS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8",
+    "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Filmes-Series.m3u8",
 ]
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
 
-EPISODIO = re.compile(r"^(.*?)\s*S(\d{1,2})E(\d{1,3})\s*$", re.I)
+# A segunda lista escreve "S01 E01", com espaço antes do E; a primeira escreve
+# "S01E01", colado. O \s* aceita as duas sem precisar de um regex por origem.
+EPISODIO = re.compile(r"^(.*?)\s*S(\d{1,2})\s*E(\d{1,3})\s*$", re.I)
 MARCADOR = re.compile(r"\s*[\[\(]([^\]\)]{1,24})[\]\)]")
 ANO_FIM = re.compile(r"\s*(?:\(((?:19|20)\d{2})\)|((?:19|20)\d{2}))\s*$")
 ADULTO = {"adulto", "xxx", "+18", "18+"}
@@ -70,6 +73,11 @@ def separar_ano(titulo):
     if not achado:
         return titulo, ""
     sem_ano = ANO_FIM.sub("", titulo).strip()
+    # Ano solto vem antecedido de um separador — "Nome - 2014" — que a busca
+    # do ano não apaga por não fazer parte dele. Sobrando, o mesmo filme das
+    # duas listas vira "Nome" numa e "Nome -" na outra: chaves diferentes,
+    # duas entradas em vez de duas fontes do mesmo título.
+    sem_ano = re.sub(r"[\s\-–—:|]+$", "", sem_ano).strip()
     # "2012" também é título de filme. Nunca o transforme num nome vazio.
     if not sem_ano:
         return titulo, ""

@@ -1,318 +1,542 @@
+" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iWXnE2RlnTZNqpMUkcFZhJ1E21I.jpg" group-title="Documentarios",Apesar De,	dub=2:846470
+#AMFAD: All My Friends Are Dead	dub=2:902496
 #AMFAD: All My Friends Are Dead (2024)	dub=0:1267069	leg=0:1267066
-#ComVocê: Volume 2 - (2021)	dub=0:1053340	leg=0:1024333
-#ComVocê: Volume: 1 - (2021)	dub=0:1054230	leg=0:1033663
+#ComVocê: Volume 2	dub=2:652761
+#ComVocê: Volume 2 (2021)	dub=0:1053340	leg=0:1024333
+#ComVocê: Volume: 1	dub=2:650638
+#ComVocê: Volume: 1 (2021)	dub=0:1054230	leg=0:1033663
 #Manhole - Desvio Fatal (2023)	leg=0:1265616
-#NUDES - (2018)	dub=0:1065281
-#PartiuFama: Cancelado no Amor - (2022)	dub=0:1054070	leg=0:1034325
-#REALITYHIGH - (2017)	dub=0:1053450
+#NUDES	dub=2:651411
+#NUDES (2018)	dub=0:1065281
+#Natal	dub=2:645308,2:650396,2:650540	leg=2:670534
+#PartiuFama: Cancelado no Amor	dub=2:650191
+#PartiuFama: Cancelado no Amor (2022)	dub=0:1054070	leg=0:1034325
+#REALITYHIGH	dub=2:651529
+#REALITYHIGH (2017)	dub=0:1053450
 #SKYKING Legendado (2026)	dub=0:1259683
+#SalveRosa	dub=2:905557
 #SalveRosa 4K (2025)	dub=0:1272125,0:1257218	leg=0:1267963
-#SeAcabó: Diário das Campeãs - (2024)	dub=0:1048058	leg=0:1033373
-#SemSaída - (2020)	dub=0:1058603
-#Sem_Filtro - Noite Sangrenta - (2022)	dub=0:1049513	leg=0:1023565
-#eagoraoque - (2020)	dub=0:1049013
-+ Velozes + Furiosos - (2003)	dub=0:1046461	leg=0:1249490
-- (2007)	dub=0:1070637
--O Ato Final- (2024)	leg=0:1265439
-...E o Bravo Ficou Só - (1967)	dub=0:1068889
-...E o Vento Levou - (1939)	dub=0:1066790
+#SeAcabó: Diário das Campeãs	dub=2:647733	leg=2:670510
+#SeAcabó: Diário das Campeãs (2024)	dub=0:1048058	leg=0:1033373
+#SemSaída	dub=2:655150
+#SemSaída (2020)	dub=0:1058603
+#Sem_Filtro - Noite Sangrenta	dub=2:884452,2:884990
+#Sem_Filtro - Noite Sangrenta (2022)	dub=0:1049513	leg=0:1023565
+#eagoraoque	dub=2:644248
+#eagoraoque (2020)	dub=0:1049013
++ Velozes + Furiosos (2003)	dub=0:1046461	leg=0:1249490
++Velozes +Furiosos	dub=2:649217
+- 2007	dub=0:1070637
+- 2025	leg=0:1038390
+-O Ato Final (2024)	leg=0:1265439
+...E o Bravo Ficou Só	dub=2:645181
+...E o Bravo Ficou Só (1967)	dub=0:1068889
+...E o Vento Levou	dub=2:653669
+...E o Vento Levou (1939)	dub=0:1066790
 007 - 14 Nunca Mais Outra Vez (1983)	dub=0:1270944
+007 - O Amanhã Nunca Morre	dub=2:649336
+007 - O Mundo Não é o Bastante	dub=2:803839
+007 - Permissão para Matar	dub=2:649338
 007 - Permissão para Matar (1989)	dub=0:1055891	leg=0:1272852
+007 - Um Novo Dia Para Morrer	dub=2:649335
+007 Contra GoldenEye	dub=2:649337
 007 Contra GoldenEye (1995)	dub=0:1056606	leg=0:1272863
-007 Contra Goldfinger - (1964)	dub=0:1056364	leg=0:1026067
+007 Contra Goldfinger	dub=2:649351
+007 Contra Goldfinger (1964)	dub=0:1056364	leg=0:1026067
+007 Contra Octopussy	dub=2:649341
 007 Contra Octopussy (1983)	dub=0:1056867	leg=0:1272882
 007 Contra Spectre (2015)	dub=0:1057094	leg=0:1272856
+007 Contra a Chantagem Atômica	dub=2:649350
 007 Contra a Chantagem Atômica (1965)	dub=0:1056927	leg=0:1272915
+007 Contra o Foguete da Morte	dub=2:649343
 007 Contra o Foguete da Morte (1979)	dub=0:1056698	leg=0:1272909
+007 Contra o Homem com a Pistola de Ouro	dub=2:649345
 007 Contra o Homem com a Pistola de Ouro (1974)	dub=0:1057176	leg=0:1272903
 007 Contra o Satânico Dr. No (1962)	dub=0:1056581	leg=0:1272823
+007: A Serviço Secreto de Sua Majestade	dub=2:649348
 007: A Serviço Secreto de Sua Majestade (1969)	dub=0:1055780	leg=0:1272929
+007: Cassino Royale	dub=2:649334
 007: Cassino Royale (2006)	dub=0:1056620	leg=0:1272704
+007: Contra Spectre	dub=2:649331
+007: Contra o Satânico Dr. No	dub=2:649353
+007: Marcado para a Morte	dub=2:649339
 007: Marcado para a Morte (1987)	dub=0:1056949	leg=0:1272844
+007: Na Mira dos Assassinos	dub=2:649340
 007: Na Mira dos Assassinos (1985)	dub=0:1057246	leg=0:1272919
 007: O Amanhã Nunca Morre (1997)	dub=0:1057125	leg=0:1272840
+007: O Espião Que Me Amava	dub=2:649344
 007: O Espião Que Me Amava (1977)	dub=0:1057072	leg=0:1272955
 007: O Mundo Não é o Bastante (1999)	dub=0:1248890	leg=0:1272828
+007: Operação Skyfall	dub=2:649332
 007: Operação Skyfall (2012)	dub=0:1056019	leg=0:1272807
+007: Os Diamantes São Eternos	dub=2:649347
 007: Os Diamantes São Eternos (1971)	dub=0:1047274	leg=0:1272805
+007: Quantum of Solace	dub=2:649333
 007: Quantum of Solace (2008)	dub=0:1056614	leg=0:1272767
-007: Sem Tempo para Morrer 4K - (2021)	dub=0:1249741,0:1055710
+007: Sem Tempo para Morrer	dub=2:648854
+007: Sem Tempo para Morrer 4K (2021)	dub=0:1249741,0:1055710
+007: Somente Para Seus Olhos	dub=2:649342
 007: Somente para Seus Olhos (1981)	dub=0:1057100	leg=0:1272838
 007: Um Novo Dia para Morrer (2002)	dub=0:1056870	leg=0:1272920
-1 - Harry Potter E A Pedra Filosofal 4K - (2001)	dub=0:1023297
+1 - Harry Potter E A Pedra Filosofal 4K (2001)	dub=0:1023297
 1 Contra Todos (2016)	dub=0:1264677
 1 Dia, 2 Pais (1997)	dub=0:1267732	leg=0:1267710
+1 Milhão de Seguidores	dub=2:906597
 1 Milhão de Seguidores (2024)	dub=0:1268160	leg=0:1268156
-10 Anos de Pura Amizade - (2012)	dub=0:1054953
-10 Coisas que Deveríamos Fazer Antes de nos Separar - (2020)	dub=0:1065798
-10 Coisas que Eu Odeio em Voce - (1999)	dub=0:1064944
-10 Dias de um Homem Bom - (2023)	dub=0:1051844	leg=0:1025764
-10 Dias de um Homem Curioso - (2024)	dub=0:1051231	leg=0:1031126
-10 Dias de um Homem Mau - (2023)	dub=0:1050974,0:1022802	leg=0:1031223
-10 Horas Para o Natal - (2020)	dub=0:1068050
-10 Regras Para Salvar um Casamento - (2023)	dub=0:1053018	leg=0:1029502
-10 Segundos para Vencer - (2018)	dub=0:1249995
-10.000 A.C. - (2008)	dub=0:1040394
-100 Coisas - (2018)	dub=0:1053672	leg=0:1026454
-100 Coisas para Fazer Antes de Virar Zumbi 4K - (2023)	dub=0:1249649,0:1059448	leg=0:1031580
+10 Anos de Pura Amizade	dub=2:651986
+10 Anos de Pura Amizade (2012)	dub=0:1054953
+10 Coisas que Deveríamos Fazer Antes de nos Separar	dub=2:651368
+10 Coisas que Deveríamos Fazer Antes de nos Separar (2020)	dub=0:1065798
+10 Coisas que Eu Odeio em Voce	dub=2:651985
+10 Coisas que Eu Odeio em Voce (1999)	dub=0:1064944
+10 Dias de um Homem Bom	dub=2:647308
+10 Dias de um Homem Bom (2023)	dub=0:1051844	leg=0:1025764
+10 Dias de um Homem Curioso	dub=2:644808	leg=2:670478
+10 Dias de um Homem Curioso (2024)	dub=0:1051231	leg=0:1031126
+10 Dias de um Homem Mau	dub=2:644864
+10 Dias de um Homem Mau (2023)	dub=0:1050974,0:1022802	leg=0:1031223
+10 Horas Para o Natal	dub=2:651257
+10 Horas Para o Natal (2020)	dub=0:1068050
+10 Regras Para Salvar um Casamento	dub=2:736087	leg=2:762490
+10 Regras Para Salvar um Casamento (2023)	dub=0:1053018	leg=0:1029502
+10 Segundos para Vencer	dub=2:654380
+10 Segundos para Vencer (2018)	dub=0:1249995
+10.000 A.C.	dub=2:648765
+10.000 A.C. (2008)	dub=0:1040394
+100 Coisas	dub=2:650856,2:651478
+100 Coisas (2018)	dub=0:1053672	leg=0:1026454
+100 Coisas para Fazer Antes de Virar Zumbi	dub=2:648556
+100 Coisas para Fazer Antes de Virar Zumbi 4K (2023)	dub=0:1249649,0:1059448	leg=0:1031580
 100 Days to Live (2019)	dub=0:1269567
-100 Dias de Resistência - (2019)	dub=0:1066461	leg=0:1033713
-100 Dias para o Natal - (2021)	dub=0:1071718	leg=0:1249335
-100 Escovadas Antes de Dormir - (2005)	dub=0:1041367	leg=0:1028162
-100 Garotas - (2000)	dub=0:1065242
+100 Dias de Resistência	dub=2:645007
+100 Dias de Resistência (2019)	dub=0:1066461	leg=0:1033713
+100 Dias para o Natal	dub=2:645535
+100 Dias para o Natal (2021)	dub=0:1071718	leg=0:1249335
+100 Escovadas Antes de Dormir (2005)	dub=0:1041367	leg=0:1028162
+100 Garotas	dub=2:650826
+100 Garotas (2000)	dub=0:1065242
+100 Medos	dub=2:650585
 100 Medos (2022)	dub=0:1269942
-100 Metros - (2016)	dub=0:1054333
-100 Percent Wolf - (2020)	leg=0:1025584
+100 Metros	dub=2:884486
+100 Metros (2016)	dub=0:1054333
+100 Percent Wolf (2020)	leg=0:1025584
 100 Rifles (1969)	dub=0:1270302
-100 Yards - (2019)	leg=0:1023475
-100% Lobo - (2020)	dub=0:1061949
-101 Dalmatas - (1961)	dub=0:1063212
+100 Yards (2019)	leg=0:1023475
+100% Lobo	dub=2:646397
+100% Lobo (2020)	dub=0:1061949
+101 Dalmatas	dub=2:646730,2:762862	leg=2:762457
+101 Dalmatas (1961)	dub=0:1063212
 101 Dalmatas 2 - A Aventura de Patch em Londres (2003)	dub=0:1269834
-101 Dálmatas - (1996)	dub=0:1067599	leg=0:1035044
+101 Dálmatas (1996)	dub=0:1067599	leg=0:1035044
 102 Dalmatas (2000)	dub=0:1271373
 1066: A Batalha Pela Terra Media 1 (2009)	dub=0:1271347
+10DANCE	dub=2:900441,2:901311
 10DANCE (2025)	dub=0:1254898	leg=0:1266191
-10x10 - O Cativeiro - (2018)	dub=0:1071201
+10x10 - O Cativeiro	dub=2:647633
+10x10 - O Cativeiro (2018)	dub=0:1071201
 11 de Setembro: No Gabinete de Crise do Presidente (2021)	dub=0:1271789	leg=0:1272989
-11/9: A Vida Sob Ataque - (2021)	dub=0:1045225
-11/9: Ataque ao Pentágono - (2016)	dub=0:1066453	leg=0:1024845
+11/09: Os Quatro Voos Fatais	dub=2:647763
+11/9: A Vida Sob Ataque	dub=2:648154
+11/9: A Vida Sob Ataque (2021)	dub=0:1045225
+11/9: Ataque ao Pentágono	dub=2:770249	leg=2:762539
+11/9: Ataque ao Pentágono (2016)	dub=0:1066453	leg=0:1024845
+12 Anos De Escravidao	dub=2:654043
 12 Anos de Escravidão (2013)	dub=0:1045748	leg=0:1264880
+12 Feet Deep (2017)	leg=0:1026489
 12 Feet Deep (2018)	dub=0:1269716
-12 Feet Deep - (2017)	leg=0:1026489
-12 Herois - (2018)	dub=0:1066852
+12 Herois	dub=2:654379
+12 Herois (2018)	dub=0:1066852
+12 Homens e Uma Sentença	dub=2:652935
 12 Homens e uma Sentença (1957)	dub=0:1042600	leg=0:1272830
 12 Horas (2012)	dub=0:1266025
-12 Horas Para o Fim do Mundo - (2022)	dub=0:1056152	leg=0:1024086
+12 Horas Para o Fim do Mundo	dub=2:652270
+12 Horas Para o Fim do Mundo (2022)	dub=0:1056152	leg=0:1024086
+12 Horas de Fúria Infinda	dub=2:914839
 12 Horas de Fúria Infinda (2024)	dub=0:1268314	leg=0:1268393
 12 Hour Shift (2020)	dub=0:1266160	leg=0:1035623
-12 Moedas - (2020)	dub=0:1048177
+12 Moedas	dub=2:647967
+12 Moedas (2020)	dub=0:1048177
+12 Noites" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uEZvNgiOPOO1S2vsnJ1mABr2SQj.jpg" group-title="Filmes | Drama",14 Dias, 12 Noites	dub=2:652504
+12 Presentes de Natal	dub=2:901318
 12 Presentes de Natal (2015)	dub=0:1265744	leg=0:1265739
-12 Rodadas - (2009)	dub=0:1052193
+12 Rodadas	dub=2:648679
+12 Rodadas (2009)	dub=0:1052193
 12 Rounds 2 - Reloaded (2013)	dub=0:1269129
 12 Rounds 3 - Cacada Mortal (2015)	dub=0:1270262
-12 Vésperas de Natal - (2022)	dub=0:1039420	leg=0:1028863
-12 Órfãos Poderosos - (2021)	dub=0:1045542	leg=0:1024717
+12 Vésperas de Natal	dub=2:650284
+12 Vésperas de Natal (2022)	dub=0:1039420	leg=0:1028863
+12 Órfãos Poderosos	dub=2:653253
+12 Órfãos Poderosos (2021)	dub=0:1045542	leg=0:1024717
 12.12: O Dia (2023)	leg=0:1272515
-127 Horas - (2010)	dub=0:1057225
-13 Assassinos - (2010)	dub=0:1055953
+127 Horas	dub=2:654378
+127 Horas (2010)	dub=0:1057225
+13 Assassinos	dub=2:649684
+13 Assassinos (2010)	dub=0:1055953
+13 Dias no Lago da Morte	dub=2:907979
 13 Dias no Lago da Morte (2024)	dub=0:1258555	leg=0:1266484
 13 Dias, 13 Noites (2025)	dub=0:1260494	leg=0:1271335
-13 Fantasmas - (2001)	dub=0:1059047
-13 Horas: Os Soldados Secretos de Benghazi - (2016)	dub=0:1066070
+13 Fantasmas	dub=2:655602
+13 Fantasmas (2001)	dub=0:1059047
+13 Horas: Os Soldados Secretos de Benghazi	dub=2:650012
+13 Horas: Os Soldados Secretos de Benghazi (2016)	dub=0:1066070
 13 Minutos (2015)	dub=0:1269377
-13 Minutos de Tormenta - (2021)	dub=0:1046940	leg=0:1033818
-13 O Jogador - (2010)	dub=0:1044434
+13 Minutos de Tormenta	dub=2:648785
+13 Minutos de Tormenta (2021)	dub=0:1046940	leg=0:1033818
+13 Noites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg" group-title="Filmes | Lancamentos",13 Dias, 13 Noites	dub=2:915643
+13 O Jogador	dub=2:653533
+13 O Jogador (2010)	dub=0:1044434
+13 Sentimentos	dub=2:914837
 13 Sentimentos (2024)	dub=0:1271122
-13 exorcismos - (2022)	dub=0:1057715	leg=0:1033994
-1303 - Apartamento do Mal - (2012)	dub=0:1057707
-137 Disparos - (2021)	dub=0:1048556	leg=0:1035646
-13: O Musical - (2022)	dub=0:1067857	leg=0:1035180
-13: O Pavilhão da Morte - (2021)	dub=0:1047127	leg=0:1249349
-13° Distrito - Ultimato - (2009)	dub=0:1046527
-13º Andar - (1999)	dub=0:1061286
+13 exorcismos	dub=2:654805
+13 exorcismos (2022)	dub=0:1057715	leg=0:1033994
+1303 - Apartamento do Mal	dub=2:655134
+1303 - Apartamento do Mal (2012)	dub=0:1057707
+137 Disparos	dub=2:647717,2:648112	leg=2:670338
+137 Disparos (2021)	dub=0:1048556	leg=0:1035646
+13: O Musical	dub=2:645085
+13: O Musical (2022)	dub=0:1067857	leg=0:1035180
+13: O Pavilhão da Morte	dub=2:648504
+13: O Pavilhão da Morte (2021)	dub=0:1047127	leg=0:1249349
+13° Distrito - Ultimato	dub=2:649975
+13° Distrito - Ultimato (2009)	dub=0:1046527
+13º Andar	dub=2:735972
+13º Andar (1999)	dub=0:1061286
+13º Distrito	dub=2:803851
 13º Distrito (2014)	dub=0:1249786	leg=0:1272592
-14 Cartas de Amor - (2022)	dub=0:1248852
-14 Dias - (2022)	dub=0:1064376	leg=0:1034746
-14 Dias, 12 Noites - (2019)	dub=0:1040907	leg=0:1033049
+14 Cartas de Amor	dub=2:645552
+14 Cartas de Amor (2022)	dub=0:1248852
+14 Dias	dub=2:652566
+14 Dias (2022)	dub=0:1064376	leg=0:1034746
+14 Dias, 12 Noites (2019)	dub=0:1040907	leg=0:1033049
 14 Montanhas, 8 Mil Metros e 7 Meses (2021)	dub=0:1269607
 1408 (2007)	dub=0:1269718
-15 Anos em Silêncio - (2024)	dub=0:1071492	leg=0:1028203
+15 Anos em Silêncio	dub=2:884765
+15 Anos em Silêncio (2024)	dub=0:1071492	leg=0:1028203
 15 Assassinatos (2020)	dub=0:1266375
-15 Câmeras - (2023)	dub=0:1249989	leg=0:1249598
-15 Minutes of Shame - (2021)	leg=0:1034005
-15 Minutos - (2001)	dub=0:1052243	leg=0:1036491
-15 Minutos de Guerra - (2019)	dub=0:1066739
+15 Câmeras	dub=2:901202
+15 Câmeras (2023)	dub=0:1249989	leg=0:1249598
+15 Minutes of Shame (2021)	leg=0:1034005
+15 Minutos	dub=2:649111
+15 Minutos (2001)	dub=0:1052243	leg=0:1036491
+15 Minutos de Guerra	dub=2:649668
+15 Minutos de Guerra (2019)	dub=0:1066739
 15 Years (2019)	dub=0:1270114
+15h17 Trem para Paris	dub=2:654377
 15h17: Trem Para Paris (2018)	dub=0:1044962,0:1023166	leg=0:1271960
-16 Desejos - (2010)	dub=0:1039965
+16 Desejos	dub=2:653476
+16 Desejos (2010)	dub=0:1039965
 16 Quadras (2006)	dub=0:1269799
-17 Outra Vez - (2009)	dub=0:1039692
+17 Outra Vez	dub=2:650956,2:651984
+17 Outra Vez (2009)	dub=0:1039692
+18 Anos Depois	leg=2:670868
 18 Anos Depois (2024)	dub=0:1269131	leg=0:1026504
 18 Presentes (2020)	dub=0:1269570
-18 Presents - (2020)	leg=0:1036248
+18 Presents (2020)	leg=0:1036248
+18 Rosas	dub=2:910641,2:911520
 18 Rosas 4K (2026)	dub=0:1272161,0:1259344	leg=0:1272144
+180	dub=2:912361
 180 (2026)	dub=0:1259687	leg=0:1272238
+19 Outra Vez	dub=2:921612
 19 Outra Vez (2024)	dub=0:1273268
-1911 - A Revolução - (2011)	dub=0:1066671
-1917 - (2019)	dub=0:1065991,0:1022256	leg=0:1035157
-1918 – A Batalha de Kruty - (2018)	dub=0:1066651
+1911 - A Revolução	dub=2:653549
+1911 - A Revolução (2011)	dub=0:1066671
+1917	dub=2:649549
+1917 (2019)	dub=0:1065991,0:1022256	leg=0:1035157
+1918 – A Batalha de Kruty	dub=2:653793
+1918 – A Batalha de Kruty (2018)	dub=0:1066651
 1922	dub=0:1266095
 1962 Halloween Massacre (2023)	dub=0:1269452
+1964 - O Brasil Entre Armas e Livros	dub=2:644548
 1964: O Brasil Entre Armas e Livros (2019)	dub=0:1265144
+1968 - Um Ano Na Vida	dub=2:924503
 1975: O Ano Do Colapso (2025)	leg=0:1266325
 1976	dub=0:1270888
-1978 - (2025)	dub=0:1038068	leg=0:1037201
-1992 - (2024)	dub=0:1051693	leg=0:1034323
-1BR - (2019)	leg=0:1033862
+1978	dub=2:849254
+1978 (2025)	dub=0:1038068	leg=0:1037201
+1985" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="Filmes | Drama",Argentina, (1985)	dub=2:652603
+1992	dub=2:884658
+1992 (2024)	dub=0:1051693	leg=0:1034323
+1BR (2019)	leg=0:1033862
 1BR O Apartamento (2019)	dub=0:1270658
-2 - Harry Potter E A Camera Secreta 4K - (2002)	dub=0:1022645
-2 Coelhos - (2012)	dub=0:1052780
-2 Corações - (2020)	dub=0:1063313,0:1023039
-2 Dias em Nova York - (2012)	dub=0:1065419
-2 Filhos de Francisco - (2005)	dub=0:1072378
-2 Mais 2 - (2012)	dub=0:1055074
-2 Minutos de Fama - (2020)	dub=0:1054524
-2 Posuidos - (2009)	dub=0:1058776
-20 Anos Mais Jovem - (2013)	dub=0:1054672
-20 Dias em Mauripol - (2023)	dub=0:1066403	leg=0:1024411
+2 - Harry Potter E A Camera Secreta 4K (2002)	dub=0:1022645
+2 Coelhos	dub=2:648562
+2 Coelhos (2012)	dub=0:1052780
+2 Corações	dub=2:645662
+2 Corações (2020)	dub=0:1063313,0:1023039
+2 Dias em Nova York	dub=2:650802
+2 Dias em Nova York (2012)	dub=0:1065419
+2 Filhos de Francisco	dub=2:654376
+2 Filhos de Francisco (2005)	dub=0:1072378
+2 Mais 2	dub=2:884533
+2 Mais 2 (2012)	dub=0:1055074
+2 Minutos de Fama	dub=2:651369
+2 Minutos de Fama (2020)	dub=0:1054524
+2 Posuidos	dub=2:655212
+2 Posuidos (2009)	dub=0:1058776
+20 Anos Mais Jovem	dub=2:651983
+20 Anos Mais Jovem (2013)	dub=0:1054672
+20 Dias em Mauripol	dub=2:647796
+20 Dias em Mauripol (2023)	dub=0:1066403	leg=0:1024411
 20 Mil Especies de Abelhas (2023)	dub=0:1268604
-20,000 Espécies de Abelhas - (2023)	leg=0:1035339
-20.000 Léguas Submarinas - (1954)	dub=0:1068043
+20,000 Espécies de Abelhas (2023)	leg=0:1035339
+20.000 Léguas Submarinas	dub=2:646936
+20.000 Léguas Submarinas (1954)	dub=0:1068043
 200 Wolf (2024)	dub=0:1267465
 2000 Metros até Andriivka (2025)	leg=0:1266966
 2000 Mules (2022)	dub=0:1267494
 2001 Maníacos (2005)	dub=0:1273204
-2001: Uma Odisséia no Espaço - (1968)	dub=0:1056008
-2012 - (2009)	dub=0:1056609
-2019: O Ano da Extinção - (2010)	dub=0:1039714
-2035: Dimensão Proibida - (2013)	dub=0:1060530
-2036 Origem Desconhecida - (2018)	dub=0:1060789
-2047: Visões da Morte - (2014)	dub=0:1060590
-2067 - (2020)	dub=0:1060184	leg=0:1026456
+2001: Uma Odisséia no Espaço	dub=2:644678
+2001: Uma Odisséia no Espaço (1968)	dub=0:1056008
+2012	dub=2:650011
+2012 (2009)	dub=0:1056609
+2019: O Ano da Extinção	dub=2:646887
+2019: O Ano da Extinção (2010)	dub=0:1039714
+2035: Dimensão Proibida	dub=2:655174
+2035: Dimensão Proibida (2013)	dub=0:1060530
+2036 Origem Desconhecida	dub=2:647059
+2036 Origem Desconhecida (2018)	dub=0:1060789
+2047: Visões da Morte	dub=2:884345
+2047: Visões da Morte (2014)	dub=0:1060590
+2067	dub=2:644783
+2067 (2020)	dub=0:1060184	leg=0:1026456
 2073	leg=0:1272327
-211 - O Grande Assalto - (2018)	dub=0:1052213
-22 Balas - (2010)	dub=0:1052110
+211 - O Grande Assalto	dub=2:650010
+211 - O Grande Assalto (2018)	dub=0:1052213
+22 Balas	dub=2:650009
+22 Balas (2010)	dub=0:1052110
 22 Contra a Terra (2021)	dub=0:1271620	leg=0:1273033
-22 Milhas - (2018)	dub=0:1047522
-22 de Julho 4K - (2018)	dub=0:1249655,0:1045019
+22 De Julho	dub=2:654375
+22 Milhas	dub=2:650008
+22 Milhas (2018)	dub=0:1047522
+22 de Julho 4K (2018)	dub=0:1249655,0:1045019
 220 Volts: Especial de Fim de Ano (2020)	dub=0:1269599
 23 Walks (2020)	dub=0:1270988
+23.000 Vidas	dub=2:922254
 23.000 Vidas (2026)	dub=0:1263355
 24 Horas Para Sobreviver (2011)	dub=0:1271639
-24 Horas com Gaspar - (2023)	dub=0:1059734	leg=0:1035929
-24 Horas de Fúria - (2006)	dub=0:1051403
+24 Horas com Gaspar	dub=2:648451
+24 Horas com Gaspar (2023)	dub=0:1059734	leg=0:1035929
+24 Horas de Fúria	dub=2:770502
+24 Horas de Fúria (2006)	dub=0:1051403
 24 Horas para o Natal (2018)	dub=0:1265990
-242310 - (2002)	dub=0:1046559
+242310 (2002)	dub=0:1046559
+27 Noites	dub=2:889795
 27 Noites 4K (2025)	dub=0:1265342,0:1251122	leg=0:1251118
 28 Dias (2000)	dub=0:1265868	leg=0:1267151
 2: Possuídos (2009)	leg=0:1272690
-2:22 - Encontro Marcado - (2017)	dub=0:1060203	leg=0:1023611
-3 - Harry Potter E O Prisioneiro De Azkaban 4K - (2004)	dub=0:1021759
-3 Dias com Meu Pai - (2019)	dub=0:1053621	leg=0:1034113
-3 Dias para Matar - (2014)	dub=0:1047409
-3 Histórias de Amor - (2021)	dub=0:1064629	leg=0:1032663
+2:22 - Encontro Marcado	dub=2:884871
+2:22 - Encontro Marcado (2017)	dub=0:1060203	leg=0:1023611
+3 - Harry Potter E O Prisioneiro De Azkaban 4K (2004)	dub=0:1021759
+3 Dias com Meu Pai	dub=2:650471
+3 Dias com Meu Pai (2019)	dub=0:1053621	leg=0:1034113
+3 Dias para Matar	dub=2:648892,2:649610
+3 Dias para Matar (2014)	dub=0:1047409
+3 Genesis	dub=2:655211
+3 Histórias de Amor	dub=2:653202
+3 Histórias de Amor (2021)	dub=0:1064629	leg=0:1032663
 3 Idiotas (2009)	dub=0:1269963
-3 Ninjas Contra Atacam - (1992)	dub=0:1068788
+3 Ninjas Contra Atacam	dub=2:884569
+3 Ninjas Contra Atacam (1992)	dub=0:1068788
 3 Ninjas em Apuros (1995)	dub=0:1271479
-3 Pedidos - (2017)	dub=0:1044949
-3 Turcos e um Bebê - (2015)	dub=0:1055462
+3 Pedidos	dub=2:647592
+3 Pedidos (2017)	dub=0:1044949
+3 Turcos e um Bebê	dub=2:651268
+3 Turcos e um Bebê (2015)	dub=0:1055462
 3 Vidas (2019)	dub=0:1269614
+3 Working Days	leg=2:670282
 3 Working Days (2024)	dub=0:1267481	leg=0:1023494
-30 Anos Blues - (2019)	dub=0:1072530
+30 Anos Blues	dub=2:653243
+30 Anos Blues (2019)	dub=0:1072530
 30 Dias de Noite (2007)	dub=0:1271699
-30 Dias de Noite 1 - (2010)	dub=0:1043399
+30 Dias de Noite 1	dub=2:655601
+30 Dias de Noite 1 (2010)	dub=0:1043399
+30 Dias de Noite 2	dub=2:655600
 30 Minutos ou Menos (2011)	dub=0:1268402	leg=0:1268360
-30 Noites com a Minha Ex - (2022)	dub=0:1054052	leg=0:1026607
-300 - (2007)	dub=0:1066880
+30 Noites com a Minha Ex	dub=2:650489
+30 Noites com a Minha Ex (2022)	dub=0:1054052	leg=0:1026607
+300	dub=2:650006
+300 (2007)	dub=0:1066880
+3000 Milhas Para o Inferno	dub=2:649540
 3000 Milhas para o Inferno (2001)	dub=0:1056942	leg=0:1266555
-300: A Ascensão do Império - (2014)	dub=0:1066698
+300: A Ascensão do Império	dub=2:650007
+300: A Ascensão do Império (2014)	dub=0:1066698
 3022 (2019)	dub=0:1269446	leg=0:1034579
-303 Squadron Legendado - (2018)	dub=0:1066488
-3096 Dias de Cativeiro - (2013)	dub=0:1042105
+303 Squadron Legendado (2018)	dub=0:1066488
+3096 Dias de Cativeiro	dub=2:653275
+3096 Dias de Cativeiro (2013)	dub=0:1042105
 31 - A Morte e a Unica Saida (2016)	dub=0:1271529
+31 Minutos: Natal Escaldante	dub=2:900606
 31 Minutos: Natal Escaldante (2025)	dub=0:1265341	leg=0:1265332
+316" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/x01VoKCsBMVERVm2OrnPLlykFCx.jpg" group-title="Filmes | Drama",Paciente, 316	dub=2:652408
 33 Photos from the Ghetto (2025)	leg=0:1267271
 36 (2004)	dub=0:1268073	leg=0:1268103
-36 Horas de Guerra - (2021)	dub=0:1066266	leg=0:1249151
-365 Dias - (2020)	dub=0:1063986
-365 Dias Finais - (2022)	dub=0:1064439	leg=0:1026841
-365 Dias: Hoje - (2022)	dub=0:1040544,0:1022480	leg=0:1032605
-365 dni - (2020)	leg=0:1028393
+36 Horas de Guerra	dub=2:652688
+36 Horas de Guerra (2021)	dub=0:1066266	leg=0:1249151
+365 Dias	dub=2:645325
+365 Dias (2020)	dub=0:1063986
+365 Dias Finais	dub=2:645523
+365 Dias Finais (2022)	dub=0:1064439	leg=0:1026841
+365 Dias: Hoje	dub=2:645561
+365 Dias: Hoje (2022)	dub=0:1040544,0:1022480	leg=0:1032605
+365 dni (2020)	leg=0:1028393
 3: Gênesis (2012)	dub=0:1057735	leg=0:1272705
-4 - Harry Potter E O Calice De Fogo 4K - (2005)	dub=0:1022197
-4 Latas - (2019)	dub=0:1054822
+4 - Harry Potter E O Calice De Fogo 4K (2005)	dub=0:1022197
+4 Apocalipse	dub=2:655210
+4 Latas	dub=2:651568
+4 Latas (2019)	dub=0:1054822
 4/20 Massacre (2018)	dub=0:1270622
-40 Acres - (2025)	leg=0:1037876
+40 Acres (2025)	leg=0:1037876
+40 Dias O Milagre Da Vida	dub=2:653636
 40 Dias O Milagre Da Vida (2019)	dub=0:1267899
 40 Dias e 40 Noites (2002)	dub=0:1269512
+40 días perdidos en la selva	dub=2:914219
 40 días perdidos en la selva (2024)	dub=0:1267288	leg=0:1267309
 400 Bullets (2021)	dub=0:1265647	leg=0:1030148
-400 Contra 1: Uma História do Crime Organizado - (2010)	dub=0:1051099
+400 Contra 1: Uma História do Crime Organizado	dub=2:644408
+400 Contra 1: Uma História do Crime Organizado (2010)	dub=0:1051099
 400 Dias (2015)	dub=0:1270013
 404 สุขีนิรันดร์..Run Run (2024)	dub=0:1264972	leg=0:1264943
-42 Segundos - (2022)	dub=0:1041418	leg=0:1249506
-42: A História de uma Lenda - (2013)	dub=0:1042680
-438 Dias - (2019)	dub=0:1045437	leg=0:1026887
+42 Segundos	dub=2:652111
+42 Segundos (2022)	dub=0:1041418	leg=0:1249506
+42: A História de uma Lenda	dub=2:652514
+42: A História de uma Lenda (2013)	dub=0:1042680
+438 Dias	dub=2:652886
+438 Dias (2019)	dub=0:1045437	leg=0:1026887
 44 Minutos O Tiroteio de North Hollywood (2003)	dub=0:1271454
 45 Dias Sem Voce (2018)	dub=0:1269098
-45 do Segundo Tempo - (2022)	dub=0:1040686
+45 do Segundo Tempo	dub=2:650575
+45 do Segundo Tempo (2022)	dub=0:1040686
 465 (2017)	dub=0:1269178
-47 Meters Down Uncaged Legendado - (2019)	dub=0:1044187
-47 Ronins - (2013)	dub=0:1039178
-48 Horas - (1982)	dub=0:1051355
-48 Horas, Parte 2 - (1990)	dub=0:1051145
+47 Meters Down Uncaged Legendado (2019)	dub=0:1044187
+47 Ronins	dub=2:649260
+47 Ronins (2013)	dub=0:1039178
+48 Horas	dub=2:647497,2:649017
+48 Horas (1982)	dub=0:1051355
+48 Horas, Parte 2 (1990)	dub=0:1051145
 4: Apocalipse (2014)	dub=0:1058736	leg=0:1272689
 4:44 - O Fim do Mundo (2012)	dub=0:1266093
-4x100: Correndo por um Sonho - (2021)	dub=0:1055203
-4x4 - (2019)	dub=0:1044394
-5 - Harry Potter E A Ordem Da Fenix 4K - (2007)	dub=0:1022188
+4x100: Correndo por um Sonho	dub=2:653288
+4x100: Correndo por um Sonho (2021)	dub=0:1055203
+4x4	dub=2:647391
+4x4 (2019)	dub=0:1044394
+5 - Harry Potter E A Ordem Da Fenix 4K (2007)	dub=0:1022188
+5 Casas	dub=2:901377
 5 Casas (2020)	dub=0:1266197
 50 Aniversários: Celebremos! (2019)	dub=0:1272035
-50 First Dates Mexico - (2019)	leg=0:1026472
-50 Km Por Hora - (2024)	dub=0:1054268	leg=0:1249553
-50% - (2011)	dub=0:1054911
-500 Dias com ela - (2009)	dub=0:1064892
+50 First Dates Mexico (2019)	leg=0:1026472
+50 Km Por Hora	dub=2:650080	leg=2:670755
+50 Km Por Hora (2024)	dub=0:1054268	leg=0:1249553
+50%	dub=2:650370
+50% (2011)	dub=0:1054911
+500 Dias com ela	dub=2:651982
+500 Dias com ela (2009)	dub=0:1064892
 500 Dias de Escobar (2023)	dub=0:1270473
-5000 Cobertas - (2022)	dub=0:1041291	leg=0:1025693
+5000 Cobertas	dub=2:652428
+5000 Cobertas (2022)	dub=0:1041291	leg=0:1025693
+5028	leg=2:762456
+53 Domingos	dub=2:909062
 53 Domingos (2026)	dub=0:1258695	leg=0:1267930
-55 Passos - (2018)	dub=0:1042460
-57 Segundos - (2023)	dub=0:1060187	leg=0:1028571
+55 Passos	dub=2:653986
+55 Passos (2018)	dub=0:1042460
+57 Segundos	dub=2:644619
+57 Segundos (2023)	dub=0:1060187	leg=0:1028571
 5lbs of Pressure (2024)	dub=0:1268823
-6 - Harry Potter E O Enigma Do Principe 4K - (2009)	dub=0:1023190
+6 - Harry Potter E O Enigma Do Principe 4K (2009)	dub=0:1023190
 6 Balas (2012)	dub=0:1266860
-6 Balões - (2018)	dub=0:1041850	leg=0:1035707
+6 Balões	dub=2:652002	leg=2:670267
+6 Balões (2018)	dub=0:1041850	leg=0:1035707
 6 Dias (2017)	dub=0:1270283
-60 Minutos - (2024)	dub=0:1050990,0:1022320	leg=0:1030224
-60 Minutos para Morrer - (2017)	dub=0:1040147
-60 Segundos - (2000)	dub=0:1044862
-65: Ameaça Pré-Histórica 4K - (2023)	dub=0:1249745,0:1059542	leg=0:1032602
+60 Minutos	dub=2:648475
+60 Minutos (2024)	dub=0:1050990,0:1022320	leg=0:1030224
+60 Minutos para Morrer	dub=2:655599
+60 Minutos para Morrer (2017)	dub=0:1040147
+60 Segundos	dub=2:648733
+60 Segundos (2000)	dub=0:1044862
+65: Ameaça Pré-Histórica	dub=2:644669
+65: Ameaça Pré-Histórica 4K (2023)	dub=0:1249745,0:1059542	leg=0:1032602
+684: Unidade de Combate	dub=2:896548
 684: Unidade de Combate (2003)	dub=0:1266257	leg=0:1266281
-7 - Harry Potter e as Reliquias da Morte - Parte 1 4K - (2010)	dub=0:1023325
+7 - Harry Potter e as Reliquias da Morte - Parte 1 4K (2010)	dub=0:1023325
 7 Denuncias: As Consequencias do Caso COVID-19 (2020)	dub=0:1269946
-7 Desejos - (2017)	dub=0:1039154
-7 Dias com Você - (2021)	dub=0:1064583	leg=0:1028748
-7 Dias em Entebbe - (2018)	dub=0:1052756
-7 Dias para Vegas - (2019)	dub=0:1054087	leg=0:1034320
-7 Mulheres e Um Mistério - (2021)	dub=0:1070037	leg=0:1028591
-7 Prisioneiros - (2021)	dub=0:1050935,0:1022782
+7 Denúncias: As Consequências do Caso COVID-19	dub=2:648216
+7 Desejos	dub=2:655418
+7 Desejos (2017)	dub=0:1039154
+7 Dias com Você	dub=2:645465
+7 Dias com Você (2021)	dub=0:1064583	leg=0:1028748
+7 Dias em Entebbe	dub=2:647705
+7 Dias em Entebbe (2018)	dub=0:1052756
+7 Dias para Vegas	dub=2:650332
+7 Dias para Vegas (2019)	dub=0:1054087	leg=0:1034320
+7 Mulheres e Um Mistério	dub=2:650523
+7 Mulheres e Um Mistério (2021)	dub=0:1070037	leg=0:1028591
+7 Prisioneiros	dub=2:653080
+7 Prisioneiros (2021)	dub=0:1050935,0:1022782
+7 Segundos	dub=2:648582
 7 Segundos (2005)	dub=0:1047371	leg=0:1272875
-7 Verões - (2020)	dub=0:1248760	leg=0:1248927
+7 Verões	dub=2:889812
+7 Verões (2020)	dub=0:1248760	leg=0:1248927
 7 Years Keeping (2016)	dub=0:1292881
-70 Anos Esta Noite - (2021)	dub=0:1049018
-70 é Apenas um Número - (2021)	dub=0:1053995	leg=0:1029279
+70 Anos Esta Noite	dub=2:648115
+70 Anos Esta Noite (2021)	dub=0:1049018
+70 é Apenas um Número	dub=2:884551
+70 é Apenas um Número (2021)	dub=0:1053995	leg=0:1029279
 71 – Esquecido em Belfast (2014)	dub=0:1268255
-72 Horas - (2010)	dub=0:1052719
-72 Horas Depois - (2020)	dub=0:1070371	leg=0:1025140
+72 Horas	dub=2:654374
+72 Horas (2010)	dub=0:1052719
+72 Horas Depois	dub=2:648940
+72 Horas Depois (2020)	dub=0:1070371	leg=0:1025140
+72 Horas em Miami	dub=2:922764
 72 Horas em Miami (2026)	dub=0:1263555
-75 días - (2022)	dub=0:1045057	leg=0:1023521
-7500 - (2019)	dub=0:1043471
-7th & Union - (2021)	dub=0:1041495	leg=0:1026656
-8 - Harry Potter e as Reliquias da Morte - Parte 2 4K - (2011)	dub=0:1023185
+75 días	dub=2:884664
+75 días (2022)	dub=0:1045057	leg=0:1023521
+7500	dub=2:653759
+7500 (2019)	dub=0:1043471
+7th & Union	dub=2:652795
+7th & Union (2021)	dub=0:1041495	leg=0:1026656
+8 - Harry Potter e as Reliquias da Morte - Parte 2 4K (2011)	dub=0:1023185
 8 Décadas de Amor Legendado (2025)	dub=0:1264584
+8 Mil Metros e 7 Meses" tvg-logo="http://gstaticontent.com/images/698fd16e61a74f4d47fca9c3e7597abe.jpg" group-title="Documentarios",14 Montanhas, 8 Mil Metros e 7 Meses	dub=2:648123
+8 Mile: Rua das Ilusões	dub=2:652804
 8 Mile: Rua das Ilusões (2002)	dub=0:1071546	leg=0:1266768
-8 Mulheres e 1 Segredo - (2018)	dub=0:1046398
-8 Presidentes 1 Juramento: A História de um Tempo Presente - (2021)	dub=0:1049448
+8 Mulheres e 1 Segredo	dub=2:651981
+8 Mulheres e 1 Segredo (2018)	dub=0:1046398
+8 Presidentes 1 Juramento: A História de um Tempo Presente	dub=2:648083
+8 Presidentes 1 Juramento: A História de um Tempo Presente (2021)	dub=0:1049448
+8 Segundos	dub=2:897039
 8 Segundos (1994)	dub=0:1269813	leg=0:1266245
-8/1 – A Democracia Resiste - (2024)	dub=0:1048074	leg=0:1032926
-80 For Brady: Quatro Amigas e Uma Paixão - (2023)	dub=0:1055574,0:1022229	leg=0:1023957
+8/1 – A Democracia Resiste	dub=2:647872
+8/1 – A Democracia Resiste (2024)	dub=0:1048074	leg=0:1032926
+80 For Brady: Quatro Amigas e Uma Paixão	dub=2:650465
+80 For Brady: Quatro Amigas e Uma Paixão (2023)	dub=0:1055574,0:1022229	leg=0:1023957
 85 South Ghetto Legends (2023)	dub=0:1266627
-8mm 2: Oito Milímetros 2 - (2005)	dub=0:1070742
-8mm: Oito Milímetros - (1999)	dub=0:1070634
-9 Dias Acordado - (2020)	dub=0:1041618	leg=0:1026951
-9 Satra: A Lenda do Muay Thai - (2018)	dub=0:1039583
-9 ½ Semanas de Amor - (1986)	dub=0:1064895
-90 Minutos - (2022)	dub=0:1044042	leg=0:1034695
-90 Minutos no Paraíso - (2015)	dub=0:1042466
+8mm 2: Oito Milímetros 2	dub=2:648388
+8mm 2: Oito Milímetros 2 (2005)	dub=0:1070742
+8mm: Oito Milímetros	dub=2:647153
+8mm: Oito Milímetros (1999)	dub=0:1070634
+9 Dias Acordado	dub=2:652977
+9 Dias Acordado (2020)	dub=0:1041618	leg=0:1026951
+9 Satra: A Lenda do Muay Thai	dub=2:646798
+9 Satra: A Lenda do Muay Thai (2018)	dub=0:1039583
+9 ½ Semanas de Amor	dub=2:652787
+9 ½ Semanas de Amor (1986)	dub=0:1064895
+90 Minutos	dub=2:647329
+90 Minutos (2022)	dub=0:1044042	leg=0:1034695
+90 Minutos no Paraíso	dub=2:645858
+90 Minutos no Paraíso (2015)	dub=0:1042466
 96 Minutes (2025)	dub=0:1270765
 96 Minutos Legendado (2025)	dub=0:1256651
 99 Cancoes (2019)	dub=0:1269552
 99 Homes (2015)	dub=0:1270155
 999 (2010)	dub=0:1265633
-9: A Salvação - (2009)	dub=0:1061719	leg=0:1024610
-9mm: O Preço da Vingança - (2006)	dub=0:1047971
-9º Pelotão - (2005)	dub=0:1066866
+9: A Salvação	dub=2:762838	leg=2:762367
+9: A Salvação (2009)	dub=0:1061719	leg=0:1024610
+9mm: O Preço da Vingança	dub=2:889748
+9mm: O Preço da Vingança (2006)	dub=0:1047971
+9º Pelotão	dub=2:653548
+9º Pelotão (2005)	dub=0:1066866
 Μινόρε (2024)	dub=0:1266967	leg=0:1034828
 ஜெயிலர் (2023)	leg=0:1272008
-కింగ్డమ్‌ - (2025)	leg=0:1038535,0:1038390,0:1036853
+కింగ్డమ్‌ (2025)	leg=0:1038535,0:1036853
 పుష్పా 2 - The Rule (2024)	dub=0:1264642	leg=0:1264665
+キングダム　大将軍の帰還	dub=2:901060,2:902517,2:903364,2:913843,2:919870,2:921621,2:922248,2:924499	leg=2:670152
 宇宙大戦争 (1959)	dub=0:1266242	leg=0:1266202
