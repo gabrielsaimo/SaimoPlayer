@@ -51,8 +51,6 @@ Baby Ruby	dub=2:654663
 Baby Ruby (2023)	dub=0:1043779	leg=0:1035121
 Baby Shark - O Grande Filme	dub=2:646004
 Baby Shark - O Grande Filme (2024)	dub=0:1072160
-Baby, Corra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w5wGJiZ2CUJ5lfqBmu8gZ5Zniny.jpg" group-title="Filmes | Acao",Corra, Baby, Corra	dub=2:910039
-Baby, Corra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/w5wGJiZ2CUJ5lfqBmu8gZ5Zniny.jpg" group-title="Filmes | Lancamentos",Corra, Baby, Corra	dub=2:905574
 Babygirl	dub=2:681775
 Babygirl (2024)	dub=0:1063989	leg=0:1249309
 Babylon 5: O Caminho	dub=2:646088
@@ -102,6 +100,7 @@ Bagagem de Risco	dub=2:647110	leg=2:670323
 Bagagem de Risco 4K (2024)	dub=0:1249626,0:1043151	leg=0:1031873
 Bagman	leg=2:670508
 Bagman (2024)	leg=0:1031859
+Baila, Vini	dub=2:846485
 Baila, Vini (2025)	dub=0:1037747,0:1036780	leg=0:1037216
 Bailarina - Do Universo de John Wick	dub=2:884380
 Bailarina - Do Universo de John Wick 4K (2025)	dub=0:1249879,0:1037909	leg=0:1038387
@@ -199,6 +198,7 @@ Baramulla	dub=2:901141
 Baramulla 4K (2025)	dub=0:1265003,0:1253361	leg=0:1264895
 Barba Ensopada de Sangue	dub=2:922253
 Barba Ensopada de Sangue (2026)	dub=0:1272979
+Barba, Cabelo & Bigode	dub=2:650627
 Barba, Cabelo & Bigode (2022)	dub=0:1065783
 Barbie	dub=2:650341
 Barbie & Chelsea: O Aniversário Perdido (2021)	dub=0:1062014	leg=0:1027339
@@ -249,6 +249,7 @@ Barbie – Misterio da Sereia Magica (2019)	dub=0:1271895
 Barbie: A Magia de Aladus (2005)	dub=0:1268837
 Barbie: A Princesa e a Popstar (2012)	dub=0:1268612
 Barbie: A Sereia das Pérolas	dub=2:646297
+Barbie: Big City, Big Dreams	dub=2:884402
 Barbie: Big City, Big Dreams (2021)	dub=0:1071415	leg=0:1023784
 Barbie: Escola de Princesas (2011)	dub=0:1269780	leg=0:1272054
 Barbie: Lago dos Cisnes	dub=2:884443
@@ -259,6 +260,7 @@ Barbie: Super Princesa (2015)	dub=0:1062991
 Barbie: Um Natal Perfeito (2011)	dub=0:1270175
 Barbie: Vida de Sereia 2 (2012)	dub=0:1271375
 Barbosa (1988)	dub=0:1266986
+Bares, Bolos e Amizades	dub=2:645425
 Bares, Bolos e Amizades 4K (2023)	dub=0:1249750,0:1064445	leg=0:1023706
 Bark	dub=2:897045,2:900458
 Bark (2024)	dub=0:1268476	leg=0:1268482
@@ -367,6 +369,7 @@ Batman: O Cavaleiro das Trevas (2008)	dub=0:1046715,0:1022094	leg=0:1030045
 Batman: O Cavaleiro das Trevas Parte 1 (2012)	dub=0:1268974	leg=0:1266397
 Batman: O Cavaleiro das Trevas Ressurge	dub=2:649971
 Batman: O Cavaleiro das Trevas Ressurge (2012)	dub=0:1047393
+Batman: O Cavaleiro das Trevas, Parte 1	dub=2:902546
 Batman: O Cavaleiro de Gotham (2008)	dub=0:1265076	leg=0:1265157
 Batman: O Horror Chega a Gotham City	dub=2:646130
 Batman: O Horror Chega a Gotham City (2023)	dub=0:1061448,0:1022626	leg=0:1031947
@@ -416,7 +419,6 @@ Beavis e Butt-Head: Detonam o Universo (2022)	dub=0:1049959	leg=0:1024161
 Bebe's Kids	dub=2:646338
 Bebe's Kids (1992)	dub=0:1062334
 Bebedores de Risco (2016)	dub=0:1269689	leg=0:1264703
-Bebidas e Curtição" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vQgQjGfISQYP9MpJU0muKHXCmoS.jpg" group-title="Filmes | Comedia",Nerds, Bebidas e Curtição	dub=2:650124
 Bebê De Outubro (2011)	dub=0:1272552
 Bebê a Bordo	dub=2:650765
 Bebê a Bordo (2009)	dub=0:1065141
@@ -495,7 +497,6 @@ Belfast (2021)	dub=0:1045570	leg=0:1031448
 Believer (2017)	dub=0:1269825
 Believer 2	dub=2:644856
 Believer 2 (2023)	dub=0:1043845	leg=0:1026349
-Belinda" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" group-title="Filmes | Drama",Ah, Belinda	dub=2:652552
 Bellatrix	dub=2:849245
 Bellatrix (2019)	dub=0:1048773
 Belle	dub=2:646203,2:654031
@@ -589,14 +590,15 @@ Berenice Procura (2017)	dub=0:1266857
 Bergman Island (2021)	dub=0:1270732	leg=0:1273048
 Berlim, Berlim – Lolle e suas opcoes (2020)	dub=0:1269283
 Bernadette A Mulher do Presidente (2023)	dub=0:1269980
-Bernadette?" tvg-logo="http://gstaticontent.com/images/nOd9MCJ3nITyiYslZ3rFEnQ9lPf_big.jpg" group-title="Filmes | Comedia",Cadê Você, Bernadette?	dub=2:651374
 Bernard e Doris - O Mordomo e a Milionária	dub=2:650880
 Bernard e Doris - O Mordomo e a Milionária (2006)	dub=0:1049617
 Bernardo e Bianca	dub=2:884421
 Bernardo e Bianca (1977)	dub=0:1062158	leg=0:1249402
 Bernardo e Bianca na Terra dos Cangurus	dub=2:884420
 Bernardo e Bianca na Terra dos Cangurus (1990)	dub=0:1067689	leg=0:1033735
+Bernie, O Golfinho 2	dub=2:650213
 Bernie, O Golfinho 2 (2019)	dub=0:1056280	leg=0:1025822
+Bernie, o Golfinho	dub=2:649634
 Bernie, o Golfinho (2018)	dub=0:1068477
 Berserk - A Era de Ouro, Ato 1: Ovo do Rei Supremo (2012)	dub=0:1271592
 Berserk - A Era de Ouro, Ato 2: A Batalha de Doldrey (2012)	dub=0:1270414
@@ -617,7 +619,6 @@ Best Player: Guerreiros Virtuais (2011)	dub=0:1050436
 Best Sellers	dub=2:650757
 Best Sellers (2021)	dub=0:1054109	leg=0:1034915
 Betao Ronca Ferro (1970)	dub=0:1271800
-Beth Cooper" tvg-logo="http://gstaticontent.com/images/pzn7Dud5qTZitgd03XUTw0YB6Lp_big.jpg" group-title="Filmes | Comedia",Eu Te Amo, Beth Cooper	dub=2:651245
 Bethany	dub=2:655395
 Bethany (2017)	dub=0:1059395
 Betibú	dub=2:648908
@@ -636,7 +637,6 @@ Beyonce Live In Atlantic City (2013)	dub=0:1270353
 Beyond the Neon (2022)	dub=0:1269397
 Bezerra de Menezes: O Diario de um Espirito (2008)	dub=0:1270530
 Bezos (2023)	leg=0:1267814
-Bezos e Branson" tvg-logo="http://gstaticontent.com/images/8cc425b06dfc61ac237f6a45f13406f6.jpg" group-title="Documentarios",Magnatas do Espaço: Musk, Bezos e Branson	dub=2:648108
 Bhola Shankar (2023)	dub=0:1265669	leg=0:1268479
 Bia	dub=2:644277,2:645774
 Bia (2018)	dub=0:1065459
@@ -653,9 +653,6 @@ Big Bad	dub=2:644631
 Big Bad (2016)	dub=0:1056715
 Big Bang	dub=2:652409
 Big Bang (2022)	dub=0:1041960
-Big Dreams" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jeggetf6lrd0dhtcbqJH75Sik4K.jpg" group-title="Filmes | Animacao",Barbie: Big City, Big Dreams	dub=2:884402
-Big Filho 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6Wqr1Jthqs801DAsNI71PnrPjdX.jpg" group-title="Filmes | Animacao",Big Pai, Big Filho 2	dub=2:646097
-Big Filho, Big Família" tvg-logo="http://gstaticontent.com/images/b9d357f2adf87850a4185f212f979206.jpg" group-title="Filmes | Animacao",Big Pai, Big Filho, Big Família	dub=2:646382
 Big Gold Brick	dub=2:650564
 Big Gold Brick (2022)	dub=0:1039456	leg=0:1026593
 Big Jato (2015)	dub=0:1270517
@@ -665,7 +662,9 @@ Big Lies In a Small Town (2022)	dub=0:1050886
 Big Love (2023)	dub=0:1271010
 Big Pai Big Filho	dub=2:646383
 Big Pai Big Filho (2017)	dub=0:1061536
+Big Pai, Big Filho 2	dub=2:646097
 Big Pai, Big Filho 2 (2020)	leg=0:1026949
+Big Pai, Big Filho, Big Família	dub=2:646382
 Big Pai, Big Filho, Big Família (2020)	dub=0:1063237
 Big Stan: Arrebentando na Prisão	dub=2:651023,2:651367
 Big Stan: Arrebentando na Prisão (2007)	dub=0:1051400
@@ -709,7 +708,6 @@ Billy e Molly: Uma História de Amor Diferente (2024)	dub=0:1048747	leg=0:102912
 Bingo Esperto pra Cachorro (1991)	dub=0:1270107
 Bingo: O Rei das Manhãs	dub=2:650806,2:670134
 Bingo: O Rei das Manhãs (2017)	dub=0:1055355
-Bio-Broly" tvg-logo="http://gstaticontent.com/images/32e9deb4db7c2755a5b34b7f20ccc96f.jpg" group-title="Filmes | Animacao",Dragon Ball Z: O Combate Final, Bio-Broly	dub=2:646265
 Biocêntricos	dub=2:900409
 Biocêntricos (2023)	dub=0:1266350
 Bionicle A Lenda Renasce (2009)	dub=0:1270287
@@ -870,14 +868,19 @@ Boa A Cobra Assassina (2006)	dub=0:1266628
 Boa Menina (2024)	dub=0:1269289
 Boa Noite	dub=2:644319
 Boa Noite (2019)	dub=0:1049382
+Boa Noite, Mamãe!	dub=2:654898
 Boa Noite, Mamãe! (2022)	dub=0:1069424,0:1000525	leg=0:1026935
 Boa Sorte	dub=2:644382
 Boa Sorte (2014)	dub=0:1042582
+Boa Sorte, Divirta-se, Não Morra	dub=2:919178
 Boa Sorte, Divirta-se, Não Morra (2026)	dub=0:1261944
+Boa Sorte, Leo Grande	dub=2:650414
 Boa Sorte, Leo Grande (2022)	dub=0:1064757	leg=0:1025997
 Boa Viagem	dub=2:652846
 Boa Viagem 4K (2022)	dub=0:1249613,0:1040862
+Boa Viagem, Charlie Brown	dub=2:897010
 Boa Viagem, Charlie Brown (1980)	dub=0:1264718
+Boa noite, Oppy	dub=2:648038
 Boa noite, Oppy (2022)	dub=0:1049337
 Boa vs. Python: As Predadoras	dub=2:762827
 Boa vs. Python: As Predadoras (2004)	dub=0:1059754
@@ -936,7 +939,6 @@ Boliche do Terror	dub=2:736046	leg=2:762700
 Boliche do Terror (2024)	dub=0:1058371	leg=0:1028985
 Bolo de Limão com Sementes de Papoula	dub=2:652202
 Bolo de Limão com Sementes de Papoula (2021)	dub=0:1040574	leg=0:1025845
-Bolos e Amizades" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/98trDKdoX997KOF4i3xJL6vuXKl.jpg" group-title="Filmes | Romance",Bares, Bolos e Amizades	dub=2:645425
 Bolt: Supercão	dub=2:645988
 Bolt: Supercão (2008)	dub=0:1061649
 Bom Caminho (2025)	leg=0:1267301
@@ -945,6 +947,7 @@ Bom Comportamento (2017)	dub=0:1052731
 Bom Demais Pra Ser Verdade (2010)	dub=0:1248845
 Bom Dia Sem Companhia	dub=2:901449
 Bom Dia Sem Companhia (2023)	dub=0:1250063
+Bom Dia, Natal!	dub=2:645065
 Bom Dia, Natal! (2020)	dub=0:1050044	leg=0:1028514
 Bom Dia, Vietnã (1987)	dub=0:1266746	leg=0:1266750
 Bom Garoto	dub=2:654406,2:654670	leg=2:670364
@@ -974,6 +977,7 @@ Bonequinha de Luxo (1961)	dub=0:1065747
 Bonequinha de Seda (1936)	dub=0:1272771
 Bones e os Anjos das Trevas (2001)	dub=0:1269968
 Boneyard (2024)	dub=0:1269102
+Bonga, o Vagabundo	dub=2:644492
 Bonga, o Vagabundo (1969)	dub=0:1067120
 Bonita Como Nunca	dub=2:645654
 Bonita Como Nunca (1942)	dub=0:1064999
@@ -1009,8 +1013,6 @@ Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à Amér
 Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América (2006)	dub=0:1055585
 Borat: Fita de Cinema Seguinte	dub=2:651303
 Borat: Fita de Cinema Seguinte (2020)	dub=0:1054961
-Borboleta" tvg-logo="http://gstaticontent.com/images/deebcc6e8f672566ce61b901fa749a1c.jpg" group-title="Filmes | Acao",Adeus, Borboleta	dub=2:648811
-Borboleta" tvg-logo="http://gstaticontent.com/images/deebcc6e8f672566ce61b901fa749a1c.jpg" group-title="Filmes | Suspense",Adeus, Borboleta	dub=2:647396
 Borbulhas de Amor	dub=2:900621,2:901332
 Borbulhas de Amor (2025)	dub=0:1253838	leg=0:1265265
 Borderlands: O Destino do Universo Está em Jogo	dub=2:648335	leg=2:670770
@@ -1070,8 +1072,8 @@ Branca de Neve e Os Tres Patetas (1961)	dub=0:1269984
 Branca de Neve e o Cacador	dub=2:647088
 Branca de Neve e o Cacador (2012)	dub=0:1039830
 Branca de Neve e os Sete Anões (1938)	dub=0:1248873
+Branco Sai, Preto Fica	dub=2:648147
 Branco Sai, Preto Fica (2014)	dub=0:1049326
-Branco e Sangue Azul" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4f19r2t4gjbgMC6RbE8GYF2h46j.jpg" group-title="Filmes | Comedia",Vermelho, Branco e Sangue Azul	dub=2:650373
 Brasil (1981)	dub=0:1272263
 Brasil 2002: Os Bastidores do Penta	dub=2:648056
 Brasil 2002: Os Bastidores do Penta (2022)	dub=0:1048108
@@ -1195,7 +1197,6 @@ Breakup Season (2024)	dub=0:1266877	leg=0:1036002
 Breath (2022)	dub=0:1268641
 Breed Of Greed Legendado (2025)	dub=0:1255568
 Breeder (2020)	dub=0:1268565	leg=0:1034943
-Bressan" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yNjbGf2gC50R6SpoI1Q1EP6gZ0O.jpg" group-title="Filmes | Lancamentos",Eu te amo, Bressan	dub=2:909087
 Breve Miragem de Sol (2020)	dub=0:1271011
 Brexit	dub=2:653923
 Brexit (2019)	dub=0:1267751
@@ -1303,6 +1304,7 @@ Buffalo Kids (2024)	leg=0:1249069
 Buffalo Soldiers: O Exército Negro	dub=2:647830
 Buffalo Soldiers: O Exército Negro (2022)	dub=0:1045722
 Buffaloed (2020)	leg=0:1034706
+Buffy, a Caça Vampiros	dub=2:655077
 Buffy, a Caça Vampiros (1992)	dub=0:1046258
 Bug Diner (2024)	dub=0:1269864	leg=0:1033677
 BugiGangue no Espaco (2017)	dub=0:1265933

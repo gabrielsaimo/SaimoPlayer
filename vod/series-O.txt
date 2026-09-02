@@ -225,11 +225,6 @@ O Dilema de Suzie	2020	1	11
 O Dilema de Suzie		1	11
 O Diretor Nu	2019	1	8
 O Diretor Nu		1	8
-O Documentário S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qipTK01uopUMKmgNRKLdf9b6E7b.jpg" group-title="Series | Globoplay",Xuxa, O Documentário		1	1
-O Documentário S01 E02" tvg-logo="http://image.tmdb.org/t/p/w1280/xcqlSY8hqOKek3SiT5SGqyQgPIT.jpg" group-title="Series | Globoplay",Xuxa, O Documentário		1	1
-O Documentário S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Series | Globoplay",Xuxa, O Documentário		1	1
-O Documentário S01 E04" tvg-logo="http://image.tmdb.org/t/p/w1280/3CZPDVKy46NboBuiOdyoVj7eTqr.jpg" group-title="Series | Globoplay",Xuxa, O Documentário		1	1
-O Documentário S01 E05" tvg-logo="http://image.tmdb.org/t/p/w1280/7D4mlGz3FWjKIOltbuNdqnPTY9a.jpg" group-title="Series | Globoplay",Xuxa, O Documentário		1	1
 O Domo de Vidro	2025	1	6
 O Domo de Vidro		1	6
 O Dono de Kingstown	2021	1	40
@@ -238,11 +233,11 @@ O Dono do Lar	2019	1	140
 O Dono do Lar		1	140
 O Dono do Mundo	1991	1	197
 O Dono do Mundo		1	197
-O Doutrinador A Série	2019	2	7
-O Doutrinador A Série		2	7
-O Eleito	2023	2	6
-O Eleito		2	6
-O Encontro com Dragao	2021	2	36
+O Doutrinador A Série	2019	1	7
+O Doutrinador A Série		1	7
+O Eleito	2023	1	6
+O Eleito		1	6
+O Encontro com Dragao	2021	1	36
 O Encontro com Dragao		2	36
 O Ensaio	2022	2	11
 O Ensaio		2	11
@@ -304,6 +299,7 @@ O Futuro de Bill Gates		2	5
 O Gabinete de Curiosidades de Guillermo Del Toro	2022	2	8
 O Gabinete de Curiosidades de Guillermo Del Toro		2	8
 O Galã: A TV Mudou, Ele Não	2022	2	12
+O Galã: A TV Mudou, Ele Não		2	12
 O Gambito da Rainha	2020	2	7
 O Gambito da Rainha		2	7
 O Garoto de Cada Dia		2	7
@@ -358,10 +354,10 @@ O Imperador de Ocean Park	2024	2	10
 O Imperador de Ocean Park		2	10
 O Imperio Elegante	2023	2	105
 O Imperio Elegante		2	105
-O Impostor		3	8
-O Império dos Chimpanzés	2023	3	4
-O Império dos Chimpanzés		3	4
-O Incidente de Darwin		3	13
+O Impostor		2	8
+O Império dos Chimpanzés	2023	2	4
+O Império dos Chimpanzés		2	4
+O Incidente de Darwin		2	13
 O Incrivel Circo Digital	2023	3	9
 O Incrivel Circo Digital		3	9
 O Incrível Hulk	1977	3	82
@@ -430,6 +426,7 @@ O Lado Sombrio da TV Infantil		3	5
 O Lado Sombrio de Hollywood	2025	3	8
 O Lado Sombrio de Hollywood		3	8
 O Ladrão, Sua Esposa e a Canoa	2022	3	4
+O Ladrão, Sua Esposa e a Canoa		3	4
 O Lago	2022	3	16
 O Lago		3	16
 O Legado Dos Anos 90		3	2
@@ -478,9 +475,9 @@ O Mentalista		3	302
 O Meu Pai é um Caçador de Recompensas!	2023	3	18
 O Meu Pai é um Caçador de Recompensas!		3	18
 O Misteio da Rota 20		3	3
-O Misterio da Fazenda Blind Frog	2021	4	28
-O Misterio da Fazenda Blind Frog		4	28
-O Misterio da Rota 20		4	3
+O Misterio da Fazenda Blind Frog	2021	3	28
+O Misterio da Fazenda Blind Frog		3	28
+O Misterio da Rota 20		3	3
 O Misterio de Midwich	2022	4	7
 O Misterio de Midwich		4	7
 O Misterioso Caso do Homem sem Coracao	2022	4	2
@@ -598,9 +595,9 @@ O Poder e a Lei		4	40
 O Poltergeist de Enfield	2023	4	4
 O Poltergeist de Enfield		4	4
 O Polígamo		4	22
-O Portal do Ollie	2020	5	26
-O Portal do Ollie		5	26
-O Prazer e Meu		5	4
+O Portal do Ollie	2020	4	26
+O Portal do Ollie		4	26
+O Prazer e Meu		4	4
 O Preco do Silencio	2023	5	1
 O Preco do Silencio		5	1
 O Predador de Sevilha		5	3
@@ -718,9 +715,9 @@ O Sabotador		5	20
 O Sacerdote Impetuoso	2019	5	40
 O Sacerdote Impetuoso		5	40
 O Salvador da Pátria	1989	5	184
-O Salvador da Pátria		6	178
-O Sangue de Zeus	2020	6	24
-O Sangue de Zeus		6	24
+O Salvador da Pátria		5	178
+O Sangue de Zeus	2020	5	24
+O Sangue de Zeus		5	24
 O Segredo Bem Guardado	2019	6	8
 O Segredo Bem Guardado		6	8
 O Segredo da Família Greco	2022	6	9
@@ -806,22 +803,6 @@ O Tempo e o Vento	1985	6	26
 O Tempo e o Vento		6	26
 O Terremoto do Everest	2022	6	3
 O Terremoto do Everest		6	3
-O Terráqueo S01 E01" tvg-logo="http://gstaticontent.com/images/1f153f20802381e3e5087938c3c11a24.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E02" tvg-logo="http://gstaticontent.com/images/db9722e94aa4b898368c63741927513e.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E03" tvg-logo="http://gstaticontent.com/images/2110876f625f8a6791addab6a2f5c2dc.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E04" tvg-logo="http://gstaticontent.com/images/671aba2d2d023cfc24d21de5b6dbe27c.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E05" tvg-logo="http://gstaticontent.com/images/af501c463a0fb16c59a5435a849e081f.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E06" tvg-logo="http://gstaticontent.com/images/bd4eb1f53a65e18bbd8fdf30af6a31d4.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E07" tvg-logo="http://gstaticontent.com/images/2c7ad4bde5b226da507ac3c49d13c02e.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E08" tvg-logo="http://gstaticontent.com/images/b44642fc4f59f6f963c6210478e48bec.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E09" tvg-logo="http://gstaticontent.com/images/5ddb4abd64394b2bc12317ff75ea2bed.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E10" tvg-logo="http://gstaticontent.com/images/def9bcc306c256e857fb21162cdc2f2e.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E11" tvg-logo="http://gstaticontent.com/images/66db344940cbdaf51719448861d5df79.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E12" tvg-logo="http://gstaticontent.com/images/b39da40ddfedc05e9d769332abde8be6.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E13" tvg-logo="http://gstaticontent.com/images/6e7f6b5e74e9bb265266a3858dca5f2f.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E14" tvg-logo="http://gstaticontent.com/images/5623f89fe271c15be9bf504adec3c04e.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E15" tvg-logo="http://gstaticontent.com/images/6c4b1eb2c152d858c3691af2713ab8d2.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
-O Terráqueo S01 E16" tvg-logo="http://gstaticontent.com/images/8e570a9c4d315a586361e42071d0d9fa.jpg" group-title="Series | Outras Produtoras",Elliott, O Terráqueo		6	1
 O Testamento O Segredo de Anita Harley		6	5
 O Tio de Outro Mundo	2022	6	13
 O Tio de Outro Mundo		6	13
@@ -838,25 +819,25 @@ O Ultimato: Ou Casa ou Vaza		6	39
 O Ultimato: Ou Casa ou Vaza	2022	6	30
 O Ultimato: Queer Love	2023	6	20
 O Ultimato: Queer Love		6	20
-O Ultimo Ano de Hitler	2015	7	2
-O Ultimo Ano de Hitler		7	2
-O Ultimo Dragão	2019	7	82
-O Ultimo Dragão		7	82
-O Ultimo Guardiao	2018	7	25
-O Ultimo Guardiao		7	25
-O Ultimo Imortal	2023	7	40
-O Ultimo Imortal		7	40
-O Ultimo Verao	2021	7	93
-O Ultimo Verao		7	93
-O Universo	2007	7	86
-O Universo		7	86
-O Universo Misterios Revelados		7	4
-O Urso	2022	7	74
-O Urso		7	74
-O Valor Absoluto do Amor		7	16
-O Vazio	2018	7	20
-O Vazio		7	20
-O Velho Oeste com Kevin Costner	2025	7	8
+O Ultimo Ano de Hitler	2015	6	2
+O Ultimo Ano de Hitler		6	2
+O Ultimo Dragão	2019	6	82
+O Ultimo Dragão		6	82
+O Ultimo Guardiao	2018	6	25
+O Ultimo Guardiao		6	25
+O Ultimo Imortal	2023	6	40
+O Ultimo Imortal		6	40
+O Ultimo Verao	2021	6	93
+O Ultimo Verao		6	93
+O Universo	2007	6	86
+O Universo		6	86
+O Universo Misterios Revelados		6	4
+O Urso	2022	6	74
+O Urso		6	74
+O Valor Absoluto do Amor		6	16
+O Vazio	2018	6	20
+O Vazio		6	20
+O Velho Oeste com Kevin Costner	2025	6	8
 O Velho Oeste com Kevin Costner		7	8
 O Verao em que Hikaru Morreu		7	24
 O Verao em que Hikaru Morreu	2025	7	12
@@ -949,6 +930,7 @@ Oficina TexMex		7	10
 Oficina de Superclassicos	2017	7	18
 Oficina de Superclassicos		7	18
 Oggy e as Baratas Tontas: E Piya!		7	13
+Oh Boy, Was I Wrong About Her		7	6
 Oh Hell	2022	7	16
 Oh Hell		7	16
 Oh My Assistant	2022	7	8
@@ -958,24 +940,24 @@ Oh My Baby		7	16
 Oh My God...Yes Uma Serie de Momentos que Fazem Todo Sentido	2025	7	7
 Oh My God...Yes Uma Serie de Momentos que Fazem Todo Sentido		7	7
 Oh Suddenly Egyptian God		7	20
-Oh The Mysterious	2017	8	40
-Oh The Mysterious		8	40
-Oi Linda Anatomia de um Golpe Romantico	2025	8	3
-Oi Linda Anatomia de um Golpe Romantico		8	3
-Oi Ninja	2019	8	20
-Oi Ninja		8	20
-Oi Tonbo	2024	8	26
-Oi Tonbo		8	26
-Ok KO Vamos Ser Herois		8	50
-Oklahoma City Bombing One Day in America	2025	8	3
-Oklahoma City Bombing One Day in America		8	3
-Oktoberfest: Sangue e Cerveja	2020	8	6
-Oktoberfest: Sangue e Cerveja		8	6
-Okura Casos Esquecidos	2024	8	10
-Okura Casos Esquecidos		8	10
-Ola Bachhon		8	5
-Ola Meus 20 Anos		8	26
-Old Fashion Cupcake	2022	8	5
+Oh The Mysterious	2017	7	40
+Oh The Mysterious		7	40
+Oi Linda Anatomia de um Golpe Romantico	2025	7	3
+Oi Linda Anatomia de um Golpe Romantico		7	3
+Oi Ninja	2019	7	20
+Oi Ninja		7	20
+Oi Tonbo	2024	7	26
+Oi Tonbo		7	26
+Ok KO Vamos Ser Herois		7	50
+Oklahoma City Bombing One Day in America	2025	7	3
+Oklahoma City Bombing One Day in America		7	3
+Oktoberfest: Sangue e Cerveja	2020	7	6
+Oktoberfest: Sangue e Cerveja		7	6
+Okura Casos Esquecidos	2024	7	10
+Okura Casos Esquecidos		7	10
+Ola Bachhon		7	5
+Ola Meus 20 Anos		7	26
+Old Fashion Cupcake	2022	7	5
 Old Fashion Cupcake		8	5
 Olhar Indiscreto	2023	8	10
 Olhar Indiscreto		8	10
@@ -990,13 +972,17 @@ Olhos de Wakanda		8	4
 Olhos que Condenam	2019	8	4
 Olhos que Condenam		8	4
 Ollie, o Coelhinho Perdido	2022	8	4
+Ollie, o Coelhinho Perdido		8	4
 Ololade	2023	8	6
 Ololade		8	6
 Olympo	2025	8	8
 Olympo		8	8
 Olá, Amanhã!	2023	8	10
+Olá, Amanhã!		8	10
 Olá, Jack! – Um programa sobre gentileza	2021	8	16
+Olá, Jack! – Um programa sobre gentileza		8	16
 Olá, Papai	2012	8	100
+Olá, Papai		8	100
 Olá? Sou Eu!	2021	8	16
 Olá? Sou Eu!		8	16
 On My Block	2018	8	38
@@ -1078,20 +1064,20 @@ Operacao Transplante		8	8
 Operacao Tyrant	2024	8	4
 Operacao Tyrant		8	4
 Operation Sabre	2024	8	7
-Operation Sabre		9	7
-Operação Berlim	2016	9	29
-Operação Berlim		9	29
-Operação Ecstasy	2019	9	28
-Operação Ecstasy		9	28
-Operação Fronteira: América do Sul	2020	9	20
-Operação Fronteira: América do Sul		9	20
-Operação Fronteira: Brasil	2022	9	97
-Operação Fronteira: Brasil		9	97
-Operação Guerra Verde		9	10
-Operação Maré Negra	2022	9	9
-Operação Maré Negra		9	9
-Operação Maré Negra: A Travessia Suicida	2022	9	4
-Operação Maré Negra: A Travessia Suicida		9	4
+Operation Sabre		8	7
+Operação Berlim	2016	8	29
+Operação Berlim		8	29
+Operação Ecstasy	2019	8	28
+Operação Ecstasy		8	28
+Operação Fronteira: América do Sul	2020	8	20
+Operação Fronteira: América do Sul		8	20
+Operação Fronteira: Brasil	2022	8	97
+Operação Fronteira: Brasil		8	97
+Operação Guerra Verde		8	10
+Operação Maré Negra	2022	8	9
+Operação Maré Negra		8	9
+Operação Maré Negra: A Travessia Suicida	2022	8	4
+Operação Maré Negra: A Travessia Suicida		8	4
 Operação Naufrágios	2021	9	10
 Operação Naufrágios		9	10
 Operação Pacífico	2020	9	60
@@ -1198,20 +1184,20 @@ Os Casos do Inspetor Vrenko		9	6
 Os Cavaleiros de Castelcorvo	2020	9	15
 Os Cavaleiros de Castelcorvo		9	15
 Os Cavaleiros do Zodiaco Alma de Ouro	2015	9	13
-Os Cavaleiros do Zodiaco Alma de Ouro		10	13
-Os Cavaleiros do Zodiaco Saint Seiya	2019	10	30
-Os Cavaleiros do Zodiaco Saint Seiya		10	30
-Os Cavaleiros do Zodíaco - Saga do Santuário	1994	10	114
-Os Cavaleiros do Zodíaco - Saga do Santuário		10	114
-Os Cavaleiros do Zodíaco: A Saga de Hades	2002	10	13
-Os Cavaleiros do Zodíaco: A Saga de Hades		10	13
-Os Cavaleiros do Zodíaco: The Lost Canvas	2009	10	26
-Os Cavaleiros do Zodíaco: The Lost Canvas		10	26
-Os Cavaleiros do Zodíaco: Ômega	2012	10	97
-Os Cavaleiros do Zodíaco: Ômega		10	97
-Os Celtas A Historia Nao Contada		10	3
-Os Choroes		10	5
-Os Contatinhos de Lauren	2021	10	8
+Os Cavaleiros do Zodiaco Alma de Ouro		9	13
+Os Cavaleiros do Zodiaco Saint Seiya	2019	9	30
+Os Cavaleiros do Zodiaco Saint Seiya		9	30
+Os Cavaleiros do Zodíaco - Saga do Santuário	1994	9	114
+Os Cavaleiros do Zodíaco - Saga do Santuário		9	114
+Os Cavaleiros do Zodíaco: A Saga de Hades	2002	9	13
+Os Cavaleiros do Zodíaco: A Saga de Hades		9	13
+Os Cavaleiros do Zodíaco: The Lost Canvas	2009	9	26
+Os Cavaleiros do Zodíaco: The Lost Canvas		9	26
+Os Cavaleiros do Zodíaco: Ômega	2012	9	97
+Os Cavaleiros do Zodíaco: Ômega		9	97
+Os Celtas A Historia Nao Contada		9	3
+Os Choroes		9	5
+Os Contatinhos de Lauren	2021	9	8
 Os Contatinhos de Lauren		10	8
 Os Corretores de Beverly Hills	2022	10	8
 Os Corretores de Beverly Hills		10	8
@@ -1318,20 +1304,20 @@ Os Mistérios de Frajola e Piu-Piu	1995	10	55
 Os Mistérios de Frajola e Piu-Piu		10	55
 Os Mistérios de Rock Island	2022	10	10
 Os Mistérios de Rock Island		10	10
-Os Mutantes Caminhos do Coracao	2008	11	243
-Os Mutantes Caminhos do Coracao		11	243
-Os Mãos de Vaca	2021	11	6
-Os Mãos de Vaca		11	6
-Os Normais	2001	11	71
-Os Normais		11	71
-Os Novos Filmes do Scooby-Doo	1972	11	24
-Os Novos Filmes do Scooby-Doo		11	24
-Os Originais	2013	11	92
-Os Originais		11	183
-Os Osbournes Investigacao Paranormal		11	28
-Os Outros		11	36
-Os Pacientes do Dr. García	2023	11	10
-Os Pacientes do Dr. García		11	10
+Os Mutantes Caminhos do Coracao	2008	10	243
+Os Mutantes Caminhos do Coracao		10	243
+Os Mãos de Vaca	2021	10	6
+Os Mãos de Vaca		10	6
+Os Normais	2001	10	71
+Os Normais		10	71
+Os Novos Filmes do Scooby-Doo	1972	10	24
+Os Novos Filmes do Scooby-Doo		10	24
+Os Originais	2013	10	92
+Os Originais		10	183
+Os Osbournes Investigacao Paranormal		10	28
+Os Outros		10	36
+Os Pacientes do Dr. García	2023	10	10
+Os Pacientes do Dr. García		10	10
 Os Padrinhos Magicos	2001	11	185
 Os Padrinhos Magicos Um Novo Desejo	2024	11	10
 Os Padrinhos Magicos Um Novo Desejo		11	10
@@ -1438,20 +1424,20 @@ Ossans Love	2018	11	7
 Ossans Love		11	8
 Ossans Love In the Sky	2019	11	8
 Ossans Love In the Sky		11	8
-Ossans Love Returns	2024	12	9
-Ossans Love Returns		12	9
-Ossan’s Love	2025	12	1
-Oswaldo	2017	12	52
-Oswaldo		12	52
-Otome Yokai Zakuro	2010	12	13
-Otome Yokai Zakuro		12	13
-Ou Tudo ou Nada de Novo	2023	12	8
-Ou Tudo ou Nada de Novo		12	8
-Our Dating Sim	2023	12	8
-Our Dating Sim		12	8
-Our Dating Story The Experienced You and The Inexperienced Me	2023	12	12
-Our Dating Story The Experienced You and The Inexperienced Me		12	12
-Our Fake Marriage	2023	12	11
+Ossans Love Returns	2024	11	9
+Ossans Love Returns		11	9
+Ossan’s Love	2025	11	1
+Oswaldo	2017	11	52
+Oswaldo		11	52
+Otome Yokai Zakuro	2010	11	13
+Otome Yokai Zakuro		11	13
+Ou Tudo ou Nada de Novo	2023	11	8
+Ou Tudo ou Nada de Novo		11	8
+Our Dating Sim	2023	11	8
+Our Dating Sim		11	8
+Our Dating Story The Experienced You and The Inexperienced Me	2023	11	12
+Our Dating Story The Experienced You and The Inexperienced Me		11	12
+Our Fake Marriage	2023	11	11
 Our Fake Marriage		12	11
 Our Kind of People	2021	12	12
 Our Kind of People		12	12
@@ -1494,314 +1480,11 @@ Oz	2001	12	56
 Oz		12	56
 Ozark	2017	12	44
 Ozark		12	44
-o Assassino do Zodíaco S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uBfm0zJWAZBLWiAesZaJX34ZAkg.jpg" group-title="Series | Apple TV Plus",Meu pai, o Assassino do Zodíaco		12	1
-o Assassino do Zodíaco S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bdbem8k8yGkzzcp7q2u2oqDuTvi.jpg" group-title="Series | Apple TV Plus",Meu pai, o Assassino do Zodíaco		12	1
-o Assassino do Zodíaco S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iw0YZebBa4rKNooE59IOxTWRFtQ.jpg" group-title="Series | Apple TV Plus",Meu pai, o Assassino do Zodíaco		12	1
-o Assassino do Zodíaco S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMRhGPze1CaakQ5OI7cHlCD7X5b.jpg" group-title="Series | Apple TV Plus",Meu pai, o Assassino do Zodíaco		12	1
-o Carneiro S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m7KY4Ku9e6qlYBmkQvxjr4cYiaF.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cTqS4wBBhHSnJ8uUvrwc5VXYHCj.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3LmpY2SaeSh2Rhs745L9PdZXMlt.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5ucdAkaYYbyypGVG8xWxGT0XgmP.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qaEjuKu5gXaCgaKV6mF8QMl1TWl.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sorEnRYTLQ19DMumDUPKJfZduJu.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUozpbel62pB3SOx4N1ONLwKE1s.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xp91UPwOqYbrZqRel9f8nnLLyR8.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iZaJY7Sg0gJM2gJspSlbhTvLMvO.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/978Ywo7NjNL8pCHOIUGgNNnGxHm.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2htsQuYesFWARz9UiTzzzaus1Ko.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2nXfSF3Id0B8mwH6y7vwuWauHgN.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6orV4ybREREJgekLiSSc1pPQqEK.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hIiVBDkxncBdG1etIeMGgfQRUBw.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wje6xnxojILU6ehmoATzjemCaxe.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzMUCqLILyxNug52dLhlba1Dj8o.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jsrOnluCvjw5FTNYVZeTdQirVZb.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ySB60VHsVoyoA7iw9avDUTIpLmD.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e1kQUgncp2zdtK92wDkD38RKyec.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qdM4BH5S2zP2l0h67C897drwqvS.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/88nV3eNCXRy8dbGxNnYenY3MONm.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6XGYXwAjhs3E2Mrvm0bYRenpggR.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nycp3c730k7gmaTZ7NnBKkuy0i.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpmIjBb9I316i1YMN4hAIYIeo6W.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c10iN3M2JwfADshwcafdkSok9Wx.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E26" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gCJSDE01wpgU3C0PlBEWkAAQBo1.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E27" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jzUknn1O7w8hb5U3wiavtptan3H.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E28" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AkoH9zOAKMLo5ChSMUMxBxLq2BT.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E29" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s2j9iVQc6zjvgDc4RRy4wP4vJ8y.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kGrPlpFsgpmn5j3NgjM1OZMK3jD.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E31" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aXI2nRylR2mXYOxiOZs2blR44nA.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E32" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xsPRUWfPFtnujLmEcVO7YHXmmFS.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E33" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ozseDDQgRZJA0aG7SIGNBCFdv7h.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E34" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tjznHr90s2Kh2IP4z6aov24t0rB.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E35" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gEfb8UNuboCZh8IK5q0KNgSPWvD.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E36" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4JUKkOTA2EOLgUS7l85vDeP7weM.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E37" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/upc2nHc2iSd8oSWxpOWXUnmJf9X.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E38" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8zDoNR4vhArW4H9OFWp11hvHWJx.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E39" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5TBgpVdbDkCKyMfUvD7r4AnXJfX.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S01 E40" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jgnM6kSJ3VW0PAqOA9zApZNs5eB.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fptr5foTrKy14wp7L0JHiymlOWK.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lpFpz1yuOrSPGKEuszjWLBDbapW.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dqm4pMXdfvrTZorWEEXonKxjhFY.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/csFo2aA8220U5MqrNHSrGar6uYk.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rUKNdGUaJGNczRCBJtYasPQix06.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s4ZhBzvrbOnsywtcoEvaUCsiWUT.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mRhpBrLzf4n8C0siVLKIet6APdm.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oCRvWyQZbcA4CkshtbnSvpFOweo.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6GX69mGSHkQfwthjPwAaBC4DIVA.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hE47F0oWziGL8US8dSe1cw7VPiR.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vaEcLlOtL3G8EN8QB1fawjtwP5q.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9HpZdl0r0a2pUglF7bMXUYnCfgo.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pTRT7XCrw9mXbR1bgGyNJV5YEZv.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9RIhwqqXLFgZgz3qDJGYfELqFuN.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j0yrZktoCYXv4qv5jIvjRMdSP4S.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tu94Up52tzFwm0radaLcCEBTE15.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kx6T5Rp51fTjan1GaHB031MTx4C.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iEduLnKFnd0FFEN9Iv8UCdgKMdL.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f1RGBst6pfMOOW3SXLKa1FwkNAv.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/biDUhicT3s7rDSz1cAEdvkMX9pW.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		12	1
-o Carneiro S02 E21" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dSBHwVsRNdiNPPUxRFAG2khui6S.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E22" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/50UG9VIyptbyPA0YeDkkBioX9vG.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E23" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3rW6eyNTlC2gjxr3misGihM4NkX.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E24" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6mIRZpFmlbTdGGWPhniYnfGd3zC.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E25" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yelofRcpp6lLxswPhGMXtNFC0My.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E26" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1RDAxUsoiLTdXOR9eUGp4bjcxjJ.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E27" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ83Ry0SV0ynFYIylvfoVPkkeZi.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E28" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aaBJ4JDzdjfWZBtQPzB4NXSh3Va.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E29" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuvXymVTG2lhOWMd8dA2E4NsBE3.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E30" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pAnd7EIrFNFhApvkQeONuMf8alD.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E31" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gB2zTHHAjvxqc9mfFgV6qCu6ji.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E32" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5lJbpf0SnC0GmtDTmcnNUbT7ABv.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E33" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9I1CRwP2q97ZVHVAczxMsCL5UB1.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E34" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qjMwOcuQTs47SWCL1Z5sYzVIsaU.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E35" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gzjtIervzWL6k8IZ4vU5uAFg12n.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E36" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a4wz4Jj2AnHRfoa8gdUclpgncNO.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E37" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbiJynnZT0r4RBxP2xzwwBYR54G.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E38" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qqFHrRZVicSFN3V79KzkqUXmgNm.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E39" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kmok6I5VQdkrbAHL3t9eOQHDLv8.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S02 E40" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5UR9q5gJjzSdftgJrfk1snXokG0.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o5XDyuRSjG1E53waWbZsUUvPH47.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ywlJioIZYpuD5qDHrTOXoMKJgS2.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5PjOvUNOyxIcc30pSfIPpuXQFWv.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pJWg05LmNt07RbM8x7FooNsxk9p.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qYN3ipxo9Ucv5yiRyvK375S9Fjk.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ynUJLipbZPschiNR87SOc4unHYS.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/46GgcHoEDLMCQdpT9bWiR8Zf5g1.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sd25SQQJaESTX5gcOQf3gTZWtmC.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqkcsEW8ttW7nS216Gtwnpn1rV4.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hW2YDtCipbULVW3T4h7F31qTx44.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r50LETgpqU2F5oqIKj8eku5iVKe.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xHLwBSkveo7hs9CvCZ1pHTdUlF.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1JsfDgivAMwS7LlqwVcOUIFDu1i.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A1QVd4XdollqJBpPwszP1d1DEYy.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1MsopwfzPc85ZEHamVjNb7sAKYI.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yCtdqCdjtjw9C0BVLDhis5M62hn.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/34hvDzRMgUSpA0HMVG11ueUW9Up.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7YGLGRnInhniksKCXMnV4SnbtS.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMOWgif6QeMt3KpJSc3c3T45zvw.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S03 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y6c2mU5TSDCyh4WllDNtg3ZyjxA.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4TPMzJ2cajSNWejcHdxaSl5pf7Z.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ydhWH2g5ja1rRt6XNnAfrrWgRq4.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iYs0mO4YrDUrG9t8GKvB1BkzYdU.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oDE9w4zQGz9wURW9Iw9icES3hfe.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aDgybKGUEL1BzzibG6bthOrkCFN.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mNLh6hvSYTZzB1BOmy0ren35PdH.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vp5lKOSEdffUqIKWMwQLVS9xrE4.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wHDtDxpIB1y9QhWd4yOlo2nDCYU.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lY6UpMzuu5ATS5jRm3CHC3uSxBb.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zp9LTi35z2rTCDVafghWduET1tB.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dXxpw4E8oeUPfsowjL8gGrC4y1h.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wh1zoOls4qtlVmlLWXzPSv7wjES.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQWmxi9fcOllYpSsOY6CeNyETUM.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c7VZkQggiUE4C3wNnIiEbeG6OpR.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r0XWuaz6stYoqd5Ija90X5MXJzu.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/coJh1LPeUFh8pFd1KxwQrDf426t.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sbPlBcAKuyYcv3sGr3HHStbWTkX.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S04 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/a9mqmuCDddO1Wn3SquGFSPfCAXc.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wKKIPwdUV90abhf1nxXFNXAoDns.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iEgIiTaxn87HH6DedyDENbYebZW.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xtjF1eumcIzdQUanz3wteDW1kvG.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/R1A91YpIDYX7RIrujYZYxSYAlG.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b159HD8mUIxOryoeHBCKTVFCujm.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hODOkS0ZggnKaPQ86NAlZJEhPKM.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wyIGlkLgxqssbffMhJsBLju89Bz.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xbkMIlHFDj17lUO3Nhigl9pWYDs.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcZzR3NsyPPF0SPXS2msaH10Zks.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dWasCjtAeAk8iA2rXtQg4iEP9JW.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sLqkoqYNNgPwEzJII86ahJfGv1x.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xFjjsWlmHDX4VqLTN7Qh7XyPyFH.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hjZ9je4LlQBGe3oBnEZIKzx6lMp.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ew3hUUgd45RnS8dRV8APoxyp2Tk.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UwfYl7tm9I8mSwYChs4Wkexih.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dM8TlQjGZEZ671LZETERjiAUU3W.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ5VPCRpdYQpvUJbqKKBFTz8peq.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l4H8fZ0WSQvE6FDMjJKWfGYczJx.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xb4af7CpWqjnqRB7JQcMF2mjjxP.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Carneiro S05 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/smfYKWgxt64DVwVU8SBhEplBk7B.jpg" group-title="Series | Outras Produtoras",Shaun, o Carneiro		13	1
-o Caçador de Magia S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1y8CQVXaO5FZsmig6caKqDqUcdU.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xWpngyMtcbKQ0QTqHNkooc0IQBW.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jWXCS5yVZRYe7bfadgzba21q40Z.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/318pCkVvbQfKSN7pyXrNNUkA6sv.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xigW6SGeXI5C6zWNhEbpY1haQVu.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9lnaRs7lQ44hQfJN7PQxt6TOwb.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wOxffDRI3DMemzNVbi1LhLXuVmM.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4kb047uoCKR7niojGJ7NDpMTkgf.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cjxTIsQBuy0pllZAGsSLOWMTaSP.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Caçador de Magia S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g7xLz6sNiyfJawWhcoTXmJ155Ac.jpg" group-title="Series | Netflix",Daniel, o Caçador de Magia		13	1
-o Coelhinho Perdido S01 E01" tvg-logo="http://gstaticontent.com/images/43678054900a5cb83e747de525f2b1b4.jpg" group-title="Series | Netflix",Ollie, o Coelhinho Perdido		13	1
-o Coelhinho Perdido S01 E02" tvg-logo="http://gstaticontent.com/images/765b1e7e40e76b41e16f693236c6013b.jpg" group-title="Series | Netflix",Ollie, o Coelhinho Perdido		13	1
-o Coelhinho Perdido S01 E03" tvg-logo="http://gstaticontent.com/images/78852ab84130af00ccf1d1e1b3f2c7b3.jpg" group-title="Series | Netflix",Ollie, o Coelhinho Perdido		13	1
-o Coelhinho Perdido S01 E04" tvg-logo="http://gstaticontent.com/images/e2d35e89339e4f46ae8c287786e4c5ec.jpg" group-title="Series | Netflix",Ollie, o Coelhinho Perdido		13	1
-o ETeimoso S01 E01" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E02" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E03" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E04" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E05" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E06" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E07" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E08" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E09" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E10" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E11" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E12" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E13" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E14" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E15" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E16" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E17" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E18" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E19" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E20" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E21" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E22" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E23" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E24" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E25" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S01 E26" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S02 E01" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S02 E02" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		13	1
-o ETeimoso S02 E03" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E04" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E05" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E06" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E07" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E08" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E09" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E10" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E11" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E12" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E13" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E14" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E15" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E16" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E17" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E18" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E19" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E20" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E21" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E22" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E23" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S02 E24" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E01" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E02" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E03" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E04" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E05" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E06" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E07" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E08" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E09" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E10" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E11" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E12" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E13" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E14" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E15" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E16" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E17" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E18" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E19" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E20" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E21" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E22" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E23" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E24" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E25" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S03 E26" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E01" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E02" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E03" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E04" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E05" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E06" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E07" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E08" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E09" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E10" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E11" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E12" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E13" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E14" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E15" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E16" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E17" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E18" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E19" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E20" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E21" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E22" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E23" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o ETeimoso S04 E24" tvg-logo="http://gstaticontent.com/images/shRed7ZrCRjdIMEYNx2YBVFkkNu_big.jpg" group-title="Series | Outras Produtoras",ALF, o ETeimoso		14	1
-o Fantasminha S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg" group-title="Series | Globoplay",Pluft, o Fantasminha		14	1
-o Fantasminha S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg" group-title="Series | Globoplay",Pluft, o Fantasminha		14	1
-o Fantasminha S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg" group-title="Series | Globoplay",Pluft, o Fantasminha		14	1
-o Gorila S01 E01" tvg-logo="http://gstaticontent.com/images/c68e33d65c269c3819988f1ddd1d26ea.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E02" tvg-logo="http://gstaticontent.com/images/e1adddb50c713688234e2254ef94a801.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E03" tvg-logo="http://gstaticontent.com/images/b483d4b6baeaa9560015351ccbd68565.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E04" tvg-logo="http://gstaticontent.com/images/f3d86506167f0752ab72d4e6cac7839c.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E05" tvg-logo="http://gstaticontent.com/images/83fb2c20e8f4bab0a8bd8929e72b30f8.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E06" tvg-logo="http://gstaticontent.com/images/136ea37b82046e7fba7c6fca75e82e1d.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E07" tvg-logo="http://gstaticontent.com/images/fe1a16d67f1bc20aeddfbc7fc9239b14.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E08" tvg-logo="http://gstaticontent.com/images/3625e1a11842ec2c8ca1b08fbddc89ad.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E09" tvg-logo="http://gstaticontent.com/images/16b1ce894863638911ad855fefb3fcdd.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E10" tvg-logo="http://gstaticontent.com/images/1c3c871560a6a52ca8b5ef91f080eda3.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E11" tvg-logo="http://gstaticontent.com/images/970796f0f27d6c1e794f56ba15cabe58.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E12" tvg-logo="http://gstaticontent.com/images/dcbc06749231f9fa634ba86d3e0870dd.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E13" tvg-logo="http://gstaticontent.com/images/17c1be326d3fc4ecb9e858e0e3648ae8.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E14" tvg-logo="http://gstaticontent.com/images/d2184b785d918591be2a212abed35e68.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E15" tvg-logo="http://gstaticontent.com/images/4b44e19b7084584f38b436813695dfe6.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E16" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E17" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E18" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E19" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E20" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E21" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E22" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E23" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E24" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E25" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E26" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E27" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E28" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E29" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E30" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Gorila S01 E31" tvg-logo="http://gstaticontent.com/images/7b7d378ebf64ea8cd3afeeb05663f4c9.jpg" group-title="Series | Amazon Prime Video",Maguila, o Gorila		14	1
-o Pimentinha S01 E01" tvg-logo="http://gstaticontent.com/images/c88d9c91671294c485a2cced2157fd52.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E02" tvg-logo="http://gstaticontent.com/images/5fa4f1980d39e039c3e15b8010b892e0.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E03" tvg-logo="http://gstaticontent.com/images/12eaf105bcbce03b55813d1b12cdafa7.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E04" tvg-logo="http://gstaticontent.com/images/dc39c10e8412033ef4c36fac1f31395b.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E05" tvg-logo="http://gstaticontent.com/images/9e3151680d0ce1cdaf6a5383c89608b4.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E06" tvg-logo="http://gstaticontent.com/images/300944cce6f3b80ff60d43705faafd35.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E07" tvg-logo="http://gstaticontent.com/images/cce98607404831cbc6275416b00df4ac.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E08" tvg-logo="http://gstaticontent.com/images/0ccfc4f79517388171031c9f7dc46613.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E09" tvg-logo="http://gstaticontent.com/images/e63f7c7e4bd2c48296dcc9ad75199fc4.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E10" tvg-logo="http://gstaticontent.com/images/1f9d9aa77beb45929a5b106479dd982b.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E11" tvg-logo="http://gstaticontent.com/images/fc960b6c517d51e501c8a308da648444.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E12" tvg-logo="http://gstaticontent.com/images/474490834fcceb19515ab509ec41e248.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-o Pimentinha S01 E13" tvg-logo="http://gstaticontent.com/images/ee50f14a373a3e173b2b29b237e3ec8a.jpg" group-title="Series | Outras Produtoras",Dennis, o Pimentinha		14	1
-Órfãos da Terra	2019	14	154
-Órfãos da Terra		15	154
-Óvnis: Investigação Secreta	2019	15	14
-Óvnis: Investigação Secreta		15	14
-Ônus da Prova	2023	15	21
-Ônus da Prova		15	21
-Ōoku: Por Dentro do Castelo	2023	15	10
-Ōoku: Por Dentro do Castelo		15	10
+Órfãos da Terra	2019	12	154
+Órfãos da Terra		12	154
+Óvnis: Investigação Secreta	2019	12	14
+Óvnis: Investigação Secreta		12	14
+Ônus da Prova	2023	12	21
+Ônus da Prova		12	21
+Ōoku: Por Dentro do Castelo	2023	12	10
+Ōoku: Por Dentro do Castelo		12	10

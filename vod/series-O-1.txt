@@ -2483,16 +2483,6 @@
 1	6	dub	3:103390
 1	7	dub	3:103391
 1	8	dub	3:103392
-@O Documentário S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qipTK01uopUMKmgNRKLdf9b6E7b.jpg" group-title="Series | Globoplay",Xuxa, O Documentário
-1	1	dub	3:230092
-@O Documentário S01 E02" tvg-logo="http://image.tmdb.org/t/p/w1280/xcqlSY8hqOKek3SiT5SGqyQgPIT.jpg" group-title="Series | Globoplay",Xuxa, O Documentário
-1	2	dub	3:230093
-@O Documentário S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Series | Globoplay",Xuxa, O Documentário
-1	3	dub	3:230094
-@O Documentário S01 E04" tvg-logo="http://image.tmdb.org/t/p/w1280/3CZPDVKy46NboBuiOdyoVj7eTqr.jpg" group-title="Series | Globoplay",Xuxa, O Documentário
-1	4	dub	3:230095
-@O Documentário S01 E05" tvg-logo="http://image.tmdb.org/t/p/w1280/7D4mlGz3FWjKIOltbuNdqnPTY9a.jpg" group-title="Series | Globoplay",Xuxa, O Documentário
-1	5	dub	3:230096
 @O Domo de Vidro	2025
 1	1	dub	1:1128316
 1	2	dub	1:1128317
@@ -3267,3 +3257,70 @@
 1	195	dub	3:410352
 1	196	dub	3:410353
 1	197	dub	3:410354
+@O Doutrinador A Série	2019
+1	1	dub	1:1215319
+1	2	dub	1:1215320
+1	3	dub	1:1215321
+1	4	dub	1:1215322
+1	5	dub	1:1215323
+1	6	dub	1:1215324
+1	7	dub	1:1215325
+@O Doutrinador A Série
+1	1	dub	3:107091
+1	2	dub	3:107092
+1	3	dub	3:107093
+1	4	dub	3:107094
+1	5	dub	3:107095
+1	6	dub	3:107096
+1	7	dub	3:107097
+@O Eleito	2023
+1	1	dub	1:1133747
+1	2	dub	1:1133748
+1	3	dub	1:1133749
+1	4	dub	1:1133750
+1	5	dub	1:1133751
+1	6	dub	1:1133752
+@O Eleito
+1	1	dub	3:229138
+1	2	dub	3:229139
+1	3	dub	3:229140
+1	4	dub	3:229141
+1	5	dub	3:229142
+1	6	dub	3:229143
+@O Encontro com Dragao	2021
+1	1	leg	1:1113231
+1	2	leg	1:1113232
+1	3	leg	1:1113233
+1	4	leg	1:1113234
+1	5	leg	1:1113235
+1	6	leg	1:1113236
+1	7	leg	1:1113237
+1	8	leg	1:1113238
+1	9	leg	1:1113239
+1	10	leg	1:1113240
+1	11	leg	1:1113241
+1	12	leg	1:1113242
+1	13	leg	1:1113243
+1	14	leg	1:1113244
+1	15	leg	1:1113245
+1	16	leg	1:1113246
+1	17	leg	1:1113247
+1	18	leg	1:1113248
+1	19	leg	1:1113249
+1	20	leg	1:1113250
+1	21	leg	1:1113251
+1	22	leg	1:1113252
+1	23	leg	1:1113253
+1	24	leg	1:1113254
+1	25	leg	1:1113255
+1	26	leg	1:1113256
+1	27	leg	1:1113257
+1	28	leg	1:1113258
+1	29	leg	1:1113259
+1	30	leg	1:1113260
+1	31	leg	1:1113261
+1	32	leg	1:1113262
+1	33	leg	1:1113263
+1	34	leg	1:1113264
+1	35	leg	1:1113265
+1	36	leg	1:1113266

@@ -565,7 +565,6 @@ A Dama e o Vagabundo (2019)	dub=0:1267901,0:1021858
 A Dama e o Vagabundo 2: As Aventuras de Banze (2001)	dub=0:1269221
 A Dama na Água	dub=2:646820
 A Dama na Água (2006)	dub=0:1069644
-A Dança Proibida" tvg-logo="http://gstaticontent.com/images/54clJUEUV2cKRLJP8YUfQMZvfon_big.jpg" group-title="Filmes | Romance",Lambada, A Dança Proibida	dub=2:645714
 A Dança dos Esqueletos	dub=2:762762
 A Dança dos Esqueletos (1929)	dub=0:1072205
 A Dança dos Pássaros	dub=2:652192
@@ -752,6 +751,7 @@ A Fabulosa Gilly Hopkins (2015)	dub=0:1269782
 A Face Oculta (1961)	dub=0:1270438
 A Face Oculta da Medicina	dub=2:647919
 A Face Oculta da Medicina (2020)	dub=0:1048015
+A Face Oculta de Varginha: Poder, Dinheiro e Rituais.	dub=2:907983
 A Face Oculta de Varginha: Poder, Dinheiro e Rituais. - 0 (2026)	dub=0:1266482
 A Face Oculta do Feminismo	dub=2:648084
 A Face Oculta do Feminismo (2022)	dub=0:1048346
@@ -1725,6 +1725,7 @@ A Menina que Acredita em Milagres (2021)	dub=0:1067544	leg=0:1023982
 A Menina que Roubava Livros	dub=2:770473
 A Menina que Roubava Livros (2013)	dub=0:1042444
 A Menininha (2020)	dub=0:1266030
+A Mente de Um Monstro: Robert Hansen, o Caçador	dub=2:846469
 A Mente de Um Monstro: Robert Hansen, o Caçador (2020)	dub=0:1048469	leg=0:1027819
 A Mentira	dub=2:651967
 A Mentira (2010)	dub=0:1269882	leg=0:1267666
@@ -2690,6 +2691,7 @@ A Vida em Si (2018)	dub=0:1063644
 A Vida em um Ano	dub=2:653581
 A Vida em um Ano (2020)	dub=0:1063384,0:1000516
 A Vida por Philomena Cunk (2024)	dub=0:1271802
+A Vida É Um Circo, Charlie Brown	dub=2:818316
 A Vida É Um Circo, Charlie Brown (1980)	dub=0:1049800	leg=0:1035971
 A Vida é Agora	dub=2:645556
 A Vida é Agora (2021)	dub=0:1063688,0:1054136,2:645590	leg=0:1031146
@@ -3128,13 +3130,19 @@ Adeus	dub=2:647528,2:648971,2:901057
 Adeus (1988)	dub=0:1267007
 Adeus (2019)	dub=0:1043367	leg=0:1034115
 Adeus Julia (2023)	dub=0:1268626	leg=0:1264844
-Adeus e Tudo Mais" tvg-logo="http://gstaticontent.com/images/8288f694fadd3b2ed009ec40ff704835.jpg" group-title="Filmes | Romance",Olá, Adeus e Tudo Mais	dub=2:645543
+Adeus, Borboleta	dub=2:647396,2:648811
 Adeus, Borboleta (2021)	dub=0:1043457	leg=0:1249137
+Adeus, Capitão	dub=2:647814
 Adeus, Capitão (2022)	dub=0:1049044
+Adeus, Idiotas	dub=2:650672
 Adeus, Idiotas (2020)	dub=0:1053839	leg=0:1030921
+Adeus, June	dub=2:900402,2:902614
 Adeus, June (2025)	dub=0:1266357,0:1255181	leg=0:1266589
+Adeus, Lênin!	dub=2:652829
 Adeus, Lênin! (2003)	dub=0:1053203
+Adeus, Minha Rainha	dub=2:653179
 Adeus, Minha Rainha (2012)	dub=0:1045944
+Adeus, Paris	dub=2:762861	leg=2:762449
 Adeus, Paris (2022)	dub=0:1053919	leg=0:1025799
 Adios al Amigo (2025)	dub=0:1271288
 Adivinhe Quem Vem para o Natal (2013)	dub=0:1272204	leg=0:1272190
@@ -3412,7 +3420,9 @@ Agência Secreta de Controle de Magias (2021)	dub=0:1039149
 Agência de Talentos (2006)	dub=0:1272276	leg=0:1272273
 Agência do Amor	dub=2:645384
 Agência do Amor (2024)	dub=0:1064563	leg=0:1032786
+Ah, Belinda	dub=2:652552
 Ah, Belinda (2023)	dub=0:1039343	leg=0:1033959
+Ah, a Amizade	dub=2:904320
 Ah, a Amizade… 4K (2026)	dub=0:1266791,0:1256708	leg=0:1265048
 Ai que Vida! (2008)	dub=0:1273265
 Aileen Wuornos: Mente Assassina	dub=2:654480,2:654949	leg=2:670903
@@ -3470,8 +3480,6 @@ Albatroz (2019)	dub=0:1060970
 Albert Brooks Defending My Life (2023)	dub=0:1271672	leg=0:1273141
 Albertina	dub=2:644331
 Albertina (2021)	dub=0:1042372
-Alberto" tvg-logo="http://gstaticontent.com/images/3aea2b401c6088c4903e1eba79d52691.jpg" group-title="Filmes | Comedia",Oi, Alberto	dub=2:650831
-Alberto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/njLC9j6Cfa2VuXWQGPD2tqjbzbx.jpg" group-title="Filmes | Lancamentos",Oi, Alberto	dub=2:915673
 Alcarras (2022)	dub=0:1268618
 Alcatraz: Em Busca da Verdade (2015)	dub=0:1047994
 Alcorão de Cor	dub=2:648137
@@ -3528,7 +3536,9 @@ Alexandre (2004)	dub=0:1270606
 Alexandre Astier - L'Exoconférence	dub=2:649988
 Alexandre Astier - L'Exoconférence (2015)	dub=0:1053412
 Alexandre Pires Pecado Original (2015)	dub=0:1269560
+Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa	dub=2:762853	leg=2:762412
 Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa 4K (2025)	dub=0:1038576,0:1036880	leg=0:1037057
+Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso	dub=2:670128
 Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso (2014)	dub=0:1249798
 Alexandria	dub=2:652867
 Alexandria (2009)	dub=0:1045974	leg=0:1267652
@@ -3612,7 +3622,6 @@ Alice no País das Maravilhas (1951)	dub=0:1062815	leg=0:1251026
 Alice no País das Maravilhas (2010)	dub=0:1038871
 Alice no País das Trevas	dub=2:654522
 Alice no País das Trevas (2023)	dub=0:1043874	leg=0:1023677
-Alice" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7sNADkvJd6dMkQQxM8L8IZTJzyE.jpg" group-title="Filmes | Drama",Querida, Alice	dub=2:652608
 Alice: Subservience 4K (2024)	dub=0:1022857
 Alien 1	dub=2:655574
 Alien 1 (1979)	dub=0:1060527
@@ -3772,7 +3781,6 @@ Além do Céu	dub=2:646217
 Além do Céu (2020)	dub=0:1062003	leg=0:1025686
 Além do Dever	dub=2:915636
 Além do Dever (2026)	dub=0:1260510	leg=0:1271948
-Além do Espetáculo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8EmUOxIr9p2Was31flKFIr2zGXK.jpg" group-title="Filmes | Lancamentos",Milton Gonçalves, Além do Espetáculo	dub=2:909086
 Além do Tempo	dub=2:652031	leg=2:670455
 Além do Tempo (2022)	dub=0:1041608	leg=0:1026602
 Além dos Limites da Morte	dub=2:921611
@@ -3816,6 +3824,7 @@ Amanhecer Violento (1984)	dub=0:1066704,2:648647
 Amanhecer Violento (2012)	dub=0:1268843
 Amante a Domicílio	dub=2:651516
 Amante a Domicílio (2013)	dub=0:1054501
+Amante, Stalker e Mortal	dub=2:647848
 Amante, Stalker e Mortal (2024)	dub=0:1048739,0:1021736	leg=0:1249250
 Amantes (2008)	dub=0:1272362	leg=0:1272360
 Amantes e Traições	dub=2:651435
@@ -3823,8 +3832,6 @@ Amantes e Traições (2018)	dub=0:1055368
 Amar (2017)	dub=0:1270799
 Amar Singh Chamkila (2024)	dub=0:1269566	leg=0:1249131
 Amar e Amadurecer (2023)	dub=0:1266274
-Amar e Aprender " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rY6osw0RlnuOz8TBaqKk2SiWyQg.jpg" group-title="Filmes | Legendados",Viver, Amar e Aprender	leg=2:670412
-Amar e Aprender" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/rY6osw0RlnuOz8TBaqKk2SiWyQg.jpg" group-title="Filmes | Drama",Viver, Amar e Aprender	dub=2:652028
 Amar é para Os Fortes	dub=2:645094
 Amar é para Os Fortes (2018)	dub=0:1072093
 Amarelo Manga	dub=2:653316
@@ -3958,7 +3965,6 @@ Amigos Por Acaso (2002)	dub=0:1269470
 Amigos Sem Compromisso	dub=2:644243
 Amigos Sem Compromisso (2024)	dub=0:1270221
 Amigos de Risco (2007)	dub=0:1272622
-Amigos e Festa" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pknl2AOUuKIbsnp5Swe3ZbLFhsy.jpg" group-title="Filmes | Drama",Música, Amigos e Festa	dub=2:652496
 Amigos para Sempre	dub=2:884848
 Amigos para Sempre (1995)	dub=0:1068178,2:652828
 Amigos para Sempre (2019)	dub=0:1055255,2:651630,2:653662	leg=0:1031330
@@ -3996,7 +4002,6 @@ Amizade de Férias	dub=2:650949
 Amizade de Férias (2021)	dub=0:1052971,0:1022834	leg=0:1033788
 Amizade de Férias 2	dub=2:650358
 Amizade de Férias 2 (2023)	dub=0:1055559,0:1022311	leg=0:1031213
-Amizade e Maternidade" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uWeruhxT8vKSxiOfTg9BsBLEcVy.jpg" group-title="Filmes | Comedia",Sexo, Amizade e Maternidade	dub=2:650256
 Amizades Improvaveis (2016)	dub=0:1265254
 Ammonite (2020)	leg=0:1034793
 Amnésia	dub=2:647699
@@ -4206,13 +4211,15 @@ Amor à Segunda Vista (2002)	dub=0:1063399	leg=0:1035560
 Amor à Toda Velocidade (1964)	dub=0:1269850
 Amor à Venda	dub=2:647179
 Amor à Venda (2021)	dub=0:1056515	leg=0:1028333
-Amor" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oEB8ksROkhfReVTaeXOXrlpUdTI.jpg" group-title="Filmes | Comedia",É Apenas uma Fase, Amor	dub=2:650542
-Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fROIhakCWyWX6Jb6Y4fF5fUoXM6.jpg" group-title="Filmes | Drama",Morra, Amor	dub=2:897030
-Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fROIhakCWyWX6Jb6Y4fF5fUoXM6.jpg" group-title="Filmes | Lancamentos",Morra, Amor	dub=2:900425
+Amor, Casamentos e Outros Desastres	dub=2:650914
 Amor, Casamentos e Outros Desastres (2020)	dub=0:1063716	leg=0:1031487
+Amor, Luzes, Festas!	dub=2:652575
 Amor, Luzes, Festas! (2020)	dub=0:1049576	leg=0:1024428
 Amor, Romance e Chocolate (2019)	dub=0:1269879
+Amor, Sexo & Pandemia	dub=2:652489
 Amor, Sexo & Pandemia (2022)	dub=0:1041541	leg=0:1249396
+Amor, Sexo e 30 Velinhas	dub=2:652429
+Amor, Sublime Amor	dub=2:645576,2:652864
 Amor, Sublime Amor (1961)	dub=0:1051134	leg=0:1272801
 Amor, Sublime Amor (2021)	dub=0:1051428	leg=0:1028823
 Amor.com	dub=2:645813
@@ -4324,7 +4331,6 @@ Angry Birds 2: O Filme	dub=2:646518
 Angry Birds 2: O Filme (2019)	dub=0:1267858,0:1021639
 Angus - O Comilão (1995)	dub=0:1273189
 Aniara Legendado (2019)	dub=0:1060454
-Anima, Ação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1zgwv9FgKFrBPS7nCE5TdtrW79T.jpg" group-title="Documentarios",Luz, Anima, Ação	dub=2:849243
 Animais Fantasticos Uma Historia Natural (2022)	dub=0:1266061
 Animais Fantásticos e Onde Habitam	dub=2:646746
 Animais Fantásticos e Onde Habitam (2016)	dub=0:1038819,0:1022591	leg=0:1031215
@@ -4426,6 +4432,7 @@ Anne Frank Minha Melhor Amiga (2021)	dub=0:1066390	leg=0:1024005
 Annette (2021)	dub=0:1269638	leg=0:1033429
 Ano 10 (2024)	leg=0:1266616
 Ano Hana: O Filme (2013)	dub=0:1270719
+Ano Novo, Morte Nova	dub=2:649595,2:823009
 Ano Novo, Morte Nova (2018)	dub=0:1046639	leg=0:1023922
 Ano Um	dub=2:651129
 Ano Um (2009)	dub=0:1057403
@@ -4480,6 +4487,7 @@ Anti Amor (2025)	dub=0:1272290	leg=0:1272279
 Anti-Herói Americano	dub=2:650844
 Anti-Herói Americano (2003)	dub=0:1054550
 Anticristo (2009)	dub=0:1273179
+Anticristo, O Exorcismo de Lara	dub=2:885017
 Anticristo, O Exorcismo de Lara (2023)	dub=0:1057989	leg=0:1032186
 Antigona 442 A C (2021)	dub=0:1265914
 Antoinette Dans Les Cevennes (2020)	leg=0:1027323
@@ -4503,7 +4511,6 @@ Anêmona	dub=2:910135,2:911532
 Anêmona 4K (2025)	dub=0:1272072,0:1259076	leg=0:1272034
 Aníkúlápó	dub=2:652714
 Aníkúlápó (2022)	dub=0:1039399	leg=0:1249572
-Anônima" tvg-logo="http://gstaticontent.com/images/ee8e50780fd7249b021f219f49b99047.jpg" group-title="Filmes | Drama",Com Amor, Anônima	dub=2:653012
 Anônimo	dub=2:649053,2:653048
 Anônimo (2011)	dub=0:1045663
 Anônimo 2	dub=2:889757
@@ -4525,6 +4532,7 @@ Ao Lado de um Assassino (2018)	dub=0:1070040	leg=0:1030817
 Ao Leste das Montanhas	dub=2:652691
 Ao Leste das Montanhas (2021)	dub=0:1047065	leg=0:1026386
 Ao Limite do Suicídio (2011)	dub=0:1257212
+Ao Mestre, Com Carinho	dub=2:897150
 Ao Mestre, Com Carinho (1967)	dub=0:1248789	leg=0:1248940
 Ao Seu Lado	dub=2:645404,2:652439
 Ao Seu Lado (2018)	dub=0:1065347
@@ -4586,7 +4594,9 @@ Apenas uma Chance (2013)	dub=0:1250058	leg=0:1248960
 Apenas uma Noite	dub=2:884716
 Apenas uma Noite (2010)	dub=0:1064370	leg=0:1026072
 Apertem os Cintos o Piloto Sumiu 2 (1982)	dub=0:1271724
+Apertem os Cintos, o Piloto Sumiu	dub=2:884566
 Apertem os Cintos, o Piloto Sumiu (1980)	dub=0:1054323	leg=0:1033767
+Apesar De,	dub=2:846470
 Apesar De, (2024)	dub=0:1048503	leg=0:1249227
 Apesar de Tudo	dub=2:770510
 Apesar de Tudo (2018)	dub=0:1042436
@@ -4650,6 +4660,7 @@ Aprendiz de Espiã: Na Cidade Eterna (2024)	dub=0:1067042,0:1022761	leg=0:103511
 Aprendiz de Gigolô (2010)	dub=0:1266742
 Apresentando os Ricardos	dub=2:652982
 Apresentando os Ricardos 4K (2021)	dub=0:1249657,0:1045041	leg=0:1032154
+Apresentando, Nate	dub=2:645098
 Apresentando, Nate (2022)	dub=0:1071715	leg=0:1249577
 Apresuntado	dub=2:913188
 Apresuntado (2023)	dub=0:1272285
@@ -4658,7 +4669,6 @@ Aprisionados	dub=2:652340
 Aprisionados (2019)	dub=0:1041687	leg=0:1030393
 Aprovados	dub=2:650524
 Aprovados (2006)	dub=0:1054718
-Apóstolo de Cristo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5DPz4InO3UUY94l2PT1jH6PsPFe.jpg" group-title="Filmes | Drama",Paulo, Apóstolo de Cristo	dub=2:897173
 Aqua Teen Forever: Plantasm	dub=2:646008
 Aqua Teen Forever: Plantasm (2022)	dub=0:1061880	leg=0:1026287
 Aquaman	dub=2:649199
@@ -4728,6 +4738,7 @@ Ardida como Pimenta	dub=2:645191
 Ardida como Pimenta (1953)	dub=0:1069293
 Arena Mortal	dub=2:654422	leg=2:670454
 Arena Mortal (2024)	dub=0:1059816	leg=0:1031003
+Argentina, (1985)	dub=2:652603
 Argentina, 1985 (2022)	dub=0:1045052,0:1023258	leg=0:1249197
 Argo	dub=2:654330
 Argo (2012)	dub=0:1043484
@@ -4745,6 +4756,7 @@ Arizona Nunca Mais (1987)	dub=0:1052640
 Arkansas	dub=2:653762
 Arkansas (2020)	dub=0:1070943
 Arlindo Cruz Pagode Do Arlindo (2006)	dub=0:1270886
+Arlo, o Menino Jacaré	dub=2:646375
 Arlo, o Menino Jacaré (2021)	dub=0:1068173
 Arma Secreta	dub=2:649501
 Arma Secreta (2019)	dub=0:1066677
@@ -4821,6 +4833,7 @@ Arthur e a Vingança de Maltazard	dub=2:645231
 Arthur e a Vingança de Maltazard (2009)	dub=0:1061763
 Arthur e os Minimoys	dub=2:645232
 Arthur e os Minimoys (2006)	dub=0:1068149
+Arthur, o Milionário Irresistível	dub=2:650873
 Arthur, o Milionário Irresistível (2011)	dub=0:1063538
 Article 370 (2024)	dub=0:1266027	leg=0:1030233
 Artista do Desastre	dub=2:651944
@@ -4853,9 +4866,9 @@ As Aristogatas (1970)	dub=0:1055969
 As Aventuras De Ichabod E Sr. Sapo (1949)	dub=0:1061754
 As Aventuras De Sammy	dub=2:646394
 As Aventuras De Sammy (2010)	dub=0:1068114
-As Aventuras De Shadybug e Claw Noir" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lwMl9Do2mfHDn1EtxugvHjK7bYZ.jpg" group-title="Filmes | Animacao",Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir	dub=2:646019,2:646030
 As Aventuras Sexuais de um Casal em Crise	dub=2:736107
 As Aventuras Sexuais de um Casal em Crise (2023)	dub=0:1063756	leg=0:1024271
+As Aventuras de Agamenon, o Repórter	dub=2:651069
 As Aventuras de Agamenon, o Repórter (2012)	dub=0:1055175
 As Aventuras de Azur e Asmar (2006)	dub=0:1267177
 As Aventuras de Brigsby Bear (2017)	dub=0:1270029
@@ -4955,6 +4968,7 @@ As Cronicas de Narnia - Principe Caspian	dub=2:647093
 As Cronicas de Narnia - Principe Caspian (2008)	dub=0:1039855
 As Cronicas de Narnia A Viagem do Peregrino da Alvorada	dub=2:647092
 As Cronicas de Narnia A Viagem do Peregrino da Alvorada (2010)	dub=0:1038976
+As Cronicas de Narnia O Leao, a Feiticeira e o Guarda-Roupa	dub=2:647091
 As Cronicas de Narnia O Leao, a Feiticeira e o Guarda-Roupa (2005)	dub=0:1056639
 As Cronicas de Spiderwick (2008)	dub=0:1266719
 As Divas do Blue Iguana	dub=2:770434	leg=2:762408
@@ -5205,6 +5219,7 @@ Ash: Planeta Parasita (2025)	dub=0:1037028,0:1036737	leg=0:1038063
 Ashfall (2019)	leg=0:1027606
 Asilo do Medo	dub=2:655383
 Asilo do Medo (2018)	dub=0:1071329
+Asim, O Vigarista	dub=2:650306,2:651481
 Asim, O Vigarista (2019)	dub=0:1051662	leg=0:1249182
 Asking For It	dub=2:648701
 Asking For It (2022)	dub=0:1043570	leg=0:1026391
@@ -5560,6 +5575,7 @@ Aurora (2019)	leg=0:1025637
 Ausencia de Malicia (1981)	dub=0:1268922
 Austenland	dub=2:897023
 Austenland (2013)	dub=0:1268799	leg=0:1268795
+Austin Powers: 000, um Agente Nada Discreto	dub=2:650058
 Austin Powers: 000, um Agente Nada Discreto (1997)	dub=0:1060304	leg=0:1249150
 Austin Powers: O Agente Bond Cama	dub=2:650057
 Austin Powers: O Agente Bond Cama (1999)	dub=0:1056939
@@ -5649,19 +5665,7 @@ Ação Violenta (2012)	dub=0:1273175
 Aí Você Apareceu	dub=2:650669
 Aí Você Apareceu (2021)	dub=0:1064784
 Aída y vuelta Legendado (2026)	dub=0:1261426
-a Agente Secreta" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hJiRnGm1m20u8lLhWiNVbVDsoKv.jpg" group-title="Filmes | Acao",Jade Black, a Agente Secreta	dub=2:648462
-a Amizade" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg" group-title="Filmes | Lancamentos",Ah, a Amizade	dub=2:904320
-a Caça Vampiros" tvg-logo="http://gstaticontent.com/images/16b35d8a013b5ece7cd4618cb6efd55d.jpg" group-title="Filmes | Terror",Buffy, a Caça Vampiros	dub=2:655077
-a Caçadora de Recompensas" tvg-logo="http://gstaticontent.com/images/xAl3hRRjK4yoAW8Mt2zgNNPrtqz_big.jpg" group-title="Filmes | Acao",Domino, a Caçadora de Recompensas	dub=2:649060
-a Cidade Sem Luz" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xNl61wpfnnh42aH81t01PVkUfht.jpg" group-title="Filmes | Animacao",Monster High: Scaris, a Cidade Sem Luz	dub=2:645968
-a Concha de Sapatos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg" group-title="Filmes | Animacao",Marcel, a Concha de Sapatos	dub=2:646128
-a Feiticeira e o Guarda-Roupa" tvg-logo="http://gstaticontent.com/images/2rElTfcZ09mfiDtD1wdE9EyXcUs_big.jpg" group-title="Filmes | Fantasia",As Cronicas de Narnia O Leao, a Feiticeira e o Guarda-Roupa	dub=2:647091
-a Menina Chamada Passarinha" tvg-logo="http://gstaticontent.com/images/3c57869176186b671c06e2541a79d2d4.jpg" group-title="Filmes | Aventura",Catarina, a Menina Chamada Passarinha	dub=2:645256
-a Rainha do Deserto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4owxaljayRzWiXecgcN1PHfU6Ry.jpg" group-title="Filmes | Drama",Priscilla, a Rainha do Deserto	dub=2:770503
-a Rinoceronte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fzDtbTUC6CwaPc39OFjTfjzthN4.jpg" group-title="Filmes | Animacao",Lulu, a Rinoceronte	dub=2:818303
-a Voz da Bossa Nova" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hGVMNLUAWhuPiE6qAI8f5HSamsj.jpg" group-title="Documentarios",Miúcha, a Voz da Bossa Nova	dub=2:647845
 a invenção de Brasília - 0 (2001)	dub=0:1272726
-a toupeira, a raposa e o cavalo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/765XUik0cbyWHITgE22FhpA8elG.jpg" group-title="Filmes | Animacao",O menino, a toupeira, a raposa e o cavalo	dub=2:646142
 À Altura	dub=2:884842
 À Altura (2025)	dub=0:1038154	leg=0:1037411
 À Beira Do Abismo (2017)	dub=0:1270487

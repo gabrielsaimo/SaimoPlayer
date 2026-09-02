@@ -23,7 +23,6 @@ Cabare com Leonardo e Eduardo Costa (2014)	dub=0:1269544
 Cabaré Eldorado: O Alvo dos Nazistas	dub=2:647977
 Cabaré Eldorado: O Alvo dos Nazistas (2023)	dub=0:1048656	leg=0:1034503
 Cabeca a Premio (2010)	dub=0:1268828
-Cabelo & Bigode" tvg-logo="http://gstaticontent.com/images/e6509600be1f3891b11b1bacd7180cad.jpg" group-title="Filmes | Comedia",Barba, Cabelo & Bigode	dub=2:650627
 Cabeça de Nêgo	dub=2:652600
 Cabeça de Nêgo (2021)	dub=0:1042659
 Cabo do Medo	dub=2:770349
@@ -75,8 +74,7 @@ Cadáver	dub=2:654764
 Cadáver (2020)	dub=0:1058165	leg=0:1035190
 Cadáveres	dub=2:788289
 Cadáveres (2006)	dub=0:1250041
-Cadê Meu Cachorro" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gnER31hiAdPRLpepT22ob1A01M3.jpg" group-title="Filmes | Comedia",Cara, Cadê Meu Cachorro	dub=2:889809
-Cadê Você Agora!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tXaFwcbXYpmG5QAhM3qezr7mp8S.jpg" group-title="Filmes | Animacao",Scooby-Doo, Cadê Você Agora!	dub=2:902586
+Cadê Você, Bernadette?	dub=2:651374
 Cadê Você, Bernadette? (2019)	dub=0:1053431
 Cadê o Amarildo?	dub=2:647959
 Cadê o Amarildo? (2023)	dub=0:1049000
@@ -85,6 +83,7 @@ Cadê os Morgan? (2009)	dub=0:1065333
 Cafarnaum (2018)	dub=0:1270345	leg=0:1272537
 Cafundó	dub=2:644371
 Cafundó (2005)	dub=0:1066510
+Cahill, Xerife do Oeste	dub=2:645164
 Cahill, Xerife do Oeste (1973)	dub=0:1068914
 Caindo na Estrada	dub=2:651029
 Caindo na Estrada (2000)	dub=0:1056908
@@ -98,6 +97,7 @@ Caixa Preta (2021)	dub=0:1265853
 Caixa de Passaros	dub=2:655558
 Caixa de Pássaros 4K (2018)	dub=0:1249644,0:1057507
 Caiçara (1950)	dub=0:1272557
+Caju, Meu Amigo	dub=2:902504
 Caju, Meu Amigo (2026)	dub=0:1256117
 Calafrios	dub=2:901099
 Calafrios (1975)	dub=0:1265614	leg=0:1265466
@@ -109,6 +109,7 @@ Calibre 9 (2020)	dub=0:1046737	leg=0:1033615
 California (1947)	dub=0:1271493
 Califórnia	dub=2:644511
 Califórnia (2015)	dub=0:1042053
+Califórnia, Terra do Ouro	dub=2:649028
 Califórnia, Terra do Ouro (1967)	dub=0:1068880
 Caligula (1979)	dub=0:1267233
 Call Me by Your Name (2017)	leg=0:1026661
@@ -199,7 +200,6 @@ Campos de Esperança	dub=2:653891
 Campos de Esperança (2012)	dub=0:1042521
 Can You Ever Forgive Me? Legendado (2018)	dub=0:1045169
 Canadian Sniper (2023)	dub=0:1266582
-Canadá" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/avjfB65bKPwI1UgUQgOCBPf659O.jpg" group-title="Filmes | Drama",Oh, Canadá	dub=2:884740
 Cancao de Ninar (2022)	dub=0:1265882	leg=0:1034357
 Cancoes do Carcere (2024)	dub=0:1268763
 Candango: Memórias do Festival (2020)	dub=0:1266534
@@ -290,8 +290,6 @@ Capitão Hook: As Marés Malditas	dub=2:922705
 Capitão Hook: As Marés Malditas (2025)	dub=0:1263546
 Capitão Sky e o Mundo de Amanhã	dub=2:834062
 Capitão Sky e o Mundo de Amanhã (2004)	dub=0:1055945	leg=0:1249370
-Capitão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/glY7KE3sLWrVUTKbRS9kGlnz0or.jpg" group-title="Filmes | Drama",Eu, Capitão	dub=2:652172
-Capitão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qTP40kJeJ6IUsurQxtHJ1bqow83.jpg" group-title="Documentarios",Adeus, Capitão	dub=2:647814
 Capoeira, um passo a dois (2016)	dub=0:1268410
 Capone (2020)	dub=0:1264786	leg=0:1249512
 Captain Marvel Legendado (2019)	dub=0:1055915
@@ -304,8 +302,10 @@ Cara Cade Meu Carro	dub=2:651924
 Cara Cade Meu Carro (2000)	dub=0:1060504
 Cara a Cara com o ETA	dub=2:647881
 Cara a Cara com o ETA (2023)	dub=0:1045952
+Cara de Um, Focinho de Outro	dub=2:918161
 Cara de Um, Focinho de Outro 4K (2026)	dub=0:1272756,0:1272752	leg=0:1272544
 Cara, Cade o Dragao (2015)	dub=0:1267409
+Cara, Cadê Meu Cachorro	dub=2:889809
 Cara, Cadê Meu Cachorro (2014)	dub=0:1249802
 Caramelo	dub=2:901448
 Caramelo (2025)	dub=0:1249945,0:1249852	leg=0:1249950
@@ -480,7 +480,6 @@ Casamento às Cegas Brasil: Depois do Altar	dub=2:647879
 Casamento às Cegas Brasil: Depois do Altar (2023)	dub=0:1048987
 Casamentos Cruzados	dub=2:681780
 Casamentos Cruzados (2025)	dub=0:1037649,0:1036836	leg=0:1038142
-Casamentos e Outros Desastres" tvg-logo="http://gstaticontent.com/images/b0e05d4d098a7c65db791cb54578687a.jpg" group-title="Filmes | Comedia",Amor, Casamentos e Outros Desastres	dub=2:650914
 Cascavel	dub=2:647605
 Cascavel (2019)	dub=0:1069636
 Case Comigo	dub=2:645557
@@ -523,6 +522,7 @@ Castle Falls (2021)	dub=0:1266459
 Catacumbas (2007)	dub=0:1272607	leg=0:1272660
 Catalyst (2025)	dub=0:1269506
 Cataratas de Vitória: Jardim do Éden da África (2021)	dub=0:1264702
+Catarina, a Menina Chamada Passarinha	dub=2:645256
 Catarina, a Menina Chamada Passarinha (2022)	dub=0:1056128,0:1023323	leg=0:1249179
 Catch 44 (2011)	dub=0:1270657
 Caterpillar (2025)	leg=0:1265831
@@ -732,41 +732,14 @@ Charada (1963)	dub=0:1268142	leg=0:1268075
 Charles: Do Berço ao Trono	dub=2:647993
 Charles: Do Berço ao Trono (2023)	dub=0:1049118
 Charlie Brown Jr Ao Vivo: Chegou Quem Faltava (2021)	dub=0:1267315
-Charlie Brown!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mruSx5m24rk1YRSMnhvg53gDqGs.jpg" group-title="Filmes | Animacao",What a Nightmare, Charlie Brown!	dub=2:818317
-Charlie Brown" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/q5gVKsYkWmz1pklu4JBmac1wr2.jpg" group-title="Filmes | Animacao",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	dub=2:646123
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/16zR0USEiqd88zfcFJtt2Cd9WLg.jpg" group-title="Filmes | Animacao",Lucy Must Be Traded, Charlie Brown	dub=2:818305
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/25gxjItxw9uoCJ65zTeDU1oH6rQ.jpg" group-title="Filmes | Animacao",Seu Primeiro Beijo, Charlie Brown	dub=2:818312
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3Aje8jV7qtfOjAS1KM8ntsK1IGK.jpg" group-title="Filmes | Animacao",Snoopy É um Sucesso, Charlie Brown	dub=2:818322
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4GjmrRGd0JOg63yUt4RcMTnKnTZ.jpg" group-title="Filmes | Animacao",Você É O Maior, Charlie Brown	dub=2:818319
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5AHXzz4NB4yrirsB5uneDurq0xv.jpg" group-title="Filmes | Animacao",Foi um Rápido Verão, Charlie Brown	dub=2:818327
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/5k5GkkkiXddj8aKLUN8xsTKV7Nn.jpg" group-title="Filmes | Animacao",É Um Valentão, Charlie Brown	dub=2:818307
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8bSGFPFlPEimKxZbZH2FX6U9Ewd.jpg" group-title="Filmes | Animacao",Você Está Apaixonado, Charlie Brown	dub=2:818318
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/8dYQcduWPzX2YKPvtINH2MQ12QW.jpg" group-title="Filmes | Animacao",It's an Adventure, Charlie Brown	dub=2:818325
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A9MDtJOobO4sAJ45kqgZD70AZRg.jpg" group-title="Filmes | Animacao",É o Dia da Árvore, Charlie Brown	dub=2:818315
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ArJ5orVPd6gGKMajmlZ39gdERoq.jpg" group-title="Filmes | Animacao",O Cachorro é Seu, Charlie Brown	dub=2:818323
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/eds4cxarUjHn7OdDd26SauphUnR.jpg" group-title="Filmes | Comedia",Boa Viagem, Charlie Brown	dub=2:897010
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jkdKj5QFRVHwAMWhLqLZtWpo695.jpg" group-title="Filmes | Animacao",É Natal de novo, Charlie Brown	dub=2:902564
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/k6LxfrW4qTPJm8P89bAPhzShO6.jpg" group-title="Filmes | Animacao",Someday You'll Find Her, Charlie Brown	dub=2:818320
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lK8ROtVrpewUIqcf0AHU4JRF5gT.jpg" group-title="Filmes | Animacao",It's Spring Training, Charlie Brown	dub=2:818306
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mvf9MFvDE9jXJ2RsQMVIpuFKxio.jpg" group-title="Filmes | Animacao",She's a Good Skate, Charlie Brown	dub=2:818311
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/q5t6TLrGbTHeA2lNcbKSV4Frtkc.jpg" group-title="Filmes | Animacao",It's a Mystery, Charlie Brown	dub=2:818326
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/q9U3eYAOb3BBuPCtN83rHzCAVcT.jpg" group-title="Filmes | Animacao",Play It Again, Charlie Brown	dub=2:818313
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sY8VkKcn1CCcEhcbiEVHrI6YEye.jpg" group-title="Filmes | Animacao",Snoopy's Getting Married, Charlie Brown	dub=2:818310
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tM5tm39fHYhSlZcZHVZ1n0exUni.jpg" group-title="Filmes | Animacao",É Mágica, Charlie Brown	dub=2:818329
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wSi3Xh3daiKU0jYPrdansdoOEZF.jpg" group-title="Filmes | Animacao",You're a Good Sport, Charlie Brown	dub=2:818308
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wZcFoPHNtDZpdD3jn0stXUOl5Vk.jpg" group-title="Filmes | Animacao",A Vida É Um Circo, Charlie Brown	dub=2:818316
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xiz6jii5S2rR8UJfCJ4fWJbU09T.jpg" group-title="Filmes | Animacao",Não Há Tempo Para O Amor, Charlie Brown	dub=2:818324
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yjRcn8painrtKiOy0zagyAwH4IH.jpg" group-title="Filmes | Animacao",Felicidade é Um Cobertor Quente, Charlie Brown	dub=2:818328
-Charlie Brown" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yxRIpD6Dbfnop3mIC4FoSQTYcjw.jpg" group-title="Filmes | Animacao",Você Não Foi Eleito, Charlie Brown	dub=2:818304
 Charlie Brown's All-Stars!	dub=2:818330
 Charlie Brown's All-Stars! (1966)	dub=0:1062320	leg=0:1034108
-Charlie Brown, Why?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3bWXHBekb1MgVU80So6rES9pGo7.jpg" group-title="Filmes | Animacao",Why, Charlie Brown, Why?	dub=2:818309
-Charlie Brown?" tvg-logo="http://gstaticontent.com/images/a990db9ae810f5b15ed8adf58854e9b0.jpg" group-title="Filmes | Nacionais",Quem é você, Charlie Brown?	dub=2:644377
-Charlie Brown?" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/4XLs5aTKxRjbD7kcUjN3doErNm4.jpg" group-title="Filmes | Animacao",Is This Goodbye, Charlie Brown?	dub=2:818314
 Charlie Says Legendado (2019)	dub=0:1051263
 Charlie em Ação	dub=2:648302	leg=2:670468
 Charlie em Ação (2023)	dub=0:1051659,0:1021895
+Charlie, Um Grande Garoto	dub=2:884479
 Charlie, Um Grande Garoto (2008)	dub=0:1053146	leg=0:1267320
+Charlie, Você Está Aí?	dub=2:654469	leg=2:670790
 Charlie, Você Está Aí? (2019)	dub=0:1058270	leg=0:1249267
 Charlie: O Super Cão	dub=2:912346
 Charlie: O Super Cão (2025)	dub=0:1259647	leg=0:1272234
@@ -790,8 +763,6 @@ Chef	dub=2:762874	leg=2:762538
 Chef (2014)	dub=0:1053541	leg=0:1025094
 Chef Jack: O Cozinheiro Aventureiro	dub=2:646112
 Chef Jack: O Cozinheiro Aventureiro (2023)	dub=0:1061545
-Chef! É Natal! " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6BYLw1UUR1lGQyMJ5OgD6KVa6mm.jpg" group-title="Filmes | Legendados",Sim, Chef! É Natal!	leg=2:670447
-Chef! É Natal!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6BYLw1UUR1lGQyMJ5OgD6KVa6mm.jpg" group-title="Filmes | Romance",Sim, Chef! É Natal!	dub=2:645294
 Chefao por Acaso	dub=2:649283
 Chefao por Acaso (1989)	dub=0:1052716
 Chefes de Estado	dub=2:884382
@@ -858,6 +829,7 @@ Chocolate (2006)	dub=0:1050426
 Chocolate (2008)	dub=0:1273228
 Chofer de Praca (1958)	dub=0:1270305
 Cholo Zombies Monstro (2023)	dub=0:1271649
+Chopin, Uma Sonata em Paris	dub=2:922258
 Chopin, Uma Sonata em Paris (2025)	dub=0:1263353
 Choque Mortal (1988)	dub=0:1267359	leg=0:1267535
 Choque e Pavor A Verdade Importa (2017)	dub=0:1045171
@@ -873,9 +845,9 @@ Chris Hemsworth Uma Viagem para Recordar (2025)	dub=0:1265864	leg=0:1265356
 Chris e Martina: O Último Set (2026)	dub=0:1273267
 Christabel	dub=2:644312
 Christabel (2018)	dub=0:1040298
-Christiane F. - 13 Anos, Drogada e Prostituída" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/jGbYvTZ1PfhqKFTpAhJthYYZcYC.jpg" group-title="Filmes | Drama",Eu, Christiane F. - 13 Anos, Drogada e Prostituída	dub=2:652507
 Christine	dub=2:653736
 Christine (2016)	dub=0:1042960
+Christine, O Carro Assassino	dub=2:655180
 Christine, O Carro Assassino (1983)	dub=0:1057663
 Christmas Bloody Christmas (2022)	dub=0:1270560	leg=0:1272982
 Christmas in Toyland (2022)	dub=0:1269363
@@ -1035,6 +1007,7 @@ Click (2006)	dub=0:1039170
 Clickbait (2019)	leg=0:1027854
 Cliente Morto Não Paga	dub=2:651007
 Cliente Morto Não Paga (1982)	dub=0:1070830
+Clifford, o Gigante Cão Vermelho	dub=2:646230
 Clifford, o Gigante Cão Vermelho (2021)	dub=0:1067528	leg=0:1027570
 Clika	dub=2:920913
 Clika: Sonho e Perigo (2026)	dub=0:1262993
@@ -1186,13 +1159,15 @@ Com 007 Viva e Deixe Morrer	dub=2:649346
 Com 007 Viva e Deixe Morrer (1973)	dub=0:1055997	leg=0:1272835
 Com Amor Simon	dub=2:651116
 Com Amor Simon (2018)	dub=0:1065915,0:1023240
-Com Amor" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iKBCQUw8c6l3MOOI0OzLpP649du.jpg" group-title="Filmes | Lancamentos",Da Toscana, Com Amor	dub=2:914840
+Com Amor, Anônima	dub=2:653012
 Com Amor, Anônima (2021)	dub=0:1064141,0:1022156	leg=0:1026543
+Com Amor, Liza	dub=2:884522
 Com Amor, Liza (2002)	dub=0:1054106	leg=0:1035786
 Com Amor, Marilyn (2013)	dub=0:1049483	leg=0:1036623
+Com Amor, Scott	dub=2:647910
 Com Amor, Scott (2018)	dub=0:1048651	leg=0:1026190
+Com Amor, Van Gogh	dub=2:911588
 Com Amor, Van Gogh (2017)	dub=0:1272485
-Com Carinho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hkbKK59BKH4HFf4e0OvOyGuWmu8.jpg" group-title="Filmes | Drama",Ao Mestre, Com Carinho	dub=2:897150
 Com Deus no Caminho	dub=2:654028
 Com Deus no Caminho (2018)	dub=0:1068586
 Com Mérito	dub=2:650979,2:651037
@@ -1245,8 +1220,9 @@ Comboio 48: A Última Resistência (2019)	dub=0:1066131
 Come Away (2020)	leg=0:1024694
 Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts	dub=2:648103
 Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts (2022)	dub=0:1048620	leg=0:1031355
-Comer Rezar Amar	dub=2:654312
+Comer Rezar Amar	dub=2:654312,2:911551
 Comer, Rezar, Amar (2010)	dub=0:1065267	leg=0:1268101
+Comer, Rezar, Ladrar	dub=2:909794
 Comer, Rezar, Ladrar 4K (2026)	dub=0:1272110,0:1259071	leg=0:1268247
 Comfort Farms (2020)	leg=0:1035105
 Coming Home in the Dark (2021)	dub=0:1267125
@@ -1395,7 +1371,9 @@ Con Air - A Rota da Fuga (1997)	dub=0:1044824
 Conan (1997)	dub=2:649941
 Conan - 1997 (1997)	dub=0:1050627
 Conan 1 - o Barbaro (1982)	dub=0:1269154
+Conan, O Destruidor	dub=2:649942
 Conan, O Destruidor (1984)	dub=0:1040006
+Conan, o Bárbaro	dub=2:648634
 Conan, o Bárbaro (2011)	dub=0:1040160
 Conclave	dub=2:770470	leg=2:670295,2:762561
 Conclave 4K (2024)	dub=0:1249666,0:1043372	leg=0:1032055
@@ -1435,6 +1413,7 @@ Conexões Perigosas	dub=2:645296	leg=2:670461
 Conexões Perigosas (2023)	dub=0:1056212	leg=0:1029170
 Conferência Mortal	dub=2:654700
 Conferência Mortal 4K (2023)	dub=0:1249615,0:1057499	leg=0:1032131
+Confess, Fletch	dub=2:644904
 Confess, Fletch (2022)	dub=0:1069452	leg=0:1023952
 Confesse, Fletch 4K (2022)	dub=0:1022841
 Confessions (2023)	dub=0:1268625
@@ -1808,8 +1787,11 @@ Corra que a Policia Vem Ai 3	dub=2:651911
 Corra que a Policia Vem Ai 3 (1994)	dub=0:1051180
 Corra!	dub=2:647690
 Corra! (2017)	dub=0:1071195
+Corra, Baby, Corra	dub=2:905574,2:910039
 Corra, Baby, Corra (2024)	dub=0:1267955	leg=0:1267958
+Corra, Menino, Corra	dub=2:884689
 Corra, Menino, Corra (2014)	dub=0:1066194
+Corra, Querida, Corra	dub=2:647351
 Corra, Querida, Corra (2022)	dub=0:1057797	leg=0:1027761
 Corra, Querida, Corra 4K (2020)	dub=0:1022046
 Corram Que O Agente Voltou	dub=2:649282
@@ -1837,7 +1819,6 @@ Correspondentes Especiais (2016)	dub=0:1268242	leg=0:1268201
 Corrida Contra o Destino (1971)	dub=0:1267951
 Corrida Contra o Tempo	dub=2:911637
 Corrida Contra o Tempo (1987)	dub=0:1267317
-Corrida Contra o Tempo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/l9YoPPpIiVBHjoNxIeaMSgqJ8iO.jpg" group-title="Filmes | Animacao",Miraculous World: Londres, Corrida Contra o Tempo	dub=2:762785
 Corrida Maluca	dub=2:645945	leg=2:670541
 Corrida Maluca (2023)	dub=0:1062219	leg=0:1035773
 Corrida Mortal	dub=2:649936
@@ -2176,9 +2157,6 @@ Câmera Indiscreta	dub=2:652263
 Câmera Indiscreta (2021)	dub=0:1041356	leg=0:1033546
 Câmera Mortal	dub=2:654418	leg=2:670445
 Câmera Mortal (2022)	dub=0:1070494	leg=0:1023613
-Câmera, Assassinato! " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cxmDKBPkBNYCNMhjbPE5DUuEEq0.jpg" group-title="Filmes | Legendados",Luz, Câmera, Assassinato!	leg=2:670432
-Câmera, Assassinato!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/cxmDKBPkBNYCNMhjbPE5DUuEEq0.jpg" group-title="Filmes | Terror",Luz, Câmera, Assassinato!	dub=2:654414
-Câmera, Ação" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iBFDnNVH0fLKU3SS93J88xN9J0c.jpg" group-title="Filmes | Acao",Luz, Câmera, Ação	dub=2:803809
 Câncer (1972)	dub=0:1272833
 Câncer com Ascendente em Virgem	dub=2:884927
 Câncer com Ascendente em Virgem (2025)	dub=0:1037829,0:1036712	leg=0:1038094
@@ -2265,6 +2243,5 @@ Cúpula do Caos	dub=2:736010	leg=2:762553
 Cúpula do Caos (2024)	dub=0:1058551	leg=0:1034681
 Cœur de Pirate aux Francofolies de La Rochelle	dub=2:884946
 Cœur de Pirate aux Francofolies de La Rochelle (2012)	dub=0:1072528
-como você é babaca!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/nAN0VystCSvKGt2Xl3eo1AYjkaC.jpg" group-title="Filmes | Romance",Deus, como você é babaca!	dub=2:645633
 controle (2026)	dub=0:1259648
 ¡Casa Bonita Mi Amor!	leg=2:670590

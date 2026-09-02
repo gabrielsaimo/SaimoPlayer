@@ -238,6 +238,13 @@ final class ProxyServer {
             return
         }
 
+        // /vod/<endereço em base64>.mp4 — filme ou episódio, repassado em fluxo.
+        if segments.first == "vod", segments.count >= 2 {
+            servirArquivo(fd, apelido: segments[1], pedido: head,
+                          headOnly: method == "HEAD")
+            return
+        }
+
         // /proxy/<uuid>/<uuid>.m3u8   or   /proxy/<uuid>/s/<b64>
         guard segments.count >= 3, segments[0] == "proxy",
               let channelID = UUID(uuidString: segments[1]),
@@ -582,6 +589,58 @@ final class ProxyServer {
 
     // MARK: - Socket I/O
 
+    // MARK: - Arquivo grande servido em fluxo
+
+    /// Endereço local para um filme ou episódio.
+    ///
+    /// Serve para as origens que respondem com `Content-Range` errado: elas
+    /// mandam o fim do arquivo inteiro em vez do fim do pedaço pedido, e o
+    /// AVFoundation desiste com "Operation Stopped" antes de ler um quadro.
+    /// Aqui a resposta é refeita com o intervalo que realmente veio.
+    func vodLink(for absolute: URL) -> URL {
+        if listenFD < 0 { try? start() }
+        let apelido = Data(absolute.absoluteString.utf8)
+            .base64EncodedString()
+            .replacingOccurrences(of: "+", with: "-")
+            .replacingOccurrences(of: "/", with: "_")
+            .replacingOccurrences(of: "=", with: "")
+        return URL(string: "http://\(advertisedHost):\(port)/vod/\(apelido).mp4")!
+    }
+
+    private func endereco(doApelido apelido: String) -> URL? {
+        var texto = apelido
+        if let ponto = texto.lastIndex(of: ".") { texto = String(texto[texto.startIndex..<ponto]) }
+        texto = texto.replacingOccurrences(of: "-", with: "+")
+            .replacingOccurrences(of: "_", with: "/")
+        while texto.count % 4 != 0 { texto += "=" }
+        guard let dados = Data(base64Encoded: texto) else { return nil }
+        return URL(string: String(decoding: dados, as: UTF8.self))
+    }
+
+    private func servirArquivo(_ fd: Int32, apelido: String, pedido: String, headOnly: Bool) {
+        guard let alvo = endereco(doApelido: apelido) else {
+            send(fd, status: 404, headers: [:], body: Data(), headOnly: headOnly)
+            return
+        }
+
+        var request = URLRequest(url: alvo)
+        request.timeoutInterval = 30
+        request.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
+        let faixa = pedido.components(separatedBy: "\r\n")
+            .first { $0.lowercased().hasPrefix("range:") }?
+            .dropFirst("range:".count).trimmingCharacters(in: .whitespaces)
+        if let faixa { request.setValue(faixa, forHTTPHeaderField: "Range") }
+
+        let fluxo = FluxoVod(fd: fd, headOnly: headOnly, faixaPedida: faixa)
+        let sessao = URLSession(configuration: .default, delegate: fluxo, delegateQueue: nil)
+        sessao.dataTask(with: request).resume()
+        fluxo.esperar()
+        sessao.invalidateAndCancel()
+        if !fluxo.respondeu {
+            send(fd, status: 502, headers: [:], body: Data(), headOnly: headOnly)
+        }
+    }
+
     private func readHead(_ fd: Int32) -> String? {
         var buf = Data()
         var chunk = [UInt8](repeating: 0, count: 4096)
@@ -624,5 +683,105 @@ final class ProxyServer {
         case 502: return "Bad Gateway"
         default: return "Status"
         }
+    }
+}
+
+/// Repassa um arquivo remoto para o player, um pedaço de cada vez.
+///
+/// O corpo nunca é guardado inteiro: cada bloco que chega da origem vai direto
+/// para o socket do player, e a conexão fechada pelo player cancela o download.
+/// O cabeçalho é o motivo de tudo isto existir — a origem informa um
+/// `Content-Range` que termina no fim do arquivo mesmo quando manda cem bytes,
+/// e o AVFoundation trata isso como resposta truncada.
+private final class FluxoVod: NSObject, URLSessionDataDelegate {
+    private let fd: Int32
+    private let headOnly: Bool
+    private let faixaPedida: String?
+    private let fim = DispatchSemaphore(value: 0)
+    private(set) var respondeu = false
+    private var vivo = true
+
+    init(fd: Int32, headOnly: Bool, faixaPedida: String?) {
+        self.fd = fd
+        self.headOnly = headOnly
+        self.faixaPedida = faixaPedida
+    }
+
+    func esperar() { fim.wait() }
+
+    func urlSession(_ session: URLSession, dataTask: URLSessionDataTask,
+                    didReceive response: URLResponse,
+                    completionHandler: @escaping (URLSession.ResponseDisposition) -> Void) {
+        guard let http = response as? HTTPURLResponse else {
+            completionHandler(.cancel)
+            return
+        }
+
+        let tamanho = http.expectedContentLength
+        let total = totalDeclarado(http) ?? (tamanho > 0 ? tamanho : -1)
+        let inicio = comecoPedido()
+
+        var cabecalho = ""
+        if http.statusCode == 206 || (faixaPedida != nil && http.statusCode == 200 && inicio > 0) {
+            let ultimo = inicio + max(tamanho, 1) - 1
+            cabecalho += "HTTP/1.1 206 Partial Content\r\n"
+            cabecalho += "Content-Range: bytes \(inicio)-\(ultimo)/\(total > 0 ? String(total) : "*")\r\n"
+        } else {
+            cabecalho += "HTTP/1.1 \(http.statusCode == 200 ? 200 : http.statusCode) "
+            cabecalho += "\(http.statusCode == 200 ? "OK" : "Status")\r\n"
+        }
+        if tamanho > 0 { cabecalho += "Content-Length: \(tamanho)\r\n" }
+        let tipo = http.value(forHTTPHeaderField: "Content-Type") ?? "video/mp4"
+        cabecalho += "Content-Type: \(tipo.hasPrefix("text/") ? "video/mp4" : tipo)\r\n"
+        cabecalho += "Accept-Ranges: bytes\r\n"
+        cabecalho += "Connection: close\r\n\r\n"
+
+        respondeu = true
+        if !escrever(Data(cabecalho.utf8)) || headOnly {
+            completionHandler(.cancel)
+            return
+        }
+        completionHandler(.allow)
+    }
+
+    func urlSession(_ session: URLSession, dataTask: URLSessionDataTask, didReceive data: Data) {
+        if !escrever(data) { dataTask.cancel() }
+    }
+
+    func urlSession(_ session: URLSession, task: URLSessionTask,
+                    didCompleteWithError error: Error?) {
+        fim.signal()
+    }
+
+    /// O tamanho do arquivo, tirado do `Content-Range` da origem. O fim que ela
+    /// declara não serve para nada, mas o total depois da barra é confiável.
+    private func totalDeclarado(_ http: HTTPURLResponse) -> Int64? {
+        guard let bruto = http.value(forHTTPHeaderField: "Content-Range"),
+              let barra = bruto.lastIndex(of: "/") else { return nil }
+        return Int64(bruto[bruto.index(after: barra)...].trimmingCharacters(in: .whitespaces))
+    }
+
+    private func comecoPedido() -> Int64 {
+        guard let faixa = faixaPedida,
+              let igual = faixa.firstIndex(of: "=") else { return 0 }
+        let resto = faixa[faixa.index(after: igual)...]
+        let comeco = resto.prefix { $0.isNumber }
+        return Int64(comeco) ?? 0
+    }
+
+    private func escrever(_ dados: Data) -> Bool {
+        guard vivo else { return false }
+        let ok = dados.withUnsafeBytes { buffer -> Bool in
+            guard let base = buffer.baseAddress else { return true }
+            var enviado = 0
+            while enviado < buffer.count {
+                let n = Darwin.send(fd, base.advanced(by: enviado), buffer.count - enviado, 0)
+                if n <= 0 { return false }
+                enviado += n
+            }
+            return true
+        }
+        if !ok { vivo = false }
+        return ok
     }
 }

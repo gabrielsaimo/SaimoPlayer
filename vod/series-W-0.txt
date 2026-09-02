@@ -774,18 +774,6 @@
 2	6	dub	3:201664
 2	7	dub	3:201665
 2	8	dub	3:201666
-@Was I Wrong About Her S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	1	leg	3:921399
-@Was I Wrong About Her S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	2	leg	3:921800
-@Was I Wrong About Her S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	3	leg	3:922327
-@Was I Wrong About Her S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	4	leg	3:923275
-@Was I Wrong About Her S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	5	leg	3:924118
-@Was I Wrong About Her S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/tVsZgmz8GTnh1Br00HoWpR88ogt.jpg" group-title="Series | Legendadas",Oh Boy, Was I Wrong About Her
-1	6	leg	3:925161
 @Was It Love	2020
 1	1	leg	1:1117566
 1	2	leg	1:1117567
@@ -2179,3 +2167,67 @@
 3	4	leg	1:1190349
 3	5	leg	1:1190350
 3	6	leg	1:1190351
+@Whitstable Pearl
+1	1	leg	3:510947
+1	2	leg	3:510948
+1	3	leg	3:510949
+1	4	leg	3:510950
+1	5	leg	3:510951
+1	6	leg	3:510952
+2	1	leg	3:510953
+2	2	leg	3:510954
+2	3	leg	3:510955
+2	4	leg	3:510956
+2	5	leg	3:510957
+2	6	leg	3:510958
+3	1	leg	3:510959
+3	2	leg	3:510960
+3	3	leg	3:514871
+3	4	leg	3:514872
+3	5	leg	3:524763
+3	6	leg	3:524764
+@Who Is She	2024
+1	1	leg	1:1087971
+1	2	leg	1:1087972
+1	3	leg	1:1087973
+1	4	leg	1:1087974
+1	5	leg	1:1087975
+1	6	leg	1:1087976
+1	7	leg	1:1087977
+1	8	leg	1:1087978
+1	9	leg	1:1087979
+1	10	leg	1:1087980
+1	11	leg	1:1087981
+1	12	leg	1:1087982
+@Who Is She
+1	1	leg	3:642312
+1	2	leg	3:642313
+1	3	leg	3:667147
+1	4	leg	3:667148
+1	5	leg	3:667149
+1	6	leg	3:667150
+1	7	leg	3:667151
+1	8	leg	3:667152
+1	9	leg	3:667153
+1	10	leg	3:667154
+1	11	leg	3:674576
+1	12	leg	3:674577
+@Who Killed Jeffrey Epstein	2020
+1	1	dub	1:1047749
+1	2	dub	1:1047750
+1	3	dub	1:1047752
+@Who Killed Jeffrey Epstein
+1	1	dub	3:730861
+1	2	dub	3:730862
+1	3	dub	3:730863
+@Who Saw the Peacock Dance in the Jungle	2025
+1	1	leg	1:1086950
+1	2	leg	1:1086951
+1	3	leg	1:1086952
+1	4	leg	1:1086953
+1	5	leg	1:1086954
+1	6	leg	1:1086955
+1	7	leg	1:1086956
+1	8	leg	1:1086957
+1	9	leg	1:1086958
+1	10	leg	1:1086959

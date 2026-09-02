@@ -114,6 +114,8 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Fontes do arquivo no ar, em ordem. O mesmo filme vem das duas listas.
     private var fileSources: [URL] = []
     private var fileSourceIndex = 0
+    /// Se a fonte atual já foi tentada pelo atalho local.
+    private var fonteViaProxy = false
 
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
@@ -254,6 +256,7 @@ final class PlayerModel: NSObject, ObservableObject {
         ultimoGuardado = -100
         fileSources = urls
         fileSourceIndex = 0
+        fonteViaProxy = false
         playingFile = primeira
         retomou = false
         playingFileName = nome
@@ -404,10 +407,31 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private func scheduleReconnect(reason: String) {
         if let arquivo = playingFile {
+            // Algumas origens respondem com um `Content-Range` que termina no
+            // fim do arquivo mesmo quando mandam só o pedaço pedido, e o
+            // AVFoundation para antes do primeiro quadro. O proxy local refaz o
+            // cabeçalho, então vale repetir a mesma fonte por ele antes de
+            // descartá-la — de outro modo dois quintos do acervo ficariam fora.
+            if !playedSinceOpen, !fonteViaProxy,
+               fileSourceIndex < fileSources.count,
+               let host = fileSources[fileSourceIndex].host, host != ProxyServer.shared.advertisedHost {
+                fonteViaProxy = true
+                let pelaCasa = ProxyServer.shared.vodLink(for: fileSources[fileSourceIndex])
+                playingFile = pelaCasa
+                status = "tentando pelo atalho local…"
+                Log.shared.write("\(playingFileName): \(reason) — repetindo pelo proxy local")
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) { [weak self] in
+                    guard let self, self.playingFile == pelaCasa else { return }
+                    self.load(pelaCasa, channel: nil)
+                }
+                return
+            }
+
             // Enquanto o arquivo não entregou nada, é fonte ruim: desce para a
             // seguinte antes de insistir na mesma.
             if !playedSinceOpen, fileSourceIndex + 1 < fileSources.count {
                 fileSourceIndex += 1
+                fonteViaProxy = false
                 let proxima = fileSources[fileSourceIndex]
                 playingFile = proxima
                 sourceIndex = fileSourceIndex

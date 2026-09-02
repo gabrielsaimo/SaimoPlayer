@@ -23,6 +23,7 @@ Paciente 11 (2018)	dub=0:1044462
 Paciente Zero	dub=2:654952,2:655322
 Paciente Zero (2018)	dub=0:1059226
 Paciente Zero (2020)	dub=0:1057865
+Paciente, 316	dub=2:652408
 Paciente, 316 (2021)	dub=0:1041565	leg=0:1030480
 Pacificado	dub=2:652403
 Pacificado (2022)	dub=0:1042734
@@ -52,6 +53,7 @@ Padrinhos Ltda.	dub=2:650976
 Padrinhos Ltda. (2015)	dub=0:1055542
 Pagando Bem Que Mal Tem (2008)	dub=0:1270444
 Pagemaster - O Mestre da Fantasia (1994)	dub=0:1062173	leg=0:1249478
+Pague para Entrar, Reze para Sair	dub=2:655045
 Pague para Entrar, Reze para Sair (1981)	dub=0:1058657
 Pai A Gente Só Tem Um 3	dub=2:650544
 Pai A Gente Só Tem Um 3 (2022)	dub=0:1067808	leg=0:1025397
@@ -77,6 +79,7 @@ Pai em Tempo Integral	dub=2:921707
 Pai em Tempo Integral (2026)	dub=0:1263345
 Pai por Engano	dub=2:651205
 Pai por Engano (2020)	dub=0:1054956
+Pai, Filho, Pátria	dub=2:648200
 Pai, Filho, Pátria (2020)	dub=0:1066771
 Paint	dub=2:650385
 Paint (2023)	dub=0:1064437	leg=0:1026555
@@ -111,7 +114,6 @@ Paixão de Escritório	dub=2:918461
 Paixão de Escritório (2026)	dub=0:1272832,0:1261606	leg=0:1272864
 Paixão de Ocasião	dub=2:645659
 Paixão de Ocasião (1997)	dub=0:1065099
-Paixão e Razão" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7sHFXwImTwkAs8UFqhvqEZHPN0g.jpg" group-title="Filmes | Drama",Desejo, Paixão e Razão	dub=2:652337
 Paixão à Flor da Pele (2004)	dub=0:1273205
 Paixões Entrelaçadas	dub=2:645457
 Paixões Entrelaçadas (2021)	dub=0:1064626	leg=0:1035277
@@ -259,15 +261,13 @@ Para Sempre Natal (2016)	dub=0:1268449
 Para Sempre Vencedor	dub=2:654184
 Para Sempre Vencedor (2008)	dub=0:1047848
 Para Sempre Você Legendado (2026)	dub=0:1260487
-Para Sempre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/keSB3VpySTie5UjST7xhKAeP7yX.jpg" group-title="Filmes | Drama",Desta Vez, Para Sempre	dub=2:911610
-Para Sempre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/keSB3VpySTie5UjST7xhKAeP7yX.jpg" group-title="Filmes | Lancamentos",Desta Vez, Para Sempre	dub=2:905572
-Para Sempre" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/xgEW4KUfUzTTNM0Kw9kPI7M6gcT.jpg" group-title="Filmes | Drama",Por um Momento, Para Sempre	dub=2:884748
 Para Ter Onde Ir	dub=2:897129
 Para Ter Onde Ir (2016)	dub=0:1250968
 Para Todos os Garotos que Ja Amei (2018)	dub=0:1063629
 Para Todos os Garotos que Já Amei	dub=2:645324,2:651723
 Para Todos os Garotos: Agora e Para Sempre	dub=2:645681
 Para Todos os Garotos: Agora e Para Sempre (2021)	dub=0:1053394
+Para Wong Foo, Obrigada por Tudo! Julie Newmar	dub=2:762902
 Para Wong Foo, Obrigada por Tudo! Julie Newmar (1995)	dub=0:1053455
 Para o Que Der e Vier (2013)	dub=0:1054710	leg=0:1268264
 Para o que Der e Vier	dub=2:651490
@@ -310,11 +310,10 @@ Parcialmente Nublado	dub=2:884425
 Parcialmente Nublado (2009)	dub=0:1067692	leg=0:1032919
 Pare Se nao Mamae Atira (1992)	dub=0:1270044
 Pare com Suas Mentiras (2023)	dub=0:1268954	leg=0:1036256
-Paris " tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oD25U6BtXR0DZAdd7RsJyq9Nzqk.jpg" group-title="Filmes | Legendados",Adeus, Paris	leg=2:762449
 Paris 13th Distrito (2021)	dub=0:1271354
 Paris Pode Esperar	dub=2:645668
 Paris Pode Esperar (2016)	dub=0:1063889
-Paris" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oD25U6BtXR0DZAdd7RsJyq9Nzqk.jpg" group-title="Filmes | Comedia",Adeus, Paris	dub=2:762861
+Paris, Te Amo	dub=2:651507
 Paris, Te Amo (2006)	dub=0:1064832
 Paris, Texas (1984)	dub=0:1272965
 Parker	dub=2:649255
@@ -327,8 +326,6 @@ Parque do Inferno	dub=2:655603
 Parque do Inferno (2018)	dub=0:1059014
 Parque do Terror	dub=2:654542
 Parque do Terror (2023)	dub=0:1058468	leg=0:1029339
-Parte 1" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sVj31D8aAkF5bZ860Bx9aybYJJh.jpg" group-title="Filmes | Animacao",Batman: O Cavaleiro das Trevas, Parte 1	dub=2:902546
-Parte 2" tvg-logo="http://gstaticontent.com/images/lO4DyHX0vYkeUTuZpFStMTFbaI4_big.jpg" group-title="Filmes | Suspense",48 Horas, Parte 2	dub=2:647498
 Parthenope (2024)	dub=0:1267206
 Partida Fria	dub=2:770492	leg=2:762644
 Partida Fria (2019)	dub=0:1044029	leg=0:1036089
@@ -402,6 +399,7 @@ Pateta 2 - Radicalmente Pateta (2000)	dub=0:1268741
 Pato Pato Ganso (2018)	dub=0:1269859
 Patos!	dub=2:646024
 Patos! (2023)	dub=0:1062037,0:1022090	leg=0:1249296
+Patricia, Uma Paixão Escondida	dub=2:653379
 Patricia, Uma Paixão Escondida (2020)	dub=0:1054896
 Patrick: Aprendendo a Amar	dub=2:650096,2:651479	leg=2:670894
 Patrick: Aprendendo a Amar (2018)	dub=0:1067605	leg=0:1249537
@@ -440,6 +438,7 @@ Paulo - O Apostolo de Cristo	dub=2:645887
 Paulo - O Apostolo de Cristo (2018)	dub=0:1042404
 Paulo de Tarso e A História do Cristianismo Primitivo	dub=2:645881
 Paulo de Tarso e A História do Cristianismo Primitivo (2019)	dub=0:1045236
+Paulo, Apóstolo de Cristo	dub=2:897173
 Paulo, Apóstolo de Cristo (2018)	leg=0:1036526
 Pavana	dub=2:905558,2:911613
 Pavana (2026)	dub=0:1257223	leg=0:1267811
@@ -465,7 +464,6 @@ Pecados de Guerra	dub=2:653005,2:654181
 Pecados de Guerra (1989)	dub=0:1066872
 Pedagogia do Abandono	dub=2:913832
 Pedagogia do Abandono 4K (2026)	dub=0:1265814,0:1265809
-Pedalando Até O Fim" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uhYZEOkOEByyEMD8C6oUPn7gAa.jpg" group-title="Documentarios",Mark Cavendish, Pedalando Até O Fim	dub=2:647945
 Pedido De Casamento (2017)	dub=0:1271691
 Pedido Irlandês	dub=2:645370
 Pedido Irlandês (2024)	dub=0:1038783,0:1022915	leg=0:1030856
@@ -504,6 +502,7 @@ Pegar e Largar (2006)	dub=0:1064947
 Pegasus Legendado (2019)	dub=0:1046443
 Pegasus: Pônei com uma Asa Quebrada	dub=2:646751
 Pegasus: Pônei com uma Asa Quebrada (2019)	dub=0:1068845
+Peggy Sue, Seu Passado a Espera	dub=2:651396
 Peggy Sue, Seu Passado a Espera (1986)	dub=0:1038901
 Pegue a Bala	dub=2:645155
 Pegue a Bala (2021)	dub=0:1069078	leg=0:1024906
@@ -561,7 +560,6 @@ Pequena Grande Vida	dub=2:651721
 Pequena Grande Vida (2017)	dub=0:1059739
 Pequena Mamãe 4K (2021)	dub=0:1022839
 Pequena Miss Sunshine (2006)	dub=0:1272587	leg=0:1272605
-Pequena Mulher" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wCAbCoD5qPyMxrzaAl1os9pPjGK.jpg" group-title="Filmes | Comedia",Grande Menina, Pequena Mulher	dub=2:762856
 Pequena Mãe	dub=2:652887
 Pequena Mãe (2021)	dub=0:1066942	leg=0:1031629
 Pequena Sibéria	dub=2:762863	leg=2:762459
@@ -659,6 +657,7 @@ Perfekta - Uma Aventura da Escola de Gênios	dub=2:739609
 Perfekta - Uma Aventura da Escola de Gênios (2024)	dub=0:1068138
 Perfume de Mulher	dub=2:653687
 Perfume de Mulher (1992)	dub=0:1042786
+Perfume, Historia de um Assassino	dub=2:654179
 Perfume, Historia de um Assassino (2006)	dub=0:1039774
 Perfume: A História de um Assassino	dub=2:901917
 Perfume: A História de um Assassino (2006)	leg=0:1264903
@@ -702,7 +701,6 @@ Permissao (2017)	dub=0:1044543
 Permissao (2018)	dub=0:1270921
 Permitidos	dub=2:885090
 Permitidos (2016)	dub=0:1064294	leg=0:1025672
-Pero no Mucho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mNAb8OTrlhW5eFwlsPUW3CRXCXh.jpg" group-title="Filmes | Nacionais",Família, Pero no Mucho	dub=2:884940
 Perola No Paraiso	dub=2:651614
 Perola No Paraiso (2018)	dub=0:1049717
 Perra Vida	dub=2:650142
@@ -817,6 +815,7 @@ Peçanha Contra o Animal	dub=2:650847
 Peçanha Contra o Animal (2021)	dub=0:1052404
 Peões (2004)	dub=0:1267162
 Phantoms of July Legendado (2025)	dub=0:1263037
+Phineas e Ferb, O Filme: Candace Contra o Universo	dub=2:646424
 Phineas e Ferb, O Filme: Candace Contra o Universo (2020)	dub=0:1062552
 Phobias	dub=2:654884
 Phobias (2021)	dub=0:1058354	leg=0:1033106
@@ -971,10 +970,10 @@ Plankton: O Filme (2025)	dub=0:1038052	leg=0:1038360
 Plano 75 (2022)	dub=0:1271666	leg=0:1273104
 Plano A	dub=2:647314
 Plano A (2021)	dub=0:1045442	leg=0:1033266
+Plano A, Plano B	dub=2:645516
 Plano A, Plano B (2022)	dub=0:1064212	leg=0:1030420
 Plano B	dub=2:645684
 Plano B (2010)	dub=0:1065630
-Plano B" tvg-logo="http://gstaticontent.com/images/c4e5de90f3d1dfb1a7277a6b757a9beb.jpg" group-title="Filmes | Romance",Plano A, Plano B	dub=2:645516
 Plano Quase Perfeito	dub=2:651394
 Plano Quase Perfeito (2017)	dub=0:1052313
 Plano de Aposentadoria	dub=2:650166
@@ -998,9 +997,11 @@ Plataforma do Medo	dub=2:655021,2:655225
 Plataforma do Medo (2004)	dub=0:1070719
 Platoon	dub=2:649779
 Platoon (1986)	dub=0:1066625
+Plauto, Um Sopro Musical	dub=2:914178
 Plauto, Um Sopro Musical (2023)	dub=0:1267298
 Play Dead: Nos Bastidores Da Morte	dub=2:654790
 Play Dead: Nos Bastidores Da Morte (2022)	dub=0:1058182	leg=0:1024522
+Play It Again, Charlie Brown	dub=2:818313
 Play It Again, Charlie Brown (1971)	dub=0:1071656	leg=0:1026273
 Players Club	dub=2:884520
 Players Club (1998)	dub=0:1053554	leg=0:1034316
@@ -1016,6 +1017,7 @@ Pluft: O Fantasminha	dub=2:650506
 Pluft: O Fantasminha (2022)	dub=0:1040044
 Plutão	dub=2:884920
 Plutão (2023)	dub=0:1072475	leg=0:1072489
+Pobre Familia Rica, Quando a Sorte Acaba	dub=2:650606
 Pobre Familia Rica, Quando a Sorte Acaba (2020)	dub=0:1067870	leg=0:1036109
 Pobres Criaturas	dub=2:645374
 Pobres Criaturas (2023)	dub=0:1060229,0:1023345	leg=0:1249503
@@ -1026,7 +1028,6 @@ Pocahontas II: Uma Jornada Para o Novo Mundo (1998)	dub=0:1062208	leg=0:1023742
 Pocao da Juventude (2013)	dub=0:1271116
 Pode Guardar Um Segredo?	dub=2:645699
 Pode Guardar Um Segredo? (2019)	dub=0:1065759
-Pode Ser Seu Próprio Herói Ou Vilão" tvg-logo="http://gstaticontent.com/images/159c4caf68795e98354b357d75236e2d.jpg" group-title="Filmes | Comedia",Valentino, Pode Ser Seu Próprio Herói Ou Vilão	dub=2:650593
 Pode me Chamar de Noel	dub=2:897032
 Pode me Chamar de Noel (2001)	dub=0:1266234	leg=0:1266200
 Podecrer!	dub=2:739596
@@ -1096,6 +1097,7 @@ Pokémon o Filme: O Poder de Todos (2018)	dub=0:1068275
 Pokémon o Filme: Preto - Victini e Reshiram	dub=2:646434
 Pokémon o Filme: Preto - Victini e Reshiram (2011)	dub=0:1067406
 Pokémon o Filme: Volcanion e a Maravilha Mecânica	dub=2:646429,2:646501
+Pokémon, o Filme: Segredos da Selva	dub=2:646260
 Pokémon, o Filme: Segredos da Selva (2020)	dub=0:1061511	leg=0:1030504
 Pokémon: Arceus e a Jóia da Vida	dub=2:646437
 Pokémon: Arceus e a Jóia da Vida (2009)	dub=0:1061601
@@ -1120,6 +1122,7 @@ Pole Dance: Dança do Poder	dub=2:648184
 Pole Dance: Dança do Poder (2021)	dub=0:1048853
 Poli II - O Fusquinha da Polícia	dub=2:646191
 Poli II - O Fusquinha da Polícia (2013)	dub=0:1061826
+Poli, O Fusquinha de Polícia	dub=2:646190
 Poli, O Fusquinha de Polícia (2010)	dub=0:1062785
 Policarpo Quaresma, Heroi do Brasil (1998)	dub=0:1266315
 Police Story 2 Codinome Radical (1988)	dub=0:1265636
@@ -1151,8 +1154,6 @@ Poltergeist III: O Capítulo Final (1988)	dub=0:1059417
 Poltergeist O Fenomeno (2015)	dub=0:1059041
 Poltergeist: O Fenômeno	dub=2:655064,2:655190
 Poltergeist: O Fenômeno (1982)	dub=0:1058705
-Polêmico e Fugitivo " tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg" group-title="Filmes | Legendados",John McAfee: Gênio, Polêmico e Fugitivo	leg=2:762627
-Polêmico e Fugitivo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg" group-title="Documentarios",John McAfee: Gênio, Polêmico e Fugitivo	dub=2:770256
 PomPoko: A Grande Batalha dos Guaxinins (1994)	dub=0:1270387
 Pompeia	dub=2:649778
 Pompeia (2014)	dub=0:1045942
@@ -1227,6 +1228,7 @@ Por que eu Senhor (2011)	dub=0:1040338
 Por que eu me casei? (2007)	dub=0:1264792
 Por um Corredor Escuro	dub=2:655436
 Por um Fio	dub=2:647649
+Por um Momento, Para Sempre	dub=2:884748
 Por um Momento, Para Sempre (2022)	dub=0:1064024	leg=0:1032412
 Por um Punhado de Dolares (1964)	dub=0:1269104	leg=0:1268080
 Por uns Dólares a Mais (1965)	dub=0:1069390	leg=0:1036566
@@ -1336,6 +1338,7 @@ Pray Away	dub=2:648162
 Pray Away (2021)	dub=0:1048617	leg=0:1033738
 Prazer Sem Limites	dub=2:884673
 Prazer Sem Limites (2023)	dub=0:1248798	leg=0:1031570
+Prazer, Kalinda	dub=2:652901
 Prazer, Kalinda (2021)	dub=0:1045374	leg=0:1025160
 Prazeres Mortais	dub=2:647554
 Prazeres Mortais (2014)	dub=0:1044452
@@ -1446,7 +1449,6 @@ Pressão Máxima	dub=2:735974	leg=2:762709
 Pressão Máxima (2023)	dub=0:1051321	leg=0:1026652
 Preta - Eu Não Ando Só	dub=2:922703
 Preta - Eu Não Ando Só (2026)	dub=0:1273274
-Preto Fica" tvg-logo="http://gstaticontent.com/images/82b908bd6ddc21654250c307a0cfc980.jpg" group-title="Documentarios",Branco Sai, Preto Fica	dub=2:648147
 Preto e Branco	dub=2:770451	leg=2:762472
 Preto e Branco (1999)	dub=0:1041215	leg=0:1025712
 Preto ou Branco	dub=2:653108
@@ -1464,7 +1466,6 @@ Primal: Tales of Savagery	dub=2:645972
 Primal: Tales of Savagery (2019)	dub=0:1062057	leg=0:1024792
 Primavera	dub=2:901451
 Primavera (2022)	dub=0:1043044
-Primavera Brasileira" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2vluF4SGnCSihbTUEvsfWhL6uTD.jpg" group-title="Documentarios",Ibiúna, Primavera Brasileira	dub=2:647856
 Primavera na Pele	dub=2:762930
 Primavera na Pele (1983)	dub=0:1248848
 Primeiro Ano	dub=2:651530
@@ -1497,6 +1498,7 @@ Prisao Estelar	dub=2:646975
 Prisao Estelar (2018)	dub=0:1059896
 Priscilla	dub=2:736088	leg=2:762521
 Priscilla (2023)	dub=0:1064776	leg=0:1027475
+Priscilla, a Rainha do Deserto	dub=2:770503
 Priscilla, a Rainha do Deserto (1994)	dub=0:1054388
 Prisioneira do Terror	dub=2:907191
 Prisioneira do Terror (2024)	dub=0:1272300	leg=0:1272302
@@ -1615,6 +1617,7 @@ Projeto Mercury Os Sete Escolhidos	dub=2:648198
 Projeto Mercury Os Sete Escolhidos (2020)	dub=0:1045752
 Projeto Natal dos Sonhos	dub=2:645047
 Projeto Natal dos Sonhos (2020)	dub=0:1050204	leg=0:1249589
+Projeto Secreto, Macacos	dub=2:911578
 Projeto Secreto, Macacos (1987)	dub=0:1272410
 Projeto Silêncio	dub=2:914177
 Projeto Wetware	dub=2:644643
@@ -1630,6 +1633,7 @@ Promoção do Século	dub=2:650568
 Promoção do Século (2022)	dub=0:1045273	leg=0:1025225
 Pronta para Amar (2011)	dub=0:1267196
 Pronto Falei (2018)	dub=0:1266567
+Pronto, Falei	dub=2:650488
 Pronto, Falei (2022)	dub=0:1055053
 Proposta Indecente	dub=2:652366
 Proposta Indecente (1993)	dub=0:1063815
@@ -1700,7 +1704,6 @@ Psychokinesis	dub=2:648297	leg=2:670421
 Psychokinesis (2018)	dub=0:1039365	leg=0:1034929
 Puan	dub=2:650159
 Puan (2023)	dub=0:1053640	leg=0:1023658
-Pudor e Lágrimas 2" tvg-logo="http://gstaticontent.com/images/20e03d18d76bdc48fc12243559606596.jpg" group-title="Filmes | Comedia",Sexo, Pudor e Lágrimas 2	dub=2:650731
 Pulando a Vassoura	dub=2:651581
 Pulando a Vassoura (2011)	dub=0:1054328
 Pulimada (2023)	dub=0:1269124
@@ -1799,4 +1802,3 @@ Pétalas ao Vento	dub=2:736099	leg=2:762672
 Pétalas ao Vento (2014)	dub=0:1049905	leg=0:1024457
 Póstumo	dub=2:650892
 Póstumo (2014)	dub=0:1040720
-por Tyler Perry" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tQOtFmt72xvpvI3e4LjQ7MYMtEB.jpg" group-title="Filmes | Drama",Divórcio em Família, por Tyler Perry	dub=2:652119

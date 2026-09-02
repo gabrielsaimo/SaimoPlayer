@@ -80,11 +80,6 @@ Lanternas		0	1
 Lapis ReLiGHTs		0	12
 Lar Sombrio Lar	2019	0	6
 Lar Sombrio Lar		0	6
-Lara S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara		0	1
-Lara S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara		0	1
-Lara S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara		0	1
-Lara S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara		0	1
-Lara S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara		0	1
 Lara com Z	2011	0	14
 Lara com Z		0	14
 Largados Pelados e Congelados	2015	0	6
@@ -110,6 +105,7 @@ Largados e Pelados: Sozinhos		0	8
 Largados em Alto Mar	2023	0	9
 Largados em Alto Mar		0	9
 Largados, Pelados e Apaixonados	2021	0	12
+Largados, Pelados e Apaixonados		0	12
 Largados, Pelados e Solitários		0	8
 Larry e a Busca da Infelicidade		0	7
 Larva Island	2018	0	26
@@ -118,10 +114,10 @@ Las Bravas F.C		0	16
 Las Bravas FC	2022	0	16
 Las Bravas FC		0	8
 Last Chance U: Basketball	2021	0	8
-Last Chance U: Basketball		1	8
-Last Light	2022	1	5
-Last Light		1	5
-Late Night Lockup Ronda Policial	2023	1	6
+Last Chance U: Basketball		0	8
+Last Light	2022	0	5
+Last Light		0	5
+Late Night Lockup Ronda Policial	2023	0	6
 Late Night Lockup Ronda Policial		1	6
 Latin Flow		1	13
 Launchpad	2021	1	6
@@ -214,20 +210,11 @@ Leviata	2025	1	12
 Leviata		1	12
 Levius	2019	1	12
 Levius		1	12
-Lewis e Tolkien S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg" group-title="Series | Brasil Paralelo",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien		1	1
-Lewis e Tolkien S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg" group-title="Series | Brasil Paralelo",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien		1	1
-Lewis e Tolkien S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg" group-title="Series | Brasil Paralelo",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien		1	1
 Lexa: Mostra Esse Poder	2021	1	5
 Lexa: Mostra Esse Poder		1	5
 Leyla: Sombras do Passado		1	68
-Liar S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vP8fLo1RYsw4YT9EeFli4ZOeZMf.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fWSG5Kw4j3zDBJMyCmiXDA2aNZN.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g89OtXv6QYzyM4ivCVuFWOCL2IE.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uap8KXxjEBry5m92C1rfXWMAXEp.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mclf7h9dg7r6vZCQUPFSpKXDWYT.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j7WRAWnNlh8Iad8LSdWeHIoiEZq.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
-Liar S01 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A0bEBSdrB0wqUq81X277AyTfsn6.jpg" group-title="Series | Legendadas",Liar, Liar		1	1
 Liar, Liar	2023	1	7
+Liar, Liar		1	7
 Libere a Maldicao do Taekwondo		1	8
 Licao de Amor		1	12
 Lies Hidden in My Garden	2023	1	8
@@ -238,19 +225,19 @@ Life Love on the Line	2020	1	4
 Life Love on the Line		1	4
 Life on Mars	2008	1	17
 Life on Mars		1	17
-Lifeline	2017	2	8
-Lifeline		2	8
-Liga da Justica	2001	2	52
-Liga da Justica		2	52
-Liga da Justiça Sem Limites	2004	2	39
-Liga da Justiça Sem Limites		2	39
-Liga do Fogao	2019	2	16
-Liga do Fogao		2	16
-Ligados pelo Pecado	2025	2	20
-Ligados pelo Pecado		2	20
-Ligações Perigosas	2022	2	8
-Ligações Perigosas		2	8
-Light & Magic	2022	2	6
+Lifeline	2017	1	8
+Lifeline		1	8
+Liga da Justica	2001	1	52
+Liga da Justica		1	52
+Liga da Justiça Sem Limites	2004	1	39
+Liga da Justiça Sem Limites		1	39
+Liga do Fogao	2019	1	16
+Liga do Fogao		1	16
+Ligados pelo Pecado	2025	1	20
+Ligados pelo Pecado		1	20
+Ligações Perigosas	2022	1	8
+Ligações Perigosas		1	8
+Light & Magic	2022	1	6
 Light & Magic		2	6
 Light On Me	2021	2	16
 Light On Me		2	16
@@ -358,19 +345,19 @@ Losing Alice	2020	2	8
 Losing Alice		2	8
 Losmen Bu Broto A Serie	2025	2	8
 Losmen Bu Broto A Serie		2	8
-Lost		3	120
-Lost	2020	3	119
-Lost Girl	2010	3	55
-Lost Girl		3	55
-Lost To You		3	12
-Louca Compulsão	2010	3	47
-Louca Compulsão		3	47
-Louco por Você	1992	3	164
-Louco por Você		3	164
-Loucos Por Pimenta	2024	3	10
-Loucos Por Pimenta		3	10
-Loucos Um Pelo Outro	2021	3	12
-Loucos Um Pelo Outro		3	12
+Lost		2	120
+Lost	2020	2	119
+Lost Girl	2010	2	55
+Lost Girl		2	55
+Lost To You		2	12
+Louca Compulsão	2010	2	47
+Louca Compulsão		2	47
+Louco por Você	1992	2	164
+Louco por Você		2	164
+Loucos Por Pimenta	2024	2	10
+Loucos Por Pimenta		2	10
+Loucos Um Pelo Outro	2021	2	12
+Loucos Um Pelo Outro		2	12
 Loucos por Churrasco	2011	3	55
 Loucos por Churrasco		3	55
 Loudermilk	2017	3	10
@@ -422,6 +409,7 @@ Love is Like a Cat		3	12
 Love to Hate You	2023	3	10
 Love to Hate You		3	10
 Love, Death & Robots	2019	3	45
+Love, Death & Robots		3	45
 LoveSick	2024	3	16
 LoveSick		3	16
 Lovecraft Country	2020	3	10
@@ -437,6 +425,7 @@ Lua Negra		3	6
 Lua de Mel Mortal	2021	3	4
 Lua de Mel Mortal		3	4
 Lucas, a Aranha	2017	3	26
+Lucas, a Aranha		3	26
 Lucifer		3	93
 Lucky		3	7
 Lucky Fred	2011	3	52
@@ -478,8 +467,8 @@ Luz		3	20
 Luz do Meu Leao	2024	3	11
 Luz do Meu Leao		3	11
 Luz para a Noite		3	28
-Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		4	4
-Lycoris Recoil	2022	4	13
-Lycoris Recoil		4	13
-Lynley	2025	4	4
-Lynley		4	4
+Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		3	4
+Lycoris Recoil	2022	3	13
+Lycoris Recoil		3	13
+Lynley	2025	3	4
+Lynley		3	4

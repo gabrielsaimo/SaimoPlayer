@@ -61,6 +61,7 @@ Valentina	dub=2:653132
 Valentina (2020)	dub=0:1040637
 Valentina Despertando Para Os Sonhos	dub=2:646045
 Valentina Despertando Para Os Sonhos (2021)	dub=0:1071423	leg=0:1029831
+Valentino, Pode Ser Seu Próprio Herói Ou Vilão	dub=2:650593
 Valentino, Pode Ser Seu Próprio Herói Ou Vilão (2022)	dub=0:1053061	leg=0:1249578
 Valerian e a Cidade dos Mil Planetas	dub=2:646987
 Valerian e a Cidade dos Mil Planetas 4K (2017)	dub=0:1249641,0:1059568
@@ -100,7 +101,6 @@ Vampiros de John Carpenter	dub=2:703557	leg=2:762696
 Vampiros de John Carpenter (1998)	dub=0:1039059	leg=0:1249515
 Vampiros: A Conversão (2005)	dub=0:1268892	leg=0:1268939
 Van Gogh A Criacao de Um Mestre (2023)	dub=0:1269126
-Van Gogh" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg" group-title="Filmes | Drama",Com Amor, Van Gogh	dub=2:911588
 Van Helsing - O Cacador De Monstros	dub=2:655452,2:823002
 Van Helsing - O Cacador De Monstros (2004)	dub=0:1056196	leg=0:1029801
 Van Helsing de Bram Stoker	dub=2:654773
@@ -234,6 +234,7 @@ Verde-Esperanza: Aborto Legal na América Latina (2022)	dub=0:1291002
 Vermelho Monet	dub=2:884911
 Vermelho Monet (2024)	dub=0:1248835
 Vermelho Sol (2018)	dub=0:1264806
+Vermelho, Branco e Sangue Azul	dub=2:650373
 Vermelho, Branco e Sangue Azul (2023)	dub=0:1064402	leg=0:1030439
 Vermiglio (2024)	dub=0:1268537	leg=0:1034558
 Vermiglio: A Noiva da Montanha	dub=2:922244
@@ -258,7 +259,6 @@ Verão: A Summer Romance	dub=2:645446
 Verão: A Summer Romance (2019)	dub=0:1049527	leg=0:1035985
 Verônica	dub=2:884949
 Verônica (2009)	dub=0:1051389
-Verônica" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ii9tMkXwfyQjIvZOgxXE4KrNEPl.jpg" group-title="Filmes | Drama",Era Uma Vez Eu, Verônica	dub=2:884833
 Vesper (2022)	dub=0:1270247
 Vestibular para a Vida (2024)	leg=0:1267075
 Vestida Para Matar	dub=2:647500
@@ -322,8 +322,6 @@ Vic o Viking e a Espada Mágica (2019)	dub=0:1063189
 Vice	dub=2:654091
 Vice (2018)	dub=0:1054637
 Vice Is Broke (2025)	dub=0:1270928	leg=0:1249917
-Viciadas em Dinheiro" tvg-logo="http://gstaticontent.com/images/pMaygAnovaDuwZCAPdKZEpyM8uQ_big.jpg" group-title="Filmes | Comedia",Loucas por Amor, Viciadas em Dinheiro	dub=2:651833
-Viciadas em Dinheiro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/pMaygAnovaDuwZCAPdKZEpyM8uQ.jpg" group-title="Filmes | Acao",Loucas Por Amor, Viciadas em Dinheiro	dub=2:648850
 Viciados em Amor	dub=2:645373
 Viciados em Amor (2023)	dub=0:1063734	leg=0:1031129
 Vicky Cristina Barcelona	dub=2:645542
@@ -475,7 +473,6 @@ Vingança à Queima-Roupa (1998)	dub=0:1047722
 Vingança à Sangue Frio	dub=2:647593,2:649703
 Vingança à Sangue Frio (2019)	dub=0:1044641
 Vingt Dieux (2024)	leg=0:1036613
-Vini" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/2yzoEUZTf41h6SXVz6V0Z9fHkHN.jpg" group-title="Documentarios",Baila, Vini	dub=2:846485
 Vinicius	dub=2:648145
 Vinicius (2005)	dub=0:1072163
 Vinski - O Herói Invisível	dub=2:896993,2:900667
@@ -511,7 +508,6 @@ Virando o Jogo (2021)	dub=0:1040624	leg=0:1027594
 Virando o jogo (2000)	dub=0:1271484
 Virei um Gato	dub=2:650720
 Virei um Gato (2016)	dub=0:1039853
-Virei uma Garota!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/b4Vt2IKLYpCRvouqGNj4hbft4Vk.jpg" group-title="Filmes | Comedia",Socorro, Virei uma Garota!	dub=2:884514
 Virgem Maria	dub=2:652010	leg=2:670340
 Virgem Maria (2024)	dub=0:1045521	leg=0:1024948
 Virgínia e Adelaide	dub=2:901444
@@ -571,12 +567,12 @@ Viver Duas Vezes	dub=2:651458
 Viver Duas Vezes (2019)	dub=0:1053205
 Viver e Morrer em Los Angeles (1985)	dub=0:1263352
 Viver para cantar (2019)	dub=0:1269724
+Viver, Amar e Aprender	dub=2:652028	leg=2:670412
 Viver, Amar e Aprender (2021)	dub=0:1053056	leg=0:1026412
 Vivo	dub=2:648008
 Vivo (2021)	leg=0:1024147
 Vivo ou Morto	dub=2:650233
 Vivo ou Morto (2023)	dub=0:1049611
-Vivo ou Morto" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1K63iGAdlkCWu8RyBsDyVG9hdYv.jpg" group-title="Filmes | Crime",Mineirinho, Vivo ou Morto	dub=2:901923
 Vivo ou Morto: Um Mistério Knives Out	dub=2:900460,2:901234
 Vivo ou Morto: Um Mistério Knives Out 4K (2025)	dub=0:1266332,0:1254739	leg=0:1264697
 Vivos	dub=2:653745
@@ -599,6 +595,7 @@ Vizinhos Nada Secretos	dub=2:651637
 Vizinhos Nada Secretos (2016)	dub=0:1047674
 Viúva Negra	dub=2:649024
 Vjeran Tomic: O Homem-Aranha de Paris	dub=2:920917
+Vlavianos, o Impulso e a Razão	dub=2:910623
 Vlavianos, o Impulso e a Razão (2025)	dub=0:1272141
 Voando Alto	dub=2:646511,2:651502
 Voando Alto (2016)	dub=0:1045829
@@ -618,11 +615,8 @@ Voce e o Proximo (2013)	dub=0:1069828
 Voce e o Universo (2025)	dub=0:1265822	leg=0:1038284
 Você Acredita?	dub=2:645861
 Você Acredita? (2015)	dub=0:1042362
-Você Dorme Comigo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/tNHOildeM8pRcHUQE85IHh6DxkR.jpg" group-title="Filmes | Romance",Esta Noite, Você Dorme Comigo	dub=2:645478
+Você Está Apaixonado, Charlie Brown	dub=2:818318
 Você Está Apaixonado, Charlie Brown (1967)	dub=0:1049972	leg=0:1024000
-Você Está Aí? " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t2dwWZ5pDvxieFBhh25Lyg1ZLie.jpg" group-title="Filmes | Legendados",Charlie, Você Está Aí?	leg=2:670790
-Você Está Aí?" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/t2dwWZ5pDvxieFBhh25Lyg1ZLie.jpg" group-title="Filmes | Terror",Charlie, Você Está Aí?	dub=2:654469
-Você Está Sendo Filmado" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/vsUmlZDp7xHH5wEcctDOq0DHciH.jpg" group-title="Filmes | Nacionais",Sorria, Você Está Sendo Filmado	dub=2:739606
 Você Já Foi à Bahia? (1944)	dub=0:1071642
 Você Nem Imagina	dub=2:651383
 Você Nem Imagina (2020)	dub=0:1065374	leg=0:1272256
@@ -634,6 +628,7 @@ Você Não Estará Só!	dub=2:654867
 Você Não Estará Só! (2022)	dub=0:1057933	leg=0:1035997
 Você Não Está Sozinha	dub=2:654699
 Você Não Está Sozinha (2020)	dub=0:1043988	leg=0:1032743
+Você Não Foi Eleito, Charlie Brown	dub=2:818304
 Você Não Foi Eleito, Charlie Brown (1972)	dub=0:1062068	leg=0:1033059
 Você Não Pode Chorar	dub=2:652039	leg=2:670517
 Você Não Pode Chorar (2022)	dub=0:1041490	leg=0:1024049
@@ -648,6 +643,7 @@ Você Vai Lembrar Meu Nome (2022)	dub=0:1041746	leg=0:1032943
 Você Vai Morrer em 6 Horas	dub=2:903359
 Você Vai Morrer em 6 Horas (2024)	dub=0:1267507	leg=0:1267330
 Você ou eu? (2026)	leg=0:1272155
+Você É O Maior, Charlie Brown	dub=2:818319
 Você É O Maior, Charlie Brown (1979)	dub=0:1050067	leg=0:1026586
 Você é Minha Casa	dub=2:653039
 Você é Minha Casa (2020)	dub=0:1068719
@@ -744,6 +740,7 @@ Vulcões e Tubarões: Havaí (2023)	dub=0:1048292
 Vulcões: A Tragédia de Katia e Maurice Krafft	dub=2:648051
 Vulcões: A Tragédia de Katia e Maurice Krafft (2022)	dub=0:1048309
 Vyzov (2023)	leg=0:1027320
+Véu, Sangue e Grinalda	dub=2:901222,2:902512
 Véu, Sangue e Grinalda (2022)	dub=0:1266963
 Vênus Negra (2010)	leg=0:1033836
 Vício Frenético	dub=2:653310

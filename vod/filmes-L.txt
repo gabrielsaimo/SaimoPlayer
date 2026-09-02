@@ -116,6 +116,7 @@ Lakatabu (2024)	dub=0:1270899
 Lali Hora de dar um Passo a Frente (2025)	dub=0:1266283	leg=0:1265679
 Lamb (2021)	dub=0:1267915
 Lamb (2022)	dub=0:1266412
+Lambada, A Dança Proibida	dub=2:645714
 Lambada, A Dança Proibida (1990)	dub=0:1063911
 Lamborghini: O Homem Por Trás da Lenda	dub=2:652325
 Lamborghini: O Homem Por Trás da Lenda (2022)	dub=0:1045184	leg=0:1033826
@@ -315,7 +316,6 @@ Leo (2023)	dub=0:1067765	leg=0:1028851
 Leo Da Vinci: Missão Mona Lisa	dub=2:646253
 Leo Da Vinci: Missão Mona Lisa (2018)	dub=0:1062765
 Leo Doce e Sangrento (2023)	dub=0:1265962
-Leo Grande" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/dBDDdt8uRHu6nn6p94mZQ885q3F.jpg" group-title="Filmes | Comedia",Boa Sorte, Leo Grande	dub=2:650414
 Leo, o Rei Leão (1994)	dub=0:1273188
 Leoes Marinhos de Galapagos (2025)	dub=0:1266161	leg=0:1037226
 Leona	dub=2:652743
@@ -450,7 +450,7 @@ Lilo & Stitch 2: Stitch Deu Defeito	dub=2:646023
 Lilo & Stitch 2: Stitch Deu Defeito (2005)	dub=0:1062326
 Lilo e Stitch	dub=2:646665
 Lilo e Stitch (2002)	dub=0:1061834
-Lilo, Crocodilo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg" group-title="Filmes | Comedia",Lilo, Lilo, Crocodilo	dub=2:650562
+Lilo, Lilo, Crocodilo	dub=2:650562
 Lilo, Lilo, Crocodilo (2022)	dub=0:1071727	leg=0:1029194
 Lima Barreto ao Terceiro Dia	dub=2:652653
 Lima Barreto ao Terceiro Dia (2022)	dub=0:1040655
@@ -544,7 +544,6 @@ Livros Restantes	dub=2:904958
 Livros Restantes (2025)	dub=0:1267521
 Livros de Sangue (2020)	dub=0:1268737
 Lixo Extraordinario (2010)	dub=0:1270677
-Liza" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dAjQy6CpYMTZ4ClrcaeJcoT3UHa.jpg" group-title="Filmes | Comedia",Com Amor, Liza	dub=2:884522
 Lizzie	dub=2:653227,2:654107
 Lizzie (2018)	dub=0:1052300
 Lizzie McGuire Um Sonho Popstar	dub=2:651139
@@ -656,11 +655,13 @@ Loucademia de Policia 7 - Missao Moscou	dub=2:651836
 Loucademia de Policia 7 - Missao Moscou (1994)	dub=0:1052699
 Loucas Aventuras em Punjab	dub=2:650118
 Loucas Aventuras em Punjab (2024)	dub=0:1056258	leg=0:1026647
+Loucas Por Amor, Viciadas em Dinheiro	dub=2:648850,2:651833
 Loucas Por Amor, Viciadas em Dinheiro (2008)	dub=0:1052729
 Loucas Pra Casar	dub=2:651834
 Loucas Pra Casar (2015)	dub=0:1054495
 Loucas em Apuros	dub=2:650324
 Loucas em Apuros (2023)	dub=0:1053717	leg=0:1025624
+Louco Não, Doido	dub=2:647887
 Louco Não, Doido (2020)	dub=0:1048438	leg=0:1029654
 Louco Por Você	dub=2:645540
 Louco Por Você (2000)	dub=0:1064846
@@ -669,7 +670,6 @@ Louco por Elas (2003)	dub=0:1065208
 Loucos Por Ela (2019)	dub=0:1272545	leg=0:1272584
 Loucos de Dar Nó (1980)	dub=0:1272780	leg=0:1272941
 Loucos e Perigosos (2017)	dub=0:1269213
-Loucos e Rebeldes" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ohzOag8jcGOG3pxAl0e09FkdWNs.jpg" group-title="Filmes | Comedia",Jovens, Loucos e Rebeldes	dub=2:884588
 Loucos por Dinheiro (2012)	dub=0:1269867
 Loucos por Justiça	dub=2:649001
 Loucos por Justiça (2020)	dub=0:1046860
@@ -722,7 +722,6 @@ Love You to Debt (2024)	dub=0:1270217	leg=0:1030255
 Love and Wine (2025)	dub=0:1254624
 Love in the Forecast (2020)	dub=0:1270689	leg=0:1026303
 Love in the Maldives (2023)	dub=0:1271371	leg=0:1249333
-Love, Again " tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/7R940b9RNNKLDrAI1GmCjOd5ta.jpg" group-title="Filmes | Legendados",Hello, Love, Again	leg=2:762683
 Lovelace	dub=2:653278
 Lovelace (2013)	dub=0:1042290
 Lovely, Dark, and Deep (2023)	leg=0:1030253
@@ -809,10 +808,10 @@ Lucky Duck (2014)	dub=0:1269484
 Lucky Luke (1991)	dub=0:1271384
 Lucy	dub=2:649862
 Lucy (2014)	dub=0:1059560,0:1023203
+Lucy Must Be Traded, Charlie Brown	dub=2:818305
 Lucy Must Be Traded, Charlie Brown (2003)	dub=0:1062141	leg=0:1033241
 Lucy in the Sky	dub=2:653861
 Lucy in the Sky (2019)	dub=0:1043499
-Lucy!" tvg-logo="http://gstaticontent.com/images/32205c45aa935153e3ec9273ed899481.jpg" group-title="Filmes | Animacao",Snoopy Apresenta: Feliz Ano Novo, Lucy!	dub=2:646244
 Ludo	dub=2:651293
 Ludo (2020)	dub=0:1052628
 Ludwig - Requiem für einen jungfräulichen König (1972)	dub=0:1291003
@@ -827,6 +826,7 @@ Lukas (2018)	dub=0:1047769
 Lulli	dub=2:644372
 Lulli (2021)	dub=0:1039017
 Lulu Live (2021)	dub=0:1071616
+Lulu, a Rinoceronte	dub=2:818303
 Lulu, a Rinoceronte 4K (2025)	dub=0:1267530,0:1037461	leg=0:1038304
 Lumberjack the Monster (2023)	dub=0:1269357	leg=0:1031070
 Lumina (2024)	dub=0:1266378
@@ -877,8 +877,7 @@ Lutando Por Um Sonho	dub=2:653963
 Lutando Por Um Sonho (2017)	dub=0:1042248
 Lutar ou Morrer	dub=2:654530
 Lutar ou Morrer (2021)	dub=0:1057961	leg=0:1249154
-Lutar, Lutar" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4e7JBYHF7UDBHYwOKUqPKGYloAY.jpg" group-title="Documentarios",Lutar, Lutar, Lutar	dub=2:648036
-Lutar, Lutar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mSqDWnzKPq7hHOlcBWp6LRkGAj2.jpg" group-title="Documentarios",Lutar, Lutar, Lutar	dub=2:770248
+Lutar, Lutar, Lutar	dub=2:648036,2:770248
 Lutar, Lutar, Lutar (2021)	dub=0:1048850
 Lutero	dub=2:645917
 Lutero (2003)	dub=0:1045971
@@ -888,12 +887,14 @@ Luz Del Fuego (1982)	dub=0:1273246
 Luz Fantasma	dub=2:909095
 Luz Fantasma (2024)	dub=0:1268014	leg=0:1268017
 Luz Natural (2021)	dub=0:1270143
+Luz, Anima, Ação	dub=2:849243
 Luz, Anima, Ação (2013)	dub=0:1049237
+Luz, Câmera, Assassinato!	dub=2:654414	leg=2:670432
 Luz, Câmera, Assassinato! (2019)	dub=0:1043226	leg=0:1036188
+Luz, Câmera, Ação	dub=2:803809
 Luz, Câmera, Ação (2023)	dub=0:1046607	leg=0:1025075
 Luzes da Cidade	dub=2:650908
 Luzes da Cidade (1931)	dub=0:1065080
-Luzes, Festas!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/1LX1s07Bh7PZYngXpat7614qL5N.jpg" group-title="Filmes | Drama",Amor, Luzes, Festas!	dub=2:652575
 Luzia Homem (1988)	dub=0:1268366
 Luzifer (2021)	dub=0:1266519
 Lying and Stealing Legendado (2019)	dub=0:1051254
@@ -903,8 +904,6 @@ Lágrimas do Sol	dub=2:649544
 Lágrimas do Sol (2003)	dub=0:1066619
 Lâmina Dos 47 Ronins	dub=2:648631
 Lâmina Dos 47 Ronins (2022)	dub=0:1039440	leg=0:1024283
-Lênin!" tvg-logo="http://gstaticontent.com/images/84f3941cc9b19b60831e396aad72d7ae.jpg" group-title="Filmes | Drama",Adeus, Lênin!	dub=2:652829
 Lírios Não São Para Mim (2025)	leg=0:1272648
-Lúcia e o Bode" tvg-logo="http://gstaticontent.com/images/fe61290201dbdb21ec95637bfd013615.jpg" group-title="Filmes | Comedia",Gilda, Lúcia e o Bode	dub=2:651230
 Lúcia e o Sexo (2001)	dub=0:1272975
 L’été dernier (2023)	leg=0:1024422

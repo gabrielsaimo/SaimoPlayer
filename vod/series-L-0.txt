@@ -2245,16 +2245,6 @@
 1	4	dub	3:715018
 1	5	dub	3:715019
 1	6	dub	3:715020
-@Lara S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara
-1	1	leg	3:920935
-@Lara S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara
-1	2	leg	3:921698
-@Lara S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara
-1	3	leg	3:922193
-@Lara S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara
-1	4	leg	3:923911
-@Lara S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/pmKGSvCKL3qh9iyLYVlnYP0eguT.jpg" group-title="Series | Legendadas",Goodbye, Lara
-1	5	leg	3:925188
 @Lara com Z	2011
 1	1	dub	1:1098994
 1	2	dub	1:1098995
@@ -3046,15 +3036,28 @@
 1	10	dub	1:1079189
 1	11	dub	1:1079190
 1	12	dub	1:1079191
+@Largados, Pelados e Apaixonados
+1	1	dub	3:204556
+1	2	dub	3:204557
+1	3	dub	3:204558
+1	4	dub	3:204559
+1	5	dub	3:204560
+1	6	dub	3:204561
+1	7	dub	3:204562
+1	8	dub	3:204563
+1	9	dub	3:204564
+1	10	dub	3:204565
+1	11	dub	3:204566
+1	12	dub	3:204567
 @Largados, Pelados e Solitários
-1	1	dub	1:1282714
-1	2	dub	1:1282713
-1	3	dub	1:1282712
-1	4	dub	1:1282711
-1	5	dub	1:1282710
-1	6	dub	1:1282709
-1	7	dub	1:1282708
-1	8	dub	1:1282707
+1	1	dub	1:1282714,3:234255
+1	2	dub	1:1282713,3:234256
+1	3	dub	1:1282712,3:234257
+1	4	dub	1:1282711,3:234258
+1	5	dub	1:1282710,3:234259
+1	6	dub	1:1282709,3:234260
+1	7	dub	1:1282708,3:234261
+1	8	dub	1:1282707,3:234262
 @Larry e a Busca da Infelicidade
 1	1	dub	3:920066
 1	2	dub	3:922968
@@ -3169,3 +3172,31 @@
 1	6	dub	1:1233497
 1	7	dub	1:1233498
 1	8	dub	1:1233499
+@Last Chance U: Basketball
+1	1	dub	3:140985
+1	2	dub	3:140986
+1	3	dub	3:140987
+1	4	dub	3:140988
+1	5	dub	3:140989
+1	6	dub	3:140990
+1	7	dub	3:140991
+1	8	dub	3:140992
+@Last Light	2022
+1	1	dub	1:1071652
+1	2	dub	1:1071654
+1	3	dub	1:1071655
+1	4	dub	1:1071657
+1	5	dub	1:1071658
+@Last Light
+1	1	dub	3:209417
+1	2	dub	3:209418
+1	3	dub	3:209419
+1	4	dub	3:209420
+1	5	dub	3:209421
+@Late Night Lockup Ronda Policial	2023
+1	1	dub	1:1198747
+1	2	dub	1:1198748
+1	3	dub	1:1198749
+1	4	dub	1:1198750
+1	5	dub	1:1198751
+1	6	dub	1:1198752

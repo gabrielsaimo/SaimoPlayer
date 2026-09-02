@@ -52,8 +52,6 @@ Quando a Morte Sussurra 2	dub=2:736055
 Quando a Morte Sussurra 2 (2024)	dub=0:1046793	leg=0:1032844
 Quando a Morte Sussurra 3	dub=2:904964
 Quando a Morte Sussurra 3 (2025)	dub=0:1256890	leg=0:1267399
-Quando a Revolução Não Pode Ser Televisionada)" tvg-logo="http://gstaticontent.com/images/90adb13ab0c9dbf93987862e54a18208.jpg" group-title="Documentarios",Summer of Soul (...ou, Quando a Revolução Não Pode Ser Televisionada)	dub=2:648168
-Quando a Sorte Acaba" tvg-logo="http://gstaticontent.com/images/f139a32738358134a26d7614e909777c.jpg" group-title="Filmes | Comedia",Pobre Familia Rica, Quando a Sorte Acaba	dub=2:650606
 Quando a Vida Acontece	dub=2:653650
 Quando a Vida Acontece (2020)	dub=0:1041911
 Quando as Luzes se Apagam	dub=2:655472
@@ -190,6 +188,7 @@ Que Mal Eu Fiz a Deus? (2014)	dub=0:1055468
 Que Mal Eu Fiz a Deus? 2	dub=2:650634
 Que Mal Eu Fiz a Deus? 2 (2019)	dub=0:1053508
 Que Mulher e Essa (2001)	dub=0:1270682
+Que Se Dane o Amor, De Novo!	dub=2:650678
 Que Se Dane o Amor, De Novo! (2022)	dub=0:1065912,0:1022752	leg=0:1032582
 Que Sorte Danada! (1987)	leg=0:1036161
 Que a Forca Materna Esteja com Voce (2024)	dub=0:1266951	leg=0:1025489
@@ -246,6 +245,7 @@ Quem Cantara as suas Cancoes (2018)	dub=0:1072271
 Quem Chamou o Charlie?	dub=2:650196
 Quem E Morto Sempre Aparece	dub=2:651195
 Quem E Morto Sempre Aparece (2005)	dub=0:1052673
+Quem Encontra um Amigo, Encontra um Tesouro	dub=2:651705
 Quem Encontra um Amigo, Encontra um Tesouro (1981)	dub=0:1056795
 Quem Está Aí?	dub=2:647124	leg=2:670511
 Quem Está Aí? (2022)	dub=0:1043839	leg=0:1029700
@@ -305,6 +305,7 @@ Quem é Essa?	dub=2:889819
 Quem é Essa? (2024)	dub=0:1248825	leg=0:1248962
 Quem é Morto Sempre Aparece 4K (2025)	dub=0:1264832,0:1251124	leg=0:1251120
 Quem é seu Pai? (2023)	dub=0:1293738
+Quem é você, Charlie Brown?	dub=2:644377
 Quem é você, Charlie Brown? (2021)	dub=0:1048480
 Quentin Tarantino Os Oito Primeiros	dub=2:648210
 Quentin Tarantino Os Oito Primeiros (2019)	dub=0:1048126
@@ -324,11 +325,9 @@ Querida Zoe	dub=2:652449
 Querida Zoe (2022)	dub=0:1041140	leg=0:1026944
 Querida! Encolhi as Crianças	dub=2:651018,2:651022
 Querida! Encolhi as Crianças (1989)	dub=0:1068454
-Querida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="Filmes | Suspense",Não Se Preocupe, Querida	dub=2:647353
-Querida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="Filmes | Drama",Desculpe, Querida	dub=2:911534
-Querida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="Filmes | Lancamentos",Desculpe, Querida	dub=2:909797
+Querida, Alice	dub=2:652608
 Querida, Alice (2022)	dub=0:1043100,0:1022343	leg=0:1024533
-Querida, Corra" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" group-title="Filmes | Suspense",Corra, Querida, Corra	dub=2:647351
+Querida, Encolhi a Gente	dub=2:650697
 Querida, Encolhi a Gente (1997)	dub=0:1059647
 Queridinhas	dub=2:681778
 Queridinhas (1980)	dub=0:1053258	leg=0:1028465
@@ -346,7 +345,6 @@ Querido Papai Noel	dub=2:650032	leg=2:670345
 Querido Papai Noel (2024)	dub=0:1039283,0:1023274	leg=0:1035383
 Querido Rider: a História de Jake Burton	dub=2:647936
 Querido Rider: a História de Jake Burton (2021)	dub=0:1048485	leg=0:1024733
-Querido" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/2bHicVzkma4q022cxQeNq2zTwbo.jpg" group-title="Filmes | Comedia",Me Mate, Querido	dub=2:650204
 Quero (2007)	dub=0:1269005
 Quero Dizer que te Amo	dub=2:901307
 Quero Dizer que te Amo (1995)	dub=0:1266430	leg=0:1266445
