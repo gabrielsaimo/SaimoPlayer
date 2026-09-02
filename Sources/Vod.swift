@@ -54,11 +54,11 @@ enum Vod {
     /// índice sem as linhas `base:` deixou todo filme com endereço quebrado.
     /// Guardar a versão junto e limpar a pasta quando ela muda evita que o
     /// formato velho envenene o novo.
-    private static let versaoCache = "3"
+    private static let versaoCache = "4"
 
     static func indice() async -> [Gaveta] {
         conferirVersao()
-        guard let texto = await arquivo("indice.txt") else { return [] }
+        guard let texto = await indiceAtual() else { return [] }
         var out: [Gaveta] = []
         var encontradas: [String] = []
         for linha in texto.split(separator: "\n") {
@@ -77,9 +77,49 @@ enum Vod {
                 }
             }
         }
-        if !encontradas.isEmpty { bases = encontradas }
+        if !encontradas.isEmpty {
+            bases = encontradas
+            conferirBases(encontradas)
+        }
         return out
     }
+
+    /// O índice, sempre da rede quando ela responde.
+    ///
+    /// Ele é o único arquivo que dá sentido aos outros: cada filme guarda o
+    /// número da base, não o endereço. Quando a lista de origens é regerada em
+    /// outra ordem, um índice velho em disco aponta cada filme para o servidor
+    /// errado e o catálogo inteiro passa a abrir em tela preta. São menos de um
+    /// kilobyte, então vale buscar de novo a cada abertura e deixar o disco só
+    /// como reserva para quando a rede falhar.
+    private static func indiceAtual() async -> String? {
+        if let texto = await baixar("indice.txt") { return texto }
+        let local = pasta.appendingPathComponent("indice.txt")
+        return try? String(contentsOf: local, encoding: .utf8)
+    }
+
+    /// Apaga as fatias em disco quando as origens mudam.
+    ///
+    /// As fatias por letra só fazem sentido junto do índice que as gerou. Se as
+    /// bases mudaram, o que está guardado aponta para o lugar errado e precisa
+    /// ser baixado de novo — o índice em si fica, que acabou de chegar.
+    private static func conferirBases(_ encontradas: [String]) {
+        let marca = pasta.appendingPathComponent("bases.txt")
+        let atual = encontradas.joined(separator: "\n")
+        let anterior = try? String(contentsOf: marca, encoding: .utf8)
+        try? atual.write(to: marca, atomically: true, encoding: .utf8)
+        guard let anterior, anterior != atual else { return }
+        let arquivos = (try? FileManager.default.contentsOfDirectory(
+            at: pasta, includingPropertiesForKeys: nil)) ?? []
+        for arquivo in arquivos where !["bases.txt", "versao.txt", "indice.txt"]
+            .contains(arquivo.lastPathComponent) {
+            try? FileManager.default.removeItem(at: arquivo)
+        }
+        indiceBuscaSuja = true
+    }
+
+    /// A busca guarda o acervo inteiro em memória; ela também vence junto.
+    nonisolated(unsafe) private static var indiceBuscaSuja = false
 
     static func filmes(letra: String, reservados: Bool = false) async -> [Filme] {
         let prefixo = reservados ? "reservado" : "filmes"
@@ -162,6 +202,10 @@ enum Vod {
     /// não pode aparecer numa busca geral.
     @MainActor
     static func todos() async -> [Achado] {
+        if indiceBuscaSuja {
+            indiceBusca = []
+            indiceBuscaSuja = false
+        }
         if !indiceBusca.isEmpty { return indiceBusca }
         guard let texto = await arquivo("busca.txt") else { return [] }
         let lidos = texto.split(separator: "\n").compactMap { linha -> Achado? in
@@ -232,14 +276,22 @@ enum Vod {
         if let texto = try? String(contentsOf: local, encoding: .utf8), !texto.isEmpty {
             return texto
         }
+        return await baixar(nome)
+    }
+
+    /// Busca o arquivo na rede e guarda em disco.
+    @discardableResult
+    private static func baixar(_ nome: String) async -> String? {
         guard let url = URL(string: base + nome) else { return nil }
         var request = URLRequest(url: url)
         request.timeoutInterval = 25
+        request.cachePolicy = .reloadIgnoringLocalCacheData
         request.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
         guard let (data, resposta) = try? await URLSession.shared.data(for: request),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
               !data.isEmpty
         else { return nil }
+        let local = pasta.appendingPathComponent(nome.replacingOccurrences(of: "%23", with: "hash"))
         try? data.write(to: local, options: .atomic)
         return String(decoding: data, as: UTF8.self)
     }
