@@ -220,6 +220,14 @@ final class EPGService: ObservableObject {
                 // for several channels, so they only fill what it does not cover.
                 var merged = await MeuGuia.fetch(wanted: wanted, from: from, to: to)
 
+                // Reserva do guiadetv: só para quem o meuguia não listou.
+                let faltando = wanted.filter { merged[$0.id] == nil }
+                if !faltando.isEmpty {
+                    for (id, programmes) in await GuiaDeTv.fetch(wanted: faltando, from: from, to: to) {
+                        merged[id] = programmes
+                    }
+                }
+
                 // meuguia publishes only a title and a genre, so its entries are
                 // enriched from the feeds by title: the schedule stays accurate
                 // and the poster, episode and cast come along.
