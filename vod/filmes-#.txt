@@ -1,4 +1,3 @@
-" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/iWXnE2RlnTZNqpMUkcFZhJ1E21I.jpg" group-title="Documentarios",Apesar De,	dub=2:846470
 #AMFAD: All My Friends Are Dead	dub=2:902496
 #AMFAD: All My Friends Are Dead (2024)	dub=0:1267069	leg=0:1267066
 #ComVocê: Volume 2	dub=2:652761
@@ -156,7 +155,6 @@
 12 Hour Shift (2020)	dub=0:1266160	leg=0:1035623
 12 Moedas	dub=2:647967
 12 Moedas (2020)	dub=0:1048177
-12 Noites" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uEZvNgiOPOO1S2vsnJ1mABr2SQj.jpg" group-title="Filmes | Drama",14 Dias, 12 Noites	dub=2:652504
 12 Presentes de Natal	dub=2:901318
 12 Presentes de Natal (2015)	dub=0:1265744	leg=0:1265739
 12 Rodadas	dub=2:648679
@@ -174,6 +172,7 @@
 13 Assassinos (2010)	dub=0:1055953
 13 Dias no Lago da Morte	dub=2:907979
 13 Dias no Lago da Morte (2024)	dub=0:1258555	leg=0:1266484
+13 Dias, 13 Noites	dub=2:915643
 13 Dias, 13 Noites (2025)	dub=0:1260494	leg=0:1271335
 13 Fantasmas	dub=2:655602
 13 Fantasmas (2001)	dub=0:1059047
@@ -182,7 +181,6 @@
 13 Minutos (2015)	dub=0:1269377
 13 Minutos de Tormenta	dub=2:648785
 13 Minutos de Tormenta (2021)	dub=0:1046940	leg=0:1033818
-13 Noites" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i5jBVwAMY8CxKX5ENUqLSHeJI2x.jpg" group-title="Filmes | Lancamentos",13 Dias, 13 Noites	dub=2:915643
 13 O Jogador	dub=2:653533
 13 O Jogador (2010)	dub=0:1044434
 13 Sentimentos	dub=2:914837
@@ -207,7 +205,9 @@
 14 Cartas de Amor (2022)	dub=0:1248852
 14 Dias	dub=2:652566
 14 Dias (2022)	dub=0:1064376	leg=0:1034746
+14 Dias, 12 Noites	dub=2:652504
 14 Dias, 12 Noites (2019)	dub=0:1040907	leg=0:1033049
+14 Montanhas, 8 Mil Metros e 7 Meses	dub=2:648123
 14 Montanhas, 8 Mil Metros e 7 Meses (2021)	dub=0:1269607
 1408 (2007)	dub=0:1269718
 15 Anos em Silêncio	dub=2:884765
@@ -253,7 +253,6 @@
 1976	dub=0:1270888
 1978	dub=2:849254
 1978 (2025)	dub=0:1038068	leg=0:1037201
-1985" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="Filmes | Drama",Argentina, (1985)	dub=2:652603
 1992	dub=2:884658
 1992 (2024)	dub=0:1051693	leg=0:1034323
 1BR (2019)	leg=0:1033862
@@ -367,7 +366,6 @@
 31 - A Morte e a Unica Saida (2016)	dub=0:1271529
 31 Minutos: Natal Escaldante	dub=2:900606
 31 Minutos: Natal Escaldante (2025)	dub=0:1265341	leg=0:1265332
-316" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/x01VoKCsBMVERVm2OrnPLlykFCx.jpg" group-title="Filmes | Drama",Paciente, 316	dub=2:652408
 33 Photos from the Ghetto (2025)	leg=0:1267271
 36 (2004)	dub=0:1268073	leg=0:1268103
 36 Horas de Guerra	dub=2:652688
@@ -412,6 +410,7 @@
 47 Ronins (2013)	dub=0:1039178
 48 Horas	dub=2:647497,2:649017
 48 Horas (1982)	dub=0:1051355
+48 Horas, Parte 2	dub=2:647498
 48 Horas, Parte 2 (1990)	dub=0:1051145
 4: Apocalipse (2014)	dub=0:1058736	leg=0:1272689
 4:44 - O Fim do Mundo (2012)	dub=0:1266093
@@ -495,7 +494,6 @@
 7th & Union (2021)	dub=0:1041495	leg=0:1026656
 8 - Harry Potter e as Reliquias da Morte - Parte 2 4K (2011)	dub=0:1023185
 8 Décadas de Amor Legendado (2025)	dub=0:1264584
-8 Mil Metros e 7 Meses" tvg-logo="http://gstaticontent.com/images/698fd16e61a74f4d47fca9c3e7597abe.jpg" group-title="Documentarios",14 Montanhas, 8 Mil Metros e 7 Meses	dub=2:648123
 8 Mile: Rua das Ilusões	dub=2:652804
 8 Mile: Rua das Ilusões (2002)	dub=0:1071546	leg=0:1266768
 8 Mulheres e 1 Segredo	dub=2:651981

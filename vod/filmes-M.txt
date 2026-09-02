@@ -49,7 +49,6 @@ Macaco vs. Máquina	dub=2:644604
 Macaco vs. Máquina (2023)	dub=0:1060134	leg=0:1035424
 Macacos Assassinos	dub=2:849249
 Macacos Assassinos (2013)	dub=0:1061213
-Macacos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yfQ7GJs9gtVKOhx2jzgin4319eC.jpg" group-title="Filmes | Drama",Projeto Secreto, Macacos	dub=2:911578
 Macaléia	dub=2:906588
 Macaléia (2023)	dub=0:1272513
 Macbeth - Vozes do Harlem	dub=2:770406
@@ -155,6 +154,7 @@ Magic Mike: A Última Dança	dub=2:650466
 Magic Mike: A Última Dança (2023)	dub=0:1064768	leg=0:1024107
 Magnatas do Crime	dub=2:648362	leg=2:670909
 Magnatas do Crime (2020)	dub=0:1051978	leg=0:1028352
+Magnatas do Espaço: Musk, Bezos e Branson	dub=2:648108
 Magnatas do Espaço: Musk, Bezos e Branson (2021)	dub=0:1049139
 Magnum 44	dub=2:652987
 Magnum 44 (1973)	dub=0:1047240
@@ -209,7 +209,6 @@ Mais Uma Chance	dub=2:654073
 Mais Uma Chance (2018)	dub=0:1053474
 Mais Uma Sexta-Feira em Apuros	dub=2:650980
 Mais Uma Sexta-Feira em Apuros (2000)	dub=0:1055479
-Mais Uma Vez" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iQ8nXd8L4aVNExq0RKjyl1EtA7A.jpg" group-title="Filmes | Comedia",Tudo de Novo, Mais Uma Vez	dub=2:650440
 Mais Uma Vida	dub=2:650154
 Mais Uma Vida (2022)	dub=0:1054038	leg=0:1034795
 Mais do Que um Jogo (2008)	dub=0:1268917	leg=0:1268942
@@ -311,7 +310,6 @@ Mamãe Morta e Querida	dub=2:648126
 Mamãe Morta e Querida (2017)	dub=0:1048842
 Mamãe É Uma Espiã	dub=2:651477
 Mamãe É Uma Espiã (2019)	dub=0:1054620
-Mamãe!" tvg-logo="http://gstaticontent.com/images/33c9a5172d143ebd3c2745a2f202a2c0.jpg" group-title="Filmes | Terror",Boa Noite, Mamãe!	dub=2:654898
 Mamãe, Virei Um Peixe! (2000)	dub=0:1266799
 Man Down - A Guerra	dub=2:649857
 Man Down - A Guerra (2015)	dub=0:1066079
@@ -451,6 +449,7 @@ Marcas do Passado (2014)	dub=0:1042228
 Marcas do Passado (2022)	dub=0:1063390	leg=0:1023581
 Marcas do Silencio (1996)	dub=0:1266465
 Marcel (2022)	dub=0:1270330
+Marcel, a Concha de Sapatos	dub=2:646128
 Marcel, a Concha de Sapatos (2022)	dub=0:1063226,0:1022211	leg=0:1249095
 Marcelino Pão e Vinho (1955)	dub=0:1272645
 Marcello Mio (2024)	dub=0:1266881	leg=0:1030840
@@ -486,6 +485,7 @@ Maria e Jose Uma Adaptacao da Novela Jesus (2024)	dub=0:1270136
 Maria e José - Uma Adaptação da Novela Jesus	dub=2:645821
 Maria e João: O Conto das Bruxas	dub=2:655339
 Maria e João: O Conto das Bruxas (2020)	dub=0:1039589
+Maria, Mãe do Filho de Deus	dub=2:645856
 Maria, Mãe do Filho de Deus (2003)	dub=0:1042264
 Maria: Ninguém Sabe Quem Sou Eu	dub=2:647764
 Maria: Ninguém Sabe Quem Sou Eu (2022)	dub=0:1071633
@@ -512,9 +512,11 @@ Mariya - O Simbolo de Uma Guerra	dub=2:645014
 Mariya - O Simbolo de Uma Guerra (2022)	dub=0:1066491
 Marjorie Prime	dub=2:646980
 Marjorie Prime (2017)	dub=0:1061254
+Mark Cavendish, Pedalando Até O Fim	dub=2:647945
 Mark Cavendish, Pedalando Até O Fim (2023)	dub=0:1049440	leg=0:1026862
 Mark Felt: O Homem que Derrubou a Casa Branca	dub=2:653772
 Mark Felt: O Homem que Derrubou a Casa Branca (2017)	dub=0:1046059
+Mark, Mary + Some Other People	dub=2:650630
 Mark, Mary + Some Other People (2021)	dub=0:1063447	leg=0:1025784
 Marley & Eu	dub=2:651077
 Marley & Eu (2008)	dub=0:1068067
@@ -561,7 +563,6 @@ Marvel Studios Assembled The Making of X-Men 97 (2024)	dub=0:1271348
 Marvel Studios' The Fantastic Four: First Steps - World Premiere (2025)	dub=0:1264828	leg=0:1264833
 Marvel Superheroes: Vingadores Reunidos! (2015)	dub=0:1271086
 Marvelous and the Black Hole (2022)	dub=0:1270239
-Mary + Some Other People" tvg-logo="http://gstaticontent.com/images/5679978eeef0ebee58b0e70e0ea9cddd.jpg" group-title="Filmes | Comedia",Mark, Mary + Some Other People	dub=2:650630
 Mary J. Blige: Minha Vida	dub=2:647808
 Mary J. Blige: Minha Vida (2021)	dub=0:1071691	leg=0:1034886
 Mary Kay Letourneau: Faces de Um Escândalo	dub=2:648665
@@ -584,7 +585,6 @@ Maré: Nossa História de Amor	dub=2:653055
 Maré: Nossa História de Amor (2008)	dub=0:1042856
 María Soledad: O Fim do Silêncio	dub=2:647746	leg=2:670618
 María Soledad: O Fim do Silêncio (2024)	dub=0:1048540	leg=0:1031734
-Mas Vou Te Matar" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qtViCHlPDZ4YXfIIiZKZefeao1Z.jpg" group-title="Filmes | Terror",Desculpa, Mas Vou Te Matar	dub=2:654598
 Masameer Junior	dub=2:884440
 Masameer Junior (2025)	dub=0:1037497	leg=0:1038467
 Masha e o Urso O Filme (2016)	dub=0:1061837
@@ -651,6 +651,7 @@ Match do Amor	dub=2:902817
 Match do Amor (2021)	dub=0:1267104
 Mate ou Morra	dub=2:648875
 Mate ou Morra (2021)	dub=0:1060312
+Mate-a, se Conseguir	dub=2:900577,2:901120
 Mate-a, se Conseguir (2023)	dub=0:1265405	leg=0:1265432
 Mate-me Por Favor (2015)	dub=0:1270637
 Mate-me se Puder	dub=2:650323
@@ -782,6 +783,7 @@ Me Chame Pelo Seu Nome (2017)	dub=0:1063422
 Me Contro Te A Vinganca do Senhor S	dub=2:650733
 Me Contro Te A Vinganca do Senhor S (2020)	dub=0:1067476	leg=0:1030202
 Me Encontrando (2025)	leg=0:1251099
+Me Mate, Querido	dub=2:650204
 Me Mate, Querido (2024)	dub=0:1064459	leg=0:1036049
 Me Sinto Bem com Você	dub=2:653358
 Me Sinto Bem com Você (2021)	dub=0:1063541
@@ -897,7 +899,6 @@ Melhor Morrer (2021)	dub=0:1043447	leg=0:1034501
 Melhor Viúva Do Que Mal Acompanhada	dub=2:650081	leg=2:670778
 Melhor Viúva Do Que Mal Acompanhada (2024)	dub=0:1051447	leg=0:1033627
 Melhor e Impossivel (1997)	dub=0:1266631
-Melhor e Sem Cortes" tvg-logo="http://gstaticontent.com/images/16ECNyTfEOfE49gFdrutZfGFd9x_big.jpg" group-title="Filmes | Animacao",South Park: Maior, Melhor e Sem Cortes	dub=2:646493
 Melhores A igos: Volume 2	dub=2:649611
 Melhores A igos: Volume 2 (2018)	dub=0:1069566
 Melhores Amigos	dub=2:885086
@@ -971,7 +972,6 @@ Menino Maluquinho: O Filme	dub=2:650364
 Menino Maluquinho: O Filme (1995)	dub=0:1068035
 Menino Malvado	dub=2:885029
 Menino Malvado (2020)	dub=0:1058061	leg=0:1249074
-Menino, Corra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/yJzjUpSrnRGzCJ1YotbtFsr1ynd.jpg" group-title="Filmes | Drama",Corra, Menino, Corra	dub=2:884689
 Mens Sana in Corpore Sano	dub=2:901360
 Mens Sana in Corpore Sano (2011)	dub=0:1267005
 Mens@gem Para Você	dub=2:651079
@@ -1095,8 +1095,9 @@ Meu Amigo Totoro	dub=2:646476,2:762781
 Meu Amigo Totoro (1988)	dub=0:1062167	leg=0:1029068
 Meu Amigo Vampiro	dub=2:646658
 Meu Amigo Vampiro (2017)	dub=0:1062713
-Meu Amigo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fAs6hWOgplp1jZgs00GDxS5bjj0.jpg" group-title="Filmes | Lancamentos",Caju, Meu Amigo	dub=2:902504
+Meu Amigo, O Dragão	dub=2:646841
 Meu Amigo, O Dragão (2016)	dub=0:1068289
+Meu Amigo, o Unicórnio	dub=2:646834
 Meu Amigo, o Unicórnio (1998)	dub=0:1067246
 Meu Amigãozão: O Filme	dub=2:646108
 Meu Amigãozão: O Filme (2022)	dub=0:1072192
@@ -1138,10 +1139,13 @@ Meu Filho	dub=2:647106,2:652945	leg=2:670205
 Meu Filho (2021)	dub=0:1051649	leg=0:1024566
 Meu Filho e Eu	dub=2:884715
 Meu Filho e Eu (2016)	dub=0:1039524	leg=0:1029334
+Meu Filho, Nosso Mundo	dub=2:650066	leg=2:670660
 Meu Filho, Nosso Mundo (2024)	dub=0:1055567,0:1022485	leg=0:1249280
+Meu Filho, O Estuprador	dub=2:884714
 Meu Filho, O Estuprador (1995)	dub=0:1050270	leg=0:1028477
 Meu Irmao e Eu (2023)	dub=0:1265991	leg=0:1025841
 Meu Irmão e Eu	leg=2:670796
+Meu Irmão, Minha Irmã	dub=2:653156
 Meu Irmão, Minha Irmã (2021)	dub=0:1040949	leg=0:1028210
 Meu Japao Brasileiro (1964)	dub=0:1268532
 Meu Leal Companheiro	dub=2:653694
@@ -1155,8 +1159,8 @@ Meu Marido Virou um Cachorro	dub=2:762846
 Meu Marido Virou um Cachorro (2022)	dub=0:1068125
 Meu Melhor Amigo Vai Casar	dub=2:650235
 Meu Melhor Amigo Vai Casar (2019)	dub=0:1063598	leg=0:1028319
+Meu Mestre, Minha Vida	dub=2:653193
 Meu Mestre, Minha Vida (1989)	dub=0:1042177
-Meu Monstro Favorito 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uO8GdiUpVOAh8LNo6gCysS5eav4.jpg" group-title="Filmes | Comedia",Upa, Meu Monstro Favorito 2	dub=2:650103
 Meu Monstro de Estimação	dub=2:646888
 Meu Monstro de Estimação (2007)	dub=0:1039957
 Meu Namorado Fake	dub=2:650653
@@ -1198,6 +1202,7 @@ Meu Nome é Loh Kiwan	dub=2:645378
 Meu Nome é Loh Kiwan (2024)	dub=0:1064124	leg=0:1030542
 Meu Nome é Sara	dub=2:911581
 Meu Nome é Sara (2020)	dub=0:1272461	leg=0:1272400
+Meu Nome é Taylor, Drillbit Taylor	dub=2:650343
 Meu Nome é Taylor, Drillbit Taylor (2008)	dub=0:1054412	leg=0:1036601
 Meu Nome é Vingança	dub=2:648648
 Meu Nome é Vingança (2022)	dub=0:1056347	leg=0:1036046
@@ -1240,6 +1245,7 @@ Meu Primeiro Verão na Califórnia (2018)	dub=0:1065929	leg=0:1249383
 Meu Primo	dub=2:650626
 Meu Primo (2020)	dub=0:1053021	leg=0:1030413
 Meu Primo Vinny (1992)	dub=0:1270693
+Meu Professor, Minha Obsessão	dub=2:770427
 Meu Professor, Minha Obsessão (2018)	dub=0:1050558
 Meu Próprio Filho	dub=2:925501
 Meu Próprio Filho (2026)	dub=0:1293151
@@ -1262,6 +1268,7 @@ Meu Sangue é Vermelho	dub=2:647890
 Meu Sangue é Vermelho (2019)	dub=0:1049046
 Meu Sonho Americano	dub=2:908296,2:911564
 Meu Sonho Americano (2024)	dub=0:1267583	leg=0:1267586
+Meu Sonho, Seu Filho	dub=2:652356
 Meu Sonho, Seu Filho (2019)	dub=0:1041556	leg=0:1026494
 Meu Super Aniversario de 16 Anos (2009)	dub=0:1269523
 Meu Tio José	dub=2:646174
@@ -1321,6 +1328,7 @@ Mickey e Seus Amigos: Gostosuras ou Travessuras	dub=2:646060
 Mickey e Seus Amigos: Gostosuras ou Travessuras (2023)	dub=0:1062829
 Mickey e os Muitos Natais	dub=2:889852
 Mickey e os Muitos Natais (2024)	dub=0:1251077	leg=0:1250999
+Mickey, Donald e Pateta: Os Três Mosqueteiros	dub=2:889857
 Mickey, Donald e Pateta: Os Três Mosqueteiros (2004)	dub=0:1249804	leg=0:1248956
 Mickey: A História de um Camundongo	dub=2:648049
 Mickey: A História de um Camundongo (2022)	dub=0:1049115
@@ -1341,7 +1349,6 @@ Mike & Nick & Nick & Alice	dub=2:909061,2:910015
 Mike & Nick & Nick & Alice 4K (2026)	dub=0:1272019,0:1258743	leg=0:1267929
 Mike Birbiglia The Good Life (2025)	dub=0:1270831	leg=0:1038411
 Mike Epps: Sem Noção (2026)	leg=0:1267272
-Mil Casamentos" tvg-logo="http://gstaticontent.com/images/8HmGeaNdzKRX9O1farSm3bBwciD_big.jpg" group-title="Filmes | Romance",Um Amor, Mil Casamentos	dub=2:645717
 Mil Coisas que Faria por Voce (2017)	dub=0:1269754
 Mil Seculos Antes de Cristo (1966)	dub=0:1270491
 Mil Vezes Boa Noite	dub=2:884676
@@ -1382,6 +1389,7 @@ Millennium A Garota Na Teia De Aranha (2018)	dub=0:1052852
 Millennium: Os Homens Que Não Amavam as Mulheres	dub=2:647433
 Millennium: Os Homens Que Não Amavam as Mulheres (2011)	dub=0:1069837	leg=0:1264889
 Milli Vanilli O Maior Escandalo do Mundo da Musica (2023)	dub=0:1268260
+Milton Gonçalves, Além do Espetáculo	dub=2:909086
 Milton Gonçalves, Além do Espetáculo (2025)	dub=0:1268232
 Milton Nascimento A Ultima Sessao de Musica (2022)	dub=0:1268536
 Mimada pelo Amigo Multimilionário do Meu Ex-marido - 0 - 0	dub=0:1272735
@@ -1398,6 +1406,7 @@ Mind Talker (2021)	dub=0:1266145
 Mindcage	dub=2:647324
 Mindcage (2022)	dub=0:1070100,0:1021725	leg=0:1030241
 Mine 9 (2019)	leg=0:1033161
+Mineirinho, Vivo ou Morto	dub=2:901923
 Mineirinho, Vivo ou Morto (1967)	dub=0:1251156
 Minha Amada Imortal	dub=2:653528
 Minha Amada Imortal (1994)	dub=0:1071994
@@ -1440,7 +1449,6 @@ Minha Irma (2020)	dub=0:1271303
 Minha Irma Arrasa	dub=2:651591
 Minha Irmã e Eu	dub=2:644291
 Minha Irmã e Eu (2023)	dub=0:1054463
-Minha Irmã" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/1RNd7pUVGjSPGRsVwMrRcoGcmdf.jpg" group-title="Filmes | Drama",Meu Irmão, Minha Irmã	dub=2:653156
 Minha Melhor Amiga (2014)	dub=0:1267659	leg=0:1267661
 Minha Morte	dub=2:655000
 Minha Morte (2020)	dub=0:1070464	leg=0:1249160
@@ -1455,7 +1463,6 @@ Minha Noiva é de Matar	dub=2:650675
 Minha Noiva é de Matar (2020)	dub=0:1052565
 Minha Obra-Prima	dub=2:650099	leg=2:670908
 Minha Obra-Prima (2018)	dub=0:1054205	leg=0:1249139
-Minha Obsessão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mrYqLuFP2s6oXvcz7tCStLFZNHQ.jpg" group-title="Filmes | Drama",Meu Professor, Minha Obsessão	dub=2:770427
 Minha Patria Amada (2024)	dub=0:1270014	leg=0:1036454
 Minha Primeira Luta	dub=2:654247
 Minha Primeira Luta (2018)	dub=0:1042418
@@ -1471,7 +1478,6 @@ Minha Querida Oni	dub=2:646000
 Minha Querida Oni (2024)	dub=0:1039026	leg=0:1249106
 Minha Querida Senhorita	dub=2:914179
 Minha Querida Senhorita 4K (2026)	dub=0:1267377,0:1260138	leg=0:1267300
-Minha Rainha" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lzuigB6uZoVppGUUdufuKqStEIU.jpg" group-title="Filmes | Drama",Adeus, Minha Rainha	dub=2:653179
 Minha Sogra me Odeia (2022)	dub=0:1269380
 Minha Solidão Tem Asas	dub=2:652251
 Minha Solidão Tem Asas (2023)	dub=0:1248804
@@ -1497,7 +1503,6 @@ Minha Vida de Abobrinha (2016)	dub=0:1269097
 Minha Vida em Marte	dub=2:644551
 Minha Vida em Marte (2018)	dub=0:1065591
 Minha Vida na Outra Vida (2000)	dub=0:1270102
-Minha Vida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/y2ZmU6ujLgPZYiLlKuYIrkvsNnB.jpg" group-title="Filmes | Drama",Meu Mestre, Minha Vida	dub=2:653193
 Minha Vingança	dub=2:647322
 Minha Vingança (2021)	dub=0:1046881	leg=0:1024042
 Minha Zoe Minha Vida	dub=2:653472
@@ -1537,8 +1542,10 @@ Minutemen: Viajantes do Tempo (2008)	dub=0:1049688
 Minúsculos: O Filme	dub=2:902571
 Minúsculos: O Filme (2013)	dub=0:1265325
 Miraculous World - Xangai, a Lenda de Lady Dragon (2021)	dub=0:1050561
+Miraculous World: Londres, Corrida Contra o Tempo	dub=2:762785
 Miraculous World: Londres, Corrida Contra o Tempo (2024)	dub=0:1061706
 Miraculous World: Nova Iorque, Herois Unidos (2020)	dub=0:1269811
+Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir	dub=2:646019,2:646030
 Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir (2023)	dub=0:1049805	leg=0:1029791
 Miraculous World: Tóquio – Força Estelar	dub=2:900496,2:902568
 Miraculous World: Tóquio – Força Estelar (2025)	dub=0:1254627
@@ -1575,7 +1582,6 @@ Miss Simpatia 2 - Armada e Poderosa	dub=2:651357,2:884496
 Miss Simpatia 2 - Armada e Poderosa (2005)	dub=0:1046231	leg=0:1033507
 Miss Violence (2013)	dub=0:1271199	leg=0:1026541
 Miss Willoughby and the Haunted Bookshop (2022)	dub=0:1271875
-Miss!" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/u2xvrqjrNG9KMyC2m2WZwh8Uv2k.jpg" group-title="Filmes | Nacionais",De Repente, Miss!	dub=2:644247
 Missao Amsterdam (2017)	dub=0:1270277
 Missao Babilonia (2008)	dub=0:1269100
 Missao Extraordinaria	dub=2:649633
@@ -1698,6 +1704,7 @@ Mixed by Erry	dub=2:650425
 Mixed by Erry (2023)	dub=0:1071521	leg=0:1035483
 Miyamoto Musashi e os 400 Samurais	dub=2:648496
 Miyamoto Musashi e os 400 Samurais (2020)	dub=0:1046870	leg=0:1032849
+Miúcha, a Voz da Bossa Nova	dub=2:647845
 Miúcha, a Voz da Bossa Nova (2022)	dub=0:1072387
 Mo Amer: Wild World (2025)	leg=0:1268850
 Mo Gilligan: Momentum	dub=2:651534
@@ -1747,6 +1754,7 @@ Momentum (2015)	dub=0:1267219
 Mommy	dub=2:652399
 Mommy (2014)	dub=0:1042042
 Mon Laferte te amo (2024)	dub=0:1269589	leg=0:1026576
+Mon Laferte, te amo	leg=2:670839
 Mona Lisa e a Lua de Sangue	dub=2:646758
 Mona Lisa e a Lua de Sangue (2022)	dub=0:1039479	leg=0:1249242
 Mond (2024)	dub=0:1270284	leg=0:1035554
@@ -1754,6 +1762,7 @@ Monella, a Travessa (1998)	dub=0:1269038
 Money (2016)	dub=0:1292816
 Mong e Loide (1995)	dub=0:1266064
 Monica (2023)	dub=0:1271753
+Monica, O My Darling	dub=2:644799,2:644909
 Monica, O My Darling (2022)	dub=0:1069990	leg=0:1030905
 Monkey King Reborn (2021)	dub=0:1267222
 Monolith (2016)	dub=0:1265227	leg=0:1029168
@@ -1775,6 +1784,7 @@ Monster High: Monster Fusion	dub=2:884426
 Monster High: Monster Fusion (2014)	dub=0:1062986
 Monster High: O Filme	dub=2:645255
 Monster High: O Filme (2022)	dub=0:1056372	leg=0:1249191
+Monster High: Scaris, a Cidade Sem Luz	dub=2:645968
 Monster High: Scaris, a Cidade Sem Luz (2013)	dub=0:1062372
 Monster Hunter	dub=2:646873
 Monster Hunter (2020)	dub=0:1056407,0:1021811	leg=0:1025248
@@ -1836,11 +1846,11 @@ More Than Miyagi: The Pat Morita Story (2021)	dub=0:1271705	leg=0:1273129
 Morgan: A Evolução	dub=2:655014,2:788313
 Morgan: A Evolução (2016)	dub=0:1060161	leg=0:1248973
 Mormaco (2018)	dub=0:1269955
+Morra, Amor	dub=2:897030,2:900425
 Morra, Amor 4K (2025)	dub=0:1266346,0:1254906	leg=0:1264659
 Morrer Mil Vezes	dub=2:648953,2:735981
 Morrer Mil Vezes (1986)	dub=0:1052091
 Morrison (2024)	dub=0:1271120
-Morro!" tvg-logo="http://gstaticontent.com/images/2sQRuK0CrVJ9uL5UTQ1QOMO0viJ_big.jpg" group-title="Filmes | Comedia",Se Não Me Mato, Morro!	dub=2:651209
 Mortadelo e Salaminho: Missao Inacreditavel (2014)	dub=0:1266225
 Mortal	dub=2:649263
 Mortal (2020)	dub=0:1039432	leg=0:1025043
@@ -1870,8 +1880,6 @@ Morte Antes do Casamento	dub=2:762905	leg=2:762705
 Morte Antes do Casamento (2025)	dub=0:1038231	leg=0:1037248
 Morte Instantânea	dub=2:655039
 Morte Instantânea (2019)	dub=0:1267933
-Morte Nova" tvg-logo="http://gstaticontent.com/images/dcx3O2vSXUInpPuOe1EvYXIWS4a_big.jpg" group-title="Filmes | Acao",Ano Novo, Morte Nova	dub=2:649595
-Morte Nova" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/dcx3O2vSXUInpPuOe1EvYXIWS4a.jpg" group-title="Filmes | Terror",Ano Novo, Morte Nova	dub=2:823009
 Morte Súbita	dub=2:648519
 Morte Súbita (1995)	dub=0:1047530
 Morte Súbita (2007)	dub=0:1271906	leg=0:1272278
@@ -1884,6 +1892,7 @@ Morte de um Operador de TeleMarketing (2021)	dub=0:1053568	leg=0:1033669
 Morte de um Unicornio (2025)	dub=0:1269954	leg=0:1038372
 Morte e Vida de Um Ativista Político	dub=2:652175
 Morte e Vida de Um Ativista Político (2021)	dub=0:1045361	leg=0:1249365
+Morte em LaRoy, Texas	dub=2:644803	leg=2:670448
 Morte em LaRoy, Texas (2024)	dub=0:1051460,0:1021713	leg=0:1026707
 Morte em Veneza (1971)	dub=0:1266271
 Morte na Fronteira	dub=2:919789
@@ -1899,7 +1908,7 @@ Morte ou Revés (2019)	dub=0:1071239
 Morte sem Misericordia (2024)	dub=0:1270556	leg=0:1026065
 Morte às Seis da Tarde	dub=2:649542
 Morte às Seis da Tarde (2018)	dub=0:1051352
-Morte, Morte" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/veTVl90P4lStxOLYNFn8bXozNcZ.jpg" group-title="Filmes | Terror",Morte, Morte, Morte	dub=2:654876
+Morte, Morte, Morte	dub=2:654876
 Morte, Morte, Morte (2022)	dub=0:1070198	leg=0:1034310
 Morto Não Fala	dub=2:644429
 Morto Não Fala (2019)	dub=0:1070970
@@ -2062,7 +2071,6 @@ Mulheres Rebeldes	dub=2:644832
 Mulheres Rebeldes (2022)	dub=0:1044135	leg=0:1027572
 Mulheres ao Ataque (2014)	dub=0:1065206	leg=0:1272962
 Mulheres de Verdade Têm Curvas (2002)	dub=0:1267156	leg=0:1267147
-Mulheres e Filhos" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/28xrWaYrQ19BPNvUcuySyyXm6kz.jpg" group-title="Filmes | Drama",Homens, Mulheres e Filhos	dub=2:652045
 Mulheres no Poder (2016)	dub=0:1266270
 Mulheres: Jogar para Ganhar	dub=2:650218
 Mulheres: Jogar para Ganhar (2021)	dub=0:1054128	leg=0:1033389
@@ -2078,6 +2086,7 @@ Mundo Duplo (2020)	dub=0:1271191
 Mundo Escondido	dub=2:647720
 Mundo Estranho	dub=2:646145
 Mundo Estranho (2022)	dub=0:1062000,0:1021718	leg=0:1031008
+Mundo Futuro: Ano 2003, Operação Terra	dub=2:762734	leg=2:762347
 Mundo Futuro: Ano 2003, Operação Terra (1976)	dub=0:1056494	leg=0:1031697
 Mundo Proibido (1992)	dub=0:1271032
 Mundo Sombrio: Equilibrium (2013)	dub=0:1272185	leg=0:1272187
@@ -2198,7 +2207,6 @@ Mãe Terra	dub=2:652190
 Mãe Terra (2023)	dub=0:1041362	leg=0:1034754
 Mãe de Aluguel	dub=2:652196
 Mãe de Aluguel (2021)	dub=0:1041570	leg=0:1026449
-Mãe do Filho de Deus" tvg-logo="http://gstaticontent.com/images/qJ39uUUzNtovwHXP45et8uhLWbG_big.jpg" group-title="Filmes | Religiosos",Maria, Mãe do Filho de Deus	dub=2:645856
 Mãe e Filha	dub=2:652841
 Mãe e Filha (2021)	dub=0:1042822
 Mãe e Muito Mais	dub=2:651553
@@ -2221,12 +2229,10 @@ Música a Bordo	dub=2:650869
 Música a Bordo (2019)	dub=0:1053736	leg=0:1028909
 Música do Coração	dub=2:653192
 Música do Coração (1999)	dub=0:1071941
+Música, Amigos e Festa	dub=2:652496
 Música, Amigos e Festa (2015)	dub=0:1072012
 Mārama Legendado (2026)	dub=0:1262175
 maboroshi	dub=2:646033
 maboroshi (2023)	dub=0:1062112	leg=0:1029659
-mas Feliz" tvg-logo="http://gstaticontent.com/images/4bd9f4981aa433f42b0a25ee5d0ba7db.jpg" group-title="Filmes | Terror",Drácula: Morto, mas Feliz	dub=2:654956
-mas Pouco" tvg-logo="http://gstaticontent.com/images/d257a0b9bc93247bcb518a695299d83a.jpg" group-title="Filmes | Comedia",Natal, mas Pouco	dub=2:650761
-meu amor " tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/oBi6CoqH3yYU7AHcwl2Qe5x9J53.jpg" group-title="Filmes | Lancamentos",Tarde demais, meu amor	leg=2:905049
 mãe!	dub=2:653341
 mãe! (2017)	dub=0:1059201

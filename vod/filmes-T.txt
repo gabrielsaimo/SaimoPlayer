@@ -29,11 +29,11 @@ Tainá: Uma Aventura na Amazônia (2001)	dub=0:1039632
 Take Your Pills Xanax (2022)	dub=0:1271451
 Take the Night (2022)	dub=0:1269191
 Taking a Shot at Love (2021)	dub=0:1270205
-Tal Filha" tvg-logo="http://gstaticontent.com/images/2vpJlRahVcSGzcLRt6KtAFUkWzM_big.jpg" group-title="Filmes | Comedia",Tal Mãe, Tal Filha	dub=2:651447
-Tal Filho" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bjJK6RSDfMNAkeCGLcnf2OWZ1W1.jpg" group-title="Filmes | Comedia",Tal Pai, Tal Filho	dub=2:889823
+Tal Mãe, Tal Filha	dub=2:651447
 Tal Mãe, Tal Filha (2017)	dub=0:1054998
 Tal Pai Tal Filha	dub=2:651684
 Tal Pai Tal Filha (2018)	dub=0:1042420
+Tal Pai, Tal Filho	dub=2:889823
 Tal Pai, Tal Filho (2022)	dub=0:1248779	leg=0:1249599
 Talento e Fé	dub=2:645835
 Talento e Fé (2015)	dub=0:1042729
@@ -56,6 +56,7 @@ Tango & Cash: Os Vingadores (1989)	dub=0:1051284	leg=0:1032461
 Tango (1998)	dub=0:1071818	leg=0:1024482
 Tango One O Mais Procurado	dub=2:647623
 Tango One O Mais Procurado (2018)	dub=0:1052610
+Tangos, Tequilas e Algumas Mentiras	dub=2:650464
 Tangos, Tequilas e Algumas Mentiras (2023)	dub=0:1063396,0:1022199	leg=0:1025109
 Tanhaji The Unsung Warrior (2020)	leg=0:1029324
 Tanner Hall	dub=2:653025
@@ -70,6 +71,7 @@ Tarde Demais Para Voltar	dub=2:644814	leg=2:670759
 Tarde Demais Para Voltar (2023)	dub=0:1051882	leg=0:1034211
 Tarde Demais para Esquecer	dub=2:653328
 Tarde Demais para Esquecer (1957)	dub=0:1063621
+Tarde demais, meu amor	leg=2:905049
 Tarde demais, meu amor (2025)	leg=0:1267631
 Target Number One (2020)	leg=0:1026140
 Tarsilinha	dub=2:646205
@@ -97,7 +99,6 @@ Te Amarei Para Sempre	dub=2:652433
 Te Amarei Para Sempre (2009)	dub=0:1038869
 Te Amo Até a Morte	dub=2:653198
 Te Amo Até a Morte (2019)	dub=0:1050007	leg=0:1023995
-Te Amo" tvg-logo="http://gstaticontent.com/images/3AEdI5AmRVSLIhNe2smPGfKMyb0_big.jpg" group-title="Filmes | Comedia",Paris, Te Amo	dub=2:651507
 Te Espero no Fim da Jornada	leg=2:670416
 Te Espero no Fim da Jornada (2024)	dub=0:1264788	leg=0:1029034
 Te Pego Lá Fora	dub=2:762854
@@ -107,6 +108,7 @@ Te Pego na Saida (2017)	dub=0:1055048
 Te Peguei!	dub=2:651682
 Te Peguei! (2018)	dub=0:1046271,0:1021988
 Te amo mais (2024)	dub=0:1270422	leg=0:1273086
+Te quiero, imbécil	dub=2:651372
 Te quiero, imbécil (2020)	dub=0:1054461
 Tea for Two	dub=2:739613,2:897188
 Tea for Two (2018)	dub=0:1042579
@@ -267,7 +269,6 @@ Teoria do Caos	dub=2:650879
 Teoria do Caos (2008)	dub=0:1063518
 Tequila Repasado	dub=2:650226
 Tequila Repasado (2023)	dub=0:1039545	leg=0:1029937
-Tequilas e Algumas Mentiras" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg" group-title="Filmes | Comedia",Tangos, Tequilas e Algumas Mentiras	dub=2:650464
 Terapia Intensiva (2013)	dub=0:1292815
 Terapia da Dança	dub=2:652482
 Terapia da Dança (2022)	dub=0:1041446	leg=0:1027325
@@ -327,7 +328,6 @@ Terra de Minas (2015)	dub=0:1066728
 Terra de Ninguém	dub=2:884684
 Terra de Ninguém (2006)	dub=0:1043837	leg=0:1249199
 Terra de Pistoleiros (2025)	dub=0:1253475
-Terra do Ouro" tvg-logo="http://gstaticontent.com/images/24d329775269213ce711c3fe7526e4b2.jpg" group-title="Filmes | Acao",Califórnia, Terra do Ouro	dub=2:649028
 Terra dos Bravos	dub=2:645180
 Terra dos Bravos (2019)	dub=0:1069123	leg=0:1268295
 Terra dos Mortos	dub=2:654818
@@ -439,10 +439,8 @@ Teu Tua	dub=2:884729
 Teu Tua (1979)	dub=0:1054752
 Texano Por Acidente	dub=2:762843	leg=2:762353
 Texano Por Acidente (2024)	dub=0:1053987	leg=0:1026989
-Texas " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ySlZE3n43iXDBtGBWdc6dTBRiiM.jpg" group-title="Filmes | Legendados",Morte em LaRoy, Texas	leg=2:670448
 Texas Carlos Massacre (2021)	dub=0:1268567
 Texas Twister (2024)	dub=0:1268813
-Texas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ySlZE3n43iXDBtGBWdc6dTBRiiM.jpg" group-title="Filmes | Crime",Morte em LaRoy, Texas	dub=2:644803
 Thanatomorphose (2012)	dub=0:1268655
 Thank You Next (2023)	dub=0:1269386
 That Time I Get Reincarnated as a Slime: O Filme	dub=2:646092
@@ -826,6 +824,7 @@ The Power: Horror na Escuridão	dub=2:654874
 The Power: Horror na Escuridão (2021)	dub=0:1057942	leg=0:1027669
 The Price for Silence Legendado (2018)	dub=0:1041832
 The Prince (2018)	leg=0:1248894
+The Prize Winner of Defiance, Ohio	dub=2:653161
 The Prize Winner of Defiance, Ohio (2005)	dub=0:1042487
 The Professor And The Madman Legendado (2019)	dub=0:1045166
 The Professor Legendado (2018)	dub=0:1248771
@@ -973,6 +972,7 @@ Thelma & Louise	dub=2:648352,2:897059
 Thelma & Louise (1991)	dub=0:1057007	leg=0:1265763
 Thelma (2017)	leg=0:1249405
 Thelma (2024)	dub=0:1056291	leg=0:1024782
+Thelma, O Unicórnio	dub=2:646003
 Thelma, O Unicórnio (2024)	dub=0:1068483	leg=0:1036551
 There Are No Saints (2022)	dub=0:1267563
 They Called Him Mostly Harmless	dub=2:647833
@@ -1098,6 +1098,7 @@ Tirando o Atraso	dub=2:650586
 Tirando o Atraso (2016)	dub=0:1054754
 Tiras em Apuros	dub=2:649119
 Tiras em Apuros (2010)	dub=0:1051137
+Tiras, Só Que Não	dub=2:650871
 Tiras, Só Que Não (2014)	dub=0:1054341
 Tire 5 Cartas	dub=2:644310
 Tire 5 Cartas (2023)	dub=0:1054918
@@ -1203,7 +1204,6 @@ Todos Os Mortos (2020)	dub=0:1045707
 Todos Por Uma (2021)	dub=0:1271664
 Todos a Bordo	dub=2:653220
 Todos a Bordo (1996)	dub=0:1056800
-Todos me Amam" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wGpCLg2opZB2vKMMdgU4kpJSYv5.jpg" group-title="Filmes | Suspense",Depois que Morri, Todos me Amam	dub=2:901284
 Todos os Caes Merecem o Ceu 2 (1996)	dub=0:1271538	leg=0:1266450
 Todos os Caminhos Levam a Roma (2016)	dub=0:1272853
 Todos os Corações do Mundo (1995)	dub=0:1268150
@@ -1371,7 +1371,6 @@ Trago Seu Amor	dub=2:925510
 Trago Seu Amor (2026)	dub=0:1292960
 Traicao para Iniciantes	dub=2:647628
 Traicao para Iniciantes (2018)	dub=0:1045784
-Traidor" tvg-logo="http://gstaticontent.com/images/aa97758b47f26c3cb1eca5c0ba68db34.jpg" group-title="Filmes | Drama",Eu, Traidor	dub=2:652713
 Traidora Americana: O Julgamento de Axis Sally	dub=2:652617
 Traidora Americana: O Julgamento de Axis Sally (2021)	dub=0:1045489
 Train Dreams (2025)	leg=0:1265291
@@ -1509,6 +1508,7 @@ Trilhas (2009)	dub=0:1270735
 Trinity e o Meu Nome	dub=2:651664
 Trinity e o Meu Nome (1970)	dub=0:1269514
 Trinity e o Meu Nome (1971)	dub=0:1069334
+Trip, O Elfo Construtor	dub=2:650266
 Trip, O Elfo Construtor (2023)	dub=0:1038964	leg=0:1028741
 Tripla Ameaça	dub=2:648360	leg=2:670905
 Tripla Ameaça (2019)	dub=0:1044105	leg=0:1024380
@@ -1653,7 +1653,6 @@ Três Verões	dub=2:653101
 Três Verões (2020)	dub=0:1055352
 Três Vezes Amor	dub=2:645497
 Três Vezes Amor (2008)	dub=0:1064798
-Três é Demais" tvg-logo="http://gstaticontent.com/images/dL33ynLfzYn0zmZOWBcRzeaO1oC_big.jpg" group-title="Filmes | Comedia",Dois é Bom, Três é Demais	dub=2:651122
 Tróia	dub=2:649406
 Tróia (2004)	dub=0:1066849	leg=0:1023623
 Tsunami Zumbi	dub=2:649037
@@ -1739,6 +1738,7 @@ Tudo Sobre os Levkoviches (2024)	dub=0:1248770	leg=0:1031760
 Tudo Vai dar Certo (2025)	dub=0:1253598
 Tudo de Novo	dub=2:651076
 Tudo de Novo (2020)	dub=0:1065430
+Tudo de Novo, Mais Uma Vez	dub=2:650440
 Tudo de Novo, Mais Uma Vez (2023)	dub=0:1052940,0:1022282	leg=0:1027131
 Tudo e Todas as Coisas	dub=2:654138
 Tudo e Todas as Coisas (2017)	dub=0:1063483
@@ -1870,6 +1870,5 @@ Tú eres mi problema	dub=2:652955
 Tú eres mi problema (2021)	dub=0:1067593	leg=0:1034387
 Túmulo dos Vagalumes	dub=2:646475
 Túmulo dos Vagalumes (1988)	dub=0:1250051
-te amo " tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/iZDjedpJHmI4WLmdGr3RTgkDqML.jpg" group-title="Filmes | Legendados",Mon Laferte, te amo	leg=2:670839
+tick, tick... BOOM!	dub=2:653047
 tick, tick... BOOM! (2021)	dub=0:1071824	leg=0:1249133
-tick... BOOM!" tvg-logo="http://gstaticontent.com/images/ec2630632d7a11be37417c5d8b3d9215.jpg" group-title="Filmes | Drama",tick, tick... BOOM!	dub=2:653047

@@ -272,7 +272,6 @@ O Atirador 4	dub=2:644963
 O Atirador 4 (2011)	dub=0:1066757
 O Atirador O Exterminio Final	dub=2:649835
 O Atirador O Exterminio Final (2017)	dub=0:1046456
-O Atirador" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/bVIRvLEjitBYwcdGMc32Q6keCfn.jpg" group-title="Filmes | Acao",Sniper, O Atirador	dub=2:648511
 O Atirador: A Última Batalha	dub=2:762743	leg=2:762579
 O Atirador: A Última Batalha (2025)	dub=0:1037694,0:1036820	leg=0:1038302
 O Atirador: Fantasma	dub=2:649412
@@ -432,9 +431,9 @@ O Cacador de Pipas	dub=2:653601
 O Cacador de Pipas (2007)	dub=0:1042542
 O Cacador e a Rainha do Gelo	dub=2:649833
 O Cacador e a Rainha do Gelo (2016)	dub=0:1057012
-O Cachorro Mágico" tvg-logo="http://gstaticontent.com/images/d186ef7e465a78747d9fb5a7bb23523f.jpg" group-title="Filmes | Animacao",Xico, O Cachorro Mágico	dub=2:646399
 O Cachorro Que Salvou as Festas	dub=2:650790
 O Cachorro Que Salvou as Festas (2012)	dub=0:1050635
+O Cachorro é Seu, Charlie Brown	dub=2:818323
 O Cachorro é Seu, Charlie Brown (1968)	dub=0:1050220	leg=0:1036274
 O Caderno De Sara (2018)	dub=0:1270564
 O Caderno de Tomy (2020)	dub=0:1266922
@@ -497,7 +496,6 @@ O Carma De Um Assassino	dub=2:649832
 O Carma De Um Assassino (2018)	dub=0:1051418
 O Carma de um Assassino 2	dub=2:648304	leg=2:670485
 O Carma de um Assassino 2 (2022)	dub=0:1046578	leg=0:1027248
-O Carro Assassino" tvg-logo="http://gstaticontent.com/images/lQgflKBffMBXkOsM0PpLl2nWFyn_big.jpg" group-title="Filmes | Terror",Christine, O Carro Assassino	dub=2:655180
 O Carro Desgovernado (1997)	dub=0:1266516
 O Cartel	dub=2:648902
 O Cartel (2009)	dub=0:1047833
@@ -702,7 +700,6 @@ O Comediante	dub=2:650935
 O Comediante (2016)	dub=0:1054678
 O Começo do Natal	dub=2:650290
 O Começo do Natal (2019)	dub=0:1039316	leg=0:1249259
-O Começo" tvg-logo="http://gstaticontent.com/images/52315334962071030bd10d1ff3ff52ee.jpg" group-title="Filmes | Acao",Os Under Undergrounds, O Começo	dub=2:648812
 O Comitê de Deus	dub=2:653093
 O Comitê de Deus (2021)	dub=0:1043562	leg=0:1036213
 O Compositor	dub=2:652380
@@ -710,6 +707,7 @@ O Compositor (2020)	dub=0:1045334	leg=0:1027666
 O Compromisso de Hasan (2021)	dub=0:1267525
 O Computador de Tênis	dub=2:897109
 O Computador de Tênis (1969)	dub=0:1264872
+O Concerto Maldito, Sinfonia do Mal	dub=2:654559
 O Concerto Maldito, Sinfonia do Mal (2023)	dub=0:1057510,0:1022844	leg=0:1029250
 O Concurso (2013)	dub=0:1268597
 O Conde	dub=2:654722
@@ -818,7 +816,6 @@ O Cão de Guarda	dub=2:896965
 O Cão de Guarda (1992)	dub=0:1265546	leg=0:1265562
 O Cão e a Raposa (1981)	dub=0:1062701
 O Cão e a Raposa 2 (2006)	dub=0:1061829
-O Cãopeão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t7fc8XJ9EcTI2u6AyhW9AiG3iR4.jpg" group-title="Filmes | Comedia",Russell, O Cãopeão	dub=2:889791
 O Céu Está em Todo Lugar	dub=2:668754
 O Céu Está em Todo Lugar (2022)	dub=0:1071387,0:1022674	leg=0:1030067
 O Céu Mandou Alguém (1948)	dub=0:1265093	leg=0:1265089
@@ -948,7 +945,6 @@ O Destino de Sikandar	dub=2:647118	leg=2:670374
 O Destino de Sikandar (2024)	dub=0:1069940	leg=0:1033593
 O Destino de uma Nacao	dub=2:654231
 O Destino de uma Nacao (2017)	dub=0:1045724
-O Destruidor" tvg-logo="http://gstaticontent.com/images/1tw9rVP0r69clwU0MmKzccd0hcC_big.jpg" group-title="Filmes | Acao",Conan, O Destruidor	dub=2:649942
 O Devorador de Ossos (2008)	dub=0:1267326	leg=0:1267318
 O Dia Depois de Amanha	dub=2:649829
 O Dia Depois de Amanha (2004)	dub=0:1061259
@@ -1083,7 +1079,6 @@ O Dragão Invencível (2019)	dub=0:1046575	leg=0:1030752
 O Dragão do Meu Pai	dub=2:646156
 O Dragão do Meu Pai (2022)	dub=0:1061900	leg=0:1027082
 O Dragão e o Feiticeiro (1981)	dub=0:1267133	leg=0:1267174
-O Dragão" tvg-logo="http://gstaticontent.com/images/3b80052d66ac33fc128076a4072b2634.jpg" group-title="Filmes | Fantasia",Meu Amigo, O Dragão	dub=2:646841
 O Drama	dub=2:918176
 O Drama 4K (2026)	dub=0:1272658,0:1261445	leg=0:1268278
 O Dublê	dub=2:648414
@@ -1110,7 +1105,6 @@ O Efeito Marco (2021)	dub=0:1052066	leg=0:1028656
 O Efeito Martha mitchell (2022)	dub=0:1270111
 O Elenco da Morte	dub=2:885027
 O Elenco da Morte (2021)	dub=0:1057768	leg=0:1031907
-O Elfo Construtor" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/8elBfIT1glTjn0KeArTJhWuf5Dj.jpg" group-title="Filmes | Comedia",Trip, O Elfo Construtor	dub=2:650266
 O Elixir	dub=2:901164
 O Elixir 4K (2025)	dub=0:1268788,0:1252139	leg=0:1252148
 O Elo Perdido	dub=2:822982
@@ -1235,8 +1229,6 @@ O Estranho em Minha Casa (2025)	leg=0:1037324
 O Estranho na Minha Casa	dub=2:900382,2:901227
 O Estranho na Minha Casa 4K (2025)	dub=0:1266655,0:1255188
 O Estranho que Nos Amamos (2017)	dub=0:1269476
-O Estripador: A História não Contada" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yq4ekYYxchTqOJd8kULWID8CkM3.jpg" group-title="Filmes | Terror",Jack, O Estripador: A História não Contada	dub=2:655044
-O Estuprador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/fpl5yBNH8xE2PrGWqQX0ZL5zsuh.jpg" group-title="Filmes | Drama",Meu Filho, O Estuprador	dub=2:884714
 O Estágio Legendado (2026)	dub=0:1259695
 O Evangelho Segundo João	dub=2:645860
 O Evangelho Segundo João (2003)	dub=0:1040670
@@ -1250,7 +1242,6 @@ O Exorcismo de Carmen Farias (2021)	dub=0:1269944
 O Exorcismo de Emily Rose	dub=2:654416
 O Exorcismo de Emily Rose (2005)	dub=0:1052423
 O Exorcismo de Gail Bowers (2006)	dub=0:1268152	leg=0:1268058
-O Exorcismo de Lara" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1t98T0hEVOQgZxqpFmhfN3cdIEb.jpg" group-title="Filmes | Terror",Anticristo, O Exorcismo de Lara	dub=2:885017
 O Exorcismo do Demônio	dub=2:885053
 O Exorcismo do Demônio (2020)	dub=0:1070229	leg=0:1249129
 O Exorcista	dub=2:655201
@@ -1342,7 +1333,6 @@ O Feitico de Aquila (1985)	dub=0:1038907
 O Feitico do Natal	dub=2:645795
 O Feitico do Natal (2018)	dub=0:1067946
 O Feitiço	dub=2:736047	leg=2:762713
-O Fenômeno" tvg-logo="http://gstaticontent.com/images/4ddff30a25077666f38bff7848797537.jpg" group-title="Documentarios",Ronaldo, O Fenômeno	dub=2:648055
 O Feriado Perfeito da Moranguinho	dub=2:646065
 O Feriado Perfeito da Moranguinho (2023)	dub=0:1072231
 O Festival dos Trovadores	dub=2:652740
@@ -1385,8 +1375,6 @@ O Filme da Minha Vida	dub=2:654227
 O Filme da Minha Vida (2017)	dub=0:1042952
 O Filme de Ranjith (2023)	dub=0:1269600	leg=0:1035289
 O Filme dos Espiritos (2011)	dub=0:1269069
-O Filme: Candace Contra o Universo" tvg-logo="http://gstaticontent.com/images/xNYCXgfBZiFdPcSY5h1AGxly7W8_big.jpg" group-title="Filmes | Animacao",Phineas e Ferb, O Filme: Candace Contra o Universo	dub=2:646424
-O Filme: O Tesouro da Lâmpada Perdida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wsLP8ULSWhauYHynFn3n8zU03Io.jpg" group-title="Filmes | Animacao",DuckTales, O Filme: O Tesouro da Lâmpada Perdida	dub=2:889858
 O Fim da Escuridao (2010)	dub=0:1269286
 O Fim da Lealdade	dub=2:770330	leg=2:762477
 O Fim da Lealdade (2023)	dub=0:1268738
@@ -1428,7 +1416,6 @@ O Fugitivo	dub=2:649562
 O Fugitivo (1993)	dub=0:1047676
 O Furioso	dub=2:646939
 O Furioso (2017)	dub=0:1040065
-O Fusquinha de Polícia" tvg-logo="http://gstaticontent.com/images/4bf1bcbe1e962ac911edb284e18b3cda.jpg" group-title="Filmes | Animacao",Poli, O Fusquinha de Polícia	dub=2:646190
 O Futebol ou Eu	dub=2:884528
 O Futebol ou Eu (2017)	dub=0:1067703	leg=0:1029640
 O Futuro Adiante	dub=2:654015
@@ -1449,7 +1436,6 @@ O Garoto Da Casa Ao Lado	dub=2:647670
 O Garoto Da Casa Ao Lado (2015)	dub=0:1043283
 O Garoto Perdido	dub=2:652634
 O Garoto Perdido (2020)	dub=0:1041563	leg=0:1249169
-O Garoto Problema" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qvl8lx0wIK5VyFMLEOKmdaoR2XJ.jpg" group-title="Documentarios",Untold: Jake Paul, O Garoto Problema	dub=2:647944
 O Garoto Que Podia Voar (1986)	dub=0:1267546
 O Garoto Sombrio (2015)	dub=0:1271993	leg=0:1271994
 O Garoto de Liverpool	dub=2:653001
@@ -1477,7 +1463,6 @@ O Gigante de Ferro	dub=2:646321
 O Gigante de Ferro (1999)	dub=0:1068170
 O Golfinho - A História de Um Sonhador	dub=2:902524
 O Golfinho - A História de Um Sonhador (2009)	dub=0:1266840	leg=0:1266838
-O Golfinho 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/eIJh0bF1dxfNsRxVlgRhdo8YJkv.jpg" group-title="Filmes | Comedia",Bernie, O Golfinho 2	dub=2:650213
 O Golpe	dub=2:644932
 O Golpe (2004)	dub=0:1270611
 O Golpe (2019)	dub=0:1051852	leg=0:1028031
@@ -1593,7 +1578,6 @@ O Guardiao das Borboletas (2024)	dub=0:1269199
 O Guardião	dub=2:896564
 O Guardião (2009)	dub=0:1265499	leg=0:1265532
 O Guerreiro Banido (2023)	dub=0:1269279
-O Guerreiro Imortal" tvg-logo="http://gstaticontent.com/images/Aq7svK5vv8Ex5BXoTWpyhJzkVsj_big.jpg" group-title="Filmes | Acao",Highlander, O Guerreiro Imortal	dub=2:649525
 O Guerreiro Silencioso	dub=2:770380
 O Guerreiro Silencioso (2009)	dub=0:1039873
 O Guia da Família Perfeita	dub=2:651008
@@ -1803,7 +1787,6 @@ O Inferno de Gabriel (2020)	dub=0:1265308
 O Inferno de Gabriel - Parte 2 (2020)	dub=0:1265968
 O Inferno de Gabriel - Parte 3 (2020)	dub=0:1267413
 O Infiltrado (2022)	dub=0:1066067
-O Infiltrado" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/qql5LcwpfooxQFk8RKimSduHUsP.jpg" group-title="Filmes | Suspense",Karim, O Infiltrado	dub=2:647225
 O Informante	dub=2:653434
 O Informante (1999)	dub=0:1044468,2:653567
 O Informante (2019)	dub=0:1052442
@@ -2093,8 +2076,6 @@ O Marido Perdido	dub=2:645695
 O Marido Perdido (2020)	dub=0:1064823
 O Marinheiro das Montanhas	dub=2:647901
 O Marinheiro das Montanhas (2023)	dub=0:1049033
-O Marujo Trapalhão " tvg-logo="http://gstaticontent.com/images/rxrYij1gxwIakNrrVP5LNPrEMV8_big.jpg" group-title="Filmes | Nacionais",Simbad, O Marujo Trapalhão (1976)	dub=2:644461
-O Marujo Trapalhão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rxrYij1gxwIakNrrVP5LNPrEMV8.jpg" group-title="Filmes | Nacionais",Simbad, O Marujo Trapalhão	dub=2:884964
 O Mascara	dub=2:651752
 O Mascara (1994)	dub=0:1040019
 O Mascote Assassino (2014)	dub=0:1272570	leg=0:1272728
@@ -2267,6 +2248,7 @@ O Mestre dos Desejos 3 - Alem das portas do inferno (2001)	dub=0:1270552
 O Mestre dos Desejos 4 - A Profecia Finalmente Se Cumpriu (2002)	dub=0:1271721
 O Meu Melhor Companheiro (1957)	dub=0:1269659
 O Meu Pequeno Eu (2024)	leg=0:1266682
+O Meu, O Seu, O Nosso Natal	dub=2:922256
 O Meu, O Seu, O Nosso Natal (2024)	dub=0:1272977
 O Milagre	dub=2:647344
 O Milagre (2015)	dub=0:1265773
@@ -2396,8 +2378,6 @@ O Mundo dos Esquecidos	dub=2:648797
 O Mundo dos Esquecidos (2021)	dub=0:1070021	leg=0:1023950
 O Mundo dos Pequeninos	dub=2:770309
 O Mundo dos Pequeninos (2010)	dub=0:1039560	leg=0:1031099
-O My Darling" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/hiXLk6vdFBI8mVslso1VqzJEe45.jpg" group-title="Filmes | Crime",Monica, O My Darling	dub=2:644799
-O My Darling" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yq5zQAlxhNZvCaqdUcpGDnOZeQG.jpg" group-title="Filmes | Crime",Mônica, O My Darling	dub=2:644909
 O Mágico de Oz	dub=2:645220
 O Mágico de Oz (1939)	dub=0:1039704
 O Máskara	dub=2:670129
@@ -2558,7 +2538,6 @@ O Pai da Noiva 4K (2022)	dub=0:1249647,0:1063393
 O Pai da Rita	dub=2:650624
 O Pai da Rita (2022)	dub=0:1054840
 O Pai das Invencoes (2010)	dub=0:1267556
-O Pai de Goku" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/TQtQcckcXwkWxcij6JxJiyVXkG.jpg" group-title="Filmes | Animacao",Dragon Ball Z: Bardock, O Pai de Goku	dub=2:646694
 O Pai que Move Montanhas	dub=2:653212
 O Pai que Move Montanhas (2021)	dub=0:1043407
 O Paizão	dub=2:650953
@@ -2671,7 +2650,6 @@ O Pianista	dub=2:653560
 O Pianista (2002)	dub=0:1066579
 O Piloto - Uma Batalha Pela Sobrevivência	dub=2:644985
 O Piloto - Uma Batalha Pela Sobrevivência (2021)	dub=0:1066336	leg=0:1029644
-O Pimentinha" tvg-logo="http://gstaticontent.com/images/A9zJyQvF8yXC5HPTMB24hMeQFq1_big.jpg" group-title="Filmes | Comedia",Dennis, O Pimentinha	dub=2:651236
 O Pintassilgo	dub=2:653942
 O Pintassilgo (2019)	dub=0:1267777
 O Pintor de Sonhos	dub=2:652292
@@ -2932,7 +2910,6 @@ O Que Deixamos Pelo Caminho (2023)	dub=0:1248794	leg=0:1031556
 O Que Esperar Quando Você Está Esperando	dub=2:901316
 O Que Esperar Quando Você Está Esperando (2012)	dub=0:1265752
 O Que Eu Vi, O Que Nós Veremos (1973)	dub=0:1049184
-O Que Faria Jesus?" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg" group-title="Filmes | Família",Em Seus Passos, O Que Faria Jesus?	dub=2:645018
 O Que Ficou Para Trás	dub=2:653661
 O Que Ficou Para Trás (2020)	dub=0:1057925
 O Que Ficou Perdido	dub=2:651340
@@ -3045,7 +3022,6 @@ O Rei da Festa	dub=2:652793
 O Rei da Festa (2021)	dub=0:1044126	leg=0:1027098
 O Rei da Montanha	dub=2:645226
 O Rei da Montanha (2017)	dub=0:1038889
-O Rei da Selva" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg" group-title="Filmes | Acao",Greystoke - A Lenda de Tarzan, O Rei da Selva	dub=2:648926
 O Rei da Vela (1982)	dub=0:1266382
 O Rei da Água (1998)	dub=0:1268576	leg=0:1272851
 O Rei das Armas (2010)	dub=0:1267974
@@ -3204,7 +3180,6 @@ O Roubo do Século (2020)	dub=0:1043904	leg=0:1032861
 O Roubo dos Diamantes	dub=2:648306	leg=2:670497
 O Roubo dos Diamantes (2023)	dub=0:1268926	leg=0:1027144
 O Roubo dos Sapatos de Magico de Oz (2025)	dub=0:1271648	leg=0:1037088
-O Réu de Si Mesmo" tvg-logo="http://gstaticontent.com/images/99c445d12a2f8fffa424197af558a2c2.jpg" group-title="Documentarios",Odilon, O Réu de Si Mesmo	dub=2:648098
 O S Rejeitados Operacao Submarino (2025)	dub=0:1270416	leg=0:1249935
 O Sabor da Vida	dub=2:645346
 O Sabor da Vida (2023)	dub=0:1064046	leg=0:1034631
@@ -3348,7 +3323,6 @@ O Setimo Filho (2014)	dub=0:1040208
 O Setimo Selo (1957)	dub=0:1265921
 O Seu Jeito de Andar	dub=2:645791
 O Seu Jeito de Andar (2014)	dub=0:1065306
-O Seu, O Nosso Natal" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/kLp3P3eQnXgQSdPDkNYW9T2MNyX.jpg" group-title="Filmes | Lancamentos",O Meu, O Seu, O Nosso Natal	dub=2:922256
 O Sexto Dia (2000)	dub=0:1269401
 O Sexto Homem	dub=2:646804,2:897146
 O Sexto Homem (1997)	dub=0:1059757	leg=0:1248928
@@ -3571,7 +3545,6 @@ O Transplante Clandestino	dub=2:648825
 O Transplante Clandestino (2021)	dub=0:1051759	leg=0:1034764
 O Trapaceiro	dub=2:650793
 O Trapaceiro (2012)	dub=0:1052823
-O Trapalhão da Floresta" tvg-logo="http://gstaticontent.com/images/kPH0ZO12dNVn05mhW8eW33qOK0a_big.jpg" group-title="Filmes | Nacionais",Robin Hood, O Trapalhão da Floresta	dub=2:644463
 O Trapalhão e a Luz Azul	dub=2:644468
 O Trapalhão e a Luz Azul (1999)	dub=0:1068032
 O Trapalhão na Arca de Noé	dub=2:644467
@@ -3654,7 +3627,6 @@ O Ultimo Virgem (2016)	dub=0:1269270
 O Ultimo na Terra	dub=2:654202
 O Unicórnio Assassino	dub=2:654840
 O Unicórnio Assassino (2018)	dub=0:1058521	leg=0:1033829
-O Unicórnio" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/oxImUTwhiHII8QvQCgxQoxCqpkK.jpg" group-title="Filmes | Animacao",Thelma, O Unicórnio	dub=2:646003
 O Universo de Oliver	dub=2:884853
 O Universo de Oliver (2022)	dub=0:1041786	leg=0:1032837
 O Universo no Olhar	dub=2:646938
@@ -3701,8 +3673,6 @@ O Viajante do Tempo (2021)	dub=0:1060212	leg=0:1035456
 O Vidente	dub=2:649102
 O Vidente (2007)	dub=0:1060653
 O Video de Benny (1992)	dub=0:1265132
-O Vigarista" tvg-logo="http://gstaticontent.com/images/4kiVg3QJQghjtRupyfWYI3T1R0O_big.jpg" group-title="Filmes | Comedia",Asim, O Vigarista	dub=2:651481
-O Vigarista" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/4kiVg3QJQghjtRupyfWYI3T1R0O.jpg" group-title="Filmes | Comedia",Asim, O Vigarista	dub=2:650306
 O Vigia	dub=2:653131
 O Vigia (2019)	dub=0:1043993	leg=0:1025773
 O Vigilante Mascarado (2016)	dub=0:1271428
@@ -3753,6 +3723,7 @@ O Zoologico de Varsovia (2017)	dub=0:1066792
 O fim da Cracolândia	dub=2:914836
 O fim da Cracolândia (2026)	dub=0:1268399,0:1268339
 O menino d’Olho d’Água (2024)	dub=0:1047973
+O menino, a toupeira, a raposa e o cavalo	dub=2:646142
 O palhaço no milharal	dub=2:885052
 O palhaço no milharal (2025)	dub=0:1038162	leg=0:1037211
 O professor (2024)	leg=0:1266911
@@ -3930,11 +3901,9 @@ Objetos Raros	dub=2:652005	leg=2:670300
 Objetos Raros (2023)	dub=0:1041429	leg=0:1026178
 Oblivion	dub=2:647013
 Oblivion (2013)	dub=0:1056709
-Obra & Vida" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/kp93Oj16b0JuuSfLLEfBJDAKV8c.jpg" group-title="Documentarios",Noite e Dia - Lima Barreto, Obra & Vida	dub=2:647844
 Obra 67 (2014)	dub=0:1272963
 Obrigada Por Tudo	dub=2:650331
 Obrigada Por Tudo (2019)	dub=0:1051075	leg=0:1028099
-Obrigada por Tudo! Julie Newmar" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/e5hCXMXM0ZLK1tjJaeIFtEBNFot.jpg" group-title="Filmes | Comedia",Para Wong Foo, Obrigada por Tudo! Julie Newmar	dub=2:762902
 Obrigado Por Fumar	dub=2:650092
 Obrigado Por Fumar (2005)	dub=0:1055137
 Obrigado Por Ligar	dub=2:650276
@@ -3964,6 +3933,7 @@ Octonautas e o Circulo de Fogo (2021)	dub=0:1063126
 Oddity	leg=2:670837
 Oddity - Objetos Obscuros (2024)	dub=0:1071347	leg=0:1249032
 Ode To Passion (2020)	leg=0:1026466
+Odilon, O Réu de Si Mesmo	dub=2:648098
 Odilon, O Réu de Si Mesmo (2022)	dub=0:1048923
 Odisseu e a Ilha da Neblina (2008)	dub=0:1272599
 Oeste Outra Vez	dub=2:884969
@@ -3984,12 +3954,16 @@ Oficina do Diabo	dub=2:654875,2:739620
 Oficina do Diabo (2022)	dub=0:1058413	leg=0:1024657
 Oficina do Diabo (2025)	dub=0:1038538,0:1037669
 Ofélia	dub=2:645663
+Oh, Canadá	dub=2:884740
 Oh, Canadá (2024)	dub=0:1041032	leg=0:1031614
+Oh, Ramona!	dub=2:651588
 Oh, Ramona! (2019)	dub=0:1064989
 Ohio State Uma Historia de Abusos (2025)	dub=0:1269781	leg=0:1037104
-Ohio" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/wBAxyz9LTvyRlQ6wcMA2La2rYgX.jpg" group-title="Filmes | Drama",The Prize Winner of Defiance, Ohio	dub=2:653161
+Oi, Alberto	dub=2:650831,2:915673
 Oi, Alberto (2021)	dub=0:1061736	leg=0:1034414
+Oi, Scooby-Doo	dub=2:646114
 Oi, Scooby-Doo (2005)	dub=0:1063143
+Oi, Sumido!	dub=2:900546,2:901325
 Oi, Sumido! (2025)	dub=0:1254294	leg=0:1265529
 Oitava Serie	dub=2:651606
 Oitava Serie (2018)	dub=0:1054704
@@ -4050,6 +4024,7 @@ Oliver e Sua Turma	dub=2:646006
 Oliver e Sua Turma (1988)	dub=0:1062823
 Oliver!	dub=2:653228
 Oliver! (1968)	dub=0:1068739
+Olá, Adeus e Tudo Mais	dub=2:645543
 Olá, Adeus e Tudo Mais (2022)	dub=0:1064765	leg=0:1026880
 Omniscient Reader The Prophecy (2025)	dub=0:1270004	leg=0:1264823
 Omoi, Omoware, Furi, Furare (2020)	dub=0:1269020
@@ -4081,6 +4056,7 @@ Onde Está Ane?	dub=2:652033	leg=2:670483
 Onde Está Ane? (2020)	dub=0:1041568	leg=0:1027363
 Onde Está Rose?	dub=2:885048
 Onde Está Rose? (2022)	dub=0:1058287	leg=0:1033733
+Onde Está Você, João Gilberto?	dub=2:648067
 Onde Está Você, João Gilberto? (2018)	dub=0:1071863
 Onde Está a Vovó?	dub=2:651563
 Onde Está a Vovó? (2018)	dub=0:1053418
@@ -4405,8 +4381,6 @@ Operação Resgate – Caverna na Tailândia (2018)	leg=0:1031751
 Operação Sombra	dub=2:924497
 Operação Sombra (2025)	dub=0:1291022
 Operação Tempestade (2023)	dub=0:1066326	leg=0:1036174
-Operação Terra " tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aKuKfGTXc2u5gHbUx0gQcRiFjPc.jpg" group-title="Filmes | Legendados",Mundo Futuro: Ano 2003, Operação Terra	leg=2:762347
-Operação Terra" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/aKuKfGTXc2u5gHbUx0gQcRiFjPc.jpg" group-title="Filmes | Acao",Mundo Futuro: Ano 2003, Operação Terra	dub=2:762734
 Operação Vingança (2025)	dub=0:1038717,0:1038170	leg=0:1249934
 Operação Zodíaco	dub=2:649088
 Operação Zodíaco (2012)	dub=0:1057271
@@ -4422,7 +4396,6 @@ Oportunistas	dub=2:654035
 Oportunistas (2017)	dub=0:1044515
 Oppenheimer	dub=2:652304
 Oppenheimer 4K (2023)	dub=0:1249685,0:1045012	leg=0:1028078
-Oppy" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg" group-title="Documentarios",Boa noite, Oppy	dub=2:648038
 Oprah e The Color Purple Journey (2023)	dub=0:1269472
 Oprah e Viola Um Evento Especial Netflix (2022)	dub=0:1268508
 Opt ilustrate din lumea ideală (2024)	leg=0:1031424
@@ -4855,7 +4828,6 @@ Os Mercenarios 3 (2014)	dub=0:1057066
 Os Mercenários 4	dub=2:648515
 Os Mercenários 4 (2023)	dub=0:1022078	leg=0:1035648
 Os Meteoritos (2019)	dub=0:1270975
-Os Meus, Os Nossos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/jNAKIG7YjOfpCiHMLvebZ1F3z6W.jpg" group-title="Filmes | Comedia",Os Seus, Os Meus, Os Nossos	dub=2:884549
 Os Miseraveis (1998)	dub=0:1045145
 Os Miseraveis (2019)	dub=0:1269272
 Os Miseráveis	dub=2:653263,2:654189
@@ -5034,12 +5006,14 @@ Os Sete Pecados Capitais: Fúria de Edimburgo – Parte 2	dub=2:646093
 Os Sete Pecados Capitais: Fúria de Edimburgo – Parte 2 (2023)	dub=0:1061877
 Os Sete Samurais	dub=2:648865
 Os Sete Samurais (1954)	dub=0:1047944
+Os Seus, Os Meus, Os Nossos	dub=2:884549
 Os Seus, Os Meus, Os Nossos (1968)	dub=0:1054114	leg=0:1031768
 Os Seus, os Meus e os Nossos (2005)	dub=0:1256075
 Os Simpsons em Plusniversário	dub=2:650830
 Os Simpsons em Plusniversário (2021)	dub=0:1062147	leg=0:1024583
 Os Simpsons: Homer Papai Noel	dub=2:645927	leg=2:670280
 Os Simpsons: Homer Papai Noel (2024)	dub=0:1061674	leg=0:1029661
+Os Simpsons: O Bem, o Bart e o Loki	dub=2:646317
 Os Simpsons: O Bem, o Bart e o Loki (2021)	dub=0:1061604
 Os Simpsons: O Filme	dub=2:646348
 Os Simpsons: O Filme (2007)	dub=0:1068215
@@ -5113,6 +5087,7 @@ Os Túneis Secretos de Hitler	dub=2:647790
 Os Túneis Secretos de Hitler (2018)	dub=0:1045223
 Os Ultimos 10 Anos (2022)	dub=0:1268492
 Os Ultimos na Terra (2015)	dub=0:1270325
+Os Under Undergrounds, O Começo	dub=2:648812
 Os Under Undergrounds, O Começo (2020)	dub=0:1062730
 Os Underdoggs	dub=2:650215
 Os Underdoggs (2024)	dub=0:1053973	leg=0:1034193
@@ -5191,6 +5166,7 @@ Outlander Guerreiro vs Predador (2008)	dub=0:1059709
 Outlier (2021)	dub=0:1269791
 Outono em Nova York	dub=2:911603
 Outono em Nova York (2000)	dub=0:1268616
+Outono: Love, Fall & Order	dub=2:645075
 Outono: Love, Fall & Order (2019)	dub=0:1050125	leg=0:1035720
 Outra Chance para o Amor	dub=2:645329	leg=2:670836
 Outra Chance para o Amor (2024)	dub=0:1064184	leg=0:1029217
@@ -5219,39 +5195,10 @@ Oz - Magico e Poderoso	dub=2:647064
 Oz - Magico e Poderoso (2013)	dub=0:1068578
 Ozzy No Escape from Now (2025)	dub=0:1271522	leg=0:1249943
 Oļegs (2019)	dub=0:1266844
-o Assassino" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/hJPW8HAJNX2wsaqb0PQWsYThoTL.jpg" group-title="Filmes | Acao",Ichi, o Assassino	dub=2:910007
-o Bart e o Loki" tvg-logo="http://gstaticontent.com/images/f7ee900c71c63219c738cdea996d5356.jpg" group-title="Filmes | Animacao",Os Simpsons: O Bem, o Bart e o Loki	dub=2:646317
-o Bárbaro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg" group-title="Filmes | Acao",Conan, o Bárbaro	dub=2:648634
-o Caçador" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/rS1RhHcwJGunzlMav233anqnKyl.jpg" group-title="Documentarios",A Mente de Um Monstro: Robert Hansen, o Caçador	dub=2:846469
-o Coelho de Brinquedo e a Máquina do Tempo" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wuX54Xvw72ZlyDQ9fwskYGTNIsK.jpg" group-title="Filmes | Animacao",Felix, o Coelho de Brinquedo e a Máquina do Tempo	dub=2:762767
-o Cupido Trapalhão" tvg-logo="http://gstaticontent.com/images/025482a4a8386b010337b837a20d03f3.jpg" group-title="Filmes | Nacionais",Didi, o Cupido Trapalhão	dub=2:644404
-o Curioso: Aventuras no Mar" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/539klzkpRB4KvpsiWaFjKjeGWwc.jpg" group-title="Filmes | Animacao",George, o Curioso: Aventuras no Mar	dub=2:646039
-o Cyborg do Futuro" tvg-logo="http://gstaticontent.com/images/iH8Jgi8qvb7pnBfI8fVGaUbyRna_big.jpg" group-title="Filmes | Fantasia",Johnny Mnemonic, o Cyborg do Futuro	dub=2:646862
-o Fantasma Trapalhão " tvg-logo="http://gstaticontent.com/images/hp6PFaJr7PXwl3Ci2Fgpq2OhLyt_big.jpg" group-title="Filmes | Nacionais",Simão, o Fantasma Trapalhão (1998)	dub=2:644462
-o Fantasminha Camarada" tvg-logo="http://gstaticontent.com/images/s89ACIwVDsESNyWbpe495Iigq8e_big.jpg" group-title="Filmes | Fantasia",Gasparzinho, o Fantasminha Camarada	dub=2:646863
-o Filme" tvg-logo="http://gstaticontent.com/images/2eef53575ec287fa6e157698dd7fe7f8.jpg" group-title="Filmes | Animacao",Snoopy & Charlie Brown: Peanuts, o Filme	dub=2:646219
-o Filme" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lm7e4NsS1gqDqWtKCs9ZPKE6jyF.jpg" group-title="Filmes | Nacionais",Saneamento Básico, o Filme	dub=2:884919
-o Filme: Segredos da Selva" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/szrcgoMk7BJeSFJS41lMiyNPnf3.jpg" group-title="Filmes | Animacao",Pokémon, o Filme: Segredos da Selva	dub=2:646260
-o Gigante Cão Vermelho" tvg-logo="http://gstaticontent.com/images/6a28fdbf06dc99bae0af9ff61f63ad0b.jpg" group-title="Filmes | Animacao",Clifford, o Gigante Cão Vermelho	dub=2:646230
-o Golfinho 2" tvg-logo="http://gstaticontent.com/images/4a10243772b22daf537976c55b9596f9.jpg" group-title="Filmes | Drama",Winter, o Golfinho 2	dub=2:653196
-o Golfinho" tvg-logo="http://gstaticontent.com/images/a41a3bdc22d9d916ca6dba16d22269c2.jpg" group-title="Filmes | Drama",Winter, o Golfinho	dub=2:653197
-o Golfinho" tvg-logo="http://gstaticontent.com/images/lHqItazez95c6Ar1z4va6ngTQlD_big.jpg" group-title="Filmes | Acao",Bernie, o Golfinho	dub=2:649634
-o Impulso e a Razão" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/wf73CbB2Ag6NmMofdas79EBfGu3.jpg" group-title="Filmes | Lancamentos",Vlavianos, o Impulso e a Razão	dub=2:910623
-o Menino Jacaré" tvg-logo="http://gstaticontent.com/images/702a6d67d8cbafe806dc382b4d21ec63.jpg" group-title="Filmes | Animacao",Arlo, o Menino Jacaré	dub=2:646375
-o Milionário Irresistível" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/ggWYKLNzj0vnfL9LlsQ2Kxrrusl.jpg" group-title="Filmes | Comedia",Arthur, o Milionário Irresistível	dub=2:650873
-o Piloto Sumiu" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/v0xT4MS9GGGt9lJaLvKU06sBfuc.jpg" group-title="Filmes | Comedia",Apertem os Cintos, o Piloto Sumiu	dub=2:884566
-o Pimentinha Ataca Novamente" tvg-logo="http://gstaticontent.com/images/9AnwwTia1JiQH6lItJ3dSz9onvI_big.jpg" group-title="Filmes | Comedia",Dennis, o Pimentinha Ataca Novamente	dub=2:651235
-o Preto Que Virou Mar" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/5eRLu0dFiSPGRBfuNdM3MCKcaYa.jpg" group-title="Documentarios",Dorivando Saravá, o Preto Que Virou Mar	dub=2:647859
-o Repórter" tvg-logo="http://gstaticontent.com/images/bEjJixhyuyJlmMoZa985fYDyvkm_big.jpg" group-title="Filmes | Comedia",As Aventuras de Agamenon, o Repórter	dub=2:651069
-o Super Sayajin" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg" group-title="Filmes | Animacao",Dragon Ball Z: Goku, o Super Sayajin	dub=2:646272,2:646690
-o Unicórnio" tvg-logo="http://gstaticontent.com/images/57f954dad56de5a998762f122f139164.jpg" group-title="Filmes | Fantasia",Meu Amigo, o Unicórnio	dub=2:646834
-o Vagabundo" tvg-logo="http://gstaticontent.com/images/bvz6oCiQmd8VqSenDuyhKOg0tUP_big.jpg" group-title="Filmes | Nacionais",Bonga, o Vagabundo	dub=2:644492
-os Guerreiros do Futuro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/yprvCrZcdWNvoGmhkEy93l5NRDW.jpg" group-title="Filmes | Animacao",Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro	dub=2:645929
-Ó 2" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/9yKqnhLo5RWQJPxJQxQsX2OGBZd.jpg" group-title="Filmes | Nacionais",Ó Pai, Ó 2	dub=2:644290
 Ó Pai, Ó (2007)	dub=0:1071929
+Ó Pai, Ó 2	dub=2:644290
+Ó Paí, Ó	dub=2:644363,2:644436
 Ó Paí, Ó 2 (2023)	dub=0:1054161	leg=0:1249468
-Ó" tvg-logo="http://gstaticontent.com/images/eS5G6BCbUBU77Ueo07HllIBBc53_big.jpg" group-title="Filmes | Nacionais",Ó Pai, Ó	dub=2:644436
-Ó" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xmBBt6NvPs4sbQWxqd0UrGVcn8.jpg" group-title="Filmes | Nacionais",Ó Paí, Ó	dub=2:644363
 Óleo de Sarah Legendado (2025)	dub=0:1254355
 Órfã 2: A Origem	dub=2:654882
 Órfã 2: A Origem (2022)	dub=0:1057504,0:1000501	leg=0:1033572

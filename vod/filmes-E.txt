@@ -131,16 +131,23 @@ El mesero (2021)	leg=0:1029993
 El pádel es nuestro (2025)	dub=0:1036976	leg=0:1036938
 Ela	dub=2:654063
 Ela (2013)	dub=0:1061174
+Ela Dança, Eu Danço	dub=2:653377
 Ela Dança, Eu Danço (2006)	dub=0:1072008
+Ela Dança, Eu Danço 2	dub=2:653376,2:901308
 Ela Dança, Eu Danço 2 (2008)	dub=0:1071909	leg=0:1266402
+Ela Dança, Eu Danço 3	dub=2:653375
 Ela Dança, Eu Danço 3 (2010)	dub=0:1063900
+Ela Dança, Eu Danço 4	dub=2:653374
 Ela Dança, Eu Danço 4 (2012)	dub=0:1071889
+Ela Dança, Eu Danço 5: Tudo ou Nada	dub=2:653373
 Ela Dança, Eu Danço 5: Tudo ou Nada (2014)	dub=0:1071499
+Ela Dança, Eu Danço 6	dub=2:653372
 Ela Dança, Eu Danço 6 (2019)	dub=0:1071478
 Ela Disse	dub=2:652587
 Ela Disse 4K (2022)	dub=0:1249713,0:1045421	leg=0:1033701
 Ela Disse Talvez	dub=2:885061
 Ela Disse Talvez 4K (2025)	dub=0:1038670,0:1036992	leg=0:1036995
+Ela Disse, Ele Disse	dub=2:651470
 Ela Disse, Ele Disse (2019)	dub=0:1065091
 Ela Escolhe Perdoar	dub=2:918162
 Ela Escolhe Perdoar (2025)	dub=0:1261441	leg=0:1272748
@@ -171,7 +178,6 @@ Eldorado - Mengele Vivo ou Morto?	dub=2:648229
 Eldorado - Mengele Vivo ou Morto? (2019)	dub=0:1048794
 Ele Acredita em Papai Noel!	dub=2:645500
 Ele Acredita em Papai Noel! (2022)	dub=0:1063669	leg=0:1034654
-Ele Disse" tvg-logo="http://gstaticontent.com/images/9wrpjGA7naIPnGPoIJ2la6gbAlT_big.jpg" group-title="Filmes | Comedia",Ela Disse, Ele Disse	dub=2:651470
 Ele Esta La Fora (2018)	dub=0:1265635
 Ele Está de Volta	dub=2:650974,2:651884
 Ele Está de Volta (2015)	dub=0:1053165
@@ -382,6 +388,7 @@ Em Segredo	dub=2:911516
 Em Segredo (2014)	dub=0:1272212	leg=0:1272209
 Em Seu Lugar (2005)	dub=0:1064911	leg=0:1272814
 Em Seus Passos O Que Faria Jesus (2010)	dub=0:1266953
+Em Seus Passos, O Que Faria Jesus?	dub=2:645018
 Em Seus Sonhos	dub=2:645459
 Em Seus Sonhos (2023)	dub=0:1063765	leg=0:1028182
 Em Silencio (2011)	dub=0:1269214
@@ -461,10 +468,8 @@ Encanto Quebrado - 0 (2024)	dub=0:1273259
 Enchente Quem Salvara Nossos Filhos (1993)	dub=0:1268236
 Enclausurados	dub=2:901188
 Enclausurados (2023)	dub=0:1251147	leg=0:1251050
-Encolhi a Gente" tvg-logo="http://gstaticontent.com/images/f901dbf3d6e64e2608a07ab6ad32bb4f.jpg" group-title="Filmes | Comedia",Querida, Encolhi a Gente	dub=2:650697
 Encolhi a Professora (2015)	dub=0:1271780
 Encomenda para o Natal (2022)	dub=0:1269998
-Encontra um Tesouro" tvg-logo="http://gstaticontent.com/images/rxVNxM4rbJEpgvLC8Wt7tEW7yvm_big.jpg" group-title="Filmes | Comedia",Quem Encontra um Amigo, Encontra um Tesouro	dub=2:651705
 Encontradas (2021)	dub=0:1271889
 Encontrando Forrester	dub=2:653234
 Encontrando Forrester (2000)	dub=0:1045814
@@ -697,7 +702,6 @@ Entre as Luzes	dub=2:897065,2:900510
 Entre as Luzes (2023)	dub=0:1265681	leg=0:1265686
 Entre as Sombras	dub=2:654788,2:901898
 Entre as Sombras (2019)	dub=0:1051988	leg=0:1030958
-Entre as Árvores" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ya9Xbrh8rN8EDeFBiI1tEjGY05o.jpg" group-title="Filmes | Drama",Do Outro Lado do Rio, Entre as Árvores	dub=2:884788
 Entre o Amor e a Fama	dub=2:653894
 Entre o Amor e a Fama (2018)	dub=0:1050399
 Entre o Ceu e a Terra (1993)	dub=0:1269959
@@ -749,6 +753,7 @@ Era Uma Vez	dub=2:654297
 Era Uma Vez (2008)	dub=0:1041982
 Era Uma Vez Em Roma	dub=2:645555
 Era Uma Vez Em Roma (2019)	dub=0:1049919	leg=0:1033781
+Era Uma Vez Eu, Verônica	dub=2:884833
 Era Uma Vez Eu, Verônica (2012)	dub=0:1042479
 Era Uma Vez Minha Mãe	dub=2:919871
 Era Uma Vez Minha Mãe (2025)	dub=0:1262445
@@ -891,7 +896,7 @@ Especial Roberto Carlos Reencontro	dub=2:648118
 Especial: 40 Anos do SBT	dub=2:648158
 Especialista em Crise	dub=2:651492
 Especialista em Crise (2015)	dub=0:1054686
-Espelho Meu" tvg-logo="http://gstaticontent.com/images/d65b166274c868c15c378db1604576d1.jpg" group-title="Filmes | Fantasia",Espelho, Espelho Meu	dub=2:646832
+Espelho, Espelho Meu	dub=2:646832
 Espelho, Espelho Meu (2012)	dub=0:1068005
 Espelhos do Medo	dub=2:655033
 Espelhos do Medo (2008)	dub=0:1070892
@@ -979,6 +984,7 @@ Esqueceram de Mim 4	dub=2:651238
 Esqueceram de Mim 4 (2002)	dub=0:1050851
 Esqueceram de Mim 5: Sozinho no Natal	dub=2:651237
 Esqueceram de Mim 5: Sozinho no Natal (2012)	dub=0:1049702
+Esqueceram de Mim no Lar, Doce Lar	dub=2:650829
 Esqueceram de Mim no Lar, Doce Lar (2021)	dub=0:1067695	leg=0:1031507
 Esqueceram de Nós	dub=2:650783
 Esqueceram de Nós (2021)	dub=0:1067069	leg=0:1032982
@@ -995,6 +1001,7 @@ Essas Garotas! (1988)	dub=0:1065749
 Esse Ano Vai (2021)	dub=0:1270003
 Esse é o Meu Lugar	dub=2:652257
 Esse é o Meu Lugar (2021)	dub=0:1041852	leg=0:1249054
+Esta Noite, Você Dorme Comigo	dub=2:645478
 Esta Noite, Você Dorme Comigo (2023)	dub=0:1064615	leg=0:1024880
 Esta Sou Eu	dub=2:904307,2:911630
 Esta Sou Eu 4K (2026)	dub=0:1267550,0:1256827	leg=0:1267265
@@ -1111,13 +1118,6 @@ Eu Ainda Sei o Que Vocês Fizeram no Verão Passado	dub=2:655063
 Eu Ainda Sei o Que Vocês Fizeram no Verão Passado (1998)	dub=0:1071016
 Eu Antes de Mim	dub=2:922259
 Eu Antes de Mim (2026)	dub=0:1263343
-Eu Danço 2" tvg-logo="http://gstaticontent.com/images/A0IBQe9vPjd3CR14uYz9Lklxrfh_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço 2	dub=2:653376
-Eu Danço 2" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/A0IBQe9vPjd3CR14uYz9Lklxrfh.jpg" group-title="Filmes | Romance",Ela Dança, Eu Danço 2	dub=2:901308
-Eu Danço 3" tvg-logo="http://gstaticontent.com/images/y9eOOfBdSqjeqDLUeX35Q825AzF_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço 3	dub=2:653375
-Eu Danço 4" tvg-logo="http://gstaticontent.com/images/pqTxJfMVYEtz3LpGjf1hCxqiZ7V_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço 4	dub=2:653374
-Eu Danço 5: Tudo ou Nada" tvg-logo="http://gstaticontent.com/images/2eoioJdyQc51cHWYWRkLSXtfbr4_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço 5: Tudo ou Nada	dub=2:653373
-Eu Danço 6" tvg-logo="http://gstaticontent.com/images/eNzLlzZCrqK4fXmxTojTAk1jqnE_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço 6	dub=2:653372
-Eu Danço" tvg-logo="http://gstaticontent.com/images/fdcpRdrEtvXINLCBv2lko7uxwVo_big.jpg" group-title="Filmes | Drama",Ela Dança, Eu Danço	dub=2:653377
 Eu Deus E Bin Laden	dub=2:651185
 Eu Deus E Bin Laden (2016)	dub=0:1053490
 Eu Fico Loko (2017)	dub=0:1265208
@@ -1125,8 +1125,6 @@ Eu Já Fui Engraçada	dub=2:922237
 Eu Mato Gigantes	dub=2:654294
 Eu Me Importo	dub=2:651203
 Eu Me Importo (2021)	dub=0:1052297
-Eu Mesma e Diana" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/1rBteQLLEaoSIn5VHdqtP417hNn.jpg" group-title="Filmes | Comedia",Eu, Eu Mesma e Diana	dub=2:650307
-Eu Mesmo & Irene" tvg-logo="http://gstaticontent.com/images/gzoeXKICGubWgdQ0EYRNZceVpPs_big.jpg" group-title="Filmes | Comedia",Eu, Eu Mesmo & Irene	dub=2:651160
 Eu Nao Sou Seu Negro (2017)	dub=0:1269094
 Eu Nao Sou Um Homem Facil	dub=2:651873
 Eu Nao Sou Um Homem Facil (2018)	dub=0:1040230
@@ -1181,11 +1179,8 @@ Eu Só Posso Imaginar 2 (2026)	dub=0:1268394,0:1260491	leg=0:1268422
 Eu Te Amo Cara (2009)	dub=0:1270685
 Eu Te Amo é no Sol	dub=2:901442
 Eu Te Amo é no Sol (2022)	dub=0:1250066	leg=0:1250065
-Eu Te Amo" tvg-logo="http://gstaticontent.com/images/4a35336cf50f983a85827d5b85ac657c.jpg" group-title="Filmes | Nacionais",Rio, Eu Te Amo	dub=2:644415
-Eu Te Amo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/uJ2TVrEXUPe4tKGoVkvCjbkxyGr.jpg" group-title="Filmes | Comedia",Nova York, Eu Te Amo	dub=2:650119
+Eu Te Amo, Beth Cooper	dub=2:651245
 Eu Te Amo, Beth Cooper (2009)	dub=0:1063980	leg=0:1034963
-Eu Te Chutaria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lvdrPOr9LBvYp7Yq0nWn8vnl3fr.jpg" group-title="Filmes | Drama",Se Eu Tivesse Pernas, Eu Te Chutaria	dub=2:911629
-Eu Te Chutaria" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lvdrPOr9LBvYp7Yq0nWn8vnl3fr.jpg" group-title="Filmes | Lancamentos",Se Eu Tivesse Pernas, Eu Te Chutaria	dub=2:904959
 Eu Tenho Tourette, Mas Tourette Não Me Tem (2005)	dub=0:1266475	leg=0:1266447
 Eu Tonya	dub=2:654293
 Eu Tonya (2017)	dub=0:1054916
@@ -1208,14 +1203,22 @@ Eu sei que vou te amar	dub=2:884678
 Eu sei que vou te amar (1986)	dub=0:1042989
 Eu sou Bolt (2016)	dub=0:1268610	leg=0:1026755
 Eu sou Frankelda (2025)	dub=0:1261955
+Eu te amo, Bressan	dub=2:909087
 Eu te amo, Bressan (2021)	dub=0:1268224	leg=0:1268228
+Eu, Capitão	dub=2:652172
 Eu, Capitão (2023)	dub=0:1056507
+Eu, Christiane F. - 13 Anos, Drogada e Prostituída	dub=2:652507
 Eu, Christiane F. - 13 Anos, Drogada e Prostituída (1981)	dub=0:1042605
 Eu, Eddie (2025)	dub=0:1253510
+Eu, Eu Mesma e Diana	dub=2:650307
 Eu, Eu Mesma e Diana (2021)	dub=0:1064514	leg=0:1032859
+Eu, Eu Mesmo & Irene	dub=2:651160
 Eu, Eu Mesmo & Irene (2000)	dub=0:1054484	leg=0:1272804
+Eu, Nirvana	dub=2:904960
 Eu, Nirvana (2024)	dub=0:1267516
+Eu, Robô	dub=2:649564
 Eu, Robô (2004)	dub=0:1060706
+Eu, Traidor	dub=2:652713
 Eu, Traidor (2022)	dub=0:1041667	leg=0:1024831
 Eu. Empresa (2021)	dub=0:1265852
 Euforia	dub=2:652852,2:654089
@@ -1229,6 +1232,7 @@ Euphoria: Um Olhar para Trás (2026)	dub=0:1263705
 Eureka (2024)	leg=0:1272619
 EuroTrip Passaporte Para a Confusao	dub=2:651871
 EuroTrip Passaporte Para a Confusao (2004)	dub=0:1054490
+Eva, um Novo Começo	dub=2:644718
 Eva, um Novo Começo (2011)	dub=0:1060626
 Evangelion: 3.0+1.01 A Esperança	dub=2:646308
 Evangelion: 3.0+1.01 A Esperança (2021)	dub=0:1062089	leg=0:1249375
@@ -1379,8 +1383,8 @@ Eye Without a Face (2021)	dub=0:1268958
 Eye for an Eye	dub=2:904951
 Eye for an Eye (2025)	leg=0:1267548
 eHero (2018)	dub=0:1269074	leg=0:1027555
-eu sou do futuro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lF0xbAJatRiBk8UNQ82ufi2vdjP.jpg" group-title="Filmes | Ficcao",Relaxe, eu sou do futuro	dub=2:644618
 É Amor?	dub=2:900424,2:901309
+É Apenas uma Fase, Amor	dub=2:650542
 É Apenas uma Fase, Amor (2021)	dub=0:1064312	leg=0:1033632
 É Assim Que Acaba	dub=2:645317	leg=2:670703
 É Assim Que Acaba (2024)	dub=0:1063321,0:1022658	leg=0:1031194
@@ -1396,9 +1400,11 @@ eu sou do futuro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lF0x
 É Hora de Viajar! (2013)	dub=0:1061691	leg=0:1027916
 É Hora do Show	dub=2:648838
 É Hora do Show (2002)	dub=0:1047443
+É Mágica, Charlie Brown	dub=2:818329
 É Mágica, Charlie Brown (1981)	dub=0:1050077	leg=0:1033672
 É Natal de Novo	dub=2:909100
 É Natal de Novo (2022)	dub=0:1268000	leg=0:1268004
+É Natal de novo, Charlie Brown	dub=2:902564
 É Natal de novo, Charlie Brown (1992)	dub=0:1265732	leg=0:1265776
 É Noite na América	dub=2:647989
 É Noite na América (2022)	dub=0:1049253
@@ -1412,13 +1418,16 @@ eu sou do futuro" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/lF0x
 É Proibido Fumar (2009)	dub=0:1271984
 É Quase Verdade	dub=2:910636
 É Quase Verdade (2026)	dub=0:1259085
+É Rocha e Rio, Negro Leo	dub=2:647770
 É Rocha e Rio, Negro Leo (2020)	dub=0:1049318
 É Tempo de Amar	dub=2:645321	leg=2:670739
+É Um Valentão, Charlie Brown	dub=2:818307
 É Um Valentão, Charlie Brown (2006)	dub=0:1049935	leg=0:1035643
 É de Chuá!	dub=2:884469
 É de Chuá! (1958)	dub=0:1071997
 É o Bicho!	dub=2:646458
 É o Bicho! (2017)	dub=0:1057154
+É o Dia da Árvore, Charlie Brown	dub=2:818315
 É o Dia da Árvore, Charlie Brown (1976)	dub=0:1049967	leg=0:1025771
 Éden	dub=2:901277
 Éden (2025)	dub=0:1252109	leg=0:1036653

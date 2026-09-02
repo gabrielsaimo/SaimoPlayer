@@ -44,6 +44,24 @@ QUALIDADE = re.compile(r"\s*\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv)\b\s*²?", re.I
 POR_PEDACO = 120
 
 
+def nome_do_extinf(linha):
+    """O nome que vem depois dos atributos do `#EXTINF`.
+
+    A segunda lista traz `tvg-name`, `tvg-logo` e `group-title`, e o valor de
+    um deles às vezes tem vírgula dentro das aspas — "De Repente, Miss!". Cortar
+    na primeira vírgula da linha partia o atributo ao meio e o título virava
+    `Miss!" tvg-logo="http://…`, sem capa e fora de ordem no alfabeto. A vírgula
+    que separa o nome é a primeira que estiver fora das aspas.
+    """
+    dentro = False
+    for posicao, caractere in enumerate(linha):
+        if caractere == '"':
+            dentro = not dentro
+        elif caractere == "," and not dentro:
+            return linha[posicao + 1:].strip()
+    return ""
+
+
 def letra(titulo):
     texto = unicodedata.normalize("NFKD", titulo).encode("ascii", "ignore").decode()
     inicial = texto.strip()[:1].upper()
@@ -133,7 +151,7 @@ def main():
             if not linha.startswith("#EXTINF"):
                 indice += 1
                 continue
-            nome = linha.split(",", 1)[-1].strip()
+            nome = nome_do_extinf(linha)
             url = linhas[indice + 1].strip()
             indice += 2
             if not url or url.startswith("#"):

@@ -141,6 +141,7 @@ Samurai X: O Final (2021)	dub=0:1046020
 Sanctorum (2019)	dub=0:1268568
 Sandman - Pesadelo Real	dub=2:655361
 Sandman - Pesadelo Real (2017)	dub=0:1057833
+Saneamento Básico, o Filme	dub=2:884919
 Saneamento Básico, o Filme (2007)	dub=0:1065865
 Sangre Comigo (2020)	dub=0:1267047
 Sangre del Toro (2025)	dub=0:1265658	leg=0:1265346
@@ -168,8 +169,6 @@ Sangue de Herois (1948)	dub=0:1267461
 Sangue de Pelicano	dub=2:653384
 Sangue de Pelicano (2020)	dub=0:1044574
 Sangue de Pistoleiro (1958)	dub=0:1069103	leg=0:1025023
-Sangue e Grinalda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uSx37nkzHoWHdLaHXKCulwNzd4u.jpg" group-title="Filmes | Lancamentos",Véu, Sangue e Grinalda	dub=2:902512
-Sangue e Grinalda" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/uSx37nkzHoWHdLaHXKCulwNzd4u.jpg" group-title="Filmes | Suspense",Véu, Sangue e Grinalda	dub=2:901222
 Sangue e Ouro	dub=2:644998
 Sangue e Ouro (2023)	dub=0:1066422	leg=0:1024578
 Sangue no Gelo	dub=2:826357
@@ -300,13 +299,12 @@ Scooby-Doo! e o Fantasma Gourmet	dub=2:645974,2:646558	leg=2:670832
 Scooby-Doo! e o Lobisomem	dub=2:645949
 Scooby-Doo! e o Lobisomem (1988)	dub=0:1050683
 Scooby-Doo! em Uma Noite das Arábias (1994)	dub=0:1268320
-Scooby-Doo" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/n24cMOaixIsJ1yqQnRQHMTRwlqe.jpg" group-title="Filmes | Animacao",Oi, Scooby-Doo	dub=2:646114
+Scooby-Doo, Cadê Você Agora!	dub=2:902586
 Scooby-Doo, Cadê Você Agora! (2021)	dub=0:1264849	leg=0:1264846
 Scooby-Doo: O Filme	dub=2:645238
 Scooby-Doo: O Filme (2002)	dub=0:1056930
 Scott Pilgrim Contra o Mundo	dub=2:648530
 Scott Pilgrim Contra o Mundo (2010)	dub=0:1047885
-Scott" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/egCl6L7hrFhTpBf9dVc9G7Amh70.jpg" group-title="Documentarios",Com Amor, Scott	dub=2:647910
 Scrapper (2023)	dub=0:1269592
 Screamboat: Terror a Bordo	dub=2:885024
 Screamboat: Terror a Bordo (2025)	dub=0:1037037	leg=0:1038091
@@ -324,6 +322,7 @@ Se Beber Nao Case 3	dub=2:651699
 Se Beber Nao Case 3 (2013)	dub=0:1055214
 Se Beber Nao Pesque (2020)	dub=0:1267911	leg=0:1029156
 Se Deus Vier Que Venha Armado (2014)	dub=0:1269011
+Se Enlouquecer, Não Se Apaixone	dub=2:652595
 Se Enlouquecer, Não Se Apaixone (2010)	dub=0:1054363
 Se Essa Rua Fosse Minha	dub=2:884956
 Se Essa Rua Fosse Minha (2022)	dub=0:1072525
@@ -340,6 +339,7 @@ Se Eu Fosse a Minha Mãe	dub=2:884572
 Se Eu Fosse a Minha Mãe (1976)	dub=0:1038936
 Se Eu Fosse um Homem	dub=2:651312
 Se Eu Fosse um Homem (2017)	dub=0:1055050
+Se Eu Tivesse Pernas, Eu Te Chutaria	dub=2:904959,2:911629
 Se Eu Tivesse Pernas, Eu Te Chutaria (2025)	dub=0:1256881	leg=0:1267523
 Se Fosse Amor	dub=2:645287,2:770291	leg=2:670381,2:762415
 Se Fosse Amor (2022)	dub=0:1063914	leg=0:1249231
@@ -352,6 +352,7 @@ Se Nada Mais Der Certo	dub=2:884850
 Se Nada Mais Der Certo (2008)	dub=0:1041037
 Se Não Fosse Você	dub=2:900576,2:901328
 Se Não Fosse Você (2025)	dub=0:1254091	leg=0:1265448
+Se Não Me Mato, Morro!	dub=2:651209
 Se Não Me Mato, Morro! (1978)	dub=0:1055142
 Se Organizar Direitinho…	dub=2:670124
 Se Organizar Direitinho… (2021)	dub=0:1052926,0:1022254	leg=0:1032036
@@ -534,6 +535,7 @@ Sem Deixar Rastros (2021)	dub=0:1271634
 Sem Deixar Vestigios	dub=2:908288
 Sem Direito a Resgate	dub=2:650962
 Sem Direito a Resgate (2013)	dub=0:1052556
+Sem Dor, Sem Ganho	dub=2:651549
 Sem Dor, Sem Ganho (2013)	dub=0:1047712
 Sem Dormir Até o Natal	dub=2:651547
 Sem Dormir Até o Natal (2018)	dub=0:1050447
@@ -550,7 +552,6 @@ Sem Filhos (2020)	dub=0:1270290
 Sem Filtro Flamengo (2020)	dub=0:1271360
 Sem Fôlego	dub=2:648790
 Sem Fôlego (2022)	dub=0:1044572
-Sem Ganho" tvg-logo="http://gstaticontent.com/images/2xD9MZQbIhqkcRxlB4StEkdOtLS_big.jpg" group-title="Filmes | Comedia",Sem Dor, Sem Ganho	dub=2:651549
 Sem Gemeos (2025)	dub=0:1269388	leg=0:1251103
 Sem Gravidade Sem Cerebro (2014)	dub=0:1266048
 Sem Licenca para Dirigir (1988)	dub=0:1270437
@@ -760,11 +761,10 @@ Setor 36 (2024)	dub=0:1043077,0:1023067	leg=0:1033254
 Seu Crime, Seu Sofrimento (2012)	dub=0:1293679
 Seu Filho	dub=2:647635
 Seu Filho (2018)	dub=0:1044487
-Seu Filho" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/aRcXdOZV1coZmkelaGEgfmTgXx.jpg" group-title="Filmes | Drama",Meu Sonho, Seu Filho	dub=2:652356
 Seu Nome	dub=2:646310
 Seu Nome (2016)	dub=0:1063034
 Seu Nome Gravado em Mim (2020)	dub=0:1267260
-Seu Passado a Espera" tvg-logo="http://gstaticontent.com/images/bi4RVMemokr8b0FBqsMsASqot1E_big.jpg" group-title="Filmes | Comedia",Peggy Sue, Seu Passado a Espera	dub=2:651396
+Seu Primeiro Beijo, Charlie Brown	dub=2:818312
 Seu Primeiro Beijo, Charlie Brown (1977)	dub=0:1049543	leg=0:1033642
 Seu Único Filho	dub=2:884813
 Seu Único Filho (2023)	dub=0:1039273	leg=0:1030333
@@ -794,7 +794,6 @@ Sex and the City 2	dub=2:651693
 Sex and the City 2 (2010)	dub=0:1065755
 Sexa	dub=2:918450
 Sexa (2025)	dub=0:1261765
-Sexo & Pandemia" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/vQG7sctUGPWxqIkJfdGBgNPL2cz.jpg" group-title="Filmes | Drama",Amor, Sexo & Pandemia	dub=2:652489
 Sexo Drogas e Jingle Bells (2015)	dub=0:1269007
 Sexo Música e Amor	dub=2:651612
 Sexo Música e Amor (2018)	dub=0:1071932
@@ -802,9 +801,10 @@ Sexo Sem Compromisso	dub=2:651546
 Sexo Sem Compromisso (2011)	dub=0:1063521
 Sexo a Três (2018)	dub=0:1272927	leg=0:1272959
 Sexo com Amor?	dub=2:901433
-Sexo e 30 Velinhas" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/gqUYMRFi5CZLJdM0OXzwetqFRux.jpg" group-title="Filmes | Drama",Amor, Sexo e 30 Velinhas	dub=2:652429
+Sexo, Amizade e Maternidade	dub=2:650256
 Sexo, Amizade e Maternidade (2021)	dub=0:1053774	leg=0:1028090
 Sexo, Mentiras e Zumba (2013)	dub=0:1269485
+Sexo, Pudor e Lágrimas 2	dub=2:650731
 Sexo, Pudor e Lágrimas 2 (2022)	dub=0:1053798	leg=0:1035636
 Sexta Feira em Apuros (1995)	dub=0:1248778
 Sexta-Feira 13	dub=2:655113,2:655377
@@ -861,6 +861,7 @@ Shaft (2000)	dub=0:1056743	leg=0:1036576
 Shaft (2019)	dub=0:1266141
 Shaitaan	dub=2:918166
 Shaitaan (2024)	dub=0:1271631	leg=0:1272700
+Shake, Rattle & Roll Evil Origins	dub=2:923307
 Shake, Rattle & Roll: As Origens do Mal (2026)	dub=0:1264595
 Shakespeare Apaixonado	dub=2:645429
 Shakespeare Apaixonado (1998)	dub=0:1045819
@@ -898,6 +899,7 @@ Shazam! Fúria dos Deuses (2023)	dub=0:1038748,0:1022400	leg=0:1031918
 She Ball (2020)	dub=0:1266854
 She Rides Shotgun (2025)	leg=0:1037476
 She Will (2022)	dub=0:1264790
+She's a Good Skate, Charlie Brown	dub=2:818311
 She's a Good Skate, Charlie Brown (1980)	dub=0:1067746	leg=0:1032781
 Sheena a Rainha das Selvas (1984)	dub=0:1265918
 Shehzada (2023)	dub=0:1266091
@@ -1014,12 +1016,14 @@ Sim Eu Aceito	dub=2:645772
 Sim Eu Aceito (2018)	dub=0:1050498
 Sim Senhor	dub=2:651688
 Sim Senhor (2008)	dub=0:1065398
+Sim, Chef! É Natal!	dub=2:645294	leg=2:670447
 Sim, Chef! É Natal! (2023)	dub=0:1049676	leg=0:1026181
 Simbad e a Princesa	dub=2:896594
 Simbad e a Princesa (1958)	dub=0:1264867	leg=0:1264854
 Simbad e o Olho do Tigre	dub=2:903680
 Simbad e o Olho do Tigre (1977)	dub=0:1270435	leg=0:1266390
-Simbad, O Marujo Trapalhão (1976)	dub=0:1067938
+Simbad, O Marujo Trapalhão	dub=2:884964
+Simbad, O Marujo Trapalhão (1976)	dub=0:1067938,2:644461
 Simon of the Mountain (2024)	dub=0:1271611
 Simonal	dub=2:653871
 Simonal (2019)	dub=0:1041999
@@ -1033,7 +1037,7 @@ Simplesmente Amor	dub=2:651126
 Simplesmente Amor (2003)	dub=0:1065752
 Simplesmente Complicado	dub=2:651137
 Simplesmente Complicado (2009)	dub=0:1065363
-Simão, o Fantasma Trapalhão (1998)	dub=0:1067125
+Simão, o Fantasma Trapalhão (1998)	dub=0:1067125,2:644462
 Simón de la montaña	leg=2:670287
 Simón de la montaña (2024)	leg=0:1034664
 Sin City: A Cidade do Pecado	dub=2:647482
@@ -1063,7 +1067,6 @@ Sinfonia da Sobrevivência	dub=2:907187
 Sinfonia da Sobrevivência (2024)	dub=0:1272374
 Sinfonia de Guerra	dub=2:903369
 Sinfonia de Guerra (2025)	dub=0:1267333,0:1256659	leg=0:1267351
-Sinfonia do Mal" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg" group-title="Filmes | Terror",O Concerto Maldito, Sinfonia do Mal	dub=2:654559
 Sing - Quem Canta Seus Males Espanta	dub=2:646601
 Sing - Quem Canta Seus Males Espanta (2016)	dub=0:1072285
 Sing 2	dub=2:650722
@@ -1086,6 +1089,7 @@ Sintonizada Em Voce	dub=2:645751
 Sintonizada Em Voce (2019)	dub=0:1065008
 Sintonizados no Amor	dub=2:645701
 Sintonizados no Amor (2020)	dub=0:1050835
+Sinédoque, Nova York	dub=2:911600
 Sinédoque, Nova York (2008)	dub=0:1268192	leg=0:1268174
 Sira	dub=2:652145
 Sira (2023)	dub=0:1041780	leg=0:1035535
@@ -1166,22 +1170,29 @@ Sniper Americano	dub=2:649746
 Sniper Americano (2014)	dub=0:1066120
 Sniper Operacoes Especiais	dub=2:649704
 Sniper Operacoes Especiais (2016)	dub=0:1066596
+Sniper, O Atirador	dub=2:648511
 Sniper, O Atirador (1993)	dub=0:1046284
+Snoopy & Charlie Brown: Peanuts, o Filme	dub=2:646219
 Snoopy & Charlie Brown: Peanuts, o Filme (2015)	dub=0:1062706
+Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy	dub=2:924511
 Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy (2026)	dub=0:1264594
 Snoopy Apresenta: A Escola da Lucy	dub=2:645029
 Snoopy Apresenta: A Escola da Lucy 4K (2022)	dub=0:1249755,0:1061454	leg=0:1032294
 Snoopy Apresenta: A Inigualável Marcie	dub=2:646089
 Snoopy Apresenta: A Inigualável Marcie (2023)	dub=0:1066965,0:1021627	leg=0:1029053
+Snoopy Apresenta: Feliz Ano Novo, Lucy!	dub=2:646244
 Snoopy Apresenta: Feliz Ano Novo, Lucy! (2021)	dub=0:1061609	leg=0:1029180
 Snoopy Apresenta: Para Mamãe Com Amor	dub=2:646207
 Snoopy Apresenta: Para Mamãe Com Amor (2022)	dub=0:1061917	leg=0:1032871
+Snoopy Apresenta: Seja Bem-vindo, Franklin!	dub=2:646022
 Snoopy Apresenta: Seja Bem-vindo, Franklin! 4K (2024)	dub=0:1267553,0:1067506	leg=0:1031675
+Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	dub=2:646123
 Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown (2022)	dub=0:1067051,0:1022114	leg=0:1031240
 Snoopy Apresenta: Um Musical de Verão	dub=2:884407
 Snoopy Apresenta: Um Musical de Verão (2025)	dub=0:1037158	leg=0:1037510
+Snoopy É um Sucesso, Charlie Brown	dub=2:818322
 Snoopy É um Sucesso, Charlie Brown (1984)	dub=0:1071526	leg=0:1031485
-Snoopy" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg" group-title="Filmes | Lancamentos",Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy	dub=2:924511
+Snoopy's Getting Married, Charlie Brown	dub=2:818310
 Snoopy's Getting Married, Charlie Brown (1985)	dub=0:1049850	leg=0:1027236
 Snoopy's Reunion	dub=2:818321
 Snoopy's Reunion (1991)	dub=0:1050117	leg=0:1024218
@@ -1302,7 +1313,7 @@ Socorro Nobre (1995)	dub=0:1266932
 Socorro!	dub=2:914846
 Socorro! 4K (2026)	dub=0:1268319,0:1260304
 Socorro! Legendado (2026)	dub=0:1258732
-Socorro! Virei uma Garota	dub=2:651512
+Socorro! Virei uma Garota	dub=2:651512,2:884514
 Socorro, Virei uma Garota! (2019)	dub=0:1040099
 Socrates	dub=2:653939
 Socrates (2018)	dub=0:1041921
@@ -1388,6 +1399,7 @@ Sombras no Deserto (2025)	dub=0:1255571	leg=0:1266736
 Sombras à Luz do Dia	dub=2:901290
 Sombras à Luz do Dia (2023)	dub=0:1045001	leg=0:1036528
 Some Southern Waters (2020)	dub=0:1269894
+Someday You'll Find Her, Charlie Brown	dub=2:818320
 Someday You'll Find Her, Charlie Brown (1981)	dub=0:1067875	leg=0:1027731
 Somente Elas	dub=2:884547
 Somente Elas (1995)	dub=0:1053788	leg=0:1034939
@@ -1462,6 +1474,7 @@ Sorria	dub=2:654861
 Sorria (2022)	dub=0:1069950	leg=0:1034269
 Sorria 2	dub=2:654412	leg=2:670417
 Sorria 2 (2024)	dub=0:1069398,0:1022555	leg=0:1249155
+Sorria, Você Está Sendo Filmado	dub=2:739606
 Sorria, Você Está Sendo Filmado (2015)	dub=0:1053211
 Sorry, Baby (2025)	leg=0:1038692
 Sorte	dub=2:646176
@@ -1497,6 +1510,7 @@ South Park: Guerras do Streaming	dub=2:646197
 South Park: Guerras do Streaming (2022)	dub=0:1049810	leg=0:1031446
 South Park: Guerras do Streaming Parte 2	dub=2:646186
 South Park: Guerras do Streaming Parte 2 (2022)	dub=0:1062297	leg=0:1034188
+South Park: Maior, Melhor e Sem Cortes	dub=2:646493
 South Park: Maior, Melhor e Sem Cortes (1999)	dub=0:1063161
 South Park: O Fim da Obesidade	dub=2:645999
 South Park: O Fim da Obesidade (2024)	dub=0:1049924	leg=0:1029300
@@ -1602,7 +1616,6 @@ Sra. Harris Vai a Paris 4K (2022)	dub=0:1249679,0:1046083	leg=0:1032477
 Sri Asih	dub=2:648461
 Sri Asih (2022)	dub=0:1056310	leg=0:1026980
 Stalingrado A Batalha Final (2013)	dub=0:1270084
-Stalker e Mortal" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/6kQodHV31ffIaE1vhEBo3as8Hon.jpg" group-title="Documentarios",Amante, Stalker e Mortal	dub=2:647848
 Stalker: O Jogo da Morte	dub=2:654707
 Stalker: O Jogo da Morte (2021)	dub=0:1058512	leg=0:1029472
 Stalking Chernobyl Exploracao Apos o Apocalypse	dub=2:648196
@@ -1759,8 +1772,6 @@ Sublet (2020)	dub=0:1266272
 Sublime	dub=2:654692
 Sublime (2007)	dub=0:1059312
 Sublime (2022)	dub=0:1267971
-Sublime Amor" tvg-logo="http://gstaticontent.com/images/5f546a75d91aabe1d5c73e5461bbbf81.jpg" group-title="Filmes | Romance",Amor, Sublime Amor	dub=2:645576
-Sublime Amor" tvg-logo="http://gstaticontent.com/images/f17ae427066dccd259273d0513760601.jpg" group-title="Filmes | Drama",Amor, Sublime Amor	dub=2:652864
 Submersos (2016)	dub=0:1266374
 Submissao	dub=2:653624
 Submissao (2006)	dub=0:1264861
@@ -1812,11 +1823,10 @@ Suky (2025)	dub=0:1270219	leg=0:1037391
 Sully O Heroi do Rio Hudson	dub=2:654147
 Sully O Heroi do Rio Hudson (2016)	dub=0:1045336
 Sumala (2024)	dub=0:1269408	leg=0:1028521
-Sumido!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lhirviQCJOitZSBiB5Ffrkd7DvT.jpg" group-title="Filmes | Lancamentos",Oi, Sumido!	dub=2:900546
-Sumido!" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lhirviQCJOitZSBiB5Ffrkd7DvT.jpg" group-title="Filmes | Romance",Oi, Sumido!	dub=2:901325
 Summer - Descobrindo o Meu Lugar	dub=2:654097
 Summer - Descobrindo o Meu Lugar (2018)	dub=0:1042750
 Summer of 69 (2025)	dub=0:1271014	leg=0:1038421
+Summer of Soul (...ou, Quando a Revolução Não Pode Ser Televisionada)	dub=2:648168
 Summer of Soul (...ou, Quando a Revolução Não Pode Ser Televisionada) (2021)	dub=0:1071481
 Suncoast	dub=2:652235
 Suncoast (2024)	dub=0:1040469,0:1021625	leg=0:1249373
@@ -1995,7 +2005,6 @@ Só Mais Uma Frase	dub=2:652606
 Só Mais Uma Frase (2022)	dub=0:1041929
 Só Pode Ser Amor	dub=2:650501
 Só Pode Ser Amor (2021)	dub=0:1053862	leg=0:1025515
-Só Que Não" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/e4cm80tDFTdvsx5TXXEvEntREl3.jpg" group-title="Filmes | Comedia",Tiras, Só Que Não	dub=2:650871
 Só Você	dub=2:645651,2:919778
 Só Você (1994)	dub=0:1065369
 Só no Carnaval... (1982)	dub=0:1272481
@@ -2003,5 +2012,3 @@ Só no Sertão	dub=2:644283
 Só no Sertão (2024)	dub=0:1050703
 Sócias em Guerra	dub=2:651400
 Sócias em Guerra (2020)	dub=0:1054577
-se Conseguir" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1Llmpiw2I2YANddUZEgKwyeiwe6.jpg" group-title="Filmes | Lancamentos",Mate-a, se Conseguir	dub=2:900577
-se Conseguir" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/1Llmpiw2I2YANddUZEgKwyeiwe6.jpg" group-title="Filmes | Terror",Mate-a, se Conseguir	dub=2:901120
