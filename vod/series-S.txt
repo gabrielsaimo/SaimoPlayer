@@ -29,7 +29,7 @@ SNOWBALL EARTH		0	13
 SOS Cachorrinhos	2021	0	16
 SOS Cachorrinhos		0	16
 SOS Restaurante	2011	0	137
-SOS Restaurante		0	137
+SOS Restaurante		0	143
 SPRIGGAN	2022	0	6
 SPRIGGAN		0	6
 SPRINT	2024	0	6
@@ -56,7 +56,7 @@ Sabor Caseiro com Antoni Porowski	2025	0	6
 Sabor Caseiro com Antoni Porowski		0	6
 Sabores Extremos com Gordon Ramsay: Aventuras Extremas		0	3
 Sabores da Fazenda com Molly	2018	0	77
-Sabores da Fazenda com Molly		0	77
+Sabores da Fazenda com Molly		0	78
 Sabrina, a Aprendiz de Feiticeira	1996	0	163
 Sabrina, a Aprendiz de Feiticeira		0	163
 Safe	2018	0	8
@@ -82,7 +82,7 @@ Saindo do Armario com Colton Underwood	2021	0	6
 Saindo do Armario com Colton Underwood		0	6
 Saint Love Survivors		0	12
 Saint Pierre	2025	0	8
-Saint Pierre		0	20
+Saint Pierre		0	22
 Saint X	2023	0	8
 Saint X		0	8
 Sakho Mangane	2019	0	8
@@ -92,7 +92,7 @@ Sakli		0	10
 Sakugan	2021	0	1
 Sakugan		0	1
 Sala de Aula dos Heróis	2023	0	20
-Sala de Aula dos Heróis		0	20
+Sala de Aula dos Heróis		0	21
 Sala de Emergencia Casos Bizarros	2022	0	3
 Sala de Emergencia Casos Bizarros		0	3
 Salem		0	36
@@ -174,10 +174,10 @@ Sasayaku You ni Koi wo Utau		1	12
 Sassaricando	1987	1	185
 Sassaricando		1	185
 Saturdays: Pista de Patinação	2023	1	14
-Saturdays: Pista de Patinação		1	14
+Saturdays: Pista de Patinação		1	15
 Saudade de Voce	2023	1	14
 Saudade de Voce		1	14
-Scandal		1	122
+Scandal		1	124
 Scandal Love		1	10
 Scandal Os Bastidores do Poder		1	7
 Scarlet Heart	2011	1	35
@@ -203,8 +203,8 @@ Scooby-Doo! Mistério S/A	2010	1	52
 Scooby-Doo! Mistério S/A		1	52
 Scooped Up by an S Rank Adventurer	2025	1	12
 Scooped Up by an S Rank Adventurer		1	12
+Scorpion Servico de Inteligencia		1	94
 Scorpion: Serviço de Inteligência	2014	1	94
-Scorpion: Serviço de Inteligência		1	94
 Scott Pilgrim A Serie	2023	1	8
 Scott Pilgrim A Serie		1	8
 Scream		1	10
@@ -230,7 +230,7 @@ Se eu fosse Luisa Sonza		1	3
 Se o Destino Quiser		1	40
 Se É Terça-Feira... É Assassinato		1	7
 Seal Team	2017	1	216
-Seal Team		1	216
+Seal Team		1	218
 Sean Combs O Acerto de Contas		1	8
 Search Party	2016	1	30
 Search Party		1	30
@@ -246,7 +246,7 @@ Secretos de Estado	2019	2	13
 Secretos de Estado		2	13
 Secrets of the Hells Angels		2	8
 Secrets of the Silent Witch	2025	2	14
-Secrets of the Silent Witch		2	14
+Secrets of the Silent Witch		2	15
 Section Zero	2016	2	7
 Section Zero		2	7
 Seducao Mortal	2023	2	8
@@ -315,7 +315,7 @@ Segundas Intencoes		2	8
 Segundo Sol	2018	2	155
 Segundo Sol		2	155
 Segura a Onda	2000	2	98
-Segura a Onda		2	98
+Segura a Onda		2	99
 Segurança em Jogo	2018	2	6
 Segurança em Jogo		2	6
 Seguro para Divorciados	2025	2	12
@@ -323,7 +323,7 @@ Seguro para Divorciados		2	12
 Seijo no Maryoku wa Bannou Desu	2021	2	24
 Seijo no Maryoku wa Bannou Desu		2	24
 Seiken Gakuin no Makentsukai	2023	2	9
-Seiken Gakuin no Makentsukai		2	9
+Seiken Gakuin no Makentsukai		2	12
 Seinfeld	1989	2	177
 Seinfeld		2	177
 Seirei Gensouki Spirit Chronicles	2021	2	23
@@ -340,7 +340,7 @@ Seis irmaos Esquizofrenicos	2024	2	4
 Seis irmaos Esquizofrenicos		2	4
 Seita Perigosa	2022	2	3
 Seita Perigosa		2	3
-Seja Meu Anjo		2	7
+Seja Meu Anjo		2	8
 Seja Meu Superastro	2023	2	12
 Seja Meu Superastro		2	12
 Seja Minha Princesa		2	30
@@ -366,7 +366,7 @@ Self Portrait as a Coffee Pot		3	9
 Selling Tampa	2021	3	8
 Selling Tampa		3	8
 Selva de Pedra	1986	3	159
-Selva de Pedra		3	159
+Selva de Pedra		3	160
 Selvagens por Natureza		3	6
 Sem Asas Para Voar	2011	3	12
 Sem Asas Para Voar		3	12
@@ -416,6 +416,7 @@ Sempre Rir A Historia do Palhaco Mais Famoso do Mundo		3	2
 Sengoku Youko	2024	3	35
 Sengoku Youko		3	35
 Senhor Aguia da Neve	2023	3	40
+Senhor Aguia da Neve		3	40
 Senhor dos Céus	2013	3	607
 Senhor dos Céus		3	607
 Senhora Secretária	2014	3	120
@@ -447,7 +448,6 @@ Serendipidade	2025	3	40
 Serendipidade		3	40
 Sereno: O Panda Zen	2020	3	12
 Sereno: O Panda Zen		3	12
-Serie Saude		3	9
 Series | TV Quack Pack O Pato Donald e Seus Sobrinhos		3	39
 Servant	2023	3	40
 Servant		3	40
@@ -468,7 +468,7 @@ Seu Homem		3	11
 Seus Amigos e Vizinhos		3	28
 Seus Amigos e Vizinhos - Legendado		3	9
 Sex Appeal	1993	3	19
-Sex Appeal		3	19
+Sex Appeal		3	20
 Sex Atracao Secreta	2020	3	6
 Sex Atracao Secreta		3	6
 Sex Education	2023	3	32
@@ -487,7 +487,7 @@ Sexy Beast		4	8
 Señorita 89	2022	4	15
 Señorita 89		4	15
 Shabake	2025	4	3
-Shabake		4	12
+Shabake		4	13
 Shachou Battle no Jikan Desu		4	12
 Shades		4	6
 Shadow Love	2025	4	38
@@ -496,7 +496,7 @@ Shadowhunters: Instrumentos Mortais	2016	4	55
 Shadowhunters: Instrumentos Mortais		4	55
 Shadows House	2021	4	25
 Shadows House		4	25
-Shadowverse Flame		4	77
+Shadowverse Flame		4	78
 Shakespeare Ascensao de um Genio	2023	4	3
 Shakespeare Ascensao de um Genio		4	3
 Shaking the Bar	2023	4	10
@@ -508,7 +508,7 @@ Shaman King Flowers		4	25
 Shameless	2011	4	132
 Shameless		4	132
 Shangri La Frontier	2023	4	49
-Shangri La Frontier		4	49
+Shangri La Frontier		4	73
 Shantaram	2022	4	12
 Shantaram		4	12
 Shardlake	2024	4	4
@@ -516,18 +516,18 @@ Shardlake		4	4
 Shark Academy Cancoes Para Criancas	2020	4	25
 Shark Academy Cancoes Para Criancas		4	25
 Shark Tank Brasil	2016	4	128
-Shark Tank Brasil		4	128
+Shark Tank Brasil		4	129
 Shasha e Milo	2023	4	13
 Shasha e Milo		4	13
 Shaun, o Carneiro	2007	4	138
-Shaun, o Carneiro		4	138
+Shaun, o Carneiro		4	147
 She Would Never Know	2021	4	16
 She Would Never Know		4	16
 She the People	2025	4	8
 She the People		4	8
 She-Ra e as Princesas do Poder	2018	4	52
 She-Ra e as Princesas do Poder		4	52
-Sheriff Country		4	19
+Sheriff Country		4	20
 Sherlock	2010	4	13
 Sherlock		4	13
 Sherlock e Daughter		4	8
@@ -557,7 +557,7 @@ Shogun		4	3
 Shoot Goal to the Future		4	13
 Shooting Stars		4	16
 Shoujo Kakumei Utena	1997	4	39
-Shoujo Kakumei Utena		4	39
+Shoujo Kakumei Utena		4	40
 Show Do Milhao	1999	4	33
 Show Do Milhao		4	33
 Show da Virada		4	2
@@ -637,7 +637,7 @@ Sky Rojo		5	24
 Sky in Your Heart		5	8
 SkyMed	2022	5	35
 SkyMed		5	35
-Slam Dunk		5	100
+Slam Dunk		5	101
 Slasher	2016	5	24
 Slasher		5	24
 Sleepers O Crime Nunca Dorme	2022	5	6
@@ -651,7 +651,7 @@ Slow Horses		5	30
 Small Axe	2020	5	5
 Small Axe		5	5
 Smallville As Aventuras do Superboy	2001	5	432
-Smallville: As Aventuras do Superboy		5	432
+Smallville As Aventuras do Superboy		5	432
 Smartless: Na Estrada	2023	5	6
 Smartless: Na Estrada		5	6
 Smile After Tears		5	12
@@ -754,7 +754,7 @@ Sol do Mestre	2013	6	17
 Sol do Mestre		6	17
 Solar Opposites	2020	6	71
 Solar Opposites		6	71
-Solo Camping for Two		6	50
+Solo Camping for Two		6	52
 Solo Camping for Two	2025	6	39
 Solo Leveling	2024	6	51
 Solo Leveling		6	51
@@ -851,11 +851,11 @@ Sound Euphonium		7	40
 Soundtrack #1	2022	7	4
 Soundtrack #1		7	4
 South Park	1997	7	347
-South Park		7	347
+South Park		7	349
 South Side	2019	7	28
 South Side		7	28
 Southland Cidade do Crime	2009	7	43
-Southland Cidade do Crime		7	43
+Southland Cidade do Crime		7	86
 Sovrevivendo Em Grande Estilo		7	8
 Soy Georgina	2022	7	18
 Soy Georgina		7	18
@@ -873,7 +873,7 @@ Spare Me Your Mercy		7	8
 SparkShorts	2019	7	11
 SparkShorts		7	11
 Spartacus	2010	7	39
-Spartacus		7	39
+Spartacus		7	43
 Spartacus: House of Ashur		7	10
 Special	2021	7	16
 Special		7	16
@@ -883,7 +883,7 @@ Speed Racer: Nova Geração		7	26
 Spice and Wolf MERCHANT MEETS THE WISE WOLF	2024	7	25
 Spice and Wolf MERCHANT MEETS THE WISE WOLF		7	25
 Spicy Girl	2020	7	24
-Spicy Girl		7	24
+Spicy Girl		7	32
 Spider-Noir		7	8
 Spides	2020	7	8
 Spides		7	8
@@ -911,12 +911,12 @@ Sr Rainha	2020	7	20
 Sr Rainha		7	20
 Sr e Sra Assassinato	2025	7	4
 Sr e Sra Assassinato		7	4
+Sr e Sra Smith		7	16
 Sr. Errado	2020	7	43
 Sr. Errado		7	43
 Sr. Meia-Noite: Cuidado com os Monstros	2022	7	13
 Sr. Meia-Noite: Cuidado com os Monstros		7	13
 Sr. e Sra. Smith	2024	7	8
-Sr. e Sra. Smith		7	16
 Sra. Playmen		7	7
 Sra. Wilson	2018	7	3
 Sra. Wilson		7	3
@@ -924,11 +924,12 @@ St Denis Medical	2024	7	36
 St Denis Medical		7	65
 Stags	2024	7	6
 Stags		7	6
+Stalkeando Samantha 13 Anos de Terror		7	3
 Stan Against Evil	2016	7	23
 Stan Against Evil		7	23
 Stand My Heroes Piece of Truth		7	12
 Star Detective Precure		7	22
-Star Search		7	14
+Star Search		7	15
 Star Trek: Academia da Frota Estelar		7	10
 Star Trek: Discovery	2017	7	62
 Star Trek: Discovery		7	65
@@ -936,6 +937,7 @@ Star Trek: Prodigy	2021	7	38
 Star Trek: Prodigy		7	38
 Star Trek: Strange New Worlds	2022	7	34
 Star Trek: Strange New Worlds		7	34
+Star Wars Andor		7	48
 Star Wars Historias do Imperio	2024	7	6
 Star Wars Historias do Imperio		7	6
 Star Wars Historias do Submundo	2025	7	6
@@ -945,7 +947,6 @@ Star Wars Skeleton Crew		7	8
 Star Wars: A Guerra dos Clones	2008	7	133
 Star Wars: A Guerra dos Clones		7	133
 Star Wars: Andor	2022	7	24
-Star Wars: Andor		7	48
 Star Wars: Aventuras dos Jovens Jedi	2023	7	43
 Star Wars: Aventuras dos Jovens Jedi		7	43
 Star Wars: Ewoks	1985	7	26
@@ -957,7 +958,7 @@ Star Wars: Rebels	2014	7	72
 Star Wars: Rebels		7	72
 Star Wars: The Bad Batch	2021	7	47
 Star Wars: The Bad Batch		7	47
-Star Wars: Visions	2021	7	27
+Star Wars: Visions	2021	8	27
 Star Wars: Visions		8	9
 Star Wars: Visions Apresenta — A Nona Jedi		8	8
 Star and Sky Star in My Mind	2022	8	8
@@ -965,16 +966,16 @@ Star and Sky Star in My Mind		8	8
 Star vs. As Forças do Mal	2015	8	77
 Star vs. As Forças do Mal		8	77
 StarGirl	2020	8	65
-StarGirl		8	65
 Stardust Telepath	2023	8	12
 Stardust Telepath		8	12
 Stargate Atlantis	2004	8	99
-Stargate Atlantis		8	99
+Stargate Atlantis		8	100
 Stargate Infinity		8	26
 Stargate SG-1	1997	8	213
 Stargate SG-1		8	213
 Stargate Universe	2009	8	20
 Stargate Universe		8	20
+Stargirl		8	65
 Starstruck	2021	8	18
 Starstruck		8	18
 StartUp	2016	8	30
@@ -1037,7 +1038,7 @@ Submarinos Perdidos da Segunda Guerra		8	3
 Submersa: O Desaparecimento de Kim Wall	2022	8	2
 Submersa: O Desaparecimento de Kim Wall		8	2
 Submersos	2020	8	5
-Submersos		8	4
+Submersos		8	5
 Submundo das Gangues	2024	8	12
 Submundo das Gangues		8	12
 Submundo do Crime	2021	8	6
@@ -1053,18 +1054,18 @@ Succession		8	39
 Sugar	2024	8	15
 Sugar		8	16
 Sugar Apple Fairy Tale	2023	8	18
-Sugar Apple Fairy Tale		8	18
+Sugar Apple Fairy Tale		8	24
 Sugar Rush	2018	8	20
 Sugar Rush		8	20
 Sugar Rush: The Baking Point	2023	8	11
-Sugar Rush: The Baking Point		8	11
+Sugar Rush: The Baking Point		8	12
 Sugar Sugar Rune	2005	8	49
-Sugar Sugar Rune		8	49
+Sugar Sugar Rune		8	51
 Suite Magnolia	2024	8	8
 Suite Magnolia		8	8
 Suits	2011	8	268
 Suits		8	268
-Suits LA		8	24
+Suits LA		8	26
 Suits LA	2025	8	13
 Suits: LA - Homens de Terno		8	13
 Sullivan's Crossing: Um Lugar para Recomeçar		8	30
@@ -1077,7 +1078,7 @@ Summer Pockets		8	26
 Sunderland Até Morrer	2018	8	8
 Sunderland Até Morrer		8	17
 Sunny	2024	8	10
-Sunny		8	10
+Sunny		9	10
 Sunny entre Estrelas	2009	9	47
 Sunny entre Estrelas		9	47
 Sunset Milha de Ouro	2019	9	90
@@ -1099,9 +1100,10 @@ Super Crooks		9	13
 Super Cubo	2025	9	24
 Super Cubo		9	24
 Super Dragon Ball Heroes	2018	9	45
-Super Dragon Ball Heroes		9	45
+Super Dragon Ball Heroes		9	77
 Super Fofos Aventura na Cidade		9	13
 Super Heroinas da Equipe 4	2023	9	16
+Super Heroinas da Equipe 4		9	16
 Super Mega Cakes	2025	9	6
 Super Mega Cakes		9	6
 Super Natural	2022	9	6
@@ -1113,7 +1115,6 @@ Super Pumped: A Guerra Pela Uber		9	7
 Super Ricos na Coreia		9	6
 Super Street Garage		9	12
 Super Subbu		9	7
-Super-Heroínas Da Equipe 4		9	16
 Superbook	2011	9	39
 Superbook		9	39
 Supercães	2022	9	9
@@ -1136,6 +1137,7 @@ Supermax		9	12
 Supermães	2017	9	83
 Supermães		9	83
 Supernatural	2005	9	656
+Supernatural		9	656
 Supernatural Academy	2022	9	16
 Supernatural Academy		9	16
 Supernormal	2021	9	6
@@ -1168,7 +1170,7 @@ Suspicion		9	8
 Sutura A Vida por um Fio	2024	9	8
 Sutura A Vida por um Fio		9	8
 Suzhal Vortice	2022	9	8
-Suzhal: Vórtice		9	8
+Suzhal Vortice		9	8
 Swagger	2021	9	18
 Swagger		9	18
 Sweet Home		9	26
@@ -1190,6 +1192,7 @@ Synduality: Noir		9	24
 SÓ VOCÊ: Uma Coleção de Curtas de Animação	2023	9	8
 SÓ VOCÊ: Uma Coleção de Curtas de Animação		9	8
 Série Saúde	2015	9	9
+Série Saúde		9	9
 Sítio do Picapau Amarelo		9	73
 Sítio do Picapau Amarelo	1977	9	46
 Só Se For Por Amor	2022	9	6

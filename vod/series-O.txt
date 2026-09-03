@@ -15,7 +15,7 @@ O Amor Invencível	2023	0	80
 O Amor Invencível		0	80
 O Amor Mora ao Lado	2024	0	16
 O Amor Mora ao Lado		0	16
-O Amor Nao Tem Mitos		0	21
+O Amor Nao Tem Mitos		0	29
 O Amor Não Está Esgotado		0	12
 O Amor Perdura		0	32
 O Amor Perdura - Legendado		0	32
@@ -30,7 +30,7 @@ O Amor e Melhor na Segunda Vez		0	6
 O Anti Heroi	2024	0	10
 O Anti Heroi		0	10
 O Aquario	2019	0	19
-O Aquario		0	19
+O Aquario		0	20
 O Aroma do Tempo	2023	0	30
 O Aroma do Tempo		0	30
 O Arsenal dos Espiões	2021	0	8
@@ -168,13 +168,13 @@ O Conto Da Aia	2017	1	66
 O Conto Da Aia		1	66
 O Conto da Raposa de Nove Caudas		1	29
 O Conto da Senhora Ok	2024	1	30
-O Conto da Senhora Ok		1	30
+O Conto da Senhora Ok		1	32
 O Coro: Sucesso Aqui Vou Eu!	2022	1	10
 O Coro: Sucesso Aqui Vou Eu!		1	10
 O Corredor da Morte	2019	1	4
 O Corredor da Morte		1	4
 O Cravo e a Rosa	2000	1	220
-O Cravo e a Rosa		1	220
+O Cravo e a Rosa		1	221
 O Crime do Padre Amaro		1	6
 O Crime do Século	2021	1	2
 O Crime do Século		1	2
@@ -212,11 +212,11 @@ O Detetive das Sombras		1	16
 O Dia Depois da Eleição	2018	1	5
 O Dia Depois da Eleição		1	5
 O Dia Do Chacal	2024	1	10
-O Dia Do Chacal		1	20
 O Dia Em Que A Minha Vida Mudou	2024	1	20
 O Dia Em Que A Minha Vida Mudou		1	20
 O Dia de Amanhã	2018	1	5
 O Dia de Amanhã		1	5
+O Dia do Chacal		1	20
 O Diabo em Ohio	2022	1	8
 O Diabo em Ohio		1	8
 O Diagnóstico	2021	1	10
@@ -232,7 +232,7 @@ O Dono de Kingstown		1	40
 O Dono do Lar	2019	1	140
 O Dono do Lar		1	140
 O Dono do Mundo	1991	1	197
-O Dono do Mundo		1	197
+O Dono do Mundo		1	198
 O Doutrinador A Série	2019	1	7
 O Doutrinador A Série		1	7
 O Eleito	2023	1	6
@@ -258,7 +258,7 @@ O Exorcista	2016	2	20
 O Exorcista		2	20
 O Experimento Americano		2	5
 O Exterminador do Futuro As Cronicas de Sarah Connor	2008	2	30
-O Exterminador do Futuro As Cronicas de Sarah Connor		2	30
+O Exterminador do Futuro As Cronicas de Sarah Connor		2	31
 O Extraordinario Territorio da Escandinavia	2019	2	5
 O Extraordinario Territorio da Escandinavia		2	5
 O Extraordinário Observador de Pássaros com Christian Cooper	2023	2	6
@@ -363,12 +363,12 @@ O Incrivel Circo Digital		3	9
 O Incrível Hulk	1977	3	82
 O Incrível Hulk		3	82
 O Incrível Mundo de Gumball	2011	3	221
-O Incrível Mundo de Gumball		3	221
+O Incrível Mundo de Gumball		3	222
 O Indice do Medo	2022	3	4
 O Indice do Medo		3	4
 O Indomavel Amor Sem Limites	2023	3	144
 O Indomavel Amor Sem Limites		3	144
-O Inferno das Mulheres		3	4
+O Inferno das Mulheres		3	5
 O Inocente	2018	3	8
 O Inocente		3	8
 O Instituto	2025	3	8
@@ -450,7 +450,7 @@ O Mal na sua Essencia A Historia de Hadden Clark		3	5
 O Manipulado		3	12
 O Mapa dos Desejos		3	6
 O Mar La Fora	2020	3	50
-O Mar La Fora		3	36
+O Mar La Fora		3	50
 O Mar da Tranquilidade	2021	3	8
 O Mar da Tranquilidade		3	8
 O Marido		3	18
@@ -473,7 +473,7 @@ O Menino que nao vai para o Ceu		3	6
 O Mentalista	2008	3	151
 O Mentalista		3	302
 O Meu Pai é um Caçador de Recompensas!	2023	3	18
-O Meu Pai é um Caçador de Recompensas!		3	18
+O Meu Pai é um Caçador de Recompensas!		3	19
 O Misteio da Rota 20		3	3
 O Misterio da Fazenda Blind Frog	2021	3	28
 O Misterio da Fazenda Blind Frog		3	28
@@ -549,7 +549,7 @@ O Nome da Rosa		4	8
 O Novato Renascido		4	12
 O Novo Papa		4	9
 O Novo Show do Pica-Pau	1999	4	112
-O Novo Show do Pica-Pau		4	112
+O Novo Show do Pica-Pau		4	113
 O Oitavo Sentido		4	10
 O Ouro	2023	4	6
 O Ouro		4	6
@@ -574,11 +574,12 @@ O Pequeno Furry		4	78
 O Pequeno Scooby Doo	1988	4	27
 O Pequeno Scooby Doo		4	27
 O Pequeno Urso	1995	4	64
-O Pequeno Urso		4	64
+O Pequeno Urso		4	65
 O Peso da Glória		4	7
 O Picapau Amarelo	2024	4	25
 O Picapau Amarelo		4	25
 O Pier	2025	4	8
+O Pier		4	16
 O Piloto Invisível	2022	4	3
 O Piloto Invisível		4	3
 O Pior do Mal	2023	4	12
@@ -596,8 +597,8 @@ O Poltergeist de Enfield	2023	4	4
 O Poltergeist de Enfield		4	4
 O Polígamo		4	22
 O Portal do Ollie	2020	4	26
-O Portal do Ollie		4	26
-O Prazer e Meu		4	4
+O Portal do Ollie		4	27
+O Prazer e Meu		5	4
 O Preco do Silencio	2023	5	1
 O Preco do Silencio		5	1
 O Predador de Sevilha		5	3
@@ -627,7 +628,6 @@ O Proximo Grande Chef		5	6
 O Príncipe Dragão	2018	5	63
 O Príncipe Dragão		5	63
 O Píer	2019	5	16
-O Píer		5	16
 O Quarterback da Cocaina Jogando para o Cartel	2025	5	3
 O Quarterback da Cocaina Jogando para o Cartel		5	3
 O Que Estou Comendo Com Zooey Deschanel	2023	5	12
@@ -673,7 +673,7 @@ O Rei de Porcelana		5	20
 O Rei do Bairro	1998	5	207
 O Rei do Bairro		5	207
 O Rei do Gado	1996	5	209
-O Rei do Gado		5	208
+O Rei do Gado		5	209
 O Rei do Inverno	2023	5	10
 O Rei do Inverno		5	10
 O Rei do Pedaço	1997	5	98
@@ -697,7 +697,7 @@ O Resgate na Caverna Tailandesa	2022	5	6
 O Resgate na Caverna Tailandesa		5	6
 O Residente		5	107
 O Resort Zoobak	2021	5	51
-O Resort Zoobak		5	51
+O Resort Zoobak		5	52
 O Retorno		5	29
 O Retorno da Rainha		5	24
 O Retorno de Simone Biles	2024	5	4
@@ -715,7 +715,7 @@ O Sabotador		5	20
 O Sacerdote Impetuoso	2019	5	40
 O Sacerdote Impetuoso		5	40
 O Salvador da Pátria	1989	5	184
-O Salvador da Pátria		5	178
+O Salvador da Pátria		5	186
 O Sangue de Zeus	2020	5	24
 O Sangue de Zeus		5	24
 O Segredo Bem Guardado	2019	6	8
@@ -751,18 +751,18 @@ O Sexo dos Anjos		6	6
 O Show da Luna	2014	6	209
 O Show da Luna		6	209
 O Show de Tom e Jerry	2014	6	324
-O Show de Tom e Jerry		6	324
+O Show de Tom e Jerry		6	325
 O Show do Garfield	2009	6	26
 O Show do Garfield		6	26
 O Show do Patrick Estrela	2021	6	63
-O Show do Patrick Estrela		6	63
+O Show do Patrick Estrela		6	65
 O Show do Scooby Doo	1976	6	40
 O Show do Scooby Doo		6	40
 O Show do Sábado	2021	6	8
 O Show do Sábado		6	8
 O Show dos Looney Tunes	2011	6	52
 O Show dos Looney Tunes		6	52
-O Show dos Tubaroes Babies		6	12
+O Show dos Tubaroes Babies		6	14
 O Simpatizante	2024	6	7
 O Simpatizante		6	7
 O Sinal	2024	6	4
@@ -865,7 +865,7 @@ O que Possuimos O Conceito de Propriedade ao Redor do Mundo		7	4
 O Ônibus Mágico Decola Novamente	2017	7	26
 O Ônibus Mágico Decola Novamente		7	26
 O Último Cara da Terra	2015	7	66
-O Último Cara da Terra		7	66
+O Último Cara da Terra		7	67
 O Último Grande Peixe		7	8
 O Último Navio	2014	7	56
 O Último Navio		7	56
@@ -878,7 +878,7 @@ O.J.: Made in America		7	5
 O11ZE	2017	7	220
 O11ZE		7	220
 OKITSURA Fell in Love with an Okinawan Girl but I Just Wish I Know What Shes Saying	2025	7	11
-OKITSURA Fell in Love with an Okinawan Girl but I Just Wish I Know What Shes Saying		7	11
+OKITSURA Fell in Love with an Okinawan Girl but I Just Wish I Know What Shes Saying		7	12
 ONE PIECE A Serie Conteudo Extra		7	5
 ONE PIECE: A Série	2023	7	16
 ONE PIECE: A Série		7	16
@@ -990,7 +990,7 @@ On My Block		8	38
 Once Again	2022	8	8
 Once Again		8	8
 Once Upon a Witchs Death	2025	8	11
-Once Upon a Witchs Death		8	11
+Once Upon a Witchs Death		8	12
 Onda Boa com Ivete	2022	8	5
 Onda Boa com Ivete		8	5
 Onda de 100 Pés	2021	8	12
@@ -1012,9 +1012,9 @@ Onde está Marta del Castillo?		8	3
 One More Happy Ending	2016	8	16
 One More Happy Ending		8	16
 One Piece	1999	8	877
-One Piece		8	2059
+One Piece		8	3788
 One Piece - Legendado		8	999
-One Piece Log Fish Man Island Saga		8	20
+One Piece Log Fish Man Island Saga		8	21
 One Punch Man	2015	8	36
 One Punch Man		8	36
 One Room Angel	2023	8	6
@@ -1031,8 +1031,8 @@ Onimusha	2023	8	8
 Onimusha		8	8
 Onisciente	2020	8	6
 Onisciente		8	6
-Onision - Abuso na Internet		8	4
 Onision: Abuso na Internet	2021	8	4
+Onision: Abuso na Internet		8	4
 Onivoros	2024	8	8
 Onivoros		8	8
 Only Boo	2024	8	12
@@ -1064,7 +1064,7 @@ Operacao Transplante		8	8
 Operacao Tyrant	2024	8	4
 Operacao Tyrant		8	4
 Operation Sabre	2024	8	7
-Operation Sabre		8	7
+Operation Sabre		8	8
 Operação Berlim	2016	8	29
 Operação Berlim		8	29
 Operação Ecstasy	2019	8	28
@@ -1095,7 +1095,7 @@ Orange Is The New Black		9	91
 Orange Marmalade	2015	9	12
 Orange Marmalade		9	12
 Orbe Sobre os Movimentos da Terra	2024	9	24
-Orbe Sobre os Movimentos da Terra		9	24
+Orbe Sobre os Movimentos da Terra		9	25
 Ordinary Joe	2021	9	13
 Ordinary Joe		9	13
 Ore dake Haireru Kakushi Dungeon	2021	9	12
@@ -1127,7 +1127,7 @@ Os 4 Elementos da Terra		9	16
 Os 43 de Ayotzinapa Crime de Estado	2024	9	5
 Os 43 de Ayotzinapa Crime de Estado		9	5
 Os 4400	2004	9	44
-Os 4400		9	44
+Os 4400		9	45
 Os 7 Ursos	2025	9	10
 Os 7 Ursos		9	10
 Os Abandonados		9	7
@@ -1164,7 +1164,7 @@ Os Borgias		9	29
 Os Bucaneiros	2023	9	16
 Os Bucaneiros		9	16
 Os Busbys + 5	2016	9	23
-Os Busbys + 5		9	23
+Os Busbys + 5		9	24
 Os Caca Fantasmas		9	99
 Os Cacadores de Peles	2024	9	4
 Os Cacadores de Peles		9	4
@@ -1185,6 +1185,7 @@ Os Cavaleiros de Castelcorvo	2020	9	15
 Os Cavaleiros de Castelcorvo		9	15
 Os Cavaleiros do Zodiaco Alma de Ouro	2015	9	13
 Os Cavaleiros do Zodiaco Alma de Ouro		9	13
+Os Cavaleiros do Zodiaco Omega		9	97
 Os Cavaleiros do Zodiaco Saint Seiya	2019	9	30
 Os Cavaleiros do Zodiaco Saint Seiya		9	30
 Os Cavaleiros do Zodíaco - Saga do Santuário	1994	9	114
@@ -1194,7 +1195,6 @@ Os Cavaleiros do Zodíaco: A Saga de Hades		9	13
 Os Cavaleiros do Zodíaco: The Lost Canvas	2009	9	26
 Os Cavaleiros do Zodíaco: The Lost Canvas		9	26
 Os Cavaleiros do Zodíaco: Ômega	2012	9	97
-Os Cavaleiros do Zodíaco: Ômega		9	97
 Os Celtas A Historia Nao Contada		9	3
 Os Choroes		9	5
 Os Contatinhos de Lauren	2021	9	8
@@ -1206,7 +1206,7 @@ Os Crimes da Nossa Mãe		10	3
 Os Defeituosos	2025	10	8
 Os Defeituosos		10	8
 Os Desafios de Hailey	2023	10	19
-Os Desafios de Hailey		10	19
+Os Desafios de Hailey		10	21
 Os Desajustados de Seul	2024	10	20
 Os Desajustados de Seul		10	20
 Os Dez Mandamentos	2015	10	242
@@ -1281,7 +1281,7 @@ Os Jetsons		10	75
 Os Jovens Titas	2003	10	65
 Os Jovens Titas		10	65
 Os Jovens Titãs em Ação	2013	10	279
-Os Jovens Titãs em Ação		10	279
+Os Jovens Titãs em Ação		10	342
 Os Leoes da Sicilia	2023	10	8
 Os Leoes da Sicilia		10	8
 Os Lobos da Ilha de Vancouver	2022	10	3
@@ -1309,19 +1309,19 @@ Os Mutantes Caminhos do Coracao		10	243
 Os Mãos de Vaca	2021	10	6
 Os Mãos de Vaca		10	6
 Os Normais	2001	10	71
-Os Normais		10	71
+Os Normais		10	72
 Os Novos Filmes do Scooby-Doo	1972	10	24
 Os Novos Filmes do Scooby-Doo		10	24
 Os Originais	2013	10	92
-Os Originais		10	183
+Os Originais		10	184
 Os Osbournes Investigacao Paranormal		10	28
 Os Outros		10	36
 Os Pacientes do Dr. García	2023	10	10
 Os Pacientes do Dr. García		10	10
 Os Padrinhos Magicos	2001	11	185
+Os Padrinhos Magicos		11	185
 Os Padrinhos Magicos Um Novo Desejo	2024	11	10
 Os Padrinhos Magicos Um Novo Desejo		11	10
-Os Padrinhos Mágicos		11	185
 Os Padrinhos Mágicos: Mais Mágicos Que Nunca	2022	11	12
 Os Padrinhos Mágicos: Mais Mágicos Que Nunca		11	12
 Os Parcas A Serie	2024	11	10
@@ -1332,12 +1332,12 @@ Os Passaros Feridos	1983	11	4
 Os Passaros Feridos		11	4
 Os Pecados de Kujo		11	10
 Os Pequenos Johnstons	2015	11	103
-Os Pequenos Johnstons		11	103
+Os Pequenos Johnstons		11	104
 Os Pesadelos de Ramsey	2007	11	16
 Os Pilares da Terra	2010	11	4
 Os Pilares da Terra		11	4
 Os Pinguins de Madagascar	2008	11	77
-Os Pinguins de Madagascar		11	77
+Os Pinguins de Madagascar		11	78
 Os Pioneiros		11	8
 Os Piores Ex	2024	11	8
 Os Piores Ex		11	8
@@ -1387,7 +1387,7 @@ Os Sete Monstrinhos	2000	11	42
 Os Sete Monstrinhos		11	42
 Os Sete Relógios de Agatha Christie		11	3
 Os Simpsons	1989	11	805
-Os Simpsons		11	801
+Os Simpsons		11	802
 Os Smurfs	2021	11	104
 Os Smurfs		11	104
 Os Suburbanos	2015	11	130
@@ -1421,12 +1421,12 @@ Osama Sentai Kingu Oja	2023	11	50
 Osama Sentai Kingu Oja		11	50
 Oshi no Ko	2023	11	29
 Ossans Love	2018	11	7
-Ossans Love		11	8
 Ossans Love In the Sky	2019	11	8
 Ossans Love In the Sky		11	8
 Ossans Love Returns	2024	11	9
 Ossans Love Returns		11	9
 Ossan’s Love	2025	11	1
+Ossan’s Love		11	8
 Oswaldo	2017	11	52
 Oswaldo		11	52
 Otome Yokai Zakuro	2010	11	13
@@ -1438,7 +1438,7 @@ Our Dating Sim		11	8
 Our Dating Story The Experienced You and The Inexperienced Me	2023	11	12
 Our Dating Story The Experienced You and The Inexperienced Me		11	12
 Our Fake Marriage	2023	11	11
-Our Fake Marriage		12	11
+Our Fake Marriage		12	12
 Our Kind of People	2021	12	12
 Our Kind of People		12	12
 Our Last Crusade or the Rise of a New World	2020	12	24

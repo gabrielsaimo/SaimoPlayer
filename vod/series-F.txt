@@ -2,7 +2,7 @@ F is for Family		0	44
 F1 Academy	2025	0	7
 F1 Academy		0	7
 FAIRY TAIL 100 YEARS QUEST	2024	0	26
-FAIRY TAIL 100 YEARS QUEST		0	26
+FAIRY TAIL 100 YEARS QUEST		0	27
 FARMAGIA	2025	0	12
 FARMAGIA		0	12
 FBI	2018	0	255
@@ -14,7 +14,7 @@ FBI Internacional		0	43
 FBI Os Mais Procurados	2020	0	216
 FBI: International	2021	0	78
 FBI: International		0	78
-FBI: Os Mais Procurados		0	215
+FBI: Os Mais Procurados		0	216
 FC Bayern – Por Trás da Lenda	2021	0	6
 FC Bayern – Por Trás da Lenda		0	6
 FLCL	2000	0	24
@@ -56,6 +56,7 @@ False Flag	2015	0	18
 False Flag		0	18
 Familia Analogica	2023	0	8
 Familia Analogica		0	8
+Familia Moderna		0	498
 Familia Perfeita	2024	0	12
 Familia Perfeita		0	12
 Familia Soprano	1999	0	86
@@ -76,7 +77,6 @@ Família Gil		0	11
 Família Larva	2023	0	9
 Família Larva		0	9
 Família Moderna	2009	0	249
-Família Moderna		0	498
 Família Paraíso	2022	0	40
 Família Paraíso		0	40
 Família Upshaw	2021	0	60
@@ -103,7 +103,7 @@ Fargo	2014	0	102
 Fargo		0	102
 Farmacia Mundo Paralelo		0	12
 Farzar	2022	0	10
-Farzar		0	9
+Farzar		0	10
 Fascinacao		0	40
 Fast Layne	2019	0	8
 Fast Layne		0	8
@@ -142,20 +142,20 @@ Fear the Walking Dead		1	113
 Fearless 8 Segundos para a Gloria		1	6
 Febre de Primavera		1	12
 Febre do Ouro	2010	1	291
-Febre do Ouro		1	307
+Febre do Ouro		1	308
 Febre do Ouro America do Sul		1	5
 Febre do Ouro Australia		1	5
 Febre do Ouro Cacadores de Riquezas		1	12
 Febre do Ouro Corredeiras do Alasca	2018	1	103
+Febre do Ouro Corredeiras do Alasca		1	111
 Febre do Ouro Freddy Dodge ao Resgate	2021	1	46
-Febre do Ouro Freddy Dodge ao Resgate		1	46
+Febre do Ouro Freddy Dodge ao Resgate		1	47
 Febre do Ouro Minas Reativadas	2019	1	44
 Febre do Ouro Minas Reativadas		1	44
 Febre do Ouro O Desafio de Parker	2017	1	60
 Febre do Ouro O Desafio de Parker		1	60
 Febre do Ouro O Inverno Esta Aqui	2021	1	8
 Febre do Ouro O Inverno Esta Aqui		1	8
-Febre do Ouro: Corredeiras do Alasca		1	103
 Febre do Ouro: Família Hoffman	2022	1	34
 Febre do Ouro: Família Hoffman		1	34
 Feed the Beast	2016	1	10
@@ -185,10 +185,10 @@ Ferias Mortais		1	6
 Ferias em Familia		1	20
 Feridas do Passado	2022	1	13
 Feridas do Passado		1	13
+Ferinha e a Fabrica de Tudo		1	20
 Ferinha e a Fábrica de Tudo	2021	1	20
-Ferinha e a Fábrica de Tudo		1	20
 Fermentando o Amor	2024	1	11
-Fermentando o Amor		1	11
+Fermentando o Amor		1	12
 Fernando	2020	1	5
 Fernando		1	5
 Ferry A Serie	2023	1	8
@@ -200,11 +200,11 @@ Feyenoord: Por Dentro do Time		1	9
 Fiasco	2024	1	7
 Fiasco		1	7
 Fichados Primeira Vez Na Prisao	2023	1	15
-Fichados Primeira Vez Na Prisao		1	14
+Fichados Primeira Vez Na Prisao		1	15
 Fidelidade	2022	1	6
 Fidelidade		1	6
 Fiel ao Amor	2023	1	15
-Fiel ao Amor		1	15
+Fiel ao Amor		1	16
 Fight For You	2025	1	12
 Fight For You		1	12
 Fight Inc Por dentro do UFC	2024	1	3
@@ -236,8 +236,9 @@ Fim Das Nações	2020	1	3
 Fim Das Nações		1	3
 Fim do Verao		1	6
 Fina Estampa	2011	1	155
+Fina Estampa		1	155
 Fina Estampa Especial		1	155
-Final Space	2018	1	23
+Final Space	2018	2	23
 Final Space		2	23
 Finalmente Adultos	2023	2	13
 Finalmente Adultos		2	13
@@ -248,7 +249,7 @@ Fique Comigo		2	8
 Fique ao Meu Lado	2023	2	11
 Fique ao Meu Lado		2	11
 Fire Country	2022	2	111
-Fire Country		2	123
+Fire Country		2	124
 Fire Force	2019	2	73
 Fire Force		2	73
 Fired on Mars	2023	2	8
@@ -296,6 +297,7 @@ Flint Town	2018	2	8
 Flint Town		2	8
 Flor	2024	2	34
 Flor		2	34
+Flor do Caribe - Edicao Especial		2	151
 Flordelis: Em Nome da Mãe	2022	2	4
 Flordelis: Em Nome da Mãe		2	4
 Flordelis: Questiona ou Adora	2022	2	7
@@ -356,9 +358,10 @@ Forca de Elite		2	4
 Forca de Mulher	2017	2	242
 Forca de Mulher		2	242
 Forever	1984	2	8
-Forever		2	8
-Forever Love		2	28
+Forever		3	8
+Forever Love		3	28
 Forging Justice		3	12
+Formacao Web Designer Profissional Othon Ciparoni		3	369
 Formula 1: Dirigir para Viver	2019	3	78
 Formula 1: Dirigir para Viver		3	78
 Formula Dreams		3	10
@@ -393,7 +396,7 @@ Freakazoid: Alto Forte e Maluco	1995	3	24
 Freakazoid: Alto Forte e Maluco		3	24
 Free Bert		3	6
 FreeKs	2023	3	12
-FreeKs		3	12
+FreeKs		3	13
 Freeridge	2023	3	8
 Freeridge		3	8
 Freud	2020	3	8
@@ -409,7 +412,7 @@ Friends with Better Lives		3	13
 Frieren e a Jornada para o Alem	2023	3	66
 Frieren e a Jornada para o Alem		3	76
 Fritada	2024	3	25
-Fritada		3	25
+Fritada		3	26
 From		3	10
 From Bureaucrat to Villainess Dads Been Reincarnated	2025	3	12
 From Bureaucrat to Villainess Dads Been Reincarnated		3	12
@@ -424,7 +427,7 @@ Frozen Valentine		3	9
 Fubar	2023	3	16
 Fubar		3	16
 Fudêncio e Seus Amigos	2005	3	138
-Fudêncio e Seus Amigos		3	138
+Fudêncio e Seus Amigos		3	148
 Fugindo do Twin Flames	2023	3	3
 Fugindo do Twin Flames		3	3
 Fugitivos, da Marvel	2017	3	33
@@ -440,10 +443,10 @@ Fullmetal Alchemist: Brotherhood	2009	3	64
 Fullmetal Alchemist: Brotherhood		3	64
 Fumetsu no Anata e	2021	3	62
 Fumetsu no Anata e		3	43
+Fundacao		3	60
 Fundamentos do Prazer	2022	3	3
 Fundamentos do Prazer		3	3
 Fundação	2021	3	30
-Fundação		3	60
 Funk Doc Popular e Proibido		3	6
 Funk.Doc: Popular & Proibido	2022	3	6
 Funk.Doc: Popular & Proibido		3	6

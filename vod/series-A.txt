@@ -41,9 +41,9 @@ A Batalha dos Chefs Raiz	2024	0	8
 A Batalha dos Chefs Raiz		0	8
 A Batalha dos Destinos		0	10
 A Batalha dos Piores Cozinheiros	2010	0	112
-A Batalha dos Piores Cozinheiros		0	112
+A Batalha dos Piores Cozinheiros		0	113
 A Batalha dos Piores Cozinheiros Em Pratos Limpos	2021	0	7
-A Batalha dos Piores Cozinheiros Em Pratos Limpos		0	7
+A Batalha dos Piores Cozinheiros Em Pratos Limpos		0	8
 A Baía	2019	0	24
 A Baía		0	24
 A Bela e a Fera	2012	0	70
@@ -248,7 +248,7 @@ A Estrada de Lichia	2025	2	35
 A Estrada de Lichia		2	35
 A Estrada para o Esplendor		2	1
 A Etica do Silencio		2	5
-A Ex mulher		2	8
+A Ex mulher		2	12
 A Fabrica	2013	2	10
 A Fabrica		2	10
 A Fabrica de ETs	2024	2	10
@@ -266,7 +266,7 @@ A Familia Baxter		2	34
 A Familia Hathaway	2013	2	48
 A Familia Hathaway		2	48
 A Familia Radical Maior e Melhor	2022	2	39
-A Família Radical: Maior e Melhor		2	39
+A Familia Radical Maior e Melhor		2	39
 A Família Stallone	2023	2	18
 A Família Stallone		2	18
 A Fantastica Fábrica da Sanidade	2023	2	3
@@ -287,7 +287,7 @@ A Festa da Salsicha Comilandia		2	16
 A Filha de Deus Dalma Maradona	2023	2	3
 A Filha de Deus Dalma Maradona		2	3
 A Filha do Embaixador	2019	2	179
-A Filha do Embaixador		2	179
+A Filha do Embaixador		2	180
 A Filha do Mariachi		2	100
 A Flor Mais Bela	2022	2	10
 A Flor Mais Bela		2	10
@@ -352,7 +352,7 @@ A Grande Corrida: Volta ao Mundo		2	6
 A Grande Descoberta	2025	2	4
 A Grande Descoberta		2	4
 A Grande Familia	2001	2	485
-A Grande Família		2	485
+A Grande Familia		2	485
 A Grande Família do Alasca	2014	2	59
 A Grande Família do Alasca		2	59
 A Grande Ilusao	2024	2	8
@@ -440,7 +440,7 @@ A Isca		3	6
 A Jogada da Vitoria	2025	3	12
 A Jogada da Vitoria		3	12
 A Jogadora		3	12
-A Jornada Heroica do Principe Ivandoe		3	37
+A Jornada Heroica do Principe Ivandoe		3	39
 A Jornada da Lenda		3	80
 A Jornada da Lenda	2025	3	40
 A Jornada de Jin Wang	2023	3	8
@@ -594,7 +594,7 @@ A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		4	15
 A Nova Forca	2025	4	6
 A Nova Forca		4	6
 A Nova Super Máquina	2008	4	18
-A Nova Super Máquina		4	18
+A Nova Super Máquina		4	19
 A Nova Vida de Toby	2022	4	8
 A Nova Vida de Toby		4	8
 A Nova pantera Cor de Rosa	1993	4	60
@@ -652,7 +652,7 @@ A Primeira-dama		5	10
 A Princesa Assassina	2007	5	6
 A Princesa Assassina		5	6
 A Princesa Guerreira	2021	5	27
-A Princesa Guerreira		5	27
+A Princesa Guerreira		5	28
 A Princesa Oferenda e o Rei das Feras	2023	5	24
 A Princesa Oferenda e o Rei das Feras		5	24
 A Princesa Real	2024	5	40
@@ -660,7 +660,7 @@ A Princesa Real		5	40
 A Prisioneira da Beleza	2025	5	36
 A Prisioneira da Beleza		5	36
 A Promessa	2023	5	486
-A Promessa		5	486
+A Promessa		5	491
 A Promessa da Alma	2025	5	11
 A Promessa da Alma		5	12
 A Promotora		5	3
@@ -737,7 +737,7 @@ A Serpente do Essex		6	6
 A Sete Palmos	2001	6	63
 A Sete Palmos		6	63
 A Sign of Affection	2024	6	11
-A Sign of Affection		6	11
+A Sign of Affection		6	12
 A Small Light	2023	6	8
 A Small Light		6	8
 A Sogra Que Te Pariu	2022	6	20
@@ -752,7 +752,7 @@ A Splendid Match		6	40
 A Sucessora	1978	6	126
 A Sucessora		6	126
 A Super Máquina	1982	6	76
-A Super Máquina		6	76
+A Super Máquina		6	79
 A Superfantástica História do Balão	2023	6	3
 A Superfantástica História do Balão		6	3
 A Surda Absurda	2022	6	3
@@ -861,7 +861,7 @@ A Vida é Irada, Vamos Curtir!		7	4
 A Vila	2021	7	75
 A Vila		7	75
 A Vinganca da Branca de Neve	2024	7	101
-A Vinganca da Branca de Neve		7	101
+A Vinganca da Branca de Neve		7	102
 A Vinganca do Casamento Perfeito	2023	7	12
 A Vinganca do Casamento Perfeito		7	12
 A Vingança do Nerd	2023	7	7
@@ -869,7 +869,7 @@ A Vingança do Nerd		7	7
 A Virada	2023	7	4
 A Virada		7	4
 A Viuva	2019	7	8
-A Viuva		7	1
+A Viuva		7	8
 A Vizinha da Mulher na Janela	2022	7	8
 A Vizinha da Mulher na Janela		7	8
 A Volta ao Mundo em 80 Dias	2021	7	8
@@ -923,7 +923,7 @@ Aaahh!!! Monstros		7	52
 Abandono de Evento	2021	7	4
 Abandono de Evento		7	4
 Abbott Elementary	2021	7	107
-Abbott Elementary		7	126
+Abbott Elementary		7	128
 Abdelmassih: Do Milagre ao Crime	2022	7	4
 Abdelmassih: Do Milagre ao Crime		7	4
 Abducao em Manhattan	2024	7	3
@@ -932,8 +932,8 @@ Abel O Grande	2025	7	4
 Abel O Grande		7	4
 Aberto ao Publico	2025	7	4
 Aberto ao Publico		7	4
+Abominavel e a Cidade Escondida		7	20
 Abominável e a Cidade Escondida	2022	7	20
-Abominável e a Cidade Escondida		7	20
 Abracadavers		7	11
 Abraco da Serendipidade	2024	7	8
 Abraco da Serendipidade		7	8
@@ -1025,7 +1025,7 @@ Adultos		8	16
 Advogado Fantasma		8	32
 Aero Por Tras da Aviacao		8	52
 Aeroporto Area Restrita Estados Unidos	2024	8	12
-Aeroporto Area Restrita Estados Unidos		8	11
+Aeroporto Area Restrita Estados Unidos		8	12
 Aeroporto Miami	2012	8	19
 Aeroporto Miami		8	19
 Aeroporto: Estados Unidos		8	68
@@ -1051,7 +1051,7 @@ Agarre Seu Amor		8	24
 Agate	2023	8	30
 Agate		8	30
 Agatha Christies Poirot	1989	8	69
-Agatha Christies Poirot		8	69
+Agatha Christies Poirot		8	70
 Agatha Desde Sempre	2024	8	9
 Agatha Desde Sempre		8	9
 Agency	2023	8	16
@@ -1093,7 +1093,7 @@ Ah o Natal		9	6
 Ahsoka	2023	9	8
 Ahsoka		9	8
 Aile Lacos de Paixao	2023	9	95
-Aile Lacos de Paixao		9	94
+Aile Lacos de Paixao		9	95
 Ainda Acordados	2023	9	8
 Ainda Acordados		9	8
 Ainda um Misterio	2019	9	55
@@ -1116,12 +1116,12 @@ Akuyaku Reijou nanode Last Boss wo Kattemimashita	2022	9	12
 Akuyaku Reijou nanode Last Boss wo Kattemimashita		9	12
 AlRawabi School for Girls	2021	9	6
 AlRawabi School for Girls		9	6
+Alasca Reabilitacao Selvagem		9	14
 Alasca ao Extremo	2014	9	32
 Alasca ao Extremo		9	32
 Alasca: Em Busca da Notícia	2022	9	11
 Alasca: Em Busca da Notícia		9	11
 Alasca: Reabilitação Selvagem	2020	9	14
-Alasca: Reabilitação Selvagem		9	6
 Alasca: Sabedoria Nativa	2022	9	8
 Alasca: Sabedoria Nativa		9	8
 Alba	2021	9	13
@@ -1136,6 +1136,7 @@ Alem de Skinwalker		9	25
 Alem do Direito	2025	9	12
 Alem do Direito		9	12
 Alem do Guarda Roupa	2023	9	10
+Alem do Guarda Roupa		9	10
 Alem dos Reinos Divinos		9	17
 Alemão: Os Dois Lados do Complexo	2016	9	4
 Alemão: Os Dois Lados do Complexo		9	4
@@ -1181,7 +1182,7 @@ All American		9	91
 All American: Novos Começos	2022	9	47
 All American: Novos Começos		9	47
 All Creatures Great e Small	2020	9	34
-All Creatures Great e Small		9	34
+All Creatures Great e Small		9	35
 All Her Fault		9	16
 All Star Shore	2022	9	23
 All Star Shore		9	23
@@ -1197,9 +1198,9 @@ Allen Iv3rson		9	3
 Allen v. Farrow	2021	9	4
 Allen v. Farrow		9	4
 Alma	2022	9	9
-Alma		9	9
+Alma		10	9
+Alma Gemea		10	227
 Alma Gêmea	2005	10	227
-Alma Gêmea		10	227
 Alma Imoral		10	5
 Alma chan Wants to Be a Family		10	21
 Alma chan Wants to Be a Family	2025	10	3
@@ -1229,13 +1230,12 @@ Alya Sometimes Hides Her Feelings in Russian		10	12
 Além da Ilha	2018	10	10
 Além da Ilha		10	10
 Além da Ilusão	2022	10	167
-Além da Ilusão		10	165
+Além da Ilusão		10	167
 Além da Imaginação	2019	10	10
 Além da Imaginação		10	10
 Além da Margem	2022	10	15
 Além da Margem		10	15
 Além da traição		10	10
-Além do Guarda-Roupa		10	10
 Além do Tempo	2015	10	161
 Além do Tempo		10	161
 Amada e Ultrajada O Exercito na Historia do Brasil	2024	10	3
@@ -1290,6 +1290,7 @@ Amigas & Rivais		10	185
 Amigas Unidas Contra o Peso	2022	10	26
 Amigas Unidas Contra o Peso		10	26
 Amigas e Rivais	2001	10	185
+Amigas e Rivais		10	185
 Amigas para Sempre	2021	10	26
 Amigas para Sempre		10	26
 Amigos da Faculdade		10	16
@@ -1298,7 +1299,7 @@ Amnesia		10	12
 Among Us		10	10
 Amor Alem do Tempo	2023	10	76
 Amor Alem do Tempo		10	76
-Amor Alem do Tumulo		10	39
+Amor Alem do Tumulo		10	40
 Amor Animal		10	8
 Amor Apimentado	2024	10	2
 Amor Apimentado		10	2
@@ -1317,7 +1318,7 @@ Amor Fatal As Seis Esposas de Thomas Randolph		10	3
 Amor Fati	2021	10	99
 Amor Fati		10	99
 Amor Fora da Caixa	2022	10	7
-Amor Fora da Caixa		10	7
+Amor Fora da Caixa		11	7
 Amor Fora das Grades	2018	11	80
 Amor Fora das Grades		11	80
 Amor Golpe e Vinganca	2025	11	6
@@ -1335,7 +1336,7 @@ Amor Oculto		11	35
 Amor Offline	2025	11	10
 Amor Offline		11	10
 Amor Perfeito	2023	11	160
-Amor Perfeito		11	160
+Amor Perfeito		11	161
 Amor Platônico	2023	11	20
 Amor Platônico		11	20
 Amor Por Acaso	2018	11	26
@@ -1387,7 +1388,7 @@ Amor e Honra		11	30
 Amor e Morte	2023	11	7
 Amor e Morte		11	7
 Amor e Outros Dramas	2022	11	20
-Amor e Outros Dramas		11	19
+Amor e Outros Dramas		11	20
 Amor e Para os Caes	2025	11	10
 Amor e Para os Caes		11	10
 Amor e Sorte	2020	11	4
@@ -1415,8 +1416,8 @@ Amor no Escritório		11	8
 Amor no Espectro: EUA	2022	11	27
 Amor no Espectro: EUA		11	27
 Amor no Natal		11	4
+Amor para Recomecar		11	12
 Amor para Recomeçar	2022	11	12
-Amor para Recomeçar		11	12
 Amor sem Idade	2024	11	8
 Amor sem Idade		11	8
 Amor à Primavera		11	21
@@ -1437,7 +1438,7 @@ Amores Roubados	2014	11	10
 Amores Roubados		11	10
 Amores Verdadeiros	2012	11	616
 Amores Verdadeiros		11	616
-Amores que Enganam	2022	11	10
+Amores que Enganam	2022	12	10
 Amores que Enganam		12	10
 Amorteamo	2015	12	5
 Amorteamo		12	5
@@ -1446,16 +1447,16 @@ Amphibia		12	58
 Amsterdam		12	10
 Amsterdam Central 24 7	2025	12	6
 Amsterdam Central 24 7		12	6
-Amy e Tammy Irmas Contra o Peso		12	48
+Amy e Tammy Irmas Contra o Peso		12	49
 América		12	203
 América Inexplorada	2021	12	5
-América Inexplorada		12	5
+América Inexplorada		12	6
 An Adventurer s Daily Grind at Age 29		12	6
 An Archdemons Dilemma How to Love Your Elf Bride	2024	12	12
 An Archdemons Dilemma How to Love Your Elf Bride		12	12
 An Observation Log of My Fiancee Who Calls Herself a Villainess		12	12
 Ana	2018	12	22
-Ana		12	21
+Ana		12	22
 Ana Bolena: A Rainha	2021	12	3
 Ana Bolena: A Rainha		12	3
 Ana Pimentinha	1997	12	57
@@ -1474,7 +1475,7 @@ Andar na Pedra A Historia do Raimundos		12	5
 Anderson Spider Silva	2023	12	5
 Anderson Spider Silva		12	5
 Andes Extremo		12	6
-Andromeda		12	109
+Andromeda		12	110
 Andy Panda		12	26
 Andy e Seu Esquilo	2006	12	26
 Andy e Seu Esquilo		12	26
@@ -1509,7 +1510,7 @@ Animal Kingdom	2016	12	75
 Animal Kingdom		12	75
 Animaniacs	2020	12	40
 Animaniacs	1993	12	98
-Animaniacs		12	95
+Animaniacs		12	101
 Anita Mui: A Rainha Pop da Ásia	2022	12	5
 Anita Mui: A Rainha Pop da Ásia		12	5
 Anitta Made In Honorio	2020	12	6
@@ -1532,8 +1533,8 @@ Anna		12	6
 Anna Pigeon		12	2
 Anne Shirley	2025	12	48
 Anne Shirley		12	48
-Anne com um "E"		12	27
 Anne com um E	2017	12	27
+Anne com um E		12	27
 Annika	2021	12	12
 Annika		12	12
 Anomalia	2022	12	10
@@ -1557,7 +1558,7 @@ Antologia do Medo		12	13
 Antracite	2024	12	6
 Antracite		12	6
 Any Malu Show	2020	12	26
-Any Malu Show		12	26
+Any Malu Show		13	26
 Anyway Im Falling in Love with You	2025	13	12
 Anyway Im Falling in Love with You		13	15
 Ao Norte do Norte	2025	13	8
@@ -1575,10 +1576,10 @@ Aoi Sekai no Chuushin de		13	3
 Aos Olhos do Mundo	2022	13	3
 Aos Olhos do Mundo		13	3
 Aoshima kun E um Valentao	2024	13	8
-Aoshima kun E um Valentao		13	8
+Aoshima kun E um Valentao		13	9
 Apache a Vida de Carlos Tevez	2019	13	8
 Apache a Vida de Carlos Tevez		13	8
-Apaixonado por Amar Voce		13	23
+Apaixonado por Amar Voce		13	24
 Apaixonado por Amar Você - Legendado		13	24
 Apaixonados Outra Vez	2023	13	8
 Apaixonados Outra Vez		13	8
@@ -1588,7 +1589,7 @@ Apaixonados na Cidade		13	17
 Apaixonados por Carros com Swizz Beatz	2023	13	6
 Apaixonados por Carros com Swizz Beatz		13	6
 Apaixone Se Intensamente	2025	13	24
-Apaixone se Intensamente		13	24
+Apaixone Se Intensamente		13	24
 Apaixone se novamente	2024	13	21
 Apaixone se novamente		13	21
 Aparente Maldade	2019	13	6
@@ -1596,7 +1597,7 @@ Aparente Maldade		13	6
 Apartamento 6/9	2023	13	6
 Apartamento 6/9		13	6
 Apenas Um Show	2010	13	246
-Apenas Um Show		13	246
+Apenas Um Show		13	247
 Apenas um Olhar	2025	13	6
 Apenas um Olhar		13	6
 Apenas um Show: As Fitas Perdidas		13	9
@@ -1618,6 +1619,7 @@ Apostando Alto	2020	13	16
 Apostando Alto		13	16
 Apples Never Fall	2024	13	6
 Apples Never Fall		13	6
+Aprenda Guitarra do Zero em 45 Dias Com Mauricio Alabama		13	111
 Aprendendo a Amar	2025	13	11
 Aprendendo a Amar		13	11
 Aprendendo a Lição		13	10
@@ -1667,7 +1669,7 @@ Ares		13	8
 Aria The Animation	2005	13	53
 Aria The Animation		13	53
 Arifureta Shokugyou de Sekai Saikyou	2019	13	86
-Arifureta Shokugyou de Sekai Saikyou		13	85
+Arifureta Shokugyou de Sekai Saikyou		13	86
 Arknights	2022	13	20
 Arknights		13	20
 Arlequina	2019	13	56
@@ -1676,8 +1678,8 @@ Armacao ou Amor	2023	13	40
 Armacao ou Amor		13	40
 Armadilha do Amor	2019	13	136
 Armadilha do Amor		13	136
-Armas de Mulher	2022	13	8
-Armas de Mulher		13	8
+Armas de Mulher	2022	14	8
+Armas de Mulher		14	8
 Armas e Amores	2023	14	7
 Armas e Amores		14	7
 Armazem 13	2009	14	64
@@ -1717,7 +1719,7 @@ Art Attack: Modo Desafio	2023	14	12
 Art Attack: Modo Desafio		14	12
 Artilheiros		14	5
 Artistas Negros Conquistam Hollywood	2025	14	2
-Artistas Negros Conquistam Hollywood		14	2
+Artistas Negros Conquistam Hollywood		14	3
 Aruanas	2019	14	20
 Aruanas		14	20
 Arvolandia	2022	14	15
@@ -1758,7 +1760,7 @@ As Aventuras do Batman	1968	14	17
 As Aventuras do Batman		14	17
 As Aventuras do Gato de Botas		14	52
 As Brasileiras	2012	14	22
-As Brasileiras		14	21
+As Brasileiras		14	22
 As Bruxas Mayfair de Anne Rice	2023	14	31
 As Bruxas Mayfair de Anne Rice		14	31
 As Canalhas		14	26
@@ -1779,7 +1781,7 @@ As Crônicas de Shannara		14	20
 As Crônicas de Usagi: O Coelho Samurai	2022	14	20
 As Crônicas de Usagi: O Coelho Samurai		14	20
 As Células de Yumi	2021	14	28
-As Células de Yumi		14	28
+As Células de Yumi		14	36
 As Fabulosas Aventuras de Moka	2019	14	78
 As Fabulosas Aventuras de Moka		14	78
 As Fabulosas Aventuras dos Freak Brothers	2021	14	16
@@ -1787,7 +1789,7 @@ As Fabulosas Aventuras dos Freak Brothers		14	16
 As Falsificadoras	2022	14	10
 As Falsificadoras		14	10
 As Filhas da Mae	2001	14	125
-As Filhas da Mae		14	120
+As Filhas da Mae		14	125
 As Filhas da Seita Uma Historia de Abusos	2021	14	5
 As Filhas da Seita Uma Historia de Abusos		14	5
 As Five		14	26
@@ -1796,8 +1798,8 @@ As Flores Perdidas de Alice Hart		14	7
 As Fãs do Turno da Noite		14	8
 As Garotas do Fundão	2022	14	6
 As Garotas do Fundão		14	6
-As Garotas do Onibus Jornalistas de Campanha	2024	14	10
-As Garotas do Onibus Jornalistas de Campanha		14	10
+As Garotas do Onibus Jornalistas de Campanha	2024	15	10
+As Garotas do Onibus Jornalistas de Campanha		15	10
 As Garotas do Surfe Havai	2023	15	4
 As Garotas do Surfe Havai		15	4
 As Ginastas	2022	15	6
@@ -1831,7 +1833,7 @@ As Maravilhas dos Estados Unidos		15	6
 As Megamarcas que Mudaram o Mundo	2023	15	12
 As Megamarcas que Mudaram o Mundo		15	12
 As Meninas Superpoderosas	2016	15	118
-As Meninas Superpoderosas		15	156
+As Meninas Superpoderosas		15	168
 As Meninas de Surfside	2022	15	10
 As Meninas de Surfside		15	10
 As Mil Mortes de Nora Dalmasso	2025	15	3
@@ -1853,7 +1855,7 @@ As Novas Aventuras do Ursinho Puff	1988	15	50
 As Novas Aventuras do Ursinho Puff		15	50
 As Nove Emoções		15	9
 As Panteras	2011	15	99
-As Panteras		15	99
+As Panteras		15	100
 As Pequenas Coisas da Vida	2023	15	8
 As Pequenas Coisas da Vida		15	8
 As Piores Prisoes do Mundo		15	25
@@ -1883,11 +1885,11 @@ As Ultimas Horas do Titanic		15	4
 As Vidas Secretas da Família Uysal	2022	15	8
 As Vidas Secretas da Família Uysal		15	8
 As Visões da Raven	2003	15	98
-As Visões da Raven		15	98
+As Visões da Raven		15	99
 As Viúvas das Quintas-Feiras	2023	15	6
 As Viúvas das Quintas-Feiras		15	6
 As a Reincarnated Aristocrat Ill Use My Appraisal Skill to Rise in the World	2024	15	24
-As a Reincarnated Aristocrat Ill Use My Appraisal Skill to Rise in the World		15	24
+As a Reincarnated Aristocrat Ill Use My Appraisal Skill to Rise in the World		15	36
 Asaf	2024	15	6
 Asaf		15	6
 Asas da Ambição	2022	15	24
@@ -1902,7 +1904,7 @@ Ashley Madison Sexo Mentiras e Escandalo		15	3
 Asla Vazgecmem	2015	15	59
 Asla Vazgecmem		15	59
 Assassinas		15	6
-Assassination Classroom		15	42
+Assassination Classroom		15	47
 Assassinato Tem Duas Caras	2025	15	3
 Assassinato Tem Duas Caras		15	3
 Assassinato de uma Sexta a Noite	2022	15	22
@@ -1916,8 +1918,8 @@ Assassinato na Casa Branca	2025	15	8
 Assassinato na Casa Branca		15	8
 Assassinato na Cidade da Bola de Espelhos		15	2
 Assassinato no Campus	2023	15	11
-Assassinato no Campus		15	11
-Assassinato no Fim do Mundo	2023	15	7
+Assassinato no Campus		16	12
+Assassinato no Fim do Mundo	2023	16	7
 Assassinato no Fim do Mundo		16	7
 Assassino Sem Passado	2021	16	10
 Assassino Sem Passado		16	10
@@ -1966,6 +1968,7 @@ Ate o Fim da Lua	2023	16	40
 Ate o Fim da Lua		16	40
 Ate que o Crime nos Separe O Assassinato do Casal Haysom	2023	16	4
 Ate que o Crime nos Separe O Assassinato do Casal Haysom		16	4
+Ate que se Prove o Contrário		16	38
 Atelier Ryza: Ever Darkness & the Secret Hideout The Animation	2023	16	12
 Atelier Ryza: Ever Darkness & the Secret Hideout The Animation		16	12
 Atlanta	2016	16	41
@@ -1989,7 +1992,6 @@ Até o Fim: Flamengo Campeão da Libertadores	2019	16	5
 Até o Fim: Flamengo Campeão da Libertadores		16	5
 Até o Último Samurai		16	6
 Até que se Prove o Contrário	2022	16	9
-Até que se Prove o Contrário		16	38
 Aula de Amor	2022	16	16
 Aula de Amor		16	30
 Aula de Assassinato		16	3
@@ -2036,8 +2038,8 @@ aka Charlie Sheen		16	2
 À Prova de Tudo	2006	16	69
 À Prova de Tudo		16	69
 À Tona	2022	16	8
-À Tona		16	8
-Água Viva	1980	16	159
+À Tona		17	8
+Água Viva	1980	17	159
 Água Viva		17	159
 Águas do Norte	2021	17	6
 Águas do Norte		17	6

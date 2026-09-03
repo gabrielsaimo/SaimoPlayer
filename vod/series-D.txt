@@ -28,10 +28,10 @@ DMZ	2022	0	4
 DMZ		0	4
 DNA DO CRIME	2023	0	16
 DNA DO CRIME		0	16
-DOC		0	82
+DOC		0	83
 DOC – Uma Nova Vida		0	48
 DORA	2024	0	51
-DORA		0	51
+DORA		0	52
 DOTA: Dragon’s Blood	2021	0	24
 DOTA: Dragon’s Blood		0	24
 DREAM STAGE		0	9
@@ -43,7 +43,7 @@ Da Ponte pra La		0	7
 Da Terra A Lua	1998	0	12
 Da Terra A Lua		0	12
 Da Vinci's Demons	2013	0	27
-Da Vinci's Demons		0	27
+Da Vinci's Demons		0	28
 Da África aos EUA: Uma Jornada Gastronômica	2021	0	4
 Da África aos EUA: Uma Jornada Gastronômica		0	4
 Dad is a Hero Mom is a Spirit Im a Reincarnator	2025	0	3
@@ -64,7 +64,7 @@ Damien		0	10
 Damnation	2017	0	10
 Damnation		0	10
 DanMachi E Errado Tentar Pegar Garotas em uma Masmorra	2015	0	88
-DanMachi E Errado Tentar Pegar Garotas em uma Masmorra		0	88
+DanMachi E Errado Tentar Pegar Garotas em uma Masmorra		0	89
 Danca no Gelo Rumo ao Ouro		0	3
 Dance 100	2023	0	6
 Dance 100		0	6
@@ -179,7 +179,7 @@ Dead Account		1	12
 Dead Like Me A Morte Lhe Cai Bem	2003	1	29
 Dead Like Me A Morte Lhe Cai Bem		1	29
 Dead Mount Death Play	2023	1	33
-Dead Mount Death Play		1	33
+Dead Mount Death Play		1	34
 Deadbeat	2014	1	23
 Deadbeat		1	23
 Deadloch	2023	1	8
@@ -200,7 +200,7 @@ Death Inc.		1	26
 Death Note	2006	1	37
 Death Note		1	37
 Debaixo da Ponte A Verdadeira Historia do Assassinato de Reena Virk	2024	1	8
-Debaixo da Ponte A Verdadeira Historia do Assassinato de Reena Virk		1	7
+Debaixo da Ponte A Verdadeira Historia do Assassinato de Reena Virk		1	8
 Debris	2021	1	26
 Debris		1	26
 Decameron	2024	1	8
@@ -220,7 +220,7 @@ Deep Water		1	6
 Deepa e Anoop	2022	1	18
 Deepa e Anoop		1	18
 Deer Squad	2020	1	39
-Deer Squad		1	39
+Deer Squad		1	40
 Defiance	2013	1	38
 Defiance		1	38
 Deixa Ela Entrar	2022	1	10
@@ -251,8 +251,8 @@ Demolidor Renascido	2025	2	17
 Demolidor Renascido		2	34
 Demon Lord Retry	2019	2	24
 Demon Lord Retry		2	24
-Demon Slayer Kimetsu No Yaiba		2	126
 Demon Slayer Kimetsu no Yaiba	2019	2	126
+Demon Slayer Kimetsu no Yaiba		2	126
 Denki Gai no Honya san		2	12
 Dennis, o Pimentinha	1993	2	13
 Dennis, o Pimentinha		2	13
@@ -341,7 +341,7 @@ Designers So Que Nao	2021	2	15
 Designers So Que Nao		2	15
 Designers do Brasil	2018	2	20
 Designers do Brasil		2	20
-Designing Women		2	159
+Designing Women		2	162
 Desjuntados	2021	2	7
 Desjuntados		2	7
 Deslizando para o Amor	2023	2	8
@@ -371,9 +371,9 @@ Desprazer em Te Conhecer		3	16
 Desservico Ao Consumidor	2019	3	4
 Desservico Ao Consumidor		3	4
 Destiladores	2011	3	199
-Destiladores		3	199
+Destiladores		3	213
 Destiladores - Mestre Destilador	2020	3	44
-Destiladores - Mestre Destilador		3	44
+Destiladores - Mestre Destilador		3	47
 Destiladores: Clássicos Americanos	2022	3	5
 Destiladores: Clássicos Americanos		3	5
 Destinado a Te Amar		3	20
@@ -381,10 +381,10 @@ Destino Final Palm Glade	2010	3	49
 Destino Final Palm Glade		3	49
 Destino La Templanza	2021	3	10
 Destino La Templanza		3	10
+Destino Paranormal Chamados do Lar		3	8
 Destino Paranormal Top 10	2021	3	8
 Destino Paranormal Top 10		3	8
 Destino Paranormal: Chamados do Lar	2022	3	8
-Destino Paranormal: Chamados do Lar		3	8
 Destino e Salvacao	2025	3	40
 Destino e Salvacao		3	40
 Destinos Inesperados	2020	3	6
@@ -414,8 +414,8 @@ Detetive Alex Cross		3	16
 Detetive Americano com Joe Kenda	2021	3	31
 Detetive Americano com Joe Kenda		3	47
 Detetive Belascoaran	2022	3	3
-Detetive Belascoarán		3	3
-Detetive Conan		3	123
+Detetive Belascoaran		3	3
+Detetive Conan		3	203
 Detetive Conan Hanzawa o Culpado	2022	3	12
 Detetive Conan Hanzawa o Culpado		3	12
 Detetive Meena	2023	3	8
@@ -476,9 +476,8 @@ Diarios de um Robo Assassino		3	10
 Diarios de um Vampiro	2009	3	342
 Diarios de um Vampiro		3	342
 Diarios de uma Apotecaria	2023	3	96
-Diarios de uma Apotecaria		3	96
 Diarra de Detroit		3	12
-Dias Melhores	2022	4	10
+Dias Melhores	2022	3	10
 Dias Melhores		4	10
 Dias Perfeitos	2025	4	8
 Dias Perfeitos		4	8
@@ -583,6 +582,7 @@ Diários de Guerra	2016	4	5
 Diários de Guerra		4	5
 Diários de Quarto: Lentes Que Revelam	2022	4	6
 Diários de Quarto: Lentes Que Revelam		4	6
+Diários de uma Apotecária		4	96
 Do Alto Do Seu Conhecimento		4	8
 Do Amor e de Luta	2023	4	4
 Do Amor e de Luta		4	4
@@ -596,14 +596,14 @@ Do Escandalo a Paixao		4	12
 Do Jeito Delas	2022	4	10
 Do Jeito Delas		4	10
 Do Nada Gravida	2022	4	12
-Do Nada, Grávida		4	12
+Do Nada Gravida		4	12
 Do Pelo ao Cabelo Autoestima por um Fio		4	6
 Do Que Riem?	2023	5	7
 Do Que Riem?		5	7
 Do Reparo Ao Par - Legendado		5	22
 Do Rio ao Mar		5	2
 Do Velho Ao Novo	2013	5	74
-Do Velho Ao Novo		5	74
+Do Velho Ao Novo		5	75
 Do Velho ao Novo O Hotel	2023	5	6
 Do Velho ao Novo O Hotel		5	6
 Do reparo ao par		5	21
@@ -633,7 +633,7 @@ Doctor Prisoner	2019	5	32
 Doctor Prisoner		5	32
 Doctor Who	2005	5	159
 Doctor Who	2024	5	18
-Doctor Who		5	159
+Doctor Who		5	162
 Doctor Zhivago		5	3
 Doenças Misteriosas		5	8
 Dois Homens e Meio	2003	5	261
@@ -664,7 +664,7 @@ Dominion	2014	5	8
 Dominion		5	8
 Dominion and Devotion	2025	5	24
 Dominion and Devotion		5	24
-Domênica Montero		5	47
+Domênica Montero		5	48
 Dona Beija	1986	5	78
 Dona Beija		5	78
 Dona Beja		5	40
@@ -713,7 +713,7 @@ Doutor Castor	2021	5	4
 Doutor Castor		5	4
 Doutor Climax	2024	5	8
 Doutor Climax		5	8
-Doutor Shin		5	15
+Doutor Shin		5	16
 Doutor Shin - Legendado		5	16
 Doutor à Beira do Amor		5	24
 Doutor à Beira do Amor - Legendado		5	12
@@ -725,11 +725,11 @@ Doze		6	8
 Doze Jurados	2019	6	10
 Doze Jurados		6	10
 Dr Brain	2021	6	12
+Dr Brain		6	12
 Dr Cotos Clinic	2003	6	22
 Dr Cotos Clinic		6	22
 Dr Now Diarios de Peso		6	10
 Dr Rabugento De Plantao na Escola		6	10
-Dr. Brain		6	12
 Dr. Death	2021	6	32
 Dr. Death		6	32
 Dr. Death The Undoctored Story	2021	6	4
@@ -748,14 +748,14 @@ Dra Colon A Rainha dos Estalos		6	3
 Dra Emma Uma Questao de Pele	2019	6	73
 Dra Emma Uma Questao de Pele		6	73
 Dra Joya Dermatologista Animal	2022	6	8
+Dra Joya Dermatologista Animal		6	8
 Dra Lucia Un Don Extraordinario		6	50
 Dra Mercy Alem da Pele	2021	6	6
 Dra Mercy Alem da Pele		6	6
 Dra. Cha	2023	6	16
 Dra. Cha		6	16
-Dra. Joya: Dermatologista Animal		6	8
 Dra. Sandra Lee: A Rainha dos Cravos	2018	6	78
-Dra. Sandra Lee: A Rainha dos Cravos		6	78
+Dra. Sandra Lee: A Rainha dos Cravos		6	80
 Dracula	2013	6	10
 Dracula		6	10
 Drag Den	2022	6	8
@@ -786,7 +786,7 @@ Dragon Girl		6	10
 Dragon Quest The Adventure of Dai	2020	6	101
 Dragon Quest The Adventure of Dai		6	101
 Dragon Raja The Blazing Dawn	2022	6	27
-Dragon Raja The Blazing Dawn		6	27
+Dragon Raja The Blazing Dawn		6	28
 Dragon Striker		6	11
 Dragon's Dogma	2020	6	7
 Dragon's Dogma		6	7
@@ -810,7 +810,7 @@ Drop Dead Diva: Sob Medida	2009	6	78
 Drop Dead Diva: Sob Medida		6	78
 Drunk History A Historia Bebada		6	8
 Du Dudu e Edu	1999	6	66
-Du Dudu e Edu		6	66
+Du Dudu e Edu		6	72
 Duang com Você		6	12
 Duas Caras	2007	6	210
 Duas Caras		6	210
@@ -823,7 +823,7 @@ Duas Semanas		6	16
 Dubai Ostentacao	2022	6	25
 Dubai Ostentacao		6	25
 Dubai Ostentação: Milionários Indianos		6	7
-Duck Dodgers		6	39
+Duck Dodgers		6	55
 DuckTales: Os Caçadores de Aventuras	2017	6	72
 DuckTales: Os Caçadores de Aventuras		6	72
 Dude O Caopanheiro	2020	6	8
@@ -841,7 +841,7 @@ Dungeon Meshi		6	24
 Dupla Identidade	2014	7	13
 Dupla Identidade		7	13
 Dupla do Barulho	2012	7	148
-Dupla do Barulho		7	148
+Dupla do Barulho		7	154
 Dupla do Barulho ao Resgate	2017	7	20
 Dupla do Barulho ao Resgate		7	20
 Durians Affair	2023	7	16
@@ -849,7 +849,7 @@ Durians Affair		7	16
 Duster	2025	7	8
 Duster		7	8
 Duvida	2024	7	21
-Duvida		7	21
+Duvida		7	22
 DÓ, RÉ & MI	2021	7	8
 DÓ, RÉ & MI		7	8
 Dúvida Razoável: Uma História de Dois Sequestros	2021	7	4
