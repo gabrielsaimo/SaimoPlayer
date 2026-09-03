@@ -1,128 +1,137 @@
+Z	leg=2:72649
 Z (2019)	leg=0:1023498
-Z-O-M-B-I-E-S	dub=2:651410,2:770297	leg=2:762359
+Z-O-M-B-I-E-S	dub=2:317461,2:42517,4:651410,4:770297	leg=2:317462,4:762359
 Z-O-M-B-I-E-S (2018)	dub=0:1050010	leg=0:1034128
-Z-O-M-B-I-E-S 2	dub=2:645725,2:770296	leg=2:762358
+Z-O-M-B-I-E-S 2	dub=2:317463,2:42525,4:645725,4:770296	leg=2:317464,4:762358
 Z-O-M-B-I-E-S 2 (2020)	dub=0:1050130	leg=0:1249329
-Z-O-M-B-I-E-S 3	dub=2:646791
 Z-O-M-B-I-E-S 3 (2022)	dub=0:1049493,0:1022300	leg=0:1032140
+Z-O-M-B-I-E-S 3 4K	dub=2:167512,2:166224,4:646791	leg=2:166232
 Z: A Cidade Perdida (2017)	dub=0:1270407
-ZOMBIES 4: A Era dos Vampiros	dub=2:884503
 ZOMBIES 4: A Era dos Vampiros (2025)	dub=0:1037575,0:1037008	leg=0:1249927
+ZOMBIES 4: A Era dos Vampiros 4K	dub=2:334697,2:334616,4:884503	leg=2:334615
 ZUMBI Tona com Os Vizinhos Green (2022)	dub=0:1264673
 ZZ Top That Little Ol Band From Texas (2019)	dub=0:1267909
+Zabumba, Orquestra Popular do Nordeste	dub=2:341808
 Zabumba, Orquestra Popular do Nordeste (1974)	dub=0:1048343
-Zack e Cody: O Filme	dub=2:884466
+Zack e Cody: O Filme	dub=2:341810,4:884466	leg=2:341809
 Zack e Cody: O Filme (2011)	dub=0:1050379	leg=0:1249455
+Zara Larsson - Up Close	leg=2:380278
 Zara Larsson - Up Close (2025)	leg=0:1272582
-Zarafa	dub=2:646459
+Zarafa	dub=2:67505,4:646459
 Zarafa (2012)	dub=0:1062446
 Zarna Garg One in a Billion (2023)	dub=0:1266855	leg=0:1029970
-Zathura: Uma Aventura Espacial	dub=2:644654
+Zarna Garg: One in a Billion	leg=2:330423
+Zathura: Uma Aventura Espacial	dub=2:198534,4:644654
 Zathura: Uma Aventura Espacial (2005)	dub=0:1068414
-Zaytoun	dub=2:653775
+Zaytoun	dub=2:45114,4:653775
 Zaytoun (2012)	dub=0:1066567
+Ze Colmeia - O Filme	dub=2:27654
 Ze Colmeia - O Filme (2010)	dub=0:1067218
+Zebra Girl	leg=2:110784
 Zebra Girl (2021)	dub=0:1270380	leg=0:1033718
-Zerando a Vida	dub=2:651632
+Zerando a Vida	dub=2:20881,4:651632
 Zerando a Vida (2016)	dub=0:1056543
-Zero	dub=2:905059,2:910043
+Zero	dub=2:366900,4:905059,4:910043	leg=2:366899
 Zero (2025)	dub=0:1257213	leg=0:1267590
 Zero Contact (2022)	dub=0:1267435
-Zero e Uns	dub=2:648853
+Zero e Uns	dub=2:141483,4:648853	leg=2:141484
 Zero e Uns (2021)	dub=0:1066255	leg=0:1033635
-Zeroville	dub=2:651288
+Zeroville	dub=2:88692,4:651288
 Zeroville (2019)	dub=0:1054976
-Zeus & Roxanne	dub=2:645550
+Zeus & Roxanne	dub=2:162317,4:645550
 Zeus & Roxanne (1997)	dub=0:1068223
-Zico: O Samurai de Quintino	dub=2:918445
+Zico	dub=2:382857
+Zico: O Samurai de Quintino	dub=2:381991,4:918445
 Zico: O Samurai de Quintino (2026)	dub=0:1261766
 Zinder (2021)	dub=0:1271516
 Ziraldo Uma Obra que Pede Socorro (2021)	dub=0:1266758
 Ziraldo: Era Uma Vez Um Menino (2021)	dub=0:1273214
-Zodíaco	dub=2:653516,2:826375
+Zodíaco	dub=2:320591,4:653516,4:826375	leg=2:320592
 Zodíaco (2007)	dub=0:1070515	leg=0:1026571
-Zoe	dub=2:646944
+Zoe	dub=2:41627,4:646944
 Zoe (2018)	dub=0:1060892
-Zoe e Raven - Os doze presentes de Natal	dub=2:651631
+Zoe e Raven - Os doze presentes de Natal	dub=2:20882,4:651631
 Zoe e Raven - Os doze presentes de Natal (2018)	dub=0:1068776
-Zoe e Tempestade	dub=2:652417
+Zoe e Tempestade	dub=2:211918,4:652417	leg=2:211917
 Zoe e Tempestade (2022)	dub=0:1041510	leg=0:1026918
-Zoey 102: O Casamento	dub=2:645433
+Zoey 102: O Casamento	dub=2:208331,4:645433	leg=2:208332
 Zoey 102: O Casamento (2023)	dub=0:1064306	leg=0:1035688
-Zog e os Doutores Voadores	dub=2:646254
+Zog e os Doutores Voadores	dub=2:140695,4:646254
 Zog e os Doutores Voadores (2021)	dub=0:1050765
+Zohan - Um Agente Bom de Corte	dub=2:103983,2:76714,4:651306,4:670127
 Zohan - Um Agente Bom de Corte (2008)	dub=0:1249796
-Zohan Um Agente Bom de Corte	dub=2:651306,2:670127
-Zola	dub=2:650701
+Zola	dub=2:157945,4:650701	leg=2:157987
 Zola (2021)	dub=0:1051847	leg=0:1030485
 Zombie Land Saga: Paraíso da Galáxia dos Sonhos Legendado (2025)	dub=0:1263332
 Zombie Repellent (2025)	dub=0:1267455
+Zombieland Double Tap	leg=2:33421
 Zombieland Double Tap (2019)	leg=0:1023654
 Zombies of the Third Reich (2025)	dub=0:1268623
-Zombio 2: Chimarrão Zombies	dub=2:901354
+Zombio 2: Chimarrão Zombies	dub=2:362621,4:901354
 Zombio 2: Chimarrão Zombies (2013)	dub=0:1266977
 Zona De Quarentena (2018)	dub=0:1271643
-Zona De Tubarões	dub=2:648900
+Zona De Tubarões	dub=2:133794,4:648900
 Zona De Tubarões (2003)	dub=0:1055994
-Zona Desmilitarizada	dub=2:648933
+Zona Desmilitarizada	dub=2:129561,4:648933
 Zona Desmilitarizada (2018)	dub=0:1047679
-Zona Fria	dub=2:649685
+Zona Fria	dub=2:22114,4:649685
 Zona Fria (2017)	dub=0:1061265
-Zona Z	dub=2:903368
+Zona Z	dub=2:364800,4:903368	leg=2:364799
 Zona Z (2024)	dub=0:1267437	leg=0:1267367
-Zona de Caça	dub=2:903357,2:903653
+Zona de Caça	dub=2:365062,4:903357,4:903653	leg=2:365061
 Zona de Caça (2025)	dub=0:1256658
-Zona de Combate	dub=2:803840
 Zona de Combate (2021)	dub=0:1059536,0:1021623
-Zona de Confronto	dub=2:648957
+Zona de Combate 4K	dub=2:189890,2:92567,4:803840
+Zona de Confronto	dub=2:128509,4:648957	leg=2:128547
 Zona de Confronto (2020)	dub=0:1046427	leg=0:1033618
-Zona de Exclusão	dub=2:884717
+Zona de Exclusão	dub=2:338557,4:884717	leg=2:338556
 Zona de Exclusão (2023)	dub=0:1248796	leg=0:1031930
-Zona de Interesse	dub=2:644971
+Zona de Interesse	dub=2:255113,2:255112,4:644971	leg=2:255114,2:252906
 Zona de Interesse (2023)	dub=0:1065978,0:1022596	leg=0:1031790
-Zona de Perigo	dub=2:649116
+Zona de Perigo	dub=2:104520,4:649116
 Zona de Perigo (1993)	dub=0:1071011
-Zona de Risco	dub=2:644974,2:647180
+Zona de Risco	dub=2:259024,2:249906,4:644974,4:647180	leg=2:259025,2:248850
 Zona de Risco (2024)	dub=0:1066398,0:1023359	leg=0:1034399
-Zona de Silêncio	dub=2:652051	leg=2:670601
+Zona de Silêncio	dub=2:290780,4:652051	leg=2:290781,4:670601
 Zona de Silêncio (2018)	dub=0:1070526	leg=0:1029678
 Zona mortal (2017)	dub=0:1267792
-Zone 414	dub=2:644714
+Zone 414	dub=2:144903,4:644714	leg=2:144898
 Zone 414 (2021)	dub=0:1060396	leg=0:1034449
 Zone Drifter (2021)	dub=0:1270250
-Zoo - Uma Amizade Maior que a Vida	dub=2:646575
+Zoo - Uma Amizade Maior que a Vida	dub=2:21471,4:646575
 Zoo - Uma Amizade Maior que a Vida (2018)	dub=0:1066161
-Zoolander	dub=2:677914
+Zoolander	dub=2:307065,4:677914
 Zoolander (2001)	dub=0:1055015
-Zoolander: Super Modelo	dub=2:884403
+Zoolander: Super Modelo	dub=2:340479,4:884403	leg=2:340478
 Zoolander: Super Modelo (2016)	dub=0:1062248	leg=0:1029954
-Zoom	dub=2:651145
+Zoom	dub=2:101192,4:651145
 Zoom (2015)	dub=0:1062753
-Zoom: Academia de Super-Heróis	dub=2:651172
+Zoom: Academia de Super-Heróis	dub=2:97221,4:651172
 Zoom: Academia de Super-Heróis (2006)	dub=0:1059625
-Zoopocalipse - Uma Aventura Animal	dub=2:900645,2:902576
+Zoopocalipse - Uma Aventura Animal	dub=2:352714,4:900645,4:902576	leg=2:352713
 Zoopocalipse - Uma Aventura Animal (2025)	dub=0:1253595	leg=0:1265066
-Zootopia 2	dub=2:895528,2:907473
+Zootopia 2	dub=2:369999,4:895528,4:907473	leg=2:369998
 Zootopia 2 (2025)	dub=0:1256408	leg=0:1267343
-Zootopia Essa Cidade e o Bicho	dub=2:646579
+Zootopia: Essa Cidade é o Bicho	dub=2:369997,4:646579	leg=2:369996
 Zootopia: Essa Cidade é o Bicho (2016)	dub=0:1068640	leg=0:1272499
 Zorro 2 - A Lenda do Zorro (2005)	dub=0:1268542
-Zoya	dub=2:652678,2:884912
+Zoya	dub=2:342760,2:180351,4:652678,4:884912	leg=2:342759,2:180349
 Zoya (2021)	dub=0:1066136	leg=0:1026822
 Zoya (2024)	dub=0:1250038	leg=0:1034025
-Zumbilandia	dub=2:655449
+Zumbilandia	dub=2:21860,4:655449
 Zumbilandia (2009)	dub=0:1268521
-Zumbilandia Atire Duas Vezes	dub=2:655364
 Zumbilandia Atire Duas Vezes (2019)	dub=0:1057477,0:1022573
-Zumbilenio: O Parque dos Monstros	dub=2:646565
+Zumbilandia Atire Duas Vezes 4K	dub=2:33424,2:33423,2:33422,4:655364
+Zumbilenio: O Parque dos Monstros	dub=2:22113,4:646565
 Zumbilenio: O Parque dos Monstros (2017)	dub=0:1062530
-Zumbis e Robôs	dub=2:762746	leg=2:762596
+Zumbis e Robôs	dub=2:312959,4:762746	leg=2:312960,4:762596
 Zumbis e Robôs (2013)	dub=0:1056370	leg=0:1027036
 Zumbis na Neve 2 (2014)	dub=0:1270355	leg=0:1273117
-Zuzu Angel	dub=2:901429
+Zuzu Angel	dub=2:349061,4:901429
 Zuzu Angel (2006)	dub=0:1251152
-Zuzubalândia - O Filme	dub=2:645938
+Zuzubalândia - O Filme	dub=2:295740,4:645938
 Zuzubalândia - O Filme (2024)	dub=0:1063078
-Zé	dub=2:913180
+Zé	dub=2:375108,4:913180
 Zé (2023)	dub=0:1272296
+Zélia - Memórias de Amor	dub=2:336980
 Zélia - Memórias de Amor (2017)	dub=0:1048124

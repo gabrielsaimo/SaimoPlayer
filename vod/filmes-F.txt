@@ -1,949 +1,1159 @@
-F Marry Kill	dub=2:885006
+F Marry Kill	dub=2:341030,4:885006	leg=2:341029
 F Marry Kill (2025)	dub=0:1037824	leg=0:1038139
 F.E.A.R. (2021)	dub=0:1269421
-F1 - O Filme	dub=2:884350
 F1 - O Filme (2025)	dub=0:1249910,0:1038704	leg=0:1037512
-F1: Furious One	dub=2:897195
+F1: Furious One	dub=2:345059,4:897195	leg=2:345058
 F1: Furious One (2021)	dub=0:1046129	leg=0:1023478
-F20 - Jovens e Perigosos	dub=2:647529
+F1: O Filme 4K	dub=2:379416,2:340448,2:340273,4:884350	leg=2:340272
+F20 - Jovens e Perigosos	dub=2:75041,4:647529
 F20 - Jovens e Perigosos (2018)	dub=0:1047492
 FIST (1978)	dub=0:1271040
-FX 2 - Ilusão Fatal	dub=2:648870
+FX 2 - Ilusão Fatal	dub=2:138843,4:648870
 FX 2 - Ilusão Fatal (1991)	dub=0:1044300
 Faca a Coisa Certa (1989)	dub=0:1264804
+Faceless	leg=2:307929
 Faceless (2021)	dub=0:1267967
 Faceless (2024)	leg=0:1033475
+Faces da Guerra	dub=2:370903	leg=2:370902
 Faces da Guerra (2021)	leg=0:1267670
-Faces da Morte	dub=2:901055
+Faces da Morte	dub=2:362604,4:901055	leg=2:378216,2:362603
 Faces da Morte (1978)	dub=0:1266975	leg=0:1267018
 Faces da Morte Legendado (2026)	dub=0:1260488
+Faces da Verdade	dub=2:382984	leg=2:382983
+Fackham Hall	leg=2:371100
 Fackham Hall Legendado (2025)	dub=0:1258687
-Fada Madrinha	dub=2:649452
+Fada Madrinha	dub=2:89320,4:649452
 Fada Madrinha (2020)	dub=0:1068128
-Fade to Black	dub=2:654532
+Fade to Black	dub=2:266034,4:654532
 Fade to Black (2004)	dub=0:1071516
-Fahrenheit 11 de Setembro	dub=2:648005
+Fahrenheit 11 de Setembro	dub=2:189984,4:648005
 Fahrenheit 11 de Setembro (2004)	dub=0:1048974
-Fahrenheit 451	dub=2:646896,2:884742
+Fahrenheit 451	dub=2:335759,2:334694,2:91268,4:646896,4:884742	leg=2:335758
 Fahrenheit 451 (2018)	dub=0:1059496,0:1023090	leg=0:1023496
+Failure - We Are Hallucinations	leg=2:212429
 Failure - We Are Hallucinations (2022)	leg=0:1026996
 Fairy Tail: Dragon Cry (2017)	dub=0:1269245
-Fake Famous: Uma Experiência Surreal nas Redes	dub=2:648140
+Faith Hope And Love	leg=2:44557
+Fake Famous: Uma Experiência Surreal nas Redes	dub=2:133101,4:648140	leg=2:133081
 Fake Famous: Uma Experiência Surreal nas Redes (2021)	dub=0:1048405	leg=0:1029663
-Fake News - Made in Brazil	dub=2:647849
+Fake News - Made in Brazil	dub=2:246970,4:647849
 Fake News - Made in Brazil (2019)	dub=0:1049427
+Faking Beethoven	leg=2:365121
 Fala Comigo (2016)	dub=0:1270144
-Fala Serio Mae	dub=2:651870
+Fala Serio Mae	dub=2:20617,4:651870
 Fala Serio Mae (2017)	dub=0:1068238
-Falando Grego	dub=2:645362
+Falando Grego	dub=2:256646,4:645362
 Falando Grego (2009)	dub=0:1065468
-Falcons em Jogo	dub=2:655407
+Falcons em Jogo	dub=2:26587,4:655407
 Falcons em Jogo (2019)	dub=0:1057875
-Falcão - O Campeão dos Campeões	dub=2:649903
+Falcão - O Campeão dos Campeões	dub=2:20023,4:649903
 Falcão - O Campeão dos Campeões (1987)	dub=0:1047297
-Falcão Negro em Perigo	dub=2:649902,2:762737	leg=2:762503
+Falcão Negro em Perigo	dub=2:379459,2:314669,2:20024,4:649902,4:762737	leg=2:379458,2:314670,4:762503
 Falcão Negro em Perigo (2001)	dub=0:1066472	leg=0:1031727
-Falcões da Noite	dub=2:770346
+Falcões da Noite	dub=2:309523,4:770346	leg=2:309524
 Falcões da Noite (1981)	dub=0:1043877	leg=0:1029600
-Fale Comigo	dub=2:654712,2:897051,2:918165
+Fale Comigo	dub=2:380681,2:357572,2:219960,2:218878,4:654712,4:897051,4:918165	leg=2:380680,2:357571,2:216970
 Fale Comigo (2007)	dub=0:1267257	leg=0:1267191
 Fale Comigo (2023)	dub=0:1057461,0:1023254	leg=0:1023713
+Fale com as Abelhas	leg=2:199687
 Fallen (2016)	dub=0:1270341
 Fallen (2022)	dub=0:1269802
-Falling - Ainda Há Tempo	dub=2:652756
+Falling - Ainda Há Tempo	dub=2:169658,4:652756	leg=2:169674
 Falling - Ainda Há Tempo (2020)	dub=0:1041106	leg=0:1025819
+Fallout: A Lenha do Ghoul	leg=2:370710
 Fallout: A Lenha do Ghoul Legendado (2025)	dub=0:1258688
+Falsa Loura	dub=2:370336
 Falsa Loura (2007)	dub=0:1266588
+False Colors	leg=2:43824
 False Colors (2020)	leg=0:1249065
 False Positive (2021)	dub=0:1269952
-Falsidade	dub=2:647537
+Falsidade	dub=2:67486,4:647537
 Falsidade (2019)	dub=0:1058968
-Falsos Milionários	dub=2:653126
+Falsos Milionários	dub=2:134008,4:653126	leg=2:134002
 Falsos Milionários (2020)	dub=0:1052008	leg=0:1025731
-Fama a Qualquer Preço	dub=2:650424
+Fama a Qualquer Preço	dub=2:196776,4:650424	leg=2:196775
 Fama a Qualquer Preço (2018)	dub=0:1053844	leg=0:1025255
 Fama e Tragedia de um Astro Colombiano (2022)	dub=0:1265978
 Familia Addams 3 - O Retorno da Familia Addams (1998)	dub=0:1266805
 Familia Yakuza (2021)	dub=0:1266113
-Familia do Bagulho	dub=2:651868
+Familia do Bagulho	dub=2:20619,4:651868
 Familia do Bagulho (2013)	dub=0:1052129
-Familiye	dub=2:654088
+Familiye	dub=2:22117,4:654088
 Familiye (2017)	dub=0:1042415
 Family Gbese (2024)	dub=0:1270667	leg=0:1273017
-Famintos	dub=2:654616
+Famintos	dub=2:250615,4:654616
 Famintos (2017)	dub=0:1061325
-Família	dub=2:652272
+Família	dub=2:233517,4:652272	leg=2:320083,2:233518
 Família (2023)	dub=0:1041778	leg=0:1263078,0:1024998
-Família Craft e o Código da 20	dub=2:739604
+Família Craft e o Código da 20	dub=2:312355,4:739604
 Família Craft e o Código da 20 (2021)	dub=0:1055834
-Família Craft em Uma Aventura das Arábias	dub=2:739603
+Família Craft em Uma Aventura das Arábias	dub=2:312356,4:739603
 Família Craft em Uma Aventura das Arábias (2021)	dub=0:1057033
-Família Não Se Escolhe	dub=2:889825
+Família Não Se Escolhe	dub=2:347338,4:889825	leg=2:347337
 Família Não Se Escolhe (2022)	dub=0:1248780	leg=0:1249593
-Família de Aluguel	dub=2:905045
+Família de Aluguel 4K	dub=2:367089,2:367084,4:905045	leg=2:367083
 Família de Aluguel 4K (2025)	dub=0:1267749,0:1257220	leg=0:1267737
-Família à Prova de Balas	dub=2:884358
+Família à Prova de Balas	dub=2:337416,2:337414,4:884358	leg=2:337415,2:332845
 Família à Prova de Balas (2025)	dub=0:1249894,0:1036753	leg=0:1038584
-Família, Pero no Mucho	dub=2:884940
 Família, Pero no Mucho (2025)	dub=0:1249902,0:1036888	leg=0:1037070
-Fanfik	dub=2:652515
+Família, Pero no Mucho 4K	dub=2:336690,2:335545,4:884940	leg=2:335544
+Fanfik	dub=2:195258,4:652515	leg=2:195259
 Fanfik (2023)	dub=0:1041512	leg=0:1028328
 Fanmade ENHYPEN (2024)	dub=0:1266156
+Fanny Lye Deliverd	leg=2:63075
 Fanny Lye Deliverd (2019)	leg=0:1025498
-Fantasia	dub=2:646294
+Fantasia	dub=2:128542,4:646294
 Fantasia (1940)	dub=0:1039919
-Fantasia (2000)	dub=2:646291
+Fantasia (2000)	dub=2:128584,4:646291
 Fantasia 2000 (1999)	dub=0:1072306
-Fantasma	dub=2:736066
+Fantasma	dub=2:309525,4:736066	leg=2:309526
 Fantasma (1979)	dub=0:1060276	leg=0:1029781
 Fantasma Cidade Fantasma (2016)	dub=0:1269295
-Fantasma e CIA	dub=2:645245
+Fantasma e CIA 4K	dub=2:188908,2:187875,4:645245	leg=2:187874
 Fantasma e CIA 4K (2023)	dub=0:1249645,0:1057513	leg=0:1032142
-Fantasma no Cemitério	dub=2:822997
+Fantasma no Cemitério	dub=2:322827,4:822997	leg=2:322828
 Fantasma no Cemitério (2019)	dub=0:1058190	leg=0:1027361
-Fantasmas	dub=2:901213
+Fantasmas	dub=2:345087,4:901213	leg=2:345086
 Fantasmas (1998)	dub=0:1059577	leg=0:1023548
 Fantasmas Do Passado (2017)	dub=0:1270230
 Fantasmas da Guerra (1989)	dub=0:1270141
-Fantasmas de Guerra	dub=2:654897
+Fantasmas de Guerra	dub=2:174622,4:654897	leg=2:174621
 Fantasmas de Guerra (2020)	dub=0:1066046
-Fantasmas de Marte	dub=2:649259
+Fantasmas de Marte	dub=2:98399,4:649259
 Fantasmas de Marte (2001)	dub=0:1061199
-Fantasmas de Sugar Land	dub=2:648253
+Fantasmas de Sugar Land	dub=2:30391,4:648253
 Fantasmas de Sugar Land (2019)	dub=0:1049103
-Fantasmas do Passado	dub=2:654966
+Fantasmas do Passado	dub=2:155510,4:654966	leg=2:155497
 Fantasmas do Passado (2022)	dub=0:1070263	leg=0:1029904
-Fantasmas na Casa Branca	dub=2:846459
+Fantasmas na Casa Branca	dub=2:328473,4:846459	leg=2:328472
 Fantasmas na Casa Branca (2021)	dub=0:1048158	leg=0:1249529
-Fantasy Football	dub=2:650486
+Fantasy Football	dub=2:186479,4:650486	leg=2:186481
 Fantasy Football (2022)	dub=0:1067890	leg=0:1029550
-Fantástica - Uma Aventura no Mundo Boonie Bears	dub=2:646479
+Fantástica - Uma Aventura no Mundo Boonie Bears	dub=2:45091,4:646479
 Fantástica - Uma Aventura no Mundo Boonie Bears (2017)	dub=0:1063123
-Farejando Vingança	dub=2:648469
+Farejando Vingança	dub=2:244657,4:648469	leg=2:244658
 Farejando Vingança (2023)	dub=0:1043333	leg=0:1023760
-Farejando Vingança 2: Cidade dos Lobos	dub=2:900395,2:903678
+Farejando Vingança 2: Cidade dos Lobos	dub=2:359065,2:359063,4:900395,4:903678	leg=2:359064
 Farejando Vingança 2: Cidade dos Lobos 4K (2025)	dub=0:1266542
 Farejando Vingança 2: Cidade dos Lobos Legendado (2025)	dub=0:1254616
+Fargo: Uma Comédia de Erros	dub=2:95911
 Fargo: Uma Comédia de Erros (1996)	dub=0:1250011
-Faroeste Caboclo	dub=2:654290
+Faroeste Caboclo	dub=2:20987,4:654290
 Faroeste Caboclo (2013)	dub=0:1069328
-Farol da Ilusão	dub=2:735986
+Farol da Ilusão	dub=2:306700,4:735986	leg=2:306701
 Farol da Ilusão (2024)	dub=0:1039070	leg=0:1028782
 Farol das Orcas (2016)	dub=0:1271253
-Farrapo Humano	dub=2:884667
+Farrapo Humano	dub=2:343064,4:884667
 Farrapo Humano (1945)	dub=0:1040990
-Fartura	dub=2:647755
+Fartura	dub=2:286959,4:647755
 Fartura (2019)	dub=0:1048937
 Fascinacao Mortal 4 (2019)	dub=0:1267314
-Fascinacao Mortal A Vinganca	dub=2:647639
+Fascinacao Mortal A Vinganca	dub=2:22024,4:647639
 Fascinacao Mortal A Vinganca (2018)	dub=0:1049837
-Fascination Coral Reef: Mysterious Worlds Underwater	dub=2:648242
+Fascination Coral Reef: Mysterious Worlds Underwater	dub=2:31924,4:648242
 Fascination Coral Reef: Mysterious Worlds Underwater (2012)	dub=0:1049095
-Fascínio Perigoso	dub=2:901223,2:902516
+Fascínio Perigoso	dub=2:362262,4:901223,4:902516	leg=2:362261
 Fascínio Perigoso (2024)	dub=0:1266965	leg=0:1266960
-Fassbinder: Ascensão e Queda de um Gênio	dub=2:652751
+Fassbinder: Ascensão e Queda de um Gênio	dub=2:169683,4:652751	leg=2:169707
 Fassbinder: Ascensão e Queda de um Gênio (2020)	dub=0:1045604	leg=0:1028232
+Fast Charlie	leg=2:246189
 Fast Charlie (2023)	leg=0:1249124
-Faster: No Limite da Velocidade	dub=2:907859,2:910026
+Faster: No Limite da Velocidade	dub=2:370143,4:907859,4:910026	leg=2:370142
 Faster: No Limite da Velocidade (2025)	dub=0:1258244	leg=0:1266162
 Fatal Following (2021)	dub=0:1269651
 Fatal Fury 1 - Rei dos Lutadores (1992)	dub=0:1268907
 Fatal Fury 2 - O Desafio de Krauser (1993)	dub=0:1270472
-Fatal Fury 3: A Fúria	dub=2:896573
+Fatal Fury 3: A Fúria	dub=2:353925,4:896573	leg=2:353924
 Fatal Fury 3: A Fúria (1994)	dub=0:1265385	leg=0:1265398
-Fatale	dub=2:762749
+Fatale	dub=2:105240,4:762749	leg=2:91454
 Fatale (2020)	dub=0:1043752	leg=0:1035948
 Fate strange Fake Whispers of Dawn (2023)	dub=0:1270828
 Fate/stay night: Heaven's Feel I. Presage Flower (2017)	dub=0:1267477
 Fate: The Winx Saga - The Afterparty (2021)	dub=0:1266151
 FateGrand Order - Shuukyoku Tokuiten - Kani Jikan Shinden Solomon (2021)	dub=0:1264795
 Father of the Milky Way Railroad (2023)	dub=0:1265824
+Fathom	leg=2:112396
 Fathom (2021)	leg=0:1028007
 Fathom - Nas Profundezas (2021)	dub=0:1270206
-Fatos Estranhos	dub=2:823003
+Fatos Estranhos	dub=2:321266,4:823003	leg=2:321267
 Fatos Estranhos (2009)	dub=0:1044021	leg=0:1028526
 Faust (2011)	dub=0:1270367	leg=0:1273032
-Fausto Fawcett na Cabeça	dub=2:902731
+Fausto Fawcett na Cabeça	dub=2:363494,4:902731
 Fausto Fawcett na Cabeça (2022)	dub=0:1267090
+Favela Gay	dub=2:370337
 Favela Gay (2014)	dub=0:1266587
-Favela é Moda	dub=2:647777
+Favela é Moda	dub=2:281506,4:647777
 Favela é Moda (2019)	dub=0:1049302
+Faye	leg=2:275502
 Faye (2024)	dub=0:1271080	leg=0:1035304
 Faz De Conta Que e Paris (2024)	dub=0:1271735	leg=0:1036553
-Fazendo Meu Filme	dub=2:644293
+Faz De Conta Que É Paris	leg=2:345477
+Fazendo Meu Filme	dub=2:247312,4:644293	leg=2:247313
 Fazendo Meu Filme (2024)	dub=0:1064405	leg=0:1026595
-Faça Ela Voltar	dub=2:884994
+Faça Ela Voltar	dub=2:343211,4:884994	leg=2:343210,2:332844
 Faça Ela Voltar (2025)	dub=0:1037151	leg=0:1037742
-Faça Sua Jogada	dub=2:648672
+Faça Sua Jogada	dub=2:175804,4:648672
 Faça Sua Jogada (2017)	dub=0:1047259
-Faça Um Desejo!	dub=2:645078
+Faça Um Desejo!	dub=2:173302,4:645078	leg=2:173309
 Faça Um Desejo! (2020)	dub=0:1067519	leg=0:1032987
-Faça o Que Eu Digo, Não Faça o Que Eu Faço	dub=2:650163
+Faça o Que Eu Digo, Não Faça o Que Eu Faço	dub=2:257371,4:650163
 Faça o Que Eu Digo, Não Faça o Que Eu Faço (2008)	dub=0:1055269
-Fe Demais Nao Cheira Bem	dub=2:651196
+Fe Demais Nao Cheira Bem	dub=2:96022,4:651196
 Fe Demais Nao Cheira Bem (1992)	dub=0:1065043
 Fear 2 - Uma Noite de Halloween (1999)	dub=0:1273168
+Febre Espacial	leg=2:275503
 Febre Espacial (2024)	dub=0:1266059	leg=0:1035007
-Febre de Juventude	dub=2:651187
+Febre de Juventude	dub=2:96892,4:651187
 Febre de Juventude (1978)	dub=0:1072200
-Febre do Rato	dub=2:770461
+Febre do Rato	dub=2:314671,4:770461
 Febre do Rato (2012)	dub=0:1041979
-Febre em Ibiza	dub=2:896941
+Febre em Ibiza	dub=2:357574,4:896941	leg=2:357573
 Febre em Ibiza (2013)	dub=0:1265917	leg=0:1268485
 Federer Doze Ultimos Dias (2024)	dub=0:1271935	leg=0:1035226
+Federer: Doze Últimos Dias	leg=2:266647
+Fedrelandet	leg=2:264119
 Fedrelandet (2023)	dub=0:1270652	leg=0:1035337
-Feed: O Terror está Online	dub=2:654630
+Feed: O Terror está Online	dub=2:246547,4:654630	leg=2:246548
 Feed: O Terror está Online (2022)	dub=0:1057759	leg=0:1031151
-Feel the Beat	dub=2:651364
+Feel the Beat	dub=2:48184,4:651364
 Feel the Beat (2020)	dub=0:1072003
 Feels Good Man (2020)	dub=0:1271097
-Feios	dub=2:644562	leg=2:670745
+Feios	dub=2:285812,4:644562	leg=2:285813,4:670745
 Feios (2024)	dub=0:1056449	leg=0:1024958
-Feira da Ladra	dub=2:910635
+Feira da Ladra	dub=2:373376,4:910635
 Feira da Ladra (2023)	dub=0:1272150
-Feitico	dub=2:649280
+Feitico	dub=2:97178,4:649280
 Feitico (2020)	dub=0:1039270
-Feitiçaria	dub=2:654727
+Feitiçaria	dub=2:213952,4:654727	leg=2:213951
 Feitiçaria (2023)	dub=0:1039425	leg=0:1036026
-Feitiço das Trevas	dub=2:655001
+Feitiço das Trevas	dub=2:144070,4:655001	leg=2:144088
 Feitiço das Trevas (2021)	dub=0:1057977	leg=0:1249332
-Feitiço do Rio	dub=2:650812
+Feitiço do Rio	dub=2:139239,4:650812
 Feitiço do Rio (1984)	dub=0:1065500
-Feitiço do Tempo	dub=2:645667
+Feitiço do Tempo	dub=2:110815,4:645667
 Feitiço do Tempo (1993)	dub=0:1039190
-Feito Cães e Gatos	dub=2:651093
+Feito Cães e Gatos	dub=2:105241,4:651093
 Feito Cães e Gatos (1996)	dub=0:1065433
-Feito na América	dub=2:649901
+Feito na América	dub=2:20025,4:649901
 Feito na América (2017)	dub=0:1047252
-Feitos de Plástico	dub=2:647728	leg=2:670460
+Feitos de Plástico	dub=2:294917,4:647728	leg=2:294918,4:670460
 Feitos de Plástico (2024)	dub=0:1048625	leg=0:1031649
-Felicidade para Principiantes	dub=2:645435
+Felicidade para Principiantes	dub=2:204496,4:645435	leg=2:204495
 Felicidade para Principiantes (2023)	dub=0:1055940	leg=0:1036327
-Felicidade por um Fio	dub=2:651867
+Felicidade por um Fio	dub=2:20620,4:651867
 Felicidade por um Fio (2018)	dub=0:1065655
-Felicidade sob a Árvore de Natal	dub=2:645054
+Felicidade sob a Árvore de Natal	dub=2:185249,4:645054	leg=2:185250
 Felicidade sob a Árvore de Natal (2021)	dub=0:1050217	leg=0:1030842
-Felicidade é Um Cobertor Quente, Charlie Brown	dub=2:818328
+Felicidade é Um Cobertor Quente, Charlie Brown	dub=2:323978,4:818328	leg=2:323977
 Felicidade é Um Cobertor Quente, Charlie Brown (2011)	dub=0:1061480	leg=0:1033847
-Felicidade é...	dub=2:652048	leg=2:670598
+Felicidade é...	dub=2:291153,4:652048	leg=2:291154,4:670598
 Felicidade é... (2024)	dub=0:1064566	leg=0:1027412
-Felinos da Tailândia	dub=2:648076
+Felinos da Tailândia	dub=2:162353,2:162352,4:648076
 Felinos da Tailândia (2021)	dub=0:1048214
-Felix E O Tesouro de Morga	dub=2:645099
+Felix E O Tesouro de Morga	dub=2:156691,4:645099
 Felix E O Tesouro de Morga (2021)	dub=0:1061766
-Felix, o Coelho de Brinquedo e a Máquina do Tempo	dub=2:762767
+Felix, o Coelho de Brinquedo e a Máquina do Tempo	dub=2:311925,4:762767
 Felix, o Coelho de Brinquedo e a Máquina do Tempo (2006)	dub=0:1061792
-Feliz Aniversário Para Mim	dub=2:901126
+Feliz Aniversário Para Mim	dub=2:353000,4:901126	leg=2:352999
 Feliz Aniversário Para Mim (1981)	dub=0:1265194	leg=0:1265200
-Feliz Ano Nosso	dub=2:650518
+Feliz Ano Nosso	dub=2:182906,4:650518	leg=2:182903
 Feliz Ano Nosso (2022)	dub=0:1064175	leg=0:1249323
 Feliz Ano Novo, Charlie Brown (1986)	dub=0:1272964
-Feliz Ano Novo... de Novo	dub=2:645051
 Feliz Ano Novo... de Novo (2023)	dub=0:1049485,0:1022827
+Feliz Ano Novo... de Novo 4K	dub=2:244659,2:185307,4:645051
 Feliz Ano Velho (1987)	dub=0:1271767
-Feliz Assalto!	dub=2:900580,2:901329
+Feliz Assalto! 4K	dub=2:354142,2:354014,4:900580,4:901329	leg=2:354013
 Feliz Assalto! 4K (2025)	dub=0:1265468,0:1254090	leg=0:1265406
-Feliz Halloween Scooby-Doo!	dub=2:646449
+Feliz Halloween Scooby-Doo!	dub=2:75052,4:646449
 Feliz Halloween Scooby-Doo! (2020)	dub=0:1061539
-Feliz Natal	dub=2:653439,2:884954,2:900618
+Feliz Natal	dub=2:353475,2:328979,4:653439,4:884954,4:900618	leg=2:353474
 Feliz Natal (2005)	dub=0:1066737	leg=0:1265269
 Feliz Natal (2008)	dub=0:1042722
+Feliz Segunda	leg=2:322810
 Feliz Segunda (2025)	leg=0:1038282
 Feliz Segundas (2025)	dub=0:1271162
-Felon	dub=2:762750
+Felon	dub=2:103988,4:762750
 Felon (2008)	dub=0:1047316
-Felpudo - O Cachorro Promotor	dub=2:896966
+Felpudo - O Cachorro Promotor	dub=2:354224,4:896966	leg=2:354223
 Felpudo - O Cachorro Promotor (1976)	dub=0:1265412	leg=0:1265525
-Feminices	dub=2:889806
+Feminices	dub=2:348153,4:889806
 Feminices (2004)	dub=0:1248753
-Feministas - O Que Elas Estavam Pensando	dub=2:648272
+Feministas - O Que Elas Estavam Pensando	dub=2:22580,4:648272
 Feministas - O Que Elas Estavam Pensando (2018)	dub=0:1048942
-Fendas	dub=2:644348
+Fendas	dub=2:194879,4:644348
 Fendas (2021)	dub=0:1042388
-Fenômeno	dub=2:652720
+Fenômeno	dub=2:174952,4:652720
 Fenômeno (1996)	dub=0:1061207
+Fenômeno no Gelo: Hóquei na Guerra Fria	leg=2:365295
 Fenômeno no Gelo: Hóquei na Guerra Fria (2026)	leg=0:1267552
-Fenômenos Paranormais	dub=2:655326
+Fenômenos Paranormais	dub=2:47451.mkv,4:655326
 Fenômenos Paranormais (2011)	dub=0:1044493
-Fenômenos Paranormais 2	dub=2:788295.mkv
+Fenômenos Paranormais 2	dub=2:47453.mkv,4:788295.mkv
 Fenômenos Paranormais 2 (2012)	dub=0:1249956
-Feras no Jardim	dub=2:897055,2:900477
+Feras no Jardim	dub=2:356887,4:897055,4:900477	leg=2:356886
 Feras no Jardim (2025)	dub=0:1254730	leg=0:1264654
 Feras no Limite (2026)	dub=0:1293734
-Feriado Sangrento	dub=2:654647
 Feriado Sangrento (2023)	dub=0:1069438,0:1000515	leg=0:1024387
-Ferias Frustradas	dub=2:651865
+Feriado Sangrento 4K	dub=2:236323,2:236319,4:654647	leg=2:236320
+Ferias Frustradas	dub=2:20622,4:651865
 Ferias Frustradas (1985)	dub=0:1056856
 Ferias Frustradas (2015)	dub=0:1270512
 Ferias Frustradas de Natal (1989)	dub=0:1264796
-Ferias Frustradas de Verao	dub=2:651866
+Ferias Frustradas de Verao	dub=2:20621,4:651866
 Ferias Frustradas de Verao (2009)	dub=0:1065319
 Ferias da Pesada (1985)	dub=0:1269648
-Ferias do Barulho	dub=2:651864
+Ferias do Barulho	dub=2:20623,4:651864
 Ferias do Barulho (1985)	dub=0:1055376
-Ferida	dub=2:653042
+Ferida 4K	dub=2:189898,2:140720,4:653042	leg=2:140719
 Ferida 4K (2021)	dub=0:1249710,0:1041226	leg=0:1025125
 Fernanda Brum - Da Eternidade Ao Vivo em Israel (2016)	dub=0:1264670
-Fernanda Young: Foge-me ao Controle	dub=2:647744
+Fernanda Young: Foge-me ao Controle	dub=2:291155,4:647744
 Fernanda Young: Foge-me ao Controle (2024)	dub=0:1048121
+Fernandinho - Galileu	dub=2:21961
 Fernandinho - Galileu (2017)	dub=0:1072384
+Fernando	dub=2:336827
 Fernando (2017)	dub=0:1048789
 Fernão de Magalhães (2025)	dub=0:1258742
-Ferrari	dub=2:652187
+Ferrari	dub=2:256266,4:652187	leg=2:246190
 Ferrari (2023)	dub=0:1045588,0:1023343	leg=0:1027630
 Ferrari – Rumo à Imortalidade (2017)	dub=0:1269660
 Ferrugem (2018)	dub=0:1271647
-Ferry	dub=2:649099
+Ferry	dub=2:106469,4:649099
 Ferry (2021)	dub=0:1047619
-Ferry 2	dub=2:644796	leg=2:670272
+Ferry 2	dub=2:300134,4:644796	leg=2:300135,4:670272
 Ferry 2 (2024)	dub=0:1046475	leg=0:1030160
-Fervo	dub=2:739602	leg=2:762619
+Fervo	dub=2:312357,4:739602	leg=2:312358,4:762619
 Fervo (2023)	dub=0:1039430	leg=0:1032516
 Festa da Salsicha (2016)	dub=0:1269068
-Festa do Pijama Muito Louca	dub=2:650302
+Festa do Pijama Muito Louca	dub=2:224992,4:650302
 Festa do Pijama Muito Louca (2023)	dub=0:1067144
-Festa no Ceu	dub=2:646683
+Festa no Ceu	dub=2:20360,4:646683
 Festa no Ceu (2014)	dub=0:1062359
-Festa no Covil	dub=2:650155
+Festa no Covil	dub=2:259003,4:650155	leg=2:259004
 Festa no Covil (2024)	dub=0:1054122	leg=0:1035275
 Festim Diabolico (1948)	dub=0:1267239
 Festival Charlie Chaplin (1941)	dub=0:1264784
-Festival Eurovision da Canção: A Saga de Sigrit e Lars	dub=2:651359
+Festival Eurovision da Canção: A Saga de Sigrit e Lars	dub=2:48261,4:651359
 Festival Eurovision da Canção: A Saga de Sigrit e Lars (2020)	dub=0:1071639
-Festival Sangrento	dub=2:651345
+Festival Sangrento	dub=2:63105,4:651345
 Festival Sangrento (2018)	dub=0:1058799
-Festival de Artes de Hazelton	dub=2:906598
+Festival de Artes de Hazelton	dub=2:368119,4:906598
 Festival de Artes de Hazelton (2024)	dub=0:1268128
-Fetiches	dub=2:650681
+Fetiches	dub=2:159955,4:650681	leg=2:159954
 Fetiches (2021)	dub=0:1064209	leg=0:1026307
 Fica a Vontade Agora Vaza (2025)	dub=0:1270020
-Ficção Americana	dub=2:650126,2:650207
+Ficção Americana	dub=2:266017,2:266016,4:650126,4:650207	leg=2:266018
 Ficção Americana 4K (2023)	dub=0:1249664,0:1053247	leg=0:1249114
+Fidel Castro: O Homem mais Vigiado do Mundo	dub=2:339934
 Fidel Castro: O Homem mais Vigiado do Mundo (2015)	dub=0:1048200
 Fievel – Um Conto Americano (1986)	dub=0:1269962
-Fight or Flight	dub=2:884585
+Fight or Flight	dub=2:320770,4:884585	leg=2:320769
 Fight or Flight (2025)	dub=0:1037894	leg=0:1249941
-Filadélfia	dub=2:653820
+Filadélfia	dub=2:42918,4:653820
 Filadélfia (1993)	dub=0:1042313
 Filha de Deus (2016)	dub=0:1269071
-Filha do Mal	dub=2:655543
+Filha do Mal	dub=2:344557,2:21739,4:655543	leg=2:344556
 Filha do Mal (2012)	dub=0:1059251	leg=0:1023466
 Filha do Prisioneiro (2023)	dub=0:1271002
-Filhas	leg=2:670854
+Filhas	leg=2:282082,4:670854
 Filhas (2024)	dub=0:1268505	leg=0:1026523
-Filhas Roubadas: Sequestro pelo Boko Haram	dub=2:647976
+Filhas Roubadas: Sequestro pelo Boko Haram	dub=2:200571,4:647976	leg=2:200570
 Filhas Roubadas: Sequestro pelo Boko Haram (2018)	dub=0:1048724	leg=0:1249062
-Filhas do Sol	dub=2:653934
+Filhas do Sol	dub=2:31579,4:653934
 Filhas do Sol (2018)	dub=0:1066809
-Filhas, Deu Ruim!	dub=2:918158
+Filhas, Deu Ruim!	dub=2:381387,4:918158	leg=2:381386
 Filhas, Deu Ruim! (2026)	dub=0:1261586	leg=0:1272755
-Filhinho da Mamãe	dub=2:650883
+Filhinho da Mamãe	dub=2:131008,4:650883
 Filhinho da Mamãe (2007)	dub=0:1040710
-Filho Nativo	dub=2:652222
+Filho Nativo	dub=2:250658,2:250657,4:652222	leg=2:250659
 Filho Nativo (2019)	dub=0:1040477,0:1022795	leg=0:1033013
-Filho da Mãe	dub=2:648037
+Filho da Mãe	dub=2:182302,2:182298,4:648037
 Filho da Mãe (2022)	dub=0:1047981,0:1023224
-Filho das Sombras	dub=2:901134
+Filho das Sombras	dub=2:352911,4:901134	leg=2:352910
 Filho das Sombras (2019)	dub=0:1265097	leg=0:1265091
+Filho de Boi	dub=2:375047
 Filho de Boi (2024)	dub=0:1272252
-Filho do Crime	dub=2:652502
+Filho do Crime	dub=2:196756,4:652502
 Filho do Crime (2021)	dub=0:1042636
 Filhos da Dinamarca (2019)	dub=0:1271325
-Filhos da Esperanca	dub=2:654289
+Filhos da Esperanca	dub=2:20989,4:654289
 Filhos da Esperanca (2006)	dub=0:1059636
-Filhos da Guerra	dub=2:884818
+Filhos da Guerra	dub=2:323695,4:884818	leg=2:323694
 Filhos da Guerra (1990)	dub=0:1066315	leg=0:1036096
-Filhos da Violência	dub=2:770404
+Filhos da Violência	dub=2:318625,4:770404	leg=2:318626
 Filhos da Violência (2021)	dub=0:1051585	leg=0:1029914
-Filhos de Istambul	dub=2:653535
+Filhos de Istambul	dub=2:98251,4:653535
 Filhos de Istambul (2021)	dub=0:1042695
-Filhos de Ninguém	dub=2:652628
+Filhos de Ninguém	dub=2:185191,4:652628	leg=2:185192
 Filhos de Ninguém (2018)	dub=0:1041700	leg=0:1029082
 Filhos do Ecstasy (2025)	dub=0:1269741
 Filhos do Paraiso (1997)	dub=0:1271054
-Filhos do Privilégio	dub=2:654975
+Filhos do Privilégio	dub=2:149595,4:654975	leg=2:149594
 Filhos do Privilégio (2022)	dub=0:1058506	leg=0:1026890
-Filhos do Verão	dub=2:896559,2:900509
+Filhos do Verão	dub=2:355560,4:896559,4:900509	leg=2:355559
 Filhos do Verão (2023)	dub=0:1265680	leg=0:1265684
-Filhos do Ódio	dub=2:653139
+Filhos do Ódio	dub=2:133776,4:653139	leg=2:133767
 Filhos do Ódio (2021)	dub=0:1045573	leg=0:1036166
 Film balkonowy (2021)	dub=0:1269194
-Filmando Casablanca	dub=2:653837
+Filmando Casablanca	dub=2:41987,4:653837
 Filmando Casablanca (2019)	dub=0:1045862
-Filme B A Bonequinha Da Mamae	dub=2:655369
-Fim da Estrada	dub=2:647365
+Filme B A Bonequinha Da Mamae	dub=2:33374,4:655369
+Fim da Estrada	dub=2:172033,4:647365	leg=2:172041
 Fim da Estrada (2022)	dub=0:1043423	leg=0:1025890
-Fim da Linha	dub=2:654847
+Fim da Linha	dub=2:185842,4:654847	leg=2:185813
 Fim da Linha (2016)	dub=0:1273236
 Fim da Linha (2021)	dub=0:1051729	leg=0:1025340
-Fim da Sentença	dub=2:668760
+Fim da Sentença	dub=2:144059,4:668760	leg=2:144036
 Fim da Sentença (2019)	dub=0:1248880	leg=0:1035302
-Fim de Caso	dub=2:736097	leg=2:762650
+Fim de Caso	dub=2:311849,4:736097	leg=2:311850,4:762650
 Fim de Caso (1999)	dub=0:1064541	leg=0:1027989
-Fim de Festa	dub=2:653788,2:770460
+Fim de Festa	dub=2:314672,2:44610,4:653788,4:770460
 Fim de Festa (2019)	dub=0:1052187
-Fim do Mundo	dub=2:646973
+Fim do Mundo	dub=2:377225,2:23232,4:646973	leg=2:377224
 Fim do Mundo (2019)	dub=0:1055772	leg=0:1268419
-Fim dos Tempos	dub=2:649900
+Fim dos Tempos	dub=2:20026,4:649900
 Fim dos Tempos (2012)	dub=0:1060612
 Final Fantasy (2001)	dub=0:1270185
 Final Fantasy VII: Advent Children Complete (2005)	dub=0:1269675
-Final Feliz	dub=2:650334
+Final Feliz	dub=2:216030,4:650334	leg=2:216031
 Final Feliz (2018)	dub=0:1053984	leg=0:1034589
+Final Kill	leg=2:43825
 Final Kill (2020)	leg=0:1029227
 Final Recovery (2025)	dub=0:1265984
 Finale Diversao Mortal (2018)	dub=0:1268916
 Finalmente 18 (2013)	dub=0:1271196
+Finalmente Você	leg=2:378011
 Finalmente Você Legendado (2026)	dub=0:1260486
-Finch	dub=2:644719
+Finch 4K	dub=2:359665,2:136756,4:644719	leg=2:136790
 Finch 4K (2021)	dub=0:1266640,0:1059961	leg=0:1025165
+Finding Agnes	leg=2:89013
 Finding Agnes (2020)	leg=0:1034145
+Finding Harmony: A King's Vision	leg=2:365781
 Finding Harmony: A King's Vision (2026)	leg=0:1265051
 Finding Nicole (2025)	dub=0:1266867
-Finding You	dub=2:645615
+Finding You	dub=2:141476,4:645615	leg=2:141480
 Finding You (2021)	dub=0:1064330	leg=0:1026904
-Finestkind	dub=2:644852
+Finestkind 4K	dub=2:233513,2:233512,4:644852	leg=2:233507
 Finestkind 4K (2023)	dub=0:1249660,0:1051672	leg=0:1029946
-Finja-se de Morta	dub=2:907976
+Finja-se de Morta	dub=2:370302,4:907976	leg=2:370301
 Finja-se de Morta (2025)	dub=0:1258559	leg=0:1266483
-Fique Acordado	dub=2:654457	leg=2:670706
+Fique Acordado	dub=2:286962,4:654457	leg=2:286965,4:670706
 Fique Acordado (2024)	dub=0:1060309
-Fique Rico ou Morra Tentando	dub=2:654288
+Fique Rico ou Morra Tentando	dub=2:20990,4:654288
 Fique Rico ou Morra Tentando (2005)	dub=0:1072084
-Fire Island: Orgulho & Sedução	dub=2:650664
+Fire Island: Orgulho & Sedução	dub=2:161541,2:161540,4:650664
 Fire Island: Orgulho & Sedução (2022)	dub=0:1063705
+Fire Supply	leg=2:322724
 Fire Supply (2024)	dub=0:1270238	leg=0:1030854
+Fireball	dub=2:382400
 Fireball (2009)	dub=0:1272796,0:1270783
-Firebrand	leg=2:670799
+Firebrand	leg=2:284328,4:670799
 Firebrand (2024)	leg=0:1249121
 Firecracker (2024)	dub=0:1269583
 Firewall Seguranca em Risco (2006)	dub=0:1269871
+Fireworks	leg=2:246944
+First Cow	leg=2:62557
 First Cow (2020)	leg=0:1025318
 First Date (2021)	dub=0:1271445
-First Love: Descobrindo o Amor	dub=2:645521
+First Love: Descobrindo o Amor	dub=2:171341,4:645521	leg=2:171343
 First Love: Descobrindo o Amor (2022)	dub=0:1064178	leg=0:1030943
-First Shift	leg=2:670767
+First Shift	leg=2:285083,4:670767
 First Signal (2021)	dub=0:1270793
-Fitas Proibidas - Antologia do Terror	dub=2:913184
+Fitas Proibidas - Antologia do Terror	dub=2:375093,4:913184	leg=2:375092
 Fitas Proibidas - Antologia do Terror (2024)	dub=0:1272280	leg=0:1272291
 Fittest on Earth Next Gen (2022)	dub=0:1269586
 Fittest on Earth Retro Active (2023)	dub=0:1269842
+Five Feet Apart Legendado	dub=2:23739
 Five Feet Apart Legendado (2019)	dub=0:1248849
-Five Nights at Freddy's - O Pesadelo Sem Fim	dub=2:654654
+Five Nights at Freddy's - O Pesadelo Sem Fim	dub=2:233516,2:233508,4:654654	leg=2:226991
 Five Nights at Freddy's - O Pesadelo Sem Fim (2023)	dub=0:1044973,0:1022417	leg=0:1030851
-Five Nights at Freddy's 2	dub=2:900365,2:901068
+Five Nights at Freddy's 2 4K	dub=2:360043,2:359667,4:900365,4:901068	leg=2:359666,2:359057
 Five Nights at Freddy's 2 4K (2025)	dub=0:1266726,0:1255532
 Five Nights at Freddy's 2 Legendado (2025)	dub=0:1255177
-Fixies - Amigos Secretos	dub=2:646487
+Fixies - Amigos Secretos	dub=2:43806,4:646487
 Fixies - Amigos Secretos (2017)	dub=0:1063084
-Fiéis	dub=2:647288
+Fiéis	dub=2:195255,4:647288	leg=2:195254
 Fiéis (2022)	dub=0:1069764	leg=0:1027759
-Flag Day: Lembranças Perdidas	dub=2:652744
+Flag Day: Lembranças Perdidas	dub=2:169761,4:652744	leg=2:169760
 Flag Day: Lembranças Perdidas (2021)	dub=0:1051903	leg=0:1023737
 Flamengo Paixao (1980)	dub=0:1270534
-Flamin' Hot: O Sabor que Mudou a História	dub=2:650419
 Flamin' Hot: O Sabor que Mudou a História (2023)	dub=0:1045060,0:1022336	leg=0:1034075
-Flamingos: A Vida Depois do Meteorito	dub=2:924510
+Flamin' Hot: O Sabor que Mudou a História 4K	dub=2:198179,2:197653,4:650419	leg=2:197652
+Flamingos: A Vida Depois do Meteorito	dub=4:924510
 Flash Gordon (1980)	dub=0:1270548
-Flashdance - Em Ritmo de Embalo	dub=2:653735
+Flashdance - Em Ritmo de Embalo	dub=2:63076,4:653735
 Flashdance - Em Ritmo de Embalo (1983)	dub=0:1065192
-Flashpoint	dub=2:648553
+Flashpoint	dub=2:210675,4:648553
 Flashpoint (2007)	dub=0:1047909
-Flechas da Vingança	dub=2:885117
+Flechas da Vingança	dub=2:349732,4:885117	leg=2:349731
 Flechas da Vingança (2022)	dub=0:1046092	leg=0:1023453
-Flee: Nenhum Lugar Para Chamar de Lar	dub=2:648070
+Flee: Nenhum Lugar Para Chamar de Lar	dub=2:165686,4:648070	leg=2:165687
 Flee: Nenhum Lugar Para Chamar de Lar (2021)	dub=0:1049433	leg=0:1024264
+Fleuve Noir	leg=2:33375
 Fleuve Noir (2018)	leg=0:1029671
-Flicka	dub=2:653337
+Flicka	dub=2:355726,2:111456,4:653337	leg=2:355725
 Flicka (2006)	dub=0:1067348	leg=0:1265738
-Flicka 2	dub=2:653336
+Flicka 2	dub=2:111457,4:653336
 Flicka 2 (2010)	dub=0:1068687
-Flicka 3	dub=2:653335
+Flicka 3	dub=2:111458,4:653335
 Flicka 3 (2012)	dub=0:1068135
+Floor Jansen: Live in Amsterdam	dub=2:202587
 Floor Jansen: Live in Amsterdam (2021)	dub=0:1072189
-Flops: Agentes Nada Secretos	dub=2:651255
+Flops: Agentes Nada Secretos	dub=2:92005,4:651255
 Flops: Agentes Nada Secretos (2020)	dub=0:1055498
-Flor de Cacto	dub=2:762921
+Flor de Cacto	dub=2:309527,4:762921
 Flor de Cacto (1969)	dub=0:1065404
-Flora e Filho: Música em Família	dub=2:650326
+Flora e Filho - Música em Família 4K	dub=2:367697,2:217198,2:217197,4:650326	leg=2:217196
 Flora e Filho: Música em Família 4K (2023)	dub=0:1249722,0:1071409	leg=0:1032417
-Flora e Ulysses	dub=2:649311
+Flora e Ulysses	dub=2:95943,4:649311
 Flora e Ulysses (2021)	dub=0:1039782
-Florence: Quem é Essa Mulher?	dub=2:762867	leg=2:762495
+Florence: Quem é Essa Mulher?	dub=2:314690,4:762867	leg=2:314691,4:762495
 Florence: Quem é Essa Mulher? (2016)	dub=0:1054309	leg=0:1026209
+Flores Partidas	dub=2:369401	leg=2:369400
 Flores Partidas (2005)	dub=0:1272460	leg=0:1272406
-Flores Raras	dub=2:884763
+Flores Raras	dub=2:333270,4:884763	leg=2:333269
 Flores Raras (2013)	dub=0:1064771	leg=0:1249322
-Flores de Natal	dub=2:645737
+Flores de Natal	dub=2:31898,4:645737
 Flores de Natal (2018)	dub=0:1049704
-Florescendo	dub=2:652124
+Florescendo	dub=2:267748,2:267747,4:652124	leg=2:267749
 Florescendo (2024)	dub=0:1040505,0:1022499	leg=0:1031835
 Floresta Maldita (2016)	dub=0:1269772
 Floresta Negra (1997)	dub=0:1265234
-Floresta dos Suicidas	dub=2:654927
+Floresta dos Suicidas	dub=2:162989,4:654927
 Floresta dos Suicidas (2013)	dub=0:1049879
 Florida Shark Blood in the Water (2023)	dub=0:1265417
-Florida Shark: Blood in the Water	dub=2:647723
-Flow	dub=2:645926
+Florida Shark: Blood in the Water	dub=2:296747,4:647723
 Flow (2024)	dub=0:1066944,0:1022763
+Flow 4K	dub=2:314464,2:314463,2:301844,2:300136,4:645926
 Flubber: Uma Invenção Desmiolada (1997)	dub=0:1273203
-Fluidity	dub=2:652843
+Fluidity	dub=2:160606,4:652843	leg=2:160607
 Fluidity (2019)	dub=0:1041453	leg=0:1026913
+Flummels: Extintos!	dub=2:139259	leg=2:139244
 Flummels: Extintos! (2021)	dub=0:1061516	leg=0:1031461
 Flutuacao (2019)	dub=0:1270528	leg=0:1273042
-Flutuar	dub=2:645352,2:884762
+Flutuar	dub=2:333272,2:261336,4:645352,4:884762	leg=2:333271
 Flutuar (2019)	dub=0:1061874	leg=0:1026428
 Flutuar (2024)	dub=0:1065311,0:1023378	leg=0:1036352
 Flux Gourmet (2022)	dub=0:1267873
-Fluxo	dub=2:644306
+Fluxo	dub=2:230300,4:644306
 Fluxo (2023)	dub=0:1042745
-Fly	dub=2:647752	leg=2:670690
 Fly (2024)	dub=0:1047999,0:1022964	leg=0:1032090
+Fly 4K	dub=2:288513,2:287379,4:647752	leg=2:287380,4:670690
 Fly Away with Me (2021)	dub=0:1291009
-Flyboys	dub=2:649447
+Flyboys	dub=2:89505,4:649447
 Flyboys (2006)	dub=0:1066528
-Flypaper - Os Desajustados	dub=2:648887
+Flypaper - Os Desajustados	dub=2:134109,4:648887
 Flypaper - Os Desajustados (1998)	dub=0:1046369
-Fogaréu	dub=2:644353
+Fogaréu	dub=2:193074,4:644353
 Fogaréu (2022)	dub=0:1042761
 Fogg (2018)	dub=0:1268555
-Fogo Contra Fogo	dub=2:649401,2:921104
+Fogo Contra Fogo	dub=2:92575,4:649401,4:921104
 Fogo Contra Fogo (1995)	dub=0:1052836
-Fogo Cruzado	dub=2:648815,2:762739	leg=2:762529
+Fogo Cruzado	dub=2:314001,2:146817,4:648815,4:762739	leg=2:314002,2:146814,4:762529
 Fogo Cruzado (2021)	dub=0:1051905	leg=0:1028953
 Fogo Cruzado (2023)	dub=0:1047032	leg=0:1249366
 Fogo Sombrio (2020)	dub=0:1268636
 Fogo nas Montahas (2022)	dub=0:1271362
-Fogo no Coração	dub=2:652908
+Fogo no Coração	dub=2:151971,4:652908	leg=2:151994
 Fogo no Coração (2018)	dub=0:1045562	leg=0:1030679
-Fogo no Céu	dub=2:822973
+Fogo no Céu	dub=2:322829,4:822973
 Fogo no Céu (1993)	dub=0:1039756
-Fogo vs Fogo	dub=2:896612
+Fogo vs Fogo	dub=2:349734,4:896612	leg=2:349733
 Fogo vs Fogo (2022)	dub=0:1052864	leg=0:1036337
 Foguete (2020)	dub=0:1268583
+Foi Apenas Um Acidente	leg=2:358142
 Foi Apenas Um Acidente (2025)	leg=0:1266339,0:1266261
-Foi Apenas Um Sonho	dub=2:653431
+Foi Apenas Um Sonho	dub=2:104409,4:653431
 Foi Apenas Um Sonho (2008)	dub=0:1064958
 Foi sem Querer (1997)	dub=0:1269062
+Foi um Prazer	leg=2:246988
 Foi um Prazer (2023)	leg=0:1030824
-Foi um Rápido Verão, Charlie Brown	dub=2:818327
+Foi um Rápido Verão, Charlie Brown	dub=2:323980,4:818327	leg=2:323979
 Foi um Rápido Verão, Charlie Brown (1969)	dub=0:1050371	leg=0:1031175
-Foi um Tempo de Dor	dub=2:884925
+Foi um Tempo de Dor	dub=2:339763,4:884925
 Foi um Tempo de Dor (2023)	dub=0:1072478
+Folhas de Outono	leg=2:249703,2:246188
 Folhas de Outono (2023)	dub=0:1271703	leg=0:1030525
+Follow Me	leg=2:90736
 Follow Me (2020)	leg=0:1032892
-Followed: Influência Maligna	dub=2:655235
+Followed: Influência Maligna	dub=2:96847,4:655235
 Followed: Influência Maligna (2020)	dub=0:1069593
+Following	leg=2:363800
 Following (2024)	leg=0:1267115
 Fome Animal (1992)	dub=0:1270910
+Fome de Amor	dub=2:378045
 Fome de Amor (1968)	dub=0:1268886
-Fome de Poder	dub=2:654287
+Fome de Poder	dub=2:20991,4:654287
 Fome de Poder (2016)	dub=0:1045766
-Fome de Sucesso	dub=2:652548
+Fome de Sucesso	dub=2:191479,4:652548	leg=2:191481
 Fome de Sucesso (2023)	dub=0:1041783	leg=0:1034651
 Fomos Cancoes (2021)	dub=0:1268979
-Fomos Canções	dub=2:645643
-Fomos Heróis	dub=2:648763
+Fomos Canções	dub=2:130259,4:645643	leg=2:130238
+Fomos Heróis	dub=2:157975,4:648763
 Fomos Heróis (2002)	dub=0:1066905
-Fonte da Vida	dub=2:884839
+Fonte da Vida	dub=2:320890,4:884839	leg=2:320891
 Fonte da Vida (2006)	dub=0:1059975	leg=0:1033815
 Foo Fighters: Live at Wembley Stadium (2008)	dub=0:1266175
-Foodiverso: Uma Galáxia em Perigo	dub=2:645982
+Foodiverso: Uma Galáxia em Perigo	dub=2:279134,4:645982	leg=2:279135
 Foodiverso: Uma Galáxia em Perigo (2018)	dub=0:1061909	leg=0:1032513
-Footloose	dub=2:884688
+Footloose	dub=2:341057,4:884688
 Footloose (2011)	dub=0:1071915
-Footloose: Ritmo Louco	dub=2:652434
+Footloose: Ritmo Louco	dub=2:376779,2:208854,4:652434	leg=2:376778
 Footloose: Ritmo Louco (1984)	dub=0:1065197	leg=0:1268398
-Fora da Jogada	dub=2:897141
+Fora da Jogada	dub=2:348797,4:897141	leg=2:348796
 Fora da Jogada (1988)	dub=0:1251150	leg=0:1251021
-Fora da Trilha	dub=2:649094
+Fora da Trilha	dub=2:106826,4:649094
 Fora da Trilha (2016)	dub=0:1047311
 Fora de Alcance (2004)	dub=0:1271927
-Fora de Controle	dub=2:650984,2:884687,2:900684,2:901269
+Fora de Controle	dub=2:369225,2:352263,2:341058,2:120653,4:650984,4:884687,4:900684,4:901269	leg=2:369224,2:352262
 Fora de Controle (1984)	dub=0:1044523
 Fora de Controle (2008)	dub=0:1053492
 Fora de Controle (2023)	dub=0:1264934	leg=0:1264923
 Fora de Controle (2024)	dub=0:1272365	leg=0:1272377
 Fora de Controle (2025)	dub=0:1263523
-Fora de Mim	dub=2:652027	leg=2:670401
 Fora de Mim (2024)	dub=0:1040503,0:1022527	leg=0:1024200
-Fora de Sincronia	dub=2:884845
+Fora de Mim 4K	dub=2:297087,2:296571,2:296497,4:652027	leg=2:296498,4:670401
+Fora de Sincronia	dub=2:320254,4:884845	leg=2:320253
 Fora de Sincronia (2021)	dub=0:1041628	leg=0:1035458
-Fora de Série	dub=2:651535
+Fora de Série	dub=2:368215,2:30393,4:651535	leg=2:368214
 Fora de Série (2019)	dub=0:1267770
 Fora de temporada (2024)	dub=0:1265656
-Fora dos Muros da Escola	dub=2:648374
+Fora dos Muros da Escola	dub=2:279173,4:648374	leg=2:279174
 Fora dos Muros da Escola (2021)	dub=0:1051517	leg=0:1028158
-Fora dos Muros da Escola II	dub=2:770445	leg=2:762447
+Fora dos Muros da Escola II	dub=2:316359,4:770445	leg=2:316360,4:762447
 Fora dos Muros da Escola II (2023)	dub=0:1051200	leg=0:1032783
-Fora dos Trilhos	dub=2:650699
+Fora dos Trilhos	dub=2:157957,4:650699	leg=2:157944
 Fora dos Trilhos (2021)	dub=0:1053742	leg=0:1029809
-Forasteiros Malditos	dub=2:654834
+Forasteiros Malditos	dub=2:188931,4:654834	leg=2:188928
 Forasteiros Malditos (2019)	dub=0:1058380	leg=0:1249306
-Forbidden Fruits	dub=2:921094
+Forbidden Fruits	dub=4:921094
 Forca G (2009)	dub=0:1270091
 Forca de Ataque Z (1982)	dub=0:1268647
-Forcas Malignas	dub=2:655272
+Forcas Malignas	dub=2:89298,4:655272
 Forcas Malignas (2018)	dub=0:1059126
+Force Of Nature	leg=2:48262
 Force Of Nature (2020)	leg=0:1029593
+Ford V Ferrari	leg=2:34183
 Ford V Ferrari (2019)	leg=0:1249099
 Ford Vs Ferrari 4K (2019)	dub=0:1249721,0:1045207
-Ford vs. Ferrari	dub=2:653884
+Ford vs Ferrari	dub=2:382453,2:34755,2:34754,2:34745,4:653884	leg=2:382452
 Foreclosure 2 (2024)	dub=0:1271749
 Foreign Language (2024)	dub=0:1269652
 Forever (1991)	dub=0:1273165
-Forever Rich	dub=2:650885
+Forever Rich	dub=2:130410,4:650885	leg=2:130419
 Forever Rich (2021)	dub=0:1051892	leg=0:1035540
+Forever Young	leg=2:359058
 Forever Young (2024)	leg=0:1266490
-Forjando Campeões	dub=2:654019
+Forjando Campeões	dub=2:26444,4:654019
 Forjando Campeões (2018)	dub=0:1068666
 Formatura Fantasma (2012)	dub=0:1268579
-Formiguinhaz	dub=2:646682
+Formiguinhaz	dub=2:20364,4:646682
 Formiguinhaz (1998)	dub=0:1062596
-Forrest Gump O Contador de Histórias	dub=2:651184
+Formula 1 2026 Round 01 Australia Corrida Sportv	dub=2:370679
+Formula 1 2026 Round 01 Australia Quali	dub=2:369206
+Formula 1 2026 Round 01 Australia TL1	dub=2:369207
+Formula 1 2026 Round 01 Australia TL2	dub=2:369208
+Formula 1 2026 Round 01 Australia TL3	dub=2:369209
+Formula 1 2026 Round 02 China ClassificacaoSprint Sportv	dub=2:370680
+Formula 1 2026 Round 02 China Corrida Sprint Sportv	dub=2:370681
+Formula 1 2026 Round 02 China Quali Sportv	dub=2:370682
+Formula 1 2026 Round 02 China TL1 Sportv	dub=2:370683
+Formula 1 Round 01 Australia Grand Prix	dub=2:317291
+Formula 1 Round 01 Australia Grand Prix Qualifying	dub=2:317292
+Formula 1 Round 01 Australia TL1	dub=2:317283
+Formula 1 Round 01 Australia TL2	dub=2:317284
+Formula 1 Round 01 Australia TL3	dub=2:317285
+Formula 1 Round 01 China Corrida	dub=2:317293
+Formula 1 Round 01 China CorridaSprint	dub=2:317294
+Formula 1 Round 01 China Quali	dub=2:317295
+Formula 1 Round 01 China QualiSprint	dub=2:317296
+Formula 1 Round 01 China TL1	dub=2:317297
+Formula 1 Round 02 China Corrida Sprint	dub=2:317298
+Formula 1 Round 02 China Grand Prix	dub=2:317299
+Formula 1 Round 03 Japao Corrida Bandeirantes	dub=2:318423
+Formula 1 Round 03 Japao Grand Prix	dub=2:318424
+Formula 1 Round 03 Japao Grand Prix Qualifying	dub=2:318425
+Formula 1 Round 03 Japao Quali	dub=2:318426
+Formula 1 Round 03 Japao TL1	dub=2:318427
+Formula 1 Round 03 Japao TL2	dub=2:318428
+Formula 1 Round 03 Japao TL3	dub=2:318429
+Formula 1 Round 04 Bahrain TL1	dub=2:318430
+Formula 1 Round 04 Bahrain TL2	dub=2:318431
+Formula 1 Round 04 Bahrain TL3	dub=2:318432
+Formula 1 Round 04 Bahrein Grand Prix	dub=2:318433
+Formula 1 Round 04 Bahrein Grand Prix Qualifying	dub=2:318434
+Formula 1 Round 05 Arabia Saudita Grand Prix	dub=2:319059
+Formula 1 Round 05 Arabia Saudita Grand Prix Qualifying	dub=2:319060
+Formula 1 Round 05 ArabiaSaudita Corrida Bandeirantes	dub=2:319061
+Formula 1 Round 05 ArabiaSaudita Quali	dub=2:319062
+Formula 1 Round 05 ArabiaSaudita Race F1TV International	dub=2:319063
+Formula 1 Round 05 ArabiaSaudita TL1	dub=2:319064
+Formula 1 Round 05 ArabiaSaudita TL2	dub=2:319065
+Formula 1 Round 05 ArabiaSaudita TL3	dub=2:319066
+Formula 1 Round 06 Miami Corrida Bandeirantes	dub=2:321072
+Formula 1 Round 06 Miami Grand Prix	dub=2:321074
+Formula 1 Round 06 Miami Grand Prix Qualifying	dub=2:321073
+Formula 1 Round 06 Miami Quali	dub=2:321075
+Formula 1 Round 06 Miami QualiSprint	dub=2:321076
+Formula 1 Round 06 Miami Sprint	dub=2:321077
+Formula 1 Round 06 Miami SprintRace	dub=2:321078
+Formula 1 Round 06 Miami TL1	dub=2:321071
+Formula 1 Round 07 Italia Grand Prix	dub=2:321784
+Formula 1 Round 07 Italia Grand Prix Qualifying	dub=2:321783
+Formula 1 Round 07 SanMarino Corrida Bandeirantes	dub=2:323772
+Formula 1 Round 07 SanMarino Quali	dub=2:323773
+Formula 1 Round 07 SanMarino TL1	dub=2:323774
+Formula 1 Round 07 SanMarino TL2	dub=2:323775
+Formula 1 Round 07 SanMarino TL3	dub=2:323776
+Formula 1 Round 08 Monaco Corrida Bandeirantes	dub=2:323777
+Formula 1 Round 08 Monaco Grand Prix	dub=2:323779
+Formula 1 Round 08 Monaco Grand Prix Qualifying	dub=2:323778
+Formula 1 Round 08 Monaco Quali	dub=2:323780
+Formula 1 Round 08 Monaco TL1	dub=2:323781
+Formula 1 Round 08 Monaco TL2	dub=2:323782
+Formula 1 Round 08 Monaco TL3	dub=2:323783
+Formula 1 Round 09 Espanha Grand Prix	dub=2:324698
+Formula 1 Round 09 Espanha Grand Prix Qualifying	dub=2:324697
+Formula 1 Round 09 Espanha Quali	dub=2:324699
+Formula 1 Round 09 Espanha TL1	dub=2:324700
+Formula 1 Round 09 Espanha TL2	dub=2:324701
+Formula 1 Round 09 Espanha TL3	dub=2:324702
+Formula 1 Round 10 Canada Grand Prix	dub=2:328962
+Formula 1 Round 10 Canada Grand Prix Qualifying	dub=2:328961
+Formula 1 Round 11 Austria Corrida Bandeirantes	dub=2:330508
+Formula 1 Round 11 Austria Grand Prix	dub=2:330507
+Formula 1 Round 11 Austria Grand Prix Qualifying	dub=2:330506
+Formula 1 Round 11 Austria TL1	dub=2:330509
+Formula 1 Round 11 Austria TL2	dub=2:330510
+Formula 1 Round 11 Austria TL3	dub=2:330511
+Formula 1 Round 12 Inglaterra Grand Prix	dub=2:333244
+Formula 1 Round 12 Inglaterra Grand Prix Qualifying	dub=2:333245
+Formula 1 Round 12 Inglaterra Quali	dub=2:334289
+Formula 1 Round 12 Inglaterra TL1	dub=2:334290
+Formula 1 Round 12 Inglaterra TL2	dub=2:334291
+Formula 1 Round 12 Inglaterra TL3	dub=2:334292
+Formula 1 Round 13 Belgica Grand Prix	dub=2:336960
+Formula 1 Round 13 Belgica Sprint	dub=2:336961
+Formula 1 Round 14 Hungria Grand Prix	dub=2:338301
+Formula 1 Round 14 Hungria Grand Prix Qualifying	dub=2:338300
+Formula 1 Round 14 Hungria TL1	dub=2:341296
+Formula 1 Round 14 Hungria TL2	dub=2:341297
+Formula 1 Round 14 Hungria TL3	dub=2:341298
+Formula 1 Round 15 Holanda Grand Prix	dub=2:341308
+Formula 1 Round 15 Holanda Grand Prix Qualifying	dub=2:341299
+Formula 1 Round 15 Holanda TL1	dub=2:341300
+Formula 1 Round 15 Holanda TL2	dub=2:341301
+Formula 1 Round 16 Italia Grand Prix	dub=2:342749
+Formula 1 Round 16 Italia Grand Prix Qualifying	dub=2:342748
+Formula 1 Round 17 Azerbaijao Grand Prix	dub=2:357132
+Formula 1 Round 17 Azerbaijao Grand Prix Qualifying	dub=2:357131
+Formula 1 Round 18 Singapura Grand Prix	dub=2:357134
+Formula 1 Round 18 Singapura Grand Prix Qualifying	dub=2:357133
+Formula 1 Round 19 USA Grand Prix	dub=2:357136
+Formula 1 Round 19 USA Grand Prix Qualifying	dub=2:357135
+Formula 1 Round 19 USA Sprint	dub=2:357137
+Formula 1 Round 20 Mexico Grand Prix	dub=2:357139
+Formula 1 Round 20 Mexico Grand Prix Qualifying	dub=2:357138
+Formula 1 Round 21 BRA Grand Prix	dub=2:357141
+Formula 1 Round 21 BRA Grand Prix Qualifying	dub=2:357140
+Formula 1 Round 21 BRA Sprint	dub=2:357142
+Formula 1 Round 21 Brasil ClassificacaoSprint	dub=2:357143
+Formula 1 Round 21 Brasil TL1	dub=2:357144
+Formula 1 Round 22 Las Vegas	dub=2:317286
+Formula 1 Round 22 Las Vegas Grand Prix	dub=2:357146
+Formula 1 Round 22 Las Vegas Grand Prix Qualifying	dub=2:357145,2:317287
+Formula 1 Round 23 Catar	dub=2:317288
+Formula 1 Round 23 Catar Grand Prix	dub=2:357148
+Formula 1 Round 23 Catar Grand Prix Qualifying	dub=2:357147
+Formula 1 Round 23 Catar Sprint	dub=2:357149
+Formula 1 Round 24 Abu Dhabi	dub=2:317289
+Formula 1 Round 24 Abu Dhabi Grand Prix	dub=2:357151
+Formula 1 Round 24 Abu Dhabi Grand Prix Qualifying	dub=2:357150
+Formula 1 Round 24 Abu Dhabi Prix Qualifying	dub=2:317290
+Formula 1 Round 24 AbuDhabi Corrida Bandeirantes	dub=2:357152
+Formula 1 Round 24 AbuDhabi Quali	dub=2:357153
+Formula 1 Round 24 AbuDhabi TL1	dub=2:357154
+Formula 1 Round 24 AbuDhabi TL2	dub=2:357155
+Formula 1 Round 24 AbuDhabi TL3	dub=2:357156
+Formula 1 Round10 Canada TL1	dub=2:328963
+Formula 1 Round10 Canada TL2	dub=2:328964
+Formula 1 Round13 Belgica QualiSprint	dub=2:338302
+Formula 1 Round13 Belgica TL1	dub=2:338303
+Forrest Gump O Contador de Histórias	dub=2:97179,4:651184
 Forrest Gump O Contador de Histórias (1994)	dub=0:1065409
-Fortaleza Hotel	dub=2:652730
+Forro: Wesley Safadao - Em Casa	dub=2:21962
+Fortaleza Hotel	dub=2:172023,4:652730
 Fortaleza Hotel (2022)	dub=0:1042231
-Fortaleza: O Olhar Do Sniper	dub=2:644928
+Fortaleza: O Olhar Do Sniper	dub=2:160584,4:644928	leg=2:160603
 Fortaleza: O Olhar Do Sniper (2022)	dub=0:1046973	leg=0:1024032
 Fortuna Maldita (2018)	dub=0:1266995
 Fortuna Pelos Canos (2020)	dub=0:1266632
+Fortuna Perigosa	leg=2:275504
 Força Aérea Um (1997)	dub=0:1273161
-Força Bruta	dub=2:648586
+Força Bruta	dub=2:196317,4:648586	leg=2:196316
 Força Bruta (2022)	dub=0:1056209	leg=0:1030820
-Força Bruta: Punição	dub=2:896577,2:900609
+Força Bruta: Punição	dub=2:353498,4:896577,4:900609	leg=2:353497
 Força Bruta: Punição (2024)	dub=0:1265277	leg=0:1265293
-Força Bruta: Sem Saída	dub=2:896578,2:900610
+Força Bruta: Sem Saída	dub=2:353496,4:896578,4:900610	leg=2:353495
 Força Bruta: Sem Saída (2023)	dub=0:1265284	leg=0:1265292
-Força Letal	dub=2:648313	leg=2:670561
+Força Letal	dub=2:291880,4:648313	leg=2:291881,4:670561
 Força Letal (2019)	dub=0:1046762	leg=0:1027239
-Força Maior	dub=2:770459	leg=2:762502
+Força Maior	dub=2:314673,4:770459	leg=2:314674,4:762502
 Força Maior (2014)	dub=0:1041834	leg=0:1035488
-Força Policial	dub=2:901928
+Força Policial	dub=2:345122,4:901928	leg=2:345121
 Força Policial (2008)	dub=0:1071350	leg=0:1036531
-Força Sinistra	dub=2:655059
+Força Sinistra	dub=2:353002,2:131006,4:655059	leg=2:353001
 Força Sinistra (1985)	dub=0:1061041	leg=0:1265218
 Força de Ataque (2006)	dub=0:1273223
-Força de Elite - O Filme	dub=2:648692
+Força de Elite - O Filme	dub=2:169723,4:648692
 Força de Elite - O Filme (2021)	dub=0:1049787
-Força de Pai para Filha	dub=2:650368
+Força de Pai para Filha	dub=2:208893,4:650368	leg=2:208894
 Força de Pai para Filha (2022)	dub=0:1067194	leg=0:1028960
-Força para Viver	dub=2:653857
+Força para Viver	dub=2:41209,4:653857
 Força para Viver (2014)	dub=0:1072000
-Forças Especiais	dub=2:703547
+Forças Especiais	dub=2:311851,4:703547
 Forças Especiais (2011)	dub=0:1066108
-Forças Hostis	dub=2:889761
+Forças Hostis	dub=2:343955,4:889761	leg=2:343954
 Forças Hostis (2023)	dub=0:1043172	leg=0:1023562
-Forças Obscuras	dub=2:900565,2:901246
+Forças Obscuras	dub=2:354118,4:900565,4:901246	leg=2:354117
 Forças Obscuras (2024)	dub=0:1265575	leg=0:1265482
-Foster: Adotados Pelo Sistema	dub=2:648016
+Foster: Adotados Pelo Sistema	dub=2:186789,4:648016	leg=2:186778
 Foster: Adotados Pelo Sistema (2018)	dub=0:1048578	leg=0:1034508
-Four Good Days	dub=2:653089
+Four Good Days	dub=2:136787,4:653089	leg=2:136772
 Four Good Days (2021)	dub=0:1041561	leg=0:1029462
 Four Roads (2021)	dub=0:1268730
-Foxcatcher: Uma História Que Chocou o Mundo	dub=2:885151
+Foxcatcher: Uma História Que Chocou o Mundo	dub=2:329611,4:885151	leg=2:329610
 Foxcatcher: Uma História Que Chocou o Mundo (2014)	dub=0:1043460	leg=0:1249380
-Foxter & Max: Um Cachorro de Outro Mundo	dub=2:645211
+Foxter & Max: Um Cachorro de Outro Mundo	dub=2:300657,4:645211
 Foxter & Max: Um Cachorro de Outro Mundo (2019)	dub=0:1068281
-Fragmentado	dub=2:647684,2:822994
+Fragmentado	dub=2:323724,2:21616,4:647684,4:822994	leg=2:323723
 Fragmentado (2017)	dub=0:1058435	leg=0:1024908
 Fragmentos para Venus (2025)	dub=0:1268951	leg=0:1265061
+Fragmentos para Vênus	leg=2:352705
 Framed (2021)	dub=0:1267487
 Framing Britney Spears: A Vida de uma Estrela (2021)	dub=0:1268575
-France: Sob Os Holofotes	dub=2:650541
+France: Sob Os Holofotes	dub=2:181436,4:650541	leg=2:181423
 France: Sob Os Holofotes (2021)	dub=0:1053680	leg=0:1030493
-Francesco	dub=2:648129
+Francesco	dub=2:138852,4:648129
 Francesco (2020)	dub=0:1049417
+Francisco Brennand	dub=2:340139
 Francisco Brennand (2012)	dub=0:1046018
 Francisco O Papa do Povo (2025)	dub=0:1268999
-Frango: A Conspiração do Fast-Food	dub=2:924502
+Frango: A Conspiração do Fast-Food	dub=4:924502
 Frango: A Conspiração do Fast-Food (2026)	dub=0:1291012
-Frangoelho e o Hamster das Trevas	dub=2:654933
+Frangoelho e o Hamster das Trevas	dub=2:162000,2:161989,4:654933
 Frangoelho e o Hamster das Trevas (2022)	dub=0:1039009
-Frank & Penelope	dub=2:647347
+Frank & Penelope	dub=2:180307,4:647347	leg=2:180302
 Frank & Penelope (2022)	dub=0:1051633	leg=0:1033932
-Frankenstein	dub=2:901139
+Frankenstein	dub=2:352256,4:901139	leg=2:352255
 Frankenstein (2015)	dub=0:1271049
 Frankenstein (2025)	dub=0:1253362	leg=0:1264924
 Frankenstein Legacy (2025)	dub=0:1271128
-Frankenstein Vs A Mumia	dub=2:655266
+Frankenstein Vs A Mumia	dub=2:91415,4:655266
 Frankenstein Vs A Mumia (2015)	dub=0:1058793
-Frankenstein: Entre Anjos e Demônios	dub=2:654815
+Frankenstein: Entre Anjos e Demônios	dub=2:192673,4:654815
 Frankenstein: Entre Anjos e Demônios (2014)	dub=0:1059174
+Frankenstein: Legacy	leg=2:254084
 Frankenstein: Legacy (2024)	leg=0:1035208
-Frankenweenie	dub=2:902580
+Frankenweenie	dub=2:352402,4:902580	leg=2:352401
 Frankenweenie (2012)	dub=0:1264985	leg=0:1264990
-Frankie	dub=2:652933
+Frankie	dub=2:148751,4:652933	leg=2:148749
 Frankie (2019)	dub=0:1041271	leg=0:1034009
 Frankie Freako (2024)	dub=0:1266058
-Frankie e os Monstros	dub=2:900385,2:902532
+Frankie e os Monstros	dub=2:359086,4:900385,4:902532	leg=2:359085
 Frankie e os Monstros (2025)	dub=0:1255187	leg=0:1266559
 Frantz (2016)	dub=0:1266423
-Franz Klammer - A Lenda do Esqui	dub=2:652097	leg=2:670922
+Franz Klammer - A Lenda do Esqui	dub=2:280962,4:652097	leg=2:280963,4:670922
 Franz Klammer - A Lenda do Esqui (2021)	dub=0:1045305	leg=0:1033140
 Franz Legendado (2025)	dub=0:1263333
-Fratura	dub=2:647610
+Fratura	dub=2:30394,4:647610
 Fratura (2019)	dub=0:1044884
-Fração de Segundos	dub=2:649529
+Fração de Segundos	dub=2:47415,4:649529
 Fração de Segundos (2019)	dub=0:1069867
 Freaknik The Wildest Party Never Told (2024)	dub=0:1271510
+Freaknik: A Festa Mais Selvagem	leg=2:254782
 Freaknik: A Festa Mais Selvagem (2024)	leg=0:1034548
+Freaks Legendado	dub=2:31743
 Freaks Legendado (2019)	dub=0:1059800
 Freaks Out (2021)	dub=0:1268945
-Freaks Um de Nós	dub=2:653709
+Freaks Um de Nós	dub=2:69938,4:653709
 Freaks Um de Nós (2020)	dub=0:1039753
+Freaky	leg=2:89386
 Freaky (2020)	leg=0:1030171
-Freaky Tales	dub=2:903363,2:903654
+Freaky Tales	dub=2:365030,4:903363,4:903654	leg=2:365029
 Freaky Tales (2025)	dub=0:1256409	leg=0:1267323
-Freaky: No Corpo de um Assassino	dub=2:655227
+Freaky: No Corpo de um Assassino	dub=2:97158,4:655227
 Freaky: No Corpo de um Assassino (2020)	dub=0:1038861
 Freddie Mercury The Final Act (2022)	dub=0:1271312
+Free Fire: O Tiroteio	dub=2:380465	leg=2:380464
 Free Fire: O Tiroteio (2017)	dub=0:1269276	leg=0:1272529
-Free Guy: Assumindo o Controle	dub=2:650889
+Free Guy: Assumindo o Controle 4K	dub=2:179808,2:130266,4:650889	leg=2:130231
 Free Guy: Assumindo o Controle 4K (2021)	dub=0:1249752,0:1056100	leg=0:1030584
-Free Solo	dub=2:648271
+Free Solo	dub=2:22581,4:648271
 Free Solo (2018)	dub=0:1049031
-Free Willy	dub=2:653514
+Free Willy	dub=2:100354,4:653514
 Free Willy (1993)	dub=0:1068785
-Free Willy - A Grande Fuga	dub=2:653511
+Free Willy - A Grande Fuga	dub=2:100357,4:653511
 Free Willy - A Grande Fuga (2010)	dub=0:1068072
-Free Willy 2 - A Aventura Continua	dub=2:653513
+Free Willy 2 - A Aventura Continua	dub=2:100355,4:653513
 Free Willy 2 - A Aventura Continua (1995)	dub=0:1055840
-Free Willy 3 - O Resgate	dub=2:653512
+Free Willy 3 - O Resgate	dub=2:100356,4:653512
 Free Willy 3 - O Resgate (1997)	dub=0:1067922
-Freediver	dub=2:906595
+Freediver	dub=2:368184,4:906595	leg=2:368183
 Freediver (2024)	dub=0:1268158	leg=0:1268155
-Freestyle	dub=2:644863
+Freelance	leg=2:246191
+Freestyle	dub=2:214602,4:644863	leg=2:214607
 Freestyle (2023)	dub=0:1051841	leg=0:1028834
+Freiras em Fuga	leg=2:340460
 Freiras em Fuga (1990)	leg=0:1034711
+Fremont	leg=2:252787
 Fremont (2023)	dub=0:1266148	leg=0:1035466
-French Lover	dub=2:901350
+French Lover	dub=2:345273,4:901350	leg=2:345272
 French Lover (2025)	dub=0:1038667	leg=0:1038663
-Frente A Frente	dub=2:654864
+Frente A Frente	dub=2:179812,4:654864	leg=2:179815
 Frente A Frente (2022)	dub=0:1072484	leg=0:1072449
 Frente a Frente (2021)	dub=0:1267130
-Fresh	dub=2:647399
+Fresh	dub=2:157955,4:647399	leg=2:157977
 Fresh (2022)	dub=0:1058451	leg=0:1249115
-Fresh Hell	dub=2:908293
+Fresh Hell	dub=2:370723,4:908293	leg=2:370722
 Fresh Hell (2021)	dub=0:1267603	leg=0:1267594
-Fresh Hell: Adolescentes Mortos	dub=2:905065
+Fresh Hell: Adolescentes Mortos	dub=2:366888,4:905065	leg=2:366887
 Fresh Hell: Adolescentes Mortos (2024)	leg=0:1267595
-Fresh Hell: Lobos Contra o Mundo	dub=2:905066
+Fresh Hell: Lobos Contra o Mundo	dub=2:366886,4:905066	leg=2:366885
 Fresh Hell: Lobos Contra o Mundo (2024)	dub=0:1267570	leg=0:1267568
-Freud: Além da Alma	dub=2:897178
+Freud: Além da Alma	dub=2:347115,4:897178	leg=2:347114
 Freud: Além da Alma (1962)	dub=0:1043060	leg=0:1036350
 Frewaka (2025)	dub=0:1270298
-Frida	dub=2:884761
+Frida	dub=2:333274,4:884761	leg=2:333273,2:254085
 Frida (2002)	dub=0:1064482	leg=0:1026124
 Frida (2024)	dub=0:1269853	leg=0:1030324
 Frida Viva a vida (2019)	dub=0:1271748
 Frieda - Coming Home (2020)	dub=0:1266419
+Friends The Reunion	leg=2:108586
 Friends The Reunion (2021)	leg=0:1030396
 Friends and Strangers (2022)	dub=0:1269227
-Friends: A Reunião	dub=2:648172
 Friends: A Reunião (2021)	dub=0:1048482,0:1023304
+Friends: A Reunião 4K	dub=2:255564,2:112007,4:648172
 Friendsgiving (2020)	dub=0:1268834
-Frio nos Ossos	dub=2:654767
+Frio nos Ossos	dub=2:200744,4:654767	leg=2:200745
 Frio nos Ossos (2023)	dub=0:1058203	leg=0:1024961
+Fritada Pablo Marcal 4K	dub=2:255102,2:255101
 From Ground Zero (2025)	dub=0:1270982
+From Ground Zero Stories From Gaza	leg=2:378234
+From The Depths	leg=2:103138
 From The Depths (2020)	leg=0:1024940
+From Time to Time	dub=2:380466
 From Time to Time (2009)	dub=0:1272547
-From the Ashes: The Pit	dub=2:902730,2:911647
+From the Ashes: The Pit	dub=2:363497,4:902730,4:911647	leg=2:363496
 From the Ashes: The Pit (2026)	dub=0:1267096	leg=0:1267076
-From the River to the Sea - Um Filme Sobre a Guerra em Israel	dub=2:647738	leg=2:670525
+From the River to the Sea - Um Filme Sobre a Guerra em Israel	dub=2:292294,2:292293,4:647738	leg=2:292295,4:670525
 From the River to the Sea Um Filme Sobre a Guerra em Israel (2024)	dub=0:1266142
-Fronteira	dub=2:885050
+Fronteira	dub=2:333574,4:885050
 Fronteira (2007)	dub=0:1047267
-Fronteira Sombria	dub=2:647154
 Fronteira Sombria (2024)	dub=0:1069407,0:1022185	leg=0:1032617
+Fronteira Sombria 4K	dub=2:297425,2:278118,4:647154	leg=2:278119
 Fronteira Virtual (2018)	dub=0:1271474
-Fronteira de Ódio	dub=2:884682
+Fronteira de Ódio	dub=2:341086,4:884682	leg=2:341085
 Fronteira de Ódio (2023)	dub=0:1249979	leg=0:1032093
+Frontera	dub=2:329658
 Frontera (2014)	dub=0:1069262
-Frost/Nixon	dub=2:652549
+Frost/Nixon	dub=2:191474,4:652549
 Frost/Nixon (2008)	dub=0:1046008
-Frozen 2	dub=2:646499
 Frozen 2 (2019)	dub=0:1061969,0:1022071	leg=0:1030017
-Frozen Febre Congelante	dub=2:646681
+Frozen 2 4K	dub=2:40530,2:40376,4:646499	leg=2:35980
+Frozen Febre Congelante	dub=2:20365,4:646681
 Frozen Febre Congelante (2015)	dub=0:1062942
-Frozen Hot Boys	dub=2:770403
+Frozen Hot Boys	dub=2:318097,4:770403	leg=2:318098
 Frozen Hot Boys (2025)	dub=0:1038152	leg=0:1037430
 Frozen O Musical na Broadway (2025)	dub=0:1270319
-Frozen, Uma Aventura Congelante	dub=2:646680
+Frozen, Uma Aventura Congelante	dub=2:20366,4:646680
 Frozen, Uma Aventura Congelante (2013)	dub=0:1039748
+Frozen: O Musical	leg=2:350962,2:329640
 Frozen: O Musical (2025)	leg=0:1037347
-Fruitvale Station: A Última Parada	dub=2:652742
+Fruitvale Station: A Última Parada	dub=2:373819,2:170835,4:652742	leg=2:373818
 Fruitvale Station: A Última Parada (2013)	dub=0:1040696	leg=0:1272166
 Frutas Proibidas (2026)	dub=0:1263045
+Fréamhacha	leg=2:322811
 Fréamhacha (2025)	leg=0:1037373
+Fuego Negro	leg=2:68446
 Fuego Negro (2020)	leg=0:1035895
-Fuga	dub=2:649619
+Fuga	dub=2:30540,4:649619
 Fuga (2012)	dub=0:1045824
-Fuga Fatal	dub=2:897079,2:900579
+Fuga Fatal	dub=2:354016,4:897079,4:900579	leg=2:354015
 Fuga Fatal (2025)	dub=0:1254153
-Fuga Implacável	dub=2:649129
+Fuga Implacável	dub=2:104410,4:649129
 Fuga Implacável (2012)	dub=0:1070883
+Fuga Para A Liberdade	dub=2:375930	leg=2:375929
 Fuga Para A Liberdade (2016)	dub=0:1267636	leg=0:1272356
-Fuga da Biblioteca do Sr. Lemoncello	dub=2:646799
+Fuga da Biblioteca do Sr. Lemoncello	dub=2:161958,4:646799
 Fuga da Biblioteca do Sr. Lemoncello (2017)	dub=0:1050689
-Fuga da Meia-Noite	dub=2:647404
+Fuga da Meia-Noite	dub=2:157429,4:647404	leg=2:157435
 Fuga da Meia-Noite (2021)	dub=0:1052046	leg=0:1025838
-Fuga da Morte	dub=2:648788
+Fuga da Morte	dub=2:151943,4:648788	leg=2:151940
 Fuga da Morte (2021)	dub=0:1046731	leg=0:1034596
-Fuga de Alcatraz	dub=2:653865
+Fuga de Alcatraz	dub=2:37893,4:653865
 Fuga de Alcatraz (1979)	dub=0:1044660
-Fuga de Alcatraz: A Pista Perdida	dub=2:647750
+Fuga de Alcatraz: A Pista Perdida	dub=2:288514,4:647750
 Fuga de Alcatraz: A Pista Perdida (2018)	dub=0:1048320
-Fuga de Auschwitz	dub=2:653708
+Fuga de Auschwitz	dub=2:69939,4:653708
 Fuga de Auschwitz (2020)	dub=0:1042957
 Fuga de Los Angeles (1996)	dub=0:1266585
-Fuga de Natal	dub=2:644898
+Fuga de Natal	dub=2:185266,4:644898
 Fuga de Natal (2018)	dub=0:1050648
 Fuga de Nova York (1981)	dub=0:1271807
-Fuga de Pretória	dub=2:653663
+Fuga de Pretória	dub=2:382986,2:84584,4:653663	leg=2:382985
 Fuga de Pretória (2020)	dub=0:1046040
+Fuga de Ravenshead	dub=2:382601	leg=2:382600
 Fuga de Ravenshead (2010)	dub=0:1272907	leg=0:1272956
 Fuga do Hospicio: A Historia de Nellie Bly (2019)	dub=0:1269466
-Fuga do Passado	dub=2:653033
+Fuga do Passado	dub=2:141543,4:653033
 Fuga do Passado (1947)	dub=0:1052568
-Fuga pela Fronteira	dub=2:649442
+Fuga pela Fronteira	dub=2:89592,4:649442
 Fuga pela Fronteira (2020)	dub=0:1066616
-Fuga à Meia-Noite	dub=2:896601
+Fuga à Meia-Noite	dub=2:350985,4:896601
 Fuga à Meia-Noite (1988)	dub=0:1264820
-Fugindo da Morte	dub=2:654540
+Fugindo da Morte	dub=2:264726,4:654540	leg=2:264727
 Fugindo da Morte (2023)	dub=0:1058471	leg=0:1033539
-Fugindo da Terra do Nunca	dub=2:652058	leg=2:670648
+Fugindo da Terra do Nunca	dub=2:288812,4:652058	leg=2:288813,4:670648
 Fugindo da Terra do Nunca (2022)	dub=0:1039435	leg=0:1027224
-Fugindo do Amor	dub=2:645658
+Fugindo do Amor	dub=2:115497,4:645658
 Fugindo do Amor (2021)	dub=0:1065555
 Fugindo do Inferno (1963)	dub=0:1269045
 Fugindo do Paraiso (2023)	dub=0:1268804
-Fugindo do Paraíso	dub=2:648350	leg=2:670821
-Fugindo do Passado	dub=2:703546	leg=2:762649
+Fugindo do Paraíso	dub=2:283251,4:648350	leg=2:283252,4:670821
+Fugindo do Passado	dub=2:311852,4:703546	leg=2:311853,4:762649
 Fugindo do Passado (2004)	dub=0:1047086	leg=0:1030881
-Fugitivo por Acidente	dub=2:826370
+Fugitivo por Acidente	dub=2:321011,4:826370	leg=2:321010
 Fugitivo por Acidente (2025)	dub=0:1037050	leg=0:1037091
 Fuhrer und Verfuhrer (2024)	dub=0:1271289	leg=0:1029545
-Fuja	dub=2:649179
 Fuja (2020)	dub=0:1057469,0:1022846
-Fuja da Luz	dub=2:654568
+Fuja 4K	dub=2:100983,2:100943,4:649179
+Fuja da Luz	dub=2:258318,4:654568	leg=2:258319
 Fuja da Luz (2022)	dub=0:1058489	leg=0:1033665
-Fuks 2	dub=2:884595
+Fuks 2	dub=2:320041,4:884595	leg=2:320040
 Fuks 2 (2023)	dub=0:1046910	leg=0:1249542
-Fukushima - Ameaça Nuclear	dub=2:653632
+Fukushima - Ameaça Nuclear	dub=2:89299,4:653632
 Fukushima - Ameaça Nuclear (2020)	dub=0:1045857
-Full Out 2: You Got This!	dub=2:649404
+Full Out 2: You Got This!	dub=2:92015,4:649404
 Full Out 2: You Got This! (2020)	dub=0:1050610
 Fullmetal Alchemist (2017)	dub=0:1266956
 Fullmetal Alchemist o Filme O Conquistador de Shamballa (2005)	dub=0:1270401
-Fullmetal Alchemist: A Alquimia Final	dub=2:648678
+Fullmetal Alchemist: A Alquimia Final	dub=2:174609,4:648678	leg=2:174608
 Fullmetal Alchemist: A Alquimia Final (2022)	dub=0:1039205	leg=0:1033968
-Fullmetal Alchemist: A Vingança de Scar	dub=2:648699
+Fullmetal Alchemist: A Vingança de Scar	dub=2:169670,4:648699	leg=2:169691
 Fullmetal Alchemist: A Vingança de Scar (2022)	dub=0:1039389	leg=0:1033524
 Fullmetal Alchemist: The Sacred Star of Milos (2011)	dub=0:1266139
 Fumar Causa Tosse (2022)	dub=0:1271434
-Funcionário do Mês	dub=2:897009
+Funcionário do Mês	dub=2:350986,4:897009	leg=2:350904
 Funcionário do Mês (2006)	dub=0:1264821	leg=0:1264707
-Fundo do Poço	dub=2:650298
+Fundo do Poço	dub=2:225422,4:650298	leg=2:225420
 Fundo do Poço (2023)	dub=0:1054257	leg=0:1024943
 Fungos Fantasticos (2019)	dub=0:1271517
 Fungos Teia da Vida (2023)	dub=0:1271276	leg=0:1025279
+Fungos: Teia da Vida	leg=2:340108
 Funmilayo Ransome Kuti (2025)	dub=0:1266883	leg=0:1251117
-Furacão: A Luta Interna	dub=2:652675
+Funmilayo Ransome-Kuti	leg=2:348299
+Furacão: A Luta Interna	dub=2:180577,4:652675	leg=2:180578
 Furacão: A Luta Interna (2020)	dub=0:1044018	leg=0:1026783
+Fureru	leg=2:362582
 Fureru (2024)	leg=0:1266972
-Furia	dub=2:649681
-Furia Incontrolavel	dub=2:649221
+Furia	dub=4:649681
+Furia Incontrolavel	dub=2:98817,4:649221
 Furia Incontrolavel (2020)	dub=0:1047145
 Furia de Titas (1981)	dub=0:1268929
-Furia em Alto Mar	dub=2:649712
+Furia em Alto Mar 4K	dub=2:22504,2:21435,4:649712
 Furia em Alto Mar 4K (2018)	dub=0:1249624,0:1056886
-Furiosa: A Mad Max Saga - Black & Chrome Edition	dub=2:648359	leg=2:670899
-Furiosa: Uma Saga Mad Max	dub=2:648401
+Furiosa: A Mad Max Saga - Black & Chrome Edition	dub=2:281312,4:648359	leg=2:281313,4:670899
+Furiosa: Uma Saga Mad Max	dub=2:266649,2:266648,4:648401	leg=2:266650
 Furiosa: Uma Saga Mad Max (2024)	dub=0:1055705,0:1023029	leg=0:1032622
-Furioza	dub=2:652884
+Furioza	dub=2:157428,4:652884	leg=2:157427
 Furioza (2021)	dub=0:1046240	leg=0:1030113
-Furioza 2	dub=2:889735
+Furioza 2	dub=2:348301,4:889735	leg=2:348300
 Furioza 2 (2025)	dub=0:1251095	leg=0:1251115
 Fury 12 Hours (2024)	dub=0:1270458
-Futebol em Apuros	dub=2:646155
+Futebol em Apuros	dub=2:179752,4:646155	leg=2:179775
 Futebol em Apuros (2022)	dub=0:1062071	leg=0:1249217
 Futura (2021)	dub=0:1270812
 Futurama A Besta de Um Bilhao de Traseiros (2008)	dub=0:1267738
 Futurama Em Distante e Selvagem Era Verde (2009)	dub=0:1271144
 Futurama O Grande Golpe de Bender (2007)	dub=0:1269022
 Futurama O Jogo de Bender (2008)	dub=0:1269786
-Future Brilliant	dub=2:910634
+Future Brilliant	dub=2:373378,4:910634	leg=2:373377
 Future Brilliant (2023)	dub=0:1272137	leg=0:1272142
+Fuuto PI The Portrait of Kamen Rider Skull	leg=2:352706
 Fuuto PI The Portrait of Kamen Rider Skull (2024)	dub=0:1267824
 Fuzileiro do Amor (1956)	dub=0:1266684
+Fyre	leg=2:103537
 Fyre (2019)	leg=0:1035963
+Fábio Rabin: Tá Embaçado	dub=2:278090	leg=2:278091
 Fábio Rabin: Tá Embaçado (2023)	dub=0:1054262	leg=0:1025829
-Fábrica de Sonhos	dub=2:896926
+Fábrica de Sonhos	dub=2:358099,4:896926	leg=2:358098
 Fábrica de Sonhos (2005)	dub=0:1266248	leg=0:1266251
-Fátima	dub=2:770429
+Fátima	dub=2:317228,4:770429
 Fátima (1997)	dub=0:1065486
-Fátima - A História de um Milagre	dub=2:652564
+Fátima - A História de um Milagre	dub=2:189914,4:652564	leg=2:189912
 Fátima - A História de um Milagre (2020)	dub=0:1248805	leg=0:1028691
+Fátima no Brasil	dub=2:348795
 Fátima no Brasil (2017)	dub=0:1251086
-Fã ou Hater?	dub=2:884593
 Fã ou Hater? (2025)	dub=0:1037690,0:1036700	leg=0:1038249
-Fé nas Alturas	dub=2:652559
+Fã ou Hater? 4K	dub=2:320754,2:320082,4:884593	leg=2:320081
 Fé nas Alturas (2023)	dub=0:1040539,0:1022772	leg=0:1032031
-Fé para o Impossível	dub=2:884965
+Fé nas Alturas 4K	dub=2:190768,2:190575,4:652559	leg=2:190576
+Fé para o Impossível	dub=2:323402,4:884965	leg=2:323401
 Fé para o Impossível (2025)	dub=0:1038256	leg=0:1037455
-Fé. Esperança. Amor.	dub=2:652411
+Fé. Esperança. Amor.	dub=2:212703,4:652411	leg=2:212702
 Fé. Esperança. Amor. (2021)	dub=0:1040741	leg=0:1030352
-Fédro	dub=2:647876
+Fédro	dub=2:236317,4:647876
 Fédro (2021)	dub=0:1049400
-Férias Forçadas	dub=2:904950
+Férias Forçadas	dub=2:366726,4:904950	leg=2:366725
 Férias Forçadas (2025)	dub=0:1256886	leg=0:1267547
-Férias Frustradas (1983)	dub=0:1057366,2:650197
-Férias Frustradas em Las Vegas	dub=2:650958
+Férias Frustradas (1983)	dub=0:1057366,2:249715,4:650197
+Férias Frustradas em Las Vegas	dub=2:122896,4:650958
 Férias Frustradas em Las Vegas (1997)	dub=0:1054452
-Férias Macabras	dub=2:762836	leg=2:762427
+Férias Macabras	dub=2:316751,4:762836	leg=2:316752,4:762427
 Férias Macabras (2024)	dub=0:1057595	leg=0:1025614
-Férias Trocadas	dub=2:644245
+Férias Trocadas	dub=2:276101,4:644245	leg=2:276102
 Férias Trocadas (2024)	dub=0:1248773	leg=0:1029445
-Férias a Todo Custo	dub=2:650175
+Férias a Todo Custo	dub=2:254848,4:650175	leg=2:254849
 Férias a Todo Custo (2020)	dub=0:1054298	leg=0:1030199
-Férias de Verão	dub=2:650303
+Férias de Verão	dub=2:224972,4:650303	leg=2:224968
 Férias de Verão (2023)	dub=0:1067658	leg=0:1033915
-Férias em Taipei	dub=2:645427
 Férias em Taipei (2023)	dub=0:1064345,0:1022010	leg=0:1032895
-Férias na Fazenda	dub=2:900558,2:901326
+Férias em Taipei 4K	dub=2:211620,2:210989,4:645427	leg=2:210990
+Férias na Fazenda	dub=2:354131,4:900558,4:901326	leg=2:354130
 Férias na Fazenda (2023)	dub=0:1265549	leg=0:1265515
+Férias no Caribe	dub=2:375928	leg=2:375927
 Férias no Caribe (2022)	dub=0:1272344	leg=0:1272347
-Férias no Trailer	dub=2:651567
+Férias no Trailer	dub=2:26163,4:651567
 Férias no Trailer (2006)	dub=0:1068727
-Fórmula Fatal	dub=2:901209
+Fórmula Fatal	dub=2:345498,4:901209	leg=2:345497
 Fórmula Fatal (2007)	dub=0:1059457	leg=0:1036389
-Fórmula selvagem	dub=2:901441
+Fórmula selvagem	dub=2:347665,4:901441
 Fórmula selvagem (2021)	dub=0:1249958
-Fúria Assassina	dub=2:647157
+Fúria Assassina	dub=2:273065,4:647157	leg=2:273066
 Fúria Assassina (2024)	dub=0:1044058	leg=0:1025500
-Fúria Mortal	dub=2:648974
+Fúria Mortal	dub=2:347145,2:124511,4:648974	leg=2:347144
 Fúria Mortal (1991)	dub=0:1052713	leg=0:1036409
-Fúria Primitiva	dub=2:648398
 Fúria Primitiva (2024)	dub=0:1046182,0:1022971	leg=0:1031793
-Fúria Sem Limites	dub=2:644805
+Fúria Primitiva 4K	dub=2:267750,2:267627,4:648398	leg=2:267628
+Fúria Sem Limites	dub=2:294919,4:644805
 Fúria Sem Limites (2022)	dub=0:1052399
-Fúria Sobre Rodas	dub=2:647526,2:803808
-Fúria Sobre Rodas (2003)	dub=0:1047575,2:649139
+Fúria Sobre Rodas	dub=2:320756,2:77613,4:647526,4:803808	leg=2:320755
+Fúria Sobre Rodas (2003)	dub=0:1047575,2:103991,4:649139
 Fúria Sobre Rodas (2011)	dub=0:1039735
 Fúria Sobre Rodas (2023)	dub=0:1046221	leg=0:1035943
-Fúria da Natureza	dub=2:885124
+Fúria da Natureza 4K	dub=2:361350,2:343213,4:885124	leg=2:343212
 Fúria da Natureza 4K (2023)	dub=0:1266784,0:1056077	leg=0:1032577
-Fúria de Titãs	dub=2:649899
+Fúria de Titãs	dub=2:382402,2:20028,4:649899	leg=2:382401
 Fúria de Titãs (2010)	dub=0:1039669	leg=0:1272809
-Fúria de Titãs 2	dub=2:649898
+Fúria de Titãs 2	dub=2:20029,4:649898
 Fúria de Titãs 2 (2012)	dub=0:1039950
-Fúria em Duas Rodas	dub=2:649897
+Fúria em Duas Rodas	dub=2:20030,4:649897
 Fúria em Duas Rodas (2004)	dub=0:1047835
-Fúria no Asfalto	dub=2:918156
+Fúria no Asfalto	dub=2:381391,4:918156	leg=2:381390
 Fúria no Asfalto (2025)	dub=0:1261588	leg=0:1272757
-Fúrias Femininas	dub=2:648605
+Fúrias Femininas	dub=2:189894,4:648605	leg=2:189924
 Fúrias Femininas (2022)	dub=0:1047027	leg=0:1028509
-Führer Ex	dub=2:911561
+Führer Ex	dub=2:370905,4:911561	leg=2:370904
 Führer Ex (2002)	dub=0:1267684	leg=0:1267663
-Führer und Verführer	leg=2:670225
+Führer und Verführer	leg=2:301060,4:670225

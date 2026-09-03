@@ -22,6 +22,7 @@ BMF		0	38
 BOFURI I Dont Want to Get Hurt so Ill Max Out My Defense	2020	0	24
 BOFURI I Dont Want to Get Hurt so Ill Max Out My Defense		0	24
 BORU Esquadrao Lobo	2018	0	6
+BORU Esquadrao Lobo		0	6
 BTS In the SOOP	2020	0	12
 BTS In the SOOP		0	12
 BULLBUSTER	2023	0	12
@@ -117,7 +118,7 @@ Banshee		0	38
 Baptiste	2019	0	12
 Baptiste		0	12
 Bar do Gogó	2023	0	30
-Bar do Gogó		0	30
+Bar do Gogó		1	30
 Barbapapa Uma Grande Familia		1	76
 Barbearia do Pao	2019	1	65
 Barbearia do Pao		1	65
@@ -186,7 +187,7 @@ Batman: A Série Animada		1	85
 Battle Camp	2025	1	10
 Battle Camp		1	10
 Battlestar Galactica	2004	1	142
-Battlestar Galactica		1	142
+Battlestar Galactica		1	146
 Batwheels	2022	1	73
 Batwheels		1	88
 Batwoman	2019	1	90
@@ -217,7 +218,7 @@ Bebes Assassinos Todos os Dias		1	12
 Bebidas Apostas e Sexo	2022	1	3
 Bebidas Apostas e Sexo		1	3
 Bebê a Bordo	1988	1	209
-Bebê a Bordo		1	204
+Bebê a Bordo		1	209
 Bebês em Foco	2020	1	6
 Bebês em Foco		1	6
 Beckham	2023	1	4
@@ -237,14 +238,14 @@ Behind Cut		1	8
 Behind Your Touch	2023	1	16
 Behind Your Touch		1	16
 Beijar ou Morrer	2025	1	6
-Beijar ou Morrer		1	6
+Beijar ou Morrer		2	6
 Beijo Explosivo		2	14
 Bel-Air	2022	2	38
 Bel-Air		2	38
 Bela Vida	2000	2	11
 Bela Vida		2	11
+Belas Maldicoes		2	13
 Belas Maldições	2019	2	13
-Belas Maldições		2	13
 Beleza Fatal	2025	2	40
 Beleza Fatal		2	40
 Beleza Impiedosa	2022	2	12
@@ -264,6 +265,7 @@ Bella e os Bulldogs		2	40
 Belo Perto Demais da Luz	2024	2	4
 Belo Perto Demais da Luz		2	4
 Belíssima	2005	2	209
+Belíssima		2	209
 Bem Juntinhos		2	23
 Bem Vindos a Australia	2023	2	6
 Bem Vindos a Australia		2	6
@@ -272,9 +274,9 @@ Bem-Vindos ao Clube da Sedução		2	7
 Bem-Vindos à Vizinhança	2022	2	7
 Bem-Vindos à Vizinhança		2	7
 Bem-vindo à Família Plath	2019	2	67
-Bem-vindo à Família Plath		2	67
+Bem-vindo à Família Plath		2	68
 Bem-vindos ao Wrexham	2022	2	17
-Bem-vindos ao Wrexham		2	17
+Bem-vindos ao Wrexham		2	18
 Bem-vindos ao Éden	2022	2	16
 Bem-vindos ao Éden		2	16
 Bem-vindos à Terra	2021	2	6
@@ -299,12 +301,12 @@ Bernie Madoff O Golpista de Wall Street	2023	2	4
 Bernie Madoff O Golpista de Wall Street		2	4
 Berserk	1997	2	25
 Berserk		2	25
-Best Medicine		2	10
+Best Medicine		2	12
 Betaal	2020	2	4
 Betaal		2	4
 Betinho No Fio da Navalha	2023	2	8
 Betinho No Fio da Navalha		2	8
-Betrayal		2	3
+Betrayal		2	4
 Betrothed to My Sisters Ex	2025	2	12
 Betrothed to My Sisters Ex		2	12
 Better Call Saul	2015	2	126
@@ -333,12 +335,12 @@ Bicampeas		2	4
 Biduzidos	2018	2	1
 Biduzidos		2	1
 Big Bang A Teoria	2007	2	557
-Big Bang: A Teoria		2	557
+Big Bang A Teoria		2	557
 Big Blue O Grande Oceano		2	52
 Big Boys	2022	2	6
 Big Boys		2	6
 Big Brother Brasil	2002	2	295
-Big Brother Brasil		2	294
+Big Brother Brasil		2	300
 Big Brother Brasil A Eliminacao	2003	2	16
 Big Brother Brasil A Eliminacao		2	16
 Big Dogs	2020	2	8
@@ -356,8 +358,8 @@ Big Nate		2	36
 Big Shot: Treinador de Elite	2021	2	20
 Big Shot: Treinador de Elite		2	20
 Big Sky	2020	2	46
-Big Sky		2	46
-Big Time Rush	2009	2	69
+Big Sky		3	46
+Big Time Rush	2009	3	69
 Big Time Rush		3	69
 Big Vape The Rise and Fall of Juul	2023	3	4
 Big Vape The Rise and Fall of Juul		3	4
@@ -410,7 +412,7 @@ Black Space		3	8
 Black Summer	2019	3	16
 Black Summer		3	16
 Black ish	2014	3	153
-Black ish		3	153
+Black ish		3	154
 Blackshore	2024	3	6
 Blackshore		3	6
 Blade A Serie	2006	3	13
@@ -424,7 +426,7 @@ Blanca		3	12
 Blaze and the Monster Machines	2014	3	20
 Blaze and the Monster Machines		3	20
 Bleach	2004	3	831
-Bleach		3	831
+Bleach		3	1209
 Blindspotting	2021	3	16
 Blindspotting		3	16
 Bling Ring: A História por Trás dos Roubos	2022	3	3
@@ -443,11 +445,11 @@ Blood Machines	2020	3	3
 Blood Machines		3	3
 Bloody Game	2021	3	12
 Bloody Game		3	12
-Bloom Life		3	7
+Bloom Life		3	8
 Blossom	1990	3	113
 Blossom		3	113
 Blue Archive The Animation	2024	3	18
-Blue Archive The Animation		3	18
+Blue Archive The Animation		3	19
 Blue Box	2024	3	25
 Blue Box		3	25
 Blue Canvas of Youthful Days	2024	3	12
@@ -476,16 +478,16 @@ Boardwalk Empire: O Império do Contrabando	2010	3	56
 Boardwalk Empire: O Império do Contrabando		3	56
 Boate Kiss: A Tragédia de Santa Maria	2023	3	5
 Boate Kiss: A Tragédia de Santa Maria		3	5
-Bob Burnquist A Lenda do Skate	2024	3	4
-Bob Burnquist A Lenda do Skate		3	4
+Bob Burnquist A Lenda do Skate	2024	4	4
+Bob Burnquist A Lenda do Skate		4	4
 Bob Esponja Calca Quadrada	1999	4	310
-Bob Esponja Calca Quadrada		4	310
+Bob Esponja Calca Quadrada		4	314
 Bob O Construtor	1999	4	52
 Bob O Construtor		4	52
 Bob Zoom		4	22
 Bob's Burgers		4	242
 Bobs Burgers	2011	4	309
-Bobs Burgers		4	294
+Bobs Burgers		4	304
 Boca a Boca	2020	4	6
 Boca a Boca		4	6
 Boca do Lixo	1990	4	8
@@ -501,7 +503,7 @@ Bodycam - Registros Criminosos		4	50
 Bogus Skill Fruitmaster	2025	4	12
 Bogus Skill Fruitmaster		4	12
 Boku no Hero Academia	2016	4	333
-Boku no Hero Academia		4	342
+Boku no Hero Academia		4	477
 Boku no Kokoro no Yabai Yatsu	2023	4	25
 Boku no Kokoro no Yabai Yatsu		4	25
 Boku to Roboko	2022	4	28
@@ -546,7 +548,7 @@ Borgen		4	30
 Borges	2018	4	10
 Borges		4	10
 Boruto: Naruto Next Generations	2017	4	586
-Boruto: Naruto Next Generations		4	745
+Boruto: Naruto Next Generations		4	1271
 Bosch		4	68
 Bosch: O Legado	2022	4	30
 Bosch: O Legado		4	30
@@ -596,8 +598,8 @@ Brawn Uma Historia Incrivel da F1		4	4
 Breadwinners	2014	4	40
 Breadwinners		4	40
 Break Point	2023	4	11
-Break Point		4	11
-Breaking Bad: A Química do Mal	2008	4	124
+Break Point		5	11
+Breaking Bad: A Química do Mal	2008	5	124
 Breaking Bad: A Química do Mal		5	124
 Breakthrough: Bem-Vindo ao Futuro		5	6
 Breathe	2018	5	8
@@ -623,7 +625,7 @@ Bright Girls Success		5	16
 Bright Minds	2020	5	50
 Bright Minds		5	58
 Brilhante Victória	2010	5	57
-Brilhante Victória		5	57
+Brilhante Victória		5	60
 Brilho Perfeito		5	1
 Brincando Com Fogo	2020	5	43
 Brincando Com Fogo		5	43
@@ -674,7 +676,7 @@ Bulletproof		5	6
 Bump	2021	5	20
 Bump		5	20
 Bungo Stray Dogs	2016	5	109
-Bungo Stray Dogs		5	61
+Bungo Stray Dogs		5	109
 Burning Bush	2013	5	3
 Burning Bush		5	3
 Busca Imediata: Pessoas Desaparecidas	2023	5	8
@@ -693,7 +695,7 @@ Butareba The Story of a Man Turned into a Pig		5	3
 Buuu: Um Chamado para a Aventura	2015	5	26
 Buuu: Um Chamado para a Aventura		5	26
 Bye Bye Earth	2024	5	39
-Bye Bye Earth		5	39
+Bye Bye Earth		5	58
 Bárbaros	2022	5	12
 Bárbaros		5	12
 Börü		5	6
