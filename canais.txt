@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://api.reidoscanais.ooo/img/ae.png" group-title="FILMES E SÉRIES", A&E (S79)
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://www.tvlogo.org/brazil/a-and-e-br.png" group-title="FILMES E SÉRIES", A&E (S79)
 http://79.127.238.228:14551
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.reidoscanais.ooo/img/animalplanet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://mondrian.claro.com.br/channels/inverse/animal-planet.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
 http://79.127.238.228:14563
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://api.reidoscanais.ooo/img/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://api.reidoscanais.ooo/img/bandsports.png" group-title="ESPORTES", BAND SPORTS (ST)
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/band-sports.png" group-title="ESPORTES", BAND SPORTS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.ts
-#EXTINF:-1 tvg-id="Bis" tvg-logo="https://api.reidoscanais.ooo/img/bis.png" group-title="VARIEDADES", BIS (ST)
+#EXTINF:-1 tvg-id="Bis" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bis.png" group-title="VARIEDADES", BIS (ST)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/bis/__index.m3u8?sv=34&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472358-2Vjy6MD5iO2TRdscfErcXvdkjuIsSAJZbzBugKHDWoI%3D
-#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://api.reidoscanais.ooo/img/canaloff.png" group-title="ESPORTES", CANAL OFF (ST)
+#EXTINF:-1 tvg-id="canal-off" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-off.png" group-title="ESPORTES", CANAL OFF (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api.reidoscanais.ooo/img/cazetv.webp" group-title="ESPORTES", CAZE TV (ST)
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://api.reidoscanais.ooo/img/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
-#EXTINF:-1 tvg-id="Combate " tvg-logo="https://embedcanaisdetv.com/images/combate.png" group-title="ESPORTES", COMBATE (S46)
+#EXTINF:-1 tvg-id="Combate " tvg-logo="https://mondrian.claro.com.br/channels/inverse/combate.png" group-title="ESPORTES", COMBATE (S46)
 http://46.151.196.223:14468
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://api.reidoscanais.ooo/img/discoverychannel.webp" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery.png" group-title="DOCUMENTÁRIOS", DISCOVERY CHANNEL (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.ts
-#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://api.reidoscanais.ooo/img/discoveryid.png" group-title="REALITY", DISCOVERY ID (ST)
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png" group-title="REALITY", DISCOVERY ID (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.ts
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://api.reidoscanais.ooo/img/discoveryscience.webp" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://mondrian.claro.com.br/channels/inverse/discovery-science.png" group-title="DOCUMENTÁRIOS", DISCOVERY SCIENCE (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN", ESPN (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.ts
@@ -39,83 +39,83 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.ts
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.ts
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="http://www.fontedecanais.tv:80/logos/canais/espn6.png" group-title="ESPN", ESPN 6 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.ts
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://api.reidoscanais.ooo/img/fishtv.png" group-title="ESPORTES", FISH TV (ST)
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fish-tv.png" group-title="ESPORTES", FISH TV (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
-#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://api.reidoscanais.ooo/img/globoplaynovelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://mondrian.claro.com.br/channels/inverse/globoplay-novelas.png" group-title="NOVELAS", GLOBOPLAY NOVELAS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1052.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://api.reidoscanais.ooo/img/hbofamily.png" group-title="HBO", HBO FAMILY (ST)
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-family.png" group-title="HBO", HBO FAMILY (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://embedcanaisdetv.com/images/hbopop.png" group-title="HBO", HBO POP (ST)
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-pop.png" group-title="HBO", HBO POP (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1123.ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://api.reidoscanais.ooo/img/hbosignature.png" group-title="HBO", HBO SIGNATURE (ST)
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-signature.png" group-title="HBO", HBO SIGNATURE (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1122.ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://api.reidoscanais.ooo/img/hboxtreme.png" group-title="HBO", HBO XTREME (ST)
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png" group-title="HBO", HBO XTREME (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1121.ts
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hbo.png" group-title="HBO", HBO (ST)
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo.png" group-title="HBO", HBO (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.ts
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://api.reidoscanais.ooo/img/hboplus.png" group-title="HBO", HBO+ (ST)
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo.png" group-title="HBO", HBO+ (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1124.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://api.reidoscanais.ooo/img/hbo2.png" group-title="HBO", HBO2 (ST)
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hbo-2.png" group-title="HBO", HBO2 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.ts
-#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://api.reidoscanais.ooo/img/hgtv.png" group-title="VARIEDADES",HGTV (S200)
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png" group-title="VARIEDADES",HGTV (S200)
 http://200.229.190.189:8001/play/a01b
-#EXTINF:-1 tvg-id="megapix" tvg-logo="https://api.reidoscanais.ooo/img/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (ST)
+#EXTINF:-1 tvg-id="megapix" tvg-logo="https://mondrian.claro.com.br/channels/inverse/megapix.png" group-title="FILMES E SÉRIES", MEGAPIX (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
-#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (OT)
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (OT)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
-#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (RK)
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (RK)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/nsports.png" group-title="ESPORTES", N SPORTS (SS)
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (SS)
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE", PREMIERE 2 (ST)
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE", PREMIERE 2 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 3 (ST)
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE",PREMIERE 3 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 4 (ST)
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE",PREMIERE 4 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE 5 (ST)
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE",PREMIERE 5 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1101.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://embedcanaisdetv.com/images/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.ts
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://api.reidoscanais.ooo/img/sonychannel.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
 https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://api.reidoscanais.ooo/img/sonymovies.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
+#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://www.tvlogo.org/brazil/sony-movies-br.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
 https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedcanaisdetv.com/images/sportv.png" group-title="SPORTV", SPORTV (ST)
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sportv-3.png" group-title="SPORTV", SPORTV (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
-#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv2.png" group-title="SPORTV", SPORTV2 (ST)
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sportv-3.png" group-title="SPORTV", SPORTV2 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
-#EXTINF:-1 tvg-logo="https://embedcanaisdetv.com/images/sportv3.png" group-title="SPORTV", SPORTV3 (ST)
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sportv-3.png" group-title="SPORTV", SPORTV3 (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
-#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://api.reidoscanais.ooo/img/studiouniversal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
+#EXTINF:-1 tvg-id="studio-universal" tvg-logo="https://mondrian.claro.com.br/channels/inverse/studio-universal.png" group-title="FILMES E SÉRIES", STUDIO UNIVERSAL (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1078.m3u8
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://embedcanaisdetv.com/images/tcaction.png" group-title="TELECINE", TELECINE ACTION (ST)
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE", TELECINE ACTION (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.ts
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (ST)
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="TELECINE", TELECINE CULT (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.ts
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://embedcanaisdetv.com/images/tcfun.png" group-title="TELECINE", TELECINE FUN (ST)
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="TELECINE", TELECINE FUN (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.ts
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://embedcanaisdetv.com/images/tcpipoca.png" group-title="TELECINE", TELECINE PIPOCA (ST)
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="TELECINE", TELECINE PIPOCA (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.ts
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://embedcanaisdetv.com/images/tcpremium.png" group-title="TELECINE", TELECINE PREMIUM (ST)
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png" group-title="TELECINE", TELECINE PREMIUM (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.ts
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://embedcanaisdetv.com/images/tctouch.png" group-title="TELECINE", TELECINE TOUCH (ST)
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png" group-title="TELECINE", TELECINE TOUCH (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.ts
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://api.reidoscanais.ooo/img/tnt.png" group-title="FILMES E SÉRIES", TNT (ST)
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt.png" group-title="FILMES E SÉRIES", TNT (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
-#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://api.reidoscanais.ooo/img/tntseries.png" group-title="SÉRIES", TNT SÉRIES (ST)
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://mondrian.claro.com.br/channels/inverse/tnt-series.png" group-title="SÉRIES", TNT SÉRIES (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
-#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA (ST)
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="FILMES E SÉRIES", USA (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
-#EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
-#EXTINF:-1 tvg-id="Warner" tvg-logo="https://api.reidoscanais.ooo/img/warnertv.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="FILMES E SÉRIES", AMC (NOVA)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473027-1p5ON3MLfzAs8siCd4PYlYy%2FbYd54KR6B6BZBJq8I%2Bo%3D
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://embedcanaisdetv.com/images/tccult.png" group-title="TELECINE", TELECINE CULT (NOVA)
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="TELECINE", TELECINE CULT (NOVA)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=147&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472536-p1uhXCPAv%2BhiNspGPwSLrgfu%2Bk%2F3lPr0weu%2FwQ0t7Xo%3D
-#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://api.reidoscanais.ooo/img/usa.png" group-title="FILMES E SÉRIES", USA NETWORK (NOVA)
+#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="FILMES E SÉRIES", USA NETWORK (NOVA)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=152&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472952-usk1Sd862HUsEeFJpIgF1mgp%2BipLQSEzd%2BnacW%2BsYEs%3D
-#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://embedcanaisdetv.com/images/xsports.png" group-title="ESPORTES", X SPORTS (ST)
+#EXTINF:-1 tvg-id="X Sports" tvg-logo="https://mondrian.claro.com.br/channels/inverse/xsports.png" group-title="ESPORTES", X SPORTS (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1139.m3u8

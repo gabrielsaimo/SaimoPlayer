@@ -24,7 +24,7 @@ struct CatalogEntry {
 private let catalog: [CatalogEntry] = [
     CatalogEntry(
         name: "A&E",
-        logo: "https://cdn.reidoscanais.st/imagens/ae.png",
+        logo: "https://www.tvlogo.org/brazil/a-and-e-br.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -33,7 +33,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Adult Swim",
-        logo: "https://cdn.reidoscanais.st/imagens/adultswim.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/adult-swim.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -42,7 +42,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "AMC",
-        logo: "https://cdn.reidoscanais.st/imagens/amc.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/amc.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473027-1p5ON3MLfzAs8siCd4PYlYy%2FbYd54KR6B6BZBJq8I%2Bo%3D",
                    referer: nil,
@@ -51,7 +51,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Animal Planet",
-        logo: "https://cdn.reidoscanais.st/imagens/animalplanet.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/animal-planet.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -60,7 +60,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Band",
-        logo: "https://cdn.reidoscanais.st/imagens/band.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/band.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -69,7 +69,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Cartoon Network",
-        logo: "https://cdn.reidoscanais.st/imagens/cartoonnetwork.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cartoon-network.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -78,7 +78,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "CazéTV",
-        logo: "https://cdn.reidoscanais.st/imagens/cazetv.webp",
+        logo: "https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300",
         sources: [
             Source(url: "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
                    referer: nil,
@@ -87,7 +87,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "CNN Brasil",
-        logo: "https://cdn.reidoscanais.st/imagens/cnnbrasil.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png",
         sources: [
             Source(url: "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
                    referer: nil,
@@ -105,7 +105,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "E!",
-        logo: "https://cdn.reidoscanais.st/imagens/e.png",
+        logo: "https://commons.wikimedia.org/wiki/Special:FilePath/E%21_Logo_Flat_2012.svg?width=300",
         sources: [
             Source(url: "https://video49.mais.uol.com.br/live/4503.mpd",
                    referer: "https://painel.play.uol.com.br/",
@@ -123,7 +123,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Globo RJ",
-        logo: "https://cdn.reidoscanais.st/imagens/tvglobo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/globo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -132,7 +132,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "GloboNews",
-        logo: "https://cdn.reidoscanais.st/imagens/globonews.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/globonews.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -141,7 +141,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Globoplay Novelas",
-        logo: "https://cdn.reidoscanais.st/imagens/globoplaynovelas.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/globoplay-novelas.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -150,7 +150,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "GNT",
-        logo: "https://cdn.reidoscanais.st/imagens/gnt.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/gnt.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -159,7 +159,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "History",
-        logo: "https://cdn.reidoscanais.st/imagens/history.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/history-channel.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -168,7 +168,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "History 2",
-        logo: "https://cdn.reidoscanais.st/imagens/history2.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/history-2.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -177,7 +177,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Jovem Pan News",
-        logo: "https://cdn.reidoscanais.st/imagens/jpnews.webp",
+        logo: "https://www.tvlogo.org/brazil/jovem-pan-news-br.png",
         sources: [
             Source(url: "https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8",
                    referer: nil,
@@ -186,7 +186,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Megapix",
-        logo: "https://cdn.reidoscanais.st/imagens/megapix.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/megapix.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -195,7 +195,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Multishow",
-        logo: "https://cdn.reidoscanais.st/imagens/multishow.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/multishow.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -204,7 +204,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 2",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -213,7 +213,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 3",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -222,7 +222,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 4",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -231,7 +231,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 5",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -240,7 +240,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 6",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -249,7 +249,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 7",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -258,7 +258,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere 8",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -267,7 +267,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Premiere Clubes",
-        logo: "https://cdn.reidoscanais.st/imagens/premiere.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/premiere.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -276,7 +276,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SBT",
-        logo: "https://cdn.reidoscanais.st/imagens/sbt.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sbt.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -285,7 +285,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SBT News",
-        logo: "https://cdn.reidoscanais.st/imagens/sbtnews.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sbt-news.png",
         sources: [
             Source(url: "https://sbtnews.maissbt.com/index.m3u8",
                    referer: "https://mais.sbt.com.br/",
@@ -294,7 +294,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Sony Channel",
-        logo: "https://cdn.reidoscanais.st/imagens/sonychannel.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sony.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -303,7 +303,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SporTV",
-        logo: "https://cdn.reidoscanais.st/imagens/sportv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sportv-3.png",
         sources: [
             Source(url: "https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408554-MK0K7%2F0RIabb2i7ktFkDI1P2aEeyuwRUwvOxauQ5e1c%3D",
                    referer: nil,
@@ -312,7 +312,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SporTV 2",
-        logo: "https://cdn.reidoscanais.st/imagens/sportv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sportv-3.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -321,7 +321,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SporTV 3",
-        logo: "https://cdn.reidoscanais.st/imagens/sportv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sportv-3.png",
         sources: [
             Source(url: "https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
                    referer: "https://www.primevideo.com/",
@@ -330,7 +330,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Action",
-        logo: "https://cdn.reidoscanais.st/imagens/telecineaction.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=181&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472482-ZnuPAKOOcUnNJSwlKHAUzpC2nD0jQys4%2B%2B4TDFuEZss%3D",
                    referer: nil,
@@ -339,7 +339,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Pipoca",
-        logo: "https://cdn.reidoscanais.st/imagens/telecinepipoca.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=39&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472639-q0t4kfoYFwuz0fd9JMSAa%2B%2B62MGZTiRr2rqnMJx96lU%3D",
                    referer: nil,
@@ -348,7 +348,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Premium",
-        logo: "https://cdn.reidoscanais.st/imagens/telecinepremium.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=96&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472691-FnJa9ar3%2BK%2B9Fsm2Hh%2Bec16N3WQUmrIk78qNE9Mwzic%3D",
                    referer: nil,
@@ -357,7 +357,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Brasil",
-        logo: "https://cdn.reidoscanais.st/imagens/tvbrasil.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tv-brasil.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -384,7 +384,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Warner",
-        logo: "https://cdn.reidoscanais.st/imagens/warnertv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/warner-channel.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -402,7 +402,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Globo SP",
-        logo: "https://cdn.reidoscanais.st/imagens/tvglobo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/globo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -411,7 +411,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Cartoonito",
-        logo: "https://cdn.reidoscanais.st/imagens/cartoonito.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cartoonito.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473248-7Yzu%2FtAxzRQJhmQMxTVyaqyf5vslWwRo1yq49kLi7ms%3D",
                    referer: nil,
@@ -420,7 +420,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Cinemax",
-        logo: "https://cdn.reidoscanais.st/imagens/cinemax.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cinemax.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -429,7 +429,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery Channel",
-        logo: "https://cdn.reidoscanais.st/imagens/discoverychannel.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -438,7 +438,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery Kids",
-        logo: "https://cdn.reidoscanais.st/imagens/discoverykids.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-kids.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -447,7 +447,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery Theater",
-        logo: "https://cdn.reidoscanais.st/imagens/discoverytheater.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-theater.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -456,7 +456,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery World",
-        logo: "https://cdn.reidoscanais.st/imagens/discoveryworld.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-world.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -465,7 +465,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "ESPN",
-        logo: "https://cdn.reidoscanais.st/imagens/espn.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -474,7 +474,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "ESPN 2",
-        logo: "https://cdn.reidoscanais.st/imagens/espn.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -483,7 +483,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "ESPN 4",
-        logo: "https://cdn.reidoscanais.st/imagens/espn.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -492,7 +492,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO",
-        logo: "https://cdn.reidoscanais.st/imagens/hbo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -501,7 +501,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO2",
-        logo: "https://cdn.reidoscanais.st/imagens/hbo2.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-2.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -510,7 +510,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO Family",
-        logo: "https://cdn.reidoscanais.st/imagens/hbofamily.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-family.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -528,7 +528,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO Plus",
-        logo: "https://cdn.reidoscanais.st/imagens/hboplus.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hboplus.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -537,7 +537,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO Pop",
-        logo: "https://cdn.reidoscanais.st/imagens/hbopop.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-pop.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -546,7 +546,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO Signature",
-        logo: "https://cdn.reidoscanais.st/imagens/hbosignature.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-signature.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -555,7 +555,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HBO Xtreme",
-        logo: "https://cdn.reidoscanais.st/imagens/hboxtreme.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -564,7 +564,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "HGTV",
-        logo: "https://cdn.reidoscanais.st/imagens/hgtv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/hgtv.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -573,7 +573,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Record",
-        logo: "https://cdn.reidoscanais.st/imagens/record.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/record-tv.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -582,7 +582,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Space",
-        logo: "https://cdn.reidoscanais.st/imagens/space.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/space.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -591,7 +591,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TNT",
-        logo: "https://cdn.reidoscanais.st/imagens/tnt.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tnt.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -600,7 +600,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TNT Séries",
-        logo: "https://cdn.reidoscanais.st/imagens/tntseries.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tnt-series.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -609,7 +609,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Universal TV",
-        logo: "https://cdn.reidoscanais.st/imagens/universaltv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/universal.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=160&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472902-u%2FRQX14ioJ69OPfvvDO1qYblKfL%2FF5lv7lKx%2Bx9GxPk%3D",
                    referer: nil,
@@ -631,7 +631,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery Turbo",
-        logo: "https://cdn.reidoscanais.st/imagens/discoveryturbo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -640,7 +640,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "USA Network",
-        logo: "https://cdn.reidoscanais.st/imagens/usa.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/usa.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=152&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472952-usk1Sd862HUsEeFJpIgF1mgp%2BipLQSEzd%2BnacW%2BsYEs%3D",
                    referer: nil,
@@ -649,7 +649,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Fun",
-        logo: "https://cdn.reidoscanais.st/imagens/telecinefun.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=45&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472591-MQu9Zm%2F3aV46qgPi%2FGK8lQPITC7rFBu89BYJX9HQhl4%3D",
                    referer: nil,
@@ -658,7 +658,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Cult",
-        logo: "https://cdn.reidoscanais.st/imagens/telecinecult.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=147&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472536-p1uhXCPAv%2BhiNspGPwSLrgfu%2Bk%2F3lPr0weu%2FwQ0t7Xo%3D",
                    referer: nil,
@@ -667,7 +667,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Telecine Touch",
-        logo: "https://cdn.reidoscanais.st/imagens/telecinetouch.png",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png",
         sources: [
             Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=39&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472733-mezOvP3QyByaaJYUwIpFQYMT3SQbdg5UhkhHmws96XE%3D",
                    referer: nil,
@@ -676,7 +676,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SONY Movies",
-        logo: "https://cdn.reidoscanais.st/imagens/sonymovies.png",
+        logo: "https://www.tvlogo.org/brazil/sony-movies-br.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -686,7 +686,7 @@ private let catalog: [CatalogEntry] = [
 
     CatalogEntry(
         name: "Globo",
-        logo: "https://cdn.reidoscanais.st/imagens/tvglobo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/globo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -695,7 +695,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Tooncast",
-        logo: "https://cdn.reidoscanais.st/imagens/tooncast.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tooncast.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -704,7 +704,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TLC",
-        logo: "https://cdn.reidoscanais.st/imagens/tlc.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tlc.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -713,7 +713,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Arte 1",
-        logo: "https://cdn.reidoscanais.st/imagens/arte1.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/arte1.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -722,7 +722,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TNT Novelas",
-        logo: "https://cdn.reidoscanais.st/imagens/tntnovelas.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tnt-novelas.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -731,7 +731,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery Science",
-        logo: "https://cdn.reidoscanais.st/imagens/discoveryscience.webp",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery-science.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -749,7 +749,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "AXN",
-        logo: "https://cdn.reidoscanais.st/imagens/axn.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/axn.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -767,7 +767,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Band News",
-        logo: "https://cdn.reidoscanais.st/imagens/bandnews.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/band-news.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -785,7 +785,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "RedeTV!",
-        logo: "https://cdn.reidoscanais.st/imagens/redetv.png",
+        logo: "https://www.tvlogo.org/brazil/rede-tv-br.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -794,7 +794,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Cultura",
-        logo: "https://cdn.reidoscanais.st/imagens/tvcultura.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/cultura.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -812,7 +812,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Woohoo",
-        logo: "https://cdn.reidoscanais.st/imagens/woohoo.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/woohoo.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -830,7 +830,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "ESPN 3",
-        logo: "https://cdn.reidoscanais.st/imagens/espn.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -857,7 +857,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Record News",
-        logo: "https://cdn.reidoscanais.st/imagens/recordnews.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/recordnews.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -875,7 +875,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Aparecida",
-        logo: "https://cdn.reidoscanais.st/imagens/aparecida.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -893,7 +893,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Discovery ID",
-        logo: "https://cdn.reidoscanais.st/imagens/discoveryid.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -902,7 +902,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Fish TV",
-        logo: "https://cdn.reidoscanais.st/imagens/fishtv.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/fish-tv.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -920,7 +920,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Sabor & Arte",
-        logo: "https://cdn.reidoscanais.st/imagens/saborearte.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -929,7 +929,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "X Sports",
-        logo: "https://cdn.reidoscanais.st/imagens/xsports.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/xsports.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -938,7 +938,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "N SPORTS",
-        logo: "https://cdn.reidoscanais.st/imagens/nsports.png",
+        logo: "https://mondrian.claro.com.br/channels/inverse/nsports.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
