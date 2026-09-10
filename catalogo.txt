@@ -77,6 +77,7 @@ fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjr
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
+fonte: http://79.127.238.228:14093
 
 canal: Globoplay Novelas
 logo: https://mondrian.claro.com.br/channels/inverse/globoplay-novelas.png
@@ -84,6 +85,7 @@ fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhr
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
+fonte: http://79.127.238.228:14455
 
 canal: GNT
 logo: https://mondrian.claro.com.br/channels/inverse/gnt.png
@@ -91,10 +93,12 @@ fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1d
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
+fonte: http://79.127.238.228:14402
 
 canal: History
 logo: https://mondrian.claro.com.br/channels/inverse/history-channel.png
 fonte: https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: http://46.151.196.223:14410
 
 canal: History 2
 logo: https://mondrian.claro.com.br/channels/inverse/history-2.png
@@ -111,6 +115,7 @@ fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertw
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
+fonte: http://79.127.238.228:14592
 
 canal: Multishow
 logo: https://mondrian.claro.com.br/channels/inverse/multishow.png
@@ -222,6 +227,7 @@ fonte: https://xn--l---------------------------_________________________-2w85c.n
 canal: TV Brasil
 logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: https://cdn-sp2.satlabscloud.com.br/TVE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Universal Premiere
 logo: https://mondrian.claro.com.br/channels/inverse/universal-premiere.png
@@ -332,6 +338,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan
 canal: Record
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 fonte: https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: http://79.127.238.228:14057
 
 canal: Space
 logo: https://mondrian.claro.com.br/channels/inverse/space.png
@@ -392,6 +399,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAa
 canal: TLC
 logo: https://mondrian.claro.com.br/channels/inverse/tlc.png
 fonte: https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: http://79.127.238.228:14433
 
 canal: Arte 1
 logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
@@ -464,6 +472,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=ulDZj
 canal: Canção Nova
 logo: https://mondrian.claro.com.br/channels/inverse/cancao-nova.png
 fonte: https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: http://46.151.196.223:14225
 
 canal: TV Aparecida
 logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
@@ -472,6 +481,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=ulDZ
 canal: Rede Vida
 logo: https://www.tvlogo.org/brazil/rede-vida-br.png
 fonte: https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+fonte: http://46.151.196.223:14244
 
 canal: Discovery ID
 logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
@@ -500,3 +510,82 @@ fonte: https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan
 canal: Music Box Brazil
 logo: https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png
 fonte: https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Band SP
+logo: https://mondrian.claro.com.br/channels/inverse/band.png
+fonte: https://cdn-sp2.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Band RS
+logo: https://mondrian.claro.com.br/channels/inverse/band.png
+fonte: https://cdn-sp2.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: SBT SP
+logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
+fonte: https://cdn-sp2.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: SBT RS
+logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
+fonte: https://cdn-sp2.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Record SP
+logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
+fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Record RS
+logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
+fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Canal Rural
+fonte: https://cdn-sp2.satlabscloud.com.br/CANAL_RURAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Agro Mais
+fonte: https://cdn-sp2.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: CNT
+fonte: https://cdn-sp2.satlabscloud.com.br/CNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Markket
+fonte: https://cdn-sp2.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Pai Eterno
+fonte: https://cdn-sp2.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: PlayTV
+fonte: https://cdn-sp2.satlabscloud.com.br/PLAYTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Rede Brasil
+fonte: https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Rede Gospel
+fonte: https://cdn-sp2.satlabscloud.com.br/REDE_GOSPEL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Rede Super
+fonte: https://cdn-sp2.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Trace Brazuca
+fonte: https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Câmara
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Evangelizar
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Justiça
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Novo Tempo
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_NOVO_TEMPO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Senado
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: RIT
+fonte: https://cdn-sp2.satlabscloud.com.br/RIT/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: TV Escola
+fonte: https://cdn-sp2.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: Discovery Home & Health
+logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
+fonte: https://cdn-sp2.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
