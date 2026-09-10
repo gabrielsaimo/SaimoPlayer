@@ -43,8 +43,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kA
 
 canal: CazéTV
 logo: https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300
-fonte: https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
+fonte: https://cdn-sp2.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: CNN Brasil
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png
@@ -210,7 +209,7 @@ chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
 canal: Telecine Action
 logo: https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=181&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472482-ZnuPAKOOcUnNJSwlKHAUzpC2nD0jQys4%2B%2B4TDFuEZss%3D
+fonte: http://46.151.196.223:14326
 
 canal: Telecine Pipoca
 logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png
@@ -285,6 +284,14 @@ fonte: https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAa
 canal: ESPN 4
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: ESPN 5
+logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+fonte: https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+
+canal: ESPN 6
+logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+fonte: https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO
 logo: https://mondrian.claro.com.br/channels/inverse/hbo.png

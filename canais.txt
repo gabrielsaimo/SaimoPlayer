@@ -13,9 +13,9 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.ts
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/bis/__index.m3u8?sv=34&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472358-2Vjy6MD5iO2TRdscfErcXvdkjuIsSAJZbzBugKHDWoI%3D
 #EXTINF:-1 tvg-id="canal-off" tvg-logo="https://mondrian.claro.com.br/channels/inverse/canal-off.png" group-title="ESPORTES", CANAL OFF (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
+#EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
+#EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/cinemax.png" group-title="FILMES E SÉRIES", CINEMAX (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.ts
