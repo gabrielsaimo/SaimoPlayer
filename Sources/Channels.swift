@@ -138,6 +138,10 @@ private let catalog: [CatalogEntry] = [
                    referer: "https://www.primevideo.com/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
                    clearKey: "57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900"),
+            Source(url: "http://79.127.238.228:14093",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "Globoplay Novelas",
@@ -147,6 +151,10 @@ private let catalog: [CatalogEntry] = [
                    referer: "https://www.primevideo.com/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
                    clearKey: "eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977"),
+            Source(url: "http://79.127.238.228:14455",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "GNT",
@@ -156,12 +164,20 @@ private let catalog: [CatalogEntry] = [
                    referer: "https://www.primevideo.com/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
                    clearKey: "4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61"),
+            Source(url: "http://79.127.238.228:14402",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "History",
         logo: "https://mondrian.claro.com.br/channels/inverse/history-channel.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://46.151.196.223:14410",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -192,6 +208,10 @@ private let catalog: [CatalogEntry] = [
                    referer: "https://www.primevideo.com/",
                    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
                    clearKey: "cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654"),
+            Source(url: "http://79.127.238.228:14592",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "Multishow",
@@ -360,6 +380,10 @@ private let catalog: [CatalogEntry] = [
         logo: "https://mondrian.claro.com.br/channels/inverse/tv-brasil.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TVE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -597,6 +621,10 @@ private let catalog: [CatalogEntry] = [
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
+            Source(url: "http://79.127.238.228:14057",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "Space",
@@ -725,6 +753,10 @@ private let catalog: [CatalogEntry] = [
         logo: "https://mondrian.claro.com.br/channels/inverse/tlc.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://79.127.238.228:14433",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -890,6 +922,10 @@ private let catalog: [CatalogEntry] = [
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
+            Source(url: "http://46.151.196.223:14225",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
         ]),
     CatalogEntry(
         name: "TV Aparecida",
@@ -905,6 +941,10 @@ private let catalog: [CatalogEntry] = [
         logo: "https://www.tvlogo.org/brazil/rede-vida-br.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://46.151.196.223:14244",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -968,6 +1008,222 @@ private let catalog: [CatalogEntry] = [
         logo: "https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Band SP",
+        logo: "https://mondrian.claro.com.br/channels/inverse/band.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Band RS",
+        logo: "https://mondrian.claro.com.br/channels/inverse/band.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "SBT SP",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sbt.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "SBT RS",
+        logo: "https://mondrian.claro.com.br/channels/inverse/sbt.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Record SP",
+        logo: "https://mondrian.claro.com.br/channels/inverse/record-tv.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Record RS",
+        logo: "https://mondrian.claro.com.br/channels/inverse/record-tv.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal Rural",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/CANAL_RURAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Agro Mais",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "CNT",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/CNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Markket",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Pai Eterno",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "PlayTV",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/PLAYTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rede Brasil",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rede Gospel",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/REDE_GOSPEL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rede Super",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Trace Brazuca",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Câmara",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Evangelizar",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Justiça",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Novo Tempo",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_NOVO_TEMPO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Senado",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "RIT",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/RIT/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "TV Escola",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Discovery Home & Health",
+        logo: "https://mondrian.claro.com.br/channels/inverse/discovery.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
