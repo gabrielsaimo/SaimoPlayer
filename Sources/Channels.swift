@@ -80,9 +80,9 @@ private let catalog: [CatalogEntry] = [
         name: "CazéTV",
         logo: "https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300",
         sources: [
-            Source(url: "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
-                   userAgent: "Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258",
+                   userAgent: nil,
                    clearKey: nil),
         ]),
     CatalogEntry(
@@ -332,7 +332,7 @@ private let catalog: [CatalogEntry] = [
         name: "Telecine Action",
         logo: "https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png",
         sources: [
-            Source(url: "https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=181&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472482-ZnuPAKOOcUnNJSwlKHAUzpC2nD0jQys4%2B%2B4TDFuEZss%3D",
+            Source(url: "http://46.151.196.223:14326",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
@@ -486,6 +486,24 @@ private let catalog: [CatalogEntry] = [
         logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
         sources: [
             Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "ESPN 5",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "ESPN 6",
+        logo: "https://mondrian.claro.com.br/channels/inverse/espn-3.png",
+        sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
                    userAgent: nil,
                    clearKey: nil),
