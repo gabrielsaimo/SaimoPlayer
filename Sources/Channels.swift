@@ -3216,7 +3216,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Canal Rural",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/CANAL_RURAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3253,7 +3253,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Agro Mais",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3290,7 +3290,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "CNT",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/CNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3327,7 +3327,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Markket",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/markket.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3364,7 +3364,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Pai Eterno",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-pai-eterno-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3401,7 +3401,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "PlayTV",
-        logo: nil,
+        logo: "https://i.imgur.com/Ikrj3lk.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/PLAYTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3434,7 +3434,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Rede Brasil",
-        logo: nil,
+        logo: "https://i.imgur.com/TXJKwzZ.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3471,7 +3471,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Rede Gospel",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/REDE_GOSPEL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3508,7 +3508,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Rede Super",
-        logo: nil,
+        logo: "https://i.imgur.com/X75qTEm.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3545,7 +3545,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Trace Brazuca",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3582,7 +3582,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Câmara",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3619,7 +3619,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Evangelizar",
-        logo: nil,
+        logo: "https://i.imgur.com/IrYR7Kp.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3656,7 +3656,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Justiça",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/tv-justica.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3693,7 +3693,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Novo Tempo",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_NOVO_TEMPO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3730,7 +3730,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Senado",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3767,7 +3767,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "RIT",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/RIT/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3804,7 +3804,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Escola",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-escola-br.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3878,7 +3878,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Agro Brasil",
-        logo: nil,
+        logo: "https://i.imgur.com/aNkP7Zd.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/AGROBRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -3952,7 +3952,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Blits TV",
-        logo: nil,
+        logo: "https://i.imgur.com/FO4QTRf.jpeg",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/BLITS_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4063,7 +4063,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "CNBC",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/CNBC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4100,7 +4100,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Com Brasil",
-        logo: nil,
+        logo: "https://i.imgur.com/GrjGwKM.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/COM_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4137,7 +4137,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Darkflix",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/darkflix.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/DARKFLIX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4174,7 +4174,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "DW",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dw-int.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/DW/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4211,7 +4211,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Euronews",
-        logo: nil,
+        logo: "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4248,7 +4248,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "EWTN",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/ewtn-int.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/EWTN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4285,7 +4285,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Fox News",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/FOX_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4322,7 +4322,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Fox Sports 2",
-        logo: nil,
+        logo: "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/FOX_SPORTS_2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4359,7 +4359,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Fuel TV",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/fuel-tv.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/FUEL_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4581,7 +4581,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "SESC TV",
-        logo: nil,
+        logo: "https://i.imgur.com/Mu8O6CV.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/SESC_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4655,7 +4655,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Trace Latina",
-        logo: nil,
+        logo: "https://i.imgur.com/CUVAi4u.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TRACE_LATINA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4692,7 +4692,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Trace Toca",
-        logo: nil,
+        logo: "https://i.imgur.com/6SpWnBR.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TRACE_TOCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4729,7 +4729,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Trace Urban",
-        logo: nil,
+        logo: "https://i.imgur.com/DLIbUMx.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TRACE_URBAN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4766,7 +4766,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TVideoNews",
-        logo: nil,
+        logo: "https://i.imgur.com/vstHOYx.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TVIDEONEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4803,7 +4803,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "TV Pampa",
-        logo: nil,
+        logo: "https://mondrian.claro.com.br/channels/inverse/tv-pampa.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/TV_PAMPA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4840,7 +4840,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Urban Kids",
-        logo: nil,
+        logo: "https://i.imgur.com/bDIeiIH.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/URBAN_KIDS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4877,7 +4877,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Urban Movies",
-        logo: nil,
+        logo: "https://i.imgur.com/wcjtSkq.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/URBAN_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4914,7 +4914,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Urban Series",
-        logo: nil,
+        logo: "https://i.imgur.com/ZZOiT4x.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,
@@ -4951,7 +4951,7 @@ private let catalog: [CatalogEntry] = [
         ]),
     CatalogEntry(
         name: "Urban Travel",
-        logo: nil,
+        logo: "https://i.imgur.com/ST24ALh.png",
         sources: [
             Source(url: "https://cdn-mg1.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
                    referer: nil,

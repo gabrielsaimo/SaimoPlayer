@@ -473,8 +473,12 @@ enum XMLTVParser {
         }
 
         for entry in unresolved {
+            // O prefixo só vale quebrando palavra: "fox news" casa com
+            // "fox news channel", mas "viva" não pode casar com "vivax tv" —
+            // o Vivax TV mostrava a programação do Canal Viva por causa disso.
             let candidates = nameToXML.filter {
-                $0.key.hasPrefix(entry.key) || entry.key.hasPrefix($0.key)
+                ($0.key + " ").hasPrefix(entry.key + " ")
+                    || (entry.key + " ").hasPrefix($0.key + " ")
             }
             // Only when it is unambiguous, and never onto an id already taken
             // by a channel that matched exactly.
