@@ -379,6 +379,16 @@ enum XMLTVParser {
         "sbt": "sbt sp",
         "globo rj": "globo rj",
         "globonews": "globonews",
+        // O feed chama estes de outro jeito. Sem apelido, o Discovery ID caía
+        // na regra de prefixo e pegava a programação do Discovery Channel.
+        "discovery id": "investigacao discovery",
+        "amc": "amc brasil",
+        "cnn brasil money": "cnn brasil money hd br",
+        "universal premiere": "universal premiere hd br",
+        "universal reality": "universal reality br",
+        "tnt novelas": "tnt novelas br",
+        "trace brazuca": "trace brasil hd br",
+        "record sp": "recordtv sp",
     ]
 
     static func normalise(_ s: String) -> String {
@@ -485,7 +495,12 @@ enum XMLTVParser {
             guard candidates.count == 1, let ids = candidates.first?.value else { continue }
             let free = ids.filter { !claimed.contains($0) }
             guard !free.isEmpty else { continue }
-            for xmlID in free { xmlToChannel[xmlID] = entry.id }
+            // Marcar aqui também: três canais Discovery casavam por prefixo com
+            // a mesma entrada "Discovery" e o último sobrescrevia os outros.
+            for xmlID in free {
+                xmlToChannel[xmlID] = entry.id
+                claimed.insert(xmlID)
+            }
             matched += 1
         }
 
