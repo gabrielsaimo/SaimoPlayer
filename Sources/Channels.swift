@@ -195,6 +195,10 @@ private let catalog: [CatalogEntry] = [
         name: "Jovem Pan News",
         logo: "https://www.tvlogo.org/brazil/jovem-pan-news-br.png",
         sources: [
+            Source(url: "https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
             Source(url: "https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8",
                    referer: nil,
                    userAgent: "Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258",
