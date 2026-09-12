@@ -4993,6 +4993,663 @@ private let restrictedCatalog: [CatalogEntry] = [
                    userAgent: nil,
                    clearKey: nil),
         ]),
+    CatalogEntry(
+        name: "Playboy TV",
+        logo: nil,
+        sources: [
+            Source(url: "https://canais.fazoeli.co.za/fontes/smart/playboy.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Sexy Hot",
+        logo: nil,
+        sources: [
+            Source(url: "https://canais.fazoeli.co.za/fontes/smart/sexyhot.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Anal",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/anal.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Asian",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/asian.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Big Ass",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/bigass.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Big Dick",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/bigdick.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Big Tits",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/bigtits.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Blowjob",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/blowjob.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Compilation",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/compilation.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Cuckold",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/cuckold.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Fetish",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/fetish.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Gangbang",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/gangbang.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Gay",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/gay.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Hardcore",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/hardcore.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Interracial",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/interracial.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Live Cams",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/livecams.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pornstar",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/pornstar.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "POV",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/pov.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rough",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/rough.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Russian",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/russian.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Threesome",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn.adultiptv.net/threesome.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Woman",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.redtraffic.net/woman.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Anal",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/anal.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Asian",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/asian.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Big Ass",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/defstream.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Big Tits",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/bigtits.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Blonde",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/blonde.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Brunette",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/brunette.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Latina",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/latina.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam Squirt",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/squirt.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyCam White",
+        logo: nil,
+        sources: [
+            Source(url: "https://live.mycamtv.com/white.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Jenny Live",
+        logo: nil,
+        sources: [
+            Source(url: "https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Miami TV Mexico",
+        logo: nil,
+        sources: [
+            Source(url: "https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "O-la-la!",
+        logo: "https://i.imgur.com/6aOmZs4.png",
+        sources: [
+            Source(url: "http://31.148.48.15/O-la-la/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Playboy TV Latin America",
+        logo: "https://i.imgur.com/B3DMUM9.png",
+        sources: [
+            Source(url: "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Penthouse TV",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/5010/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Penthouse TV 2",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/5012/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 01",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6164/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 02",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6165/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 03",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6166/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 04",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6167/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 05",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6168/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 06",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6169/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 07",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6171/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 08",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6172/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 09",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6173/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 10",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6174/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 11",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6175/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 12",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6176/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 13",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6177/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 14",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6178/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 15",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6180/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 16",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6181/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 17",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6182/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 18",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6183/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 19",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6184/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 20",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6185/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 21",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6186/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 22",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6187/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 23",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6188/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 24",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6189/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 25",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6190/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 26",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6191/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 27",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6192/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 28",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6193/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 29",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6194/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 30",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6195/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 31",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6196/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 32",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6197/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 33",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6198/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 34",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6199/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adulto 35",
+        logo: nil,
+        sources: [
+            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6200/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Sex Privé",
+        logo: nil,
+        sources: [
+            Source(url: "https://cdn-mg1.satlabscloud.com.br/SEX_PRIVE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
 ]
 
 private func build(_ entries: [CatalogEntry]) -> [Channel] {
