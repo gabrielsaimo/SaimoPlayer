@@ -173,16 +173,35 @@ final class PlayerModel: NSObject, ObservableObject {
 
     // MARK: - Library
 
-    var visibleChannels: [Channel] {
+    /// A lista dividida como na tela: favoritos à frente, depois cada
+    /// categoria com os seus, em ordem alfabética dentro do grupo.
+    var gruposDeCanais: [(categoria: Categoria, canais: [Channel])] {
         let base = search.isEmpty
             ? channels
             : channels.filter { $0.name.localizedCaseInsensitiveContains(search) }
-        return base.sorted {
-            let fa = isFavorite($0), fb = isFavorite($1)
-            if fa != fb { return fa }
-            return $0.name.localizedStandardCompare($1.name) == .orderedAscending
+        let ordenados = base.sorted {
+            $0.name.localizedStandardCompare($1.name) == .orderedAscending
         }
+        var favoritos: [Channel] = []
+        var porCategoria: [Categoria: [Channel]] = [:]
+        for canal in ordenados {
+            if isFavorite(canal) { favoritos.append(canal) }
+            else { porCategoria[Categoria.de(canal.name), default: []].append(canal) }
+        }
+        var out: [(categoria: Categoria, canais: [Channel])] = []
+        if !favoritos.isEmpty { out.append((.favoritos, favoritos)) }
+        for categoria in Categoria.allCases where categoria != .favoritos {
+            if let lista = porCategoria[categoria], !lista.isEmpty {
+                out.append((categoria, lista))
+            }
+        }
+        return out
     }
+
+    /// A mesma lista em fila única, na ordem em que aparece na tela: é o que o
+    /// teclado percorre, e passar de um grupo para o outro tem de seguir o que
+    /// se vê.
+    var visibleChannels: [Channel] { gruposDeCanais.flatMap(\.canais) }
 
     var selectedChannel: Channel? { channels.first { $0.id == selection } }
 

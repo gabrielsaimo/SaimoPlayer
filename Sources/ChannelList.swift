@@ -55,8 +55,9 @@ struct ChannelListView: View {
 
     private var lista: some View {
         List(selection: $model.selection) {
-            Section("Canais") {
-            ForEach(model.visibleChannels) { channel in
+            ForEach(model.gruposDeCanais, id: \.categoria) { grupo in
+            Section(grupo.categoria.rawValue) {
+            ForEach(grupo.canais) { channel in
                 ChannelRow(channel: channel,
                            isFavorite: model.isFavorite(channel),
                            toggleFavorite: { model.toggleFavorite(channel) })
@@ -78,6 +79,7 @@ struct ChannelListView: View {
                         Divider()
                         Button("Remover canal", role: .destructive) { model.removeChannel(channel) }
                     }
+            }
             }
             }
         }
