@@ -5435,6 +5435,1601 @@ private let catalog: [CatalogEntry] = [
                    userAgent: nil,
                    clearKey: nil),
         ]),
+    CatalogEntry(
+        name: "A Caçadora de Relíquias",
+        logo: "https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "A Feiticeira",
+        logo: "https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Acumuladores Obsessivos",
+        logo: "https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Adrenalina Pura TV",
+        logo: "https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Assombrações",
+        logo: "https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Avatar: A lenda de Aang",
+        logo: "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "BET Pluto TV",
+        logo: "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1784064875197.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Baby Shark TV",
+        logo: "https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Babyfirst",
+        logo: "https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Beyblade",
+        logo: "https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Bob Esponja Calça Quadrada",
+        logo: "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Boruto: Naruto Next Generations",
+        logo: "https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "CBS News",
+        logo: nil,
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "CSI: Miami",
+        logo: "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal Educacao",
+        logo: "https://i.imgur.com/OOB7nrS.png",
+        sources: [
+            Source(url: "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal Futura",
+        logo: "https://i.imgur.com/LgynEBC.png",
+        sources: [
+            Source(url: "http://45.162.64.114/FUTURA/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://170.83.16.50/FUTURA/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://186.219.52.187/futura/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal Gov",
+        logo: "https://i.imgur.com/rHPY0Yv.png",
+        sources: [
+            Source(url: "https://canalgov-stream.ebc.com.br/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://45.177.114.115/TV_BRASIL_2/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://168.197.104.22/TV_BRASIL_2/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal UOL",
+        logo: "https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",
+        sources: [
+            Source(url: "https://video24.mais.uol.com.br/live/6146.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Canal do Boi",
+        logo: "https://i.imgur.com/pVM5MhS.png",
+        sources: [
+            Source(url: "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://168.197.104.22/CANAL_DO_BOI/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Caçadores de Óvnis",
+        logo: "https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG_1732041732595.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Charmed: Jovens Bruxas",
+        logo: "https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Chef TV",
+        logo: "https://i.imgur.com/UYksTee.png",
+        sources: [
+            Source(url: "http://168.197.104.22/CHEF_TV/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Cocoricó",
+        logo: "https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Comedy Central Pluto TV",
+        logo: "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Comedy Central South Park",
+        logo: "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Cultura Fast",
+        logo: nil,
+        sources: [
+            Source(url: "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Death Note",
+        logo: "https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Detetives Médicos",
+        logo: "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Diff’rent Strokes Arnold",
+        logo: "https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "DumDum",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg",
+        sources: [
+            Source(url: "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://168.197.104.22/ZOOMOO/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://186.219.52.187/zoomoo/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Estado Paranormal",
+        logo: "https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "FIFA+",
+        logo: "https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "FailArmy",
+        logo: "https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Filmelier TV",
+        logo: "https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Filmes Suspense",
+        logo: "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Futura",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+        sources: [
+            Source(url: "http://168.197.104.22/FUTURA/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Homeful",
+        logo: "https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67603668f433320008760af1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Hunter x Hunter",
+        logo: "https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65d9167818036500080e8780.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Inspetor Bugiganga",
+        logo: "https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Inuyasha",
+        logo: "https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "JoJo’s Bizarre Adventure",
+        logo: "https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Jornada nas Estrelas A Nova Geração",
+        logo: "https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Jornada nas Estrelas Deep Space Nine",
+        logo: "https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Jornada nas Estrelas Voyager",
+        logo: "https://images.pluto.tv/channels/69162b1ef189e235142b17ab/colorLogoPNG_1766150123044.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Kenan & Kel",
+        logo: "https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "KpopTV Play",
+        logo: "https://i.imgur.com/Tf0vweF.png",
+        sources: [
+            Source(url: "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Are you the One?",
+        logo: "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Biggest Pop",
+        logo: "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Catfish",
+        logo: "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Com o Ex",
+        logo: "https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Dating",
+        logo: nil,
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Jovens e Mães",
+        logo: "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Pluto TV",
+        logo: "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Reality",
+        logo: "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1783347653051.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Rocks",
+        logo: "https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Rupaul's Drag Race",
+        logo: nil,
+        sources: [
+            Source(url: "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MTV Shore",
+        logo: "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MacGyver",
+        logo: "https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Mais MasterChef Brasil",
+        logo: "https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MasterChef",
+        logo: "https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG_1785430539950.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MasterChef Brasil Profissionais",
+        logo: "https://images.pluto.tv/channels/681110afc188aa63faa147e0/colorLogoPNG_1749226372857.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Mistérios sem Solução",
+        logo: "https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Moranguinho",
+        logo: "https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "MyTime Movie Network",
+        logo: "https://i.imgur.com/aiGQtzI.png",
+        sources: [
+            Source(url: "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "NCIS",
+        logo: "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Naruto",
+        logo: "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Naruto Shippuden",
+        logo: "https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG_1785430970647.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64c92f965580090008084968.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "NatureTime",
+        logo: "https://images.pluto.tv/channels/681ba2ad93d3d19bcab47433/colorLogoPNG_1785430696843.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nick Jr. Club",
+        logo: "https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "NickOnline",
+        logo: "https://x1colegal.com/logo.png",
+        sources: [
+            Source(url: "https://x1colegal.com/hls/stream.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "NickOnline Bob Esponja",
+        logo: "https://x1colegal.com/nickonlinebobesponja.png",
+        sources: [
+            Source(url: "https://bob.x1colegal.com/hls/stream.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "NickToons Brasil",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png",
+        sources: [
+            Source(url: "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nickelodeon",
+        logo: nil,
+        sources: [
+            Source(url: "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nickelodeon Clássico",
+        logo: "https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nickelodeon Teen",
+        logo: "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nickelodeon Toons",
+        logo: "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Nickelodeon iCarly",
+        logo: "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Numbers",
+        logo: "https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "O Encantador de Cães",
+        logo: "https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "O Homem que veio do Céu",
+        logo: "https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG_1732044609381.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "O Reino Infantil",
+        logo: "https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Oggy e as Baratas Tontas",
+        logo: "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "One Piece",
+        logo: "https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Os Arquivos do FBI",
+        logo: "https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Os Padrinhos Mágicos",
+        logo: "https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Os Smurfs",
+        logo: "https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_1762273919644.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "PFL MMA",
+        logo: "https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pegadinhas Just for Laughs",
+        logo: "https://images.pluto.tv/channels/67802a22a5d8215f99dcee30/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Aliens",
+        logo: "https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Animais",
+        logo: "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Anime",
+        logo: "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Anime Ação",
+        logo: "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Bang Bang",
+        logo: "https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Canal UOL",
+        logo: "https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Clássicos",
+        logo: "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG_1733440556804.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Comédia",
+        logo: "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Comédia Romântica",
+        logo: "https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Crime",
+        logo: "https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Drama",
+        logo: "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Família",
+        logo: "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1788969213886.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Inspiração",
+        logo: "https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Romance",
+        logo: "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Sucessos",
+        logo: "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG_1785430162956.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cine Terror",
+        logo: "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Cozinha",
+        logo: "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Desenhos Clássicos",
+        logo: "https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Esportes",
+        logo: "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1782950090441.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Ficção Científica",
+        logo: "https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Filmes Aventura",
+        logo: "https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Filmes Ação",
+        logo: "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Filmes Nacionais",
+        logo: "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG_1732044719987.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Filmes de Luta",
+        logo: "https://images.pluto.tv/channels/6806d62369aec5b19cd628c0/colorLogoPNG_1746817781806.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV História",
+        logo: "https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Investigação",
+        logo: "https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Junior",
+        logo: "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV KFOOD",
+        logo: "https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Karaokê por Stingray",
+        logo: "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Kids",
+        logo: "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Kids Club",
+        logo: "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Mistérios",
+        logo: "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Natureza",
+        logo: "https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Negócio Fechado",
+        logo: "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Netmovies",
+        logo: "https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Novelas",
+        logo: "https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG_1785430486083.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Paisagens por Stingray",
+        logo: "https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Policial",
+        logo: "https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Record News",
+        logo: "https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Retrô",
+        logo: "https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Shows por Stingray",
+        logo: "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Star Trek",
+        logo: "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG_1753988616763.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Ação",
+        logo: "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Comédia",
+        logo: "https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Criminais",
+        logo: "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Drama",
+        logo: "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Novelescas",
+        logo: "https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Séries Sci-Fi",
+        logo: "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Terror Trash",
+        logo: "https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Turbo",
+        logo: "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Viagens",
+        logo: "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pluto TV Vida Real",
+        logo: "https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pokémon",
+        logo: "https://images.pluto.tv/channels/687007a8ee4155e89a8f6d67/colorLogoPNG_1752174174089.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Popeye",
+        logo: "https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Pronto-socorro: Histórias De Emergência",
+        logo: "https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "RACER Brasil",
+        logo: "https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Realmadrid TV",
+        logo: "https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Red Bull TV BR",
+        logo: nil,
+        sources: [
+            Source(url: "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rede TV!",
+        logo: "https://i.imgur.com/ZJgD38F.png",
+        sources: [
+            Source(url: "http://45.162.64.114/REDE_TV/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://168.197.104.22/REDE_TV/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://170.83.16.50/REDE_TV/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Rookie Blue",
+        logo: "https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Runtime",
+        logo: "https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "SFT Combat",
+        logo: "https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Smithsonian Channel Pluto TV",
+        logo: "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Sony One Shark Tank Brasil",
+        logo: "https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "South Park: Coleção Cartman",
+        logo: "https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "South Park: Coleção Kenny",
+        logo: "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "South Park: Coleção Kyle",
+        logo: "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "South Park: Coleção Stan",
+        logo: "https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Super Onze",
+        logo: "https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Tastemade",
+        logo: "https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Tastemade Casa",
+        logo: "https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG_1759795743690.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Tastemade Viagem",
+        logo: "https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG_1759784936254.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Teletubbies",
+        logo: "https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "The Pet Collective",
+        logo: "https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "The Walking Dead by AMC",
+        logo: "https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-678aa104680721c77c506746.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Tokusato",
+        logo: "https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Top Barça",
+        logo: "https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Travel Box Brazil",
+        logo: "https://i.imgur.com/3tBJERH.png",
+        sources: [
+            Source(url: "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+            Source(url: "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Turma da Mônica",
+        logo: "https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG_1786485992908.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "UFC",
+        logo: "https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1772226745279.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "World Poker Tour",
+        logo: "https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Yu-Gi-Oh",
+        logo: "https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
+    CatalogEntry(
+        name: "Z Nation",
+        logo: "https://images.pluto.tv/channels/66b3af48d2d50d00083d6936/colorLogoPNG_1785430432127.png",
+        sources: [
+            Source(url: "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8",
+                   referer: nil,
+                   userAgent: nil,
+                   clearKey: nil),
+        ]),
 ]
 
 /// Line-up that only exists once the viewer types the code.
