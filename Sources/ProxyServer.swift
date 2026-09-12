@@ -33,6 +33,17 @@ final class ProxyServer {
     /// Which source of a channel is currently in use; advanced on failure.
     private var activeVariant: [UUID: Int] = [:]
 
+    /// Servidores de segmento que acabaram de falhar.
+    ///
+    /// Há CDN que espalha os segmentos por dezenas de máquinas, e parte delas
+    /// não responde — ou responde a um décimo de megabit — para quem está fora
+    /// da rede deles. O token do segmento é assinado pela máquina que o serve,
+    /// então pedir o mesmo pedaço a outra devolve 401: o que dá para fazer é
+    /// parar de oferecer ao player o que já se sabe que trava. Foi o que
+    /// segurava os canais adultos do megatv, que sorteiam host por segmento.
+    private var hostsRuins: [String: Date] = [:]
+    private static let penalidadeDeHost: TimeInterval = 300
+
     func variantIndex(_ channel: Channel) -> Int {
         lock.lock(); defer { lock.unlock() }
         return min(activeVariant[channel.id] ?? 0, channel.variants.count - 1)
@@ -348,6 +359,7 @@ final class ProxyServer {
             let res = try Upstream.shared.fetch(targetURL, referer: active.referer ?? origin)
             guard (200...299).contains(res.status) else {
                 Log.shared.write("upstream \(res.status) em \(targetURL.lastPathComponent)")
+                if isSegment { anotarFalha(de: targetURL) }
                 send(fd, status: res.status, headers: [:], body: res.body,
                      headOnly: method == "HEAD")
                 return
@@ -383,6 +395,7 @@ final class ProxyServer {
             }
         } catch {
             Log.shared.write("erro: \(error)")
+            if isSegment { anotarFalha(de: targetURL) }
             send(fd, status: 502, headers: [:],
                  body: Data("upstream error: \(error)".utf8), headOnly: method == "HEAD")
         }
@@ -486,22 +499,63 @@ final class ProxyServer {
         return String(s[s.startIndex..<dot])
     }
 
+    func anotarFalha(de url: URL) {
+        guard let host = url.host else { return }
+        lock.lock(); hostsRuins[host] = Date(); lock.unlock()
+    }
+
+    private func hostEstaRuim(_ url: URL) -> Bool {
+        guard let host = url.host else { return false }
+        lock.lock(); defer { lock.unlock() }
+        guard let quando = hostsRuins[host] else { return false }
+        if Date().timeIntervalSince(quando) < Self.penalidadeDeHost { return true }
+        hostsRuins.removeValue(forKey: host)
+        return false
+    }
+
     func rewrite(playlist: String, base: URL, channelID: UUID) -> String {
         var out: [String] = []
+        // O #EXTINF e o #EXT-X-BYTERANGE descrevem o segmento da linha seguinte,
+        // então saem junto com ele quando o segmento é descartado.
+        var pendentes: [String] = []
+        var descartados = 0
+        var mantidos = 0
         for raw in playlist.split(separator: "\n", omittingEmptySubsequences: false) {
             var line = String(raw)
             if line.hasSuffix("\r") { line.removeLast() }
             let trimmed = line.trimmingCharacters(in: .whitespaces)
 
             if trimmed.isEmpty {
+                out.append(contentsOf: pendentes); pendentes = []
                 out.append(line)
+            } else if trimmed.hasPrefix("#EXTINF") || trimmed.hasPrefix("#EXT-X-BYTERANGE") {
+                pendentes.append(rewriteURIAttribute(in: line, base: base, channelID: channelID))
             } else if trimmed.hasPrefix("#") {
+                out.append(contentsOf: pendentes); pendentes = []
                 out.append(rewriteURIAttribute(in: line, base: base, channelID: channelID))
             } else if let abs = URL(string: trimmed, relativeTo: baseDosSegmentos(base))?.absoluteURL {
-                out.append(proxyURL(for: abs, channelID: channelID))
+                if hostEstaRuim(abs) {
+                    pendentes = []
+                    descartados += 1
+                } else {
+                    out.append(contentsOf: pendentes); pendentes = []
+                    out.append(proxyURL(for: abs, channelID: channelID))
+                    mantidos += 1
+                }
             } else {
+                out.append(contentsOf: pendentes); pendentes = []
                 out.append(line)
             }
+        }
+        out.append(contentsOf: pendentes)
+        // Uma lista vazia é pior que uma lista com buraco: se sobrou pouca
+        // coisa, vale mais entregar tudo e deixar o player tentar.
+        if descartados > 0 && mantidos < 2 {
+            hostsRuins.removeAll()
+            return rewrite(playlist: playlist, base: base, channelID: channelID)
+        }
+        if descartados > 0 {
+            Log.shared.write("playlist: \(descartados) segmento(s) de host ruim fora, \(mantidos) mantidos")
         }
         return prioritiseHighestVariant(out).joined(separator: "\n")
     }
