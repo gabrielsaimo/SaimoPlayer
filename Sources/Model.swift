@@ -55,6 +55,54 @@ struct Channel: Identifiable, Hashable {
     }
 }
 
+/// Como a lista de canais é dividida na tela.
+///
+/// As regras são as mesmas do site, de propósito: quem usa os dois encontra o
+/// canal no mesmo lugar. A categoria sai do nome porque o catálogo publicado
+/// não carrega essa informação — acrescentá-la ali obrigaria a mexer em cento
+/// e sessenta linhas à mão e a manter a mão sempre que entrasse canal novo.
+enum Categoria: String, CaseIterable, Identifiable {
+    case favoritos = "Favoritos"
+    case tvAberta = "TV Aberta"
+    case filmes = "Filmes e Séries"
+    case esportes = "Esportes"
+    case noticias = "Notícias"
+    case infantil = "Infantil"
+    case documentarios = "Documentários"
+    case variedades = "Variedades"
+    case adulto = "Adulto"
+
+    var id: String { rawValue }
+
+    static func de(_ nome: String) -> Categoria {
+        let n = XMLTVParser.normalise(nome)
+        func tem(_ termos: [String]) -> Bool { termos.contains { n.contains($0) } }
+        if tem(["adulto", "sexy hot", "playboy", "sex prive", "penthouse", "venus",
+                "hustler", "private", "brasileirinhas"]) { return .adulto }
+        // O "premiere" do futebol e o Universal Premiere, de filme, dividem a
+        // palavra; quem manda aqui é o resto do nome.
+        if tem(["premiere", "sportv", "espn", "combate", "band sports", "nsports",
+                "n sports", "xsports", "x sports", "caze", "tnt sports", "fuel",
+                "ge tv", "fox sports"]), !tem(["universal"]) { return .esportes }
+        if tem(["telecine", "hbo", "megapix", "cinemax", "paramount", "space", "tnt",
+                "amc", "studio universal", "sony", "warner", "axn", "universal",
+                "cinemonde", "darkflix", "tcm", "prime box", "movies", "cine"]) { return .filmes }
+        if tem(["cartoon", "gloob", "nick", "discovery kids", "boomerang", "tooncast",
+                "infantil", "kids", "cartoonito", "box kids", "ra tim bum", "babyfirst",
+                "dumdum", "anime"]) { return .infantil }
+        if tem(["discovery", "history", "animal planet", "nat geo", "investigacao",
+                "h2", "a e", "curta", "documenta", "science", "theater", "turbo",
+                "world", "id "]) { return .documentarios }
+        if tem(["news", "globonews", "cnn", "record news", "jovem pan", "bandnews",
+                "band news", "cnbc", "euronews", "dw", "times brasil", "uol"]) { return .noticias }
+        if tem(["globo", "sbt", "record", "band", "redetv", "rede tv", "tv brasil",
+                "cultura", "gazeta", "rede vida", "cancao nova", "aparecida", "senado",
+                "camara", "justica", "escola", "futura", "pampa", "cnt", "rede brasil",
+                "play tv", "playtv", "sesc"]) { return .tvAberta }
+        return .variedades
+    }
+}
+
 enum Base64URL {
     static func encode(_ s: String) -> String {
         Data(s.utf8).base64EncodedString()
