@@ -126,14 +126,16 @@ enum RemoteCatalog {
         var channels: [Channel] = []
         var name: String?
         var logo: String?
+        var categoria: String?
         var variants: [Variant] = []
 
         func flush() {
             if let name, !variants.isEmpty {
                 channels.append(Channel(name: name, variants: variants,
-                                        logo: logo.flatMap(URL.init(string:))))
+                                        logo: logo.flatMap(URL.init(string:)),
+                                        categoria: categoria))
             }
-            name = nil; logo = nil; variants = []
+            name = nil; logo = nil; categoria = nil; variants = []
         }
 
         for raw in text.split(separator: "\n", omittingEmptySubsequences: false) {
@@ -151,6 +153,8 @@ enum RemoteCatalog {
                 name = value
             case "logo":
                 logo = value
+            case "categoria":
+                categoria = value
             case "fonte":
                 guard let url = URL(string: value) else { continue }
                 variants.append(Variant(url: url))
