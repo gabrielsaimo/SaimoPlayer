@@ -119,6 +119,17 @@ final class Remuxer {
         return (count, isHEVC)
     }
 
+    /// Se o vídeo desta fonte é HEVC.
+    ///
+    /// Serve a quem precisa decidir o caminho antes de abrir sessão: a playlist
+    /// de mídia não declara codec nenhum — o atributo CODECS só existe na
+    /// playlist mestre — e aí a única fonte de verdade é o próprio vídeo. A
+    /// resposta fica em cache junto com a contagem de faixas.
+    func ehHEVC(_ variant: Variant) -> Bool {
+        guard isAvailable else { return false }
+        return probe(for: variant, input: variant.url).isHEVC
+    }
+
     var isAvailable: Bool { Remuxer.ffmpegPath != nil }
 
     /// Returns the rewritten local playlist, or nil when the session is not
