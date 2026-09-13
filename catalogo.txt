@@ -1,5 +1,5 @@
 # SAIMO TV — LISTA DE CANAIS
-# 331 canais · 12/09/2026
+# 331 canais · 13/09/2026
 #
 # Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
 # precisa ser recompilado nem reinstalado.
@@ -20,6 +20,7 @@
 # Linhas em branco e linhas começadas por # são ignoradas.
 
 canal: A&E
+categoria: Documentários
 logo: https://www.tvlogo.org/brazil/a-and-e-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -31,6 +32,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Adult Swim
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/adult-swim.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -42,10 +44,12 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: AMC
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/amc.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473027-1p5ON3MLfzAs8siCd4PYlYy%2FbYd54KR6B6BZBJq8I%2Bo%3D
 
 canal: Animal Planet
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/animal-planet.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -57,6 +61,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulD
 fonte: https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Band
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BAND_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BAND_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -69,6 +74,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=ulDZjn1kAAan
 fonte: https://media.cdntvms.com.br/band_sat/index.m3u8
 
 canal: Cartoon Network
+categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/cartoon-network.png
 fonte: https://cdn-mg1.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -80,6 +86,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: CazéTV
+categoria: Esportes
 logo: https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300
 fonte: https://cdn-mg1.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -91,16 +98,19 @@ fonte: https://cdn-sp3.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/CAZE_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: CNN Brasil
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: CNN Brasil Money
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
 fonte: https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
 canal: E!
+categoria: Variedades
 logo: https://commons.wikimedia.org/wiki/Special:FilePath/E%21_Logo_Flat_2012.svg?width=300
 fonte: https://video49.mais.uol.com.br/live/4503.mpd
 referer: https://painel.play.uol.com.br/
@@ -108,12 +118,14 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: d021c9ff8ab94c1a583a0f5f2cc82725:7de3fcc29e3194b9c65282a42cb7bec6
 
 canal: GE TV
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/ge-tv.png
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 fonte: https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
 canal: Globo RJ
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -125,6 +137,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: GloboNews
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/globonews.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
 referer: https://www.primevideo.com/
@@ -133,6 +146,7 @@ chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 fonte: http://79.127.238.228:14093
 
 canal: Globoplay Novelas
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/globoplay-novelas.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 referer: https://www.primevideo.com/
@@ -141,6 +155,7 @@ chave: eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
 fonte: http://79.127.238.228:14455
 
 canal: GNT
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/gnt.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd
 referer: https://www.primevideo.com/
@@ -149,6 +164,7 @@ chave: 4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
 fonte: http://79.127.238.228:14402
 
 canal: History
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/history-channel.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HISTORY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -163,6 +179,7 @@ fonte: http://45.177.114.114/HISTORY/index.m3u8
 fonte: http://170.83.16.50/HISTORY/index.m3u8
 
 canal: History 2
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/history-2.png
 fonte: https://cdn-mg1.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -174,6 +191,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Jovem Pan News
+categoria: Notícias
 logo: https://www.tvlogo.org/brazil/jovem-pan-news-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/JP_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/JP_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -190,6 +208,7 @@ fonte: http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 fonte: http://186.219.52.187/jp_news/index.m3u8
 
 canal: Megapix
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/megapix.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 referer: https://www.primevideo.com/
@@ -198,6 +217,7 @@ chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 fonte: http://79.127.238.228:14592
 
 canal: Multishow
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/multishow.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd
 referer: https://www.primevideo.com/
@@ -205,6 +225,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 
 canal: Premiere 2
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 referer: https://www.primevideo.com/
@@ -212,6 +233,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 
 canal: Premiere 3
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 referer: https://www.primevideo.com/
@@ -219,6 +241,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 
 canal: Premiere 4
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 referer: https://www.primevideo.com/
@@ -226,6 +249,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
 
 canal: Premiere 5
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 referer: https://www.primevideo.com/
@@ -233,6 +257,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 
 canal: Premiere 6
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/0bmtb2fxcj/out/v1/b5f50c3632264d32bf857652f631b0fb/cenc.mpd
 referer: https://www.primevideo.com/
@@ -240,6 +265,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 8bf16a4ba05bcc97e6259297e50be63d:8dd97d486cbdd15cc47ea8c41b264ebb
 
 canal: Premiere 7
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd
 referer: https://www.primevideo.com/
@@ -247,6 +273,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 238f5cf32228c1877f8b939f5f9d7bd8:47571c93e4335b3d1590a5ae3f5c48ef
 
 canal: Premiere 8
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/2s8gkqz2id/out/v1/41da2546a9a34238b8615d3beb4ee600/cenc.mpd
 referer: https://www.primevideo.com/
@@ -254,6 +281,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 19aec31e45751958c1d963435d725f33:fb24357e80520fd600dd43c1d8ce8a7a
 
 canal: Premiere Clubes
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 referer: https://www.primevideo.com/
@@ -261,6 +289,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
 canal: SBT
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SBT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SBT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -274,6 +303,7 @@ fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 fonte: https://media.cdntvms.com.br/sbt_sat/index.m3u8
 
 canal: SBT News
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
 fonte: https://sbtnews.maissbt.com/index.m3u8
 referer: https://mais.sbt.com.br/
@@ -281,6 +311,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 fonte: https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 
 canal: Sony Channel
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/sony.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SONY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SONY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -293,10 +324,12 @@ fonte: https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=ulDZjn1kAAan
 fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
 canal: SporTV
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
 fonte: https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408554-MK0K7%2F0RIabb2i7ktFkDI1P2aEeyuwRUwvOxauQ5e1c%3D
 
 canal: SporTV 2
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 referer: https://www.primevideo.com/
@@ -304,6 +337,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 
 canal: SporTV 3
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 referer: https://www.primevideo.com/
@@ -312,18 +346,22 @@ chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 fonte: http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 
 canal: Telecine Action
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=71&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789218927-xNieqExLcDiWlBkadztoTnelV5wE8DKtLPXJjmzG5Qc%3D
 
 canal: Telecine Pipoca
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=138&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219374-F6IW5BQoqAEf3pOLIzgpJRdy1gsvHmBfDbZAIqFh1k4%3D
 
 canal: Telecine Premium
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=197&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219484-aQK3WA9dH6oDAAMndZCMPBvj2NxCQTmQmx9DswrnO5M%3D
 
 canal: TV Brasil
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -345,6 +383,7 @@ fonte: http://45.162.64.114/TV_BRASIL/index.m3u8
 fonte: http://45.177.114.115/TV_BRASIL/index.m3u8
 
 canal: Universal Premiere
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-premiere.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/khnyllds8v/out/v1/1cf61b7a057e4ffdb31f6d82fb24c679/cenc.mpd
 referer: https://www.primevideo.com/
@@ -352,6 +391,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
 
 canal: Universal Reality
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-reality.png
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/5ppjwg1ekb/out/v1/393342b545834c218745c3dd33661013/cenc.mpd
 referer: https://www.primevideo.com/
@@ -359,6 +399,7 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
 
 canal: Warner
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/warner-channel.png
 fonte: https://cdn-mg1.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -370,11 +411,13 @@ fonte: https://cdn-sp3.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: IMPD
+categoria: Variedades
 logo: https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png
 fonte: https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1464410885_b2691072.m3u8
 fonte: https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 
 canal: Globo SP
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -386,10 +429,12 @@ fonte: https://cdn-sp3.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Cartoonito
+categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/cartoonito.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473248-7Yzu%2FtAxzRQJhmQMxTVyaqyf5vslWwRo1yq49kLi7ms%3D
 
 canal: Cinemax
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/cinemax.png
 fonte: https://cdn-mg1.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -401,6 +446,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Channel
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -412,6 +458,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Kids
+categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-kids.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -423,6 +470,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ul
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Theater
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-theater.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -434,6 +482,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery World
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-world.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -445,6 +494,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=u
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -457,6 +507,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=ulDZjn1kAAan
 fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
 
 canal: ESPN 2
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -468,6 +519,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 4
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -480,6 +532,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
 
 canal: ESPN 5
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -491,6 +544,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN5/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 6
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -502,6 +556,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN6/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -513,6 +568,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzo
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO2
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-2.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -524,6 +580,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kz
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Family
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-family.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -535,6 +592,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Mundi
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -546,6 +604,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Plus
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hboplus.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -557,6 +616,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Pop
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-pop.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -568,6 +628,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Signature
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -579,6 +640,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HBO Xtreme
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -590,6 +652,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZj
 fonte: https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: HGTV
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/hgtv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -601,6 +664,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Record
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/RECORD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/RECORD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -614,6 +678,7 @@ fonte: http://79.127.238.228:14057
 fonte: https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 
 canal: Space
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/space.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -625,6 +690,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TNT
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/tnt.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -636,6 +702,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TNT Séries
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/tnt-series.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -647,6 +714,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Universal TV
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=160&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472902-u%2FRQX14ioJ69OPfvvDO1qYblKfL%2FF5lv7lKx%2Bx9GxPk%3D
 fonte: https://getcdn.clarocdn.com.br/Content/Channel/SPOUNVHD/dsc3/manifest.mpd
@@ -655,10 +723,12 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea
 
 canal: AMC Séries
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/amc.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amcseries/__index.m3u8?sv=104&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472213-9X3RxgrzGBnYkKf9TDcG8To6ntcgw1Ltd1LupkS57Fg%3D
 
 canal: Discovery Turbo
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -670,22 +740,27 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=u
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: USA Network
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/usa.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=152&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788472952-usk1Sd862HUsEeFJpIgF1mgp%2BipLQSEzd%2BnacW%2BsYEs%3D
 
 canal: Telecine Fun
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=60&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219253-QyNo%2BSouIn5NsUWG9CLY3IS1v3VkaHye34ceWOyiOVs%3D
 
 canal: Telecine Cult
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=62&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219128-2d6%2FA%2Bghk7W1jCeuEeiIa%2FzqBJvYswTltdkdtIbUKYE%3D
 
 canal: Telecine Touch
+categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=24&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219606-y4NcNO1KSIHSjnN2cGCPByGn4ZDzVdUj4qjXJLBn0dE%3D
 
 canal: SONY Movies
+categoria: Filmes e Séries
 logo: https://www.tvlogo.org/brazil/sony-movies-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -700,6 +775,7 @@ fonte: http://45.177.114.115/SONY_MOVIES/index.m3u8
 fonte: http://168.197.104.22/SONY_MOVIES/index.m3u8
 
 canal: Globo
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -712,6 +788,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 
 canal: Tooncast
+categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -723,6 +800,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TLC
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/tlc.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -735,6 +813,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=ulDZjn1kAAan1
 fonte: http://79.127.238.228:14433
 
 canal: Arte 1
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ARTE_1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ARTE_1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -749,6 +828,7 @@ fonte: http://45.177.114.115/ARTE1/index.m3u8
 fonte: http://168.197.104.22/ARTE1/index.m3u8
 
 canal: TNT Novelas
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/tnt-novelas.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -760,6 +840,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1k
 fonte: https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Science
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery-science.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -771,6 +852,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token
 fonte: https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Boomerang
+categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/boomerang.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -782,6 +864,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: AXN
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/axn.png
 fonte: https://cdn-mg1.satlabscloud.com.br/AXN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/AXN_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -795,6 +878,7 @@ fonte: http://170.83.16.50/AXN/index.m3u8
 fonte: http://170.83.49.66:8083/AXNHD/index.m3u8
 
 canal: TCM
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/tcm.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TCM_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TCM_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -806,6 +890,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TCM_HD/index.m3u8?token=ulDZjn1kAAan1
 fonte: https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Band News
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/band-news.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -820,6 +905,7 @@ fonte: http://45.177.114.115/BAND_NEWS/index.m3u8
 fonte: http://168.197.104.22/BAND_NEWS/index.m3u8
 
 canal: BAND SPORTS HD
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/band-sports.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -834,6 +920,7 @@ fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
 fonte: http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 
 canal: RedeTV!
+categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-tv-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/REDE_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -848,6 +935,7 @@ fonte: http://168.197.104.22/REDE_TV/index.m3u8
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
 
 canal: TV Cultura
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/cultura.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -862,6 +950,7 @@ fonte: https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 fonte: https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 canal: Terra Viva
+categoria: Variedades
 logo: https://www.tvlogo.org/brazil/terraviva-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TERRA_VIVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TERRA_VIVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -876,6 +965,7 @@ fonte: http://45.162.64.114/TERRAVIVA/index.m3u8
 fonte: http://45.177.114.115/TERRAVIVA/index.m3u8
 
 canal: Woohoo
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
 fonte: https://cdn-mg1.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -889,6 +979,7 @@ fonte: http://168.197.104.22/WOOHOO/index.m3u8
 fonte: http://170.83.16.50/WOOHOO/index.m3u8
 
 canal: PRIME BOX BRAZIL
+categoria: Filmes e Séries
 logo: https://www.tvlogo.org/brazil/prime-box-brazil-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/PRIME_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/PRIME_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -900,6 +991,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/PRIME_BOX_HD/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/PRIME_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: ESPN 3
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -912,6 +1004,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8?token=ulDZjn1kAAa
 fonte: http://181.78.197.59:8000/play/a081/index.m3u8
 
 canal: ESPN Extra
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/espn-extra.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ESPN_EXTRA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ESPN_EXTRA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -923,6 +1016,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ESPN_EXTRA_HD/index.m3u8?token=ulDZjn
 fonte: https://cdn-sp2.satlabscloud.com.br/ESPN_EXTRA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TV Gazeta
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
 fonte: https://cdn-mg1.satlabscloud.com.br/GAZETA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/GAZETA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -937,6 +1031,7 @@ fonte: http://45.162.64.114/TV_GAZETA/index.m3u8
 fonte: http://168.197.104.22/GAZETA/index.m3u8
 
 canal: Record News
+categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
 fonte: https://cdn-mg1.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -951,6 +1046,7 @@ fonte: http://45.162.64.114/RECORD_NEWS/index.m3u8
 fonte: http://45.177.114.115/RECORD_NEWS/index.m3u8
 
 canal: Canção Nova
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/cancao-nova.png
 fonte: https://cdn-mg1.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -966,6 +1062,7 @@ fonte: http://45.162.64.114/CANCAO_NOVA/index.m3u8
 fonte: http://168.197.104.22/CANCAO_NOVA/index.m3u8
 
 canal: TV Aparecida
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -980,6 +1077,7 @@ fonte: http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 fonte: http://168.197.104.22/TV_APARECIDA/index.m3u8
 
 canal: Rede Vida
+categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-vida-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -994,6 +1092,7 @@ fonte: http://168.197.104.22/REDE_VIDA/index.m3u8
 fonte: http://186.219.52.187/rede_vida/index.m3u8
 
 canal: Discovery ID
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
 fonte: https://cdn-mg1.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1005,6 +1104,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Fish TV
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1019,6 +1119,7 @@ fonte: http://168.197.104.22/FISH_TV/index.m3u8
 fonte: http://170.83.16.50/FISH_TV/index.m3u8
 
 canal: Box Kids TV
+categoria: Infantil
 logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1031,6 +1132,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/BOX_KIDS_HD/index.m3u8?token=ulDZjn1k
 fonte: http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 
 canal: Sabor & Arte
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/sabor-e-arte.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1042,6 +1144,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/SABOR_E_ARTE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: X Sports
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/xsports.png
 fonte: https://cdn-mg1.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1053,6 +1156,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: N SPORTS
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/nsports.png
 fonte: https://cdn-mg1.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1065,6 +1169,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=ulDZjn1kAAan
 fonte: https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 
 canal: Music Box Brazil
+categoria: Variedades
 logo: https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png
 fonte: https://cdn-mg1.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1078,6 +1183,7 @@ fonte: http://168.197.104.22/MUSIC/index.m3u8
 fonte: http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 
 canal: Band SP
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1089,6 +1195,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/BAND_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Band RS
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
 fonte: https://cdn-mg1.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1099,6 +1206,7 @@ fonte: https://cdn-sp1.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/BAND_RS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: SBT SP
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1110,6 +1218,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1
 fonte: https://cdn-sp2.satlabscloud.com.br/SBT_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: SBT RS
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1121,6 +1230,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1
 fonte: https://cdn-sp2.satlabscloud.com.br/SBT_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Record SP
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1132,6 +1242,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_SP/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Record RS
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1143,6 +1254,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/RECORD_RS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Canal Rural
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/CANAL_RURAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CANAL_RURAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1156,6 +1268,7 @@ fonte: http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 fonte: http://186.219.52.187/canal_rural/index.m3u8
 
 canal: Agro Mais
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1170,6 +1283,7 @@ fonte: http://45.177.114.115/agromais/index.m3u8
 fonte: http://45.177.114.115/AGROMAIS_HD/index.m3u8
 
 canal: CNT
+categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/CNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CNT_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1184,6 +1298,7 @@ fonte: http://168.197.104.22/CNT/index.m3u8
 fonte: http://170.83.49.66:8083/REDECNTHD/index.m3u8
 
 canal: Markket
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/markket.png
 fonte: https://cdn-mg1.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1195,6 +1310,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/MARKKET/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TV Pai Eterno
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-pai-eterno-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1209,6 +1325,7 @@ fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 fonte: http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 
 canal: PlayTV
+categoria: TV Aberta
 logo: https://i.imgur.com/Ikrj3lk.png
 fonte: https://cdn-mg1.satlabscloud.com.br/PLAYTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/PLAYTV_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1222,6 +1339,7 @@ fonte: http://45.162.64.114/PLAY_TV/index.m3u8
 fonte: http://45.177.114.115/PLAY_TV/index.m3u8
 
 canal: Rede Brasil
+categoria: TV Aberta
 logo: https://i.imgur.com/TXJKwzZ.png
 fonte: https://cdn-mg1.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1234,6 +1352,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=ulDZj
 fonte: https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 canal: Rede Gospel
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/REDE_GOSPEL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/REDE_GOSPEL_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1248,6 +1367,7 @@ fonte: https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 fonte: http://45.177.114.115/REDE_GOSPEL/index.m3u8
 
 canal: Rede Super
+categoria: Variedades
 logo: https://i.imgur.com/X75qTEm.png
 fonte: https://cdn-mg1.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1259,6 +1379,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/REDE_SUPER/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Trace Brazuca
+categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1271,6 +1392,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=ulDZjn
 fonte: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 canal: TV Câmara
+categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1285,6 +1407,7 @@ fonte: http://45.162.64.114/TV_CAMARA/index.m3u8
 fonte: http://168.197.104.22/TV_CAMARA/index.m3u8
 
 canal: TV Evangelizar
+categoria: Variedades
 logo: https://i.imgur.com/IrYR7Kp.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1299,6 +1422,7 @@ fonte: http://168.197.104.22/EVANGELIZAR/index.m3u8
 fonte: http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 
 canal: TV Justiça
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-justica.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_JUSTICA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1313,6 +1437,7 @@ fonte: http://168.197.104.22/TV_JUSTICA/index.m3u8
 fonte: http://170.83.16.50/TV_JUSTICA/index.m3u8
 
 canal: TV Novo Tempo
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_NOVO_TEMPO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_NOVO_TEMPO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1327,6 +1452,7 @@ fonte: http://168.197.104.22/NOVO_TEMPO/index.m3u8
 fonte: http://186.219.52.187/novo_tempo/index.m3u8
 
 canal: TV Senado
+categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_SENADO/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1341,6 +1467,7 @@ fonte: http://168.197.104.22/TV_SENADO/index.m3u8
 fonte: http://170.83.16.50/TV_SENADO/index.m3u8
 
 canal: RIT
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/RIT/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/RIT/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1355,6 +1482,7 @@ fonte: http://45.177.114.115/RIT_TV/index.m3u8
 fonte: http://170.83.49.66:8083/RITHD/index.m3u8
 
 canal: TV Escola
+categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-escola-br.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1366,6 +1494,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_ESCOLA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Discovery Home & Health
+categoria: Documentários
 logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1377,6 +1506,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/DISC_HH_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Agro Brasil
+categoria: Variedades
 logo: https://i.imgur.com/aNkP7Zd.png
 fonte: https://cdn-mg1.satlabscloud.com.br/AGROBRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/AGROBRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1388,6 +1518,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/AGROBRASIL/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/AGROBRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Canal Agro
+categoria: Variedades
 fonte: https://cdn-mg1.satlabscloud.com.br/AGRO_CANAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/AGRO_CANAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/AGRO_CANAL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1401,6 +1532,7 @@ fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
 fonte: http://168.197.104.22/AGRO_CANAL/index.m3u8
 
 canal: Blits TV
+categoria: Variedades
 logo: https://i.imgur.com/FO4QTRf.jpeg
 fonte: https://cdn-mg1.satlabscloud.com.br/BLITS_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/BLITS_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1413,6 +1545,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/BLITS_TV/index.m3u8?token=ulDZjn1kAAa
 fonte: https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 
 canal: Channel 1
+categoria: Variedades
 fonte: https://cdn-mg1.satlabscloud.com.br/CHANNEL1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/CHANNEL1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/CHANNEL1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1423,14 +1556,17 @@ fonte: https://cdn-sp3.satlabscloud.com.br/CHANNEL1/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/CHANNEL1/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Cinemonde
+categoria: Filmes e Séries
 fonte: https://cdn-sp2.satlabscloud.com.br/CINEMONDE/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: CNBC
+categoria: Notícias
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png
 fonte: https://cdn-sp4.satlabscloud.com.br/CNBC_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 
 canal: Com Brasil
+categoria: Variedades
 logo: https://i.imgur.com/GrjGwKM.png
 fonte: https://cdn-mg1.satlabscloud.com.br/COM_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/COM_BRASIL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1444,6 +1580,7 @@ fonte: https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 fonte: https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 
 canal: Darkflix
+categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/darkflix.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DARKFLIX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DARKFLIX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1455,6 +1592,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DARKFLIX/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/DARKFLIX/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: DW
+categoria: Notícias
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/dw-int.png
 fonte: https://cdn-mg1.satlabscloud.com.br/DW/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/DW/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1466,6 +1604,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/DW/index.m3u8?token=ulDZjn1kAAan1kzoX
 fonte: https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Euronews
+categoria: Notícias
 logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg
 fonte: https://cdn-mg1.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1478,6 +1617,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/EURONEWS_HD/index.m3u8?token=ulDZjn1k
 fonte: https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 
 canal: EWTN
+categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/ewtn-int.png
 fonte: https://cdn-mg1.satlabscloud.com.br/EWTN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/EWTN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1489,6 +1629,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/EWTN/index.m3u8?token=ulDZjn1kAAan1kz
 fonte: https://cdn-sp2.satlabscloud.com.br/EWTN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Fox News
+categoria: Notícias
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png
 fonte: https://cdn-mg1.satlabscloud.com.br/FOX_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/FOX_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1500,6 +1641,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/FOX_NEWS/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/FOX_NEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Fox Sports 2
+categoria: Esportes
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png
 fonte: https://cdn-mg1.satlabscloud.com.br/FOX_SPORTS_2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/FOX_SPORTS_2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1511,6 +1653,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/FOX_SPORTS_2/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/FOX_SPORTS_2/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Fuel TV
+categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fuel-tv.png
 fonte: https://cdn-mg1.satlabscloud.com.br/FUEL_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/FUEL_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1522,6 +1665,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/FUEL_TV/index.m3u8?token=ulDZjn1kAAan
 fonte: https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Hallo Anime
+categoria: Infantil
 fonte: https://cdn-mg1.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1532,6 +1676,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=ulDZjn1k
 fonte: https://cdn-sp2.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Hallo Doc
+categoria: Documentários
 fonte: https://cdn-mg1.satlabscloud.com.br/HALLO_DOC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HALLO_DOC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/HALLO_DOC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1542,6 +1687,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HALLO_DOC/index.m3u8?token=ulDZjn1kAA
 fonte: https://cdn-sp2.satlabscloud.com.br/HALLO_DOC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Hallo Movies
+categoria: Filmes e Séries
 fonte: https://cdn-mg1.satlabscloud.com.br/HALLO_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HALLO_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/HALLO_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1552,6 +1698,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HALLO_MOVIES/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/HALLO_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Hallo Music
+categoria: Variedades
 fonte: https://cdn-mg1.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1562,6 +1709,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=ulDZjn1k
 fonte: https://cdn-sp2.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Hallo Series
+categoria: Filmes e Séries
 fonte: https://cdn-mg1.satlabscloud.com.br/HALLO_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/HALLO_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/HALLO_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1572,6 +1720,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/HALLO_SERIES/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/HALLO_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: SESC TV
+categoria: TV Aberta
 logo: https://i.imgur.com/Mu8O6CV.png
 fonte: https://cdn-mg1.satlabscloud.com.br/SESC_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/SESC_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1586,6 +1735,7 @@ fonte: http://170.83.49.66:8083/SESCTVHD/index.m3u8
 fonte: http://186.219.52.187/sesc_tv/index.m3u8
 
 canal: Top TV
+categoria: Variedades
 fonte: https://cdn-mg1.satlabscloud.com.br/TOPTV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TOPTV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/TOPTV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1596,6 +1746,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TOPTV/index.m3u8?token=ulDZjn1kAAan1k
 fonte: https://cdn-sp2.satlabscloud.com.br/TOPTV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Trace Latina
+categoria: Variedades
 logo: https://i.imgur.com/CUVAi4u.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TRACE_LATINA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TRACE_LATINA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1607,6 +1758,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TRACE_LATINA/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/TRACE_LATINA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Trace Toca
+categoria: Variedades
 logo: https://i.imgur.com/6SpWnBR.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TRACE_TOCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TRACE_TOCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1618,6 +1770,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TRACE_TOCA/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/TRACE_TOCA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Trace Urban
+categoria: Variedades
 logo: https://i.imgur.com/DLIbUMx.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TRACE_URBAN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TRACE_URBAN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1629,6 +1782,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TRACE_URBAN/index.m3u8?token=ulDZjn1k
 fonte: https://cdn-sp2.satlabscloud.com.br/TRACE_URBAN/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: TVideoNews
+categoria: Notícias
 logo: https://i.imgur.com/vstHOYx.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TVIDEONEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TVIDEONEWS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1641,6 +1795,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TVIDEONEWS/index.m3u8?token=ulDZjn1kA
 fonte: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 
 canal: TV Pampa
+categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-pampa.png
 fonte: https://cdn-mg1.satlabscloud.com.br/TV_PAMPA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/TV_PAMPA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1652,6 +1807,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/TV_PAMPA/index.m3u8?token=ulDZjn1kAAa
 fonte: https://cdn-sp2.satlabscloud.com.br/TV_PAMPA/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Urban Kids
+categoria: Infantil
 logo: https://i.imgur.com/bDIeiIH.png
 fonte: https://cdn-mg1.satlabscloud.com.br/URBAN_KIDS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/URBAN_KIDS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1663,6 +1819,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/URBAN_KIDS/index.m3u8?token=ulDZjn1kA
 fonte: https://cdn-sp2.satlabscloud.com.br/URBAN_KIDS/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Urban Movies
+categoria: Filmes e Séries
 logo: https://i.imgur.com/wcjtSkq.png
 fonte: https://cdn-mg1.satlabscloud.com.br/URBAN_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/URBAN_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1674,6 +1831,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/URBAN_MOVIES/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/URBAN_MOVIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Urban Series
+categoria: Filmes e Séries
 logo: https://i.imgur.com/ZZOiT4x.png
 fonte: https://cdn-mg1.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1685,6 +1843,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Urban Travel
+categoria: Variedades
 logo: https://i.imgur.com/ST24ALh.png
 fonte: https://cdn-mg1.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1696,6 +1855,7 @@ fonte: https://cdn-sp3.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8?token=ulDZjn1
 fonte: https://cdn-sp2.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 
 canal: Vivax TV
+categoria: Variedades
 fonte: https://cdn-mg1.satlabscloud.com.br/VIVAX_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-ba.satlabscloud.com.br/VIVAX_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 fonte: https://cdn-rj.satlabscloud.com.br/VIVAX_TV/index.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
@@ -1721,7 +1881,7 @@ logo: https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 
 canal: Adrenalina Pura TV
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 
@@ -1746,7 +1906,7 @@ logo: https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
 
 canal: Babyfirst
-categoria: 24 Horas
+categoria: Infantil
 logo: https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 
@@ -1766,7 +1926,7 @@ logo: https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
 
 canal: CBS News
-categoria: 24 Horas
+categoria: Notícias
 fonte: https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 
 canal: CSI: Miami
@@ -1775,28 +1935,33 @@ logo: https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 
 canal: Canal Educacao
+categoria: TV Aberta
 logo: https://i.imgur.com/OOB7nrS.png
 fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
 fonte: http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 fonte: http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 
 canal: Canal Futura
+categoria: TV Aberta
 logo: https://i.imgur.com/LgynEBC.png
 fonte: http://45.162.64.114/FUTURA/index.m3u8
 fonte: http://170.83.16.50/FUTURA/index.m3u8
 fonte: http://186.219.52.187/futura/index.m3u8
 
 canal: Canal Gov
+categoria: TV Aberta
 logo: https://i.imgur.com/rHPY0Yv.png
 fonte: https://canalgov-stream.ebc.com.br/index.m3u8
 fonte: http://45.177.114.115/TV_BRASIL_2/index.m3u8
 fonte: http://168.197.104.22/TV_BRASIL_2/index.m3u8
 
 canal: Canal UOL
+categoria: Notícias
 logo: https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg
 fonte: https://video24.mais.uol.com.br/live/6146.m3u8
 
 canal: Canal do Boi
+categoria: Variedades
 logo: https://i.imgur.com/pVM5MhS.png
 fonte: http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 fonte: http://168.197.104.22/CANAL_DO_BOI/index.m3u8
@@ -1813,7 +1978,7 @@ logo: https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_174
 fonte: https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 
 canal: Chef TV
-categoria: 24 Horas
+categoria: Variedades
 logo: https://i.imgur.com/UYksTee.png
 fonte: http://168.197.104.22/CHEF_TV/index.m3u8
 
@@ -1833,6 +1998,7 @@ logo: https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_173
 fonte: https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 
 canal: Cultura Fast
+categoria: TV Aberta
 fonte: https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 
 canal: Death Note
@@ -1851,6 +2017,7 @@ logo: https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 
 canal: DumDum
+categoria: Infantil
 logo: https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg
 fonte: http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 fonte: http://168.197.104.22/ZOOMOO/index.m3u8
@@ -1862,32 +2029,33 @@ logo: https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_173
 fonte: https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 
 canal: FIFA+
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png
 fonte: https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 
 canal: FailArmy
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 
 canal: Filmelier TV
-categoria: 24 Horas
+categoria: Filmes e Séries
 logo: https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
 
 canal: Filmes Suspense
-categoria: 24 Horas
+categoria: Filmes e Séries
 logo: https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 
 canal: Futura
+categoria: TV Aberta
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png
 fonte: http://168.197.104.22/FUTURA/index.m3u8
 fonte: http://170.83.49.66:8083/FUTURAHD/index.m3u8
 
 canal: Homeful
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-67603668f433320008760af1.m3u8
 
@@ -1932,7 +2100,7 @@ logo: https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 
 canal: KpopTV Play
-categoria: 24 Horas
+categoria: Variedades
 logo: https://i.imgur.com/Tf0vweF.png
 fonte: https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
@@ -1942,7 +2110,7 @@ logo: https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 
 canal: MTV Biggest Pop
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 
@@ -1957,7 +2125,7 @@ logo: https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 
 canal: MTV Dating
-categoria: 24 Horas
+categoria: Variedades
 fonte: https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 
 canal: MTV Jovens e Mães
@@ -1971,12 +2139,12 @@ logo: https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_175
 fonte: https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 
 canal: MTV Reality
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1783347653051.png
 fonte: https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
 
 canal: MTV Rocks
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
@@ -2020,7 +2188,7 @@ logo: https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
 
 canal: MyTime Movie Network
-categoria: 24 Horas
+categoria: Filmes e Séries
 logo: https://i.imgur.com/aiGQtzI.png
 fonte: https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
@@ -2040,15 +2208,17 @@ logo: https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG_178
 fonte: https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 
 canal: NatureTime
-categoria: 24 Horas
+categoria: Documentários
 logo: https://images.pluto.tv/channels/681ba2ad93d3d19bcab47433/colorLogoPNG_1785430696843.png
 fonte: https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
 
 canal: Nick Jr. Club
+categoria: Infantil
 logo: https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png
 fonte: https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 
 canal: NickOnline
+categoria: Infantil
 logo: https://x1colegal.com/logo.png
 fonte: https://x1colegal.com/hls/stream.m3u8
 
@@ -2058,21 +2228,26 @@ logo: https://x1colegal.com/nickonlinebobesponja.png
 fonte: https://bob.x1colegal.com/hls/stream.m3u8
 
 canal: NickToons Brasil
+categoria: Infantil
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png
 fonte: https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 canal: Nickelodeon
+categoria: Infantil
 fonte: https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
 canal: Nickelodeon Clássico
+categoria: Infantil
 logo: https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png
 fonte: https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
 canal: Nickelodeon Teen
+categoria: Infantil
 logo: https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png
 fonte: https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 
 canal: Nickelodeon Toons
+categoria: Infantil
 logo: https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png
 fonte: https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
@@ -2097,7 +2272,7 @@ logo: https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG_173
 fonte: https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
 
 canal: O Reino Infantil
-categoria: 24 Horas
+categoria: Infantil
 logo: https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 
@@ -2127,7 +2302,7 @@ logo: https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/colorLogoPNG_176
 fonte: https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 
 canal: PFL MMA
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 
@@ -2412,20 +2587,21 @@ logo: https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 
 canal: RACER Brasil
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png
 fonte: https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 
 canal: Realmadrid TV
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
 canal: Red Bull TV BR
-categoria: 24 Horas
+categoria: Esportes
 fonte: https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 
 canal: Rede TV!
+categoria: TV Aberta
 logo: https://i.imgur.com/ZJgD38F.png
 fonte: http://45.162.64.114/REDE_TV/index.m3u8
 fonte: http://168.197.104.22/REDE_TV/index.m3u8
@@ -2437,12 +2613,12 @@ logo: https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 
 canal: Runtime
-categoria: 24 Horas
+categoria: Filmes e Séries
 logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 
 canal: SFT Combat
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
 
@@ -2482,17 +2658,17 @@ logo: https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 
 canal: Tastemade
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 
 canal: Tastemade Casa
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/68b88821e542386ab0bf5bef/colorLogoPNG_1759795743690.png
 fonte: https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 
 canal: Tastemade Viagem
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/68b8875777201ec428d9eaa5/colorLogoPNG_1759784936254.png
 fonte: https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 
@@ -2502,7 +2678,7 @@ logo: https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 
 canal: The Pet Collective
-categoria: 24 Horas
+categoria: Variedades
 logo: https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
@@ -2512,16 +2688,17 @@ logo: https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 
 canal: Tokusato
-categoria: 24 Horas
+categoria: Infantil
 logo: https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
 canal: Top Barça
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png
 fonte: https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 
 canal: Travel Box Brazil
+categoria: Variedades
 logo: https://i.imgur.com/3tBJERH.png
 fonte: http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 fonte: http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
@@ -2532,12 +2709,12 @@ logo: https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG_178
 fonte: https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 
 canal: UFC
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1772226745279.png
 fonte: https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 
 canal: World Poker Tour
-categoria: 24 Horas
+categoria: Esportes
 logo: https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png
 fonte: https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 
