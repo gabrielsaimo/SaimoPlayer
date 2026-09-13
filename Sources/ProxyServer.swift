@@ -81,6 +81,14 @@ final class ProxyServer {
             } else if let res = try? Upstream.shared.fetch(variant.url, referer: variant.referer) {
                 let text = String(decoding: res.body.prefix(64_000), as: UTF8.self).lowercased()
                 verdict = text.contains("hvc1") || text.contains("hev1")
+                // O CODECS só existe na playlist mestre. Quem serve a playlist
+                // de mídia direto — os canais adultos do megatv fazem isso —
+                // não declara codec nenhum, e o HEVC passava batido: o
+                // AVFoundation recebia o TS e ficava na tela preta. Sem o
+                // atributo, quem responde é o próprio vídeo, pelo ffprobe.
+                if !verdict, text.contains("#extinf") {
+                    verdict = Remuxer.shared.ehHEVC(variant)
+                }
             }
         }
         lock.lock(); remuxVerdict[key] = verdict; lock.unlock()
