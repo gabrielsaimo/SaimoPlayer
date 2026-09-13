@@ -186,7 +186,7 @@ final class PlayerModel: NSObject, ObservableObject {
         var porCategoria: [Categoria: [Channel]] = [:]
         for canal in ordenados {
             if isFavorite(canal) { favoritos.append(canal) }
-            else { porCategoria[Categoria.de(canal.name), default: []].append(canal) }
+            else { porCategoria[Categoria.de(canal), default: []].append(canal) }
         }
         var out: [(categoria: Categoria, canais: [Channel])] = []
         if !favoritos.isEmpty { out.append((.favoritos, favoritos)) }

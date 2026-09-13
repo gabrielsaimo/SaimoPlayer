@@ -21,18 +21,22 @@ struct Channel: Identifiable, Hashable {
     var name: String
     var logo: URL?
     var variants: [Variant]
+    /// Seção declarada no catálogo publicado. Quando vem vazia, a seção sai do
+    /// nome — ver `Categoria.de(_:)`.
+    var categoria: String?
 
     var primary: Variant { variants[0] }
     var source: URL { variants[0].url }
 
     /// The id is derived from the primary source so the generated proxy link
     /// stays the same across app launches.
-    init(name: String, variants: [Variant], logo: URL? = nil) {
+    init(name: String, variants: [Variant], logo: URL? = nil, categoria: String? = nil) {
         precondition(!variants.isEmpty, "channel needs at least one source")
         self.id = Channel.stableID(for: variants[0].url)
         self.name = name
         self.variants = variants
         self.logo = logo
+        self.categoria = categoria
     }
 
     init(name: String, source: URL, logo: URL? = nil, referer: String? = nil,
@@ -69,14 +73,25 @@ enum Categoria: String, CaseIterable, Identifiable {
     case noticias = "Notícias"
     case infantil = "Infantil"
     case documentarios = "Documentários"
+    case plutoTV = "Pluto TV"
+    case vinteQuatroHoras = "24 Horas"
     case variedades = "Variedades"
     case adulto = "Adulto"
 
     var id: String { rawValue }
 
+    /// A seção do canal: a declarada no catálogo quando existe, senão a que o
+    /// nome sugere.
+    static func de(_ canal: Channel) -> Categoria {
+        if let declarada = canal.categoria,
+           let achada = Categoria(rawValue: declarada) { return achada }
+        return de(canal.name)
+    }
+
     static func de(_ nome: String) -> Categoria {
         let n = XMLTVParser.normalise(nome)
         func tem(_ termos: [String]) -> Bool { termos.contains { n.contains($0) } }
+        if tem(["pluto tv"]) { return .plutoTV }
         if tem(["adulto", "sexy hot", "playboy", "sex prive", "penthouse", "venus",
                 "hustler", "private", "brasileirinhas"]) { return .adulto }
         // O "premiere" do futebol e o Universal Premiere, de filme, dividem a
