@@ -72,6 +72,22 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private var ultimoGuardado: Double = -100
 
+    /// Para o monitor: quando a abertura começou e se a queda já foi contada.
+    private var aberturaEm = Date()
+    private var caiuAvisado = false
+    private var indiceVisto = -1
+
+    /// O que está no ar, do jeito que o monitor quer ouvir.
+    private var noAr: (tipo: Telemetria.Tipo, titulo: String, url: URL?, fonte: Int, fontes: Int)? {
+        if playingFile != nil {
+            let i = min(fileSourceIndex, max(fileSources.count - 1, 0))
+            return (.vod, playingFileName, fileSources.indices.contains(i) ? fileSources[i] : nil, i + 1, fileSources.count)
+        }
+        guard let channel = selectedChannel, !channel.variants.isEmpty else { return nil }
+        let i = min(ProxyServer.shared.variantIndex(channel), channel.variants.count - 1)
+        return (.live, channel.name, channel.variants[i].url, i + 1, channel.variants.count)
+    }
+
     /// Onde o que está tocando parou. De cinco em cinco segundos, que é o
     /// bastante para não perder nada e pouco o bastante para não escrever em
     /// disco a cada quadro.
@@ -256,6 +272,12 @@ final class PlayerModel: NSObject, ObservableObject {
         sourcesTried = 0
         Log.shared.write("abrindo \(channel.name) — \(link.absoluteString)")
         load(link, channel: channel)
+        aberturaEm = Date()
+        caiuAvisado = false
+        if let n = noAr {
+            indiceVisto = n.fonte - 1
+            Telemetria.shared.comecou(.live, n.titulo, url: n.url, fonte: n.fonte)
+        }
     }
 
     /// Toca um arquivo — filme ou episódio — em vez de um canal.
@@ -292,6 +314,9 @@ final class PlayerModel: NSObject, ObservableObject {
         sourceHost = primeira.host ?? ""
         Log.shared.write("abrindo \(nome) — \(primeira.absoluteString)")
         load(primeira, channel: nil)
+        aberturaEm = Date()
+        caiuAvisado = false
+        Telemetria.shared.comecou(.vod, nome, url: primeira, fonte: 1)
     }
 
     func playVariant(_ channel: Channel, index: Int) {
@@ -356,6 +381,10 @@ final class PlayerModel: NSObject, ObservableObject {
     private func itemStatusChanged(_ item: AVPlayerItem) {
         switch item.status {
         case .readyToPlay:
+            if !playedSinceOpen, let n = noAr {
+                Telemetria.shared.tocou(n.tipo, n.titulo, url: n.url, fonte: n.fonte,
+                                        ms: Int(Date().timeIntervalSince(aberturaEm) * 1000))
+            }
             status = "tocando"
             reconnectAttempt = 0
             sourcesTried = 0
@@ -394,6 +423,7 @@ final class PlayerModel: NSObject, ObservableObject {
     }
 
     func stop() {
+        Telemetria.shared.parou()
         player.pause()
         player.replaceCurrentItem(with: nil)
         tearDownItemObservers()
@@ -424,7 +454,16 @@ final class PlayerModel: NSObject, ObservableObject {
 
     // MARK: - Reconnect
 
+    private func avisarQueCaiu() {
+        guard !caiuAvisado, let n = noAr else { return }
+        caiuAvisado = true
+        Telemetria.shared.caiu(n.tipo, n.titulo, fontes: n.fontes)
+    }
+
     private func scheduleReconnect(reason: String) {
+        if let n = noAr {
+            Telemetria.shared.falhou(n.tipo, n.titulo, url: n.url, fonte: n.fonte, detalhe: String(reason.prefix(200)))
+        }
         if let arquivo = playingFile {
             // Algumas origens respondem com um `Content-Range` que termina no
             // fim do arquivo mesmo quando mandam só o pedaço pedido, e o
@@ -455,6 +494,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 playingFile = proxima
                 sourceIndex = fileSourceIndex
                 sourceHost = proxima.host ?? ""
+                Telemetria.shared.comecou(.vod, playingFileName, url: proxima, fonte: fileSourceIndex + 1, nova: false)
                 status = "tentando a fonte \(fileSourceIndex + 1) de \(fileSources.count)…"
                 Log.shared.write("\(playingFileName): \(reason) — indo para a fonte \(fileSourceIndex + 1)")
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
@@ -463,6 +503,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 }
                 return
             }
+            if !playedSinceOpen { avisarQueCaiu() }
             reconnectAttempt += 1
             guard reconnectAttempt <= 4 else {
                 status = "falhou: \(reason)"
@@ -488,6 +529,8 @@ final class PlayerModel: NSObject, ObservableObject {
             sourcesTried += 1
             let next = (ProxyServer.shared.variantIndex(channel) + 1) % channel.variants.count
             ProxyServer.shared.forceVariant(channel, next)
+            indiceVisto = next
+            Telemetria.shared.comecou(.live, channel.name, url: channel.variants[next].url, fonte: next + 1, nova: false)
             status = "tentando a fonte \(next + 1) de \(channel.variants.count)…"
             Log.shared.write("\(channel.name): \(reason) — indo para a fonte \(next + 1)")
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
@@ -497,6 +540,7 @@ final class PlayerModel: NSObject, ObservableObject {
             return
         }
 
+        if !playedSinceOpen { avisarQueCaiu() }
         reconnectAttempt += 1
         guard reconnectAttempt <= 8 else {
             status = "falhou: \(reason)"
@@ -577,6 +621,13 @@ final class PlayerModel: NSObject, ObservableObject {
         guard let channel = selectedChannel else { return }
         let index = ProxyServer.shared.variantIndex(channel)
         let variant = channel.variants[min(index, channel.variants.count - 1)]
+        // O proxy trocou de fonte sozinho: a anterior falhou no meio do caminho.
+        if indiceVisto >= 0, indiceVisto != index, indiceVisto < channel.variants.count {
+            Telemetria.shared.falhou(.live, channel.name, url: channel.variants[indiceVisto].url,
+                                     fonte: indiceVisto + 1, detalhe: "o proxy trocou de fonte")
+            Telemetria.shared.comecou(.live, channel.name, url: variant.url, fonte: index + 1, nova: false)
+        }
+        indiceVisto = index
         if sourceIndex != index { sourceIndex = index }
         if sourceCount != channel.variants.count { sourceCount = channel.variants.count }
         let host = variant.url.host ?? ""
