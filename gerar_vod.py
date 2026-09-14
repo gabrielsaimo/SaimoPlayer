@@ -32,6 +32,9 @@ ORIGENS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8",
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Filmes-Series.m3u8",
 ]
+# Servidores fora do ar para todos, sem publicar app: os links deles não entram
+# no catálogo. Para voltar, tire daqui e rode o script de novo.
+DESATIVADOS = ["up.kiwi"]
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
 
@@ -156,6 +159,9 @@ def main():
             url = linhas[indice + 1].strip()
             indice += 2
             if not url or url.startswith("#"):
+                continue
+            if any(host in url for host in DESATIVADOS):
+                ignorados += 1
                 continue
             # Canal de TV ao vivo: não é o assunto desta lista. Na primeira ele
             # termina em .ts; na segunda vem sem extensão nenhuma.
