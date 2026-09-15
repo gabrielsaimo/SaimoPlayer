@@ -117,6 +117,12 @@ final class EPGService: ObservableObject {
         URL(string: "https://iptv-epg.org/files/epg-br.xml")!,
         URL(string: "https://www.open-epg.com/files/brazil3.xml")!,
     ]
+    /// Guia da própria Pluto TV, montado pelo i.mjh.nz. Casa pelo id da Pluto,
+    /// que já está no link do canal (jmp2.uk/plu-<id>) ou no logo — nome não
+    /// serve: "Pluto TV Novelas" cairia no prefixo de canal nenhum ou no errado.
+    /// Direto no raw.githubusercontent, sem o redirecionamento do i.mjh.nz.
+    private static let plutoURL =
+        URL(string: "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml")!
     private static let cacheTTL: TimeInterval = 6 * 3600
     /// Kept deliberately short: a guide only ever shows a couple of days.
     private static let pastWindow: TimeInterval = 6 * 3600
@@ -193,7 +199,12 @@ final class EPGService: ObservableObject {
         guard state != .loading else { return }
         if byChannel.isEmpty { state = .loading }
 
-        let wanted = channels.map { (id: $0.id, name: $0.name) }
+        let (pluto, principais) = Self.idsDaPluto(channels)
+        // Canal da Pluto só usa o guia da Pluto: pelo nome, o meuguia e os
+        // feeds XMLTV só achariam programação de outro canal.
+        let wanted = channels.filter { !principais.contains($0.id) }
+            .map { (id: $0.id, name: $0.name) }
+        let signature = Self.signature(of: channels)
         Task.detached(priority: .utility) {
             do {
                 let from = Date().addingTimeInterval(-EPGService.pastWindow)
@@ -205,6 +216,9 @@ final class EPGService: ObservableObject {
                         group.addTask {
                             (index, try? await EPGService.download(url))
                         }
+                    }
+                    group.addTask {
+                        (-1, pluto.isEmpty ? nil : try? await EPGService.download(EPGService.plutoURL))
                     }
                     var result = [Int: Data]()
                     for try await (index, data) in group where data != nil {
@@ -263,7 +277,16 @@ final class EPGService: ObservableObject {
                         return copy
                     }
                 }
-                let signature = wanted.map(\.id.uuidString).sorted().joined(separator: ",")
+                if let data = payloads[-1] {
+                    let daPluto = XMLTVParser.parse(data, ids: pluto, from: from, to: to)
+                    // Onde a Pluto é só reserva (TV Cultura, CNBC…), a grade dela
+                    // é genérica: entra só se nenhum outro guia trouxe nada.
+                    for (channel, programmes) in daPluto
+                    where principais.contains(channel) || merged[channel] == nil {
+                        merged[channel] = programmes
+                    }
+                    Log.shared.write("EPG Pluto: \(daPluto.count) de \(pluto.count) canais")
+                }
                 await MainActor.run {
                     EPGService.shared.apply(merged, signature: signature)
                 }
@@ -328,7 +351,34 @@ final class EPGService: ObservableObject {
     private var cachedSignature: String?
 
     private static func signature(of channels: [Channel]) -> String {
-        "v2:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
+        "v3:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
+    }
+
+    /// id da Pluto -> canal. O id tem 24 dígitos hexadecimais e aparece no link
+    /// (jmp2.uk/plu-<id>.m3u8) ou no logo (images.pluto.tv/channels/<id>/).
+    ///
+    /// `principais` são os canais em que a Pluto é a fonte principal. Nos outros
+    /// ela é só reserva, e a grade dela é genérica ("TV Cultura" o dia inteiro).
+    static func idsDaPluto(_ channels: [Channel]) -> (ids: [String: UUID], principais: Set<UUID>) {
+        var ids: [String: UUID] = [:]
+        var principais: Set<UUID> = []
+        for channel in channels {
+            let links = channel.variants.map(\.url.absoluteString)
+            guard let id = links.lazy.compactMap(plutoID(in:)).first
+                    ?? plutoID(in: channel.logo?.absoluteString ?? "")
+            else { continue }
+            if ids[id] == nil { ids[id] = channel.id }
+            if links.first.flatMap(plutoID(in:)) != nil || !links.contains(where: { plutoID(in: $0) != nil }) {
+                principais.insert(channel.id)
+            }
+        }
+        return (ids, principais)
+    }
+
+    static func plutoID(in texto: String) -> String? {
+        guard let faixa = texto.range(of: #"(?:plu-|images\.pluto\.tv/channels/)[0-9a-f]{24}"#,
+                                      options: .regularExpression) else { return nil }
+        return String(texto[faixa].suffix(24))
     }
 
     private func readCache() -> [UUID: [Programme]]? {
@@ -431,80 +481,86 @@ enum XMLTVParser {
             .replacingOccurrences(of: "&#39;", with: "'")
     }
 
-    static func parse(_ data: Data, wanted: [(id: UUID, name: String)],
+    /// `ids` liga o id do feed direto ao canal e pula o casamento por nome —
+    /// é o caso do guia da Pluto.
+    static func parse(_ data: Data, wanted: [(id: UUID, name: String)] = [],
+                      ids: [String: UUID] = [:],
                       from: Date, to: Date) -> [UUID: [Programme]] {
         let bytes = [UInt8](data)
-
-        // 1. display-name -> every xmltv id carrying that name
-        //
-        // Feeds repeat a channel under variations that normalise to the same
-        // string ("HBO", "HBO HD", "HBO BR"). Keeping only the first id meant
-        // binding to whichever copy happened to come first — and when that copy
-        // carried no programmes, the channel showed an empty guide.
-        var nameToXML: [String: [String]] = [:]
         var cursor = 0
-        while let open = find(bytes, "<channel id=\"", from: cursor) {
-            guard let idEnd = find(bytes, "\"", from: open + 13),
-                  let close = find(bytes, "</channel>", from: idEnd) else { break }
-            let xmlID = string(bytes, open + 13, idEnd)
-            if let dnOpen = find(bytes, "<display-name", from: idEnd, before: close),
-               let dnText = find(bytes, ">", from: dnOpen, before: close),
-               let dnEnd = find(bytes, "</display-name>", from: dnText, before: close) {
-                let key = normalise(string(bytes, dnText + 1, dnEnd))
-                nameToXML[key, default: []].append(xmlID)
+        var xmlToChannel: [String: UUID] = ids
+
+        if ids.isEmpty {
+
+            // 1. display-name -> every xmltv id carrying that name
+            //
+            // Feeds repeat a channel under variations that normalise to the same
+            // string ("HBO", "HBO HD", "HBO BR"). Keeping only the first id meant
+            // binding to whichever copy happened to come first — and when that copy
+            // carried no programmes, the channel showed an empty guide.
+            var nameToXML: [String: [String]] = [:]
+            while let open = find(bytes, "<channel id=\"", from: cursor) {
+                guard let idEnd = find(bytes, "\"", from: open + 13),
+                      let close = find(bytes, "</channel>", from: idEnd) else { break }
+                let xmlID = string(bytes, open + 13, idEnd)
+                if let dnOpen = find(bytes, "<display-name", from: idEnd, before: close),
+                   let dnText = find(bytes, ">", from: dnOpen, before: close),
+                   let dnEnd = find(bytes, "</display-name>", from: dnText, before: close) {
+                    let key = normalise(string(bytes, dnText + 1, dnEnd))
+                    nameToXML[key, default: []].append(xmlID)
+                }
+                cursor = close + 10
             }
-            cursor = close + 10
-        }
 
-        // 2. our channels -> xmltv id
-        //
-        // Two passes, because a fuzzy match must never outrank an exact one.
-        // "HBO2" normalises to "hbo2" while the feed says "HBO 2" -> "hbo 2",
-        // so the exact lookup misses and the prefix rule offers "hbo" — which
-        // belongs to plain HBO. A single-pass assignment let whichever channel
-        // came last overwrite the other, and HBO lost its own schedule.
-        var xmlToChannel: [String: UUID] = [:]
-        var claimed: Set<String> = []
-        var unresolved: [(id: UUID, key: String)] = []
-        var matched = 0
+            // 2. our channels -> xmltv id
+            //
+            // Two passes, because a fuzzy match must never outrank an exact one.
+            // "HBO2" normalises to "hbo2" while the feed says "HBO 2" -> "hbo 2",
+            // so the exact lookup misses and the prefix rule offers "hbo" — which
+            // belongs to plain HBO. A single-pass assignment let whichever channel
+            // came last overwrite the other, and HBO lost its own schedule.
+            var claimed: Set<String> = []
+            var unresolved: [(id: UUID, key: String)] = []
+            var matched = 0
 
-        for entry in wanted {
-            let key = normalise(entry.name)
-            let ids = nameToXML[key] ?? aliases[key].flatMap { nameToXML[$0] }
-            if let ids, !ids.isEmpty {
-                for xmlID in ids {
+            for entry in wanted {
+                let key = normalise(entry.name)
+                let ids = nameToXML[key] ?? aliases[key].flatMap { nameToXML[$0] }
+                if let ids, !ids.isEmpty {
+                    for xmlID in ids {
+                        xmlToChannel[xmlID] = entry.id
+                        claimed.insert(xmlID)
+                    }
+                    matched += 1
+                } else {
+                    unresolved.append((entry.id, key))
+                }
+            }
+
+            for entry in unresolved {
+                // O prefixo só vale quebrando palavra: "fox news" casa com
+                // "fox news channel", mas "viva" não pode casar com "vivax tv" —
+                // o Vivax TV mostrava a programação do Canal Viva por causa disso.
+                let candidates = nameToXML.filter {
+                    ($0.key + " ").hasPrefix(entry.key + " ")
+                        || (entry.key + " ").hasPrefix($0.key + " ")
+                }
+                // Only when it is unambiguous, and never onto an id already taken
+                // by a channel that matched exactly.
+                guard candidates.count == 1, let ids = candidates.first?.value else { continue }
+                let free = ids.filter { !claimed.contains($0) }
+                guard !free.isEmpty else { continue }
+                // Marcar aqui também: três canais Discovery casavam por prefixo com
+                // a mesma entrada "Discovery" e o último sobrescrevia os outros.
+                for xmlID in free {
                     xmlToChannel[xmlID] = entry.id
                     claimed.insert(xmlID)
                 }
                 matched += 1
-            } else {
-                unresolved.append((entry.id, key))
             }
-        }
 
-        for entry in unresolved {
-            // O prefixo só vale quebrando palavra: "fox news" casa com
-            // "fox news channel", mas "viva" não pode casar com "vivax tv" —
-            // o Vivax TV mostrava a programação do Canal Viva por causa disso.
-            let candidates = nameToXML.filter {
-                ($0.key + " ").hasPrefix(entry.key + " ")
-                    || (entry.key + " ").hasPrefix($0.key + " ")
-            }
-            // Only when it is unambiguous, and never onto an id already taken
-            // by a channel that matched exactly.
-            guard candidates.count == 1, let ids = candidates.first?.value else { continue }
-            let free = ids.filter { !claimed.contains($0) }
-            guard !free.isEmpty else { continue }
-            // Marcar aqui também: três canais Discovery casavam por prefixo com
-            // a mesma entrada "Discovery" e o último sobrescrevia os outros.
-            for xmlID in free {
-                xmlToChannel[xmlID] = entry.id
-                claimed.insert(xmlID)
-            }
-            matched += 1
+            guard matched > 0 else { return [:] }
         }
-
-        guard matched > 0 else { return [:] }
 
         // 3. programmes, filtered to those channels and the time window
         var out: [UUID: [Programme]] = [:]
