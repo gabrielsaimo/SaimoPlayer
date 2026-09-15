@@ -645,7 +645,18 @@ enum XMLTVParser {
                 Programme(title: title, desc: desc, category: category,
                           start: start, stop: stop,
                           subtitle: text("sub-title"),
-                          episode: text("episode-num"),
+                          // A Pluto usa o campo para a data de estreia
+                          // ("original-air-date"): não é episódio nenhum.
+                          episode: {
+                              guard let open = find(bytes, "<episode-num", from: attrsEnd, before: close),
+                                    let body = find(bytes, ">", from: open, before: close),
+                                    let end = find(bytes, "</episode-num>", from: body, before: close),
+                                    !string(bytes, open, body).contains("original-air-date")
+                              else { return nil }
+                              let valor = decodeEntities(string(bytes, body + 1, end))
+                                  .trimmingCharacters(in: .whitespacesAndNewlines)
+                              return valor.isEmpty ? nil : valor
+                          }(),
                           year: text("date"),
                           credits: {
                               let elenco = todos("actor")
