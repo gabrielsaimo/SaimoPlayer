@@ -16,6 +16,31 @@ enum RemoteCatalog {
     /// Extras published separately, as M3U. An M3U has nowhere to keep a key or
     /// a header, so it joins as a spare and never replaces the catalogue.
     static let extrasURL = URL(string: base + "canais.txt")!
+    /// Os canais que só aparecem depois do código. Publicados à parte para
+    /// renomear, tirar ou trocar link sem recompilar — a lista de fábrica
+    /// (`restrictedChannels`) fica só de reserva para a primeira abertura sem rede.
+    static let restritosURL = URL(string: base + "restritos.txt")!
+
+    /// Os restritos que valem agora: o último baixado, ou os de fábrica.
+    static func restritosEmCache() -> [Channel] {
+        let lidos = read("restritos.txt")
+        return comoAdulto(lidos.isEmpty ? restrictedChannels : lidos)
+    }
+
+    /// Baixa a lista restrita; nulo quando não veio nada aproveitável.
+    static func baixarRestritos() async -> [Channel]? {
+        let lidos = await download(restritosURL, into: "restritos.txt")
+        return lidos.isEmpty ? nil : comoAdulto(lidos)
+    }
+
+    /// Sem isto "Brazzers" cairia em Variedades pela regra do nome.
+    private static func comoAdulto(_ canais: [Channel]) -> [Channel] {
+        canais.map { canal in
+            var copia = canal
+            if copia.categoria == nil { copia.categoria = Categoria.adulto.rawValue }
+            return copia
+        }
+    }
 
     /// Whatever is available right now, without touching the network.
     static func cached() -> [Channel] {

@@ -141,6 +141,8 @@ final class PlayerModel: NSObject, ObservableObject {
     /// persisted: closing the app locks it again, so the next person to open it
     /// sees the same list as everyone else.
     private(set) var restrictedUnlocked = false
+    /// Lista restrita em uso: a publicada em `restritos.txt`, ou a de fábrica.
+    private var restritos: [Channel] = RemoteCatalog.restritosEmCache()
     private var typed = ""
     private var typedAt = Date.distantPast
 
@@ -172,7 +174,8 @@ final class PlayerModel: NSObject, ObservableObject {
             }
             Log.shared.write("lista publicada: \(fresh.count) canais")
             let playing = selectedChannel?.name
-            let extra = restrictedUnlocked ? restrictedChannels : []
+            if let novos = await RemoteCatalog.baixarRestritos() { trocarRestritos(novos) }
+            let extra = restrictedUnlocked ? restritos : []
             let updated = fresh + Store.customChannels() + extra
             guard updated.map(\.id) != channels.map(\.id) else { return }
 
@@ -910,15 +913,26 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private static let code = "1010"
 
+    /// Lista restrita nova chegou: troca, e se estiver destravado, troca na tela.
+    private func trocarRestritos(_ novos: [Channel]) {
+        let antes = restritos
+        guard novos.map(\.name) != antes.map(\.name) || novos.map(\.id) != antes.map(\.id) else { return }
+        restritos = novos
+        guard restrictedUnlocked else { return }
+        let antigos = Set(antes.map(\.id))
+        channels = channels.filter { !antigos.contains($0.id) } + novos
+        for c in novos { ProxyServer.shared.register(c) }
+    }
+
     private func setRestricted(_ unlocked: Bool) {
-        guard unlocked != restrictedUnlocked, !restrictedChannels.isEmpty else { return }
+        guard unlocked != restrictedUnlocked, !restritos.isEmpty else { return }
         restrictedUnlocked = unlocked
         // Trancar com um desses no ar deixaria o nome à vista na tela; volta
         // para o primeiro canal comum antes de sumir com a lista.
-        let restrictedIDs = Set(restrictedChannels.map(\.id))
+        let restrictedIDs = Set(restritos.map(\.id))
         let leaving = selection.map { restrictedIDs.contains($0) } ?? false
         let base = channels.filter { !restrictedIDs.contains($0.id) }
-        channels = base + (unlocked ? restrictedChannels : [])
+        channels = base + (unlocked ? restritos : [])
         for c in channels { ProxyServer.shared.register(c) }
         if !unlocked, leaving { selection = channels.first?.id }
         objectWillChange.send()
