@@ -17,7 +17,7 @@ struct ContentView: View {
             .sheet(item: $atualizacao.disponivel) { versao in
                 AtualizacaoView(atualizacao: atualizacao, versao: versao)
             }
-            .task { atualizacao.procurar() }
+            .task { atualizacao.vigiar() }
             .alert("Atualização", isPresented: Binding(
                 get: { atualizacao.aviso != nil },
                 set: { if !$0 { atualizacao.aviso = nil } })) {
