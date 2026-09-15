@@ -1,5 +1,5 @@
 # SAIMO TV — LISTA DE CANAIS
-# 331 canais · 13/09/2026
+# 332 canais · 15/09/2026
 #
 # Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
 # precisa ser recompilado nem reinstalado.
@@ -46,7 +46,7 @@ fonte: https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=ulDZjn1kAAa
 canal: AMC
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/amc.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473027-1p5ON3MLfzAs8siCd4PYlYy%2FbYd54KR6B6BZBJq8I%2Bo%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=174&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481850-aQfTkNQAOqt0%2FDZ1N2fQuCIVuahnjtgve%2BB7F03qauI%3D
 
 canal: Animal Planet
 categoria: Documentários
@@ -326,7 +326,7 @@ fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 canal: SporTV
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
-fonte: https://p17-common-sign.dynamic.pages.cloudflareusercontent.com/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=159&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1786408554-MK0K7%2F0RIabb2i7ktFkDI1P2aEeyuwRUwvOxauQ5e1c%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=209&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482247-IsLpWWPSCOVPJe%2BQFKfjj8ad6ME1HqQgB4Ilj8j3bIc%3D
 
 canal: SporTV 2
 categoria: Esportes
@@ -345,20 +345,25 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 fonte: http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 
+canal: Canal OFF
+categoria: Esportes
+logo: https://mondrian.claro.com.br/channels/inverse/canal-off.png
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/off/__index.m3u8?sv=170&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482178-hTTR6m5u7tJKBv%2BhzwcRf1RlCc7gP%2Fj3%2FYDoWN1TqcA%3D
+
 canal: Telecine Action
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=71&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789218927-xNieqExLcDiWlBkadztoTnelV5wE8DKtLPXJjmzG5Qc%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=165&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789480849-%2BLNTW%2BYZ8D1xeEQtqqfFKMOnz%2BRjKIAMya248czYw9k%3D
 
 canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=138&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219374-F6IW5BQoqAEf3pOLIzgpJRdy1gsvHmBfDbZAIqFh1k4%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481420-wsQGn%2B%2BG7zXUNEt30tuVTlxLptNEGRIJLyuVr4ySGCE%3D
 
 canal: Telecine Premium
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=197&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219484-aQK3WA9dH6oDAAMndZCMPBvj2NxCQTmQmx9DswrnO5M%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=109&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481656-ONs6POlWKE0GJKIkx21NeahpogJD60Zlio8BIrF0cqc%3D
 
 canal: TV Brasil
 categoria: TV Aberta
@@ -747,17 +752,17 @@ fonte: https://xn--l---------------------------_________________________-2w85c.n
 canal: Telecine Fun
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=60&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219253-QyNo%2BSouIn5NsUWG9CLY3IS1v3VkaHye34ceWOyiOVs%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=17&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481327-bAc95Xi1E33YuPzcP0Pfdk59FX1r3MNMJfugpAIgMyg%3D
 
 canal: Telecine Cult
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=62&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219128-2d6%2FA%2Bghk7W1jCeuEeiIa%2FzqBJvYswTltdkdtIbUKYE%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481098-We7WOf%2FCKC5Szz6DBJZWjWDomevUrQBhQEZeAWygp1w%3D
 
 canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png
-fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=24&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789219606-y4NcNO1KSIHSjnN2cGCPByGn4ZDzVdUj4qjXJLBn0dE%3D
+fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=182&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481749-PEP6NRR3E9xH7MZHGVXlfncRXoDVCcI8fs%2F7C3d7Dds%3D
 
 canal: SONY Movies
 categoria: Filmes e Séries
