@@ -7390,7 +7390,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 01",
+        name: "21 Sexture",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6164/index.m3u8",
@@ -7399,7 +7399,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 02",
+        name: "SexArt",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6165/index.m3u8",
@@ -7408,7 +7408,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 03",
+        name: "Adult Time",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6166/index.m3u8",
@@ -7417,7 +7417,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 04",
+        name: "My Cam TV 1",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6167/index.m3u8",
@@ -7426,7 +7426,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 05",
+        name: "Analized",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6168/index.m3u8",
@@ -7435,7 +7435,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 06",
+        name: "Angel Trans",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6169/index.m3u8",
@@ -7444,7 +7444,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 07",
+        name: "Babes",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6171/index.m3u8",
@@ -7453,16 +7453,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 08",
-        logo: nil,
-        sources: [
-            Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6172/index.m3u8",
-                   referer: nil,
-                   userAgent: nil,
-                   clearKey: nil),
-        ]),
-    CatalogEntry(
-        name: "Adulto 09",
+        name: "Bang Bros",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6173/index.m3u8",
@@ -7471,7 +7462,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 10",
+        name: "Bang",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6174/index.m3u8",
@@ -7480,7 +7471,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 11",
+        name: "Bang Bros 2",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6175/index.m3u8",
@@ -7489,7 +7480,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 12",
+        name: "My Cam TV 2",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6176/index.m3u8",
@@ -7498,7 +7489,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 13",
+        name: "InteRacial",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6177/index.m3u8",
@@ -7507,7 +7498,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 14",
+        name: "Blacked",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6178/index.m3u8",
@@ -7516,7 +7507,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 15",
+        name: "My Cam TV 3",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6180/index.m3u8",
@@ -7525,7 +7516,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 16",
+        name: "Brazzers",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6181/index.m3u8",
@@ -7534,7 +7525,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 17",
+        name: "Brazzers 2",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6182/index.m3u8",
@@ -7543,7 +7534,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 18",
+        name: "My Cam TV 4",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6183/index.m3u8",
@@ -7552,7 +7543,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 19",
+        name: "Cento X Cento",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6184/index.m3u8",
@@ -7561,7 +7552,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 20",
+        name: "Cherry Pimps",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6185/index.m3u8",
@@ -7570,7 +7561,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 21",
+        name: "Club Sweethearts",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6186/index.m3u8",
@@ -7579,7 +7570,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 22",
+        name: "My Cam TV 5",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6187/index.m3u8",
@@ -7588,7 +7579,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 23",
+        name: "My Cam TV 6",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6188/index.m3u8",
@@ -7597,7 +7588,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 24",
+        name: "Cum Louder",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6189/index.m3u8",
@@ -7606,7 +7597,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 25",
+        name: "Cum 4K",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6190/index.m3u8",
@@ -7615,7 +7606,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 26",
+        name: "Daughter Swap",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6191/index.m3u8",
@@ -7624,7 +7615,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 27",
+        name: "Brazzers 3",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6192/index.m3u8",
@@ -7633,7 +7624,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 28",
+        name: "DDF Network",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6193/index.m3u8",
@@ -7642,7 +7633,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 29",
+        name: "DDF Network 2",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6194/index.m3u8",
@@ -7651,7 +7642,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 30",
+        name: "XXX",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6195/index.m3u8",
@@ -7660,7 +7651,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 31",
+        name: "DP",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6196/index.m3u8",
@@ -7669,7 +7660,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 32",
+        name: "Dorcel Club",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6197/index.m3u8",
@@ -7678,7 +7669,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 33",
+        name: "Deep Lush",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6198/index.m3u8",
@@ -7687,7 +7678,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 34",
+        name: "Evil Angel",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6199/index.m3u8",
@@ -7696,7 +7687,7 @@ private let restrictedCatalog: [CatalogEntry] = [
                    clearKey: nil),
         ]),
     CatalogEntry(
-        name: "Adulto 35",
+        name: "XXX 2",
         logo: nil,
         sources: [
             Source(url: "http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6200/index.m3u8",
