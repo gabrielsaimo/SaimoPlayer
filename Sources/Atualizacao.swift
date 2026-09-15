@@ -1,15 +1,18 @@
 import Foundation
 import AppKit
 
-/// Procura versão nova no GitHub e troca o app pela nova, com o aval de quem usa.
+/// Procura versão nova no GitHub e pergunta se quer baixar.
 ///
 /// O app não vem da App Store nem é assinado por um desenvolvedor registrado,
 /// então não existe atualização automática de fábrica: sem isto, uma correção
 /// só chega a quem lembra de voltar no repositório e baixar o DMG à mão.
 ///
-/// A checagem é barata (um JSON de alguns KB) e acontece na abertura, mas com
-/// duas travas para não virar incômodo: uma espera de seis horas entre
-/// consultas e a versão que a pessoa mandou pular, que não pergunta de novo.
+/// Quem aceita recebe o DMG pelo navegador, e a instalação é a de sempre
+/// (arrastar para Aplicativos). O app não baixa nem troca nada por dentro.
+///
+/// Checa na abertura e de hora em hora com o app aberto: um Mac que fica dias
+/// com o app ligado também fica sabendo. "Depois" cala a versão até a próxima
+/// abertura; "Pular" cala para sempre.
 @MainActor
 final class Atualizacao: ObservableObject {
 
@@ -24,9 +27,6 @@ final class Atualizacao: ObservableObject {
     }
 
     @Published var disponivel: Versao?
-    @Published var baixando = false
-    @Published var progresso: Double = 0
-    @Published var erro: String?
     /// Resposta ao "procurar atualização" do menu: sem isto, checar à mão e já
     /// estar atualizado não dá sinal nenhum na tela.
     @Published var aviso: String?
@@ -34,30 +34,45 @@ final class Atualizacao: ObservableObject {
     private let repo = "gabrielsaimo/SaimoPlayer"
     private let defaults = UserDefaults.standard
     private let chavePulada = "atualizacaoPulada"
-    private let chaveVisto = "atualizacaoVistoEm"
-    private let espera: TimeInterval = 6 * 60 * 60
+    private let intervalo: UInt64 = 60 * 60
+    /// Versão a que a pessoa respondeu "Depois": não pergunta de novo até o
+    /// app ser aberto outra vez.
+    private var adiada: String?
+    private var vigiando = false
 
     var atual: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "0"
     }
 
-    /// `manual` vem do menu: aí não há espera nem versão pulada que valha, e o
+    /// Primeira checagem na abertura e as seguintes de hora em hora.
+    func vigiar() {
+        guard !vigiando else { return }
+        vigiando = true
+        Task { [weak self] in
+            while let self {
+                self.procurar()
+                try? await Task.sleep(nanoseconds: self.intervalo * 1_000_000_000)
+            }
+        }
+    }
+
+    /// `manual` vem do menu: aí não há versão pulada ou adiada que valha, e o
     /// silêncio de "já está atualizado" precisa virar resposta na tela.
     func procurar(manual: Bool = false) {
-        if !manual, let visto = defaults.object(forKey: chaveVisto) as? Date,
-           Date().timeIntervalSince(visto) < espera { return }
-        defaults.set(Date(), forKey: chaveVisto)
-
         Task { [weak self] in
             guard let self else { return }
             guard let lancamento = await self.buscar() else {
                 if manual { self.aviso = "Não foi possível falar com o GitHub." }
                 return
             }
-            if !manual, self.defaults.string(forKey: self.chavePulada) == lancamento.tag { return }
             guard Self.maisNova(lancamento.numero, que: self.atual) else {
                 if manual { self.aviso = "Você já está na versão mais recente (\(self.atual))." }
                 return
+            }
+            if !manual {
+                if self.defaults.string(forKey: self.chavePulada) == lancamento.tag { return }
+                if self.adiada == lancamento.tag { return }
+                if self.disponivel?.tag == lancamento.tag { return }
             }
             self.disponivel = lancamento
         }
@@ -66,6 +81,18 @@ final class Atualizacao: ObservableObject {
     func pular(_ versao: Versao) {
         defaults.set(versao.tag, forKey: chavePulada)
         disponivel = nil
+    }
+
+    func depois(_ versao: Versao) {
+        adiada = versao.tag
+        disponivel = nil
+    }
+
+    /// Abre o DMG no navegador, que baixa pela pasta de Downloads de sempre.
+    func baixar(_ versao: Versao) {
+        adiada = versao.tag
+        disponivel = nil
+        NSWorkspace.shared.open(versao.dmg)
     }
 
     // MARK: - GitHub
@@ -84,7 +111,7 @@ final class Atualizacao: ObservableObject {
               let raiz = try? JSONSerialization.jsonObject(with: dados) as? [String: Any],
               let tag = raiz["tag_name"] as? String,
               let ativos = raiz["assets"] as? [[String: Any]]
-        else { return nil }
+        else { return await buscarPeloSite() }
 
         // O nome do arquivo é o contrato com o release: o DMG é a atualização
         // do Mac, e o APK do mesmo release é a do Android.
@@ -102,6 +129,26 @@ final class Atualizacao: ObservableObject {
                       numero: numero,
                       notas: (raiz["body"] as? String) ?? "",
                       dmg: endereco)
+    }
+
+    /// Reserva para quando a API não responde. Sem conta, ela aceita 60
+    /// consultas por hora por IP, e numa rede com muitos aparelhos atrás do
+    /// mesmo IP isso acaba. A página /releases/latest não tem esse limite e
+    /// redireciona para a tag da versão; o DMG mora num endereço fixo dela.
+    private func buscarPeloSite() async -> Versao? {
+        guard let url = URL(string: "https://github.com/\(repo)/releases/latest") else { return nil }
+        var pedido = URLRequest(url: url)
+        pedido.httpMethod = "HEAD"
+        pedido.timeoutInterval = 20
+        pedido.cachePolicy = .reloadIgnoringLocalCacheData
+        guard let (_, resposta) = try? await URLSession.shared.data(for: pedido),
+              let final = resposta.url, final.path.contains("/releases/tag/")
+        else { return nil }
+        let tag = final.lastPathComponent
+        guard let numero = Self.numeroDaTag(tag),
+              let dmg = URL(string: "https://github.com/\(repo)/releases/download/\(tag)/SaimoTV.dmg")
+        else { return nil }
+        return Versao(tag: tag, numero: numero, notas: "", dmg: dmg)
     }
 
     /// "v1.2.3" e "1.2" viram "1.2.3" e "1.2"; qualquer outra coisa, nulo.
@@ -122,109 +169,5 @@ final class Atualizacao: ObservableObject {
             if x != y { return x > y }
         }
         return false
-    }
-
-    // MARK: - Instalação
-
-    /// Baixa o DMG e deixa um script trocando o app depois que ele fechar.
-    ///
-    /// Um app não consegue se substituir enquanto está aberto, então quem faz a
-    /// troca é um script solto: ele espera este processo morrer, copia o novo
-    /// por cima e abre de volta. Se qualquer passo falhar, o app antigo continua
-    /// lá — a troca é uma cópia só, não uma remoção seguida de outra coisa.
-    func instalar(_ versao: Versao) {
-        guard !baixando else { return }
-        baixando = true
-        progresso = 0
-        erro = nil
-
-        Task { [weak self] in
-            guard let self else { return }
-            do {
-                let arquivo = try await self.baixar(versao.dmg)
-                try self.trocar(usando: arquivo)
-            } catch {
-                self.baixando = false
-                self.erro = "Falha ao atualizar: \(error.localizedDescription)"
-            }
-        }
-    }
-
-    private func baixar(_ de: URL) async throws -> URL {
-        let (bytes, resposta) = try await URLSession.shared.bytes(from: de)
-        guard let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode) else {
-            throw NSError(domain: "Atualizacao", code: 1,
-                          userInfo: [NSLocalizedDescriptionKey: "download recusado"])
-        }
-        
-        let destino = FileManager.default.temporaryDirectory
-            .appendingPathComponent("SaimoTV-\(UUID().uuidString).dmg")
-        FileManager.default.createFile(atPath: destino.path, contents: nil, attributes: nil)
-        let fileHandle = try FileHandle(forWritingTo: destino)
-        defer { try? fileHandle.close() }
-        
-        let total = Double(http.expectedContentLength)
-        var count = 0.0
-        var buffer = Data()
-        buffer.reserveCapacity(65536)
-        
-        for try await byte in bytes {
-            buffer.append(byte)
-            if buffer.count >= 65536 {
-                fileHandle.write(buffer)
-                count += Double(buffer.count)
-                let currentProgress = total > 0 ? count / total : 0
-                Task { @MainActor in self.progresso = currentProgress }
-                buffer.removeAll(keepingCapacity: true)
-            }
-        }
-        if !buffer.isEmpty {
-            fileHandle.write(buffer)
-            count += Double(buffer.count)
-        }
-        
-        Task { @MainActor in self.progresso = 1 }
-        return destino
-    }
-
-    private func trocar(usando dmg: URL) throws {
-        let destino = Bundle.main.bundleURL
-        let ponto = FileManager.default.temporaryDirectory
-            .appendingPathComponent("SaimoTV-\(UUID().uuidString)")
-        let script = FileManager.default.temporaryDirectory
-            .appendingPathComponent("saimo-atualizar-\(UUID().uuidString).sh")
-
-        let texto = """
-        #!/bin/bash
-        set -e
-        pid=\(ProcessInfo.processInfo.processIdentifier)
-        # Espera o app fechar: copiar por cima de um bundle em uso deixa o
-        # aplicativo pela metade.
-        for _ in $(seq 1 60); do
-          kill -0 "$pid" 2>/dev/null || break
-          sleep 0.5
-        done
-        mkdir -p "\(ponto.path)"
-        hdiutil attach -nobrowse -noautoopen -quiet "\(dmg.path)" -mountpoint "\(ponto.path)"
-        novo=$(find "\(ponto.path)" -maxdepth 1 -name "*.app" | head -1)
-        if [ -n "$novo" ]; then
-          rsync -a --delete "$novo/" "\(destino.path)/"
-          xattr -dr com.apple.quarantine "\(destino.path)" 2>/dev/null || true
-        fi
-        hdiutil detach "\(ponto.path)" -quiet || true
-        rm -f "\(dmg.path)"
-        open "\(destino.path)"
-        rm -f "$0"
-        """
-        try texto.write(to: script, atomically: true, encoding: .utf8)
-        try FileManager.default.setAttributes([.posixPermissions: 0o755],
-                                              ofItemAtPath: script.path)
-
-        let processo = Process()
-        processo.executableURL = URL(fileURLWithPath: "/bin/bash")
-        processo.arguments = [script.path]
-        try processo.run()
-
-        NSApp.terminate(nil)
     }
 }
