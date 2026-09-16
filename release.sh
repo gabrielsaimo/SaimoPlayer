@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-# Publica uma versão: monta o DMG e o APK e sobe os dois no mesmo release.
+# Publica uma versão: monta o DMG, o APK da TV e o app do Windows, e sobe tudo
+# no mesmo release, junto do APK do celular quando ele já estiver montado.
 #
 # A versão sai do Info.plist e é gravada também no APK, para que os dois lados
 # comparem a mesma coisa com a tag. O nome dos arquivos é o contrato com o
@@ -41,10 +42,31 @@ echo "==> montando o DMG"
 mkdir -p build/release
 cp "build/SaimoTV.dmg" "build/release/SaimoTV.dmg"
 
-echo "==> montando o APK"
+echo "==> montando o APK da TV"
+# assembleRelease, e não Debug: o APK publicado sai assinado com a chave da
+# pasta chaves, que é o que permite atualizar por cima.
 ( cd ../SaimoTV-Android && JAVA_HOME="$JAVA17" ANDROID_HOME="$HOME/Library/Android/sdk" \
-  gradle assembleDebug -q )
-cp "../SaimoTV-Android/app/build/outputs/apk/debug/app-debug.apk" "build/release/SaimoTV.apk"
+  ./gradlew assembleRelease -q )
+cp "../SaimoTV-Android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoTV.apk"
+
+echo "==> montando o app do Windows"
+( cd ../SaimoWin && ./empacotar.sh >/dev/null )
+cp "../SaimoWin/dist/SaimoTV-Windows.zip" "build/release/SaimoTV-Windows.zip"
+
+# O APK do celular é montado à parte (Expo) e copiado para cá antes de publicar.
+if [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" ]; then
+  cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
+fi
+
+echo "==> conferindo as assinaturas"
+APKSIGNER=$(ls "$HOME"/Library/Android/sdk/build-tools/*/apksigner | tail -1)
+for apk in build/release/*.apk; do
+  echo "    $(basename "$apk"): $("$APKSIGNER" verify --print-certs "$apk" 2>/dev/null \
+    | grep -m1 -o 'SHA-256 digest: .*')"
+done
+
+cell=""
+[ -f "build/release/SaimoCell.apk" ] && cell="build/release/SaimoCell.apk"
 
 notas="build/release/NOTAS.md"
 if [ ! -f "$notas" ]; then
@@ -66,6 +88,8 @@ gh release create "v$versao" \
   --title "Saimo TV $versao" \
   --notes-file "$notas" \
   $extra \
-  "build/release/SaimoTV.dmg" "build/release/SaimoTV.apk"
+  build/release/SaimoTV.dmg build/release/SaimoTV.apk \
+  build/release/SaimoTV-Windows.zip \
+  ${cell:-}
 
 echo "pronto: https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v$versao"
