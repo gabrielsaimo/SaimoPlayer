@@ -11,18 +11,21 @@ Ultima Hora		0	6
 Ultimas Ferias		0	8
 Ultimate Beastmaster Brasil		0	29
 Ultimate Homem Aranha		0	104
-Ultimo Ato		0	7
+Ultimo Ato		0	13
 Ultra Violeta e o Escorpião Negro		0	16
 Ultraman		0	31
 Ultraman Blazar		0	25
 Ultraman Omega		0	8
 Um Advogado Fora da Lei		0	16
+Um Amigo Um Assassino		0	3
+Um Amor Diferente do Seu		0	1
 Um Amor Impossivel Ou nao		0	12
 Um Amor Que Ilumina		0	16
 Um Amor Tao Bom		0	26
 Um Amor de Cinema		0	10
 Um Amor de Familia		0	183
-Um Amor no Paraiso		0	10
+Um Amor no Paraiso		0	12
+Um Anjo Caiu do Ceu		0	185
 Um Anjo dos Infernos		0	13
 Um Arremesso Overtime Elite		0	12
 Um Artista Polemico		0	6
@@ -36,9 +39,11 @@ Um Bom Garoto		0	16
 Um Bom Homem		0	14
 Um Capitão		0	6
 Um Casamento Feliz		0	9
-Um Cavalheiro em Moscou		0	13
+Um Cavalheiro em Moscou		0	16
+Um Chefe e Um Bebe		0	12
 Um Contador no Mundo do Crime		0	9
 Um Conto Sombrio dos Grimm		0	10
+Um Conto de Duas Cidades		0	2
 Um Conto de Fadas Perfeito		0	5
 Um Corpo que Gera		0	8
 Um Crush de Primeira		0	20
@@ -49,8 +54,9 @@ Um Dia de Cada Vez		0	39
 Um Dia de Chef		0	52
 Um Diabo na Familia O Caso de Ruby Franke		0	3
 Um Distrito do Alem		0	6
+Um Drink no Inferno		0	60
 Um Espiao Entre Amigos		0	6
-Um Espiao Infiltrado		0	8
+Um Espiao Infiltrado		0	16
 Um Genio Chamado Jo		0	5
 Um Homem Decente		0	6
 Um Homem Sem Filtros		0	12
@@ -59,55 +65,59 @@ Um Homem por Inteiro		0	6
 Um Inferno Para Voce		0	11
 Um Lar na Natureza		0	4
 Um Lobo como Eu		0	26
-Um Lugar ao Sol		1	119
-Um Maluco na TV		1	138
-Um Maluco no Pedaço		1	296
-Um Milagre		1	197
-Um Milhao de Vezes Amor		1	10
-Um Milhão de Coisas		1	87
-Um Monstro Como Nunca se Viu		1	6
-Um Mundo Diferente		1	144
-Um Novo Corpo Uma Nova Vida		1	3
-Um Ombro Para Chorar		1	7
-Um Passo de Cada Vez		1	10
-Um Pedaco da Sua Mente		1	12
-Um Pesadelo Americano		1	3
-Um Pesadelo de Casamento		1	12
-Um Planeta Perfeito		1	5
-Um Rapaz Adequado		1	6
-Um Tanto Familiar		1	8
-Um Trem para o Qatar		1	8
-Um Trilhao de Dolares		1	6
-Um de Nós Está Mentindo		1	16
-Um dos Garotos		1	4
-Um dos Nossos David Chase e a Familia Soprano		1	2
-Uma Advogada Extraordinária		1	16
-Uma Bela Impostora		1	101
-Uma Casa de Familia		1	11
-Uma Conspiração Sueca		1	6
-Uma Dose Diaria de Sol		1	12
-Uma Equipe Muito Especial		1	8
-Uma Escolha do Coracao		1	76
-Uma Esposa em Miniatura		1	10
-Uma Estrela Mais Radiante Que o Sol		1	12
-Uma Familia Inusitada		1	12
-Uma Familia Perfeita		1	8
-Uma Familia Quase Perfeita		1	6
-Uma Família Exemplar		1	10
-Uma Família da Pesada		1	440
-Uma Fazenda de Flores		1	4
-Uma Imensidão de Erros: O Caso de Jeffrey MacDonald		1	5
-Uma Loja Para Assassinos		1	16
-Uma Maldicao de Familia		1	20
-Uma Mente Excepcional		1	61
-Uma Morte em Vermelho		1	4
-Uma Mãe Perfeita		1	4
-Uma Noite De Crime		1	20
-Uma Noite em Idaho Os Assassinatos na Faculdade		1	4
-Uma Nova Mulher		1	16
-Uma Odisséia Coreana		1	20
-Uma Pitada de Magia		1	52
-Uma Questao de Quimica		1	8
+Um Lugar ao Sol		0	119
+Um Maluco na TV		0	138
+Um Maluco no Pedaço		0	296
+Um Milagre		0	197
+Um Milhao de Vezes Amor		0	10
+Um Milhão de Coisas		0	87
+Um Monstro Como Nunca se Viu		0	6
+Um Mundo Diferente		0	144
+Um Novo Corpo Uma Nova Vida		0	3
+Um Ombro Para Chorar		0	7
+Um Passo de Cada Vez		0	10
+Um Pedaco da Sua Mente		0	12
+Um Pesadelo Americano		0	3
+Um Pesadelo de Casamento		0	12
+Um Planeta Perfeito		0	5
+Um Rapaz Adequado		0	6
+Um So Coracao		0	53
+Um Tanto Familiar		0	8
+Um Trem para o Qatar		0	8
+Um Trilhao de Dolares		0	6
+Um de Nós Está Mentindo		0	16
+Um dos Garotos		0	4
+Um dos Nossos David Chase e a Familia Soprano		0	2
+Uma Advogada Extraordinária		0	16
+Uma Atualizacao Sobre Nossa Familia		0	3
+Uma Bela Impostora		0	101
+Uma Casa de Familia		0	11
+Uma Conspiração Sueca		0	6
+Uma Dose Diaria de Sol		0	12
+Uma Equipe Muito Especial		0	8
+Uma Escolha do Coracao		0	76
+Uma Esposa em Miniatura		0	10
+Uma Estrela Mais Radiante Que o Sol		0	12
+Uma Familia Inusitada		0	12
+Uma Familia Perfeita		0	16
+Uma Familia Quase Perfeita		0	6
+Uma Família Exemplar		0	10
+Uma Família da Pesada		0	464
+Uma Fazenda de Flores		0	4
+Uma Imensidão de Erros: O Caso de Jeffrey MacDonald		0	5
+Uma Jornada Pela India		0	6
+Uma Loja Para Assassinos		0	16
+Uma Maldicao de Familia		0	20
+Uma Mente Excepcional		0	62
+Uma Morte em Vermelho		0	4
+Uma Mãe Perfeita		0	4
+Uma Noite De Crime		0	20
+Uma Noite de Primavera		0	16
+Uma Noite em Idaho Os Assassinatos na Faculdade		0	8
+Uma Nova Mulher		0	16
+Uma Odisséia Coreana		0	20
+Uma Pitada de Magia		0	52
+Uma Questao de Quimica		0	16
 Uma Rosa Com Amor		1	145
 Uma Seul Desconhecida		1	12
 Uma Turma Genial		1	10
@@ -120,46 +130,47 @@ Umamusume Pretty Derby		1	39
 Un Buen Divorcio		1	10
 Un Go		1	12
 UnREAL		1	39
-Unbreakable Kimmy Schmidt		2	51
-Unbroken: Nada A Perder		2	6
-Uncoupled		2	8
-Undead Girl Murder Farce		2	13
-Undead Murder Farce		2	13
-Undead Unluck		2	48
-Under Salt Marsh		2	6
-Under The Dome		2	38
-Undercover High School		2	12
-Underdogs Coadjuvantes Selvagens		2	5
-Underground - Uma História de Resistência		2	10
-Undone		2	8
-Unfamiliar		2	6
-Unforgettable		2	61
-Unicorn: Warriors Eternal		2	10
-Unicornio Implacavel		2	7
-Unidade Básica		2	24
-Unidentified with Demi Lovato		2	4
-Unidos: Manchester City Tricampeão		2	6
-Unigata		2	103
-UniteUp		2	25
-Unitopia		2	2
-Universal Basic Guys		2	13
-Universo Ashley Garcia		2	8
-Universos Paralelos		2	6
-União de Sangue		2	4
-Unknown		2	12
-Unmasked		2	3
-Unnamed Memory		2	24
-Unsolved		2	10
-Untold: Entre o Campo e o Crime		2	4
-Upload		2	29
-Upright		2	16
-Ursinhos Carinhosos Libere a Magia		2	6
-Ursinhos Carinhosos e Seus Primos		2	6
-Ursinhos em Curso		2	73
-Ursos Sem Curso		2	96
-Us		2	5
-Usagi Drop		2	11
-Use Sua Voz		2	3
-Utopia		2	8
-Uzaki-chan wa Asobitai!		2	25
-Uzumaki		2	4
+Unbreakable Kimmy Schmidt		1	51
+Unbroken: Nada A Perder		1	6
+Uncoupled		1	8
+Undead Girl Murder Farce		1	13
+Undead Murder Farce		1	13
+Undead Unluck		1	48
+Under Salt Marsh		1	6
+Under The Dome		1	38
+Undercover High School		1	12
+Underdogs Coadjuvantes Selvagens		1	5
+Underground - Uma História de Resistência		1	10
+Undone		1	16
+Unfamiliar		1	6
+Unforgettable		1	61
+Unicorn: Warriors Eternal		1	10
+Unicornio Implacavel		1	7
+Unidade 42		1	10
+Unidade Básica		1	24
+Unidentified with Demi Lovato		1	4
+Unidos Manchester City Tricampeao		1	6
+Unigata		1	103
+UniteUp		1	25
+Unitopia		1	2
+Universal Basic Guys		1	13
+Universo Ashley Garcia		1	8
+Universos Paralelos		1	6
+União de Sangue		1	4
+Unknown		1	12
+Unmasked		1	3
+Unnamed Memory		1	24
+Unsolved		1	10
+Untold: Entre o Campo e o Crime		1	4
+Upload		1	29
+Upright		1	32
+Ursinhos Carinhosos Libere a Magia		1	6
+Ursinhos Carinhosos e Seus Primos		1	6
+Ursinhos em Curso		1	73
+Ursos Sem Curso		1	96
+Us		1	5
+Usagi Drop		1	11
+Use Sua Voz		1	10
+Utopia		1	8
+Uzaki-chan wa Asobitai!		1	25
+Uzumaki		1	8

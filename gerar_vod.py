@@ -31,6 +31,9 @@ ORIGENS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8",
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8",
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Filmes-Series.m3u8",
+    # Lista guardada neste repositório. Fica por último para os servidores dela
+    # entrarem depois dos que já têm número no índice.
+    "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/3.m3u",
 ]
 # Servidores fora do ar para todos, sem publicar app: os links deles não entram
 # no catálogo. Para voltar, tire daqui e rode o script de novo.
@@ -117,8 +120,10 @@ def chave(titulo, ano=""):
 class Bases:
     """Começos de URL que se repetem, para o item guardar só o número."""
 
-    def __init__(self):
-        self.lista = []
+    def __init__(self, anteriores=()):
+        # Os números já publicados continuam valendo: cada fatia guarda o número
+        # da base, e renumerar faria todo app baixar o acervo de novo à toa.
+        self.lista = list(anteriores)
 
     def encurtar(self, url):
         for indice, base in enumerate(self.lista):
@@ -140,8 +145,22 @@ def baixar(url):
         return resposta.read().decode("utf-8", "replace")
 
 
+def bases_publicadas():
+    """As bases do índice atual, na ordem em que foram numeradas."""
+    indice = SAIDA / "indice.txt"
+    if not indice.exists():
+        return []
+    publicadas = []
+    for linha in indice.read_text(encoding="utf-8").splitlines():
+        if linha.startswith("base:"):
+            partes = linha[len("base:"):].strip().split(" ", 1)
+            if len(partes) == 2:
+                publicadas.append(partes[1])
+    return publicadas
+
+
 def main():
-    bases = Bases()
+    bases = Bases(bases_publicadas())
     filmes = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
     series = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
     reservado = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
