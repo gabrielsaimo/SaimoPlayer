@@ -11,8 +11,11 @@ O Amor Invencível		0	80
 O Amor Mora ao Lado		0	16
 O Amor Nao Esta Esgotado		0	12
 O Amor Nao Tem Mitos		0	21
+O Amor Não Espera		0	10
+O Amor Perdura		0	32
 O Amor Pode Ser Traduzido		0	12
 O Amor Que Me Da		0	28
+O Amor Tem Fogos de Artifício		0	36
 O Amor Volta para Casa		0	12
 O Amor e Melhor na Segunda Vez		0	6
 O Anti Heroi		0	10
@@ -32,6 +35,7 @@ O Assassino de Valhalla		0	8
 O Assassino do Rio Green Caca Ao Monstro		0	4
 O Assassino do TikTok		0	2
 O Astro		0	64
+O Atentado ao Voo Pan Am 103		0	6
 O Atirador		0	31
 O Auto da Compadecida		0	4
 O Baba		0	26
@@ -51,11 +55,13 @@ O Bonde		0	16
 O Bosque		0	6
 O Cafetão		0	6
 O Caminho Estreito para os Confins do Norte		0	10
+O Caminho para o Sucesso		0	31
 O Cangaceiro do Futuro		0	7
 O Canto Livre de Nara Leão		0	5
 O Canto da Sereia		0	4
 O Canto do Passaro		0	332
 O Caozinho Esperto		0	13
+O Capelão do Aeroporto		0	8
 O Cartel da Marmita		0	7
 O Casal Perfeito		0	12
 O Casal da Casa ao Lado		0	18
@@ -97,7 +103,7 @@ O Clube dos Graves		0	10
 O Codigo Bill Gates		0	3
 O Colapso		0	1
 O Coletor de Corpos		0	3
-O Conde de Monte Cristo		0	8
+O Conde de Monte Cristo		0	16
 O Consultor		0	8
 O Continental Do Mundo de John Wick		0	6
 O Conto Da Aia		0	66
@@ -112,12 +118,12 @@ O Crime do Padre Amaro		0	6
 O Crime do Século		0	4
 O Cristal Encantado A Era Da Resistencia		0	10
 O Crush Perfeito		0	6
-O Cuco de Cristal		0	6
-O Culto Secreto		0	8
-O Culto da Morte O Caso Andrea Yates		0	3
-O Curandeiro		0	20
-O Curioso Caso de		0	14
-O Curioso Caso de Natalia Grace		0	16
+O Cuco de Cristal		1	6
+O Culto Secreto		1	8
+O Culto da Morte O Caso Andrea Yates		1	3
+O Curandeiro		1	20
+O Curioso Caso de		1	14
+O Curioso Caso de Natalia Grace		1	16
 O Curioso Mundo de James		1	20
 O DNA da Justiça		1	9
 O Degelo		1	12
@@ -126,6 +132,7 @@ O Desaparecimento de Birgit Meier		1	4
 O Desastre de Chernobyl		1	3
 O Desconhecido Mundo Animal		1	12
 O Despertar das Tartarugas Ninja		1	26
+O Destino do Amor		1	10
 O Detetive das Sombras		1	16
 O Dia Depois da Eleição		1	10
 O Dia Em Que A Minha Vida Mudou		1	20
@@ -157,11 +164,13 @@ O Estudio		1	20
 O Estudio da Meia Noite		1	16
 O Eternauta		1	6
 O Exorcista		1	40
+O Experimento Americano		1	5
 O Exterminador do Futuro As Cronicas de Sarah Connor		1	62
 O Exterminador do Futuro Zero		1	8
 O Extraordinario Territorio da Escandinavia		1	5
 O Extraordinário Observador de Pássaros com Christian Cooper		1	6
 O Exército Esquecido		1	5
+O Falcão do Golfe		1	10
 O Falsificador Mórmon		1	3
 O Falso Sheik		1	3
 O Famoso Alfaiate		1	23
@@ -201,6 +210,7 @@ O Herdeiro Impossivel		1	12
 O Herdeiro: A Dinastia do Freestyle		1	4
 O Hipnotizador		1	16
 O Homem Inocente		1	20
+O Homem Mais Procurado da Índia		1	4
 O Homem com Mil Filhos		1	3
 O Homem das Castanhas		1	12
 O Homem de Lugar Nenhum		1	6
@@ -221,23 +231,24 @@ O Incrível Hulk		1	82
 O Incrível Mundo de Gumball		1	240
 O Indice do Medo		1	4
 O Indomavel Amor Sem Limites		1	144
+O Inferno São as Pessoas		1	10
 O Inferno das Mulheres		1	4
 O Inocente		1	8
 O Instituto		1	16
 O Internato: Las Cumbres		1	22
 O Isqueiro e o vestido da Princesa		1	38
 O Jardim de Bronze		1	24
-O Jardim dos Esquecidos: A Origem		1	4
-O Jardineiro		1	6
-O Jeito Apropriado de Escrever Amor		1	1
-O Jeito Que Voce Brilha		1	24
-O Jim e Assim		1	146
-O Jogador 2 Entre Golpistas		1	12
-O Jogo		1	7
-O Jogo Inglês		1	6
-O Jogo Que Mudou A Historia		1	10
-O Jogo da Abelha Rainha		1	10
-O Jogo da Corrupcao		1	8
+O Jardim dos Esquecidos: A Origem		2	4
+O Jardineiro		2	6
+O Jeito Apropriado de Escrever Amor		2	1
+O Jeito Que Voce Brilha		2	24
+O Jim e Assim		2	146
+O Jogador 2 Entre Golpistas		2	12
+O Jogo		2	7
+O Jogo Inglês		2	6
+O Jogo Que Mudou A Historia		2	10
+O Jogo da Abelha Rainha		2	10
+O Jogo da Corrupcao		2	8
 O Jogo da Fama		2	8
 O Jogo da Morte		2	16
 O Jogo da Piramide		2	19
@@ -266,8 +277,10 @@ O Maestro e o Mar		2	19
 O Maior Roubo de Arte de Todos os Tempos		2	4
 O Mal na sua Essencia A Historia de Hadden Clark		2	5
 O Manipulado		2	12
+O Mapa dos Desejos		2	6
 O Mar La Fora		2	50
 O Mar da Tranquilidade		2	8
+O Marido		2	24
 O Marido do Meu Irmao		2	3
 O Marinheiro Popeye		2	440
 O Massacre de Waco: As Consequências		2	10
@@ -278,8 +291,8 @@ O Melhor Infarto da Minha Vida		2	6
 O Melhor de Mexicanicos		2	10
 O Melhor do Mundo com Antoni Porowski		2	4
 O Menino Maluquinho		2	26
-O Menino que nao vai para o Ceu		2	2
-O Mentalista		2	151
+O Menino que nao vai para o Ceu		2	6
+O Mentalista		2	302
 O Meu Pai é um Caçador de Recompensas!		2	18
 O Misteio da Rota 20		2	3
 O Misterio da Fazenda Blind Frog		2	28
@@ -323,7 +336,7 @@ O Negócio		2	51
 O Nevoeiro		2	20
 O Ninho Futebol e Tragedia		2	3
 O Nome da Rosa		2	8
-O Novato Renascido		2	4
+O Novato Renascido		2	12
 O Novo Festival Tom e Jerry		2	161
 O Novo Papa		2	9
 O Novo Show do Pica-Pau		2	112
@@ -334,6 +347,7 @@ O Outro Lado do Amor		2	78
 O Outro Lado do Paraíso		2	173
 O Paciente		2	10
 O Pacífico		2	10
+O Pai da Minha Filha		2	10
 O Pais de Tanabata		2	10
 O Palacio Assombrado		2	16
 O Paraíso e a Serpente		2	8
@@ -344,20 +358,20 @@ O Pequeno Scooby Doo		2	27
 O Pequeno Urso		2	64
 O Perfume		2	6
 O Peso da Gloria		2	7
-O Peso da Verdade		2	34
-O Picapau Amarelo		2	25
-O Pier		2	24
-O Piloto Invisível		2	3
-O Pior do Mal		2	12
-O Plano de Ressurreicao		2	9
-O Plano é Esse		2	6
-O Poder		2	9
-O Poder de Hitler		2	3
-O Poder e a Lei		2	80
-O Poligamo		2	22
-O Poltergeist de Enfield		2	4
-O Portal do Ollie		2	26
-O Prazer e Meu		2	4
+O Peso da Verdade		3	34
+O Picapau Amarelo		3	25
+O Pier		3	24
+O Piloto Invisível		3	3
+O Pior do Mal		3	12
+O Plano de Ressurreicao		3	9
+O Plano é Esse		3	6
+O Poder		3	9
+O Poder de Hitler		3	3
+O Poder e a Lei		3	80
+O Poligamo		3	22
+O Poltergeist de Enfield		3	4
+O Portal do Ollie		3	26
+O Prazer e Meu		3	4
 O Preco da Confissao		3	12
 O Preco do Silencio		3	1
 O Predador de Sevilha		3	3
@@ -370,6 +384,7 @@ O Privilegio de Amar		3	155
 O Problema dos 3 Corpos		3	16
 O Professor		3	23
 O Profeta		3	178
+O Profeta da Pandemia		3	4
 O Programa A Industria dos Internatos Abusivos		3	3
 O Programa: 90 Dias Longe das Drogas		3	6
 O Promotor Militar Dobermann		3	16
@@ -392,7 +407,8 @@ O Que a Vida Me Roubou		3	197
 O Quinteto		3	119
 O Quinto dos Infernos		3	47
 O Rancho		3	120
-O Rastreador		3	106
+O Rastreador		3	110
+O Rato		3	10
 O Rebu		3	36
 O Refugio		3	6
 O Refugio Atomico		3	8
@@ -406,7 +422,7 @@ O Rei de Porcelana		3	20
 O Rei do Bairro		3	414
 O Rei do Gado		3	209
 O Rei do Inverno		3	20
-O Rei do Pedaço		3	88
+O Rei do Pedaço		3	201
 O Rei dos Pneus		3	6
 O Reino Perdido dos Piratas		3	6
 O Reino das Sete Magilâminas		3	15
@@ -418,6 +434,7 @@ O Repórter do Poder		3	4
 O Resgate na Caverna Tailandesa		3	6
 O Residente		3	214
 O Resort Zoobak		3	51
+O Restaurante da Bruxa		3	8
 O Restaurante do Diabo		3	6
 O Retorno da Rainha		3	24
 O Retorno de Simone Biles		3	4
@@ -444,14 +461,16 @@ O Segredo do Rancho Skinwalker		3	58
 O Segredo do Rio		3	8
 O Segredo do Templo		3	24
 O Segundo Melhor Hospital da Galaxia		3	8
+O Senhor das Moscas		3	4
 O Senhor dos Anéis: Os Anéis de Poder		3	32
 O Senhor e a Serva		3	10
 O Sequestro do Voo 601		3	6
 O Sexo dos Anjos		3	6
 O Show da Luna		3	209
 O Show de Tom e Jerry		3	325
+O Show de Varnell Hill		3	4
 O Show do Garfield		3	26
-O Show do Patrick Estrela		3	57
+O Show do Patrick Estrela		3	65
 O Show do Scooby Doo		3	40
 O Show do Sábado		3	8
 O Show dos Looney Tunes		3	52
@@ -459,34 +478,35 @@ O Show dos Tubaroes Babies		3	12
 O Simpatizante		3	14
 O Simples Assalto		3	6
 O Sinal		3	4
-O Socio		3	106
-O Som da Magia		3	6
-O Som do Seu Coracao		3	10
-O Som e a Silaba		3	8
-O Sorriso Deixou Seus Olhos		3	16
-O Submarino		3	8
-O Submundo das Apostas		3	8
-O Sucessor		3	23
-O Sétimo Guardião		3	161
-O Símbolo Perdido de Dan Brown		3	20
-O Tatuador de Auschwitz		3	12
-O Taxista		3	101
-O Teatro das Tesouras		3	8
-O Tempo Entre Costuras		3	17
-O Tempo Nao Para		3	156
-O Tempo Que Te Dou		3	10
-O Tempo Traz Você pra Mim		3	12
-O Tempo ao Seu Lado		3	8
-O Tempo das Moscas		3	6
+O Socio		4	106
+O Som da Magia		4	6
+O Som do Seu Coracao		4	10
+O Som e a Silaba		4	8
+O Sorriso Deixou Seus Olhos		4	16
+O Submarino		4	8
+O Submundo das Apostas		4	8
+O Sucessor		4	23
+O Sétimo Guardião		4	161
+O Símbolo Perdido de Dan Brown		4	20
+O Tatuador de Auschwitz		4	12
+O Taxista		4	101
+O Teatro das Tesouras		4	8
+O Tempo Entre Costuras		4	17
+O Tempo Nao Para		4	156
+O Tempo Que Te Dou		4	10
+O Tempo Traz Você pra Mim		4	12
+O Tempo ao Seu Lado		4	8
+O Tempo das Moscas		4	6
 O Tempo e o Vento		4	26
 O Terremoto do Everest		4	3
 O Testamento O Segredo de Anita Harley		4	5
 O Tio de Outro Mundo		4	13
 O Toque Do Silencio		4	6
 O Traficante		4	10
+O Truque de Black		4	13
 O Turista		4	24
 O Túnel Do Tempo		4	30
-O Ultimato: Ou Casa ou Vaza		4	30
+O Ultimato: Ou Casa ou Vaza		4	40
 O Ultimato: Queer Love		4	20
 O Ultimo Ano de Hitler		4	2
 O Ultimo Dragão		4	82
@@ -503,6 +523,7 @@ O Velho Oeste com Kevin Costner		4	8
 O Vento Sopra		4	16
 O Verao em que Hikaru Morreu		4	24
 O Verão Que Mudou Minha Vida		4	52
+O Verão de	1936	4	6
 O Veu		4	11
 O Viajante Relutante com Eugene Levy		4	8
 O Vidente		4	80
@@ -518,6 +539,7 @@ O Último Grande Peixe		4	8
 O Último Navio		4	112
 O Último Ônibus do Mundo		4	10
 O... Coitado		4	39
+O.J. Simpson: Verdades Nunca Vistas		4	4
 O.J.: Made in America		4	5
 O11ZE		4	220
 OC Um Estranho no Paraiso		4	92
@@ -526,8 +548,10 @@ ONE PIECE A Serie Conteudo Extra		4	5
 ONE PIECE: A Série		4	32
 ONI: A Lenda do Deus do Trovão		4	4
 ONIMAI Im Now Your Sister		4	12
+OS DOOMIES		4	22
 OUT THERE Crimes of the Paranormal		4	8
 OVERTAKE		4	12
+Oasis		4	8
 Obama Em busca de uma Uniao mais Perfeita		4	3
 Obi-Wan Kenobi		4	6
 ObiWan Kenobi		4	12
@@ -543,6 +567,7 @@ Ochikobore Fruit Tart		4	12
 October Faction		4	10
 Oda Cinnamon Nobunaga		4	12
 Odd Mom Out		4	60
+Odd Taxi		4	13
 Odo		4	13
 Oedo Fire Slayer The Legend of Phoenix		4	12
 Oferenda ao Demonio		4	33
@@ -551,12 +576,14 @@ Off Road		4	6
 Oficina TexMex		4	10
 Oficina de Superclassicos		4	18
 Oggy e as Baratas Tontas: E Piya!		4	13
+Oh Boy, Was I Wrong About Her		4	11
 Oh Hell		4	16
 Oh My Assistant		4	8
 Oh My Baby		4	16
 Oh My God...Yes Uma Serie de Momentos que Fazem Todo Sentido		4	7
 Oh Suddenly Egyptian God		4	20
 Oh The Mysterious		4	40
+Oh, Otto!		4	7
 Oi Linda Anatomia de um Golpe Romantico		4	3
 Oi Ninja		4	20
 Oi Tonbo		4	26
@@ -571,33 +598,33 @@ Olhar Indiscreto		4	10
 Olhe nos Meus Olhos		4	12
 Olhos Atentos		4	10
 Olhos da Lei		4	32
-Olhos de Wakanda		4	4
-Olhos que Condenam		4	4
-Ollie, o Coelhinho Perdido		4	4
-Ololade		4	6
-Olympo		4	8
-Olá, Amanhã!		4	10
-Olá, Jack! – Um programa sobre gentileza		4	16
-Olá, Papai		4	100
-Olá? Sou Eu!		4	16
-On My Block		4	76
-On My Block: Freeridge		4	16
-Once Again		4	8
-Once Upon a Witchs Death		4	12
-Onda Boa com Ivete		4	5
-Onda de 100 Pés		4	12
-Onde Esta Amy Bradley		4	3
-Onde Esta a Wanda		4	8
-Onde Está Meu Coração		4	10
-Onde Está Tim Lopes?		4	4
-Onde Nascem os Fortes		4	53
-Onde Seus Olhos se Prolongam		4	9
-Onde está Marta del Castillo?		4	3
-One Dollar		4	20
-One More Happy Ending		4	16
-One Piece		4	2767
-One Piece Log Fish Man Island Saga		4	20
-One Punch Man		4	72
+Olhos de Wakanda		5	4
+Olhos que Condenam		5	4
+Ollie, o Coelhinho Perdido		5	4
+Ololade		5	6
+Olympo		5	8
+Olá, Amanhã!		5	10
+Olá, Jack! – Um programa sobre gentileza		5	16
+Olá, Papai		5	100
+Olá? Sou Eu!		5	16
+On My Block		5	76
+On My Block: Freeridge		5	16
+Once Again		5	8
+Once Upon a Witchs Death		5	12
+Onda Boa com Ivete		5	5
+Onda de 100 Pés		5	12
+Onde Esta Amy Bradley		5	3
+Onde Esta a Wanda		5	8
+Onde Está Meu Coração		5	10
+Onde Está Tim Lopes?		5	4
+Onde Nascem os Fortes		5	53
+Onde Seus Olhos se Prolongam		5	9
+Onde está Marta del Castillo?		5	3
+One Dollar		5	20
+One More Happy Ending		5	16
+One Piece		5	2767
+One Piece Log Fish Man Island Saga		5	20
+One Punch Man		5	72
 One Room Angel		5	6
 One Spring Night		5	16
 One Strange Rock		5	10
@@ -620,7 +647,7 @@ Operacao Fronteira Estados Unidos		5	20
 Operacao Fronteira Italia		5	14
 Operacao Fronteira Polonia		5	8
 Operacao Fronteira Suecia		5	28
-Operacao Guerra Verde		5	2
+Operacao Guerra Verde		5	10
 Operacao Infiltrados		5	6
 Operacao Policial		5	20
 Operacao Romeo		5	20
@@ -630,12 +657,14 @@ Operation Sabre		5	7
 Operação Berlim		5	29
 Operação Ecstasy		5	28
 Operação Fronteira: América do Sul		5	21
-Operação Fronteira: Brasil		5	97
+Operação Fronteira: Brasil		5	108
 Operação Maré Negra		5	9
 Operação Maré Negra: A Travessia Suicida		5	4
 Operação Naufrágios		5	10
 Operação Pacífico		5	60
-Operação: Lioness		5	44
+Operação Safed Sagar		5	6
+Operação: Lioness		5	45
+Orange		5	13
 Orange County à Venda		5	16
 Orange Days		5	11
 Orange Is The New Black		5	182
@@ -643,11 +672,13 @@ Orange Marmalade		5	12
 Orbe Sobre os Movimentos da Terra		5	24
 Ordinary Joe		5	13
 Ore dake Haireru Kakushi Dungeon		5	12
+Orgulho		5	8
 Orgulho Alem da Tela		5	3
 Orgulho e Familia		5	4
 Orgulho e Paixao		5	162
 Orgulho e Preconceito		5	6
 Orient		5	48
+Oriental Martial Academy		5	7
 Origem		5	80
 Orphan Black		5	100
 Orphan Black Echoes		5	10
@@ -658,7 +689,7 @@ Os 20 dias de Lazaro		5	6
 Os 24 Estratagemas de Changan		5	28
 Os 3 Lá Embaixo: Contos da Arcadia		5	26
 Os 39		5	6
-Os 4 Elementos da Terra		5	7
+Os 4 Elementos da Terra		5	16
 Os 43 de Ayotzinapa Crime de Estado		5	5
 Os 4400		5	89
 Os 7 Ursos		5	10
@@ -674,6 +705,7 @@ Os Assassinatos da Maratona de Boston		5	3
 Os Assassinatos de Are		5	5
 Os Assassinatos de Fox Hollow Playground de um Serial Killer		5	4
 Os Assassinatos de Gilgo Beach		5	4
+Os Assassinatos de Idaho: Pesadelo Universitário		5	3
 Os Astronautas		5	10
 Os Auditores		5	12
 Os Ausentes		5	10
@@ -686,42 +718,43 @@ Os Caca Fantasmas		5	98
 Os Cacadores de Peles		5	4
 Os Cadetes Mech		5	10
 Os Caminhos de Jesus		5	6
-Os Canibais de Baton Rouge		5	4
-Os Caras Malvados No Pedaco		5	28
-Os Caras do Telemarketing		5	3
-Os Cariocas		5	10
-Os Casagrandes		5	60
-Os Casos de Harry Hole		5	18
-Os Casos do Inspetor Vrenko		5	6
-Os Cavaleiros de Castelcorvo		5	15
-Os Cavaleiros do Zodiaco		5	114
-Os Cavaleiros do Zodiaco Alma de Ouro		5	26
-Os Cavaleiros do Zodiaco Omega		5	97
-Os Cavaleiros do Zodiaco Saint Seiya		5	30
-Os Cavaleiros do Zodíaco - Saga do Santuário		5	114
-Os Cavaleiros do Zodíaco: A Saga de Hades		5	13
-Os Cavaleiros do Zodíaco: The Lost Canvas		5	39
-Os Celtas A Historia Nao Contada		5	3
-Os Choroes		5	5
-Os Contatinhos de Lauren		5	8
-Os Corretores de Beverly Hills		5	8
-Os Crimes da Nossa Mãe		5	3
-Os Defeituosos		5	8
-Os Desafios de Hailey		5	19
-Os Desajustados de Seul		5	20
-Os Dez Mandamentos		5	242
-Os Diarios Zen de Garry Shandling		5	2
-Os Dias Eram Assim		5	88
-Os Dinossauros		5	4
-Os Donos do Jogo		5	8
-Os Eleitos		5	8
-Os Empoderados		5	20
-Os Encanadores da Casa Branca		5	5
-Os Enviados		5	16
+Os Canibais de Baton Rouge		6	4
+Os Caras Malvados No Pedaco		6	28
+Os Caras do Telemarketing		6	3
+Os Cariocas		6	10
+Os Casagrandes		6	60
+Os Casos de Harry Hole		6	18
+Os Casos do Inspetor Vrenko		6	6
+Os Cavaleiros de Castelcorvo		6	15
+Os Cavaleiros do Zodiaco		6	114
+Os Cavaleiros do Zodiaco Alma de Ouro		6	26
+Os Cavaleiros do Zodiaco Omega		6	97
+Os Cavaleiros do Zodiaco Saint Seiya		6	30
+Os Cavaleiros do Zodíaco - Saga do Santuário		6	114
+Os Cavaleiros do Zodíaco: A Saga de Hades		6	13
+Os Cavaleiros do Zodíaco: The Lost Canvas		6	39
+Os Celtas A Historia Nao Contada		6	3
+Os Choroes		6	5
+Os Contatinhos de Lauren		6	8
+Os Corretores de Beverly Hills		6	8
+Os Crimes da Nossa Mãe		6	3
+Os Defeituosos		6	8
+Os Desafios de Hailey		6	19
+Os Desajustados de Seul		6	20
+Os Dez Mandamentos		6	242
+Os Diarios Zen de Garry Shandling		6	2
+Os Dias Eram Assim		6	88
+Os Dinossauros		6	4
+Os Donos do Jogo		6	8
+Os Eleitos		6	8
+Os Empoderados		6	20
+Os Encanadores da Casa Branca		6	5
+Os Enviados		6	16
+Os Escolhidos à Prova De Tudo Com Bear Grylls		6	6
 Os Experientes		6	7
 Os Fantasmas de Devil Perch		6	1
 Os Farad		6	8
-Os Feiticeiros Alem de Waverly Place		6	31
+Os Feiticeiros Alem de Waverly Place		6	35
 Os Feiticeiros de Waverly Place		6	110
 Os Filhos de Sam: Loucura e Conspiração		6	4
 Os Filhos de Tom e Jerry		6	65
@@ -745,7 +778,7 @@ Os Horrores de Dolores Roach		6	8
 Os Imortais do Brasil		6	8
 Os Inocentes		6	16
 Os Invenciveis CarrosMonstros		6	26
-Os Irmaos Tagusari		6	7
+Os Irmaos Tagusari		6	10
 Os Irregulares de Baker Street		6	8
 Os Jetsons		6	75
 Os Jovens Titas		6	65
@@ -788,6 +821,7 @@ Os Piores Ex		6	8
 Os Quatro da Candelaria		6	4
 Os Quebradores da Banca		6	6
 Os Queridinhos de Byron Bay		6	8
+Os Refens do Professor Hiiragi		6	10
 Os Reinos da Ruina		6	12
 Os Reis da Selva		6	5
 Os Reis da Sucata		6	50
@@ -804,40 +838,41 @@ Os Segredos da Igreja Hillsong		6	4
 Os Segredos das Piramides		6	12
 Os Segredos de Anna		6	12
 Os Segredos de Manscheid		6	24
-Os Segredos de Tutancamon		6	3
-Os Segredos do Everest		6	2
-Os Segredos do Zoológico		6	6
-Os Sem Nome		6	6
-Os Sentinelas		6	8
-Os Sete Monstrinhos		6	42
-Os Sete Relogios de Agatha Christie		6	3
-Os Simpsons		6	802
-Os Smurfs		6	104
-Os Suburbanos		6	130
-Os Supercaes e Seus Extraordinarios Trabalhos		6	5
-Os Sustos Ocultos de Frankelda		6	5
-Os Testamentos Das Filhas de Gilead		6	10
-Os Thundermans		6	101
-Os Thundermans Disfarcados		6	26
-Os Top Dez dos Anos 80		6	6
-Os Trapalhoes		6	203
-Os Ultimos Dias de Gilda		6	4
-Os Ultimos Lenhadores		6	9
-Os Ursinhos Gummi		6	65
-Os Vingadores A Serie		6	13
-Os Vivos e os Mortos		6	6
-Os Vizinhos Green		6	60
-Os Westies Donos do Oeste		6	4
-Os Winchesters		6	26
-Os Últimos Dias de Ptolemy Grey		6	6
-Osama Sentai Kingu Oja		6	50
-Oshi no Ko		6	40
-Ossans Love In the Sky		6	8
-Ossans Love Returns		6	9
-Ossan’s Love		6	8
-Oswaldo		6	52
-Otome Yokai Zakuro		6	13
-Ou Tudo ou Nada de Novo		6	8
+Os Segredos de Tutancamon		7	3
+Os Segredos do Everest		7	2
+Os Segredos do Zoológico		7	6
+Os Sem Nome		7	6
+Os Sentinelas		7	8
+Os Sete Monstrinhos		7	42
+Os Sete Relogios de Agatha Christie		7	3
+Os Simpsons		7	803
+Os Smurfs		7	104
+Os Suburbanos		7	130
+Os Supercaes e Seus Extraordinarios Trabalhos		7	5
+Os Sustos Ocultos de Frankelda		7	5
+Os Testamentos Das Filhas de Gilead		7	10
+Os Thundermans		7	101
+Os Thundermans Disfarcados		7	26
+Os Top Dez dos Anos 80		7	6
+Os Topuria		7	3
+Os Trapalhoes		7	203
+Os Ultimos Dias de Gilda		7	4
+Os Ultimos Lenhadores		7	9
+Os Ursinhos Gummi		7	65
+Os Vingadores A Serie		7	13
+Os Vivos e os Mortos		7	6
+Os Vizinhos Green		7	60
+Os Westies Donos do Oeste		7	10
+Os Winchesters		7	26
+Os Últimos Dias de Ptolemy Grey		7	6
+Osama Sentai Kingu Oja		7	50
+Oshi no Ko		7	64
+Ossans Love In the Sky		7	8
+Ossans Love Returns		7	9
+Ossan’s Love		7	8
+Oswaldo		7	52
+Otome Yokai Zakuro		7	13
+Ou Tudo ou Nada de Novo		7	8
 Our Dating Sim		7	8
 Our Dating Story The Experienced You and The Inexperienced Me		7	12
 Our Fake Marriage		7	12

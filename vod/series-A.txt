@@ -26,6 +26,7 @@ A Batalha dos 100		0	18
 A Batalha dos 100 Asia		0	12
 A Batalha dos 100 Cozinheiros		0	9
 A Batalha dos 100 Italia		0	3
+A Batalha dos 100: México		0	7
 A Batalha dos Biscoitos Natalinos		0	8
 A Batalha dos Chefs Raiz		0	8
 A Batalha dos Destinos		0	10
@@ -40,7 +41,8 @@ A Bela e o Sr Romantico		0	50
 A Beleza Secreta dos Animais		0	8
 A Bilionaria o Mordomo e o Namorado		0	3
 A Bloody Lucky Day		0	10
-A Boa Vizinhança		0	145
+A Boa Vizinhança		0	155
+A Boneca		0	6
 A Boss and A Babe		0	12
 A Brava Yong Su Jeong		0	124
 A Bruxa		0	10
@@ -55,7 +57,7 @@ A Cacadora de Cobras		0	10
 A Cadeira		0	16
 A Cadela Sabichona		0	12
 A Caminho do Céu		0	10
-A Cancao do Samurai		0	5
+A Cancao do Samurai		0	8
 A Candidata		0	62
 A Cara do Pai		0	15
 A Casa Coruja		0	43
@@ -76,6 +78,7 @@ A Caçadora de Pedófilos		0	6
 A Centaurs Life		0	12
 A Certain Scientific Accelerator		0	12
 A Chama de Recca		0	42
+A Chave para o Coração da Fênix		0	60
 A Chuva		0	12
 A Cidade É Nossa		0	6
 A Coleção		0	8
@@ -89,7 +92,7 @@ A Confidente		0	4
 A Copa do Mundo de Messi A Ascensao da Lenda		0	4
 A Cor do Poder		0	10
 A Coreia em um Prato		0	2
-A Coroa Perfeita		0	15
+A Coroa Perfeita		0	24
 A Coroa Vazia		0	19
 A Corrida Maluca		0	78
 A Corrida das Vacinas		0	5
@@ -115,15 +118,16 @@ A Dança da Morte		0	4
 A Desalmada		0	79
 A Descoberta das Bruxas		0	25
 A Desesperada Sra Seon Ju		0	126
-A Desordem que Ficou		0	8
-A Diarista		0	120
-A Dinastia New England Patriots		0	10
+A Desordem que Ficou		1	8
+A Diarista		1	120
+A Dinastia - UConn Huskies		1	3
+A Dinastia New England Patriots		1	10
 A Diplomata		1	22
 A Direita no Brasil		1	3
 A Disputa dos Confeiteiros Halloween		1	46
 A Disputa dos Confeiteiros: Primavera		1	69
 A Divisão		1	20
-A Dog and a Plane		1	2
+A Dog and a Plane		1	10
 A Dona		1	142
 A Dona da Bola		1	20
 A Dona do Pedaço		1	161
@@ -139,12 +143,14 @@ A Escola do Alem		1	8
 A Escolha		1	31
 A Escolinha do Golias		1	43
 A Escrava Isaura		1	167
+A Escrava Sexual		1	2
 A Escuta		1	120
 A Esposa Perfeita Um Desaparecimento Misterioso		1	3
 A Esposa do Meu Marido		1	32
 A Esposa do Meu Marido Japao		1	20
 A Estacao das Garotas Perdidas		1	6
 A Estrada de Lichia		1	35
+A Estrada para o Esplendor		1	36
 A Etica do Silencio		1	5
 A Ex mulher		1	12
 A Fabrica		1	10
@@ -156,7 +162,7 @@ A Familia Addams		1	22
 A Familia Baldwin		1	8
 A Familia Baxter		1	34
 A Familia Hathaway		1	48
-A Familia Radical Maior e Melhor		1	29
+A Familia Radical Maior e Melhor		1	39
 A Família Stallone		1	36
 A Fantastica Fábrica da Sanidade		1	3
 A Favorita		1	197
@@ -185,6 +191,7 @@ A Furia de Paris		1	14
 A Gangue da Luva Verde		1	16
 A Gangue de Bogota		1	8
 A Garota Desaparecida do Vaticano		1	4
+A Garota Que Ele Nunca Notou		1	8
 A Garota Roubada		1	10
 A Garota da Limpeza		1	13
 A Garota da Moto		1	51
@@ -231,13 +238,13 @@ A História de Deus com Morgan Freeman		1	24
 A História de Ester		1	10
 A História do Imagineering		1	6
 A História do Late Night		1	6
-A História do Mundo: Parte 2		1	8
-A Hora do Diabo		1	17
-A Hospede		1	20
-A Hundred Scenes of AWAJIMA		1	10
-A Idade Dourada		1	25
-A Igreja Oculta		1	8
-A Ilha		1	12
+A História do Mundo: Parte 2		2	8
+A Hora do Diabo		2	17
+A Hospede		2	20
+A Hundred Scenes of AWAJIMA		2	12
+A Idade Dourada		2	25
+A Igreja Oculta		2	8
+A Ilha		2	12
 A Ilha da Caveira		2	8
 A Ilha da Fantasia		2	140
 A Ilha das Sombras		2	25
@@ -256,6 +263,7 @@ A Internet do Mal		2	5
 A Intrusa		2	135
 A Inundação do Milênio		2	6
 A Irma do Meio		2	17
+A Irmandade da Adaga Negra		2	4
 A Isca		2	6
 A Jogada da Vitoria		2	12
 A Jogadora		2	12
@@ -264,7 +272,7 @@ A Jornada da Lenda		2	80
 A Jornada de Jin Wang		2	8
 A Journey Through Another World Raising Kids While Adventuring		2	23
 A Juiza do Inferno		2	28
-A Justiceira		2	12
+A Justiceira		2	20
 A Killer Paradox		2	8
 A Lei de Ueki		2	51
 A Lei do Amor		2	155
@@ -275,7 +283,7 @@ A Lenda de Lady Ferrari		2	12
 A Lenda de Shahmaran		2	14
 A Lenda de ShenLi		2	39
 A Lenda de Sleepy Hollow		2	62
-A Lenda de Vox Machina		2	42
+A Lenda de Vox Machina		2	48
 A Lenda de Zhuohua		2	40
 A Lenda do Tesouro Perdido: No Limiar da História		2	10
 A Leste do Palacio		2	8
@@ -283,12 +291,14 @@ A Linha Invisível		2	6
 A Lista Terminal		2	8
 A Lista Terminal Lobo Negro		2	14
 A Lista de Compras do Assassino		2	8
+A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires		2	1
 A Livraria Sangrenta		2	10
 A Lição		2	16
 A Louva-a-deus		2	6
 A Love So Beautiful		2	24
 A Lua Abraca o Sol		2	20
 A Lua Me Disse		2	141
+A Luz do Futuro		2	11
 A MELHOR FAMILIA FELIZ DOS EUA		2	8
 A Madona de Cedro		2	8
 A Madrasta		2	120
@@ -321,7 +331,7 @@ A Mente do Poder		2	8
 A Mentira		2	4
 A Misanthrope Teaches a Class for Demi Humans		2	13
 A Missao		2	6
-A Missao da Familia Yozakura		2	63
+A Missao da Familia Yozakura		2	66
 A Misteriosa Sociedade Benedict		2	16
 A Moment but Forever		2	14
 A Moreninha		2	79
@@ -334,6 +344,7 @@ A Mulher Invisível		2	13
 A Mulher Proibida		2	61
 A Mulher Que Engoliu O Sol		2	125
 A Mulher da Casa Abandonada		2	3
+A Mulher do Banker		2	3
 A Mulher do Diabo		2	26
 A Mulher do Viajante no Tempo		2	6
 A Mulher dos Mortos		2	12
@@ -343,26 +354,28 @@ A Muralha		2	51
 A Máfia dos Tigres		2	12
 A Máquina do Destino		2	20
 A Mão no Fogo		2	3
+A Namorada Genial		2	34
 A Namorada Ideal		2	12
 A Negociadora		2	12
 A Neta Escolhida		2	81
-A Ninja and an Assassin Under One Roof		2	12
-A Nobreza do Amor		2	144
-A Noiva de Istambul		2	296
-A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		2	15
-A Nova Forca		2	6
-A Nova Super Máquina		2	18
-A Nova Vida de Toby		2	8
-A Nova pantera Cor de Rosa		2	60
-A Oferta		2	10
-A Oliveira Branca		2	44
-A Ordem		2	20
-A Origem da Eternidade		2	8
+A Ninja and an Assassin Under One Roof		3	12
+A Nobreza do Amor		3	149
+A Noiva de Istambul		3	296
+A Noiva do Antigo Mago: O Menino do Oeste e o Cavaleiro da Tempestade Azul		3	15
+A Nova Forca		3	6
+A Nova Super Máquina		3	18
+A Nova Vida de Toby		3	8
+A Nova pantera Cor de Rosa		3	60
+A Oferta		3	10
+A Oliveira Branca		3	44
+A Ordem		3	20
+A Origem da Eternidade		3	8
 A Outra Garota Negra		3	10
 A Outra Oh Hae Young		3	18
 A Pacificadora		3	10
 A Paixão		3	6
 A Paranormal		3	130
+A Parasite's Heart		3	1
 A Partitura Secreta		3	8
 A Pedra dos Sonhos		3	13
 A Penúltima Palavra		3	6
@@ -371,6 +384,7 @@ A Perfect Planet		3	5
 A Persistencia da Memoria		3	13
 A Pessoa Prometida		3	40
 A Peste		3	12
+A Pior Vizinhança		3	4
 A Pior das Bruxas		3	25
 A Place Further Than the Universe		3	13
 A Playthrough of a Certain Dudes VRMMO Life		3	12
@@ -390,6 +404,7 @@ A Princesa Guerreira		3	27
 A Princesa Oferenda e o Rei das Feras		3	24
 A Princesa Real		3	40
 A Prisioneira da Beleza		3	36
+A Produtora		3	3
 A Profissional Exemplar		3	18
 A Promessa		3	486
 A Promessa da Alma		3	12
@@ -426,6 +441,7 @@ A Sabedoria do Tempo, com Papa Francisco		3	4
 A Sacerdotisa de Outubro		3	12
 A Saga Wingfeather		3	19
 A Salad Bowl of Eccentrics		3	12
+A Salsa de Salcedo		3	12
 A Saída		3	6
 A Seita Secreta de Yoga		3	3
 A Seita de NatureBoy		3	4
@@ -461,28 +477,31 @@ A Tormenta		3	10
 A Torre		3	11
 A Torre de Toquio		3	9
 A Trama		3	6
-A Troca		3	26
-A Tropa da Roca		3	52
-A Turma do Ze Colmeia		3	15
-A Ultima Fronteira		3	20
-A Ultima Noite em Tremor		3	8
-A Ultima Transmissao O Sequestro de Jodi Huisentruit		3	3
-A Unidade		3	18
-A Usurpadora		3	107
-A Vaca e o Frango		3	52
-A Verdade Por Tras do Homem Na Lua		3	6
-A Verdade Sobre o Caso Harry Quebert		3	10
-A Verdade da Mentira: Uma Nova Missão		3	13
-A Very British Scandal		3	6
-A Very English Scandal		3	3
-A Veterana Pitica da Firma		3	12
-A Viagem		3	167
-A Vida Depois do Tombo		3	4
+A Trap Called Desire		3	4
+A Troca		4	26
+A Tropa da Roca		4	52
+A Turma do Charlie Brown e Snoopy		4	13
+A Turma do Ze Colmeia		4	15
+A Ultima Fronteira		4	20
+A Ultima Noite em Tremor		4	8
+A Ultima Transmissao O Sequestro de Jodi Huisentruit		4	3
+A Unidade		4	18
+A Usurpadora		4	107
+A Vaca e o Frango		4	52
+A Verdade Por Tras do Homem Na Lua		4	6
+A Verdade Sobre o Caso Harry Quebert		4	10
+A Verdade da Mentira: Uma Nova Missão		4	13
+A Verdade por Trás das Minhas Mentiras		4	5
+A Very British Scandal		4	6
+A Very English Scandal		4	3
+A Veterana Pitica da Firma		4	12
+A Viagem		4	167
+A Vida Depois do Tombo		4	4
 A Vida Interior Com o Padre Paulo Ricardo		4	24
 A Vida Mentirosa dos Adultos		4	6
 A Vida Pela Frente		4	10
 A Vida Secreta da Minha Secretaria		4	16
-A Vida Secreta das Esposas Mormons		4	39
+A Vida Secreta das Esposas Mormons		4	44
 A Vida Secreta dos Animais		4	10
 A Vida Secreta dos Casais		4	12
 A Vida Secreta dos Chimpanzés		4	6
@@ -501,6 +520,7 @@ A Vida em Cores com David Attenborough		4	3
 A Vida em Outros Planetas		4	4
 A Vida no Nosso Planeta		4	8
 A Vida que Voce Queria		4	6
+A Vida É Drama		4	24
 A Vida é Irada, Vamos Curtir!		4	4
 A Vila		4	75
 A Vinganca da Branca de Neve		4	101
@@ -514,6 +534,7 @@ A Voragem		4	8
 A Voz Ausente		4	7
 A Vítima		4	4
 A Wild Last Boss Appeared		4	12
+A Winter Sun Wakes the Wind in Spring Hills' Dream		4	1
 A Woman of Substance		4	7
 A World of Calm		4	10
 A Xerife Callie no Oeste		4	45
@@ -527,6 +548,7 @@ A Última Onda		4	6
 A Última Rodada: Um Assassino Serial na NY Queer		4	4
 A3 Season Spring e Summer		4	24
 AARO All domain Anomaly Resolution Office		4	10
+AI Girl		4	7
 AJ and the Queen		4	10
 ALF, o ETeimoso		4	100
 AQUARION Myth of Emotions		4	12
@@ -557,6 +579,7 @@ Academia Unicornio Segredos Revelados		4	8
 Academia de Giuseppe		4	13
 Academia de Vampiros		4	20
 Acampados		4	109
+Acampamento Mágico		4	22
 Acampamento de Magia para Jovens Bruxos		4	9
 Acapulco		4	40
 Acapulco Shore		4	148
@@ -575,32 +598,33 @@ Acredite e Verdade		4	43
 Action		4	6
 Active Raid Kidou Kyoushuushitsu Dai Hachi Gakari		4	24
 Actors Songs Connection		4	12
-Acumuladores		4	1
-Acumuladores de Carros		4	12
-Acusado		4	46
-Ada Batista, cientista		4	20
-Adachi to Shimamura		4	12
-Adak: Ilha do Tesouro		4	8
-Adama O Diamante Assassino		4	16
-Adamas: O Diamante Assassino		4	16
-Addicted: Vidas em Recuperação		4	25
-Adeus Terra		4	12
-Adhura		4	7
-Adivinhe quem eu sou		4	14
-Admirável Mundo Novo		4	9
-Adolepeixes		4	21
-Adolescencia		4	8
-Adolescentes Tortura e Abuso		4	3
-Adoracao		4	6
-Adoraveis Mulheres		4	6
-Adoravel Corredora		4	16
-Adotada #TBT		4	10
-Adriano Imperador		4	3
-Adult Material		4	4
-Adultos		4	16
+Acumuladores		5	1
+Acumuladores de Carros		5	12
+Acusado		5	46
+Ada Batista, cientista		5	20
+Adachi to Shimamura		5	12
+Adak: Ilha do Tesouro		5	8
+Adama O Diamante Assassino		5	16
+Adamas: O Diamante Assassino		5	16
+Addicted: Vidas em Recuperação		5	25
+Adeus Terra		5	12
+Adhura		5	7
+Adivinhe quem eu sou		5	14
+Admirável Mundo Novo		5	9
+Adolepeixes		5	21
+Adolescencia		5	8
+Adolescentes Tortura e Abuso		5	3
+Adoracao		5	6
+Adoraveis Mulheres		5	6
+Adoravel Corredora		5	16
+Adotada #TBT		5	10
+Adriano Imperador		5	3
+Adult Material		5	4
+Adultos		5	16
+Adultos: A Casa Das Brasileirinhas		5	9
 Advogado Fantasma		5	16
 Aero Por Tras da Aviacao		5	52
-Aeroporto Area Restrita Estados Unidos		5	12
+Aeroporto Area Restrita Estados Unidos		5	21
 Aeroporto Miami		5	19
 Aeroporto: Estados Unidos		5	68
 Aeroporto: Área Restrita		5	87
@@ -610,10 +634,12 @@ Africa Garras e Mandibulas		5	4
 Africa Salaryman		5	12
 After Life		5	12
 After Life: Vocês Vão Ter de Me Engolir		5	18
+After Moving Seats, The Boy Behind Me Has A Crush On Me		5	7
 After School Doctor		5	10
 After the Rain		5	12
 Afterglow		5	7
 Afterschool Hanakokun		5	8
+Against the Current		5	13
 Agarre Seu Amor		5	24
 Agate		5	30
 Agatha Christies Poirot		5	69
@@ -625,13 +651,14 @@ Agente Butterfly		5	6
 Agente Elvis		5	10
 Agente K.C		5	81
 Agente KC		5	76
+Agente Kim: Reativado		5	10
 Agentes da S.H.I.E.L.D. da Marvel		5	136
 Agentes da SHIELD da Marvel		5	136
 Agentes do Caos		5	2
 Agentes do FBI		5	8
 Agentes do Mistério		5	15
-Agents of the Four Seasons		5	10
-Agents of the Four Seasons Dance of Spring		5	3
+Agents of the Four Seasons		5	14
+Agents of the Four Seasons Dance of Spring		5	13
 Aggretsuko		5	10
 Agora Muppets		5	6
 Agora Terminamos		5	16
@@ -651,7 +678,7 @@ Aitana Metamorfose		5	6
 Ajin		5	26
 Akagi		5	26
 Akame ga Kill		5	24
-Akane banashi		5	5
+Akane banashi		5	12
 Akudama Drive		5	12
 Akuma kun		5	12
 Akuyaku Reijou nanode Last Boss wo Kattemimashita		5	12
@@ -665,13 +692,13 @@ Alberto: A Série		5	10
 Alcatraz		5	13
 Alef		5	8
 Alegorias do Brasil		5	13
-Alem de Skinwalker		5	17
+Alem de Skinwalker		5	25
 Alem do Direito		5	12
 Alem do Guarda Roupa		5	10
 Alem do Horizonte		5	155
 Alem dos Reinos Divinos		5	17
 Alemão: Os Dois Lados do Complexo		5	4
-Alert Unidade de Pessoas Desaparecidas		5	29
+Alert Unidade de Pessoas Desaparecidas		5	30
 Alert: Missing Persons Unit		5	28
 Alerta Aeroporto		5	54
 Alex Cooper A voz por tras de Call Her Daddy		5	2
@@ -691,44 +718,48 @@ Alice e Lewis		5	76
 Alice in Borderland		5	22
 Alice na Doceria das Maravilhas		5	25
 Alien Earth		5	16
-Alien TV		5	26
-Alienigenas do Passado		5	239
-All American		5	91
-All American: Novos Começos		5	47
-All Creatures Great e Small		5	34
-All Her Fault		5	16
-All Star Shore		5	23
-All That We Loved		5	8
-All The Way Up: Caminho para A Fama		5	10
-All of Us Are Dead		5	12
-All the Liquors		5	8
-All the Queen s Men		5	62
-Allen Iv3rson		5	3
-Allen v. Farrow		5	4
-Alma		5	9
-Alma Gemea		5	227
-Alma Imoral		5	5
-Alma Indomável		5	165
-Alma chan Wants to Be a Family		5	21
-Alma de Cozinheira		5	30
-Almas Perdidas		5	57
-Almost Paradise		5	20
-Alphonse		5	6
-Alquimia das Almas		5	30
-Alta Estação		5	162
-Alta Fidelidade		5	20
-Altered Carbon		5	18
+Alien TV		6	26
+Alienigenas do Passado		6	239
+Alix Earle pelo Mundo		6	8
+All American		6	91
+All American: Novos Começos		6	47
+All Creatures Great e Small		6	34
+All Her Fault		6	16
+All Star Shore		6	23
+All That We Loved		6	8
+All The Way Up: Caminho para A Fama		6	10
+All of Us Are Dead		6	12
+All the Liquors		6	8
+All the Queen s Men		6	62
+Allen Iv3rson		6	3
+Allen v. Farrow		6	4
+Alma		6	9
+Alma Gemea		6	227
+Alma Imoral		6	5
+Alma Indomável		6	165
+Alma chan Wants to Be a Family		6	21
+Alma de Cozinheira		6	30
+Almas Perdidas		6	57
+Almost Paradise		6	20
+Alphonse		6	6
+Alquimia das Almas		6	30
+Alta Estação		6	162
+Alta Fidelidade		6	20
+Altered Carbon		6	18
 Alto Astral		6	161
 Alto Luxo Baixo Custo		6	6
 Alto Mar		6	16
+Alucinação		6	3
 Alvo Humano		6	25
 Alvo Primario		6	16
-Always a Catch		6	11
+Always a Catch		6	12
 Alya Sometimes Hides Her Feelings in Russian		6	12
+Além Das Nuvens		6	24
 Além da Ilha		6	10
 Além da Ilusão		6	167
 Além da Imaginação		6	40
 Além da Margem		6	30
+Além da traição		6	8
 Além do Tempo		6	161
 Am I Actually the Strongest		6	12
 Amada e Ultrajada O Exercito na Historia do Brasil		6	3
@@ -778,6 +809,7 @@ Amor Apimentado		6	2
 Amor Aqui e Agora		6	10
 Amor Atras das Grades		6	15
 Amor Com Falhas		6	32
+Amor Contra o Tempo		6	2
 Amor Entre Estranhos		6	28
 Amor Entre Linhas		6	34
 Amor Eterno Amor		6	161
@@ -802,42 +834,44 @@ Amor Rural		6	12
 Amor Sadico		6	24
 Amor Secreto		6	150
 Amor Sem Fim		6	114
+Amor Sem Receita		6	8
 Amor Sob Medida		6	10
 Amor Sombrio		6	38
 Amor Take Two		6	12
-Amor Traicoeiro		6	6
-Amor Turbulento		6	20
-Amor Venenoso		6	12
-Amor Verdade ou Consequencia Africa do Sul		6	8
-Amor Vingado		6	24
-Amor a Deriva		6	9
-Amor ao Luar		6	12
-Amor ate o Fim		6	7
-Amor com Amor se Paga		6	155
-Amor como um Romance Coreano		6	11
-Amor da Minha Vida		6	10
-Amor de 4 mais 1		6	14
-Amor de Aluguel		6	69
-Amor de Mentirinha		6	24
-Amor de Mãe		6	125
-Amor de intermediario		6	8
-Amor e Anarquia		6	16
-Amor e Batatas		6	15
-Amor e Honra		6	30
-Amor e Intrigas		6	211
-Amor e Morte		6	7
-Amor e Odio		6	110
-Amor e Outros Dramas		6	20
-Amor e Para os Caes		6	10
-Amor e Revolução		6	204
-Amor e Sorte		6	4
-Amor e Trapaças		6	40
-Amor entre Fada e Demonio		6	62
-Amor na Ilha		6	83
-Amor na Real		6	10
-Amor na Selva		6	7
-Amor nas Alturas		6	8
-Amor nas Nuvens		6	36
+Amor Traicoeiro		7	6
+Amor Turbulento		7	20
+Amor Venenoso		7	12
+Amor Verdade ou Consequencia Africa do Sul		7	8
+Amor Vingado		7	24
+Amor a Deriva		7	9
+Amor ao Luar		7	12
+Amor ate o Fim		7	7
+Amor com Amor se Paga		7	155
+Amor como um Romance Coreano		7	11
+Amor da Minha Vida		7	10
+Amor de 4 mais 1		7	14
+Amor de Aluguel		7	69
+Amor de Mentirinha		7	24
+Amor de Mãe		7	125
+Amor de intermediario		7	8
+Amor e Anarquia		7	16
+Amor e Batatas		7	15
+Amor e Honra		7	30
+Amor e Intrigas		7	211
+Amor e Morte		7	7
+Amor e Odio		7	110
+Amor e Outros Dramas		7	20
+Amor e Para os Caes		7	10
+Amor e Revolução		7	204
+Amor e Sorte		7	4
+Amor e Trapaças		7	40
+Amor em Ruínas		7	23
+Amor entre Fada e Demonio		7	62
+Amor na Ilha		7	83
+Amor na Real		7	10
+Amor na Selva		7	7
+Amor nas Alturas		7	8
+Amor nas Nuvens		7	36
 Amor no Alabama		7	9
 Amor no Ar		7	13
 Amor no Caribe Rumo aos 90 Dias		7	39
@@ -848,12 +882,13 @@ Amor no Natal		7	4
 Amor para Recomecar		7	12
 Amor sem Idade		7	8
 Amor sem Igual		7	176
+Amor à Primavera		7	21
 Amor à Vida		7	221
 Amor, Casamento e Divórcio		7	48
 Amor: Verdade ou Consequência		7	7
 Amor: Verdade ou Consequência - Sardenha		7	8
 Amor: Verdade ou Consequência – Polônia		7	7
-Amores Bandidos		7	10
+Amores Bandidos		7	30
 Amores Mortais		7	6
 Amores Roubados		7	10
 Amores Verdadeiros		7	616
@@ -867,7 +902,7 @@ América		7	203
 América Inexplorada		7	5
 An Adventurer s Daily Grind at Age 29		7	6
 An Archdemons Dilemma How to Love Your Elf Bride		7	12
-An Observation Log of My Fiancee Who Calls Herself a Villainess		7	11
+An Observation Log of My Fiancee Who Calls Herself a Villainess		7	12
 An Unknown Enemy		7	14
 Ana		7	22
 Ana Bolena: A Rainha		7	3
@@ -912,6 +947,7 @@ Anjos caem as vezes		7	24
 Anjos da Guarda		7	16
 Anjos na America		7	6
 Anna		7	6
+Anna Pigeon		7	6
 Anne Shirley		7	48
 Anne com um E		7	54
 Annika		7	12
@@ -922,44 +958,46 @@ Anos Dourados		7	20
 Anos Incríveis		7	131
 Anos Rebeldes		7	20
 Anos-luz		7	8
-Anota Ai		7	53
-Antes que Matem de Novo		7	6
-Anti Reset		7	10
-Antracite		7	6
-Any Malu Show		7	26
-Anyway Im Falling in Love with You		7	15
-Ao Norte do Norte		7	8
-Ao Sul do Coracao		7	100
-Ao Vivo do Lado de La com Tyler Henry		7	6
-Ao no Orchestra		7	45
-Aoashi		7	24
-Aoi Sekai no Chuushin de		7	3
-Aos Olhos do Mundo		7	3
-Aoshima kun E um Valentao		7	8
-Apache a Vida de Carlos Tevez		7	8
-Apaixonado por Amar Voce		7	24
-Apaixonados Outra Vez		7	8
-Apaixonados Por Comida		7	6
-Apaixonados na Cidade		7	17
-Apaixonados por Carros com Swizz Beatz		7	6
-Apaixone Se Intensamente		7	24
-Apaixone se novamente		7	21
-Aparente Maldade		7	6
-Apartamento 6/9		7	6
-Apenas Um Show		7	249
-Apenas um Olhar		7	6
-Apenas um Show As Fitas Perdidas		7	9
-Apesar de Tudo, Amor		7	10
-Apocalipse		7	155
-Apocalipse Neandertal		7	2
-Apocalipse V		7	10
-Apocalipse: A Guerra dos Mundos		7	6
-Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin		7	13
-Apocalypse Hotel		7	12
-Apollo Reconstruindo A Jornada Espacial		7	2
-Apollos Song		7	7
+Anota Ai		8	53
+Antes que Matem de Novo		8	6
+Anti Reset		8	10
+Antologia do Medo		8	13
+Antracite		8	6
+Any Malu Show		8	26
+Anyway Im Falling in Love with You		8	15
+Ao Norte do Norte		8	8
+Ao Sul do Coracao		8	100
+Ao Vivo do Lado de La com Tyler Henry		8	6
+Ao no Orchestra		8	45
+Aoashi		8	24
+Aoi Sekai no Chuushin de		8	3
+Aos Olhos do Mundo		8	3
+Aoshima kun E um Valentao		8	8
+Apache a Vida de Carlos Tevez		8	8
+Apaixonado por Amar Voce		8	24
+Apaixonados Outra Vez		8	8
+Apaixonados Por Comida		8	6
+Apaixonados na Cidade		8	17
+Apaixonados por Carros com Swizz Beatz		8	6
+Apaixone Se Intensamente		8	24
+Apaixone se novamente		8	21
+Aparente Maldade		8	6
+Apartamento 6/9		8	6
+Apenas Um Show		8	249
+Apenas um Olhar		8	6
+Apenas um Show As Fitas Perdidas		8	13
+Apesar de Tudo, Amor		8	10
+Apocalipse		8	155
+Apocalipse Neandertal		8	2
+Apocalipse V		8	10
+Apocalipse: A Guerra dos Mundos		8	6
+Apocalypse Bringer Mynoghra World Conquest Starts with the Civilization of Ruin		8	13
+Apocalypse Hotel		8	12
+Apollo Reconstruindo A Jornada Espacial		8	2
+Apollos Song		8	7
 Aposta de Outro Mundo		8	8
 Apostando Alto		8	16
+Apple My Love		8	6
 Apples Never Fall		8	6
 Apreensao		8	8
 Aprenda Guitarra do Zero em 45 Dias Com Mauricio Alabama		8	111
@@ -967,6 +1005,7 @@ Aprendendo a Amar		8	11
 Aprendendo a Licao		8	10
 Aqua Teen Esquadrao Forca Total		8	144
 Aquaman: King of Atlantis		8	3
+Aquaman: Rei de Atlântida		8	3
 Aquarela do Brasil		8	60
 Aquarius		8	26
 Aquela Doença Com C.		8	44
@@ -982,7 +1021,7 @@ Arcana Famiglia		8	13
 Arcane		8	18
 Arcanjo Renegado		8	40
 Archer		8	142
-Archives The Nanyang Mystery		8	8
+Archives The Nanyang Mystery		8	23
 Arctic Ascent with Alex Honnold		8	3
 Are You Afraid of the Dark?		8	9
 Are You Sure		8	16
@@ -1039,45 +1078,46 @@ As Aventuras de Horton		8	7
 As Aventuras de Jackie Chan		8	95
 As Aventuras de José e Durval		8	8
 As Aventuras de Kid Danger		8	10
-As Aventuras de Merlin		8	65
-As Aventuras de Minuano Kid		8	4
-As Aventuras de Poliana		8	562
-As Aventuras de Sunny Bunnies		8	52
-As Aventuras de Tom e Jerry		8	13
-As Aventuras do Batman		8	17
-As Aventuras do Gato de Botas		8	49
-As Brasileiras		8	22
-As Bruxas Mayfair de Anne Rice		8	32
-As Canalhas		8	13
-As Cheerleaders do Dallas Cowboys		8	14
-As Confissoes de Gypsy Rose		8	6
-As Criancas Estao Bem		8	23
-As Criancas Que Amamos		8	13
-As Cronicas de Cucu		8	10
-As Cronicas de Evermoor		8	20
-As Cronicas de Gumball		8	6
-As Cronicas de Spiderwick		8	8
-As Crônicas de Shannara		8	20
-As Crônicas de Usagi: O Coelho Samurai		8	20
-As Células de Yumi		8	36
-As Escolhidas		8	6
-As Fabulosas Aventuras de Moka		8	78
-As Fabulosas Aventuras dos Freak Brothers		8	16
-As Falsificadoras		8	10
-As Fas do Turno da Noite		8	8
-As Filhas da Mae		8	125
-As Filhas da Seita Uma Historia de Abusos		8	5
-As Filhas da Senhora Garcia		8	82
-As Five		8	26
-As Flores Perdidas de Alice Hart		8	7
-As Forças Armadas Mais Severas do Mundo		8	8
-As Garotas do Fundão		8	6
-As Garotas do Onibus Jornalistas de Campanha		8	10
-As Garotas do Surfe Havai		8	4
-As Ginastas		8	6
-As Grandes Ferias Grandes		8	5
-As Grandes Minorias		8	3
-As Irmas Grimm		8	6
+As Aventuras de Merlin		9	65
+As Aventuras de Minuano Kid		9	4
+As Aventuras de Poliana		9	562
+As Aventuras de Sunny Bunnies		9	52
+As Aventuras de Tom e Jerry		9	13
+As Aventuras do Batman		9	17
+As Aventuras do Gato de Botas		9	49
+As Brasileiras		9	22
+As Bruxas Mayfair de Anne Rice		9	32
+As Canalhas		9	13
+As Cheerleaders do Dallas Cowboys		9	14
+As Confissoes de Gypsy Rose		9	6
+As Criancas Estao Bem		9	23
+As Criancas Que Amamos		9	13
+As Cronicas de Cucu		9	10
+As Cronicas de Evermoor		9	20
+As Cronicas de Gumball		9	6
+As Cronicas de Spiderwick		9	8
+As Crônicas de Shannara		9	20
+As Crônicas de Usagi: O Coelho Samurai		9	20
+As Células de Yumi		9	36
+As Escolhidas		9	6
+As Fabulosas Aventuras de Moka		9	78
+As Fabulosas Aventuras dos Freak Brothers		9	16
+As Faces da Verdade: Duplo Assassinato em Topeka		9	1
+As Falsificadoras		9	10
+As Fas do Turno da Noite		9	8
+As Filhas da Mae		9	125
+As Filhas da Seita Uma Historia de Abusos		9	5
+As Filhas da Senhora Garcia		9	82
+As Five		9	26
+As Flores Perdidas de Alice Hart		9	7
+As Forças Armadas Mais Severas do Mundo		9	8
+As Garotas do Fundão		9	6
+As Garotas do Onibus Jornalistas de Campanha		9	10
+As Garotas do Surfe Havai		9	4
+As Ginastas		9	6
+As Grandes Ferias Grandes		9	5
+As Grandes Minorias		9	3
+As Irmas Grimm		9	6
 As Irmas Guerra		9	20
 As Irmãs Culpo		9	6
 As Leis da Selva		9	8
@@ -1097,9 +1137,11 @@ As Mortas		9	6
 As Noivas de Copacabana		9	16
 As Novas Aventuras de Christine		9	88
 As Novas Aventuras de Gasparzinho		9	52
+As Novas Aventuras de Jonny Quest		9	13
 As Novas Aventuras do Macaco		9	20
 As Novas Aventuras do Superman		9	34
 As Novas Aventuras do Ursinho Puff		9	50
+As Nove Emoções		9	9
 As Panteras		9	99
 As Pequenas Coisas da Vida		9	8
 As Piores Prisoes do Mundo		9	25
@@ -1114,6 +1156,7 @@ As Terríveis Aventuras de Billy e Mandy		9	76
 As Tontas Não Vão ao Céu		9	140
 As Trapalhadas de Flapjack		9	90
 As Travessuras da Menina Ma		9	20
+As Trigêmeas		9	104
 As Três Irmãs		9	12
 As Ultimas Horas do Titanic		9	4
 As Vidas Secretas da Família Uysal		9	8
@@ -1123,7 +1166,7 @@ As a Reincarnated Aristocrat Ill Use My Appraisal Skill to Rise in the World		9	
 As1one: A Jornada da Musica Pop Israelense-Palestina		9	4
 Asaf		9	6
 Asas da Ambição		9	24
-Ascendance of a Bookworm		9	46
+Ascendance of a Bookworm		9	57
 Ascensão: Império Otomano		9	12
 Ash vs Evil Dead		9	60
 Ashley Madison Sexo Mentiras e Escandalo		9	3
@@ -1155,53 +1198,59 @@ Asterix e Obelix O Combate dos Chefes		9	5
 Astro Note		9	12
 Astronauta		9	6
 Asura		9	7
-Ataque dos Titas		9	89
-Ataque em Londres Os Atentados de 7 de Julho		9	4
-Ate Eu Destruir a Outra Familia do Meu Marido		9	24
-Ate Onde Ela Vai		9	10
-Ate Onde Ele Vai		9	10
-Ate Que O Restaurante Nos Separe		9	6
-Ate Que o Design nos Separe		9	9
-Ate a Lua		9	12
-Ate o Fim da Lua		9	40
-Ate o Ultimo Samurai		9	6
-Ate que o Crime nos Separe O Assassinato do Casal Haysom		9	4
-Ate que se Prove o Contrário		9	18
-Atelier Ryza: Ever Darkness & the Secret Hideout The Animation		9	12
-Atlanta		9	82
-Atlântida		9	26
-Atomic		9	10
-Atracao Ardente		9	40
-Atras do Veu Sobrevivendo a Igreja a Luz do Mundo		9	3
-Atração Fatal		9	8
-Attack on Titan		9	89
-Atypical		9	38
-Até o Céu		9	7
-Até o Céu: A Série		9	7
-Até o Fim: Flamengo Campeão da Libertadores		9	5
-Aucademia		9	19
-Aula de Amor		9	22
-Austin & Ally		9	87
-Austin e Ally		9	87
-Australia Shore		9	20
-Australia: Vida Selvagem		9	4
-Auto Esporte		9	19
-Auto Posto		9	20
-Avatar O Ultimo Mestre do Ar		9	30
-Avatar: A Lenda De Korra		9	52
-Avatar: A Lenda de Aang		9	88
-Avenida Brasil		9	179
-Avenida Paulista		9	17
-Aventura em Matilha		9	6
-Aventuras do Didi		9	65
-Avenue 5		9	17
-Avisa Lá Que Eu Vou		9	40
-Away		9	20
-Awkward.		9	89
+Ataque dos Titas		10	89
+Ataque em Londres Os Atentados de 7 de Julho		10	4
+Ate Eu Destruir a Outra Familia do Meu Marido		10	24
+Ate Onde Ela Vai		10	10
+Ate Onde Ele Vai		10	10
+Ate Que O Restaurante Nos Separe		10	6
+Ate Que o Design nos Separe		10	9
+Ate a Lua		10	12
+Ate o Fim da Lua		10	40
+Ate o Ultimo Samurai		10	6
+Ate que o Crime nos Separe O Assassinato do Casal Haysom		10	4
+Ate que se Prove o Contrário		10	38
+Atelier Ryza: Ever Darkness & the Secret Hideout The Animation		10	12
+Atlanta		10	82
+Atlântida		10	26
+Atomic		10	10
+Atracao Ardente		10	40
+Atras do Veu Sobrevivendo a Igreja a Luz do Mundo		10	3
+Atração Fatal		10	8
+Attack on Titan		10	89
+Atypical		10	38
+Até a Camiseta Secar		10	9
+Até o Céu		10	7
+Até o Céu: A Série		10	7
+Até o Fim: Flamengo Campeão da Libertadores		10	5
+Aucademia		10	19
+Aula de Amor		10	30
+Aula de Assassinato		10	3
+Austentação		10	10
+Austin & Ally		10	87
+Austin e Ally		10	87
+Australia Shore		10	20
+Australia: Vida Selvagem		10	4
+Auto Esporte		10	19
+Auto Posto		10	20
+Avatar O Ultimo Mestre do Ar		10	30
+Avatar: A Lenda De Korra		10	52
+Avatar: A Lenda de Aang		10	88
+Avenida Brasil		10	179
+Avenida Paulista		10	17
+Aventura em Matilha		10	6
+Aventuras do Didi		10	65
+Avenue 5		10	17
+Avisa Lá Que Eu Vou		10	40
+Away		10	20
+Awkward.		10	89
 Ayakashi Triangle		10	12
 Ayrton: Retratos e Memórias		10	10
+AzurLane: Slow Ahead!		10	22
 aka Charlie Sheen		10	2
 À Beira do Caos		10	12
+À Beira do Precipício		10	6
+À Minha Ladra Querida		10	16
 À Procura do Amor		10	3
 À Prova de Risco		10	6
 À Prova de Tudo		10	69

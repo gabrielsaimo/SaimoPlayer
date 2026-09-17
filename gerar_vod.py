@@ -34,6 +34,7 @@ ORIGENS = [
     # Lista guardada neste repositório. Fica por último para os servidores dela
     # entrarem depois dos que já têm número no índice.
     "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/3.m3u",
+    "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/1.m3u",
 ]
 # Servidores fora do ar para todos, sem publicar app: os links deles não entram
 # no catálogo. Para voltar, tire daqui e rode o script de novo.
@@ -83,6 +84,9 @@ def limpar(nome):
     legendado = any(m == "l" for m in marcadores)
     adulto = any(m in ADULTO for m in marcadores)
     titulo = MARCADOR.sub(" ", nome)
+    # "1917 4K" e "1917" são o mesmo filme: a qualidade já sai da chave que
+    # junta as fontes, e sair também do nome evita o cartão chamado "4K".
+    titulo = QUALIDADE.sub(" ", titulo)
     titulo = titulo.replace("²", " ")
     titulo = re.sub(r"\s{2,}", " ", titulo).strip()
     # O parser de marcadores também encontra "(1987)". Recolocar o ano evita

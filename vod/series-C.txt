@@ -1,7 +1,7 @@
 C The Money of Soul and Possibility Control		0	11
 C.H.U.E.C.O		0	25
 CB Strike		0	19
-CIA		0	23
+CIA		0	24
 CITY THE ANIMATION		0	13
 COBRA		0	12
 COMPASS2.0 ANIMATION PROJECT		0	12
@@ -71,6 +71,7 @@ Cangaco Novo		0	15
 Canibal		0	7
 Cannon Busters		0	12
 Canto ao Tempo		0	5
+Canção de Amor no Inverno		0	36
 Capadocia		0	39
 Capitaes do Mundo		0	6
 Capitalismo Americano O Culto a Riqueza		0	3
@@ -117,7 +118,7 @@ Carnivale		0	24
 Carol e o Fim do Mundo		0	10
 Carolina Marin		0	4
 Caroline Flack A Busca Pela Verdade		0	2
-Carro Ostentacao com Will Castro		0	19
+Carro Ostentacao com Will Castro		1	19
 Carros Irado		1	126
 Carros Irados		1	10
 Carros Irados A Disputa		1	8
@@ -136,7 +137,8 @@ Casa Feia Nunca Mais!		1	11
 Casa Kalimann		1	13
 Casa das Facas A Batalha		1	8
 Casa de Davi		1	32
-Casa do Patrao		1	42
+Casa de Stassi Schroeder		1	8
+Casa do Patrao		1	80
 Casa dos Sonhos da Barbie: O Desafio		1	1
 Casa em Obra do Pesadelo ao Sonho		1	8
 Casada mas		1	12
@@ -153,7 +155,7 @@ Casamento as Cegas Habibi		1	10
 Casamento as Cegas Italia		1	10
 Casamento as Cegas Japao		1	22
 Casamento as Cegas Polonia		1	11
-Casamento as Cegas Reino Unido		1	23
+Casamento as Cegas Reino Unido		1	33
 Casamento as Cegas Suecia		1	32
 Casamento as Cegas: México		1	11
 Casamento sem Filtro		1	6
@@ -166,7 +168,7 @@ Casas Muito Loucas		1	9
 Casas Sobre Rodas		1	8
 Casas na Arvore		1	93
 Case File N221		1	24
-Case X Decoded		1	6
+Case X Decoded		1	12
 Casey Anthony Where the Truth Lies		1	6
 Cashero		1	8
 Caso Arquivado Os Assassinatos do Tylenol		1	3
@@ -192,6 +194,7 @@ Catalogo		1	8
 Catarina A Grande		1	4
 Catastrofes da Engenharia		1	6
 Catch Me at the Ballpark		1	12
+Catedrais		1	6
 Catfish Brasil		1	22
 Catfish UK		1	4
 Catherine the Great		1	4
@@ -235,15 +238,16 @@ Central Park		1	39
 Central de Bicos		1	40
 Cesar Millan: Melhores Humanos, Melhores Cachorros		1	22
 Cestvs: The Roman Fighter		1	11
-Ceu Selvagem		1	2
-Chabadabadá		1	6
-Chacrinha - A Minissérie		1	4
+Ceu Selvagem		2	2
+Chabadabadá		2	6
+Chacrinha - A Minissérie		2	4
 Chad		2	8
 Chad Powers O Quarterback		2	24
 Chai Chai		2	78
 Chaika -The Coffin Princess-		2	22
 Chain Chronicle: Haecceitas no Hikari		2	12
 Chainsaw Man		2	24
+Chainsmoker Cat		2	10
 Challenger: Voo Final		2	4
 Chamadas Criminosas		2	16
 Chamando da Galaxia		2	48
@@ -263,14 +267,17 @@ Chapelwaite		2	10
 Chapolin Colorado		2	251
 Chapolin e Os Colorados		2	10
 Charles O Novo Rei		2	2
+Charlie Brown - Os Viajantes Mayflower		2	6
 Charlotte		2	13
 Charmed: Jovens Bruxas		2	178
 Charmed: Nova Geração		2	72
 Chasing Monsters		2	12
 Chaves		2	313
+Chaves Em Desenho Animado		2	113
 Cheat on Me if You Can		2	16
 Cheaters: Amor e Traição		2	18
 Cheating Craft		2	12
+Check In to You		2	6
 Checo		2	4
 Cheer		2	6
 Cheer Up		2	28
@@ -302,11 +309,11 @@ Chewing Gum		2	12
 Chibiverso		2	4
 Chica Vampiro		2	120
 Chicago Fire		2	295
-Chicago Fire: Heróis Contra o Fogo		2	294
+Chicago Fire: Heróis Contra o Fogo		2	295
 Chicago Justice A Servico da Lei		2	13
 Chicago Med		2	219
-Chicago Med: Atendimento de Emergência		2	218
-Chicago P.D.: Distrito 21		2	262
+Chicago Med: Atendimento de Emergência		2	219
+Chicago P.D.: Distrito 21		2	263
 Chicago PD		2	264
 Chicken Nugget		2	10
 Chico Anysio Um Homem a Procura de Um Personagem		2	5
@@ -340,6 +347,7 @@ Chuck Norris: O Homem da Lei		2	194
 Chucky		2	48
 Chucky: A Série		2	24
 Chuhai Lips		2	4
+Chumbak		2	8
 Churchill em Guerra		2	4
 Churrasqueiros do Texas		2	8
 Chuteira Preta		2	13
@@ -350,14 +358,15 @@ Cidade Cruel		2	70
 Cidade Fantasma: Terror em Montana		2	6
 Cidade Fatal		2	12
 Cidade Invisível		2	12
-Cidade Pacata, Crime Cruel		2	69
-Cidade Secreta		2	12
-Cidade Toxica		2	8
-Cidade das Esmeraldas		2	10
-Cidade das Estrelas		2	14
-Cidade de Deus A Luta Nao Para		2	6
-Cidade de Fantasmas		2	6
-Cidade de Sombras		2	6
+Cidade Pacata, Crime Cruel		3	69
+Cidade Secreta		3	12
+Cidade Toxica		3	8
+Cidade das Esmeraldas		3	10
+Cidade das Estrelas		3	15
+Cidade de Deus A Luta Nao Para		3	6
+Cidade de Fantasmas		3	6
+Cidade de Sangue		3	8
+Cidade de Sombras		3	6
 Cidade do Caos		3	6
 Cidade dos Campeões		3	8
 Cidade dos Mortos		3	8
@@ -375,6 +384,7 @@ Cindy La Regia Adolescencia		3	7
 Cine Holliúdy		3	33
 Cine Holliúdy: A Série		3	33
 Cinquentinha		3	8
+Cinquentões de Elite		3	12
 Ciranda de Pedra		3	131
 Cirurgia Plastica Vai Encarar		3	6
 Cirurgiao do Mal		3	3
@@ -393,15 +403,16 @@ Clarice		3	26
 Clarissa Sabe Tudo		3	53
 Clark		3	6
 Clas Sangue e Poder		3	3
+Class Crush Crisis		3	1
 Classe Mortal		3	10
 Classe dos Herois Fracos		3	16
 Classes		3	8
 Classic Stars		3	13
 Classico Americano		3	15
-Classroom of the Elite		3	98
+Classroom of the Elite		3	107
 Claymore		3	26
 Cleo & Cuquin		3	78
-Clevatess		3	12
+Clevatess		3	22
 Click BBB		3	320
 Clickbait		3	8
 Clima do Amor		3	16
@@ -467,17 +478,17 @@ Combatants Will Be Dispatched!		3	12
 Come Back Mister		3	16
 Come and Hug Me		3	32
 Comedy Revenge		3	6
-Comedy Royale		3	6
-Comer Correr Amar		3	28
-Cometerra		3	7
-Comic Girls		3	12
-Comical Psychosomatic Medicine		3	20
-Comidas Cheias de História		3	20
-Community		3	220
-Como Acabar Com o Natal: O Casamento		3	4
-Como Acabar com o Amor		3	4
-Como Agua para Chocolate		3	12
-Como Criar um Escandalo Sexual		3	3
+Comedy Royale		4	6
+Comer Correr Amar		4	28
+Cometerra		4	7
+Comic Girls		4	12
+Comical Psychosomatic Medicine		4	20
+Comidas Cheias de História		4	20
+Community		4	220
+Como Acabar Com o Natal: O Casamento		4	4
+Como Acabar com o Amor		4	4
+Como Agua para Chocolate		4	12
+Como Criar um Escandalo Sexual		4	3
 Como Criar um Quarto do Sexo		4	8
 Como Defender um Assassino		4	180
 Como Defender um Assassino (How to Get Away with Murder)		4	74
@@ -498,6 +509,7 @@ Como Sobreviver Entre Irmãos		4	29
 Como Sobreviver Solteiro		4	52
 Como Treinar Seu Dragao As Lendas		4	3
 Como Vender Drogas Online		4	48
+Como Virar um Cowboy		4	6
 Como Viver até os 100: Os Segredos das Zonas Azuis		4	4
 Como Voce Pode		4	32
 Como Voce Se Atreve		4	24
@@ -539,6 +551,7 @@ Congresso Brasil Paralelo		4	6
 Conheca Homem de Ferro e seus Amigos Incriveis		4	10
 Conhecendo Israel - Josi Boccoli		4	26
 Conhecendo as Esculturas e Modelagens dos Filmes Disney		4	8
+Conheço Você		4	8
 Conor McGregor: Além do Octógono		4	4
 Consciencia		4	5
 Conspiracao Americana Os Crimes da Octopus		4	4
@@ -569,6 +582,7 @@ Conversa com Bial		4	189
 Conversando Com Um Serial killer O Filho de Sam		4	3
 Conversando com um Serial Killer: O Canibal de Milwaukee		4	3
 Conversando com um Serial Killer: O Palhaço Assassino		4	3
+Conversando com um serial killer: A Mente de Charles Manson		4	3
 Conversando com um serial killer: Ted Bundy		4	5
 Conversas Entre Amigos		4	12
 Conversas que Curam		4	8
@@ -582,22 +596,24 @@ Copan		4	10
 Copenhagen Cowboy		4	6
 Copihan		4	7
 Coppelion		4	13
-Coracao Acelerado		4	176
-Coracao Alado		4	6
-Coracao Sombrio		4	5
-Coracao de Ferro		4	12
-Coracao de Vidro		4	10
-Coracoes Destinados		4	38
-Coragem Irmao		4	6
-Coragem O Cao Covarde		4	52
-Coração Indomável		4	162
-Coração Inimigo		4	16
-Coração Marcado		4	24
-Coração Suburbano		4	6
-Coração de Estudante		4	185
-Cordel Encantado		4	143
-Coreia O Pais do Kimchi		4	3
-Coroas em Crise		4	8
+Coppers: Justiça Implacável		4	13
+Coracao Acelerado		4	177
+Coracao Alado		5	6
+Coracao Sombrio		5	5
+Coracao de Ferro		5	12
+Coracao de Vidro		5	10
+Coracoes Destinados		5	38
+Coragem Irmao		5	6
+Coragem O Cao Covarde		5	52
+Coração Indomável		5	162
+Coração Inimigo		5	16
+Coração Marcado		5	24
+Coração Suburbano		5	6
+Coração de Estudante		5	185
+Cordel Encantado		5	143
+Cordelicos		5	26
+Coreia O Pais do Kimchi		5	3
+Coroas em Crise		5	8
 Coronavirus Explained		5	3
 Coroner		5	38
 Corpo Dourado		5	191
@@ -665,6 +681,7 @@ Crimes do Colarinho Branco		5	81
 Crimes na Cabana		5	6
 Crimes que Abalaram o Mundo		5	8
 Crimes que Viralizaram		5	71
+Criminal		5	7
 Criminal Minds		5	364
 Criminal Minds: Beyond Borders		5	26
 Criminal Minds: Suspect Behavior		5	13
@@ -686,6 +703,7 @@ Crossbones		5	9
 Crossing Swords		5	20
 Crossing Time		5	12
 Crossover		5	8
+Crowned in a Hundred Days		5	25
 Cruel Istambul		5	70
 Cruel Summer		5	20
 Crushology 101		5	12
@@ -695,27 +713,28 @@ Crônicas de um Aristocrata em Outro Mundo		5	12
 Cuba Libre		5	6
 Cue!		5	24
 Cuidado com o Anjo		5	194
-Cult Hunter		5	1
+Cult Hunter		5	5
 Cult Massacre One Day in Jonestown		5	3
 Cultural Exchange with a Game Centre Girl		5	12
 Cumplices de um Resgate		5	354
 Cuphead: A Série		5	36
-Cupom Mania		5	32
-Curon		5	7
-Cursed - A Lenda do Lago		5	10
-Cursed Films		5	5
-Curso de Espanhol Mairo Vergara		5	729
-Curso de Frances Mairo Vergara		5	227
-Curso de Ingles Mairo Vergara 5.0		5	367
-Curso de Violao Completo Marcos Kaiser		5	436
-Curso de Violao Metodo Triade Heitor Castro		5	197
-Cursos Avancados de Exatas Matematica Guilherme Cetrangolo		5	185
-Curta Essa com Zac Efron		5	16
-Curto Circuito		5	20
-Cuspirei Em Seus Tumulos		5	60
-Custe o que Custar		5	8
-Cute High Earth Defense Club Love		5	36
-Cyberpunk: Mercenários		5	10
-Cães de Caça		5	15
-Círculo Fechado		5	6
+Cupom Mania		6	32
+Curon		6	7
+Cursed - A Lenda do Lago		6	10
+Cursed Films		6	5
+Curso de Espanhol Mairo Vergara		6	729
+Curso de Frances Mairo Vergara		6	227
+Curso de Ingles Mairo Vergara 5.0		6	367
+Curso de Violao Completo Marcos Kaiser		6	436
+Curso de Violao Metodo Triade Heitor Castro		6	197
+Cursos Avancados de Exatas Matematica Guilherme Cetrangolo		6	185
+Curta Essa com Zac Efron		6	16
+Curto Circuito		6	20
+Cuspirei Em Seus Tumulos		6	60
+Custe o que Custar		6	8
+Cute High Earth Defense Club Love		6	36
+Cyberpunk: Mercenários		6	10
+Cycle of Sin		6	3
+Cães de Caça		6	15
+Círculo Fechado		6	6
 Círculo de Fogo: The Black		6	14
