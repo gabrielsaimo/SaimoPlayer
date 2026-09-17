@@ -60,7 +60,7 @@ Tango & Cash: Os Vingadores (1989)	dub=6:1311648
 Tango One O Mais Procurado	dub=2:25115,8:25115
 Tango One, O Mais Procurado (2018)	dub=6:1307893
 Tangos Tequilas e Algumas Mentiras (2023)	dub=6:1301132
-Tangos, Tequilas e Algumas Mentiras	dub=2:281471,2:188919,8:281471,8:188919	leg=2:188918,8:188918
+Tangos, Tequilas e Algumas Mentiras	dub=2:281471,8:281471,2:188919,8:188919	leg=2:188918,8:188918
 Tanhaji The Unsung Warrior	leg=2:43831,8:43831
 Tanhaji, O Guerreiro Desconhecido (2020)	leg=6:1308429
 Tanner Hall	dub=2:141567,8:141567
@@ -108,7 +108,7 @@ Te Espero no Fim da Jornada	leg=2:295731,8:295731
 Te Pego Lá Fora	dub=2:316435,8:316435
 Te Pego na Saida	dub=2:20826,8:20826
 Te Pego na Saída (2017)	dub=6:1310232
-Te Peguei!	dub=2:22519,2:20827,8:395725,8:22519,8:20827	leg=8:395724
+Te Peguei!	dub=2:22519,8:22519,2:20827,8:395725,8:20827	leg=8:395724
 Te Peguei! (2018)	dub=6:1303645
 Te Prego Lá Fora (2021)	dub=6:1304894
 Te quiero, imbécil	dub=2:46153,8:46153
@@ -136,7 +136,7 @@ Ted Bundy: A Irresistível Face do Mal (2019)	leg=6:1307806
 Ted Bundy: A Mente de um Monstro	dub=2:353013,2:353012,8:353013,8:353012
 Ted Bundy: Mente Assassina	dub=2:253595,8:253595	leg=2:253596,8:253596
 Tee Yai Nascido para o Mal (2025)	dub=6:1314006
-Tee Yai: Nascido para o Mal	dub=2:352690,8:392151,8:352690	leg=2:352689,8:352689
+Tee Yai: Nascido para o Mal	dub=8:392151,2:352690,8:352690	leg=2:352689,8:352689
 Teefa in Trouble Legendado	dub=2:30656,8:30656
 Teen Beach 2	dub=2:94737,8:94737
 Teen Beach 2 (2015)	dub=6:1307458
@@ -144,7 +144,7 @@ Teen Beach Movie	dub=2:94738,8:94738
 Teen Beach: O Filme (2013)	dub=6:1307230
 Teen Titans Go! - O Filme (2018)	dub=6:1297799
 Teen Titans Go! See Space Jam	dub=2:120652,8:120652	leg=2:120649,8:120649
-Teen Wolf: O Filme	dub=2:185829,2:185822,8:185829,8:185822	leg=2:185827,8:185827
+Teen Wolf: O Filme	dub=2:185822,8:185822,2:185829,8:185829	leg=2:185827,8:185827
 Teen Wolf: O Filme (2023)	dub=6:1300959
 Teenage Badass	leg=2:73290,8:73290
 Teenage Badass (2020)	leg=6:1308661
@@ -158,7 +158,7 @@ Tekken (2010)	dub=6:1304125
 Tekken 2: A Vingança de Kazuya (2014)	dub=6:1304126
 Tell It To The Bees	leg=2:107807,8:107807
 Tem Algo De Errado Com As Crianças (2023)	dub=6:1302813
-Tem Algo de Errado com as Crianças	dub=2:281331,2:227417,8:281331,8:227417	leg=2:227410,8:227410
+Tem Algo de Errado com as Crianças	dub=2:281331,8:281331,2:227417,8:227417	leg=2:227410,8:227410
 Tem Alguém na Sua Casa (2021)	dub=6:1304480	leg=6:1304481
 Tem Alguém na sua Casa	dub=2:131062,8:131062	leg=2:131056,8:131056
 Tem Alienigenas no Meu Quarto	dub=2:20830,8:20830
@@ -189,7 +189,7 @@ Tempestade: Planeta em Fúria	dub=2:368261,2:317250,2:21359,8:368261,8:317250,8:
 Temple Grandin (2010)	dub=6:1313870
 Templo do Perigo	dub=2:176797,8:176797	leg=2:176795,8:176795
 Templo do Perigo (2021)	dub=6:1306570	leg=6:1306571
-Tempo	dub=2:134599,2:134596,8:134599,8:134596	leg=2:129565,8:129565
+Tempo	dub=2:134599,8:134599,2:134596,8:134596	leg=2:129565,8:129565
 Tempo (2021)	dub=6:1313672	leg=6:1298857
 Tempo De Esperanca	dub=2:30453,8:30453
 Tempo Ruy	dub=2:374319,2:371182,8:374319,8:371182
@@ -202,7 +202,7 @@ Tempo de Despertar (1990)	dub=6:1314216
 Tempo de Esperança (2015)	dub=6:1307457
 Tempo de Glória	dub=2:109146,8:109146
 Tempo de Glória (1989)	dub=6:1309055
-Tempo de Guerra	dub=2:324858,2:324856,8:324858,8:324856	leg=2:324857,2:320758,8:324857,8:320758
+Tempo de Guerra	dub=2:324856,8:324856,2:324858,8:324858	leg=2:324857,2:320758,8:324857,8:320758
 Tempo de Guerra (2025)	dub=6:1313568	leg=6:1313567
 Tempo de Matar	dub=2:376817,2:43845,8:376817,8:43845	leg=2:376816,8:376816
 Tempo de Matar (1996)	dub=6:1300126
@@ -234,7 +234,7 @@ Tempos de Paz	dub=2:367058,8:367058
 Tempos de Tormenta (2009)	dub=6:1300690
 Tenacious D - Uma Dupla Infernal	dub=2:20831,8:20831
 Tenacious D: Uma Dupla Infernal (2006)	dub=6:1309979
-Tenet	dub=2:89395,2:89387,8:89395,8:89387	leg=2:89009,8:89009
+Tenet	dub=2:89395,8:89395,2:89387,8:89387	leg=2:89009,8:89009
 Tenet (2020)	dub=6:1298082
 Tenha Medo	dub=2:345136,8:345136	leg=2:345135,8:345135
 Tenha Um Bom Luto	dub=2:254097,8:254097	leg=2:254098,8:254098
@@ -352,7 +352,7 @@ Terror em Shellmont	dub=2:229488,8:229488	leg=2:229487,8:229487
 Terror em Shellmont (2018)	dub=6:1310565	leg=6:1310566
 Terror em Silent Hill (2006)	dub=6:1310733
 Terror em Silent Hill Regresso Para o Inferno (2026)	dub=6:1314488	leg=6:1314487
-Terror em Silent Hill: Regresso Para o Inferno	dub=2:376283,2:374496,8:376283,8:374496	leg=2:374495,2:367831,8:374495,8:367831
+Terror em Silent Hill: Regresso Para o Inferno	dub=2:376283,8:376283,2:374496,8:374496	leg=2:374495,2:367831,8:374495,8:367831
 Terror na Antartida (2009)	dub=6:1303635
 Terror na Antártida	dub=2:329001,8:329001	leg=2:329000,8:329000
 Terror na Ilha (2012)	dub=6:1303789
@@ -367,7 +367,7 @@ Terror no Deserto (2022)	dub=6:1311164	leg=6:1311165
 Terror no Dia das Bruxas	dub=2:223114,8:223114	leg=2:223094,8:223094
 Terror no Dia das Bruxas (2019)	dub=6:1310828	leg=6:1310829
 Terror no Estudio 666 (2022)	dub=6:1300189
-Terror no Estúdio 666	dub=2:335704,2:169149,2:169137,8:335704,8:169149,8:169137	leg=2:335703,2:169141,8:335703,8:169141
+Terror no Estúdio 666	dub=2:169137,8:169137,2:335704,2:169149,8:335704,8:169149	leg=2:335703,2:169141,8:335703,8:169141
 Terror no Hospital Psiquiátrico	dub=2:343950,8:343950	leg=2:343949,8:343949
 Terror no Oceano	dub=8:388709	leg=8:388708
 Terror no Rio	dub=2:324462,8:324462	leg=2:324461,8:324461
@@ -391,7 +391,7 @@ Testamento: As Parábolas Recontadas	dub=2:286363,8:286363	leg=2:286364,8:286364
 Testamento: As Parábolas Recontadas (2022)	dub=6:1313084
 Teste Beta	dub=2:182877,8:182877	leg=2:182880,8:182880
 Teste Beta (2021)	dub=6:1306387	leg=6:1306388
-Teste de Paternidade	dub=2:297484,2:75053,8:297484,8:75053
+Teste de Paternidade	dub=2:297484,8:297484,2:75053,8:75053
 Teste de Paternidade (2020)	dub=6:1308905
 Teste para Cardíaco	dub=2:374353,8:374353
 Testemunha Fantasma (2019)	leg=6:1308111
@@ -402,7 +402,7 @@ Testemunhas Silenciosas	dub=2:47444,8:47444
 Testemunhas Silenciosas (2019)	dub=6:1310637
 Tetra Acreditar de Novo (2026)	dub=6:1314644
 Tetra: Acreditar de Novo	dub=2:381810,8:381810	leg=2:381809,8:381809
-Tetris	dub=2:190765,2:190644,8:190765,8:190644	leg=2:190643,8:190643
+Tetris	dub=2:190765,8:190765,2:190644,8:190644	leg=2:190643,8:190643
 Tetris (2023)	dub=6:1301214
 Teu Mundo Não Cabe Nos Meus Olhos (2018)	dub=6:1307895
 Teu Mundo não cabe nos Meus Olhos	dub=2:42514,8:42514
@@ -425,7 +425,7 @@ The Adults (2023)	dub=6:1302700
 The After Party	dub=2:22560,8:22560
 The After Party (2018)	dub=6:1297767
 The Alpinist	leg=2:140794,8:140794
-The Alto Knights: Máfia e Poder	dub=2:320566,2:320564,8:320566,8:320564	leg=2:320565,2:318117,8:320565,8:318117
+The Alto Knights: Máfia e Poder	dub=2:320564,8:320564,2:320566,8:320566	leg=2:320565,2:318117,8:320565,8:318117
 The Alto Knights: Máfia e Poder (2025)	dub=6:1313481	leg=6:1313480
 The American	leg=2:261703,8:261703
 The Angry Birds Movie 2 Legendado	dub=2:30581,8:30581
@@ -451,7 +451,7 @@ The Beach Bum: Levando a Vida Numa Boa (2019)	dub=6:1307740	leg=6:1307741
 The Beach House	leg=2:63092,8:63092
 The Beach House (2020)	leg=6:1308612
 The Beads	leg=2:282119,8:282119
-The Beanie Bubble - O Fenômeno das Pelúcias	dub=2:205183,2:205182,8:205183,8:205182	leg=2:205184,8:205184
+The Beanie Bubble - O Fenômeno das Pelúcias	dub=2:205183,8:205183,2:205182,8:205182	leg=2:205184,8:205184
 The Beanie Bubble O Fenomeno das Pelucias (2023)	dub=6:1301719
 The Beast (2024)	leg=6:1307011
 The Beast in the Jungle	leg=2:246981,8:246981
@@ -526,7 +526,7 @@ The Devil's Deception	dub=2:194181,8:194181
 The Devils Bath	leg=2:269964,8:269964
 The Dink - A Última Chance	dub=8:388516,8:388474	leg=8:388473
 The Diplomat	leg=2:323410,8:323410
-The Dirt: Confissões do Mötley Crüe	dub=2:281095,2:128635,8:281095,8:128635
+The Dirt: Confissões do Mötley Crüe	dub=2:281095,8:281095,2:128635,8:128635
 The Dirt: Confissões do Mötley Crüe (2019)	dub=6:1305065
 The Dirty South	dub=2:251919,8:251919	leg=2:251920,2:251187,8:251920,8:251187
 The Dog Days of Winter (2019)	dub=6:1310711
@@ -539,7 +539,7 @@ The Dry	leg=2:108890,8:108890
 The Dry 2: Força da Natureza	dub=2:263006,8:263006	leg=2:263007,8:263007
 The Dry 2: Força da Natureza (2024)	dub=6:1305250	leg=6:1305251
 The Dutchman	dub=2:382899,8:382899	leg=2:382898,8:382898
-The Electric State	dub=2:316371,2:315517,2:315329,8:316371,8:315517,8:315329	leg=2:315330,8:315330
+The Electric State	dub=2:316371,2:315517,8:316371,8:315517,2:315329,8:315329	leg=2:315330,8:315330
 The Electric State (2025)	dub=6:1313218	leg=6:1313217
 The Elegy Of A Lost Romance Um Romance Perdido	dub=8:389665
 The Elephant Queen	dub=2:31936,8:31936
@@ -560,7 +560,7 @@ The Fires	dub=8:383779	leg=8:383778
 The Fires (2025)	dub=6:1314641
 The First Wave (2021)	dub=6:1306564	leg=6:1306565
 The Fix	leg=2:299630,8:299630
-The Flash	dub=2:368129,2:202871,2:202869,8:368129,8:202871,8:202869	leg=2:202870,8:202870
+The Flash	dub=2:368129,2:202871,8:368129,8:202871,2:202869,8:202869	leg=2:202870,8:202870
 The Flash (2023)	dub=6:1313304	leg=6:1313303
 The Flood	leg=2:85186,8:85186
 The Forty-Year-Old Version	dub=2:76708,8:76708
@@ -612,13 +612,13 @@ The Isolate Thief	leg=8:392552
 The Keeper	leg=2:300638,8:300638
 The Key	leg=8:394109
 The Kid Legendado	dub=2:23941,8:23941
-The Kill Room	dub=2:237983,2:237982,8:237983,8:237982	leg=2:237984,8:237984
+The Kill Room	dub=2:237982,8:237982,2:237983,8:237983	leg=2:237984,8:237984
 The Kill Room (2023)	dub=6:1303068	leg=6:1302924
 The Kill Team	dub=2:44566,8:44566
-The Killer	dub=2:282122,2:281758,8:282122,8:281758	leg=2:281759,8:281759
+The Killer	dub=2:282122,8:282122,2:281758,8:281758	leg=2:281759,8:281759
 The Killer (2024)	dub=6:1311930	leg=6:1311929
 The King of Fighters: A Batalha Final	dub=2:111465,8:111465
-The Kitchen	dub=2:247291,2:241788,8:247291,8:241788	leg=2:241789,8:241789
+The Kitchen	dub=2:247291,8:247291,2:241788,8:241788	leg=2:241789,8:241789
 The Kitchen (2023)	dub=6:1303098
 The Knot	dub=2:348082,8:348082
 The Lake	leg=2:196517,8:196517
@@ -670,7 +670,7 @@ The Mastermind	leg=2:357126,8:357126
 The Matrix Reloaded	dub=2:88697,8:88697
 The Mauritanian	leg=2:97214,8:97214
 The Mean One	dub=2:247322,8:247322	leg=2:247323,8:247323
-The Mission	dub=2:233784,2:233783,8:233784,8:233783	leg=2:233785,8:233785
+The Mission	dub=2:233783,8:233783,2:233784,8:233784	leg=2:233785,8:233785
 The Mission (2023)	dub=6:1309479	leg=6:1309480
 The Mistletoe Secret	dub=2:138836,8:138836	leg=2:138845,8:138845
 The Moment	dub=2:372960,8:372960	leg=2:372959,8:372959
@@ -695,7 +695,7 @@ The Nightingale Legendado	dub=2:30582,8:30582
 The Non-Actor	leg=8:386928
 The Old Guard	dub=2:62473,8:62473
 The Old Guard (2020)	dub=6:1297908
-The Old Guard 2	dub=2:332854,2:330517,8:332854,8:330517	leg=2:330516,8:330516
+The Old Guard 2	dub=2:332854,8:332854,2:330517,8:330517	leg=2:330516,8:330516
 The Old Guard 2 (2025)	dub=6:1313648	leg=6:1313647
 The One And Only Ivan	leg=2:69613,8:69613
 The Order	leg=2:302744,8:302744
@@ -848,7 +848,7 @@ The Wretched	leg=2:64471,8:64471
 The Wrong Girls	leg=8:397536
 The Yeti	leg=2:379439,8:379439
 The Young Cannibals	leg=2:75636,8:75636
-Thelma	dub=2:297283,8:392647,8:297283	leg=2:297284,2:162577,8:297284,8:162577
+Thelma	dub=8:392647,2:297283,8:297283	leg=2:297284,2:162577,8:297284,8:162577
 Thelma & Louise	dub=2:355769,2:282565,8:355769,8:282565	leg=2:355768,8:355768
 Thelma (2017)	leg=6:1305673
 Thelma (2024)	leg=6:1309168
@@ -858,7 +858,7 @@ They Called Him Mostly Harmless	dub=2:251308,8:251308	leg=2:251309,8:251309
 They Called Him Mostly Harmless (2024)	dub=6:1309452	leg=6:1309453
 They Fight	leg=8:387513
 They Them: O Acampamento (2022)	dub=6:1300405
-They/Them: O Acampamento	dub=2:179739,2:177213,8:179739,8:177213	leg=2:177212,8:177212
+They/Them: O Acampamento	dub=2:179739,8:179739,2:177213,8:177213	leg=2:177212,8:177212
 Thiago Ventura - Especial Isso E Tudo Que Eu Tenho	dub=2:33575,8:33575
 Thiago Ventura - Especial So Agradece	dub=2:33576,8:33576
 Thiago Ventura - Só Agradece (2020)	dub=6:1310933
@@ -883,26 +883,26 @@ Thor (2011)	dub=6:1313242	leg=6:1313241
 Thor - O Herói de Guerra (2008)	dub=6:1312902
 Thor e o Fantasma Voador (2008)	dub=6:1312904
 Thor e o Fantasma do Castelo (2010)	dub=6:1312903
-Thor: Amor e Trovão	dub=2:198695,2:171901,8:198695,8:171901	leg=2:171904,8:171904
+Thor: Amor e Trovão	dub=2:198695,8:198695,2:171901,8:171901	leg=2:171904,8:171904
 Thor: Amor e Trovão (2022)	dub=6:1313248	leg=6:1313247
 Thor: Deus do Trovão	dub=2:275527,8:275527	leg=2:275528,8:275528
 Thor: Deus do Trovão (2022)	dub=6:1311721	leg=6:1311722
 Thor: O Mundo Sombrio	dub=2:98651,8:391921,8:98651	leg=8:391920
 Thor: O Mundo Sombrio (2013)	dub=6:1313244	leg=6:1313243
-Thor: Ragnarok	dub=2:98660,2:21502,8:391923,8:98660,8:21502	leg=8:391922
+Thor: Ragnarok	dub=2:21502,8:21502,2:98660,8:391923,8:98660	leg=8:391922
 Thor: Ragnarok (2017)	dub=6:1313246	leg=6:1313245
 Those Who Wish Me Dead	leg=2:109039,8:109039
 Thoughts and Prayers	leg=8:387315
 Three Months	dub=2:157458,8:157458	leg=2:157453,8:157453
 Thriller 40	leg=2:246980,8:246980
 Thriller 40 (2023)	leg=6:1309258
-Thunderbirds: A Elite da Força Aérea dos EUA	dub=2:322804,8:390301,8:322804	leg=2:322803,8:322803
-Thunderbolts*	dub=2:341026,2:340997,8:341026,8:340997	leg=2:340996,2:330518,8:340996,8:330518
+Thunderbirds: A Elite da Força Aérea dos EUA	dub=8:390301,2:322804,8:322804	leg=2:322803,8:322803
+Thunderbolts*	dub=2:341026,8:341026,2:340997,8:340997	leg=2:340996,2:330518,8:340996,8:330518
 Thunderbolts* (2025)	dub=6:1313769	leg=6:1313768
 Tia Virginia (2023)	dub=6:1303066
 Tia Virgínia	dub=2:238562,8:238562
 Tic Tac A Maternidade do Mal (2023)	dub=6:1301223
-Tic-Tac: A Maternidade do Mal	dub=2:193443,2:193437,8:193443,8:193437	leg=2:193436,8:193436
+Tic-Tac: A Maternidade do Mal	dub=2:193443,8:193443,2:193437,8:193437	leg=2:193436,8:193436
 Tick, Tick... Boom! (2021)	dub=6:1298966
 Tickle Head, O Melhor Lugar Da Terra (2014)	dub=6:1309964
 Tico e Teco: Defensores da Lei	dub=2:160448,8:160448	leg=2:160449,8:160449
@@ -912,10 +912,10 @@ Tigerland - A Caminho da Guerra	dub=2:320244,8:394555,8:320244	leg=2:320245,8:39
 Tigrao: O Filme (2000)	dub=6:1300897
 Tigre	leg=2:258026,8:258026
 Tigre (2024)	leg=6:1309748
-Tigres e Hienas	dub=2:296505,2:296457,8:296505,8:296457	leg=2:296458,8:296458
+Tigres e Hienas	dub=2:296505,8:296505,2:296457,8:296457	leg=2:296458,8:296458
 Tigres em Ascensão	leg=2:258027,8:258027
 Tigres em Ascensão (2024)	leg=6:1309749
-Till: A Busca por Justiça	dub=2:366524,2:191449,8:366524,8:191449	leg=2:191450,8:191450
+Till: A Busca por Justiça	dub=2:366524,8:366524,2:191449,8:191449	leg=2:191450,8:191450
 Till: A Busca por Justiça (2022)	dub=6:1306699	leg=6:1306700
 Tim Lopes - Histórias de Arcanjo	dub=2:363921,8:363921
 Tim Lopes Historias de Arcanjo (2014)	dub=6:1301797
@@ -960,10 +960,10 @@ Tinta Bruta (2019)	dub=6:1307994
 Tintin e o Caso Calculus	dub=2:309914,8:309914
 Tio Drew	dub=2:20834,8:20834
 Tio Drew (2018)	dub=6:1301136
-Tio Frank	dub=2:89509,2:88684,8:89509,8:88684
+Tio Frank	dub=2:89509,8:89509,2:88684,8:88684
 Tio Frank (2020)	dub=6:1308628
 Tiozoes (2023)	dub=6:1302665
-Tiozões	dub=2:320270,2:221644,8:320270,8:221644	leg=2:221643,8:221643
+Tiozões	dub=2:320270,8:320270,2:221644,8:221644	leg=2:221643,8:221643
 Tipos de Gentileza	leg=2:284334,8:284334
 Tipos de Gentileza (2024)	dub=6:1309251	leg=6:1311996
 Tirando a Maior Onda: O Filme	dub=2:69948,8:69948
@@ -984,9 +984,9 @@ Tiro às Cegas	dub=2:349866,8:349866	leg=2:349865,8:349865
 Tiro às Cegas (2020)	dub=6:1306412
 Tiros Cruzados	dub=8:392807
 Titan AE (2000)	dub=6:1312514
-Titan: O Desastre da OceanGate	dub=2:328262,2:328106,8:328262,8:328106	leg=2:328105,8:328105
+Titan: O Desastre da OceanGate	dub=2:328262,8:328262,2:328106,8:328106	leg=2:328105,8:328105
 Titan: O Desastre da OceanGate (2025)	dub=6:1313594
-Titanic	dub=2:341074,2:42989,2:42956,8:341074,8:42989,8:42956
+Titanic	dub=2:42989,8:42989,2:341074,2:42956,8:341074,8:42956
 Titanic (1997)	dub=6:1297221
 Titanic: No Coração do Naufrágio	dub=2:166217,8:166217
 Titanic: No Coração do Naufrágio (2020)	dub=6:1306467
@@ -1025,7 +1025,7 @@ Todas As Cancoes De Amor	dub=2:25478,8:25478
 Todas As Canções de Amor (2018)	dub=6:1308235
 Todas Contra John	dub=2:380533,2:323754,8:380533,8:323754	leg=2:380532,8:380532
 Todas Contra John (2006)	dub=6:1299960
-Todas Menos Ela	dub=2:265875,2:261704,8:265875,8:261704	leg=2:261705,8:261705
+Todas Menos Ela	dub=2:265875,8:265875,2:261704,8:261704	leg=2:261705,8:261705
 Todas Menos Ela (2024)	dub=6:1303654
 Todas as Formas de Amor	dub=2:224964,8:224964	leg=2:224966,8:224966
 Todas as Formas de Amor (2021)	dub=6:1302787
@@ -1057,10 +1057,10 @@ Todo Mundo em Panico 4	dub=2:20840,8:20840
 Todo Mundo em Panico 4 (2006)	dub=6:1299855
 Todo Mundo em Panico 5	dub=2:20841,8:20841
 Todo Mundo em Panico 5 (2013)	dub=6:1299856
-Todo Mundo em Pânico	dub=8:388789,8:388533,8:388042,8:387603	leg=8:388624,8:387606
+Todo Mundo em Pânico	dub=8:388789,8:388042,8:388533,8:387603	leg=8:388624,8:387606
 Todo Poderoso	dub=2:101648,8:101648
 Todo Poderoso (2003)	dub=6:1299961
-Todo Tempo Que Temos	dub=2:300140,2:299804,8:300140,8:299804	leg=2:299805,8:299805
+Todo Tempo Que Temos	dub=2:300140,8:300140,2:299804,8:299804	leg=2:299805,8:299805
 Todo Tempo Que Temos (2024)	dub=6:1312606	leg=6:1312489
 Todo o Dinheiro do Mundo	dub=2:378068,2:94759,8:378068,8:94759	leg=2:378067,8:378067
 Todo o Dinheiro do Mundo (2017)	dub=6:1307763
@@ -1075,7 +1075,7 @@ Todos Irão Morrer (2023)	dub=6:1313124
 Todos Irão Queimar	dub=2:345072,8:345072	leg=2:345071,8:345071
 Todos Ja Sabem	dub=2:22891,8:22891
 Todos Já Sabem (2018)	dub=6:1307614
-Todos Menos Você	dub=2:252074,8:252075,8:252074	leg=2:248849,8:248849
+Todos Menos Você	dub=8:252075,2:252074,8:252074	leg=2:248849,8:248849
 Todos Menos Você (2023)	dub=6:1303215	leg=6:1303171
 Todos Nós Desconhecidos	leg=2:251188,8:251188
 Todos Nós Desconhecidos (2023)	leg=6:1311733
@@ -1095,7 +1095,7 @@ Todos os Meus Amigos Estão Mortos (2020)	dub=6:1308952
 Todos os Mortos (2020)	dub=6:1301863
 Todos os Tipos de Amor	dub=8:387085	leg=8:387084
 Together	dub=2:158964,8:158964	leg=2:158958,8:158958
-Togo	dub=2:41213,2:41212,8:41213,8:41212
+Togo	dub=2:41213,8:41213,2:41212,8:41212
 Togo (2019)	dub=6:1298217
 Tokunbo (2024)	dub=6:1311923	leg=6:1311922
 Tokyo Ghoul	dub=2:101678,8:101678
@@ -1103,7 +1103,7 @@ Tokyo Ghoul (2017)	dub=6:1307709
 Tolerancia Zero (2015)	dub=6:1299633
 Tolkien	dub=2:27544,8:27544
 Tolkien (2019)	dub=6:1298111
-Tom & Jerry - O Filme	dub=2:100124,2:100122,8:100124,8:100122
+Tom & Jerry - O Filme	dub=2:100124,8:100124,2:100122,8:100122
 Tom & Jerry - O Filme (2021)	dub=6:1298340	leg=6:1298309
 Tom & Jerry: De Volta À Oz (2016)	dub=6:1310349
 Tom & Jerry: Encontram Sherlock Holmes (2010)	dub=6:1307734
@@ -1134,7 +1134,7 @@ Tomando Rumo	dub=8:384726,8:384555	leg=8:384554
 Tomando Rumo (2026)	dub=6:1500861
 Tomates Verdes Fritos	dub=2:318579,8:318579
 Tomb Raider	dub=2:20256,8:20256
-Tomb Raider: A Origem	dub=2:382493,2:22520,2:20255,8:382493,8:22520,8:20255	leg=2:382492,8:382492
+Tomb Raider: A Origem	dub=2:22520,8:22520,2:382493,2:20255,8:382493,8:20255	leg=2:382492,8:382492
 Tomb Raider: A Origem (2018)	dub=6:1297254
 Tombstone: A Justica Esta Chegando (1993)	dub=6:1299290
 Tombstone: A Justiça Está Chegando	dub=2:170840,2:98246,8:170840,8:98246
@@ -1160,8 +1160,8 @@ Top Gang! Ases Muito Loucos (1991)	dub=6:1299965
 Top Gun - Ases Indomaveis (1986)	dub=6:1299476
 Top Gun 2 Maverick (2022)	dub=6:1299985	leg=6:1299984
 Top Gun Ases indomaveis	dub=2:20257,8:20257
-Top Gun: Maverick	dub=2:169676,2:169631,8:169676,8:169631	leg=2:169749,8:169749
-Top Gunner: Zona de Perigo	dub=2:295396,2:259072,8:295396,8:259072	leg=2:295397,8:295397
+Top Gun: Maverick	dub=2:169631,8:169631,2:169676,8:169676	leg=2:169749,8:169749
+Top Gunner: Zona de Perigo	dub=2:259072,8:259072,2:295396,8:295396	leg=2:295397,8:295397
 Top Gunner: Zona de Perigo (2022)	dub=6:1304142
 Top Secret! Superconfidencial	dub=2:341807,8:341807
 Topuria Matador	dub=2:380992,8:380992	leg=2:380991,8:380991
@@ -1187,7 +1187,7 @@ Toro	dub=2:348818,8:348818
 Torpedo: U-235	dub=2:140700,8:140700	leg=2:140696,8:140696
 Torpedo: U-235 (2019)	dub=6:1304510	leg=6:1304511
 Torquato, Imagem da Incompletude	dub=2:376818,8:376818
-Torre Greenfell: A Verdade por Trás do Desastre	dub=2:329439,8:390604,8:329439	leg=2:329438,8:329438
+Torre Greenfell: A Verdade por Trás do Desastre	dub=8:390604,2:329439,8:329439	leg=2:329438,8:329438
 Torre das Donzelas	dub=2:363924,2:303672,8:363924,8:303672
 Torrentes de Paixao (1953)	dub=6:1300630
 Tortura Selvagem - A Grade	dub=2:320246,8:320246
@@ -1204,7 +1204,7 @@ Totalmente Selvagem	dub=2:333304,8:333304	leg=2:333303,8:333303
 Totalmente Sem Rumo	dub=2:376939,8:376939	leg=2:376938,8:376938
 Totalmente Sem Rumo (2004)	dub=6:1313332
 Totem (2017)	dub=6:1302713
-Touch	dub=2:286979,2:286976,8:286979,8:286976	leg=2:286982,8:286982
+Touch	dub=2:286979,8:286979,2:286976,8:286976	leg=2:286982,8:286982
 Touch (2024)	dub=6:1312168	leg=6:1312167
 Touched	leg=2:335684,8:335684
 Touken Ranbu Kai Douden Chikashi Haberau Monora	leg=2:310617,8:310617
@@ -1218,7 +1218,7 @@ Toy Story 2 (1999)	dub=6:1298215,6:1312284
 Toy Story 3	dub=2:108090,8:108090
 Toy Story 3 (2010)	dub=6:1298214,6:1312285
 Toy Story 30 Years and Beyond - A Special Edition of (2020)	leg=6:1501231
-Toy Story 4	dub=2:108138,2:108091,8:108138,8:108091
+Toy Story 4	dub=2:108138,8:108138,2:108091,8:108091
 Toy Story 4 (2019)	dub=6:1297436
 Toy Story 5	dub=8:385527	leg=8:393247
 Toy Story 5 (2026)	leg=6:1502359
@@ -1271,13 +1271,13 @@ Transformers 4: A Era da Extinção (2014)	dub=6:1312681	leg=6:1312680
 Transformers 5: O Último Cavaleiro (2017)	dub=6:1312683	leg=6:1312682
 Transformers: A Era da Extinção	dub=2:93639,8:93639
 Transformers: A Vingança dos Derrotados	dub=2:199688,8:199688
-Transformers: O Despertar das Feras	dub=2:203503,2:203502,2:203425,8:203503,8:203502,8:203425	leg=2:203493,8:203493
+Transformers: O Despertar das Feras	dub=2:203503,2:203502,8:203503,8:203502,2:203425,8:203425	leg=2:203493,8:203493
 Transformers: O Despertar das Feras (2023)	dub=6:1312687	leg=6:1312686
-Transformers: O Início	dub=2:294142,2:294141,8:294142,8:294141	leg=2:294143,2:292905,8:294143,8:292905
+Transformers: O Início	dub=2:294142,8:294142,2:294141,8:294141	leg=2:294143,2:292905,8:294143,8:292905
 Transformers: O Início (2024)	dub=6:1312689	leg=6:1312688
 Transformers: O Lado Oculto da Lua	dub=2:93638,8:93638
-Transformers: O Último Cavaleiro	dub=2:358117,2:93641,2:93640,8:358117,8:93641,8:93640
-Transfusão	dub=2:185836,2:185825,8:185836,8:185825	leg=2:185835,8:185835
+Transformers: O Último Cavaleiro	dub=2:93641,8:93641,2:358117,2:93640,8:358117,8:93640
+Transfusão	dub=2:185836,8:185836,2:185825,8:185825	leg=2:185835,8:185835
 Transfusão (2023)	dub=6:1301255
 Transmissões Sinistras (2021)	dub=6:1306519	leg=6:1306520
 Transmitzvah	dub=2:296506,8:296506	leg=2:296507,8:296507
@@ -1319,7 +1319,7 @@ Treinando o Papai	dub=2:20845,8:20845
 Treinando o Papai (2007)	dub=6:1309793
 Trem Bala (2022)	dub=6:1300138
 Trem Noturno para Lisboa	dub=8:384252
-Trem-Bala	dub=2:175609,2:174966,8:175609,8:174966	leg=2:174965,8:174965
+Trem-Bala	dub=2:175609,8:175609,2:174966,8:174966	leg=2:174965,8:174965
 Tremores	dub=2:163296,8:163296	leg=2:163297,8:163297
 Tremores (2019)	dub=6:1305786	leg=6:1305787
 Tres Amigas: Todos os Domingos (2024)	leg=6:1311918
@@ -1385,7 +1385,7 @@ Triunfantes em Deus	dub=2:337596,8:337596	leg=2:337595,8:337595
 Triunfo: Jesse Owens e os Jogos de Berlim	dub=2:298484,8:298484
 Triunfo: Lutar Para Vencer	dub=2:148657,8:148657	leg=2:148656,8:148656
 Triunfo: Lutar Para Vencer (2021)	dub=6:1306553	leg=6:1306554
-Triângulo da Tristeza	dub=2:188574,2:188323,8:188574,8:188323	leg=2:188316,8:188316
+Triângulo da Tristeza	dub=2:188574,8:188574,2:188323,8:188323	leg=2:188316,8:188316
 Triângulo de Natal	dub=2:194472,8:194472	leg=2:194471,8:194471
 Triângulo do Medo	dub=2:195155,8:195155
 Troca De Bebê (2023)	dub=6:1312484
@@ -1405,7 +1405,7 @@ Trocando De Pele (2021)	dub=6:1306876	leg=6:1306877
 Trocando os Pes (2014)	dub=6:1301162
 Trocando os Pés	dub=2:169396,8:383376,8:169396	leg=8:383375
 Trocas Macabras	dub=2:353946,8:353946	leg=2:353945,8:353945
-Troco em Dobro	dub=2:189903,2:40801,8:189903,8:40801
+Troco em Dobro	dub=2:189903,8:189903,2:40801,8:40801
 Troco em Dobro (2020)	dub=6:1305925
 Troféu de Sangue	dub=2:341048,8:341048
 Troia (1961)	dub=6:1298030
@@ -1413,9 +1413,9 @@ Troia (2004)	dub=6:1308680
 Troll: Uma Aventura Mágica	dub=2:336682,8:336682
 Trolls	dub=2:20467,8:20467
 Trolls (2016)	dub=6:1301642
-Trolls 2	dub=2:92565,2:92564,8:92565,8:92564
+Trolls 2	dub=2:92564,8:92564,2:92565,8:92565
 Trolls 2 (2020)	dub=6:1298053
-Trolls 3 - Juntos Novamente	dub=2:231319,2:230892,8:231319,8:230892	leg=2:230881,8:230881
+Trolls 3 - Juntos Novamente	dub=2:231319,8:231319,2:230892,8:230892	leg=2:230881,8:230881
 Trolls 3 Juntos Novamente (2023)	dub=6:1302922	leg=6:1302892
 Trolls World Tour	leg=2:44569,8:44569
 Tromba Trem: O Filme	dub=2:184039,8:184039
@@ -1424,7 +1424,7 @@ Tron - Uma Odisséia Eletrônica	dub=2:67470,8:67470
 Tron Ares (2025)	dub=6:1314205	leg=6:1314103
 Tron O Legado (2010)	dub=6:1303860
 Tron Uma Odisseia Eletronica (1982)	dub=6:1303836
-Tron: Ares	dub=2:360156,2:360048,8:360156,8:360048	leg=2:360047,2:354972,8:360047,8:354972
+Tron: Ares	dub=2:360156,8:360156,2:360048,8:360048	leg=2:360047,2:354972,8:360047,8:354972
 Tron: O Legado	dub=2:189987,8:189987
 Trong lòng đất	leg=2:320572,8:320572
 Trooper Em Busca do Tesouro Dourado (2012)	dub=6:1300558
@@ -1458,7 +1458,7 @@ Truque de Mestre (2013)	dub=6:1301812
 Truque de Mestre 2	dub=2:353017,8:353017	leg=2:353016,8:353016
 Truque de Mestre 2 (2016)	dub=6:1301813
 Truque de Mestre O 3 Ato (2025)	dub=6:1314161	leg=6:1314160
-Truque de Mestre: O 3° Ato	dub=2:358059,2:358058,2:357785,8:358059,8:358058,8:357785	leg=2:357784,8:357784
+Truque de Mestre: O 3° Ato	dub=2:358059,2:358058,8:358059,8:358058,2:357785,8:357785	leg=2:357784,8:357784
 Trust	dub=2:343979,8:343979	leg=2:343978,2:100139,8:343978,8:100139
 Trust (2025)	dub=6:1313822	leg=6:1313821
 Trustor: Por Dentro do Escândalo Financeiro	dub=8:392338,8:391112	leg=8:391056
@@ -1586,15 +1586,15 @@ Tudo Sobre os Levkoviches	dub=2:337221,8:337221	leg=2:337220,8:337220
 Tudo Vai dar Certo (2025)	dub=6:1314013
 Tudo de Novo	dub=2:106854,8:106854
 Tudo de Novo (2020)	dub=6:1308729
-Tudo de Novo, Mais Uma Vez	dub=2:219933,2:192614,8:219933,8:192614	leg=2:192615,8:192615
+Tudo de Novo, Mais Uma Vez	dub=2:219933,8:219933,2:192614,8:192614	leg=2:192615,8:192615
 Tudo de Novo, Mais Uma Vez (2023)	dub=6:1305506	leg=6:1305507
 Tudo e Possivel (2022)	dub=6:1299655
 Tudo e Todas as Coisas	dub=2:21180,8:21180
 Tudo e Todas as Coisas (2017)	dub=6:1310387
 Tudo em Familia (2005)	dub=6:1301396
 Tudo em Familia (2024)	dub=6:1306998
-Tudo em Família	dub=2:270277,2:267106,8:270277,8:267106	leg=2:267107,8:267107
-Tudo em Todo o Lugar ao Mesmo Tempo	dub=2:372411,2:169146,8:372411,8:169146	leg=2:162387,8:162387
+Tudo em Família	dub=2:270277,8:270277,2:267106,8:267106	leg=2:267107,8:267107
+Tudo em Todo o Lugar ao Mesmo Tempo	dub=2:372411,8:372411,2:169146,8:169146	leg=2:162387,8:162387
 Tudo em Todo o Lugar ao Mesmo Tempo (2022)	dub=6:1299806	leg=6:1299420
 Tudo o que Tivemos	dub=2:27545,8:27545
 Tudo o que Tivemos (2018)	dub=6:1307781
@@ -1619,7 +1619,7 @@ Tudo por Jojo (2022)	dub=6:1299617
 Tudo por um Pop Star	dub=2:304587,8:304587
 Tudo por um Pop Star (2018)	dub=6:1301774
 Tudo que Resta de Você	leg=2:362248,8:362248
-Tudo é Possível	dub=2:167510,2:167503,8:167510,8:167503	leg=2:167501,8:167501
+Tudo é Possível	dub=2:167510,8:167510,2:167503,8:167503	leg=2:167501,8:167501
 Tuesday: O Último Abraço	dub=2:286985,8:286985	leg=2:286988,8:286988
 Tuesday: O Último Abraço (2024)	dub=6:1312155	leg=6:1312154
 Tuff Turf: O Rebelde	dub=2:354280,8:354280	leg=2:354279,8:354279
@@ -1634,7 +1634,7 @@ Turbo	dub=2:24319,8:24319
 Turbo (2013)	dub=6:1301655
 Turbo: Power Rangers 2 (1997)	dub=6:1300689
 Turbulencia (2025)	dub=6:1314558
-Turbulência	dub=2:377117,8:396020,8:377117	leg=2:377116,2:375111,8:377116,8:375111
+Turbulência	dub=8:396020,2:377117,8:377117	leg=2:377116,2:375111,8:377116,8:375111
 Turma 94: O Grande Encontro	dub=2:382617,2:35958,8:382617,8:35958	leg=2:382616,8:382616
 Turma 94: O Grande Encontro (2015)	dub=6:1307436
 Turma Reunida no Natal	dub=2:219660,8:219660	leg=2:219659,8:219659
@@ -1649,7 +1649,7 @@ Turning Point: Generation 9/11	dub=8:394951	leg=8:394950
 Turno Maldito	dub=2:263727,8:263727	leg=2:263728,8:263728
 Turno Maldito (2023)	dub=6:1304115
 Turno de 12 horas (2020)	leg=6:1308737
-Turtles All the Way Down	dub=2:259070,2:259069,8:259070,8:259069	leg=2:259071,8:259071
+Turtles All the Way Down	dub=2:259070,8:259070,2:259069,8:259069	leg=2:259071,8:259071
 Tusk: A Transformacao (2014)	dub=6:1303641
 Tutancâmon: A Vida do Faraó	dub=2:345098,8:345098	leg=2:345097,8:345097
 Twin Peaks Os Ultimos Dias de Laura Palmer (1992)	dub=6:1314423	leg=6:1314422
@@ -1661,13 +1661,13 @@ Twisted Sister	dub=2:194194,8:194194
 Twisted Sister (2023)	dub=6:1305498
 Twister	dub=2:311872,2:20269,8:311872,8:20269	leg=2:311873,8:311873
 Twister (1996)	dub=6:1303209
-Twisters	dub=2:281007,2:281006,8:281007,8:281006	leg=2:281008,8:281008
+Twisters	dub=2:281007,8:281007,2:281006,8:281006	leg=2:281008,8:281008
 Twisters (2024)	dub=6:1311845	leg=6:1311841
 Twitches: As Bruxinhas Gêmeas (2005)	dub=6:1313674
 Twitches: As Bruxinhas Gêmeas 2 (2007)	dub=6:1313675
 Tycus - Impacto Mortal	dub=8:393715	leg=8:393714
 Tyson o Mito (1995)	dub=6:1309165
-TÁR	dub=2:192114,2:192086,8:192114,8:192086
+TÁR	dub=2:192086,8:192086,2:192114,8:192114
 Tá Dando Onda 2	dub=2:348817,2:100429,8:348817,8:100429	leg=2:348816,8:348816
 Tá Escrito	dub=2:245499,8:245499
 Tá Rindo de Quê? Humor e Ditadura	dub=2:340142,8:340142

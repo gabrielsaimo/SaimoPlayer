@@ -25,6 +25,10 @@ final class Capas: ObservableObject {
     private static let pontuacaoMinima = 10
 
     @Published private(set) var imagens: [String: NSImage] = [:]
+    /// Ano de lançamento vindo do TMDB. Mais da metade dos títulos do acervo
+    /// chega sem ano nenhum no nome, e é o ano que separa a refilmagem do
+    /// original na hora de escolher o que assistir.
+    @Published private(set) var anos: [String: String] = [:]
     private var procurados: Set<String> = []
     /// Três buscas por vez: rolar a lista depressa não pode virar cinquenta
     /// pedidos de uma vez.
@@ -32,6 +36,11 @@ final class Capas: ObservableObject {
     private var fila: [(String, Bool)] = []
 
     private init() {}
+
+    /// Ano do título, quando o TMDB já respondeu.
+    func ano(para titulo: String, serie: Bool) -> String? {
+        anos[(serie ? "s:" : "f:") + titulo]
+    }
 
     /// Capa do título, se já chegou. Se ainda não, agenda a busca.
     func imagem(para titulo: String, serie: Bool) -> NSImage? {
@@ -58,7 +67,9 @@ final class Capas: ObservableObject {
 
     private func buscar(_ titulo: String, serie: Bool) async {
         let chave = (serie ? "s:" : "f:") + titulo
-        guard let caminho = await Self.melhorPoster(titulo, serie: serie),
+        let achado = await Self.melhorResultado(titulo, serie: serie)
+        if let ano = achado?.ano { anos[chave] = ano }
+        guard let caminho = achado?.poster,
               let url = URL(string: "https://image.tmdb.org/t/p/w500\(caminho)")
         else { return }
 
@@ -155,7 +166,9 @@ final class Capas: ObservableObject {
     /// Tenta o tipo pedido em todas as variantes do nome; sem sorte, tenta o
     /// tipo oposto — um "anime" catalogado como filme às vezes é uma série no
     /// TMDB, e vice-versa.
-    private static func melhorPoster(_ nome: String, serie: Bool) async -> String? {
+    /// O que o TMDB sabe do título: o caminho da capa e o ano de lançamento.
+    private static func melhorResultado(_ nome: String, serie: Bool) async
+        -> (poster: String?, ano: String?)? {
         let ano = extrairAno(nome)
         let variantes = variantesDeBusca(nome)
 
@@ -184,10 +197,10 @@ final class Capas: ObservableObject {
             }
         }
 
-        guard melhorPontos >= pontuacaoMinima, let vencedor = melhor,
-              let caminho = vencedor.posterPath, !caminho.isEmpty
-        else { return nil }
-        return caminho
+        guard melhorPontos >= pontuacaoMinima, let vencedor = melhor else { return nil }
+        let caminho = (vencedor.posterPath?.isEmpty == false) ? vencedor.posterPath : nil
+        let lancamento = (vencedor.data?.count ?? 0) >= 4 ? String(vencedor.data!.prefix(4)) : nil
+        return (caminho, lancamento)
     }
 
     // MARK: - Limpeza de título

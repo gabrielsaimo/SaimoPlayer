@@ -83,7 +83,7 @@ Salomão e a Rainha de Sabá (1959)	dub=6:1307422
 Salomé (1953)	dub=6:1307616
 Salt	dub=2:79224,8:79224
 Salt (2010)	dub=6:1298920
-Saltburn	dub=2:235128,2:235126,8:235128,8:235126	leg=2:235129,8:235129
+Saltburn	dub=2:235126,8:235126,2:235128,8:235128	leg=2:235129,8:235129
 Saltburn (2023)	dub=6:1303033	leg=6:1303032
 Salvador - O Martírio de um Povo	dub=2:119724,8:119724
 Salvador - O Martírio de um Povo (1986)	dub=6:1310789
@@ -95,7 +95,7 @@ Salvação	dub=2:363706,8:363706	leg=2:363705,8:363705
 Salve Geral	dub=2:111453,8:111453
 Salve Geral (2009)	dub=6:1307455
 Salve Geral Irmandade (2026)	dub=6:1314296
-Salve Geral: Irmandade	dub=2:366335,8:391627,8:366335
+Salve Geral: Irmandade	dub=8:391627,2:366335,8:366335
 Salve o Prazer!	dub=8:388706
 Salve-Me (1992)	dub=6:1307076
 Salve-Se Quem Puder!	dub=2:173310,8:173310	leg=2:173303,8:173303
@@ -108,7 +108,7 @@ Salyut 7 - Missao Espacial (2017)	dub=6:1297461
 Salyut 7: Missão Espacial	dub=2:33410,8:33410
 Sam & Kate	dub=2:200739,8:200739	leg=2:200738,8:200738
 Sam e Kate (2022)	dub=6:1302765
-Samaritano	dub=2:169734,2:169688,8:169734,8:169688	leg=2:169690,8:169690
+Samaritano	dub=2:169688,8:169688,2:169734,8:169734	leg=2:169690,8:169690
 Samaritano (2022)	dub=6:1299996	leg=6:1299997
 Samia - Correndo Atrás de um Sonho	dub=2:376726,8:376726	leg=2:376725,8:376725
 Sammy: A Grande Fuga	dub=2:323753,8:323753
@@ -187,18 +187,18 @@ Saudade (2024)	dub=6:1312068	leg=6:1312067
 Saudade Fez Morada Aqui Dentro	dub=2:293218,8:293218
 Saudades Te Amo (2026)	dub=6:1502791
 Saudades te Amo	dub=8:394463	leg=8:394462
-Saudosa Maloca	dub=2:264357,8:386111,8:264357
+Saudosa Maloca	dub=8:386111,2:264357,8:264357
 Saudosa Maloca (2024)	dub=6:1304162
 Saulo: A viagem para Damasco (2014)	dub=6:1313074
 Savage State	leg=2:94162,8:94162
 Save the Cinema	dub=2:180304,8:180304	leg=2:180325,8:180325
 Save the Cinema (2022)	dub=6:1306506	leg=6:1306507
 Saving Onome	leg=2:314600,8:314600
-Sayen	dub=2:368124,2:188566,8:368124,8:188566	leg=2:188565,8:188565
+Sayen	dub=2:368124,8:368124,2:188566,8:188566	leg=2:188565,8:188565
 Sayen (2023)	dub=6:1301001
 Sayen: A Caçadora	dub=2:258023,8:258023	leg=2:258024,8:258024
 Sayen: A Caçadora (2024)	dub=6:1303575
-Sayen: A Rota Seca	dub=2:221924,2:221624,8:221924,8:221624	leg=2:221623,8:221623
+Sayen: A Rota Seca	dub=2:221924,8:221924,2:221624,8:221624	leg=2:221623,8:221623
 Sayen: A Rota Seca (2023)	dub=6:1311383	leg=6:1311384
 Sayonara, Girls	leg=8:395101
 Saída Proibida	dub=2:195629,2:25111,8:195629,8:25111	leg=2:195628,8:195628
@@ -326,7 +326,7 @@ Se Nao Fosse Voce (2025)	dub=6:1314078	leg=6:1314077
 Se Não Fosse Você	dub=2:354026,8:354026	leg=2:354025,8:354025
 Se Não Me Mato, Morro!	dub=2:95921,8:95921
 Se Não Me Mato, Morro! (1978)	dub=6:1307532
-Se Organizar Direitinho…	dub=2:192118,2:141514,8:192118,8:141514	leg=2:141555,8:141555
+Se Organizar Direitinho…	dub=2:192118,8:192118,2:141514,8:141514	leg=2:141555,8:141555
 Se Organizar Direitinho… (2021)	dub=6:1304756	leg=6:1304757
 Se Você Tivesse Falado...	dub=2:354965,8:354965	leg=2:354964,8:354964
 Se a Rua Beale Falasse	dub=2:329630,2:31433,8:329630,8:31433	leg=2:329629,8:329629
@@ -548,7 +548,7 @@ Sem Rastros (2018)	dub=6:1297724
 Sem Rastros (2020)	dub=2:104512,6:1308837,8:104512	leg=6:1308838
 Sem Refúgio	dub=2:294173,8:294173	leg=2:294174,8:294174
 Sem Refúgio (2024)	dub=6:1312392	leg=6:1312391
-Sem Remorso	dub=2:104359,2:104142,8:104359,8:104142
+Sem Remorso	dub=2:104359,8:104359,2:104142,8:104142
 Sem Remorso (2021)	dub=6:1298404
 Sem Reservas	dub=2:378708,2:120664,8:378708,8:120664	leg=2:378707,8:378707
 Sem Reservas (2007)	dub=6:1303620
@@ -557,7 +557,7 @@ Sem Retorno (2015)	dub=6:1305044
 Sem Retorno (2020)	dub=6:1303536
 Sem Retrato e Sem Bilhete	dub=2:345507,8:345507
 Sem Saida (2011)	dub=6:1300740
-Sem Saída	dub=2:349697,2:345132,2:266038,2:155476,8:349697,8:345132,8:266038,8:155476	leg=2:349696,2:345131,2:150710,8:349696,8:345131,8:150710
+Sem Saída	dub=2:155476,8:155476,2:349697,2:345132,2:266038,8:349697,8:345132,8:266038	leg=2:349696,2:345131,2:150710,8:349696,8:345131,8:150710
 Sem Saída (1987)	dub=2:133103,6:1304234,8:133103
 Sem Saída (2008)	dub=6:1309783
 Sem Saída (2022)	dub=2:150713,6:1299367,8:150713
@@ -611,7 +611,7 @@ Separados Pelo Casamento	dub=2:21587,8:21587
 Separados Pelo Casamento (2006)	dub=6:1311682
 Separados Pelo Destino	dub=2:25113,8:25113
 Separados Pelo Destino (2010)	dub=6:1307754
-Separados pelas Estrelas	dub=2:324559,2:324458,8:324559,8:324458	leg=2:324457,8:324457
+Separados pelas Estrelas	dub=2:324559,8:324559,2:324458,8:324458	leg=2:324457,8:324457
 Separados pelas Estrelas (2025)	dub=6:1313549
 Separation	dub=2:145233,8:145233	leg=2:145232,8:145232
 Separação e Reencontro (2017)	dub=6:1307778
@@ -644,7 +644,7 @@ Sequestro na Ilha (2016)	dub=6:1310089
 Sequestro no Espaco (2012)	dub=6:1300053
 Sequestro no Espaço	dub=2:227413,8:227413
 Sequestro por Engano (1996)	dub=6:1298733
-Sequestro: Elizabeth Smart	dub=2:365859,2:363457,8:365859,8:363457	leg=2:363456,8:363456
+Sequestro: Elizabeth Smart	dub=2:365859,8:365859,2:363457,8:363457	leg=2:363456,8:363456
 Sequestro: Inocência Roubada	dub=2:169645,8:169645	leg=2:169700,8:169700
 Sequestro: Inocência Roubada (2021)	dub=6:1303688
 Sequestros Em Cleveland	dub=2:120654,8:120654
@@ -708,7 +708,7 @@ Setembro 5 (2024)	dub=6:1313180	leg=6:1313035
 Setembro Em Shiraz	dub=2:30603,8:30603
 Setembro em Shiraz (2015)	dub=6:1307521
 Setenta	dub=2:319015,8:319015
-Setor 36	dub=2:286494,2:285817,8:286494,8:285817	leg=2:285818,8:285818
+Setor 36	dub=2:286494,8:286494,2:285817,8:285817	leg=2:285818,8:285818
 Seu Filho	dub=2:22086,8:22086
 Seu Filho (2018)	dub=6:1308173
 Seu Nome	dub=2:117387,8:117387
@@ -786,7 +786,7 @@ Sexy e Marginal	dub=2:64431,8:64431
 Sexy e Marginal (1972)	dub=6:1307309
 Sexy por Acidente	dub=2:349060,2:20818,8:349060,8:20818	leg=2:349059,8:349059
 Sexy por Acidente (2018)	dub=6:1297763
-Seymour Hersh: Em Busca da Verdade	dub=2:359049,8:389245,8:359049	leg=2:359048,8:359048
+Seymour Hersh: Em Busca da Verdade	dub=8:389245,2:359049,8:359049	leg=2:359048,8:359048
 Seção 60: Cemitério de Arlington	dub=2:345506,8:345506	leg=2:345505,8:345505
 Shade - Nos Bastidores do Jogo	dub=2:309901,8:309901	leg=2:309902,8:309902
 Shade - Nos Bastidores do Jogo (2003)	dub=6:1312885
@@ -798,7 +798,7 @@ Shadow In The Cloud	leg=2:91457,8:91457
 Shaft	dub=2:370357,2:345134,8:370357,8:345134	leg=2:345133,8:345133
 Shaft (2000)	dub=6:1297212
 Shaft (2019)	dub=6:1297201
-Shaitaan	dub=2:380679,8:394750,8:380679	leg=2:380678,8:380678
+Shaitaan	dub=8:394750,2:380679,8:380679	leg=2:380678,8:380678
 Shaitaan (2024)	dub=6:1303613
 Shake, Rattle & Roll Evil Origins	dub=8:389320	leg=8:389319
 Shakespeare Apaixonado	dub=2:210677,8:210677
@@ -806,7 +806,7 @@ Shakespeare Apaixonado (1998)	dub=6:1299953
 Shame (2011)	dub=6:1312583	leg=6:1312582
 Shampoo (1975)	dub=6:1310154	leg=6:1310155
 Shang Chi e a Lenda dos Dez Anéis (2021)	dub=6:1313284	leg=6:1313283
-Shang-Chi e a Lenda dos Dez Anéis	dub=2:138084,2:138039,8:138084,8:138039	leg=2:138040,8:138040
+Shang-Chi e a Lenda dos Dez Anéis	dub=2:138084,8:138084,2:138039,8:138039	leg=2:138040,8:138040
 Shaolin	dub=2:97211,8:97211
 Shaolin (2011)	dub=6:1308255
 Shark Below Zero	dub=2:207378,8:207378
@@ -819,7 +819,7 @@ Sharknado 5: Voracidade Global (2017)	dub=6:1300402
 Sharks vs. Dolphins: Bahamas Battleground	dub=2:200873,8:200873
 Sharks vs. Dolphins: Bahamas Battleground (2023)	dub=6:1305533
 Sharper: Uma Vida de Trapacas (2023)	dub=6:1300988	leg=6:1300987
-Sharper: Uma Vida de Trapaças	dub=2:190629,2:187571,8:190629,8:187571	leg=2:187572,8:187572
+Sharper: Uma Vida de Trapaças	dub=2:190629,8:190629,2:187571,8:187571	leg=2:187572,8:187572
 Shaun the Sheep: The Flight Before Christmas	dub=2:142056,8:142056
 Shaun, o Carneiro - O Filme: A Fazenda Contra-Ataca	dub=2:363915,8:363915
 Shaun, o Carneiro: Aventura de Natal (2021)	dub=6:1304781
@@ -830,9 +830,9 @@ Shayda	dub=2:259343,8:259343	leg=2:259344,8:259344
 Shayda (2023)	dub=6:1303610
 Shazam 2! Fúria dos Deuses (2023)	dub=6:1313318	leg=6:1313317
 Shazam Legendado	dub=2:24949,8:24949
-Shazam!	dub=2:100004,2:25477,8:100004,8:25477
+Shazam!	dub=2:25477,8:25477,2:100004,8:100004
 Shazam! (2019)	dub=6:1313296	leg=6:1313295
-Shazam! Fúria dos Deuses	dub=2:191444,2:191150,8:191444,8:191150	leg=2:191149,8:191149
+Shazam! Fúria dos Deuses	dub=2:191444,8:191444,2:191150,8:191150	leg=2:191149,8:191149
 She Rides Shotgun	leg=2:341433,8:341433
 She Taught Love (2024)	leg=6:1312214
 She's a Good Skate, Charlie Brown	dub=2:324015,8:324015	leg=2:324014,8:324014
@@ -896,7 +896,7 @@ Sicario 2 - Dia do Soldado	dub=2:20234,8:20234
 Sicario: Dia do Soldado (2018)	dub=6:1300063
 Sicario: Terra de Ninguem (2015)	dub=6:1300124
 Sicario: Terra de Ninguém	dub=2:348081,2:20235,8:348081,8:20235	leg=2:348080,8:348080
-Sick	dub=2:193431,2:193429,8:193431,8:193429	leg=2:193430,8:193430
+Sick	dub=2:193429,8:193429,2:193431,8:193431	leg=2:193430,8:193430
 Sicário: Dia do Soldado	dub=8:395719,8:390210	leg=8:390209
 Sideral	dub=2:194870,8:194870
 Sideral (2021)	dub=6:1306657
@@ -906,11 +906,11 @@ Siembamba A Cancao do Mal	dub=2:24399,8:24399
 Siembamba: A Canção do Mal (2018)	dub=6:1307903
 Sierra Burgess e uma Loser	dub=2:20820,8:20820
 Sierra Burgess é uma Loser (2018)	dub=6:1310491
-Siga Minha Voz	dub=2:359668,2:359303,8:359668,8:359303	leg=2:359302,8:359302
+Siga Minha Voz	dub=2:359668,8:359668,2:359303,8:359303	leg=2:359302,8:359302
 Siga Pela 10	dub=8:395721	leg=8:395720
 Siga Seu Coração	dub=2:196785,2:129545,8:196785,8:129545	leg=2:196784,8:196784
 Siga Seu Coração (2020)	dub=6:1304638
-Sight	dub=2:285163,2:285154,8:285163,8:285154	leg=2:285155,8:285155
+Sight	dub=2:285163,8:285163,2:285154,8:285154	leg=2:285155,8:285155
 Sight (2024)	dub=6:1312065	leg=6:1312064
 Signal One	leg=2:381805,8:381805
 Signed, Sealed, Delivered: A Tale of Three Letters	leg=2:277885,8:277885
@@ -927,7 +927,7 @@ Silk Road - Mercado Clandestino (2021)	dub=6:1308391
 Silk Road Mercado Clandestino	dub=2:101356,8:101356
 Silver - A Lenda do Cavalo Prateado (1993)	dub=6:1310433
 Silver Dollar Road (2023)	leg=6:1313204
-Silver e o Livro dos Sonhos	dub=2:231357,2:231312,8:231357,8:231312	leg=2:231318,8:231318
+Silver e o Livro dos Sonhos	dub=2:231357,8:231357,2:231312,8:231312	leg=2:231318,8:231318
 Silver e o Livro dos Sonhos (2023)	dub=6:1302928
 Silverado	dub=2:339947,2:133771,8:339947,8:133771	leg=2:339946,8:339946
 Silverado (1985)	dub=6:1302410
@@ -935,9 +935,9 @@ Silverstar - Uma História de Amizade	dub=2:186783,8:186783	leg=2:186784,8:18678
 Silverstar - Uma História de Amizade (2021)	dub=6:1306822	leg=6:1306823
 Silverton: Cerco Fechado	dub=2:159293,8:159293	leg=2:159297,8:159297
 Silverton: Cerco Fechado (2022)	dub=6:1299369
-Silvio	dub=2:359304,2:292313,8:359304,8:292313
+Silvio	dub=2:359304,8:359304,2:292313,8:292313
 Silvio (2024)	dub=6:1312360
-Silvio Santos Vem Aí!	dub=2:363614,8:392546,8:363614
+Silvio Santos Vem Aí!	dub=8:392546,2:363614,8:363614
 Silêncio	dub=2:382489,2:157936,8:382489,8:157936	leg=2:382488,8:382488
 Sim Eu Aceito	dub=2:22088,8:22088
 Sim Senhor	dub=2:20821,8:383367,8:20821	leg=8:383366
@@ -983,14 +983,14 @@ Sindrome de Estocolmo	dub=2:48273,8:48273
 Sinfonia da Necrópole	dub=2:69907,8:69907
 Sinfonia da Necrópole (2014)	dub=6:1307397
 Sinfonia da Sobrevivência	dub=2:369214,8:369214
-Sinfonia de Guerra	dub=2:365035,2:364797,8:365035,8:364797	leg=2:364796,8:364796
+Sinfonia de Guerra	dub=2:365035,8:365035,2:364797,8:364797	leg=2:364796,8:364796
 Sinfonia de Guerra (2025)	dub=6:1314278	leg=6:1314277
 Sing - Quem Canta Seus Males Espanta	dub=2:20449,8:20449
 Sing - Quem Canta Seus Males Espanta (2016)	dub=6:1298251
 Sing 2	dub=2:150717,8:150717	leg=2:150702,8:150702
 Sing 2 (2021)	dub=6:1299299
 Sing Geetham	leg=8:389875
-Sing Sing	dub=2:317476,2:317311,8:317476,8:317311	leg=2:317312,2:315752,8:317312,8:315752
+Sing Sing	dub=2:317476,8:317476,2:317311,8:317311	leg=2:317312,2:315752,8:317312,8:315752
 Sing Street: Música e Sonho (2016)	dub=6:1313842
 Sing: Thriller	dub=2:292279,8:292279	leg=2:292280,2:291263,8:292280,8:291263
 Sing: Thriller (2024)	dub=6:1312345	leg=6:1312295
@@ -1000,7 +1000,7 @@ Sinhá Moça	dub=2:380593,8:380593
 Sinister Seduction	leg=2:68463,8:68463
 Sinistro - A Maldição do Lobisomem	dub=2:311866,8:311866	leg=2:311867,8:311867
 Sinistro - A Maldição do Lobisomem (2013)	dub=6:1312423
-Sinta a Minha Voz	dub=2:373788,2:373787,2:372413,8:373788,8:373787,8:372413	leg=2:372412,8:372412
+Sinta a Minha Voz	dub=2:373788,2:373787,8:373788,8:373787,2:372413,8:372413	leg=2:372412,8:372412
 Sinta a Minha Voz (2026)	dub=6:1314501
 Sintonia de Amor	dub=2:20823,8:386287,8:20823	leg=8:386286
 Sintonia de Amor (1993)	dub=6:1311408
@@ -1016,10 +1016,10 @@ Sira (2023)	dub=6:1304954	leg=6:1304955
 Sirāt	dub=2:376285,8:376285	leg=2:376284,2:361813,8:376284,8:361813
 Sistema Bruto	dub=2:374316,2:233499,8:374316,8:233499
 Sistema Bruto (2022)	dub=6:1302994
-Sisu	dub=2:202574,2:202245,8:202574,8:202245	leg=2:196328,8:196328
+Sisu	dub=2:202574,8:202574,2:202245,8:202245	leg=2:196328,8:196328
 Sisu (2022)	dub=6:1301589	leg=6:1301583
 Sisu Estrada da Vinganca (2025)	dub=6:1314159	leg=6:1314158
-Sisu: Estrada da Vingança	dub=2:358069,2:357789,8:358069,8:357789	leg=2:357788,8:357788
+Sisu: Estrada da Vingança	dub=2:358069,8:358069,2:357789,8:357789	leg=2:357788,8:357788
 Sitting in Limbo	dub=2:376812,8:376812	leg=2:376811,8:376811
 Skin: À Flor da Pele	leg=2:30556,8:30556
 Skin: À Flor da Pele (2019)	leg=6:1308213
@@ -1068,9 +1068,9 @@ Smiley Face: Louca de Dar Nó	dub=2:348167,8:348167	leg=2:348166,8:348166
 Smoking Tigers	leg=2:282118,8:282118
 Smoking Tigers (2024)	leg=6:1311938
 Smuggling In Suburbia	leg=2:68464,8:68464
-Smurfs	dub=2:341047,2:340982,8:341047,8:340982	leg=2:340981,8:340981
+Smurfs	dub=2:341047,8:341047,2:340982,8:340982	leg=2:340981,8:340981
 Smurfs (2025)	dub=6:1313762	leg=6:1313761
-Snag	dub=2:221927,2:221925,8:221927,8:221925	leg=2:221928,8:221928
+Snag	dub=2:221927,8:221927,2:221925,8:221925	leg=2:221928,8:221928
 Snag (2023)	dub=6:1302757
 Snatch Porcos E Diamantes	dub=2:97212,8:386828,8:97212	leg=8:386827
 Snatch: Porcos e Diamantes (2000)	dub=6:1297072
@@ -1088,15 +1088,15 @@ Snoopy & Charlie Brown: Peanuts, o Filme	dub=2:155521,8:155521
 Snoopy & Charlie Brown: Peanuts, o Filme (2015)	dub=6:1305620
 Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy	dub=8:391593,8:389756	leg=8:389755
 Snoopy Apresenta A Escola da Lucy (2022)	dub=6:1314499
-Snoopy Apresenta: A Escola da Lucy	dub=2:227015,2:227014,8:227015,8:227014	leg=2:227008,8:227008
-Snoopy Apresenta: A Inigualável Marcie	dub=2:210385,2:210202,8:210385,8:210202	leg=2:210201,8:210201
+Snoopy Apresenta: A Escola da Lucy	dub=2:227014,8:227014,2:227015,8:227015	leg=2:227008,8:227008
+Snoopy Apresenta: A Inigualável Marcie	dub=2:210385,8:210385,2:210202,8:210202	leg=2:210201,8:210201
 Snoopy Apresenta: A Inigualável Marcie (2023)	dub=6:1309503	leg=6:1309504
 Snoopy Apresenta: Feliz Ano Novo Lucy! (2021)	dub=6:1299067
 Snoopy Apresenta: Feliz Ano Novo, Lucy!	dub=2:142970,8:142970	leg=2:142966,8:142966
 Snoopy Apresenta: Para Mamãe Com Amor	dub=2:159815,8:159815	leg=2:159813,8:159813
-Snoopy Apresenta: Seja Bem-vindo, Franklin!	dub=2:365297,2:247953,8:365297,8:247953	leg=2:247954,8:247954
+Snoopy Apresenta: Seja Bem-vindo, Franklin!	dub=2:365297,8:365297,2:247953,8:247953	leg=2:247954,8:247954
 Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)	dub=6:1309505	leg=6:1309506
-Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	dub=2:193289,2:193288,8:193289,8:193288	leg=2:193287,8:193287
+Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown	dub=2:193288,8:193288,2:193289,8:193289	leg=2:193287,8:193287
 Snoopy Apresenta: Um Musical de Verão	dub=2:339769,8:339769	leg=2:339768,8:339768
 Snoopy apresenta: para mamãe com amor (2022)	dub=6:1306905	leg=6:1306906
 Snoopy apresenta: são as pequenas coisas, Charlie Brown (2022)	dub=6:1306903	leg=6:1306904
@@ -1140,7 +1140,7 @@ Sob as Escadas de Paris	dub=2:140499,8:140499	leg=2:140501,8:140501
 Sob as Escadas de Paris (2021)	dub=6:1301058
 Sob as Estrelas	dub=2:290758,8:290758	leg=2:354182,2:290759,8:354182,8:290759
 Sob as Estrelas (2023)	dub=6:1312292
-Sob as Águas do Sena	dub=2:265551,2:264360,8:265551,8:264360	leg=2:264361,8:264361
+Sob as Águas do Sena	dub=2:265551,8:265551,2:264360,8:264360	leg=2:264361,8:264361
 Sob o Código da Honra	dub=8:384490	leg=8:384491
 Sob o Código da Honra (2025)	dub=6:1500817
 Sob o Dominio do Mal (2022)	dub=6:1302634
@@ -1179,9 +1179,9 @@ Sobrenatural (2011)	dub=6:1298062,6:1310537	leg=6:1310538
 Sobrenatural A Porta Vermelha (2023)	dub=6:1301748	leg=6:1301718
 Sobrenatural: A Origem	dub=2:208856,8:208856
 Sobrenatural: A Origem (2015)	dub=6:1298063,6:1310101	leg=6:1310102
-Sobrenatural: A Porta Vermelha	dub=2:208215,2:207376,8:208215,8:207376	leg=2:207375,8:207375
+Sobrenatural: A Porta Vermelha	dub=2:208215,8:208215,2:207376,8:207376	leg=2:207375,8:207375
 Sobrenatural: A Ultima Chave (2018)	dub=6:1298061,6:1310355	leg=6:1310356
-Sobrenatural: A Última Chave	dub=2:194535,2:21854,8:194535,8:21854
+Sobrenatural: A Última Chave	dub=2:194535,8:194535,2:21854,8:21854
 Sobrenatural: Capitulo 2 (2013)	dub=6:1298186,6:1311529	leg=6:1311530
 Sobrenatural: Capítulo 2	dub=2:122902,8:122902
 Sobreviva a Noite	dub=2:31909,8:31909
@@ -1193,7 +1193,7 @@ Sobrevivendo Com Lobos	dub=2:377254,8:377254	leg=2:377253,8:377253
 Sobrevivendo ao Jogo	dub=2:133972,8:133972	leg=2:133969,8:133969
 Sobrevivendo ao Meu Pai	dub=2:22559,8:22559
 Sobrevivendo ao Meu Pai (2018)	dub=6:1297764
-Sobrevivendo ao Paraíso: Contos de Famílias	dub=2:340983,2:151945,8:340983,8:151945	leg=2:151946,8:151946
+Sobrevivendo ao Paraíso: Contos de Famílias	dub=2:340983,8:340983,2:151945,8:151945	leg=2:151946,8:151946
 Sobrevivendo ao Paraíso: Contos de Famílias (2022)	dub=6:1306874	leg=6:1306875
 Sobrevivendo as Festas com os Parentes (2018)	dub=6:1297479
 Sobrevivendo na América	dub=2:369216,8:369216	leg=2:369215,8:369215
@@ -1208,7 +1208,7 @@ Sobreviver a Noite (2020)	dub=6:1298559
 Sobreviver à Noite	dub=2:46164,8:46164
 Sobrou Pra Você	dub=2:67503,8:67503
 Sobrou Pra Você (2000)	dub=6:1301289
-Sociedade Secreta dos Segundos Filhos Reais	dub=2:358159,2:75659,8:358159,8:75659
+Sociedade Secreta dos Segundos Filhos Reais	dub=2:358159,8:358159,2:75659,8:75659
 Sociedade Secreta dos Segundos Filhos Reais (2020)	dub=6:1297979
 Sociedade da Justica: 2ª Guerra Mundial (2021)	dub=6:1298399
 Sociedade da Justiça: 2ª Guerra Mundial	dub=2:104143,8:104143
@@ -1219,7 +1219,7 @@ Sociedade dos Poetas Mortos (1989)	dub=6:1301427
 Sociedade dos Talentos Mortos	leg=2:317073,8:317073
 Socorro (2026)	dub=6:1314562	leg=6:1314561
 Socorro Nobre	dub=2:366118,8:366118
-Socorro!	dub=2:377215,2:377108,8:377215,8:377108	leg=2:377107,2:371181,8:377107,8:371181
+Socorro!	dub=2:377215,8:377215,2:377108,8:377108	leg=2:377107,2:371181,8:377107,8:371181
 Socorro, Virei uma Garota!	dub=2:332694,2:30624,8:332694,8:30624
 Socorro, Virei uma Garota! (2019)	dub=6:1297955
 Socrates	dub=2:31434,8:31434
@@ -1249,7 +1249,7 @@ Soldado Universal 4 (2012)	dub=6:1298739
 Soldado Universal 4: Juízo Final	dub=2:125879,8:392806,8:125879
 Soldado Universal: O Retorno	dub=2:125877,8:125877
 Soldado Universal: O Retorno (1999)	dub=6:1298737
-Soldado de Chumbo	dub=2:363621,2:363505,8:363621,8:363505	leg=2:363504,8:363504
+Soldado de Chumbo	dub=2:363621,8:363621,2:363505,8:363505	leg=2:363504,8:363504
 Soldado de Chumbo (2025)	dub=6:1314248
 Soldado do Futuro (2013)	dub=6:1299791
 Soldado em Fúria	dub=2:369218,8:369218	leg=2:369217,8:369217
@@ -1275,7 +1275,7 @@ Som Brasil Especial Gal Costa	dub=2:179809,8:179809
 Som Brasil: Sandy 40 Anos	dub=2:215048,8:215048
 Som da Esperança: A História de Possum Trot	dub=2:285819,8:285819	leg=2:285820,8:285820
 Som da Esperança: A História de Possum Trot (2024)	dub=6:1312092	leg=6:1312070
-Som da Liberdade	dub=2:237188,2:224751,8:237188,8:224751	leg=2:219158,6:1302566,8:219158
+Som da Liberdade	dub=2:237188,8:237188,2:224751,8:224751	leg=2:219158,6:1302566,8:219158
 Som da Liberdade (2023)	dub=6:1302749
 Sombra	dub=2:164212,8:164212
 Sombra (2021)	dub=6:1306314
@@ -1290,7 +1290,7 @@ Sombras da Noite	dub=2:110258,8:393708,8:110258	leg=8:393707
 Sombras da Noite (2012)	dub=6:1302715
 Sombras da Vida	dub=2:317060,8:317060	leg=2:317061,8:317061
 Sombras de Goya	dub=2:321282,8:321282
-Sombras de um Crime	dub=2:336963,2:194880,2:194855,8:336963,8:194880,8:194855	leg=2:336962,2:194854,8:336962,8:194854
+Sombras de um Crime	dub=2:194880,8:194880,2:336963,2:194855,8:336963,8:194855	leg=2:336962,2:194854,8:336962,8:194854
 Sombras de um Crime (2023)	dub=6:1306668	leg=6:1306669
 Sombras de um Desejo	dub=2:31435,8:31435
 Sombras de um Desejo (2009)	dub=6:1307480
@@ -1344,16 +1344,16 @@ Sonhos Roubados (2009)	dub=6:1301296
 Sonhos S.A.	dub=2:102565,8:102565
 Sonhos S.A. (2020)	dub=6:1298395
 Sonhos como Barcos de Papel	leg=8:394993
-Sonhos de Trem	dub=2:370928,2:353776,8:370928,8:353776	leg=2:370927,8:370927
+Sonhos de Trem	dub=2:353776,8:353776,2:370928,8:370928	leg=2:370927,8:370927
 Sonhos de Trem (2025)	dub=6:1314051
 Sonhos de Uma Vida (2020)	dub=6:1308333
 Sonhos e Desejos	dub=2:383014,8:383014
 Sonic 2 O Filme (2022)	dub=6:1299406
-Sonic 2: O Filme	dub=2:160605,2:160440,8:160605,8:160440	leg=2:160420,8:160420
-Sonic 3 - O Filme	dub=2:306849,2:306702,8:306849,8:306702	leg=2:305586,8:305586
+Sonic 2: O Filme	dub=2:160605,8:160605,2:160440,8:160440	leg=2:160420,8:160420
+Sonic 3 - O Filme	dub=2:306849,8:306849,2:306702,8:306702	leg=2:305586,8:305586
 Sonic 3: O Filme (2024)	dub=6:1312971	leg=6:1312956
 Sonic The Hedgehog	leg=2:40853,8:40853
-Sonic: O Filme	dub=2:319016,2:44209,2:44188,8:319016,8:44209,8:44188	leg=2:319017,8:319017
+Sonic: O Filme	dub=2:44209,8:44209,2:319016,2:44188,8:319016,8:44188	leg=2:319017,8:319017
 Sonic: O Filme (2020)	dub=6:1297728
 Soninha Toda Pura	dub=8:384250
 Sonny, o Amante	dub=2:365286,8:365286	leg=2:365285,8:365285
@@ -1371,12 +1371,12 @@ Soror	dub=2:202599,8:202599
 Soror (2021)	dub=6:1306611
 Sorria	dub=2:180326,8:180326	leg=2:180339,8:180339
 Sorria (2022)	dub=6:1300442	leg=6:1300443
-Sorria 2	dub=2:295729,2:295728,8:295729,8:295728	leg=2:295730,8:295730
+Sorria 2	dub=2:295729,8:295729,2:295728,8:295728	leg=2:295730,8:295730
 Sorria 2 (2024)	dub=6:1312436	leg=6:1312435
 Sorria, Você Está Sendo Filmado	dub=2:312327,8:312327
 Sorry Baby (2025)	leg=6:1313733
 Sorry, Baby	leg=2:365871,2:347189,8:365871,8:347189
-Sorte	dub=2:169737,2:169164,8:169737,8:169164	leg=2:169163,8:169163
+Sorte	dub=2:169737,8:169737,2:169164,8:169164	leg=2:169163,8:169163
 Sorte de Quem?	dub=2:155482,8:155482	leg=2:155490,8:155490
 Sorte de Quem? (2022)	dub=6:1299336
 Sorte no Amor	dub=2:133072,8:133072
@@ -1396,9 +1396,9 @@ Soul Surfer: Coragem de Viver	dub=2:275424,8:275424
 Soul Surfer: Coragem de Viver (2011)	dub=6:1300607
 Sour Grapes	leg=2:322837,8:322837
 South Park (Nao Recomendado Para Menores) (2023)	dub=6:1303007
-South Park (Não Recomendado Para Menores)	dub=2:235123,2:235122,8:235123,8:235122	leg=2:235124,8:235124
+South Park (Não Recomendado Para Menores)	dub=2:235123,8:235123,2:235122,8:235122	leg=2:235124,8:235124
 South Park Entrando no Panderverso (2023)	dub=6:1302759
-South Park: Entrando no Panderverso	dub=2:224962,2:224961,8:224962,8:224961	leg=2:224963,8:224963
+South Park: Entrando no Panderverso	dub=2:224962,8:224962,2:224961,8:224961	leg=2:224963,8:224963
 South Park: Guerras do Streaming	dub=2:161516,8:161516	leg=2:161511,8:161511
 South Park: Guerras do Streaming (2022)	dub=6:1299644
 South Park: Guerras do Streaming Parte 2	dub=2:165670,8:165670	leg=2:165665,8:165665
@@ -1432,7 +1432,7 @@ Space Chimps - Micos no Espaço	dub=2:382434,2:119722,8:382434,8:119722	leg=2:38
 Space Chimps - Micos no Espaço (2008)	dub=6:1309644
 Space Jam: O Jogo do Seculo (1996)	dub=6:1298412
 Space Jam: O Jogo do Século	dub=2:370930,2:20451,8:370930,8:20451	leg=2:370929,8:370929
-Space Jam: Um Novo Legado	dub=2:114392,2:113008,8:114392,8:113008
+Space Jam: Um Novo Legado	dub=2:114392,8:114392,2:113008,8:113008
 Space Jam: Um Novo Legado (2021)	dub=6:1298597
 Space Wars: Em Busca da Deepstar	dub=2:307317,8:307317	leg=2:307318,8:307318
 Spark - Uma Aventura Espacial (2016)	dub=6:1310177
@@ -1491,7 +1491,7 @@ Spree (2020)	dub=6:1299398
 Spring Breakers: Garotas Perigosas	dub=2:368257,2:108302,8:368257,8:108302	leg=2:368256,8:368256
 Spring Breakers: Garotas Perigosas (2013)	dub=6:1307123
 Springsteen Salve-me do Desconhecido (2025)	dub=6:1314254
-Springsteen: Salve-me do Desconhecido	dub=2:363707,2:363615,8:363707,8:363615	leg=2:362829,8:362829
+Springsteen: Salve-me do Desconhecido	dub=2:363707,8:363707,2:363615,8:363615	leg=2:362829,8:362829
 Sputnik	leg=2:63090,8:63090
 Spycies: Agentes Selvagens	dub=2:89300,8:89300
 Squad 36	dub=2:313383,8:313383	leg=2:313384,8:313384
@@ -1509,7 +1509,7 @@ Sr. Ninguém	dub=2:362619,2:313114,8:362619,8:313114	leg=2:362618,8:362618
 Sr. Sherlock Holmes (2015)	dub=6:1310103	leg=6:1310104
 Sr. Turner (2014)	dub=6:1307334,6:1310034	leg=6:1310035
 Sra Harris Vai a Paris (2022)	dub=6:1301735
-Sra. Harris Vai a Paris	dub=2:184077,2:184021,8:184077,8:184021	leg=2:184034,8:184034
+Sra. Harris Vai a Paris	dub=2:184077,8:184077,2:184021,8:184021	leg=2:184034,8:184034
 Sri Asih	dub=2:249711,2:194188,8:249711,8:194188	leg=2:249712,8:249712
 Sri Asih (2022)	dub=6:1303468
 Stake Land - Anoitecer Violento (2010)	leg=6:1312817
@@ -1536,7 +1536,7 @@ Star Trek 6	dub=6:1299797
 Star Trek 8	dub=6:1299798
 Star Trek: Sem Fronteiras	dub=2:180166,8:180166
 Star Trek: Sem Fronteiras (2016)	dub=6:1298117
-Star Trek: Seção 31	dub=2:306853,2:306703,8:306853,8:306703	leg=2:306704,8:306704
+Star Trek: Seção 31	dub=2:306853,8:306853,2:306703,8:306703	leg=2:306704,8:306704
 Star Trek: Seção 31 (2025)	dub=6:1312968	leg=6:1312967
 Star Wars 2	dub=2:21351,8:21351
 Star Wars 3	dub=2:21352,8:21352
@@ -1551,7 +1551,7 @@ Star Wars Episode IX The Rise Of Skywalker	leg=2:41620,8:41620
 Star Wars O Mandaloriano e Grogu (2026)	dub=6:1502899	leg=6:1502360
 Star Wars Uma Nova Esperança	dub=2:21350,8:21350
 Star Wars: A Ascensao Skywalker (2019)	dub=6:1297957
-Star Wars: A Ascensão Skywalker	dub=2:41621,2:41618,8:41621,8:41618
+Star Wars: A Ascensão Skywalker	dub=2:41621,8:41621,2:41618,8:41618
 Star Wars: Episodio I - A Ameaca Fantasma (1999)	dub=6:1297333
 Star Wars: Episodio II - Ataque dos Clones (2002)	dub=6:1297334
 Star Wars: Episodio III - A Vinganca dos Sith (2005)	dub=6:1297335
@@ -1654,7 +1654,7 @@ Stuck - A Canção dos Trilhos (2019)	dub=6:1307896
 Stupid Young Heart Legendado	dub=2:30531,8:30531
 Sua Alma Será Minha	dub=2:263719,8:263719	leg=2:263720,8:263720
 Sua Alma Será Minha (2024)	dub=6:1305315	leg=6:1305316
-Sua Culpa	dub=2:300820,2:300819,8:300820,8:300819	leg=2:300821,8:300821
+Sua Culpa	dub=2:300820,8:300820,2:300819,8:300819	leg=2:300821,8:300821
 Sua Culpa (2024)	dub=6:1312629	leg=6:1312628
 Sua Culpa Londres (2026)	dub=6:1314648	leg=6:1314647
 Sua Culpa: Londres	dub=8:383780,8:383676	leg=8:383675
@@ -1697,7 +1697,7 @@ Sugar Baby (2018)	dub=6:1312021
 Sugar Baby (2024)	dub=6:1312258,6:1501296
 Sugar Dead	dub=2:347700,8:347700
 Sugar Dead - A Baby teve um Baby!	dub=2:345482,8:345482
-Sugarcane	dub=2:298125,2:298124,8:298125,8:298124	leg=2:298126,8:298126
+Sugarcane	dub=2:298125,8:298125,2:298124,8:298124	leg=2:298126,8:298126
 Sugarplum: A Especialista em Natal	dub=2:353762,8:353762	leg=2:353761,8:353761
 Suite Francesa (2015)	dub=6:1303461
 Sujeito Oculto	dub=2:382673,8:382673
@@ -1715,7 +1715,7 @@ Summer of 69	leg=2:328517,8:328517
 Summer of Soul (...ou, Quando a Revolução Não Pode Ser Televisionada)	dub=2:112977,8:112977
 Summer of Soul (...ou, Quando a Revolução Não Pôde Ser Televisionada) (2021)	dub=6:1311201
 Summer: Descobrindo O Meu Lugar (2018)	dub=6:1310497
-Suncoast	dub=2:247289,2:247288,8:247289,8:247288	leg=2:247290,8:247290
+Suncoast	dub=2:247289,8:247289,2:247288,8:247288	leg=2:247290,8:247290
 Suncoast (2024)	dub=6:1309209	leg=6:1309210
 Sundown	dub=2:231331,8:231331	leg=2:231315,8:231315
 Sunflower Oil	leg=8:391154
@@ -1728,9 +1728,9 @@ Super Bola de Pelos: Salva o Futuro	dub=2:357645,8:357645	leg=2:357642,8:357642
 Super Bêbados	leg=2:365064,8:365064
 Super Happy Forever	leg=2:332853,8:332853
 Super Mario Bros O Filme (2023)	dub=6:1301216	leg=6:1301193
-Super Mario Bros.: O Filme	dub=2:195154,2:195153,8:195154,8:195153	leg=2:195152,8:195152
+Super Mario Bros.: O Filme	dub=2:195153,8:195153,2:195154,8:195154	leg=2:195152,8:195152
 Super Mario Galaxy O Filme (2026)	dub=6:1314588	leg=6:1314550,6:1314587
-Super Mario Galaxy: O Filme	dub=2:378749,2:378724,8:378749,8:378724	leg=2:378723,2:377113,8:378723,8:377113
+Super Mario Galaxy: O Filme	dub=2:378749,8:378749,2:378724,8:378724	leg=2:378723,2:377113,8:378723,8:377113
 Super Monstros - Superamigos para Sempre	dub=2:22091,8:22091
 Super Monstros - Superamigos para Sempre (2019)	dub=6:1297043
 Super Monstros Salvam o Natal	dub=2:31436,8:31436
@@ -1761,7 +1761,7 @@ Superacao: O Milagre da Fe (2019)	dub=6:1297296
 Superação: O Milagre da Fé	dub=2:377840,8:377840	leg=2:377839,8:377839
 Superbad - E Hoje	dub=2:24318,8:24318
 Superbad: E Hoje (2007)	dub=6:1298163
-Superboys de Malegaon	dub=2:318444,2:318443,8:318444,8:318443	leg=2:318445,8:318445
+Superboys de Malegaon	dub=2:318444,8:318444,2:318443,8:318443	leg=2:318445,8:318445
 Supercross (2005)	dub=6:1309892
 Superfly: Crime e Poder (2018)	dub=6:1307990
 Supergirl	dub=8:389039,8:388790,8:388666	leg=8:388665
@@ -1771,7 +1771,7 @@ Superinteligência (2020)	dub=6:1308102	leg=6:1308103
 Superintelligence	leg=2:88700,8:88700
 Superlópez	dub=2:103979,8:103979
 Superlópez (2018)	dub=6:1307807
-Superman	dub=2:340110,2:339772,8:340110,8:339772	leg=2:339771,8:339771
+Superman	dub=2:340110,8:340110,2:339772,8:339772	leg=2:339771,8:339771
 Superman & Batman: Apocalipse	dub=2:358853,2:64435,8:358853,8:64435	leg=2:358852,8:358852
 Superman (2025)	dub=6:1313741	leg=6:1313740
 Superman - O Retorno (2006)	dub=6:1298542
@@ -1835,7 +1835,7 @@ Suspiria A Dança do Medo	dub=2:24945,8:24945
 Suspiria: A Danca do Medo (2018)	dub=6:1300953
 Suzanna Andler - Sob O Sol Da Riviera	dub=2:197423,8:197423	leg=2:197422,8:197422
 Suzanna Andler - Sob O Sol Da Riviera (2021)	dub=6:1305185	leg=6:1305186
-Suzume	dub=2:255993,2:233481,2:227420,8:255993,8:233481,8:227420	leg=2:255994,2:227423,8:255994,8:227423
+Suzume	dub=2:233481,8:233481,2:255993,2:227420,8:255993,8:227420	leg=2:255994,2:227423,8:255994,8:227423
 Suzume (2022)	dub=6:1311533	leg=6:1311534
 Sweeney Todd O Barbeiro Demoniaco da Rua Fleet	dub=2:97213,8:97213
 Sweeney Todd: O Barbeiro Demoniaco da Rua Fleet (2007)	dub=6:1300239
@@ -1843,7 +1843,7 @@ Sweet & Sour	dub=2:228300,8:228300	leg=2:228298,8:228298
 Sweet & Sour (2021)	dub=6:1300866
 Sweet River	dub=2:290765,8:290765	leg=2:290766,8:290766
 Sweetheart	dub=2:42513,8:42513
-Sweethearts	dub=2:297124,2:297123,8:297124,8:297123	leg=2:297125,8:297125
+Sweethearts	dub=2:297124,8:297124,2:297123,8:297123	leg=2:297125,8:297125
 Sweethearts (2024)	dub=6:1312482	leg=6:1312481
 Swing Em Busca do Prazer (2015)	dub=6:1309103
 Swing Kids No Ritmo da Liberdade (2018)	dub=6:1301930
@@ -1867,7 +1867,7 @@ Sérgio Mendes: No Tom da Alegria	dub=2:157994,8:157994	leg=2:157996,8:157996
 Sérgio Mendes: No Tom da Alegria (2021)	dub=6:1306566	leg=6:1306567
 Sétimo	dub=2:328996,8:328996	leg=2:328995,8:328995
 Síndrome da Apatia	leg=2:338678,8:338678
-Sísmicas	dub=2:200321,2:200320,8:200321,8:200320
+Sísmicas	dub=2:200321,8:200321,2:200320,8:200320
 Só Deus Perdoa	dub=2:131058,8:131058
 Só Mais Uma Frase	dub=2:186751,8:186751
 Só Mais Uma Frase (2022)	dub=6:1305494

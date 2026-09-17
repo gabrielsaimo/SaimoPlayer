@@ -22,7 +22,11 @@ struct VodGridView: View {
         let url: String
         let numero: Int
         let total: Int
+        /// "4k", "fhd", "hd"… quando a lista de origem anuncia. Vazio é o
+        /// caso comum, e não quer dizer ruim: quase nenhuma lista declara.
+        let qualidade: String?
         var id: String { "\(numero)|\(url)" }
+        var selo: String? { qualidade.map { $0.uppercased() } }
     }
 
     private struct SelecaoFonte: Identifiable {
@@ -66,14 +70,28 @@ struct VodGridView: View {
                     ForEach(selecao.opcoes) { opcao in
                         Button {
                             selecaoFonte = nil
-                            tocar(selecao.nome, [opcao.url],
+                            // A escolhida na frente; as do mesmo idioma atrás,
+                            // para o player descer sozinho se ela falhar.
+                            let reservas = selecao.opcoes
+                                .filter { $0.versao == opcao.versao && $0.url != opcao.url }
+                                .map(\.url)
+                            tocar(selecao.nome, [opcao.url] + reservas,
                                   detalhe: detalheDaFonte(selecao.detalhe, opcao),
                                   chave: selecao.chave)
                         } label: {
                             HStack {
                                 VStack(alignment: .leading, spacing: 3) {
-                                    Text("\(rotulo(opcao.versao)) · Fonte \(opcao.numero) de \(opcao.total)")
-                                        .font(.system(size: 14, weight: .medium))
+                                    HStack(spacing: 6) {
+                                        Text("\(rotulo(opcao.versao)) · Fonte \(opcao.numero) de \(opcao.total)")
+                                            .font(.system(size: 14, weight: .medium))
+                                        if let selo = opcao.selo {
+                                            Text(selo)
+                                                .font(.system(size: 10, weight: .bold))
+                                                .padding(.horizontal, 5).padding(.vertical, 1)
+                                                .background(Color.accentColor.opacity(0.85),
+                                                            in: Capsule())
+                                        }
+                                    }
                                     Text(origem(opcao.url))
                                         .font(.caption)
                                         .foregroundStyle(.secondary)
@@ -227,6 +245,8 @@ struct VodGridView: View {
         let progresso: Double?
         let letra: String
         let reservado: Bool
+        /// "4K" quando alguma fonte do título anuncia essa resolução.
+        var selo: String? = nil
         let abrir: () -> Void
         var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
         var id: String { (serie ? "s:" : "f:") + nomeCompleto }
@@ -278,6 +298,16 @@ struct VodGridView: View {
                 }
             }
             .overlay(alignment: .topTrailing) { estrela(cartao) }
+            .overlay(alignment: .topLeading) {
+                if let selo = cartao.selo {
+                    Text(selo)
+                        .font(.system(size: 10, weight: .heavy))
+                        .padding(.horizontal, 6).padding(.vertical, 2)
+                        .background(.black.opacity(0.65), in: Capsule())
+                        .foregroundStyle(.white)
+                        .padding(6)
+                }
+            }
             .contentShape(Rectangle())
             .onTapGesture { cartao.abrir() }
 
@@ -285,12 +315,27 @@ struct VodGridView: View {
                 .font(.system(size: 13, weight: .medium))
                 .lineLimit(2, reservesSpace: true)
                 .foregroundStyle(.white)
-            Text(cartao.detalhe)
+            Text(detalheComAno(cartao))
                 .font(.system(size: 11))
                 .foregroundStyle(.white.opacity(0.55))
                 .lineLimit(1)
         }
         .help(cartao.nomeCompleto)
+    }
+
+    /// O detalhe do cartão, com o ano na frente quando o nome não traz nenhum.
+    ///
+    /// Mais da metade do acervo chega sem ano no título, e sem ele não dá para
+    /// saber se o cartão é o filme de 1987 ou a refilmagem. O ano vem do mesmo
+    /// TMDB que já é consultado para a capa, então não custa pedido nenhum a
+    /// mais — só aparece quando a resposta chega.
+    private func detalheComAno(_ cartao: Cartao) -> String {
+        guard cartao.ano.isEmpty,
+              cartao.titulo.range(of: #"\((19|20)\d{2}\)\s*$"#,
+                                  options: .regularExpression) == nil,
+              let ano = capas.ano(para: cartao.nomeCompleto, serie: cartao.serie)
+        else { return cartao.detalhe }
+        return "\(ano) · \(cartao.detalhe)"
     }
 
     private func estrela(_ cartao: Cartao) -> some View {
@@ -345,7 +390,8 @@ struct VodGridView: View {
                    detalhe: detalheFilme(filme),
                    progresso: Progresso.fracao(Progresso.chaveFilme(filme.titulo)),
                    letra: estado.letra,
-                   reservado: estado.reservado) {
+                   reservado: estado.reservado,
+                   selo: seloDoFilme(filme)) {
                 tocarFilme(filme)
             }
         }
@@ -396,6 +442,15 @@ struct VodGridView: View {
                 Task { await abrirFavorito(item) }
             }
         }
+    }
+
+    /// A melhor resolução anunciada entre as fontes do filme, para a capa.
+    private func seloDoFilme(_ filme: Filme) -> String? {
+        let melhor = filme.fontes.values.flatMap { $0 }
+            .compactMap(Vod.qualidade(de:))
+            .min { Vod.posicao(daQualidade: $0) < Vod.posicao(daQualidade: $1) }
+        guard let melhor, Vod.posicao(daQualidade: melhor) <= 1 else { return nil }
+        return melhor.uppercased()
     }
 
     private func detalheFilme(_ filme: Filme) -> String {
@@ -558,16 +613,27 @@ struct VodGridView: View {
             let direita = ($1 == "leg" ? 1 : 0, $1)
             return esquerda < direita
         }
-        let pares = ordenadas.flatMap { versao in
-            (fontes[versao] ?? []).map { (versao, $0) }
+        let pares = ordenadas.flatMap { versao -> [(String, String)] in
+            // Dentro de um idioma, a de maior resolução primeiro: é ela que
+            // toca quando ninguém escolhe nada.
+            let lista = (fontes[versao] ?? []).sorted {
+                Vod.posicao(daQualidade: Vod.qualidade(de: $0))
+                    < Vod.posicao(daQualidade: Vod.qualidade(de: $1))
+            }
+            return lista.map { (versao, $0) }
         }
         let opcoes = pares.enumerated().map { indice, par in
-            OpcaoFonte(versao: par.0, url: par.1,
-                       numero: indice + 1, total: pares.count)
+            OpcaoFonte(versao: par.0, url: par.1, numero: indice + 1,
+                       total: pares.count, qualidade: Vod.qualidade(de: par.1))
         }
         guard let unica = opcoes.first else { return }
-        if opcoes.count == 1 {
-            tocar(nome, [unica.url], detalhe: detalheDaFonte(detalhe, unica), chave: chave)
+        // Só um idioma: não há escolha a fazer, e a melhor já está na frente.
+        // As outras vão junto como reserva, para o player descer sozinho
+        // quando a primeira falhar.
+        let umIdiomaSo = Set(opcoes.map(\.versao)).count == 1
+        if opcoes.count == 1 || umIdiomaSo {
+            tocar(nome, opcoes.map(\.url),
+                  detalhe: detalheDaFonte(detalhe, unica), chave: chave)
         } else {
             selecaoFonte = SelecaoFonte(nome: nome, detalhe: detalhe,
                                         chave: chave, opcoes: opcoes)
@@ -575,7 +641,8 @@ struct VodGridView: View {
     }
 
     private func detalheDaFonte(_ base: String, _ opcao: OpcaoFonte) -> String {
-        "\(base) · \(rotulo(opcao.versao)) · Fonte \(opcao.numero) de \(opcao.total)"
+        let selo = opcao.selo.map { " · \($0)" } ?? ""
+        return "\(base) · \(rotulo(opcao.versao))\(selo) · Fonte \(opcao.numero) de \(opcao.total)"
     }
 
     private func origem(_ url: String) -> String {

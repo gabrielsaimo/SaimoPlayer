@@ -1,5 +1,5 @@
 C'est pas moi	leg=8:394937
-C.I.C. - Central de Inteligência Cearense	dub=2:363491,2:359294,8:363491,8:359294
+C.I.C. - Central de Inteligência Cearense	dub=2:363491,8:363491,2:359294,8:359294
 CB4 - Uma História Sem Rap End	dub=2:367032,8:367032	leg=2:367031,8:367031
 CEO em Fuga: A História de Carlos Ghosn	dub=8:394771	leg=8:394770
 CHiPs: O Filme (2017)	dub=6:1299774
@@ -7,7 +7,7 @@ CIC Central de Inteligencia Cearense (2025)	dub=6:1314210
 CICADA	dub=2:194176,8:194176
 CJ7 - O Brinquedo Mágico	dub=2:348792,8:348792	leg=2:348791,8:348791
 CJ7 O Brinquedo Mágico (2008)	dub=6:1302113
-CTRL	dub=2:297083,2:288810,8:297083,8:288810	leg=2:288811,8:288811
+CTRL	dub=2:297083,8:297083,2:288810,8:288810	leg=2:288811,8:288811
 Cabana Macabra (2008)	dub=6:1309801	leg=6:1309802
 Cabana da Possessao (2019)	dub=6:1298206
 Cabana da Possessão	dub=2:93628,8:93628
@@ -88,7 +88,7 @@ Cair na Graca (2013)	dub=6:1302155
 Caixa Preta	dub=2:365247,2:75034,8:365247,8:75034	leg=2:365246,8:365246
 Caixa Preta (2020)	dub=6:1308827
 Caixa de Memorias (2021)	dub=6:1300832
-Caixa de Pássaros	dub=2:192109,2:21722,8:192109,8:21722
+Caixa de Pássaros	dub=2:192109,8:192109,2:21722,8:21722
 Caixa de Pássaros (2018)	dub=6:1305676
 Caiçara	dub=2:380513,8:380513
 Caju, Meu Amigo	dub=2:363179,8:363179
@@ -112,14 +112,14 @@ Calmaria (2019)	dub=6:1297114
 Calor Mortal	dub=2:239783,8:239783	leg=2:239782,8:239782
 Calor Mortal (2022)	dub=6:1303089
 Calor Mortifero (2024)	dub=6:1312186	leg=6:1312185
-Calor Mortífero	dub=2:287376,2:287375,8:287376,8:287375	leg=2:287377,8:287377
+Calor Mortífero	dub=2:287376,8:287376,2:287375,8:287375	leg=2:287377,8:287377
 Calígula: O Corte Final	leg=2:347330,8:347330
 Cam Girls - Garotas da Web	dub=2:169727,8:169727	leg=2:169693,8:169693
 Cam Girls Garotas da Web (2021)	dub=6:1301456
 Cama de Gato	dub=2:296743,8:296743	leg=2:296744,8:296744
 Cama de Gato (2023)	dub=6:1312477	leg=6:1312476
 Camaleoes (2023)	dub=6:1302559	leg=6:1302558
-Camaleões	dub=2:217276,2:217203,8:217276,8:217203	leg=2:217204,8:217204
+Camaleões	dub=2:217276,8:217276,2:217203,8:217203	leg=2:217204,8:217204
 Camila Sairá Esta Noite	dub=2:329826,8:329826	leg=2:329825,8:329825
 Camille	leg=2:97598,8:97598
 Camille (2019)	leg=6:1308417
@@ -137,18 +137,18 @@ Caminhos Cruzados	dub=2:335692,8:335692	leg=2:335691,2:284327,8:335691,8:284327
 Caminhos De Sangue (2019)	dub=6:1308245
 Caminhos Perigosos	dub=2:112402,8:112402
 Caminhos Perigosos (1973)	dub=6:1302130
-Caminhos Tortos	dub=2:221635,2:221633,8:221635,8:221633	leg=2:221634,8:221634
+Caminhos Tortos	dub=2:221633,8:221633,2:221635,8:221635	leg=2:221634,8:221634
 Caminhos Tortos (2023)	dub=6:1302655
 Caminhos da Floresta	dub=2:108696,8:108696	leg=2:380514,8:380514
 Caminhos da Floresta (2014)	dub=6:1298227,6:1312139	leg=6:1312138
 Caminhos da Memoria (2021)	dub=6:1298856
-Caminhos da Memória	dub=2:129575,2:129567,8:129575,8:129567	leg=2:129562,8:129562
-Caminhos da Sobrevivência	dub=2:247264,2:245494,8:247264,8:245494	leg=2:245495,8:245495
+Caminhos da Memória	dub=2:129567,8:129567,2:129575,8:129575	leg=2:129562,8:129562
+Caminhos da Sobrevivência	dub=2:247264,8:247264,2:245494,8:245494	leg=2:245495,8:245495
 Caminhos da Sobrevivência (2023)	dub=6:1311673	leg=6:1311674
 Caminhos da Violência	dub=2:375034,8:375034	leg=2:375033,8:375033
 Caminhos de Sangue	dub=2:288511,2:42951,8:288511,8:42951	leg=2:288512,8:288512
 Caminhos de Sangue (2024)	dub=6:1312223	leg=6:1312222
-Caminhos do Crime	dub=2:372408,2:372352,8:372408,8:372352	leg=2:372351,8:372351
+Caminhos do Crime	dub=2:372408,8:372408,2:372352,8:372352	leg=2:372351,8:372351
 Caminhos do Crime (2026)	dub=6:1314442	leg=6:1314441
 Caminhos para Olympia	dub=2:149410,8:149410	leg=2:149409,8:149409
 Caminhos para Olympia (2019)	dub=6:1302161
@@ -178,7 +178,7 @@ Campo Minado (2016)	dub=6:1299657
 Campo da Morte	dub=2:337413,8:337413	leg=2:337412,8:337412
 Campo da Morte (2022)	dub=6:1313711
 Campo de Magia (2020)	dub=6:1307790	leg=6:1307791
-Campo do Medo	dub=2:46136,2:30377,8:46136,8:30377
+Campo do Medo	dub=2:46136,8:46136,2:30377,8:30377
 Campo do Medo (2019)	dub=6:1297244
 Campo dos Sonhos	dub=2:313101,8:313101	leg=2:313102,8:313102
 Camponeses	dub=2:297417,8:297417	leg=2:297418,8:297418
@@ -198,7 +198,7 @@ Canguru Jack (2003)	dub=6:1298550
 Canguru Jack: Ola EUA (2004)	dub=6:1312520
 Canibais	dub=2:330495,8:330495	leg=2:330494,8:330494
 Canibais (2013)	leg=6:1312876
-Canina	dub=2:306845,2:306696,8:306845,8:306696	leg=2:306697,8:306697
+Canina	dub=2:306845,8:306845,2:306696,8:306696	leg=2:306697,8:306697
 Canina (2024)	dub=6:1312973	leg=6:1312665
 Caninos Brancos	dub=2:177166,2:25486,8:177166,8:25486
 Caninos Brancos (1991)	dub=6:1305571
@@ -217,7 +217,7 @@ Cantos de Trabalho - Cacau	dub=2:341784,8:341784
 Cantos de Trabalho - Cana de Açúcar	dub=2:341785,8:341785
 Cantos de Trabalho - Mutirão	dub=2:341786,8:341786
 Canvas (2020)	dub=6:1298208
-Canário Negro	dub=2:291892,2:291891,8:291892,8:291891	leg=2:291893,8:291893
+Canário Negro	dub=2:291892,8:291892,2:291891,8:291891	leg=2:291893,8:291893
 Canção ao Longe	dub=2:381781,8:381781	leg=2:381780,8:381780
 Canção de Inverno	dub=2:227030,8:227030
 Canção de Inverno (2019)	dub=6:1310863
@@ -228,7 +228,7 @@ Canções do Coração	dub=8:383321	leg=8:383320
 Cao de Briga (2024)	dub=6:1313139	leg=6:1313138
 Cao de Guerra O Melhor Amigo do Soldado (2017)	dub=6:1302122
 Cao e Gato (2024)	dub=6:1303252
-Caos e Destruição	dub=2:319796,2:319121,8:319796,8:319121	leg=2:319122,8:319122
+Caos e Destruição	dub=2:319796,8:319796,2:319121,8:319121	leg=2:319122,8:319122
 Caos e Destruição (2025)	dub=6:1313450
 Caos na Filadélfia (2017)	dub=6:1312866
 Caos na Prisao	dub=2:24311,8:24311
@@ -249,14 +249,14 @@ Capitao Phillips	dub=2:25099,8:25099
 Capitao Phillips (2013)	dub=6:1302110
 Capitu e o Capitulo (2023)	dub=6:1303112
 Capitu e o Capítulo	dub=2:377223,8:377223
-Capitã Marvel	dub=2:98664,2:23815,8:391944,8:23815	leg=8:391943
+Capitã Marvel	dub=2:23815,8:23815,2:98664,8:391944	leg=8:391943
 Capitã Nova	dub=2:156682,8:156682	leg=2:156681,8:156681
 Capitã Nova (2021)	dub=6:1306778	leg=6:1306779
 Capitães da Areia	dub=2:286472,8:286472
 Capitão América	dub=2:315415,2:314662,8:315415,8:314662	leg=2:314663,8:314663
 Capitão América 2: O Soldado Invernal	dub=2:98653,8:98653
 Capitão América II	dub=2:314664,8:314664	leg=2:314665,8:314665
-Capitão América: Admirável Mundo Novo	dub=2:323953,2:323810,8:323953,8:323810	leg=2:323809,8:323809
+Capitão América: Admirável Mundo Novo	dub=2:323953,8:323953,2:323810,8:323810	leg=2:323809,8:323809
 Capitão América: Admirável Mundo Novo (2025)	dub=6:1313538	leg=6:1313537
 Capitão América: Guerra Civil	dub=2:98657,8:391892,8:98657	leg=8:391891
 Capitão América: O Primeiro Vingador	dub=2:98649,8:391894,8:98649	leg=8:391893
@@ -285,9 +285,9 @@ Cara Gente Branca (2014)	dub=6:1301406
 Cara a Cara com o ETA	dub=2:233515,8:233515
 Cara a Cara com o ETA (2023)	dub=6:1303000
 Cara de Um Focinho de Outro (2026)	dub=6:1314630
-Cara de Um, Focinho de Outro	dub=2:381385,2:381249,8:381385,8:381249	leg=2:381248,2:380263,8:381248,8:380263
+Cara de Um, Focinho de Outro	dub=2:381385,8:381385,2:381249,8:381249	leg=2:381248,2:380263,8:381248,8:380263
 Cara, Cadê Meu Cachorro	dub=2:348142,8:348142
-Caramelo	dub=2:347660,2:347332,8:347660,8:347332	leg=2:347331,8:347331
+Caramelo	dub=2:347660,8:347660,2:347332,8:347332	leg=2:347331,8:347331
 Caramelo (2025)	dub=6:1313894
 Carandiru	dub=2:100014,8:100014
 Carandiru (2003)	dub=6:1302509
@@ -316,7 +316,7 @@ Carga Final (2025)	dub=6:1314239
 Carga Maxima (2023)	dub=6:1302544
 Carga Mortal	dub=2:22004,8:22004
 Carga Mortal (2018)	dub=6:1303918
-Carga Máxima	dub=2:218855,2:216990,8:218855,8:216990
+Carga Máxima	dub=2:218855,8:218855,2:216990,8:216990
 Carga Preciosa	dub=2:285108,8:285108
 Carga Preciosa (2016)	dub=6:1304134
 Cargo	dub=2:21723,8:21723
@@ -332,7 +332,7 @@ Carmen Miranda	dub=8:395241
 Carmen Miranda: Bananas Is My Business	dub=2:320220,8:320220
 Carmo	dub=2:139238,8:139238
 Carmo (2008)	dub=6:1304264
-Carnaval	dub=2:192104,2:109035,8:192104,8:109035
+Carnaval	dub=2:192104,8:192104,2:109035,8:109035
 Carnaval (2021)	dub=6:1306580
 Carnaval Barra Limpa	dub=2:370889,8:370889
 Carne	dub=2:375035,8:375035
@@ -340,7 +340,7 @@ Carniceiro	dub=2:291319,8:291319	leg=2:291320,8:291320
 Carnivore: O Lobisomem de Londres (2017)	dub=6:1300655
 Carol	dub=2:301797,8:301797
 Carol (2015)	leg=6:1312382
-Carona Aterrorizante	dub=2:246546,2:239832,8:246546,8:239832	leg=2:239834,8:239834
+Carona Aterrorizante	dub=2:246546,8:246546,2:239832,8:239832	leg=2:239834,8:239834
 Carona Aterrorizante (2023)	dub=6:1311635	leg=6:1311636
 Caros Camaradas! Trabalhadores em Luta (2020)	dub=6:1310732
 Caros Camaradas: Trabalhadores em Luta	dub=2:113036,8:113036
@@ -374,7 +374,7 @@ Cartas Para Quem Ficou (2018)	dub=6:1298124
 Cartas de Amor são Ridículas	dub=2:371864,2:370890,8:371864,8:370890
 Cartas de Iwo Jima	dub=2:297067,8:395677,8:297067	leg=8:395676
 Cartas de Iwo Jima (2006)	dub=6:1299292
-Cartas de Natal	dub=2:373341,2:355668,8:373341,8:355668	leg=2:355667,8:355667
+Cartas de Natal	dub=2:373341,8:373341,2:355668,8:355668	leg=2:355667,8:355667
 Cartas de Natal (2023)	dub=6:1312593
 Cartas na Mesa	dub=2:75035,8:394773,8:75035	leg=8:394772
 Cartas na Mesa (1998)	dub=6:1307026
@@ -399,7 +399,7 @@ Casa Escura (2014)	dub=6:1314058
 Casa Fantasma (2017)	leg=6:1307530
 Casa Grande	leg=8:385713
 Casa Grande (2014)	dub=6:1298364
-Casa Gucci	dub=2:382597,2:149246,2:149245,8:382597,8:149246,8:149245	leg=2:382596,2:149247,8:382596,8:149247
+Casa Gucci	dub=2:149246,8:149246,2:382597,2:149245,8:382597,8:149245	leg=2:382596,2:149247,8:382596,8:149247
 Casa Gucci (2021)	dub=6:1299246
 Casa comigo? (2011)	dub=6:1310623
 Casa da Mae Joana (2008)	dub=6:1301519
@@ -411,7 +411,7 @@ Casa das Trevas 2 (2018)	dub=6:1310659
 Casa de Antiguidades	dub=2:100353,8:100353
 Casa de Antiguidades (2022)	dub=6:1302702
 Casa de Areia	dub=2:320221,8:320221
-Casa de Dinamite	dub=2:349766,2:349753,8:349766,8:349753	leg=2:349752,8:349752
+Casa de Dinamite	dub=2:349766,8:349766,2:349753,8:349753	leg=2:349752,8:349752
 Casa de Dinamite (2025)	dub=6:1313942	leg=6:1313941
 Casa de Gaa (2024)	dub=6:1309185
 Casa de Ga’a	dub=2:276096,8:276096	leg=2:276097,8:276097
@@ -427,7 +427,7 @@ Casal de Fachada	dub=2:160436,8:160436	leg=2:160437,8:160437
 Casal de Fachada (2022)	dub=6:1299431
 Casamento Apaixonado	dub=8:389513
 Casamento Apaixonado Dden Millionairess Never Forgive You	dub=8:389512
-Casamento Armado	dub=2:185817,2:185816,8:185817,8:185816	leg=2:185815,8:185815
+Casamento Armado	dub=2:185816,8:185816,2:185817,8:185817	leg=2:185815,8:185815
 Casamento Armado (2022)	dub=6:1300962
 Casamento Australiano	dub=2:130255,8:130255	leg=2:130204,8:130204
 Casamento Australiano (2019)	dub=6:1301959
@@ -437,7 +437,7 @@ Casamento Grego	dub=2:48223,8:48223
 Casamento Grego (2002)	dub=6:1304172
 Casamento Grego 2	dub=2:48224,8:48224
 Casamento Grego 2 (2016)	dub=6:1299770
-Casamento Grego 3	dub=2:233495,2:233494,8:233495,8:233494	leg=2:233492,8:233492
+Casamento Grego 3	dub=2:233494,8:233494,2:233495,8:233495	leg=2:233492,8:233492
 Casamento Grego 3 (2023)	dub=6:1302993
 Casamento Letal nos EUA	dub=2:320767,8:320767	leg=2:320766,8:320766
 Casamento Mortal	dub=2:264468,8:264468	leg=2:264469,8:264469
@@ -445,7 +445,7 @@ Casamento Mortal (2023)	dub=6:1304959	leg=6:1304960
 Casamento Rapido Com O Ceo Bilionario	dub=8:389515
 Casamento Relampago Com Meu Ex 8 Anos Apos A Separacao	dub=8:389516
 Casamento Relampago Mascaras Caindo	leg=8:389517
-Casamento Sangrento	dub=2:376097,2:92010,8:376097,8:92010
+Casamento Sangrento	dub=2:376097,8:376097,2:92010,8:92010
 Casamento Sangrento (2019)	dub=6:1297413
 Casamento Sangrento 2 A Viuva (2026)	leg=6:1314551
 Casamento Sangrento: A Viúva	dub=8:385820,8:385743	leg=2:377106,8:385744,8:377106
@@ -459,7 +459,7 @@ Casamento em Cuba	dub=8:396195	leg=8:396194
 Casamento em Família	dub=2:193464,8:193464	leg=2:193463,8:193463
 Casamento em Família (2023)	dub=6:1306934	leg=6:1306935
 Casamento às Cegas Brasil: Depois do Altar	dub=2:235119,8:235119
-Casamentos Cruzados	dub=2:307746,2:307745,8:307746,8:307745	leg=2:307747,8:307747
+Casamentos Cruzados	dub=2:307746,8:307746,2:307745,8:307745	leg=2:307747,8:307747
 Casamentos Cruzados (2025)	dub=6:1312999	leg=6:1312998
 Casando Com O Tio Do Meu Ex	leg=8:389518
 Casanova (2005)	dub=6:1299878
@@ -482,7 +482,7 @@ Caso Eloá: Refém ao Vivo	dub=2:352670,8:352670
 Caso Perigoso	dub=2:380556,2:378665,2:189936,8:380556,8:378665,8:189936	leg=2:380555,2:378664,2:189920,8:380555,8:378664,8:189920
 Caso Perigoso (2022)	dub=6:1301081
 Casos e Casamentos (1995)	dub=6:1299921
-Cassandro	dub=2:368076,2:215906,8:368076,8:215906	leg=2:215907,8:215907
+Cassandro	dub=2:368076,8:368076,2:215906,8:215906	leg=2:215907,8:215907
 Cassandro (2023)	dub=6:1311061	leg=6:1311062
 Casseta & Planeta: A Taça do Mundo é Nossa!	dub=2:320222,8:320222
 Cassino (1995)	dub=6:1301270
@@ -503,7 +503,7 @@ Cat Pack: Um Evento Exclusivo da Patrulha Canina (2022)	dub=6:1299999
 Catacumbas	dub=2:379451,8:379451	leg=2:379450,8:379450
 Cataratas de Vitória: Jardim do Éden da África	dub=2:350900,8:350900
 Catarina a Menina Chamada Passarinha (2022)	dub=6:1300248
-Catarina, a Menina Chamada Passarinha	dub=2:177215,2:176787,8:177215,8:176787	leg=2:176791,8:176791
+Catarina, a Menina Chamada Passarinha	dub=2:177215,8:177215,2:176787,8:176787	leg=2:176791,8:176791
 Category 7: The End of the World (2005)	dub=6:1307688
 Caterpillar	leg=2:376732,8:376732
 Cativeiro	dub=2:300824,8:300824
@@ -577,7 +577,7 @@ Caçador de Assassinos	dub=2:380554,8:380554	leg=2:380553,8:380553
 Caçador de Demônios (2016)	dub=6:1307625
 Caçador de Mutantes	dub=2:160615,8:396193,8:160615	leg=2:160583,8:396192,8:160583
 Caçador de Mutantes (2019)	dub=6:1303542
-Caçador de Tormentas	dub=2:348325,2:192618,2:192522,8:348325,8:192618,8:192522	leg=2:348324,2:192523,8:348324,8:192523
+Caçador de Tormentas	dub=2:192618,8:192618,2:348325,2:192522,8:348325,8:192522	leg=2:348324,2:192523,8:348324,8:192523
 Caçador do Espaço: Aventura na Zona Proibida (1983)	dub=6:1310087	leg=6:1310088
 Caçadora de Gigantes	dub=2:318520,2:22003,8:318520,8:22003	leg=2:318521,8:318521
 Caçadora de Gigantes (2017)	dub=6:1307653
@@ -614,7 +614,7 @@ Caçando Assassinos: O Homem Sem Rosto	dub=2:263783,8:263783	leg=2:263784,8:2637
 Caçando Assassinos: O Homem Sem Rosto (2023)	dub=6:1304967	leg=6:1304968
 Caçando Ava Bravo	dub=2:169633,8:169633	leg=2:169697,8:169697
 Caçando Fantasmas (2014)	dub=6:1312357	leg=6:1312356
-Caçula	dub=2:295382,2:289603,8:295382,8:289603	leg=2:289604,8:289604
+Caçula	dub=2:295382,8:295382,2:289603,8:289603	leg=2:289604,8:289604
 Cego Por Vingança (2020)	dub=6:1314454	leg=6:1308807
 Cegonhas A Historia que Nao te Contaram	dub=2:20336,8:20336
 Cegonhas A História Que Não Te Contaram (2016)	dub=6:1302120
@@ -628,7 +628,7 @@ Cela de Costura	leg=2:321378,8:321378
 Celebração Macabra	dub=2:320265,8:320265	leg=2:320264,8:320264
 Celeste e Jesse Para Sempre	dub=2:28681,8:28681
 Celeste e Jesse Para Sempre (2012)	dub=6:1302139
-Cellar Door	dub=2:292415,2:292414,8:292415,8:292414	leg=2:292416,8:292416
+Cellar Door	dub=2:292415,8:292415,2:292414,8:292414	leg=2:292416,8:292416
 Cells at Work!	dub=2:328301,8:328301	leg=2:328300,8:328300
 Celular: Um Grito de Socorro	dub=2:379453,8:379453	leg=2:379452,8:379452
 Celular: Um Grito de Socorro (2004)	dub=6:1300752
@@ -639,7 +639,7 @@ Cemiterio Maldito (2019)	dub=6:1297116
 Cemiterio Maldito 2 (1992)	dub=6:1302550
 Cemiterio Maldito A Origem (2023)	dub=6:1302574	leg=6:1302573
 Cemitério	leg=2:275493,8:275493
-Cemitério Maldito: A Origem	dub=2:218886,2:218884,8:218886,8:218884	leg=2:218885,8:218885
+Cemitério Maldito: A Origem	dub=2:218884,8:218884,2:218886,8:218886	leg=2:218885,8:218885
 Cenas de Natureza Sexual	dub=8:388678	leg=8:388677
 Cenas de um Homicídio: Uma Família Vizinha	dub=2:342863,8:342863	leg=2:342862,8:342862
 Cenas de um Homicídio: Uma Família Vizinha (2020)	dub=6:1313846
@@ -655,18 +655,18 @@ Centro de Trauma (2019)	dub=6:1297117
 Centuriao (2010)	dub=6:1302055
 Centurion: O Cavalo Dançante	dub=2:348287,8:348287	leg=2:348286,8:348286
 Centurião	dub=8:385784	leg=8:385783
-Cercados	dub=2:221922,2:221921,8:221922,8:221921	leg=2:221923,8:221923
+Cercados	dub=2:221922,8:221922,2:221921,8:221921	leg=2:221923,8:221923
 Cercados (2023)	dub=6:1311158	leg=6:1311159
 Cerco ao Terror: Ataque ao Templo	dub=2:299194,8:299194	leg=2:299195,8:299195
 Cerco ao Terror: Ataque ao Templo (2025)	dub=6:1312870
 Certas Mulheres (2016)	dub=6:1310225	leg=6:1310226
-Certas Pessoas	dub=2:192617,2:185818,8:192617,8:185818	leg=2:185819,8:185819
+Certas Pessoas	dub=2:192617,8:192617,2:185818,8:185818	leg=2:185819,8:185819
 Certas Pessoas (2023)	dub=6:1300961
 Cesium Fallout	dub=2:376512,8:376512	leg=2:376511,8:376511
 Ceu Vermelho-Sangue (2021)	dub=6:1298608
 Ceu em Chamas (1997)	dub=6:1312661
 Ceu em Chamas (2019)	dub=6:1301957
-Cha Cha Real Smooth - O Próximo Passo	dub=2:367692,2:162965,2:162368,2:162365,8:367692,8:162965,8:162368,8:162365
+Cha Cha Real Smooth - O Próximo Passo	dub=2:367692,2:162965,8:367692,8:162965,2:162368,2:162365,8:162368,8:162365
 Cha Cha Real Smooth: O Proximo Passo (2022)	dub=6:1299496
 Chabuca	leg=2:264722,8:264722
 Chabuca (2024)	leg=6:1304978
@@ -675,7 +675,7 @@ Chacrinha: O Velho Guerreiro	dub=2:316301,8:316301
 Chacrinha: O Velho Guerreiro (2018)	dub=6:1501184
 Chains: Terror em Chicago	dub=8:390260
 Chainsaw Man O Filme Arco da Reze (2025)	dub=6:1314125	leg=6:1314124
-Chainsaw Man – O Filme: Arco da Reze	dub=2:376601,2:356881,2:356848,8:376601,8:356881,8:356848	leg=2:376600,2:356847,8:376600,8:356847
+Chainsaw Man – O Filme: Arco da Reze	dub=2:356881,8:356881,2:376601,2:356848,8:376601,8:356848	leg=2:376600,2:356847,8:376600,8:356847
 Chama a Bebel	dub=2:323400,8:323400
 Chamada Explosiva	dub=2:139260,8:139260	leg=2:139266,8:139266
 Chamada Explosiva (2021)	dub=6:1298969
@@ -707,7 +707,7 @@ Charlie Brown's All-Stars!	dub=2:323972,8:323972	leg=2:323971,8:323971
 Charlie O Super Cao (2025)	dub=6:1314483
 Charlie Says Legendado	dub=2:30662,8:30662
 Charlie Um Cachorro Especial (2022)	dub=6:1303041
-Charlie em Ação	dub=2:294411,2:294410,8:294411,8:294410	leg=2:294412,8:294412
+Charlie em Ação	dub=2:294411,8:294411,2:294410,8:294410	leg=2:294412,8:294412
 Charlie em Ação (2023)	dub=6:1312432
 Charlie, Um Grande Garoto	dub=2:365249,2:340424,8:365249,8:340424	leg=2:365248,8:365248
 Charlie, Você Está Aí?	dub=2:284515,8:284515	leg=2:284516,8:284516
@@ -732,7 +732,7 @@ Chef Jack: O Cozinheiro Aventureiro	dub=2:198185,8:198185
 Chefao por Acaso	dub=2:97171,8:97171
 Chefe de Estação	leg=2:261677,8:261677
 Chefe de Estação (2024)	leg=6:1304964
-Chefes de Estado	dub=2:332839,2:330503,8:332839,8:330503	leg=2:330502,8:330502
+Chefes de Estado	dub=2:332839,8:332839,2:330503,8:330503	leg=2:330502,8:330502
 Chefes de Estado (2025)	dub=6:1313646	leg=6:1313645
 Chefão Por Acaso (1989)	dub=6:1307343
 Cheia de Graca (2017)	dub=6:1301314
@@ -751,7 +751,7 @@ Chernovik	leg=2:62555,8:62555
 Cherry	dub=2:110244,8:110244
 Cherry (2000)	dub=2:105235,6:1307202,8:105235
 Cherry (2010)	dub=6:1298343
-Cherry - Inocência Perdida	dub=2:365056,2:98249,8:365056,8:98249
+Cherry - Inocência Perdida	dub=2:365056,8:365056,2:98249,8:98249
 Cherry: Inocência Perdida (2021)	dub=6:1312099	leg=6:1312098
 Chevalier	dub=2:198712,8:198712	leg=2:198713,8:198713
 Chevalier (2023)	dub=6:1306568	leg=6:1306569
@@ -815,7 +815,7 @@ Christopher Robin - Um Reencontro Inesquecivel	dub=2:20337,8:20337
 Christopher Robin: Um Reencontro Inesquecível (2018)	dub=6:1310393
 Christopher: Um Linda Vida Real	dub=2:340989,8:340989	leg=2:340988,8:340988
 Christopher: Uma Linda Vida Real	dub=8:390311
-Christy - Um Novo Round	dub=2:365057,2:364804,8:365057,8:364804	leg=2:364803,8:364803
+Christy - Um Novo Round	dub=2:365057,8:365057,2:364804,8:364804	leg=2:364803,8:364803
 Christy - Um Novo Round (2025)	dub=6:1501186
 Chumbo Grosso (2007)	dub=6:1301816
 Chumbo: Made for Big Wave Surfing	leg=2:288567,8:288567
@@ -836,7 +836,7 @@ Cidade Implacavel (2020)	dub=6:1298098,6:1298470
 Cidade Louca	dub=2:20954,8:20954
 Cidade Louca (2016)	dub=6:1310307
 Cidade Pequena, Grandes Mentiras (2022)	dub=6:1305367
-Cidade Perdida	dub=2:167513,2:161974,8:167513,8:161974	leg=2:161975,8:161975
+Cidade Perdida	dub=2:167513,8:167513,2:161974,8:161974	leg=2:161975,8:161975
 Cidade Perdida (2022)	dub=6:1299469
 Cidade Rabat	dub=8:394389
 Cidade Sitiada (2010)	dub=6:1303999
@@ -879,11 +879,11 @@ Cigarros Mortais	dub=2:375956,8:375956	leg=2:375955,8:375955
 Cilada.com	dub=2:20556,8:20556
 Cilada.com (2011)	dub=6:1311004
 Cinco Anos de Noivado	dub=2:348146,8:348146	leg=2:348145,8:348145
-Cinco Chances Para Ser Feliz	dub=2:247937,2:247310,8:247937,8:247310	leg=2:247311,8:247311
+Cinco Chances Para Ser Feliz	dub=2:247937,8:247937,2:247310,8:247310	leg=2:247311,8:247311
 Cinco Chances Para Ser Feliz (2024)	dub=6:1303150
 Cinco Tipos de Medo	dub=8:389876
 Cinco Tipos de Medo (2026)	dub=6:1502171
-Cinderela	dub=2:348061,2:317222,2:127424,2:125984,8:348061,8:317222,8:127424,8:125984	leg=2:348060,2:317223,2:125983,8:348060,8:317223,8:125983
+Cinderela	dub=2:127424,8:127424,2:348061,2:317222,2:125984,8:348061,8:317222,8:125984	leg=2:348060,2:317223,2:125983,8:348060,8:317223,8:125983
 Cinderela (1950)	dub=6:1300852
 Cinderela (2015)	dub=6:1298258
 Cinderela (2021)	dub=6:1298728
@@ -914,14 +914,14 @@ Cinquenta Tons Mais Escuros	dub=2:21555,8:21555
 Cinquenta Tons Mais Escuros (2017)	dub=6:1297795
 Cinquenta Tons de Cinza	dub=2:21556,8:21556
 Cinquenta Tons de Cinza (2015)	dub=6:1297793
-Cinquenta Tons de Liberdade	dub=2:48225,2:22500,2:20955,8:48225,8:22500,8:20955
+Cinquenta Tons de Liberdade	dub=2:22500,8:22500,2:48225,2:20955,8:48225,8:20955
 Cinquenta Tons de Liberdade (2018)	dub=6:1297794
 Cinquenta Tons de Preto	dub=2:62465,8:62465
 Cinquenta Tons de Preto (2016)	dub=6:1307520
 Cinquentonas (2015)	leg=6:1309093
 Cinturao Vermelho (2008)	dub=6:1300736
 Cinturão Vermelho	dub=2:112457,8:112457
-Cinzas	dub=2:247266,2:247265,8:247266,8:247265	leg=2:247267,8:247267
+Cinzas	dub=2:247266,8:247266,2:247265,8:247265	leg=2:247267,8:247267
 Cinzas (2024)	dub=6:1309729	leg=6:1309730
 Cinzas De Vinganca	dub=2:32235,8:32235
 Cinzas da Guerra (2001)	dub=6:1303891
@@ -976,7 +976,7 @@ Clika	dub=8:385704	leg=8:385706
 Clika (2026)	dub=6:1500977
 Climax	leg=2:162567,8:162567
 Clonaram Tyrone (2023)	dub=6:1301701
-Clonaram Tyrone!	dub=2:208229,2:203507,8:208229,8:203507	leg=2:203506,8:203506
+Clonaram Tyrone!	dub=2:208229,8:208229,2:203507,8:203507	leg=2:203506,8:203506
 Close	dub=2:261638,8:261638	leg=2:261639,2:221007,8:261639,8:221007
 Close (2022)	dub=6:1303986	leg=6:1303118
 Closer	dub=2:20956,8:20956
@@ -985,7 +985,7 @@ Closer: Perto Demais (2004)	dub=6:1310000
 Clotilda: The Return Home	leg=2:288568,8:288568
 Cloud 9: Desafio Final	dub=8:394495	leg=8:394494
 Cloudburst	dub=2:358857,8:358857	leg=2:358856,8:358856
-Clouds	dub=2:92609,2:92571,8:92609,8:92571	leg=2:76684,8:76684
+Clouds	dub=2:92609,8:92609,2:92571,8:92571	leg=2:76684,8:76684
 Clouds (2020)	dub=6:1299129
 Cloverfield A Particula de Deus	dub=2:21724,8:21724
 Cloverfield: Monstro	dub=2:317707,2:91264,8:317707,8:91264	leg=2:317708,8:317708
@@ -997,7 +997,7 @@ Clube Zero (2023)	dub=6:1311593	leg=6:1311594
 Clube da Luta	dub=2:342865,2:20957,8:342865,8:20957	leg=2:342864,8:342864
 Clube da Luta (1999)	dub=6:1298139
 Clube da Luta Para Mulheres (2020)	dub=6:1308766
-Clube da Luta para Meninas	dub=2:266646,2:226071,8:266646,8:226071	leg=2:226064,8:226064
+Clube da Luta para Meninas	dub=2:266646,8:266646,2:226071,8:226071	leg=2:226064,8:226064
 Clube da Mordida	dub=2:202583,8:202583	leg=2:202606,8:202606
 Clube da Mordida (2019)	dub=6:1305830	leg=6:1305831
 Clube de Assassinos (2023)	dub=6:1302764
@@ -1018,7 +1018,7 @@ Clube dos Infiéis Honestos (2018)	dub=6:1307744
 Clube dos Pervertidos	dub=2:134068,8:134068
 Clube dos Pervertidos (2004)	dub=6:1298928
 Clube dos Vandalos (2024)	dub=6:1311782	leg=6:1309125
-Clube dos Vândalos	dub=2:280609,2:278088,8:280609,8:278088	leg=2:278089,8:278089
+Clube dos Vândalos	dub=2:280609,8:280609,2:278088,8:278088	leg=2:278089,8:278089
 Clutch Time	dub=2:194185,8:194185
 Clímax (2018)	leg=6:1305762
 Coach Carter Treino para a Vida (2005)	dub=6:1303224
@@ -1055,7 +1055,7 @@ Codinome: Banderas (2018)	dub=6:1305122	leg=6:1305123
 Coelhos Assassinos	dub=2:335694,8:335694	leg=2:335693,8:335693
 Coerencia (2013)	leg=6:1303982
 Coffee & Kareem (2020)	dub=6:1297879
-Coffee And Kareem	dub=2:45084,2:45050,8:45084,8:45050	leg=2:42907,8:42907
+Coffee And Kareem	dub=2:45084,8:45084,2:45050,8:45050	leg=2:42907,8:42907
 Cohen vs. Rosi	dub=2:329604,8:329604	leg=2:329603,8:329603
 Coherence	leg=2:235636,8:235636
 Coherence (2014)	leg=6:1314221
@@ -1071,7 +1071,7 @@ Coisas de Pássaros	dub=2:333263,8:333263
 Coisas de Pássaros (2000)	dub=6:1313334
 Coisas do Amor	dub=2:294167,8:294167	leg=2:294168,8:294168
 Coka Chicas	leg=2:380982,8:380982
-Colarinho Branco 2	dub=2:329994,2:329888,8:329994,8:329888	leg=2:329887,8:329887
+Colarinho Branco 2	dub=2:329994,8:329994,2:329888,8:329888	leg=2:329887,8:329887
 Colarinho Branco 2 (2025)	dub=6:1313635
 Colateral	dub=2:259330,2:20959,8:259330,8:20959	leg=2:259331,8:259331
 Colateral (2004)	dub=6:1302106
@@ -1096,12 +1096,12 @@ Colheita Maldita 5: Campos do Terror (1998)	dub=6:1303325
 Colheita Maldita 666 (1999)	dub=6:1303326
 Colheita Maldita 7: A Revelação (2001)	leg=6:1303327
 Colheita Maldita Genesis (2011)	dub=6:1300452
-Colheita Sombria	dub=2:265889,2:219924,8:265889,8:219924	leg=2:219923,8:219923
+Colheita Sombria	dub=2:265889,8:265889,2:219924,8:219924	leg=2:219923,8:219923
 Colheita Sombria (2023)	dub=6:1302597	leg=6:1302596
 Colinas de Sangue	dub=2:318524,2:311846,8:318524,8:311846	leg=2:318525,8:318525
 Colisao (2022)	dub=6:1299474
 Colisão	dub=2:162321,2:162320,8:162321,8:162320
-Colisão: Acidente ou Homicídio?	dub=2:378247,8:391567,8:378247	leg=2:378246,8:378246
+Colisão: Acidente ou Homicídio?	dub=8:391567,2:378247,8:378247	leg=2:378246,8:378246
 Collide	dub=2:189329,8:189329	leg=2:189336,8:189336
 Collide (2022)	dub=6:1302499
 Colombiana - Em Busca de Vinganca	dub=2:21607,8:21607
@@ -1114,10 +1114,10 @@ Com 007 So Se Vive Duas Vezes (1967)	dub=6:1297368
 Com 007 Só Se Vive Duas Vezes	dub=2:381943,2:94125,8:381943,8:94125	leg=2:381942,8:381942
 Com 007 Viva e Deixe Morrer	dub=2:382397,2:94128,8:382397,8:94128	leg=2:382396,8:382396
 Com 007 Viva e Deixe Morrer (1973)	dub=6:1297371
-Com Amor Simon	dub=2:103990,2:103989,8:103990,8:103989
+Com Amor Simon	dub=2:103990,8:103990,2:103989,8:103989
 Com Amor e Muita Inspiracao (2019)	dub=6:1301381
 Com Amor, Anonima (2021)	dub=6:1299055
-Com Amor, Anônima	dub=2:189897,2:142959,8:189897,8:142959	leg=2:142960,8:142960
+Com Amor, Anônima	dub=2:189897,8:189897,2:142959,8:142959	leg=2:142960,8:142960
 Com Amor, Liza	dub=2:330392,8:330392	leg=2:330391,8:330391
 Com Amor, Liza (2002)	dub=6:1309855	leg=6:1309856
 Com Amor, Marilyn	dub=2:347281,8:347281	leg=2:347280,8:347280
@@ -1167,7 +1167,7 @@ Combatentes da Liberdade: Ray	dub=2:22541,8:22541
 Combatentes da Liberdade: Ray (2018)	dub=6:1308201
 Combinacao Perfeita (2022)	dub=6:1299432
 Combinacao do Azevinho (2022)	dub=6:1302001
-Combinação Perfeita	dub=2:186753,2:160409,8:186753,8:160409	leg=2:160438,8:160438
+Combinação Perfeita	dub=2:186753,8:186753,2:160409,8:160409	leg=2:160438,8:160438
 Comboio 48: A Última Resistência	dub=2:160610,2:160600,8:160610,8:160600
 Comboio 48: A Última Resistência (2019)	dub=6:1305911
 Come Away	leg=2:91453,8:91453
@@ -1181,7 +1181,7 @@ Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts	dub=2:149405,8:149
 Comer Rezar Ladrar (2026)	dub=6:1314447
 Comer, Rezar, Amar	dub=2:371869,2:20961,8:371869,8:20961	leg=2:371868,8:371868
 Comer, Rezar, Amar (2010)	dub=6:1299103
-Comer, Rezar, Ladrar	dub=2:373338,2:373337,2:372355,8:373338,8:373337,8:372355	leg=2:372354,8:372354
+Comer, Rezar, Ladrar	dub=2:373338,2:373337,8:373338,8:373337,2:372355,8:372355	leg=2:372354,8:372354
 Comfort Farms	leg=2:90730,8:90730
 Comfort Farms (2020)	leg=6:1308949
 Como Agarrar Meu Ex-Namorado	dub=2:361817,8:361817	leg=2:361816,8:361816
@@ -1218,7 +1218,7 @@ Como Estrelas na Terra (2007)	leg=6:1311136
 Como Eu Era Antes de Voce	dub=2:21557,8:21557
 Como Eu Era Antes de Voce (2016)	dub=6:1298852
 Como Fotografar um Fantasma	leg=2:372718,8:372718
-Como Ganhar Milhões Antes Que a Avó Morra	dub=2:318624,2:318093,8:318624,8:318093	leg=2:318094,2:300632,8:318094,8:300632
+Como Ganhar Milhões Antes Que a Avó Morra	dub=2:318624,8:318624,2:318093,8:318093	leg=2:318094,2:300632,8:318094,8:300632
 Como Ganhar Milhões Antes Que a Avó Morra (2024)	dub=6:1313413
 Como Hackear Seu Chefe	dub=2:117386,8:117386
 Como Hackear Seu Chefe (2021)	dub=6:1311351
@@ -1242,7 +1242,7 @@ Como Perder um Homem em 10 Dias	dub=2:20559,8:20559
 Como Perder um Homem em 10 Dias (2003)	dub=6:1311955	leg=6:1311954
 Como Pétalas que Caem	dub=2:155724,8:155724	leg=2:155720,8:155720
 Como Pétalas que Caem (2022)	dub=6:1306790	leg=6:1306791
-Como Roubar um Banco	dub=2:284543,2:265549,2:264337,8:284543,8:265549,8:264337	leg=2:264338,8:264338
+Como Roubar um Banco	dub=2:284543,2:265549,8:284543,8:265549,2:264337,8:264337	leg=2:264338,8:264338
 Como Roubar um Banco (2024)	dub=6:1312025	leg=6:1312024
 Como Sair de Buffalo	dub=2:349040,2:106819,8:349040,8:106819	leg=2:349039,8:349039
 Como Sair de Buffalo (2020)	dub=6:1302127
@@ -1265,8 +1265,8 @@ Como Superar um Coração em Pedaços	dub=2:215890,8:215890	leg=2:215891,8:21589
 Como Superar um Coração em Pedaços (2023)	dub=6:1309492	leg=6:1309493
 Como Treinar o Seu Dragao (2010)	dub=6:1305334
 Como Treinar o Seu Dragao (2025)	dub=6:1313677	leg=6:1313676
-Como Treinar o Seu Dragão	dub=2:335543,2:335380,2:109078,8:335543,8:335380,8:109078	leg=2:335379,8:335379
-Como Treinar o Seu Dragão 3	dub=2:109080,2:22501,8:109080,8:22501
+Como Treinar o Seu Dragão	dub=2:335543,8:335543,2:335380,2:109078,8:335380,8:109078	leg=2:335379,8:335379
+Como Treinar o Seu Dragão 3	dub=2:22501,8:22501,2:109080,8:109080
 Como Treinar o Seu Dragão: Volta Ao Lar	dub=2:236332,8:236332
 Como Treinar o Seu Dragão: Volta ao Lar (2019)	dub=6:1310841
 Como Treinar o Seu Marido	dub=2:281305,8:281305	leg=2:281306,8:281306
@@ -1275,7 +1275,7 @@ Como Treinar o seu Dragao 2 (2014)	dub=6:1298022
 Como Treinar o seu Dragao 3 (2019)	dub=6:1297118
 Como Treinar o seu Dragão 2	dub=2:109079,8:109079
 Como Uma Onda no Mar	dub=2:322719,8:322719	leg=2:322718,8:322718
-Como Vender a Lua	dub=2:280611,2:280610,8:280611,8:280610	leg=2:280612,8:280612
+Como Vender a Lua	dub=2:280611,8:280611,2:280610,8:280610	leg=2:280612,8:280612
 Como Vender a Lua (2024)	dub=6:1311844	leg=6:1311843
 Como Viajar Com o Mala do Seu Pai (2008)	dub=6:1303854
 Como Virei Gângster	dub=2:184036,8:184036	leg=2:184020,8:184020
@@ -1289,7 +1289,7 @@ Como Você Me Vê?	dub=2:75040,8:75040
 Como Você Me Vê? (2017)	dub=6:1307940
 Como Você Quiser	dub=2:144068,8:144068
 Como Você Sabe (2010)	dub=6:1310403	leg=6:1310404
-Como conquistar o Billy Walsh	dub=2:265868,2:256001,8:265868,8:256001	leg=2:256002,8:256002
+Como conquistar o Billy Walsh	dub=2:265868,8:265868,2:256001,8:256001	leg=2:256002,8:256002
 Como e Bom se Divertir (1947)	dub=6:1300855
 Como o Gringo Roubou o Natal	dub=2:353773,8:353773	leg=2:353772,8:353772
 Como se Tornar um Conquistador	dub=2:128573,8:128573
@@ -1324,7 +1324,7 @@ Conan, O Destruidor	dub=2:19976,8:19976
 Conan, o Bárbaro	dub=2:184560,8:184560
 Conan, o Bárbaro (2011)	dub=6:1305663
 Conan, o Destruidor (1984)	dub=6:1311645
-Conclave	dub=2:314454,2:314453,2:313351,2:313350,8:314454,8:314453,8:313351,8:313350	leg=2:314455,8:314455
+Conclave	dub=2:314454,2:313351,8:314454,8:313351,2:314453,2:313350,8:314453,8:313350	leg=2:314455,8:314455
 Conclave (2024)	dub=6:1313150	leg=6:1312559
 Concorrencia Oficial (2021)	dub=6:1301483
 Concorrência Oficial	dub=2:167205,8:167205	leg=2:167204,8:167204
@@ -1354,13 +1354,13 @@ Conexão Perigosa	dub=2:367035,2:101407,8:367035,8:101407	leg=2:367034,8:367034
 Conexão de Elite (2016)	dub=6:1307534
 Conexões Perigosas	dub=2:294915,8:294915	leg=2:294916,8:294916
 Conferencia Mortal (2023)	dub=6:1302607
-Conferência Mortal	dub=2:247268,2:219953,8:247268,8:219953	leg=2:219954,8:219954
+Conferência Mortal	dub=2:247268,8:247268,2:219953,8:219953	leg=2:219954,8:219954
 Confess, Fletch	dub=2:181153,8:181153	leg=2:181140,8:181140
 Confesse Fletch (2022)	dub=6:1301254
 Confesse, Fletch	dub=2:255237,8:255237
 Confetti - Além das Palavras (2020)	dub=6:1313110
 Confetti: Além das Palavras	dub=2:313592,8:313592	leg=2:313593,8:313593
-Confia: Sonho de Cria	dub=2:310271,2:310103,8:310271,8:310103	leg=2:310104,8:310104
+Confia: Sonho de Cria	dub=2:310271,8:310271,2:310103,8:310103	leg=2:310104,8:310104
 Confia: Sonho de Cria (2025)	dub=6:1313037
 Confiar (2010)	dub=6:1304127
 Confidencial	dub=2:318546,8:318546	leg=2:318547,8:318547
@@ -1368,7 +1368,7 @@ Confidencial (2006)	dub=6:1300679
 Confidential Informant	leg=2:246177,8:246177
 Confidências à Meia-Noite	dub=2:95908,8:95908
 Confidências à Meia-Noite (1959)	dub=6:1307967
-Confinado	dub=2:329995,2:329890,8:329995,8:329890	leg=2:329889,2:319123,8:329889,8:319123
+Confinado	dub=2:329995,8:329995,2:329890,8:329890	leg=2:329889,2:319123,8:329889,8:319123
 Confinado (2025)	dub=6:1313631	leg=6:1313630
 Confinamento	dub=2:110810,8:110810
 Confinamento (2021)	dub=6:1298496
@@ -1414,7 +1414,7 @@ Consentimento (2022)	dub=6:1313016
 Consequencia (2026)	dub=6:1314465	leg=6:1314464
 Consequencias (2019)	dub=6:1301417
 Consequencias Irreversiveis (2022)	dub=6:1303139
-Consequência	dub=2:373793,2:373792,2:373388,8:373793,8:373792,8:373388	leg=2:373387,8:373387
+Consequência	dub=2:373793,2:373792,8:373793,8:373792,2:373388,8:373388	leg=2:373387,8:373387
 Consequências	dub=2:349042,2:254846,8:349042,8:254846	leg=2:349041,2:254847,8:349041,8:254847
 Consequências (2021)	dub=6:1311344	leg=6:1311345
 Consequências Irreversíveis	dub=2:246820,8:246820	leg=2:246821,8:246821
@@ -1440,8 +1440,8 @@ Constantine (2005)	dub=6:1297272
 Constantine - Cidade de Demonios - O Filme	dub=2:22542,8:22542
 Constantine A Casa dos Misterios (2022)	dub=6:1302310
 Constantine Cidade de Demonios (2018)	dub=6:1302305
-Constantine: A Casa dos Mistérios	dub=2:313820,2:169755,8:313820,8:169755	leg=2:169759,8:169759
-Constantine: Cidade de Demônios	dub=2:376771,2:313821,8:376771,8:313821	leg=2:376770,8:376770
+Constantine: A Casa dos Mistérios	dub=2:313820,8:313820,2:169755,8:169755	leg=2:169759,8:169759
+Constantine: Cidade de Demônios	dub=2:313821,8:313821,2:376771,8:376771	leg=2:376770,8:376770
 Construindo um Lar	dub=2:229484,8:229484	leg=2:229480,8:229480
 Construindo um Lar (2021)	dub=6:1311185	leg=6:1311186
 Construindo uma Carreira	dub=2:112006,8:112006
@@ -1507,7 +1507,7 @@ Contra a Maré	leg=2:166042,8:166042
 Contra a Maré (2013)	leg=6:1305590
 Contra o Gelo	dub=2:150708,8:150708	leg=2:150709,8:150709
 Contra o Gelo (2022)	dub=6:1299303
-Contra o Mundo	dub=2:263703,2:263702,8:263703,8:263702	leg=2:263704,8:263704
+Contra o Mundo	dub=2:263703,8:263703,2:263702,8:263702	leg=2:263704,8:263704
 Contra o Mundo (2024)	dub=6:1304113	leg=6:1304112
 Contra o Relogio (2020)	dub=6:1298958
 Contra o Relógio	dub=2:90731,8:90731
@@ -1607,13 +1607,13 @@ Coragem Sob Fogo (1996)	dub=6:1301399
 Coragem para Amar (2017)	dub=6:1303668
 Coragem para Vencer	dub=2:336838,8:336838	leg=2:336837,8:336837
 Coragem para Vencer (2016)	dub=6:1303514
-Corajosa 3	dub=2:371673,8:394914,8:371673	leg=2:371672,8:371672
+Corajosa 3	dub=8:394914,2:371673,8:371673	leg=2:371672,8:371672
 Corajosa 3 (2026)	dub=6:1314439
 Corajosos	dub=2:108283,8:108283
 Corajosos (2011)	dub=6:1298842
 Coraline e o Mundo Secreto	dub=2:343231,2:108135,8:343231,8:108135	leg=2:343230,8:343230
 Coraline e o Mundo Secreto (2009)	dub=6:1299296
-Coração Delator	dub=2:324453,8:392212,8:324453	leg=2:324452,8:324452
+Coração Delator	dub=8:392212,2:324453,8:324453	leg=2:324452,8:324452
 Coração Delator (2025)	dub=6:1313583
 Coração Errante	dub=2:133033,8:133033	leg=2:133031,8:133031
 Coração Iluminado (1998)	dub=6:1301249
@@ -1662,10 +1662,10 @@ Cores da Justiça	dub=2:352907,2:35259,8:352907,8:35259	leg=2:352906,8:352906
 Corgi Top Dog (2019)	dub=6:1301832
 Corgi: Top Dog	dub=2:31753,8:31753
 Corina	leg=2:320250,8:320250
-Coringa	dub=2:31912,2:31903,8:31912,8:31903
+Coringa	dub=2:31912,8:31912,2:31903,8:31903
 Coringa (2019)	dub=6:1298378
 Coringa: Delirio a Dois (2024)	dub=6:1312355	leg=6:1312354
-Coringa: Delírio a Dois	dub=2:292284,2:292283,8:292284,8:292283	leg=2:292285,8:292285
+Coringa: Delírio a Dois	dub=2:292284,8:292284,2:292283,8:292283	leg=2:292285,8:292285
 Coriolano	dub=2:330013,8:330013	leg=2:330012,8:330012
 Coriolano (2011)	dub=6:1303792,6:1303895
 Corisco & Dadá	dub=2:112952,8:112952
@@ -1705,7 +1705,7 @@ Corra!	dub=2:21610,8:386242,8:21610	leg=8:386241
 Corra! (2017)	dub=6:1297273
 Corra, Baby, Corra	dub=2:367568,8:367568	leg=2:367567,8:367567
 Corra, Menino, Corra	dub=2:341055,8:341055
-Corra, Querida, Corra	dub=2:179797,2:178828,8:179797,8:178828	leg=2:178838,8:178838
+Corra, Querida, Corra	dub=2:179797,8:179797,2:178828,8:178828	leg=2:178838,8:178838
 Corram Que O Agente Voltou	dub=2:97172,8:97172
 Corram Que o Agente Voltou (2010)	dub=6:1307570
 Corrective Measures – Fuga da Prisão	dub=2:179746,8:179746	leg=2:179742,8:179742
@@ -1726,7 +1726,7 @@ Correntes	dub=2:286950,8:286950
 Correr Atirando	dub=2:157972,8:157972	leg=2:157973,8:157973
 Correr Atirando (2022)	dub=6:1299350
 Correspondentes Especiais	dub=2:368209,8:368209	leg=2:368208,8:368208
-Corrida Contra o Tempo	dub=2:365252,8:395032,8:394988,8:394948,8:365252	leg=8:394949
+Corrida Contra o Tempo	dub=8:395032,8:394988,2:365252,8:394948,8:365252	leg=8:394949
 Corrida Contra o Tempo (2026)	dub=6:1502888	leg=6:1502887
 Corrida Maluca	dub=2:292111,8:292111	leg=2:292112,8:292112
 Corrida Maluca (2023)	dub=6:1312340
@@ -1755,7 +1755,7 @@ Corsage (2022)	dub=6:1301258
 Corta fogo (2026)	dub=6:1314328
 Corta-fogo	dub=2:367409,8:367409	leg=2:367408,8:367408
 Corte Profundo (2020)	leg=6:1312768
-Corte no Tempo	dub=2:295385,2:292291,8:295385,8:292291	leg=2:292292,8:292292
+Corte no Tempo	dub=2:295385,8:295385,2:292291,8:292291	leg=2:292292,8:292292
 Corte no Tempo (2024)	dub=6:1312362	leg=6:1312361
 Cortina de Fogo	dub=2:353659,8:353659
 Cortina de Fogo 2	dub=2:26385,8:26385
@@ -1775,7 +1775,7 @@ County Line: No Fear	dub=8:392601	leg=8:392600
 Covil	dub=2:378886,8:378886
 Covil de Ladroes (2018)	dub=6:1297153
 Covil de Ladrões	dub=2:19987,8:19987
-Covil de Ladrões 2	dub=2:314019,2:313996,8:314019,8:313996	leg=2:313997,2:307928,8:313997,8:307928
+Covil de Ladrões 2	dub=2:314019,8:314019,2:313996,8:313996	leg=2:313997,2:307928,8:313997,8:307928
 Covil de Ladrões 2 (2025)	dub=6:1313189	leg=6:1312988
 Covil de Lutadores	dub=2:158969,8:158969	leg=2:158972,8:158972
 Covil de Lutadores (2020)	dub=6:1306385	leg=6:1306386
@@ -1805,9 +1805,9 @@ Crazy Trips - Budapeste	dub=2:22012,8:22012
 Creating a Universe - The Making of Rebel Moon	leg=2:261679,8:261679
 Creed 2	dub=2:21428,8:21428
 Creed 3 (2023)	dub=6:1301065	leg=6:1301064
-Creed II	dub=2:318526,2:21479,8:318526,8:21479	leg=2:318527,8:318527
+Creed II	dub=2:21479,8:21479,2:318526,8:318526	leg=2:318527,8:318527
 Creed II (2018)	dub=6:1297123
-Creed III	dub=2:190764,2:190650,8:190764,8:190650	leg=2:190649,8:190649
+Creed III	dub=2:190764,8:190764,2:190650,8:190650	leg=2:190649,8:190649
 Creed: Nascido para Lutar	dub=2:318528,2:20964,8:318528,8:20964	leg=2:318529,8:318529
 Creed: Nascido para Lutar (2015)	dub=6:1297124
 Crepusculo (2008)	dub=6:1298237
@@ -1820,7 +1820,7 @@ Crepúsculo de Aço	dub=2:370327,8:370327	leg=2:370326,8:370326
 Crepúsculo dos Guerreiros: Walled In	leg=2:291253,8:291253
 Crescendo Juntas	dub=2:226079,8:226079	leg=2:226066,8:226066
 Crescendo Juntas (2023)	dub=6:1302798
-Crescendo Juntos: A História de Erik e Malik	dub=2:265870,2:265869,8:265870,8:265869	leg=2:265871,8:265871
+Crescendo Juntos: A História de Erik e Malik	dub=2:265870,8:265870,2:265869,8:265869	leg=2:265871,8:265871
 Crescendo Juntos: A História de Erik e Malik (2024)	dub=6:1309588	leg=6:1309589
 Crescer Nao e Brincadeira (2022)	dub=6:1299649
 Crescer Nao é Brincadeira 2 (2024)	dub=6:1304151
@@ -1836,14 +1836,14 @@ Crianças da Noite	dub=2:379100,8:379100	leg=2:379099,8:379099
 Crianças de Valor	dub=2:348148,8:348148	leg=2:348147,8:348147
 Criatura Maligna	dub=2:250605,8:250605	leg=2:250606,8:250606
 Criatura Maligna (2020)	dub=6:1311097	leg=6:1311098
-Criatura Voraz	dub=2:330412,2:329997,8:330412,8:329997	leg=2:329996,2:328090,8:329996,8:328090
+Criatura Voraz	dub=2:330412,8:330412,2:329997,8:329997	leg=2:329996,2:328090,8:329996,8:328090
 Criatura Voraz (2025)	dub=6:1313633	leg=6:1313632
 Criaturas	dub=2:237988,8:237988	leg=2:237987,8:237987
 Criaturas (2021)	dub=6:1311014	leg=6:1311015
-Criaturas Extraordinariamente Brilhantes	dub=2:377701,2:377214,8:377701,8:377214	leg=2:377213,8:377213
+Criaturas Extraordinariamente Brilhantes	dub=2:377701,8:377701,2:377214,8:377214	leg=2:377213,8:377213
 Criaturas Extraordinariamente Brilhantes (2026)	dub=6:1314565	leg=6:1314564
 Criaturas Rastejantes	dub=2:291270,8:291270	leg=2:291271,8:291271
-Criaturas ao Ataque	dub=2:320578,2:320560,2:26570,8:320578,8:320560,8:26570	leg=2:320579,8:320579
+Criaturas ao Ataque	dub=2:320560,8:320560,2:320578,2:26570,8:320578,8:26570	leg=2:320579,8:320579
 Criaturas ao Ataque (2020)	dub=6:1308495
 Criaturas do Farol	dub=2:306698,8:306698	leg=2:306699,8:306699
 Criaturas do Farol (2024)	dub=6:1312970
@@ -1926,7 +1926,7 @@ Cronos - A Relíquia do Tempo	dub=2:375041,2:362253,8:375041,8:362253
 Cronos A Reliquia do Tempo (2021)	dub=6:1303532
 Crooked House	leg=2:94150,8:94150
 Crossroads: Amigas Para Sempre (2002)	dub=6:1501122
-Cruella	dub=2:108627,2:108619,8:108627,8:108619
+Cruella	dub=2:108627,8:108627,2:108619,8:108619
 Cruella (2021)	dub=6:1298458
 Cruise: Destino em Colisão	dub=2:35260,8:35260
 Cruise: Destino em Colisão (2018)	dub=6:1307544
@@ -1967,7 +1967,7 @@ Cubo: A Caixa do Medo	dub=2:186463,8:186463	leg=2:186462,8:186462
 Cubo: A Caixa do Medo (2021)	dub=6:1300754
 Cuckoo	leg=2:286600,8:286600
 Cuckoo (2024)	leg=6:1312145
-Cuckoo: O Medo Chama	dub=2:295386,2:294980,8:295386,8:294980	leg=2:294981,8:294981
+Cuckoo: O Medo Chama	dub=2:295386,8:295386,2:294980,8:294980	leg=2:294981,8:294981
 Cuckoo: O medo chama (2024)	dub=6:1312409
 Cucuy O Bicho-Papao	dub=2:26079,8:26079
 Cucuy: O Bicho-Papão (2018)	dub=6:1308256
@@ -1993,7 +1993,7 @@ Currais	dub=2:205200,8:205200
 Currais (2019)	dub=6:1310700
 Curral	dub=2:160623,8:160623
 Curral (2021)	dub=6:1299433
-Curry com Cianeto	dub=2:235138,8:394724,8:235138	leg=2:235139,8:235139
+Curry com Cianeto	dub=8:394724,2:235138,8:235138	leg=2:235139,8:235139
 Curry com Cianeto (2023)	dub=6:1309708	leg=6:1309709
 Curse of the Shark	leg=8:392409
 Curtas dos Minions 2	dub=2:179816,8:179816	leg=2:179740,8:179740
@@ -2028,7 +2028,7 @@ Câmera Indiscreta	dub=2:236335,8:236335	leg=2:236324,8:236324
 Câmera Indiscreta (2021)	dub=6:1311070	leg=6:1311071
 Câmera Mortal	dub=2:295383,8:295383	leg=2:295384,8:295384
 Câncer	dub=2:382382,8:382382
-Câncer com Ascendente em Virgem	dub=2:339758,2:339757,8:339758,8:339757	leg=2:339756,8:339756
+Câncer com Ascendente em Virgem	dub=2:339758,8:339758,2:339757,8:339757	leg=2:339756,8:339756
 Cândido Portinari, um Pintor de Brodósqui	dub=8:395240
 Cães de Aluguel	dub=2:110243,8:110243
 Cães de Guerra	dub=2:318544,2:286619,8:318544,8:286619	leg=2:318545,2:286620,8:318545,8:286620
@@ -2047,7 +2047,7 @@ Cão e Gato	dub=2:253531,8:253531	leg=2:253532,8:253532
 Cão-Estrela E Turbo-Gato	dub=2:148661,8:148661	leg=2:148676,8:148676
 Cão-Estrela E Turbo-Gato (2019)	dub=6:1305788	leg=6:1305789
 Cãofusões	dub=2:317449,8:317449	leg=2:317450,8:317450
-Céu Vermelho-Sangue	dub=2:189902,2:113035,8:189902,8:113035
+Céu Vermelho-Sangue	dub=2:189902,8:189902,2:113035,8:113035
 Céu em Chamas	dub=2:92665,8:92665
 Céu em Fúria	dub=8:397618	leg=8:397617
 Cícero Dias, o Compadre de Picasso	dub=2:335754,8:335754
@@ -2056,7 +2056,7 @@ Cíntia - A Criatura (2018)	dub=6:1305780	leg=6:1305781
 Círculo Vicioso	dub=2:112926,8:112926
 Círculo de Espiões	dub=2:218890,8:218890	leg=2:218889,8:218889
 Círculo de Espiões (2023)	dub=6:1311451	leg=6:1311452
-Círculo de Fogo	dub=2:312861,2:19972,8:312861,8:19972
+Círculo de Fogo	dub=2:312861,8:312861,2:19972,8:19972
 Círculo de Fogo (2001)	dub=6:1301222
 Círculo de Fogo - Pacific Rim	dub=2:19973,8:19973
 Círculo de Fogo: A Revolta	dub=2:19971,8:19971
@@ -2064,11 +2064,11 @@ Círculo de Paixões	dub=2:112393,8:112393
 Círculo de Paixões (1997)	dub=6:1307138
 Código 3	leg=2:368823,8:368823
 Código 46	dub=2:338617,8:338617	leg=2:338616,8:338616
-Código Alarum	dub=2:322805,2:322735,8:322805,8:322735	leg=2:322734,8:322734
+Código Alarum	dub=2:322805,8:322805,2:322735,8:322735	leg=2:322734,8:322734
 Código Alarum (2025)	dub=6:1313527	leg=6:1313526
 Código Alfa	dub=2:340426,8:340426	leg=2:340425,8:340425
 Código Mortal (2005)	dub=6:1312376	leg=6:1312375
-Código Preto	dub=2:319051,2:319050,8:319051,8:319050	leg=2:319052,2:318420,8:319052,8:318420
+Código Preto	dub=2:319051,8:319051,2:319050,8:319050	leg=2:319052,2:318420,8:319052,8:318420
 Código Terror	dub=2:266723,8:266723	leg=2:266724,8:266724
 Código de Conduta	dub=2:109169,8:109169
 Código de Honra	dub=2:187309,8:187309	leg=2:309521,8:309521
@@ -2082,7 +2082,7 @@ Código do Armagedom	dub=2:182621,8:182621
 Código do Armagedom (2022)	dub=6:1303528
 Código para o Inferno	dub=2:104420,8:104420
 Código para o Inferno (1998)	dub=6:1309007
-Código: Imperador	dub=2:190987,2:169718,8:190987,8:169718	leg=2:169714,8:169714
+Código: Imperador	dub=2:190987,8:190987,2:169718,8:169718	leg=2:169714,8:169714
 Código: Imperador (2022)	dub=6:1306443	leg=6:1306444
 Código: Vingança	leg=8:393578
 Códigos Ocultos	dub=2:142060,8:142060	leg=2:142055,8:142055

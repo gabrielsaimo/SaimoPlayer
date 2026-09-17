@@ -156,7 +156,7 @@ Um Ano Inesquecível - Inverno	dub=2:198683,8:198683
 Um Ano Inesquecível - Primavera	dub=2:199675,8:199675
 Um Ano Inesquecível - Primavera (2023)	dub=6:1306813
 Um Ano Inesquecível: Outuno	dub=2:197635,8:197635
-Um Ano Inesquecível: Verão	dub=2:198180,2:196787,8:198180,8:196787
+Um Ano Inesquecível: Verão	dub=2:198180,8:198180,2:196787,8:196787
 Um Ano do Cão	dub=2:131039,8:131039
 Um Ano do Cão (2009)	dub=6:1304417
 Um Asilo Fora do Comum	dub=2:189313,8:189313
@@ -215,7 +215,7 @@ Um Castelo para o Natal	dub=2:140786,8:140786	leg=2:140790,8:140790
 Um Castelo para o Natal (2021)	dub=6:1304747	leg=6:1304748
 Um Chamado Especial	dub=2:42930,8:42930
 Um Chamado Especial (2014)	dub=6:1307430
-Um Chamado Natalino	dub=2:228048,2:228045,8:228048,8:228045	leg=2:228052,8:228052
+Um Chamado Natalino	dub=2:228048,8:228048,2:228045,8:228045	leg=2:228052,8:228052
 Um Chamado Natalino (2023)	dub=6:1302846
 Um Chamado de Esperança	dub=2:203334,8:203334	leg=2:203333,8:203333
 Um Chamado de Esperança (2022)	dub=6:1305436	leg=6:1305437
@@ -262,7 +262,7 @@ Um Coração que Perdoa (2016)	dub=6:1307977
 Um Corpo Que Cai	leg=2:352242,8:352242
 Um Craque Animal 2 (2004)	dub=6:1311065
 Um Crime Americano (2007)	dub=6:1303783
-Um Crime Argentino	dub=2:250670,2:179771,8:250670,8:179771	leg=2:179791,8:179791
+Um Crime Argentino	dub=2:250670,8:250670,2:179771,8:179771	leg=2:179791,8:179791
 Um Crime Argentino (2022)	dub=6:1300501
 Um Crime Passional	dub=2:285101,8:285101
 Um Crime Perfeito	dub=2:138912,8:138912
@@ -288,7 +288,7 @@ Um Dia	dub=2:374322,2:95925,8:374322,8:95925	leg=2:374321,8:374321
 Um Dia (2011)	dub=6:1301480
 Um Dia Cinco Estrelas	dub=2:229174,8:229174
 Um Dia Cinco Estrelas (2023)	dub=6:1302863
-Um Dia Daqueles	dub=2:319075,2:319074,8:319075,8:319074	leg=2:319076,2:317702,8:319076,8:317702
+Um Dia Daqueles	dub=2:319075,8:319075,2:319074,8:319074	leg=2:319076,2:317702,8:319076,8:317702
 Um Dia Daqueles (2025)	dub=6:1313445
 Um Dia De Chuva Em Nova York	dub=2:89278,8:89278
 Um Dia Difícil	dub=2:150753,8:150753	leg=2:150754,8:150754
@@ -324,7 +324,7 @@ Um Dia de Louco (1994)	dub=6:1300693
 Um Dia de Sorte em Nova York	dub=8:387573	leg=8:387571
 Um Dia dos Mortos Nada Tradicional	dub=2:223403,8:223403	leg=2:223384,8:223384
 Um Dia dos Mortos Nada Tradicional (2023)	dub=6:1309683	leg=6:1309684
-Um Dia e Meio	dub=2:212685,8:395959,8:212685	leg=2:212684,8:212684
+Um Dia e Meio	dub=8:395959,2:212685,8:212685	leg=2:212684,8:212684
 Um Dia e Meio (2023)	dub=6:1302485
 Um Dia na Disney	dub=2:285102,8:285102	leg=2:285103,8:285103
 Um Dia na Disney (2019)	leg=6:1308699
@@ -336,7 +336,7 @@ Um Dificil Recomeço (2022)	dub=6:1303606
 Um Difícil Recomeço	dub=2:259347,8:259347	leg=2:259348,8:259348
 Um Dinossauro em Apuros	dub=2:138906,8:138906
 Um Dinossauro em Apuros (2017)	dub=6:1304436
-Um Diário para Jordan	dub=2:155495,2:150734,8:155495,8:150734	leg=2:150737,8:150737
+Um Diário para Jordan	dub=2:155495,8:155495,2:150734,8:150734	leg=2:150737,8:150737
 Um Doce Assassinato (2015)	dub=6:1310262	leg=6:1310263
 Um Doce Milagre	dub=2:355684,8:355684	leg=2:355683,8:355683
 Um Doce Natal	dub=2:31901,8:31901
@@ -360,7 +360,7 @@ Um Espetáculo de Natal	dub=2:230277,8:230277	leg=2:230291,8:230291
 Um Espetáculo de Natal (2022)	dub=6:1309232	leg=6:1309233
 Um Espiao Animal (2019)	dub=6:1297476
 Um Espiao e Meio (2016)	dub=6:1297281
-Um Espião Animal	dub=2:42547,2:42515,8:42547,8:42515
+Um Espião Animal	dub=2:42547,8:42547,2:42515,8:42515
 Um Espião e Meio	dub=2:107784,8:387087,8:107784	leg=8:387086
 Um Estrangeiro no Ninho	dub=2:266681,8:266681	leg=2:266682,8:266682
 Um Estrangeiro no Ninho (2022)	dub=6:1311444	leg=6:1311445
@@ -379,7 +379,7 @@ Um Estranho no Lago (2013)	dub=6:1312595
 Um Estranho no Ninho	dub=2:94740,8:94740
 Um Estranho no Ninho (1975)	dub=6:1308043
 Um Eterno Primeiro Encontro (2023)	leg=6:1302817
-Um Fantasma na Batalha	dub=2:350383,2:348843,8:350383,8:348843	leg=2:348842,8:348842
+Um Fantasma na Batalha	dub=2:350383,8:350383,2:348843,8:348843	leg=2:348842,8:348842
 Um Fantasma na Batalha (2025)	dub=6:1313919
 Um Fascinante Novo Mundo	dub=2:189326,8:189326	leg=2:189334,8:189334
 Um Fascinante Novo Mundo (2021)	dub=6:1301322
@@ -390,7 +390,7 @@ Um Fiasco de Férias (2024)	dub=6:1312552
 Um Filho	dub=2:192116,8:192116	leg=2:192092,8:192092
 Um Filho (2022)	dub=6:1301339
 Um Filho Perigoso	dub=2:281332,8:281332	leg=2:281333,8:281333
-Um Filme Minecraft	dub=2:321019,2:321017,8:321019,8:321017	leg=2:321018,8:321018
+Um Filme Minecraft	dub=2:321017,8:321017,2:321019,8:321019	leg=2:321018,8:321018
 Um Filme Minecraft (2025)	dub=6:1313513	leg=6:1313512
 Um Filme de Cinema	dub=2:382531,2:128552,8:382531,8:128552
 Um Filme de Cinema (2023)	dub=6:1305087
@@ -423,7 +423,7 @@ Um Grande Garoto (2002)	dub=6:1302784
 Um Grito Silencioso	dub=2:343982,8:343982	leg=2:343981,8:343981
 Um Grito de Socorro	dub=2:225689,8:225689
 Um Grito de Socorro (2013)	dub=6:1309938
-Um Guarda-Florestal	dub=2:375058,2:366188,8:375058,8:366188
+Um Guarda-Florestal	dub=2:366188,8:366188,2:375058,8:375058
 Um Guarda-Florestal (2023)	dub=6:1305502	leg=6:1305503
 Um Heroi (2021)	dub=6:1301141
 Um Heroi de Brinquedo	dub=2:20851,8:20851
@@ -439,7 +439,7 @@ Um Homem Contra a Máfia	dub=2:214609,8:214609	leg=2:214608,8:214608
 Um Homem Contra a Máfia (2020)	dub=6:1310943	leg=6:1310944
 Um Homem Determinado	dub=2:131032,8:131032
 Um Homem Determinado (2005)	dub=6:1304447
-Um Homem Diferente	dub=2:322733,2:322729,8:322733,8:322729	leg=2:322732,8:322732
+Um Homem Diferente	dub=2:322729,8:322729,2:322733,8:322733	leg=2:322732,8:322732
 Um Homem Entre Gigantes	dub=2:92606,8:92606
 Um Homem Entre Gigantes (2015)	dub=6:1307453
 Um Homem Fora de Serie	dub=2:95927,8:95927
@@ -492,7 +492,7 @@ Um Laço de Amor	dub=2:64441,8:64441
 Um Limite Entre Nos (2016)	dub=6:1298115
 Um Limite Entre Nós	dub=2:336832,2:21187,8:336832,8:21187	leg=2:336831,8:336831
 Um Lindo Dia na Vizinhanca (2019)	dub=6:1297588
-Um Lindo Dia na Vizinhança	dub=2:370938,2:35969,2:35270,8:370938,8:35969,8:35270	leg=2:370937,8:370937
+Um Lindo Dia na Vizinhança	dub=2:35969,8:35969,2:370938,2:35270,8:370938,8:35270	leg=2:370937,8:370937
 Um Lobisomem Americano em Londres	dub=2:20852,8:20852
 Um Lobisomem Americano em Londres (1981)	dub=6:1301970
 Um Lobisomem Americano em Paris	dub=2:44469,8:44469
@@ -513,15 +513,15 @@ Um Lugar Bem Longe Daqui	dub=2:179769,8:179769	leg=2:179770,8:179770
 Um Lugar Bem Longe Daqui (2022)	dub=6:1300475
 Um Lugar Chamado Notting Hill	dub=2:21590,8:387089,8:21590	leg=8:387088
 Um Lugar Chamado Notting Hill (1999)	dub=6:1301228
-Um Lugar Chamado Utopia	dub=2:328109,2:328107,8:328109,8:328107	leg=2:328108,8:328108
+Um Lugar Chamado Utopia	dub=2:328107,8:328107,2:328109,8:328109	leg=2:328108,8:328108
 Um Lugar Chamado Utopia (2024)	dub=6:1313580
 Um Lugar Secreto	dub=2:145360,8:145360	leg=2:145369,8:145369
 Um Lugar Secreto (2021)	dub=6:1301127
-Um Lugar Silencioso	dub=2:101193,2:101191,8:101193,8:101191
+Um Lugar Silencioso	dub=2:101191,8:101191,2:101193,8:101193
 Um Lugar Silencioso (2018)	dub=6:1297462,6:1312261	leg=6:1312260
-Um Lugar Silencioso - Parte II	dub=2:113006,2:112479,8:383378,8:113006,8:112479	leg=2:112469,8:383377,8:112469
+Um Lugar Silencioso - Parte II	dub=2:113006,8:113006,2:112479,8:383378,8:112479	leg=2:112469,8:383377,8:112469
 Um Lugar Silencioso - Parte II (2021)	dub=6:1298599	leg=6:1298460
-Um Lugar Silencioso: Dia Um	dub=2:278079,2:278078,8:278079,8:278078	leg=2:278080,8:278080
+Um Lugar Silencioso: Dia Um	dub=2:278079,8:278079,2:278078,8:278078	leg=2:278080,8:278080
 Um Lugar Silencioso: Dia Um (2024)	dub=6:1311752	leg=6:1309179
 Um Lugar Solitario para Morrer	dub=2:94741,8:94741
 Um Lugar Solitário para Morrer (2011)	dub=6:1308976
@@ -538,14 +538,14 @@ Um Maluco No Exercito	dub=2:95949,8:95949
 Um Maluco no Exército (1994)	dub=6:1307127
 Um Maluco no Golfe	dub=2:63097,8:387091,8:63097	leg=8:387090
 Um Maluco no Golfe (1996)	dub=6:1301948
-Um Maluco no Golfe 2	dub=2:336691,2:336222,8:336691,8:336222	leg=2:336221,8:336221
+Um Maluco no Golfe 2	dub=2:336691,8:336691,2:336222,8:336222	leg=2:336221,8:336221
 Um Maluco no Golfe 2 (2025)	dub=6:1313702
 Um Maluco no Natal	dub=2:31911,8:31911
 Um Maluco no Natal (2018)	dub=6:1298954
 Um Marido Fiel	dub=2:169640,8:169640	leg=2:169652,8:169652
 Um Marido Fiel (2022)	dub=6:1300040
 Um Mascote Chocante	dub=8:393717	leg=8:393716
-Um Match Surpresa	dub=2:189935,2:136758,8:189935,8:136758	leg=2:136762,8:136762
+Um Match Surpresa	dub=2:189935,8:189935,2:136758,8:136758	leg=2:136762,8:136762
 Um Match Surpresa (2021)	dub=6:1304706	leg=6:1304707
 Um Menino Chamado Natal	dub=2:140698,8:140698	leg=2:140705,8:140705
 Um Menino Chamado Natal (2021)	dub=6:1298995
@@ -577,7 +577,7 @@ Um Morto Muito Louco	dub=2:341076,2:44470,8:341076,8:44470
 Um Morto Muito Louco (1989)	dub=6:1297222
 Um Morto Muito Louco 2 (1993)	dub=6:1308998
 Um Morto Muito Louco II	dub=2:44471,8:44471
-Um Motivo para Lutar	dub=2:202586,2:202001,8:202586,8:202001	leg=2:202000,8:202000
+Um Motivo para Lutar	dub=2:202586,8:202586,2:202001,8:202001	leg=2:202000,8:202000
 Um Motivo para Lutar (2023)	dub=6:1301715
 Um Mundo Encantado	dub=2:300141,2:156705,8:300141,8:156705
 Um Mundo Encantado (2020)	dub=6:1306402
@@ -596,13 +596,13 @@ Um Natal Apaixonado	dub=2:142057,8:142057	leg=2:142059,8:142059
 Um Natal Apaixonado (2019)	dub=6:1304582	leg=6:1304583
 Um Natal Bem Casado	dub=2:292281,8:292281	leg=2:292282,8:292282
 Um Natal Bem Casado (2022)	dub=6:1312352,6:1312364
-Um Natal Bem Jonas Brothers	dub=2:358164,2:352696,8:358164,8:352696	leg=2:352695,8:352695
+Um Natal Bem Jonas Brothers	dub=2:358164,8:358164,2:352696,8:352696	leg=2:352695,8:352695
 Um Natal Bem Jonas Brothers (2025)	dub=6:1314025
 Um Natal Brilhante	dub=2:343259,8:343259	leg=2:343258,8:343258
 Um Natal Brilhante (2006)	dub=6:1302954
 Um Natal Cheio de Amor	dub=2:352380,8:352380	leg=2:352379,8:352379
 Um Natal Cheio de Graca (2022)	dub=6:1300676
-Um Natal Cheio de Graça	dub=2:188218,2:181089,8:188218,8:181089
+Um Natal Cheio de Graça	dub=2:188218,8:188218,2:181089,8:181089
 Um Natal Cinco Estrelas	dub=2:141465,8:141465	leg=2:141461,8:141461
 Um Natal Cinco Estrelas (2020)	dub=6:1304733	leg=6:1304734
 Um Natal Encantado	dub=2:227027,8:227027	leg=2:227026,8:227026
@@ -672,9 +672,9 @@ Um Novo Sonho de Uma Noite de Verão	dub=2:318118,8:318118	leg=2:318119,8:318119
 Um Olhar do Paraiso	dub=2:21272,8:21272
 Um Olhar do Paraiso (2009)	dub=6:1300561
 Um Outro Francisco	dub=2:374323,2:371186,8:374323,8:371186
-Um Pacto de Amizade	dub=2:190760,2:190648,8:190760,8:190648	leg=2:190761,8:190761
+Um Pacto de Amizade	dub=2:190760,8:190760,2:190648,8:190648	leg=2:190761,8:190761
 Um Pacto de Amizade (2023)	dub=6:1306866	leg=6:1306867
-Um Pai em Apuros	dub=2:383155,8:393382,8:383155	leg=2:383159,8:383159
+Um Pai em Apuros	dub=8:393382,2:383155,8:383155	leg=2:383159,8:383159
 Um Pai em Apuros (2026)	dub=6:1500874
 Um Pai para Lily	dub=2:320263,8:320263	leg=2:320092,8:320092
 Um Palmo	dub=2:230590,8:230590
@@ -733,7 +733,7 @@ Um Presente Perfeito	dub=2:347169,8:347169	leg=2:347168,8:347168
 Um Presente da Tiffany	dub=2:181450,8:181450	leg=2:181432,8:181432
 Um Presente da Tiffany (2022)	dub=6:1300744
 Um Presente para Helen (2004)	dub=6:1299974
-Um Principe Em Nova York 2	dub=2:97146,2:96896,8:97146,8:96896
+Um Principe Em Nova York 2	dub=2:97146,8:97146,2:96896,8:96896
 Um Principe em Minha Vida (2004)	dub=6:1299975
 Um Principe em Nova York	dub=2:20855,8:20855
 Um Principe em Nova York 2 (2021)	dub=6:1298312
@@ -809,7 +809,7 @@ Um Sósia Inusitado	leg=2:264149,8:264149
 Um Sósia Inusitado (2024)	leg=6:1309561
 Um Talento Extraordinario (2024)	dub=6:1314419
 Um Talento Extraordinário	dub=2:371515,8:371515	leg=2:371514,8:371514
-Um Terror de Parentes	dub=2:315331,2:315295,8:315331,8:315295	leg=2:315300,8:315300
+Um Terror de Parentes	dub=2:315331,8:315331,2:315295,8:315295	leg=2:315300,8:315300
 Um Terror de Parentes (2025)	dub=6:1313212	leg=6:1313211
 Um Time Bem Diferente	dub=2:319020,8:319020
 Um Time Especial	dub=2:366122,8:366122	leg=2:366121,8:366121
@@ -832,7 +832,7 @@ Um Tira da Pesada 2	dub=2:20863,8:20863
 Um Tira da Pesada 2 (1987)	dub=6:1297694
 Um Tira da Pesada 3	dub=2:20864,8:20864
 Um Tira da Pesada 3 (1994)	dub=6:1297695
-Um Tira da Pesada 4: Axel Foley	dub=2:270278,2:267763,8:270278,8:267763	leg=2:267764,8:267764
+Um Tira da Pesada 4: Axel Foley	dub=2:270278,8:270278,2:267763,8:267763	leg=2:267764,8:267764
 Um Tira da Pesada 4: Axel Foley (2024)	dub=6:1309088	leg=6:1309089
 Um Tira do Outro Mundo	dub=2:352941,8:352941	leg=2:352940,8:352940
 Um Tira no Jardim de Infancia (1990)	dub=6:1299976
@@ -888,7 +888,7 @@ Uma Amizade Tóxica	dub=2:185296,8:185296	leg=2:185311,8:185311
 Uma Amizade Tóxica (2022)	dub=6:1306674	leg=6:1306675
 Uma Amizade Verdadeira (2015)	dub=6:1313076
 Uma Amizade para Recordar	dub=8:385822	leg=8:385821
-Uma Astronauta Quase Perfeita	dub=2:267972,2:267971,8:267972,8:267971	leg=2:267973,8:267973
+Uma Astronauta Quase Perfeita	dub=2:267972,8:267972,2:267971,8:267971	leg=2:267973,8:267973
 Uma Astronauta Quase Perfeita (2024)	dub=6:1309091	leg=6:1309090
 Uma Aula de Coragem	leg=2:357804,8:357804
 Uma Aula de Harmonia	dub=2:218264,8:218264	leg=2:218263,8:218263
@@ -923,7 +923,7 @@ Uma Babá em Minha Vida	dub=2:31453,8:31453
 Uma Babá em Minha Vida (2016)	dub=6:1307582
 Uma Bala Para Um Pistoleiro	dub=8:395284	leg=8:395283
 Uma Batalha Apos a Outra (2025)	dub=6:1314009	leg=6:1314008
-Uma Batalha Após a Outra	dub=2:380266,2:380265,2:379431,8:380266,8:380265,8:379431	leg=2:379430,8:379430
+Uma Batalha Após a Outra	dub=2:380266,2:380265,8:380266,8:380265,2:379431,8:379431	leg=2:379430,8:379430
 Uma Batalha de Fé	dub=2:43819,8:43819
 Uma Batalha de Fé (2019)	dub=6:1303680
 Uma Bela Manha (2022)	dub=6:1302693
@@ -953,7 +953,7 @@ Uma Canção de Natal (2015)	dub=6:1307547
 Uma Canção para Latasha	dub=2:74762,8:74762
 Uma Carta Para Ferdinand	dub=2:371956,8:371956
 Uma Carta de Natal	dub=8:389705	leg=8:389704
-Uma Carta à Minha Juventude	dub=2:364802,8:390386,8:364802	leg=2:364801,8:364801
+Uma Carta à Minha Juventude	dub=8:390386,2:364802,8:364802	leg=2:364801,8:364801
 Uma Casa Sem Saída	dub=2:314009,8:314009	leg=2:314010,8:314010
 Uma Casa de Pernas Pro Ar (2007)	dub=6:1309092
 Uma Casa em Chamas	dub=2:377820,8:377820	leg=2:377819,8:377819
@@ -984,7 +984,7 @@ Uma Costa Distante	leg=8:395102
 Uma Crianca Como Jake	dub=2:27653,8:27653
 Uma Criança Como Jake (2018)	dub=6:1307851
 Uma Criança Por Testemunha	dub=2:309727,8:309727	leg=2:309728,8:309728
-Uma Dobra no Tempo	dub=2:358165,2:21368,8:358165,8:21368
+Uma Dobra no Tempo	dub=2:358165,8:358165,2:21368,8:21368
 Uma Dobra no Tempo (2018)	dub=6:1310361
 Uma Doce Revolucao (2021)	dub=6:1301204
 Uma Doce Revolução	dub=2:193439,8:193439	leg=2:193438,8:193438
@@ -1011,7 +1011,7 @@ Uma Familia Feliz (2017)	dub=6:1302491
 Uma Familia Feliz (2024)	dub=6:1304923
 Uma Familia Muito Nobre (2013)	dub=6:1298760
 Uma Familia em Pé de Guerra (1984)	dub=6:1303340
-Uma Família Extraordinária	dub=2:266663,2:229168,8:266663,8:229168	leg=2:229144,8:229144
+Uma Família Extraordinária	dub=2:266663,8:266663,2:229168,8:229168	leg=2:229144,8:229144
 Uma Família Feliz	dub=2:367007,2:264364,2:26892,8:367007,8:264364,8:26892
 Uma Família Feliz 2	dub=2:154570,8:154570	leg=2:154571,8:154571
 Uma Família Feliz 2 (2021)	dub=6:1306597
@@ -1021,7 +1021,7 @@ Uma Família de Dois	dub=2:33416,8:33416
 Uma Família de Dois (2016)	dub=6:1307576
 Uma Família em Pedaços	dub=2:336977,8:336977	leg=2:336976,8:336976
 Uma Faísca de Natal	dub=2:354005,8:354005	leg=2:354004,8:354004
-Uma Festa de Arromba	dub=2:186757,2:186755,8:186757,8:186755	leg=2:186761,8:186761
+Uma Festa de Arromba	dub=2:186755,8:186755,2:186757,8:186757	leg=2:186761,8:186761
 Uma Festa de Arromba (2023)	dub=6:1301523
 Uma Festa no Ar	dub=2:165170,8:165170
 Uma Festa no Ar (2004)	dub=6:1305575
@@ -1032,9 +1032,9 @@ Uma Foto Antes de Morrer	dub=2:164225,8:164225	leg=2:164228,8:164228
 Uma Foto Antes de Morrer (2018)	dub=6:1305759	leg=6:1305760
 Uma Garota Chamada Marina	dub=2:366123,8:366123
 Uma Garota Encantada (2004)	dub=6:1297772
-Uma Garota de Muita Sorte	dub=2:285821,2:176794,8:285821,8:176794	leg=2:176790,8:176790
+Uma Garota de Muita Sorte	dub=2:285821,8:285821,2:176794,8:176794	leg=2:176790,8:176790
 Uma Garota de Muita Sorte (2022)	dub=6:1300178	leg=6:1300183
-Uma Gota de Esperanca	dub=2:106471,2:106463,8:106471,8:106463
+Uma Gota de Esperanca	dub=2:106471,8:106471,2:106463,8:106463
 Uma Gota de Esperança (2021)	dub=6:1308987
 Uma Gravidez Desejada	dub=2:279187,8:279187	leg=2:279188,8:279188
 Uma Guerra Pessoal	dub=2:30627,8:30627
@@ -1063,12 +1063,12 @@ Uma História de Sobrevivência	dub=2:343985,8:343985	leg=2:343984,8:343984
 Uma História de Superação	dub=2:266025,8:266025	leg=2:266026,8:266026
 Uma História de Vingança	leg=2:348819,8:348819
 Uma Ideia de Voce (2024)	dub=6:1303585	leg=6:1303584
-Uma Ideia de Você	dub=2:259073,2:259022,8:259073,8:259022	leg=2:259023,8:259023
+Uma Ideia de Você	dub=2:259073,8:259073,2:259022,8:259022	leg=2:259023,8:259023
 Uma Ilha Quase Deserta	dub=2:311103,8:311103	leg=2:311104,8:311104
-Uma Invenção de Natal	dub=2:189911,2:88486,8:189911,8:88486
+Uma Invenção de Natal	dub=2:189911,8:189911,2:88486,8:88486
 Uma Invenção de Natal (2020)	dub=6:1306055
 Uma Irma na Minha Vida (2006)	dub=6:1301364
-Uma Irmã Nada Perfeita	dub=2:328518,2:103998,8:390218,8:328518,8:103998
+Uma Irmã Nada Perfeita	dub=2:328518,8:328518,2:103998,8:390218,8:103998
 Uma Irmã Nada Perfeita (2018)	dub=6:1308069
 Uma Jogada de Natal	dub=2:353746,8:353746	leg=2:353745,8:353745
 Uma Jogada do Destino (1993)	dub=6:1312653	leg=6:1312652
@@ -1091,7 +1091,7 @@ Uma Licao de Esperanca (2020)	dub=6:1299438
 Uma Licao de Vida (2010)	dub=2:108304,6:1307879,8:108304
 Uma Linda Mulher	dub=2:21593,8:21593
 Uma Linda Mulher (1990)	dub=6:1299970
-Uma Linda Vida	dub=2:217277,2:196732,8:217277,8:196732	leg=2:196737,8:196737
+Uma Linda Vida	dub=2:217277,8:217277,2:196732,8:196732	leg=2:196737,8:196737
 Uma Linda Vida (2023)	dub=6:1301496
 Uma Livraria em Paris	dub=2:166221,8:166221	leg=2:166216,8:166216
 Uma Livraria em Paris (2021)	dub=6:1299685
@@ -1224,7 +1224,7 @@ Uma Nova Paixão (2020)	dub=6:1312122	leg=6:1308207,6:1312121
 Uma Nova Tocaia	dub=2:363927,8:363927
 Uma Nuvem no Ceu	dub=2:103149,8:103149
 Uma Obsessao Desconhecida (2022)	dub=6:1301492
-Uma Obsessão Desconhecida	dub=2:186766,2:186765,8:186766,8:186765	leg=2:186764,8:186764
+Uma Obsessão Desconhecida	dub=2:186766,8:186766,2:186765,8:186765	leg=2:186764,8:186764
 Uma Onda no Ar	dub=2:324843,8:324843
 Uma Paixao em Seoul (2017)	dub=6:1303518
 Uma Paixão Inesperada	dub=2:198684,8:198684	leg=2:198681,8:198681
@@ -1255,7 +1255,7 @@ Uma Prova De Fe (2015)	dub=6:1298492
 Uma Prova De Fé	dub=2:110782,8:110782
 Uma Prova de Amor	dub=2:357610,2:122903,8:357610,8:122903	leg=2:357609,8:357609
 Uma Prova de Amor (2009)	dub=6:1309192
-Uma Prova de Coragem	dub=2:262191,8:262192,8:262191	leg=8:262193
+Uma Prova de Coragem	dub=8:262192,2:262191,8:262191	leg=8:262193
 Uma Prova de Coragem (2024)	dub=6:1304074	leg=6:1304073
 Uma Prova de Fe 2: Voltando para Casa (2019)	dub=6:1298493
 Uma Prova de Fé 2: Voltando para Casa	dub=2:110783,8:110783
@@ -1282,10 +1282,10 @@ Uma Saida de Mestre (2003)	dub=6:1299040
 Uma Saída de Mestre	dub=2:144063,2:20271,8:144063,8:20271
 Uma Secretária de Futuro	dub=2:309919,2:119714,8:309919,8:119714	leg=2:309920,8:309920
 Uma Secretária de Futuro (1988)	dub=6:1310245
-Uma Segunda Chance	dub=2:377842,2:375238,2:375110,2:297824,8:377842,8:375238,8:375110,8:297824	leg=2:377841,2:375109,2:297825,8:377841,8:375109,8:297825
+Uma Segunda Chance	dub=2:375238,8:375238,2:377842,2:375110,2:297824,8:377842,8:375110,8:297824	leg=2:377841,2:375109,2:297825,8:377841,8:375109,8:297825
 Uma Segunda Chance (2026)	dub=6:1314504	leg=6:1314503
 Uma Segunda Chance Com Minha Amante Secreta	leg=8:389672
-Uma Segunda Chance Para Amar	dub=2:301670,2:36655,8:301670,8:36655
+Uma Segunda Chance Para Amar	dub=2:301670,8:301670,2:36655,8:36655
 Uma Segunda Chance Para Amar (2019)	dub=6:1297843
 Uma Segunda Chance: Rivais!	dub=2:352420,8:352420	leg=2:352419,8:352419
 Uma Segunda Chance: Rivais! (2019)	dub=6:1308452
@@ -1335,7 +1335,7 @@ Uma Vida Quase Normal	dub=2:349750,8:349750	leg=2:349749,8:349749
 Uma Vida Sem Limites	dub=2:369453,8:369453	leg=2:369452,8:369452
 Uma Vida Sem Roteiro	dub=2:329899,8:329899	leg=2:329898,8:329898
 Uma Vida com Proposito	dub=2:21539,8:21539
-Uma Vida de Esperança	dub=2:380373,2:264732,2:264731,8:380373,8:264732,8:264731	leg=2:380372,2:264733,8:380372,8:264733
+Uma Vida de Esperança	dub=2:264732,8:264732,2:380373,2:264731,8:380373,8:264731	leg=2:380372,2:264733,8:380372,8:264733
 Uma Vida de Esperança (2024)	dub=6:1304168
 Uma Vida em Sete Dias	dub=2:323703,8:323703	leg=2:323702,8:323702
 Uma Vida: A História de Nicholas Winton	dub=2:259351,8:259351	leg=2:259352,8:259352
@@ -1414,7 +1414,7 @@ Uns Bracos	dub=2:104132,8:104132
 Uns Braços (2009)	dub=6:1307800
 Unsung Hero	leg=2:266664,8:266664
 Unsung Hero (2024)	leg=6:1309474
-Until Dawn: Noite de Terror	dub=2:323813,2:323406,2:322819,8:323813,8:323406,8:322819	leg=2:322818,8:322818
+Until Dawn: Noite de Terror	dub=2:323813,2:323406,8:323813,8:323406,2:322819,8:322819	leg=2:322818,8:322818
 Until Dawn: Noite de Terror (2025)	dub=6:1313531	leg=6:1313530
 Untold - Mr T Eu Tenho Pena do Tolo (2026)	dub=6:1503127
 Untold - Mr. T: Eu Tenho Pena do Tolo	dub=8:395814
@@ -1423,17 +1423,17 @@ Untold Mr. T: I Pity the Fool	dub=8:395633	leg=8:395637
 Untold O Rei em Xeque (2026)	dub=6:1314460
 Untold Reino Unido: A Vitória do Liverpool	leg=2:378725,8:378725
 Untold Reino Unido: Jamie Vardy	dub=2:378029,8:378029	leg=2:378028,8:378028
-Untold Reino Unido: Vinnie Jones	dub=2:380277,8:391201,8:380277	leg=2:380276,8:380276
+Untold Reino Unido: Vinnie Jones	dub=8:391201,2:380277,8:380277	leg=2:380276,8:380276
 Untold The Death and Life of Lamar Odom	dub=8:391214
 Untold: A Morte e a Vida de Lamar Odom	dub=8:390251	leg=2:372131,8:390237,8:372131
-Untold: A Queda de Brett Favre	dub=2:322731,8:391246,8:322731	leg=2:322730,8:322730
+Untold: A Queda de Brett Favre	dub=8:391246,2:322731,8:322731	leg=2:322730,8:322730
 Untold: A Vergonha do Doping	dub=2:208889,8:208889	leg=2:208898,8:208898
 Untold: A Vergonha do Doping (2023)	dub=6:1309562	leg=6:1309563
-Untold: Crime e Infrações	dub=2:190977,2:190972,8:190977,8:190972	leg=2:190984,8:190984
+Untold: Crime e Infrações	dub=2:190977,8:190977,2:190972,8:190972	leg=2:190984,8:190984
 Untold: Crime e Infrações (2021)	dub=6:1306712	leg=6:1306713
-Untold: Crime em Hawthorne Hill	dub=2:375243,8:391194,8:375243	leg=2:375242,8:375242
+Untold: Crime em Hawthorne Hill	dub=8:391194,2:375243,8:375243	leg=2:375242,8:375242
 Untold: Defesa Armada	dub=2:320571,8:320571	leg=2:320570,8:320570
-Untold: Jail Blazers	dub=2:374345,8:391236,8:374345	leg=2:374344,8:374344
+Untold: Jail Blazers	dub=8:391236,2:374345,8:374345	leg=2:374344,8:374344
 Untold: Jake Paul, O Garoto Problema	dub=2:205559,8:205559	leg=2:205558,8:205558
 Untold: Jake Paul, O Garoto Problema (2023)	dub=6:1309534	leg=6:1309535
 Untold: Johnny Football	dub=2:208212,8:208212	leg=2:208213,8:208213
@@ -1452,7 +1452,7 @@ Upa Meu Monstro Favorito	dub=2:20874,8:20874
 Upa – Meu Monstro Favorito (2015)	dub=6:1310203
 Upa, Meu Monstro Favorito 2	dub=2:279191,8:279191	leg=2:279192,8:279192
 Upgrade Atualizacao (2018)	dub=6:1302619
-Upgrade: As Cores do Amor	dub=2:265876,2:247292,8:265876,8:247292	leg=2:247293,8:247293
+Upgrade: As Cores do Amor	dub=2:265876,8:265876,2:247292,8:247292	leg=2:247293,8:247293
 Upgrade: As Cores do Amor (2024)	dub=6:1309211	leg=6:1309212
 Upgrade: Atualização	dub=2:251300,8:385045,8:251300	leg=8:385044
 Uppena	leg=2:102488,8:102488
@@ -1500,7 +1500,7 @@ undertone (2026)	dub=6:1314635	leg=6:1314634
 Última Viagem a Vegas (2013)	dub=6:1309799
 Últimas Notícias de Yuba County (2021)	dub=6:1308279	leg=6:1308280
 Últimas Palavras	dub=2:320921,8:320921	leg=2:320922,8:320922
-Último Alvo	dub=2:318601,2:318600,8:318601,8:318600	leg=2:318602,8:318602
+Último Alvo	dub=2:318601,8:318601,2:318600,8:318600	leg=2:318602,8:318602
 Último Momento de Clareza (2020)	leg=6:1308332
 Último Retrato (2017)	dub=6:1307500
 Último Sentinela	leg=8:384176

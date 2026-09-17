@@ -28,14 +28,14 @@ Pacto Secreto	dub=2:21812,8:21812
 Pacto Secreto (2009)	dub=6:1310082
 Pacto de Justiça	dub=2:233812,8:233812
 Pacto de Justiça (2003)	dub=6:1309957
-Pacto de Redenção	dub=2:294171,2:294170,8:294171,8:294170	leg=2:294172,8:294172,8:256284
+Pacto de Redenção	dub=2:294171,8:294171,2:294170,8:294170	leg=2:294172,8:294172,8:256284
 Pacto de Redenção (2024)	dub=6:1312389	leg=6:1312388
 Pacto de Sangue	dub=2:345066,8:345066	leg=2:345065,8:345065
 Pacto de Sangue (1944)	dub=6:1309099
 Pacto de Sangue (2024)	dub=6:1313857	leg=6:1313856
 Paddington	dub=2:20780,8:20780
 Paddington 2	dub=2:20779,8:20779
-Paddington: Uma Aventura na Floresta	dub=2:315294,2:314984,8:315294,8:314984	leg=2:314985,8:314985
+Paddington: Uma Aventura na Floresta	dub=2:315294,8:315294,2:314984,8:314984	leg=2:314985,8:314985
 Paddleton	dub=2:369436,2:22068,8:369436,8:22068	leg=2:369435,8:369435
 Paddleton (2019)	dub=6:1308122
 Padel Nosso	dub=2:344356,8:344356	leg=2:344355,8:344355
@@ -82,7 +82,7 @@ Pais (2019)	leg=6:1308589
 Pais Da Violencia	dub=2:24866,8:24866
 Pais Muito Loucos	dub=2:33399,8:33399
 Pais Muito Loucos (2019)	dub=6:1297440
-Pais de Pets	dub=2:265791,2:256928,8:265791,8:256928	leg=2:211921,8:211921
+Pais de Pets	dub=2:265791,8:265791,2:256928,8:256928	leg=2:211921,8:211921
 Pais de Pets (2023)	dub=6:1304208	leg=6:1304207
 Pais e Filhas	dub=2:109172,8:109172
 Pais e Filhas (2015)	dub=6:1303984
@@ -105,7 +105,7 @@ Paixão Perigosa	dub=2:182900,8:182900	leg=2:182907,8:182907
 Paixão Real (2018)	dub=6:1308019
 Paixão Sem Limites	dub=2:366111,8:366111	leg=2:366110,8:366110
 Paixão Sufocante	dub=2:172026,8:172026	leg=2:172030,8:172030
-Paixão de Escritório	dub=2:381797,2:381795,8:381797,8:381795	leg=2:381796,8:381796
+Paixão de Escritório	dub=2:381795,8:381795,2:381797,8:381797	leg=2:381796,8:381796
 Paixão de Ocasião	dub=2:113019,8:113019
 Paixão de Ocasião (1997)	dub=6:1311603
 Paixão e Acaso	dub=8:386275
@@ -147,7 +147,7 @@ Paloma (2022)	dub=6:1306624
 Palooza Pura Curticao	dub=2:97201,8:97201
 Palooza: Pura Curtição (2013)	dub=6:1307224
 Pamela Anderson - Uma História de Amor (2023)	dub=6:1305476	leg=6:1305477
-Pamela Anderson: Uma História de Amor	dub=2:186461,8:393291,8:186461	leg=2:186467,8:186467
+Pamela Anderson: Uma História de Amor	dub=8:393291,2:186461,8:186461	leg=2:186467,8:186467
 Panama (2015)	dub=6:1300151
 Panama (2022)	dub=6:1301139
 Panamá	dub=2:178271,2:138855,8:178271,8:138855	leg=2:178281,8:178281
@@ -158,7 +158,7 @@ Pandemonium: A Capital do Inferno (2024)	dub=6:1312339
 Pandora (2016)	dub=6:1313627
 Pandorum	dub=2:128843,8:128843
 Pandorum (2009)	dub=6:1305036
-Pangolim: A Viagem de Kulu	dub=2:318628,8:391692,8:318628	leg=2:318629,8:318629
+Pangolim: A Viagem de Kulu	dub=8:391692,2:318628,8:318628	leg=2:318629,8:318629
 Panico (1996)	dub=6:1297102
 Panico (2022)	dub=6:1299319
 Panico 2 (1997)	dub=6:1297103
@@ -186,15 +186,15 @@ Panico na Ilha	dub=2:99817,8:99817
 Panico nas Alturas (2019)	dub=6:1297112
 Panico no Lago - Projeto Anaconda	dub=2:21817,8:21817
 Panico no Lago 2	dub=2:100368,8:100368
-Pantera Negra	dub=2:326984,2:98661,2:21498,8:326984,8:98661,8:21498	leg=2:326983,8:326983
+Pantera Negra	dub=2:21498,8:21498,2:326984,2:98661,8:326984,8:98661	leg=2:326983,8:326983
 Pantera Negra (2018)	dub=6:1313266	leg=6:1313265
 Pantera Negra: O Reino Selvagem	dub=2:336677,8:336677	leg=2:336676,8:336676
-Pantera Negra: Wakanda para Sempre	dub=2:186459,2:186457,8:186459,8:186457	leg=2:186458,8:186458
+Pantera Negra: Wakanda para Sempre	dub=2:186457,8:186457,2:186459,8:186459	leg=2:186458,8:186458
 Pantera Negra: Wakanda para Sempre (2022)	dub=6:1313268	leg=6:1313267
 Papa Francisco - Conquistando Corações	dub=2:330034,8:330034
 Papa Francisco - Um Homem de Palavra	dub=2:22582,8:22582
 Papa Francisco: Um Homem de Palavra (2018)	dub=6:1308014
-Papai	dub=2:295394,2:295393,8:295394,8:295393	leg=2:295395,8:295395
+Papai	dub=2:295394,8:295394,2:295393,8:295393	leg=2:295395,8:295395
 Papai Bate um Bolão	dub=2:375054,8:375054	leg=2:375053,8:375053
 Papai Noel as Avessas (2003)	dub=6:1300654
 Papai Noel das Cavernas	dub=2:355754,8:355754
@@ -241,7 +241,7 @@ Para Sempre Cinderela (1998)	dub=6:1309035
 Para Sempre Ex (2016)	dub=6:1310371
 Para Sempre Felicidade	dub=2:138035,8:138035	leg=2:138037,8:138037
 Para Sempre Felicidade (2021)	dub=6:1304885	leg=6:1304886
-Para Sempre Medo	dub=2:373381,2:373379,8:373381,8:373379	leg=2:373380,8:373380
+Para Sempre Medo	dub=2:373379,8:373379,2:373381,8:373381	leg=2:373380,8:373380
 Para Sempre Minha	leg=2:356913,8:356913
 Para Sempre Minha (2025)	leg=6:1314140
 Para Sempre Minha Garota	dub=2:21582,8:21582
@@ -254,7 +254,7 @@ Para Todos os Garotos que Já Amei	dub=2:285112,2:20783,8:285112,8:20783
 Para Todos os Garotos que Já Amei (2018)	dub=6:1310501
 Para Todos os Garotos: Agora e Para Sempre	dub=2:98400,8:98400
 Para Todos os Garotos: P.S. Ainda Amo Voce (2020)	dub=6:1297659
-Para Todos os Garotos: P.S. Ainda Amo Você	dub=2:41617,2:35987,8:41617,8:35987
+Para Todos os Garotos: P.S. Ainda Amo Você	dub=2:41617,8:41617,2:35987,8:35987
 Para Wong Foo Obrigado por Tudo Julie Newmar (1995)	dub=6:1299944
 Para Wong Foo, Obrigada por Tudo! Julie Newmar	dub=2:310576,8:310576
 Para o Que Der e Vier	dub=2:377247,2:31748,8:377247,8:31748	leg=2:377246,8:377246
@@ -284,7 +284,7 @@ Paranóia	dub=2:317058,2:101408,8:317058,8:101408	leg=2:317059,8:317059
 Parasita	dub=2:350942,8:350942	leg=2:350941,8:350941
 Parasita (2019)	dub=6:1300323
 Parasite	leg=2:33400,8:33400
-Paraíso	dub=2:354159,2:219936,2:204497,8:354159,8:219936,8:204497	leg=2:204498,8:204498
+Paraíso	dub=2:219936,8:219936,2:354159,2:204497,8:354159,8:204497	leg=2:204498,8:204498
 Paraísos Artificiais	dub=2:348815,8:348815
 Parceiros da Noite	dub=2:354263,8:354263	leg=2:354262,8:354262
 Parceiros do Crime	dub=2:338637,8:338637	leg=2:338636,8:338636
@@ -298,7 +298,7 @@ Paris, Te Amo	dub=2:30641,8:30641
 Paris, Te Amo (2006)	dub=6:1307305
 Parker	dub=2:98624,8:98624
 Parker (2013)	dub=6:1302327
-Parque Lezama	dub=2:368946,8:388200,8:368946	leg=2:368945,8:368945
+Parque Lezama	dub=8:388200,2:368946,8:368946	leg=2:368945,8:368945
 Parque Lezama (2026)	dub=6:1314371
 Parque das Almas	dub=2:354161,8:354161	leg=2:354160,8:354160
 Parque do Inferno	dub=2:21459,8:21459
@@ -329,14 +329,14 @@ Passageiros	dub=2:355756,2:21122,8:355756,8:21122	leg=2:355755,8:355755
 Passageiros (2008)	dub=6:1304280
 Passageiros (2016)	dub=6:1298162
 Passageiros da Vida	dub=2:338639,8:338639	leg=2:338638,8:338638
-Passagem	dub=2:367566,2:179780,2:178826,8:367566,8:179780,8:178826	leg=2:178827,8:178827
+Passagem	dub=2:367566,2:179780,8:367566,8:179780,2:178826,8:178826	leg=2:178827,8:178827
 Passagem (2021)	dub=6:1305358	leg=6:1305359
 Passagem (2022)	dub=6:1305962
 Passagem Secreta	dub=2:166220,8:166220
 Passagem Secreta (2021)	dub=6:1304039
 Passagens	leg=2:251184,8:251184
 Passagens (2023)	leg=6:1311494
-Passagrana	dub=2:312368,2:297122,2:297121,8:312368,8:297122,8:297121
+Passagrana	dub=2:312368,2:297122,8:312368,8:297122,2:297121,8:297121
 Passagrana (2024)	dub=6:1312521
 Passando dos Limites	dub=2:357592,8:357592	leg=2:357591,8:357591
 Passarinheiros	dub=2:30429,8:30429
@@ -346,7 +346,7 @@ Passaro do Oriente	dub=2:30655,8:30655
 Passaros Amarelos	dub=2:26681,8:26681
 Passe Livre	dub=2:131060,8:131060
 Passe Livre (2011)	dub=6:1302322
-Passei por Aqui	dub=2:184027,2:171355,8:184027,8:171355	leg=2:171351,8:171351
+Passei por Aqui	dub=2:184027,8:184027,2:171355,8:171355	leg=2:171351,8:171351
 Passei por Aqui (2022)	dub=6:1300026
 Passeio de Vinganca (2014)	dub=6:1302331
 Passeio de Vingança	dub=2:121044,8:121044
@@ -368,7 +368,7 @@ Paternidade (2021)	dub=6:1298574
 Paterno	dub=2:367088,8:367088
 Pateta 2: Radicalmente Pateta (2000)	dub=6:1299030
 Pateta: O Filme (1995)	dub=6:1298381
-Patos!	dub=2:247950,2:247330,8:247950,8:247330	leg=2:247331,2:247285,8:247331,8:247285
+Patos!	dub=2:247950,8:247950,2:247330,8:247330	leg=2:247331,2:247285,8:247331,8:247285
 Patos! (2023)	dub=6:1303149
 Patricia, Uma Paixão Escondida	dub=2:108086,8:108086
 Patricia, Uma Paixão Escondida (2020)	dub=6:1308790
@@ -385,7 +385,7 @@ Patrulha Canina: O Filme (2021)	dub=6:1299195
 Patrulha Canina: Resgate de Dino	dub=2:379123,8:379123
 Patrulha Canina: Super Filhotes	dub=2:105444,8:105444
 Patrulha Canina: Super Filhotes (2018)	dub=6:1308253
-Patrulha Canina: Um Filme Superpoderoso	dub=2:223867,2:223866,8:223867,8:223866	leg=2:223865,8:223865
+Patrulha Canina: Um Filme Superpoderoso	dub=2:223866,8:223866,2:223867,8:223867	leg=2:223865,8:223865
 Patrulha Canina: Uma Aventura Dino	dub=8:395902,8:395778	leg=8:395777
 Patrulha Caça-Fantasma	dub=2:371930,8:371930	leg=2:371929,8:371929
 Patrulha Noturna	dub=2:370439,8:370439	leg=2:370438,8:370438
@@ -415,14 +415,14 @@ Paz e Chocolate (2021)	dub=6:1310968
 País da Violência (2018)	dub=6:1307759
 Pe Pequeno (2018)	dub=6:1302341
 Peaky Blinders O Homem Imortal (2026)	dub=6:1314404	leg=6:1314403
-Peaky Blinders: O Homem Imortal	dub=2:370718,2:370686,8:370718,8:370686	leg=2:370685,8:370685
+Peaky Blinders: O Homem Imortal	dub=2:370718,8:370718,2:370686,8:370686	leg=2:370685,8:370685
 Pearl Harbor	dub=8:395292	leg=8:395291
 Pearl Harbor (2001)	dub=6:1301265
-Pearl: Uma História de Origem 'X'	dub=2:194341,2:194340,8:194341,8:194340	leg=2:194339,8:194339
+Pearl: Uma História de Origem 'X'	dub=2:194341,8:194341,2:194340,8:194340	leg=2:194339,8:194339
 Pearl: Uma História de Origem X (2022)	dub=6:1311793	leg=6:1311792
 Pecado Original	dub=2:343250,2:189311,8:343250,8:189311	leg=2:343249,8:343249
 Pecado Original (2001)	dub=6:1303105
-Pecadores	dub=2:379434,2:367830,2:324853,2:324851,8:379434,8:367830,8:324853,8:324851	leg=2:367829,2:324852,8:367829,8:324852
+Pecadores	dub=2:379434,2:324851,8:379434,8:324851,2:367830,2:324853,8:367830,8:324853	leg=2:367829,2:324852,8:367829,8:324852
 Pecadores (2025)	dub=6:1313562	leg=6:1313561
 Pecados Intimos	dub=2:25110,8:25110
 Pecados Intimos (2006)	dub=6:1300083
@@ -431,9 +431,9 @@ Pecados de Guerra	dub=2:144046,2:21124,8:144046,8:21124
 Pecados de Guerra (1989)	dub=6:1302317
 Pecanha Contra o Animal (2021)	dub=6:1298903
 Pedagio Mortal (2020)	dub=6:1302335
-Pedagogia do Abandono	dub=2:376096,2:376095,8:376096,8:376095
+Pedagogia do Abandono	dub=2:376095,8:376095,2:376096,8:376096
 Pedido Diario Do Marido Amnesico	dub=8:389632
-Pedido Irlandês	dub=2:254786,2:253278,8:254786,8:253278	leg=2:253279,8:253279
+Pedido Irlandês	dub=2:254786,8:254786,2:253278,8:253278	leg=2:253279,8:253279
 Pedido Irlandês (2024)	dub=6:1303238
 Pedido de Amizade	dub=2:21818,8:21818
 Pedido de Amizade (2016)	dub=6:1310270
@@ -443,7 +443,7 @@ Pedro Coelho	dub=2:20429,8:20429
 Pedro Coelho (2018)	dub=6:1297046
 Pedro Coelho 2: O Fugitivo	dub=2:347690,2:120704,8:347690,8:120704	leg=2:347689,2:120712,8:347689,8:120712
 Pedro Coelho 2: O Fugitivo (2021)	dub=6:1298700	leg=6:1298701
-Pedro Páramo	dub=2:294137,8:395426,8:294137	leg=2:294138,8:294138
+Pedro Páramo	dub=8:395426,2:294137,8:294137	leg=2:294138,8:294138
 Pedro Páramo (2024)	dub=6:1312390
 Pedro: A Redenção	dub=2:110746,8:110746
 Pedro: A Redenção (2016)	dub=6:1307633
@@ -487,7 +487,7 @@ Pelas Garotas e Pela Glória	dub=8:387074	leg=8:387073
 Pelas Ruas de Manhattan	dub=2:341065,8:341065	leg=2:341064,8:341064
 Pelas Ruas de Paris	dub=2:22072,8:22072
 Pelas Ruas de Paris (2019)	dub=6:1308008
-Pele	dub=2:184032,2:96003,8:184032,8:96003
+Pele	dub=2:184032,8:184032,2:96003,8:96003
 Pele (2021)	dub=6:1298282
 Pele - A Origem (2017)	dub=6:1300931
 Pele O Nascimento de uma Lenda	dub=2:22574,8:22574
@@ -546,7 +546,7 @@ Pequenos Espioes 2 (2002)	dub=6:1299987
 Pequenos Espioes 3 (2003)	dub=6:1299988
 Pequenos Espioes 4 (2011)	dub=6:1299989
 Pequenos Espioes Apocalipse (2023)	dub=6:1302533
-Pequenos Espiões: Apocalipse	dub=2:216047,2:216046,8:216047,8:216046	leg=2:216045,8:216045
+Pequenos Espiões: Apocalipse	dub=2:216046,8:216046,2:216047,8:216047	leg=2:216045,8:216045
 Pequenos Grandes Astros	dub=2:285113,8:285113
 Pequenos Grandes Astros (2002)	dub=6:1303602
 Pequenos Grandes Astros 2	dub=2:371932,8:371932	leg=2:371931,8:371931
@@ -575,16 +575,16 @@ Perdas e Danos (1992)	dub=6:1305508
 Perdas e Ganhos	dub=2:290756,8:290756	leg=2:290757,8:290757
 Perdas e Ganhos (2023)	dub=6:1312291	leg=6:1312290
 Perder a Razão (2012)	leg=6:1312822
-Perder é Ganhar um Pouco	dub=2:235504,2:235133,8:235504,8:235133	leg=2:235134,8:235134
+Perder é Ganhar um Pouco	dub=2:235504,8:235504,2:235133,8:235133	leg=2:235134,8:235134
 Perder é Ganhar um Pouco (2023)	dub=6:1309714	leg=6:1309715
 Perdi Meu Corpo	dub=2:369438,2:31430,8:369438,8:31430	leg=2:369437,8:369437
 Perdi Meu Corpo (2019)	dub=6:1308442
-Perdida	dub=2:216029,2:216028,8:216029,8:216028
+Perdida	dub=2:216028,8:216028,2:216029,8:216029
 Perdida (2023)	dub=6:1302530
 Perdida no Deserto	dub=2:230870,8:230870	leg=2:230886,8:230886
 Perdida no Deserto (2023)	dub=6:1309581	leg=6:1309582
 Perdida no Tempo (2014)	leg=6:1304043
-Perdido em Marte	dub=2:21499,2:21125,8:21499,8:21125
+Perdido em Marte	dub=2:21499,8:21499,2:21125,8:21125
 Perdido em Marte (2015)	dub=6:1298118
 Perdido na Montanha	dub=2:324855,8:324855	leg=2:324854,8:324854
 Perdido na Montanha (2024)	dub=6:1313566	leg=6:1313565
@@ -678,7 +678,7 @@ Perseguidor Implacável	dub=2:144118,2:42946,8:144118,8:42946
 Perseguindo Demônios: O Herói de Nuremberg	dub=2:259021,8:259021
 Perseguindo Demônios: O Herói de Nuremberg (2018)	dub=6:1305130
 Perseguindo o Assassino	dub=2:353011,8:353011	leg=2:353010,8:353010
-Perseguição	dub=2:155473,2:150139,8:155473,8:150139	leg=2:150130,8:150130
+Perseguição	dub=2:155473,8:155473,2:150139,8:150139	leg=2:150130,8:150130
 Perseguição (2014)	dub=6:1310064	leg=6:1310065
 Perseguição (2022)	dub=6:1306748	leg=6:1306749
 Perseguição Explosiva (2017)	dub=6:1307875
@@ -737,7 +737,7 @@ Pessoas e Lugares Extraordinários: Vovó e Avó (2024)	leg=6:1309404
 Pessoas, Lugares e Coisas (2015)	dub=6:1310141
 Pet Sematary Legendado	dub=2:24943,8:24943
 Petalas ao Vento (2014)	dub=6:1302580
-Peter Pan & Wendy	dub=2:193444,2:193421,8:193444,8:193421	leg=2:193422,8:193422
+Peter Pan & Wendy	dub=2:193444,8:193444,2:193421,8:193421	leg=2:193422,8:193422
 Peter Pan (2003)	dub=2:110827,6:1307044,8:110827
 Peter Pan (2015)	dub=2:110828,6:1299833,6:1307540,8:110828
 Peter Pan - A Procura do Livro do Nunca (2018)	dub=6:1298797
@@ -760,7 +760,7 @@ Pets: A Vida Secreta dos Bichos 2 (2019)	dub=6:1297435
 Petta Legendado	dub=2:30654,8:30654
 Peça por Peça	dub=2:309741,8:309741	leg=2:309742,8:309742
 Peça por Peça (2024)	dub=6:1313027
-Peça-me o Que Quiser	dub=2:321376,2:321257,8:321376,8:321257	leg=2:321256,2:319800,8:321256,8:319800
+Peça-me o Que Quiser	dub=2:321376,8:321376,2:321257,8:321257	leg=2:321256,2:319800,8:321256,8:319800
 Peçanha Contra o Animal	dub=2:134014,8:134014
 Peões	dub=2:363906,8:363906
 Phantoms of July	leg=8:386073
@@ -773,11 +773,11 @@ Phobias (2021)	dub=6:1303474
 Phoenix - A Guerreira do Século XXI	dub=8:385800	leg=8:385799
 Phoenix: A Última Cartada	dub=2:368247,2:318564,8:368247,8:318564	leg=2:368246,8:368246
 Piaffe	leg=8:394973
-Piano de Família	dub=2:317703,2:296501,8:317703,8:296501	leg=2:296502,8:296502
+Piano de Família	dub=2:317703,8:317703,2:296501,8:296501	leg=2:296502,8:296502
 Piano de Família (2024)	dub=6:1312450	leg=6:1312449
 Pica Pau: As Férias no Acampamento (2024)	dub=6:1303396
 Pica Pau: O Filme (2017)	dub=6:1301667
-Pica-Pau: As Férias no Acampamento	dub=2:256329,8:387332,8:256329	leg=2:256330,8:256330
+Pica-Pau: As Férias no Acampamento	dub=8:387332,2:256329,8:256329	leg=2:256330,8:256330
 Pica-Pau: O Filme	dub=2:21410,8:21410
 Picasso: Um Rebelde em Paris	leg=8:395728
 Pickings	leg=2:64421,8:64421
@@ -801,7 +801,7 @@ Pilotos de Guerra	dub=2:181411,8:181411	leg=2:181453,8:181453
 Pilotos de Guerra (2021)	dub=6:1306578	leg=6:1306579
 Pimp - Rainha do Gueto	dub=2:155739,8:155739	leg=2:155740,8:155740
 Pimp - Rainha do Gueto (2018)	dub=6:1305682	leg=6:1305683
-Pimpinero: Sangue e Gasolina	dub=2:296575,2:296503,8:296575,8:296503	leg=2:296504,8:296504
+Pimpinero: Sangue e Gasolina	dub=2:296575,8:296575,2:296503,8:296503	leg=2:296504,8:296504
 Pimpinero: Sangue e Gasolina (2024)	dub=6:1312445
 Pinball: O Homem que Salvou o Jogo	leg=2:286613,8:286613
 Pinball: O Homem que Salvou o Jogo (2023)	leg=6:1312123
@@ -814,12 +814,12 @@ Pinocchio (2002)	dub=2:20433,8:20433
 Pinocchio: O Menino de Madeira	dub=2:335702,8:335702	leg=2:335701,8:335701
 Pinoquio (2019)	dub=6:1298562
 Pinoquio por Guillermo Del Toro (2022)	dub=6:1300710
-Pinóquio	dub=2:378252,2:171919,8:378252,8:171919	leg=2:378251,2:171935,8:378251,8:171935
+Pinóquio	dub=2:171919,8:171919,2:378252,8:378252	leg=2:378251,2:171935,8:378251,8:171935
 Pinóquio (1940)	dub=2:33401,6:1307058,8:33401
 Pinóquio (2002)	dub=6:1309333
 Pinóquio (2022)	dub=2:171916,6:1300052,8:171916	leg=6:1300051
 Pinóquio 3000	dub=2:345093,8:345093	leg=2:345092,8:345092
-Pinóquio por Guillermo Del Toro	dub=2:184018,2:181438,8:184018,8:181438	leg=2:181424,8:181424
+Pinóquio por Guillermo Del Toro	dub=2:184018,8:184018,2:181438,8:181438	leg=2:181424,8:181424
 Pinóquio: Maldição de Madeira	leg=8:389252
 Pipeline: O Grande Roubo	dub=2:147454,8:147454	leg=2:147445,8:147445
 Pipeline: O Grande Roubo (2021)	dub=6:1299189
@@ -849,9 +849,9 @@ Piratas do Caribe: O Baú da Morte	dub=2:161505,8:161505
 Piratas do Vale do Silicio	dub=2:21129,8:21129
 Pisando na Bola	dub=2:247332,8:247332	leg=2:247333,8:247333
 Pisando na Bola (2020)	dub=6:1303737
-Piscina Infinita	dub=2:202797,2:202620,8:202797,8:202620	leg=2:202621,8:202621
+Piscina Infinita	dub=2:202797,8:202797,2:202620,8:202620	leg=2:202621,8:202621
 Piscina Infinita (2023)	dub=6:1301637
-Pisque Duas Vezes	dub=2:291275,2:291274,8:291275,8:291274	leg=2:291276,2:286614,8:291276,8:286614
+Pisque Duas Vezes	dub=2:291275,8:291275,2:291274,8:291274	leg=2:291276,2:286614,8:291276,8:286614
 Pisque Duas Vezes (2024)	dub=6:1312234	leg=6:1312128
 Pistol: Nasce uma Lenda (1991)	dub=6:1313095
 Pistoleiros - Mãos que Matam	dub=2:339404,8:339404	leg=2:339403,8:339403
@@ -882,7 +882,7 @@ Planeta 51 (2009)	dub=6:1301608
 Planeta Do Tesouro	dub=2:20434,8:20434
 Planeta Duna	dub=2:254859,8:254859	leg=2:254860,8:254860
 Planeta Duna (2021)	dub=6:1311459	leg=6:1311460
-Planeta Janet	dub=2:281467,2:281466,8:281467,8:281466	leg=2:281468,8:281468
+Planeta Janet	dub=2:281467,8:281467,2:281466,8:281466	leg=2:281468,8:281468
 Planeta Proibido	dub=2:119718,8:119718
 Planeta Proibido (1956)	dub=6:1311340
 Planeta Terror	dub=2:104431,8:104431
@@ -898,9 +898,9 @@ Planeta dos Macacos: A Origem	dub=2:128835,8:128835
 Planeta dos Macacos: A Origem (2011)	dub=6:1297208
 Planeta dos Macacos: O Confronto	dub=2:128836,8:128836
 Planeta dos Macacos: O Confronto (2014)	dub=6:1297207
-Planeta dos Macacos: O Reinado	dub=2:278679,2:278678,8:278679,8:278678	leg=2:278680,2:269962,8:278680,8:269962
+Planeta dos Macacos: O Reinado	dub=2:278679,8:278679,2:278678,8:278678	leg=2:278680,2:269962,8:278680,8:269962
 Planeta dos Macacos: O Reinado (2024)	dub=6:1311789	leg=6:1309114
-Planeta dos Solteiros: Aventura na Grécia	dub=2:340995,8:391693,8:340995	leg=2:340994,8:340994
+Planeta dos Solteiros: Aventura na Grécia	dub=8:391693,2:340995,8:340995	leg=2:340994,8:340994
 Planeta dos Solteiros: Aventura na Grécia (2025)	dub=6:1313775
 Planetary Defenders	leg=8:384035
 Plankton: O Filme	dub=2:314024,8:314024	leg=2:314025,8:314025
@@ -923,7 +923,7 @@ Plano de Voo	dub=2:101665,8:101665
 Plano de Voo (2005)	dub=6:1300465
 Plano em Familia (2023)	dub=6:1302995
 Plano em Familia 2 (2025)	dub=6:1314054	leg=6:1314053
-Plano em Família	dub=2:233790,2:233523,8:233790,8:233523	leg=2:233524,8:233524
+Plano em Família	dub=2:233523,8:233523,2:233790,8:233790	leg=2:233524,8:233524
 Plano em Família 2	dub=2:353491,8:353491	leg=2:353490,8:353490
 Planos Diabólicos	dub=2:164221,8:164221	leg=2:164206,8:164206
 Planos Diabólicos (2020)	dub=6:1305671	leg=6:1305672
@@ -948,7 +948,7 @@ Pluft: O Fantasminha	dub=2:185193,8:185193
 Plutão	dub=2:340268,8:340268	leg=2:340267,8:340267
 Pobre Familia Rica, Quando a Sorte Acaba	dub=2:169698,8:169698	leg=2:169696,8:169696
 Pobre Família Rica, Quando a Sorte Acaba (2020)	dub=6:1306231	leg=6:1306232
-Pobres Criaturas	dub=2:252910,2:252068,8:252910,8:252069,8:252068	leg=2:251927,2:251185,8:251927,8:251185
+Pobres Criaturas	dub=8:252069,2:252910,2:252068,8:252910,8:252068	leg=2:251927,2:251185,8:251927,8:251185
 Pobres Criaturas (2023)	dub=6:1303218	leg=6:1303196
 Pocahontas	dub=2:20435,8:20435
 Pocahontas 2 - Uma Jornada para o Novo Mundo (1998)	dub=6:1299020
@@ -974,14 +974,14 @@ Poderes Extraordinários	dub=2:33402,8:33402
 Poderia Me Perdoar? (2018)	dub=6:1298159
 Poderia me Perdoar	dub=2:22076,8:22076
 Podolski	dub=2:381800,8:381800	leg=2:381799,8:381799
-Podres de Ricos	dub=2:317248,2:40592,2:40591,2:40411,8:317248,8:40592,8:40591,8:40411	leg=2:317249,8:317249
+Podres de Ricos	dub=2:40592,2:40591,8:40592,8:40591,2:317248,2:40411,8:317248,8:40411	leg=2:317249,8:317249
 Podres de Ricos (2018)	dub=6:1297791
 Poemaria	dub=2:371180,8:371180
 Poeta de Sete Faces	dub=2:371935,8:371935
-Pokemon Detective Pikachu	dub=2:26571,2:26456,8:26571,8:26456
+Pokemon Detective Pikachu	dub=2:26571,8:26571,2:26456,8:26456
 Pokemon Detective Pikachu Legendado	dub=2:23939,8:23939
 Pokemon: Detetive Pikachu (2019)	dub=6:1297170
-Poker Face	dub=2:193267,2:193266,8:193267,8:193266	leg=2:193268,8:193268
+Poker Face	dub=2:193266,8:193266,2:193267,8:193267	leg=2:193268,8:193268
 Poker Face (2012)	dub=6:1305568	leg=6:1305569
 Pokémon 3: O Feitiço dos Unown	dub=2:77627,8:77627
 Pokémon 3: O Feitiço dos Unown (2000)	dub=6:1307069
@@ -1018,7 +1018,7 @@ Pokémon, o Filme: Segredos da Selva (2020)	dub=6:1304630	leg=6:1304631
 Pokémon: Arceus e a Jóia da Vida	dub=2:350910,2:77636,8:350910,8:77636
 Pokémon: Arceus e a Jóia da Vida (2009)	dub=6:1307587
 Pokémon: As Crônicas de Arceus	dub=2:174623,8:174623	leg=2:174620,8:174620
-Pokémon: Detetive Pikachu	dub=2:358716,2:180655,8:358716,8:180655
+Pokémon: Detetive Pikachu	dub=2:358716,8:358716,2:180655,8:180655
 Pokémon: Giratina e o Cavaleiro do Céu	dub=2:354264,2:77635,8:354264,8:77635
 Pokémon: Giratina e o Cavaleiro do Céu (2008)	dub=6:1307871
 Pokémon: Lucario e o Mistério de Mew	dub=2:350911,2:77632,8:350911,8:77632
@@ -1032,7 +1032,7 @@ Pokémon: O Pesadelo de Darkrai	dub=2:77634,8:77634
 Pokémon: O Pesadelo de Darkrai (2007)	dub=6:1307359
 Pokémon: Zoroark - Mestre das Ilusões	dub=2:354265,2:77637,8:354265,8:77637
 Pokémon: Zoroark - Mestre das Ilusões (2010)	dub=6:1307995
-Polar	dub=2:22518,2:21460,8:22518,8:21460
+Polar	dub=2:22518,8:22518,2:21460,8:21460
 Polar (2019)	dub=6:1297944
 Polaris	leg=2:246806,8:246806
 Polaris (2023)	leg=6:1311660
@@ -1103,12 +1103,12 @@ Por Amor e Honra	dub=2:315685,8:315685
 Por Amor ou Por Dinheiro	dub=2:128846,8:128846
 Por Amor ou Por Dinheiro (1993)	dub=6:1305295
 Por Cima do seu Cadaver (2026)	dub=6:1314632	leg=6:1314631
-Por Cima do seu Cadáver	dub=2:382955,2:382749,8:382955,8:382749	leg=2:382752,2:381250,8:382752,8:381250
+Por Cima do seu Cadáver	dub=2:382955,8:382955,2:382749,8:382749	leg=2:382752,2:381250,8:382752,8:381250
 Por Dentro dos Mundos do Universo Épico	leg=2:354021,8:354021
 Por Inteiro	dub=2:345278,8:345278	leg=2:345277,8:345277
 Por Inteiro (2025)	dub=6:1313866	leg=6:1313865
 Por Lugares Incriveis (2020)	dub=6:1297737
-Por Lugares Incríveis	dub=2:155487,2:36654,8:155487,8:36654
+Por Lugares Incríveis	dub=2:155487,8:155487,2:36654,8:36654
 Por Que Eu Me Casei Também?	dub=2:110257,8:110257
 Por Que Eu Me Casei Também? (2010)	dub=6:1307528
 Por Que Eu Me Casei de Novo (2026)	dub=6:1503126
@@ -1152,7 +1152,7 @@ Porky's 2: O Dia Seguinte (1983)	dub=6:1305613
 Porky's 3: Porky's Contra-Ataca	dub=2:161954,8:161954
 Porky's Contra-Ataca (1985)	dub=6:1297216,6:1305625
 Porky's: A Casa do Amor e do Riso	dub=2:161952,8:161952
-Pornhub: Sexo Bilionário	dub=2:189319,8:393261,8:189319
+Pornhub: Sexo Bilionário	dub=8:393261,2:189319,8:189319
 Pornhub: Sexo Bilionário (2023)	dub=6:1305496
 Porno para principiantes (2019)	dub=6:1301982
 Pornô: Sedutora e Fatal	dub=2:161538,8:161538
@@ -1255,9 +1255,9 @@ Precisamos Falar Sobre o Kevin	dub=2:21132,8:21132
 Precisamos Falar Sobre o Kevin (2011)	dub=6:1303108
 Preciso Ser Pai	dub=2:322025,8:322025
 Predador Terras Selvagens (2025)	dub=6:1314303	leg=6:1314219,6:1314302
-Predador: Assassino de Assassinos	dub=2:327380,2:325905,8:327380,8:325905	leg=2:325904,8:325904
+Predador: Assassino de Assassinos	dub=2:327380,8:327380,2:325905,8:325905	leg=2:325904,8:325904
 Predador: Assassino de Assassinos (2025)	dub=6:1313579
-Predador: Terras Selvagens	dub=2:366880,2:366521,8:366880,8:366521	leg=2:366520,2:362693,8:366520,8:362693
+Predador: Terras Selvagens	dub=2:366880,8:366880,2:366521,8:366521	leg=2:366520,2:362693,8:366520,8:362693
 Predadores	dub=2:356862,8:356862
 Predadores (2018)	dub=6:1297896
 Predadores (2025)	dub=6:1314127	leg=6:1314126
@@ -1281,14 +1281,14 @@ Premonição 2 (2003)	dub=6:1297391
 Premonição 3 (2006)	dub=6:1297390
 Premonição 4 (2009)	dub=6:1297392
 Premonição 5 (2011)	dub=6:1297393
-Premonição 6: Laços de Sangue	dub=2:329435,2:329421,8:329435,8:329421	leg=2:329196,8:329196
+Premonição 6: Laços de Sangue	dub=2:329435,8:329435,2:329421,8:329421	leg=2:329196,8:329196
 Premonição 6: Laços de Sangue (2025)	dub=6:1313610	leg=6:1313609
 Premonições	dub=2:157969,8:157969
 Premonições (2007)	dub=6:1306973
 Premonições em Woodland	dub=2:194451,8:194451	leg=2:194449,8:194449
 Premonições em Woodland (2018)	dub=6:1306291	leg=6:1306292
 Prenda Me Se For Capaz (2002)	dub=6:1297639
-Prenda a Respiração	dub=2:288585,2:288584,8:288585,8:288584	leg=2:288586,8:288586
+Prenda a Respiração	dub=2:288585,8:288585,2:288584,8:288584	leg=2:288586,8:288586
 Prenda a Respiração (2024)	dub=6:1312238	leg=6:1312237
 Prenda-Me se For Capaz	dub=2:376805,2:101666,8:376805,8:101666
 Preparacao e Pouso: Operacao Bola de Neve (2025)	dub=6:1314100
@@ -1296,7 +1296,7 @@ Preparativos para Ficarmos Juntos por Tempo Indefinido	dub=2:145349,8:145349	leg
 Preparativos para Ficarmos Juntos por Tempo Indefinido (2020)	dub=6:1304695	leg=6:1304696
 Preparação e Pouso Operação Presente Secreto (2010)	dub=6:1302842
 Preparação e Pouso: Operação Bola de Neve	dub=2:354164,8:354164	leg=2:354163,8:354163
-Preparação para a Próxima Vida	dub=2:365125,2:358063,8:365125,8:358063	leg=2:358062,8:358062
+Preparação para a Próxima Vida	dub=2:365125,8:365125,2:358063,8:358063	leg=2:358062,8:358062
 Presa	dub=2:295720,8:295720	leg=2:295721,8:295721
 Presa (2024)	dub=6:1313700
 Presa em Minha Própria Casa	dub=2:366890,8:366890	leg=2:366889,8:366889
@@ -1312,7 +1312,7 @@ Presente de Grego	dub=2:334425,8:334425	leg=2:334424,8:334424
 Presente de Grego (1987)	dub=6:1303012
 Presente de Natal	dub=2:92021,8:92021
 Presente de Natal (2020)	dub=6:1308938
-Presença	dub=2:320262,2:320260,8:320262,8:320260	leg=2:320261,2:313166,8:320261,8:313166
+Presença	dub=2:320260,8:320260,2:320262,8:320262	leg=2:320261,2:313166,8:320261,8:313166
 Presença (2025)	dub=6:1313476	leg=6:1313475
 Presenças Ocultas	dub=2:366892,8:366892	leg=2:366891,8:366891
 Presidentes	dub=2:168530,8:168530	leg=2:168552,8:168552
@@ -1370,7 +1370,7 @@ Primeiro Ano (2018)	dub=6:1307834
 Primeiro Da Classe	dub=2:21134,8:21134
 Primeiro Domingo (2008)	dub=6:1303631
 Primeiro Impacto	dub=2:96874,8:96874
-Primeiro as Damas	dub=2:379422,2:378990,8:379422,8:378990	leg=2:378989,8:378989
+Primeiro as Damas	dub=2:379422,8:379422,2:378990,8:378990	leg=2:378989,8:378989
 Primeiro as Damas (2026)	dub=6:1314598
 Primeiro da Classe (2008)	dub=6:1313764
 Primitive War	leg=2:348316,8:348316
@@ -1426,7 +1426,7 @@ Procura se Rapaz Virgem (1985)	dub=6:1303126
 Procura-Se Um Filho	dub=2:330036,8:330036	leg=2:330035,8:330035
 Procura-se	dub=2:333611,2:180637,8:333611,8:180637	leg=2:333610,8:333610
 Procura-se (2022)	dub=6:1300530
-Procura-se Gonker	dub=2:196736,2:185172,8:196736,8:185172	leg=2:185173,8:185173
+Procura-se Gonker	dub=2:196736,8:196736,2:185172,8:185172	leg=2:185173,8:185173
 Procura-se Gonker (2023)	dub=6:1300950
 Procura-se Um Pai (2020)	dub=6:1297990
 Procura-se um Amor que Goste de Cachorros	dub=2:120679,8:120679
@@ -1494,10 +1494,10 @@ Projeto Fantasma (2023)	dub=6:1303229
 Projeto Filadélfia	dub=2:358902,8:358902
 Projeto Florida (2017)	dub=6:1299141
 Projeto Flórida	dub=2:369440,8:369440	leg=2:369439,8:369439
-Projeto Gemini	dub=2:40943,2:40942,2:33404,8:40943,8:40942,8:33404
+Projeto Gemini	dub=2:40943,2:40942,8:40943,8:40942,2:33404,8:33404
 Projeto Gemini (2019)	dub=6:1297407
 Projeto Harmony	dub=2:349010,8:349010	leg=2:349009,8:349009
-Projeto Internato	dub=2:383204,8:383207,8:383204	leg=2:383203,8:383203
+Projeto Internato	dub=8:383207,2:383204,8:383204	leg=2:383203,8:383203
 Projeto Ithaca: Destruição Alienígena	dub=2:210384,8:210384	leg=2:210383,8:210383
 Projeto Ithaca: Destruição Alienígena (2019)	dub=6:1310757	leg=6:1310758
 Projeto Legião	dub=8:387077
@@ -1553,7 +1553,7 @@ Proximity	leg=2:62471,8:62471
 Prédio Vazio	dub=2:339195,8:339195	leg=2:339194,8:339194
 Príncipe da Pérsia: As Areias do Tempo	dub=2:131089,8:131089
 Príncipe das Sombras (1987)	dub=6:1309010
-Príncipes Perigosos	dub=2:284557,2:283261,8:284557,8:283261	leg=2:283262,8:283262
+Príncipes Perigosos	dub=2:284557,8:284557,2:283261,8:283261	leg=2:283262,8:283262
 Pródigo Moderno	dub=2:162713,8:162713	leg=2:162716,8:162716
 Pródigo Moderno (2019)	dub=6:1306088	leg=6:1306089
 Próxima Fase: Fugindo de Rancala	dub=2:33984,8:33984
@@ -1622,24 +1622,24 @@ Páginas da Morte	dub=2:128624,8:128624
 Páginas de um Romance 2	dub=2:43851,8:43851
 Páginas de um Romance 2 (2016)	dub=6:1307574
 Párvulos: Filhos do Apocalipse	dub=2:368103,8:368103	leg=2:368098,8:368098
-Pássaro Branco: Uma História de Extraordinário	dub=2:317072,2:301149,8:317072,8:301149	leg=2:301150,8:301150
+Pássaro Branco: Uma História de Extraordinário	dub=2:317072,8:317072,2:301149,8:301149	leg=2:301150,8:301150
 Pássaro do Oriente (2019)	dub=6:1308063
 Pássaros Amarelos (2018)	dub=6:1307577
-Pássaros de Liberdade	dub=2:368108,2:129592,8:368108,8:129592	leg=2:129583,8:129583
+Pássaros de Liberdade	dub=2:368108,8:368108,2:129592,8:129592	leg=2:129583,8:129583
 Pássaros de Liberdade (2021)	dub=6:1304639	leg=6:1304640
-Pânico	dub=2:155494,2:151997,2:21813,8:155494,8:151997,8:21813	leg=2:151999,8:151999
+Pânico	dub=2:155494,8:155494,2:151997,2:21813,8:151997,8:21813	leg=2:151999,8:151999
 Pânico 2	dub=2:21814,8:21814
 Pânico 3	dub=2:21815,8:21815
 Pânico 4	dub=2:150118,8:150118
-Pânico 7	dub=2:372422,2:372123,8:372422,8:372123	leg=2:372122,8:372122
+Pânico 7	dub=2:372422,8:372422,2:372123,8:372123	leg=2:372122,8:372122
 Pânico Abaixo de Zero	dub=2:94218,8:94218
 Pânico Abaixo de Zero (2020)	dub=6:1308758
 Pânico Americano	dub=2:210193,8:210193	leg=2:210192,8:210192
-Pânico VI	dub=2:193284,2:193054,8:193284,8:193054	leg=2:193055,8:193055
+Pânico VI	dub=2:193284,8:193284,2:193054,8:193054	leg=2:193055,8:193055
 Pânico a Bordo	dub=2:225675,8:225675	leg=2:225671,8:225671
 Pânico a Bordo (2020)	dub=6:1311179	leg=6:1311180
 Pânico em Alto Mar	dub=2:368243,8:368243	leg=2:368242,8:368242
-Pânico em Casa	dub=2:119645,2:117534,8:119645,8:117534	leg=2:117535,8:117535
+Pânico em Casa	dub=2:119645,8:119645,2:117534,8:117534	leg=2:117535,8:117535
 Pânico na Cabana (2018)	dub=6:1310473	leg=6:1310474
 Pânico na Floresta	dub=2:382848,2:21657,8:382848,8:21657	leg=2:382847,8:382847
 Pânico na Floresta: A Fundação	dub=2:144048,8:144048	leg=2:144072,8:144072
@@ -1656,7 +1656,7 @@ Pânico no Lago 3 (2010)	dub=6:1310440	leg=6:1310441
 Pânico no Lago: O Capítulo Final	dub=2:100369,8:100369
 Pânico no Lago: O Capítulo Final (2013)	dub=6:1307158
 Pânico no Lago: Projeto Anaconda (2015)	dub=6:1310210	leg=6:1310211
-Pé Pequeno	dub=2:320916,8:320916,8:251975
+Pé Pequeno	dub=8:251975,2:320916,8:320916
 Pé na Estrada – O Movimento de uma Nação	dub=2:368188,8:368188	leg=2:368187,8:368187
 PéPequeno	dub=2:109173,8:109173
 Pégaso (2019)	leg=6:1308371

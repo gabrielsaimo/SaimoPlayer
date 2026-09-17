@@ -12,7 +12,7 @@ D.P.A. e a Biblioteca Banida	dub=2:194538,8:194538
 D.U.F.F Voce Conhece Tem Ou E	dub=2:20571,8:20571
 D.U.F.F. (2015)	dub=6:1310094
 D2 - Nós Somos os Campeões	dub=2:382820,8:382820	leg=2:382819,8:382819
-DC Liga dos Superpets	dub=2:179787,2:169703,8:179787,8:169703	leg=2:169654,8:169654
+DC Liga dos Superpets	dub=2:179787,8:179787,2:169703,8:169703	leg=2:169654,8:169654
 DC Liga dos Superpets (2022)	dub=6:1299990
 DC Showcase: Superman & Shazam! - O Retorno do Adão Negro	dub=2:352909,8:352909	leg=2:352908,8:352908
 DC Showcase: The Phantom Stranger	leg=2:46139,8:46139
@@ -24,7 +24,7 @@ DEBS As Super Espias (2004)	dub=6:1302277
 DEVO	leg=2:340242,8:340242
 DJ Ice Cream	dub=2:334858,8:334858	leg=2:334857,8:334857
 DJ a Paisana (2025)	dub=6:1313394
-DJ à Paisana	dub=2:317309,2:317300,8:317309,8:317300	leg=2:317301,8:317301
+DJ à Paisana	dub=2:317309,8:317309,2:317300,8:317300	leg=2:317301,8:317301
 DNA Assassino (2020)	dub=6:1298959
 DNA: Caçada ao Predador (1997)	dub=6:1304004
 DOA: Vivo ou Morto	dub=2:112963,8:112963
@@ -38,7 +38,7 @@ Da Fúria para a Liberdade (1985)	dub=6:1313107
 Da Magia à Sedução	dub=2:370892,2:103986,8:370892,8:103986	leg=2:370891,8:370891
 Da Magia à Sedução (1998)	dub=6:1308652
 Da Toscana Com Amor (2026)	dub=6:1314559
-Da Toscana, com Amor	dub=2:377697,2:377210,8:377697,8:377210	leg=2:377209,8:377209
+Da Toscana, com Amor	dub=2:377697,8:377697,2:377210,8:377210	leg=2:377209,8:377209
 Daddio	leg=2:282076,8:282076
 Daddio (2024)	leg=6:1311840
 Daddy's Head	leg=2:299616,8:299616
@@ -80,7 +80,7 @@ Dange	leg=2:269950,8:269950
 Dange (2024)	leg=6:1309733
 Danger Close: The Battle of Long Tan Legendado	dub=2:30613,8:30613
 Daniela Forever	leg=2:336380,8:336380
-Danificado	dub=2:261680,8:262177,8:261680	leg=2:261681,8:261681
+Danificado	dub=8:262177,2:261680,8:261680	leg=2:261681,8:261681
 Danificado (2024)	dub=6:1304069
 Dano Colateral	dub=2:131231,8:131231	leg=2:131230,8:131230
 Dano Colateral (2021)	dub=6:1304863	leg=6:1304864
@@ -97,7 +97,7 @@ Dançando no Natal (2021)	dub=6:1311453
 Dançando para Amar	leg=2:305579,8:305579
 Dançarina Imperfeita	dub=2:297421,8:297421
 Daquele Instante em Diante	dub=8:384686
-Darby: A Jovem Sensitiva	dub=2:185860,2:185859,8:185860,8:185859	leg=2:185861,8:185861
+Darby: A Jovem Sensitiva	dub=2:185859,8:185859,2:185860,8:185860	leg=2:185861,8:185861
 Darby: A Jovem Sensitiva (2022)	dub=6:1306811	leg=6:1306812
 Darc	dub=2:19988,8:19988
 Darc (2018)	dub=6:1310608
@@ -136,7 +136,7 @@ Davi	dub=2:117068,8:117068
 Davi (1997)	dub=6:1310095
 Davi Nasce Um Rei (2025)	dub=6:1314265	leg=6:1314264
 Davi vs. Golias: A Batalha Da Fe (2016)	dub=6:1298684
-Davi: Nasce Um Rei	dub=2:364759,2:364616,8:390416,8:364759,8:364616	leg=2:364615,8:364615
+Davi: Nasce Um Rei	dub=2:364759,8:390416,8:364759,2:364616,8:364616	leg=2:364615,8:364615
 Davi: Um Cara Comum da Bahia	dub=2:259332,8:259332
 Davi: Um Cara Comum da Bahia (2024)	dub=6:1303614
 David Guetta United at Home Live in Paris	dub=2:128561,8:128561
@@ -174,7 +174,7 @@ De Frente (2023)	dub=6:1309569	leg=6:1309570
 De Frente Com Meu Ex	dub=2:100016,8:100016
 De Frente Com Meu Ex (2020)	dub=6:1301892
 De Funcionaria De Fast Food A Primeira Dama	leg=8:389525
-De Férias com Você	dub=2:361362,8:395055,8:361362	leg=8:395054
+De Férias com Você	dub=2:361362,8:361362,8:395055	leg=8:395054
 De Férias da Família	dub=2:169649,8:169649	leg=2:169694,8:169694
 De Férias para o Amor	dub=2:192496,8:192496	leg=2:192499,8:192499
 De Férias para o Amor (2021)	dub=6:1306800	leg=6:1306801
@@ -198,7 +198,7 @@ De Perto Ela Não é Normal (2020)	dub=6:1308337
 De Porta em Porta (2002)	dub=6:1312660	leg=6:1312659
 De Portas Abertas Para o Natal	dub=2:355659,8:355659	leg=2:355658,8:355658
 De Repente 30 (2004)	dub=6:1303301
-De Repente 70	dub=2:192526,2:189904,8:192526,8:189904	leg=2:189927,8:189927
+De Repente 70	dub=2:192526,8:192526,2:189904,8:189904	leg=2:189927,8:189927
 De Repente 70 (2022)	dub=6:1301680
 De Repente Drag	dub=2:194886,8:194886
 De Repente Drag (2022)	dub=6:1306967
@@ -209,7 +209,7 @@ De Repente Pai	dub=2:323693,2:119709,8:323693,8:119709	leg=2:323692,8:323692
 De Repente Pai (2013)	dub=6:1299885
 De Repente o Amor Acontece	dub=2:191122,8:191122	leg=2:191127,8:191127
 De Repente o Amor Acontece (2020)	dub=6:1306435	leg=6:1306436
-De Repente uma Família	dub=2:281309,2:22013,8:281309,8:22013
+De Repente uma Família	dub=2:281309,8:281309,2:22013,8:22013
 De Repente uma Família (2018)	dub=6:1301044
 De Repente é Amor	dub=2:319845,2:199614,8:319845,8:199614	leg=2:319873,2:199613,8:319873,8:199613
 De Repente é Amor (2020)	dub=6:1306370	leg=6:1306371
@@ -221,10 +221,10 @@ De Sombra e Silêncio (2023)	dub=6:1312951
 De Tirar o Fôlego	dub=2:203328,8:203328	leg=2:203329,8:203329
 De Tirar o Fôlego (2023)	dub=6:1305466	leg=6:1305467
 De Tyler Perry Em Busca da Felicidade (2025)	dub=6:1313980
-De Tyler Perry: Duplicidade	dub=2:316235,2:316156,8:316235,8:316156	leg=2:316157,8:316157
+De Tyler Perry: Duplicidade	dub=2:316235,8:316235,2:316156,8:316156	leg=2:316157,8:316157
 De Tyler Perry: Duplicidade (2025)	dub=6:1313348	leg=6:1313347
 De Tyler Perry: Em Busca da Felicidade	dub=2:351565,8:351565	leg=2:351564,8:351564
-De Virada: Bastidores e Desafios do Futebol	dub=2:347334,2:347333,8:347334,8:347333
+De Virada: Bastidores e Desafios do Futebol	dub=2:347333,8:347333,2:347334,8:347334
 De Volta Aos Anos 90	dub=8:393574,8:393542	leg=8:393543
 De Volta Aos Anos 90 (2026)	dub=6:1503021
 De Volta Para Casa (2017)	dub=2:42986,6:1307681,8:42986
@@ -261,7 +261,7 @@ De Volta para o Futuro 3	dub=2:77619,8:77619
 De Volta para o Futuro 3 (1990)	dub=6:1297805
 De Volta para o Presente	dub=2:313845,8:313845
 De Volta à Ativa	dub=2:229170,8:229170	leg=2:229167,8:229167
-De Volta à Ação	dub=2:305580,2:304584,8:305580,8:304584	leg=2:304585,8:304585
+De Volta à Ação	dub=2:305580,8:305580,2:304584,8:304584	leg=2:304585,8:304585
 De Volta à Ação (2025)	dub=6:1312942	leg=6:1312941
 De Volta à Casa da Colina	dub=2:75628,8:75628
 De Volta à Casa da Colina (2007)	dub=6:1307160
@@ -289,13 +289,13 @@ Dead Zone: Operação Resgate (2022)	dub=6:1306892	leg=6:1306893
 Dead for a Dollar	dub=2:189341,8:189341	leg=2:189340,8:189340
 Dead for a Dollar (2022)	dub=6:1301012
 Deadpool	dub=2:382822,2:92662,8:382822,8:92662	leg=2:382821,8:382821
-Deadpool & Wolverine	dub=2:294833,2:294832,8:294833,8:294832	leg=2:294834,8:294834
+Deadpool & Wolverine	dub=2:294833,8:294833,2:294832,8:294832	leg=2:294834,8:294834
 Deadpool (2016)	dub=6:1307406
-Deadpool 2	dub=2:92661,2:21480,8:92661,8:21480
+Deadpool 2	dub=2:21480,8:21480,2:92661,8:92661
 Deadpool 2 (2018)	dub=6:1297418
 Deadpool e Wolverine (2024)	dub=6:1313288	leg=6:1313287
 Deadstream (2022)	leg=6:1314318
-Deadwood	dub=2:344553,2:254642,8:344553,8:254642	leg=2:344552,8:344552
+Deadwood	dub=2:254642,8:254642,2:344553,8:344553	leg=2:344552,8:344552
 Deadwood (2019)	dub=6:1297408
 Deadwood Legendado	dub=2:23937,8:23937
 Dear David	leg=2:256781,8:256781
@@ -320,7 +320,7 @@ Debt Collectors	leg=2:48177,8:48177
 Debug (2014)	leg=6:1304044
 Decisão	dub=2:69936,8:69936
 Decisão (2020)	dub=6:1308745
-Decisão de Partir	dub=2:188571,2:188570,8:188571,8:188570	leg=2:188569,8:188569
+Decisão de Partir	dub=2:188571,8:188571,2:188570,8:188570	leg=2:188569,8:188569
 Decisão de Partir (2022)	dub=6:1306285	leg=6:1306286
 Decisões Extremas	dub=2:215060,8:215060	leg=2:215884,8:215884
 Decisões Extremas (2020)	dub=6:1310747	leg=6:1310748
@@ -343,7 +343,7 @@ Defendor	dub=2:128512,8:128512
 Defendor (2009)	dub=6:1305069
 Deive Leonardo A Resposta (2023)	dub=6:1302896
 Deive Leonardo: A Resposta	dub=2:231339,8:231339	leg=2:231321,8:231321
-Deixa Acontecer	dub=2:383102,2:383022,8:383102,8:383022	leg=2:383028,8:383028
+Deixa Acontecer	dub=2:383102,8:383102,2:383022,8:383022	leg=2:383028,8:383028
 Deixa Acontecer (2026)	dub=6:1501030
 Deixa Na Régua	dub=2:336824,8:336824
 Deixa Rolar	dub=2:43805,8:43805
@@ -362,19 +362,19 @@ Deixando Neverland 2 (2025)	dub=6:1314538
 Deixando o Afeganistao (2019)	dub=6:1303520
 Deixando o Afeganistão	dub=2:192516,8:192516	leg=2:192517,8:192517
 Deixe Que Todos Falem (2020)	dub=6:1308593
-Deixe a Neve Cair	dub=2:189942,2:30601,8:189942,8:30601
+Deixe a Neve Cair	dub=2:189942,8:189942,2:30601,8:30601
 Deixe a Neve Cair (2019)	dub=6:1305642
 Deixe me Entrar (2010)	dub=6:1314476	leg=6:1314475
 Deixe-me	leg=2:302723,8:302723
 Deixe-me Entrar	dub=2:108284,8:108284
-Deixe-o Partir	dub=2:297086,2:100362,2:100361,8:297086,8:100362,8:100361
+Deixe-o Partir	dub=2:297086,2:100361,8:297086,8:100361,2:100362,8:100362
 Deixe-o Partir (2020)	dub=6:1298563
 Deja Vu (2006)	dub=6:1300187
 Del Otro Lado Del Jardín	dub=2:292094,8:292094	leg=2:292095,8:292095
 Dela	dub=2:285080,8:285080
 Dela (2018)	dub=6:1312054
 Delegação	leg=2:346939,8:346939
-Delicious	dub=2:314269,2:314020,8:314269,8:314020	leg=2:314021,8:314021
+Delicious	dub=2:314269,8:314269,2:314020,8:314020	leg=2:314021,8:314021
 Delicious (2025)	dub=6:1313196
 Delivery Macabro	dub=2:111606,8:111606
 Delivery Macabro (2019)	dub=6:1308197
@@ -391,7 +391,7 @@ Demolidor: O Homem Sem Medo	dub=2:152000,8:152000
 Demolidor: O Homem Sem Medo (2003)	dub=6:1300071
 Demolição	dub=2:340430,2:314470,8:340430,8:314470	leg=2:340429,2:314471,8:340429,8:314471
 Demolição (2016)	dub=6:1313147
-Demon City	dub=2:313540,2:313286,8:313540,8:313286	leg=2:313287,8:313287
+Demon City	dub=2:313540,8:313540,2:313286,8:313286	leg=2:313287,8:313287
 Demon City (2025)	dub=6:1313160
 Demon Slayer - Mugen Train: O Filme	dub=2:128614,8:128614
 Demon Slayer - Mugen Train: O Filme (2020)	dub=6:1300521
@@ -419,7 +419,7 @@ Dente de Leite (2020)	leg=6:1308110
 Dente por Dente	dub=2:101361,8:101361
 Dente por Dente (2020)	dub=6:1301865
 Dentes de Leite	dub=8:389297	leg=8:389296
-Dentro	dub=2:321375,2:233474,8:321375,8:233474	leg=2:233475,8:233475
+Dentro	dub=2:321375,8:321375,2:233474,8:233474	leg=2:233475,8:233475
 Dentro (2023)	dub=6:1302988
 Dentro Da Minha Pele	dub=2:69937,8:69937
 Dentro da Caixinha — Segredo de Criança	dub=8:395679
@@ -470,7 +470,7 @@ Depois de Ser Cinza	dub=2:376303,8:376303
 Depois de Tudo (2018)	dub=6:1305085
 Depois de tudo	dub=2:127419,8:127419
 Depois do Amanhecer	leg=8:394470
-Depois do Apocalipse	dub=2:276006,2:270555,2:22566,8:276006,8:270555,8:22566	leg=2:270556,8:270556
+Depois do Apocalipse	dub=2:276006,8:276006,2:270555,2:22566,8:270555,8:22566	leg=2:270556,8:270556
 Depois do Apocalipse (2018)	dub=6:1303517
 Depois do Apocalipse (2024)	dub=6:1312385
 Depois do Casamento	dub=2:33369,8:33369
@@ -483,8 +483,8 @@ Depois do Sexo (2007)	dub=6:1300704
 Depois do Universo	dub=2:178544,8:178544
 Depois do Universo (2022)	dub=6:1300320
 Depois dos 30	dub=2:328217,8:328217	leg=2:328216,8:328216
-Depois que Morri, Todos me Amam	dub=2:348296,8:390549,8:348296	leg=2:348295,8:348295
-Depravação	dub=2:315534,2:315515,8:315534,8:315515	leg=2:315516,8:315516
+Depois que Morri, Todos me Amam	dub=8:390549,2:348296,8:348296	leg=2:348295,8:348295
+Depravação	dub=2:315534,8:315534,2:315515,8:315515	leg=2:315516,8:315516
 Depravação (2024)	dub=6:1313222	leg=6:1313221
 Derrapada	dub=2:362691,2:251305,8:362691,8:251305
 Derrapada (2023)	dub=6:1302699
@@ -524,7 +524,7 @@ Desaparecidas (2003)	dub=6:1502790
 Desaparecidas (2021)	leg=6:1304694
 Desaparecidos	dub=2:227395,8:227395	leg=2:227404,8:227404
 Desaparecidos (2022)	dub=6:1303705
-Desaparecidos na Noite	dub=2:297422,2:270410,8:297422,8:270410	leg=2:270411,8:270411
+Desaparecidos na Noite	dub=2:297422,8:297422,2:270410,8:270410	leg=2:270411,8:270411
 Desaparecidos na Noite (2024)	dub=6:1309130	leg=6:1309129
 Desaparecimento	leg=2:286607,8:286607
 Desapega (2023)	dub=6:1302025
@@ -533,13 +533,13 @@ Desaprender a Dormir	dub=8:390141
 Desarmados	dub=2:31921,8:31921
 Desarmados (2017)	dub=6:1307874
 Desastre LA	dub=2:21611,8:21611
-Desastre Total: A Seita da American Apparel	dub=2:330505,8:392496,8:330505	leg=2:330504,8:330504
-Desastre Total: Cruzeiro do Cocô	dub=2:329892,8:392459,8:329892	leg=2:329891,8:329891
+Desastre Total: A Seita da American Apparel	dub=8:392496,2:330505,8:330505	leg=2:330504,8:330504
+Desastre Total: Cruzeiro do Cocô	dub=8:392459,2:329892,8:329892	leg=2:329891,8:329891
 Desastre Total: Cruzeiro do Cocô (2025)	dub=6:1313624
 Desastre Total: Festival Astroworld	dub=8:392476,8:389450	leg=2:328091,8:389449,8:328091
-Desastre Total: Garoto do Balão	dub=2:335220,8:392441,8:335220	leg=2:335219,8:335219
-Desastre Total: Mães Detetives	dub=2:336218,8:392455,8:336218	leg=2:336217,8:336217
-Desastre Total: O Verdadeiro Projeto X	dub=2:333606,8:392497,8:333606	leg=2:333605,8:333605
+Desastre Total: Garoto do Balão	dub=8:392441,2:335220,8:335220	leg=2:335219,8:335219
+Desastre Total: Mães Detetives	dub=8:392455,2:336218,8:336218	leg=2:336217,8:336217
+Desastre Total: O Verdadeiro Projeto X	dub=8:392497,2:333606,8:333606	leg=2:333605,8:333605
 Desastre Total: O Verdadeiro Projeto X (2025)	dub=6:1313657
 Desastre Total: Prefeito do Caos	leg=2:329328,8:329328
 Desastre Vulcânico	dub=2:244654,8:244654	leg=2:244655,8:244655
@@ -562,7 +562,7 @@ Descendentes 2	dub=2:21232,8:21232
 Descendentes 2 (2017)	dub=6:1300271
 Descendentes 3	dub=2:317451,2:28104,8:317451,8:28104	leg=2:317452,8:317452
 Descendentes 3 (2019)	dub=6:1300272
-Descendentes: A Ascensão de Copas	dub=2:276007,2:270558,2:270557,8:276007,8:270558,8:270557	leg=2:270559,8:270559
+Descendentes: A Ascensão de Copas	dub=2:276007,2:270558,8:276007,8:270558,2:270557,8:270557	leg=2:270559,8:270559
 Descendentes: A Ascensão de Copas (2024)	dub=6:1309137	leg=6:1309136
 Descendentes: O Casamento Real	dub=2:137584,8:137584	leg=2:137579,8:137579
 Descendentes: O Casamento Real (2021)	dub=6:1304793	leg=6:1304794
@@ -604,7 +604,7 @@ Desejo Inconcebível	dub=2:72636,8:72636
 Desejo Perigoso	dub=2:133070,8:133070
 Desejo Proibido	dub=2:202010,8:202010	leg=2:202011,8:202011
 Desejo Proibido (2023)	dub=6:1301581	leg=6:1301580
-Desejo de Matar	dub=2:335756,2:93073,2:22502,8:335756,8:93073,8:22502	leg=2:335755,8:335755
+Desejo de Matar	dub=2:22502,8:22502,2:335756,2:93073,8:335756,8:93073	leg=2:335755,8:335755
 Desejo de Matar (1974)	dub=2:93063,6:1298497,8:93063
 Desejo de Matar (2018)	dub=6:1298401
 Desejo de Matar 2	dub=2:336825,8:336825
@@ -643,7 +643,7 @@ Deserto de Sangue (2019)	dub=6:1311804
 Deserto do Ouro	dub=2:159956,8:159956	leg=2:159952,8:159952
 Deserto do Ouro (2022)	dub=6:1299391
 Deserto em Fogo (2016)	dub=6:1303908
-Desespero Profundo	dub=2:267626,2:257903,8:267626,8:257903	leg=2:257904,8:257904
+Desespero Profundo	dub=2:267626,8:267626,2:257903,8:257903	leg=2:257904,8:257904
 Desespero Profundo (2024)	dub=6:1309109	leg=6:1309108
 Desfile de Coracoes (2022)	dub=6:1299475
 Desfile de Corações	dub=2:162330,2:162323,8:162330,8:162323
@@ -684,7 +684,7 @@ Desprotegida (2021)	dub=6:1300361
 Desta Vez, Para Sempre	dub=2:367573,8:367573	leg=2:367572,8:367572
 Destacamento Blood	dub=2:48179,8:48179
 Destacamento Blood (2020)	dub=6:1308406
-Destemida	dub=2:196748,2:186489,2:89578,8:196748,8:186489,8:89578	leg=2:186488,8:186488
+Destemida	dub=2:196748,8:196748,2:186489,2:89578,8:186489,8:89578	leg=2:186488,8:186488
 Destemida (2020)	dub=6:1308935
 Destemida (2023)	dub=6:1300963
 Desterro	dub=2:182635,8:182635
@@ -705,12 +705,12 @@ Destinos Opostos	dub=2:343953,8:343953
 Destinos Tracados (2022)	dub=6:1300870
 Destinos Traçados	dub=2:182282,8:182282	leg=2:182311,8:182311
 Destinos a Deriva (2023)	dub=6:1302560
-Destinos à Deriva	dub=2:217274,2:217206,8:217274,8:217206	leg=2:217205,8:217205
+Destinos à Deriva	dub=2:217274,8:217274,2:217206,8:217206	leg=2:217205,8:217205
 Destruicao Final 2 (2026)	dub=6:1314416	leg=6:1314415
 Destruicao Final: O Ultimo Refugio (2020)	dub=6:1298180
 Destruicao Total O Fim Do Mundo	dub=2:72637,8:72637
 Destruição Final 2	dub=2:371167,8:371167	leg=2:371166,2:365858,8:371166,8:365858
-Destruição Final: O Último Refúgio	dub=2:92658,2:92657,8:92658,8:92657
+Destruição Final: O Último Refúgio	dub=2:92657,8:92657,2:92658,8:92658
 Destruição Iminente	dub=8:389242	leg=8:389241
 Desumano	dub=2:172034,8:172034	leg=2:172037,8:172037
 Desumano (2022)	dub=6:1300070
@@ -735,7 +735,7 @@ Detetive Conan: O Pentagrama de Milhões de Dólares	dub=8:395680
 Detetive Conan: O Punho da Safira Azul	dub=2:178275,8:178275	leg=2:178287,8:178287
 Detetive Knight: Independência	dub=2:185854,8:185854	leg=2:185855,8:185855
 Detetive Knight: Independência (2023)	dub=6:1305415	leg=6:1305416
-Detetive Knight: Justiça	dub=2:186475,2:186473,8:186475,8:186473	leg=2:186474,8:186474
+Detetive Knight: Justiça	dub=2:186473,8:186473,2:186475,8:186475	leg=2:186474,8:186474
 Detetive Knight: Vilão	dub=2:281081,8:281081	leg=2:281082,8:281082
 Detetive Knight: Vilão (2022)	leg=6:1305395
 Detetive Madeinusa	dub=2:137640,8:137640
@@ -787,7 +787,7 @@ Deus Nao Esta Morto 3	dub=2:21521,8:21521
 Deus Nao Esta Morto: O Proximo Capitulo (2021)	dub=6:1299300
 Deus Nao Esta Morto: Uma Luz na Escuridao (2018)	dub=6:1297533
 Deus Nos Ajude!	dub=2:338548,8:338548	leg=2:338547,8:338547
-Deus Não Esta Morto: O Próximo Capítulo	dub=2:367086,2:150730,8:367086,8:150730	leg=2:144086,8:144086
+Deus Não Esta Morto: O Próximo Capítulo	dub=2:367086,8:367086,2:150730,8:150730	leg=2:144086,8:144086
 Deus Não Está Morto: Em Deus Confiamos	leg=2:380260,8:380260
 Deus da Carnificina (2011)	dub=6:1300453
 Deus da Guerra	dub=2:380520,2:22014,8:380520,8:22014	leg=2:380519,8:380519
@@ -809,7 +809,7 @@ Devil's Peak	dub=2:209530,8:209530	leg=2:209531,8:209531
 Devils Peak (2023)	dub=6:1302030
 Devious Nanny	leg=2:33371,8:33371
 Devious Nanny (2018)	leg=6:1307935
-Devoradores de Estrelas	dub=2:377816,2:377735,8:377816,8:377735	leg=2:377732,8:377732
+Devoradores de Estrelas	dub=2:377816,8:377816,2:377735,8:377735	leg=2:377732,8:377732
 Devoradores de Estrelas (2026)	dub=6:1314570	leg=6:1314569
 Devorados Vivos	dub=2:311224,8:311224
 Devorar a Noite	leg=2:352963,8:352963
@@ -817,7 +817,7 @@ Dez Minutos Para a Meia-Noite	dub=2:218850,8:218850	leg=2:218851,8:218851
 Dez Minutos Para a Meia-Noite (2020)	dub=6:1310983	leg=6:1310984
 Dezembro Sem Fim	dub=2:352680,8:352680	leg=2:352679,8:352679
 Dezembro Sem Fim (2023)	dub=6:1314005
-Dezesseis Facadas	dub=2:218881,2:218879,8:218881,8:218879	leg=2:218880,8:218880
+Dezesseis Facadas	dub=2:218879,8:218879,2:218881,8:218881	leg=2:218880,8:218880
 Dezesseis Facadas (2023)	dub=6:1302584	leg=6:1302583
 Dezesseis Luas	dub=2:265623,8:265623
 Dezesseis Luas (2013)	dub=6:1302295
@@ -866,14 +866,14 @@ Diablo: Caçada Mortal (2025)	dub=6:1313653
 Diabolic	leg=2:380255,8:380255
 Diabolik chi sei?	leg=2:341814,8:341814
 Diabolique (1996)	dub=6:1307068
-Diabólica	dub=2:287378,2:287357,2:104403,8:287378,8:287357,8:104403	leg=2:287358,8:287358
+Diabólica	dub=2:287378,8:287378,2:287357,2:104403,8:287357,8:104403	leg=2:287358,8:287358
 Diamant brut	leg=2:332841,8:332841
 Diamante Negro	dub=8:393782	leg=8:393781
 Diamante Negro (2025)	dub=6:1503123
 Diamante de Sangue	dub=2:34181,8:34181
 Diamante de Sangue (2006)	dub=6:1298727
 Diamantes	leg=2:366512,8:366512
-Diamantes Roubados: O Golpe do Século	dub=2:338671,8:391697,8:338671	leg=2:338670,8:338670
+Diamantes Roubados: O Golpe do Século	dub=8:391697,2:338671,8:338671	leg=2:338670,8:338670
 Diamantes do Caos	dub=2:221010,8:221010	leg=2:221011,8:221011
 Diamantes do Caos (2023)	dub=6:1302638
 Diana (2013)	dub=6:1301160
@@ -905,7 +905,7 @@ Dias Incriveis (2003)	dub=6:1300481
 Dias Incríveis	dub=2:340432,2:208214,8:340432,8:208214	leg=2:340431,8:340431
 Dias Melhores	dub=2:114385,8:114385
 Dias Melhores (2019)	dub=6:1301283
-Dias Perfeitos	dub=2:379432,2:346829,8:379432,8:346829	leg=2:346828,2:254082,8:346828,8:254082
+Dias Perfeitos	dub=2:379432,8:379432,2:346829,8:346829	leg=2:346828,2:254082,8:346828,8:254082
 Dias Perfeitos (2023)	leg=6:1304210
 Dias Sem Fim	dub=2:375043,2:44598,8:375043,8:44598	leg=2:375042,8:375042
 Dias Sem Fim (2020)	dub=6:1297874
@@ -943,7 +943,7 @@ Difícil de Matar (2020)	leg=6:1308853
 Diga Quem Morre	leg=2:348319,8:348319
 Diga Sim (2004)	dub=6:1302281
 Diga me Baixinho (2025)	dub=6:1314143
-Diga-me Baixinho	dub=2:359305,2:357125,8:359305,8:357125	leg=2:357124,8:357124
+Diga-me Baixinho	dub=2:359305,8:359305,2:357125,8:357125	leg=2:357124,8:357124
 Diga-me Quando	dub=2:103387,8:103387
 Diga-me Quando (2020)	dub=6:1308756
 Digimon Adventure 02: O Início	dub=2:340998,8:340998
@@ -960,7 +960,7 @@ Dinheiro Fácil	dub=2:246421,2:185871,8:246421,8:185871	leg=2:246422,2:185872,8:
 Dinheiro Fácil (2019)	dub=6:1306042	leg=6:1306043
 Dinheiro Sujo	dub=2:339287,8:339287	leg=2:339286,2:321370,8:339286,8:321370
 Dinheiro Sujo (2008)	dub=6:1312200	leg=6:1312199
-Dinheiro Suspeito	dub=2:362830,2:362722,2:362586,8:362830,8:362722,8:362586	leg=2:362585,8:362585
+Dinheiro Suspeito	dub=2:362830,2:362722,8:362830,8:362722,2:362586,8:362586	leg=2:362585,8:362585
 Dinheiro Suspeito (2026)	dub=6:1314242
 Dinheiro e Má Companhia (2002)	dub=6:1310241	leg=6:1310242
 Dinheiro em Jogo	dub=8:391950	leg=8:391949
@@ -1033,7 +1033,7 @@ Diversao a Tres (2019)	dub=6:1303519
 Diversão a Três	dub=2:192486,8:192486	leg=2:192510,8:192510
 Divertida Mente	dub=2:20341,8:20341	leg=2:345119,8:345119
 Divertida Mente (2015)	dub=6:1298224
-Divertida Mente 2	dub=2:287360,2:287359,8:287360,8:287359	leg=2:282080,8:282080
+Divertida Mente 2	dub=2:287360,8:287360,2:287359,8:287359	leg=2:282080,8:282080
 Divertida Mente 2 (2024)	dub=6:1312178	leg=6:1311881
 Divida de Honra (2014)	dub=6:1297523
 Divino Amor	dub=2:28263,8:28263
@@ -1050,7 +1050,7 @@ Divorciada No Dia Do Casamento	dub=8:389534
 Divorcio	dub=2:20583,8:20583
 Divorcio em Família por Tyler Perry (2024)	dub=6:1309128	leg=6:1309127
 Divórcio (2017)	dub=6:1310470
-Divórcio em Família, por Tyler Perry	dub=2:270413,2:270412,8:270413,8:270412	leg=2:270414,8:270414
+Divórcio em Família, por Tyler Perry	dub=2:270413,8:270413,2:270412,8:270412	leg=2:270414,8:270414
 Divórcio em Las Vegas	dub=2:136811,8:136811	leg=2:136793,8:136793
 Divórcio em Las Vegas (2020)	dub=6:1304610	leg=6:1304611
 Dix Pour Cent ! Le Film	dub=8:395878	leg=8:395877
@@ -1066,7 +1066,7 @@ Diário de um Banana (2021)	dub=6:1304767	leg=6:1304768
 Diário de um Banana 2: Rodrick é o Cara	dub=2:31782,8:31782
 Diário de um Banana 3: Dias de Cão	dub=2:31783,8:31783
 Diário de um Banana 4: Caindo na Estrada	dub=2:31784,8:31784
-Diário de um Banana no Natal: Casa dos Horrores	dub=2:231317,2:231313,8:231317,8:231313
+Diário de um Banana no Natal: Casa dos Horrores	dub=2:231313,8:231313,2:231317,8:231317
 Diário de um Banana: A Gota d'Água	dub=2:355555,8:355555	leg=2:355554,8:355554
 Diário de um Banana: Caindo na Estrada (2017)	dub=6:1307650
 Diário de uma Louca	dub=2:347143,8:347143	leg=2:347142,8:347142
@@ -1105,7 +1105,7 @@ Do Mundo Nada Se Leva (1938)	dub=6:1299454
 Do Not Disturb	dub=2:217192,8:217192	leg=2:217193,8:217193
 Do Not Disturb (2023)	dub=6:1311710	leg=6:1311711
 Do Outro Lado Da Linha	dub=2:97574,8:97574
-Do Outro Lado da Dor	dub=2:238568,8:392752,8:238568	leg=2:238567,8:238567
+Do Outro Lado da Dor	dub=8:392752,2:238568,8:238568	leg=2:238567,8:238567
 Do Outro Lado da Fronteira	dub=2:216992,8:216992	leg=2:216991,8:216991
 Do Outro Lado da Fronteira (2019)	dub=6:1310801	leg=6:1310802
 Do Outro Lado da Lei	dub=2:134095,8:134095	leg=2:134090,8:134090
@@ -1185,7 +1185,7 @@ Dois Corações	dub=2:279202,8:279202	leg=2:279203,8:279203
 Dois Homens Contra uma Cidade	dub=2:45088,8:45088
 Dois Homens Contra uma Cidade (2014)	dub=6:1307350
 Dois Irmaos: Uma Jornada Fantastica (2020)	dub=6:1297854
-Dois Irmãos - Uma Jornada Fantástica	dub=2:42987,2:42983,8:42987,8:42983
+Dois Irmãos - Uma Jornada Fantástica	dub=2:42987,8:42987,2:42983,8:42983
 Dois Lados do Amor	dub=2:144109,8:144109
 Dois Lados do Amor (2014)	dub=6:1304299
 Dois Loucos com Sorte	dub=2:20587,8:20587
@@ -1214,7 +1214,7 @@ Dois é Demais em Orlando	dub=2:267383,8:267383
 Dois é Demais em Orlando (2024)	dub=6:1309609
 Doleira: A Historia de Nelma Kodama (2024)	dub=6:1304164
 Doleira: A História de Nelma Kodama	dub=2:264341,8:264341
-Dolittle	dub=2:44602,2:44599,8:387046,8:44602,8:44599	leg=2:41850,8:387045,8:41850
+Dolittle	dub=2:44602,8:44602,2:44599,8:387046,8:44599	leg=2:41850,8:387045,8:41850
 Dolittle (2020)	dub=6:1313511
 Dolly A Boneca Maldita (2026)	dub=6:1500859
 Dolly Kitty and Those Twinkling Stars	leg=2:73267,8:73267
@@ -1236,7 +1236,7 @@ Domingo de Páscoa (2022)	dub=6:1311315	leg=6:1311316
 Domingo à Noite	dub=2:264342,8:264342
 Dominguinhos	dub=2:348793,8:348793
 Dominio: Prequela do Exorcista (2005)	dub=6:1299211
-Dominique	dub=2:301659,2:291894,8:301659,8:291894	leg=2:291895,8:291895
+Dominique	dub=2:301659,8:301659,2:291894,8:291894	leg=2:291895,8:291895
 Domino a Cacadora de Recompensas (2005)	dub=6:1300705
 Domino, a Caçadora de Recompensas	dub=2:110412,8:110412
 Domme	dub=2:194169,8:194169
@@ -1252,7 +1252,7 @@ Don't Tell a Soul	dub=2:128576,8:128576	leg=2:128565,8:128565
 Don't Turn Out the Lights	dub=2:354121,8:354121	leg=2:354120,8:354120
 Dona Flor e Seus Dois Maridos	dub=2:113031,2:113010,8:113031,8:113010
 Dona Flor e Seus Dois Maridos (1976)	dub=6:1301345
-Dona Lurdes: O Filme	dub=2:261109,2:261108,8:261109,8:261108	leg=2:261110,8:261110
+Dona Lurdes: O Filme	dub=2:261109,8:261109,2:261108,8:261108	leg=2:261110,8:261110
 Dona Lurdes: O Filme (2024)	dub=6:1303696
 Dona Sônia Pediu Uma Arma Para Seu Vizinho Alcides	dub=8:393685
 Donas de Alegria (2020)	leg=6:1308424
@@ -1266,7 +1266,7 @@ Donnybrook - Luta Pela Redencao (2018)	dub=6:1298141
 Donnybrook - Luta Pela Redenção	dub=2:316302,2:27650,8:316302,8:27650	leg=2:316303,8:316303
 Dont Let Them In	leg=2:42909,8:42909
 Dont Tell A Soul	leg=2:97586,8:97586
-Donzela	dub=2:254083,2:252167,8:254083,8:252167	leg=2:252168,8:252168
+Donzela	dub=2:254083,8:254083,2:252167,8:252167	leg=2:252168,8:252168
 Donzela (2024)	dub=6:1303223	leg=6:1303222
 Doom - Aniquilacao (2019)	dub=6:1297888
 Doom: A Porta do Inferno	dub=2:20006,8:20006
@@ -1311,16 +1311,16 @@ Double Crosses	dub=2:194213,8:194213
 Double World	leg=2:64381,8:64381
 Doula	dub=2:165675,8:165675	leg=2:165674,8:165674
 Doula (2022)	dub=6:1300706
-Doutor Estranho	dub=2:314668,2:98658,2:21481,8:391898,8:314668,8:98658,8:21481	leg=8:391897
+Doutor Estranho	dub=2:21481,8:21481,2:314668,2:98658,8:391898,8:314668,8:98658	leg=8:391897
 Doutor Estranho (2016)	dub=6:1297079,6:1313250	leg=6:1313249
-Doutor Estranho no Multiverso da Loucura	dub=2:162974,2:162964,8:162974,8:162964	leg=2:162720,8:162720
+Doutor Estranho no Multiverso da Loucura	dub=2:162974,8:162974,2:162964,8:162964	leg=2:162720,8:162720
 Doutor Estranho no Multiverso da Loucura (2022)	dub=6:1313252	leg=6:1313251
 Doutor Gama	dub=2:120700,8:120700
 Doutor Gama (2021)	dub=6:1300362
 Doutor Jivago	dub=2:362858,8:362858
 Doutor Risadinha - Especialista em Óbitos	dub=2:350902,8:350902
 Doutor Risadinha - Especialista em Óbitos (1992)	dub=6:1312643
-Doutor Sono	dub=2:34182,2:33551,8:34182,8:33551
+Doutor Sono	dub=2:34182,8:34182,2:33551,8:33551
 Doutor Sono (2019)	dub=6:1297475
 Dovlatov	leg=2:44606,8:44606
 Down Quixote	dub=2:365857,8:365857
@@ -1459,16 +1459,16 @@ Drone	dub=2:329608,8:329608	leg=2:329607,8:329607
 Drone (2017)	dub=6:1300273
 Drones	dub=2:23723,8:23723
 Drones (2018)	dub=6:1308116
-Drop: Ameaça Anônima	dub=2:321373,2:321371,8:321373,8:321371	leg=2:321372,2:320768,8:321372,8:320768
+Drop: Ameaça Anônima	dub=2:321371,8:321371,2:321373,8:321373	leg=2:321372,2:320768,8:321372,8:320768
 Drop: Ameaça Anônima (2025)	dub=6:1313546	leg=6:1313545
 Drugstore June	leg=2:275500,8:275500
 Druk Mais uma Rodada	dub=2:102643,8:394503,8:102643
 Druk: Mais uma Rodada (2020)	dub=6:1300179
-Drácula - Uma História de Amor Eterno	dub=2:354946,2:354123,8:354946,8:354123	leg=2:354122,8:354122
+Drácula - Uma História de Amor Eterno	dub=2:354946,8:354946,2:354123,8:354123	leg=2:354122,8:354122
 Drácula de Bram Stoker	dub=2:278105,8:278105
 Drácula – Ele Ainda Está Vivo	dub=2:193258,8:193258	leg=2:193257,8:193257
 Drácula – Ele Ainda Está Vivo (2022)	dub=6:1306853	leg=6:1306854
-Drácula: A Última Viagem do Deméter	dub=2:217280,2:217278,8:217280,8:217278	leg=2:212422,8:212422
+Drácula: A Última Viagem do Deméter	dub=2:217278,8:217278,2:217280,8:217280	leg=2:212422,8:212422
 Drácula: Morto, mas Feliz	dub=2:157978,8:157978
 Drácula: Morto, mas Feliz (1995)	dub=6:1305565
 Du Dudu e Edu - Que Natal Que Nada (2004)	dub=6:1314169
@@ -1485,7 +1485,7 @@ Duas Bruxas: A Herança Diabólica	dub=2:193262,8:193262	leg=2:193261,8:193261
 Duas Coroas	dub=2:352398,8:352398	leg=2:352397,8:352397
 Duas Irmas (2003)	dub=6:1301393
 Duas Irmãs, Uma Paixão	dub=2:352995,8:352995	leg=2:352994,8:352994
-Duas Pecadoras e Uma Mula	dub=2:194844,2:194841,8:194844,8:194841	leg=2:194842,8:194842
+Duas Pecadoras e Uma Mula	dub=2:194841,8:194841,2:194844,8:194844	leg=2:194842,8:194842
 Duas Pecadoras e Uma Mula (2023)	dub=6:1302642
 Duas Por Uma	dub=2:89732,8:89732
 Duas Por Uma (2020)	dub=6:1308621
@@ -1498,7 +1498,7 @@ Duas Vezes Colonizada	leg=8:394560
 Duas Vezes Mulher	dub=2:369394,8:369394
 Duas Vidas	dub=2:344500,8:344500
 Duas Vidas (2000)	dub=6:1298513
-Duas Vidas: Do que Estamos Falando Quando Falamos Sobre Aborto	dub=2:223106,2:223105,8:223106,8:223105
+Duas Vidas: Do que Estamos Falando Quando Falamos Sobre Aborto	dub=2:223105,8:223105,2:223106,8:223106
 Duas Vidas: Do que Estamos Falando Quando Falamos Sobre Aborto (2023)	dub=6:1309682
 Duas de Mim	dub=2:20591,8:20591
 Duas de Mim (2017)	dub=6:1310518
@@ -1529,19 +1529,19 @@ Duetto	dub=2:180309,8:180309
 Duetto (2022)	dub=6:1306938
 Duma	dub=2:142428,8:142428
 Duma (2005)	dub=6:1304300
-Dumbo	dub=2:329639,2:33372,2:24948,8:329639,8:33372,8:24948
+Dumbo	dub=2:329639,8:329639,2:33372,2:24948,8:33372,8:24948
 Dumbo (1941)	dub=6:1307094
 Dumbo (2019)	dub=6:1297119,6:1297156
 Dumbo Legendado	dub=2:24440,8:24440
 Dummie A Mumia E A Tumba De Achnetut	dub=2:25482,8:25482
 Dummie A Múmia e a Tumba de Achnetut (2017)	dub=6:1307885
 Dumplin (2018)	dub=6:1298400
-Duna	dub=2:357566,2:134097,2:134096,8:357566,8:134097,8:134096	leg=2:357565,2:134012,8:357565,8:134012
+Duna	dub=2:134096,8:134096,2:357566,2:134097,8:357566,8:134097	leg=2:357565,2:134012,8:357565,8:134012
 Duna (1984)	dub=6:1300173
 Duna (2021)	dub=6:1298910	leg=6:1298997
 Duna Parte Dois (2024)	dub=6:1303403	leg=6:1303402
-Duna: Parte Dois	dub=2:314461,2:314460,2:256618,2:256617,8:314461,8:314460,8:256618,8:256617	leg=2:314462,2:256619,8:314462,8:256619
-Dungeons & Dragons: Honra Entre Rebeldes	dub=2:194158,2:194080,8:194158,8:194080	leg=2:194081,8:194081
+Duna: Parte Dois	dub=2:314461,2:256618,8:314461,8:256618,2:314460,2:256617,8:314460,8:256617	leg=2:314462,2:256619,8:314462,8:256619
+Dungeons & Dragons: Honra Entre Rebeldes	dub=2:194158,8:194158,2:194080,8:194080	leg=2:194081,8:194081
 Dungeons e Dragons Honra Entre Rebeldes (2023)	dub=6:1301186	leg=6:1301185
 Dunki	dub=2:249250,8:249250	leg=2:249251,8:249251
 Dunki (2023)	dub=6:1311936
@@ -1555,7 +1555,7 @@ Dupla Implacável	dub=2:320583,2:195157,8:320583,8:195157	leg=2:320584,8:320584
 Dupla Implacável (2010)	dub=6:1305631
 Dupla Jornada	dub=2:169717,8:169717	leg=2:169681,8:169681
 Dupla Jornada (2022)	dub=6:1299848
-Dupla Perigosa	dub=2:364807,2:364761,8:364807,8:364761	leg=2:364760,8:364760
+Dupla Perigosa	dub=2:364807,8:364807,2:364761,8:364761	leg=2:364760,8:364760
 Dupla Perigosa (2026)	dub=6:1314268	leg=6:1314267
 Dupla em Fúria	dub=2:332685,8:332685	leg=2:332684,8:332684
 Duplamente Gravida 2 (2022)	dub=6:1299805
@@ -1568,9 +1568,9 @@ Duque Com Beneficios	leg=8:389539
 Durante a Tormenta	dub=2:21431,8:21431
 Durante a Tormenta (2018)	dub=6:1310629
 Duro Aprendizado (1995)	dub=6:1309872	leg=6:1309873
-Duro de Atuar	dub=2:187884,2:187878,8:187884,8:187878	leg=2:187879,8:187879
+Duro de Atuar	dub=2:187884,8:187884,2:187878,8:187878	leg=2:187879,8:187879
 Duro de Atuar (2023)	dub=6:1301005
-Duro de Atuar 2	dub=2:263723,2:263705,8:263723,8:263705	leg=2:263706,8:263706
+Duro de Atuar 2	dub=2:263723,8:263723,2:263705,8:263705	leg=2:263706,8:263706
 Duro de Atuar 2 (2024)	dub=6:1304114
 Duro de Casar	dub=2:337598,8:337598	leg=2:337597,8:337597
 Duro de Espiar (1996)	dub=6:1299956

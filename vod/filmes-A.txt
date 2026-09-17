@@ -19,7 +19,7 @@ A Academia do Sr Kleks (2024)	dub=6:1304926
 A Academia do Sr. Kleks	dub=2:265878,8:265878	leg=2:265879,8:265879
 A Acompanhante (2015)	dub=6:1299619
 A Acompanhante 2 - Profissão de Risco (2007)	dub=6:1299620
-A Acusada	dub=2:368074,8:390302,8:368074	leg=2:368073,8:368073
+A Acusada	dub=8:390302,2:368074,8:368074	leg=2:368073,8:368073
 A Acusada (2026)	dub=6:1314352
 A Agenda Secreta do Meu Namorado	dub=2:133078,8:133078
 A Agenda Secreta do Meu Namorado (2004)	dub=6:1299812,6:1300772
@@ -58,7 +58,7 @@ A Arte da Guerra II (2008)	dub=6:1309807	leg=6:1309808
 A Arte da Sobrevivência	dub=2:218856,8:218856	leg=2:218857,8:218857
 A Arte das Oito Armas	dub=2:352945,8:352945	leg=2:352944,8:352944
 A Arte das Oito Armas (2024)	dub=6:1314024
-A Arte de Amar	dub=2:265781,2:252887,8:265781,8:252887	leg=2:252888,8:252888
+A Arte de Amar	dub=2:265781,8:265781,2:252887,8:252887	leg=2:252888,8:252888
 A Arte de Amar (2024)	dub=6:1303240
 A Arte de Economizar	dub=8:392783
 A Arte de Se Apaixonar	dub=2:185294,8:185294	leg=2:185295,8:185295
@@ -81,7 +81,7 @@ A Astronauta	dub=2:367423,8:367423	leg=2:367422,2:349011,8:367422,8:349011
 A Astronauta (2025)	dub=6:1314325	leg=6:1313932
 A Autopsia	dub=2:21677,8:21677
 A Autopsia (2016)	dub=6:1297971
-A Avaliação	dub=2:320764,2:320749,8:320764,8:320749	leg=2:320748,8:320748
+A Avaliação	dub=2:320764,8:320764,2:320749,8:320749	leg=2:320748,8:320748
 A Avaliação (2025)	dub=6:1313489	leg=6:1313488
 A Aventura da Minha Vida	dub=2:250650,8:250650	leg=2:250651,8:250651
 A Aventura da Minha Vida (2020)	dub=6:1310969	leg=6:1310970
@@ -91,18 +91,18 @@ A Baba (2018)	dub=6:1302492
 A Baba (2022)	dub=6:1300825	leg=6:1300826
 A Baba: O Chamado das Sombras (2020)	dub=6:1299224
 A Baba: Rainha da Morte (2020)	dub=6:1297988
-A Babá	dub=2:186745,2:182280,2:21986,8:186745,8:182280,8:21986	leg=2:190762,2:182277,8:190762,8:182277
+A Babá	dub=2:186745,8:186745,2:182280,2:21986,8:182280,8:21986	leg=2:190762,2:182277,8:190762,8:182277
 A Babá: O Chamado das Sombras	dub=2:148742,8:148742	leg=2:148743,8:148743
-A Babá: Rainha da Morte	dub=2:189908,2:72631,8:189908,8:72631
+A Babá: Rainha da Morte	dub=2:189908,8:189908,2:72631,8:72631
 A Bahia Me Fez Assim	dub=8:387593
-A Bailarina	dub=2:219940,2:218860,2:20298,8:219940,8:218860,8:20298	leg=2:218861,8:218861
+A Bailarina	dub=2:219940,8:219940,2:218860,2:20298,8:218860,8:20298	leg=2:218861,8:218861
 A Bailarina (2016)	dub=6:1300580
 A Bailarina (2023)	dub=6:1302572
 A Balada de Buster Scruggs	dub=2:22579,8:22579
 A Balada de Buster Scruggs (2018)	dub=6:1298820
 A Balada do Pistoleiro	dub=2:21375,8:21375
 A Balada do Pistoleiro (1995)	dub=6:1297518
-A Baleia	dub=2:191445,2:191147,8:390134,8:191445,8:191147	leg=2:187850,8:390133,8:187850
+A Baleia	dub=2:191445,8:191445,2:191147,8:390134,8:191147	leg=2:187850,8:390133,8:187850
 A Baleia (2022)	dub=6:1301084	leg=6:1300992
 A Banda das Velhas Virgens	dub=8:394769
 A Barbárie	dub=2:318580,8:318580	leg=2:318581,8:318581
@@ -110,7 +110,7 @@ A Barraca do Beijo	dub=2:21541,8:21541
 A Barraca do Beijo (2018)	dub=6:1310475
 A Barraca do Beijo 2	dub=2:64355,8:64355
 A Barraca do Beijo 2 (2020)	dub=6:1308419
-A Barraca do Beijo 3	dub=2:120713,2:119716,8:120713,8:119716	leg=2:119717,8:119717
+A Barraca do Beijo 3	dub=2:120713,8:120713,2:119716,8:119716	leg=2:119717,8:119717
 A Barraca do Beijo 3 (2021)	dub=6:1298652
 A Batalha Britanica (1969)	dub=6:1312669
 A Batalha De Riddick	dub=2:99892,8:99892
@@ -119,14 +119,14 @@ A Batalha De Um Pai (2021)	dub=6:1305928	leg=6:1305929
 A Batalha Esquecida	dub=2:133761,8:133761	leg=2:133789,8:133789
 A Batalha Esquecida (2020)	dub=6:1299052
 A Batalha da Grã-Bretanha	dub=2:382306,8:382306	leg=2:382303,8:382303
-A Batalha da Ilha Wallis	dub=2:328296,2:328259,8:328296,8:328259	leg=2:328258,8:328258
+A Batalha da Ilha Wallis	dub=2:328296,8:328296,2:328259,8:328259	leg=2:328258,8:328258
 A Batalha da Ilha Wallis (2025)	dub=6:1313589
 A Batalha das Ardenas: A Última Ofensiva de Hitler	dub=2:197659,8:197659	leg=2:197658,8:197658
 A Batalha das Ardenas: A Última Ofensiva de Hitler (2018)	dub=6:1303761
 A Batalha das Correntes	dub=2:41628,8:41628
 A Batalha das Correntes (2018)	dub=6:1301318
 A Batalha de Haarlem (2014)	dub=6:1303553
-A Batalha de Natal	dub=2:230144,2:230125,8:230144,8:230125	leg=2:230146,8:230146
+A Batalha de Natal	dub=2:230144,8:230144,2:230125,8:230125	leg=2:230146,8:230146
 A Batalha de Natal (2023)	dub=6:1302910
 A Batalha de Riddick (2004)	dub=6:1297636
 A Batalha de Seattle	dub=8:392583	leg=8:392582
@@ -197,7 +197,7 @@ A Bruxa do Gelo	dub=2:235131,8:235131	leg=2:235130,8:235130
 A Bruxa do Gelo (2022)	dub=6:1309265	leg=6:1309266
 A Bruxa dos Doces	dub=2:142423,8:142423	leg=2:142418,8:142418
 A Bruxa dos Doces (2020)	dub=6:1304652	leg=6:1304653
-A Bruxa dos Mortos: Baghead	dub=2:255979,8:256258,8:255979	leg=2:255980,8:255980
+A Bruxa dos Mortos: Baghead	dub=8:256258,2:255979,8:255979	leg=2:255980,8:255980
 A Bruxa dos Mortos: Baghead (2023)	dub=6:1303357	leg=6:1303364
 A Bruxinha e o Dragão	dub=2:148665,8:148665
 A Bruxinha e o Dragão (2009)	dub=6:1305646
@@ -237,7 +237,7 @@ A Caminho da Lua (2020)	dub=6:1298043
 A Caminho de Casa	dub=2:350982,2:190970,8:350982,8:190970	leg=2:350981,2:190969,8:350981,8:190969
 A Caminho de Casa (2019)	dub=6:1297496,6:1305906	leg=6:1305907
 A Caminho do Verao (2022)	dub=6:1299387
-A Caminho do Verão [ [	dub=2:169656,2:159804,8:169656,8:159804	leg=2:159803,8:159803
+A Caminho do Verão [ [	dub=2:169656,8:169656,2:159804,8:159804	leg=2:159803,8:159803
 A Cancao de Xiara	dub=2:138875,8:138875
 A Cancao de Xiara (2005)	dub=6:1302231
 A Candidata Honesta (2020)	dub=6:1301939
@@ -253,7 +253,7 @@ A Carga (2018)	dub=6:1303546
 A Carta (2012)	dub=6:1300283
 A Carta de Natal	dub=2:353758,8:353758	leg=2:353757,8:353757
 A Cartomante	dub=2:314654,8:314654
-A Casa	dub=2:375025,2:246875,2:129514,2:46125,8:375025,8:246875,8:129514,8:46125	leg=2:375024,2:246876,8:375024,8:246876
+A Casa	dub=2:46125,8:46125,2:375025,2:246875,2:129514,8:375025,8:246875,8:129514	leg=2:375024,2:246876,8:375024,8:246876
 A Casa (2010)	dub=6:1304518
 A Casa (2020)	dub=6:1308749
 A Casa (2021)	dub=6:1311440	leg=6:1311441
@@ -271,7 +271,7 @@ A Casa Maluca	dub=8:395287	leg=8:395286
 A Casa Monstro	dub=2:370869,2:161951,8:370869,8:161951	leg=2:370868,8:370868
 A Casa Monstro (2006)	dub=6:1300635
 A Casa Mágica da Gabby: O Filme	dub=2:353771,8:353771	leg=2:353770,8:353770
-A Casa Mórbida	dub=2:288558,2:288557,8:288558,8:288557	leg=2:288559,8:288559
+A Casa Mórbida	dub=2:288558,8:288558,2:288557,8:288557	leg=2:288559,8:288559
 A Casa Mórbida (2024)	dub=6:1312240	leg=6:1312239
 A Casa Profunda (2021)	dub=6:1304650	leg=6:1304651
 A Casa Que Jack Construiu	leg=2:319149,8:319149
@@ -329,7 +329,7 @@ A Cauda do Diabo (2024)	dub=6:1314052
 A Caverna	dub=2:122928,2:67478,8:122928,8:67478
 A Caverna (2005)	dub=6:1311509
 A Caverna (2018)	dub=6:1301119
-A Caverna Azul	dub=2:291146,2:291145,8:291146,8:291145	leg=2:291147,8:291147
+A Caverna Azul	dub=2:291146,8:291146,2:291145,8:291145	leg=2:291147,8:291147
 A Caverna Azul (2024)	dub=6:1312300
 A Caverna: Perigo Subterraneo (2016)	leg=6:1303903
 A Caverna: Perigo Subterrâneo	dub=2:30648,8:30648	leg=8:388447
@@ -349,7 +349,7 @@ A Cela dos Milagres (2025)	dub=6:1314322
 A Centopeia Humana	dub=2:21679,8:21679
 A Centopeia Humana (2009)	leg=6:1303036
 A Cerca (2010)	leg=6:1302472
-A Chamada	dub=2:278103,2:219942,2:219941,8:278103,8:219942,8:219941	leg=2:219943,8:219943
+A Chamada	dub=2:219941,8:219941,2:278103,2:219942,8:278103,8:219942	leg=2:219943,8:219943
 A Chamada (2023)	dub=6:1302610	leg=6:1302507
 A Chance	dub=2:98807,8:98807
 A Chance (1983)	dub=6:1307236
@@ -379,7 +379,7 @@ A Cidade das Crianças	dub=2:370310,8:370310	leg=2:370309,8:370309
 A Cidade do Natal	dub=2:191125,8:191125	leg=2:191126,8:191126
 A Cidade do Natal (2019)	dub=6:1300774
 A Cidade dos Mortos-Vivos	dub=2:370312,8:370312	leg=2:370311,8:370311
-A Cidade dos Sonhos	dub=2:374485,2:374351,8:374485,8:374351	leg=2:374350,8:374350
+A Cidade dos Sonhos	dub=2:374485,8:374485,2:374351,8:374351	leg=2:374350,8:374350
 A Cidade dos Sonhos (2024)	dub=6:1314474
 A Cidade que Ainda Sonha	dub=2:358041,8:358041
 A Cidadela dos Robinsons	dub=2:112983,8:112983
@@ -398,7 +398,7 @@ A Cobra do Alabama	dub=2:202628,8:202628	leg=2:202627,8:202627
 A Cobra do Alabama (2020)	dub=6:1302239
 A Coisa	dub=2:371842,2:348134,8:371842,8:348134	leg=2:348133,8:348133
 A Coisa (2011)	dub=6:1308539
-A Colega Perfeita	dub=2:375096,2:374637,8:375096,8:374637	leg=2:374636,8:374636
+A Colega Perfeita	dub=2:375096,8:375096,2:374637,8:374637	leg=2:374636,8:374636
 A Colega Perfeita (2026)	dub=6:1314500
 A Colheita	dub=2:130240,8:130240	leg=2:338667,2:130233,8:338667,8:130233
 A Colheita (2018)	dub=6:1303758
@@ -419,7 +419,7 @@ A Comissária da Morte (2019)	dub=6:1306327	leg=6:1306328
 A Concepção	dub=2:318517,8:318517
 A Condenação	dub=2:320876,8:320876
 A Conexao Sueca (2026)	dub=6:1314323
-A Conexão Sueca	dub=2:367464,2:367091,8:367464,8:367091	leg=2:367090,8:367090
+A Conexão Sueca	dub=2:367464,8:367464,2:367091,8:367091	leg=2:367090,8:367090
 A Confeiteira	dub=2:301067,8:301067	leg=2:301068,8:301068
 A Confeiteira (2021)	dub=6:1312751
 A Conferencia (2022)	dub=6:1303530
@@ -443,9 +443,9 @@ A Convocacao (2014)	dub=6:1302228
 A Copa do Peru	dub=2:31413,8:31413
 A Copa do Peru (2019)	dub=6:1308164
 A Cor Purpura (2023)	dub=6:1303155
-A Cor Púrpura	dub=2:247932,2:247931,2:138918,8:247932,8:247931,8:138918	leg=2:247933,8:247933
+A Cor Púrpura	dub=2:247932,8:247932,2:247931,2:138918,8:247931,8:138918	leg=2:247933,8:247933
 A Cor Púrpura (1985)	dub=6:1304858
-A Cor Que Caiu do Espaço	dub=2:380502,2:92000,2:91968,8:380502,8:92000,8:91968	leg=2:380501,8:380501
+A Cor Que Caiu do Espaço	dub=2:92000,8:92000,2:380502,2:91968,8:380502,8:91968	leg=2:380501,8:380501
 A Cor Que Caiu do Espaço (2020)	dub=6:1308233
 A Cor da Vingança	dub=2:215895,8:215895	leg=2:215894,8:215894
 A Cor da Vingança (2020)	dub=6:1310635	leg=6:1310636
@@ -466,7 +466,7 @@ A Corrida da Superação	dub=2:77609,8:77609
 A Corrida da Superação (2014)	dub=6:1307379
 A Corrida dos 100 Metros	dub=2:359259,8:359259	leg=2:359258,8:359258
 A Corrida dos 100 Metros (2025)	dub=6:1314202	leg=6:1500975
-A Corte Marcial Da Nave Da Revolta	dub=2:255982,2:255981,8:255982,8:255981	leg=2:255983,8:255983
+A Corte Marcial Da Nave Da Revolta	dub=2:255982,8:255982,2:255981,8:255981	leg=2:255983,8:255983
 A Corte Marcial Da Nave Da Revolta (2023)	dub=6:1309222	leg=6:1309223
 A Costa Rican Wedding	dub=2:378713,8:378713
 A Costela de Adão	dub=8:392587	leg=8:392586
@@ -476,7 +476,7 @@ A Cozinha (2022)	dub=6:1302848
 A Cozinha (2024)	leg=6:1312940
 A Cozinheira Curiosa: Receita Assassina	dub=2:180335,8:180335	leg=2:180347,8:180347
 A Cozinheira Curiosa: Receita Assassina (2022)	dub=6:1300512
-A Cratera	dub=2:194884,2:194840,8:194884,8:194840	leg=2:194845,8:194845
+A Cratera	dub=2:194884,8:194884,2:194840,8:194840	leg=2:194845,8:194845
 A Cratera (2023)	dub=6:1306047	leg=6:1306048
 A Creche do Papai	dub=2:20487,8:20487
 A Creche do Papai (2003)	dub=6:1297719
@@ -519,7 +519,7 @@ A Dama de Vermelho	dub=2:339277,8:339277	leg=2:339276,8:339276
 A Dama do Lotacao (1978)	dub=6:1300355
 A Dama do Silencio La Mataviejitas (2023)	dub=6:1302037
 A Dama do Silêncio: La Mataviejitas	dub=2:204504,8:204504	leg=2:204503,8:204503
-A Dama e o Vagabundo	dub=2:330488,2:41191,2:40941,8:330488,8:41191,8:40941
+A Dama e o Vagabundo	dub=2:41191,8:41191,2:330488,2:40941,8:330488,8:40941
 A Dama e o Vagabundo (1955)	dub=6:1300872
 A Dama e o Vagabundo (2019)	dub=6:1300871
 A Dama e o Vagabundo 2: As Aventuras de Banze (2001)	dub=6:1300933
@@ -535,7 +535,7 @@ A Dark Path (2020)	leg=6:1308887
 A Delicadeza do Amor (2011)	dub=6:1303379
 A Descoberta	dub=2:257369,8:257369
 A Descoberta (2017)	dub=6:1310288
-A Descoberta Perfeita	dub=2:199677,8:393012,8:199677	leg=2:199676,8:199676
+A Descoberta Perfeita	dub=8:393012,2:199677,8:199677	leg=2:199676,8:199676
 A Descoberta Perfeita (2023)	dub=6:1301521
 A Desconhecida	dub=2:381775,8:381775	leg=2:381774,8:381774
 A Despedida	dub=2:251962,2:107777,8:251962,8:107777	leg=2:251963,8:251963
@@ -570,7 +570,7 @@ A Edição do Nordeste	dub=8:396148
 A Educacao de Mohammad Hussein (2012)	dub=6:1302482
 A Elefanta do Magico (2023)	dub=6:1301620
 A Elefanta do Mágico	dub=2:189527,8:189527	leg=2:189528,8:189528
-A Empregada	dub=2:365405,2:365299,8:385000,8:365405,8:365299	leg=2:365298,8:384999,8:365298
+A Empregada	dub=2:365405,8:365405,2:365299,8:385000,8:365299	leg=2:365298,8:384999,8:365298
 A Empregada (2025)	dub=6:1314282	leg=6:1314281
 A Encruzilhada	dub=2:204468,2:20898,8:204468,8:20898	leg=2:204467,8:204467
 A Encruzilhada (1986)	dub=6:1309854
@@ -649,7 +649,7 @@ A Espera de um Milagre	dub=2:21509,8:21509
 A Espera de um Milagre (1999)	dub=6:1297530
 A Espera dos Barbaros	dub=2:102479,8:102479
 A Esperanca E A Ultima Que Morre	dub=2:102484,8:102484
-A Esperança se Chama Liberdade	dub=2:365401,2:365400,8:365401,8:365400
+A Esperança se Chama Liberdade	dub=2:365400,8:365400,2:365401,8:365401
 A Esperança É a Última que Morre (2015)	dub=6:1307311
 A Espia Que Sabia de Menos (2015)	dub=6:1313033
 A Espia Vermelha	dub=2:26382,8:26382
@@ -691,12 +691,12 @@ A Experiência 4: O Despertar	dub=2:100132,8:100132
 A Experiência II - A Mutação	dub=2:100130,8:100130
 A Experiência III	dub=2:100131,8:100131
 A Extorsao (2023)	dub=6:1301527
-A Extorsão	dub=2:250652,2:195632,8:250652,8:195632	leg=2:195633,8:195633
+A Extorsão	dub=2:250652,8:250652,2:195632,8:195632	leg=2:195633,8:195633
 A Extraordinaria Garota Chamada Estrela (2020)	dub=6:1297965
 A Extraordinaria Garota Chamada Estrela em Hollywood (2022)	dub=6:1300444
 A Extraordinaria Jornada do Faquir	dub=2:22550,8:22550
-A Extraordinária Garota Chamada Estrela	dub=2:41611,2:41604,8:41611,8:41604
-A Extraordinária Garota Chamada Estrela em Hollywood	dub=2:162719,2:161526,2:161507,8:162719,8:161526,8:161507
+A Extraordinária Garota Chamada Estrela	dub=2:41611,8:41611,2:41604,8:41604
+A Extraordinária Garota Chamada Estrela em Hollywood	dub=2:162719,8:162719,2:161526,2:161507,8:161526,8:161507
 A Extraordinária História do New York Cosmos	dub=2:368196,8:368196	leg=2:368195,8:368195
 A Extraordinária Vida de Ibelin	dub=2:292092,8:292092	leg=2:292093,8:292093
 A Extraordinária Vida de Ibelin (2024)	dub=6:1312342
@@ -734,7 +734,7 @@ A Famosa Bettie Page (2005)	dub=6:1300007
 A Família Addams	dub=2:317705,2:67479,8:317705,8:67479	leg=2:317706,8:317706
 A Família Addams (1991)	dub=2:253280,6:1299906,8:253280
 A Família Addams 2	dub=2:299806,8:299806
-A Família Addams 2: Pé na Estrada	dub=2:147436,2:142963,8:147436,8:142963	leg=2:134587,8:134587
+A Família Addams 2: Pé na Estrada	dub=2:147436,8:147436,2:142963,8:142963	leg=2:134587,8:134587
 A Família Belier (2014)	dub=6:1302554
 A Família Buscapé	dub=2:20618,8:391935,8:20618	leg=8:391934
 A Família Buscapé (1993)	dub=6:1309449
@@ -742,7 +742,7 @@ A Família Bélier	dub=2:112002,8:112002
 A Família Khumalo	dub=2:318087,8:318087	leg=2:318088,8:318088
 A Família Khumalo (2025)	dub=6:1313416
 A Família Lero-Lero	dub=2:380505,8:380505
-A Família McMullen	dub=2:355679,2:355570,8:355679,8:355570	leg=2:355569,8:355569
+A Família McMullen	dub=2:355679,8:355679,2:355570,8:355570	leg=2:355569,8:355569
 A Família Mitchell e a Revolta das Máquinas	dub=2:142971,8:142971	leg=2:142972,8:142972
 A Família Noel	dub=2:136803,8:136803	leg=2:136769,8:136769
 A Família Noel 2	dub=2:179754,8:179754	leg=2:179750,8:179750
@@ -769,7 +769,7 @@ A Felicidade das Coisas	dub=8:394475
 A Felicidade das Coisas (2022)	dub=6:1303093
 A Felicidade é de Matar	dub=2:149563,8:149563	leg=2:149560,8:149560
 A Felicidade é de Matar (2021)	dub=6:1304035
-A Fera	dub=2:174607,2:174605,2:20900,8:174607,8:174605,8:20900	leg=2:174606,8:174606
+A Fera	dub=2:174605,8:174605,2:174607,2:20900,8:174607,8:20900	leg=2:174606,8:174606
 A Fera (2011)	dub=6:1501215
 A Fera (2018)	dub=6:1310511
 A Fera (2022)	dub=6:1300382	leg=6:1300059
@@ -781,7 +781,7 @@ A Fera do Mar (2022)	dub=6:1299610
 A Fera do Pântano	dub=8:388388
 A Fera do Pântano (2026)	dub=6:1501280
 A Festa de Casamento	dub=2:287353,8:287353	leg=2:287354,8:287354
-A Festa de Formatura	dub=2:193290,2:89603,8:193290,8:89603
+A Festa de Formatura	dub=2:193290,8:193290,2:89603,8:89603
 A Festa de Formatura (2020)	dub=6:1306011
 A Festa de Léo	dub=2:278694,8:278694	leg=2:278695,8:278695
 A Fiança	dub=2:352948,8:352948
@@ -804,13 +804,13 @@ A Filha do Presidente (2004)	dub=6:1297454
 A Filha do Rei	dub=2:145959,8:145959	leg=2:145955,8:145955
 A Filha do Rei (2022)	dub=6:1299136,6:1301882
 A Filha do Rei do Pantano (2023)	leg=6:1302891
-A Filha do Rei do Pântano	dub=2:241311,2:241297,8:241311,8:241297	leg=2:241298,8:241298
+A Filha do Rei do Pântano	dub=2:241311,8:241311,2:241297,8:241297	leg=2:241298,8:241298
 A Filha dos Trapalhões	dub=2:64365,8:64365
 A Final: Caos em Wembley	dub=2:259322,8:259322	leg=2:259323,8:259323
 A Final: Caos em Wembley (2024)	dub=6:1305006	leg=6:1305007
 A Firma	dub=2:98808,8:98808
 A Firma (1993)	dub=6:1307556
-A Fita Cassete	dub=2:189939,2:142044,8:189939,8:142044	leg=2:142052,8:142052
+A Fita Cassete	dub=2:189939,8:189939,2:142044,8:142044	leg=2:142052,8:142052
 A Fita Cassete (2021)	dub=6:1304383	leg=6:1304384
 A Flauta Magica (2022)	dub=6:1302730
 A Flauta Mágica	dub=2:223849,8:223849	leg=2:223856,8:223856
@@ -822,7 +822,7 @@ A Floresta do Gelo (2014)	dub=6:1301309
 A Fogueira das Vaidades	dub=2:354196,2:104394,8:354196,8:104394	leg=2:354195,8:354195
 A Fogueira das Vaidades (1990)	dub=6:1298480
 A Fonte (2017)	leg=6:1303955
-A Fonte da Juventude	dub=2:323399,2:322802,8:323399,8:322802	leg=2:322801,8:322801
+A Fonte da Juventude	dub=2:323399,8:323399,2:322802,8:322802	leg=2:322801,8:322801
 A Fonte da Juventude (2025)	dub=6:1313529	leg=6:1313528
 A Forca (2015)	dub=6:1297055
 A Forca 2 (2019)	dub=6:1300407
@@ -830,7 +830,7 @@ A Forca 2 - Segundo Ato	dub=2:30466,8:30466
 A Forca da Natureza (2020)	dub=6:1298361
 A Forca em Alerta (1992)	dub=6:1299778
 A Forca em Alerta 2 (1995)	dub=6:1299779
-A Forja – O Poder da Transformação	dub=2:289130,2:289129,8:289130,8:289129	leg=2:289131,8:289131
+A Forja – O Poder da Transformação	dub=2:289130,8:289130,2:289129,8:289129	leg=2:289131,8:289131
 A Forja – O Poder da Transformação (2024)	dub=6:1312263	leg=6:1312262
 A Forma da Água	dub=2:363860,2:20901,8:363860,8:20901	leg=2:363859,8:363859
 A Forma da Água (2017)	dub=6:1310327
@@ -859,9 +859,9 @@ A Fotografia	dub=2:66772,8:66772
 A Fotografia (2020)	dub=6:1308455	leg=6:1308456
 A Fraternidade	dub=2:20494,8:396188,8:20494	leg=8:396187
 A Fraternidade (2016)	dub=6:1310350
-A Freira	dub=2:265782,2:21472,8:265782,8:21472	leg=2:265783,8:265783
+A Freira	dub=2:21472,8:21472,2:265782,8:265782	leg=2:265783,8:265783
 A Freira (2018)	dub=6:1297267
-A Freira 2	dub=2:265784,2:218265,8:265784,8:218265	leg=2:265785,8:265785
+A Freira 2	dub=2:218265,8:218265,2:265784,8:265784	leg=2:265785,8:265785
 A Freira 2 (2023)	dub=6:1302569	leg=6:1302568
 A Fronteira (2012)	dub=6:1300292
 A Fuga	dub=2:358793,2:315820,8:358793,8:315820	leg=2:358792,8:358792
@@ -869,7 +869,7 @@ A Fuga (2012)	dub=6:1303558
 A Fuga Das Galinhas	dub=2:26434,8:26434
 A Fuga Das Galinhas (2000)	dub=6:1297815
 A Fuga das Galinhas A Ameaça dos Nuggets (2023)	dub=6:1302992
-A Fuga das Galinhas: A Ameaça dos Nuggets	dub=2:235513,2:233472,8:235513,8:233472	leg=2:233487,8:233487
+A Fuga das Galinhas: A Ameaça dos Nuggets	dub=2:235513,8:235513,2:233472,8:233472	leg=2:233487,8:233487
 A Fuga de Akilla	dub=2:164220,8:164220	leg=2:164219,8:164219
 A Fuga de Akilla (2021)	dub=6:1303772
 A Fuga de Alice	dub=2:233473,8:233473	leg=2:233488,8:233488
@@ -917,7 +917,7 @@ A Garota Artificial	dub=2:354171,8:354171	leg=2:354170,8:354170
 A Garota Canhota	leg=2:354145,8:354145
 A Garota Dinamarquesa	dub=2:161946,8:161946
 A Garota Dinamarquesa (2015)	dub=6:1301350
-A Garota Francesa	dub=2:286348,2:286347,8:286348,8:286347	leg=2:286349,8:286349
+A Garota Francesa	dub=2:286348,8:286348,2:286347,8:286347	leg=2:286349,8:286349
 A Garota Francesa (2024)	dub=6:1312125	leg=6:1312124
 A Garota Ideal	dub=2:362588,8:362588	leg=2:362587,8:362587
 A Garota Ideal (2007)	dub=6:1503014
@@ -937,7 +937,7 @@ A Garota da Foto	dub=2:164199,8:164199	leg=2:164201,8:164201
 A Garota da Foto (2022)	dub=6:1299586
 A Garota da Vez	dub=2:291151,8:291151	leg=2:291152,8:291152
 A Garota da Vez (2024)	dub=6:1312312	leg=6:1312311
-A Garota de Miller	dub=2:261331,8:261332,8:261331	leg=8:261333
+A Garota de Miller	dub=8:261332,2:261331,8:261331	leg=8:261333
 A Garota de Miller (2024)	dub=6:1303884
 A Garota de Rosa Shocking	dub=2:309870,8:309870	leg=2:309871,8:309871
 A Garota do Abrigo	dub=2:162985,8:162985
@@ -982,7 +982,7 @@ A Grande Comédia	dub=2:139261,8:139261
 A Grande Comédia (1989)	dub=6:1304439
 A Grande Corrida	dub=2:325909,8:325909	leg=2:325908,8:325908
 A Grande Dama do Cinema	dub=2:329592,2:328969,8:329592,8:328969	leg=2:329591,2:328968,8:329591,8:328968
-A Grande Entrevista	dub=2:256842,2:256007,8:256842,8:256007	leg=2:256006,8:256006
+A Grande Entrevista	dub=2:256842,8:256842,2:256007,8:256007	leg=2:256006,8:256006
 A Grande Entrevista (2024)	dub=6:1303331
 A Grande Escolha	dub=2:151981,8:151981
 A Grande Escolha (2014)	dub=6:1300695
@@ -992,7 +992,7 @@ A Grande Fuga	dub=2:281495,8:281495	leg=2:281496,8:281496
 A Grande Fuga (2023)	dub=6:1311914	leg=6:1311913
 A Grande Ilusão	dub=2:138856,8:138856
 A Grande Ilusão (2006)	dub=6:1304306
-A Grande Inundação	dub=2:358161,2:358072,8:358161,8:358072	leg=2:358071,8:358071
+A Grande Inundação	dub=2:358161,8:358161,2:358072,8:358072	leg=2:358071,8:358071
 A Grande Inundação (2025)	dub=6:1314178
 A Grande Invasão do Balão Bomba	dub=2:160598,8:160598
 A Grande Invasão do Balão Bomba (2021)	dub=6:1306819
@@ -1015,13 +1015,13 @@ A Grande Virada (2010)	dub=6:1301488
 A Gravata Amarela	leg=8:384741
 A Gravida Queridinha Do Chefe	dub=8:389470
 A Graça	leg=2:368928,2:368912,8:368928,8:368912
-A Greve da Seleção da França	dub=2:378018,8:391577,8:378018	leg=2:378017,8:378017
+A Greve da Seleção da França	dub=8:391577,2:378018,8:378018	leg=2:378017,8:378017
 A Greve das Camareiras	dub=2:370136,8:370136	leg=2:370135,8:370135
 A Gripe	dub=2:34228,8:34228
 A Gripe (2013)	dub=6:1298138
 A Gruta	dub=2:84572,8:84572
 A Gruta (2020)	dub=6:1308922
-A Grã-Bretanha e a Blitz	dub=2:320554,2:320552,8:320554,8:320552	leg=2:320553,8:320553
+A Grã-Bretanha e a Blitz	dub=2:320552,8:320552,2:320554,8:320554	leg=2:320553,8:320553
 A Grã-Bretanha e a Blitz (2025)	dub=6:1313485
 A Guarda do Leao Um Novo Rugido	dub=2:20307,8:20307
 A Guarda do Leão: Um Novo Rugido (2016)	dub=6:1310261
@@ -1031,11 +1031,11 @@ A Guerra de Anna (2018)	dub=6:1303547
 A Guerra de Hart	dub=2:104395,8:104395
 A Guerra de Hart (2002)	dub=6:1302957
 A Guerra do Amanha (2021)	dub=6:1298581
-A Guerra do Amanhã	dub=2:113007,2:112972,8:113007,8:112972
+A Guerra do Amanhã	dub=2:112972,8:112972,2:113007,8:113007
 A Guerra do Hamburguer (1997)	dub=6:1303185
 A Guerra do Hamburguer 2 (2023)	dub=6:1303142
 A Guerra do Hambúrguer	dub=2:249714,8:249714
-A Guerra do Hambúrguer 2	dub=2:247934,2:247299,8:247934,8:247299	leg=2:247300,8:247300
+A Guerra do Hambúrguer 2	dub=2:247934,8:247934,2:247299,8:247299	leg=2:247300,8:247300
 A Guerra dos Botões	dub=2:317041,8:317041
 A Guerra dos Caipiras (2017)	leg=6:1312833
 A Guerra dos Consoles	dub=2:114396,8:114396
@@ -1055,7 +1055,7 @@ A Guinada	leg=2:341987,8:341987
 A Gêmea do Mal	dub=2:112947,8:112947
 A Gêmea do Mal (2021)	dub=6:1308959
 A Heranca de Mr. Deeds (2002)	dub=6:1297233
-A Herança	dub=2:319041,2:318582,2:252891,8:319041,8:318582,8:252891	leg=2:318583,2:252892,8:318583,8:252892
+A Herança	dub=2:319041,8:319041,2:318582,2:252891,8:318582,8:252891	leg=2:318583,2:252892,8:318583,8:252892
 A Herança (2020)	dub=6:1303525
 A Herança (2025)	dub=6:1313456	leg=6:1313455
 A Herança de Mr. Deeds	dub=2:96839,8:391887,8:96839	leg=8:391886
@@ -1097,7 +1097,7 @@ A História de Ricky (1991)	dub=6:1305608
 A História de Rute	dub=2:257785,8:257785
 A História de Rute (1960)	dub=6:1310414
 A História de Souleymane	leg=2:337400,8:337400
-A História de Um Gorila com David Attenborough	dub=2:375104,2:374618,8:375104,8:374618	leg=2:374617,8:374617
+A História de Um Gorila com David Attenborough	dub=2:375104,8:375104,2:374618,8:374618	leg=2:374617,8:374617
 A História de Um Silva	dub=2:230585,8:230585
 A História de Um Silva (2020)	dub=6:1311213
 A História de um Soldado (1984)	dub=6:1310078	leg=6:1310079
@@ -1130,7 +1130,7 @@ A Hora do Exorcismo (2019)	dub=6:1306006	leg=6:1306007
 A Hora do Lobisomem (1985)	dub=6:1305610
 A Hora do Lobo	dub=2:93780,8:93780
 A Hora do Lobo (2019)	dub=6:1307917
-A Hora do Mal	dub=2:365065,2:343132,8:365065,8:343132	leg=2:343131,8:343131
+A Hora do Mal	dub=2:365065,8:365065,2:343132,8:343132	leg=2:343131,8:343131
 A Hora do Mal (2025)	dub=6:1313803	leg=6:1313802
 A Hora do Pesadelo	dub=2:286865,8:286865
 A Hora do Pesadelo (1984)	dub=6:1297006
@@ -1156,9 +1156,9 @@ A Hora do Rush 3	dub=2:20497,8:20497
 A Hora do Rush 3 (2007)	dub=6:1302206
 A Hora do Silencio (2024)	dub=6:1312622	leg=6:1312287
 A Hora do Silêncio	dub=2:300649,8:300649	leg=2:300650,8:300650
-A Hora do Vampiro	dub=2:288561,2:288560,8:288561,8:288560	leg=2:288562,8:288562
+A Hora do Vampiro	dub=2:288561,8:288561,2:288560,8:288560	leg=2:288562,8:288562
 A Hora do Vampiro (2024)	dub=6:1312245	leg=6:1312244
-A Hora dos Valentes	dub=2:359662,2:358044,8:359662,8:358044	leg=2:358043,8:358043
+A Hora dos Valentes	dub=2:359662,8:359662,2:358044,8:358044	leg=2:358043,8:358043
 A Hora dos Valentes (2025)	dub=6:1314177
 A Hora e a Vez de Augusto Matraga	dub=2:318540,8:318540
 A Hospedeira	dub=2:247301,2:19888,8:247301,8:19888	leg=2:247302,8:247302
@@ -1196,13 +1196,13 @@ A Incrivel Historia de Adaline (2015)	dub=6:1298692
 A Incrivel Historia de Henry Sugar (2023)	dub=6:1302545
 A Incrivel Jornada (1993)	dub=6:1299000
 A Incrivel Jornada 2: Perdidos em São Francisco (1996)	dub=6:1299001
-A Incrível Eleanor	dub=2:367700,2:367695,8:367700,8:367695	leg=2:367694,8:367694
+A Incrível Eleanor	dub=2:367700,8:367700,2:367695,8:367695	leg=2:367694,8:367694
 A Incrível Elisa	dub=8:383306	leg=8:383305
 A Incrível História da Ilha das Rosas (2020)	dub=6:1308633
 A Incrível História da Pera Gigante	dub=2:46161,8:46161
 A Incrível História da Pera Gigante (2017)	dub=6:1307854
-A Incrível História de Henry Sugar	dub=2:252909,2:217279,2:216998,8:252909,8:217279,8:216998	leg=2:216999,8:216999
-A Incrível História de Henry Sugar e Outros Três Contos	dub=2:341989,8:389156,8:341989	leg=2:341988,8:341988
+A Incrível História de Henry Sugar	dub=2:217279,8:217279,2:252909,2:216998,8:252909,8:216998	leg=2:216999,8:216999
+A Incrível História de Henry Sugar e Outros Três Contos	dub=8:389156,2:341989,8:341989	leg=2:341988,8:341988
 A Incrível História de Mario Capecchi	dub=2:320076,8:320076	leg=2:320075,8:320075
 A Incrível Mulher Que Encolheu	dub=8:384645
 A Indefectível Missão de Renildo Salvador	dub=2:248142,8:248142
@@ -1267,7 +1267,7 @@ A Jaula	dub=2:178844,8:178844
 A Jaula (2022)	dub=6:1300333
 A Jogada da Vitória	dub=2:237990,8:237990	leg=2:237989,8:237989
 A Jogada da Vitória (2020)	dub=6:1311059	leg=6:1311060
-A Jogada de Chang	dub=2:210382,2:188921,8:210382,8:188921	leg=2:188922,8:188922
+A Jogada de Chang	dub=2:210382,8:210382,2:188921,8:188921	leg=2:188922,8:188922
 A Jogada de Chang (2023)	dub=6:1306456	leg=6:1306457
 A Joia do Nilo (1985)	dub=6:1299867
 A Jornada	dub=2:66773,8:66773
@@ -1288,7 +1288,7 @@ A Jovem Juliette	dub=2:144894,8:144894	leg=2:144895,8:144895
 A Jovem Juliette (2019)	dub=6:1300356
 A Jovem Rainha Vitória	dub=2:347277,8:347277	leg=2:347276,8:347276
 A Jovem Rainha Vitória (2009)	dub=6:1313791
-A Jovem e o Mar	dub=2:274988,2:274987,8:274988,8:274987	leg=2:274989,8:274989
+A Jovem e o Mar	dub=2:274988,8:274988,2:274987,8:274987	leg=2:274989,8:274989
 A Jovem e o Mar (2024)	dub=6:1309155	leg=6:1309154
 A Jurada	dub=2:128540,8:128540
 A Jurada (1996)	dub=6:1305321
@@ -1333,7 +1333,7 @@ A Lenda de Kate Kensington	dub=2:252893,8:252893	leg=2:252894,8:252894
 A Lenda de Kate Kensington (2022)	dub=6:1310870	leg=6:1310871
 A Lenda de Lantern’s Lane	dub=2:178848,8:178848	leg=2:178830,8:178830
 A Lenda de Lantern’s Lane (2021)	dub=6:1306770	leg=6:1306771
-A Lenda de Ochi	dub=2:329884,2:329882,8:329884,8:329882	leg=2:329883,8:329883
+A Lenda de Ochi	dub=2:329882,8:329882,2:329884,8:329884	leg=2:329883,8:329883
 A Lenda de Ochi (2025)	dub=6:1313621	leg=6:1313620
 A Lenda de Saint Joseph	dub=2:337280,8:337280	leg=2:337279,8:337279
 A Lenda de Tarzan	dub=2:19895,8:19895
@@ -1365,10 +1365,10 @@ A Lente do Amor	dub=2:125887,8:125887
 A Lente do Amor (1997)	dub=6:1309959
 A Leste de Wall	dub=2:354125,8:354125	leg=2:354124,8:354124
 A Letra Escarlate	dub=2:347099,8:347099	leg=2:347098,8:347098
-A Libertação	dub=2:297401,2:284020,8:297401,8:284020	leg=2:284021,8:284021
+A Libertação	dub=2:297401,8:297401,2:284020,8:284020	leg=2:284021,8:284021
 A Libertação (2024)	dub=6:1311995	leg=6:1311994
 A Lien	leg=2:314588,8:314588
-A Liga	dub=2:297073,2:281077,8:297073,8:281077	leg=2:281078,8:281078
+A Liga	dub=2:297073,8:297073,2:281077,8:281077	leg=2:281078,8:281078
 A Liga (2024)	dub=6:1311860	leg=6:1311859
 A Liga Extraordinaria	dub=2:21204,8:21204
 A Liga Extraordinaria (2003)	dub=6:1297615
@@ -1377,7 +1377,7 @@ A Liga de Monstros (2021)	dub=6:1301522
 A Ligacao	dub=2:88998,8:88998
 A Ligação (2020)	dub=6:1308374
 A Linha Vermelha do Destino	dub=2:330005,8:330005
-A Linha da Extinção	dub=2:307926,2:307739,8:307926,8:307739	leg=2:307740,8:307740
+A Linha da Extinção	dub=2:307926,8:307926,2:307739,8:307739	leg=2:307740,8:307740
 A Linha da Extinção (2024)	dub=6:1312992	leg=6:1312498
 A Lira do Delírio	dub=2:357547,8:357547
 A Lista	dub=2:363861,2:362246,8:363861,8:362246
@@ -1385,7 +1385,7 @@ A Lista (2007)	dub=6:1313091
 A Lista (2014)	dub=6:1302227
 A Lista (2023)	dub=6:1302201	leg=6:1302200
 A Lista Perversa do Sr. Scrooge	dub=2:359091,8:359091	leg=2:359090,8:359090
-A Lista da Minha Vida	dub=2:317066,2:316903,8:317066,8:316903	leg=2:316904,8:316904
+A Lista da Minha Vida	dub=2:317066,8:317066,2:316903,8:316903	leg=2:316904,8:316904
 A Lista da Minha Vida (2025)	dub=6:1313392	leg=6:1313391
 A Lista da Vinganca (2023)	dub=6:1302537
 A Lista da Vingança	dub=2:215879,8:215879	leg=2:215878,8:215878
@@ -1469,7 +1469,7 @@ A Maldição da Bruxa (2018)	dub=6:1307008
 A Maldição da Casa Usher	dub=2:224731,8:224731	leg=2:224732,8:224732
 A Maldição da Casa Usher (2021)	dub=6:1311132	leg=6:1311133
 A Maldição da Casa Winchester (2018)	dub=6:1310380
-A Maldição da Chorona	dub=2:318572,2:214615,2:26383,8:318572,8:214615,8:26383	leg=2:318573,8:318573
+A Maldição da Chorona	dub=2:214615,8:214615,2:318572,2:26383,8:318572,8:26383	leg=2:318573,8:318573
 A Maldição da Fazenda Grady	dub=2:317042,8:317042	leg=2:317043,8:317043
 A Maldição da Floresta	dub=8:385775
 A Maldição da Freira (2018)	dub=6:1308121
@@ -1527,7 +1527,7 @@ A Manhã Seguinte	dub=2:354197,8:354197
 A Manobra da Tartaruga	dub=2:319042,8:319042	leg=2:319043,8:319043
 A Mansao (2021)	dub=6:1298862
 A Mansao Magica (2013)	dub=6:1314154
-A Mansão	dub=2:133018,2:131223,8:133018,8:131223	leg=2:131219,8:131219
+A Mansão	dub=2:133018,8:133018,2:131223,8:131223	leg=2:131219,8:131219
 A Mansão Savage	dub=8:388663	leg=8:388662
 A Mansão do Horror	dub=2:350364,8:350364	leg=2:350363,8:350363
 A Mansão do Inferno	dub=2:353911,8:353911	leg=2:353910,8:353910
@@ -1573,7 +1573,7 @@ A Megera Domada 2 (2023)	dub=6:1303006
 A Meia Irmã Feia (2025)	dub=6:1314073	leg=6:1313820,6:1314072
 A Meia-Irmã Feia	dub=2:354035,8:354035	leg=2:354034,8:354034
 A Melbourne Match	leg=2:362689,8:362689
-A Melhor Cartada	dub=2:297402,2:292107,8:297402,8:292107	leg=2:292108,8:292108
+A Melhor Cartada	dub=2:297402,8:297402,2:292107,8:292107	leg=2:292108,8:292108
 A Melhor Cartada (2024)	dub=6:1312341
 A Melhor Casa Suspeita do Texas	dub=2:362855,8:362855	leg=2:362854,8:362854
 A Melhor Cidade para o Natal (2019)	dub=6:1298315
@@ -1582,7 +1582,7 @@ A Melhor Festa do Ano	dub=2:105223,8:105223
 A Melhor Festa do Ano (2011)	dub=6:1310605
 A Melhor Ideia (2021)	leg=6:1308962
 A Melhor Mae do Mundo (2025)	dub=6:1313983
-A Melhor Mãe do Mundo	dub=2:353737,2:351546,8:353737,8:351546
+A Melhor Mãe do Mundo	dub=2:353737,8:353737,2:351546,8:351546
 A Melhor Noite de Nossas Vidas	dub=2:313999,8:313999	leg=2:314000,8:314000
 A Melhor de Todos os Tempos	dub=2:349714,8:349714	leg=2:349713,8:349713
 A Memoria Infinita (2023)	dub=6:1303125
@@ -1594,7 +1594,7 @@ A Menina Que Matou os Pais	dub=2:129589,8:129589
 A Menina Que Matou os Pais A Confissao (2023)	dub=6:1302708
 A Menina Que Matou os Pais: A Confissão	dub=2:223115,8:223115
 A Menina do Lado	dub=2:352893,8:352893
-A Menina do Mar	dub=2:279194,2:279193,8:279194,8:279193	leg=2:279195,8:279195
+A Menina do Mar	dub=2:279194,8:279194,2:279193,8:279193	leg=2:279195,8:279195
 A Menina do Mar (2024)	dub=6:1311879	leg=6:1311878
 A Menina dos Meus Olhos	dub=2:323707,8:323707	leg=2:323706,8:323706
 A Menina e o Dragão	dub=2:297273,8:297273	leg=2:297274,8:297274
@@ -1673,7 +1673,7 @@ A Morte do Demonio (2013)	dub=6:1297239
 A Morte do Demonio A Ascensao (2023)	dub=6:1301192	leg=6:1301191
 A Morte do Demonio Em Chamas (2026)	dub=6:1502433	leg=6:1502428
 A Morte do Demônio	dub=2:45115,8:45115
-A Morte do Demônio: A Ascensão	dub=2:194883,2:194882,8:194883,8:194882	leg=2:194881,8:194881
+A Morte do Demônio: A Ascensão	dub=2:194882,8:194882,2:194883,8:194883	leg=2:194881,8:194881
 A Morte do Demônio: Em Chamas	dub=8:394164,8:393872,8:389249	leg=8:393271
 A Morte do Incrível Hulk	dub=2:315411,8:315411	leg=2:315412,8:315412
 A Morte do Superman	dub=2:358795,2:20309,8:358795,8:20309	leg=2:358794,8:358794
@@ -1689,7 +1689,7 @@ A Mosca	dub=2:21697,8:21697
 A Mosca (1986)	dub=6:1297616
 A Moça da Limpeza	dub=2:344542,2:112003,8:344542,8:112003	leg=2:344541,8:344541
 A Moça da Limpeza (2018)	dub=6:1308170
-A Mula	dub=2:359089,2:357551,2:108585,2:22678,8:359089,8:357551,8:108585,8:22678	leg=2:357550,8:357550
+A Mula	dub=2:359089,2:22678,8:359089,8:22678,2:357551,2:108585,8:357551,8:108585	leg=2:357550,8:357550
 A Mula (2018)	dub=6:1297499
 A Mulher De Preto	dub=2:20913,8:20913
 A Mulher Faz o Homem	dub=2:373808,8:373808	leg=2:373807,8:373807
@@ -1736,22 +1736,22 @@ A Musica de 007 (2022)	dub=6:1300263
 A Mutação	dub=2:258994,8:258994	leg=2:258995,8:258995
 A Mutação (2021)	dub=6:1305237,6:1312784	leg=6:1305238
 A Máfia Volta ao Divã	dub=2:299279,8:299279
-A Máquina Infernal	dub=2:179755,2:174616,8:179755,8:174616	leg=2:174619,8:174619
-A Máquina do Crime	dub=2:208886,2:208884,8:208886,8:208884	leg=2:208885,8:208885
+A Máquina Infernal	dub=2:179755,8:179755,2:174616,8:174616	leg=2:174619,8:174619
+A Máquina do Crime	dub=2:208884,8:208884,2:208886,8:208886	leg=2:208885,8:208885
 A Máquina do Tempo	dub=2:125881,2:125644,8:125881,8:125644
 A Máscara da Morte	dub=2:370304,8:370304	leg=2:370303,8:370303
 A Máscara de Ferro	dub=2:105222,8:105222
 A Máscara do Zorro	dub=2:355705,2:19896,8:355705,8:19896	leg=2:355704,8:355704
-A Mãe	dub=2:194889,2:194876,8:194889,8:194876	leg=2:194875,8:194875
+A Mãe	dub=2:194889,8:194889,2:194876,8:194876	leg=2:194875,8:194875
 A Mãe (2023)	dub=6:1301202
 A Mãe Obsessiva	leg=8:385563
-A Mãe da Noiva	dub=2:265786,2:259324,8:265786,8:259324	leg=2:259325,8:259325
+A Mãe da Noiva	dub=2:265786,8:265786,2:259324,8:259324	leg=2:259325,8:259325
 A Mãe do Ano	dub=2:196308,8:196308	leg=2:196307,8:196307
 A Mãe do Meu Filho	dub=2:344519,8:344519	leg=2:344518,8:344518
 A Mãe e a Maldição	dub=2:340952,8:340952	leg=2:340951,8:340951
 A Mão do Diabo	dub=2:92573,8:92573
 A Mão do Diabo (2002)	dub=6:1307118
-A Mão que Balança o Berço	dub=2:358123,2:352694,2:102558,8:358123,8:352694,8:102558	leg=2:380444,2:352693,2:349686,8:380444,8:352693,8:349686
+A Mão que Balança o Berço	dub=2:358123,8:358123,2:352694,2:102558,8:352694,8:102558	leg=2:380444,2:352693,2:349686,8:380444,8:352693,8:349686
 A Médium	dub=2:210984,8:210984	leg=2:210983,8:210983
 A Múmia	dub=2:237177,2:19900,8:386213,8:237177,8:19900	leg=8:386212
 A Múmia (1999)	dub=2:236555,6:1313459,8:236555	leg=6:1313458
@@ -1781,10 +1781,10 @@ A Noite Em Que Voltaram Para Casa	dub=2:258996,8:258996	leg=2:258997,8:258997
 A Noite Em Que Voltaram Para Casa (2024)	dub=6:1304995	leg=6:1304996
 A Noite Pertence aos Amantes	dub=2:254998,8:254998	leg=2:254999,8:254999
 A Noite Pertence aos Amantes (2021)	dub=6:1303253
-A Noite Sempre Chega	dub=2:340235,2:339760,8:340235,8:339760	leg=2:339759,8:339759
+A Noite Sempre Chega	dub=2:340235,8:340235,2:339760,8:339760	leg=2:339759,8:339759
 A Noite Sempre Chega (2025)	dub=6:1313739	leg=6:1313738
 A Noite das Brincadeiras Mortais (1986)	dub=6:1307342,6:1308896
-A Noite das Bruxas	dub=2:363863,2:223851,2:223850,8:363863,8:223851,8:223850	leg=2:363862,2:223852,8:363862,8:223852
+A Noite das Bruxas	dub=2:223851,8:223851,2:363863,2:223850,8:363863,8:223850	leg=2:363862,2:223852,8:363862,8:223852
 A Noite das Bruxas (2023)	dub=6:1302739	leg=6:1302738
 A Noite das Vampiras	dub=2:209529,8:209529
 A Noite das Vampiras (2023)	dub=6:1309543
@@ -1796,11 +1796,11 @@ A Noite dos Demônios	dub=8:385777	leg=8:385776
 A Noite dos Lobisomens	dub=2:320556,8:320556	leg=2:320555,8:320555
 A Noite dos Lobisomens (2024)	dub=6:1313484	leg=6:1313483
 A Noite dos Mortos Vivos (1990)	dub=6:1305033
-A Noite dos Mortos-Vivos	dub=2:373346,2:128514,2:97164,8:373346,8:128514,8:97164
+A Noite dos Mortos-Vivos	dub=2:373346,8:373346,2:128514,2:97164,8:128514,8:97164
 A Noite dos Mortos-Vivos (1968)	dub=6:1307029,6:1312416
 A Noite nos Persegue	dub=2:19901,8:19901
 A Noite nos Persegue (2018)	dub=6:1310468
-A Noite que Mudou o Pop	dub=2:246540,2:244652,8:246540,8:244652	leg=2:244653,8:244653
+A Noite que Mudou o Pop	dub=2:246540,8:246540,2:244652,8:244652	leg=2:244653,8:244653
 A Noite que Mudou o Pop (2024)	dub=6:1309722	leg=6:1309723
 A Noite é Delas	dub=2:47402,8:47402
 A Noite é Delas (2017)	dub=6:1307603
@@ -1811,10 +1811,10 @@ A Noiva Ingenua	dub=8:389477
 A Noiva Perfeita (2017)	dub=6:1299631
 A Noiva de Chucky	dub=2:99820,8:99820
 A Noiva de Chucky (1998)	dub=6:1307117
-A Noiva do Ano	dub=2:378231,8:390308,8:378231	leg=2:378230,8:378230
+A Noiva do Ano	dub=8:390308,2:378231,8:378231	leg=2:378230,8:378230
 A Noiva do Ano (2026)	dub=6:1314597
 A Noiva do Diabo (2016)	dub=6:1304136
-A Noiva!	dub=2:373796,2:373795,2:372958,2:21699,8:373796,8:373795,8:372958,8:21699	leg=2:372957,8:372957
+A Noiva!	dub=2:373796,2:373795,8:373796,8:373795,2:372958,2:21699,8:372958,8:21699	leg=2:372957,8:372957
 A Nona Vida de Louis Drax	dub=2:266030,8:266030
 A Nona Vida de Louis Drax (2016)	dub=6:1310127
 A Nonsense Christmas with Sabrina Carpenter	leg=2:299609,8:299609
@@ -1870,7 +1870,7 @@ A Oportunidade quase Perfeita	dub=2:210530,8:210530	leg=2:210529,8:210529
 A Oportunidade quase Perfeita (2021)	dub=6:1311352	leg=6:1311353
 A Oracao Nao Falha (2016)	dub=6:1297298
 A Oração Não Falha	dub=2:110740,8:110740
-A Ordem	dub=2:309856,2:309731,8:309856,8:309731	leg=2:309732,8:309732
+A Ordem	dub=2:309856,8:309856,2:309731,8:309731	leg=2:309732,8:309732
 A Ordem (2024)	dub=6:1313023	leg=6:1313022
 A Ordem do Tempo	leg=2:320557,8:320557
 A Orfa	dub=2:21700,8:21700
@@ -1897,7 +1897,7 @@ A Outra Mulher (2018)	dub=6:1297742
 A Outra Mãe (2017)	dub=6:1307841
 A Outra Terra	dub=2:20917,8:20917
 A Outra Terra (2011)	dub=6:1301405
-A Outra Zoey	dub=2:221933,2:221629,8:221933,8:221629	leg=2:221630,8:221630
+A Outra Zoey	dub=2:221933,8:221933,2:221629,8:221629	leg=2:221630,8:221630
 A Outra Zoey (2023)	dub=6:1302664
 A Ouvinte	dub=2:366902,8:366902	leg=2:366901,8:366901
 A Paisana (2025)	dub=6:1314395
@@ -1915,7 +1915,7 @@ A Pandemia da Água (2022)	dub=6:1313399
 A Pantera Cor de Rosa (2006)	dub=6:1302962
 A Pantera Cor de Rosa 2 (2009)	dub=6:1302965
 A Paranoia de Lulu	dub=2:349718,8:349718	leg=2:349717,8:349717
-A Paris Errada	dub=2:374356,2:374355,2:343198,8:374356,8:374355,8:343198	leg=2:343197,8:343197
+A Paris Errada	dub=2:374356,2:374355,8:374356,8:374355,2:343198,8:343198	leg=2:343197,8:343197
 A Paris Errada (2025)	dub=6:1313808	leg=6:1313807
 A Parte do Mundo Que Me Pertence	dub=2:336814,8:336814
 A Partida do Século	dub=8:393909	leg=8:393908
@@ -1943,7 +1943,7 @@ A Pequena Dixie	dub=2:212940,8:212940	leg=2:212941,8:212941
 A Pequena Dixie (2023)	dub=6:1302500
 A Pequena Frances	dub=2:212420,8:212420	leg=2:212421,8:212421
 A Pequena Frances (2020)	dub=6:1310702	leg=6:1310703
-A Pequena Grande Fazenda: O Retorno	dub=2:228053,2:228043,8:228053,8:228043	leg=2:228046,8:228046
+A Pequena Grande Fazenda: O Retorno	dub=2:228053,8:228053,2:228043,8:228043	leg=2:228046,8:228046
 A Pequena Grande Fazenda: O Retorno (2022)	dub=6:1311567	leg=6:1311568
 A Pequena Indomável	dub=2:241542,8:241542	leg=2:241543,8:241543
 A Pequena Indomável (2020)	dub=6:1311063	leg=6:1311064
@@ -1951,7 +1951,7 @@ A Pequena Locomotiva	dub=2:372734,8:372734
 A Pequena Loja dos Horrores (1986)	dub=6:1302096
 A Pequena Morte	dub=2:20919,8:20919
 A Pequena Morte (2014)	dub=6:1310097
-A Pequena Sereia	dub=2:212960,2:212959,2:93620,8:212960,8:212959,8:93620	leg=2:204489,8:204489
+A Pequena Sereia	dub=2:212959,8:212959,2:212960,2:93620,8:212960,8:93620	leg=2:204489,8:204489
 A Pequena Sereia (1989)	dub=6:1297800
 A Pequena Sereia (2018)	dub=6:1297801
 A Pequena Sereia (2023)	dub=6:1302347	leg=6:1301703
@@ -1976,7 +1976,7 @@ A Pirâmide (2014)	dub=6:1310107
 A Piscina	dub=2:194539,8:194539	leg=2:194540,8:194540
 A Piscina (2018)	dub=6:1301325
 A Pistola E Minha Biblia	dub=2:91258,8:91258
-A Place Without Fear	dub=2:380368,2:380367,8:380368,8:380367
+A Place Without Fear	dub=2:380367,8:380367,2:380368,8:380368
 A Poet	leg=2:369159,8:369159
 A Polegarzinha (1994)	dub=6:1300848
 A Ponte Do Rio Kwai	dub=2:102639,8:102639
@@ -2026,7 +2026,7 @@ A Primeira Onda	dub=2:149586,8:149586	leg=2:149583,8:149583
 A Primeira Pedra	dub=2:194866,8:194866
 A Primeira Pedra (1993)	dub=6:1313105
 A Primeira Pedra (2018)	dub=6:1306766
-A Primeira Profecia	dub=2:263698,2:263697,8:263698,8:263697	leg=2:263699,8:263699
+A Primeira Profecia	dub=2:263698,8:263698,2:263697,8:263697	leg=2:263699,8:263699
 A Primeira Profecia (2024)	dub=6:1304106	leg=6:1304105
 A Primeira Vaca da América (2020)	leg=6:1308287
 A Primeira Vez do Cinema Brasileiro	dub=2:376748,8:376748
@@ -2112,7 +2112,7 @@ A Pé Ele Não Vai Longe	dub=2:28283,8:28283
 A Pílula da Verdade	dub=8:394482	leg=8:394481
 A Qualquer Custo	dub=2:323676,8:323676	leg=2:323675,8:323675
 A Qualquer Custo (2016)	dub=6:1303811
-A Queda	dub=2:182584,2:182583,2:169657,8:182584,8:182583,8:169657	leg=2:182581,8:182581
+A Queda	dub=2:182584,8:182584,2:182583,2:169657,8:182583,8:169657	leg=2:182581,8:182581
 A Queda (2022)	dub=6:1300914,6:1306750,6:1311658	leg=6:1300194,6:1311659
 A Queda de Berlim	dub=2:21599,8:21599
 A Queda de Berlim (2017)	dub=6:1310410
@@ -2124,7 +2124,7 @@ A Queda! As Últimas Horas de Hitler (2004)	dub=6:1308551
 A Queima Roupa	dub=2:26142,8:26142
 A Quimica do Amor	dub=2:20503,8:20503
 A Química do Amor (2017)	dub=6:1310358
-A Química que Há Entre Nós	dub=2:282067,2:68434,8:282067,8:68434
+A Química que Há Entre Nós	dub=2:282067,8:282067,2:68434,8:68434
 A Química que Há Entre Nós (2020)	dub=6:1308587	leg=6:1308588
 A Rainha	dub=2:106810,8:106810
 A Rainha (2006)	dub=6:1307108
@@ -2138,7 +2138,7 @@ A Rainha da Comédia	dub=2:359310,8:359310	leg=2:359309,8:359309
 A Rainha da Noite	dub=2:230581,8:230581
 A Rainha da Noite (2023)	dub=6:1309441
 A Rainha do Medo (2018)	dub=6:1301482
-A Rainha do Xadrez	dub=2:365869,2:365867,8:365869,8:365867	leg=2:365868,8:365868
+A Rainha do Xadrez	dub=2:365867,8:365867,2:365869,8:365869	leg=2:365868,8:365868
 A Rainha dos Condenados	dub=2:141559,8:141559
 A Rainha dos Condenados (2002)	dub=6:1304263
 A Rainha dos Likes	dub=2:212967,8:212967	leg=2:212968,8:212968
@@ -2222,7 +2222,7 @@ A Saga de Slyth	leg=2:261672,8:261672
 A Saga de Slyth (2023)	leg=6:1304953
 A Saga do Dragao A Luta Final	dub=2:97165,8:97165
 A Saga do Dragão (1983)	dub=6:1307251
-A Sala da Frente	dub=2:310608,2:310607,8:310608,8:310607	leg=2:310609,8:310609
+A Sala da Frente	dub=2:310608,8:310608,2:310607,8:310607	leg=2:310609,8:310609
 A Sala da Frentre	dub=2:299800,8:299800	leg=2:299801,8:299801
 A Sala dos Professores	dub=2:255249,8:255249	leg=2:255250,8:255250
 A Sala dos Professores (2023)	dub=6:1303304
@@ -2237,10 +2237,10 @@ A Scam Called Love	leg=2:334602,8:334602
 A Secret Love	leg=2:44604,8:44604
 A Segunda Guerra Civil	dub=2:345486,8:345486
 A Segunda Guerra Civil (1997)	dub=6:1302083
-A Seita	dub=2:352894,2:341027,2:88461,8:352894,8:341027,8:88461
+A Seita	dub=2:341027,8:341027,2:352894,2:88461,8:352894,8:88461
 A Seita (2015)	dub=6:1307549
 A Seita (2016)	dub=6:1300385
-A Semana da Minha Vida	dub=2:297403,2:100146,8:297403,8:100146
+A Semana da Minha Vida	dub=2:297403,8:297403,2:100146,8:100146
 A Semana da Minha Vida (2021)	dub=6:1298351
 A Semeadura	dub=2:354968,8:354968	leg=2:354967,8:354967
 A Semeadura (2024)	dub=6:1314102
@@ -2256,7 +2256,7 @@ A Senhora do Casarão	dub=2:382644,2:132477,2:132474,8:382644,8:132477,8:132474	
 A Senhora do Casarão (2021)	dub=6:1304751
 A Senhora que Morreu no Trailer	dub=2:112449,8:112449
 A Senhora que Morreu no Trailer (2020)	dub=6:1308963
-A Sentinela	dub=2:184023,2:96898,8:184023,8:96898
+A Sentinela	dub=2:184023,8:184023,2:96898,8:96898
 A Sentinela (2021)	dub=6:1298296
 A Serbian Film - Terror sem Limites (2010)	leg=6:1311812
 A Sereia - Lago Dos Mortos	dub=2:354199,2:24702,8:354199,8:24702	leg=2:354198,8:354198
@@ -2277,7 +2277,7 @@ A Sniper Russa (2015)	dub=6:1305066
 A Sobriedade Está Me Matando	leg=2:381784,8:381784
 A Sociedade Literária e a Torta de Casca de Batata	dub=2:323969,8:323969	leg=2:323968,8:323968
 A Sociedade Norte Americana dos Negros Magicos (2024)	dub=6:1304193
-A Sociedade da Neve	dub=2:244914,2:237991,8:244914,8:237991	leg=2:237992,8:237992
+A Sociedade da Neve	dub=2:244914,8:244914,2:237991,8:237991	leg=2:237992,8:237992
 A Sociedade da Neve (2023)	dub=6:1303067
 A Sociedade dos Amigos do Diabo	dub=2:310588,8:310588
 A Sociedade dos Assassinos	dub=8:386710	leg=8:386709
@@ -2320,7 +2320,7 @@ A Sua Parte Frágil (2017)	dub=6:1307545
 A Subida	dub=2:128571,8:128571	leg=2:128554,8:128554
 A Subida (2020)	dub=6:1305155	leg=6:1305156
 A Substituta	dub=2:297812,8:297812	leg=2:297813,8:297813
-A Substância	dub=2:314457,2:314456,2:309299,2:308400,8:314457,8:314456,8:309299,8:308400	leg=2:314458,8:314458
+A Substância	dub=2:314457,2:309299,8:314457,8:309299,2:314456,2:308400,8:314456,8:308400	leg=2:314458,8:314458
 A Substância (2024)	dub=6:1313005	leg=6:1312283
 A Sun	leg=2:92656,8:92656
 A Sun (2019)	leg=6:1308591
@@ -2338,7 +2338,7 @@ A Série Divergente: Insurgente (2015)	dub=6:1310076
 A Tabacaria	dub=2:88693,8:88693
 A Tabacaria (2018)	dub=6:1303765
 A Tecnologia Social	dub=2:366078,8:366078
-A Teia	dub=2:275481,2:275480,2:265621,8:275481,8:275480,8:265621	leg=2:275482,2:265622,2:256843,8:275482,8:265622,8:256843
+A Teia	dub=2:275481,8:275481,2:275480,2:265621,8:275480,8:265621	leg=2:275482,2:265622,2:256843,8:275482,8:265622,8:256843
 A Teia (2024)	dub=6:1304920	leg=6:1303421
 A Tempestade do Século	dub=2:316295,8:316295	leg=2:316296,8:316296
 A Tentação	dub=2:264462,2:144071,8:264462,8:144071	leg=2:264463,8:264463
@@ -2349,12 +2349,12 @@ A Teoria de Tudo (2014)	dub=6:1297621
 A Ternura (2017)	dub=6:1307733
 A Terra Prometida	leg=2:251164,8:251164
 A Terra Que o Tempo Esqueceu	dub=2:367012,8:367012	leg=2:367011,8:367011
-A Terra e o Sangue	dub=2:46131,2:43848,8:46131,8:43848
+A Terra e o Sangue	dub=2:46131,8:46131,2:43848,8:43848
 A Terra e o Sangue (2020)	dub=6:1308710
 A Tiger in Paradise	leg=2:246159,8:246159
 A Tiger in Paradise (2023)	leg=6:1309444
 A Todo Volume (2008)	dub=6:1309988	leg=6:1309989
-A Torradeira	dub=2:374633,2:374358,8:374633,8:374358	leg=2:374357,8:374357
+A Torradeira	dub=2:374633,8:374633,2:374358,8:374358	leg=2:374357,8:374357
 A Torradeira (2026)	dub=6:1314482
 A Torre	dub=2:282068,8:282068
 A Torre Negra	dub=2:382321,2:314656,2:19906,8:382321,8:314656,8:19906	leg=2:382318,2:314657,8:382318,8:314657
@@ -2364,9 +2364,9 @@ A Torre do Inferno (2023)	dub=6:1311388	leg=6:1311389
 A Tortura Delicada Da Mafia	dub=8:389482
 A Tortura do Silêncio	dub=2:358084,8:358084	leg=2:358083,8:358083
 A Toxic Love Story	dub=8:388398	leg=8:388397
-A Tragédia de Macbeth	dub=2:367703,2:146826,8:367703,8:146826	leg=2:146821,8:146821
+A Tragédia de Macbeth	dub=2:367703,8:367703,2:146826,8:146826	leg=2:146821,8:146821
 A Tragédia de Macbeth (2021)	dub=6:1304542	leg=6:1304543
-A Tragédia de Moriah Wilson	dub=2:372424,8:391439,8:372424	leg=2:372423,8:372423
+A Tragédia de Moriah Wilson	dub=8:391439,2:372424,8:372424	leg=2:372423,8:372423
 A Trajetoria De Pablo Escobar	dub=2:91260,8:91260
 A Trajetória de Pablo Escobar (2018)	dub=6:1308208
 A Travessia	dub=2:204476,2:19907,8:204476,8:19907	leg=2:204477,8:204477
@@ -2381,7 +2381,7 @@ A Trilha da Pantera Cor-de-Rosa	dub=2:337576,8:337576
 A Trilha do Medo (2021)	leg=6:1314026
 A Trincheira Infinita	dub=2:105225,8:105225
 A Trincheira Infinita (2019)	dub=6:1297729
-A Tripulação	dub=2:265545,2:265544,8:265545,8:265544	leg=2:265546,8:265546
+A Tripulação	dub=2:265545,8:265545,2:265544,8:265544	leg=2:265546,8:265546
 A Tripulação (2024)	dub=6:1304120
 A Tristeza (2021)	leg=6:1314230
 A Troca	dub=2:320574,2:20925,8:320574,8:20925	leg=2:320575,8:320575
@@ -2432,12 +2432,12 @@ A Um Passo da Glória (2000)	dub=6:1312860
 A Um Passo da Guerra	leg=8:394942
 A Um Passo do Estrelato	dub=2:378650,8:378650	leg=2:378649,8:378649
 A Universidade de Sing Sing (2011)	leg=6:1302473
-A Ursa Polar	dub=2:210387,2:158966,8:210387,8:158966	leg=2:159279,8:159279
+A Ursa Polar	dub=2:210387,8:210387,2:158966,8:158966	leg=2:159279,8:159279
 A Ursa Polar (2022)	dub=6:1306850	leg=6:1306851
 A Useful Ghost: Uma Ajuda do Além	leg=8:388522
 A Vampira de Barcelona (2020)	dub=6:1302091
 A Vastidao da Noite (2019)	dub=6:1297875
-A Vastidão da Noite	dub=2:281755,2:48169,8:281755,8:48169
+A Vastidão da Noite	dub=2:281755,8:281755,2:48169,8:48169
 A Velha Com a Faca	leg=2:380272,8:380272
 A Venezuela em Solo Brasileiro	dub=2:202626,8:202626
 A Venezuela em Solo Brasileiro (2023)	dub=6:1305560
@@ -2454,7 +2454,7 @@ A Verdadeira História de Ned Kelly (2019)	dub=6:1307998
 A Verdadeira História do Roubo do Século	dub=2:169675,8:169675	leg=2:169721,8:169721
 A Versão Persa	dub=2:235509,8:235509	leg=2:235511,8:235511
 A Versão Persa (2023)	dub=6:1309325	leg=6:1309326
-A Vespa	dub=2:297829,2:297814,8:297829,8:297814	leg=2:297815,8:297815
+A Vespa	dub=2:297829,8:297829,2:297814,8:297814	leg=2:297815,8:297815
 A Vespa (2024)	dub=6:1312547	leg=6:1312546
 A Via Láctea	dub=2:349026,8:349026
 A Viagem	dub=2:296884,2:20928,8:388451,8:296884,8:20928	leg=8:388450
@@ -2478,12 +2478,12 @@ A Vida E Dura A Historia De Dewey Cox	dub=2:76681,8:76681
 A Vida Eletrizante de Louis Wain	dub=2:150732,8:150732	leg=2:150747,8:150747
 A Vida Eletrizante de Louis Wain (2021)	dub=6:1301105
 A Vida Em Espera (2017)	dub=6:1300314
-A Vida Em Um Ano	dub=2:94231.mkv,2:94165,8:94231.mkv,8:94165
+A Vida Em Um Ano	dub=2:94231.mkv,8:94231.mkv,2:94165,8:94165
 A Vida Gira	dub=2:88999,8:88999
 A Vida Gira (2020)	dub=6:1308126
 A Vida Imortal de Henrietta Lacks	dub=2:144095,8:144095
 A Vida Imortal de Henrietta Lacks (2017)	dub=6:1302102
-A Vida Invisivel	dub=2:98388,2:73266,8:98388,8:73266
+A Vida Invisivel	dub=2:98388,8:98388,2:73266,8:73266
 A Vida Invisivel (2019)	dub=6:1297977
 A Vida Marinha com Steve Zissou (2004)	dub=6:1299868
 A Vida Moderna de Rocko: Volta ao Lar	dub=2:27647,8:27647
@@ -2598,7 +2598,7 @@ A Virada Errada	dub=2:348784,8:348784	leg=2:348783,8:348783
 A Virada Errada (2015)	dub=6:1313817
 A Virgem E O Milionario Parte 1	dub=8:389488
 A Virgem E O Milionario Parte 3	dub=8:389489
-A Virgem Vermelha	dub=2:297405,2:297404,8:297405,8:297404	leg=2:297406,8:297406
+A Virgem Vermelha	dub=2:297405,8:297405,2:297404,8:297404	leg=2:297406,8:297406
 A Virgem Vermelha (2024)	dub=6:1312527	leg=6:1312526
 A Virgem da Pedreira	dub=2:371513,8:371513	leg=2:371512,8:371512
 A Visita	dub=2:382814,2:106812,8:382814,8:106812	leg=2:382813,8:382813
@@ -2665,7 +2665,7 @@ A Última Carta de Amor	dub=2:113041,8:113041	leg=2:138851,8:138851
 A Última Carta de Amor (2021)	leg=6:1304602
 A Última Cartada	dub=2:105226,8:105226
 A Última Cartada (2006)	dub=6:1308911
-A Última Casa	dub=2:211654,8:392418,8:391616,8:211654	leg=8:391613
+A Última Casa	dub=8:392418,2:211654,8:391616,8:211654	leg=8:391613
 A Última Casa (2026)	dub=6:1502164
 A Última Casa da Rua	dub=2:161955,8:161955
 A Última Caçada	dub=2:285142,8:285142	leg=2:285143,8:285143
@@ -2675,7 +2675,7 @@ A Última Chamada	dub=2:357553,2:192072,8:357553,8:192072	leg=2:357552,2:192071,
 A Última Chamada (2020)	dub=6:1306379	leg=6:1306380
 A Última Chance	dub=2:48216,8:48216
 A Última Chance (2019)	dub=6:1307891
-A Última Coisa que Ele Queria	dub=2:46132,2:36643,8:46132,8:36643
+A Última Coisa que Ele Queria	dub=2:46132,8:46132,2:36643,8:36643
 A Última Coisa que Mary Viu	dub=2:178847,8:178847	leg=2:178850,8:178850
 A Última Coisa que Mary Viu (2021)	dub=6:1306250	leg=6:1306251
 A Última Cova	dub=2:198694,8:198694
@@ -2689,7 +2689,7 @@ A Última Exorcista	dub=2:146822,8:146822	leg=2:146825,8:146825
 A Última Fagulha de Esperança	dub=2:378021,8:378021	leg=2:378020,8:378020
 A Última Festa	dub=2:195634,8:195634
 A Última Festa de Solteiro	dub=2:328224,8:328224	leg=2:328223,8:328223
-A Última Fonte	dub=2:202581,2:201995,8:202581,8:201995	leg=2:201999,8:201999
+A Última Fonte	dub=2:202581,8:202581,2:201995,8:201995	leg=2:201999,8:201999
 A Última Fonte: Escritos das Sombras	leg=2:288564,8:288564
 A Última Fortaleza	dub=2:110806,8:110806
 A Última Fortaleza (2001)	dub=6:1307286
@@ -2705,7 +2705,7 @@ A Última Linha de Defesa	dub=2:347102,2:250653,8:347102,8:250653	leg=2:250654,8
 A Última Linha de Defesa (2020)	leg=6:1308393
 A Última Loja de Consertos	leg=2:252972,2:252971,8:252972,8:252971
 A Última Loja de Consertos (2024)	leg=6:1309626
-A Última Missão	dub=2:338546,2:338423,2:224986,8:338546,8:338423,8:224986	leg=2:338422,2:224983,8:338422,8:224983
+A Última Missão	dub=2:338546,8:338546,2:338423,2:224986,8:338423,8:224986	leg=2:338422,2:224983,8:338422,8:224983
 A Última Montanha (2022)	dub=6:1311456	leg=6:1311457
 A Última Música (2010)	dub=6:1310253
 A Última Noite	dub=2:359205,2:358086,2:322821,8:359205,8:358086,8:322821	leg=2:359204,2:358085,8:359204,8:358085
@@ -2722,7 +2722,7 @@ A Última Profecia (2002)	dub=6:1304355
 A Última Resistência (2017)	dub=6:1307928
 A Última Ressaca do Ano	dub=2:45078,8:45078
 A Última Ressaca do Ano (2016)	dub=6:1307579
-A Última Sessão de Freud	dub=2:265887,2:265886,8:265887,8:265886	leg=2:265888,2:254071,8:265888,8:254071
+A Última Sessão de Freud	dub=2:265887,8:265887,2:265886,8:265886	leg=2:265888,2:254071,8:265888,8:254071
 A Última Showgirl	dub=2:314980,8:314980	leg=2:314981,8:314981
 A Última Showgirl (2024)	dub=6:1313362	leg=6:1313361
 A Última Tentação de Cristo	dub=2:348138,8:348138	leg=2:348137,8:348137
@@ -2786,7 +2786,7 @@ Aberracoes (2019)	dub=6:1298084
 Aberrações	dub=2:48164,8:48164
 Abestalhados 2	dub=2:186746,8:186746
 Abestalhados 2 (2022)	dub=6:1300976
-Abigail	dub=2:262925,2:262924,8:262925,8:262924	leg=2:262926,2:261674,8:262926,8:261674
+Abigail	dub=2:262925,8:262925,2:262924,8:262924	leg=2:262926,2:261674,8:262926,8:261674
 Abigail (2024)	dub=6:1304081	leg=6:1303596
 Abigail e a Cidade Proibida	dub=2:33344,8:33344
 Abigail e a Cidade Proibida (2019)	dub=6:1297470
@@ -2799,7 +2799,7 @@ Abismos (2020)	dub=6:1306454	leg=6:1306455
 Aboio	dub=2:378651,8:378651
 Abominable	leg=2:33345,8:33345
 Abominavel (2019)	dub=6:1297427
-Abominável	dub=2:33348,2:33347,2:33346,8:33348,8:33347,8:33346
+Abominável	dub=2:33348,2:33347,8:33348,8:33347,2:33346,8:33346
 Abominável Criatura	dub=2:316297,8:316297	leg=2:316298,8:316298
 Aborto: Histórias Contadas por Mulheres	dub=2:133094,8:133094
 Aborto: Histórias Contadas por Mulheres (2016)	dub=6:1304413
@@ -2809,7 +2809,7 @@ Abra Suas Asas	dub=2:89388,8:89388
 Abra Suas Asas (2019)	dub=6:1308460
 Abracadabra	dub=2:180691,2:64363,8:180691,8:64363
 Abracadabra (1993)	dub=6:1299929
-Abracadabra 2	dub=2:175817,2:175626,8:175817,8:175626	leg=2:175628,8:175628
+Abracadabra 2	dub=2:175817,8:175817,2:175626,8:175626	leg=2:175628,8:175628
 Abracadabra 2 (2022)	dub=6:1300155
 Abraham Lincoln Cacador de Vampiros (2012)	dub=6:1297609
 Abraham Lincoln: Caçador de Vampiros	dub=2:219153,2:21704,8:219153,8:21704
@@ -2836,7 +2836,7 @@ Academia de Gênios (1985)	dub=6:1309821	leg=6:1309822
 Academia de Vampiros	dub=2:20508,8:20508
 Academia de Vampiros: O Beijo das Sombras	dub=8:385007
 Academia de Vampiros: O Beijo das Sombras (2014)	dub=6:1301090
-Academia de Vilões	dub=2:343203,2:343201,8:343203,8:343201	leg=2:343202,8:343202
+Academia de Vilões	dub=2:343201,8:343201,2:343203,8:343203	leg=2:343202,8:343202
 Acampamento Intergaláctico	dub=2:178576,8:178576
 Acampamento Intergaláctico (2022)	dub=6:1305354
 Acampamento Maldito	dub=2:220053,8:220053	leg=2:220052,8:220052
@@ -2887,7 +2887,7 @@ Acima das Linhas Inimigas (2022)	dub=6:1309121	leg=6:1309120
 Acima das Nuvens (2014)	dub=6:1307338
 Acima de Qualquer Suspeita	dub=2:339924,8:339924	leg=2:339923,8:339923
 Acompanhante Fatal	dub=2:343965,8:343965	leg=2:343964,8:343964
-Acompanhante Perfeita	dub=2:313588,2:313587,8:313588,8:313587	leg=2:313589,2:312348,8:313589,8:312348
+Acompanhante Perfeita	dub=2:313588,8:313588,2:313587,8:313587	leg=2:313589,2:312348,8:313589,8:312348
 Acompanhante Perfeita (2025)	dub=6:1313167	leg=6:1313127
 Acompanhante de Luxo	dub=2:319044,8:319044	leg=2:319045,8:319045
 Aconteceu Naquela Noite	dub=2:128537,8:128537
@@ -2917,10 +2917,10 @@ Acusado (2019)	dub=6:1302103
 Acústico MTV: Capital Inicial (2000)	dub=6:1310347
 Acústico MTV: Manu Gavassi canta Fruto Proibido	dub=2:200989,8:200989
 Acústico MTV: Manu Gavassi canta Fruto Proibido (2023)	dub=6:1305492
-Ad Astra - Rumo às Estrelas	dub=2:318518,2:31775,2:31774,2:31737,8:318518,8:31775,8:31774,8:31737	leg=2:318519,8:318519
+Ad Astra - Rumo às Estrelas	dub=2:31775,2:31774,8:31775,8:31774,2:318518,2:31737,8:318518,8:31737	leg=2:318519,8:318519
 Ad Astra Legendado	dub=2:31572,8:31572
 Ad Astra Rumo as Estrelas (2019)	dub=6:1297110
-Ad Vitam	dub=2:301993,8:389888,8:301993	leg=2:301994,8:301994
+Ad Vitam	dub=8:389888,2:301993,8:301993	leg=2:301994,8:301994
 Ad Vitam (2025)	dub=6:1312919
 Adam	dub=2:134087,8:134087	leg=2:134083,8:134083
 Adam Niskar (2020)	dub=6:1301927
@@ -2949,7 +2949,7 @@ Adeus, Capitão	dub=2:259064,8:259064
 Adeus, Capitão (2022)	dub=6:1305319
 Adeus, Idiotas	dub=2:160597,8:160597	leg=2:160587,8:160587
 Adeus, Idiotas (2020)	dub=6:1306159	leg=6:1306160
-Adeus, June	dub=2:359059,2:359044,2:358711,8:359059,8:359044,8:358711	leg=2:359043,8:359043
+Adeus, June	dub=2:359059,2:358711,8:359059,8:358711,2:359044,8:359044	leg=2:359043,8:359043
 Adeus, Lênin!	dub=2:161950,8:161950
 Adeus, Minha Rainha	dub=2:130234,8:130234
 Adeus, Minha Rainha (2012)	dub=6:1304918
@@ -2961,7 +2961,7 @@ Admiradora Secreta (1985)	dub=6:1304059
 Adopt A Highway	leg=2:33349,8:33349
 Adoradores do Diabo	dub=8:388453	leg=8:388452
 Adoraveis Mulheres (1994)	dub=6:1300637
-Adoráveis Mulheres	dub=2:41624,2:41623,8:394487,8:390257,8:41624,8:41623	leg=8:394486,8:390256
+Adoráveis Mulheres	dub=2:41624,8:41624,2:41623,8:394487,8:390257,8:41623	leg=8:394486,8:390256
 Adoráveis Mulheres (2019)	dub=6:1307464
 Adoráveis Paspalhas	dub=2:367013,8:367013
 Adorável Trapalhão	dub=2:64364,8:64364
@@ -3117,7 +3117,7 @@ Adverse	leg=2:101365,8:101365
 Adverse (2021)	leg=6:1308717
 Advogado do Diabo	dub=2:20932,8:20932
 Advogado do Diabo (1997)	dub=6:1302382,6:1313852	leg=6:1313851
-Adão Negro	dub=2:180563,2:180561,8:180563,8:180561	leg=2:180564,8:180564
+Adão Negro	dub=2:180563,8:180563,2:180561,8:180561	leg=2:180564,8:180564
 Adão Negro (2022)	dub=6:1313306	leg=6:1313305
 Adão e Eva do Paraíso ao Consumismo	leg=2:348832,8:348832
 Adú	dub=2:369383,2:48249,8:369383,8:48249	leg=2:369382,8:369382
@@ -3174,11 +3174,11 @@ Agente Infiltrado	dub=2:193427,8:193427	leg=2:193428,8:193428
 Agente Infiltrado (2023)	dub=6:1301188
 Agente Mirim	dub=2:100133,8:100133
 Agente Mirim (2016)	dub=6:1307631
-Agente Oculto	dub=2:168533,2:167504,8:168533,8:167504	leg=2:167502,8:167502
+Agente Oculto	dub=2:168533,8:168533,2:167504,8:167504	leg=2:167502,8:167502
 Agente Oculto (2022)	dub=6:1299648
 Agente Secreto Primata	dub=2:236331,8:236331
 Agente Secreto Primata (2022)	dub=6:1311413
-Agente Stone	dub=2:209533,2:208328,8:209533,8:208328	leg=2:208329,8:208329
+Agente Stone	dub=2:209533,8:209533,2:208328,8:208328	leg=2:208329,8:208329
 Agente Stone (2023)	dub=6:1301794	leg=6:1301793
 Agente Vermelho (2000)	dub=6:1312097	leg=6:1312096
 Agente X: A Ultima Missão (2023)	dub=6:1303312	leg=6:1303311
@@ -3233,7 +3233,7 @@ Agência do Amor	dub=2:247303,8:247303	leg=2:247304,8:247304
 Ah a Amizade (2026)	dub=6:1314301
 Ah, Belinda	dub=2:191442,8:191442	leg=2:191441,8:191441
 Ah, Belinda (2023)	dub=6:1306969	leg=6:1306970
-Ah, a Amizade…	dub=2:365875,2:365787,8:365875,8:365787	leg=2:365786,8:365786
+Ah, a Amizade…	dub=2:365875,8:365875,2:365787,8:365787	leg=2:365786,8:365786
 Aileen A Historia de uma Serial Killer (2025)	dub=6:1313955
 Aileen Wuornos: Mente Assassina	dub=2:281301,2:159307,8:281301,8:159307	leg=2:281302,2:159303,8:281302,8:159303
 Aileen Wuornos: Mente Assassina (2021)	dub=6:1306546	leg=6:1306547
@@ -3241,7 +3241,7 @@ Aileen: A História de uma Serial Killer	dub=2:350357,8:350357	leg=2:350356,8:35
 Ainbo: A Guerreira da Amazonia (2021)	dub=6:1299121
 Ainbo: A Guerreira da Amazônia	dub=2:145348,8:145348	leg=2:145351,8:145351
 Ainda Estamos Aqui (2015)	leg=6:1312827
-Ainda Estou Aqui	dub=2:315046,2:315045,2:314983,2:314982,2:157434,8:315046,8:315045,8:314983,8:314982,8:157434	leg=2:157433,8:157433
+Ainda Estou Aqui	dub=2:315046,2:315045,8:315046,8:315045,2:314983,2:314982,2:157434,8:314983,8:314982,8:157434	leg=2:157433,8:157433
 Ainda Estou Aqui (2022)	dub=6:1299362
 Ainda Estou Aqui (2024)	dub=6:1313208
 Ainda Muito Loucos	dub=2:127405,8:127405
@@ -3259,12 +3259,12 @@ Air Force One: A Nova Fortaleza Voadora	dub=2:159807,8:159807	leg=2:159809,8:159
 Air Force One: A Nova Fortaleza Voadora (2021)	dub=6:1306531	leg=6:1306532
 Air Strike	leg=2:76916,8:76916
 Air Strike (2018)	leg=6:1307502
-Air: A História Por Trás do Logo	dub=2:194858,2:194856,8:194858,8:194856	leg=2:194857,8:194857
+Air: A História Por Trás do Logo	dub=2:194858,8:194858,2:194856,8:194856	leg=2:194857,8:194857
 Aita	leg=8:385562
 Ajuda Natalina	dub=2:31587,8:31587
 Ajudante de Natal	dub=2:230305,8:230305	leg=2:230304,8:230304
 Ajudante de Natal (2022)	dub=6:1311646	leg=6:1311647
-Ajustando um Amor	dub=2:265864,2:185809,8:265864,8:185809	leg=2:185811,8:185811
+Ajustando um Amor	dub=2:265864,8:265864,2:185809,8:185809	leg=2:185811,8:185811
 Ajustando um Amor (2022)	dub=6:1306660	leg=6:1306661
 Ajuste Final (1990)	dub=6:1300641
 Ajuste de Contas	dub=2:42982,8:388455,8:42982	leg=8:388454
@@ -3274,7 +3274,7 @@ Akhanda 2 Thaandavam	leg=8:394660
 Akira	dub=8:390136	leg=8:390135
 Akira (1988)	dub=2:250614,6:1303232,8:250614
 Alabama: Presos do Sistema	leg=2:347651,8:347651
-Aladdin	dub=2:29105,8:386223,8:386221,8:29105	leg=8:386222,8:386220
+Aladdin	dub=2:29105,8:29105,8:386223,8:386221	leg=8:386222,8:386220
 Aladdin (1992)	dub=2:224971,6:1297816,8:224971
 Aladdin (2019)	dub=2:224965,6:1297113,8:224965
 Aladdin - O Retorno de Jafar	dub=2:348090,8:348090	leg=2:348089,8:348089
@@ -3287,7 +3287,7 @@ Aladim e a Lâmpada Maravilhosa (1973)	dub=6:1307181
 Aladin e a Princesa de Bagdá	dub=2:370884,8:370884	leg=2:370883,8:370883
 Alarme de Incendio (2024)	dub=6:1303095
 Alarme de Incendio Abaixo da Terra (2026)	dub=6:1314252
-Alarme de Incêndio	dub=2:246543,2:241567,8:246543,8:241567	leg=2:241568,8:241568
+Alarme de Incêndio	dub=2:246543,8:246543,2:241567,8:241567	leg=2:241568,8:241568
 Alarme de Incêndio: Abaixo da Terra	dub=8:390550
 Alaska	dub=2:87091,8:87091
 Alaska (2015)	dub=6:1307510
@@ -3323,12 +3323,12 @@ Alemao (2014)	dub=6:1312131
 Alemao 2 (2022)	dub=6:1312132
 Alemão	dub=2:19909,8:19909
 Alemão 2	dub=2:345102,2:185828,8:345102,8:185828	leg=2:345101,8:345101
-Alerta Apocalipse	dub=2:375557,2:374487,8:375557,8:374487	leg=2:374486,8:374486
+Alerta Apocalipse	dub=2:375557,8:375557,2:374487,8:374487	leg=2:374486,8:374486
 Alerta Apocalipse (2026)	dub=6:1314492	leg=6:1314491
 Alerta Lobo	dub=2:181445,2:24862,8:181445,8:24862
 Alerta Lobo (2019)	dub=6:1305732
 Alerta Maximo (2023)	dub=6:1301071
-Alerta Máximo	dub=2:187856,2:187833,8:187856,8:187833	leg=2:187861,8:187861
+Alerta Máximo	dub=2:187833,8:187833,2:187856,8:187856	leg=2:187861,8:187861
 Alerta Vermelho	dub=2:353913,2:138038,8:353913,8:138038	leg=2:353912,2:138041,8:353912,8:138041
 Alerta Vermelho (2019)	dub=6:1308403	leg=6:1308404
 Alerta Vermelho (2021)	dub=6:1298935
@@ -3338,7 +3338,7 @@ Alerta de Risco	dub=2:265897,8:265897	leg=2:265898,8:265898
 Alerta de Risco (2024)	dub=6:1305341	leg=6:1305340
 Alerta de Spoiler	dub=2:207320,8:207320	leg=2:207321,8:207321
 Alerta de Spoiler (2022)	dub=6:1302917
-Alerta Âmbar	dub=2:288872,2:288871,8:288872,8:288871	leg=2:288873,8:288873
+Alerta Âmbar	dub=2:288872,8:288872,2:288871,8:288871	leg=2:288873,8:288873
 Alerta Âmbar (2024)	dub=6:1312256	leg=6:1312255
 Alerta! Temporada de Tubarões	dub=2:187865,8:187865	leg=2:187840,8:187840
 Alerta! Temporada de Tubarões (2022)	dub=6:1306618	leg=6:1306619
@@ -3347,7 +3347,7 @@ Alex Camera 10	dub=2:100439,8:100439
 Alex Câmera 10 (2017)	dub=6:1308638
 Alexandre (2004)	dub=6:1302067
 Alexandre Astier - L'Exoconférence	dub=2:19910,8:19910
-Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa	dub=2:317067,2:316906,8:317067,8:316906	leg=2:316907,8:316907
+Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa	dub=2:317067,8:317067,2:316906,8:316906	leg=2:316907,8:316907
 Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa (2025)	dub=6:1313389	leg=6:1313388
 Alexandre e o Dia Terrível Horrível Espantoso e Horroroso (2014)	dub=6:1303873
 Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso	dub=2:102559,8:102559
@@ -3386,10 +3386,10 @@ Alguém Avisa? (2020)	dub=6:1308099	leg=6:1308100
 Alguém Entre Nós	dub=2:193064,8:193064	leg=2:193062,8:193062
 Alguém Entre Nós (2021)	dub=6:1305974	leg=6:1305975
 Alguém Especial (2019)	dub=6:1310603
-Alguém Especial como Você	dub=2:334604,8:390132,8:334604	leg=2:334603,8:334603
+Alguém Especial como Você	dub=8:390132,2:334604,8:334604	leg=2:334603,8:334603
 Alguém Muito Especial	dub=2:308380,2:151983,8:308380,8:151983	leg=2:308381,8:308381
 Alguém Muito Especial (1987)	dub=6:1305593
-Alguém Que Eu Costumava Conhecer	dub=2:186812,2:186806,8:186812,8:186806	leg=2:186811,8:186811
+Alguém Que Eu Costumava Conhecer	dub=2:186812,8:186812,2:186806,8:186806	leg=2:186811,8:186811
 Ali (2001)	dub=6:1300101
 Ali Babá e os Quarenta Ladrões	dub=2:323677,2:64369,8:323677,8:64369
 AliEN0089	leg=2:355551,8:355551
@@ -3439,13 +3439,13 @@ Alien: A Ressurreicao (1997)	dub=6:1299730
 Alien: Covenant	dub=2:45880,8:45880
 Alien: Covenant (2017)	dub=6:1311890	leg=6:1311889
 Alien: O Oitavo Passageiro (1979)	dub=6:1311871	leg=6:1311870
-Alien: Romulus	dub=2:296088,2:295741,8:296088,8:295741	leg=2:295742,8:295742
+Alien: Romulus	dub=2:296088,8:296088,2:295741,8:295741	leg=2:295742,8:295742
 Alien: Romulus (2024)	dub=6:1312442	leg=6:1312289
 Aliens: O Resgate	dub=2:285107,8:285107
 Aliens: O Resgate (1986)	dub=6:1311886	leg=6:1311885
 Alienóide: O Regresso ao Futuro	leg=2:366995,8:366995
 Alimento de Família	leg=2:378009,8:378009
-Alita Anjo De Combate	dub=2:98809,2:26569,2:26394,8:98809,8:26569,8:26394
+Alita Anjo De Combate	dub=2:26569,2:26394,8:26569,8:26394,2:98809,8:98809
 Alita Battle Angel Legendado	dub=2:25123,8:25123
 Alita: Anjo de Combate (2019)	dub=6:1312557	leg=6:1312556
 Alive	dub=2:72634,8:72634
@@ -3464,7 +3464,7 @@ Alma Perdida (2009)	dub=6:1307166
 Alma Portuguesa	dub=2:357556,8:357556
 Alma da Festa	dub=2:378655,2:24491,8:378655,8:24491	leg=2:378654,8:378654
 Alma da Festa (2018)	dub=6:1307609
-Alma de Caçador	dub=2:275485,2:255000,8:392654,8:275485,8:255000	leg=2:275486,2:255001,8:275486,8:255001
+Alma de Caçador	dub=8:392654,2:275485,2:255000,8:275485,8:255000	leg=2:275486,2:255001,8:275486,8:255001
 Alma de Caçador (2024)	dub=6:1303291	leg=6:1309171
 Alma de Cowboy	dub=2:100920,8:100920
 Alma de Cowboy (2020)	dub=6:1298384
@@ -3507,7 +3507,7 @@ Altitude (2010)	dub=6:1310457
 Altitude (2017)	dub=6:1301901
 Alto Controle (1999)	dub=6:1312843
 Altos Negocios (2020)	dub=6:1297866
-Altos Negócios	dub=2:46126,2:43847,8:46126,8:43847
+Altos Negócios	dub=2:46126,8:46126,2:43847,8:43847
 Alucinação	dub=8:393680	leg=8:393679
 Alucinação Fatal	leg=2:129571,8:129571
 Alucinação Fatal (2019)	dub=6:1304540	leg=6:1304541
@@ -3563,7 +3563,7 @@ Além do Tempo (2022)	dub=6:1312871
 Além dos Limites da Morte	dub=8:386833	leg=8:386832
 Além dos Votos	dub=2:163270,8:163270	leg=2:163271,8:163271
 Além dos Votos (2019)	dub=6:1306266	leg=6:1306267
-Além-mundo	dub=2:352953,2:352951,8:352953,8:352951	leg=2:352952,8:352952
+Além-mundo	dub=2:352951,8:352951,2:352953,8:352953	leg=2:352952,8:352952
 Alô, Amigos	dub=2:33351,8:33351
 Alô, Amigos (1942)	dub=6:1309833
 Ama-me	dub=2:139257,8:139257	leg=2:139241,8:139241
@@ -3595,7 +3595,7 @@ Amante Stalker e Mortal (2024)	dub=6:1303141
 Amante a Domicílio	dub=2:30595,8:30595
 Amante a Domicílio (2013)	dub=6:1307289
 Amante sob Suspeita (2018)	leg=6:1312231
-Amante, Stalker e Mortal	dub=2:247259,2:247258,8:247259,8:247258	leg=2:247260,8:247260
+Amante, Stalker e Mortal	dub=2:247259,8:247259,2:247258,8:247258	leg=2:247260,8:247260
 Amantes	dub=2:375921,8:375921	leg=2:375920,8:375920
 Amantes Eternos (2013)	dub=6:1300477
 Amantes e Traições	dub=2:35994,8:35994
@@ -3629,7 +3629,7 @@ Ambição Cega (2022)	leg=6:1312769
 Ambulancia: Um Dia de Crime (2022)	dub=6:1299446
 Ambulância do Terror	dub=2:48222,8:48222
 Ambulância do Terror (2020)	dub=6:1308773
-Ambulância: Um Dia de Crime	dub=2:163276,2:160423,8:163276,8:160423	leg=2:160417,8:160417
+Ambulância: Um Dia de Crime	dub=2:163276,8:163276,2:160423,8:160423	leg=2:160417,8:160417
 Ameaca No Espaco	dub=2:99821,8:386790,8:99821	leg=8:386789
 Ameaca Profunda (2020)	dub=6:1300062
 Ameaca Terrorista (2010)	dub=6:1298488
@@ -3644,7 +3644,7 @@ Ameaça Terrorista	dub=2:260898,8:260898
 Ameaça Virtual	dub=2:112004,8:112004
 Ameaça Virtual (2001)	dub=6:1309076
 Ameaça a Bordo	dub=2:177227,8:177227	leg=2:177223,8:177223
-Ameaça no Ar	dub=2:311154,2:311092,8:311154,8:311092	leg=2:311093,8:311093
+Ameaça no Ar	dub=2:311154,8:311154,2:311092,8:311092	leg=2:311093,8:311093
 Ameaça no Ar (2025)	dub=6:1313051	leg=6:1313050
 Amei Um Bicheiro	dub=2:380509,8:380509
 Amer (2009)	leg=6:1313162
@@ -3698,7 +3698,7 @@ American Traitor The Trial of Axis Sally	leg=2:120669,8:120669
 American Underdog: A Historia de Kurt Warner (2021)	dub=6:1300100
 American Underdog: A História de Kurt Warner	dub=2:156679,8:156679	leg=2:156693,8:156693
 American Woman Legendado	dub=2:30547,8:30547
-Americana	dub=2:366511,2:363799,2:363797,8:366511,8:363799,8:363797	leg=2:363798,8:363798
+Americana	dub=2:363797,8:363797,2:366511,2:363799,8:366511,8:363799	leg=2:363798,8:363798
 Americano	dub=2:320211,8:320211	leg=2:320212,8:320212
 Americanos na Cama	dub=2:134072,8:134072
 Americanos na Cama (2013)	dub=6:1304347
@@ -3720,7 +3720,7 @@ Amigos Alienigenas (2018)	dub=6:1500939
 Amigos Alienígenas	dub=2:355708,8:355708
 Amigos Amigos Mulheres a Parte (2008)	dub=6:1314184
 Amigos Imaginarios (2024)	dub=6:1304922	leg=6:1304921
-Amigos Imaginários	dub=2:265866,2:265865,8:265866,8:265865	leg=2:265867,8:265867
+Amigos Imaginários	dub=2:265866,8:265866,2:265865,8:265865	leg=2:265867,8:265867
 Amigos Inseparáveis	dub=2:122926,8:122926
 Amigos Inseparáveis (2012)	dub=6:1309711
 Amigos Muito Íntimos	dub=8:386226
@@ -3758,8 +3758,8 @@ Amizade Radical (2020)	dub=6:1304634	leg=6:1304635
 Amizade Tóxica	dub=2:341295,8:341295	leg=2:341294,8:341294
 Amizade de Ferias (2021)	dub=6:1299851
 Amizade de Ferias 2 (2023)	dub=6:1302342
-Amizade de Férias	dub=2:125642,2:124500,8:125642,8:124500	leg=2:124509,8:124509
-Amizade de Férias 2	dub=2:210978,2:210977,8:210978,8:210977	leg=2:210981,8:210981
+Amizade de Férias	dub=2:125642,8:125642,2:124500,8:124500	leg=2:124509,8:124509
+Amizade de Férias 2	dub=2:210978,8:210978,2:210977,8:210977	leg=2:210981,8:210981
 Ammonite	leg=2:89400,8:89400
 Amnesia (2000)	dub=6:1300697
 Amnésia	dub=2:352898,2:21601,8:352898,8:21601	leg=2:352897,8:352897
@@ -3767,7 +3767,7 @@ Amonite	dub=2:188313,8:188313	leg=2:188311,8:188311
 Amonite (2020)	dub=6:1301327
 Amor	dub=2:94746,8:94746
 Amor & Cia. (1998)	dub=6:1502332
-Amor & Gelato	dub=2:218258,2:162973,8:218258,8:162973	leg=2:162972,8:162972
+Amor & Gelato	dub=2:218258,8:218258,2:162973,8:162973	leg=2:162972,8:162972
 Amor & Gelato (2022)	dub=6:1306928	leg=6:1306929
 Amor & Oliveiras	dub=2:130834,8:130834	leg=2:130832,8:130832
 Amor & Vingança	dub=2:320753,8:320753	leg=2:320752,8:320752
@@ -3784,7 +3784,7 @@ Amor Artificial	dub=2:150127,8:150127	leg=2:150128,8:150128
 Amor Artificial (2022)	dub=6:1306858	leg=6:1306859
 Amor Assombrado	dub=2:342855,8:342855
 Amor Atrasado	dub=8:389496
-Amor Bandido	dub=2:318419,2:315748,2:187876,8:318419,8:315748,8:187876	leg=2:315749,2:187877,8:315749,8:187877
+Amor Bandido	dub=2:318419,8:318419,2:315748,2:187876,8:315748,8:187876	leg=2:315749,2:187877,8:315749,8:187877
 Amor Bandido (2025)	dub=6:1313360	leg=6:1313359
 Amor Casamentos e Outros Desastres (2020)	dub=6:1300533
 Amor Certo, Hora Errada	dub=2:367017,8:367017	leg=2:367016,8:367016
@@ -3792,7 +3792,7 @@ Amor Com Fetiche	dub=2:149564,8:149564	leg=2:149589,8:149589
 Amor Com Fetiche (2022)	dub=6:1299341
 Amor De Balada	dub=2:89726,8:89726
 Amor De Família (2016)	dub=6:1310297
-Amor Demais	dub=2:366879,2:366877,8:366879,8:366877	leg=2:366878,8:366878
+Amor Demais	dub=2:366877,8:366877,2:366879,8:366879	leg=2:366878,8:366878
 Amor Demais (2026)	dub=6:1314307	leg=6:1314306
 Amor Demi Sec 2 (2025)	dub=6:1313612
 Amor Doentio	dub=2:175820,8:175820
@@ -3802,7 +3802,7 @@ Amor E Reencontro	leg=8:389498
 Amor Em Daisy Hills	dub=2:205180,8:205180	leg=2:205179,8:205179
 Amor Em Grande Estilo	dub=2:195257,8:195257	leg=2:195256,8:195256
 Amor Em Grande Estilo (2022)	dub=6:1302105
-Amor Enrolado	dub=2:374338,2:373342,2:341082,8:374338,8:373342,8:341082	leg=2:341081,8:341081
+Amor Enrolado	dub=2:374338,2:373342,8:374338,8:373342,2:341082,8:341082	leg=2:341081,8:341081
 Amor Enrolado (2025)	dub=6:1313780
 Amor Entre Amigos: O Casamento	dub=2:185166,8:185166	leg=2:185163,8:185163
 Amor Entre Amigos: O Casamento (2023)	dub=6:1305480	leg=6:1305481
@@ -3864,7 +3864,7 @@ Amor Tardio	leg=8:389503
 Amor Tóxico (2026)	dub=6:1501245
 Amor Verdadeiro	dub=2:203897,8:203897	leg=2:203898,8:203898
 Amor Verdadeiro (2023)	dub=6:1304109,6:1306677	leg=6:1306678
-Amor a 39 Graus	dub=2:299610,2:299593,8:299610,8:299593	leg=2:299594,8:299594
+Amor a 39 Graus	dub=2:299610,8:299610,2:299593,8:299593	leg=2:299594,8:299594
 Amor a 39 Graus (2024)	dub=6:1312578
 Amor a Distancia (2010)	dub=6:1302082
 Amor a Flor da Pele (2000)	leg=6:1501210
@@ -3879,12 +3879,12 @@ Amor a Toda Prova (2011)	dub=6:1302071
 Amor a Tres (2020)	dub=6:1299738
 Amor a Três	dub=2:134016,8:134016	leg=2:134017,8:134017
 Amor a Venda (2016)	dub=6:1301315
-Amor ao Primeiro Beijo	dub=2:193274,2:188577,8:193274,8:188577	leg=2:188576,8:188576
+Amor ao Primeiro Beijo	dub=2:193274,8:193274,2:188577,8:188577	leg=2:188576,8:188576
 Amor ao Primeiro Beijo (2023)	dub=6:1300996
 Amor ao Primeiro Filho	dub=2:379446,8:379446	leg=2:379445,8:379445
 Amor bandido (2021)	dub=6:1302095
 Amor com Amor se Paga S01E1008	dub=3:157121,9:157121
-Amor com Data Marcada	dub=2:190982,2:82588,8:190982,8:82588
+Amor com Data Marcada	dub=2:190982,8:190982,2:82588,8:82588
 Amor com Data Marcada (2020)	dub=6:1297999
 Amor de Adolescente	leg=2:359664,8:359664
 Amor de Aluguel	dub=2:30634,8:30634
@@ -3906,7 +3906,7 @@ Amor e Food Trucks	dub=2:149249,8:149249	leg=2:149248,8:149248
 Amor e Food Trucks (2020)	dub=6:1303277
 Amor e Liberdade	dub=2:288509,8:288509	leg=2:288510,8:288510
 Amor e Liberdade (2018)	dub=6:1312204
-Amor e Monstros	dub=2:102427,2:102340,8:102427,8:102340
+Amor e Monstros	dub=2:102427,8:102427,2:102340,8:102340
 Amor e Monstros (2020)	dub=6:1298379
 Amor e Oliveiras (2020)	dub=6:1304586	leg=6:1304587
 Amor e Outras Drogas	dub=2:98811,8:98811
@@ -3932,7 +3932,7 @@ Amor em Hong Kong (2023)	leg=6:1312586
 Amor em Jogo (2005)	dub=6:1299877
 Amor em Little Italy	dub=2:372738,2:21996,8:372738,8:21996	leg=2:372737,8:372737
 Amor em Little Italy (2018)	dub=6:1302020
-Amor em Obras	dub=2:370318,2:189928,2:30366,8:370318,8:189928,8:30366	leg=2:370317,8:370317
+Amor em Obras	dub=2:189928,8:189928,2:370318,2:30366,8:370318,8:30366	leg=2:370317,8:370317
 Amor em Obras (2019)	dub=6:1306057
 Amor em South Beach	dub=2:215889,8:215889	leg=2:215888,8:215888
 Amor em South Beach (2021)	dub=6:1302496
@@ -3987,7 +3987,7 @@ Amores Improváveis	dub=2:188564,8:188564	leg=2:188563,8:188563
 Amores Improváveis (2021)	dub=6:1306027	leg=6:1306028
 Amores Inversos	dub=2:144082,8:144082
 Amores Inversos (2014)	dub=6:1304328
-Amores Materialistas	dub=2:340246,2:340237,8:340246,8:340237	leg=2:340236,8:340236
+Amores Materialistas	dub=2:340246,8:340246,2:340237,8:340237	leg=2:340236,8:340236
 Amores Materialistas (2025)	dub=6:1313749	leg=6:1313748
 Amores Perdidos	dub=8:390138	leg=8:390137
 Amores Possíveis	dub=2:137594,8:137594
@@ -4021,7 +4021,7 @@ Ana Uma Adaptacao da Serie Reis	dub=2:310101,8:310101
 Ana Uma Adaptacao da Serie Reis (2025)	dub=6:1313088
 Ana. Sem Título	dub=2:175819,8:175819
 Ana. Sem Título (2020)	dub=6:1306381
-Anaconda	dub=2:365026,2:364795,2:19915,8:365026,8:364795,8:19915	leg=2:364623,2:314591,8:364623,8:314591
+Anaconda	dub=2:365026,8:365026,2:364795,2:19915,8:364795,8:19915	leg=2:364623,2:314591,8:364623,8:314591
 Anaconda (1997)	dub=6:1300420
 Anaconda (2025)	dub=6:1314276	leg=6:1314266
 Anaconda - Rastro de Sangue	dub=2:19914,8:19914
@@ -4080,7 +4080,7 @@ Angels Fallen	leg=2:62499,8:62499
 Angie: Garotas Perdidas	dub=2:219674,8:219674	leg=2:219673,8:219673
 Angie: Garotas Perdidas (2020)	dub=6:1311198	leg=6:1311199
 Angry Birds	dub=2:20318,8:20318
-Angry Birds 2: O Filme	dub=2:30631,2:30630,2:30625,8:384654,8:30631,8:30630,8:30625	leg=8:384653
+Angry Birds 2: O Filme	dub=2:30631,2:30630,8:30631,8:30630,2:30625,8:384654,8:30625	leg=8:384653
 Angry Birds 2: O Filme (2019)	dub=6:1307794	leg=6:1307795
 Angry Birds: O Filme (2016)	dub=6:1309852
 Angustia Infernal (2017)	dub=6:1303825
@@ -4089,11 +4089,11 @@ Aniara Legendado	dub=2:30546,8:30546
 Anikulapo (2022)	dub=6:1300145
 Animais Corporativos (2019)	dub=6:1299768
 Animais Fantasticos Uma Historia Natural (2022)	dub=6:1299428
-Animais Fantásticos e Onde Habitam	dub=2:265788,2:265787,8:265788,8:265787	leg=2:265789,8:265789
+Animais Fantásticos e Onde Habitam	dub=2:265788,8:265788,2:265787,8:265787	leg=2:265789,8:265789
 Animais Fantásticos e Onde Habitam (2016)	dub=6:1297005
-Animais Fantásticos: Os Crimes de Grindelwald	dub=2:265793,2:265792,8:265793,8:265792	leg=2:265794,8:265794
+Animais Fantásticos: Os Crimes de Grindelwald	dub=2:265793,8:265793,2:265792,8:265792	leg=2:265794,8:265794
 Animais Fantásticos: Os Crimes de Grindelwald (2018)	dub=6:1297004
-Animais Fantásticos: Os Segredos de Dumbledore	dub=2:265796,2:265795,8:265796,8:265795	leg=2:265797,8:265797
+Animais Fantásticos: Os Segredos de Dumbledore	dub=2:265796,8:265796,2:265795,8:265795	leg=2:265797,8:265797
 Animais Fantásticos: Os Segredos de Dumbledore (2022)	dub=6:1299424
 Animais Noturnos	dub=2:43802,8:43802
 Animais Noturnos (2016)	dub=6:1307494
@@ -4110,7 +4110,7 @@ Animalia	leg=2:299611,8:299611
 Animals.	leg=8:391641
 Animatrix	dub=2:94755,8:94755
 Animatrix (2003)	dub=6:1308290
-Aniquilação	dub=2:199046,2:21711,8:199046,8:21711
+Aniquilação	dub=2:199046,8:199046,2:21711,8:21711
 Aniquilação (2018)	dub=6:1305644
 Anjo Meu	dub=2:33353,8:33353
 Anjo Meu (2019)	dub=6:1308076
@@ -4160,7 +4160,7 @@ Anna Karenina (2012)	dub=2:105441,6:1300699,8:105441
 Anna Legendado	dub=2:29564,8:29564
 Anna Nicole Smith: Vocês Não Me Conhecem	dub=2:195261,8:195261	leg=2:195260,8:195260
 Anna Nicole Smith: Vocês Não Me Conhecem (2023)	dub=6:1305524	leg=6:1305525
-Anna O Perigo Tem Nome	dub=2:30660,2:30659,2:30645,8:30660,8:30659,8:30645
+Anna O Perigo Tem Nome	dub=2:30660,2:30659,8:30660,8:30659,2:30645,8:30645
 Anna e o Apocalipse	dub=2:31915,8:31915
 Anna e o Apocalipse (2018)	dub=6:1297416
 Anna e o Rei	dub=2:340422,8:340422
@@ -4169,7 +4169,7 @@ Annabelle (2014)	dub=6:1299564
 Annabelle 1	dub=2:21712,8:21712
 Annabelle 2: A Criacao do Mal	dub=2:21713,8:21713
 Annabelle 2: A Criacao do Mal (2017)	dub=6:1299565
-Annabelle 3: De Volta Para Casa	dub=2:30370,2:30369,2:30368,8:30370,8:30369,8:30368
+Annabelle 3: De Volta Para Casa	dub=2:30369,2:30368,8:30369,8:30368,2:30370,8:30370
 Annabelle 3: De Volta para Casa (2019)	dub=6:1299566
 Annapolis	dub=2:354205,2:161949,8:354205,8:161949	leg=2:354204,8:354204
 Annapolis (2006)	dub=6:1301402
@@ -4191,7 +4191,7 @@ Anon	dub=2:21283,8:21283
 Anon (2018)	dub=6:1310324
 Anonimo (2021)	dub=6:1298551	leg=6:1298386
 Anonimo 2 (2025)	dub=6:1313839	leg=6:1313792,6:1313838
-Anora	dub=2:314451,2:314450,2:313995,2:313825,8:314451,8:314450,8:313995,8:313825	leg=2:314452,8:314452
+Anora	dub=2:314451,2:313995,8:314451,8:313995,2:314450,2:313825,8:314450,8:313825	leg=2:314452,8:314452
 Anora (2024)	dub=6:1313186	leg=6:1312607
 Anos 90	dub=2:28102,8:28102
 Anos 90 (2018)	dub=6:1297149
@@ -4250,11 +4250,11 @@ Antônia	dub=2:108077,8:108077
 Antônia (2007)	dub=6:1308237
 Anuja	dub=2:309604,8:309604	leg=2:309605,8:309605
 Anything for Jackson (2020)	leg=6:1314215
-Anêmona	dub=2:372947,2:372716,8:372947,8:372716	leg=2:372715,8:372715
+Anêmona	dub=2:372947,8:372947,2:372716,8:372716	leg=2:372715,8:372715
 Aníkúlápó	dub=2:175811,8:175811	leg=2:175815,8:175815
-Anônimo	dub=2:139263,2:111454,2:111450,8:386228,8:139263,8:111454,8:111450	leg=8:386227
+Anônimo	dub=2:111454,8:111454,2:139263,2:111450,8:386228,8:139263,8:111450	leg=8:386227
 Anônimo (2011)	dub=6:1304578
-Anônimo 2	dub=2:374339,2:373347,2:345106,2:345051,8:374339,8:373347,8:345106,8:345051	leg=2:345050,2:341763,8:345050,8:341763
+Anônimo 2	dub=2:374339,2:373347,2:345106,8:374339,8:373347,8:345106,2:345051,8:345051	leg=2:345050,2:341763,8:345050,8:341763
 Ao 3º Dia	dub=2:179798,8:179798	leg=2:179789,8:179789
 Ao 3º Dia (2020)	dub=6:1300422
 Ao Cair da Noite	dub=2:319152,8:319152	leg=2:319153,8:319153
@@ -4300,7 +4300,7 @@ Apanhador de Pesadelos	dub=2:44585,8:44585
 Apanhador de Pesadelos (2020)	dub=6:1297852
 Aparecida - O Milagre	dub=2:333426,8:333426
 Apartamento 3D (2014)	dub=6:1312776
-Apartamento 7A	dub=2:288359,2:288358,8:288359,8:288358	leg=2:288360,8:288360
+Apartamento 7A	dub=2:288359,8:288359,2:288358,8:288358	leg=2:288360,8:288360
 Apartamento 7A (2024)	dub=6:1312195	leg=6:1312194
 Aparências	dub=2:329597,8:388674,8:329597	leg=2:329596,8:388673,8:329596
 Apenas Amigos	dub=2:294911,8:294911	leg=2:294912,8:294912
@@ -4333,10 +4333,10 @@ Aplicativo do Mal (2015)	dub=6:1304133
 Apneia	dub=2:370886,8:370886
 Apocalipse	dub=2:360847,8:388459,8:360847	leg=8:388458
 Apocalipse (2015)	dub=6:1502273
-Apocalipse Z - O Princípio do Fim	dub=2:292287,2:292286,8:292287,8:292286	leg=2:292288,8:292288
+Apocalipse Z - O Princípio do Fim	dub=2:292287,8:292287,2:292286,8:292286	leg=2:292288,8:292288
 Apocalipse Z - O Princípio do Fim (2024)	dub=6:1312367
 Apocalipse Zumbi (2011)	dub=6:1300383
-Apocalipse nos Trópicos	dub=2:374481,2:334856,8:374481,8:334856	leg=2:334855,8:334855
+Apocalipse nos Trópicos	dub=2:374481,8:374481,2:334856,8:334856	leg=2:334855,8:334855
 Apocalipse nos Trópicos (2025)	dub=6:1313670
 Apocalipse: Caos e Redenção	dub=2:366081,8:366081
 Apocalypse Now	dub=2:352084,8:352084	leg=2:352083,8:352083
@@ -4345,7 +4345,7 @@ Apocalypto	leg=2:322822,8:322822
 Apocalypto (2006)	dub=6:1300923
 Apollo 10 e Meio: Aventura na Era Espacial	dub=2:156680,8:156680	leg=2:156670,8:156670
 Apollo 10 e Meio: Aventura na Era Espacial (2022)	dub=6:1299342
-Apollo 11	dub=2:33356,2:33355,8:33356,8:33355
+Apollo 11	dub=2:33355,8:33355,2:33356,8:33356
 Apollo 11 (2019)	dub=6:1297431
 Apollo 11 Legendado	dub=2:24154,8:24154
 Apollo 13 - Do Desastre ao Triunfo (1995)	dub=6:1314471	leg=6:1314484
@@ -4366,7 +4366,7 @@ Aposta Perigosa (2024)	leg=6:1311649
 Aposta de Alto Risco	dub=8:397557
 Apostando Alto	dub=2:117075,8:117075	leg=2:117383,8:117383
 Apostando Alto (2018)	dub=6:1310525	leg=6:1310526
-Apostas & Segredos	dub=2:327562,2:327543,2:327377,8:327562,8:327543,8:327377	leg=2:327376,8:327376
+Apostas & Segredos	dub=2:327562,2:327543,8:327562,8:327543,2:327377,8:327377	leg=2:327376,8:327376
 Apostolo	dub=2:21603,8:21603
 Apoteose do Samba: 40 Anos de Sapucaí	dub=2:246810,8:246810
 App da Morte	dub=2:329598,8:329598
@@ -4379,10 +4379,10 @@ Aprendendo a Ser Pai	dub=2:294122,8:294122	leg=2:294123,8:294123
 Aprendiz de Espia (2020)	dub=6:1301120
 Aprendiz de Espia: Na Cidade Eterna (2024)	dub=6:1309149	leg=6:1309148
 Aprendiz de Espiã	dub=2:190965,8:190965	leg=2:190964,8:190964
-Aprendiz de Espiã: Na Cidade Eterna	dub=2:274962,2:274961,8:274962,8:274961	leg=2:274963,8:274963
+Aprendiz de Espiã: Na Cidade Eterna	dub=2:274962,8:274962,2:274961,8:274961	leg=2:274963,8:274963
 Aprendiz de Gigolô	dub=2:360848,8:360848
 Apresentando Nate (2022)	dub=6:1299343
-Apresentando os Ricardos	dub=2:147469,2:144399,8:147469,8:144399	leg=2:144395,8:144395
+Apresentando os Ricardos	dub=2:147469,8:147469,2:144399,8:144399	leg=2:144395,8:144395
 Apresentando os Ricardos (2021)	dub=6:1299092
 Apresentando, Nate	dub=2:156694,8:156694	leg=2:156695,8:156695
 Apresuntado	dub=2:375087,8:375087
@@ -4394,9 +4394,9 @@ Aprovados	dub=2:182653,8:182653
 Aprovados (2006)	dub=6:1306947
 Aqua Teen Forever: Plantasm	dub=2:256005,2:254641,8:256005,8:254641	leg=2:229466,8:229466
 Aqua Teen Forever: Plantasm (2022)	dub=6:1311334	leg=6:1311335
-Aquaman	dub=2:100003,2:21473,8:100003,8:21473
+Aquaman	dub=2:21473,8:21473,2:100003,8:100003
 Aquaman (2018)	dub=6:1313302	leg=6:1313301
-Aquaman 2: O Reino Perdido	dub=2:243288,2:243287,8:243288,8:243287	leg=2:242175,8:242175
+Aquaman 2: O Reino Perdido	dub=2:243288,8:243288,2:243287,8:243287	leg=2:242175,8:242175
 Aquaman 2: O Reino Perdido (2023)	dub=6:1313316	leg=6:1313315
 Aquamarine	dub=2:105228,8:105228
 Aquamarine (2006)	dub=6:1307175
@@ -4437,7 +4437,7 @@ Arcadian	leg=2:261675,8:261675
 Arcadian (2024)	leg=6:1303587
 Archive	dub=2:97157,8:97157	leg=2:63111,8:63111
 Archive (2020)	dub=6:1308527	leg=6:1308528
-Arco	dub=2:378711,2:373368,8:378711,8:373368	leg=2:373367,2:371652,8:373367,8:371652
+Arco	dub=2:378711,8:378711,2:373368,8:373368	leg=2:373367,2:371652,8:373367,8:371652
 Arco (2025)	dub=6:1314462
 Arcom Com Quem Me Casei Era Um Figurao	leg=8:389505
 Arctic Dogs	dub=2:34176,8:34176
@@ -4456,12 +4456,12 @@ Area 51 (2015)	dub=6:1300384
 Areias Brancas (1992)	dub=6:1300009
 Arena (2011)	dub=6:1311011	leg=6:1311012
 Arena Mortal	dub=2:294974,8:294974	leg=2:294975,8:294975
-Argentina, (1985)	dub=2:186760,2:186749,6:1300251,8:186760,8:186749	leg=2:186759,8:186759
+Argentina, (1985)	dub=2:186749,8:186749,2:186760,6:1300251,8:186760	leg=2:186759,8:186759
 Argila Vampira (2018)	leg=6:1312762
 Argo	dub=2:20938,8:20938
 Argo (2012)	dub=6:1299031
 Argo 2	dub=2:348095,8:348095	leg=2:348094,8:348094
-Argylle: O Superespião	dub=2:251923,2:251922,8:251923,8:251922	leg=2:251924,8:251924
+Argylle: O Superespião	dub=2:251923,8:251923,2:251922,8:251922	leg=2:251924,8:251924
 Argylle: O Superespião (2024)	dub=6:1303208	leg=6:1303207
 Ariana Grande Excuse Me I Love You	leg=2:90726,8:90726
 Aristogatas (1970)	dub=6:1297820
@@ -4475,7 +4475,7 @@ Arlo, o Menino Jacaré	dub=2:102560,8:102560
 Arlo, o Menino Jacaré (2021)	dub=6:1308927
 Arma Secreta	dub=2:67484,8:67484
 Arma Secreta (2019)	dub=6:1308770
-Armadilha	dub=2:329600,2:284023,2:284022,8:329600,8:284023,8:284022	leg=2:329599,2:284024,8:329599,8:284024
+Armadilha	dub=2:284023,8:284023,2:329600,2:284022,8:329600,8:284022	leg=2:329599,2:284024,8:329599,8:284024
 Armadilha (1999)	dub=6:1300099
 Armadilha (2024)	dub=6:1311982	leg=6:1311981
 Armadilha Explosiva	dub=2:246419,2:171348,8:246419,8:171348	leg=2:246420,2:171352,8:246420,8:171352
@@ -4495,7 +4495,7 @@ Armadura de Deus	dub=2:96841,8:96841
 Armadura de Deus (1986)	dub=6:1307067
 Armageddon	dub=2:104398,8:104398
 Armageddon (1998)	dub=6:1298505
-Armageddon Time	dub=2:287372,2:186476,8:287372,8:186476	leg=2:186477,8:186477
+Armageddon Time	dub=2:287372,8:287372,2:186476,8:186476	leg=2:186477,8:186477
 Armageddon: Os Carros Mais Rápidos Do Brasil	dub=2:325103,8:325103
 Armand e os Limites das Famílias	leg=2:318619,8:318619
 Armas e Amores (1984)	dub=6:1307240
@@ -4667,8 +4667,8 @@ As Confissões de Félix Krull: Cavalheiro de Indústria	dub=8:395285,8:395053	l
 As Cores do Amor	dub=2:140711,8:140711	leg=2:140704,8:140704
 As Cores do Amor (2021)	dub=6:1300423
 As Cores do Mal Preto (2026)	dub=6:1314629
-As Cores do Mal: Preto	dub=2:382957,2:382748,8:382957,8:382748	leg=2:382747,8:382747
-As Cores do Mal: Vermelho	dub=2:265547,2:263101,8:265547,8:263101	leg=2:263102,8:263102
+As Cores do Mal: Preto	dub=2:382957,8:382957,2:382748,8:382748	leg=2:382747,8:382747
+As Cores do Mal: Vermelho	dub=2:265547,8:265547,2:263101,8:263101	leg=2:263102,8:263102
 As Cores do Mal: Vermelho (2024)	dub=6:1304111
 As Cores e Amores de Lore	dub=8:395627
 As Crianças Perdidas	dub=2:294976,8:294976	leg=2:294977,8:294977
@@ -4740,7 +4740,7 @@ As Garotinhas do Papai	dub=2:299807,8:299807
 As Garotinhas do Papai (2007)	dub=6:1314243
 As Garras do Silencio (2007)	dub=6:1301299
 As Gemeas Silenciosas (2022)	dub=6:1302656
-As Golpistas	dub=2:36060,2:36002,8:383313,8:36060,8:36002	leg=8:383312
+As Golpistas	dub=2:36060,8:36060,2:36002,8:383313,8:36002	leg=8:383312
 As Golpistas (2019)	dub=6:1298729
 As Grandes Aventuras de Pee-wee	dub=2:352088,8:352088	leg=2:352087,8:352087
 As Granfinas e o Camelô	dub=2:379093,8:379093
@@ -4765,7 +4765,7 @@ As Linhas Tortas de Deus	dub=2:181430,8:181430	leg=2:181451,8:181451
 As Linhas Tortas de Deus (2022)	dub=6:1300711
 As Linhas da Minha Mão	dub=2:368822,8:368822
 As Loucas Aventuras De James West (1999)	dub=6:1297521
-As Loucuras	dub=2:353493,8:392230,8:353493	leg=2:353492,8:353492
+As Loucuras	dub=8:392230,2:353493,8:353493	leg=2:353492,8:353492
 As Loucuras (2025)	dub=6:1314041
 As Loucuras de Dick & Jane	dub=2:241573,8:241573
 As Loucuras de Dick & Jane (2005)	dub=6:1303623
@@ -4777,7 +4777,7 @@ As Maes De Chico Xavier	dub=2:101185,8:101185
 As Mais Incriveis Aventuras de Pernalonga e Sua Turma	dub=2:101170,8:101170
 As Mais Incríveis Aventuras de Pernalonga e Sua Turma (1979)	dub=6:1307273
 As Maos de Meu Filho	dub=2:104126,8:104126
-As Marvels	dub=2:246813,2:246812,2:246811,8:246813,8:246812,8:246811	leg=2:246814,8:246814
+As Marvels	dub=2:246813,2:246812,8:246813,8:246812,2:246811,8:246811	leg=2:246814,8:246814
 As Marvels (2023)	dub=6:1313286	leg=6:1313285
 As Massagistas Profissionais	dub=2:379447,8:379447
 As Melhores Coisas do Mundo	dub=2:130212,2:105230,8:130212,8:105230
@@ -4817,12 +4817,12 @@ As Outras (2024)	leg=6:1309342
 As Ovelhas Detetives	dub=8:384502,8:384472,8:384437	leg=8:384436
 As Ovelhas Detetives (2026)	dub=6:1500821
 As Palavras	dub=2:377828,8:377828	leg=2:377827,8:377827
-As Panteras	dub=2:40800,2:40618,2:35977,8:40800,8:40618,8:35977
+As Panteras	dub=2:40800,2:40618,8:40800,8:40618,2:35977,8:35977
 As Panteras (2000)	dub=6:1297240
 As Panteras (2019)	dub=6:1297627
 As Panteras: Detonando	dub=2:104399,6:1297241,8:104399
 As Panteras: Detonando (2003)	dub=6:1309038
-As Passageiras	dub=2:189896,2:134001,8:189896,8:134001	leg=2:133992,8:133992
+As Passageiras	dub=2:189896,8:189896,2:134001,8:134001	leg=2:133992,8:133992
 As Passageiras (2021)	dub=6:1298918
 As Patricinhas de Beverly Hills	dub=2:191955,8:191955
 As Patricinhas de Beverly Hills (1995)	dub=6:1300205
@@ -4839,7 +4839,7 @@ As Primeiras Historias de Amor (2016)	dub=6:1301956
 As Provadoras de Hitler	leg=2:367406,2:367081,8:367406,8:367081
 As Pílulas do meu Namorado (2020)	leg=6:1308285
 As Quatro Chaves Mágicas	dub=2:352899,8:352899
-As Quatro Estações do Amor	dub=2:319546,2:319544,8:319546,8:319544	leg=2:319545,8:319545
+As Quatro Estações do Amor	dub=2:319544,8:319544,2:319546,8:319546	leg=2:319545,8:319545
 As Quatro Irmãs	dub=2:371855,8:371855
 As Quíntuplas: O Filme	dub=2:201988,8:201988	leg=2:201987,8:201987
 As Rachaduras de Jara (2018)	dub=6:1301373
@@ -4849,13 +4849,13 @@ As Ridículas Ferias de Eddie (2003)	dub=6:1303328
 As Ruinas (2008)	dub=6:1311836	leg=6:1311835
 As Ruínas	dub=2:356263,8:356263	leg=2:356262,8:356262
 As Semanas Magicas (2023)	dub=6:1301497
-As Semanas Mágicas	dub=2:200316,2:197647,8:200316,8:197647	leg=2:197646,8:197646
+As Semanas Mágicas	dub=2:200316,8:200316,2:197647,8:197647	leg=2:197646,8:197646
 As Senhoras de Salem (2013)	dub=6:1302268
 As Sete Faces de Jane	dub=2:347657,8:347657	leg=2:347656,8:347656
 As Strippers Zumbi	dub=2:115489,8:115489
 As Strippers Zumbi (2008)	dub=6:1309766
 As Sufragistas (2015)	dub=6:1303275
-As Superpoderosas	dub=2:242177,2:242176,8:242177,8:242176	leg=2:242178,8:242178
+As Superpoderosas	dub=2:242177,8:242177,2:242176,8:242176	leg=2:242178,8:242178
 As Superpoderosas (2023)	dub=6:1303106
 As Tartarugas Ninja (2014)	dub=6:1311709
 As Tartarugas Ninja 1	dub=2:21285,8:21285
@@ -4870,12 +4870,12 @@ As Testemunhas de Madea (2012)	dub=6:1300749
 As Tias	dub=2:301151,8:301151	leg=2:301152,2:295692,8:301152,8:295692
 As Tias (2024)	dub=6:1312912
 As Torres Gemeas (2006)	dub=6:1299073
-As Trambiqueiras	dub=2:155516,2:154572,8:155516,8:154572	leg=2:154576,8:154576
+As Trambiqueiras	dub=2:155516,8:155516,2:154572,8:154572	leg=2:154576,8:154576
 As Trambiqueiras (2021)	dub=6:1300467
 As Trapaceiras	dub=2:44234,8:44234
 As Trapaceiras (2019)	dub=6:1307773
 As Tres Filhas (2024)	dub=6:1312158	leg=6:1312157
-As Três Filhas	dub=2:286935,8:392757,8:286935	leg=2:286938,8:286938
+As Três Filhas	dub=8:392757,2:286935,8:286935	leg=2:286938,8:286938
 As Ultimas 24 Horas	dub=8:389506
 As Ultimas Mulheres do Mar (2024)	leg=6:1312274
 As Vantagens de Ser Invisivel (2012)	dub=6:1298169
@@ -4891,7 +4891,7 @@ As Vidas de Glória	dub=2:190587,8:190587	leg=2:190586,8:190586
 As Vidas de Glória (2020)	dub=6:1305805	leg=6:1305806
 As Vigilantes (2022)	dub=6:1301103
 As Virgens Suicidas (2000)	dub=6:1314335
-As Viuvas	dub=2:21474,2:21420,8:21474,8:21420
+As Viuvas	dub=2:21474,8:21474,2:21420,8:21420
 As Viuvas (2018)	dub=6:1300162
 As Vozes	dub=2:30620,8:30620
 As Vozes (2014)	dub=6:1307332
@@ -4916,7 +4916,7 @@ Ascensão e Queda de um Império	dub=2:375923,8:375923	leg=2:375922,8:375922
 Asciende	dub=2:328251,8:328251	leg=2:328250,8:328250
 Asfalto de Sangue	dub=2:21997,8:21997
 Asfalto de Sangue (2018)	dub=6:1310488
-Ash: Planeta Parasita	dub=2:319047,2:319046,8:319047,8:319046	leg=2:319048,8:319048
+Ash: Planeta Parasita	dub=2:319047,8:319047,2:319046,8:319046	leg=2:319048,8:319048
 Ash: Planeta Parasita (2025)	dub=6:1313452	leg=6:1313451
 Ashfall	leg=2:48250,8:48250
 Asilo Maligno	leg=2:353494,8:353494
@@ -4941,11 +4941,11 @@ Assalto ao Carro Blindado (2009)	dub=6:1312112	leg=6:1312111
 Assalto ao Poder (2016)	dub=6:1300175
 Assalto em Dose Dupla	dub=2:259355,8:259355
 Assalto em Dose Dupla (2011)	dub=6:1303734
-Assalto na Paulista	dub=2:179765,2:177226,8:179765,8:177226
+Assalto na Paulista	dub=2:179765,8:179765,2:177226,8:177226
 Assalto na Paulista (2022)	dub=6:1300235
 Assalto sobre Trilhos (1995)	dub=6:1302261
 Assalto à 13ª DP	dub=2:338598,8:338598
-Assassin Club	dub=2:193442,2:193441,8:193442,8:193441	leg=2:193440,8:193440
+Assassin Club	dub=2:193442,8:193442,2:193441,8:193441	leg=2:193440,8:193440
 Assassin's Creed	dub=2:19920,8:19920
 Assassina	dub=2:120650,8:120650
 Assassina (1995)	dub=6:1310604
@@ -4953,7 +4953,7 @@ Assassinas	dub=2:136792,8:136792
 Assassinas (2021)	dub=6:1304619
 Assassinato Via Babá Eletrônica	dub=2:48251,8:48251
 Assassinato Via Babá Eletrônica (2020)	dub=6:1308726
-Assassinato de Elite	dub=2:254779,2:253269,8:254779,8:253269	leg=2:253270,8:253270
+Assassinato de Elite	dub=2:254779,8:254779,2:253269,8:253269	leg=2:253270,8:253270
 Assassinato de Elite (2024)	dub=6:1309314	leg=6:1309315
 Assassinato do Bolo de Cenoura: Um Mistério de Hannah Swensen	dub=2:246877,8:246877	leg=2:246878,8:246878
 Assassinato do Bolo de Cenoura: Um Mistério de Hannah Swensen (2023)	dub=6:1309427	leg=6:1309428
@@ -4984,7 +4984,7 @@ Assassino Americano (2022)	dub=6:1301679
 Assassino Em Série	dub=2:31780,8:31780
 Assassino Em Série (2017)	dub=6:1310551
 Assassino Sem Culpa (2012)	dub=6:1302872
-Assassino Sem Rastro	dub=2:163303,2:163302,8:163303,8:163302	leg=2:163291,8:163291
+Assassino Sem Rastro	dub=2:163302,8:163302,2:163303,8:163303	leg=2:163291,8:163291
 Assassino Sem Rastro (2022)	dub=6:1299567	leg=6:1299493
 Assassino Virtual	dub=2:134103,8:134103
 Assassino Virtual (1995)	dub=6:1304902
@@ -4998,7 +4998,7 @@ Assassino de Sangue	dub=2:370294,8:370294	leg=2:370293,8:370293
 Assassino de Sangue (2024)	dub=6:1314392
 Assassino em Série (2011)	dub=6:1303964
 Assassino no Andar de Cima (2017)	dub=6:1303969
-Assassino por Acaso	dub=2:278115,2:278114,8:278115,8:278114	leg=2:278116,2:264720,8:278116,8:264720
+Assassino por Acaso	dub=2:278115,8:278115,2:278114,8:278114	leg=2:278116,2:264720,8:278116,8:264720
 Assassino por Acaso (2024)	dub=6:1311783	leg=6:1304191
 Assassinos	dub=2:20943,8:20943
 Assassinos (1995)	dub=6:1297467
@@ -5013,7 +5013,7 @@ Assassinos Substitutos (1998)	dub=6:1309619
 Assassinos Sádicos	dub=2:121161,2:93627,8:121161,8:93627	leg=2:121158,8:121158
 Assassinos Sádicos 2: Irmãos Famintos	dub=2:349699,8:349699	leg=2:349698,8:349698
 Assassinos Sádicos 3: Carnificina	dub=2:352269,8:352269	leg=2:352268,8:352268
-Assassinos da Lua das Flores	dub=2:230884,2:230883,8:230884,8:230883	leg=2:230873,8:230873
+Assassinos da Lua das Flores	dub=2:230884,8:230884,2:230883,8:230883	leg=2:230873,8:230873
 Assassinos da Lua das Flores (2023)	dub=6:1302916	leg=6:1302915
 Assassinos de Aluguel	dub=8:387037	leg=8:387036
 Assassinos de Aluguel (2012)	dub=6:1303960
@@ -5025,7 +5025,7 @@ Assassinos por Natureza (1994)	dub=6:1302256
 Assassins	leg=2:112478,8:112478
 Assassins Creed (2016)	dub=6:1297242
 Assedio Sexual (1994)	dub=6:1300122
-Assento Quente	dub=2:168537,2:168510,8:168537,8:168510	leg=2:168509,8:168509
+Assento Quente	dub=2:168537,8:168537,2:168510,8:168510	leg=2:168509,8:168509
 Assento Quente (2022)	dub=6:1300018
 Assim Estava Escrito (1952)	dub=6:1302264
 Assim e a Vida (2017)	dub=6:1297746
@@ -5044,9 +5044,9 @@ Asterix e Obelix A Servico de sua Majestade (2012)	dub=6:1302267
 Asterix e Obelix Contra Cesar (1999)	dub=6:1302260
 Asterix e Obelix a Servico de Sua Majestade	dub=2:20536,8:20536
 Asterix e Obelix no Reino do Meio (2023)	dub=6:1301218
-Asterix e o Segredo da Poção Mágica	dub=2:41562,2:30544,8:41562,8:30544
+Asterix e o Segredo da Poção Mágica	dub=2:41562,8:41562,2:30544,8:30544
 Asterix e o Segredo da Poção Mágica (2018)	dub=6:1308137
-Asteroid City	dub=2:219656,2:219654,8:219656,8:219654	leg=2:219655,8:219655
+Asteroid City	dub=2:219656,8:219656,2:219654,8:219654	leg=2:219655,8:219655
 Asteroid City (2023)	dub=6:1302609	leg=6:1301691
 Astro Boy (2009)	dub=6:1302314
 Astro Kid	dub=2:30374,8:30374
@@ -5062,7 +5062,7 @@ Ataque 13	dub=2:349695,8:349695	leg=2:349694,8:349694
 Ataque 13 (2025)	dub=6:1313946
 Ataque Alienígena	dub=2:241920,2:241919,8:241920,8:241919
 Ataque Alienígena (2020)	dub=6:1310937	leg=6:1310938
-Ataque Brutal	dub=2:373797,2:373396,8:373797,8:373396	leg=2:373395,8:373395
+Ataque Brutal	dub=2:373797,8:373797,2:373396,8:373396	leg=2:373395,8:373395
 Ataque Brutal (2026)	dub=6:1314463	leg=6:1314495
 Ataque Fatal	dub=2:105079,8:105079
 Ataque Fatal (2019)	dub=6:1308536
@@ -5082,7 +5082,7 @@ Ataque à Cabana	dub=2:324542,8:324542	leg=2:324541,8:324541
 Ataque à Colina 400	dub=2:258313,8:258313	leg=2:258314,8:258314
 Ataque à Colina 400 (2023)	dub=6:1309497	leg=6:1309498
 Ate O Ceu	dub=2:100916,8:100916
-Ate O Ultimo Homem	dub=2:100434,2:100430,8:100434,8:100430
+Ate O Ultimo Homem	dub=2:100430,8:100430,2:100434,8:100434
 Ate Que a Sorte nos Separe 2 (2013)	dub=6:1299155
 Ate Que a Sorte nos Separe 3	dub=2:20538,8:20538
 Ate Que a Sorte nos Separe 3: A Falencia Final (2015)	dub=6:1299156
@@ -5103,7 +5103,7 @@ Ate que a Sorte nos Separe 2	dub=2:20539,8:20539
 Ate que as Cores Acabem (2024)	dub=6:1306997
 Atentado ao Hotel Taj Mahal	dub=2:29094,8:29094
 Atentado ao Hotel Taj Mahal (2019)	dub=6:1303573
-Atentado em Oklahoma: Terror nos EUA	dub=2:318589,8:391690,8:318589	leg=2:318590,8:318590
+Atentado em Oklahoma: Terror nos EUA	dub=8:391690,2:318589,8:318589	leg=2:318590,8:318590
 Atentado em Paris	dub=2:19923,8:19923
 Atentado em Paris (2016)	dub=6:1310202
 Atentados em Londres	dub=2:108555,8:108555
@@ -5114,14 +5114,14 @@ Aterrorizados	dub=2:21717,8:21717
 Aterrorizados (2018)	dub=6:1310534	leg=6:1312747
 Aterrorizante	dub=2:195158,8:195158	leg=2:178535,6:1300335,8:178535
 Aterrorizante (2018)	dub=6:1300531
-Aterrorizante 2	dub=2:189323,2:189322,8:189323,8:189322	leg=2:178536,8:178536
+Aterrorizante 2	dub=2:189322,8:189322,2:189323,8:189323	leg=2:178536,8:178536
 Aterrorizante 2 (2022)	dub=6:1301011	leg=6:1300336
 Aterrorizantes Vampiros do Mar! (2013)	dub=6:1310009	leg=6:1310010
-Athena	dub=2:297411,2:174624,8:297411,8:174624	leg=2:174625,8:174625
+Athena	dub=2:297411,8:297411,2:174624,8:174624	leg=2:174625,8:174625
 Athena (2022)	dub=6:1300097
 Atirador	dub=2:91449,8:91449
 Atirador (2007)	dub=6:1301487
-Atirador Implacável	dub=2:316748,2:316154,8:316748,8:316154	leg=2:316155,8:316155
+Atirador Implacável	dub=2:316748,8:316748,2:316154,8:316154	leg=2:316155,8:316155
 Atirador Implacável (2024)	dub=6:1313342	leg=6:1313341
 Atirador de Elite (2012)	dub=6:1304130
 Atiraram no Pianista	leg=8:395111
@@ -5146,7 +5146,7 @@ Atlantis - O Reino Perdido	dub=2:20321,8:395670,8:20321
 Atlantis 2 O Retorno de Milo (2003)	dub=6:1302828
 Atlantis: O Reino Perdido (2001)	dub=6:1299024
 Atlantis: O Retorno de Milo	dub=8:395671
-Atlas	dub=2:262343,2:262342,8:262343,8:262342	leg=2:262344,8:262344
+Atlas	dub=2:262343,8:262343,2:262342,8:262342	leg=2:262344,8:262344
 Atlas (2024)	dub=6:1304079
 Atleta A	dub=2:294913,8:294913	leg=2:294914,8:294914
 Atleta de 69 Anos	dub=2:294258,8:294258	leg=2:294259,8:294259
@@ -5183,9 +5183,9 @@ Atraves da Minha Janela Alem mar (2023)	dub=6:1301528
 Atraves das Sombras (2024)	dub=6:1312297
 Atraves do Universo (2007)	dub=6:1312927
 Atravessa a Vida	dub=2:382357,8:382357
-Através da Minha Janela	dub=2:191478,2:149244,8:191478,8:149244	leg=2:149242,8:149242
-Através da Minha Janela 3: Olhos nos Olhos	dub=2:249793,8:392265,8:249793	leg=2:249794,8:249794
-Através da Minha Janela: Além-mar	dub=2:199679,8:392697,8:199679	leg=2:199678,8:199678
+Através da Minha Janela	dub=2:191478,8:191478,2:149244,8:149244	leg=2:149242,8:149242
+Através da Minha Janela 3: Olhos nos Olhos	dub=8:392265,2:249793,8:249793	leg=2:249794,8:249794
+Através da Minha Janela: Além-mar	dub=8:392697,2:199679,8:199679	leg=2:199678,8:199678
 Através da Máscara (2015)	dub=6:1310172,6:1313075	leg=6:1310173
 Através da Sombra	dub=2:113040,8:113040
 Através das Sombras	dub=2:290767,8:290767	leg=2:290768,8:290768
@@ -5197,7 +5197,7 @@ Atração Mortal	dub=2:380512,8:380512	leg=2:380511,8:380511
 Atração de Risco	dub=2:44207,8:44207
 Atraídos Pela Fama	dub=2:139247,8:139247
 Atraídos Pela Fama (2008)	dub=6:1304304
-Atraídos Pelo Destino	dub=2:366084,2:307942,8:395889,8:395768,8:366084,8:307942	leg=2:366083,2:307943,8:395767,8:366083,8:307943
+Atraídos Pelo Destino	dub=8:395889,2:366084,2:307942,8:395768,8:366084,8:307942	leg=2:366083,2:307943,8:395767,8:366083,8:307943
 Atraídos pelo Desejo	dub=2:249248,8:249248	leg=2:249249,8:249249
 Atrevida: A Paixão Não Tem Regras	dub=2:341813,8:341813	leg=2:341812,8:341812
 Atrás da Estante (2019)	dub=6:1308493
@@ -5229,7 +5229,7 @@ Até Que a Vida Nos Separe: Uma Biografia de Nelson Carneiro	dub=2:378228,8:3782
 Até a Morte	dub=2:265148,8:265148
 Até a Morte: Sobreviver é a Melhor Vingança	dub=2:169752,8:169752	leg=2:169765,8:169765
 Até a Próxima Vez	dub=2:155479,8:155479	leg=2:155478,8:155478
-Até a Última Gota	dub=2:325899,8:391695,8:325899	leg=2:325898,8:325898
+Até a Última Gota	dub=8:391695,2:325899,8:325899	leg=2:325898,8:325898
 Até as Últimas Consequências	dub=2:191473,8:191473
 Até as Últimas Consequências (1996)	dub=6:1306880
 Até o Céu (2020)	dub=6:1308679
@@ -5273,7 +5273,7 @@ Ausência de Malícia (1981)	dub=6:1309940	leg=6:1309941
 Authentic Games: No Império Desconectado	dub=8:390548	leg=8:390547
 Auto Focus (2002)	dub=6:1302216
 Autobiografia di una Borsetta	leg=2:343554,8:343554
-Autoconfiança	dub=2:281304,2:264112,8:281304,8:264112	leg=2:264113,8:264113
+Autoconfiança	dub=2:281304,8:281304,2:264112,8:264112	leg=2:264113,8:264113
 Autoconfiança (2024)	dub=6:1304150
 Autoescola Para Mulheres Sauditas	dub=2:31916,8:31916
 Autoescola para Mulheres Sauditas (2019)	dub=6:1308648
@@ -5287,16 +5287,16 @@ Avalon High	dub=8:393911	leg=8:393910
 Avante: Nos Bastidores de Deadpool & Wolverine	leg=2:295693,8:295693
 Avante: Nos Bastidores de Deadpool & Wolverine (2024)	leg=6:1312406
 Avante: Nos Bastidores de X-Men '97	leg=2:264144,8:264144
-Avassaladoras 2.0	dub=2:284542,2:284541,8:284542,8:284541
+Avassaladoras 2.0	dub=2:284542,8:284542,2:284541,8:284541
 Avassaladoras 2.0 (2024)	dub=6:1312042
-Avatar	dub=2:284619,2:284618,8:284619,8:284618	leg=2:284620,8:284620
+Avatar	dub=2:284619,8:284619,2:284618,8:284618	leg=2:284620,8:284620
 Avatar (2009)	dub=6:1297844
 Avatar 2 O Caminho da Água (2022)	dub=6:1301085	leg=6:1301067
-Avatar Aang: O Último Mestre do Ar	dub=8:388657,8:388525,8:388523	leg=8:388524
+Avatar Aang: O Último Mestre do Ar	dub=8:388657,8:388523,8:388525	leg=8:388524
 Avatar Aang: O Último Mestre do Ar (2026)	dub=6:1501258
 Avatar Fogo e Cinzas (2025)	dub=6:1314451	leg=6:1314431
-Avatar: Fogo e Cinzas	dub=2:378984,2:372717,2:372407,8:378984,8:372717,8:372407	leg=2:372112,8:372112
-Avatar: O Caminho da Água	dub=2:263779,2:192076,8:263779,8:192076	leg=2:263780,8:263780
+Avatar: Fogo e Cinzas	dub=2:378984,2:372717,8:378984,8:372717,2:372407,8:372407	leg=2:372112,8:372112
+Avatar: O Caminho da Água	dub=2:192076,8:192076,2:263779,8:263779	leg=2:263780,8:263780
 Ave Cesar (2016)	dub=6:1303418
 Avenged Sevenfold - Rock in Rio (2024)	dub=6:1312133
 Avenida	dub=2:347279,8:347279	leg=2:347278,8:347278
@@ -5310,11 +5310,11 @@ Aventura em Legacy Peak (2022)	dub=6:1302696
 Aventuras de Betty	dub=2:129564,8:129564	leg=2:129582,8:129582
 Aventuras de Betty (2020)	dub=6:1304214	leg=6:1304215
 Aventuras de um Paraíba	dub=2:378037,8:378037
-Aventuras nas Alturas	dub=2:380284,2:380282,2:380281,8:380284,8:380282,8:380281	leg=2:380283,8:380283
+Aventuras nas Alturas	dub=2:380282,2:380281,8:380282,8:380281,2:380284,8:380284	leg=2:380283,8:380283
 Aventuras nas Alturas (2026)	dub=6:1314607
 Aventuras no Fundo do Mar	dub=2:311922,2:42916,8:311922,8:42916	leg=2:311923,8:311923
 Aventuras no Paraíso	dub=2:344547,8:344547	leg=2:344546,8:344546
-Aves de Rapina: Arlequina e sua Emancipação Fantabulosa	dub=2:100005,2:41985,8:100005,8:41985
+Aves de Rapina: Arlequina e sua Emancipação Fantabulosa	dub=2:41985,8:41985,2:100005,8:100005
 Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)	dub=6:1313312	leg=6:1313311
 Avicii: Meu Nome é Tim	leg=2:302710,8:302710
 Avicii: Meu Nome é Tim (2024)	leg=6:1312754
@@ -5324,7 +5324,7 @@ Avioes 2: Herois do Fogo ao Resgate (2014)	dub=6:1300823
 Aviões	dub=2:318542,8:318542	leg=2:318543,8:318543
 Aviões 2: Heróis do Fogo ao Resgate	dub=2:317217,8:317217	leg=2:317218,8:317218
 Aviões do Forró - DVD Aviões 11 Anos (2013)	dub=6:1310286
-Awake	dub=2:189892,2:110242,8:189892,8:110242
+Awake	dub=2:189892,8:189892,2:110242,8:110242
 Awake (2021)	dub=6:1298487
 Awake: A Vida Por um Fio	dub=2:189310,8:189310
 Awake: A Vida Por um Fio (2007)	dub=6:1305582
@@ -5362,7 +5362,7 @@ ariana grande: excuse me, i love you (2020)	leg=6:1298306
 À Procura da Vingança	dub=2:103967,8:103967
 À Procura da Vingança (2007)	dub=6:1307148
 À Procura de Anne Frank	dub=2:347648,8:347648	leg=2:347647,8:347647
-À Procura de Harry: A Arte por Trás da Magia	dub=2:372951,2:372950,8:372951,8:372950	leg=2:373366,8:373366
+À Procura de Harry: A Arte por Trás da Magia	dub=2:372950,8:372950,2:372951,8:372951	leg=2:373366,8:373366
 À Prova de Balas 2 (2020)	leg=6:1308469
 À Prova de Morte	dub=2:337575,8:337575
 À Queima-Roupa (2019)	dub=6:1308158

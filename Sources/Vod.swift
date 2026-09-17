@@ -47,6 +47,29 @@ enum Vod {
 
     private static var bases: [String] = []
 
+    /// Endereço -> qualidade anunciada na lista de origem ("4k", "fhd", "hd"…).
+    ///
+    /// Vem de um arquivo à parte porque o formato das fatias não tem onde
+    /// guardar isso: cada fonte é só "base:resto", e pendurar a marca ali
+    /// quebraria as versões já instaladas. São três mil linhas, o que cabe
+    /// numa leitura só.
+    nonisolated(unsafe) private static var qualidades: [String: String] = [:]
+
+    /// A qualidade de uma fonte, quando a lista de origem anuncia alguma.
+    static func qualidade(de url: String) -> String? { qualidades[url] }
+
+    /// Ordem de preferência: 4K primeiro, e quem não anuncia nada no meio,
+    /// porque costuma ser 1080p — melhor que um "HD" declarado, que é 720p.
+    static func posicao(daQualidade q: String?) -> Int {
+        switch q {
+        case "4k", "uhd": return 0
+        case "fhd", "hdr": return 1
+        case "hd": return 3
+        case "sd": return 4
+        default: return 2
+        }
+    }
+
     /// Sobe quando o formato do catálogo muda.
     ///
     /// O cache é por arquivo e dura entre aberturas, então um catálogo gravado
@@ -80,8 +103,22 @@ enum Vod {
         if !encontradas.isEmpty {
             bases = encontradas
             conferirBases(encontradas)
+            await lerMarcas()
         }
         return out
+    }
+
+    /// Lê as marcas de qualidade. Depende das bases, então roda depois delas.
+    private static func lerMarcas() async {
+        guard qualidades.isEmpty, let texto = await arquivo("marcas.txt") else { return }
+        var lidas: [String: String] = [:]
+        for linha in texto.split(separator: "\n") {
+            let campos = linha.split(separator: "\t")
+            guard campos.count == 2 else { continue }
+            let endereco = montar(String(campos[0]))
+            if !endereco.isEmpty { lidas[endereco] = String(campos[1]) }
+        }
+        qualidades = lidas
     }
 
     /// O índice, sempre da rede quando ela responde.
