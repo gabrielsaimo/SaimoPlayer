@@ -1,9 +1,12 @@
+S X		0	7
 S.M.A.S.H. Acampamento de Super herois		0	13
 S.W.A.T.: Força de Intervenção		0	163
+SAF3		0	20
 SAKAMOTO DAYS		0	22
 SAND LAND A SERIE		0	26
 SANDA		0	12
 SAS Rogue Heroes		0	12
+SEAL Team: Soldados de Elite		0	224
 SEC Sabados de Futebol Americano Universitario		0	7
 SEVENTEEN OUR CHAPTER		0	4
 SHIBOYUGI Jogos Mortais para Colocar Comida na Mesa		0	5
@@ -11,7 +14,10 @@ SHIMONETA A Boring World Where the Concept of Dirty Jokes Doesnt Exist		0	12
 SHIROHIYO Reincarnated as a Neglected Noble Raising My Baby Brother With Memories From My Past Life		0	1
 SHY		0	47
 SI VIS The Sound of Heroes		0	24
+SIX Esquadrao Antiterrorista		0	18
 SK8 the Infinity		0	25
+SMILF		0	18
+SNL50: Além da Noite de Sábado		0	4
 SNOWBALL EARTH		0	11
 SOS Cachorrinhos		0	16
 SOS Restaurante		0	137
@@ -23,13 +29,16 @@ STEEL BALL RUN JoJos Bizarre Adventure		0	1
 STEVE documentario em 2 partes		0	2
 STM Seja Voce Mesma		0	15
 SU da Vida Selvagem		0	6
+SWAT		0	326
 Sabadou com Virginia		0	28
 Saber Marionette J		0	25
 Sabiiro no Armor Reimei		0	12
 Sabikui Bisco		0	12
 Sabor Caseiro com Antoni Porowski		0	6
+Sabores da America com Michael Symon		0	54
 Sabores da Fazenda com Molly		0	77
 Sabrina, a Aprendiz de Feiticeira		0	163
+Sacrificio de Sangue		0	5
 Safe		0	8
 Safe Harbor		0	8
 Sagrada Família		0	16
@@ -48,74 +57,81 @@ Sakli		0	10
 Sakugan		0	1
 Sala de Aula dos Heróis		0	20
 Sala de Emergencia Casos Bizarros		0	3
-Salem		0	36
+Salem		0	72
 Salish e Jordan Matter		0	7
 Sally: Fisiculturismo e Assassinato		0	3
 Salsicha e Scooby Atras das Pistas		0	26
 Salvador		0	8
 Salvando Reformas com Jasmine Roth		0	24
-Salvation		0	25
+Salvation		0	26
 Salve Jorge		0	181
 Salve Meu Restaurante!		0	10
 Salve-se Quem Puder		0	107
+Salvese Quem Puder		0	107
 Sam e Cat		0	36
 Sammys Childrens Day		0	9
 Samurai 7		0	26
-Samurai Jack		1	62
-Samurai Warriors		1	12
-Samurai X		1	95
-Samurai de Olhos Azuis		1	8
-Sanctuary A Witchs Tale		1	13
-Sanditon		1	20
-Sandokan		1	8
-Sandy & Junior: A História		1	7
-Sandy e Junior		1	174
-Sangue Azul		1	293
-Sangue Bom		1	160
-Sangue e Água		1	25
-Sansão e Dalila		1	18
-Santa Cecilia e Padre Lawrence		1	12
-Santa Clarita Diet		1	20
-Santa Evita		1	7
-Santiago dos Mares		1	20
-Santita		1	7
-Santo		1	6
-Santo Forte		1	13
-Santo Maldito		1	8
-Santos Dumont		1	5
-Santuário do Sumô		1	8
-Sara A Mulher nas Sombras		1	6
-Saramandaia		1	56
-Sasaki and Miyano		1	12
-Sasaki and Peeps		1	12
-Sasayaku You ni Koi wo Utau		1	12
-Sassaricando		1	185
-Saturdays: Pista de Patinação		1	14
-Saudade de Voce		1	14
-Scandal		1	123
-Scandal Love		1	10
-Scandal Os Bastidores do Poder		1	7
-Scarlet Heart		1	35
-Scarpetta: Médica Legista		1	8
-Scenes from a Marriage		1	5
-Schitt's Creek		1	66
-Schmigadoon!		1	12
-School Days		1	13
-School of Chocolate		1	8
-Schooled		1	34
-Scooby Doo Cade Voce		1	25
+Samurai Jack		0	62
+Samurai Warriors		0	12
+Samurai X		0	95
+Samurai de Olhos Azuis		0	8
+Sanctuary A Witchs Tale		0	13
+Sanditon		0	20
+Sandman		0	46
+Sandokan		0	8
+Sandy & Junior: A História		0	7
+Sandy e Junior		0	312
+Sandy e Junior: A História		0	7
+Sangue Azul		0	293
+Sangue Bom		0	160
+Sangue e Água		0	25
+Sansão e Dalila		0	18
+Santa Cecilia e Padre Lawrence		0	12
+Santa Clarita Diet		0	60
+Santa Evita		0	7
+Santiago dos Mares		0	20
+Santita		0	7
+Santo		0	6
+Santo Forte		0	13
+Santo Maldito		0	8
+Santos Dumont		0	5
+Santuário do Sumô		0	8
+Sara A Mulher nas Sombras		0	6
+Saramandaia		0	56
+Sasaki and Miyano		0	12
+Sasaki and Peeps		0	12
+Sasayaku You ni Koi wo Utau		0	12
+Sassaricando		0	185
+Saturdays: Pista de Patinação		0	14
+Saudade de Voce		0	14
+Scandal		0	123
+Scandal Love		0	10
+Scandal Os Bastidores do Poder		0	124
+Scarlet Heart		0	35
+Scarpetta Medica Legista		0	16
+Scenes from a Marriage		0	5
+Schitt's Creek		0	66
+Schitts Creek		0	79
+Schmigadoon!		0	12
+School Days		0	13
+School of Chocolate		0	8
+Schooled		0	34
+Scooby Doo Cade Voce		0	25
+Scooby Doo Misterio SA		0	52
 Scooby-Doo e Scooby-Loo		1	141
 Scooby-Doo! Mistério S/A		1	52
 Scooped Up by an S Rank Adventurer		1	12
+Scorpion		1	186
 Scorpion Servico de Inteligencia		1	94
 Scott Pilgrim A Serie		1	8
-Scream		1	10
-Scream Queens		1	22
+Scream		1	22
+Scream Queens		1	46
 Scripting Your Destiny		1	10
 Scrubs		1	33
 Scum of the Brave		1	21
 Se Avexe Nao		1	10
-Se Desejos Matassem...		1	8
+Se Desejos Matassem…		1	8
+Se E Terca Feira... E Assassinato		1	7
 Se Eu Soubesse		1	8
 Se Sobreviver, Case		1	80
 Se Vira Com Pouco A Batalha		1	6
@@ -123,511 +139,557 @@ Se a Vida Te Der Tangerinas		1	16
 Se as Flores Falassem		1	6
 Se eu fosse Luisa Sonza		1	3
 Se o Destino Quiser		1	40
-Se É Terça-Feira... É Assassinato		1	7
 Seal Team		1	206
 Sean Combs O Acerto de Contas		1	8
 Search Party		1	30
 Search WWW		1	16
 Second Chance		1	6
-Second Chance Romance		2	28
-Seconds		2	12
-Secret Service		2	5
-Secretos de Estado		2	13
-Secrets of the Hells Angels		2	8
-Secrets of the Silent Witch		2	14
-Section Zero		2	7
-Seducao Mortal		2	8
-Seduced: Inside the NXIVM Cult		2	4
-See		2	24
-See You Tomorrow at the Food Court		2	6
-See You in Another Life		2	4
-See Your Love		2	13
-Segredo da Harmonia		2	8
-Segredos Aereos da Segunda Guerra Mundial		2	6
-Segredos Sordidos Dean Corll e John Wayne Gacy		2	2
-Segredos da NASA		2	54
-Segredos da Playboy		2	20
-Segredos das Abelhas		2	2
-Segredos das Bases Nazistas		2	6
-Segredos das Mumias		2	4
-Segredos de Familia		2	7
-Segredos de Guerra		2	4
-Segredos do Arsenal de Espionagem		2	5
-Segredos do Fundo do Mar		2	49
-Segredos do Miss America		2	4
-Segredos dos Elefantes		2	4
-Segredos dos Pinguins		2	3
-Segredos dos Polvos		2	3
-Segredos e Crimes de Fred e Rose West		2	3
-Segredos e Crimes de Jimmy Savile		2	2
-Segredos em Sulphur Springs		2	27
-Segredos que Mudaram o Mundo		2	4
-Seguidores		2	9
-Segunda Chamada		2	16
-Segunda Chance no Amor		2	12
-Segunda Chance: Academia de Ginástica		2	10
-Segunda Guerra Mundial Com Tom Hanks		2	6
-Segunda Guerra em Cores: Caminho para a Vitória		2	10
-Segundas Intencoes		2	8
-Segundo Sol		2	155
-Segura a Onda		2	98
-Segurança em Jogo		2	6
-Seguro para Divorciados		2	12
-Seijo no Maryoku wa Bannou Desu		2	24
-Seiken Gakuin no Makentsukai		2	9
-Seinfeld		2	165
-Seirei Gensouki Spirit Chronicles		2	23
-Seis Manos		2	8
-Seis Nacoes Acesso Total		2	8
-Seis Nao E Demais		2	8
-Seis Zeros		2	8
-Seis irmaos Esquizofrenicos		2	4
-Seita Perigosa		2	3
-Seja Meu Anjo		2	7
-Seja Meu Superastro		2	12
-Seja Minha Princesa		2	30
-Seja Nosso Chef		2	11
-Seja Seu Cavaleiro		2	29
-Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru		2	12
-Selecao Artificial		2	4
-Selecao Final		2	8
-Selection Project		2	13
-Selena Restaurante		2	6
-Selena e Yolanda Os Segredos Entre Elas		2	2
-Selena: A Série		3	9
-Seleção Argentina: A Série - Rumo a Catar		3	6
-Self Portrait as a Coffee Pot		3	9
-Selling Tampa		3	8
-Selva de Pedra		3	159
-Selvagens por Natureza		3	6
-Sem Asas Para Voar		3	12
-Sem Atividade Italia		3	6
-Sem Bloqueio		3	5
-Sem Corte e Sem Censura		3	26
-Sem Dor Sem Ganho		3	7
-Sem Escapatoria		3	7
-Sem Filtro		3	10
-Sem Filtro: Flamengo		3	7
-Sem Freios		3	8
-Sem Limites		3	22
-Sem Limites com Chris Hemsworth		3	6
-Sem Maturidade Para Isso		3	8
-Sem Medo da Verdade		3	81
-Sem Misericordia		3	8
-Sem Piedade		3	14
-Sem Rastros		3	8
-Sem Salvação		3	6
-Sem Sangue		3	10
-Sem Saída		3	18
-Sem lar		3	4
-Semantic Error		3	8
-Semideuses e Semidemonios		3	50
-Sempre Bruxa		3	18
-Sempre Fui Eu		3	18
-Sempre Rir A Historia do Palhaco Mais Famoso do Mundo		3	2
-Sengoku Youko		3	35
-Senhor Aguia da Neve		3	40
-Senhor dos Céus		3	338
-Senhora Secretária		3	120
-Senhora do Destino		3	195
-Senna		3	6
-Senna por Ayrton		3	3
-Sense 8		3	25
-Sentenced to Be a Hero		3	12
-Sentença		3	6
-Sentouin, Hakenshimasu!		3	11
-Senzo: Murder of a Soccer Star		3	5
-Separacao		3	24
-Sequestro no Ar		3	15
-Sera Que Era o Amor		3	10
-Sereias		3	5
-Serendipidade		3	40
-Sereno: O Panda Zen		3	12
-Series | TV Quack Pack O Pato Donald e Seus Sobrinhos		3	39
-Servant		3	40
-Será Isso Amor?		3	161
-Sessão de Terapia		3	205
-Sete Mundos Um Planeta		3	7
-Sete Segundos		3	10
-Seton Academy Join the Pack		3	12
-Seu Amigao da Vizinhanca Homem Aranha		3	10
-Seu Homem		3	11
-Seus Amigos e Vizinhos		3	28
-Sex Appeal		3	19
-Sex Atracao Secreta		3	6
-Sex Education		3	32
-Sex and the City		3	94
-Sex/Life		3	14
-Sexify		4	16
-Sexo, Sangue & Realeza		4	3
-Sexta Feira 13 Assassinatos Reais		4	6
-Sexy Beast		4	8
-Señorita 89		4	14
-Shabake		4	13
-Shachou Battle no Jikan Desu		4	12
-Shades		4	6
-Shadow Love		4	38
-Shadowhunters: Instrumentos Mortais		4	55
-Shadows House		4	25
-Shadowverse Flame		4	77
-Shakespeare Ascensao de um Genio		4	3
-Shaking the Bar		4	10
-Shaman King		4	52
-Shaman King Flowers		4	25
-Shameless		4	132
-Shangri La Frontier		4	49
-Shantaram		4	12
-Shardlake		4	4
-Shark Academy Cancoes Para Criancas		4	25
-Shark Tank Brasil		4	128
-Shasha e Milo		4	13
-Shaun, o Carneiro		4	138
-She Would Never Know		4	16
-She the People		4	8
-She-Ra e as Princesas do Poder		4	52
-Sheriff Country		4	19
-Sherlock		4	13
-Sherlock e Daughter		4	8
-Sherwood		4	10
-Shetland		4	2
-Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru		4	12
-Shikkakumon no Saikyou Kenja		4	12
-Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita		4	25
-Shine or Go Crazy		4	24
-Shining Vale		4	8
-Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		4	12
-Shinobi no Ittoki		4	12
-Shippados		4	12
-Shironeko Project Zero Chronicle		4	12
-Shogun		4	3
-Shoot Goal to the Future		4	13
-Shooting Stars		4	16
-Shoujo Kakumei Utena		4	39
-Show Do Milhao		4	33
-Show da Virada		4	2
-Show do Elmo		4	29
-Show do Milhao PicPay		4	3
-Shting Stars		4	16
-Shurato		4	38
-Siberia		4	12
-Side Hustle: Uma Tarefa Complicada		4	46
-Side Quest		4	4
-Sierra Madre Passagem Proibida		4	9
-Sigmund e os Monstros Marinhos		4	7
-Signal		4	16
-Silence		4	6
-Silencio na Classe		4	3
-Silent Truth		4	9
-Silicon Valley		4	53
-Silly Sundays		4	78
-Silo		4	20
-Silvio Santos Vale Mais Que Dinheiro		4	8
-Silêncio		4	6
-Silêncio na Floresta		4	6
-Simba O Rei Leao		4	52
-Simon Cowell O Proximo Sucesso		4	6
-Simplesmente Alicia		5	19
-Sin City Tow		5	10
-Sin: Nanatsu no Taizai		5	96
-Sindrome do Amor		5	12
-Single Drunk Female		5	20
-Single Parents		5	6
-Sinhá Moça		5	184
-Sintonia		5	32
-Siren		5	36
-Sissi		5	12
-Sister Boniface Mysteries		5	10
-Sitiados Mexico		5	8
-Six		5	18
-Skate Leading Stars		5	12
-Sket Dance		5	77
-Skins - Juventude à flor da pele		5	61
-Skip Beat		5	25
-Skip and Loafer		5	12
-Sky Rojo		5	24
-Sky in Your Heart		5	8
-SkyMed		5	35
-Slam Dunk		5	101
-Slasher		5	24
-Sleepers O Crime Nunca Dorme		5	6
-Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita		5	14
-Slip		5	7
-Slow Horses		5	30
-Small Axe		5	5
-Smallville As Aventuras do Superboy		5	432
-Smartless: Na Estrada		5	6
-Smile After Tears		5	5
-Smile Precure		5	48
-Smile of the Arsnotoria the Animation		5	12
-Smiley		5	8
-Smiling Friends		5	27
-Smother		5	6
-Snack Basue		5	13
-Sneakerheads		5	6
-Sneaky Pete		5	30
-Snoopy Vai Acampar		5	13
-Snoopy e sua turma		5	12
-Snowdrop		5	16
-Snowfall		5	120
-So Acontece na Florida		5	12
-So Eu e Ela		5	7
-So Help Me Todd		5	30
-So You re Raising a Warrior		5	12
-So a Terra Permanece		5	12
-Sob Nova Direcao		5	125
-Sob O Mar		5	52
-Sob Pressao Plantao COVID		5	2
-Sob Pressão		5	57
-Sob a Escuridao do Sol		5	6
-Sob o Cair da Neve		5	24
-Sobe Na Minha Moto		5	15
-Sobre Essa Pele		5	17
-Sobre Juventude		5	8
-Sobre Nós Dois		5	20
-Sobre Viver		5	6
-Sobrepostas		5	13
-Sobrevivencia Extrema		5	8
-Sobrevivendo a Amazonia		5	5
-Sobrevivendo a Escobar		5	60
-Sobrevivendo a Jeffrey Epstein		6	4
-Sobrevivendo a Queda dos Black Hawks		6	3
-Sobrevivendo ao Paraiso		6	9
-Sobrevivendo as Tentacoes		6	14
-Sobrevivendo em Grande Estilo		6	16
-Sobrevivente Primitivo Os Andes		6	6
-Sobrevivente Primitivo com Hazen Audel		6	26
-Sobreviventes		6	8
-Sobreviventes do Gelo		6	19
-Sobreviventes: Na Selva		6	6
-Sobrevivi por Sorte		6	14
-Sobrevoando		6	8
-Sociedade da Virtude: A Série		6	10
-Sociedade do Cansaço		6	10
-Soco no Estômago		6	4
-Socorro Imediato		6	15
-Sol de Verao		6	8
-Sol do Mestre		6	17
-Solar Opposites		6	71
-Solo Camping for Two		6	50
-Solo Leveling		6	51
-Solos		6	7
-Solte o Ar Bem Devagar		6	12
-Solteira Astuta		6	16
-Solteiros Nunca Mais		6	10
-Solteiros, Ilhados e Desesperados		6	53
-Soltos		6	41
-Som na Faixa		6	6
-Sombra do Ceu		6	26
-Sombra e Ossos		6	16
-Sombras da Guerra		6	8
-Sombras do Passado		6	88
-Somebody		6	8
-Somebody Feed Phil		6	49
-Somente VIP		6	10
-Something In The Rain		6	16
-Somewhere Between		6	6
-Somos os Que Tiveram Sorte		6	13
-Son of Zorn		6	13
-Son of a Donkey		6	6
-Sonata de Inverno		6	20
-Song of the Bandits		6	9
-Sonhadores		6	8
-Sonhando Com Um Maldito Conto De Fadas		6	10
-Sonhe Alto		6	16
-Sonho Dos Anos Dourados		6	42
-Sonho Meu		6	197
-Sonhos de Concreto		6	12
-Sonhos de Liberdade		6	40
-Sonic Boom		6	104
-Sonic Prime		6	23
-Sono Bisque Doll wa Koi wo Suru		6	12
-Sons Of Anarchy		6	92
-Sons do Planeta		6	24
-Sophie: Assassinato em West Cork		6	3
-Sorriso Real		6	16
-Sorry Not Sorry		6	12
-Sortilégio		6	88
-Sou Corinthians		6	4
-Sou Luna		6	220
-Sou Seu Fa. A Festa Continua		6	8
-Sou de Virgem		6	7
-Sou um Assassino Em Liberdade		7	3
-Soul Eater		7	51
-Soul Land		7	265
-Soulmates		7	6
-Sound Euphonium		7	40
-Soundtrack #1		7	4
-South Park		7	347
-South Side		7	28
-Southland Cidade do Crime		7	86
-Sovrevivendo Em Grande Estilo		7	8
-Soy Georgina		7	18
-Sozinhos Habilidades de Sobrevivencia		7	12
-Space Force		7	17
-Space Ghost de Costa a Costa		7	89
-Space Nova: Uma Família Espacial		7	26
-Spare Me Your Mercy		7	8
-SparkShorts		7	11
-Spartacus		7	39
-Spartacus: House of Ashur		7	10
-Special		7	16
-Special Labor Inspector Mr Jo		7	32
-Spice and Wolf MERCHANT MEETS THE WISE WOLF		7	25
-Spicy Girl		7	24
-Spider-Noir		7	8
-Spides		7	8
-Spidey e Seus Amigos Espetaculares		7	103
-Spinners Vivendo no Limite		7	8
-Spinning Out		7	10
-Spirit Cavalgando Livre		7	45
-Splinter Cell Deathwatch		7	8
-Spooksville		7	22
-Spy City		7	6
-Spy x Family		7	37
-Squid Girl		7	24
-Sr Rainha		7	20
-Sr e Sra Assassinato		7	4
-Sr e Sra Smith		7	16
-Sr. Errado		7	43
-Sr. Meia-Noite: Cuidado com os Monstros		7	13
-Sra. Playmen		7	7
-Sra. Wilson		7	3
-St Denis Medical		7	47
-Stags		7	6
-Stalkeando Samantha 13 Anos de Terror		7	3
-Stan Against Evil		7	23
-Stand My Heroes Piece of Truth		7	12
-Star Detective Precure		7	17
-Star Search		7	15
-Star Trek: Academia da Frota Estelar		7	10
-Star Trek: Discovery		7	62
-Star Trek: Prodigy		7	38
-Star Trek: Strange New Worlds		7	30
-Star Wars Andor		7	48
-Star Wars Historias do Imperio		7	6
-Star Wars Historias do Submundo		7	6
-Star Wars Skeleton Crew		7	8
-Star Wars: A Guerra dos Clones		7	133
-Star Wars: Aventuras dos Jovens Jedi		7	43
-Star Wars: Ewoks		7	26
-Star Wars: Histórias dos Jedi		7	6
-Star Wars: Maul - Lorde das Sombras		7	10
-Star Wars: Rebels		7	72
-Star Wars: The Bad Batch		7	47
-Star Wars: Visions		8	9
-Star and Sky Star in My Mind		8	8
-Star vs. As Forças do Mal		8	77
-Stardust Telepath		8	12
-Stargate Atlantis		8	99
-Stargate Infinity		8	26
-Stargate SG-1		8	213
-Stargate Universe		8	20
-Stargirl		8	65
-Starstruck		8	18
-StartUp		8	30
-Stay With Me		8	24
-Stella Models		8	10
-Steven Universo		8	178
-Stick		8	10
-StoryBots: Hora da Resposta		8	22
-Strange Angel		8	10
-Stranger		8	32
-Stranger Things		8	84
-Stranger Things: Histórias de 85		8	10
-Strawberry Panic		8	12
-Street Fighter II Victory		8	29
-Street Food: América Latina		8	6
-Street Food: Ásia		8	9
-Strike		8	23
-Strike Back		8	145
-Strip Law		8	10
-Strong Girl Nam soon		8	16
-StuGo Acampamento de Verao		8	20
-Studio Apartment Good Lighting Angel Included		8	12
-Study Group		8	10
-Stumptown: Investigadora Sem Limite		8	18
-Styx		8	8
-Su Ji and U Ri		8	128
-Suave Veneno		8	209
-Submarinos Perdidos da Segunda Guerra		8	3
-Submersa: O Desaparecimento de Kim Wall		8	2
-Submersos		8	5
-Submundo das Gangues		8	12
-Submundo do Crime		8	6
-Subteran		8	6
-Suburra Eterna		8	8
-Suburra: Sangue em Roma		8	24
-Succession		8	39
-Sugar		8	8
-Sugar Apple Fairy Tale		8	18
-Sugar Rush		8	20
-Sugar Rush: The Baking Point		8	11
-Sugar Sugar Rune		8	49
-Suite Magnolia		8	8
-Suits		8	268
-Suits LA		8	26
-Sullivans Crossing Um Lugar para Recomecar		8	20
-Summer Guys		8	10
-Summer Memories		8	40
-Summer Pockets		8	26
-Sunderland Até Morrer		8	8
-Sunny		9	10
-Sunny entre Estrelas		9	47
-Sunset Milha de Ouro		9	90
-Supa Strikas Rookie Season		9	12
-Supacell		9	6
-Super Campeoes		9	46
-Super Campeoes Road To	2002	9	52
-Super Choque		9	52
-Super Crooks		9	13
-Super Cubo		9	24
-Super Dragon Ball Heroes		9	45
-Super Fofos Aventura na Cidade		9	13
-Super Heroinas da Equipe 4		9	16
-Super Mega Cakes		9	6
-Super Natural		9	6
-Super Onze Ares No Tenbin		9	26
-Super Pumped: A Guerra Pela Uber		9	7
-Super Ricos na Coreia		9	6
-Superbook		9	39
-Supercães		9	9
-Superfície		9	16
-Supergirl		9	126
-Supermachos		9	6
-Superman e Lois		9	53
-Superman: A Série Animada		9	54
-Supermansion		9	46
-Supermax		9	12
-Supermães		9	83
-Supernatural		9	656
-Supernatural Academy		9	16
-Supernormal		9	6
-Supernova		9	4
-Superpoderosos: A História da DC		9	3
-Supersex		9	7
-Superstar		9	6
-Superstore: Uma Loja de Inconveniências		9	113
-Supervalentes		9	6
-Superzoo		9	12
-Suplicium		9	6
-SurrealEstate		9	30
-Survive		9	12
-Surviving the Jehovahs Witnesses		9	3
-Survivor's Remorse		9	36
-Suspicion		9	8
-Sutura A Vida por um Fio		9	8
-Suzhal Vortice		9	8
-Swagger		9	18
-Sweet Home		9	26
-Sweet Tooth		9	24
-Sweetpea		9	9
-Swimming with Sharks		9	6
-Sword Art Online		9	49
-Sword of the Demon Hunter Kijin Gentosho		9	24
-Synanon Reabilitacao e Culto		9	4
-Synduality: Noir		9	24
-SÓ VOCÊ: Uma Coleção de Curtas de Animação		9	8
-Série Saúde		9	9
-Sítio do Picapau Amarelo		9	46
-Só Se For Por Amor		9	6
-Só para Membros: Palm Beach		9	8
+Second Chance Romance		1	28
+Seconds		1	12
+Secret Service		1	5
+Secretos de Estado		1	13
+Secrets of the Hells Angels		1	8
+Secrets of the Silent Witch		1	14
+Section Zero		1	7
+Seducao Mortal		1	8
+Seduced: Inside the NXIVM Cult		1	4
+See		1	48
+See You Tomorrow at the Food Court		1	6
+See You in Another Life		1	4
+See Your Love		1	13
+Segredo Entre Amigas		1	6
+Segredo da Harmonia		1	8
+Segredos Aereos da Segunda Guerra Mundial		1	6
+Segredos Sordidos Dean Corll e John Wayne Gacy		1	2
+Segredos da NASA		1	54
+Segredos da Playboy		1	20
+Segredos das Abelhas		1	2
+Segredos das Bases Nazistas		1	6
+Segredos das Mumias		1	4
+Segredos de Estado		1	13
+Segredos de Familia		1	7
+Segredos de Guerra		1	4
+Segredos do Arsenal de Espionagem		1	5
+Segredos do Fundo do Mar		1	49
+Segredos do Miss America		1	4
+Segredos dos Elefantes		1	4
+Segredos dos Pinguins		1	3
+Segredos dos Polvos		1	3
+Segredos e Crimes de Fred e Rose West		1	3
+Segredos e Crimes de Jimmy Savile		1	2
+Segredos e Mentiras		1	20
+Segredos em Sulphur Springs		1	27
+Segredos que Mudaram o Mundo		1	4
+Seguidores		1	9
+Segunda Chamada		1	17
+Segunda Chance no Amor		1	12
+Segunda Chance: Academia de Ginástica		1	10
+Segunda Guerra Mundial Com Tom Hanks		1	6
+Segunda Guerra em Cores: Caminho para a Vitória		1	10
+Segundas Intencoes		1	16
+Segundo Sol		1	155
+Segura Essa Pose		1	7
+Segura a Onda		1	119
+Segurança em Jogo		1	6
+Seguro para Divorciados		1	12
+Seijo no Maryoku wa Bannou Desu		1	24
+Seiken Gakuin no Makentsukai		1	9
+Seinfeld		1	165
+Seirei Gensouki Spirit Chronicles		1	23
+Seis Manos		1	8
+Seis Nacoes Acesso Total		1	8
+Seis Nao E Demais		1	8
+Seis Punhos		1	8
+Seis Zeros		1	8
+Seis irmaos Esquizofrenicos		1	4
+Seisen Cerberus		1	13
+Seita Perigosa		1	3
+Seja Meu Anjo		1	7
+Seja Meu Superastro		1	12
+Seja Minha Princesa		1	30
+Seja Nosso Chef		1	11
+Seja Seu Cavaleiro		1	29
+Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru		1	12
+Selecao Artificial		1	4
+Selecao Final		1	8
+Selection Project		1	13
+Selena + Chef		1	39
+Selena Restaurante		1	6
+Selena e Yolanda Os Segredos Entre Elas		1	2
+Selena: A Série		1	9
+Seleção Argentina: A Série - Rumo a Catar		1	6
+Self Portrait as a Coffee Pot		1	9
+Selling Tampa		1	8
+Selva de Pedra		1	160
+Selvagens por Natureza		1	6
+Sem Asas Para Voar		1	12
+Sem Atividade Italia		1	6
+Sem Bloqueio		1	5
+Sem Corte e Sem Censura		1	26
+Sem Dor Sem Ganho		1	7
+Sem Escapatoria		1	14
+Sem Filtro		1	10
+Sem Filtro: Flamengo		1	7
+Sem Freios		1	8
+Sem Limites		1	22
+Sem Limites com Chris Hemsworth		1	6
+Sem Maturidade Para Isso		1	8
+Sem Medo da Verdade		1	81
+Sem Misericordia		1	8
+Sem Piedade		1	14
+Sem Rastros		1	8
+Sem Salvacao		2	6
+Sem Sangue		2	10
+Sem Saída		2	18
+Sem lar		2	4
+Semantic Error		2	8
+Semideuses e Semidemonios		2	50
+Sempre Bruxa		2	18
+Sempre Fui Eu		2	18
+Sempre Rir A Historia do Palhaco Mais Famoso do Mundo		2	2
+Sempre Verao nos Hamptons		2	8
+Senegal - A fé primitiva		2	4
+Sengoku Youko		2	35
+Senhor Aguia da Neve		2	40
+Senhor dos Céus		2	338
+Senhora Secretária		2	120
+Senhora do Destino		2	221
+Senna		2	6
+Senna por Ayrton		2	3
+Sense 8		2	25
+Sense8		2	48
+Sentenced to Be a Hero		2	12
+Sentença		2	6
+Sentouin, Hakenshimasu!		2	11
+Senzo: Murder of a Soccer Star		2	5
+Separacao		2	24
+Sequestro no Ar		2	15
+Sera Que Era o Amor		2	10
+Sereias		2	10
+Serendipidade		2	40
+Sereno: O Panda Zen		2	12
+Series | TV Quack Pack O Pato Donald e Seus Sobrinhos		2	39
+Servant		2	80
+Servico Secreto		2	24
+Será Isso Amor?		2	161
+Sessão de Terapia		2	205
+Sete Mundos Um Planeta		2	7
+Sete Pecados		2	208
+Sete Segundos		2	10
+Sete Vidas		2	106
+Seton Academy Join the Pack		2	12
+Seu Amigao da Vizinhanca Homem Aranha		2	10
+Seu Homem		2	11
+Seus Amigos e Vizinhos		2	38
+Seus Olhos		2	147
+Sex Appeal		2	20
+Sex Atracao Secreta		2	6
+Sex Education		2	64
+Sex and the City		2	94
+Sex/Life		2	14
+Sexify		2	16
+Sexo, Sangue & Realeza		2	3
+Sexta Feira 13 Assassinatos Reais		2	12
+Sexy Beast		2	16
+Señorita 89		2	32
+Shabake		2	13
+Shachou Battle no Jikan Desu		2	12
+Shades		2	6
+Shadow Beauty		2	13
+Shadow Love		2	38
+Shadowhunters: Instrumentos Mortais		2	55
+Shadows House		2	25
+Shadowverse Flame		2	77
+Shakespeare Ascensao de um Genio		2	3
+Shaking the Bar		2	10
+Shaman King		2	52
+Shaman King Flowers		2	25
+Shameless		2	134
+Shangri La Frontier		2	49
+Shantaram		2	12
+Shardlake		2	4
+Shark Academy Cancoes Para Criancas		2	25
+Shark Tank Brasil		2	128
+Shark Tank Brasil: Negociando com Tubaroes		2	99
+Shasha e Milo		2	13
+Shaun, o Carneiro		2	138
+She Would Never Know		2	16
+She the People		2	8
+She-Ra e as Princesas do Poder		2	52
+Sheriff Country		2	39
+Sherlock		2	13
+Sherlock e Daughter		2	8
+Sherwood		2	10
+Shetland		2	2
+Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru		2	12
+Shikkakumon no Saikyou Kenja		2	12
+Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita		2	25
+Shine or Go Crazy		2	24
+Shining Vale		2	8
+Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		2	12
+Shinobi no Ittoki		2	12
+Shippados		2	12
+Shironeko Project Zero Chronicle		2	12
+Shogun		2	3
+Shoot Goal to the Future		2	13
+Shooting Stars		2	16
+Shoujo Kakumei Utena		2	39
+Shoumetsu Toshi		2	12
+Show Do Milhao		2	33
+Show da Virada		2	2
+Show do Elmo		2	29
+Show do Milhao PicPay		2	3
+Shting Stars		2	16
+Shurato		2	38
+Siberia		2	12
+Side Hustle: Uma Tarefa Complicada		2	46
+Side Quest		2	8
+Sierra Madre Passagem Proibida		2	9
+Sigmund e os Monstros Marinhos		2	7
+Signal		2	16
+Sila: Prisioneira do Amor		2	158
+Silence		2	6
+Silencio na Classe		2	3
+Silent Truth		2	9
+Silicon Valley		2	106
+Silly Sundays		2	78
+Silo		2	60
+Silvio Santos Vale Mais Que Dinheiro		2	8
+Silêncio		2	6
+Silêncio na Floresta		2	6
+Simba O Rei Leao		2	52
+Simon Cowell O Proximo Sucesso		3	6
+Simplesmente Alicia		3	19
+Sin City Tow		3	10
+Sin: Nanatsu no Taizai		3	96
+Sindrome do Amor		3	12
+Single Drunk Female		3	20
+Single Parents		3	6
+Sinhá Moça		3	185
+Sintonia		3	32
+Siren		3	36
+Siren: A Lenda das Sereias		3	36
+Sissi		3	12
+Sistas		3	69
+Sister Boniface Mysteries		3	10
+Sitiados		3	8
+Sitiados Mexico		3	8
+Six		3	18
+Skate Leading Stars		3	12
+Sket Dance		3	77
+Skins - Juventude à flor da pele		3	61
+Skip Beat		3	25
+Skip and Loafer		3	12
+Sky Rojo		3	24
+Sky in Your Heart		3	8
+SkyMed		3	70
+Skylines		3	6
+Slam Dunk		3	101
+Slasher		3	24
+Sleepers O Crime Nunca Dorme		3	6
+Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita		3	14
+Slip		3	7
+Slow Horses		3	60
+Small Axe		3	5
+Smallville As Aventuras do Superboy		3	432
+Smartless: Na Estrada		3	6
+Smile After Tears		3	5
+Smile Precure		3	48
+Smile of the Arsnotoria the Animation		3	12
+Smiley		3	8
+Smiling Friends		3	27
+Smother		3	6
+Snack Basue		3	13
+Sneakerheads		3	6
+Sneaky Pete		3	30
+Snoopy Vai Acampar		3	13
+Snoopy e sua turma		3	12
+Snowdrop		3	16
+Snowfall		3	120
+So Acontece na Florida		3	12
+So Eu e Ela		3	7
+So Help Me Todd		3	30
+So You re Raising a Warrior		3	12
+So a Terra Permanece		3	12
+So para Membros Palm Beach		3	8
+Sob Medida		3	78
+Sob Nova Direcao		3	125
+Sob O Mar		3	52
+Sob Pressao Plantao COVID		3	2
+Sob Pressão		3	57
+Sob a Escuridao do Sol		3	6
+Sob o Cair da Neve		3	24
+Sobe Na Minha Moto		3	15
+Sobre Essa Pele		3	17
+Sobre Juventude		3	8
+Sobre Nós Dois		3	20
+Sobre Viver		3	6
+Sobrenatural		3	654
+Sobrepostas		3	13
+Sobrevivencia Extrema		3	8
+Sobrevivendo a Amazonia		3	5
+Sobrevivendo a Escobar		3	60
+Sobrevivendo a Jeffrey Epstein		3	4
+Sobrevivendo a Queda dos Black Hawks		3	3
+Sobrevivendo ao Paraiso		3	9
+Sobrevivendo as Tentacoes		3	14
+Sobrevivendo em Grande Estilo		3	16
+Sobrevivente Primitivo Os Andes		3	6
+Sobrevivente Primitivo com Hazen Audel		3	26
+Sobreviventes		3	8
+Sobreviventes Na Selva		3	6
+Sobreviventes do Gelo		3	19
+Sobrevivi por Sorte		3	14
+Sobrevoando		3	8
+Sociedade da Virtude		3	12
+Sociedade da Virtude A Serie		3	10
+Sociedade do Cansaço		3	10
+Soco no Estômago		3	4
+Socorro Imediato		3	15
+Sol Nascente		3	175
+Sol de Verao		3	8
+Sol do Mestre		3	17
+Solar Opposites		3	71
+Solo Camping for Two		3	50
+Solo Leveling		3	64
+Solos		3	7
+Solte o Ar Bem Devagar		3	12
+Solteira Astuta		3	16
+Solteiros Nunca Mais		3	10
+Solteiros, Ilhados e Desesperados		3	53
+Soltos		3	41
+Som na Faixa		3	6
+Sombra do Ceu		3	26
+Sombra e Ossos		3	16
+Sombras da Guerra		3	8
+Sombras do Passado		3	88
+Somebody		3	8
+Somebody Feed Phil		3	49
+Somente VIP		3	10
+Something In The Rain		3	16
+Somewhere Between		3	10
+Somos os Que Tiveram Sorte		3	16
+Son of Zorn		3	13
+Son of a Donkey		3	6
+Sonata de Inverno		3	20
+Song of the Bandits		3	9
+Sonhadores		3	8
+Sonhando Com Um Maldito Conto De Fadas		3	10
+Sonhe Alto		3	16
+Sonho Dos Anos Dourados		3	42
+Sonho Meu		3	197
+Sonhos de Concreto		4	12
+Sonhos de Liberdade		4	40
+Sonic Boom		4	104
+Sonic Prime		4	23
+Sono Bisque Doll wa Koi wo Suru		4	12
+Sons Of Anarchy		4	92
+Sons do Planeta		4	24
+Sophie: Assassinato em West Cork		4	3
+Sorriso Real		4	16
+Sorry Not Sorry		4	12
+Sortilégio		4	88
+Sou Corinthians		4	4
+Sou Luna		4	220
+Sou Seu Fa. A Festa Continua		4	8
+Sou de Virgem		4	7
+Sou um Assassino Em Liberdade		4	3
+Soul Eater		4	51
+Soul Land		4	265
+Soulmates		4	12
+Sound Euphonium		4	40
+Soundtrack #1		4	4
+South Park		4	348
+South Side		4	28
+Southland Cidade do Crime		4	86
+Sovrevivendo Em Grande Estilo		4	8
+Soy Georgina		4	18
+Sozinhos		4	14
+Sozinhos Habilidades de Sobrevivencia		4	12
+Space Force		4	27
+Space Ghost de Costa a Costa		4	89
+Space Nova: Uma Família Espacial		4	26
+Spare Me Your Mercy		4	8
+SparkShorts		4	11
+Spartacus		4	39
+Spartacus House of Ashur		4	20
+Spawn - O Soldado Do Inferno		4	18
+Special		4	16
+Special Labor Inspector Mr Jo		4	32
+Spectros		4	7
+Spice and Wolf MERCHANT MEETS THE WISE WOLF		4	25
+Spicy Girl		4	24
+Spider Noir		4	16
+Spides		4	8
+Spidey e Seus Amigos Espetaculares		4	103
+Spinners Vivendo no Limite		4	8
+Spinning Out		4	10
+Spirit Cavalgando Livre		4	52
+Splinter Cell Deathwatch		4	8
+Spooksville		4	22
+Spy City		4	6
+Spy x Family		4	74
+Spyders		4	80
+Squid Girl		4	24
+Sr Mercedes		4	30
+Sr Rainha		4	20
+Sr e Sra Assassinato		4	4
+Sr e Sra Smith		4	16
+Sr. Errado		4	43
+Sr. Meia-Noite: Cuidado com os Monstros		4	13
+Sra Playmen		4	7
+Sra. Wilson		4	3
+St Denis Medical		4	65
+Stags		4	6
+Stalkeando Samantha 13 Anos de Terror		4	3
+Stan Against Evil		4	24
+Stand My Heroes Piece of Truth		4	12
+Star Detective Precure		4	17
+Star Search		4	15
+Star Trek A Nova Geracao		4	173
+Star Trek Academia da Frota Estelar		4	10
+Star Trek Deep Space Nine		4	176
+Star Trek Picard		4	60
+Star Trek: Discovery		4	122
+Star Trek: Enterprise		4	98
+Star Trek: Lower Decks		4	50
+Star Trek: Prodigy		4	38
+Star Trek: Strange New Worlds		4	76
+Star Wars Andor		4	48
+Star Wars Historias do Imperio		4	6
+Star Wars Historias do Submundo		4	6
+Star Wars Maul Lorde das Sombras		4	20
+Star Wars Skeleton Crew		4	16
+Star Wars: A Guerra dos Clones		4	133
+Star Wars: Aventuras dos Jovens Jedi		4	43
+Star Wars: Ewoks		4	26
+Star Wars: Histórias dos Jedi		4	6
+Star Wars: Rebels		4	73
+Star Wars: The Bad Batch		4	47
+Star Wars: Visions		4	9
+Star and Sky Star in My Mind		4	8
+Star vs. As Forças do Mal		4	77
+Stardust Telepath		4	12
+Stargate Atlantis		4	100
+Stargate Infinity		4	26
+Stargate SG-1		4	213
+Stargate SG1		4	213
+Stargate Universe		4	20
+Stargirl		4	78
+Starstruck		4	18
+StartUp		4	30
+Stay With Me		4	24
+Stella Blomkvist Investigacao Sem Limites		4	12
+Stella Models		4	10
+Steven Universo		4	178
+Steven Universo: Futuro		4	20
+Stick		4	20
+StoryBots: Hora da Resposta		4	22
+Strange Angel		4	27
+Stranger		4	32
+Stranger Things		4	84
+Stranger Things Historias de 85		4	20
+Strawberry Panic		4	12
+Street Fighter II Victory		4	29
+Street Food: América Latina		4	6
+Street Food: Ásia		4	9
+Strike		4	23
+Strike Back		4	145
+Strip Law		4	10
+Strong Girl Nam soon		4	16
+StuGo Acampamento de Verao		4	20
+Stuart Nao Consegue Salvar o Universo		5	12
+Studio Apartment Good Lighting Angel Included		5	12
+Study Group		5	10
+Stumptown: Investigadora Sem Limite		5	18
+Styx		5	8
+Su Ji and U Ri		5	128
+Sua Mãe Te Conhece?		5	8
+Suave Veneno		5	209
+Submarinos Perdidos da Segunda Guerra		5	3
+Submersa: O Desaparecimento de Kim Wall		5	2
+Submersos		5	5
+Submundo das Gangues		5	12
+Submundo do Crime		5	12
+Subteran		5	6
+Suburra Eterna		5	8
+Suburra: Sangue em Roma		5	24
+Succession		5	78
+Sugar		5	16
+Sugar Apple Fairy Tale		5	18
+Sugar Rush		5	20
+Sugar Rush: The Baking Point		5	11
+Sugar Sugar Rune		5	49
+Suite Magnolia		5	8
+Suits		5	268
+Suits LA		5	26
+Sullivan e Massadas: Retratos e Canções		5	5
+Sullivans Crossing Um Lugar para Recomecar		5	30
+Summer Guys		5	10
+Summer Memories		5	40
+Summer Pockets		5	26
+Sunderland Até Morrer		5	8
+Sunny		5	20
+Sunny entre Estrelas		5	47
+Sunset Milha de Ouro		5	90
+Supa Strikas Rookie Season		5	12
+Supacell		5	12
+Super Campeoes		5	46
+Super Campeoes Road To	2002	5	52
+Super Campeoes: Rumo ao Sonho		5	52
+Super Choque		5	54
+Super Crooks		5	13
+Super Cubo		5	24
+Super Dragon Ball Heroes		5	45
+Super Fofos Aventura na Cidade		5	13
+Super Heroinas da Equipe 4		5	16
+Super Mega Cakes		5	6
+Super Natural		5	6
+Super Onze Ares No Tenbin		5	26
+Super Pumped: A Guerra Pela Uber		5	7
+Super Ricos na Coreia		5	6
+Superbook		5	39
+Supercães		5	9
+Superfície		5	29
+Supergirl		5	126
+Supermachos		5	6
+Superman e Lois		5	105
+Superman: A Série Animada		5	54
+Supermansion		5	46
+Supermax		5	12
+Supermax - Internacional		5	10
+Supermães		5	83
+Supernatural		5	656
+Supernatural Academy		5	16
+Supernormal		5	6
+Supernova		5	4
+Superpoderosos: A História da DC		5	3
+Supersex		5	7
+Superstar		5	6
+Superstore: Uma Loja de Inconveniências		5	113
+Supervalentes		5	6
+Superzoo		5	12
+Suplicium		5	6
+SurrealEstate		5	50
+Survive		5	12
+Surviving the Jehovahs Witnesses		5	3
+Survivor's Remorse		5	36
+Survivors Remorse		5	26
+Suspicion		5	8
+Sutura		5	8
+Sutura A Vida por um Fio		5	8
+Suzhal Vortice		5	8
+Swagger		5	18
+Sweet Home		5	26
+Sweet Reincarnation		5	12
+Sweet Tooth		5	48
+Sweetpea		5	12
+Swimming with Sharks		5	6
+Sword Art Online		5	49
+Sword of the Demon Hunter Kijin Gentosho		5	24
+Synanon Reabilitacao e Culto		5	4
+Synduality: Noir		5	24
+SÓ VOCÊ: Uma Coleção de Curtas de Animação		5	8
+Série Saúde		5	9
+Sítio do Picapau Amarelo		5	46
+Só Se For Por Amor		5	6

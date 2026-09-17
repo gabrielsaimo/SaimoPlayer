@@ -4,30 +4,32 @@ base: 2 http://tjtor8411.com:80/movie/Osiel123/Felicidade321/
 base: 3 http://tjtor8411.com:80/series/Osiel123/Felicidade321/
 base: 4 http://desativado.invalid/hubby.cx/movie/Pdsrv-vods/726216683528qroqv/
 base: 5 http://desativado.invalid/hubby.cx/series/Pdsrv-vods/726216683528qroqv/
-#	259	95	0
-A	2644	1086	0
-B	632	377	0
-C	1072	634	0
-D	826	460	0
-E	700	262	0
-F	577	259	0
-G	321	230	0
-H	340	239	0
-I	320	187	0
-J	327	131	0
-K	134	120	0
-L	445	255	0
-M	1080	622	0
-N	502	222	0
-O	2534	790	0
-P	866	397	0
-Q	191	81	0
-R	505	300	0
-S	985	633	0
-T	939	694	0
-U	810	165	0
-V	361	177	0
-W	111	101	0
-X	16	12	0
-Y	28	58	0
-Z	61	25	0
+base: 6 http://proxy.nr3.xyz:80/movie/daniellytvc/danielly2396/
+base: 7 http://proxy.nr3.xyz:80/series/daniellytvc/danielly2396/
+#	481	112	0
+A	5099	1210	0
+B	1153	459	0
+C	2016	721	0
+D	1534	548	0
+E	1331	306	0
+F	978	303	0
+G	594	278	0
+H	621	277	0
+I	582	204	0
+J	593	146	0
+K	227	129	0
+L	825	290	0
+M	2024	687	0
+N	935	242	0
+O	4702	870	0
+P	1618	438	0
+Q	344	86	0
+R	920	313	0
+S	1803	695	0
+T	1632	787	0
+U	1457	176	0
+V	672	199	0
+W	183	114	0
+X	36	15	0
+Y	50	64	0
+Z	110	30	0
