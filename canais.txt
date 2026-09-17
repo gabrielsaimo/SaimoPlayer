@@ -77,10 +77,6 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1101.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/premiere.png" group-title="PREMIERE",PREMIERE CLUBES (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.ts
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sony.png" group-title="FILMES E SÉRIES", SONY CHANNEL (CDN)
-https://cdn-sp2.satlabscloud.com.br/SONY_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
-#EXTINF:-1 tvg-id="SONY Movies" tvg-logo="https://www.tvlogo.org/brazil/sony-movies-br.png" group-title="FILMES E SÉRIES", SONY MOVIES (CDN)
-https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="sportv" tvg-logo="https://mondrian.claro.com.br/channels/inverse/sportv-3.png" group-title="SPORTV", SPORTV (ST)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/sportv-3.png" group-title="SPORTV", SPORTV2 (ST)
@@ -109,8 +105,6 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.ts
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1053.m3u8
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
-#EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (CDN)
-https://cdn-sp2.satlabscloud.com.br/WARNER_HD/tracks-v1a1/mono.ts.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="FILMES E SÉRIES", AMC (NOVA)
 https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=174&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481850-aQfTkNQAOqt0%2FDZ1N2fQuCIVuahnjtgve%2BB7F03qauI%3D
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="TELECINE", TELECINE CULT (NOVA)
