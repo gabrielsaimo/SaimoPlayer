@@ -2,32 +2,32 @@ base: 0 http://desativado.invalid/up.kiwi/movie/351921603109/34939156/
 base: 1 http://desativado.invalid/up.kiwi/series/351921603109/34939156/
 base: 2 http://tjtor8411.com:80/movie/Osiel123/Felicidade321/
 base: 3 http://tjtor8411.com:80/series/Osiel123/Felicidade321/
-base: 4 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/
-base: 5 http://hubby.cx:80/series/Pdsrv-vods/726216683528qroqv/
-#	264	98	0
-A	2672	1123	17
-B	638	386	235
-C	1080	646	12
-D	836	472	379
-E	708	271	2
-F	581	268	0
-G	326	238	3
-H	347	245	1
-I	322	202	0
-J	328	134	10
-K	135	125	4
-L	448	264	7
-M	1093	643	6
-N	508	228	2
-O	2561	817	0
-P	876	408	4
-Q	191	83	0
-R	514	307	55
-S	996	657	30
-T	951	739	53
-U	816	174	0
-V	367	183	4
-W	112	102	1
-X	16	13	0
-Y	29	63	13
+base: 4 http://desativado.invalid/hubby.cx/movie/Pdsrv-vods/726216683528qroqv/
+base: 5 http://desativado.invalid/hubby.cx/series/Pdsrv-vods/726216683528qroqv/
+#	259	95	0
+A	2644	1086	0
+B	632	377	0
+C	1072	634	0
+D	826	460	0
+E	700	262	0
+F	577	259	0
+G	321	230	0
+H	340	239	0
+I	320	187	0
+J	327	131	0
+K	134	120	0
+L	445	255	0
+M	1080	622	0
+N	502	222	0
+O	2534	790	0
+P	866	397	0
+Q	191	81	0
+R	505	300	0
+S	985	633	0
+T	939	694	0
+U	810	165	0
+V	361	177	0
+W	111	101	0
+X	16	12	0
+Y	28	58	0
 Z	61	25	0

@@ -1,5 +1,5 @@
-U.S. Marshals - Os Federais	dub=2:89295,4:649454
-U311: Guerra em Alto Mar	dub=2:208337,4:644989	leg=2:208338
+U.S. Marshals - Os Federais	dub=2:89295
+U311: Guerra em Alto Mar	dub=2:208337	leg=2:208338
 UFC 311: Makhachev vs. Moicano	dub=2:311828
 UFC 312: Du Plessis vs. Strickland 2	dub=2:311829
 UFC 313: Pereira vs. Ankalaev	dub=2:315200
@@ -21,7 +21,7 @@ UFC 324 Sean OMalley vs Song Yadong	dub=2:364942
 UFC 324 Umar Nurmagomedov vs Deiveson Figueiredo	dub=2:364943
 UFC 324 Waldo Cortes-Acosta vs Derrick Lewis	dub=2:364944
 UFC 325 Volkanovski vs Lopes 2 (2026)	dub=2:365412
-UFC 326 Holloway vs Oliveira 2 (2026)	dub=2:369375,4:907183
+UFC 326 Holloway vs Oliveira 2 (2026)	dub=2:369375
 UFC 327 Prochazka vs Ulberg (2026)	dub=2:373800
 UFC Fight Night 248: Yan vs. Figueiredo	dub=2:311831,2:311830
 UFC Fight Night 249: Dern vs. Ribas 2	dub=2:311832
@@ -49,7 +49,7 @@ UFC Fight Night 271 Adesanya vs Pyfer (2026)	dub=2:372366
 UFC Fight Night 272 Moicano vs Duncan (2026)	dub=2:373363
 UFC Fight Night 275 Della Maddalena vs Prates (2026)	dub=2:377702
 UFC Fight Night 276 Allen vs Costa (2026)	dub=2:378995
-UFC Fight Night 278 Muhammad vs Bonfim (2026)	dub=2:381990,4:918446
+UFC Fight Night 278 Muhammad vs Bonfim (2026)	dub=2:381990
 UFC on ABC 8: Hill vs. Rountree Jr.	dub=2:330422,2:330421
 UFC on ESPN 63: Covington vs. Buckley	dub=2:311837,2:311836
 UFC on ESPN 64: Moreno vs. Erceg	dub=2:317093
@@ -61,756 +61,750 @@ UFC on ESPN 70: Lewis vs. Teixeira	dub=2:334863
 UFC on ESPN 71: Taira vs. Park	dub=2:338312
 UFC on ESPN 72: Dolidze vs. Hernandez	dub=2:339568
 UFC on ESPN 73: Royval vs. Kape	dub=2:357790
-UFO	dub=2:150720,4:668753	leg=2:150712
-UNTOLD: A Regata do Século	dub=2:171906,4:648062	leg=2:171908
-URI - Forças Especiais	dub=2:357612,4:896550	leg=2:357611
-Ufo - Estamos Sozinhos?	dub=2:327008,2:22576,4:654067,4:884899	leg=2:327007
+UFO	dub=2:150720	leg=2:150712
+UNTOLD: A Regata do Século	dub=2:171906	leg=2:171908
+URI - Forças Especiais	dub=2:357612	leg=2:357611
+Ufo - Estamos Sozinhos?	dub=2:327008,2:22576	leg=2:327007
 Ugly Benny	dub=2:366086
-UglyDolls	dub=2:28258,4:646535
-Ultimas Noticias de Yuba County	dub=2:102490,4:651133
-Ultraman R&B: O Filme - O Cristal da União	dub=2:64356,4:649508
-Ultraman Taiga: Clímax da Nova Geração	dub=2:363926,4:903657	leg=2:363925
-Ultraman: A Ascensão	dub=2:265419,4:645996	leg=2:265420
-Ultras	dub=2:41640,4:653844
-Ultravioleta	dub=2:345138,2:21367,4:646992	leg=2:345137
-Um Acordo de Natal: Salvando o Starlight	dub=2:183744,4:645056	leg=2:183743
-Um Agente Fora de Série	dub=2:101358,4:649170
-Um Agente na Corda Bamba	dub=2:282566,4:648351
+UglyDolls	dub=2:28258
+Ultimas Noticias de Yuba County	dub=2:102490
+Ultraman R&B: O Filme - O Cristal da União	dub=2:64356
+Ultraman Taiga: Clímax da Nova Geração	dub=2:363926	leg=2:363925
+Ultraman: A Ascensão	dub=2:265419	leg=2:265420
+Ultras	dub=2:41640
+Ultravioleta	dub=2:345138,2:21367	leg=2:345137
+Um Acordo de Natal: Salvando o Starlight	dub=2:183744	leg=2:183743
+Um Agente Fora de Série	dub=2:101358
+Um Agente na Corda Bamba	dub=2:282566
 Um Amigo Muito Especial	dub=2:370934	leg=2:370933
-Um Amor Após a Vida	dub=2:110848,4:646850
-Um Amor Assassino	dub=2:354281,4:901903
-Um Amor Feito de Neve	dub=2:294925,4:645295	leg=2:294926,4:670456
-Um Amor Inesperado	dub=2:329003,4:650900,4:885099	leg=2:329002
-Um Amor Necessário	dub=2:213943,4:650346	leg=2:213944
-Um Amor Real de Natal	dub=2:301997,4:677917	leg=2:301998,4:670186
-Um Amor Sublime	dub=2:358906,4:902616	leg=2:358905
-Um Amor Verdadeiro	dub=2:265323,4:645345	leg=2:265324
-Um Amor ao Acaso	dub=2:353674,4:901331	leg=2:353673
-Um Amor com Sabor de Natal	dub=2:355661,4:900500	leg=2:355660
-Um Amor de Conto de Fadas	dub=2:226992,4:645411
-Um Amor de Filhote	dub=2:42929,4:653819
-Um Amor de Mãe	dub=2:33557,4:651453
-Um Amor de Múmia	dub=2:313855,4:762872
-Um Amor de Natal	dub=2:354003,2:231311,4:652283,4:900585	leg=2:354002,2:231337
-Um Amor de Tesouro	dub=2:144065,4:645598
-Um Amor para Duas	dub=2:187582,4:645480	leg=2:187581
+Um Amor Após a Vida	dub=2:110848
+Um Amor Assassino	dub=2:354281
+Um Amor Feito de Neve	dub=2:294925	leg=2:294926
+Um Amor Inesperado	dub=2:329003	leg=2:329002
+Um Amor Necessário	dub=2:213943	leg=2:213944
+Um Amor Real de Natal	dub=2:301997	leg=2:301998
+Um Amor Sublime	dub=2:358906	leg=2:358905
+Um Amor Verdadeiro	dub=2:265323	leg=2:265324
+Um Amor ao Acaso	dub=2:353674	leg=2:353673
+Um Amor com Sabor de Natal	dub=2:355661	leg=2:355660
+Um Amor de Conto de Fadas	dub=2:226992
+Um Amor de Filhote	dub=2:42929
+Um Amor de Mãe	dub=2:33557
+Um Amor de Múmia	dub=2:313855
+Um Amor de Natal	dub=2:354003,2:231311	leg=2:354002,2:231337
+Um Amor de Tesouro	dub=2:144065
+Um Amor para Duas	dub=2:187582	leg=2:187581
 Um Amor para Sempre	leg=2:247962
-Um Amor à Altura	dub=2:285116,4:645323
-Um Amor, Mil Casamentos	dub=2:43820,4:645717
-Um Anjo em Minha Vida	dub=2:134101,2:75056,4:646824,4:653682
-Um Anjo em Nossas Vidas	dub=2:133046,4:653150	leg=2:133038
-Um Ano Inesquecível - Inverno	dub=2:198683,4:644340
-Um Ano Inesquecível - Primavera	dub=2:199675,4:644337
-Um Ano Inesquecível: Outuno	dub=2:197635,4:644341
-Um Ano Inesquecível: Verão 4K	dub=2:198180,2:196787,4:644343
-Um Ano do Cão	dub=2:131039,4:650877
-Um Asilo Fora do Comum	dub=2:189313,4:650461
+Um Amor à Altura	dub=2:285116
+Um Amor, Mil Casamentos	dub=2:43820
+Um Anjo em Minha Vida	dub=2:134101,2:75056
+Um Anjo em Nossas Vidas	dub=2:133046	leg=2:133038
+Um Ano Inesquecível - Inverno	dub=2:198683
+Um Ano Inesquecível - Primavera	dub=2:199675
+Um Ano Inesquecível: Outuno	dub=2:197635
+Um Ano Inesquecível: Verão 4K	dub=2:198180,2:196787
+Um Ano do Cão	dub=2:131039
+Um Asilo Fora do Comum	dub=2:189313
 Um Assalto de Fé	dub=2:382676
-Um Assalto às Avessas	leg=2:282129,4:670825
-Um Assassino à Solta	dub=2:134106,4:647422
-Um Ato de Coragem	dub=2:21183,4:654135
-Um Ato de Esperanca	dub=2:26891,4:654005
-Um Ato de Fé	dub=2:215050,4:652390	leg=2:215049
-Um Ato de Liberdade	dub=2:239599,4:648481
-Um Beijo Antes de Morrer	dub=2:100747,4:647494
+Um Assalto às Avessas	leg=2:282129
+Um Assassino à Solta	dub=2:134106
+Um Ato de Coragem	dub=2:21183
+Um Ato de Esperanca	dub=2:26891
+Um Ato de Fé	dub=2:215050	leg=2:215049
+Um Ato de Liberdade	dub=2:239599
+Um Beijo Antes de Morrer	dub=2:100747
 Um Beijo Roubado	leg=2:235638
-Um Bom Ano	dub=2:31456,4:651499
-Um Bom Dia Para Morrer	dub=2:354181,4:900536,4:901911	leg=2:354180
-Um Breve Encontro	dub=2:352116,4:897105
-Um Brinde ao Natal	dub=2:90756,4:651263
-Um Brinde ao Sucesso	dub=2:161503,2:161501,4:650668
-Um Broto Legal	dub=2:281520,4:644236
-Um Buquê de Natal	dub=2:141478,4:645613	leg=2:141473
-Um Cabra Bom de Bola	dub=2:371102,4:909080	leg=2:371101
-Um Cadáver Para Sobreviver	dub=2:107783,4:651071
-Um Canto de Esperança	dub=2:141546,4:653032
-Um Casal Inseparável	dub=2:129555,4:644392
+Um Bom Ano	dub=2:31456
+Um Bom Dia Para Morrer	dub=2:354181	leg=2:354180
+Um Breve Encontro	dub=2:352116
+Um Brinde ao Natal	dub=2:90756
+Um Brinde ao Sucesso	dub=2:161503,2:161501
+Um Broto Legal	dub=2:281520
+Um Buquê de Natal	dub=2:141478	leg=2:141473
+Um Cabra Bom de Bola	dub=2:371102	leg=2:371101
+Um Cadáver Para Sobreviver	dub=2:107783
+Um Canto de Esperança	dub=2:141546
+Um Casal Inseparável	dub=2:129555
 Um Casal Quase Perfeito - Fogo e Gelo	leg=2:376819
-Um Casal Quase Perfeito 2	dub=2:359769,4:901299
-Um Casamento a Mais	dub=2:89596,4:651276
+Um Casal Quase Perfeito 2	dub=2:359769
+Um Casamento a Mais	dub=2:89596
 Um Caso Muito Sério	dub=2:370936	leg=2:370935
-Um Caso de Detetive	dub=2:93634,4:651233
-Um Caso do Outro Mundo	dub=2:358719,4:900405,4:901374
-Um Castelo para o Natal	dub=2:140786,4:645619	leg=2:140790
-Um Chamado Especial	dub=2:42930,4:653818
-Um Chamado Natalino	dub=2:228048,2:228045,4:646755	leg=2:228052
-Um Chamado de Esperança	dub=2:203334,4:652454	leg=2:203333
+Um Caso de Detetive	dub=2:93634
+Um Caso do Outro Mundo	dub=2:358719
+Um Castelo para o Natal	dub=2:140786	leg=2:140790
+Um Chamado Especial	dub=2:42930
+Um Chamado Natalino	dub=2:228048,2:228045	leg=2:228052
+Um Chamado de Esperança	dub=2:203334	leg=2:203333
 Um Clarim ao Longe	dub=2:359771	leg=2:359770
-Um Clássico Filme de Terror	dub=2:112944,4:655141
-Um Clímax Entre Nós	dub=2:212683,4:650353	leg=2:212682
-Um Completo Desconhecido	leg=2:318632,2:316757,4:762425
-Um Conto Americano 3: O Tesouro de Nova Iorque	dub=2:345140,4:889863	leg=2:345139
-Um Conto Chinês	dub=2:329005,4:884535	leg=2:329004
+Um Clássico Filme de Terror	dub=2:112944
+Um Clímax Entre Nós	dub=2:212683	leg=2:212682
+Um Completo Desconhecido	leg=2:318632,2:316757
+Um Conto Americano 3: O Tesouro de Nova Iorque	dub=2:345140	leg=2:345139
+Um Conto Chinês	dub=2:329005	leg=2:329004
 Um Conto Fatal	leg=2:246198
-Um Conto Indiano	dub=2:22562,4:651592
-Um Conto Quase de Fadas	dub=2:322838,4:884568
-Um Conto Sangrento	dub=2:171936,4:654900	leg=2:171937
-Um Conto Sobre o Tempo	dub=2:186469,4:646774	leg=2:186470
-Um Conto Sombrio	dub=2:375713,4:913585	leg=2:375712
-Um Conto de Fadas nas Montanhas	dub=2:145368,4:652972
-Um Conto de Fadas nas Montanhas: Entrando para a Realeza	dub=2:145921,4:645592	leg=2:145918
-Um Conto de Natal	dub=2:372794,2:356846,2:309725,4:770526,4:900489	leg=2:373843,2:356845,2:309726
-Um Conto do Destino	dub=2:46157,2:42010,4:653769,4:653831
-Um Contratempo	dub=2:21670,4:647642
-Um Convidado Bem Trapalhão	dub=2:358859,2:139250,4:650808	leg=2:358858
-Um Copo de Cólera	dub=2:330498,4:884767
+Um Conto Indiano	dub=2:22562
+Um Conto Quase de Fadas	dub=2:322838
+Um Conto Sangrento	dub=2:171936	leg=2:171937
+Um Conto Sobre o Tempo	dub=2:186469	leg=2:186470
+Um Conto Sombrio	dub=2:375713	leg=2:375712
+Um Conto de Fadas nas Montanhas	dub=2:145368
+Um Conto de Fadas nas Montanhas: Entrando para a Realeza	dub=2:145921	leg=2:145918
+Um Conto de Natal	dub=2:372794,2:356846,2:309725	leg=2:373843,2:356845,2:309726
+Um Conto do Destino	dub=2:46157,2:42010
+Um Contratempo	dub=2:21670
+Um Convidado Bem Trapalhão	dub=2:358859,2:139250	leg=2:358858
+Um Copo de Cólera	dub=2:330498
 Um Coração Normal	dub=2:376336	leg=2:376335
-Um Coração que Perdoa	dub=2:111600,4:645834
+Um Coração que Perdoa	dub=2:111600
 Um Corpo Que Cai	leg=2:352242
-Um Crime Argentino 4K	dub=2:250670,2:179771,4:647348	leg=2:179791
-Um Crime Passional	dub=2:285101,4:645326
-Um Crime Perfeito	dub=2:138912,4:647417
-Um Crime de Mestre	dub=2:44241,4:647564
-Um Crime na Confeitaria	dub=2:345510,4:897187	leg=2:345509
-Um Crime para Dois	dub=2:111601,4:651028
-Um Crush para o Natal	dub=2:142049,4:645607	leg=2:142058
-Um Culto das Trevas	dub=2:309745,4:736059	leg=2:309746
+Um Crime Argentino 4K	dub=2:250670,2:179771	leg=2:179791
+Um Crime Passional	dub=2:285101
+Um Crime Perfeito	dub=2:138912
+Um Crime de Mestre	dub=2:44241
+Um Crime na Confeitaria	dub=2:345510	leg=2:345509
+Um Crime para Dois	dub=2:111601
+Um Crush para o Natal	dub=2:142049	leg=2:142058
+Um Culto das Trevas	dub=2:309745	leg=2:309746
 Um Cão Latindo Para a Lua	leg=2:367061
-Um Cão Para Dois	dub=2:152010,4:645573	leg=2:152011
-Um Detetive Vidente	dub=2:352939,4:896988	leg=2:352938
-Um Detetive em Chinatown	dub=2:88691,4:651289
-Um Dia	dub=2:374322,2:95925,4:645685,4:911514	leg=2:374321
-Um Dia Cinco Estrelas	dub=2:229174,4:650270
-Um Dia Daqueles	dub=2:319075,2:319074,4:884598	leg=2:319076,2:317702,4:762343
-Um Dia De Chuva Em Nova York	dub=2:89278,4:651285
-Um Dia Difícil	dub=2:150753,4:648789	leg=2:150754
-Um Dia Extraordinário	dub=2:363762,4:903381
-Um Dia Fora de Controle	dub=2:352677,4:896588,4:900662	leg=2:352676
+Um Cão Para Dois	dub=2:152010	leg=2:152011
+Um Detetive Vidente	dub=2:352939	leg=2:352938
+Um Detetive em Chinatown	dub=2:88691
+Um Dia	dub=2:374322,2:95925	leg=2:374321
+Um Dia Cinco Estrelas	dub=2:229174
+Um Dia Daqueles	dub=2:319075,2:319074	leg=2:319076,2:317702
+Um Dia De Chuva Em Nova York	dub=2:89278
+Um Dia Difícil	dub=2:150753	leg=2:150754
+Um Dia Extraordinário	dub=2:363762
+Um Dia Fora de Controle	dub=2:352677	leg=2:352676
 Um Dia Nossos Segredos Serão Revelados	leg=2:343980
-Um Dia Para Sempre	dub=2:164240,4:650636	leg=2:164239
-Um Dia Perfeito	dub=2:29559,4:653988
-Um Dia a Casa Cai	dub=2:20849,4:651663
-Um Dia com Jerusa	dub=2:114469,4:653287
-Um Dia das Mães Nada Tradicional	dub=2:194454,4:650436	leg=2:194450
-Um Dia de Cada Vez	dub=4:919786
-Um Dia de Caos	dub=2:72647,2:45111,4:649492,4:649533
-Um Dia de Fúria	dub=2:73294,4:653690
-Um Dia de Sorte em Nova York	dub=4:922241
-Um Dia dos Mortos Nada Tradicional	dub=2:223403,4:650311	leg=2:223384
-Um Dia e Meio	dub=2:212685,4:652413	leg=2:212684
-Um Dia na Disney	dub=2:285102,4:647765	leg=2:285103,4:670757
-Um Dia para Morrer	dub=2:377264,2:162359,2:162358,4:648726	leg=2:377263
-Um Diabo Diferente	dub=2:26396,4:651562
-Um Difícil Recomeço	dub=2:259347,4:647178	leg=2:259348
-Um Dinossauro em Apuros	dub=2:138906,4:646821
-Um Diário para Jordan 4K	dub=2:155495,2:150734,4:645575	leg=2:150737
-Um Doce Milagre	dub=2:355684,4:900491	leg=2:355683
-Um Doce Natal	dub=2:31901,4:645736
-Um Doce Olhar	dub=2:371953,4:911538	leg=2:371952
-Um Domingo Qualquer	dub=2:309895,4:770518	leg=2:309896
-Um Drink no Inferno	dub=2:162314,4:654932
-Um Drink no Inferno 2: Texas Sangrento	dub=2:162315,4:654931
-Um Drink no Inferno 3: A Filha do Carrasco	dub=2:162316,4:654930
-Um Efeito Ótico	dub=2:213959,4:647250	leg=2:213960
-Um Encontro com o Destino	dub=2:377266,2:130833,4:645641	leg=2:377265
-Um Espetáculo de Natal	dub=2:230277,4:650261	leg=2:230291
-Um Espião Animal 4K	dub=2:42547,2:42515,4:646492
-Um Espião e Meio	dub=2:107784,4:649089
-Um Estrangeiro no Ninho	dub=2:266681,4:650125	leg=2:266682
-Um Estranho Acidente	dub=2:242191,2:242190,4:647214
-Um Estranho Entre Nós	dub=2:254099,4:652200	leg=2:254100
-Um Estranho Segredo	dub=2:256287,4:654586
-Um Estranho em Nossa Cama	dub=2:180597,4:647343	leg=2:180598
-Um Estranho no Bosque	dub=2:276113,4:654495	leg=2:276114
-Um Estranho no Ninho	dub=2:94740,4:653571
-Um Fantasma na Batalha 4K	dub=2:350383,2:348843,4:897137	leg=2:348842
-Um Fascinante Novo Mundo	dub=2:189326,4:645473	leg=2:189334
-Um Faz de Conta que Acontece	dub=2:103981,4:646866
-Um Fiasco de Férias	dub=2:298900,2:298693,4:650027,4:650028	leg=2:298901,2:298694,4:670321,4:670322
-Um Filho	dub=2:192116,4:652545	leg=2:192092
-Um Filho Perigoso	dub=2:281332,4:647779	leg=2:281333,4:670890
-Um Filme Minecraft	dub=2:321019,2:321017,4:884580	leg=2:321018
-Um Filme de Cinema	dub=2:382531,2:128552,4:644395,4:919185
-Um Fim De Semana Com Holly	dub=2:208217,4:650377	leg=2:208216
-Um Fim de Semana Prolongado	dub=2:134598,4:645632	leg=2:134597
-Um Fim de Semana de Inverno	dub=2:219927,4:645419	leg=2:219926
-Um Final de Semana em Hyde Park	dub=2:122886,4:650961
-Um Garoto no Palácio de Aladdin	dub=2:320923,4:884449
-Um Gato de Rua Chamado Bob	dub=2:165666,4:645091	leg=2:165668
-Um Gato de Sorte	dub=2:266727,4:645993	leg=2:266728
-Um Geek Encantador	dub=2:95926,4:651207
+Um Dia Para Sempre	dub=2:164240	leg=2:164239
+Um Dia Perfeito	dub=2:29559
+Um Dia a Casa Cai	dub=2:20849
+Um Dia com Jerusa	dub=2:114469
+Um Dia das Mães Nada Tradicional	dub=2:194454	leg=2:194450
+Um Dia de Caos	dub=2:72647,2:45111
+Um Dia de Fúria	dub=2:73294
+Um Dia dos Mortos Nada Tradicional	dub=2:223403	leg=2:223384
+Um Dia e Meio	dub=2:212685	leg=2:212684
+Um Dia na Disney	dub=2:285102	leg=2:285103
+Um Dia para Morrer	dub=2:377264,2:162359,2:162358	leg=2:377263
+Um Diabo Diferente	dub=2:26396
+Um Difícil Recomeço	dub=2:259347	leg=2:259348
+Um Dinossauro em Apuros	dub=2:138906
+Um Diário para Jordan 4K	dub=2:155495,2:150734	leg=2:150737
+Um Doce Milagre	dub=2:355684	leg=2:355683
+Um Doce Natal	dub=2:31901
+Um Doce Olhar	dub=2:371953	leg=2:371952
+Um Domingo Qualquer	dub=2:309895	leg=2:309896
+Um Drink no Inferno	dub=2:162314
+Um Drink no Inferno 2: Texas Sangrento	dub=2:162315
+Um Drink no Inferno 3: A Filha do Carrasco	dub=2:162316
+Um Efeito Ótico	dub=2:213959	leg=2:213960
+Um Encontro com o Destino	dub=2:377266,2:130833	leg=2:377265
+Um Espetáculo de Natal	dub=2:230277	leg=2:230291
+Um Espião Animal 4K	dub=2:42547,2:42515
+Um Espião e Meio	dub=2:107784
+Um Estrangeiro no Ninho	dub=2:266681	leg=2:266682
+Um Estranho Acidente	dub=2:242191,2:242190
+Um Estranho Entre Nós	dub=2:254099	leg=2:254100
+Um Estranho Segredo	dub=2:256287
+Um Estranho em Nossa Cama	dub=2:180597	leg=2:180598
+Um Estranho no Bosque	dub=2:276113	leg=2:276114
+Um Estranho no Ninho	dub=2:94740
+Um Fantasma na Batalha 4K	dub=2:350383,2:348843	leg=2:348842
+Um Fascinante Novo Mundo	dub=2:189326	leg=2:189334
+Um Faz de Conta que Acontece	dub=2:103981
+Um Fiasco de Férias	dub=2:298900,2:298693	leg=2:298901,2:298694
+Um Filho	dub=2:192116	leg=2:192092
+Um Filho Perigoso	dub=2:281332	leg=2:281333
+Um Filme Minecraft	dub=2:321019,2:321017	leg=2:321018
+Um Filme de Cinema	dub=2:382531,2:128552
+Um Fim De Semana Com Holly	dub=2:208217	leg=2:208216
+Um Fim de Semana Prolongado	dub=2:134598	leg=2:134597
+Um Fim de Semana de Inverno	dub=2:219927	leg=2:219926
+Um Final de Semana em Hyde Park	dub=2:122886
+Um Garoto no Palácio de Aladdin	dub=2:320923
+Um Gato de Rua Chamado Bob	dub=2:165666	leg=2:165668
+Um Gato de Sorte	dub=2:266727	leg=2:266728
+Um Geek Encantador	dub=2:95926
 Um Gesto de Esperança	dub=2:343572	leg=2:343571
 Um Gigolô Europeu por Acidente	dub=2:371955	leg=2:371954
-Um Golpe Quase Perfeito	dub=2:368267,2:141479,4:650797	leg=2:368266
-Um Golpe de Rei	dub=2:313856,4:735964	leg=2:313857,4:762532
-Um Golpe à Italiana	dub=2:112392,4:649046
-Um Grito Silencioso	dub=2:343982,4:885118	leg=2:343981
-Um Grito de Socorro	dub=2:225689,4:652318
+Um Golpe Quase Perfeito	dub=2:368267,2:141479	leg=2:368266
+Um Golpe de Rei	dub=2:313856	leg=2:313857
+Um Golpe à Italiana	dub=2:112392
+Um Grito Silencioso	dub=2:343982	leg=2:343981
+Um Grito de Socorro	dub=2:225689
 Um Guarda-Florestal	dub=2:375058,2:366188
-Um Heroi de Brinquedo	dub=2:20851,4:651662
-Um História de Amor no Campo	dub=2:300668,4:645273	leg=2:300669,4:670241
-Um Homem Abandonado	dub=2:345100,4:897191	leg=2:345099
-Um Homem Contra a Máfia	dub=2:214609,4:652395	leg=2:214608
-Um Homem Determinado	dub=2:131032,4:653166
-Um Homem Diferente	dub=2:322733,2:322729,4:884571	leg=2:322732
-Um Homem Entre Gigantes	dub=2:92606,4:653598
-Um Homem Fora de Serie	dub=2:95927,4:653561
-Um Homem Implacável	dub=2:246551,4:648468	leg=2:246552
-Um Homem Misterioso	dub=2:264997,4:644828
-Um Homem Morto Não Pode Viver	dub=2:280970,4:648368	leg=2:280971,4:670918
-Um Homem Perfeito	dub=2:318447,4:770283
-Um Homem Sem Memória	dub=2:262187,4:644593
-Um Homem de Ação	dub=2:181092,4:652666	leg=2:181097
-Um Homem de Coragem	dub=2:367705,4:905569	leg=2:367704
-Um Homem de Familia (2017)	dub=2:108093,4:653378
+Um Heroi de Brinquedo	dub=2:20851
+Um História de Amor no Campo	dub=2:300668	leg=2:300669
+Um Homem Abandonado	dub=2:345100	leg=2:345099
+Um Homem Contra a Máfia	dub=2:214609	leg=2:214608
+Um Homem Determinado	dub=2:131032
+Um Homem Diferente	dub=2:322733,2:322729	leg=2:322732
+Um Homem Entre Gigantes	dub=2:92606
+Um Homem Fora de Serie	dub=2:95927
+Um Homem Implacável	dub=2:246551	leg=2:246552
+Um Homem Misterioso	dub=2:264997
+Um Homem Morto Não Pode Viver	dub=2:280970	leg=2:280971
+Um Homem Perfeito	dub=2:318447
+Um Homem Sem Memória	dub=2:262187
+Um Homem de Ação	dub=2:181092	leg=2:181097
+Um Homem de Coragem	dub=2:367705	leg=2:367704
+Um Homem de Familia (2017)	dub=2:108093
 Um Homem de Família	dub=2:379491	leg=2:379490
-Um Homem de Família (2000)	dub=2:108092,4:651065
-Um Homem de Sorte	dub=2:187313,2:22103,4:645481,4:654093
-Um Homem de Sucesso	dub=2:359316,4:900367,4:902610	leg=2:359315
-Um Homem sem Passado	dub=2:334865,4:884369	leg=2:334864
-Um Hóspede do Barulho	dub=2:319018,4:884600
-Um Intruso no Porão	dub=2:160582,4:650674	leg=2:160585
-Um Inverno em Nova York	dub=2:288825,4:652057	leg=2:288826,4:670642
-Um Jantar Entre Espiões	dub=2:157448,4:647401	leg=2:157432
-Um Jantar Perfeito	dub=2:181457,4:650535	leg=2:181459
-Um Jantar Quase Perfeito	dub=2:216040,4:654720	leg=2:216041
-Um Jantar para Idiotas	dub=2:314682,4:762869	leg=2:314683,4:762498
-Um Jogo Entre Amigos	dub=2:163576,4:650646	leg=2:163577
-Um Jogo de Sedução	dub=2:255017,4:645367	leg=2:255018
+Um Homem de Família (2000)	dub=2:108092
+Um Homem de Sorte	dub=2:187313,2:22103
+Um Homem de Sucesso	dub=2:359316	leg=2:359315
+Um Homem sem Passado	dub=2:334865	leg=2:334864
+Um Hóspede do Barulho	dub=2:319018
+Um Intruso no Porão	dub=2:160582	leg=2:160585
+Um Inverno em Nova York	dub=2:288825	leg=2:288826
+Um Jantar Entre Espiões	dub=2:157448	leg=2:157432
+Um Jantar Perfeito	dub=2:181457	leg=2:181459
+Um Jantar Quase Perfeito	dub=2:216040	leg=2:216041
+Um Jantar para Idiotas	dub=2:314682	leg=2:314683
+Um Jogo Entre Amigos	dub=2:163576	leg=2:163577
+Um Jogo de Sedução	dub=2:255017	leg=2:255018
 Um Jurado Muito Louco	dub=2:375942	leg=2:375941
-Um Ladrão com Estilo	dub=2:46158,4:651371
-Um Laço de Amor	dub=2:64441,4:653726
-Um Limite Entre Nós	dub=2:336832,2:21187,4:654134	leg=2:336831
-Um Lindo Dia na Vizinhança	dub=2:370938,2:35969,2:35270,4:653879	leg=2:370937
-Um Lobisomem Americano em Londres	dub=2:20852,4:651661
-Um Lobisomem Americano em Paris	dub=2:44469,4:655343
-Um Lobo em Pele de Cordeiro 2	dub=2:67504,4:646460
-Um Lobo entre Nós	dub=2:133022,4:655051	leg=2:133034
-Um Lobo entre os Cisnes	dub=2:349708,4:901427
-Um Longo Caminho	dub=2:127421,4:653246
-Um Looop Eterno	dub=2:149240,4:648801	leg=2:149239
+Um Ladrão com Estilo	dub=2:46158
+Um Laço de Amor	dub=2:64441
+Um Limite Entre Nós	dub=2:336832,2:21187	leg=2:336831
+Um Lindo Dia na Vizinhança	dub=2:370938,2:35969,2:35270	leg=2:370937
+Um Lobisomem Americano em Londres	dub=2:20852
+Um Lobisomem Americano em Paris	dub=2:44469
+Um Lobo em Pele de Cordeiro 2	dub=2:67504
+Um Lobo entre Nós	dub=2:133022	leg=2:133034
+Um Lobo entre os Cisnes	dub=2:349708
+Um Longo Caminho	dub=2:127421
+Um Looop Eterno	dub=2:149240	leg=2:149239
 Um Louco Apaixonado	dub=2:370369	leg=2:370368
-Um Lugar	dub=2:130613,4:653171	leg=2:130611
-Um Lugar Bem Longe Daqui	dub=2:179769,4:652689	leg=2:179770
-Um Lugar Chamado Notting Hill	dub=2:21590,4:645779
-Um Lugar Chamado Utopia	dub=2:328109,2:328107,4:884897	leg=2:328108
-Um Lugar Secreto	dub=2:145360,4:652973	leg=2:145369
-Um Lugar Silencioso	dub=2:101193,2:101191,4:655196
-Um Lugar Silencioso - Parte II 4K	dub=2:113006,2:112479,4:644771	leg=2:112469
-Um Lugar Silencioso: Dia Um	dub=2:278079,2:278078,4:654492	leg=2:278080
-Um Lugar Solitario para Morrer	dub=2:94741,4:649321
-Um Lugar Sombrio	dub=2:26585,4:647618
-Um Lugar para Recomeçar	dub=2:371651,2:128890,4:653204,4:909102	leg=2:371650
-Um Lugar para Voltar	dub=2:233520,4:652271	leg=2:233519
+Um Lugar	dub=2:130613	leg=2:130611
+Um Lugar Bem Longe Daqui	dub=2:179769	leg=2:179770
+Um Lugar Chamado Notting Hill	dub=2:21590
+Um Lugar Chamado Utopia	dub=2:328109,2:328107	leg=2:328108
+Um Lugar Secreto	dub=2:145360	leg=2:145369
+Um Lugar Silencioso	dub=2:101193,2:101191
+Um Lugar Silencioso - Parte II 4K	dub=2:113006,2:112479	leg=2:112469
+Um Lugar Silencioso: Dia Um	dub=2:278079,2:278078	leg=2:278080
+Um Lugar Solitario para Morrer	dub=2:94741
+Um Lugar Sombrio	dub=2:26585
+Um Lugar para Recomeçar	dub=2:371651,2:128890	leg=2:371650
+Um Lugar para Voltar	dub=2:233520	leg=2:233519
 Um Lutador Lendário	dub=2:379492
-Um Maluco No Exercito	dub=2:95949,4:651202
-Um Maluco no Golfe	dub=2:63097,4:651346
-Um Maluco no Golfe 2 4K	dub=2:336691,2:336222,4:884500	leg=2:336221
-Um Maluco no Natal	dub=2:31911,4:651476
-Um Marido Fiel	dub=2:169640,4:647373	leg=2:169652
-Um Match Surpresa 4K	dub=2:189935,2:136758,4:650838	leg=2:136762
-Um Menino Chamado Natal	dub=2:140698,4:646818	leg=2:140705
-Um Mergulho no Passado	dub=2:139249,4:653052
-Um Milagre Inesperado	dub=2:112447,4:653321	leg=2:124523
-Um Milagre de Natal para Daisy	dub=2:352378,4:900674	leg=2:352377
-Um Milhão de Maneiras de Pegar na Pistola	dub=2:28259,4:651545
-Um Mistério de Aurora Teagarden: A Casa dos Julius	dub=2:353676,4:901255	leg=2:353675
-Um Mistério de Aurora Teagarden: A Última Cena	dub=2:353678,4:901254	leg=2:353677
-Um Mistério de Aurora Teagarden: Assassinatos Reais	dub=2:353680,4:901253	leg=2:353679
-Um Mistério de Aurora Teagarden: Jogo de Enganação	dub=2:41988,4:647575
-Um Mistério de Aurora Teagarden: Três Quartos e um Corpo	dub=2:353682,4:901252	leg=2:353681
-Um Mistério de Aurora Teagarden: Um Enigma do Céu	dub=2:353684,4:901251	leg=2:353683
-Um Mistério de Aurora Teagarden: Uma Herança de Matar	dub=2:41989,4:647574
-Um Mistério de Aurora Teagarden: Uma Pilha de Problemas	dub=2:353686,4:901250	leg=2:353685
-Um Mistério de Natal	dub=2:180633,4:650561	leg=2:180626
-Um Momento Para Recordar	dub=2:256289,4:652185
-Um Monstro no Caminho	dub=2:319019,2:30459,4:655385,4:788276
-Um Morto Muito Louco	dub=2:341076,2:44470,4:651388
-Um Morto Muito Louco II	dub=2:44471,4:651387
-Um Motivo para Lutar 4K	dub=2:202586,2:202001,4:652463	leg=2:202000
-Um Mundo Encantado	dub=2:300141,2:156705,4:645212,4:645268
-Um Mundo Normal	dub=2:338609,4:884712	leg=2:338608
-Um Mundo Selvagem	dub=2:311874,4:770489	leg=2:311875,4:762639
-Um Método Perigoso	dub=2:349870,4:897120	leg=2:349869
-Um Namorado Para Minha Esposa	dub=2:329636,4:885091	leg=2:329635
+Um Maluco No Exercito	dub=2:95949
+Um Maluco no Golfe	dub=2:63097
+Um Maluco no Golfe 2 4K	dub=2:336691,2:336222	leg=2:336221
+Um Maluco no Natal	dub=2:31911
+Um Marido Fiel	dub=2:169640	leg=2:169652
+Um Match Surpresa 4K	dub=2:189935,2:136758	leg=2:136762
+Um Menino Chamado Natal	dub=2:140698	leg=2:140705
+Um Mergulho no Passado	dub=2:139249
+Um Milagre Inesperado	dub=2:112447	leg=2:124523
+Um Milagre de Natal para Daisy	dub=2:352378	leg=2:352377
+Um Milhão de Maneiras de Pegar na Pistola	dub=2:28259
+Um Mistério de Aurora Teagarden: A Casa dos Julius	dub=2:353676	leg=2:353675
+Um Mistério de Aurora Teagarden: A Última Cena	dub=2:353678	leg=2:353677
+Um Mistério de Aurora Teagarden: Assassinatos Reais	dub=2:353680	leg=2:353679
+Um Mistério de Aurora Teagarden: Jogo de Enganação	dub=2:41988
+Um Mistério de Aurora Teagarden: Três Quartos e um Corpo	dub=2:353682	leg=2:353681
+Um Mistério de Aurora Teagarden: Um Enigma do Céu	dub=2:353684	leg=2:353683
+Um Mistério de Aurora Teagarden: Uma Herança de Matar	dub=2:41989
+Um Mistério de Aurora Teagarden: Uma Pilha de Problemas	dub=2:353686	leg=2:353685
+Um Mistério de Natal	dub=2:180633	leg=2:180626
+Um Momento Para Recordar	dub=2:256289
+Um Monstro no Caminho	dub=2:319019,2:30459
+Um Morto Muito Louco	dub=2:341076,2:44470
+Um Morto Muito Louco II	dub=2:44471
+Um Motivo para Lutar 4K	dub=2:202586,2:202001	leg=2:202000
+Um Mundo Encantado	dub=2:300141,2:156705
+Um Mundo Normal	dub=2:338609	leg=2:338608
+Um Mundo Selvagem	dub=2:311874	leg=2:311875
+Um Método Perigoso	dub=2:349870	leg=2:349869
+Um Namorado Para Minha Esposa	dub=2:329636	leg=2:329635
 Um Namorado de Natal pra Mamãe	dub=2:350971	leg=2:350970
-Um Namorado para Minha Mulher	dub=2:382441,2:20853,4:651660
-Um Natal 5 Estrelas	dub=2:230286,4:650258	leg=2:230285
-Um Natal Apaixonado	dub=2:142057,4:645606	leg=2:142059
-Um Natal Bem Casado	dub=2:292281,4:645305	leg=2:292282,4:670530
-Um Natal Bem Jonas Brothers 4K	dub=2:358164,2:352696,4:900653	leg=2:352695
-Um Natal Brilhante	dub=2:343259,4:884456	leg=2:343258
-Um Natal Cheio de Amor	dub=2:352380,4:900673	leg=2:352379
-Um Natal Cheio de Graça 4K	dub=2:188218,2:181089,4:645507
-Um Natal Cinco Estrelas	dub=2:141465,4:645616	leg=2:141461
-Um Natal Encantado	dub=2:227027,4:645028	leg=2:227026
-Um Natal Especial	dub=2:264998,4:652140
-Um Natal Estrelado	dub=2:31589,4:645741
-Um Natal Ex-pecial	dub=2:352950,4:900641	leg=2:352949
-Um Natal Improvável	dub=2:219652,4:650322	leg=2:219653
-Um Natal Mais Doce	dub=2:355772,4:901314	leg=2:355771
-Um Natal Nada Tradicional	leg=2:300639,4:670255
-Um Natal Para Todos	dub=2:359040,4:900404	leg=2:359039
+Um Namorado para Minha Mulher	dub=2:382441,2:20853
+Um Natal 5 Estrelas	dub=2:230286	leg=2:230285
+Um Natal Apaixonado	dub=2:142057	leg=2:142059
+Um Natal Bem Casado	dub=2:292281	leg=2:292282
+Um Natal Bem Jonas Brothers 4K	dub=2:358164,2:352696	leg=2:352695
+Um Natal Brilhante	dub=2:343259	leg=2:343258
+Um Natal Cheio de Amor	dub=2:352380	leg=2:352379
+Um Natal Cheio de Graça 4K	dub=2:188218,2:181089
+Um Natal Cinco Estrelas	dub=2:141465	leg=2:141461
+Um Natal Encantado	dub=2:227027	leg=2:227026
+Um Natal Especial	dub=2:264998
+Um Natal Estrelado	dub=2:31589
+Um Natal Ex-pecial	dub=2:352950	leg=2:352949
+Um Natal Improvável	dub=2:219652	leg=2:219653
+Um Natal Mais Doce	dub=2:355772	leg=2:355771
+Um Natal Nada Tradicional	leg=2:300639
+Um Natal Para Todos	dub=2:359040	leg=2:359039
 Um Natal Perfeito	dub=2:365292	leg=2:365291
-Um Natal Real	dub=2:358120,4:901310	leg=2:358119
-Um Natal com Amor e Vinho	dub=2:182594,4:650529	leg=2:182593
-Um Natal com Teddy	dub=2:235132,4:645024	leg=2:235135
+Um Natal Real	dub=2:358120	leg=2:358119
+Um Natal com Amor e Vinho	dub=2:182594	leg=2:182593
+Um Natal com Teddy	dub=2:235132	leg=2:235135
 Um Natal de Descobertas	dub=2:354283,2:92593	leg=2:354282
-Um Natal de União	dub=2:144398,4:645595	leg=2:144388
-Um Natal em Biltmore	dub=2:354001,4:900586	leg=2:354000
-Um Natal em Família	dub=2:362271,4:902513
-Um Natal em Família Diferente	dub=2:185255,4:645053	leg=2:185256
-Um Natal em Lagos	leg=2:300640,4:670254
-Um Natal em Montana	dub=2:295733,4:645291	leg=2:295734,4:670414
-Um Natal na Suíça	dub=2:186773,4:645048	leg=2:186754
-Um Natal no Castelo	dub=2:352244,2:192089,4:645463	leg=2:352243,2:192097
-Um Natal no Rancho	dub=2:356883,4:900478	leg=2:356882
-Um Natal para Lembrar	dub=2:355663,4:900499	leg=2:355662
+Um Natal de União	dub=2:144398	leg=2:144388
+Um Natal em Biltmore	dub=2:354001	leg=2:354000
+Um Natal em Família	dub=2:362271
+Um Natal em Família Diferente	dub=2:185255	leg=2:185256
+Um Natal em Lagos	leg=2:300640
+Um Natal em Montana	dub=2:295733	leg=2:295734
+Um Natal na Suíça	dub=2:186773	leg=2:186754
+Um Natal no Castelo	dub=2:352244,2:192089	leg=2:352243,2:192097
+Um Natal no Rancho	dub=2:356883	leg=2:356882
+Um Natal para Lembrar	dub=2:355663	leg=2:355662
 Um Natal para a Família	dub=2:350956	leg=2:350955
-Um Ninho para Dois	dub=2:129585,4:653189	leg=2:129586
-Um Noivo e Duas Noivas	dub=2:352258,4:900686,4:901337	leg=2:352257
+Um Ninho para Dois	dub=2:129585	leg=2:129586
+Um Noivo e Duas Noivas	dub=2:352258	leg=2:352257
 Um Novato Na Mafia	leg=2:339296
-Um Novo Capitalismo	dub=2:22104,4:644540
-Um Novo Conto de Cinderela	dub=2:167215,4:645087	leg=2:167216
-Um Novo Conto de Natal	dub=2:233490,4:650246	leg=2:233489
-Um Novo Despertar	dub=2:106855,4:653388
-Um Novo Mundo	dub=2:22105,4:648274
-Um Novo Olhar	dub=2:21188,4:654133
-Um Novo Recomeco	dub=2:30460,4:653969
-Um Novo Sonho de Uma Noite de Verão	dub=2:318118,4:770284	leg=2:318119
-Um Olhar do Paraiso	dub=2:21272,4:647060
-Um Outro Francisco	dub=2:374323,2:371186,4:909066
-Um Pacto de Amizade	dub=2:190760,2:190648,4:650452	leg=2:190761
-Um Pai em Apuros	dub=2:383155,4:919169	leg=2:383159
-Um Pai para Lily	dub=2:320263,4:884587	leg=2:320092
-Um Palmo	dub=2:230590,4:647230
-Um Panda em Apuros	dub=2:377267,2:33533,4:646505
-Um Paparazzi Animal	dub=2:239799,4:645019	leg=2:239800
-Um Par Perfeito para o Natal	dub=2:186454,4:650487	leg=2:186453
-Um Par Pra Chamar de Meu	dub=2:237196,4:644302
-Um Paraíso Perigoso	dub=2:187831,4:648618	leg=2:187846
-Um Parto de Viagem	dub=2:20854,4:651659
-Um Passado Sombrio	dub=2:259079,4:644839
-Um Passado de Presente	dub=2:31438,4:645748
-Um Passe de Magica	dub=2:98392,4:651166
-Um Pedaço do Meu Coração	dub=2:194537,4:650434	leg=2:194536
-Um Pedido Descolado	dub=2:175616,4:650588	leg=2:175606
-Um Pequeno Favor	dub=2:214176,4:648543
-Um Pesadelo Maravilhoso	dub=4:921610
-Um Pesadelo Sem Fim	dub=2:328111,4:846511	leg=2:328110
-Um Plano Brilhante	dub=2:316420,2:224970,4:644858,4:762857	leg=2:316421,4:762432
-Um Plano Por Água Abaixo	dub=2:241549,4:652253	leg=2:241550
-Um Plano Sem Saída	dub=2:280619,4:647150	leg=2:280620,4:670924
-Um Plano em Família	dub=2:256345,4:650167	leg=2:256346
-Um Playboy em Apuros	dub=2:359773,4:901298	leg=2:359772
+Um Novo Capitalismo	dub=2:22104
+Um Novo Conto de Cinderela	dub=2:167215	leg=2:167216
+Um Novo Conto de Natal	dub=2:233490	leg=2:233489
+Um Novo Despertar	dub=2:106855
+Um Novo Mundo	dub=2:22105
+Um Novo Olhar	dub=2:21188
+Um Novo Recomeco	dub=2:30460
+Um Novo Sonho de Uma Noite de Verão	dub=2:318118	leg=2:318119
+Um Olhar do Paraiso	dub=2:21272
+Um Outro Francisco	dub=2:374323,2:371186
+Um Pacto de Amizade	dub=2:190760,2:190648	leg=2:190761
+Um Pai em Apuros	dub=2:383155	leg=2:383159
+Um Pai para Lily	dub=2:320263	leg=2:320092
+Um Palmo	dub=2:230590
+Um Panda em Apuros	dub=2:377267,2:33533
+Um Paparazzi Animal	dub=2:239799	leg=2:239800
+Um Par Perfeito para o Natal	dub=2:186454	leg=2:186453
+Um Par Pra Chamar de Meu	dub=2:237196
+Um Paraíso Perigoso	dub=2:187831	leg=2:187846
+Um Parto de Viagem	dub=2:20854
+Um Passado Sombrio	dub=2:259079
+Um Passado de Presente	dub=2:31438
+Um Passe de Magica	dub=2:98392
+Um Pedaço do Meu Coração	dub=2:194537	leg=2:194536
+Um Pedido Descolado	dub=2:175616	leg=2:175606
+Um Pequeno Favor	dub=2:214176
+Um Pesadelo Sem Fim	dub=2:328111	leg=2:328110
+Um Plano Brilhante	dub=2:316420,2:224970	leg=2:316421
+Um Plano Por Água Abaixo	dub=2:241549	leg=2:241550
+Um Plano Sem Saída	dub=2:280619	leg=2:280620
+Um Plano em Família	dub=2:256345	leg=2:256346
+Um Playboy em Apuros	dub=2:359773	leg=2:359772
 Um Pobretão na Casa Branca	dub=2:372796	leg=2:372795
-Um Por Todos	dub=2:102344,4:653465
-Um Porto Seguro	dub=2:21591,4:645778
+Um Por Todos	dub=2:102344
+Um Porto Seguro	dub=2:21591
 Um Pouco de Caos	dub=2:379134
-Um Pouco de Mim, um Pouco de Nós	dub=2:329422,4:884951
-Um Presente Perfeito	dub=2:347169,4:901342	leg=2:347168
-Um Presente da Tiffany	dub=2:181450,4:650539	leg=2:181432
-Um Principe Em Nova York 2 4K	dub=2:97146,2:96896,4:649293
-Um Principe em Nova York	dub=2:20855,4:651658
-Um Punhado de Chumbo	dub=2:45112,4:645192
-Um Péssimo Cupido	dub=2:286365,4:650075	leg=2:286366,4:670734
-Um Ramo	dub=2:362620,4:901355
-Um Ratinho Encrenqueiro	dub=2:187314,4:650481
-Um Reencontro Inesperado	dub=2:164232,4:650639	leg=2:164226
-Um Reencontro Natalino	dub=2:144886,4:645594	leg=2:144877
-Um Refugio	dub=2:21189,4:654132
-Um Reino Unido	dub=2:32248,4:653916
-Um Retrato de Teresa	dub=2:367840,4:906605
-Um Rio Muito Frio	dub=2:178820,4:654872	leg=2:178833
+Um Pouco de Mim, um Pouco de Nós	dub=2:329422
+Um Presente Perfeito	dub=2:347169	leg=2:347168
+Um Presente da Tiffany	dub=2:181450	leg=2:181432
+Um Principe Em Nova York 2 4K	dub=2:97146,2:96896
+Um Principe em Nova York	dub=2:20855
+Um Punhado de Chumbo	dub=2:45112
+Um Péssimo Cupido	dub=2:286365	leg=2:286366
+Um Ramo	dub=2:362620
+Um Ratinho Encrenqueiro	dub=2:187314
+Um Reencontro Inesperado	dub=2:164232	leg=2:164226
+Um Reencontro Natalino	dub=2:144886	leg=2:144877
+Um Refugio	dub=2:21189
+Um Reino Unido	dub=2:32248
+Um Retrato de Teresa	dub=2:367840
+Um Rio Muito Frio	dub=2:178820	leg=2:178833
 Um Robô em Curto Circuito 2	dub=2:383016	leg=2:383015
-Um Romance Perfeito	dub=2:233797,4:645391	leg=2:233796
-Um Romance nas Entrelinhas	dub=2:35990,4:653870
-Um Salao do Barulho 1	dub=2:20856,4:651657
-Um Salao do Barulho 2	dub=2:20857,4:651656
-Um Salao do Barulho 3	dub=2:20858,4:651655
+Um Romance Perfeito	dub=2:233797	leg=2:233796
+Um Romance nas Entrelinhas	dub=2:35990
+Um Salao do Barulho 1	dub=2:20856
+Um Salao do Barulho 2	dub=2:20857
+Um Salao do Barulho 3	dub=2:20858
 Um Salto Para a Felicidade	dub=2:376821	leg=2:376820
-Um Santo Plano	dub=2:167214,4:652770	leg=2:167217
-Um Senhor Estagiário	dub=2:343061,2:20859,4:651654	leg=2:343060
-Um Show de Matar	dub=2:223414,4:654686	leg=2:223379
-Um Show de Verão	dub=2:133021,4:645638
-Um Simples Favor	dub=2:379420,4:915671	leg=2:379419
-Um Sinal de Esperança	dub=2:133087,4:650862
-Um Sonho Chamado Fred	dub=2:301799,4:650013
-Um Sonho Distante	dub=2:99901,4:653521
-Um Sonho Possível	dub=2:382442,2:21190,4:654131	leg=2:382443
-Um Sonho Sem Limites	dub=2:330409,4:884770	leg=2:330408
-Um Sonho de Amor	dub=2:348084,4:897152	leg=2:348083
-Um Sonho de Liberdade	dub=2:21191,4:654130
-Um Sonho de Natal	dub=2:371683,2:31590,4:645740,4:909090	leg=2:371682
-Um Stalker Apaixonado	dub=2:375701,4:913591	leg=2:375700
-Um Suburbano Sortudo	dub=2:336975,2:20860,4:651653,4:884931
+Um Santo Plano	dub=2:167214	leg=2:167217
+Um Senhor Estagiário	dub=2:343061,2:20859	leg=2:343060
+Um Show de Matar	dub=2:223414	leg=2:223379
+Um Show de Verão	dub=2:133021
+Um Simples Favor	dub=2:379420	leg=2:379419
+Um Sinal de Esperança	dub=2:133087
+Um Sonho Chamado Fred	dub=2:301799
+Um Sonho Distante	dub=2:99901
+Um Sonho Possível	dub=2:382442,2:21190	leg=2:382443
+Um Sonho Sem Limites	dub=2:330409	leg=2:330408
+Um Sonho de Amor	dub=2:348084	leg=2:348083
+Um Sonho de Liberdade	dub=2:21191
+Um Sonho de Natal	dub=2:371683,2:31590	leg=2:371682
+Um Stalker Apaixonado	dub=2:375701	leg=2:375700
+Um Suburbano Sortudo	dub=2:336975,2:20860
 Um Sósia Inusitado	leg=2:264149
-Um Talento Extraordinário	dub=2:371515,4:909059,4:911557	leg=2:371514
-Um Terror de Parentes 4K	dub=2:315331,2:315295,4:849255	leg=2:315300
-Um Time Bem Diferente	dub=2:319020,4:884599
-Um Time Especial	dub=2:366122,4:911631	leg=2:366121
-Um Time Muito Louco	dub=2:131010,4:650882
-Um Time Muito Louco Contra-Ataca	dub=2:358122,4:896925	leg=2:358121
-Um Time Show de Bola	dub=2:20469,4:646585
-Um Tio Quase Perfeito	dub=2:336683,2:20861,4:651652,4:884934
-Um Tio Quase Perfeito 2	dub=2:104131,4:651112
-Um Tira Acima Da Media	dub=2:96007,4:649307
-Um Tira Muito Suspeito	dub=2:229018,4:648500
-Um Tira da Pesada (1984)	dub=2:20862,4:651651
-Um Tira da Pesada 2	dub=2:20863,4:651650
-Um Tira da Pesada 3	dub=2:20864,4:651649
-Um Tira da Pesada 4: Axel Foley 4K	dub=2:270278,2:267763,4:648395	leg=2:267764
-Um Tira do Outro Mundo	dub=2:352941,4:896582	leg=2:352940
-Um Tira no Jardim de Infância	dub=2:307738,4:681781
-Um Tira no Jardim de Infância 2	dub=2:307324,4:681782
-Um Tiro de Misericórdia	dub=2:354285,4:901902	leg=2:354284
-Um Tiro na Noite	dub=2:138887,4:647418
-Um Tiro no Escuro	dub=2:345074,2:204490,4:647950,4:901215	leg=2:345073
-Um Toque de Rosa	dub=2:122890,4:650960
+Um Talento Extraordinário	dub=2:371515	leg=2:371514
+Um Terror de Parentes 4K	dub=2:315331,2:315295	leg=2:315300
+Um Time Bem Diferente	dub=2:319020
+Um Time Especial	dub=2:366122	leg=2:366121
+Um Time Muito Louco	dub=2:131010
+Um Time Muito Louco Contra-Ataca	dub=2:358122	leg=2:358121
+Um Time Show de Bola	dub=2:20469
+Um Tio Quase Perfeito	dub=2:336683,2:20861
+Um Tio Quase Perfeito 2	dub=2:104131
+Um Tira Acima Da Media	dub=2:96007
+Um Tira Muito Suspeito	dub=2:229018
+Um Tira da Pesada (1984)	dub=2:20862
+Um Tira da Pesada 2	dub=2:20863
+Um Tira da Pesada 3	dub=2:20864
+Um Tira da Pesada 4: Axel Foley 4K	dub=2:270278,2:267763	leg=2:267764
+Um Tira do Outro Mundo	dub=2:352941	leg=2:352940
+Um Tira no Jardim de Infância	dub=2:307738
+Um Tira no Jardim de Infância 2	dub=2:307324
+Um Tiro de Misericórdia	dub=2:354285	leg=2:354284
+Um Tiro na Noite	dub=2:138887
+Um Tiro no Escuro	dub=2:345074,2:204490	leg=2:345073
+Um Toque de Rosa	dub=2:122890
 Um Toque de Sedução	dub=2:379494	leg=2:379493
-Um Toque no Coração	dub=2:101669,4:653468
+Um Toque no Coração	dub=2:101669
 Um Trapaceiro do Bem Legendado	dub=2:23935
-Um Universo Entre Nós	dub=2:336144,4:884882	leg=2:336143
-Um Verdadeiro Cavalheiro	dub=2:287381,4:652063	leg=2:287382,4:670689
-Um Verão Diferente	dub=2:158005,4:650694
-Um Verão Infernal	dub=2:338680,4:885026	leg=2:338679
-Um Verão Só Para Nós	dub=2:242193,2:242192,4:650216
-Um Violinista no Telhado	dub=2:352246,2:144076,4:652998	leg=2:352245
+Um Universo Entre Nós	dub=2:336144	leg=2:336143
+Um Verdadeiro Cavalheiro	dub=2:287381	leg=2:287382
+Um Verão Diferente	dub=2:158005
+Um Verão Infernal	dub=2:338680	leg=2:338679
+Um Verão Só Para Nós	dub=2:242193,2:242192
+Um Violinista no Telhado	dub=2:352246,2:144076	leg=2:352245
 Um Vislumbre Repentino de Coisas Mais Profundas	leg=2:369993
-Um Zoológico Extraordinário	dub=2:329684,4:884526	leg=2:329683
+Um Zoológico Extraordinário	dub=2:329684	leg=2:329683
 Um Zé Ninguém Contra Putin	leg=2:371674
 Um abraço de três minutos / 3 Minutos, Um Abraço	dub=2:352384	leg=2:352383
-Um amor para Recordar	dub=2:21592,4:645777
-Um estado de Liberdade	dub=2:273058,4:648392
-Um ninja da pesada	dub=2:20270,4:649726
+Um amor para Recordar	dub=2:21592
+Um estado de Liberdade	dub=2:273058
+Um ninja da pesada	dub=2:20270
 Um Álibi	dub=2:335385	leg=2:335384
-Um Álibi Perfeito	dub=2:122865,4:647440
+Um Álibi Perfeito	dub=2:122865
 Um é Pouco, Dois é Bom	dub=2:370367
-Um. Natal. Surreal.	dub=2:354958,4:900520	leg=2:354957
-Uma Advogada Brilhante	dub=2:344456,4:884906	leg=2:344455
-Uma Agente Muito Louca	dub=2:20865,4:651648
-Uma Amizade Tóxica	dub=2:185296,4:652622	leg=2:185311
-Uma Amizade para Recordar	dub=4:921102
-Uma Astronauta Quase Perfeita	dub=2:267972,2:267971,4:650122	leg=2:267973
+Um. Natal. Surreal.	dub=2:354958	leg=2:354957
+Uma Advogada Brilhante	dub=2:344456	leg=2:344455
+Uma Agente Muito Louca	dub=2:20865
+Uma Amizade Tóxica	dub=2:185296	leg=2:185311
+Uma Astronauta Quase Perfeita	dub=2:267972,2:267971	leg=2:267973
 Uma Aula de Coragem	leg=2:357804
-Uma Aula de Harmonia	dub=2:218264,4:652371	leg=2:218263
-Uma Aventura Até a Lua	dub=2:196758,4:652501	leg=2:196757
-Uma Aventura Entre Irmãos	dub=2:322028,4:884448	leg=2:322029
-Uma Aventura Lego	dub=2:20470,4:646584
-Uma Aventura Lego 2	dub=2:22106,4:646566
-Uma Aventura Lunática	dub=2:168520,4:646181	leg=2:168514
-Uma Aventura Perigosa	dub=2:22495,4:654082
-Uma Aventura Selvagem	dub=2:273079,4:648390	leg=2:273080
-Uma Aventura de Natal	dub=2:229157,4:645026	leg=2:229155
+Uma Aula de Harmonia	dub=2:218264	leg=2:218263
+Uma Aventura Até a Lua	dub=2:196758	leg=2:196757
+Uma Aventura Entre Irmãos	dub=2:322028	leg=2:322029
+Uma Aventura Lego	dub=2:20470
+Uma Aventura Lego 2	dub=2:22106
+Uma Aventura Lunática	dub=2:168520	leg=2:168514
+Uma Aventura Perigosa	dub=2:22495
+Uma Aventura Selvagem	dub=2:273079	leg=2:273080
+Uma Aventura de Natal	dub=2:229157	leg=2:229155
 Uma Aventura do Zico	dub=2:382856
-Uma Aventura no Natal	dub=2:357606,4:896935
-Uma Babá Objeto de Desejo	dub=2:112951,4:653313
-Uma Babá Quase Perfeita	dub=2:322839,2:96005,4:651200
-Uma Babá em Minha Vida	dub=2:31453,4:651501
-Uma Batalha Após a Outra 4K	dub=2:380266,2:380265,2:379431,4:896587,4:900658	leg=2:379430
-Uma Batalha de Fé	dub=2:43819,4:645876
-Uma Bela Manhã	dub=2:359672,2:218876,4:652367,4:900363,4:901302	leg=2:359671,2:218877
-Uma Boa Acao	dub=2:20866,4:651647
-Uma Boa História	dub=2:72658,4:653700
-Uma Boa Mentira	dub=2:336685,4:884735	leg=2:336684
+Uma Aventura no Natal	dub=2:357606
+Uma Babá Objeto de Desejo	dub=2:112951
+Uma Babá Quase Perfeita	dub=2:322839,2:96005
+Uma Babá em Minha Vida	dub=2:31453
+Uma Batalha Após a Outra 4K	dub=2:380266,2:380265,2:379431	leg=2:379430
+Uma Batalha de Fé	dub=2:43819
+Uma Bela Manhã	dub=2:359672,2:218876	leg=2:359671,2:218877
+Uma Boa Acao	dub=2:20866
+Uma Boa História	dub=2:72658
+Uma Boa Mentira	dub=2:336685	leg=2:336684
 Uma Boa Moça	leg=2:246949
-Uma Boa Pessoa	dub=2:279463,4:652100,4:921105
-Uma Caixa Especial	dub=2:313858,4:770464
-Uma Caminhada Na Floresta	dub=2:101670,4:651136
-Uma Canção De Gratidão	dub=2:278692,4:652104	leg=2:278693
-Uma Canção Para Ela	dub=2:329702,4:885089	leg=2:329701
-Uma Canção de Natal	dub=2:31454,4:651500
-Uma Canção para Latasha	dub=2:74762,4:648203
+Uma Boa Pessoa	dub=2:279463
+Uma Caixa Especial	dub=2:313858
+Uma Caminhada Na Floresta	dub=2:101670
+Uma Canção De Gratidão	dub=2:278692	leg=2:278693
+Uma Canção Para Ela	dub=2:329702	leg=2:329701
+Uma Canção de Natal	dub=2:31454
+Uma Canção para Latasha	dub=2:74762
 Uma Carta Para Ferdinand	dub=2:371956
-Uma Carta à Minha Juventude	dub=2:364802,4:903367,4:911639	leg=2:364801
-Uma Casa Sem Saída	dub=2:314009,4:736004	leg=2:314010,4:762525
-Uma Casa em Chamas	dub=2:377820,4:915071	leg=2:377819
-Uma Chamada Perdida	dub=2:357608,4:901084	leg=2:357607
-Uma Chance para Recomeçar	dub=2:192102,4:652546	leg=2:192098
-Uma Chance para Vencer	dub=2:214612,4:652394	leg=2:214611
-Uma Chance para o Sucesso	dub=2:194846,4:652523	leg=2:194843
-Uma Cidade Sem Lei	dub=2:111602,4:647467
-Uma Cidade de Loucura	dub=2:146755,4:650747
-Uma Cidade em Alerta	dub=2:196303,4:652510	leg=2:196302
-Uma Cilada para Roger Rabbit	dub=2:328189,2:194542,4:646121	leg=2:328188
-Uma Comédia Nada Romântica	dub=2:113015,4:650998
-Uma Comédia Romântica	dub=2:367063,2:343574,4:884454	leg=2:367062,2:343573
-Uma Comédia de Erros	dub=2:312328,4:762885	leg=2:312329,4:762625
-Uma Conexão para o Natal	dub=2:31900,4:653926
-Uma Crianca Como Jake	dub=2:27653,4:653999
-Uma Criança Por Testemunha	dub=2:309727,4:770343	leg=2:309728
-Uma Dobra no Tempo 4K	dub=2:358165,2:21368,4:646991
-Uma Doce Revolução	dub=2:193439,4:652529	leg=2:193438
-Uma Entrega para o Natal	dub=2:181446,4:645503	leg=2:181429
-Uma Equipe Boa pra Cachorro	dub=2:361355,4:900352	leg=2:361354
-Uma Escola Atrapalhada	dub=2:333305,2:315689,4:739593,4:884510
+Uma Carta à Minha Juventude	dub=2:364802	leg=2:364801
+Uma Casa Sem Saída	dub=2:314009	leg=2:314010
+Uma Casa em Chamas	dub=2:377820	leg=2:377819
+Uma Chamada Perdida	dub=2:357608	leg=2:357607
+Uma Chance para Recomeçar	dub=2:192102	leg=2:192098
+Uma Chance para Vencer	dub=2:214612	leg=2:214611
+Uma Chance para o Sucesso	dub=2:194846	leg=2:194843
+Uma Cidade Sem Lei	dub=2:111602
+Uma Cidade de Loucura	dub=2:146755
+Uma Cidade em Alerta	dub=2:196303	leg=2:196302
+Uma Cilada para Roger Rabbit	dub=2:328189,2:194542	leg=2:328188
+Uma Comédia Nada Romântica	dub=2:113015
+Uma Comédia Romântica	dub=2:367063,2:343574	leg=2:367062,2:343573
+Uma Comédia de Erros	dub=2:312328	leg=2:312329
+Uma Conexão para o Natal	dub=2:31900
+Uma Crianca Como Jake	dub=2:27653
+Uma Criança Por Testemunha	dub=2:309727	leg=2:309728
+Uma Dobra no Tempo 4K	dub=2:358165,2:21368
+Uma Doce Revolução	dub=2:193439	leg=2:193438
+Uma Entrega para o Natal	dub=2:181446	leg=2:181429
+Uma Equipe Boa pra Cachorro	dub=2:361355	leg=2:361354
+Uma Escola Atrapalhada	dub=2:333305,2:315689
 Uma Escolha pela Vida	dub=2:325026	leg=2:325025
-Uma Esperança no Natal	dub=2:44169,4:651393
-Uma Esposa de Mentira	dub=2:227387,4:645406	leg=2:227386
-Uma Estranha de Los Angeles	dub=2:122866,4:644760
-Uma Fada Veio Me Visitar	dub=2:230129,4:646754
-Uma Família Extraordinária 4K	dub=2:266663,2:229168,4:650272	leg=2:229144
-Uma Família Feliz	dub=2:367007,2:264364,2:26892,4:644257,4:646538,4:905046
-Uma Família Feliz 2	dub=2:154570,4:646220	leg=2:154571
-Uma Família Muito Nobre	dub=2:122921,4:650954
+Uma Esperança no Natal	dub=2:44169
+Uma Esposa de Mentira	dub=2:227387	leg=2:227386
+Uma Estranha de Los Angeles	dub=2:122866
+Uma Fada Veio Me Visitar	dub=2:230129
+Uma Família Extraordinária 4K	dub=2:266663,2:229168	leg=2:229144
+Uma Família Feliz	dub=2:367007,2:264364,2:26892
+Uma Família Feliz 2	dub=2:154570	leg=2:154571
+Uma Família Muito Nobre	dub=2:122921
 Uma Família Normal	leg=2:343983
-Uma Família de Dois	dub=2:33416,4:653902
-Uma Família em Pedaços	dub=2:336977,4:884728	leg=2:336976
-Uma Faísca de Natal	dub=2:354005,4:900584	leg=2:354004
-Uma Festa de Arromba	dub=2:186757,2:186755,4:650483	leg=2:186761
-Uma Festa no Ar	dub=2:165170,4:645541
-Uma Floresta Misteriosa	dub=2:333613,4:885049	leg=2:333612
-Uma Floresta Muito Louca	dub=2:20471,4:646583
-Uma Foto Antes de Morrer	dub=2:164225,4:654920	leg=2:164228
+Uma Família de Dois	dub=2:33416
+Uma Família em Pedaços	dub=2:336977	leg=2:336976
+Uma Faísca de Natal	dub=2:354005	leg=2:354004
+Uma Festa de Arromba	dub=2:186757,2:186755	leg=2:186761
+Uma Festa no Ar	dub=2:165170
+Uma Floresta Misteriosa	dub=2:333613	leg=2:333612
+Uma Floresta Muito Louca	dub=2:20471
+Uma Foto Antes de Morrer	dub=2:164225	leg=2:164228
 Uma Garota Chamada Marina	dub=2:366123
-Uma Garota de Muita Sorte 4K	dub=2:285821,2:176794,4:644914	leg=2:176790
-Uma Gota de Esperanca 4k	dub=2:106471,2:106463,4:648176
-Uma Gravidez Desejada	dub=2:279187,4:652101	leg=2:279188
-Uma Guerra Pessoal	dub=2:30627,4:653953
-Uma Herança Inusitada	dub=2:265882,4:650129	leg=2:265883
-Uma Historia Diferente	dub=2:97218,4:645683
-Uma História Americana	dub=2:125976,4:653252
+Uma Garota de Muita Sorte 4K	dub=2:285821,2:176794	leg=2:176790
+Uma Gota de Esperanca 4k	dub=2:106471,2:106463
+Uma Gravidez Desejada	dub=2:279187	leg=2:279188
+Uma Guerra Pessoal	dub=2:30627
+Uma Herança Inusitada	dub=2:265882	leg=2:265883
+Uma Historia Diferente	dub=2:97218
+Uma História Americana	dub=2:125976
 Uma História Nebulosa	leg=2:380254
-Uma História Quase de Natal	leg=2:295735,4:670413
-Uma História Real	dub=2:360870,2:133071,4:653149	leg=2:360869
-Uma História de Amor Americana	dub=2:246982,4:650209	leg=2:246983
+Uma História Quase de Natal	leg=2:295735
+Uma História Real	dub=2:360870,2:133071	leg=2:360869
+Uma História de Amor Americana	dub=2:246982	leg=2:246983
 Uma História de Amor em Lagos	leg=2:328112
-Uma História de Cinderela: Starstruck	dub=2:112411,4:651019
-Uma História de Cinderela: Um Desejo de Natal	dub=2:30606,4:651515
-Uma História de Natal	dub=2:355774,4:896949	leg=2:355773
-Uma História de Natal Natalina	dub=2:180343,4:645071	leg=2:180312
+Uma História de Cinderela: Starstruck	dub=2:112411
+Uma História de Cinderela: Um Desejo de Natal	dub=2:30606
+Uma História de Natal	dub=2:355774	leg=2:355773
+Uma História de Natal Natalina	dub=2:180343	leg=2:180312
 Uma História de Sobrevivência	dub=2:343985	leg=2:343984
-Uma História de Superação	dub=2:266025,4:652131	leg=2:266026
+Uma História de Superação	dub=2:266025	leg=2:266026
 Uma História de Vingança	leg=2:348819
-Uma Ideia de Você 4K	dub=2:259073,2:259022,4:645357	leg=2:259023
-Uma Ilha Quase Deserta	dub=2:311103,4:762891	leg=2:311104,4:762679
-Uma Invenção de Natal 4K	dub=2:189911,2:88486,4:646903
-Uma Irmã Nada Perfeita 4K	dub=2:328518,2:103998,4:651113
-Uma Jogada de Natal	dub=2:353746,4:900601	leg=2:353745
-Uma Jornada Entre Amigos	dub=2:256347,4:652182	leg=2:256348
-Uma Jornada Entre Irmãos	dub=2:209517,4:647260
-Uma Jornada Mágica	dub=2:182909,4:645247	leg=2:182898
-Uma Jornada de Fé	dub=2:223113,4:652343	leg=2:223092
-Uma Jornada de Perdão	dub=2:40574,4:645878
-Uma Jornada na África	dub=2:312313,4:703544	leg=2:312314,4:762628
-Uma Ladra Sem Limites	dub=2:282567,4:650087
-Uma Licao de Vida (2010)	dub=2:108304,4:645862
-Uma Linda Mulher	dub=2:21593,4:645776
-Uma Linda Vida 4K	dub=2:217277,2:196732,4:652505	leg=2:196737
-Uma Livraria em Paris	dub=2:166221,4:652773	leg=2:166216
-Uma Lição de Amor	dub=2:208621,2:148672,4:652435,4:652937	leg=2:208622
-Uma Lição de Esperança	dub=2:159960,4:645016	leg=2:159959
-Uma Lição de Vida	dub=2:44172,4:653801
-Uma Lição do Passado	dub=2:312315,4:770482	leg=2:314986,2:312316,4:762491
+Uma Ideia de Você 4K	dub=2:259073,2:259022	leg=2:259023
+Uma Ilha Quase Deserta	dub=2:311103	leg=2:311104
+Uma Invenção de Natal 4K	dub=2:189911,2:88486
+Uma Irmã Nada Perfeita 4K	dub=2:328518,2:103998
+Uma Jogada de Natal	dub=2:353746	leg=2:353745
+Uma Jornada Entre Amigos	dub=2:256347	leg=2:256348
+Uma Jornada Entre Irmãos	dub=2:209517
+Uma Jornada Mágica	dub=2:182909	leg=2:182898
+Uma Jornada de Fé	dub=2:223113	leg=2:223092
+Uma Jornada de Perdão	dub=2:40574
+Uma Jornada na África	dub=2:312313	leg=2:312314
+Uma Ladra Sem Limites	dub=2:282567
+Uma Licao de Vida (2010)	dub=2:108304
+Uma Linda Mulher	dub=2:21593
+Uma Linda Vida 4K	dub=2:217277,2:196732	leg=2:196737
+Uma Livraria em Paris	dub=2:166221	leg=2:166216
+Uma Lição de Amor	dub=2:208621,2:148672	leg=2:208622
+Uma Lição de Esperança	dub=2:159960	leg=2:159959
+Uma Lição de Vida	dub=2:44172
+Uma Lição do Passado	dub=2:312315	leg=2:314986,2:312316
 Uma Loira de Verdade	dub=2:374325	leg=2:374324
-Uma Longa Jornada	dub=2:21193,4:654129
-Uma Longa Viagem	dub=2:250618,4:652223
-Uma Manhã Gloriosa	dub=2:200597,4:650410
-Uma Manhã Suave	dub=2:144033,4:653009
-Uma Manhã de Cada Vez	dub=2:312330,4:770480	leg=2:312331,4:762624
-Uma Melodia para Relembrar	dub=2:371958,4:911537	leg=2:371957
-Uma Mensagem Antes do Natal	dub=2:352986,4:900626	leg=2:352985
-Uma Mensagem Através do Tempo	dub=2:338611,2:63114,4:653732	leg=2:338610
-Uma Mente Brilhante	dub=2:157960,4:652873
-Uma Missão de Fé	dub=2:156686,4:652888	leg=2:156684
+Uma Longa Jornada	dub=2:21193
+Uma Longa Viagem	dub=2:250618
+Uma Manhã Gloriosa	dub=2:200597
+Uma Manhã Suave	dub=2:144033
+Uma Manhã de Cada Vez	dub=2:312330	leg=2:312331
+Uma Melodia para Relembrar	dub=2:371958	leg=2:371957
+Uma Mensagem Antes do Natal	dub=2:352986	leg=2:352985
+Uma Mensagem Através do Tempo	dub=2:338611,2:63114	leg=2:338610
+Uma Mente Brilhante	dub=2:157960
+Uma Missão de Fé	dub=2:156686	leg=2:156684
 Uma Mulher Astuta	leg=2:352367
-Uma Mulher Comum	dub=2:336146,4:885041	leg=2:336145
-Uma Mulher Contra um País	dub=2:182629,4:652648	leg=2:182630
-Uma Mulher Diferente	dub=2:371169,4:909074	leg=2:371168
-Uma Mulher Sem Filtro	dub=2:347704,4:901436	leg=2:347703
-Uma Mulher de Negócios	dub=2:159820,4:652853	leg=2:159825
-Uma Mulher para Dois	dub=2:352943,4:896987	leg=2:352942
-Uma Mãe em Apuros	dub=2:354287,4:896962	leg=2:354286
-Uma Natureza Violenta	dub=2:304589,4:736076	leg=2:304590,4:670156
-Uma Noite Alucinante 2	dub=2:128841,4:655088
-Uma Noite Alucinante 3	dub=2:128870,4:655086
-Uma Noite Alucinante: A Morte do Demônio	dub=2:379496,2:128889,4:655081	leg=2:379495
-Uma Noite Apavorante	dub=2:184022,4:644901	leg=2:184026
-Uma Noite De Crime 2	dub=2:21369,4:646990
-Uma Noite Fora De Serie	dub=2:97219,4:651174
-Uma Noite Infernal	dub=2:43853,4:647565
-Uma Noite Mais que Louca	dub=2:309917,2:20867,4:651646,4:762909	leg=2:309918
-Uma Noite Maldita	dub=2:30583,4:655378
-Uma Noite Não é Nada	dub=2:300822,2:114379,4:644198,4:653295
-Uma Noite Para Esquecer	dub=2:191902,4:648600
-Uma Noite Sem Limites	dub=2:209525,4:650366	leg=2:209526
-Uma Noite Sombria	dub=2:182632,4:644902	leg=2:182631
-Uma Noite Violenta em New York	dub=2:297287,4:648291	leg=2:297288,4:670370
-Uma Noite com a Família Blacks 2: O Perigo Mora ao Lado	dub=2:157445,4:650704	leg=2:157441
-Uma Noite com o Demônio	dub=2:292314,4:654428	leg=2:292315,4:670518
-Uma Noite de Amor	dub=2:329006,4:885098
-Uma Noite de Crime	dub=2:348821,4:901922	leg=2:348820
-Uma Noite de Crime 1	dub=2:21370,4:646989
-Uma Noite de Crime 3	dub=2:21371,4:646988
+Uma Mulher Comum	dub=2:336146	leg=2:336145
+Uma Mulher Contra um País	dub=2:182629	leg=2:182630
+Uma Mulher Diferente	dub=2:371169	leg=2:371168
+Uma Mulher Sem Filtro	dub=2:347704	leg=2:347703
+Uma Mulher de Negócios	dub=2:159820	leg=2:159825
+Uma Mulher para Dois	dub=2:352943	leg=2:352942
+Uma Mãe em Apuros	dub=2:354287	leg=2:354286
+Uma Natureza Violenta	dub=2:304589	leg=2:304590
+Uma Noite Alucinante 2	dub=2:128841
+Uma Noite Alucinante 3	dub=2:128870
+Uma Noite Alucinante: A Morte do Demônio	dub=2:379496,2:128889	leg=2:379495
+Uma Noite Apavorante	dub=2:184022	leg=2:184026
+Uma Noite De Crime 2	dub=2:21369
+Uma Noite Fora De Serie	dub=2:97219
+Uma Noite Infernal	dub=2:43853
+Uma Noite Mais que Louca	dub=2:309917,2:20867	leg=2:309918
+Uma Noite Maldita	dub=2:30583
+Uma Noite Não é Nada	dub=2:300822,2:114379
+Uma Noite Para Esquecer	dub=2:191902
+Uma Noite Sem Limites	dub=2:209525	leg=2:209526
+Uma Noite Sombria	dub=2:182632	leg=2:182631
+Uma Noite Violenta em New York	dub=2:297287	leg=2:297288
+Uma Noite com a Família Blacks 2: O Perigo Mora ao Lado	dub=2:157445	leg=2:157441
+Uma Noite com o Demônio	dub=2:292314	leg=2:292315
+Uma Noite de Amor	dub=2:329006
+Uma Noite de Crime	dub=2:348821	leg=2:348820
+Uma Noite de Crime 1	dub=2:21370
+Uma Noite de Crime 3	dub=2:21371
 Uma Noite de Crime 5: A Fronteira	leg=2:133098
-Uma Noite de Crime: A Fronteira	dub=2:140784,4:655017
-Uma Noite de Loucuras	dub=2:20868,4:651645
-Uma Noite de Natal	dub=2:141549,2:31455,4:650791,4:670131
-Uma Noite e Tanto	dub=2:355776,4:896948	leg=2:355775
-Uma Noite em Banguecoque	dub=2:69910,4:647534
-Uma Noite em Miami...	dub=2:92566,4:653607
-Uma Noite no Inferno	dub=2:262189,4:654555
-Uma Noite no Jardim de Infância	dub=2:182896,4:650520	leg=2:182887
-Uma Noite no Lago	dub=2:251978,4:645375	leg=2:251979
-Uma Noite no Museu	dub=2:20871,4:651642
-Uma Noite no Museu 2	dub=2:320924,2:20869,4:651644	leg=2:320925
-Uma Noite no Museu 3 - O Segredo da Tumba	dub=2:20870,4:651643
-Uma Noite no Museu: O Retorno de Kahmunrah	dub=2:181441,4:646149	leg=2:181416
-Uma Noiva em Apuros	dub=2:45110,4:645715
-Uma Nota para o Amor	dub=2:369223,4:907184,4:911591	leg=2:369222
-Uma Nova Educação	dub=2:254787,4:650176	leg=2:254788
-Uma Nova Paixão	dub=2:286367,4:645319	leg=2:286368,4:670733
+Uma Noite de Crime: A Fronteira	dub=2:140784
+Uma Noite de Loucuras	dub=2:20868
+Uma Noite de Natal	dub=2:141549,2:31455
+Uma Noite e Tanto	dub=2:355776	leg=2:355775
+Uma Noite em Banguecoque	dub=2:69910
+Uma Noite em Miami...	dub=2:92566
+Uma Noite no Inferno	dub=2:262189
+Uma Noite no Jardim de Infância	dub=2:182896	leg=2:182887
+Uma Noite no Lago	dub=2:251978	leg=2:251979
+Uma Noite no Museu	dub=2:20871
+Uma Noite no Museu 2	dub=2:320924,2:20869	leg=2:320925
+Uma Noite no Museu 3 - O Segredo da Tumba	dub=2:20870
+Uma Noite no Museu: O Retorno de Kahmunrah	dub=2:181441	leg=2:181416
+Uma Noiva em Apuros	dub=2:45110
+Uma Nota para o Amor	dub=2:369223	leg=2:369222
+Uma Nova Educação	dub=2:254787	leg=2:254788
+Uma Nova Paixão	dub=2:286367	leg=2:286368
 Uma Nova Tocaia	dub=2:363927
-Uma Nuvem no Ceu	dub=2:103149,4:655187
-Uma Obsessão Desconhecida 4K	dub=2:186766,2:186765,4:644677	leg=2:186764
-Uma Onda no Ar	dub=2:324843,4:884808
-Uma Paixão Inesperada	dub=2:198684,4:652483	leg=2:198681
-Uma Paixão Roubada	dub=2:197656,4:650418	leg=2:197657
-Uma Paixão em Seoul	dub=2:112968,4:651004
-Uma Paixão no Natal	dub=2:301668,4:677920	leg=2:301669,4:670202
-Uma Parede entre Nós	dub=2:256349,4:645363	leg=2:256350
-Uma Parte de Você	dub=2:263733,4:652146	leg=2:263734
-Uma Patricinha de Outro Mundo	dub=2:329008,4:884534	leg=2:329007
-Uma Pitada de Amor	dub=2:259349,4:645353	leg=2:259350
-Uma Pitada de Sorte	dub=2:184083,4:650508
-Uma Ponte Longe Demais	dub=2:110789,4:653342
+Uma Nuvem no Ceu	dub=2:103149
+Uma Obsessão Desconhecida 4K	dub=2:186766,2:186765	leg=2:186764
+Uma Onda no Ar	dub=2:324843
+Uma Paixão Inesperada	dub=2:198684	leg=2:198681
+Uma Paixão Roubada	dub=2:197656	leg=2:197657
+Uma Paixão em Seoul	dub=2:112968
+Uma Paixão no Natal	dub=2:301668	leg=2:301669
+Uma Parede entre Nós	dub=2:256349	leg=2:256350
+Uma Parte de Você	dub=2:263733	leg=2:263734
+Uma Patricinha de Outro Mundo	dub=2:329008	leg=2:329007
+Uma Pitada de Amor	dub=2:259349	leg=2:259350
+Uma Pitada de Sorte	dub=2:184083
+Uma Ponte Longe Demais	dub=2:110789
 Uma Pousada de Presente	leg=2:353947
-Uma Prece Antes Do Amanhecer	dub=2:25479,4:654027
-Uma Proposta Natalina	dub=2:185245,4:645494	leg=2:185247
-Uma Prova De Fé	dub=2:110782,4:645844
-Uma Prova de Amor	dub=2:357610,2:122903,4:653261	leg=2:357609
-Uma Prova de Coragem	dub=2:262191,4:652150
-Uma Prova de Fé 2: Voltando para Casa	dub=2:110783,4:645843
+Uma Prece Antes Do Amanhecer	dub=2:25479
+Uma Proposta Natalina	dub=2:185245	leg=2:185247
+Uma Prova De Fé	dub=2:110782
+Uma Prova de Amor	dub=2:357610,2:122903	leg=2:357609
+Uma Prova de Coragem	dub=2:262191
+Uma Prova de Fé 2: Voltando para Casa	dub=2:110783
 Uma Pulga na Balança	dub=2:382677
-Uma Quase Dupla	dub=2:327009,2:20872,4:651641
-Uma Quedinha de Natal	dub=2:179782,4:645511	leg=2:179777
-Uma Questao de Fe	dub=2:21194,4:645912
-Uma Questão de Escolha	dub=2:345279,4:901453
+Uma Quase Dupla	dub=2:327009,2:20872
+Uma Quedinha de Natal	dub=2:179782	leg=2:179777
+Uma Questao de Fe	dub=2:21194
+Uma Questão de Escolha	dub=2:345279
 Uma Questão de Respeito	dub=2:368269	leg=2:368268
-Uma Razão para Viver	dub=2:301051,4:645270
-Uma Relação Delicada	dub=2:253543,4:652205	leg=2:253544
-Uma Ressaca de 9 Meses	dub=2:20873,4:651640
+Uma Razão para Viver	dub=2:301051
+Uma Relação Delicada	dub=2:253543	leg=2:253544
+Uma Ressaca de 9 Meses	dub=2:20873
 Uma Roubada em Família	leg=2:230866
-Uma Rua Chamada Pecado	dub=2:105432,4:653404
-Uma Saída de Mestre	dub=2:144063,2:20271,4:649725,4:803824
-Uma Secretária de Futuro	dub=2:309919,2:119714,4:650988,4:762908	leg=2:309920
-Uma Segunda Chance	dub=2:377842,2:375238,2:375110,2:297824,4:645283,4:913179	leg=2:377841,2:375109,2:297825,4:670331
-Uma Segunda Chance Para Amar 4K	dub=2:301670,2:36655,4:651426
-Uma Segunda Chance: Rivais!	dub=2:352420,4:653691,4:653869	leg=2:352419
-Uma Sereia em Paris	dub=2:91276,4:645697
-Uma Sexta-Feira Mais Louca Ainda	dub=2:352672,4:896992,4:900665	leg=2:352671,2:349770
-Uma Skatista Radical	dub=2:110748,4:653343
-Uma Surpresa de Natal	dub=2:297485,4:650031	leg=2:297487,4:670341
-Uma Tacada de Mestre	dub=2:336979,4:884727	leg=2:336978
+Uma Rua Chamada Pecado	dub=2:105432
+Uma Saída de Mestre	dub=2:144063,2:20271
+Uma Secretária de Futuro	dub=2:309919,2:119714	leg=2:309920
+Uma Segunda Chance	dub=2:377842,2:375238,2:375110,2:297824	leg=2:377841,2:375109,2:297825
+Uma Segunda Chance Para Amar 4K	dub=2:301670,2:36655
+Uma Segunda Chance: Rivais!	dub=2:352420	leg=2:352419
+Uma Sereia em Paris	dub=2:91276
+Uma Sexta-Feira Mais Louca Ainda	dub=2:352672	leg=2:352671,2:349770
+Uma Skatista Radical	dub=2:110748
+Uma Surpresa de Natal	dub=2:297485	leg=2:297487
+Uma Tacada de Mestre	dub=2:336979	leg=2:336978
 Uma Tarefa Maluca	leg=2:68469
-Uma Terra Mágica	dub=2:361369,4:900346,4:902597	leg=2:361368
-Uma Tia da Pesada	dub=2:162019,4:645265
-Uma Valsa de Natal em Paris	dub=2:352382,4:900672	leg=2:352381
-Uma Viagem Entre Amigos	dub=2:204450,4:650389	leg=2:204451
-Uma Viagem Extraordinária	dub=2:200814,4:645237
-Uma Viagem Incrível: O Mistério do Ovo	dub=2:183730,4:645058	leg=2:183740
-Uma Viagem Noite Adentro	dub=2:263721,4:654545	leg=2:263722
-Uma Viagem ao Desconhecido	dub=2:341099,4:884680	leg=2:341098
-Uma Viagem ao Infinito	dub=2:180320,4:648048	leg=2:180353
-Uma Viagem para Grécia	dub=2:164216,4:650641	leg=2:164213
-Uma Viagem para Paris	dub=2:227390,4:645405	leg=2:227384
-Uma Viagem para Recordar	dub=2:358167,4:897025,4:900413	leg=2:358166
-Uma Vida Honesta	dub=2:337409,4:884725	leg=2:337408
-Uma Vida Inteira	dub=2:334307,4:884752	leg=2:334306
-Uma Vida Oculta	dub=2:44609,4:653789
-Uma Vida Quase Normal	dub=2:349750,4:889787	leg=2:349749
-Uma Vida Sem Limites	dub=2:369453,4:911575	leg=2:369452
-Uma Vida Sem Roteiro	dub=2:329899,4:885088	leg=2:329898
-Uma Vida com Proposito	dub=2:21539,4:645885
-Uma Vida de Esperança	dub=2:380373,2:264732,2:264731,4:652141,4:918168	leg=2:380372,2:264733
-Uma Vida em Sete Dias	dub=2:323703,4:884563	leg=2:323702
-Uma Vida: A História de Nicholas Winton	dub=2:259351,4:644966	leg=2:259352
-Uma Virada do Destino	dub=2:254066,4:650183
-Uma Visita Inesperada	dub=2:279189,4:654483	leg=2:279190
-Uma Voz Contra o Poder	dub=2:151985,4:652903	leg=2:151979
-Uma Xícara de Café e Sapatos Novos	dub=2:358705,4:900411,4:902621	leg=2:358704
-Uma e Haggen: Mitos	dub=2:301984,4:762787	leg=2:301985,4:670189
-Uma história em Montana	dub=2:251189,4:652221	leg=2:251190
-Uma Última Vez	dub=2:193040,2:92594,4:652536,4:653602	leg=2:193039
-Umbrella	dub=2:213919,4:646086
-Umidade	dub=2:347705,4:901435
-Umjolo O Amor Nao Tem Cura	dub=2:311105,4:736101	leg=2:311106,4:762678
-Umjolo: Entre Dois Amores	dub=2:301671,4:677919	leg=2:301672,4:670201
-Umjolo: Mais que Amizade	dub=2:300142,4:645275	leg=2:300143,4:670270
-Un Portero Muy Improbable	dub=4:921100
-Un actor malo	leg=2:282074,4:670861
-Un coup de maître	leg=2:301061,4:670224
-Un monde merveilleux	dub=2:381652,4:918150	leg=2:381651
+Uma Terra Mágica	dub=2:361369	leg=2:361368
+Uma Tia da Pesada	dub=2:162019
+Uma Valsa de Natal em Paris	dub=2:352382	leg=2:352381
+Uma Viagem Entre Amigos	dub=2:204450	leg=2:204451
+Uma Viagem Extraordinária	dub=2:200814
+Uma Viagem Incrível: O Mistério do Ovo	dub=2:183730	leg=2:183740
+Uma Viagem Noite Adentro	dub=2:263721	leg=2:263722
+Uma Viagem ao Desconhecido	dub=2:341099	leg=2:341098
+Uma Viagem ao Infinito	dub=2:180320	leg=2:180353
+Uma Viagem para Grécia	dub=2:164216	leg=2:164213
+Uma Viagem para Paris	dub=2:227390	leg=2:227384
+Uma Viagem para Recordar	dub=2:358167	leg=2:358166
+Uma Vida Honesta	dub=2:337409	leg=2:337408
+Uma Vida Inteira	dub=2:334307	leg=2:334306
+Uma Vida Oculta	dub=2:44609
+Uma Vida Quase Normal	dub=2:349750	leg=2:349749
+Uma Vida Sem Limites	dub=2:369453	leg=2:369452
+Uma Vida Sem Roteiro	dub=2:329899	leg=2:329898
+Uma Vida com Proposito	dub=2:21539
+Uma Vida de Esperança	dub=2:380373,2:264732,2:264731	leg=2:380372,2:264733
+Uma Vida em Sete Dias	dub=2:323703	leg=2:323702
+Uma Vida: A História de Nicholas Winton	dub=2:259351	leg=2:259352
+Uma Virada do Destino	dub=2:254066
+Uma Visita Inesperada	dub=2:279189	leg=2:279190
+Uma Voz Contra o Poder	dub=2:151985	leg=2:151979
+Uma Xícara de Café e Sapatos Novos	dub=2:358705	leg=2:358704
+Uma e Haggen: Mitos	dub=2:301984	leg=2:301985
+Uma história em Montana	dub=2:251189	leg=2:251190
+Uma Última Vez	dub=2:193040,2:92594	leg=2:193039
+Umbrella	dub=2:213919
+Umidade	dub=2:347705
+Umjolo O Amor Nao Tem Cura	dub=2:311105	leg=2:311106
+Umjolo: Entre Dois Amores	dub=2:301671	leg=2:301672
+Umjolo: Mais que Amizade	dub=2:300142	leg=2:300143
+Un actor malo	leg=2:282074
+Un coup de maître	leg=2:301061
+Un monde merveilleux	dub=2:381652	leg=2:381651
 Un mondo a parte	leg=2:345475
 Una gran voglia di vivere	dub=2:194202
-Unabomber: Terrorista	dub=2:163574,4:648718	leg=2:163572
+Unabomber: Terrorista	dub=2:163574	leg=2:163572
 Unbelievable	leg=2:68470
-Uncharted: Fora do Mapa	dub=2:158974,4:648755	leg=2:158973
+Uncharted: Fora do Mapa	dub=2:158974	leg=2:158973
 Uncle Tom	leg=2:68471
 Under The Riccione Sun	leg=2:48278
-Under Wraps: Uma Múmia no Halloween	dub=2:133976,4:650851	leg=2:133975
-Under Wraps: Uma Múmia no Halloween 2	dub=2:182304,4:645062	leg=2:182307
+Under Wraps: Uma Múmia no Halloween	dub=2:133976	leg=2:133975
+Under Wraps: Uma Múmia no Halloween 2	dub=2:182304	leg=2:182307
 Under Your Bed	leg=2:306877
-Under the Eiffel Tower	dub=2:137596,4:645630	leg=2:137597
-Under the Volcano	dub=2:246946,4:647850	leg=2:246947
+Under the Eiffel Tower	dub=2:137596	leg=2:137597
+Under the Volcano	dub=2:246946	leg=2:246947
 Undercover Cheerleader	leg=2:68472
-Undergods: Contos do Submundo	dub=2:208883,4:646763	leg=2:208882
+Undergods: Contos do Submundo	dub=2:208883	leg=2:208882
 Underwater	leg=2:42524
 Unexpected Christmas	leg=2:355685
 Ungentle	leg=2:352988
 Unhinged	leg=2:77832
-Unidade Ranger	dub=2:230890,4:648491	leg=2:230893
-Unidas Pela Esperança	dub=2:304591,4:668743
-Unidas Pela Vida	dub=2:134063,4:653112
-Universidade Monstros	dub=2:20472,4:646582
-União Instável	dub=2:229471,4:650268
-União do Mal	dub=2:141517,4:648851
-Unknown: Cave of Bones	dub=2:202872,4:647958	leg=2:202873
-Unknown: The Lost Pyramid	dub=2:200864,4:647973	leg=2:200863
-Uno: Entre o Ouro e a Morte	dub=2:370728,4:908291,4:911563	leg=2:370727
+Unidade Ranger	dub=2:230890	leg=2:230893
+Unidas Pela Esperança	dub=2:304591
+Unidas Pela Vida	dub=2:134063
+Universidade Monstros	dub=2:20472
+União Instável	dub=2:229471
+União do Mal	dub=2:141517
+Unknown: Cave of Bones	dub=2:202872	leg=2:202873
+Unknown: The Lost Pyramid	dub=2:200864	leg=2:200863
+Uno: Entre o Ouro e a Morte	dub=2:370728	leg=2:370727
 Unplanned Legendado	dub=2:28974
 Unpregnant	leg=2:76667
-Uns Bracos	dub=2:104132,4:644430
+Uns Bracos	dub=2:104132
 Unsung Hero	leg=2:266664
-Until Dawn: Noite de Terror 4K	dub=2:323813,2:323406,2:322819,4:822999	leg=2:322818
+Until Dawn: Noite de Terror 4K	dub=2:323813,2:323406,2:322819	leg=2:322818
 Untold Reino Unido: A Vitória do Liverpool	leg=2:378725
-Untold Reino Unido: Jamie Vardy	dub=2:378029,4:915077	leg=2:378028
-Untold Reino Unido: Vinnie Jones	dub=2:380277,4:918174	leg=2:380276
-Untold: A Morte e a Vida de Lamar Odom	dub=4:924507	leg=2:372131
-Untold: A Queda de Brett Favre	dub=2:322731,4:846481	leg=2:322730
-Untold: A Vergonha do Doping	dub=2:208889,4:647934	leg=2:208898
-Untold: Crime e Infrações	dub=2:190977,2:190972,4:648003	leg=2:190984
-Untold: Crime em Hawthorne Hill	dub=2:375243,4:913174	leg=2:375242
-Untold: Defesa Armada	dub=2:320571,4:846490	leg=2:320570
-Untold: Jail Blazers	dub=2:374345,4:912351	leg=2:374344
-Untold: Jake Paul, O Garoto Problema	dub=2:205559,4:647944	leg=2:205558
-Untold: Johnny Football	dub=2:208212,4:647937	leg=2:208213
-Untold: O Assassinato de Steve McNair	dub=2:281521,4:647776	leg=2:281522,4:670872
-Untold: O Rei do Fígado	dub=2:321021,4:846486	leg=2:321020
+Untold Reino Unido: Jamie Vardy	dub=2:378029	leg=2:378028
+Untold Reino Unido: Vinnie Jones	dub=2:380277	leg=2:380276
+Untold: A Morte e a Vida de Lamar Odom	leg=2:372131
+Untold: A Queda de Brett Favre	dub=2:322731	leg=2:322730
+Untold: A Vergonha do Doping	dub=2:208889	leg=2:208898
+Untold: Crime e Infrações	dub=2:190977,2:190972	leg=2:190984
+Untold: Crime em Hawthorne Hill	dub=2:375243	leg=2:375242
+Untold: Defesa Armada	dub=2:320571	leg=2:320570
+Untold: Jail Blazers	dub=2:374345	leg=2:374344
+Untold: Jake Paul, O Garoto Problema	dub=2:205559	leg=2:205558
+Untold: Johnny Football	dub=2:208212	leg=2:208213
+Untold: O Assassinato de Steve McNair	dub=2:281521	leg=2:281522
+Untold: O Rei do Fígado	dub=2:321021	leg=2:321020
 Untold: O Rei em Xeque 4K	dub=2:373397
 Untold: Pacto com o Diabo 4K	dub=2:190975
-Up: Altas Aventuras	dub=2:112430,2:20468,4:646323,4:646586
-Upa Meu Monstro Favorito	dub=2:20874,4:651639
-Upa, Meu Monstro Favorito 2	dub=2:279191,4:650103	leg=2:279192
-Upgrade: As Cores do Amor 4K	dub=2:265876,2:247292,4:645385	leg=2:247293
-Upgrade: Atualização	dub=2:251300,4:648456
+Up: Altas Aventuras	dub=2:112430,2:20468
+Upa Meu Monstro Favorito	dub=2:20874
+Upa, Meu Monstro Favorito 2	dub=2:279191	leg=2:279192
+Upgrade: As Cores do Amor 4K	dub=2:265876,2:247292	leg=2:247293
+Upgrade: Atualização	dub=2:251300
 Uppena	leg=2:102488
-Upstarts	dub=2:30461,4:651527
+Upstarts	dub=2:30461
 Urano	leg=2:357659
-Urkel Salva o Papai Noel: O Filme!	dub=2:231322,4:646048	leg=2:231326
-Ursa	dub=2:352275,2:351566,4:900680,4:901422
-Ursinho Pooh: Sangue e Mel	dub=2:219932,4:654703	leg=2:202589
-Ursinho Pooh: Sangue e Mel 2	dub=2:289622,4:654446	leg=2:289623,4:670620
+Urkel Salva o Papai Noel: O Filme!	dub=2:231322	leg=2:231326
+Ursa	dub=2:352275,2:351566
+Ursinho Pooh: Sangue e Mel	dub=2:219932	leg=2:202589
+Ursinho Pooh: Sangue e Mel 2	dub=2:289622	leg=2:289623
 Ursinho Pooh: Tempo de Agradecimento	dub=2:376822
 Ursinho Pooh: Um Ano Muito Feliz	dub=2:376823
-Ursinhos Assassinos	dub=2:286617,4:654460	leg=2:286618,4:670713
-Urso Sangrento: A Noite do Terror	dub=2:380262,4:918178	leg=2:380261
-Ursos Polares	dub=2:31937,4:648238
-Ursos Sem Curso: O Filme	dub=2:87206,4:646421
-Urubus	dub=2:199615,4:644338
+Ursinhos Assassinos	dub=2:286617	leg=2:286618
+Urso Sangrento: A Noite do Terror	dub=2:380262	leg=2:380261
+Ursos Polares	dub=2:31937
+Ursos Sem Curso: O Filme	dub=2:87206
+Urubus	dub=2:199615
 Uruguai na Vanguarda	leg=2:366124
 Us Legendado	dub=2:23240
-Utopia Distopia	dub=2:284531,4:647769
-Utopia Muda	dub=2:364723,4:903373
-Utopia Tropical	dub=2:363190,4:902497
+Utopia Distopia	dub=2:284531
+Utopia Muda	dub=2:364723
+Utopia Tropical	dub=2:363190
 Uýra - A Retomada da Floresta	dub=2:341773
-undertone	dub=4:919166	leg=2:380275
-Última Chamada para Istambul	dub=2:229138,4:645401	leg=2:229154
+undertone	leg=2:380275
+Última Chamada para Istambul	dub=2:229138	leg=2:229154
 Última Cidade	dub=2:150151
-Última Parada 174	dub=2:372793,2:28608,4:653992
-Última Viagem a Vegas	dub=2:347167,2:225678,4:650296	leg=2:347166
-Últimas Palavras	dub=2:320921,4:822976	leg=2:320922
-Último Alvo	dub=2:318601,2:318600,4:770373	leg=2:318602
-Último Suspiro	leg=2:317094,4:762394
-Últimos Sobreviventes	dub=2:227406,4:648502	leg=2:227397
-‎Um Grande Despertar	dub=4:923309
+Última Parada 174	dub=2:372793,2:28608
+Última Viagem a Vegas	dub=2:347167,2:225678	leg=2:347166
+Últimas Palavras	dub=2:320921	leg=2:320922
+Último Alvo	dub=2:318601,2:318600	leg=2:318602
+Último Suspiro	leg=2:317094
+Últimos Sobreviventes	dub=2:227406	leg=2:227397

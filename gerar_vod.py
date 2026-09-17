@@ -34,7 +34,7 @@ ORIGENS = [
 ]
 # Servidores fora do ar para todos, sem publicar app: os links deles não entram
 # no catálogo. Para voltar, tire daqui e rode o script de novo.
-DESATIVADOS = ["up.kiwi"]
+DESATIVADOS = ["up.kiwi", "hubby.cx"]
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
 
