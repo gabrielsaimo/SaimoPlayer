@@ -27,7 +27,13 @@ final class PlayerModel: NSObject, ObservableObject {
     // Library
     @Published var channels: [Channel] = []
     @Published var favorites: Set<String> = []
-    @Published var search: String = ""
+    @Published var search: String = "" {
+        didSet {
+            Telemetria.shared.buscou(.live, search) { [weak self] in
+                !(self?.gruposDeCanais.isEmpty ?? true)
+            }
+        }
+    }
     @Published var selection: UUID? { didSet { if selection != oldValue { play() } } }
 
     // Playback
@@ -125,6 +131,7 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Se a fonte atual chegou a entregar imagem desde que o canal abriu.
     /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
     private var playedSinceOpen = false
+    private var ultimoPulo = Date.distantPast
     private var retomou = false
     private var sourcesTried = 0
     /// Fontes do arquivo no ar, em ordem. O mesmo filme vem das duas listas.
@@ -423,6 +430,18 @@ final class PlayerModel: NSObject, ObservableObject {
         } else {
             play()
         }
+        contarVideo()
+    }
+
+    /// O monitor só conta o tempo com o vídeo andando de verdade.
+    private func contarVideo() {
+        let altura = Int(player.currentItem?.presentationSize.height ?? 0)
+        Telemetria.shared.video(
+            rodando: playedSinceOpen,
+            pausado: !isPlaying,
+            carregando: isPlaying && player.timeControlStatus != .playing,
+            pulou: Date().timeIntervalSince(ultimoPulo) < 3,
+            qualidade: altura > 0 ? "\(altura)p" : nil)
     }
 
     func stop() {
@@ -592,6 +611,7 @@ final class PlayerModel: NSObject, ObservableObject {
         guard playingFile != nil, duration > 0 else { return }
         let alvo = CMTime(seconds: max(0, min(seconds, duration)), preferredTimescale: 600)
         position = seconds
+        ultimoPulo = Date()
         player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero)
     }
 
@@ -641,6 +661,7 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private func refreshStats() {
         refreshSource()
+        contarVideo()
         guard let item = player.currentItem else { return }
         if playingFile != nil {
             let total = item.duration.seconds
