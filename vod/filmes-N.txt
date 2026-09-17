@@ -58,7 +58,7 @@ Na Palma da Mao (2023)	dub=6:1300983
 Na Palma da Mão	dub=2:187566,8:187566	leg=2:187567,8:187567
 Na Ponta da Bala	dub=2:46148,8:46148
 Na Ponta da Bala (2019)	dub=6:1301914
-Na Ponta dos Dedos	dub=2:367569,2:224741,2:224739,8:367569,8:224741,8:224739	leg=2:224740,8:224740
+Na Ponta dos Dedos	dub=2:367569,2:224741,8:367569,8:224741,2:224739,8:224739	leg=2:224740,8:224740
 Na Ponta dos Dedos (2023)	dub=6:1311231	leg=6:1311232
 Na Praia de Chesil	dub=2:67493,8:67493
 Na Praia de Chesil (2018)	dub=6:1299763
@@ -80,7 +80,7 @@ Na Solidao Da Noite Assassinatos na Mansao Bansal (2025)	dub=6:1314175
 Na Solidão da Noite	dub=2:358889,8:358889	leg=2:358888,8:358888
 Na Solidão da Noite (2020)	dub=6:1314170	leg=6:1308459
 Na Solidão da Noite: Assassinatos na Mansão Bansal	dub=2:358155,8:358155
-Na Sua Casa ou na Minha?	dub=2:192524,2:186807,8:192524,8:186807	leg=2:186808,8:186808
+Na Sua Casa ou na Minha?	dub=2:192524,8:192524,2:186807,8:186807	leg=2:186808,8:186808
 Na Sua Casa ou na Minha? (2023)	dub=6:1300971
 Na Sua Pele - A Série Marked Men	leg=2:320257,8:320257
 Na Sua Pele - A Série Marked Men (2025)	dub=6:1313478	leg=6:1313477
@@ -115,7 +115,7 @@ Nada a Perder	dub=2:93522,2:21047,8:93522,8:21047
 Nada a Perder (1997)	dub=6:1307110
 Nada a Perder (2018)	dub=6:1297300
 Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)	dub=6:1310710
-Nada de Novo no Front	dub=2:184079,2:178818,8:184079,8:178818	leg=2:178819,8:178819
+Nada de Novo no Front	dub=2:184079,8:184079,2:178818,8:178818	leg=2:178819,8:178819
 Nada de Novo no Front (2022)	dub=6:1300321	leg=6:1300322
 Nada e Impossível (2022)	dub=6:1302249
 Nada e por Acaso (2022)	dub=6:1302594
@@ -130,7 +130,7 @@ Nadando Com Homens (2018)	dub=6:1308024
 Nadando em Dinheiro	dub=2:380570,8:380570
 Nadando pelo Ouro	dub=2:108691,8:108691
 Nadando pelo Ouro (2020)	dub=6:1308767
-Nahir – Entre a Paixão e as Grades	dub=2:265872,2:261687,8:265872,8:261687	leg=2:261688,8:261688
+Nahir – Entre a Paixão e as Grades	dub=2:265872,8:265872,2:261687,8:261687	leg=2:261688,8:261688
 Nahir – Entre a Paixão e as Grades (2024)	dub=6:1304042
 Naked Singularity	dub=2:159298,8:159298	leg=2:159290,8:159290
 Namorada de Aluguel	dub=2:338605,8:338605	leg=2:338604,8:338604
@@ -194,7 +194,7 @@ Nao e Mais um Besteirol Americano (2001)	dub=6:1299827
 Nao! Nao Olhe (2022)	dub=6:1300226	leg=6:1300004
 Napoleao (2023)	dub=6:1303076	leg=6:1303074
 Napoleon Dynamite	dub=2:320903,8:320903	leg=2:320904,8:320904
-Napoleão	dub=2:284037,2:284036,2:239809,2:239807,8:284037,8:284036,8:239809,8:239807	leg=2:284038,2:239808,8:284038,8:239808
+Napoleão	dub=2:284037,2:239807,8:284037,8:239807,2:284036,2:239809,8:284036,8:239809	leg=2:284038,2:239808,8:284038,8:239808
 Napoli-New York	leg=2:341768,8:341768
 Naquele Fim de Semana	dub=2:150719,8:150719	leg=2:150718,8:150718
 Naquele Fim de Semana (2022)	dub=6:1306647	leg=6:1306648
@@ -219,14 +219,14 @@ Nas Profundezas do Mar sem Fim	dub=2:128515,8:128515
 Nas Profundezas do Mar sem Fim (1999)	dub=6:1301187
 Nas Sombras da Noite	dub=2:352919,8:352919	leg=2:352918,8:352918
 Nas Sombras de Paris	dub=2:340435,8:340435	leg=2:340434,8:340434
-Nas Terras Perdidas	dub=2:325902,2:325105,8:325902,8:325105	leg=2:325104,8:325104
+Nas Terras Perdidas	dub=2:325902,8:325902,2:325105,8:325105	leg=2:325104,8:325104
 Nas Terras Perdidas (2025)	dub=6:1313574	leg=6:1313573
 Nas Trevas	dub=2:25103,8:25103
 Nas Trevas (2018)	dub=6:1297160
 Nasce Uma Estrela (2018)	dub=6:1297180
-Nasce uma Estrela	dub=2:376925,2:362247,2:21493,2:21446,8:376925,8:362247,8:21493,8:21446	leg=2:376924,8:376924
+Nasce uma Estrela	dub=2:362247,2:21493,8:362247,8:21493,2:376925,2:21446,8:376925,8:21446	leg=2:376924,8:376924
 Nascer	dub=2:255235,8:255235	leg=2:255236,8:255236
-Nascida para Cantar	dub=2:288367,2:288366,8:288367,8:288366	leg=2:288368,8:288368
+Nascida para Cantar	dub=2:288367,8:288367,2:288366,8:288366	leg=2:288368,8:288368
 Nascida para Cantar (2025)	dub=6:1312217	leg=6:1312216
 Nascida para Você	leg=2:373333,8:373333
 Nascido Para Correr 2: Velocidade Máxima	dub=2:204228,8:204228
@@ -262,7 +262,7 @@ Natal Para Sempre (2020)	dub=6:1301980
 Natal S.A.	dub=2:131024,8:131024
 Natal S.A. (2008)	dub=6:1304356
 Natal SA (2015)	dub=6:1302398
-Natal Sangrento	dub=2:365063,2:365034,2:357580,8:365063,8:365034,8:357580	leg=2:365033,2:357579,8:365033,8:357579
+Natal Sangrento	dub=2:365063,8:365063,2:365034,2:357580,8:365034,8:357580	leg=2:365033,2:357579,8:365033,8:357579
 Natal Sangrento (2019)	dub=6:1298951
 Natal Sangrento (2025)	dub=6:1314271	leg=6:1314270
 Natal Sempre e Para Sempre	dub=2:90742,8:90742
@@ -372,7 +372,7 @@ Nayanthara: Além do Conto de Fadas	leg=2:295711,8:392303,8:295711
 Ne Zha	leg=2:40590,8:40590
 Ne Zha (2019)	leg=6:1308565
 Ne Zha 2 O Renascer da Alma (2025)	dub=6:1314137
-Ne Zha 2: O Renascer da Alma	dub=2:358057,2:357121,2:356903,8:358057,8:357121,8:356903	leg=2:356902,2:352272,8:356902,8:352272
+Ne Zha 2: O Renascer da Alma	dub=2:358057,2:357121,8:358057,8:357121,2:356903,8:356903	leg=2:356902,2:352272,8:356902,8:352272
 Necrotério	dub=2:122878,8:122878	leg=2:122931,8:122931
 Necrotério (2019)	dub=6:1310823	leg=6:1310824
 Ned Kelly	dub=8:393697
@@ -387,7 +387,7 @@ Negação	dub=2:361825,8:361825	leg=2:361824,8:361824
 Negação (2016)	dub=6:1310340	leg=6:1310341
 Negociando com o Inimigo	dub=2:289609,8:289609	leg=2:289610,8:289610
 Negocio Arriscado (1983)	dub=6:1299829
-Negra Como a Noite	dub=2:368075,2:130411,8:368075,8:130411	leg=2:130416,8:130416
+Negra Como a Noite	dub=2:368075,8:368075,2:130411,8:130411	leg=2:130416,8:130416
 Negra Como a Noite (2021)	dub=6:1298917
 Negrum3	dub=2:285093,8:285093
 Negócio de Risco (2012)	dub=6:1312896
@@ -411,7 +411,7 @@ Nem Que a Vaca Tussa	dub=2:20397,8:20397
 Nem Que a Vaca Tussa (2004)	dub=6:1297568
 Nem Sangue, Nem Areia	dub=8:395071	leg=8:395070
 Nem Tudo se Desfaz	dub=2:292875,8:292875
-Nem Tudo é Negociável	dub=2:276105,8:392695,8:276105	leg=2:276106,8:276106
+Nem Tudo é Negociável	dub=8:392695,2:276105,8:276105	leg=2:276106,8:276106
 Nem Tudo é Negociável (2024)	dub=6:1309186
 Nem Tudo é o Que Parece	dub=2:239600,8:239600
 Nem Tudo é o Que Parece (2004)	dub=6:1303621
@@ -446,9 +446,9 @@ Nezha: Correndo pela Vida (2021)	dub=6:1306480	leg=6:1306481
 Nezha: O Renascer de um Deus (2021)	dub=6:1308725
 Nheengatu – A Língua da Amazónia	dub=2:203337,8:203337
 Nheengatu – A Língua da Amazónia (2020)	dub=6:1306369
-Nicarágua: Liberdade Exilada	dub=2:186763,2:186762,8:186763,8:186762
+Nicarágua: Liberdade Exilada	dub=2:186762,8:186762,2:186763,8:186763
 Nicarágua: Liberdade Exilada (2023)	dub=6:1305493
-Nice Girls	dub=2:297455,2:281487,8:297455,8:281487	leg=2:281488,8:281488
+Nice Girls	dub=2:297455,8:297455,2:281487,8:281487	leg=2:281488,8:281488
 Nice Girls (2024)	dub=6:1311894
 Nick & Norah: Uma Noite de Amor e Música	dub=2:92582,8:92582
 Nick & Norah: Uma Noite de Amor e Música (2008)	dub=6:1307121
@@ -524,7 +524,7 @@ Nix: A Entidade	dub=2:186487,8:186487	leg=2:186486,8:186486
 Nix: A Entidade (2022)	dub=6:1306666	leg=6:1306667
 Nixon (1995)	dub=6:1300258
 No 1 Sentai Gozyuger Tega Sword Resurrection	leg=2:365865,8:365865
-No Amor e Na Música	dub=2:356905,2:349765,2:349762,8:356905,8:349765,8:349762	leg=2:356904,2:349764,8:356904,8:349764
+No Amor e Na Música	dub=2:349762,8:349762,2:356905,2:349765,8:356905,8:349765	leg=2:356904,2:349764,8:356904,8:349764
 No Amor e Na Música (2025)	dub=6:1313831
 No Balanco das Coisas (2020)	dub=6:1300342
 No Balanço das Coisas	dub=2:62468,8:62468
@@ -571,7 +571,7 @@ No Limite (2017)	dub=6:1303820
 No Limite da Realidade	dub=2:117081,8:117081
 No Limite da Realidade (1983)	dub=6:1309850
 No Limite do Amanha (2014)	dub=6:1297570
-No Limite do Amanhã	dub=2:252839,2:252838,8:252839,8:252838	leg=2:252840,8:252840
+No Limite do Amanhã	dub=2:252839,8:252839,2:252838,8:252838	leg=2:252840,8:252840
 No Limite do Mal	dub=2:221930,8:221930	leg=2:221929,8:221929
 No Limite do Mal (2021)	dub=6:1311278	leg=6:1311279
 No Limite do Mundo	dub=2:128873,8:128873	leg=2:128845,8:128845
@@ -592,7 +592,7 @@ No Mundo da Lua (1991)	dub=6:1307226
 No Mundo da Lua (2015)	dub=6:1301661
 No Nosso Auge	leg=2:370268,8:370268
 No Olho Do Tornado	dub=2:20120,8:20120
-No Olho do Furacão	dub=2:282105,2:21494,2:20121,8:282105,8:21494,8:20121	leg=2:282106,8:282106
+No Olho do Furacão	dub=2:21494,8:21494,2:282105,2:20121,8:282105,8:20121	leg=2:282106,8:282106
 No Olho do Furacão (2018)	dub=6:1310411
 No Olho do Tornado (2014)	dub=6:1302396
 No Other Land	leg=2:300635,8:300635
@@ -617,7 +617,7 @@ No Ritmo da Vida	dub=2:198194,8:198194	leg=2:198193,8:198193
 No Ritmo da Vida (2022)	dub=6:1305216	leg=6:1305217
 No Ritmo do Amor	leg=2:373828,8:373828
 No Ritmo do Coracao (2021)	dub=6:1299338
-No Ritmo do Coração	dub=2:120703,2:120659,8:120703,8:120659	leg=2:120674,8:120674
+No Ritmo do Coração	dub=2:120703,8:120703,2:120659,8:120659	leg=2:120674,8:120674
 No Ritmo do Natal	dub=2:295712,8:295712	leg=2:295713,8:295713
 No Ritmo do Natal (2024)	dub=6:1312439	leg=6:1312438
 No Seu Natal ou no Meu	dub=2:188911,8:188911	leg=2:188909,8:188909
@@ -631,7 +631,7 @@ No Topo do Mundo (2021)	dub=6:1301895
 No Vale da Violencia (2016)	dub=6:1297410
 No Vale das Sombras	dub=2:326994,2:308392,8:326994,8:308392
 No.1 Sentai Gozyuger vs. Boonboomger	leg=2:381791,8:381791
-Noah Kahan: Out of Body	dub=2:374210,8:390343,8:374210	leg=2:374209,8:374209
+Noah Kahan: Out of Body	dub=8:390343,2:374210,8:374210	leg=2:374209,8:374209
 Nobody	dub=2:102499,8:102499
 Nocaute	dub=2:20122,8:20122
 Nocaute (2015)	dub=6:1300802
@@ -647,7 +647,7 @@ Noelle	dub=2:44608,8:44608
 Noelle (2019)	dub=6:1300886
 Noitarios de Arrepiar (2021)	dub=6:1298851
 Noite Escura da Alma	dub=2:362609,8:362609
-Noite Infeliz	dub=2:188314,2:188312,8:188314,8:188312	leg=2:188310,8:188310
+Noite Infeliz	dub=2:188314,8:188314,2:188312,8:188312	leg=2:188310,8:188310
 Noite Infeliz (2022)	dub=6:1301867
 Noite Interminável	dub=2:309716,8:309716	leg=2:309717,8:309717
 Noite No Paraiso	dub=2:101403,8:101403
@@ -675,14 +675,14 @@ Noite e Dia - Lima Barreto, Obra & Vida (2023)	dub=6:1309664
 Noite no Paraíso (2020)	dub=6:1308529
 Noites Alienígenas	dub=2:195624,8:195624
 Noites Alienígenas (2023)	dub=6:1306132
-Noites Brutais	dub=2:179762,2:178563,8:179762,8:178563	leg=2:178577,8:178577
+Noites Brutais	dub=2:179762,8:179762,2:178563,8:178563	leg=2:178577,8:178577
 Noites Brutais (2022)	dub=6:1300285
 Noites Quentes de Verao (2018)	dub=6:1300149
 Noites Quentes de Verão	dub=2:162337,2:162335,8:162337,8:162335
 Noites de Tormenta	dub=2:131071,2:21050,8:131071,8:21050
 Noites de Tormenta (2008)	dub=6:1300225
 Noites em Claro (2013)	dub=6:1314324
-Noitários de Arrepiar	dub=2:190985,2:128629,8:190985,8:128629	leg=2:128617,8:128617
+Noitários de Arrepiar	dub=2:190985,8:190985,2:128629,8:128629	leg=2:128617,8:128617
 Noiva Do Inimigo	dub=8:389598
 Noiva Renegada	dub=8:389599
 Noiva em Fuga	dub=2:232313,8:232313
@@ -692,10 +692,10 @@ Noivas em Guerra (2009)	dub=6:1299928
 Noivo Neurótico, Noiva Nervosa	dub=2:138925,8:138925
 Noivo Neurótico, Noiva Nervosa (1977)	dub=6:1304679
 Noivo à Indiana	dub=2:330002,8:330002	leg=2:330001,8:330001
-Nomadland	dub=2:103993,2:103154,8:103993,8:103154	leg=2:91456,8:91456
+Nomadland	dub=2:103993,8:103993,2:103154,8:103154	leg=2:91456,8:91456
 Nomadland (2021)	dub=6:1298396
 Nome Proprio (2007)	dub=6:1303354
-Nonnas	dub=2:322725,2:320774,8:322725,8:320774	leg=2:320773,8:320773
+Nonnas	dub=2:322725,8:322725,2:320774,8:320774	leg=2:320773,8:320773
 Nonnas (2025)	dub=6:1313499
 Norbit	dub=2:20727,8:20727
 Norbit (2007)	dub=6:1297451
@@ -732,7 +732,7 @@ Nos Somos os Campeoes 2 (1994)	dub=6:1297707
 Nos Somos os Campeoes 3 (1996)	dub=6:1303847
 Nos Vemos Em Venus (2023)	dub=6:1302815
 Nos Vemos Em Vênus	dub=2:227408,8:227408	leg=2:227416,8:227416
-Nosferatu	dub=2:309862,2:309861,8:309862,8:309861	leg=2:309863,8:309863
+Nosferatu	dub=2:309862,8:309862,2:309861,8:309861	leg=2:309863,8:309863
 Nosferatu (2024)	dub=6:1313029	leg=6:1312958
 Nossa Culpa	dub=2:348313,8:348313	leg=2:348312,8:348312
 Nossa Culpa (2025)	dub=6:1313907	leg=6:1313906
@@ -775,7 +775,7 @@ Nossos Fantasmas	dub=2:256338,8:256338	leg=2:256339,8:256339
 Nossos Fantasmas (2021)	dub=6:1311406	leg=6:1311407
 Nossos Sonhos de Marte	dub=2:156672,8:156672	leg=2:156675,8:156675
 Nossos Sonhos de Marte (2022)	dub=6:1306439	leg=6:1306440
-Nossos Tempos	dub=2:328103,8:391691,8:328103	leg=2:328102,8:328102
+Nossos Tempos	dub=8:391691,2:328103,8:328103	leg=2:328102,8:328102
 Nossos Tempos (2025)	dub=6:1313608
 Nostalgia	dub=2:22572,8:22572
 Nostalgia (2018)	dub=6:1307747
@@ -793,7 +793,7 @@ Notorious B.I.G. - Nenhum Sonho é Grande Demais	dub=2:34764,8:34764
 Notorious BIG Nenhum Sonho é Grande Demais (2009)	dub=6:1307183
 Notorious Nick	leg=2:124524,8:124524
 Notorious Nick (2021)	leg=6:1311197
-Notre-Dame: Desastre em Paris	dub=2:187577,2:187573,8:396217,8:187577,8:187573	leg=2:187565,8:396216,8:187565
+Notre-Dame: Desastre em Paris	dub=2:187573,8:187573,2:187577,8:396217,8:187577	leg=2:187565,8:396216,8:187565
 Notre-Dame: Desastre em Paris (2022)	dub=6:1306562	leg=6:1306563
 Noturno	dub=2:76699,8:76699
 Noturno (2020)	dub=6:1301740
@@ -828,7 +828,7 @@ Novidades no Amor (2009)	dub=6:1311864	leg=6:1311863
 Novo Mundo	dub=2:311229,8:311229
 Novo no Pedaço	dub=2:350930,8:350930
 Novo no Pedaço (2002)	dub=6:1309437	leg=6:1309438
-Novocaine: À Prova de Dor	dub=2:318439,2:318438,8:318439,8:318438	leg=2:318440,8:318440
+Novocaine: À Prova de Dor	dub=2:318439,8:318439,2:318438,8:318438	leg=2:318440,8:318440
 Novocaine: À Prova de Dor (2025)	dub=6:1313420	leg=6:1313419
 Novos Ricos	dub=2:227409,8:227409	leg=2:227418,8:227418
 Novos Ricos (2023)	dub=6:1302820
@@ -892,7 +892,7 @@ Não Deseje Boa Sorte	dub=8:392549	leg=8:392548
 Não Deseje Boa Sorte (2026)	dub=6:1502277
 Não Desligue	dub=2:328230,2:250616,8:328230,8:250616	leg=2:328229,8:328229
 Não Despertem o Dragão Dormindo	dub=8:389592
-Não Devíamos Ter Crescido	dub=2:184057,2:184055,2:137593,8:184057,8:184055,8:137593	leg=2:184056,2:137592,8:184056,8:137592
+Não Devíamos Ter Crescido	dub=2:184057,8:184057,2:184055,2:137593,8:184055,8:137593	leg=2:184056,2:137592,8:184056,8:137592
 Não Devíamos Ter Crescido (2021)	dub=6:1304779	leg=6:1304780
 Não Dou Beijos (1991)	leg=6:1312821
 Não Enche!	dub=2:230579,8:230579	leg=2:230582,8:230582
@@ -903,7 +903,7 @@ Não Estamos Sós	dub=2:329333,8:329333	leg=2:329332,8:329332
 Não Estou Sozinha	dub=2:349002,8:349002	leg=2:349001,8:349001
 Não Fale com Estranhos	dub=2:283259,8:283259	leg=2:283260,8:283260
 Não Fale com Estranhos (2021)	dub=6:1311969	leg=6:1311968
-Não Fale o Mal	dub=2:292101,2:291884,8:292101,8:291884	leg=2:291260,8:291260
+Não Fale o Mal	dub=2:292101,8:292101,2:291884,8:291884	leg=2:291260,8:291260
 Não Feche os Olhos	dub=2:269957,2:104421,8:269957,8:104421	leg=2:269958,8:269958
 Não Feche os Olhos (2020)	dub=6:1308073
 Não Há Tempo Para O Amor, Charlie Brown	dub=2:323988,8:323988	leg=2:323987,8:323987
@@ -919,7 +919,7 @@ Não Odeie	dub=2:229165,8:229165	leg=2:229169,8:229169
 Não Odeie (2020)	dub=6:1310920	leg=6:1310921
 Não Olhe Para o Berço	dub=2:41614,8:41614
 Não Olhe Para o Berço (2018)	dub=6:1308091
-Não Olhe para Cima	dub=2:147465,2:144385,8:147465,8:144385	leg=2:144383,8:144383
+Não Olhe para Cima	dub=2:147465,8:147465,2:144385,8:144385	leg=2:144383,8:144383
 Não Pisque	dub=2:375950,8:375950	leg=2:375949,8:375949
 Não Posso Sem Você	dub=2:161529,2:161514,8:161529,8:161514
 Não Posso Sem Você (2022)	dub=6:1306848
@@ -929,15 +929,15 @@ Não Quero Crescer	dub=2:357578,8:357578
 Não Quero Estar Aqui	dub=2:354148,8:354148	leg=2:354147,8:354147
 Não Saia de Casa	dub=2:211625,8:211625	leg=2:211626,8:211626
 Não Saia de Casa (2018)	dub=6:1310563	leg=6:1310564
-Não Se Mexa	dub=2:297094,2:292102,8:297094,8:292102	leg=2:292103,8:292103
-Não Se Preocupe, Querida	dub=2:382835,2:376792,2:179821,2:178567,8:382835,8:376792,8:179821,8:178567	leg=2:382834,2:178566,8:382834,8:178566
+Não Se Mexa	dub=2:297094,8:297094,2:292102,8:292102	leg=2:292103,8:292103
+Não Se Preocupe, Querida	dub=2:179821,8:179821,2:382835,2:376792,2:178567,8:382835,8:376792,8:178567	leg=2:382834,2:178566,8:382834,8:178566
 Não Sei Como Ela Consegue	dub=2:323697,2:102485,8:390153,8:323697,8:102485	leg=2:323696,8:390152,8:323696
 Não Sei o Que Fizemos na Noite Passada	dub=2:301177,8:301177	leg=2:301178,8:301178
 Não Sei o Que Fizemos na Noite Passada (2023)	dub=6:1312910
-Não Solte!	dub=2:297453,2:297452,8:297453,8:297452	leg=2:297454,2:291261,8:297454,8:291261
+Não Solte!	dub=2:297453,8:297453,2:297452,8:297452	leg=2:297454,2:291261,8:297454,8:291261
 Não Solte! (2024)	dub=6:1312513	leg=6:1312512
 Não Somos Anjos	dub=2:356268,8:356268	leg=2:356267,8:356267
-Não Tem Volta	dub=2:245498,8:384430,8:245498
+Não Tem Volta	dub=8:384430,2:245498,8:245498
 Não Tá Fácil Pra Ninguém	dub=2:259015,8:259015	leg=2:259016,8:259016
 Não Tá Fácil Pra Ninguém (2023)	dub=6:1305232	leg=6:1305233
 Não Vai Ter Golpe	dub=2:29108,8:29108
@@ -952,7 +952,7 @@ Não se Aceitam Devoluções (2018)	dub=6:1307965
 Não É o Fim	dub=2:279179,8:279179	leg=2:279180,8:279180
 Não é Mais uma Canção de Amor	dub=2:250661,8:250661	leg=2:250662,8:250662
 Não é Mais uma Canção de Amor (2021)	dub=6:1310644	leg=6:1310645
-Não! Não Olhe!	dub=2:343140,2:178540,2:177200,8:343140,8:178540,8:177200	leg=2:343139,2:177201,8:343139,8:177201
+Não! Não Olhe!	dub=2:178540,8:178540,2:343140,2:177200,8:343140,8:177200	leg=2:343139,2:177201,8:343139,8:177201
 Néctar do Tempo	dub=2:347684,8:347684	leg=2:347683,8:347683
 Névoa Prateada	leg=8:386853
 Névoa em Agosto	dub=2:91417,8:91417
@@ -960,7 +960,7 @@ Nível Hard	dub=2:68459,8:68459
 Nível Hard (2020)	dub=6:1308858
 Nó	dub=2:379429,8:379429
 Nóis por Nóis	dub=2:341798,8:341798
-Nós	dub=2:25490,2:25489,8:386263,8:25490,8:25489	leg=8:386262
+Nós	dub=2:25489,8:25489,2:25490,8:386263,8:25490	leg=8:386262
 Nós Acreditamos em Vocês	leg=8:386855
 Nós Passarinhos	dub=2:160609,8:160609
 Nós Passarinhos (2021)	dub=6:1306767

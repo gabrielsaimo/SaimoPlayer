@@ -1,9 +1,9 @@
 G-Loc	leg=2:67487,8:67487
 G-Loc (2020)	leg=6:1308846
-G.I. Joe Origens: Snake Eyes	dub=2:130202,2:130200,8:130202,8:130200	leg=2:121156,8:121156
+G.I. Joe Origens: Snake Eyes	dub=2:130202,8:130202,2:130200,8:130200	leg=2:121156,8:121156
 G.I. Joe: A Origem de Cobra	dub=2:119723,8:119723	leg=2:119710,8:119710
 G.I. Joe: Retaliação	dub=2:119728,8:119728	leg=2:119725,8:119725
-G20	dub=2:318100,2:318099,8:318100,8:318099	leg=2:318101,8:318101
+G20	dub=2:318100,8:318100,2:318099,8:318099	leg=2:318101,8:318101
 G20 (2025)	dub=6:1313418	leg=6:1313417
 GANTZ:O (2016)	dub=6:1310323
 GI Jane: Ate o Limite da Honra (1997)	dub=6:1299710
@@ -63,7 +63,7 @@ Gantz-O	dub=2:21297,8:21297
 Garantia de Morte	dub=2:106827,8:106827
 Garantia de Morte (1990)	dub=6:1307225
 Garcia & Garcia	dub=2:289605,8:289605	leg=2:289606,8:289606
-Garfield - Fora de Casa	dub=2:269953,2:269952,8:269953,8:269952	leg=2:269954,8:269954
+Garfield - Fora de Casa	dub=2:269953,8:269953,2:269952,8:269952	leg=2:269954,8:269954
 Garfield - Fora de Casa (2024)	dub=6:1309117
 Garfield - O Filme	dub=2:31744,8:31744
 Garfield 2 (2006)	dub=6:1309042
@@ -91,7 +91,7 @@ Garota Veneno (2002)	dub=6:1298415
 Garota da Moto	dub=2:139253,8:139253
 Garota da Moto (2021)	dub=6:1304867
 Garota do Seculo 20 (2022)	dub=6:1300275
-Garota do Século 20	dub=2:190981,2:178273,8:190981,8:178273	leg=2:178269,8:178269
+Garota do Século 20	dub=2:190981,8:190981,2:178273,8:178273	leg=2:178269,8:178269
 Garota do Terceiro Andar (2019)	leg=6:1308398
 Garota em Chamas: Rebeliao (2018)	dub=6:1303745
 Garota vs. Monstro	dub=2:317455,8:317455	leg=2:317456,8:317456
@@ -106,7 +106,7 @@ Garotas Sem Rumo (2005)	dub=6:1302184
 Garotas do ABC	dub=2:367039,8:367039
 Garotas do Calendario (2003)	dub=6:1314434
 Garotas do Calendário	dub=2:372754,8:372754	leg=2:372753,8:372753
-Garotas em Fuga	dub=2:286603,2:259335,8:286603,8:259335	leg=2:259336,8:259336
+Garotas em Fuga	dub=2:286603,8:286603,2:259335,8:259335	leg=2:259336,8:259336
 Garotas em Fuga (2024)	dub=6:1303609
 Garotos de Bem	dub=2:173313,8:173313	leg=2:173311,8:173311
 Garotos de Bem (2021)	dub=6:1300089
@@ -114,14 +114,14 @@ Garotos de Programa	dub=8:395062	leg=8:395061
 Garotos de Programa (1991)	dub=6:1503013
 Garotos em Guerra	dub=2:20367,8:20367
 Garotos em Guerra (2015)	dub=6:1298195
-Garra de Ferro	dub=2:263711,2:256939,8:263711,8:256939	leg=2:256940,8:256940
+Garra de Ferro	dub=2:263711,8:263711,2:256939,8:256939	leg=2:256940,8:256940
 Garra de Ferro (2023)	dub=6:1303444,6:1312029	leg=6:1303333,6:1312028
 Garras Vorazes	dub=2:229166,8:229166	leg=2:229156,8:229156
 Garras Vorazes (2023)	dub=6:1302862
 Garras de Tigre	dub=2:348106,8:348106	leg=2:348105,8:348105
 Garras de Tigre 2	dub=2:348108,8:348108	leg=2:348107,8:348107
 Garras de Tigre 3	dub=2:348110,8:348110	leg=2:348109,8:348109
-Gary	dub=2:377099,2:377097,8:377099,8:377097	leg=2:377098,8:377098
+Gary	dub=2:377097,8:377097,2:377099,8:377099	leg=2:377098,8:377098
 Gary (2026)	dub=6:1314553	leg=6:1314552
 Gary - Um Treinador Muito Louco	dub=2:358817,8:358817	leg=2:358816,8:358816
 Garçonete	dub=2:30577,8:30577
@@ -143,7 +143,7 @@ Gato Sórdido	dub=2:33376,8:33376
 Gato de Botas	dub=2:112416,2:20368,8:112416,8:20368
 Gato de Botas (2011)	dub=6:1300939
 Gato de Botas 2: O Ultimo Pedido (2022)	dub=6:1300969	leg=6:1300940
-Gato de Botas 2: O Último Pedido	dub=2:187157,2:187154,8:187157,8:187154	leg=2:187156,8:187156
+Gato de Botas 2: O Último Pedido	dub=2:187157,8:187157,2:187154,8:187154	leg=2:187156,8:187156
 Gatos Numa Roubada	dub=2:134076,8:134076
 Gatos Numa Roubada (2001)	dub=6:1304242
 Gatos no Museu	dub=2:243867,8:243867	leg=2:243868,8:243868
@@ -223,10 +223,10 @@ Ghost in the Shell: O Novo Filme (2015)	dub=6:1304052
 Ghost in the Shell: SAC2045 – Guerra Sustentável (2021)	dub=6:1304054
 Ghost in the Shell: SAC_2045 – Guerra Sustentável	dub=8:395690
 Ghost: Do Outro Lado da Vida	dub=2:91416,8:91416
-Ghostbusters: Apocalipse de Gelo	dub=2:259318,2:259317,8:259318,8:259317	leg=2:259319,8:259319
+Ghostbusters: Apocalipse de Gelo	dub=2:259318,8:259318,2:259317,8:259317	leg=2:259319,8:259319
 Ghostbusters: Apocalipse de Gelo (2024)	dub=6:1303598	leg=6:1303597
 Ghostbusters: Mais Alem (2021)	dub=6:1299112
-Ghostbusters: Mais Além	dub=2:146757,2:145362,8:146757,8:145362	leg=2:145363,8:145363
+Ghostbusters: Mais Além	dub=2:146757,8:146757,2:145362,8:145362	leg=2:145363,8:145363
 Ghosted: Sem Resposta	dub=2:193256,8:193256	leg=2:192601,8:192601
 Ghosted: Sem Resposta (2023)	dub=6:1306742	leg=6:1306743
 Ghostland: Terra Sem Lei (2021)	dub=6:1303827
@@ -276,7 +276,7 @@ Given Movie: Hiiragi Mix	leg=2:300634,8:300634
 Given On The Other Hand	leg=2:363191,8:363191
 Gladiador	dub=2:92576,8:92576
 Gladiador (2000)	dub=6:1312631	leg=6:1312630
-Gladiador 2	dub=2:300648,2:300644,8:300648,8:300644	leg=2:300645,8:300645
+Gladiador 2	dub=2:300648,8:300648,2:300644,8:300644	leg=2:300645,8:300645
 Gladiador 2 (2024)	dub=6:1312616	leg=6:1312615
 Gladiadores	dub=2:367825,8:367825	leg=2:367824,8:367824
 Gladiadores (2025)	dub=6:1314345
@@ -286,7 +286,7 @@ Glamour Girls	dub=2:163589,8:163589	leg=2:163590,8:163590
 Glamour Girls (2022)	dub=6:1299536
 Glass Legendado	dub=2:22109,8:22109
 Glass Onion: Um Misterio Knives Out (2022)	dub=6:1300844	leg=6:1300843
-Glass Onion: Um Mistério Knives Out	dub=2:184037,2:182650,8:184037,8:182650	leg=2:182641,8:182641
+Glass Onion: Um Mistério Knives Out	dub=2:184037,8:184037,2:182650,8:182650	leg=2:182641,8:182641
 Glitter O Brilho de uma Estrela (2001)	dub=6:1302168
 Globo de Neve	dub=2:144085,8:144085
 Globo de Neve (2007)	dub=6:1304672
@@ -302,7 +302,7 @@ Gnomeu e Julieta: O Mistério do Jardim (2018)	dub=6:1310274
 Go Where You Are Episode	leg=8:389556
 Go! Festa Inesquecível (2019)	dub=2:34184,6:1308666,8:34184
 Goblin - O Sacrifício	dub=2:348063,8:348063	leg=2:348062,8:348062
-God Complex - O Complexo Industrial da Censura	dub=2:365122,2:365059,8:365122,8:365059	leg=2:365058,8:365058
+God Complex - O Complexo Industrial da Censura	dub=2:365122,8:365122,2:365059,8:365059	leg=2:365058,8:365058
 God's Country	dub=2:194868,8:194868	leg=2:194867,8:194867
 Godard par Godard	leg=2:362256,8:362256
 Gods of the Deep	leg=2:249704,8:249704
@@ -311,13 +311,13 @@ Godzilla	dub=2:100383,8:100383
 Godzilla (1998)	dub=6:1302165
 Godzilla (2014)	dub=6:1298246
 Godzilla 2 Rei dos Monstros (2019)	dub=6:1297158
-Godzilla II: Rei dos Monstros	dub=2:100384,2:28284,8:100384,8:28284
+Godzilla II: Rei dos Monstros	dub=2:28284,8:28284,2:100384,8:100384
 Godzilla King of the Monsters Legendado	dub=2:28107,8:28107
 Godzilla Minus One	dub=2:278120,2:263729,8:278120,8:263729	leg=2:278121,2:263730,8:278121,8:263730
 Godzilla Minus One (2023)	dub=6:1304119	leg=6:1303579
 Godzilla Ressurge	dub=2:180164,8:180164
-Godzilla Vs Kong	dub=2:108076,2:108075,8:108076,8:108075	leg=2:100382,8:100382
-Godzilla e Kong: O Novo Império	dub=2:260575,2:260574,8:260575,8:260574	leg=2:260576,8:260576
+Godzilla Vs Kong	dub=2:108076,8:108076,2:108075,8:108075	leg=2:100382,8:100382
+Godzilla e Kong: O Novo Império	dub=2:260575,8:260575,2:260574,8:260574	leg=2:260576,8:260576
 Godzilla e Kong: O Novo Império (2024)	dub=6:1303690	leg=6:1303689
 Godzilla vs. Kong (2021)	dub=6:1298457	leg=6:1298353
 Going Postal: The Legacy Foretold	leg=8:384474
@@ -372,7 +372,7 @@ Good News (2025)	dub=6:1313918
 Goodbye Butterfly	leg=2:93484,8:93484
 Goodbye Horses: As Várias Vidas de Q Lazzarus	leg=8:394639
 Goodbye Stranger	leg=2:376719,8:376719
-Goosebumps - Monstros e Arrepios	dub=2:22505,2:21740,8:22505,8:21740
+Goosebumps - Monstros e Arrepios	dub=2:22505,8:22505,2:21740,8:21740
 Goosebumps 2: Arrepios no Halloween (2018)	dub=6:1297261
 Goosebumps 2: Halloween Assombrado	dub=2:353927,8:353927	leg=2:353926,8:353926
 Goosebumps: Monstros e Arrepios (2015)	dub=6:1298024
@@ -402,7 +402,7 @@ Grafted (2024)	leg=6:1312997
 Gran Torino	dub=2:322005,2:175805,8:322005,8:175805
 Gran Torino (2008)	dub=6:1298515
 Gran Turismo De Jogador a Corredor (2023)	dub=6:1302536	leg=6:1302535
-Gran Turismo: De Jogador a Corredor	dub=2:217275,2:217202,8:217275,8:217202	leg=2:217201,8:217201
+Gran Turismo: De Jogador a Corredor	dub=2:217275,8:217275,2:217202,8:217202	leg=2:217201,8:217201
 Grand Canyon ao Extremo	dub=2:310600,2:92558,8:310600,8:92558
 Grand Canyon ao Extremo (2019)	dub=6:1308428
 Grand Finale	dub=2:338550,8:338550	leg=2:338549,8:338549
@@ -449,7 +449,7 @@ Great White	leg=2:108306,8:108306
 Great White Serial Killer: Sea of Blood	dub=2:335696,8:335696	leg=2:335695,8:335695
 Greed	dub=2:95990,8:95990	leg=2:48263,8:48263
 Greed: A Indústria da Moda (2019)	dub=6:1308330	leg=6:1308331
-Green Book O Guia	dub=2:22506,2:21436,8:22506,8:21436
+Green Book O Guia	dub=2:22506,8:22506,2:21436,8:21436
 Green Book: O Guia (2018)	dub=6:1300337
 Green Night	leg=2:352658,8:352658
 Green Rush	leg=2:64455,8:64455
@@ -476,7 +476,7 @@ Greystoke - A Lenda de Tarzan, O Rei da Selva	dub=2:130220,8:130220
 Greystoke: A Lenda de Tarzan, o Rei da Selva (1984)	dub=6:1304251
 Gridman Universe	leg=2:292862,8:292862
 Griffin in Summer	leg=2:350370,8:350370
-Gringa	dub=2:284546,2:284545,8:284546,8:284545	leg=2:284547,2:246192,8:284547,8:246192
+Gringa	dub=2:284546,8:284546,2:284545,8:284545	leg=2:284547,2:246192,8:284547,8:246192
 Gringa (2023)	dub=6:1312044	leg=6:1311256
 Gringo Vivo ou Morto (2018)	dub=6:1302189
 Gringo: Vivo ou Morto	dub=2:333435,8:333435	leg=2:333434,8:333434
@@ -498,10 +498,10 @@ Guardioes da Galáxia: Vol. 3 (2023)	dub=6:1313240	leg=6:1313239
 Guardioes do Tempo (2020)	dub=6:1299537
 Guardião do Espelho	dub=2:347669,8:347669	leg=2:347668,8:347668
 Guardiões	dub=2:184080,8:184080	leg=2:184081,8:184081
-Guardiões da Galáxia	dub=2:98654,2:21482,8:98654,8:21482
+Guardiões da Galáxia	dub=2:21482,8:21482,2:98654,8:98654
 Guardiões da Galáxia - Vol. 2	dub=2:316403,2:98659,8:316403,8:98659
 Guardiões da Galáxia: Especial de Festas	dub=2:181103,8:181103	leg=2:181084,8:181084
-Guardiões da Galáxia: Vol. 3	dub=2:205923,2:205550,8:386179,8:205923,8:205550	leg=2:202243,8:202243
+Guardiões da Galáxia: Vol. 3	dub=2:205923,8:386179,8:205923,2:205550,8:205550	leg=2:202243,8:202243
 Guardiões das Ilhas Galápagos	leg=2:334695,8:334695
 Guardiões do Ceu (2013)	dub=6:1312005	leg=6:1312004
 Guardiões do Tempo	dub=2:163282,8:163282	leg=2:163278,8:163278
@@ -514,7 +514,7 @@ Guaxuma	dub=2:292298,8:292298
 Guerra 2	dub=2:356892,8:356892	leg=2:356891,8:356891
 Guerra Alienígena	dub=2:193050,8:193050	leg=2:193051,8:193051
 Guerra Alienígena (2018)	dub=6:1305790	leg=6:1305791
-Guerra Civil	dub=2:347670,2:264347,2:264346,8:347670,8:264347,8:264346	leg=2:264348,2:264143,8:264348,8:264143
+Guerra Civil	dub=2:264347,8:264347,2:347670,2:264346,8:347670,8:264346	leg=2:264348,2:264143,8:264348,8:264143
 Guerra Civil (2024)	dub=6:1304156	leg=6:1304083
 Guerra Contra Aliens	dub=2:22026,8:22026
 Guerra Contra o Terror	dub=2:297426,8:297426	leg=2:297427,8:297427
@@ -532,7 +532,7 @@ Guerra Primitiva	dub=8:396146	leg=8:396145
 Guerra Primitiva (2025)	leg=6:1313933
 Guerra Sem Fim: A Espada é a Lei	dub=2:89506,8:89506
 Guerra Sem Fim: A Espada é a Lei (2020)	dub=6:1308925
-Guerra Sem Regras	dub=2:276027,2:276026,8:276027,8:276026	leg=2:276028,8:276028
+Guerra Sem Regras	dub=2:276027,8:276027,2:276026,8:276026	leg=2:276028,8:276028
 Guerra Sem Regras (2024)	dub=6:1309178	leg=6:1309177
 Guerra Sob a Terra	dub=2:142429,8:142429	leg=2:142434,8:142434
 Guerra Sob a Terra (2021)	dub=6:1304797	leg=6:1304798
@@ -584,7 +584,7 @@ Guerrilha Sem Face	dub=2:330019,8:330019	leg=2:330018,8:330018
 Gueules noires	leg=2:266662,8:266662
 Guia Romântico para Lugares Perdidos	dub=2:161527,2:161521,8:161527,8:161521
 Guia Romântico para Lugares Perdidos (2020)	dub=6:1306329,6:1306330
-Guia de Viagem para o Amor	dub=2:192606,8:390342,8:192606	leg=2:192605,8:192605
+Guia de Viagem para o Amor	dub=8:390342,2:192606,8:192606	leg=2:192605,8:192605
 Guia de Viagem para o Amor (2023)	dub=6:1301125
 Guiado pelo Luar	dub=2:215885,8:215885	leg=2:215880,8:215880
 Guiado pelo Luar (2022)	dub=6:1309380	leg=6:1309381

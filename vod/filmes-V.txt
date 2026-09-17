@@ -45,7 +45,7 @@ Vale dos Vermes do Rei Xian e Lâmpada Fantasma	dub=2:375235,8:375235	leg=2:3752
 Valente	dub=2:370940,2:333307,8:370940,8:333307	leg=2:370939,2:333306,8:370939,8:333306
 Valente (2007)	dub=6:1304433
 Valente (2012)	dub=6:1297697
-Valentes	dub=2:187887,2:187885,8:187887,8:187885	leg=2:187886,8:187886
+Valentes	dub=2:187885,8:187885,2:187887,8:187887	leg=2:187886,8:187886
 Valentes (2022)	dub=6:1301390
 Valentina	dub=2:133960,8:133960
 Valentina (2020)	dub=6:1304608
@@ -53,7 +53,7 @@ Valentina Despertando Para Os Sonhos	dub=2:233503,8:233503	leg=2:233501,8:233501
 Valentina Despertando Para Os Sonhos (2021)	dub=6:1311251	leg=6:1311252
 Valentino Pode Ser Seu Próprio Herói Ou Vilao (2022)	dub=6:1301207
 Valentino, Pode Ser Seu Próprio Herói Ou Vilão	dub=2:173304,8:173304	leg=2:173305,8:173305
-Valerian E A Cidade Dos Mil Planetas	dub=2:34767,2:34753,2:21372,8:34767,8:34753,8:21372
+Valerian E A Cidade Dos Mil Planetas	dub=2:34767,2:34753,8:34767,8:34753,2:21372,8:21372
 Valerian e a Cidade dos Mil Planetas (2017)	dub=6:1301199
 Valhalla: A Lenda de Thor	dub=2:67480,8:67480
 Valhalla: A Lenda de Thor (2019)	dub=6:1298107
@@ -105,7 +105,7 @@ Vazio Coração	dub=2:108139,8:108139
 Vazio Coração (2013)	dub=6:1307310
 Veia de Campeão	dub=2:175808,8:175808
 Veia de Campeão (1986)	dub=6:1305607
-Veja Como Eles Correm	dub=2:179796,2:178816,8:179796,8:178816	leg=2:178846,8:178846
+Veja Como Eles Correm	dub=2:179796,8:179796,2:178816,8:178816	leg=2:178846,8:178846
 Veja Como Eles Correm (2022)	dub=6:1300821
 Veja por Mim	dub=2:171924,8:171924	leg=2:171931,8:171931
 Veja por Mim (2022)	dub=6:1306600	leg=6:1306601
@@ -128,11 +128,11 @@ Velocidade Total (2024)	dub=6:1313800
 Velocidade sem Limites	dub=2:354289,2:301837,8:354289,8:301837	leg=2:354288,8:354288
 Veloz Como o Vento	dub=2:33417,8:33417
 Veloz Como o Vento (2016)	dub=6:1307560
-Velozes & Furiosos 10	dub=2:199873,2:199757,2:199756,8:199873,8:199757,8:199756	leg=2:197645,8:197645
+Velozes & Furiosos 10	dub=2:199873,2:199757,8:199873,8:199757,2:199756,8:199756	leg=2:197645,8:197645
 Velozes & Furiosos 6	dub=8:386356	leg=8:386355
 Velozes & Furiosos 7	dub=2:99812,8:99812
 Velozes & Furiosos 8	dub=2:99813,8:99813
-Velozes & Furiosos 9	dub=2:119650,2:119633,8:119650,8:119633	leg=2:115493,8:115493
+Velozes & Furiosos 9	dub=2:119633,8:119633,2:119650,8:119650	leg=2:115493,8:115493
 Velozes & Furiosos 9 (2021)	leg=6:1298618
 Velozes & Furiosos: Hobbs & Shaw	dub=2:30589,2:30588,8:30589,8:30588
 Velozes e Furiosos	dub=2:99806,8:99806
@@ -178,11 +178,11 @@ Veneza	dub=2:133981,8:133981
 Veneza (2021)	dub=6:1299761
 Venganza	dub=2:374635,8:374635	leg=2:374634,8:374634
 Venha o Que Vier (2009)	dub=6:1313068
-Venom	dub=2:21858,2:21505,8:21858,8:21505
+Venom	dub=2:21505,8:21505,2:21858,8:21858
 Venom (2018)	dub=6:1297078
 Venom: A Ultima Rodada (2024)	dub=6:1312545	leg=6:1312544
-Venom: A Última Rodada	dub=2:297780,2:297777,8:297780,8:297777	leg=2:297778,8:297778
-Venom: Tempo de Carnificina	dub=2:140710,2:140498,8:140710,8:140498	leg=2:140500,8:140500
+Venom: A Última Rodada	dub=2:297780,8:297780,2:297777,8:297777	leg=2:297778,8:297778
+Venom: Tempo de Carnificina	dub=2:140710,8:140710,2:140498,8:140498	leg=2:140500,8:140500
 Venom: Tempo de Carnificina (2021)	dub=6:1298972	leg=6:1298970
 Vento Seco	dub=2:107004,8:107004
 Vento Seco (2020)	dub=6:1301468
@@ -279,11 +279,11 @@ Viagem das Garotas	dub=2:164031,8:164031
 Viagem das Garotas (2017)	dub=6:1301352
 Viagem das Loucas	dub=2:42067,8:42067
 Viagem das Loucas (2017)	dub=6:1298422
-Viagem de Formatura: Mallorca	dub=2:324553,2:324466,8:324553,8:324466	leg=2:324465,8:324465
+Viagem de Formatura: Mallorca	dub=2:324553,8:324553,2:324466,8:324466	leg=2:324465,8:324465
 Viagem de Formatura: Mallorca (2025)	dub=6:1313550
 Viagem de Volta à Vida	dub=2:322030,8:322030	leg=2:322031,8:322031
 Viagem para Agartha	dub=2:357791,2:357614,8:357791,8:357614	leg=2:357613,8:357613
-Viajantes - Instinto e Desejo	dub=2:282130,2:124497,8:282130,8:124497	leg=2:124499,8:124499
+Viajantes - Instinto e Desejo	dub=2:282130,8:282130,2:124497,8:124497	leg=2:124499,8:124499
 Viajantes - Instinto e Desejo (2021)	dub=6:1298767
 Viajantes Destemidos	dub=2:335420,8:335420	leg=2:335419,8:335419
 Viajantes do Tempo (2018)	leg=6:1308320
@@ -310,7 +310,7 @@ Victories of the Third Reich	leg=2:318460,8:318460
 Victories of the Third Reich (2025)	leg=6:1313422
 Vida	dub=2:23936,2:21195,8:23936,8:21195
 Vida (2017)	dub=6:1310321
-Vida Adulta	dub=2:349751,2:349690,8:349751,8:349690	leg=2:349689,8:349689
+Vida Adulta	dub=2:349751,8:349751,2:349690,8:349690	leg=2:349689,8:349689
 Vida Adulta (2025)	dub=6:1313937	leg=6:1313936
 Vida Após a Vida	dub=2:301673,8:301673	leg=2:301674,8:301674
 Vida Após a Vida (2020)	dub=6:1312809
@@ -357,7 +357,7 @@ Vidas que se Encontram	dub=2:247294,8:247294	leg=2:247295,8:247295
 Vidas que se Encontram (2020)	dub=6:1310880	leg=6:1310881
 Vidas à Deriva	dub=2:374623,2:336834,8:374623,8:336834	leg=2:374622,2:336833,8:374622,8:336833
 Vidas à Deriva (2018)	dub=6:1307694
-Vidente Por Acidente	dub=2:276013,2:276012,8:276013,8:276012
+Vidente Por Acidente	dub=2:276013,8:276013,2:276012,8:276012
 Vidente Por Acidente (2024)	dub=6:1309156
 Videomannen	dub=2:194848,8:194848	leg=2:194849,8:194849
 Videomannen (2018)	dub=6:1305680	leg=6:1305681
@@ -385,9 +385,9 @@ Vincent doit mourir	leg=2:311825,8:311825
 Vingadora	dub=2:378219,8:378219	leg=2:378218,2:376054,8:378218,8:376054
 Vingadora (2026)	dub=6:1314582	leg=6:1314581
 Vingadores: Era de Ultron	dub=2:340477,2:98655,8:391926,8:340477,8:98655	leg=2:340476,8:391925,8:340476
-Vingadores: Guerra Infinita	dub=2:98662,2:21506,8:98662,8:21506
+Vingadores: Guerra Infinita	dub=2:21506,8:21506,2:98662,8:98662
 Vingadores: Guerra Infinita (2018)	dub=6:1313436	leg=6:1313435
-Vingadores: Ultimato	dub=2:318448,2:26683,2:26682,8:318448,8:26683,8:26682	leg=2:318449,8:318449
+Vingadores: Ultimato	dub=2:26683,2:26682,8:26683,8:26682,2:318448,8:318448	leg=2:318449,8:318449
 Vingan?a ? Queima-Roupa (1998)	dub=6:1303656
 Vinganca (2015)	dub=6:1301929
 Vinganca Cega (1994)	dub=6:1298825
@@ -398,7 +398,7 @@ Vinganca a Sangue Frio (2019)	dub=6:1297425,6:1310438
 Vinganca de Família (2021)	dub=6:1301167
 Vinganca em Duas Rodas (2021)	dub=6:1302654
 Vingando a Jolly (2012)	dub=6:1300490
-Vingança	dub=2:375061,2:354295,2:186465,2:186464,2:20286,8:375061,8:354295,8:186465,8:186464,8:20286	leg=2:375060,2:354294,2:186466,8:375060,8:354294,8:186466
+Vingança	dub=2:186464,8:186464,2:375061,2:354295,2:186465,2:20286,8:375061,8:354295,8:186465,8:20286	leg=2:375060,2:354294,2:186466,8:375060,8:354294,8:186466
 Vingança & Castigo	dub=2:136776,8:136776	leg=2:136796,8:136796
 Vingança & Castigo (2021)	dub=6:1304574	leg=6:1304575
 Vingança (2004)	dub=6:1303957
@@ -407,7 +407,7 @@ Vingança (2018)	dub=6:1297502
 Vingança (2022)	dub=6:1306258	leg=6:1306259
 Vingança Acima da Lei	dub=2:318633,8:318633	leg=2:318634,8:318634
 Vingança Ancestral	dub=2:350368,8:350368	leg=2:350367,8:350367
-Vingança Brutal	dub=2:375103,2:375102,2:365874,8:375103,8:375102,8:365874	leg=2:365873,8:365873
+Vingança Brutal	dub=2:375103,2:375102,8:375103,8:375102,2:365874,8:365874	leg=2:365873,8:365873
 Vingança Entre Assassinos	dub=2:104518,8:104518
 Vingança Entre Assassinos (2009)	dub=6:1307325
 Vingança FM	dub=2:39592,8:39592
@@ -499,7 +499,7 @@ Viva o Mexico (2023)	dub=6:1301219
 Viva o México!	dub=2:194853,8:194853	leg=2:194852,8:194852
 Viva os Noivos!	dub=2:311107,8:311107	leg=2:311108,8:311108
 Viva os Noivos! (2025)	dub=6:1313046
-Viva! A Babá Morreu	dub=2:291278,2:291277,8:291278,8:291277	leg=2:291279,8:291279
+Viva! A Babá Morreu	dub=2:291278,8:291278,2:291277,8:291277	leg=2:291279,8:291279
 Viva! A Babá Morreu (2024)	dub=6:1312324
 Vivarium	leg=2:42913,8:42913
 Viveiro	dub=2:380598,2:48218,8:380598,8:48218	leg=2:380597,8:380597
@@ -519,14 +519,14 @@ Vivo	dub=2:189941,8:189941	leg=2:189937,8:189937
 Vivo ou Morto	dub=2:236318,8:236318
 Vivo ou Morto (2023)	dub=6:1303039
 Vivo ou Morto Um Misterio Knives Out (2025)	dub=6:1314150	leg=6:1314149
-Vivo ou Morto: Um Mistério Knives Out	dub=2:358168,2:357128,8:358168,8:357128	leg=2:357127,8:357127
+Vivo ou Morto: Um Mistério Knives Out	dub=2:358168,8:358168,2:357128,8:357128	leg=2:357127,8:357127
 Vivos	dub=2:48233,8:48233
 Vivos (1993)	dub=6:1306338	leg=6:1306339
 Vixen: O Filme	dub=2:120677,8:120677
 Vixen: O Filme (2017)	dub=6:1309115
 Vizinhança do Barulho	dub=2:42949,8:387094,8:42949	leg=8:387093
 Vizinhança do Barulho (1996)	dub=6:1307045
-Vizinhos	dub=2:186743,2:171350,2:20877,8:186743,8:171350,8:20877
+Vizinhos	dub=2:186743,8:186743,2:171350,2:20877,8:171350,8:20877
 Vizinhos (2014)	dub=6:1297700
 Vizinhos (2022)	dub=6:1300043
 Vizinhos 2	dub=2:20875,8:20875
@@ -537,7 +537,7 @@ Vizinhos Imediatos de 3º Grau	dub=2:307064,8:307064
 Vizinhos Imediatos de 3º Grau (2012)	dub=6:1303947
 Vizinhos Nada Secretos	dub=2:20876,8:20876
 Vizinhos Nada Secretos (2016)	dub=6:1298087
-Viúva Negra	dub=2:112999,2:112993,8:112999,8:112993	leg=2:113011,8:113011
+Viúva Negra	dub=2:112999,8:112999,2:112993,8:112993	leg=2:113011,8:113011
 Vjeran Tomic: O Homem-Aranha de Paris	dub=8:389189,8:385514	leg=8:385513
 Vlavianos, o Impulso e a Razão	dub=2:373398,8:373398
 Voando Alto	dub=2:31441,2:31440,8:31441,8:31440
@@ -577,7 +577,7 @@ Você Não Está Sozinha	dub=2:219957,8:219957	leg=2:219956,8:219956
 Você Não Está Sozinha (2020)	dub=6:1310611	leg=6:1310612
 Você Não Foi Eleito, Charlie Brown	dub=2:324031,8:324031	leg=2:324030,8:324030
 Você Não Pode Chorar	dub=2:292316,8:292316	leg=2:292317,8:292317
-Você Não Tá Convidada pro Meu Bat Mitzvá!	dub=2:212681,2:210985,8:212681,8:210985	leg=2:210986,8:210986
+Você Não Tá Convidada pro Meu Bat Mitzvá!	dub=2:212681,8:212681,2:210985,8:210985	leg=2:210986,8:210986
 Você Pode Me Ouvir?	dub=2:338682,8:338682	leg=2:338681,8:338681
 Você Radical - Amnésia	dub=2:365130,8:365130	leg=2:365129,8:365129
 Você Só Precisa de Sangue (2023)	dub=6:1314237
@@ -602,7 +602,7 @@ Volkov - O Nome da Violência	dub=2:286369,8:286369	leg=2:286370,8:286370
 Volkov - O Nome da Violência (2022)	dub=6:1312103	leg=6:1312102
 Vollupya (2024)	dub=6:1314365
 Vollúpya	dub=2:368830,8:368830
-Volta Pra Mim	dub=2:368132,2:155509,2:149593,8:368132,8:155509,8:149593	leg=2:149574,8:149574
+Volta Pra Mim	dub=2:368132,2:155509,8:368132,8:155509,2:149593,8:149593	leg=2:149574,8:149574
 Volta Pra Mim (2022)	dub=6:1306243	leg=6:1306244
 Volta ao Mundo em 80 Dias Uma Aposta Muito Louca	dub=2:96877,8:96877
 Volta ao Mundo em 80 Dias Uma Aposta Muito Louca (2004)	dub=6:1301949
@@ -682,7 +682,7 @@ Vício Frenético	dub=2:112985,8:112985
 Vício Frenético (2009)	dub=6:1309617
 Vício Inerente	dub=2:122867,8:122867
 Vício Inerente (2014)	dub=6:1309891
-Vício Perfeito	dub=2:189915,2:189895,8:189915,8:189895	leg=2:189888,8:189888
+Vício Perfeito	dub=2:189895,8:189895,2:189915,8:189915	leg=2:189888,8:189888
 Vício Perfeito (2023)	dub=6:1301134
 Vírus	dub=2:41847,8:383385,8:41847	leg=8:383384
 Vírus (2009)	dub=6:1307355
@@ -692,7 +692,7 @@ Vítima X Suspeita	dub=2:196319,8:196319	leg=2:196321,8:196321
 Vítima X Suspeita (2023)	dub=6:1304949	leg=6:1304950
 Vítimas da Inocência	dub=2:211623,8:211623	leg=2:211624,8:211624
 Vítimas da Inocência (2019)	dub=6:1311089	leg=6:1311090
-Vítimas do Dia	dub=2:302751,2:302750,8:302751,8:302750	leg=2:302752,8:302752
+Vítimas do Dia	dub=2:302751,8:302751,2:302750,8:302750	leg=2:302752,8:302752
 Vítimas do Dia (2025)	dub=6:1502308
 Vítimas do Silêncio	dub=2:256952,8:256952	leg=2:256953,8:256953
 Vítimas do Silêncio (2021)	dub=6:1311346	leg=6:1311347

@@ -28,7 +28,7 @@ Wander	dub=2:190581,8:190581	leg=2:190582,8:190582
 Wander (2020)	dub=6:1306126	leg=6:1306127
 Wander Darkly: Sem Rumo (2020)	dub=6:1304499	leg=6:1304500
 Wander to Wonder	leg=2:314603,8:314603
-Wanted Man: Marcado Para Morrer	dub=2:281762,2:259353,8:281762,8:259353	leg=2:259354,8:259354
+Wanted Man: Marcado Para Morrer	dub=2:281762,8:281762,2:259353,8:259353	leg=2:259354,8:259354
 Wanted Man: Marcado Para Morrer (2024)	dub=6:1303695	leg=6:1303694
 War in the USA	leg=2:318603,8:318603
 War in the USA (2025)	leg=6:1313428
@@ -51,9 +51,9 @@ Wastelander - Guerreiros do Deserto (2018)	dub=6:1312811
 Wastelanders (2022)	dub=6:1311618	leg=6:1311619
 Wasteman	leg=8:394745
 Watchmen: Capitulo II (2024)	leg=6:1312543
-Watchmen: Capítulo 1	dub=2:318451,2:318450,8:318451,8:318450	leg=2:318452,8:318452
+Watchmen: Capítulo 1	dub=2:318451,8:318451,2:318450,8:318450	leg=2:318452,8:318452
 Watchmen: Capítulo 1 (2024)	leg=6:1311945
-Watchmen: Capítulo 2	dub=2:318454,2:318453,8:318454,8:318453	leg=2:318455,8:318455
+Watchmen: Capítulo 2	dub=2:318454,8:318454,2:318453,8:318453	leg=2:318455,8:318455
 Watchmen: O Filme	dub=2:327010,8:327010
 Watchmen: O Filme (2009)	dub=6:1307147
 Waterworld: O Segredo das Águas	dub=2:281754,8:281754
@@ -83,7 +83,7 @@ Wheely - Velozes e Divertidos	dub=2:247965,8:247965	leg=2:247964,8:247964
 Wheely - Velozes e Divertidos (2018)	dub=6:1303670
 When Love Springs	dub=2:362276,8:362276	leg=2:362275,8:362275
 When Love Strikes	leg=2:300641,8:300641
-Which Brings Me to You	dub=2:259075,2:259074,8:259075,8:259074	leg=2:259076,8:259076
+Which Brings Me to You	dub=2:259075,8:259075,2:259074,8:259074	leg=2:259076,8:259076
 Which Brings Me to You (2023)	dub=6:1303593
 Whindersson Nunes Adulto	dub=2:28260,8:28260
 Whindersson Nunes: Adulto (2019)	dub=6:1297792
@@ -93,7 +93,7 @@ Whindersson Nunes: É de Mim Mesmo	dub=2:150741,8:150741
 Whindersson Nunes: É de Mim Mesmo (2022)	dub=6:1306872
 Whiplash: Em Busca da Perfeicao (2014)	dub=6:1300562
 Whiplash: Em Busca da Perfeição	dub=2:371963,2:21197,8:371963,8:21197	leg=2:371962,8:371962
-White Boy Rick	dub=2:22522,2:22496,8:391879,8:22522,8:22496	leg=8:391878
+White Boy Rick	dub=2:22522,8:22522,2:22496,8:391879,8:22496	leg=8:391878
 White Boy Rick (2018)	dub=6:1298144
 White Lie	leg=2:64442,8:64442
 Whitney	dub=2:185865,8:185865	leg=2:185864,8:185864
@@ -102,12 +102,12 @@ Who Are You Charlie Brown	leg=2:112410,8:112410
 Who Killed Our Father?	dub=2:194209,8:194209
 Who Killed Our Father? (2023)	dub=6:1305435
 Why, Charlie Brown, Why?	dub=2:324019,8:324019	leg=2:324018,8:324018
-WiFi Ralph: Quebrando a Internet	dub=2:109092,2:21507,8:109092,8:21507
+WiFi Ralph: Quebrando a Internet	dub=2:21507,8:21507,2:109092,8:109092
 WiFi Ralph: Quebrando a Internet (2018)	dub=6:1298213
-Wicked	dub=2:314468,2:314467,2:301065,2:301064,8:314468,8:314467,8:301065,8:301064	leg=2:314469,2:301066,8:314469,8:301066
+Wicked	dub=2:314468,2:301065,8:314468,8:301065,2:314467,2:301064,8:314467,8:301064	leg=2:314469,2:301066,8:314469,8:301066
 Wicked (2024)	dub=6:1312736	leg=6:1312735
 Wicked Parte 2 (2025)	dub=6:1314199	leg=6:1314198
-Wicked: Parte II	dub=2:359264,2:359207,8:359264,8:359207	leg=2:359206,8:359206
+Wicked: Parte II	dub=2:359264,8:359264,2:359207,8:359207	leg=2:359206,8:359206
 Wig	dub=2:25116,8:25116
 Wig (2019)	dub=6:1308489
 Wild Appalachia	dub=2:348828,8:348828
@@ -148,7 +148,7 @@ Winter, o Golfinho 2 (2014)	dub=6:1298546
 Wintertide	leg=2:246955,8:246955
 Wintertide (2023)	leg=6:1309430
 Wish You Were Here	leg=2:310111,8:310111
-Wish: O Poder dos Desejos	dub=2:255265,2:255264,8:255265,8:255264	leg=2:252797,8:252797
+Wish: O Poder dos Desejos	dub=2:255265,8:255265,2:255264,8:255264	leg=2:252797,8:252797
 Wish: O Poder dos Desejos (2023)	dub=6:1303306
 Witches In The Woods	leg=2:69949,8:69949
 Witches in the Woods (2019)	leg=6:1308559
@@ -159,7 +159,7 @@ Wolf Pack: Unidade de Combate	dub=2:136768,8:136768	leg=2:136806,8:136806
 Wolf Pack: Unidade de Combate (2019)	dub=6:1304632	leg=6:1304633
 Wolfwalkers	dub=2:89606,8:89606
 Wolfwalkers (2020)	dub=6:1298477
-Wolverine: Imortal	dub=2:95899,2:93058,2:20289,8:95899,8:93058,8:20289
+Wolverine: Imortal	dub=2:95899,8:95899,2:93058,2:20289,8:93058,8:20289
 Wolverine: Imortal (2013)	dub=6:1297183
 Wolves	dub=2:348175,8:348175	leg=2:348174,8:348174
 Woman at War Legendado	dub=2:30664,8:30664
@@ -171,7 +171,7 @@ Women Is Losers (2021)	dub=6:1302691
 Wonder Woman (1984)	leg=2:90757,8:90757
 Wonderland	dub=2:276116,8:276116	leg=2:276117,8:276117
 Wonderland (2024)	dub=6:1309183
-Wonka	dub=2:241912,2:241911,8:241912,8:241911	leg=2:241913,8:241913
+Wonka	dub=2:241912,8:241912,2:241911,8:241911	leg=2:241913,8:241913
 Wonka (2023)	dub=6:1303097	leg=6:1303096
 Working Girls	leg=2:102483,8:102483
 Wormtown	leg=2:373799,8:373799

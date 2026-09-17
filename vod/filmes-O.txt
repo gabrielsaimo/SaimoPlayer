@@ -49,7 +49,7 @@ O Afinador (2026)	dub=6:1502261
 O Agente (2007)	dub=6:1309838	leg=6:1309839
 O Agente Faixa-Preta	dub=2:285815,8:285815	leg=2:285816,8:285816
 O Agente Faixa-Preta (2024)	dub=6:1312091
-O Agente Secreto	dub=2:379437,2:365411,2:365410,2:364724,8:379437,8:365411,8:365410,8:364724	leg=2:365106,8:365106
+O Agente Secreto	dub=2:379437,2:365411,2:365410,8:379437,8:365411,8:365410,2:364724,8:364724	leg=2:365106,8:365106
 O Agente Secreto (2025)	dub=6:1314246
 O Agente Teen (2003)	dub=6:1500979
 O Agente da U.N.C.L.E.	dub=2:108291,8:108291
@@ -63,7 +63,7 @@ O Albergue 3	dub=2:104505,8:104505
 O Albergue 3 (2011)	dub=6:1297517
 O Alecrim e o Sonho	dub=8:390277
 O Alerta	leg=8:393699
-O Alfaiate	dub=2:179741,2:173294,8:179741,8:173294	leg=2:173306,8:173306
+O Alfaiate	dub=2:179741,8:179741,2:173294,8:173294	leg=2:173306,8:173306
 O Alfaiate (2022)	dub=6:1301117
 O Alfaiate do Panama (2001)	dub=6:1302384
 O Alpinista	dub=2:250608,8:250608	leg=2:250609,8:250609
@@ -102,10 +102,10 @@ O Amor Da Trabalho (2019)	dub=6:1297580
 O Amor Dá Trabalho	dub=2:311136,2:114398,8:311136,8:114398
 O Amor E Cego	dub=2:20729,8:20729
 O Amor Esta no Ar (2023)	dub=6:1302561
-O Amor Está no Ar	dub=2:311231,2:219164,2:216989,8:311231,8:219164,8:216989	leg=2:216988,8:216988
+O Amor Está no Ar	dub=2:219164,8:219164,2:311231,2:216989,8:311231,8:216989	leg=2:216988,8:216988
 O Amor Está no Campo	dub=2:371676,8:371676	leg=2:371675,8:371675
 O Amor Floresce	dub=2:309906,8:309906	leg=2:309907,8:309907
-O Amor Mandou Mensagem	dub=2:197140,2:197139,8:197140,8:197139	leg=2:197137,8:197137
+O Amor Mandou Mensagem	dub=2:197140,8:197140,2:197139,8:197139	leg=2:197137,8:197137
 O Amor Mandou Mensagem (2023)	dub=6:1302238
 O Amor Move Ondas	dub=2:149573,8:392800,8:149573	leg=2:149575,8:392799,8:149575
 O Amor Move Ondas (2022)	dub=6:1301711
@@ -117,7 +117,7 @@ O Amor Não Tem Regras (2022)	dub=6:1311386	leg=6:1311387
 O Amor Não Tira Férias	dub=2:382436,2:20730,8:382436,8:20730	leg=2:382435,8:382435
 O Amor Não se Ensina	dub=2:378718,8:378718
 O Amor Queimou Ela Ressuscitou Ilesa	leg=8:389602
-O Amor Sangra	dub=2:297457,2:297456,8:297457,8:297456	leg=2:297458,8:297458
+O Amor Sangra	dub=2:297457,8:297457,2:297456,8:297456	leg=2:297458,8:297458
 O Amor Segundo B. Schianberg	dub=2:323725,8:323725
 O Amor Sertanejo	dub=2:182919,8:182919
 O Amor Sertanejo (2020)	dub=6:1300927
@@ -173,11 +173,11 @@ O Apocalípse	dub=2:152003,2:21637,8:152003,8:21637
 O Apollo 85 Anos (2019)	dub=6:1302429
 O Apostador	dub=2:112412,8:112412
 O Apostador (2014)	dub=6:1307392
-O Aprendiz	dub=2:299206,2:298477,8:299206,8:298477	leg=2:298478,8:298478
+O Aprendiz	dub=2:299206,8:299206,2:298477,8:298477	leg=2:298478,8:298478
 O Aprendiz (2024)	dub=6:1312567	leg=6:1312566
 O Aprendiz de Feiticeiro (2010)	dub=6:1311769	leg=6:1311768
 O Aprendiz de Serial Killer	dub=2:340155,8:340155	leg=2:340154,8:340154
-O Aprendiz do Tigre	dub=2:247947,2:247320,8:247947,8:247320	leg=2:247321,8:247321
+O Aprendiz do Tigre	dub=2:247947,8:247947,2:247320,8:247320	leg=2:247321,8:247321
 O Aprendiz do Tigre (2024)	dub=6:1303148
 O Apóstolo (2012)	dub=6:1309809
 O Apóstolo do Brasil - A Missão de São José de Anchieta	dub=8:394527
@@ -208,13 +208,13 @@ O Assassinato de Nicole Brown Simpson	dub=2:95935,8:95935
 O Assassinato de Nicole Brown Simpson (2020)	dub=6:1303828
 O Assassinato de Rachel Nickell	dub=2:381793,8:381793	leg=2:381792,8:381792
 O Assassinato de Rachel Nickell (2026)	dub=6:1314649
-O Assassino	dub=2:229163,2:226080,8:229163,8:226080	leg=2:226076,8:226076
+O Assassino	dub=2:229163,8:229163,2:226080,8:226080	leg=2:226076,8:226076
 O Assassino (2023)	dub=6:1302792
 O Assassino Americano	dub=2:133971,8:133971	leg=2:133961,8:133961
 O Assassino Americano (2021)	dub=6:1304761	leg=6:1304762
 O Assassino Mora ao Lado	dub=2:303581,8:303581	leg=2:303582,8:303582
 O Assassino O Primeiro Alvo	dub=2:20126,8:20126
-O Assassino Perfeito	dub=2:185187,2:185162,8:185187,8:185162	leg=2:185188,8:185188
+O Assassino Perfeito	dub=2:185187,8:185187,2:185162,8:185162	leg=2:185188,8:185188
 O Assassino Perfeito (2022)	dub=6:1301721
 O Assassino da Floresta (2013)	dub=6:1303965
 O Assassino da Minha Filha (2022)	dub=6:1299615
@@ -222,14 +222,14 @@ O Assassino das Rodovias	dub=2:269813,8:269813	leg=2:269814,8:269814
 O Assassino das Rodovias (2022)	dub=6:1309288	leg=6:1309289
 O Assassino do Alfabeto	dub=8:396219	leg=8:396218
 O Assassino do Calendario (2025)	dub=6:1312932
-O Assassino do Calendário	dub=2:305583,2:303583,8:305583,8:303583	leg=2:303584,8:303584
+O Assassino do Calendário	dub=2:305583,8:305583,2:303583,8:303583	leg=2:303584,8:303584
 O Assassino do Presidente (2003)	dub=6:1302412
 O Assassino do Rio Green	dub=2:339940,8:339940
 O Assassino em Mim (2010)	dub=6:1302417
 O Assassino em Série de Long Island	dub=2:162334,8:162334
 O Assassino em Série de Long Island (2021)	dub=6:1306602
 O Assassino: O Primeiro Alvo (2017)	dub=6:1299591
-O Astronauta	dub=2:254785,2:251179,8:254785,8:251179	leg=2:251180,8:251180
+O Astronauta	dub=2:254785,8:254785,2:251179,8:251179	leg=2:251180,8:251180
 O Astronauta (2024)	dub=6:1303195	leg=6:1303194
 O Atalho (2011)	dub=6:1300546
 O Ataque	dub=2:316428,8:316428
@@ -276,7 +276,7 @@ O Atirador O Exterminio Final (2017)	dub=6:1303697
 O Atirador O Fim de um Assassino (2020)	dub=6:1303698
 O Atirador Resposta Global e Equipe Tatica (2023)	dub=6:1303700
 O Atirador Sem Nacao (2026)	dub=6:1503020
-O Atirador: A Última Batalha	dub=2:313164,2:313163,8:313164,8:313163	leg=2:313165,8:313165
+O Atirador: A Última Batalha	dub=2:313164,8:313164,2:313163,8:313163	leg=2:313165,8:313165
 O Atirador: Fantasma	dub=2:91445,8:91445
 O Atirador: Legado	dub=2:247350,8:247350
 O Atirador: Missão Secreta	dub=2:169710,8:169710	leg=2:169634,8:169634
@@ -305,12 +305,12 @@ O Baile das Bruxas (2017)	dub=6:1307934
 O Baile das Loucas	dub=2:128868,2:128850,8:128868,8:128850
 O Baile das Loucas (2021)	dub=6:1305196
 O Baile dos 41 (2020)	dub=6:1301116
-O Balconista 3	dub=2:179804,2:177217,8:179804,8:177217	leg=2:177218,8:177218
+O Balconista 3	dub=2:179804,8:179804,2:177217,8:177217	leg=2:177218,8:177218
 O Balconista 3 (2022)	dub=6:1302628
 O Bandido da Luz Vermelha (1968)	dub=6:1314229
 O Bandido de Kandahar	dub=2:354237,8:354237
 O Banho do Diabo (2024)	leg=6:1311579
-O Banqueiro	dub=2:41832,2:41636,8:41832,8:41636
+O Banqueiro	dub=2:41832,8:41832,2:41636,8:41636
 O Banqueiro (2020)	dub=6:1297868
 O Banqueiro da Resistencia	dub=2:21055,8:21055
 O Banqueiro da Resistência (2018)	dub=6:1310556
@@ -334,7 +334,7 @@ O Bebê de Rosemary	dub=2:112974,8:112974
 O Bebê de Rosemary (1968)	dub=6:1301230
 O Beco da Morte	dub=2:263713,8:263713	leg=2:263714,8:263714
 O Beco da Morte (2021)	dub=6:1305264	leg=6:1305265
-O Beco do Pesadelo	dub=2:317698,2:155474,2:151986,8:317698,8:155474,8:151986	leg=2:317699,2:152001,8:317699,8:152001
+O Beco do Pesadelo	dub=2:155474,8:155474,2:317698,2:151986,8:317698,8:151986	leg=2:317699,2:152001,8:317699,8:152001
 O Beco do Pesadelo (2021)	dub=6:1299320
 O Beijo	dub=2:377836,2:343047,8:377836,8:343047
 O Beijo da Morte	dub=2:223116,8:223116	leg=2:223112,8:223112
@@ -362,7 +362,7 @@ O Bicho Vai Pegar 3	dub=2:20400,8:20400
 O Bicho Vai Pegar 3 (2010)	dub=6:1297031
 O Bicho Vai Pegar 4	dub=2:130260,8:130260
 O Bicho Vai Pegar 4 (2015)	dub=6:1298021
-O Bingo Macabro	dub=2:284552,2:155498,2:130414,8:284552,8:155498,8:130414	leg=2:130413,8:130413
+O Bingo Macabro	dub=2:284552,2:155498,8:284552,8:155498,2:130414,8:130414	leg=2:130413,8:130413
 O Bingo Macabro (2021)	dub=6:1304789	leg=6:1304790
 O Bloqueio	dub=2:301071,8:301071	leg=2:301072,8:301072
 O Bom Bandido	dub=2:354962,8:354962	leg=2:354961,2:353488,8:354961,8:353488
@@ -401,7 +401,7 @@ O Braço Direito	dub=2:77623,8:77623
 O Braço Direito (2020)	dub=6:1308909
 O Brilho do Natal	dub=2:358061,2:144393,8:358061,8:144393	leg=2:358060,2:144389,8:358060,8:144389
 O Brilho do Natal (2019)	dub=6:1304588	leg=6:1304589
-O Brutalista	dub=2:317471,2:317303,2:317302,8:317471,8:317303,8:317302	leg=2:317305,2:317304,8:317305,8:317304
+O Brutalista	dub=2:317471,8:317471,2:317303,2:317302,8:317303,8:317302	leg=2:317305,2:317304,8:317305,8:317304
 O Brutalista (2024)	dub=6:1313395	leg=6:1313161
 O Bruxo	dub=2:299601,8:299601	leg=2:299602,8:299602
 O Buscador	dub=2:205190,8:205190
@@ -459,7 +459,7 @@ O Canil: Dog Pound (2010)	leg=6:1311827
 O Cantico dos Nomes (2019)	dub=6:1298127
 O Canto da Sereia	dub=2:21056,8:21056
 O Canto da Sereia (1983)	dub=6:1310430
-O Canto do Cisne	dub=2:148621,2:147467,8:148621,8:147467	leg=2:148619,8:148619
+O Canto do Cisne	dub=2:147467,8:147467,2:148621,8:148621	leg=2:148619,8:148619
 O Canto do Cisne (2021)	dub=6:1306429	leg=6:1306430
 O Cao e a Raposa (1981)	dub=6:1300887
 O Cao e a Raposa 2 (2006)	dub=6:1300888
@@ -470,7 +470,7 @@ O Capitão Soviético (2023)	dub=6:1311296	leg=6:1311297
 O Cara (2005)	dub=6:1302409
 O Cara Perfeito (2015)	dub=6:1310138	leg=6:1310139
 O Cara Que Não Aglomerava	dub=2:347341,8:347341
-O Cara da Piscina	dub=2:285162,2:270419,8:285162,8:270419	leg=2:270420,8:270420
+O Cara da Piscina	dub=2:285162,8:285162,2:270419,8:270419	leg=2:270420,8:270420
 O Cara da Piscina (2024)	dub=6:1309131
 O Carma De Um Assassino	dub=2:20130,8:20130
 O Carma de Um Assassino (2018)	dub=6:1310476	leg=6:1310477
@@ -521,7 +521,7 @@ O Castelo Animado (2004)	dub=6:1303233
 O Castelo de Vidro	dub=2:198583,8:198583
 O Castelo de Vidro (2017)	dub=6:1305067
 O Castelo do Lobisomem (2022)	dub=6:1303501
-O Cativo	dub=2:370270,2:363691,8:370270,8:363691	leg=2:363690,8:363690
+O Cativo	dub=2:370270,8:370270,2:363691,8:363691	leg=2:363690,8:363690
 O Cativo (2025)	dub=6:1314255
 O Cavaleiro Solitario (2013)	dub=6:1298829
 O Cavaleiro Solitário	dub=2:114397,8:114397
@@ -569,7 +569,7 @@ O Chamado 3	dub=2:21784,8:21784
 O Chamado 3 (2017)	dub=6:1299605
 O Chamado 4: Samara Ressurge	dub=2:204491,8:204491	leg=2:204492,8:204492
 O Chamado 4: Samara Ressurge (2022)	dub=6:1311600	leg=6:1311601
-O Chamado da Floresta	dub=2:368229,2:45101,2:45035,8:368229,8:45101,8:45035	leg=2:368228,8:368228
+O Chamado da Floresta	dub=2:45101,8:45101,2:368229,2:45035,8:368229,8:45035	leg=2:368228,8:368228
 O Chamado da Floresta (2020)	dub=6:1297726
 O Chamado da Água	dub=2:378987,8:378987	leg=2:378986,8:378986
 O Chamado de Deus (2015)	dub=6:1303482
@@ -619,7 +619,7 @@ O Clube de Leitores Assassinos	dub=2:210987,8:210987	leg=2:210988,8:210988
 O Clube de Leitores Assassinos (2023)	dub=6:1302311
 O Clube de Leitura de Jane Austen (2007)	dub=6:1302406
 O Clube de Tiro	leg=8:388661
-O Clube do Crime das Quintas-Feiras	dub=2:374354,2:373361,2:341044,8:374354,8:373361,8:341044	leg=2:341043,8:341043
+O Clube do Crime das Quintas-Feiras	dub=2:374354,2:373361,8:374354,8:373361,2:341044,8:341044	leg=2:341043,8:341043
 O Clube do Crime das Quintas-Feiras (2025)	dub=6:1313777
 O Clube do Imperador	dub=8:395253	leg=8:395252
 O Clube do Tesouro	dub=2:288816,8:288816	leg=2:288817,8:288817
@@ -635,7 +635,7 @@ O Clube dos Milagres (2023)	dub=6:1303647
 O Clã	dub=8:395699	leg=8:395698
 O Clã das Adagas (2017)	dub=6:1303666
 O Clã das Jiboias: O Jiu-Jitsu da Amazônia para o Mundo	dub=2:336384,8:336384
-O Cobrador de Dividas	dub=2:73009,8:391575,8:388396,8:73009	leg=8:388395
+O Cobrador de Dividas	dub=8:391575,2:73009,8:388396,8:73009	leg=8:388395
 O Cobrador de Dívidas (2018)	dub=6:1303940
 O Cobrador de Dívidas (2026)	dub=6:1501244
 O Cobrador de Dívidas 2	dub=2:84600,8:84600
@@ -643,7 +643,7 @@ O Cobrador de Dívidas 2 (2020)	dub=6:1308663	leg=6:1308664
 O Cobrador de Impostos	dub=2:89017,8:89017
 O Cobrador de Impostos (2020)	dub=6:1308156	leg=6:1308157
 O Codigo Da Vinci (2006)	dub=6:1299693
-O Coelhinho de Veludo	dub=2:229158,2:229151,8:229158,8:229151	leg=2:229139,8:229139
+O Coelhinho de Veludo	dub=2:229151,8:229151,2:229158,8:229158	leg=2:229139,8:229139
 O Coelhinho de Veludo (2023)	dub=6:1302865
 O Coiote	dub=2:33365,8:33365
 O Coiote (2019)	dub=6:1297913
@@ -677,12 +677,12 @@ O Comitê de Deus	dub=2:136761,8:136761	leg=2:136807,8:136807
 O Compositor	dub=2:216050,8:216050	leg=2:216051,8:216051
 O Compositor (2020)	dub=6:1310698	leg=6:1310699
 O Computador de Tênis	dub=2:352096,8:352096
-O Concerto Maldito, Sinfonia do Mal	dub=2:297459,2:261649,8:297459,8:261649	leg=2:261650,8:261650
+O Concerto Maldito, Sinfonia do Mal	dub=2:297459,8:297459,2:261649,8:261649	leg=2:261650,8:261650
 O Concerto Maldito, Sinfonia do Mal (2023)	dub=6:1305262	leg=6:1305263
 O Concurso (2013)	dub=6:1301943
-O Conde	dub=2:216038,2:215057,8:216038,8:215057	leg=2:215056,8:215056
+O Conde	dub=2:216038,8:216038,2:215057,8:215057	leg=2:215056,8:215056
 O Conde (2023)	dub=6:1303225
-O Conde de Monte Cristo	dub=2:309558,2:309310,2:20132,8:309558,8:309310,8:20132	leg=2:309311,2:295714,8:309311,8:295714
+O Conde de Monte Cristo	dub=2:309558,8:309558,2:309310,2:20132,8:309310,8:20132	leg=2:309311,2:295714,8:309311,8:295714
 O Conde de Monte Cristo (2002)	dub=6:1303079
 O Conde de Monte Cristo (2024)	dub=6:1313008	leg=6:1312434
 O Confessionário	dub=2:144064,8:144064
@@ -698,7 +698,7 @@ O Conselheiro do Crime	dub=2:101179,8:101179
 O Conselheiro do Crime (2013)	dub=6:1307061
 O Contador	dub=2:318575,2:20134,8:318575,8:20134	leg=2:318557,8:318557
 O Contador (2016)	dub=6:1313464	leg=6:1313463
-O Contador 2	dub=2:325903,2:325107,8:325903,8:325107	leg=2:325106,8:325106
+O Contador 2	dub=2:325903,8:325903,2:325107,8:325107	leg=2:325106,8:325106
 O Contador 2 (2025)	dub=6:1313576	leg=6:1313575
 O Contador de Cartas	dub=2:160624,2:160434,8:160624,8:160434
 O Contador de Cartas (2021)	dub=6:1301114
@@ -739,7 +739,7 @@ O Corpo é Nosso!	dub=2:33394,8:33394
 O Corpo é Nosso! (2019)	dub=6:1308554
 O Corruptor	dub=2:347155,8:347155	leg=2:347154,8:347154
 O Corte	dub=2:371913,8:371913	leg=2:371912,8:371912
-O Corvo	dub=2:291165,2:289134,2:288876,8:291165,8:289134,8:288876	leg=2:288877,2:286608,8:288877,8:286608
+O Corvo	dub=2:291165,2:289134,8:291165,8:289134,2:288876,8:288876	leg=2:288877,2:286608,8:288877,8:286608
 O Corvo (1994)	dub=6:1312050	leg=6:1312049
 O Corvo (2012)	dub=6:1302420
 O Corvo (2024)	dub=6:1312257	leg=6:1312093
@@ -777,7 +777,7 @@ O Cântico dos Nomes	dub=2:67495,8:67495
 O Cão de Guarda	dub=2:354239,8:354239	leg=2:354238,8:354238
 O Cão e a Raposa	dub=2:34194,8:34194
 O Cão e a Raposa 2	dub=2:279480,8:279480
-O Céu Está em Todo Lugar	dub=2:155515,2:149587,8:155515,8:149587	leg=2:149562,8:149562
+O Céu Está em Todo Lugar	dub=2:155515,8:155515,2:149587,8:149587	leg=2:149562,8:149562
 O Céu Mandou Alguém	dub=2:352924,8:352924	leg=2:352921,8:352921
 O Céu Não Pode Esperar	dub=2:317074,2:225670,8:317074,8:225670	leg=2:317075,8:317075
 O Céu Não Pode Esperar (2010)	dub=6:1310446
@@ -801,7 +801,7 @@ O Código do Silêncio (2021)	dub=6:1311257	leg=6:1311258
 O Date Perfeito	dub=2:21447,8:21447
 O Date Perfeito (2019)	dub=6:1298352
 O Declinio (2020)	dub=6:1298927
-O Declínio	dub=2:46149,2:41999,8:46149,8:41999
+O Declínio	dub=2:46149,8:46149,2:41999,8:41999
 O Defensor (1994)	dub=6:1307249
 O Defensor (1996)	dub=6:1309160
 O Defensor: A História de Bert Trautmann	dub=2:185313,8:185313	leg=2:185314,8:185314
@@ -935,9 +935,9 @@ O Diabo Veste Azul	dub=2:110254,8:110254
 O Diabo Veste Azul (1995)	dub=6:1302407
 O Diabo Veste Prada	dub=2:97193,8:97193
 O Diabo Veste Prada (2006)	dub=6:1299931
-O Diabo Veste Prada 2	dub=2:377120,8:389298,8:389244	leg=2:382523,2:381989,8:382523
+O Diabo Veste Prada 2	dub=8:389298,2:377120,8:389244	leg=2:382523,2:381989,8:382523
 O Diabo Veste Prada 2 (2026)	dub=6:1501303	leg=6:1501302
-O Diabo de Cada Dia	dub=2:194541,2:73010,8:194541,8:73010
+O Diabo de Cada Dia	dub=2:194541,8:194541,2:73010,8:73010
 O Diabo de Cada Dia (2020)	dub=6:1298102
 O Diabo no Tribunal	dub=2:220048,8:220048	leg=2:220047,8:220047
 O Diabo no Tribunal (2023)	dub=6:1302637	leg=6:1302636
@@ -966,7 +966,7 @@ O Ditador	dub=2:108083,8:108083
 O Ditador (2012)	dub=6:1303152
 O Divino Baggio	dub=2:108308,8:108308
 O Divino Baggio (2021)	dub=6:1308799
-O Diário	dub=2:288821,2:288820,8:288821,8:288820	leg=2:288822,8:288822
+O Diário	dub=2:288821,8:288821,2:288820,8:288820	leg=2:288822,8:288822
 O Diário (2024)	dub=6:1312251	leg=6:1312250
 O Diário Mágico	dub=2:251973,8:251973	leg=2:251974,8:251974
 O Diário da Princesa	dub=2:377244,8:377244	leg=2:377243,8:377243
@@ -981,7 +981,7 @@ O Diário de Noel	dub=2:180628,8:180628	leg=2:180625,8:180625
 O Diário de Pilar na Amazônia	dub=2:370688,8:370688	leg=2:370687,8:370687
 O Diário de Uma Adolescente (2015)	dub=6:1310049	leg=6:1310050
 O Diário de Uma Babá	dub=2:138914,8:138914
-O Diário de um Banana: As Regras do Rodrick	dub=2:365856,2:181138,8:365856,8:181138	leg=2:181146,8:181146
+O Diário de um Banana: As Regras do Rodrick	dub=2:365856,8:365856,2:181138,8:181138	leg=2:181146,8:181146
 O Diário de uma Virgem	dub=2:111611,8:386266,8:111611	leg=8:386265
 O Diário de uma Virgem (2013)	dub=6:1307143
 O Doador de Memórias	dub=2:270438,8:270438
@@ -1017,15 +1017,15 @@ O Dragão Invencível	dub=2:281091,8:281091	leg=2:281092,8:281092
 O Dragão da Maldade contra o Santo Guerreiro (1969)	dub=6:1301243
 O Dragão do Meu Pai	dub=2:179744,8:179744	leg=2:179811,8:179811
 O Dragão e o Feiticeiro	dub=2:363897,8:363897	leg=2:363896,8:363896
-O Drama	dub=2:380285,2:380271,8:380285,8:380271	leg=2:380270,2:377733,8:380270,8:377733
+O Drama	dub=2:380285,8:380285,2:380271,8:380271	leg=2:380270,2:377733,8:380270,8:377733
 O Drama (2026)	dub=6:1314602	leg=6:1314567,6:1314601
 O Drama Do Banquete De Noivado	dub=8:389607
 O Drama Menstrual de Jane Austen	leg=8:394807
 O Duble (2024)	dub=6:1304153	leg=6:1304082
-O Dublê	dub=2:264475,2:264474,8:264475,8:264474	leg=2:264476,2:264145,8:264476,8:264145
+O Dublê	dub=2:264475,8:264475,2:264474,8:264474	leg=2:264476,2:264145,8:264476,8:264145
 O Duelista	dub=2:162993,8:162993
 O Duelista (2016)	dub=6:1305666
-O Duelo	dub=2:286609,2:286495,2:21063,8:286609,8:286495,8:21063	leg=2:286496,8:286496
+O Duelo	dub=2:286609,8:286609,2:286495,2:21063,8:286495,8:21063	leg=2:286496,8:286496
 O Duelo (2024)	dub=6:1312130	leg=6:1312129
 O Duelo Final	dub=2:22055,8:22055
 O Duelo Final (2017)	dub=6:1303487
@@ -1043,7 +1043,7 @@ O Efeito Marco	dub=2:208317,8:208317	leg=2:208316,8:208316
 O Elefantinho de Coração Valente (2000)	dub=6:1311771
 O Elenco da Morte	dub=2:338675,8:338675	leg=2:338674,8:338674
 O Elevador (2021)	dub=6:1308750
-O Elixir	dub=2:349776,2:349706,8:349776,8:349706	leg=2:349705,8:349705
+O Elixir	dub=2:349776,8:349776,2:349706,8:349706	leg=2:349705,8:349705
 O Elixir (2025)	dub=6:1313935
 O Elo Perdido	dub=2:352408,2:319005,8:352408,8:319005	leg=2:352407,8:352407
 O Elo Perdido (2009)	dub=6:1311753
@@ -1056,7 +1056,7 @@ O Encontro Mais Longo de Todos (2023)	dub=6:1305514	leg=6:1305515
 O Encontro Perfeito	dub=2:110779,8:110779
 O Encontro Perfeito (2005)	dub=6:1307819
 O Encontro de Carl	dub=2:373348,8:373348
-O Enfermeiro da Noite	dub=2:196759,2:178546,8:196759,8:178546	leg=2:178548,8:178548
+O Enfermeiro da Noite	dub=2:196759,8:196759,2:178546,8:178546	leg=2:178548,8:178548
 O Enfermeiro da Noite (2022)	dub=6:1300284
 O Enforcador	dub=2:337284,8:337284	leg=2:337283,8:337283
 O Engenheiro	dub=2:217288,8:217288	leg=2:217287,8:217287
@@ -1129,10 +1129,10 @@ O Espião Inglês	dub=2:124508,8:124508	leg=2:124501,8:124501
 O Espião Que Sabia Demais	dub=2:122877,8:122877
 O Espírito das Trevas	dub=2:287363,8:287363	leg=2:287364,8:287364
 O Espírito do Natal	dub=2:343972,2:182640,8:343972,8:182640	leg=2:343971,8:343971
-O Esquadrão Suicida	dub=2:117528,2:117527,8:117528,8:117527	leg=2:117531,8:117531
+O Esquadrão Suicida	dub=2:117528,8:117528,2:117527,8:117527	leg=2:117531,8:117531
 O Esquadrão Suicida (2021)	dub=6:1313308	leg=6:1313307
 O Esquema Fenicio (2025)	dub=6:1313638	leg=6:1313637
-O Esquema Fenício	dub=2:330515,2:330513,8:330515,8:330513	leg=2:330514,8:330514
+O Esquema Fenício	dub=2:330513,8:330513,2:330515,8:330515	leg=2:330514,8:330514
 O Esquema LuLaRoe: Ascensão e Queda	dub=8:390281	leg=8:390280
 O Estado Selvagem (2020)	leg=6:1308418
 O Estado das Coisas	dub=2:20741,8:20741
@@ -1143,7 +1143,7 @@ O Estigma (2018)	dub=6:1308978
 O Estrangeiro	dub=2:382471,2:381393,2:20143,8:382471,8:381393,8:20143	leg=2:382470,2:381392,8:382470,8:381392
 O Estrangeiro (2017)	dub=6:1302427
 O Estrangeiro (2025)	dub=6:1314617	leg=6:1314493
-O Estrangulador de Boston	dub=2:189535,2:189533,8:189535,8:189533	leg=2:189534,8:189534
+O Estrangulador de Boston	dub=2:189533,8:189533,2:189535,8:189535	leg=2:189534,8:189534
 O Estrangulador de Boston (2023)	dub=6:1301023	leg=6:1301022
 O Estranho	dub=2:340437,8:395363,8:340437	leg=2:340436,8:395362,8:340436
 O Estranho Aliado do Rei Arthur (1979)	dub=6:1311772
@@ -1158,7 +1158,7 @@ O Estranho Sem Nome (1973)	dub=6:1301821
 O Estranho Thomas	dub=2:112418,8:112418
 O Estranho Thomas (2013)	dub=6:1298946
 O Estranho em Minha Casa	leg=2:329895,8:329895
-O Estranho na Minha Casa	dub=2:359673,2:359093,8:359673,8:359093	leg=2:359092,8:359092
+O Estranho na Minha Casa	dub=2:359673,8:359673,2:359093,8:359093	leg=2:359092,8:359092
 O Estranho na Minha Casa (2025)	dub=6:1314196	leg=6:1314195
 O Estranho que Nós Amamos (2017)	dub=6:1302006
 O Estágio	leg=2:375241,8:375241
@@ -1167,7 +1167,7 @@ O Evangelho Segundo João (2003)	dub=6:1307438
 O Exorcismo	dub=2:286625,8:286625	leg=2:275507,8:275507
 O Exorcismo (2015)	dub=6:1303551
 O Exorcismo (2024)	dub=6:1312160	leg=6:1309138
-O Exorcismo da Minha Melhor Amiga	dub=2:179781,2:175618,8:179781,8:175618	leg=2:175619,8:175619
+O Exorcismo da Minha Melhor Amiga	dub=2:179781,8:179781,2:175618,8:175618	leg=2:175619,8:175619
 O Exorcismo da Minha Melhor Amiga (2022)	dub=6:1300159
 O Exorcismo de Anna Ecklund	dub=2:128884,8:128884
 O Exorcismo de Anna Ecklund (2016)	dub=6:1305077
@@ -1182,9 +1182,9 @@ O Exorcista II: O Herege (1977)	dub=6:1299217
 O Exorcista III	dub=2:100411,8:100411
 O Exorcista III (1990)	dub=6:1299218
 O Exorcista O Devoto (2023)	dub=6:1302894	leg=6:1302667
-O Exorcista do Papa	dub=2:194159,2:194084,8:388389,8:194159,8:194084	leg=2:194085,8:388390,8:194085
+O Exorcista do Papa	dub=2:194159,8:194159,2:194084,8:388389,8:194084	leg=2:194085,8:388390,8:194085
 O Exorcista do Papa (2023)	dub=6:1301190	leg=6:1301184
-O Exorcista: O Devoto	dub=2:230154,2:230140,8:230154,8:230140	leg=2:230155,8:230155
+O Exorcista: O Devoto	dub=2:230154,8:230154,2:230140,8:230140	leg=2:230155,8:230155
 O Exorcista: O Inicio (2004)	dub=6:1299212
 O Exorcista: O Início	dub=2:157995,8:157995
 O Exotico Hotel Marigold (2012)	dub=6:1301446
@@ -1206,7 +1206,7 @@ O Exterminador do Futuro (1984)	dub=6:1297013
 O Exterminador do Futuro - Genesis	dub=2:21331,8:21331
 O Exterminador do Futuro 3 - A Rebeliao das Maquinas (2003)	dub=6:1297015
 O Exterminador do Futuro: A Salvacao (2009)	dub=6:1297016
-O Exterminador do Futuro: Destino Sombrio	dub=2:349854,2:33886,2:33883,6:1297910,8:349854,8:33886,8:33883	leg=2:349853,8:349853
+O Exterminador do Futuro: Destino Sombrio	dub=2:33886,8:33886,2:349854,2:33883,6:1297910,8:349854,8:33883	leg=2:349853,8:349853
 O Exterminador do Futuro: Destino Sombrio (2019)	dub=6:1307400	leg=6:1307401
 O Exterminador do Futuro: Genesis (2015)	dub=6:1297022
 O Extra de Condomínio	dub=8:395257	leg=8:395256
@@ -1214,7 +1214,7 @@ O Exótico Hotel Marigold	dub=2:134105,8:134105
 O Exótico Hotel Marigold 2	dub=2:134038,8:134038
 O Exótico Hotel Marigold 2 (2015)	dub=6:1304358
 O Fabricante de Lagrimas (2024)	dub=6:1303320
-O Fabricante de Lágrimas	dub=2:265550,2:256004,8:265550,8:256004	leg=2:256003,8:256003
+O Fabricante de Lágrimas	dub=2:265550,8:265550,2:256004,8:256004	leg=2:256003,8:256003
 O Fabuloso Destino de Amelie Poulain	dub=2:20742,8:20742
 O Fabuloso Destino de Amélie Poulain (2001)	dub=6:1309939
 O Fabuloso Fittipaldi	dub=2:371920,8:371920
@@ -1230,7 +1230,7 @@ O Falsario (2025)	dub=6:1314256
 O Falsificador	dub=2:212426,8:212426	leg=2:212425,8:212425
 O Falsificador (2011)	dub=6:1303793
 O Falsificador (2022)	dub=6:1311537	leg=6:1311538
-O Falsário	dub=2:363761,2:363689,8:363761,8:363689	leg=2:363688,8:363688
+O Falsário	dub=2:363761,8:363761,2:363689,8:363689	leg=2:363688,8:363688
 O Fantasma	dub=2:351004,2:97195,8:351004,8:97195	leg=2:351003,8:351003
 O Fantasma (1996)	dub=6:1309064
 O Fantasma Vermelho	dub=2:169147,8:169147	leg=2:169145,8:169145
@@ -1279,7 +1279,7 @@ O Filho da Noiva	dub=2:328989,8:328989	leg=2:328988,8:328988
 O Filho de Chucky (2004)	dub=6:1299161
 O Filho de Deus	dub=2:317053,2:110743,8:317053,8:110743	leg=2:317054,8:317054
 O Filho de Deus (2014)	dub=6:1307319
-O Filho de Mil Homens	dub=2:364720,2:356269,2:354954,8:364720,8:356269,8:354954
+O Filho de Mil Homens	dub=2:354954,8:354954,2:364720,2:356269,8:364720,8:356269
 O Filho de Mil Homens (2025)	dub=6:1314037
 O Filho de Spartacus	dub=2:362611,8:362611	leg=2:362610,8:362610
 O Filho do Ace Ventura	dub=2:95889,8:95889
@@ -1316,7 +1316,7 @@ O Fio da Navalha	dub=2:370913,8:370913	leg=2:370912,8:370912
 O Fio da Navalha (1984)	dub=6:1299106
 O Fio da Suspeita	dub=2:303670,8:303670
 O Fisico (2013)	dub=6:1301300
-O Fogo Interior	dub=2:316754,2:315172,8:316754,8:315172	leg=2:315173,2:310766,8:315173,8:310766
+O Fogo Interior	dub=2:316754,8:316754,2:315172,8:315172	leg=2:315173,2:310766,8:315173,8:310766
 O Fora da Lei	dub=2:337209,8:337209	leg=2:337208,8:337208
 O Fora da Lei de Deus - William Tyndale	dub=2:322832,8:322832	leg=2:322833,8:322833
 O Foragido	dub=2:97196,8:97196
@@ -1371,7 +1371,7 @@ O Garoto do Leito 6 (2020)	dub=6:1306161
 O Gato	dub=2:128860,8:128860
 O Gato (2003)	dub=6:1300261
 O Genio e o Louco	dub=2:25107,8:25107
-O Genro	dub=2:376610,8:391644,8:376610	leg=2:376609,8:376609
+O Genro	dub=8:391644,2:376610,8:376610	leg=2:376609,8:376609
 O Genro (2026)	dub=6:1314547
 O Genro Da Minha Vida	dub=2:30421,8:30421
 O Genro Da Minha Vida (2018)	dub=6:1307979
@@ -1421,7 +1421,7 @@ O Grande Herói	dub=2:22530,8:22530
 O Grande Hotel	dub=8:395075	leg=8:395074
 O Grande Hotel Budapeste (2014)	dub=6:1299934
 O Grande Irmão: O Dia que Durou 21 Anos 2	dub=2:363186,8:363186
-O Grande Ivan	dub=2:85135,2:85130,8:85135,8:85130
+O Grande Ivan	dub=2:85135,8:85135,2:85130,8:85130
 O Grande Ivan (2020)	dub=6:1297992
 O Grande Lebowski	dub=2:94734,8:94734
 O Grande Lebowski (1998)	dub=6:1301266
@@ -1438,7 +1438,7 @@ O Grande Mestre 2 (2010)	dub=6:1310287
 O Grande Mestre 3	dub=2:20153,8:20153
 O Grande Mestre 3 (2015)	dub=6:1310268
 O Grande Mestre 4	dub=2:369431,8:369431	leg=2:369430,8:369430
-O Grande Mestre 4: A Batalha Final	dub=2:91271,2:91270,8:91271,8:91270
+O Grande Mestre 4: A Batalha Final	dub=2:91270,8:91270,2:91271,8:91271
 O Grande Mestre 4: A Batalha Final (2019)	dub=6:1298473	leg=6:1298474
 O Grande Milagre	dub=2:23871,8:23871
 O Grande Milagre (2012)	dub=6:1299694
@@ -1453,7 +1453,7 @@ O Grande Tsunami	dub=2:199612,8:199612	leg=2:199609,8:199609
 O Grande Tsunami (2021)	dub=6:1306689	leg=6:1306690
 O Grande Xerife	dub=2:141510,8:141510
 O Grilo e a Formiga	dub=2:367418,8:367418	leg=2:367417,8:367417
-O Grinch	dub=2:319162,2:21495,2:21437,8:319162,8:21495,8:21437	leg=2:319163,8:319163
+O Grinch	dub=2:21495,8:21495,2:319162,2:21437,8:319162,8:21437	leg=2:319163,8:319163
 O Grinch (2000)	dub=2:20745,6:1300602,8:20745
 O Grinch (2018)	dub=6:1297406
 O Grinch - Musical	dub=2:185261,8:185261	leg=2:185262,8:185262
@@ -1530,7 +1530,7 @@ O Homem Errado	dub=2:348122,8:348122	leg=2:348121,8:348121
 O Homem Ideal	dub=2:281321,2:166199,8:281321,8:166199	leg=2:281322,2:165683,8:281322,8:165683
 O Homem Ideal (2021)	dub=6:1300019
 O Homem Invisivel (2020)	dub=6:1297869
-O Homem Invisível	dub=2:382840,2:179719,2:48202,2:48201,8:382840,8:179719,8:48202,8:48201	leg=2:382839,8:382839
+O Homem Invisível	dub=2:48202,8:48202,2:382840,2:179719,2:48201,8:382840,8:179719,8:48201	leg=2:382839,8:382839
 O Homem Irracional	dub=2:30578,8:30578
 O Homem Irracional (2015)	dub=6:1307387
 O Homem Mais Procurado	dub=2:376800,8:376800	leg=2:376799,8:376799
@@ -1583,7 +1583,7 @@ O Homem de Lugar Nenhum	dub=2:307932,2:89393,8:307932,8:89393	leg=2:307933,8:307
 O Homem de Lugar Nenhum (2023)	dub=6:1313003
 O Homem de Palha	dub=8:394571	leg=8:394570
 O Homem de Palha (1973)	dub=6:1314259
-O Homem de Toronto	dub=2:297460,2:163294,8:297460,8:163294	leg=2:163295,8:163295
+O Homem de Toronto	dub=2:297460,8:297460,2:163294,8:163294	leg=2:163295,8:163295
 O Homem de Toronto (2022)	dub=6:1299521
 O Homem do Ano	dub=2:144042,8:144042
 O Homem do Ano (2003)	dub=6:1304825
@@ -1594,11 +1594,11 @@ O Homem do Jazz (2022)	dub=6:1300132
 O Homem do Norte	dub=2:161510,8:384710,8:161510	leg=2:161525,8:384709,8:161525
 O Homem do Norte (2022)	dub=6:1299467	leg=6:1299401
 O Homem do Presidente	dub=2:324029,8:324029	leg=2:324028,8:324028
-O Homem do Saco	dub=2:313298,2:312853,8:313298,8:312853	leg=2:312854,8:312854
+O Homem do Saco	dub=2:313298,8:313298,2:312853,8:312853	leg=2:312854,8:312854
 O Homem do Saco (2024)	dub=6:1313134	leg=6:1313133
 O Homem do Sputnik	dub=2:380575,8:380575
 O Homem do Tai Chi (2013)	dub=6:1303272
-O Homem dos Sonhos	dub=2:261692,2:261651,8:261692,8:261651	leg=2:261652,2:246182,8:261652,8:246182
+O Homem dos Sonhos	dub=2:261692,8:261692,2:261651,8:261651	leg=2:261652,2:246182,8:261652,8:246182
 O Homem dos Sonhos (2023)	dub=6:1304140
 O Homem nas Trevas	dub=2:21641,8:394531,8:21641	leg=8:394530
 O Homem nas Trevas (2016)	dub=6:1298065
@@ -1620,7 +1620,7 @@ O Homem que Viu o Infinito	dub=2:98622,8:98622
 O Homem Água	dub=2:121043,8:121043	leg=2:121053,8:121053
 O Homem-Coisa: A Natureza do Medo	dub=2:100986,8:100986
 O Homem-Coisa: A Natureza do Medo (2005)	dub=6:1307256
-O Homem-Cão	dub=2:318106,2:318105,8:318106,8:318105	leg=2:318107,8:318107
+O Homem-Cão	dub=2:318106,8:318106,2:318105,8:318105	leg=2:318107,8:318107
 O Horla	dub=2:334296,8:334296	leg=2:334295,8:334295
 O Horror Entre Nós	dub=2:22059,8:22059
 O Horror Entre Nós (2018)	dub=6:1308221
@@ -1724,7 +1724,7 @@ O Jogo De Uma Vida (2014)	dub=6:1307316
 O Jogo Sombrio Da Esposa	dub=8:389610
 O Jogo da Espionagem	dub=2:250663,8:250663	leg=2:250664,8:250664
 O Jogo da Espionagem (2022)	dub=6:1303186
-O Jogo da Garrafa	dub=2:313603,2:313602,8:313603,8:313602	leg=2:313604,8:313604
+O Jogo da Garrafa	dub=2:313603,8:313603,2:313602,8:313602	leg=2:313604,8:313604
 O Jogo da Garrafa (2024)	dub=6:1313176	leg=6:1313175
 O Jogo da Imitacao	dub=2:21073,8:21073
 O Jogo da Imitacao (2014)	dub=6:1314050
@@ -1740,21 +1740,21 @@ O Jogo da Rainha (2024)	dub=6:1312479	leg=6:1312478
 O Jogo da Tentação	dub=2:349004,8:349004	leg=2:349003,8:349003
 O Jogo da Verdade	dub=2:380577,8:380577	leg=2:380576,8:380576
 O Jogo da Viuva (2025)	dub=6:1313554
-O Jogo da Viúva	dub=2:374334,2:373330,2:324539,8:374334,8:373330,8:324539	leg=2:324540,8:324540
-O Jogo de Amor – "Odio"	dub=2:199618,2:159932,8:199618,8:159932	leg=2:159929,8:159929
+O Jogo da Viúva	dub=2:374334,2:373330,8:374334,8:373330,2:324539,8:324539	leg=2:324540,8:324540
+O Jogo de Amor – "Odio"	dub=2:199618,8:199618,2:159932,8:159932	leg=2:159929,8:159929
 O Jogo de Amor – Odio (2021)	dub=6:1299486
 O Jogo de Geri	dub=2:348157,8:348157
-O Jogo do Assassino	dub=2:306673,2:305768,8:306673,8:305768	leg=2:305769,8:305769
+O Jogo do Assassino	dub=2:306673,8:306673,2:305768,8:305768	leg=2:305769,8:305769
 O Jogo do Assassino (2024)	dub=6:1312964	leg=6:1312963
 O Jogo do Bunker	dub=2:165685,2:155734,8:165685,8:155734	leg=2:165682,2:155732,8:165682,8:155732
 O Jogo do Bunker (2022)	dub=6:1306517	leg=6:1306518
-O Jogo do Disfarce	dub=2:247281,2:239840,2:239833,8:247281,8:239840,8:239833	leg=2:247282,2:239839,8:247282,8:239839
+O Jogo do Disfarce	dub=2:239833,8:239833,2:247281,2:239840,8:247281,8:239840	leg=2:247282,2:239839,8:247282,8:239839
 O Jogo do Disfarce (2023)	dub=6:1303081	leg=6:1303080
 O Jogo do Elevador	dub=2:256853,8:256853	leg=2:256854,8:256854
 O Jogo do Elevador (2023)	dub=6:1304041
 O Jogo do Medo	dub=2:344535,8:344535	leg=2:344534,8:344534
 O Jogo do Poder	dub=8:383351
-O Jogo do Predador	dub=2:376050,2:375944,8:391149,8:376050,8:375944	leg=2:375943,8:375943
+O Jogo do Predador	dub=2:376050,8:391149,8:376050,2:375944,8:375944	leg=2:375943,8:375943
 O Jogo do Predador (2026)	dub=6:1314522	leg=6:1314521
 O Jovem Kieslowski	dub=2:89742,8:89742
 O Jovem Kieslowski (2014)	dub=6:1307378
@@ -1780,7 +1780,7 @@ O Justiceiro Em Zona de Guerra (2008)	dub=6:1314101
 O Justiceiro Estrada do Caos	dub=2:22060,8:22060
 O Justiceiro Uma Ultima Morte (2026)	dub=6:1314574	leg=6:1314573
 O Justiceiro: Estrada do Caos (2014)	dub=6:1310131
-O Justiceiro: Uma Última Morte	dub=2:378885,2:378023,2:378005,8:378885,8:378023,8:378005	leg=2:378022,8:378022
+O Justiceiro: Uma Última Morte	dub=2:378885,2:378005,8:378885,8:378005,2:378023,8:378023	leg=2:378022,8:378022
 O Juízo	dub=2:144880,8:144880
 O Júri	dub=2:313110,2:214018,8:313110,8:214018	leg=2:313111,8:313111
 O Júri (2003)	dub=6:1309522
@@ -1824,7 +1824,7 @@ O Leitor	dub=2:21075,8:21075
 O Leitor (2008)	dub=6:1311271
 O Lenco Amarelo (2009)	dub=6:1300549
 O Lendario Cao Guerreiro (2022)	dub=6:1300328
-O Lendário Cão Guerreiro	dub=2:179748,2:176811,8:179748,8:176811	leg=2:176813,8:176813
+O Lendário Cão Guerreiro	dub=2:179748,8:179748,2:176811,8:176811	leg=2:176813,8:176813
 O Lenhador	dub=2:127449,8:127449
 O Lenhador (2004)	dub=6:1305324
 O Lenço Amarelo	dub=2:259081,8:259081
@@ -1832,13 +1832,13 @@ O Leonardo Perdido	dub=2:189889,8:189889	leg=2:189922,8:189922
 O Leonardo Perdido (2021)	dub=6:1306593	leg=6:1306594
 O Leão no Inverno	dub=2:371922,8:371922
 O Limite da Traicao (2020)	dub=6:1297478
-O Limite da Traição	dub=2:155520,2:37895,8:155520,8:37895
+O Limite da Traição	dub=2:155520,8:155520,2:37895,8:37895
 O Limite do Prazer	dub=2:343215,8:343215	leg=2:343214,8:343214
 O Livro Do Amor	dub=2:246964,8:246964	leg=2:246963,8:246963
 O Livro Do Amor (2022)	dub=6:1302599
 O Livro Perdido de Nostradamus	dub=2:326995,8:326995
 O Livro das Forças Malditas	dub=2:347343,8:347343	leg=2:347342,8:347342
-O Livro de Clarence	dub=2:382842,2:253290,2:253289,8:382842,8:253290,8:253289	leg=2:382841,2:253291,8:382841,8:253291
+O Livro de Clarence	dub=2:253290,8:253290,2:382842,2:253289,8:382842,8:253289	leg=2:382841,2:253291,8:382841,8:253291
 O Livro de Clarence (2024)	dub=6:1303243
 O Livro de Colorir	leg=8:383930
 O Livro de Colorir (2024)	leg=6:1501031
@@ -1860,7 +1860,7 @@ O Lobisomem (2010)	dub=6:1300671
 O Lobo (2021)	dub=6:1300761
 O Lobo Atras da Porta (2013)	dub=6:1298914
 O Lobo Atrás da Porta	dub=2:185268,8:185268
-O Lobo E O Leão	dub=2:181398,2:180627,8:181398,8:180627	leg=2:180641,8:180641
+O Lobo E O Leão	dub=2:181398,8:181398,2:180627,8:180627	leg=2:180641,8:180641
 O Lobo E O Leão (2021)	dub=6:1301053
 O Lobo Solitário	dub=2:242185,2:242184,8:242185,8:242184
 O Lobo Solitário (2021)	dub=6:1311336	leg=6:1311337
@@ -1913,7 +1913,7 @@ O Mal Mora Aqui (2024)	dub=6:1313701
 O Mal Não Existe	leg=2:292876,8:292876
 O Mal Não Existe (2023)	leg=6:1311842
 O Mal Que Não se Pode Ver	dub=2:360046,8:360046	leg=2:360045,8:360045
-O Mal que Nos Habita	dub=2:256274,8:256275,8:256274	leg=8:256276
+O Mal que Nos Habita	dub=8:256275,2:256274,8:256274	leg=8:256276
 O Mal que Nos Habita (2023)	dub=6:1307004
 O Malvado: Horror no Natal (2022)	dub=6:1309270	leg=6:1309271
 O Maniaco da Noite (2017)	leg=6:1312228
@@ -1922,9 +1922,9 @@ O Manicomio (2018)	dub=6:1300411
 O Manto Sagrado	dub=2:297069,8:297069
 O Manuscrito do Amor	dub=2:353460,8:353460	leg=2:353459,8:353459
 O Maníaco do Facebook	dub=2:347124,8:347124
-O Mapa Que Me Leva Até Você	dub=2:340264,2:340251,8:340264,8:340251	leg=2:340250,8:340250
+O Mapa Que Me Leva Até Você	dub=2:340264,8:340264,2:340251,8:340251	leg=2:340250,8:340250
 O Mapa Que Me Leva Até Você (2025)	dub=6:1313751	leg=6:1313750
-O Mapa das Pequenas Coisas Perfeitas	dub=2:101676,2:94758,8:101676,8:94758
+O Mapa das Pequenas Coisas Perfeitas	dub=2:101676,8:101676,2:94758,8:94758
 O Mapa das Pequenas Coisas Perfeitas (2021)	dub=6:1298276
 O Mapa do Polo Norte (2021)	dub=6:1300805
 O Maquinista	dub=2:291903,8:291903	leg=2:291904,8:291904
@@ -1985,13 +1985,13 @@ O Medalhão Perdido (2013)	dub=6:1307216
 O Mediador	dub=2:94236,8:94236
 O Mediador (2020)	dub=6:1298231
 O Medo Atrás da Tela	dub=2:375705,8:375705	leg=2:375704,8:375704
-O Melhor Amigo	dub=2:329336,2:184042,2:130271,8:387280,8:329336,8:184042,8:130271	leg=2:130274,8:130274
+O Melhor Amigo	dub=2:184042,8:184042,2:329336,2:130271,8:387280,8:329336,8:130271	leg=2:130274,8:130274
 O Melhor Amigo (2021)	dub=6:1304847	leg=6:1304848
 O Melhor Amigo (2025)	dub=6:1314591
 O Melhor Amigo Da Noiva	dub=2:20750,8:20750
 O Melhor Amigo da Noiva (2008)	dub=6:1301095
 O Melhor Espetaculo de Natal de Todos os Tempos (2024)	dub=6:1312549	leg=6:1312548
-O Melhor Espetáculo de Natal de Todos os Tempos	dub=2:298172,2:298118,8:298172,8:298118	leg=2:298119,8:298119
+O Melhor Espetáculo de Natal de Todos os Tempos	dub=2:298172,8:298172,2:298118,8:298118	leg=2:298119,8:298119
 O Melhor Fim de Semana de Todos	dub=2:355672,8:355672	leg=2:355671,8:355671
 O Melhor Jogo da História	dub=2:157946,8:157946
 O Melhor Jogo da História (2005)	dub=6:1305597
@@ -2027,7 +2027,7 @@ O Melhor do Show	dub=2:120658,8:120658
 O Melhor do Show (2000)	dub=6:1309800
 O Melhor está por vir	dub=2:62563,8:62563
 O Melhor está por vir (2019)	dub=6:1308410
-O Melhor. Natal. de Todos!	dub=2:284555,2:227401,8:284555,8:227401	leg=2:227396,8:227396
+O Melhor. Natal. de Todos!	dub=2:284555,8:284555,2:227401,8:227401	leg=2:227396,8:227396
 O Meme do Mal	dub=2:176785,8:176785	leg=2:176784,8:176784
 O Meme do Mal (2022)	dub=6:1300191
 O Menino Atras da Porta (2020)	dub=6:1300397
@@ -2044,7 +2044,7 @@ O Menino de Asakusa (2021)	dub=6:1304759	leg=6:1304760
 O Menino de Ouro	dub=2:20752,8:20752
 O Menino do Pijama Listrado	dub=2:21078,8:21078
 O Menino do Pijama Listrado (2008)	dub=6:1297808
-O Menino e a Garça	dub=2:289614,2:289613,8:289614,8:289613	leg=2:289615,2:267702,8:289615,8:267702
+O Menino e a Garça	dub=2:289614,8:289614,2:289613,8:289613	leg=2:289615,2:267702,8:289615,8:267702
 O Menino e a Garça (2023)	dub=6:1312266	leg=6:1310580
 O Menino e a Guerra	dub=2:112459,8:112459
 O Menino e a Guerra (2020)	dub=6:1308123	leg=6:1308124
@@ -2056,23 +2056,23 @@ O Menino no Espelho	dub=2:114373,8:114373
 O Menino no Espelho (2014)	dub=6:1310058
 O Menino que Descobriu o Vento	dub=2:21451,8:21451
 O Menino que Descobriu o Vento (2019)	dub=6:1303296
-O Menino que Queria Ser Rei	dub=2:22513,2:21452,8:22513,8:21452
-O Menino, a Toupeira, a Raposa e o Cavalo	dub=2:367699,2:182882,8:367699,8:182882	leg=2:182884,8:182884
+O Menino que Queria Ser Rei	dub=2:22513,8:22513,2:21452,8:21452
+O Menino, a Toupeira, a Raposa e o Cavalo	dub=2:367699,8:367699,2:182882,8:182882	leg=2:182884,8:182884
 O Menino, a Toupeira, a Raposa e o Cavalo (2022)	dub=6:1306971	leg=6:1306972
 O Mensageiro	dub=2:317270,2:194865,8:394787,8:317270,8:194865	leg=2:194864,8:394786,8:194864
 O Mensageiro (1997)	dub=6:1299313
 O Mensageiro (2019)	dub=6:1305932	leg=6:1305933
 O Mensageiro do Ultimo Dia (2020)	dub=6:1298580
-O Mensageiro do Último Dia	dub=2:247948,2:112011,8:247948,8:112011
+O Mensageiro do Último Dia	dub=2:247948,8:247948,2:112011,8:112011
 O Mentiroso	dub=2:125646,2:20753,8:125646,8:20753
 O Mentiroso (1997)	dub=6:1299936
-O Menu	dub=2:380579,2:184082,2:184024,8:380579,8:184082,8:184024	leg=2:380578,2:184029,8:380578,8:184029
+O Menu	dub=2:184082,8:184082,2:380579,2:184024,8:380579,8:184024	leg=2:380578,2:184029,8:380578,8:184029
 O Menu (2022)	dub=6:1300937	leg=6:1300938
 O Mercador de Veneza	dub=2:28254,8:28254
 O Mercador de Veneza (2004)	dub=6:1307084
 O Mercenário	dub=2:205552,8:205552	leg=2:205551,8:205551
 O Mercenário (2020)	dub=6:1310906	leg=6:1310907
-O Mesmo Dia com Você	dub=2:374342,2:373354,2:343974,8:374342,8:373354,8:343974	leg=2:343973,8:343973
+O Mesmo Dia com Você	dub=2:374342,2:373354,8:374342,8:373354,2:343974,8:343974	leg=2:343973,8:343973
 O Mestre	dub=2:338630,8:338630
 O Mestre Invencivel	dub=2:96872,8:96872
 O Mestre Invencível (1978)	dub=6:1307087
@@ -2127,7 +2127,7 @@ O Misterio de Marilyn Monroe: Gravacoes Ineditas (2022)	dub=6:1299371
 O Misterio de Maya (2023)	dub=6:1301531
 O Misterio de Ozarks (2022)	dub=6:1302640
 O Misterio de Silver Lake (2018)	dub=6:1300025
-O Misterio do Relogio na Parede	dub=2:21800,2:21496,8:21800,8:21496
+O Misterio do Relogio na Parede	dub=2:21496,8:21496,2:21800,8:21800
 O Misterio do Relogio na Parede (2018)	dub=6:1297785
 O Misterio dos Escavadores (2003)	dub=6:1303841,6:1314069
 O Misterioso Caso de Daria	dub=2:321275,8:321275	leg=2:321276,8:321276
@@ -2177,10 +2177,10 @@ O Mistério do Vinhedo	dub=2:329338,8:329338	leg=2:329337,8:329337
 O Mistério dos Escavadores	dub=2:366104,2:353938,8:366104,8:353938	leg=2:353937,8:353937
 O Mito	dub=2:97197,8:97197
 O Mito (2005)	dub=6:1307109
-O Mochileiro Kai: Herói ou Assassino?	dub=2:204486,8:393189,8:204486	leg=2:204485,8:204485
+O Mochileiro Kai: Herói ou Assassino?	dub=8:393189,2:204486,8:204486	leg=2:204485,8:204485
 O Mochileiro Kai: Herói ou Assassino? (2023)	dub=6:1309336	leg=6:1309337
 O Monasterio (2022)	dub=6:1300318
-O Monastério	dub=2:370146,2:178542,8:370146,8:178542	leg=2:178564,8:178564
+O Monastério	dub=2:370146,8:370146,2:178542,8:178542	leg=2:178564,8:178564
 O Monge (2011)	dub=6:1303892
 O Monge à Prova de Balas	dub=2:358838,8:358838	leg=2:358837,8:358837
 O Monge à Prova de Balas (2003)	dub=6:1304260
@@ -2201,7 +2201,7 @@ O Motorista de Aplicativo	dub=2:219678,8:219678	leg=2:219679,8:219679
 O Motorista de Aplicativo (2020)	dub=6:1311048	leg=6:1311049
 O Mundo Assombrado de El Superbeasto	dub=2:377838,8:377838	leg=2:377837,8:377837
 O Mundo Depois de Nos (2023)	dub=6:1302927
-O Mundo Depois de Nós	dub=2:235507,2:231327,8:235507,8:231327	leg=2:231323,8:231323
+O Mundo Depois de Nós	dub=2:235507,8:235507,2:231327,8:231327	leg=2:231323,8:231323
 O Mundo Fantastico de Oz (1985)	dub=6:1299028
 O Mundo Imaginário do Dr. Parnassus	dub=8:392609	leg=8:392608
 O Mundo Ira Tremer (2025)	dub=6:1314331	leg=6:1314330
@@ -2232,7 +2232,7 @@ O Namorado da Minha Prima	dub=2:353753,8:353753	leg=2:353752,8:353752
 O Namorado da Minha Prima (2023)	dub=6:1501124
 O Nascimento de Uma Nação	dub=2:257784,8:257784
 O Nascimento de Uma Nação (2016)	dub=6:1310221
-O Nascimento do Mal	dub=2:203316,2:200573,2:194166,8:203316,8:200573,8:194166	leg=2:200572,8:200572
+O Nascimento do Mal	dub=2:203316,8:203316,2:200573,2:194166,8:200573,8:194166	leg=2:200572,8:200572
 O Nascimento do Mal (2023)	dub=6:1301563
 O Natal Encantado	dub=2:141464,8:141464
 O Natal Encantado (2019)	dub=6:1304597
@@ -2258,7 +2258,7 @@ O Natal de James & Bob	dub=2:230872,8:230872	leg=2:230868,8:230868
 O Natal de James & Bob (2020)	dub=6:1310952	leg=6:1310953
 O Natal de Madea	dub=2:144114,8:144114
 O Natal de Madea (2013)	dub=6:1300728
-O Natal do Pequeno Batman	dub=2:231359,2:231346,8:231359,8:231346	leg=2:231328,8:231328
+O Natal do Pequeno Batman	dub=2:231359,8:231359,2:231346,8:231346	leg=2:231328,8:231328
 O Natal do Pequeno Batman (2023)	dub=6:1302974
 O Natal do Riquinho (1998)	dub=6:1302841
 O Natal do Ze Coleta	dub=2:89743,8:89743
@@ -2370,7 +2370,7 @@ O Pagamento Final	dub=8:390157	leg=8:390156
 O Pagamento Final (1993)	dub=6:1299716
 O Pai O (2007)	dub=6:1302857
 O Pai O 2 (2023)	dub=6:1303189
-O Pai da Noiva	dub=2:162717,2:162346,2:162327,8:162717,8:162346,8:162327
+O Pai da Noiva	dub=2:162717,8:162717,2:162346,2:162327,8:162346,8:162327
 O Pai da Noiva (2022)	dub=6:1301096
 O Pai da Rita	dub=2:168528,8:168528
 O Pai da Rita (2022)	dub=6:1299510
@@ -2388,7 +2388,7 @@ O Palhaço de Green Bay (2019)	dub=6:1305730	leg=6:1305731
 O Palhaço no Milharal (2025)	dub=6:1313747
 O Palido Olho Azul (2022)	dub=6:1300934
 O Papa do Fim do Mundo	dub=2:319853,8:319853
-O Papa que Venceu o Comunismo	dub=2:341992,2:341093,8:341992,8:341093	leg=2:341092,8:341092
+O Papa que Venceu o Comunismo	dub=2:341992,8:341992,2:341093,8:341093	leg=2:341092,8:341092
 O Papai Noel Trapalhão	dub=2:355741,8:355741	leg=2:355740,8:355740
 O Papai Noel Trapalhão (2000)	dub=6:1303346
 O Par Perfeito	dub=2:358893,2:347157,8:358893,8:347157	leg=2:358892,2:347156,8:358892,8:347156
@@ -2472,7 +2472,7 @@ O Peso de Um Sonho	dub=2:334299,8:334299	leg=2:334298,8:334298
 O Peso de uma Premonição (2019)	dub=6:1302732
 O Peso do Passado	dub=2:22062,8:22062
 O Peso do Passado (2018)	dub=6:1307862
-O Peso do Talento	dub=2:162381,2:161998,8:162381,8:161998	leg=2:161999,8:161999
+O Peso do Talento	dub=2:162381,8:162381,2:161998,8:161998	leg=2:161999,8:161999
 O Peso do Talento (2022)	dub=6:1300317
 O Peste	dub=2:330033,2:315688,8:330033,8:315688	leg=2:330032,8:330032
 O Peste (1997)	dub=6:1309903	leg=6:1309904
@@ -2493,7 +2493,7 @@ O Pior Jogador de Golfe do Mundo	leg=2:198715,8:198715
 O Pior Jogador de Golfe do Mundo (2022)	dub=6:1301054
 O Pior Trabalho do Mundo	leg=2:324831,8:324831
 O Pior Trabalho do Mundo (2010)	dub=6:1314190
-O Pior Vizinho do Mundo	dub=2:188325,2:188219,8:188325,8:188219	leg=2:188220,8:188220
+O Pior Vizinho do Mundo	dub=2:188325,8:188325,2:188219,8:188219	leg=2:188220,8:188220
 O Pior Vizinho do Mundo (2022)	dub=6:1301550	leg=6:1301549
 O Pistoleiro De Esporas Negras (1965)	dub=6:1301898
 O Planeta dos Macacos	dub=2:128829,8:128829
@@ -2574,7 +2574,7 @@ O Preco de Um Corpo (2023)	dub=6:1314003
 O Preco de um Resgate (1996)	dub=6:1298303
 O Preco do Amanha (2011)	dub=6:1300168
 O Preco do Prazer (2021)	dub=6:1303250
-O Predador	dub=2:383004,2:382851,2:366882,8:383004,8:382851,8:366882	leg=2:383003,2:382850,8:383003,8:382850
+O Predador	dub=2:366882,8:366882,2:383004,2:382851,8:383004,8:382851	leg=2:383003,2:382850,8:383003,8:382850
 O Predador (1987)	dub=2:21333,6:1298445,8:21333
 O Predador (2018)	dub=2:21335,6:1310233,8:21335
 O Predador 2	dub=2:21334,8:21334
@@ -2583,7 +2583,7 @@ O Predador 2: A Caçada Continua	dub=2:382844,8:382844	leg=2:382843,8:382843
 O Predador 3	dub=2:21336,8:21336
 O Predador 3 (2010)	dub=6:1298447
 O Predador: A Cacada (2022)	dub=6:1299765	leg=6:1299766
-O Predador: A Caçada	dub=2:366881,2:169133,8:366881,8:169133	leg=2:169140,8:169140
+O Predador: A Caçada	dub=2:366881,8:366881,2:169133,8:169133	leg=2:169140,8:169140
 O Predestinado	dub=2:193291,8:395703,8:193291	leg=8:395702
 O Predestinado (2014)	dub=6:1300975
 O Presente	dub=2:24939,8:24939
@@ -2625,13 +2625,13 @@ O Preço do Prazer	dub=2:219676,8:219676	leg=2:219675,8:219675
 O Preço do Silêncio (2018)	leg=6:1308483
 O Preço do Talento	dub=2:94174,8:94174
 O Preço do Talento (2019)	dub=6:1308056	leg=6:1308057
-O Primata	dub=2:366334,2:366184,8:366334,8:366184	leg=2:366183,8:366183
+O Primata	dub=2:366334,8:366334,2:366184,8:366184	leg=2:366183,8:366183
 O Primata (2026)	dub=6:1314295	leg=6:1314294
 O Primeiro Amor	dub=2:21576,8:21576
 O Primeiro Amor (2010)	dub=6:1300209
 O Primeiro Ano do Resto de Nossas Vidas	dub=2:144108,8:144108
 O Primeiro Ano do Resto de Nossas Vidas (1985)	dub=6:1302447
-O Primeiro Homem	dub=2:21497,2:21454,8:21497,8:21454
+O Primeiro Homem	dub=2:21497,8:21497,2:21454,8:21454
 O Primeiro Homem (2018)	dub=6:1302587
 O Primeiro Mentiroso	dub=2:128633,8:128633
 O Primeiro Mentiroso (2009)	dub=6:1305042
@@ -2639,7 +2639,7 @@ O Primeiro Milhao	dub=2:21088,8:21088
 O Primeiro Milhão (2000)	dub=6:1309815
 O Primeiro Ministro	dub=2:41841,8:41841
 O Primeiro Ministro (2016)	dub=6:1297887
-O Primeiro Natal do Mundo	dub=2:231344,2:231341,8:231344,8:231341
+O Primeiro Natal do Mundo	dub=2:231344,8:231344,2:231341,8:231341
 O Primeiro Natal do Mundo (2023)	dub=6:1302925
 O Primeiro Passo	dub=2:30534,8:30534
 O Primeiro Passo (2016)	dub=6:1308186
@@ -2675,13 +2675,13 @@ O Protetor	dub=2:198584,2:21647,8:198584,8:21647
 O Protetor (2005)	dub=6:1305294
 O Protetor (2014)	dub=6:1300081
 O Protetor (2015)	dub=6:1303911
-O Protetor 2	dub=2:256784,2:22514,2:21646,8:256784,8:22514,8:21646
+O Protetor 2	dub=2:22514,8:22514,2:256784,2:21646,8:256784,8:21646
 O Protetor 2 (2013)	dub=6:1309451
 O Protetor 2 (2018)	dub=6:1297068
 O Protetor 3 Capitulo Final (2023)	dub=6:1302660	leg=6:1302567
 O Protetor do Irmão	dub=2:246440,8:246440	leg=2:246441,8:246441
 O Protetor do Irmão (2021)	dub=6:1303133
-O Protetor: Capitulo Final	dub=2:221649,2:221620,8:221649,8:221620	leg=2:221619,8:221619
+O Protetor: Capitulo Final	dub=2:221649,8:221649,2:221620,8:221620	leg=2:221619,8:221619
 O Protocolo de Auschwitz	dub=2:101405,8:101405
 O Protocolo de Auschwitz (2021)	dub=6:1308833
 O Príncipe Esquecido	dub=2:95918,8:95918
@@ -2690,13 +2690,13 @@ O Príncipe Feliz (2018)	dub=6:1307679
 O Príncipe do Egito	dub=2:157962,8:157962
 O Príncipe do Natal O Bebê Real	dub=2:31584,8:31584
 O Pródigo (1983)	dub=6:1313102
-O Próprio Enterro	dub=2:219938,2:219937,8:219938,8:219937	leg=2:219939,8:219939
+O Próprio Enterro	dub=2:219937,8:219937,2:219938,8:219938	leg=2:219939,8:219939
 O Próximo Samba	dub=2:370914,8:370914
 O Punho do Condor	dub=2:286361,8:286361	leg=2:286362,8:286362
 O Punho do Condor (2023)	dub=6:1312106
 O Purgatório (1999)	dub=6:1311940	leg=6:1311939
-O Pálido Olho Azul	dub=2:191480,2:184076,8:191480,8:184076	leg=2:184062,8:184062
-O Páramo	dub=2:297461,2:145917,8:297461,8:145917	leg=2:145919,8:145919
+O Pálido Olho Azul	dub=2:191480,8:191480,2:184076,8:184076	leg=2:184062,8:184062
+O Páramo	dub=2:297461,8:297461,2:145917,8:145917	leg=2:145919,8:145919
 O Pássaro Pintado	leg=2:264995,8:264995
 O Pássaro Pintado (2019)	leg=6:1305096
 O Pântano	dub=2:114390,8:114390
@@ -2711,7 +2711,7 @@ O Quarto Sabio (1985)	dub=6:1312620
 O Quarto Secreto	dub=2:113022,2:95991,8:113022,8:95991
 O Quarto Secreto (2011)	dub=6:1308970
 O Quarto Sábio	dub=2:301050,8:301050
-O Quarto ao Lado	dub=2:318441,2:318110,8:318441,8:318110	leg=2:318111,8:318111
+O Quarto ao Lado	dub=2:318441,8:318441,2:318110,8:318110	leg=2:318111,8:318111
 O Quarto da Morte (2015)	dub=6:1297397
 O Quarto de Jack	dub=2:21089,8:21089
 O Quarto de Jack (2015)	dub=6:1298135
@@ -2752,20 +2752,20 @@ O Que Te Faz Mais Forte	dub=2:344568,2:21090,8:344568,8:21090	leg=2:344567,8:344
 O Que Te Faz Mais Forte (2017)	dub=6:1310322
 O Que Terá Acontecido a Baby Jane?	dub=2:141570,8:141570
 O Que Terá Acontecido a Baby Jane? (1962)	dub=6:1304238
-O Que Tiver Que Ser	dub=2:295719,2:292422,8:295719,8:292422	leg=2:292423,8:292423
+O Que Tiver Que Ser	dub=2:295719,8:295719,2:292422,8:292422	leg=2:292423,8:292423
 O Que de Verdade Importa	dub=2:44168,8:44168
 O Que de Verdade Importa (2017)	dub=6:1307490
 O Quebra Cabeca	dub=2:21091,8:21091
 O Quebra Gelo	dub=2:41569,8:41569
 O Quebra Gelo (2016)	dub=6:1307594
-O Quebra Nozes e os Quatro Reinos	dub=2:22515,2:21455,8:22515,8:21455
+O Quebra Nozes e os Quatro Reinos	dub=2:22515,8:22515,2:21455,8:21455
 O Quebra-Cabeça (2018)	dub=6:1310546
 O Quebra-Nozes e os Quatro Reinos (2018)	dub=6:1297250
 O Quinto Elemento	dub=2:91419,8:386270,8:91419	leg=8:386269
 O Quinto Elemento (1997)	dub=6:1307232
 O Quinto Poder	dub=2:380581,8:380581	leg=2:380580,8:380580
 O Quinto Poder (2013)	dub=6:1301450
-O Quiosque	dub=2:284556,2:284042,2:284041,8:284556,8:284042,8:284041	leg=2:284043,8:284043
+O Quiosque	dub=2:284556,2:284042,8:284556,8:284042,2:284041,8:284041	leg=2:284043,8:284043
 O Quiosque (2024)	dub=6:1312012	leg=6:1312011
 O Radicão	dub=2:212706,8:212706	leg=2:212707,8:212707
 O Radicão (2018)	dub=6:1310682	leg=6:1310683
@@ -2787,7 +2787,7 @@ O Reencontro da Turma	dub=2:256340,8:256340	leg=2:256341,8:256341
 O Reencontro da Turma (2024)	dub=6:1306993
 O Refem Atentado em Madri (2023)	dub=6:1303285
 O Reflexo do Lago	dub=2:291324,8:291324
-O Reformatório Nickel	dub=2:313299,2:312303,8:313299,8:312303	leg=2:312304,8:312304
+O Reformatório Nickel	dub=2:313299,8:313299,2:312303,8:312303	leg=2:312304,8:312304
 O Reformatório Nickel (2024)	dub=6:1313123	leg=6:1313122
 O Refugiado	dub=2:21092,8:21092
 O Refugiado (2016)	dub=6:1310190
@@ -2795,7 +2795,7 @@ O Refugio (2020)	dub=6:1298294
 O Refugio (2024)	dub=6:1313495	leg=6:1313494
 O Refugio (2026)	dub=6:1314341	leg=6:1314340
 O Refém - Atentado em Madri	dub=2:254659,8:254659	leg=8:254660
-O Refúgio	dub=2:367833,2:367828,2:367821,2:336673,2:287013,8:367833,8:367828,8:367821,8:336673,8:287013	leg=2:367820,2:336672,2:287014,8:367820,8:336672,8:287014
+O Refúgio	dub=2:367833,2:367828,8:367833,8:367828,2:367821,2:336673,2:287013,8:367821,8:336673,8:287013	leg=2:367820,2:336672,2:287014,8:367820,8:336672,8:287014
 O Regresso	dub=2:98821,8:98821
 O Regresso (2015)	dub=6:1302455
 O Regresso de Pinóquio (2007)	dub=6:1312741
@@ -2811,7 +2811,7 @@ O Rei Leao 2	dub=2:20408,8:20408
 O Rei Leao 2: O Reino de Simba (1998)	dub=6:1312562
 O Rei Leao 3	dub=2:20409,8:20409
 O Rei Leao 3: Hakuna Matata (2004)	dub=6:1312563
-O Rei Leão	dub=2:30426,2:30425,2:30357,8:30426,8:30425,8:30357	leg=2:30407,8:30407
+O Rei Leão	dub=2:30426,2:30425,8:30426,8:30425,2:30357,8:30357	leg=2:30407,8:30407
 O Rei Macaco	dub=2:210199,8:210199	leg=2:210197,8:210197
 O Rei Macaco (2023)	dub=6:1302035
 O Rei Macaco: A Lenda Começa	dub=2:186790,8:186790	leg=2:186792,8:186792
@@ -2825,7 +2825,7 @@ O Rei da Comedia (1982)	dub=6:1300032
 O Rei da Comédia	dub=2:141535,8:141535
 O Rei da Escocia	dub=2:146749,8:394791,8:146749	leg=2:146751,8:394790,8:146751
 O Rei da Escocia (2019)	dub=6:1301324
-O Rei da Feira	dub=2:358150,2:358149,8:358150,8:358149
+O Rei da Feira	dub=2:358149,8:358149,2:358150,8:358150
 O Rei da Feira (2025)	dub=6:1314173
 O Rei da Festa	dub=2:163279,8:163279	leg=2:163277,8:163277
 O Rei da Festa (2021)	dub=6:1299630
@@ -2890,12 +2890,12 @@ O Relógio Encantado (2020)	dub=6:1306298	leg=6:1306299
 O Renascimento Da Medica Concubina Rura	dub=8:389619
 O Renascimento do Parto 2 (2018)	dub=6:1312399
 O Renascimento do Parto 3 (2018)	dub=6:1312400
-O Resgate	dub=2:281002,2:281001,8:281002,8:281001
+O Resgate	dub=2:281002,8:281002,2:281001,8:281001
 O Resgate (2024)	dub=6:1311858
 O Resgate Do Bilionario	leg=8:389620
 O Resgate de Jessica	dub=2:330497,8:330497
 O Resgate de Jessica (1989)	dub=6:1314363
-O Resgate de Ruby	dub=2:190974,2:155489,8:190974,8:155489	leg=2:155488,8:155488
+O Resgate de Ruby	dub=2:190974,8:190974,2:155489,8:155489	leg=2:155488,8:155488
 O Resgate de Ruby (2022)	dub=6:1299326
 O Resgate de um Campeão	dub=2:317240,8:317240	leg=2:317241,8:317241
 O Resgate do Papai (2009)	dub=6:1303861
@@ -2928,7 +2928,7 @@ O Retorno de Bloodworth (2010)	dub=6:1304648
 O Retorno de Davy Crockett	dub=2:373393,8:373393	leg=2:373392,8:373392
 O Retorno de Johnny English	dub=2:94715,8:94715
 O Retorno de Johnny English (2011)	dub=6:1302618
-O Retorno de Mary Poppins	dub=2:22516,2:21456,8:22516,8:21456
+O Retorno de Mary Poppins	dub=2:22516,8:22516,2:21456,8:21456
 O Retorno de Mary Poppins (2018)	dub=6:1297167
 O Retorno de Um Herói	dub=2:131059,8:131059
 O Retorno de Um Herói (2009)	dub=6:1304349
@@ -2938,7 +2938,7 @@ O Retorno do Incrível Hulk	dub=2:315420,8:315420
 O Retorno do Rei: Queda e Ascensão de Elvis Presley	dub=2:294923,8:294923	leg=2:294924,8:294924
 O Retorno do Rei: Queda e Ascensão de Elvis Presley (2024)	dub=6:1312444	leg=6:1312443
 O Retorno dos Malditos	dub=2:88476,8:88476
-O Retorno dos Thundermans	dub=2:252065,8:252066,8:252065	leg=2:252067,8:252067
+O Retorno dos Thundermans	dub=8:252066,2:252065,8:252065	leg=2:252067,8:252067
 O Retorno dos Thundermans (2024)	dub=6:1303214
 O Retorno dos Tomates Assassinos	dub=2:357587,8:357587	leg=2:357586,8:357586
 O Retrato	dub=2:281003,8:281003	leg=2:281004,8:281004
@@ -2959,7 +2959,7 @@ O Ritmo da Selva: O Filme	dub=2:67497,8:67497
 O Ritmo da Selva: O Filme (2020)	dub=6:1308724
 O Ritmo da Vinganca (2020)	dub=6:1299381
 O Ritmo da Vingança	dub=2:43828,8:43828
-O Rito da Dança	dub=2:367696,2:267100,2:267099,8:367696,8:267100,8:267099	leg=2:267101,8:267101
+O Rito da Dança	dub=2:367696,2:267100,8:367696,8:267100,2:267099,8:267099	leg=2:267101,8:267101
 O Rito da Dança (2024)	dub=6:1309323	leg=6:1309324
 O Ritual	dub=2:382529,2:345114,2:102341,8:382529,8:345114,8:102341	leg=2:382528,2:345113,8:382528,8:345113
 O Ritual (2011)	dub=2:249803,6:1303595,8:249803
@@ -2975,7 +2975,7 @@ O Roqueiro (2008)	dub=6:1304236
 O Roteiro Assombrado	dub=2:354033,8:354033	leg=2:354032,8:354032
 O Roubo da Taça	dub=8:386272
 O Roubo das Calcinhas	dub=8:386820
-O Roubo de 88	dub=2:277880,2:277879,8:277880,8:277879	leg=2:277881,8:277881
+O Roubo de 88	dub=2:277880,8:277880,2:277879,8:277879	leg=2:277881,8:277881
 O Roubo de 88 (2023)	dub=6:1311757	leg=6:1311756
 O Roubo do Cão	dub=2:350972,8:350972
 O Roubo do Quadrado Negro	dub=2:266675,8:266675	leg=2:266676,8:266676
@@ -3046,7 +3046,7 @@ O Segredo do Lago (2020)	dub=6:1299265
 O Segredo do Meu Sucesso (1987)	dub=6:1304055
 O Segredo do Natal (2019)	dub=6:1304593	leg=6:1304594
 O Segredo do Ourives	dub=2:375562,8:375562	leg=2:375561,8:375561
-O Segredo do Papai Noel	dub=2:354956,8:389301,8:354956	leg=2:354955,8:354955
+O Segredo do Papai Noel	dub=8:389301,2:354956,8:354956	leg=2:354955,8:354955
 O Segredo do Papai Noel (2025)	dub=6:1314106
 O Segredo do Vale da Lua	dub=2:380583,2:122909,8:380583,8:122909	leg=2:380582,8:380582
 O Segredo do Vale da Lua (2009)	dub=6:1304166
@@ -3078,7 +3078,7 @@ O Senhor do Caos (2023)	dub=6:1303153
 O Senhor dos Aneis A Sociedade do Anel (2001)	dub=6:1297100
 O Senhor dos Aneis As Duas Torres (2002)	dub=6:1297099
 O Senhor dos Aneis O Retorno do Rei (2003)	dub=6:1297101
-O Senhor dos Anéis: A Guerra dos Rohirrim	dub=2:301664,2:301663,8:301664,8:301663	leg=2:301665,8:301665
+O Senhor dos Anéis: A Guerra dos Rohirrim	dub=2:301664,8:301664,2:301663,8:301663	leg=2:301665,8:301665
 O Senhor dos Anéis: A Guerra dos Rohirrim (2024)	dub=6:1312849	leg=6:1312789
 O Senhor dos Anéis: A Sociedade do Anel	dub=2:91992,8:91992	leg=2:343244,8:343244
 O Senhor dos Anéis: As Duas Torres	dub=2:91993,8:91993	leg=2:343245,8:343245
@@ -3089,7 +3089,7 @@ O Sentido da Vida	dub=2:159295,8:159295	leg=2:159294,8:159294
 O Sentido da Vida (2022)	dub=6:1299593
 O Sequestrador de Cleveland	dub=2:168846,8:168846	leg=2:168847,8:168847
 O Sequestrador de Cleveland (2021)	dub=6:1306776	leg=6:1306777
-O Sequestro	dub=2:380481,2:247949,2:224729,2:148683,8:380481,8:247949,8:224729,8:148683	leg=2:380480,2:224730,2:148682,8:380480,8:224730,8:148682
+O Sequestro	dub=2:247949,8:247949,2:380481,2:224729,2:148683,8:380481,8:224729,8:148683	leg=2:380480,2:224730,2:148682,8:380480,8:224730,8:148682
 O Sequestro (2017)	dub=6:1301883
 O Sequestro (2021)	dub=6:1299226
 O Sequestro (2023)	dub=6:1302755
@@ -3134,7 +3134,7 @@ O Show de Truman	dub=2:20762,8:20762
 O Show de Truman: O Show da Vida	dub=8:383358	leg=8:383357
 O Show de Truman: O Show da Vida (1998)	dub=6:1310280
 O Show do Século - Ao Vivo	dub=2:211631,6:1309618,8:211631
-O Show dos Muppets	dub=2:365652,2:365409,8:365652,8:365409	leg=2:365408,8:365408
+O Show dos Muppets	dub=2:365652,8:365652,2:365409,8:365409	leg=2:365408,8:365408
 O Silencio E Bem Vindo	dub=2:42003,8:42003
 O Silencio da Chuva (2020)	dub=6:1299905
 O Silencio da Cidade Branca (2019)	dub=6:1297902
@@ -3149,7 +3149,7 @@ O Silêncio	dub=2:30643,2:22097,8:30643,8:22097
 O Silêncio (2019)	dub=6:1308133
 O Silêncio da Chuva	dub=2:235508,2:138905,8:235508,8:138905
 O Silêncio da Noite	dub=2:380986,8:380986	leg=2:380985,8:380985
-O Silêncio da Vingança	dub=2:266036,2:243870,2:243869,8:266036,8:243870,8:243869	leg=2:246458,2:243871,8:246458,8:243871
+O Silêncio da Vingança	dub=2:243870,8:243870,2:266036,2:243869,8:266036,8:243869	leg=2:246458,2:243871,8:246458,8:243871
 O Silêncio das Ostras	dub=8:386518
 O Silêncio das Rosas	dub=2:292312,8:292312
 O Silêncio dos Inocentes	dub=2:382481,2:44193,8:382481,8:44193	leg=2:382480,8:382480
@@ -3159,12 +3159,12 @@ O Sinal de Deus (2000)	dub=6:1304005
 O Sinal: Frequência do Medo	dub=2:322835,8:322835	leg=2:322836,8:322836
 O Sindicato do Crime	dub=2:247328,8:247328	leg=2:247329,8:247329
 O Sindicato do Crime (2019)	dub=6:1303678
-O Sistema	dub=2:187860,2:187836,8:187860,8:187836	leg=2:187843,8:187843
+O Sistema	dub=2:187836,8:187836,2:187860,8:187860	leg=2:187843,8:187843
 O Sistema (2022)	dub=6:1302054
 O Skate Me Levou	dub=2:181400,8:181400
 O Skate Me Levou (2022)	dub=6:1305410
 O Sniper de DC: Um Caso de Violência Doméstica	dub=8:384349	leg=8:384350
-O Sobrevivente	dub=2:358073,2:356915,2:159317,8:358073,8:356915,8:159317	leg=2:356914,2:159314,8:356914,8:159314
+O Sobrevivente	dub=2:358073,8:358073,2:356915,2:159317,8:356915,8:159317	leg=2:356914,2:159314,8:356914,8:159314
 O Sobrevivente (1987)	dub=6:1297223
 O Sobrevivente (2015)	dub=6:1310193
 O Sobrevivente (2021)	dub=6:1301172
@@ -3202,12 +3202,12 @@ O Som da Juventude (2022)	dub=6:1303605
 O Som da Morte	dub=2:375717,8:375717	leg=2:368930,8:368930
 O Som da Morte (2026)	dub=6:1314530	leg=6:1314529
 O Som das Cores	dub=2:297101,8:297101	leg=2:297102,8:297102
-O Som do Caos	dub=2:192597,2:189532,8:192597,8:189532	leg=2:189530,8:189530
+O Som do Caos	dub=2:192597,8:192597,2:189532,8:189532	leg=2:189530,8:189530
 O Som do Caos (2023)	dub=6:1305462	leg=6:1305463
 O Som do Coracao (2007)	dub=6:1302442
 O Som do Coração	dub=2:179721,8:179721
 O Som do Silencio (2020)	dub=6:1298570
-O Som do Silêncio	dub=2:360864,2:104138,2:103994,8:360864,8:104138,8:103994	leg=2:360863,8:360863
+O Som do Silêncio	dub=2:104138,8:104138,2:360864,2:103994,8:360864,8:103994	leg=2:360863,8:360863
 O Som do Trovão	dub=2:161943,8:161943
 O Som do Trovão (2005)	dub=6:1305355
 O Som e a Fúria	dub=2:122941,8:122941
@@ -3252,11 +3252,11 @@ O Tango e o Assassino	dub=2:370353,2:138895,8:370353,8:138895	leg=2:370352,8:370
 O Tango e o Assassino (2003)	dub=6:1304303
 O Tanque	leg=2:207383,8:207383
 O Tanque (2023)	leg=6:1309435
-O Tanque de Guerra	dub=2:359314,2:359313,2:359307,8:359314,8:359313,8:359307	leg=2:359306,8:359306
+O Tanque de Guerra	dub=2:359314,2:359313,8:359314,8:359313,2:359307,8:359307	leg=2:359306,8:359306
 O Tanque de Guerra (2025)	dub=6:1314208
 O Taro da Morte (2024)	dub=6:1304102	leg=6:1304101
-O Tarô da Morte	dub=2:263088,2:263087,8:263088,8:263087	leg=2:263089,8:263089
-O Telefone Preto	dub=2:382422,2:171357,2:171356,8:382422,8:171357,8:171356	leg=2:382421,2:170832,8:382421,8:170832
+O Tarô da Morte	dub=2:263088,8:263088,2:263087,8:263087	leg=2:263089,8:263089
+O Telefone Preto	dub=2:171356,8:171356,2:382422,2:171357,8:382422,8:171357	leg=2:382421,2:170832,8:382421,8:170832
 O Telefone Preto (2022)	dub=6:1300088	leg=6:1299647
 O Telefone Preto 2	dub=2:352957,8:352957	leg=2:352956,2:351547,8:352956,8:351547
 O Telefone Preto 2 (2025)	dub=6:1314028	leg=6:1314027
@@ -3264,7 +3264,7 @@ O Telefone do Sr Harrigan (2022)	dub=6:1300158
 O Telefone do Sr. Harrigan	dub=2:176782,8:176782	leg=2:176783,8:176783
 O Tempero da Vida	dub=2:231314,8:231314	leg=2:231335,8:231335
 O Tempero da Vida (2019)	dub=6:1310617	leg=6:1310618
-O Tempo Que Nos Resta	dub=2:348331,8:392636,8:348331	leg=2:348330,8:348330
+O Tempo Que Nos Resta	dub=8:392636,2:348331,8:348331	leg=2:348330,8:348330
 O Tempo Que Nos Resta (2025)	dub=6:1313908
 O Tempo com Você	dub=2:93477,8:93477
 O Tempo com Você (2019)	dub=6:1308338	leg=6:1308339
@@ -3285,16 +3285,16 @@ O Terminal	dub=2:372776,2:20763,8:372776,8:20763	leg=2:372775,8:372775
 O Terminal (2004)	dub=6:1299074
 O Terno de 2 Bilhoes de Dolares (2002)	dub=6:1297234
 O Terno de 2 Bilhões de Dólares	dub=2:318532,2:97199,8:318532,8:97199	leg=2:318533,8:318533
-O Território	dub=2:188327,2:180336,8:188327,8:180336
+O Território	dub=2:188327,8:188327,2:180336,8:180336
 O Território (2022)	dub=6:1306830
 O Terror da Premonição	dub=2:371926,8:371926
 O Tesouro Fofo Contra Ataca	dub=8:389629
 O Tesouro Perdido	dub=2:162013,2:161984,8:162013,8:161984
 O Tesouro Perdido (2020)	dub=6:1306420
-O Tesouro da Montanha Nebulosa	dub=2:316755,2:246443,8:316755,8:246443	leg=2:246444,8:246444
+O Tesouro da Montanha Nebulosa	dub=2:316755,8:316755,2:246443,8:246443	leg=2:246444,8:246444
 O Tesouro da Montanha Nebulosa (2023)	dub=6:1303131
 O Tesouro de Natal	dub=2:353764,2:288580,8:353764,8:288580	leg=2:353763,2:288581,8:353763,8:288581
-O Tesouro de Sarah	dub=2:376735,2:376729,2:376728,8:376735,8:376729,8:376728	leg=2:376727,8:376727
+O Tesouro de Sarah	dub=2:376735,2:376729,8:376735,8:376729,2:376728,8:376728	leg=2:376727,8:376727
 O Tesouro de Sarah (2025)	dub=6:1314571
 O Tesouro de Sierra Madre	dub=2:108296,8:108296
 O Tesouro de Sierra Madre (1948)	dub=6:1307437
@@ -3428,14 +3428,14 @@ O Universo de Oliver	dub=2:319070,8:319070	leg=2:319071,8:319071
 O Universo no Olhar	dub=2:45121,8:45121
 O Universo no Olhar (2014)	dub=6:1307328
 O Ursinho Pooh (2011)	dub=6:1300891
-O Urso do Pó Branco	dub=2:194532,2:194531,8:194532,8:194531	leg=2:194165,8:194165
+O Urso do Pó Branco	dub=2:194532,8:194532,2:194531,8:194531	leg=2:194165,8:194165
 O Urso do Pó Branco (2023)	dub=6:1302893	leg=6:1301069
 O Utimo Resgate (2020)	dub=6:1303538
 O Vale Roubado	dub=2:323714,8:323714	leg=2:323713,8:323713
 O Vale da Luz (2007)	leg=6:1314595
 O Vale do Amor	dub=2:251780,8:251780	leg=2:251781,8:251781
 O Vale do Amor (2022)	dub=6:1303205
-O Valente	dub=2:347687,2:347685,8:347687,8:347685	leg=2:347686,8:347686
+O Valente	dub=2:347685,8:347685,2:347687,8:347687	leg=2:347686,8:347686
 O Valor do Perdão	dub=2:157456,8:157456
 O Valor do Perdão (2018)	dub=6:1305709
 O Varredor	dub=8:395087	leg=8:395086
@@ -3481,7 +3481,7 @@ O Vingador (1986)	dub=6:1500981
 O Vingador (2003)	dub=6:1302444
 O Vingador da Iugoslavia (2017)	dub=6:1299698
 O Vingador da Iugoslávia	dub=2:296887,8:296887
-O Vingador da Iugoslávia 2	dub=2:287016,2:287015,8:287016,8:287015	leg=2:287017,8:287017
+O Vingador da Iugoslávia 2	dub=2:287016,8:287016,2:287015,8:287015	leg=2:287017,8:287017
 O Vingador do Futuro	dub=2:200813,2:102647,8:200813,8:102647
 O Vingador do Futuro (1990)	dub=6:1306723
 O Vingador do Futuro (2012)	dub=6:1302419
@@ -3515,7 +3515,7 @@ O Zelador Animal (2011)	dub=6:1310298
 O Zoologico de Varsovia	dub=2:21102,8:21102
 O Zoológico de Varsóvia (2017)	dub=6:1310116
 O fim da Cracolandia (2026)	dub=6:1314568
-O fim da Cracolândia	dub=2:377700,2:377699,8:377700,8:377699
+O fim da Cracolândia	dub=2:377699,8:377699,2:377700,8:377700
 O menino d’Olho d’Água	dub=2:344536,8:344536
 O palhaço no milharal	dub=2:332850,8:332850	leg=2:332849,8:332849
 O professor	dub=2:96031,8:395267,8:96031	leg=2:362270,8:395266,8:362270
@@ -3563,12 +3563,12 @@ O Último Desejo de Sardar (2021)	dub=6:1308877
 O Último Destino	dub=2:370917,2:148639,8:370917,8:148639	leg=2:370916,2:148640,8:370916,8:148640
 O Último Destino (2019)	dub=6:1306023	leg=6:1306024
 O Último Dragão	dub=2:382424,2:167201,8:382424,8:167201	leg=2:382423,2:167203,8:382423,8:167203
-O Último Duelo	dub=2:320239,2:142042,2:141574,8:320239,8:142042,8:141574	leg=2:320240,2:141575,8:320240,8:141575
+O Último Duelo	dub=2:142042,8:142042,2:320239,2:141574,8:320239,8:141574	leg=2:320240,2:141575,8:320240,8:141575
 O Último Exorcismo	dub=2:347296,8:347296	leg=2:347295,8:347295
 O Último Exorcismo: Parte II	dub=2:355746,8:355746	leg=2:355745,8:355745
 O Último Garoto da Terra	dub=2:294131,8:294131	leg=2:294132,8:294132
 O Último Garoto da Terra (2024)	leg=6:1311405
-O Último Gigante	dub=2:372364,8:391565,8:372364	leg=2:372363,8:372363
+O Último Gigante	dub=8:391565,2:372364,8:372364	leg=2:372363,8:372363
 O Último Golpe	dub=2:362867,8:362867	leg=2:362866,8:362866
 O Último Grande Assalto	dub=8:392412
 O Último Grande Assalto (2026)	dub=6:1502262
@@ -3596,9 +3596,9 @@ O Último Portal	dub=2:265625,8:265625
 O Último Refúgio	dub=2:370436,2:311811,2:188333,8:370436,8:311811,8:188333	leg=2:370435,2:311812,2:188332,8:370435,8:311812,8:188332
 O Último Refúgio (2018)	dub=6:1305717	leg=6:1305718
 O Último Rei da Escócia	dub=2:350937,8:350937
-O Último Reino: Sete Reis Devem Morrer	dub=2:194885,2:192095,8:194885,8:192095	leg=2:192096,8:192096
+O Último Reino: Sete Reis Devem Morrer	dub=2:194885,8:194885,2:192095,8:192095	leg=2:192096,8:192096
 O Último Resgate	dub=2:95981,8:95981
-O Último Respiro	dub=2:324695,2:324558,8:324695,8:324558	leg=2:324557,8:324557
+O Último Respiro	dub=2:324695,8:324695,2:324558,8:324558	leg=2:324557,8:324557
 O Último Ritual	dub=2:160590,8:160590	leg=2:160596,8:160596
 O Último Rodeio	dub=2:335231,8:335231	leg=2:335230,8:335230
 O Último Sacramento	dub=2:380483,8:380483	leg=2:380482,8:380482
@@ -3614,14 +3614,14 @@ O Último Trem	dub=2:203500,8:203500
 O Último Trem pro Natal	dub=2:166231,8:166231	leg=2:166234,8:166234
 O Último Turno	dub=2:90759,8:90759
 O Último Turno (2020)	dub=6:1308686
-O Último Vagão	dub=2:219925,2:196708,8:219925,8:196708	leg=2:196709,8:196709
+O Último Vagão	dub=2:219925,8:219925,2:196708,8:196708	leg=2:196709,8:196709
 O Último Vermeer	dub=2:128587,8:128587	leg=2:128588,8:128588
 O Último Vermeer (2019)	dub=6:1305170	leg=6:1305171
 O Último Viking	dub=2:41616,8:41616
 O Último Voo	dub=2:380485,8:380485	leg=2:380484,8:380484
 O Último dos Moicanos	dub=2:76703,8:76703
 O Último dos Moicanos (1992)	dub=6:1309025
-O'Dessa	dub=2:316238,2:316158,8:316238,8:316158	leg=2:316159,8:316159
+O'Dessa	dub=2:316238,8:316238,2:316158,8:316158	leg=2:316159,8:316159
 O.G.	dub=2:145357,8:145357	leg=2:145354,8:145354
 O.G. (2018)	dub=6:1299677
 O.S Rejeitados: Operação Submarino	leg=2:341432,8:341432
@@ -3649,9 +3649,9 @@ Obrigada Por Tudo (2019)	dub=6:1310856	leg=6:1310857
 Obrigado Por Fumar	dub=2:281485,8:281485
 Obrigado Por Ligar	dub=2:227419,8:227419
 Obrigado Por Ligar (2015)	dub=6:1310273
-Observador	dub=2:187150,2:187149,8:187150,8:187149	leg=2:187151,8:187151
+Observador	dub=2:187150,8:187150,2:187149,8:187149	leg=2:187151,8:187151
 Observador (2022)	dub=6:1300972
-Observadores	dub=2:317071,2:127447,8:317071,8:127447	leg=2:127422,8:127422
+Observadores	dub=2:317071,8:317071,2:127447,8:127447	leg=2:127422,8:127422
 Observadores (2021)	dub=6:1301130
 Obsessao (2012)	dub=6:1300312
 Obsessao (2019)	dub=6:1297168
@@ -3659,9 +3659,9 @@ Obsessao (2026)	dub=6:1500935	leg=6:1500934
 Obsessao Perigosa (2014)	dub=6:1303899
 Obsessiva	dub=8:384670	leg=8:384669
 Obsessiva (2009)	dub=6:1303632
-Obsessão	dub=2:144096,2:29566,8:385707,8:385654,8:385512,8:144096,8:29566	leg=8:385511
+Obsessão	dub=8:385707,8:385654,2:144096,2:29566,8:385512,8:144096,8:29566	leg=8:385511
 Obsessão (2015)	dub=6:1301198
-Obsessão Secreta	dub=2:189926,2:26391,8:189926,8:26391
+Obsessão Secreta	dub=2:189926,8:189926,2:26391,8:26391
 Obsessão Secreta (2019)	dub=6:1306012
 Obstinação	dub=2:368240,8:368240	leg=2:368239,8:368239
 Occupied City	leg=2:302737,8:302737
@@ -3684,14 +3684,14 @@ Oeste Outra Vez	dub=2:345276,2:321013,8:345276,8:321013
 Oeste Sem Lei (2015)	dub=6:1309984
 Oeste sem Lei	dub=2:21579,8:21579
 Oferenda ao Demonio (2022)	dub=6:1301574	leg=6:1301573
-Oferenda ao Demônio	dub=2:193060,2:192485,8:193060,8:192485	leg=2:192493,8:192493
+Oferenda ao Demônio	dub=2:193060,8:193060,2:192485,8:192485	leg=2:192493,8:192493
 Oferenda à Tempestade	dub=2:64393,8:64393
 Oferenda à Tempestade (2020)	dub=6:1308746
 Off the Air	leg=8:384551
 Off the Grid	dub=8:384740	leg=2:338428,8:384738,8:338428
 Off the Record	leg=2:351903,8:351903
 Offshoot	leg=2:292892,8:292892
-Oficina do Diabo	dub=2:305219,2:304594,2:178809,8:305219,8:304594,8:178809	leg=2:178831,8:178831
+Oficina do Diabo	dub=2:305219,8:305219,2:304594,2:178809,8:304594,8:178809	leg=2:178831,8:178831
 Oficina do Diabo (2022)	dub=6:1305390	leg=6:1305391
 Oficina do Diabo (2025)	dub=6:1312972
 Ofélia	dub=2:112468,8:112468
@@ -3746,7 +3746,7 @@ Olhos Famintos 2	dub=2:359751,2:21805,8:359751,8:21805	leg=2:359750,8:359750
 Olhos Famintos 2 (2003)	dub=6:1297097
 Olhos Famintos 3	dub=2:21806,8:21806
 Olhos Famintos 3 (2017)	dub=6:1297098
-Olhos Famintos 4: Renascimento	dub=2:190580,2:190578,8:190580,8:190578	leg=2:190579,8:190579
+Olhos Famintos 4: Renascimento	dub=2:190578,8:190578,2:190580,8:190580	leg=2:190579,8:190579
 Olhos Famintos 4: Renascimento (2022)	dub=6:1301052	leg=6:1300334
 Olhos Frios	dub=2:374313,8:374313	leg=2:374312,8:374312
 Olhos Selvagens e Perversos	dub=2:348334,8:348334	leg=2:348333,8:348333
@@ -3765,7 +3765,7 @@ Oliver!	dub=2:128548,8:128548
 Oliver! (1968)	dub=6:1305031
 Olá, Adeus e Tudo Mais	dub=2:164195,8:164195	leg=2:164197,8:164197
 Omniscient Reader: The Prophecy	leg=2:351555,8:351555
-On the Rocks	dub=2:273023,2:134036,2:82564,8:273023,8:134036,8:82564	leg=2:134088,8:134088
+On the Rocks	dub=2:273023,8:273023,2:134036,2:82564,8:134036,8:82564	leg=2:134088,8:134088
 On the Rocks (2020)	dub=6:1304531	leg=6:1304532
 Once Upon A Time In Hollywood Legendado	dub=2:31427,8:31427
 Onda de Calor	dub=2:160421,8:160421	leg=2:160422,8:160422
@@ -4061,7 +4061,7 @@ Operação Beijo de Natal	dub=2:352975,8:352975	leg=2:352974,8:352974
 Operação Big Hero (2014)	dub=6:1309901
 Operação Camanducaia	dub=2:241312,8:241312
 Operação Camanducaia (2020)	dub=6:1311226
-Operação Cerveja	dub=2:179747,2:175623,8:179747,8:175623	leg=2:175621,8:175621
+Operação Cerveja	dub=2:179747,8:179747,2:175623,8:175623	leg=2:175621,8:175621
 Operação Cerveja (2022)	dub=6:1305971	leg=6:1305972
 Operação Chromite	dub=2:333443,8:333443	leg=2:333442,8:333442
 Operação Condor: Um Kickboxer Muito Louco	dub=2:259080,8:259080
@@ -4096,7 +4096,7 @@ Operação Maldoror	dub=2:361811,8:395912,8:361811	leg=2:361810,8:395911,8:36181
 Operação Matador	dub=2:335683,8:335683	leg=2:335682,8:335682
 Operação Mekong (2016)	dub=6:1304137
 Operação Narco	dub=2:155719,8:155719	leg=2:155723,8:155723
-Operação Natal	dub=2:298480,2:298479,8:298480,8:298479	leg=2:298481,8:298481
+Operação Natal	dub=2:298480,8:298480,2:298479,8:298479	leg=2:298481,8:298481
 Operação Natal (2024)	dub=6:1312551	leg=6:1312550
 Operação Obscura	dub=2:323699,2:72642,8:323699,8:72642	leg=2:323698,8:323698
 Operação Overlord	dub=2:379479,2:319164,8:379479,8:319164	leg=2:379478,2:319165,8:379478,8:319165
@@ -4110,7 +4110,7 @@ Operação Sombra	dub=8:391239	leg=8:391238
 Operação Sombra (2025)	dub=6:1502249
 Operação Sombra: Jack Ryan (2014)	dub=6:1307165
 Operação Tempestade	dub=2:320692,8:320692	leg=2:320691,8:320691
-Operação Vingança	dub=2:335552,2:335382,8:335552,8:335382	leg=2:335381,2:328101,8:335381,8:328101
+Operação Vingança	dub=2:335552,8:335552,2:335382,8:335382	leg=2:335381,2:328101,8:335381,8:328101
 Operação Zodíaco	dub=2:108084,8:392801,8:108084
 Operação Zodíaco (2012)	dub=6:1309068
 Operação de Espionagem	dub=2:300625,8:300625
@@ -4121,7 +4121,7 @@ Operações Especiais (2013)	leg=6:1312797
 Ophelia	dub=2:30640,8:30640
 Oportunistas	dub=2:25109,8:25109
 Oportunistas (2017)	dub=6:1307852
-Oppenheimer	dub=2:252907,2:228296,2:228295,8:252907,8:228296,8:228295	leg=2:227389,8:227389
+Oppenheimer	dub=2:228296,8:228296,2:252907,2:228295,8:252907,8:228295	leg=2:227389,8:227389
 Oppenheimer (2023)	dub=6:1302858	leg=6:1302783
 Oprah and the Color Purple Journey	leg=2:246445,8:246445
 Opt ilustrate din lumea ideală	leg=2:339396,8:339396
@@ -4137,7 +4137,7 @@ Orca (2020)	leg=6:1312839
 Orca: A Baleia Assassina	dub=2:281486,8:281486
 Orfa 2: A Origem (2022)	dub=6:1300332	leg=6:1299983
 Organ Trail Sobrevivencia (2023)	dub=6:1302728
-Organ Trail: Sobrevivência	dub=2:223387,8:249905,8:223387	leg=2:223377,8:223377
+Organ Trail: Sobrevivência	dub=8:249905,2:223387,8:223387	leg=2:223377,8:223377
 Organização Monstro	dub=2:280966,8:280966	leg=2:280967,8:280967
 Organização Monstro (2023)	dub=6:1311849
 Orgulho & Revolução	dub=2:266019,8:266019	leg=2:266020,8:266020
@@ -4221,7 +4221,7 @@ Os Aventureiros A Origem (2023)	dub=6:1302616
 Os Aventureiros do Bairro Proibido	dub=2:20175,8:20175
 Os Aventureiros do Bairro Proibido (1986)	dub=6:1311001
 Os Aventureiros – A Origem	dub=2:217910,8:217910
-Os Bad Boas	dub=2:337419,2:334611,8:337419,8:334611	leg=2:334610,8:334610
+Os Bad Boas	dub=2:337419,8:337419,2:334611,8:334611	leg=2:334610,8:334610
 Os Bad Boas (2025)	dub=6:1313668
 Os Bad Boys	dub=2:19930,8:19930
 Os Bad Boys (1995)	dub=6:1302446
@@ -4259,7 +4259,7 @@ Os Canibais (2019)	dub=6:1300948
 Os Cantores	dub=2:366884,8:366884	leg=2:366883,8:366883
 Os Caras Malvados	dub=2:247283,2:159830,8:247283,8:159830	leg=2:247284,2:159831,8:247284,8:159831
 Os Caras Malvados (2022)	dub=6:1299394,6:1312243,6:1313837
-Os Caras Malvados 2	dub=2:374343,2:373357,2:344354,8:374343,8:373357,8:344354	leg=2:344353,8:344353
+Os Caras Malvados 2	dub=2:374343,2:373357,8:374343,8:373357,2:344354,8:344354	leg=2:344353,8:344353
 Os Caras Malvados 2 (2025)	dub=6:1313833	leg=6:1313832
 Os Caras Malvados Um Natal do Mal (2023)	dub=6:1302895
 Os Caras Malvados: Assalto Assombrado	dub=2:288582,8:288582	leg=2:288583,8:288583
@@ -4272,7 +4272,7 @@ Os Caubois do Apocalipse	dub=2:22067,8:22067
 Os Cavaleiros do Apocalipse	dub=2:376803,2:105260,8:376803,8:105260	leg=2:376802,8:376802
 Os Cavaleiros do Apocalipse (2009)	dub=6:1307241
 Os Cavaleiros do Zodiaco Saint Seiya O Comeco (2023)	dub=6:1301548	leg=6:1301547
-Os Cavaleiros do Zodíaco - Saint Seiya: O Começo	dub=2:200753,2:199879,2:199872,8:200753,8:199879,8:199872	leg=2:199871,8:199871
+Os Cavaleiros do Zodíaco - Saint Seiya: O Começo	dub=2:200753,2:199879,8:200753,8:199879,2:199872,8:199872	leg=2:199871,8:199871
 Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses	dub=2:130209,8:130209
 Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses (1988)	dub=6:1304814
 Os Cavaleiros do Zodíaco: A Lenda do Santuário	dub=2:130243,8:130243
@@ -4301,7 +4301,7 @@ Os Crimes de Limehouse	dub=2:21808,8:21808
 Os Crimes de Limehouse (2016)	dub=6:1310272
 Os Croods	dub=2:20418,8:386346	leg=8:386345
 Os Croods (2013)	dub=6:1298642
-Os Croods 2: Uma Nova Era	dub=2:100377,2:100374,8:100377,8:100374
+Os Croods 2: Uma Nova Era	dub=2:100377,8:100377,2:100374,8:100374
 Os Croods 2: Uma Nova Era (2020)	dub=6:1298355
 Os Curados	dub=2:382428,8:382428	leg=2:382427,8:382427
 Os Céus do Norte sobre o Vazio	leg=2:178835,8:178835
@@ -4375,13 +4375,13 @@ Os Estranhos (2008)	dub=6:1298680
 Os Estranhos Cacada Noturna	dub=2:21810,8:21810
 Os Estranhos Capitulo 2 (2025)	dub=6:1313964	leg=6:1313963
 Os Estranhos: Capitulo 1 (2024)	dub=6:1309140	leg=6:1304189
-Os Estranhos: Capítulo 1	dub=2:275515,2:273024,8:275515,8:273024	leg=2:273025,2:264729,8:273025,8:264729
+Os Estranhos: Capítulo 1	dub=2:275515,8:275515,2:273024,8:273024	leg=2:273025,2:264729,8:273025,8:264729
 Os Estranhos: Capítulo 2	dub=2:350977,8:350977	leg=2:350976,2:348846,8:350976,8:348846
-Os Estranhos: Capítulo Final	dub=2:376615,2:376614,8:376615,8:376614	leg=2:376613,2:369164,8:376613,8:369164
+Os Estranhos: Capítulo Final	dub=2:376615,8:376615,2:376614,8:376614	leg=2:376613,2:369164,8:376613,8:369164
 Os Estranhos: Caçada Noturna (2018)	dub=6:1310278
-Os Fabelmans	dub=2:187589,2:187587,8:187589,8:187587	leg=2:187588,8:187588
+Os Fabelmans	dub=2:187589,8:187589,2:187587,8:187587	leg=2:187588,8:187588
 Os Fabelmans (2022)	dub=6:1300984
-Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice	dub=2:289136,2:289135,8:289136,8:289135	leg=2:289137,8:289137
+Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice	dub=2:289136,8:289136,2:289135,8:289135	leg=2:289137,8:289137
 Os Fantasmas Ainda se Divertem: Beetlejuice Beetlejuice (2024)	dub=6:1312265	leg=6:1312264
 Os Fantasmas Contra-Atacam	dub=2:311140,8:311140	leg=2:311141,8:311141
 Os Fantasmas Trapalhões	dub=2:323738,2:64403,8:323738,8:64403
@@ -4454,7 +4454,7 @@ Os Incríveis 2	dub=2:109087,8:109087
 Os Indomaveis (2007)	dub=6:1302760
 Os Indomáveis	dub=2:91279,2:20178,8:390198,8:91279,8:20178	leg=8:390197
 Os Infaliveis (2024)	dub=6:1305339
-Os Infalíveis	dub=2:265895,2:265894,8:265895,8:265894	leg=2:265896,8:265896
+Os Infalíveis	dub=2:265895,8:265895,2:265894,8:265894	leg=2:265896,8:265896
 Os Infiltrados	dub=2:101664,8:392616,8:101664
 Os Infiltrados (2006)	dub=6:1303618
 Os Infratores	dub=2:133990,8:133990
@@ -4514,7 +4514,7 @@ Os Mercenarios 2 (2012)	dub=6:1298280
 Os Mercenarios 3	dub=2:20181,8:20181
 Os Mercenarios 3 (2014)	dub=6:1298281
 Os Mercenarios 4 (2023)	dub=6:1302752	leg=6:1302603
-Os Mercenários 4	dub=2:224991,2:224990,8:224991,8:224990	leg=2:224989,8:224989
+Os Mercenários 4	dub=2:224990,8:224990,2:224991,8:224991	leg=2:224989,8:224989
 Os Meteoritos (2019)	leg=6:1308232
 Os Miseraveis (2012)	dub=6:1300729
 Os Miseráveis	dub=2:122900,2:21113,8:122900,8:21113
@@ -4537,15 +4537,15 @@ Os Normais 2	dub=2:134070,8:134070
 Os Normais 2 (2009)	dub=6:1304393
 Os Normais O Filme (2003)	dub=6:1301975
 Os Normais: O Filme	dub=2:134085,8:134085
-Os Novatos	dub=2:285151,2:281756,8:285151,8:281756	leg=2:281757,8:281757
+Os Novatos	dub=2:285151,8:285151,2:281756,8:281756	leg=2:281757,8:281757
 Os Novatos (2024)	dub=6:1311920	leg=6:1311919
-Os Novos Mutantes	dub=2:88673,2:88670,8:88673,8:88670
+Os Novos Mutantes	dub=2:88670,8:88670,2:88673,8:88673
 Os Novos Mutantes (2020)	dub=6:1298015
 Os Novos Vingadores	dub=2:187830,8:187830	leg=2:187864,8:187864
 Os Novos Vingadores (2018)	dub=6:1305837	leg=6:1305838
 Os Novos Vingadores - Os Heróis do Amanhã	dub=2:128852,8:128852
 Os Novos Vingadores: Heróis do Amanhã (2008)	dub=6:1305020
-Os Observadores	dub=2:269960,2:269959,8:269960,8:269959	leg=2:269961,8:269961
+Os Observadores	dub=2:269960,8:269960,2:269959,8:269959	leg=2:269961,8:269961
 Os Observadores (2024)	dub=6:1309123	leg=6:1307003
 Os Octonautas e As Cavernas de Sac Actun (2020)	dub=6:1308860
 Os Odiados do Casamento	dub=2:180296,8:180296	leg=2:180342,8:180342
@@ -4585,7 +4585,7 @@ Os Peludos (2022)	dub=6:1302662
 Os Penetras (2012)	dub=6:1302453
 Os Pequenos Ajudantes Do Papai Noel	dub=2:32245,8:32245
 Os Pequenos Vestigios (2021)	dub=6:1298549	leg=6:1298471
-Os Pequenos Vestígios	dub=2:376804,2:267634,2:131093,8:376804,8:267634,8:131093
+Os Pequenos Vestígios	dub=2:267634,8:267634,2:376804,2:131093,8:376804,8:131093
 Os Perdedores	dub=2:328992,8:328992	leg=2:328991,8:328991
 Os Perdedores (2010)	dub=6:1307508
 Os Pestes	dub=2:348839,8:348839	leg=2:348838,8:348838
@@ -4610,7 +4610,7 @@ Os Portoes do Inferno (2017)	dub=6:1300437
 Os Primeiros Homens na Lua (1964)	dub=6:1310230	leg=6:1310231
 Os Produtores	dub=8:384238	leg=8:384237
 Os Promotores Ruins (2009)	dub=6:1302009
-Os Provocadores	dub=2:279215,2:279214,8:279215,8:279214	leg=2:279216,8:279216
+Os Provocadores	dub=2:279215,8:279215,2:279214,8:279214	leg=2:279216,8:279216
 Os Provocadores (2024)	dub=6:1311833	leg=6:1311832
 Os Quatro 2 - Reino Sem Lei	dub=2:26883,8:26883
 Os Quatro 2: Reino Sem Lei (2013)	dub=6:1307345
@@ -4619,10 +4619,10 @@ Os Quatro Pais	dub=2:343052,8:343052
 Os Quatro Paralamas	dub=2:128583,8:128583
 Os Quatro Paralamas (2020)	dub=6:1305222
 Os Quebra Nozes (2024)	dub=6:1312575	leg=6:1312496
-Os Quebra-Nozes	dub=2:299287,2:299286,8:299287,8:299286	leg=2:299288,8:299288
+Os Quebra-Nozes	dub=2:299287,8:299287,2:299286,8:299286	leg=2:299288,8:299288
 Os Queridinhos da América	dub=2:127406,8:127406
 Os Queridinhos da América (2001)	dub=6:1304983
-Os Radley	dub=2:364798,2:328261,8:364798,8:328261	leg=2:328260,8:328260
+Os Radley	dub=2:364798,8:364798,2:328261,8:328261	leg=2:328260,8:328260
 Os Radley (2024)	dub=6:1313591
 Os Rapazes da Banda	dub=2:76665,8:76665
 Os Ratos Uma Historia de The Witcher (2025)	dub=6:1313961	leg=6:1313960
@@ -4643,7 +4643,7 @@ Os Reis de Queenstown (2023)	dub=6:1309679	leg=6:1309680
 Os Reis do Mambo	dub=8:395706	leg=8:395705
 Os Reis do Mundo	dub=2:184030,8:184030	leg=2:184035,8:184035
 Os Reis do Mundo (2022)	dub=6:1306679	leg=6:1306680
-Os Rejeitados	dub=2:257908,2:253594,8:257908,8:253594	leg=2:252911,8:252911
+Os Rejeitados	dub=2:253594,8:253594,2:257908,8:257908	leg=2:252911,8:252911
 Os Rejeitados (2023)	leg=6:1302980
 Os Renegados	dub=2:120701,8:120701	leg=2:120702,8:120702
 Os Renegados (2021)	dub=6:1298673	leg=6:1298672
@@ -4761,7 +4761,7 @@ Os Três Males (2023)	leg=6:1309302
 Os Três Mosqueteiros	dub=2:104362,8:395269,8:104362	leg=8:395268
 Os Três Mosqueteiros (2011)	dub=6:1308120
 Os Três Mosqueteiros Trapalhões	dub=2:326996,2:64413,8:326996,8:64413
-Os Três Mosqueteiros: D’Artagnan	dub=2:208233,2:205921,8:208233,8:205921	leg=2:205922,8:205922
+Os Três Mosqueteiros: D’Artagnan	dub=2:208233,8:208233,2:205921,8:205921	leg=2:205922,8:205922
 Os Três Mosqueteiros: Milady	dub=2:256621,8:256621	leg=2:256622,8:256622
 Os Três Patetas	dub=2:295476,8:295476
 Os Três Patetas (2000)	dub=6:1311393	leg=6:1311394
@@ -4788,7 +4788,7 @@ Os Vingadores: The Avengers (2012)	dub=6:1313323	leg=6:1313322
 Os Vingadores: Ultimato (2019)	dub=6:1313327	leg=6:1313326
 Os Vizinhos Green: O Filme – Ferispaço	dub=2:292106,8:292106
 Os Vourdalak	dub=2:354970,8:354970	leg=2:354969,2:352271,8:354969,8:352271
-Os Ídolos da Bahía Colorada	dub=2:203314,8:392672,8:203314	leg=2:203313,8:203313
+Os Ídolos da Bahía Colorada	dub=8:392672,2:203314,8:203314	leg=2:203313,8:203313
 Os Ídolos da Bahía Colorada (2023)	dub=6:1305556	leg=6:1305557
 Os Órfãos (2020)	leg=6:1307959
 Os Óvnis dos Álamos	dub=2:315988,8:315988	leg=2:315989,8:315989
@@ -4804,7 +4804,7 @@ Oscar - Minha Filha quer Casar (1991)	dub=6:1309665
 Oscar Minha Filha Quer Casar	dub=2:20777,8:20777
 Oscar Shaw	leg=2:371104,8:371104
 Osiris	dub=2:339193,8:339193	leg=2:339192,8:339192
-Oslo	dub=2:250667,2:129542,8:250667,8:129542	leg=2:129548,8:129548
+Oslo	dub=2:250667,8:250667,2:129542,8:129542	leg=2:129548,8:129548
 Oslo (2021)	dub=6:1298900
 Osmar a Primeira Fatia do Pao de Forma (2019)	dub=6:1301778
 Osmose Jones - Uma Aventura Radical pelo Corpo Humano	dub=2:267713,8:267713
@@ -4848,16 +4848,16 @@ Outra Chance para o Amor (2024)	dub=6:1311949	leg=6:1311948
 Outra Vida (2017)	dub=6:1313829
 Outras Versões do Amor	dub=2:162017,8:162017
 Outras Versões do Amor (2018)	dub=6:1305783
-Outro Amor Fora do Tempo	dub=2:355678,8:393572,8:393571,8:355678	leg=2:355677,8:355677
+Outro Amor Fora do Tempo	dub=8:393572,8:393571,2:355678,8:355678	leg=2:355677,8:355677
 Outro Amor Fora do Tempo (2025)	dub=6:1502422
 Outro Conto da Nova Cinderela	dub=2:20778,8:20778
 Outro Conto da Nova Cinderela (2008)	dub=6:1309841
 Outro Mundo	leg=8:392451
-Outro Pequeno Favor	dub=2:320259,2:320087,8:320259,8:320087	leg=2:320086,8:320086
+Outro Pequeno Favor	dub=2:320259,8:320259,2:320087,8:320087	leg=2:320086,8:320086
 Outro Pequeno Favor (2025)	dub=6:1313472	leg=6:1313471
 Ouvir Não é o Bastante	dub=2:322728,8:322728	leg=2:322727,8:322727
 Overcomer	leg=2:34238,8:34238
-Overdose	dub=2:179753,2:178851,8:179753,8:178851	leg=2:178854,8:178854
+Overdose	dub=2:179753,8:179753,2:178851,8:178851	leg=2:178854,8:178854
 Overdose (2022)	dub=6:1300349
 Own The Room	leg=2:101406,8:101406
 Oxigenio (2021)	dub=6:1298424
@@ -4868,11 +4868,11 @@ Ozzy: No Escape from Now	leg=2:347349,8:347349
 Ó Paí, Ó	dub=2:161959,2:102563,8:161959,8:102563
 Ó Paí, Ó 2	dub=2:250665,8:250665	leg=2:250666,8:250666
 Óleo de Sarah	leg=2:354963,8:354963
-Órfã 2: A Origem	dub=2:179806,2:178549,8:179806,8:178549	leg=2:171389,8:171389
+Órfã 2: A Origem	dub=2:179806,8:179806,2:178549,8:178549	leg=2:171389,8:171389
 Óvnis: Arquivos Ultrassecretos	dub=2:253542,8:253542
 Óvnis: Missões Espaciais Ultrassecretas	dub=2:276008,8:276008
 Óvnis: Segredos na Casa Branca	dub=2:322024,8:322024
 Óvnis: Tecnologias Ultrassecretas	dub=2:276009,8:276009
 Ônibus 174	dub=2:355749,8:355749
 Öngörü	leg=8:394472
-“O Morro dos Ventos Uivantes”	dub=2:372425,2:371685,2:303061,8:372425,8:371685,8:303061	leg=2:371684,8:371684
+“O Morro dos Ventos Uivantes”	dub=2:372425,8:372425,2:371685,2:303061,8:371685,8:303061	leg=2:371684,8:371684

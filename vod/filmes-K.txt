@@ -1,6 +1,6 @@
 K-9: D.P.: Um Policial Bom pra Cachorro	dub=2:127453,8:127453
 K-Pops!	dub=2:380676,8:380676	leg=2:380675,8:380675
-K.O.	dub=2:327563,2:325901,8:327563,8:325901	leg=2:325900,8:325900
+K.O.	dub=2:327563,8:327563,2:325901,8:325901	leg=2:325900,8:325900
 K9 DP: Um Policial Bom pra Cachorro (2002)	dub=6:1299910
 KILL: O Massacre no Trem (2024)	dub=6:1312396	leg=6:1311784
 KIZUMONOGATARI -Koyomi Vamp-	leg=2:299622,8:299622
@@ -22,7 +22,7 @@ Kaiju No. 8: Missão de Reconhecimento	dub=2:334862,8:334862	leg=2:334861,8:3348
 Kaiser: O Jogador De Futebol Que Nunca Jogou	dub=2:185820,8:185820
 Kaiser: O Jogador De Futebol Que Nunca Jogou (2018)	dub=6:1305808
 Kalashnikov	leg=2:82498,8:82498
-Kali Anjo Vingador	dub=2:263725,2:263724,8:263725,8:263724	leg=2:263726,8:263726
+Kali Anjo Vingador	dub=2:263725,8:263725,2:263724,8:263724	leg=2:263726,8:263726
 Kali Anjo Vingador (2024)	dub=6:1304116
 Kalifornia Uma Viagem ao Inferno	dub=2:100432,8:100432
 Kalifornia: Uma Viagem ao Inferno (1993)	dub=6:1307060
@@ -56,7 +56,7 @@ Karatê Kid - A Hora da Verdade	dub=2:93612,8:93612
 Karatê Kid 2 - A Hora da Verdade Continua	dub=2:93613,8:93613
 Karatê Kid 3 - O Desafio Final	dub=2:93614,8:93614
 Karatê Kid 3: O Desafio Final (1989)	dub=6:1307036
-Karatê Kid: Lendas	dub=2:335224,2:335222,8:335224,8:335222	leg=2:335223,8:335223
+Karatê Kid: Lendas	dub=2:335222,8:335222,2:335224,8:335224	leg=2:335223,8:335223
 Kardec	dub=2:28268,8:28268
 Kardec (2019)	dub=6:1308503
 Karim, O Infiltrado	dub=2:233496,8:233496	leg=2:233491,8:233491
@@ -68,7 +68,7 @@ Karsmênia	dub=2:291323,8:291323
 Kart Nervoso	dub=2:41565
 Kart Nervoso (2020)	dub=6:1310607
 Kasa Branca	dub=2:322812,8:322812
-Kate	dub=2:190988,2:127407,8:190988,8:127407	leg=2:127431,8:127431
+Kate	dub=2:190988,8:190988,2:127407,8:127407	leg=2:127431,8:127431
 Kate & Leopold	dub=2:20642,8:20642
 Kate & Leopold (2001)	dub=6:1309489
 Kate (2021)	dub=6:1299058
@@ -129,7 +129,7 @@ Kill Boksoon (2023)	dub=6:1306684	leg=6:1306685
 Kill Shot (2023)	leg=6:1302982
 Kill Tony: Kill or Be Killed	leg=2:321083,8:321083
 Kill the Jockey	leg=2:302727,8:302727
-Kill: O Massacre no Trem	dub=2:294987,2:293214,8:294987,8:293214	leg=2:293215,8:293215
+Kill: O Massacre no Trem	dub=2:294987,8:294987,2:293214,8:293214	leg=2:293215,8:293215
 Killer Joe: Matador de Aluguel (2012)	dub=6:1303933
 Killer Sofa Legendado	dub=2:30539,8:30539
 Killer Weekend	dub=2:343040,8:343040	leg=2:343039,8:343039
@@ -139,7 +139,7 @@ Kim Possible (2019)	dub=6:1303876
 Kim Possible: O Drama do Amor (2005)	dub=6:1300883
 Kimetsu No Yaiba Mugen Ressha Hen	leg=2:110251,8:110251
 Kimi: Alguem Esta Escutando (2022)	dub=6:1299264
-Kimi: Alguém Está Escutando	dub=2:155512,2:149592,8:155512,8:149592	leg=2:149597,8:149597
+Kimi: Alguém Está Escutando	dub=2:155512,8:155512,2:149592,8:149592	leg=2:149597,8:149597
 Kin	dub=2:22031,8:22031	leg=2:321269,8:321269
 Kin (2018)	dub=6:1307671
 King - Meu Melhor Amigo	dub=2:161493,2:161492,8:161493,8:161492
@@ -152,7 +152,7 @@ King Richard: Criando Campeas (2021)	dub=6:1299091
 King Richard: Criando Campeãs	dub=2:144387,8:144387	leg=2:161509,8:161509
 King of Fighters: A Batalha Final (2009)	dub=6:1307757
 King of the Apocalypse	leg=2:317090,8:317090
-King's Man: A Origem	dub=2:349757,2:155514,2:149555,6:1299263,8:349757,8:155514,8:149555	leg=2:349756,2:149572,8:349756,8:149572
+King's Man: A Origem	dub=2:155514,8:155514,2:349757,2:149555,6:1299263,8:349757,8:149555	leg=2:349756,2:149572,8:349756,8:149572
 King's Man: A Origem (2021)	dub=6:1305723	leg=6:1305724
 King: O Rei da Selva (2005)	leg=6:1312758
 Kingdom	leg=2:344530,8:344530
@@ -201,7 +201,7 @@ Krampus: O Acordo (2015)	dub=6:1300621
 Krampus: O Terror do Natal	dub=2:382828,8:382828	leg=2:382827,8:382827
 Krampus: O Terror do Natal (2015)	dub=6:1300718
 Kraven O Caçador (2024)	dub=6:1312929	leg=6:1312928
-Kraven: O Caçador	dub=2:303054,2:303053,8:303054,8:303053	leg=2:303055,8:303055
+Kraven: O Caçador	dub=2:303054,8:303054,2:303053,8:303053	leg=2:303055,8:303055
 Krazy House	dub=2:360148,8:360148	leg=2:360147,8:360147
 Krishnamurti: A Revolução do Silêncio	dub=2:375946,8:375946	leg=2:375945,8:375945
 Kronos O Fim da Humanidade	dub=2:30405,8:30405
@@ -219,7 +219,7 @@ Kung Fu Panda 2	dub=2:20379,8:20379
 Kung Fu Panda 2 (2011)	dub=6:1297094
 Kung Fu Panda 3	dub=2:20380,8:20380
 Kung Fu Panda 3 (2016)	dub=6:1297095
-Kung Fu Panda 4	dub=2:258426,2:258425,8:258426,8:258425	leg=2:256850,8:256850
+Kung Fu Panda 4	dub=2:258426,8:258426,2:258425,8:258425	leg=2:256850,8:256850
 Kung Fu Panda 4 (2024)	dub=6:1303571	leg=6:1303422
 Kung Fu Panda: Especial de Natal	dub=2:133763,8:133763
 Kung Fu Panda: Especial de Natal (2010)	dub=6:1304476

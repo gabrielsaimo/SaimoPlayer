@@ -37,7 +37,7 @@ Babel (2006)	dub=6:1307107
 Babenco - Alguém Tem que Ouvir o Coração e Dizer: Parou	dub=2:90727,8:393681,8:90727
 Babenco - Alguém Tem que Ouvir o Coração e Dizer: Parou (2020)	dub=6:1308573
 Babilonia (2022)	dub=6:1301009,6:1301010
-Babilônia	dub=2:188601,2:188587,8:188601,8:188587	leg=2:188590,8:188590
+Babilônia	dub=2:188587,8:188587,2:188601,8:188601	leg=2:188590,8:188590
 Babo: A História de Haftbefehl	leg=2:350358,8:350358
 Baby	dub=2:366904,2:317308,8:366904,8:317308
 Baby Blue - Assassino em Série	dub=2:329327,8:329327	leg=2:329326,8:329326
@@ -57,7 +57,7 @@ Babyteeth	leg=2:48253,8:48253
 Babá Fora de Controle: Missão Brasil (2015)	dub=6:1310195
 Babá Sensual e Perigosa	leg=2:221012,8:221012
 Babá Sensual e Perigosa (2022)	leg=6:1309213
-Back to Black	dub=2:278086,2:278085,8:278086,8:278085	leg=2:278087,2:264721,8:278087,8:264721
+Back to Black	dub=2:278086,8:278086,2:278085,8:278085	leg=2:278087,2:264721,8:278087,8:264721
 Back to Black (2024)	dub=6:1311755	leg=6:1305332
 Backbeat - Os Cinco Rapazes de Liverpool	dub=2:371857,8:371857
 Backrooms Um Nao-Lugar (2026)	dub=6:1501194	leg=6:1501193
@@ -69,10 +69,10 @@ Bad Ass 3: Dois Duroes em Bayou (2015)	dub=6:1303720
 Bad Ass 3: Dois Durões em Bayou	dub=2:256648,8:256648
 Bad Ass: Acima da Lei	dub=2:256647,8:256647
 Bad Ass: Acima da Lei (2012)	dub=6:1303718
-Bad Boys Para Sempre	dub=2:42519,2:42500,8:42519,8:42500
+Bad Boys Para Sempre	dub=2:42519,8:42519,2:42500,8:42500
 Bad Boys Para Sempre (2020)	dub=6:1297851
 Bad Boys for Life	leg=2:64375,8:64375
-Bad Boys: Até o Fim	dub=2:275532,2:275489,8:275532,8:275489	leg=2:275490,8:275490
+Bad Boys: Até o Fim	dub=2:275532,8:275532,2:275489,8:275489	leg=2:275490,8:275490
 Bad Boys: Até o Fim (2024)	dub=6:1309173	leg=6:1309172
 Bad CGI Gator	leg=2:246171,8:246171
 Bad CGI Gator (2023)	leg=6:1309556
@@ -90,13 +90,13 @@ Badi	dub=2:230303,8:230303
 Badi (2019)	dub=6:1311026
 Badla	dub=2:28678,8:28678
 Badla (2019)	leg=6:1308402
-Bagagem de Risco	dub=2:299612,2:298687,8:299612,8:298687	leg=2:298688,8:298688
+Bagagem de Risco	dub=2:299612,8:299612,2:298687,8:298687	leg=2:298688,8:298688
 Bagagem de Risco (2024)	dub=6:1312555
 Bagman	leg=2:292826,8:292826
 Bagman (2024)	leg=6:1312337
 Baila Vini (2025)	dub=6:1313517
-Baila, Vini	dub=2:321369,2:321080,8:321369,8:321080	leg=2:321079,8:321079
-Bailarina - Do Universo de John Wick	dub=2:332838,2:330527,8:332838,8:330527	leg=2:330501,8:330501
+Baila, Vini	dub=2:321369,8:321369,2:321080,8:321080	leg=2:321079,8:321079
+Bailarina - Do Universo de John Wick	dub=2:332838,8:332838,2:330527,8:330527	leg=2:330501,8:330501
 Bailarina - Do Universo de John Wick (2025)	dub=6:1313650	leg=6:1313649
 Baile	dub=2:286941,8:286941
 Baile Perfumado (1997)	dub=6:1312646
@@ -111,7 +111,7 @@ Bakuage Sentai Boonboomger VS King-Ohger	leg=2:362721,8:362721
 Bala Perdida	dub=2:48190,8:48190
 Bala Perdida (2014)	dub=6:1303906
 Bala Perdida (2020)	dub=6:1297876
-Bala Perdida 2	dub=2:184028,2:179766,8:184028,8:179766	leg=2:179743,8:179743
+Bala Perdida 2	dub=2:184028,8:184028,2:179766,8:179766	leg=2:179743,8:179743
 Bala Perdida 2 (2022)	dub=6:1300439
 Bala Perdida 3	dub=2:320685,8:320685	leg=2:320684,8:320684
 Bala Perdida 3 (2025)	dub=6:1313486
@@ -139,14 +139,14 @@ Bambi, Uma Aventura na Floresta (2024)	dub=6:1501378
 Bambi: Uma aventura na floresta	dub=8:388432	leg=8:388431
 Banana Split	dub=2:89728,8:89728
 Banana Split (2018)	dub=6:1307960
-Banana Splits - O Filme	dub=2:362598,2:362267,8:362598,8:362267	leg=2:362597,8:362597
+Banana Splits - O Filme	dub=2:362267,8:362267,2:362598,8:362598	leg=2:362597,8:362597
 Banana Splits - O Filme (2019)	dub=6:1308534
 Band of Brothers Legacy (2026)	leg=6:1503131
 Band of Brothers: Legacy	leg=8:395783
 Bandida: A Número Um	dub=2:285158,8:285158	leg=2:285159,8:285159
 Bandida: A Número Um (2024)	dub=6:1312082	leg=6:1312081
 Bandidas (2006)	dub=6:1302821
-Bandido	dub=2:192082,2:192070,8:192082,8:192070	leg=2:192083,8:192083
+Bandido	dub=2:192082,8:192082,2:192070,8:192070	leg=2:192083,8:192083
 Bandido (2022)	dub=6:1302495
 Bandido a Muque	dub=8:395235	leg=8:395234
 Bandido: O Rei da Música	dub=2:267745,8:267745	leg=2:267746,8:267746
@@ -171,15 +171,15 @@ Banze no Oeste (1974)	dub=6:1298824
 Banzé no Oeste	dub=2:47408,8:47408
 Bao	dub=2:157947,8:157947
 Bao (2018)	dub=6:1305782
-Bar Doce Lar	dub=2:147449,2:145973,8:147449,8:145973	leg=2:145969,8:145969
+Bar Doce Lar	dub=2:147449,8:147449,2:145973,8:145973	leg=2:145969,8:145969
 Bar Doce Lar (2021)	dub=6:1299137
 Bar Esperança	dub=2:320217,8:320217
-Baramulla	dub=2:352656,2:352250,8:352656,8:352250	leg=2:352249,8:352249
+Baramulla	dub=2:352656,8:352656,2:352250,8:352250	leg=2:352249,8:352249
 Baramulla (2025)	dub=6:1313984
 Barba Cabelo e Bigode (2022)	dub=6:1299719
 Barba Ensopada de Sangue	dub=8:387534,8:387497	leg=8:387496
 Barba, Cabelo & Bigode	dub=2:168507,8:168507
-Barbie	dub=2:252904,2:214606,2:214605,8:252904,8:214606,8:214605	leg=2:214604,8:214604
+Barbie	dub=2:214605,8:214605,2:252904,2:214606,8:252904,8:214606	leg=2:214604,8:214604
 Barbie & Chelsea: O Aniversário Perdido	dub=2:142433,8:142433	leg=2:142427,8:142427
 Barbie & Chelsea: O Aniversário Perdido (2021)	dub=6:1304805	leg=6:1304806
 Barbie (2023)	dub=6:1302346	leg=6:1302345
@@ -239,7 +239,7 @@ Barbie: Super Princesa (2015)	dub=6:1304380
 Barbie: Vida de Sereia (2010)	dub=6:1310228
 Barbosa	dub=2:362599,8:362599
 Bares Bolos e Amizades (2023)	dub=6:1302502
-Bares, Bolos e Amizades	dub=2:214610,2:213926,8:214610,8:213926	leg=2:213918,8:213918
+Bares, Bolos e Amizades	dub=2:214610,8:214610,2:213926,8:213926	leg=2:213918,8:213918
 Bark	dub=2:357616,8:357616	leg=2:357615,8:357615
 Barra Nova	dub=2:375088,8:375088
 Barra Pesada	dub=8:384659	leg=8:384658
@@ -281,20 +281,20 @@ Batalha na Fronteira Norte	dub=2:371859,8:371859	leg=2:371858,8:371858
 Batalha por T.E.R.R.A.	dub=2:371860,8:371860	leg=2:373809,8:373809
 Batalhas: Freestyle	dub=2:156671,8:156671	leg=2:156673,8:156673
 Batalhas: Freestyle (2022)	dub=6:1299344
-Batalhão 6888	dub=2:300621,2:300132,8:300621,8:300132	leg=2:300133,8:300133
+Batalhão 6888	dub=2:300621,8:300621,2:300132,8:300132	leg=2:300133,8:300133
 Batalhão 6888 (2024)	dub=6:1312611	leg=6:1312610
 Batalhão de Elite (2019)	dub=6:1310654	leg=6:1310655
 Bate Coração	dub=2:328225,2:108079,8:328225,8:108079
 Bate Coração (2019)	dub=6:1308625
 Batem a Porta (2023)	dub=6:1301075
-Batem à Porta	dub=2:189917,2:189913,8:189917,8:189913	leg=2:189932,8:189932
+Batem à Porta	dub=2:189917,8:189917,2:189913,8:189913	leg=2:189932,8:189932
 Bater ou Correr	dub=2:20541,8:20541
 Bater ou Correr (2000)	dub=6:1297455
 Bater ou Correr em Londres (2003)	dub=6:1297456
 Batismo de Sangue	dub=2:376301,2:205548,8:376301,8:205548	leg=2:205549,8:205549
 Batismo de Sangue (2007)	dub=6:1303197
 Batismo de Sangue (2022)	dub=6:1301723
-Batman	dub=2:158183,2:158012,2:103135,8:158183,8:158012,8:103135	leg=2:158013,8:158013
+Batman	dub=2:158183,8:158183,2:158012,2:103135,8:158012,8:103135	leg=2:158013,8:158013
 Batman (1989)	dub=6:1300073
 Batman (2022)	dub=6:1299354	leg=6:1299355
 Batman - Ataque ao Arkham (2014)	dub=6:1298782
@@ -303,7 +303,7 @@ Batman - O Cavaleiro das Trevas - Parte 1 (2012)	dub=6:1298777
 Batman - O Cavaleiro das Trevas - Parte 2 (2013)	dub=6:1298778
 Batman A Perdição Chegou a Gotham (2023)	dub=6:1301076
 Batman Azteca Choque de Imperios (2025)	dub=6:1313979
-Batman Azteca: Choque de Impérios	dub=2:352267,2:352248,8:352267,8:352248	leg=2:352247,8:352247
+Batman Azteca: Choque de Impérios	dub=2:352267,8:352267,2:352248,8:352248	leg=2:352247,8:352247
 Batman Begins	dub=2:19932,8:386232,8:19932	leg=8:386231
 Batman Begins (2005)	dub=6:1297995
 Batman Contra o Capuz Vermelho	dub=2:358804,2:310408,8:358804,8:310408	leg=2:358803,2:310409,8:358803,8:310409
@@ -333,16 +333,16 @@ Batman: Alma do Dragao (2021)	dub=6:1298054
 Batman: Ano Um	dub=2:358802,8:358802	leg=2:358801,8:358801
 Batman: Morte em Família	dub=2:141576,8:141576	leg=2:141577,8:141577
 Batman: Morte em Família (2020)	dub=6:1304576	leg=6:1304577
-Batman: O Cavaleiro das Trevas	dub=2:343046,2:22498,2:19935,8:343046,8:22498,8:19935	leg=2:343045,8:343045
+Batman: O Cavaleiro das Trevas	dub=2:22498,8:22498,2:343046,2:19935,8:343046,8:19935	leg=2:343045,8:343045
 Batman: O Cavaleiro das Trevas (2008)	dub=6:1297996
 Batman: O Cavaleiro das Trevas Ressurge	dub=2:19933,8:19933
 Batman: O Cavaleiro das Trevas Ressurge (2012)	dub=6:1297997
 Batman: O Cavaleiro das Trevas, Parte 1	dub=2:358806,8:358806	leg=2:358805,8:358805
 Batman: O Cavaleiro de Gotham	dub=2:352901,8:352901	leg=2:352900,8:352900
 Batman: O Cavaleiro de Gotham (2008)	dub=6:1298775
-Batman: O Horror Chega a Gotham City	dub=2:190763,2:190645,8:190763,8:190645	leg=2:190646,8:190646
+Batman: O Horror Chega a Gotham City	dub=2:190763,8:190763,2:190645,8:190645	leg=2:190646,8:190646
 Batman: O Longo Dia das Bruxas - Parte 1 (2021)	dub=6:1308884
-Batman: O Longo Dia das Bruxas - Parte 2	dub=2:359045,2:358707,2:128501,2:125990,6:1298785,8:359045,8:358707,8:128501,8:125990	leg=2:358706,8:358706
+Batman: O Longo Dia das Bruxas - Parte 2	dub=2:359045,2:128501,8:359045,8:128501,2:358707,2:125990,6:1298785,8:358707,8:125990	leg=2:358706,8:358706
 Batman: O Longo Dia das Bruxas - Parte 2 (2021)	dub=6:1311088
 Batman: O Longo Dia das Bruxas – Parte 1	dub=2:114375,2:112448,6:1298784,8:114375,8:112448
 Batman: O Misterio da Mulher Morcego (2003)	dub=6:1298774
@@ -400,7 +400,7 @@ Becoming Madonna	dub=2:340961,8:340961	leg=2:340960,8:340960
 Bedlam (1946)	dub=6:1310019
 Bee Movie A Historia de uma Abelha (2007)	dub=6:1297821
 Bee Movie: A História de uma Abelha	dub=2:92597,8:92597
-Beekeeper: Rede de Vingança	dub=2:250703,8:250704,8:250703	leg=2:246804,8:246804
+Beekeeper: Rede de Vingança	dub=8:250704,2:250703,8:250703	leg=2:246804,8:246804
 Beekeeper: Rede de Vingança (2024)	dub=6:1303193	leg=6:1303192
 Beerfest	dub=2:323684,8:323684
 Beethoven 2	dub=2:318995,8:318995
@@ -426,7 +426,7 @@ Bela Foto, Bela Vida (2023)	leg=6:1309376
 Bela Maldição	dub=2:316841,8:316841	leg=2:316842,8:316842
 Bela Maldição (2021)	dub=6:1313382
 Bela Vinganca (2020)	dub=6:1300359
-Bela Vingança	dub=2:299285,2:119636,2:114391,8:299285,8:119636,8:114391	leg=2:117529,8:117529
+Bela Vingança	dub=2:299285,2:119636,8:299285,8:119636,2:114391,8:114391	leg=2:117529,8:117529
 Bela do Senhor	dub=2:141566,8:141566
 Bela do Senhor (2012)	dub=6:1304321
 Bela e Rebelde	dub=2:258999,8:258999	leg=2:259000,8:259000
@@ -460,7 +460,7 @@ Beleza Roubada (1996)	dub=6:1312271	leg=6:1312270
 Belfast	dub=2:162025,8:162025	leg=2:156706,8:156706
 Belfast (2021)	dub=6:1299471
 Believer	dub=8:388676	leg=8:388675
-Believer 2	dub=2:227407,8:393179,8:227407	leg=2:227411,8:227411
+Believer 2	dub=8:393179,2:227407,8:227407	leg=2:227411,8:227411
 Believer 2 (2023)	dub=6:1302819
 Bellatrix	dub=2:329601,8:329601
 Belle	dub=2:159951,2:25186,8:159951,8:25186	leg=2:159958,8:159958
@@ -472,7 +472,7 @@ Belle e Sebastian: Amigos para Sempre (2018)	dub=6:1307710
 Belle Époque	dub=2:376763,8:376763	leg=2:376762,8:376762
 Bellini e o Demônio	dub=2:341780,8:341780
 Bello: O Rei do Futevôlei	dub=2:279129,8:279129
-Belo Desastre	dub=2:196749,2:196746,8:196749,8:196746	leg=2:196747,8:196747
+Belo Desastre	dub=2:196749,8:196749,2:196746,8:196746	leg=2:196747,8:196747
 Belo Desastre (2023)	dub=6:1301495	leg=6:1301494
 Belo Desastre: O Casamento	dub=2:281501,8:281501	leg=2:281502,8:281502
 Belo Desastre: O Casamento (2024)	dub=6:1311902	leg=6:1311901
@@ -528,7 +528,7 @@ Bender: O Golpe Final (2021)	dub=6:1306726	leg=6:1306727
 Bender: O Início (2021)	dub=6:1306616	leg=6:1306617
 Bendito Fruto (2004)	dub=6:1301462
 Bendito corazón	leg=8:390581
-Benedetta	dub=2:352955,2:192085,2:159947,8:352955,8:192085,8:159947	leg=2:352954,2:159948,8:352954,8:159948
+Benedetta	dub=2:192085,8:192085,2:352955,2:159947,8:352955,8:159947	leg=2:352954,2:159948,8:352954,8:159948
 Benedetta (2021)	dub=6:1299410
 Benji	dub=2:21397,8:21397
 Benji (2018)	dub=6:1310552
@@ -559,7 +559,7 @@ Bert Kreischer: Sem Vergonha	leg=2:246174,8:246174
 Bert Kreischer: Sem Vergonha (2023)	leg=6:1309408
 Bert Kreischer: Sortudo	leg=2:316232,8:316232
 Besouro	dub=2:286471,8:286471
-Besouro Azul	dub=2:216196,2:216149,8:216196,8:216149	leg=2:216150,8:216150
+Besouro Azul	dub=2:216196,8:216196,2:216149,8:216149	leg=2:216150,8:216150
 Besouro Azul (2023)	dub=6:1313314	leg=6:1313313
 Bessie	dub=2:144077,8:144077
 Bessie (2015)	dub=6:1304389
@@ -649,7 +649,7 @@ Bios. Vidas que marcaram a sua: Titas (2022)	dub=6:1299870
 Bios. Vidas que marcaram a sua: Titãs	dub=2:168536,8:168536
 Biosfera	dub=2:354945,8:354945	leg=2:354944,8:354944
 Bird Box	dub=2:21475,8:21475
-Bird Box Barcelona	dub=2:215892,2:202615,8:215892,8:202615	leg=2:202614,8:202614
+Bird Box Barcelona	dub=2:215892,8:215892,2:202615,8:202615	leg=2:202614,8:202614
 Bird Box Barcelona (2023)	dub=6:1301686	leg=6:1301685
 Birdman ou (A Inesperada Virtude da Ignorância)	dub=2:323686,8:323686	leg=2:323685,8:323685
 Birdman ou (A Inesperada Virtude da Ignorância) (2014)	dub=6:1303366	leg=6:1303365
@@ -666,7 +666,7 @@ Biutiful	dub=2:113039,8:113039
 Biutiful (2010)	dub=6:1299568
 Bixa Travesty	dub=2:221650,8:221650
 Bixa Travesty (2019)	dub=6:1310549
-Biônicos	dub=2:265548,2:263103,8:265548,8:263103
+Biônicos	dub=2:265548,8:265548,2:263103,8:263103
 BlacKkKlansman - O Infiltrado	dub=2:21476,8:21476
 Black	leg=2:367405,8:367405
 Black '47	dub=2:33573,6:1297608,8:33573
@@ -696,7 +696,7 @@ Black Water: Perigo no Oceano	dub=2:42959,8:42959
 Black Water: Perigo no Oceano (2018)	dub=6:1307793
 Black and Blue	leg=2:33361,8:33361
 Black and White Stripes: The Juventus Story (2016)	dub=6:1299782
-BlackBerry	dub=2:233521,2:230896,8:233521,8:230896	leg=2:230894,8:230894
+BlackBerry	dub=2:233521,8:233521,2:230896,8:230896	leg=2:230894,8:230894
 BlackBerry (2023)	dub=6:1302923
 Blackbird	leg=2:84576,8:84576
 Blackbird Blackbird Blackberry	leg=2:264142,8:264142
@@ -714,7 +714,7 @@ Blade 2 O Cacador de Vampiros (2002)	dub=6:1302136
 Blade 3 Trinity (2004)	dub=6:1302138
 Blade II - O Caçador de Vampiros	dub=2:19941,8:19941
 Blade O Cacador de Vampiros (1998)	dub=6:1302137
-Blade Runner (2049)	dub=2:379449,2:22499,2:21217,6:1309113,8:379449,8:22499,8:21217	leg=2:379448,6:1309112,8:379448
+Blade Runner (2049)	dub=2:22499,8:22499,2:379449,2:21217,6:1309113,8:379449,8:21217	leg=2:379448,6:1309112,8:379448
 Blade Runner: O Cacador de Androides (1982)	dub=6:1298548
 Blade Runner: O Caçador de Andróides	dub=2:342860,2:200815,8:342860,8:200815
 Blade: Trinity	dub=2:19940,8:19940
@@ -748,11 +748,11 @@ Blindado (2024)	dub=6:1313850
 Blinded By The Light Legendado	dub=2:29638,8:29638
 Bling Ring A Gangue de Hollywood (2013)	dub=6:1302154
 Bling Ring: A Gangue de Hollywood	dub=2:382553,2:128849,8:382553,8:128849	leg=2:382552,8:382552
-Blink	dub=2:354212,2:299613,2:299595,8:354212,8:299613,8:299595	leg=2:299596,8:299596
+Blink	dub=2:299613,8:299613,2:354212,2:299595,8:354212,8:299595	leg=2:299596,8:299596
 Blink (2024)	dub=6:1312576
-Bliss: Em Busca da Felicidade	dub=2:94232.mkv,2:94167,8:94232.mkv,8:94167
+Bliss: Em Busca da Felicidade	dub=2:94232.mkv,8:94232.mkv,2:94167,8:94167
 Bliss: Em Busca da Felicidade (2021)	dub=6:1308558
-Blitz	dub=2:339283,2:297082,2:296493,2:138894,8:339283,8:297082,8:296493,8:138894	leg=2:339282,2:296494,8:339282,8:296494
+Blitz	dub=2:297082,8:297082,2:339283,2:296493,2:138894,8:339283,8:296493,8:138894	leg=2:339282,2:296494,8:339282,8:296494
 Blitz (2011)	dub=6:1301157
 Blitz (2018)	dub=6:1304539
 Blitz (2024)	dub=6:1312454	leg=6:1312453
@@ -763,7 +763,7 @@ Blondi (2023)	dub=6:1301579
 Blood Quantum	leg=2:64376,8:64376
 Bloodline (2019)	leg=6:1308226
 Bloodline Legendado	dub=2:30543,8:30543
-Bloodshot	dub=2:362601,2:42537,2:42014,2:42013,8:362601,8:42537,8:42014,8:42013	leg=2:362600,2:41853,8:362600,8:41853
+Bloodshot	dub=2:42537,2:42014,8:42537,8:42014,2:362601,2:42013,8:362601,8:42013	leg=2:362600,2:41853,8:362600,8:41853
 Bloodshot (2020)	dub=6:1297796
 Bloody Escape	leg=2:318092,8:318092
 Blow the Man Down	dub=2:41632,8:41632
@@ -788,13 +788,13 @@ Boa Menina Da Mafia	leg=8:389507
 Boa Noite	dub=2:217284,8:217284
 Boa Noite (2019)	dub=6:1311109
 Boa Noite Mamae! (2022)	dub=6:1300090
-Boa Noite, Mamãe!	dub=2:179749,2:173314,8:179749,8:173314	leg=2:173312,8:173312
+Boa Noite, Mamãe!	dub=2:179749,8:179749,2:173314,8:173314	leg=2:173312,8:173312
 Boa Sorte	dub=2:138870,8:138870
 Boa Sorte (2014)	dub=6:1302157
 Boa Sorte Leo Grande (2022)	dub=6:1301509
-Boa Sorte, Divirta-se, Não Morra	dub=2:383128,2:382919,8:383128,8:382919	leg=2:382920,8:382920
+Boa Sorte, Divirta-se, Não Morra	dub=2:383128,8:383128,2:382919,8:382919	leg=2:382920,8:382920
 Boa Sorte, Leo Grande	dub=2:198698,8:198698	leg=2:198699,8:198699
-Boa Viagem	dub=2:184025,2:160617,2:160588,8:184025,8:160617,8:160588
+Boa Viagem	dub=2:184025,8:184025,2:160617,2:160588,8:160617,8:160588
 Boa Viagem (2022)	dub=6:1306933
 Boa Viagem, Charlie Brown	dub=2:350983,8:350983
 Boa noite, Oppy	dub=2:181402,8:181402
@@ -810,11 +810,11 @@ Bob Esponja Em Busca da Calca Quadrada (2025)	dub=6:1314249
 Bob Esponja O Filme (2004)	dub=6:1301644
 Bob Esponja O Incrivel Resgate (2020)	dub=6:1301645
 Bob Esponja: Acampamento do Terror	dub=2:289602,8:289602
-Bob Esponja: Em Busca da Calça Quadrada	dub=2:363620,2:363503,8:363620,8:363503	leg=2:363502,8:363502
+Bob Esponja: Em Busca da Calça Quadrada	dub=2:363620,8:363620,2:363503,8:363503	leg=2:363502,8:363502
 Bob Esponja: O Filme	dub=2:233810,8:233810
-Bob Esponja: O Incrível Resgate	dub=2:192528,2:85146,8:192528,8:85146
+Bob Esponja: O Incrível Resgate	dub=2:192528,8:192528,2:85146,8:85146
 Bob Esponja: Um Heroi Fora D'Agua (2015)	dub=6:1298453,6:1309999
-Bob Marley: One Love	dub=2:253529,2:253528,8:253529,8:253528	leg=2:253530,8:253530
+Bob Marley: One Love	dub=2:253529,8:253529,2:253528,8:253528	leg=2:253530,8:253530
 Bob Marley: One Love (2024)	dub=6:1303247	leg=6:1303246
 Bob Ross Alegria Traição e Ganância	dub=2:122938,2:122908,8:122938,8:122908
 Bob Ross Alegria Traição e Ganância (2021)	dub=6:1311390
@@ -841,13 +841,13 @@ Bodas de Papel (2018)	dub=6:1305776
 Bodyguard – Resgate de Risco (2016)	dub=6:1303754
 Bogota: A Cidade dos Sonhos Perdidos (2024)	dub=6:1313014
 Bogotá: A Cidade dos Sonhos Perdidos	dub=2:309556,8:309556	leg=2:309557,8:309557
-Bohemian Rhapsody	dub=2:100918,2:100917,8:100918,8:100917
+Bohemian Rhapsody	dub=2:100917,8:100917,2:100918,8:100918
 Bohemian Rhapsody (2018)	dub=6:1297417
 Boi	dub=2:26586,8:26586
 Boi (2019)	dub=6:1308473
 Boi Neon	dub=2:105426,8:105426
 Boi Neon (2016)	dub=6:1307439
-Bola pra Cima	dub=2:374621,2:374482,2:374349,8:374621,8:374482,8:374349	leg=2:374348,8:374348
+Bola pra Cima	dub=2:374621,2:374482,8:374621,8:374482,2:374349,8:374349	leg=2:374348,8:374348
 Bola pra Cima (2026)	dub=6:1314481
 Bolas em Panico (2007)	dub=6:1312197
 Bolden - A Sensação do Jazz	dub=2:35979,8:35979
@@ -871,7 +871,7 @@ Bom Dia, Natal!	dub=2:180638,8:180638	leg=2:180634,8:180634
 Bom Dia, Vietnã	dub=2:360872,8:360872	leg=2:360871,8:360871
 Bom Garoto	dub=2:297415,2:229479,8:395939,8:297415,8:229479	leg=2:297416,8:297416
 Bom Garoto (2022)	dub=6:1303450	leg=6:1302508
-Bom Menino	dub=2:356890,2:356888,8:356890,8:356888	leg=2:356889,2:349771,8:356889,8:349771
+Bom Menino	dub=2:356888,8:356888,2:356890,8:356890	leg=2:356889,2:349771,8:356889,8:349771
 Bom Menino (2025)	dub=6:1314133	leg=6:1314132
 Bombardeio a Roterda (2012)	dub=6:1303512
 Bombay Rose	dub=2:97169,8:97169
@@ -898,7 +898,7 @@ Bonkey Donkey	dub=6:1303580
 Bonnie e Clyde - Uma Rajada de Balas (1967)	dub=6:1298506
 Bonnie e Clyde: Uma Rajada de Balas	dub=2:338599,8:338599
 Bono: Histórias de "Surrender"	leg=2:324451,8:324451
-Bons Companheiros	dub=2:246968,2:242787,8:387333,8:246968,8:242787	leg=2:242788,8:387334,8:242788
+Bons Companheiros	dub=2:246968,8:246968,2:242787,8:387333,8:242787	leg=2:242788,8:387334,8:242788
 Bons Companheiros (2023)	dub=6:1303109
 Bons Meninos	dub=2:34178,8:34178
 Bons Meninos (2019)	dub=6:1297485
@@ -928,9 +928,9 @@ Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à Amér
 Borat: Fita de Cinema Seguinte	dub=2:79740,8:79740
 Borat: Fita de Cinema Seguinte (2020)	dub=6:1298462
 Borboleta Negra (2017)	dub=6:1300268
-Borbulhas de Amor	dub=2:353466,8:390417,8:353466	leg=2:353465,8:353465
+Borbulhas de Amor	dub=8:390417,2:353466,8:353466	leg=2:353465,8:353465
 Borbulhas de Amor (2025)	dub=6:1314038
-Borderlands: O Destino do Universo Está em Jogo	dub=2:286491,2:286490,8:286491,8:286490	leg=2:285076,8:285076
+Borderlands: O Destino do Universo Está em Jogo	dub=2:286491,8:286491,2:286490,8:286490	leg=2:285076,8:285076
 Borderlands: O Destino do Universo Está em Jogo (2024)	dub=6:1312117	leg=6:1312035
 Borderline: Relação Obsessiva	dub=2:280960,8:280960	leg=2:280961,8:280961
 Borderline: Relação Obsessiva (2024)	leg=6:1311853
@@ -947,7 +947,7 @@ Boss Level	leg=2:97170,8:97170
 Bottom Feeders	leg=2:313116,8:313116
 Bottoms (2023)	dub=6:1311294	leg=6:1311295
 Bouchra	leg=8:396044
-Boulevard	dub=8:386713,8:386711	leg=8:386712
+Boulevard	dub=8:386711,8:386713	leg=8:386712
 Boulevard (2026)	dub=6:1501126
 Bound X Blood: The Orphan Killer 2	dub=2:194179,8:194179
 Bound X Blood: The Orphan Killer 2 (2016)	dub=6:1305670
@@ -978,11 +978,11 @@ Braddock 3 - O Resgate (1988)	dub=6:1298250
 Braddock 3 O Resgate	dub=2:45080.avi,8:386236,8:45080.avi	leg=8:386235
 Braddock: O Super Comando	dub=2:112941,2:45081.avi,8:386238,8:112941,8:45081.avi	leg=8:386237
 Brahms The Boy II	leg=2:42905,8:42905
-Brahms: Boneco do Mal II	dub=2:92608,2:92588,8:92608,8:92588
+Brahms: Boneco do Mal II	dub=2:92608,8:92608,2:92588,8:92588
 Brahms: Boneco do Mal II (2020)	dub=6:1298044
 Branca Como a Neve	dub=2:128880,8:128880
 Branca Como a Neve (2019)	dub=6:1305099
-Branca de Neve	dub=2:328247,2:328089,8:328247,8:328089	leg=2:328088,8:328088
+Branca de Neve	dub=2:328247,8:328247,2:328089,8:328089	leg=2:328088,8:328088
 Branca de Neve (2025)	dub=6:1313629	leg=6:1313628
 Branca de Neve e o Cacador	dub=2:21219,8:384683,8:21219	leg=8:384682
 Branca de Neve e o Cacador (2012)	dub=6:1298212
@@ -995,7 +995,7 @@ Brasil	dub=2:375032,8:375032
 Brasil 2002: Os Bastidores do Penta	dub=2:177221,8:177221
 Brasil 2002: Os Bastidores do Penta (2022)	dub=6:1300161
 Brasil Ano (2000)	dub=2:362602,8:362602
-Brasil Azul	dub=2:312945,2:312354,8:312945,8:312354
+Brasil Azul	dub=2:312354,8:312354,2:312945,8:312945
 Brasil S/A	dub=2:382372,8:382372
 Brasil Visto do Alto	dub=2:280997,8:280997
 Brasileirinhas Carnaval (2020)	dub=8:45082
@@ -1115,7 +1115,7 @@ Brian Banks: Um Sonho Interrompido	dub=2:62553,8:62553
 Brian Banks: Um Sonho Interrompido (2019)	dub=6:1298129
 Brian e Charles	dub=2:181148,8:181148	leg=2:181137,8:181137
 Brian e Charles (2022)	dub=6:1306827	leg=6:1306828
-Brick	dub=2:349767,2:334286,8:349767,8:334286	leg=2:334285,8:334285
+Brick	dub=2:349767,8:349767,2:334286,8:334286	leg=2:334285,8:334285
 Brick (2025)	dub=6:1313655
 Bride Hard	leg=2:336133,8:336133
 Brideshead - Desejo e Poder	dub=8:391942
@@ -1132,13 +1132,13 @@ Bright	dub=2:21220,8:21220
 Bright (2017)	dub=6:1310335
 Bright: Alma de Samurai	dub=2:133042,8:133042	leg=2:133049,8:133049
 Bright: Alma de Samurai (2021)	dub=6:1304822	leg=6:1304823
-Brightburn - Filho das Trevas	dub=2:301658,2:27655,8:301658,8:27655
+Brightburn - Filho das Trevas	dub=2:301658,8:301658,2:27655,8:27655
 Brightburn - Filho das Trevas (2019)	dub=6:1297265
 Brightburn Legendado	dub=2:26384,8:26384
 Brilho Eterno de uma Mente sem Lembrancas (2004)	dub=6:1297982
 Brilho Eterno de uma Mente sem Lembranças	dub=2:323688,2:21288,8:323688,8:21288	leg=2:323687,8:323687
 Brilho Solitario No Frio	leg=8:389508
-Brilho para a Eternidade	dub=2:367571,2:221913,8:367571,8:221913	leg=2:221912,8:221912
+Brilho para a Eternidade	dub=2:367571,8:367571,2:221913,8:221913	leg=2:221912,8:221912
 Brilho para a Eternidade (2021)	dub=6:1302164
 Brincadeira Mortal (2019)	dub=6:1300409
 Brincando com Fogo	dub=2:369389,2:33977,8:369389,8:33977	leg=2:369388,2:355576,8:369388,8:355576
@@ -1211,7 +1211,7 @@ Buffy, a Caça Vampiros	dub=2:129524,8:129524
 Buffy, a Caça Vampiros (1992)	dub=6:1304237
 Bug Diner	leg=2:341028,8:341028
 Bugados Voce Bugou Meu Coração (2024)	dub=6:1304186
-Bugonia	dub=2:359199,2:358710,8:359199,8:358710	leg=2:358709,2:354012,8:358709,8:354012
+Bugonia	dub=2:359199,8:359199,2:358710,8:358710	leg=2:358709,2:354012,8:358709,8:354012
 Bugonia (2025)	dub=6:1314193	leg=6:1314192
 Bull	dub=2:205555,8:205555	leg=2:205556,8:205556
 Bull (2020)	dub=6:1310749	leg=6:1310750
@@ -1224,7 +1224,7 @@ Bullitt	dub=2:363868,8:363868	leg=2:363867,8:363867
 Bully. Covarde. Vítima. A História de Roy Cohn	dub=8:386796	leg=8:386795
 Bully: Jimmy Contra os Valentões	dub=2:157457,8:157457
 Bully: Jimmy Contra os Valentões (2018)	dub=6:1306185
-Bumblebee	dub=2:319154,2:93642,2:21478,8:390140,8:319154,8:93642,8:21478	leg=2:319155,8:319155
+Bumblebee	dub=2:21478,8:21478,2:319154,2:93642,8:390140,8:319154,8:93642	leg=2:319155,8:319155
 Bumblebee (2018)	dub=6:1297151,6:1312685	leg=6:1312684
 Bunker	dub=2:300655,8:300655	leg=2:300656,8:300656
 Bunker (2023)	dub=6:1312638	leg=6:1312637

@@ -14,12 +14,12 @@ LEGO DC Shazam: Magia e Monstros (2020)	dub=6:1308789
 LEGO DC: Aquaman – A Fúria de Atlântida	dub=2:138861,8:138861	leg=2:138847,8:138847
 LEGO DC: Shazam – Magia e Monstros	dub=2:47418,8:47418
 LEGO Disney Frozen: Operation Puffins	dub=2:349759,8:349759	leg=2:349758,8:349758
-LEGO Disney Princesa: Aventura no Castelo	dub=2:210388,2:210200,8:210388,8:210200
+LEGO Disney Princesa: Aventura no Castelo	dub=2:210388,8:210388,2:210200,8:210200
 LEGO Disney Princesa: Aventura no Castelo (2023)	dub=6:1309568
 LEGO Disney Princesa: Vilões Unidos	dub=2:340970,8:340970	leg=2:340969,8:340969
 LEGO Liga da Justica - Combate Cosmico	dub=2:22035,8:22035
 LEGO Liga da Justica - Combate Cosmico (2016)	dub=6:1298519,6:1301641
-LEGO Marvel Vingadores: Código Vermelho	dub=2:223393,2:223390,8:223393,8:223390	leg=2:223399,8:223399
+LEGO Marvel Vingadores: Código Vermelho	dub=2:223390,8:223390,2:223393,8:223393	leg=2:223399,8:223399
 LEGO Marvel Vingadores: Código Vermelho (2023)	dub=6:1309572	leg=6:1309573
 LEGO Marvel Vingadores: Missão Demolição	dub=2:291159,8:291159	leg=2:291160,8:291160
 LEGO NinjaGo O Filme	dub=2:20381,8:20381
@@ -99,7 +99,7 @@ Ladrão que Rouba Ladrão	dub=2:371173,8:371173	leg=2:371172,8:371172
 Ladrões	dub=2:346715,2:20083,8:346715,8:20083	leg=2:346714,8:346714
 Ladrões Que Roubam Ladrões	dub=2:30537,8:30537
 Ladrões de Cinema	dub=2:382991,8:382991
-Ladrões de Ouro	dub=2:341031,2:340968,2:340263,8:341031,8:340968,8:340263	leg=2:340262,8:340262
+Ladrões de Ouro	dub=2:341031,2:340968,8:341031,8:340968,2:340263,8:340263	leg=2:340262,8:340262
 Ladrões de Ouro (2025)	dub=6:1313758
 Lady Ballers	leg=2:246426,8:246426
 Lady Ballers (2023)	leg=6:1309696
@@ -142,7 +142,7 @@ Lanterna Verde	dub=2:20084,8:20084
 Lanterna Verde (2011)	dub=6:1300079
 Lanterna Verde: Cavaleiros Esmeralda	dub=2:358819,8:358819	leg=2:358818,8:358818
 Lanterna Verde: Cavaleiros Esmeralda (2011)	dub=6:1300067
-Lanterna Verde: Cuidado Com Meu Poder	dub=2:359202,2:281085,2:179807,2:178552,8:359202,8:281085,8:179807,8:178552	leg=2:281086,2:178570,8:281086,8:178570
+Lanterna Verde: Cuidado Com Meu Poder	dub=2:359202,2:179807,8:359202,8:179807,2:281085,2:178552,8:281085,8:178552	leg=2:281086,2:178570,8:281086,8:178570
 Lanterna Verde: Cuidado Com Meu Poder (2022)	dub=6:1300431
 Lanterna Verde: Primeiro Voo (2009)	dub=6:1300068
 Lanterna Verde: Primeiro Vôo	dub=2:358821,8:358821	leg=2:358820,8:358820
@@ -170,7 +170,7 @@ Laranja Mecânica	dub=2:266035,8:266035
 Largo Winch 2 - A Conspiração Burma (2011)	dub=6:1303931
 Largo Winch: O Preço do Dinheiro	dub=2:297441,8:297441	leg=2:297442,8:297442
 Largo Winch: O Preço do Dinheiro (2024)	dub=6:1312502
-Larissa: O Outro Lado de Anitta	dub=2:316911,2:313827,8:316911,8:313827	leg=2:313828,8:313828
+Larissa: O Outro Lado de Anitta	dub=2:316911,8:316911,2:313827,8:313827	leg=2:313828,8:313828
 Larissa: O Outro Lado de Anitta (2025)	dub=6:1313181
 Larry Crowne: O Amor Está de Volta	dub=2:263099,8:263099
 Larry Crowne: O Amor Está de Volta (2011)	dub=6:1305157
@@ -246,7 +246,7 @@ Legiao de Herois (2016)	dub=6:1303937
 Legiao dos Super Herois (2023)	dub=6:1301628
 Legionário	dub=2:265151,8:265151
 Legionário (1998)	dub=6:1305070
-Legião dos Super-Heróis	dub=2:187849,2:187847,8:187849,8:187847	leg=2:187848,8:187848
+Legião dos Super-Heróis	dub=2:187847,8:187847,2:187849,8:187849	leg=2:187848,8:187848
 Lego Batman: O Filme (2017)	dub=6:1298781
 Lego DC Batman Assuntos de Familia	dub=2:28108,8:28108
 Lego DC Batman: Assunto de Família (2019)	dub=6:1308513
@@ -255,7 +255,7 @@ Lego Jurassic World A Exposicao Secreta Parte 1	dub=2:22032,8:22032
 Lego Jurassic World A Exposicao Secreta Parte 2	dub=2:22033,8:22033
 Lego Ninjago: O Filme (2017)	dub=6:1310096
 Lego Scooby-Doo! Hollywood Assombrada	dub=2:291858,8:291858
-Legítimo Rei	dub=2:190986,2:21022,8:190986,8:21022
+Legítimo Rei	dub=2:190986,8:190986,2:21022,8:21022
 Legítimo Rei (2018)	dub=6:1305710
 Leibniz - Chronik eines verschollenen Bildes	leg=2:363801,8:363801
 Leila Diniz	dub=2:382992,8:382992
@@ -340,13 +340,13 @@ Licença para Casar	dub=2:161537,8:161537
 Licença para Casar (2007)	dub=6:1305643
 Lick	leg=2:303578,8:303578
 Licoes Para Toda Vida	dub=2:99895,8:99895
-Licorice Pizza	dub=2:358145,2:358143,8:358145,8:358143	leg=2:358144,2:162569,8:358144,8:162569
+Licorice Pizza	dub=2:358143,8:358143,2:358145,8:358145	leg=2:358144,2:162569,8:358144,8:162569
 Licorice Pizza (2021)	leg=6:1306308
 Life Like Legendado	dub=2:24158,8:24158
 Life: Um Retrato de James Dean	dub=2:141518,8:141518
 Life: Um Retrato de James Dean (2015)	dub=6:1304374
 Lift Roubo nas Alturas (2024)	dub=6:1303083	leg=6:1303082
-Lift: Roubo nas Alturas	dub=2:246977,2:239844,8:246977,8:239844	leg=2:239843,8:239843
+Lift: Roubo nas Alturas	dub=2:246977,8:246977,2:239844,8:239844	leg=2:239843,8:239843
 Liga da Justica (2017)	dub=6:1297249
 Liga da Justica A Legiao do Mal (2012)	dub=6:1314257
 Liga da Justica Crise em Duas Terras (2010)	dub=6:1314453
@@ -354,25 +354,25 @@ Liga da Justica Crise nas Infinitas Terras Parte 1 (2024)	dub=6:1303509
 Liga da Justica Crise nas Infinitas Terras Parte 2 (2024)	dub=6:1303510
 Liga da Justica Mundo Bélico (2023)	leg=6:1301702
 Liga da Justica Sombria: Guerra de Apokolips (2020)	dub=6:1297837
-Liga da Justica de Zack Snyder	dub=2:100339,2:99896,2:99863,2:98764,8:100339,8:99896,8:99863,8:98764
+Liga da Justica de Zack Snyder	dub=2:99863,8:99863,2:100339,2:99896,2:98764,8:100339,8:99896,8:98764
 Liga da Justica vs. Jovens Titas (2016)	dub=6:1298520
-Liga da Justiça	dub=2:380472,2:100002,2:21490,8:380472,8:100002,8:21490	leg=2:380471,8:380471
+Liga da Justiça	dub=2:21490,8:21490,2:380472,2:100002,8:380472,8:100002	leg=2:380471,8:380471
 Liga da Justiça Sombria: Guerra de Apokolips	dub=2:318999,2:106850,8:318999,8:106850
 Liga da Justiça de Zack Snyder (2021)	dub=6:1313320	leg=6:1313319
-Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1	dub=2:193280,2:193278,8:193280,8:193278	leg=2:193279,8:193279
+Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1	dub=2:193280,8:193280,2:193278,8:193278	leg=2:193279,8:193279
 Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)	dub=6:1306978	leg=6:1306979
 Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 2	dub=2:223858,8:223858	leg=2:223857,8:223857
 Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 2 (2023)	dub=6:1309557	leg=6:1309558
 Liga da Justiça: A Nova Fronteira	dub=2:358825,8:358825	leg=2:358824,8:358824
 Liga da Justiça: Crise nas Infinitas Terras - Parte 1	leg=2:246204,8:246204
-Liga da Justiça: Crise nas Infinitas Terras - Parte 2	dub=2:257905,2:257781,8:257905,8:257781	leg=2:257787,8:257787
+Liga da Justiça: Crise nas Infinitas Terras - Parte 2	dub=2:257905,8:257905,2:257781,8:257781	leg=2:257787,8:257787
 Liga da Justiça: Crise nas Infinitas Terras - Parte 3 (2024)	dub=6:1309139
-Liga da Justiça: Crise nas Infinitas Terras - Parte Três	dub=2:273021,2:273020,8:273021,8:273020	leg=2:273022,8:273022
-Liga da Justiça: Crise nas Infinitas Terras - Parte Um	dub=2:239838,2:239835,8:239838,8:239835	leg=2:239836,8:239836
+Liga da Justiça: Crise nas Infinitas Terras - Parte Três	dub=2:273021,8:273021,2:273020,8:273020	leg=2:273022,8:273022
+Liga da Justiça: Crise nas Infinitas Terras - Parte Um	dub=2:239838,8:239838,2:239835,8:239835	leg=2:239836,8:239836
 Liga da Justiça: Deuses e Monstros	dub=2:358827,8:358827	leg=2:358826,8:358826
 Liga da Justiça: Guerra	dub=2:348807,8:348807	leg=2:348806,8:348806
 Liga da Justiça: Mundo Bélico	dub=2:205538,8:205538	leg=2:205537,8:205537
-Liga da Justiça: Os Cinco Fatais	dub=2:359203,2:358829,2:22036,8:359203,8:358829,8:22036	leg=2:358828,8:358828
+Liga da Justiça: Os Cinco Fatais	dub=2:359203,8:359203,2:358829,2:22036,8:358829,8:22036	leg=2:358828,8:358828
 Liga da Justiça: Os Cinco Fatais (2019)	dub=6:1308189	leg=6:1308190
 Liga da Justiça: Ponto de Ignição	dub=2:352915,8:352915	leg=2:352914,8:352914
 Liga da Justiça: Trono de Atlantis	dub=2:358831,8:358831	leg=2:358830,8:358830
@@ -387,7 +387,7 @@ Ligados Pelo Sangue (2020)	dub=6:1301379
 Ligados pelo Sangue	dub=2:381949,8:381949	leg=2:381948,8:381948
 Ligação Explosiva	dub=2:358140,2:180642,8:358140,8:180642	leg=2:358139,2:180640,8:358139,8:180640
 Ligação Explosiva (2021)	dub=6:1306168	leg=6:1306169
-Ligação Sombria	dub=2:292300,2:292299,8:292300,8:292299	leg=2:292301,8:292301
+Ligação Sombria	dub=2:292300,8:292300,2:292299,8:292299	leg=2:292301,8:292301
 Ligação Sombria (2023)	dub=6:1312366	leg=6:1312365
 Ligações Perigosas	dub=2:354233,8:354233	leg=2:354232,8:354232
 Ligações do Passado	dub=2:223381,8:223381	leg=2:223397,8:223397
@@ -396,7 +396,7 @@ Ligeiramente Gravidos (2007)	dub=6:1299913
 Light Of My Life	leg=2:98617,8:98617
 Lights Out	dub=2:248844,8:248844	leg=2:248845,8:248845
 Lights Out (2024)	dub=6:1303165	leg=6:1303164
-Lightyear	dub=2:168844,2:168843,8:168844,8:168843	leg=2:166227,8:166227
+Lightyear	dub=2:168843,8:168843,2:168844,8:168844	leg=2:166227,8:166227
 Lightyear (2022)	dub=6:1299764	leg=6:1299636
 Ligue Djá: O Lendário Walter Mercado	dub=2:62506,8:62506
 Ligue Djá: O Lendário Walter Mercado (2020)	dub=6:1308692
@@ -467,7 +467,7 @@ Lino Uma Aventura de Sete Vidas	dub=2:20383,8:20383
 Lino: Uma Aventura de Sete Vidas (2017)	dub=6:1310484
 Lion Uma Jornada Para Casa	dub=2:21023,8:21023
 Lion: Uma Jornada para Casa (2016)	dub=6:1300330
-Lisa Frankenstein	dub=2:287012,2:259007,8:287012,8:259007	leg=2:259008,2:252788,8:259008,8:252788
+Lisa Frankenstein	dub=2:287012,8:287012,2:259007,8:259007	leg=2:259008,2:252788,8:259008,8:252788
 Lisa Frankenstein (2024)	dub=6:1303583	leg=6:1303582
 Lisbela e o Prisioneiro	dub=2:134040,2:99897,8:134040,8:99897
 Lisbela e o Prisioneiro (2003)	dub=6:1304487
@@ -480,7 +480,7 @@ Little Brother	dub=8:384548	leg=8:384547
 Little Jaffna	leg=2:349772,8:349772
 Little Nick - Um Diabo Diferente	dub=2:371900,8:371900	leg=2:371899,8:371899
 Little Nick Um Diabo Diferente (2000)	dub=6:1302357
-Little Wing	dub=2:262349,2:262348,8:262349,8:262348	leg=2:262350,8:262350
+Little Wing	dub=2:262349,8:262349,2:262348,8:262348	leg=2:262350,8:262350
 Little Wing (2024)	dub=6:1304076	leg=6:1304075
 Liuben	leg=8:393726
 Live Is Life (2022)	dub=6:1299672
@@ -495,7 +495,7 @@ Livrando a Cara (2004)	dub=6:1309936	leg=6:1309937
 Livre (2016)	leg=6:1312850,6:1312877
 Livre Pensar	dub=2:223117,8:223117
 Livre Pensar (2019)	dub=6:1311069
-Livre: Encanto Criminal	dub=2:292420,2:292419,8:292420,8:292419	leg=2:292421,8:292421
+Livre: Encanto Criminal	dub=2:292420,8:292420,2:292419,8:292419	leg=2:292421,8:292421
 Livre: Encanto criminal (2024)	dub=6:1312381
 Livres Para Adorar - Mais Um Dia	dub=2:269948,8:269948
 Livres por Natureza (2011)	dub=6:1300075
@@ -513,9 +513,9 @@ Lições de Liberdade	dub=2:340972,8:340972	leg=2:340971,2:320686,8:340971,8:320
 Lições de Liberdade (2025)	dub=6:1313765
 Lições para Canalhas	dub=2:184075,8:184075	leg=2:184072,8:184072
 Lições para Canalhas (2022)	dub=6:1306202	leg=6:1306203
-Lobisomem	dub=2:313379,2:313378,8:313379,8:313378	leg=2:313380,8:313380
+Lobisomem	dub=2:313379,8:313379,2:313378,8:313378	leg=2:313380,8:313380
 Lobisomem (2025)	dub=6:1313132	leg=6:1313018
-Lobisomem na Noite	dub=2:179820,2:179772,8:179820,8:179772	leg=2:179768,8:179768
+Lobisomem na Noite	dub=2:179772,8:179772,2:179820,8:179820	leg=2:179768,8:179768
 Lobisomem na Noite (2022)	dub=6:1300188
 Lobisomem: A Besta Entre Nos (2012)	dub=6:1300982
 Lobisomens	dub=2:312761,8:312761	leg=2:312762,8:312762
@@ -524,7 +524,7 @@ Lobisomens do Terceiro Reich (2018)	dub=6:1300758
 Lobo Guerreiro (2015)	leg=6:1312828
 Lobo Guerreiro 2	dub=2:22529,8:387062,8:22529	leg=8:387061
 Lobo Guerreiro 2 (2017)	dub=6:1303488
-Lobos	dub=2:288364,2:288363,2:270415,8:288364,8:288363,8:270415	leg=2:288365,2:270416,8:288365,8:270416
+Lobos	dub=2:288364,8:288364,2:288363,2:270415,8:288363,8:270415	leg=2:288365,2:270416,8:288365,8:270416
 Lobos (2014)	dub=6:1303800
 Lobos (2022)	dub=6:1311631	leg=6:1311632
 Lobos (2024)	dub=6:1312193	leg=6:1312192
@@ -558,7 +558,7 @@ Longe do Paraíso	dub=2:194163,8:386806,8:194163
 Longe do Paraíso (2024)	dub=6:1306138
 Longe dos Homens	dub=2:111593,8:111593
 Longe dos Homens (2015)	dub=6:1307391
-Longlegs - Vínculo Mortal	dub=2:290763,2:290762,8:290763,8:290762	leg=2:290764,2:282091,8:290764,8:282091
+Longlegs - Vínculo Mortal	dub=2:290763,8:290763,2:290762,8:290762	leg=2:290764,2:282091,8:290764,8:282091
 Longlegs: Vinculo Mortal (2024)	dub=6:1312298	leg=6:1311921
 Look Back	dub=2:294260,8:294260	leg=2:294261,8:294261
 Look Back (2024)	dub=6:1312398
@@ -584,7 +584,7 @@ Los lobos	leg=2:148692,2:76666,8:148692,8:76666
 Los lobos (2020)	dub=6:1299214
 Lost Girls - Os Crimes de Long Island (2020)	dub=6:1297889
 Lost Girls And Love Hotels	leg=2:75658,2:73279,8:75658,8:73279
-Lost Girls: Os Crimes de Long Island	dub=2:192106,2:41567,8:192106,8:41567
+Lost Girls: Os Crimes de Long Island	dub=2:192106,8:192106,2:41567,8:41567
 Lost and Found in Armenia	leg=8:390149
 Lost on a Mountain in Maine	leg=2:302730,8:302730
 Loteria Fatal	dub=2:315327,8:315327	leg=2:315328,8:315328
@@ -694,7 +694,7 @@ Lua de Mel por Acidente (2017)	dub=6:1300372
 Lua de Sangue	dub=2:286621,8:286621	leg=2:286622,8:286622
 Luan Santana - Viva	dub=2:29106,8:29106
 Luan Santana: VIVA (2019)	dub=6:1308598
-Luca	dub=2:111615,2:111609,2:111459,8:111615,8:111609,8:111459
+Luca	dub=2:111615,2:111609,8:111615,8:111609,2:111459,8:111459
 Luca (2021)	dub=6:1298555
 Lucas Um Intruso no Formigueiro	dub=2:21246,8:21246
 Lucas, um Intruso no Formigueiro (2006)	dub=6:1297547
@@ -753,7 +753,7 @@ Lucky - Uma Mulher de Sorte	dub=2:133965,8:133965	leg=2:133974,8:133974
 Lucky Girl (2001)	leg=6:1312018
 Lucky Strike	leg=8:391156
 Lucky: Uma Mulher de Sorte (2020)	dub=6:1304643	leg=6:1304644
-Lucy	dub=2:23931,2:20087,8:23931,8:20087
+Lucy	dub=2:23931,8:23931,2:20087,8:20087
 Lucy (2014)	dub=6:1301262
 Lucy Must Be Traded, Charlie Brown	dub=2:324027,8:324027	leg=2:324026,8:324026
 Lucy in the Sky	dub=2:40531,8:40531
@@ -777,7 +777,7 @@ Lulli	dub=2:144862,8:144862
 Lulli (2021)	dub=6:1299093
 Lulu Live	dub=2:133086,8:133086
 Lulu Live (2021)	dub=6:1300237
-Lulu, a Rinoceronte	dub=2:365123,2:324456,8:365123,8:324456	leg=2:324455,8:324455
+Lulu, a Rinoceronte	dub=2:365123,8:365123,2:324456,8:324456	leg=2:324455,8:324455
 Lumberjack the Monster	leg=2:264728,8:264728
 Lumberjack the Monster (2023)	leg=6:1304981
 Lumière! A Aventura Continua	leg=2:372181,8:372181
@@ -789,7 +789,7 @@ Lupin III: O Primeiro (2019)	dub=6:1308561
 Luta Pela Fe: A Historia do Padre Stu (2022)	dub=6:1300093
 Luta Pela Fé	dub=2:85156,8:85156
 Luta Pela Fé (2019)	dub=6:1308570
-Luta Pela Fé: A História do Padre Stu	dub=2:163293,2:161515,2:161508,8:163293,8:161515,8:161508
+Luta Pela Fé: A História do Padre Stu	dub=2:163293,8:163293,2:161515,2:161508,8:161515,8:161508
 Luta Pela Liberdade (2010)	dub=6:1301295
 Luta Pela Liberdade (2021)	dub=6:1303973
 Luta Por Sobrevivência	dub=2:256325,8:256325	leg=8:256326
@@ -804,7 +804,7 @@ Luta pela Sobrevivência	dub=2:309737,8:309737	leg=2:309738,8:309738
 Luta pela Sobrevivência (2022)	dub=6:1313021
 Luta pela liberdade	dub=2:176788,8:176788	leg=2:176786,8:176786
 Luta por Justica (2019)	dub=6:1297740
-Luta por Justiça	dub=2:382460,2:341032,2:41625,8:382460,8:341032,8:41625	leg=2:382459,8:382459
+Luta por Justiça	dub=2:341032,8:341032,2:382460,2:41625,8:382460,8:41625	leg=2:382459,8:382459
 Luta por Liberdade	dub=2:203302,8:203302	leg=2:203289,8:203289
 Luta por Liberdade (2019)	dub=6:1306145	leg=6:1306146
 Luta por Vingança	dub=2:217003,8:217003	leg=2:217002,8:217002
@@ -828,7 +828,7 @@ Lutar, Lutar, Lutar (2021)	dub=6:1306552
 Lutero	dub=2:21024,8:21024
 Lutero (2003)	dub=6:1297299
 Luther O Cair da Noite (2023)	dub=6:1301019
-Luther: O Cair da Noite	dub=2:190771,2:188902,8:190771,8:188902	leg=2:188901,8:188901
+Luther: O Cair da Noite	dub=2:190771,8:190771,2:188902,8:188902	leg=2:188901,8:188901
 Luz Del Fuego	dub=8:386807
 Luz Fantasma	dub=2:371671,8:371671	leg=2:371670,8:371670
 Luz Luz Luz	leg=8:394748

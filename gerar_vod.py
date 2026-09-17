@@ -51,6 +51,11 @@ ADULTO = {"adulto", "xxx", "+18", "18+"}
 QUALIDADE = re.compile(r"\s*\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv)\b\s*²?", re.I)
 POR_PEDACO = 120
 
+# Ordem de preferência. Quem não anuncia nada fica no meio: costuma ser 1080p,
+# melhor que um "HD" declarado, que na prática é 720p.
+ORDEM_QUALIDADE = {"4k": 0, "uhd": 0, "hdr": 1, "fhd": 1, "": 2,
+                   "h265": 2, "hevc": 2, "dv": 2, "hd": 3, "sd": 4}
+
 
 def nome_do_extinf(linha):
     """O nome que vem depois dos atributos do `#EXTINF`.
@@ -77,7 +82,7 @@ def letra(titulo):
 
 
 def limpar(nome):
-    """Devolve (título, legendado, adulto). Marcador é versão, não título."""
+    """Devolve (título, legendado, adulto, qualidade). Marcador é versão."""
     ano_final = ANO_FIM.search(nome)
     ano = (ano_final.group(1) or ano_final.group(2)) if ano_final else ""
     marcadores = [m.strip().lower() for m in MARCADOR.findall(nome)]
@@ -93,7 +98,9 @@ def limpar(nome):
     # que duas refilmagens voltem a cair na mesma chave depois da limpeza.
     if ano and not ANO_FIM.search(titulo):
         titulo = f"{titulo} ({ano})"
-    return titulo, legendado, adulto
+    achada = QUALIDADE.search(nome)
+    qualidade = achada.group(1).lower() if achada else ""
+    return titulo, legendado, adulto, qualidade
 
 
 def separar_ano(titulo):
@@ -168,6 +175,9 @@ def main():
     filmes = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
     series = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
     reservado = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
+    # Fonte -> qualidade anunciada no nome. Só as que anunciam entram, então o
+    # arquivo fica pequeno o bastante para o app baixar inteiro de uma vez.
+    marcas = {}
     ignorados = 0
 
     for origem in ORIGENS:
@@ -192,11 +202,13 @@ def main():
                 ignorados += 1
                 continue
 
-            titulo, legendado, adulto = limpar(nome)
+            titulo, legendado, adulto, qualidade = limpar(nome)
             if not titulo:
                 continue
             versao = "leg" if legendado else "dub"
             curta = bases.encurtar(url)
+            if qualidade:
+                marcas[curta] = qualidade
 
             episodio = EPISODIO.match(titulo)
             if episodio:
@@ -220,6 +232,18 @@ def main():
                 registro["titulo"] = registro["titulo"] or exibido
                 if curta not in registro["versoes"][versao]:
                     registro["versoes"][versao].append(curta)
+
+    # A melhor primeiro: é a que todo app abre sem perguntar nada.
+    def por_qualidade(curta):
+        return ORDEM_QUALIDADE.get(marcas.get(curta, ""), 2)
+
+    for colecao in (filmes, reservado):
+        for registro in colecao.values():
+            for versao, lista in registro["versoes"].items():
+                registro["versoes"][versao] = sorted(lista, key=por_qualidade)
+    for registro in series.values():
+        for alvo, lista in registro["eps"].items():
+            registro["eps"][alvo] = sorted(lista, key=por_qualidade)
 
     SAIDA.mkdir(exist_ok=True)
     for antigo in SAIDA.glob("*.txt"):
@@ -288,6 +312,13 @@ def main():
             linha_busca += "\t" + registro["ano"]
         busca.append(linha_busca)
     (SAIDA / "busca.txt").write_text("\n".join(busca) + "\n", encoding="utf-8")
+
+    # Qualidade por fonte, para o app dizer qual é 4K e abrir a melhor. Fica
+    # num arquivo à parte de propósito: acrescentar a marca ao lado do endereço
+    # quebraria as versões já instaladas, que leem "base:resto" e mais nada.
+    (SAIDA / "marcas.txt").write_text(
+        "\n".join(f"{curta}\t{q}" for curta, q in sorted(marcas.items())) + "\n",
+        encoding="utf-8")
 
     indice_linhas = [f"base: {i} {b}" for i, b in enumerate(bases.lista)]
     for chave_letra in sorted(set(contagem_filmes) | set(contagem_series) | set(contagem_reservado)):

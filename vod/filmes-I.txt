@@ -13,7 +13,7 @@ I Swear	leg=2:372952,2:367087,8:372952,8:367087
 I Used to Be Funny	leg=2:267699,8:267699
 I Used to Be Funny (2024)	leg=6:1311548
 I Wanna Dance with Somebody A História de Whitney Houston (2022)	dub=6:1301524
-I Wanna Dance with Somebody: A História de Whitney Houston	dub=2:188214,2:187881,8:188214,8:187881	leg=2:187880,8:187880
+I Wanna Dance with Somebody: A História de Whitney Houston	dub=2:188214,8:188214,2:187881,8:187881	leg=2:187880,8:187880
 I Wish It Were You Eu Queria Que Fosse Voce	dub=8:389558
 I Wrote This For You	leg=2:62560,8:62560
 I'll Be Right There	dub=2:297088,8:297088	leg=2:297089,8:297089
@@ -24,7 +24,7 @@ I.S.S. (2024)	dub=6:1311233	leg=6:1311234
 II Guerra Mundial Filmes Perdidos: A Guerra no Ar	dub=2:344558,8:344558
 IO - O Ultimo na Terra	dub=2:21440,8:21440
 IO O Ultimo na Terra (2019)	dub=6:1297582
-IT: Capítulo Dois	dub=2:259078,2:31735,2:31734,8:259078,8:31735,8:31734
+IT: Capítulo Dois	dub=2:31735,2:31734,8:31735,8:31734,2:259078,8:259078
 IT: Capítulo Dois (2019)	dub=6:1297037
 Ibiúna, Primavera Brasileira	dub=2:242183,8:242183
 Ibiúna, Primavera Brasileira (2019)	dub=6:1311081
@@ -100,21 +100,21 @@ Ilusão de Morte (2002)	dub=6:1312422
 Ilusões Perdidas	dub=2:171358,8:171358	leg=2:171360,8:171360
 Ilusões Perdidas (2021)	dub=6:1306188	leg=6:1306189
 Ilusões Perigosas	dub=2:376920,8:376920
-Imaculada	dub=2:274964,2:273067,8:274964,8:273067	leg=2:273068,8:273068
+Imaculada	dub=2:274964,8:274964,2:273067,8:273067	leg=2:273068,8:273068
 Imaculada (2024)	dub=6:1309161	leg=6:1303423
 Imagens Do Alem (2008)	dub=6:1299745
 Imagens do Além	dub=2:319849,8:319849	leg=2:319848,8:319848
 Imagens do Inconsciente - Em Busca do Espaço Cotidiano	dub=2:324007,8:324007
 Imaginario: Brinquedo Diabolico (2024)	dub=6:1303300	leg=6:1303299
 Imagine Dragons - Rock in Rio (2024)	dub=6:1312137
-Imagine Dragons: Live in Vegas	dub=2:202800,2:202799,8:202800,8:202799	leg=2:202798,8:202798
+Imagine Dragons: Live in Vegas	dub=2:202799,8:202799,2:202800,8:202800	leg=2:202798,8:202798
 Imagine Dragons: Live in Vegas (2023)	dub=6:1305543	leg=6:1305544
 Imagine Eu e Você	dub=2:199219,8:199219
 Imagine Eu e Você (2006)	dub=6:1305596
 Imagine Só	dub=2:353661,2:230133,8:353661,8:230133	leg=2:353660,8:353660
 Imagine Só (2009)	dub=6:1309945
 Imaginem Só! (2008)	dub=6:1312508	leg=6:1312507
-Imaginário: Brinquedo Diabólico	dub=2:255254,2:255253,8:255254,8:255253	leg=2:255255,2:255022,8:255255,8:255022
+Imaginário: Brinquedo Diabólico	dub=2:255254,8:255254,2:255253,8:255253	leg=2:255255,2:255022,8:255255,8:255022
 Imersao (2022)	dub=6:1300788
 Imersão	dub=2:181094,8:181094	leg=2:181088,8:181088
 Imortais	dub=2:378027,2:94235,8:378027,8:94235	leg=2:378026,8:378026
@@ -125,12 +125,12 @@ Impacto Fulminante (1983)	dub=6:1307049
 Impacto Profundo	dub=2:20053,8:20053
 Impacto Profundo (1998)	dub=6:1311424
 Imparavel (2024)	dub=6:1312931	leg=6:1312930
-Imparável	dub=2:305581,2:305268,8:305581,8:305268	leg=2:305269,8:305269
+Imparável	dub=2:305581,8:305581,2:305268,8:305268	leg=2:305269,8:305269
 Impasse	dub=2:150739,8:150739	leg=2:150738,8:150738
 Impasse (2021)	dub=6:1301940
 Imperdoavel (2021)	dub=6:1299050
-Imperdoável	dub=2:147464,2:142956,8:147464,8:142956	leg=2:142954,8:142954
-Imperfeitamente Perfeita	dub=2:365780,2:365649,8:365780,8:365649	leg=2:365648,8:365648
+Imperdoável	dub=2:147464,8:147464,2:142956,8:142956	leg=2:142954,8:142954
+Imperfeitamente Perfeita	dub=2:365780,8:365780,2:365649,8:365649	leg=2:365648,8:365648
 Imperfeitamente Perfeita (2025)	dub=6:1314284
 Imperio Proibido	dub=2:98615,8:98615
 Imperio Proibido (2014)	dub=6:1303479
@@ -148,15 +148,15 @@ Impostores (2016)	dub=6:1301317
 Imprevisto de Natal	dub=2:352655,8:352655	leg=2:352654,8:352654
 Imprevisto de Natal (2021)	dub=6:1300410
 Imprisoned	leg=2:69943,8:69943
-Improvisação Perigosa	dub=2:328304,2:328253,8:328304,8:328253	leg=2:328252,8:328252
+Improvisação Perigosa	dub=2:328304,8:328304,2:328253,8:328253	leg=2:328252,8:328252
 Improvisação Perigosa (2025)	dub=6:1313596	leg=6:1313595
 Impulso	dub=2:297818,8:297818	leg=2:297819,8:297819
-ImpunIdade: As consequências da lei da maioridade penal no Brasil	dub=2:371171,2:370712,8:371171,8:370712
+ImpunIdade: As consequências da lei da maioridade penal no Brasil	dub=2:371171,8:371171,2:370712,8:370712
 Impuratus A Confissão do Diabo (2023)	dub=6:1303428
 Impuratus: A Confissão do Diabo	dub=2:256922,8:256922	leg=8:256923
 Impuros: O Filme	dub=2:212966,8:212966
 Impuros: O Filme (2019)	dub=6:1299736
-Império da Luz	dub=2:186787,2:186768,8:186787,8:186768	leg=2:186767,8:186767
+Império da Luz	dub=2:186787,8:186787,2:186768,8:186768	leg=2:186767,8:186767
 Império do Sol	dub=2:157971,8:157971
 Império dos Discos, Uma Loja Muito Louca	dub=2:330021,8:330021	leg=2:330020,8:330020
 Império dos Discos, Uma Loja Muito Louca (1995)	dub=6:1307159
@@ -189,7 +189,7 @@ Incisões Perigosas (2020)	dub=6:1311877	leg=6:1311876
 Incoerência	leg=2:372953,8:372953
 Incompatível	dub=2:312359,8:312359
 Incompatível (2022)	dub=6:1304096
-Incompatível com a Vida	dub=2:237183,2:237170,8:237183,8:237170
+Incompatível com a Vida	dub=2:237183,8:237183,2:237170,8:237170
 Incompatível com a Vida (2023)	dub=6:1309454
 Incontrolavel (2010)	dub=6:1298427
 Incontrolável	dub=2:92612,8:92612
@@ -207,7 +207,7 @@ Independence Day (1996)	dub=6:1299651
 Independence Day: O Ressurgimento	dub=2:91999,8:91999
 Independence Day: O Ressurgimento (2016)	dub=6:1299652
 Indiana Jones e A Reliquia do Destino (2023)	dub=6:1302901	leg=6:1302344
-Indiana Jones e A Relíquia do Destino	dub=2:230297,2:230281,8:230297,8:230281	leg=2:216986,8:216986
+Indiana Jones e A Relíquia do Destino	dub=2:230281,8:230281,2:230297,8:230297	leg=2:216986,8:216986
 Indiana Jones e a Ultima Cruzada (1989)	dub=6:1297330
 Indiana Jones e a Última Cruzada	dub=2:183748,8:183748
 Indiana Jones e o Reino da Caveira de Cristal	dub=2:157999,8:157999
@@ -272,19 +272,19 @@ Infiltrada no Natal	dub=2:89005,8:89005
 Infiltrada no Natal (2019)	dub=6:1308603
 Infiltrada: Golpe de Vingança	dub=2:198186,8:198186	leg=2:198187,8:198187
 Infiltrada: Golpe de Vingança (2022)	dub=6:1305241	leg=6:1305242
-Infiltrado	dub=2:276103,2:131098,2:131096,8:276103,8:131098,8:131096	leg=2:276104,2:131095,8:276104,8:131095
+Infiltrado	dub=2:131098,8:131098,2:276103,2:131096,8:276103,8:131096	leg=2:276104,2:131095,8:276104,8:131095
 Infiltrado (2021)	dub=6:1298861
 Infiltrado Na Klan (2018)	dub=6:1298450
 Infiltrado na Klan	dub=2:21441,8:21441
 Infiltrado na Máfia	dub=2:352973,8:352973	leg=2:352972,8:352972
-Infiltrados: Venezuela	dub=2:202609,2:202608,8:202609,8:202608	leg=2:202607,8:202607
+Infiltrados: Venezuela	dub=2:202608,8:202608,2:202609,8:202609	leg=2:202607,8:202607
 Infiltrados: Venezuela (2023)	dub=6:1305559
 Infiltration And Seduction The Lawyers Dangerous Pact	leg=8:389559
-Infinito	dub=2:119735,2:119732,8:119735,8:119732	leg=2:119730,8:119730
+Infinito	dub=2:119735,8:119735,2:119732,8:119732	leg=2:119730,8:119730
 Infinito (2021)	dub=6:1298661
-Influencer de Mentira	dub=2:168557,2:168527,8:168557,8:168527	leg=2:168554,8:168554
+Influencer de Mentira	dub=2:168527,8:168527,2:168557,8:168557	leg=2:168554,8:168554
 Influencer de Mentira (2022)	dub=6:1299722
-Influencer do Mal: A História de Jodi Hildebrandt	dub=2:359201,8:389190,8:359201	leg=2:359200,8:359200
+Influencer do Mal: A História de Jodi Hildebrandt	dub=8:389190,2:359201,8:359201	leg=2:359200,8:359200
 Influencers	leg=2:357781,8:357781
 Influência	dub=2:30402,8:30402
 Influência (2019)	dub=6:1308521
@@ -294,7 +294,7 @@ Infância	dub=2:375931,8:375931
 Infância Roubada	dub=2:328177,8:384212,8:328177	leg=2:328176,8:328176
 Infância Sombria	dub=2:357650,8:357650	leg=2:357647,8:357647
 Ingresso Para o Paraiso (2022)	dub=6:1300924
-Ingresso Para o Paraíso	dub=2:179745,2:178554,8:179745,8:178554	leg=2:178553,8:178553
+Ingresso Para o Paraíso	dub=2:179745,8:179745,2:178554,8:178554	leg=2:178553,8:178553
 Inheritance	dub=2:318615,8:318615	leg=2:318616,8:318616
 Iniciacao (2021)	dub=6:1300945
 Iniciação	dub=2:130245,8:387057,8:130245	leg=2:130250,8:387056,8:130250
@@ -324,7 +324,7 @@ Inimigos uma Historia de Amor (1989)	dub=6:1300076
 Inimigos Íntimos	dub=2:34186,8:34186
 Inimigos Íntimos (2018)	dub=6:1307927
 Injustice (2021)	dub=6:1298882
-Injustiça: Deuses Entre Nós	dub=2:314596,2:133986,8:314596,8:133986	leg=2:133997,8:133997
+Injustiça: Deuses Entre Nós	dub=2:314596,8:314596,2:133986,8:133986	leg=2:133997,8:133997
 Inocencia Roubada (2016)	dub=6:1303776
 Inocente ou Culpado?	dub=2:370340,8:370340	leg=2:370339,8:370339
 Inocência	dub=2:231336,8:231336	leg=2:231324,8:231324
@@ -355,7 +355,7 @@ Inspetor Zende	leg=2:343559,8:343559
 Inspiração de Natal	dub=2:230272,8:230272	leg=2:230282,8:230282
 Inspiração de Natal (2022)	dub=6:1309263	leg=6:1309264
 Instadocs: Alex Murdaugh, Unconvicted	dub=8:388667,8:388664,8:388660	leg=8:388659
-Instadocs: O Jogo dos Palpites	dub=8:388788,8:388786	leg=8:388787
+Instadocs: O Jogo dos Palpites	dub=8:388786,8:388788	leg=8:388787
 Instadocs: The Decoy Plane	dub=8:395219	leg=8:395218
 Instinct	dub=2:185267,8:185267
 Instinto	dub=2:94756,8:94756
@@ -364,7 +364,7 @@ Instinto (2019)	dub=6:1298325
 Instinto Assassino	dub=2:160427,8:160427	leg=2:160426,8:160426
 Instinto Assassino (2021)	dub=6:1306422	leg=6:1306423
 Instinto Fatal	dub=2:367823,8:367823	leg=2:367822,8:367822
-Instinto Materno	dub=2:383108,2:261646,2:261111,2:142426,8:383108,8:261646,8:261111,8:142426	leg=2:383107,2:261112,2:142419,8:383107,8:261112,8:142419
+Instinto Materno	dub=2:261646,8:261646,2:383108,2:261111,2:142426,8:383108,8:261111,8:142426	leg=2:383107,2:261112,2:142419,8:383107,8:261112,8:142419
 Instinto Materno (2019)	leg=6:1307886
 Instinto Materno (2022)	dub=6:1303524
 Instinto Materno (2024)	dub=6:1303728
@@ -382,14 +382,14 @@ Instinto Voraz (2024)	dub=6:1313426
 Inteligencia Humana (2026)	dub=6:1314440
 Inteligência Artificial: Ascensão das Máquinas	dub=2:378678,8:378678	leg=2:378677,8:378677
 Inteligência Artificial: Ascensão das Máquinas (2018)	dub=6:1312780
-Inteligência Humana	dub=2:372358,8:386190,8:372358	leg=2:372357,8:372357
+Inteligência Humana	dub=8:386190,2:372358,8:372358	leg=2:372357,8:372357
 Intenções Cruéis	dub=2:189524,8:189524	leg=2:189525,8:189525
 Intenções Perigosas	dub=2:309529,8:309529
 InterReflexões (2020)	leg=6:1308748
-Interceptor	dub=2:187161,2:161512,8:187161,8:161512	leg=2:161523,8:161523
+Interceptor	dub=2:187161,8:187161,2:161512,8:161512	leg=2:161523,8:161523
 Interceptor (2022)	dub=6:1306614	leg=6:1306615
 Intercâmbio de Casais	dub=2:348065,8:348065	leg=2:348064,8:348064
-Interestelar	dub=2:98396,2:21488,8:98396,8:21488
+Interestelar	dub=2:21488,8:21488,2:98396,8:98396
 Interestelar (2014)	dub=6:1297445
 Intermediário.com	dub=2:41200,8:41200
 Intermediário.com (2009)	dub=6:1307584
@@ -408,7 +408,7 @@ Intocáveis (2011)	dub=6:1301244
 Intriga Internacional	dub=8:391903	leg=8:391902
 Intrusion	dub=2:129581,8:129581	leg=2:129573,8:129573
 Intrusion (2021)	dub=6:1298923
-Intruso	dub=2:354225,2:238561,2:238560,8:354225,8:238561,8:238560	leg=2:238559,8:238559
+Intruso	dub=2:238560,8:238560,2:354225,2:238561,8:354225,8:238561	leg=2:238559,8:238559
 Intruso (2023)	dub=6:1303073	leg=6:1303072
 Inu-Oh	dub=2:223118,8:223118
 Inu-Oh (2022)	dub=6:1310858
@@ -419,7 +419,7 @@ InuYasha 4: Fogo na Ilha Mística (2004)	dub=6:1303344
 Inuyashiki (2018)	leg=6:1311882,6:1311891
 Invasao (2018)	dub=6:1302525
 Invasao Alienigena (2017)	dub=6:1303823
-Invasao Ao Servico Secreto	dub=2:103153,2:103152,8:103153,8:103152
+Invasao Ao Servico Secreto	dub=2:103152,8:103152,2:103153,8:103153
 Invasao Terrorista (2021)	dub=6:1303710,6:1303773
 Invasao Zumbi	dub=2:21756,8:21756
 Invasao Zumbi (2016)	dub=6:1298025
@@ -460,7 +460,7 @@ Invasão à Venezuela	dub=2:372417,8:372417	leg=2:372416,8:372416
 Invencivel (2014)	dub=6:1299077
 Invencivel (2025)	dub=6:1313536	leg=6:1313535
 Invencivel Caminho Da Redencao	dub=2:26145,8:26145
-Invencível	dub=2:323405,2:323403,2:227415,2:21011,8:323405,8:323403,8:227415,8:21011	leg=2:323404,8:323404
+Invencível	dub=2:323403,8:323403,2:323405,2:227415,2:21011,8:323405,8:227415,8:21011	leg=2:323404,8:323404
 Invencível (2006)	dub=6:1309598
 Invencível: Caminho da Redenção (2018)	dub=6:1308029
 Inventário de Imagens Perdidas	dub=2:381787,8:381787	leg=2:381786,8:381786
@@ -471,7 +471,7 @@ Inverno Rigoroso (2016)	dub=6:1310342	leg=6:1310343
 Inverno da Alma	dub=2:354226,8:354226
 Inverno de Sangue em Veneza	dub=2:307945,8:307945	leg=2:307946,8:307946
 Inverno em Chamas	dub=2:342751,8:342751	leg=2:342750,8:342750
-Investigando Lucy Letby	dub=2:365407,8:391438,8:365407	leg=2:365406,8:365406
+Investigando Lucy Letby	dub=8:391438,2:365407,8:365407	leg=2:365406,8:365406
 Invictus	dub=2:355730,2:21012,8:355730,8:21012	leg=2:355729,8:355729
 Invictus (2009)	dub=6:1298641
 Invisíveis	dub=2:197640,2:157426,8:197640,8:157426	leg=2:197641,2:157420,8:197641,8:157420
@@ -483,8 +483,8 @@ Invocacao do Mal 3: A Ordem do Demonio (2021)	dub=6:1298579	leg=6:1298483
 Invocacao do Mal 4 O Ultimo Ritual (2025)	dub=6:1313884	leg=6:1313883
 Invocação do Mal	dub=2:108620,8:108620
 Invocação do Mal 2	dub=2:108621,8:108621
-Invocação do Mal 3: A Ordem do Demônio	dub=2:112009,2:112008,8:385791,8:112009,8:112008
-Invocação do Mal 4: O Último Ritual	dub=2:379435,2:347178,8:379435,8:347178	leg=2:347177,8:347177
+Invocação do Mal 3: A Ordem do Demônio	dub=2:112009,8:112009,2:112008,8:385791,8:112008
+Invocação do Mal 4: O Último Ritual	dub=2:379435,8:379435,2:347178,8:347178	leg=2:347177,8:347177
 Involução (2018)	dub=6:1304026
 Io capitano	leg=2:246826,8:246826
 Ip Man O Mestre Do Kung Fu	dub=2:89737,8:89737
@@ -518,7 +518,7 @@ Irmã do Pecado (2015)	dub=6:1305664
 Irmão do Jorel - Especial Carnaval Bruttal (2022)	dub=6:1306882
 Irmão do Jorel Especial de Natal: Irmão do Noel	dub=2:181462,8:181462
 Irmão do Jorel: Especial Carnaval Bruttal	dub=2:151947,8:151947
-Irmãos	dub=2:290770,2:290769,8:290770,8:290769	leg=2:290771,8:290771
+Irmãos	dub=2:290770,8:290770,2:290769,8:290769	leg=2:290771,8:290771
 Irmãos Gêmeos	dub=2:199888,8:199888
 Irmãos Gêmeos (1988)	dub=6:1306902
 Irmãos Implacáveis	leg=2:352661,8:352661
@@ -526,7 +526,7 @@ Irmãos Inimigos	dub=2:119729,8:119729
 Irmãos Inimigos (1953)	leg=6:1310425
 Irmãos de Fé (2004)	dub=6:1308997
 Irmãos de Guerra	dub=2:237172,8:237172	leg=2:237165,8:237165
-Irmãos de Honra	dub=2:185257,2:185241,8:185257,8:185241	leg=2:185242,8:185242
+Irmãos de Honra	dub=2:185257,8:185257,2:185241,8:185241	leg=2:185242,8:185242
 Irmãos de Honra (2022)	dub=6:1306166	leg=6:1306167
 Irmãos de Orfanato	dub=2:367425,8:367425	leg=2:367424,8:367424
 Irmãos de Sangue	dub=2:340247,8:340247
@@ -555,7 +555,7 @@ Isabella o Caso Nardoni (2023)	dub=6:1302032
 Isabella: o Caso Nardoni	dub=2:209519,8:209519
 Isca	dub=2:277859,8:277859	leg=2:277860,8:277860
 Isca (2024)	dub=6:1312302	leg=6:1312301
-Isi & Ossi	dub=2:46140,2:35981,8:46140,8:35981
+Isi & Ossi	dub=2:46140,8:46140,2:35981,8:35981
 Isi & Ossi (2020)	dub=6:1297656
 Isolado Na Pandemia	dub=2:93481,8:93481
 Isolado na Pandemia (2020)	dub=6:1301864
@@ -594,7 +594,7 @@ Ivy e Bean: O Fantasma do Banheiro	dub=2:172027,8:172027	leg=2:172024,8:172024
 Ivy e Bean: O Fantasma do Banheiro (2022)	dub=6:1305370	leg=6:1305371
 Iwájú: Um Novo Dia	leg=2:366332,8:366332
 Izzy Lyon - O Rei do Giro	dub=2:297428,8:297428	leg=2:297429,8:297429
-iHostage	dub=2:364617,2:318604,8:364617,8:318604	leg=2:318605,8:318605
+iHostage	dub=2:364617,8:364617,2:318604,8:318604	leg=2:318605,8:318605
 iNumber Number O Ouro de Joanesburgo (2023)	dub=6:1301551
 iNumber Number: O Ouro de Joanesburgo	dub=2:199680,8:199680	leg=2:199681,8:199681
 Índia, a Filha do Sol	dub=8:390267

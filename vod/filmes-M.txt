@@ -4,9 +4,9 @@ M Butterfly (1993)	dub=6:1299572
 M-8: Quando a Morte Socorre a Vida	dub=2:96029,8:96029
 M-8: Quando a Morte Socorre a Vida (2019)	dub=6:1298326
 M. Butterfly	dub=2:138880,8:138880
-M3GAN	dub=2:188217,2:188215,8:188217,8:188215	leg=2:188216,8:188216
+M3GAN	dub=2:188215,8:188215,2:188217,8:188217	leg=2:188216,8:188216
 M3GAN (2022)	dub=6:1301027	leg=6:1301026
-M3GAN 2.0	dub=2:338426,2:338306,8:338426,8:338306	leg=2:338305,2:335235,8:338305,8:335235
+M3GAN 2.0	dub=2:338426,8:338426,2:338306,8:338306	leg=2:338305,2:335235,8:338305,8:335235
 MARIA (2023)	dub=6:1305535
 MASH	dub=2:337586,2:100407,8:337586,8:100407
 MASH (1970)	dub=6:1299917
@@ -16,7 +16,7 @@ MIB - Homens de Preto II (2002)	dub=6:1310780
 MIB Homens de Preto (1997)	dub=6:1297023
 MIB Homens de Preto 2 (2012)	dub=6:1297024
 MIB Homens de Preto 3 (2012)	dub=6:1297025
-MIB Homens de Preto: Internacional	dub=2:380568,2:337588,2:29565,2:29561,2:29553,8:380568,8:337588,8:29565,8:29561,8:29553	leg=2:380567,2:337587,8:380567,8:337587
+MIB Homens de Preto: Internacional	dub=2:29565,2:29561,8:29565,8:29561,2:380568,2:337588,2:29553,8:380568,8:337588,8:29553	leg=2:380567,2:337587,8:380567,8:337587
 MIB: Homens de Preto I	dub=2:21321,8:21321
 MIB: Homens de Preto II	dub=2:21322,8:21322
 MIB: Homens de Preto III	dub=2:21323,8:21323
@@ -24,10 +24,10 @@ MIB: Homens de Preto Internacional (2019)	dub=6:1297120
 MILF	dub=2:63107,8:63107
 MILF (2018)	dub=6:1307985
 MK Ultra: Controlando Mentes	dub=2:353748,8:353748	leg=2:353747,8:353747
-MMA - Meu Melhor Amigo	dub=2:316306,2:316236,8:316306,8:316236	leg=2:316759,8:316759
+MMA - Meu Melhor Amigo	dub=2:316306,8:316306,2:316236,8:316236	leg=2:316759,8:316759
 MMA - Meu Melhor Amigo (2025)	dub=6:1313356
 MR9: Missao Mortal (2023)	dub=6:1304195
-MST - Terra Prometida	dub=2:322815,2:322814,8:322815,8:322814
+MST - Terra Prometida	dub=2:322814,8:322814,2:322815,8:322815
 MST - Terra Prometida (2025)	dub=6:1313525
 MTV Europe Music Awards	dub=2:303579,8:303579
 MTV Video Music Awards	dub=2:304582,8:304582
@@ -75,7 +75,7 @@ Madalena (2021)	dub=6:1306470
 Madame Durocher	dub=2:352673,8:352673	leg=2:347676,8:347676
 Madame Sata (2002)	dub=6:1301501
 Madame Satã	dub=2:281484,8:281484
-Madame Teia	dub=2:253276,2:253275,8:253276,8:253275	leg=2:253277,8:253277
+Madame Teia	dub=2:253276,8:253276,2:253275,8:253275	leg=2:253277,8:253277
 Madame Teia (2024)	dub=6:1303245	leg=6:1303244
 Maddie's Secret	leg=8:392464
 Made in China (2014)	dub=6:1301972
@@ -189,7 +189,7 @@ Mais Que Demais Pra Mim (2021)	dub=6:1304226	leg=6:1304227
 Mais Que Especiais	dub=2:133970,8:133970	leg=2:133979,8:133979
 Mais Que Especiais (2019)	dub=6:1301931
 Mais Que Vencedor (2014)	dub=6:1311776
-Mais Um Tiro Certo	dub=2:310612,2:239812,8:310612,8:239812	leg=2:239813,8:239813
+Mais Um Tiro Certo	dub=2:310612,8:310612,2:239812,8:239812	leg=2:239813,8:239813
 Mais Um Tiro Certo (2024)	dub=6:1303078
 Mais Um Verao com Mamae	dub=2:93064,8:93064
 Mais Um Verão Com Mamãe (2020)	dub=6:1308390
@@ -224,7 +224,7 @@ Malasartes e o Duelo com a Morte (2017)	dub=6:1310285
 Malcolm & Marie	dub=2:94169,8:94169
 Malcolm X	dub=2:352221,2:134080,8:352221,8:134080	leg=2:352220,8:352220
 Malcolm X (1992)	dub=6:1304314
-Malcolm e Marie	dub=2:189923,2:189905,8:189923,8:189905	leg=2:189931,8:189931
+Malcolm e Marie	dub=2:189923,8:189923,2:189905,8:189905	leg=2:189931,8:189931
 Malcolm e Marie (2021)	dub=6:1298229
 Maldicao (2005)	dub=6:1300721
 Maldicao da Floresta (2021)	dub=6:1300388
@@ -237,7 +237,7 @@ Malditas Aranhas! (2002)	dub=6:1303389
 Maldito Futebol Fantasy	dub=2:340992,8:340992	leg=2:340991,8:340991
 Maldição da Escola Edelvine	dub=2:177214,8:177214	leg=2:177216,8:177216
 Maldição da Escola Edelvine (2021)	dub=6:1306113	leg=6:1306114
-Maldição da Múmia	dub=2:378991,2:378716,2:378715,2:378240,2:376712,8:378991,8:378716,8:378715,8:378240	leg=2:378239,8:378239
+Maldição da Múmia	dub=2:378991,2:378716,2:378715,8:378991,8:378716,8:378715,2:378240,2:376712,8:378240	leg=2:378239,8:378239
 Maldição de Crom: A Lenda do Halloween	dub=2:307309,8:307309	leg=2:307310,8:307310
 Maldição de Família	dub=2:310419,8:310419	leg=2:310420,8:310420
 Males (2025)	dub=6:1314224
@@ -258,7 +258,7 @@ Malum	dub=2:362258,8:362258	leg=2:362257,8:362257
 Malum (2023)	dub=6:1314235
 Malèna	dub=2:330496,8:330496
 Malévola (2014)	dub=6:1309236
-Malévola: Dona do Mal	dub=2:382462,2:317233,2:33384,2:33383,2:33382,8:382462,8:317233,8:33384,8:33383,8:33382	leg=2:382461,2:317234,8:382461,8:317234
+Malévola: Dona do Mal	dub=2:33384,2:33383,8:33384,8:33383,2:382462,2:317233,2:33382,8:382462,8:317233,8:33382	leg=2:382461,2:317234,8:382461,8:317234
 Malês	dub=2:361812,8:361812
 Malícia	dub=2:309533,2:108289,8:309533,8:108289	leg=2:309534,8:309534
 Malícia (1993)	dub=6:1307303
@@ -327,7 +327,7 @@ Manifest West	dub=2:246549,8:246549	leg=2:246550,8:246550
 Manjummel Boys	leg=2:373344,8:373344
 Mank	dub=2:100019,8:100019
 Mank (2020)	dub=6:1298380
-Manobra Arriscada	dub=2:279207,2:279206,8:279207,8:279206	leg=2:279208,8:279208
+Manobra Arriscada	dub=2:279207,8:279207,2:279206,8:279206	leg=2:279208,8:279208
 Manobra Arriscada (2024)	dub=6:1311831	leg=6:1311830
 Manobra Radical	dub=2:291882,8:291882	leg=2:291883,8:291883
 Manobras Radicais (2003)	dub=6:1298320
@@ -337,18 +337,18 @@ Manodrome	dub=2:249902,8:249902	leg=2:249903,8:249903
 Manodrome (2023)	dub=6:1303178
 Mansao Mal Assombrada (2023)	dub=6:1302576
 Mansao Mal-Assombrada (2003)	dub=6:1300276
-Mansão Mal-Assombrada	dub=2:380566,2:218892,2:218267,2:99898,8:380566,8:218892,8:218267,8:99898	leg=2:380565,2:218266,8:380565,8:218266
+Mansão Mal-Assombrada	dub=2:218892,8:218892,2:380566,2:218267,2:99898,8:380566,8:218267,8:99898	leg=2:380565,2:218266,8:380565,8:218266
 Mantis	dub=2:345449,8:345449	leg=2:345448,8:345448
 Mantis (2025)	dub=6:1313862
 Manual Para Um Assassinato (2023)	dub=6:1309517
 Manual Pratico da Vinganca Lucrativa (2026)	dub=6:1314490	leg=6:1314489
-Manual Prático da Vingança Lucrativa	dub=2:374629,2:374492,8:374629,8:374492	leg=2:374491,8:374491
+Manual Prático da Vingança Lucrativa	dub=2:374629,8:374629,2:374492,8:374492	leg=2:374491,8:374491
 Manual de Caca a Monstros (2020)	dub=6:1301555
 Manual de Caça a Monstros	dub=2:76693,8:76693
 Manufacturing Death: Birth of the Atom Bomb	leg=2:288574,8:288574
 Manutencao Necessaria (2025)	dub=6:1313891
 Manutenção Necessária	dub=2:347340,8:347340	leg=2:347339,8:347339
-Maníaco do Parque	dub=2:291162,2:291161,8:291162,8:291161	leg=2:291163,8:291163
+Maníaco do Parque	dub=2:291162,8:291162,2:291161,8:291161	leg=2:291163,8:291163
 Maos Talentosas A Historia de Ben Carson	dub=2:21027,8:21027
 Maos de Pedra A Historia Verdadeira de Roberto Duran (2016)	dub=6:1302367
 Mapa do Sexo (2020)	dub=6:1299916
@@ -364,7 +364,7 @@ Maquina Mortifera 4 (1998)	dub=6:1298523
 Maquina de Guerra (2026)	dub=6:1314373	leg=6:1314372
 Maquinas Assassinas	leg=2:216025,8:216025
 Maquinas Assassinas (2018)	dub=6:1303971
-Maquinas Mortais	dub=2:21491,2:21442,8:21491,8:21442
+Maquinas Mortais	dub=2:21491,8:21491,2:21442,8:21442
 Maquinas Mortais (2018)	dub=6:1297159
 Mar Aberto (2003)	dub=6:1302349
 Mar Brasileiro	dub=2:292268,8:292268
@@ -413,7 +413,7 @@ Marcas do Passado	dub=2:343970,2:319851,8:386809,8:343970,8:319851	leg=2:343969,
 Marcas do Passado (2006)	dub=6:1300301
 Marcas do Passado (2014)	dub=6:1307344
 Marcel a Concha de Sapatos (2022)	dub=6:1301623
-Marcel, a Concha de Sapatos	dub=2:192521,2:192508,8:192521,8:192508	leg=2:192507,8:192507
+Marcel, a Concha de Sapatos	dub=2:192521,8:192521,2:192508,8:192508	leg=2:192507,8:192507
 Marcelino Pão e Vinho	dub=2:379467,8:379467
 Marcello Mio	leg=2:341767,8:341767
 Marcelo D2: Lollapalooza Brasil (2024)	dub=6:1303265
@@ -486,7 +486,7 @@ Marmaduke	dub=2:322011,2:159823,8:322011,8:159823	leg=2:322012,2:159829,8:322012
 Marmaduke (2010)	dub=6:1310302
 Marmaduke (2022)	dub=6:1299392
 Marnie E Os Amigos	dub=2:48193,8:48193
-Mars Express	dub=2:281318,2:280613,8:281318,8:280613	leg=2:280614,8:280614
+Mars Express	dub=2:281318,8:281318,2:280613,8:280613	leg=2:280614,8:280614
 Marshall - Igualdade e Justica	dub=2:21030,8:21030
 Marshall: Igualdade e Justiça (2017)	dub=6:1310316	leg=6:1310317
 Marshmallow	leg=2:329641,8:329641
@@ -496,7 +496,7 @@ Marte Precisa de Mães	dub=2:347149,2:129546,8:347149,8:129546	leg=2:347148,8:34
 Marte Precisa de Mães (2011)	dub=6:1304475
 Marte Um	dub=2:185851,8:185851
 Marte Um (2022)	dub=6:1301284
-Martha	dub=2:297445,2:292302,8:297445,8:292302	leg=2:292303,8:292303
+Martha	dub=2:297445,8:297445,2:292302,8:292302	leg=2:292303,8:292303
 Martin Eden	leg=2:34748,8:34748
 Martin Eden (2019)	leg=6:1308414
 Martin Short: Uma Vida de Comédia	dub=2:377997,8:377997	leg=2:377996,8:377996
@@ -559,7 +559,7 @@ Mata Batin	leg=2:101177,8:101177
 Mata Batin 2	leg=2:101189,8:101189
 Mata-me de Prazer	dub=2:114399,8:114399
 Mata-me de Prazer (2002)	dub=6:1309820
-Matador de Aluguel	dub=2:254638,2:254637,8:386257,8:254638,8:254637	leg=2:254639,8:386256,8:254639
+Matador de Aluguel	dub=2:254638,8:254638,2:254637,8:386257,8:254637	leg=2:254639,8:386256,8:254639
 Matador de Aluguel (1989)	dub=6:1500978
 Matador de Aluguel (2024)	dub=6:1303249	leg=6:1303248
 Matador em Perigo	dub=2:109037,8:109037
@@ -593,11 +593,11 @@ Match do Amor	dub=2:363613,8:363613
 Mate ou Morra	dub=2:137605,8:137605	leg=2:137588,8:137588
 Mate ou Morra (2021)	dub=6:1299089
 Mate-a, se Conseguir	dub=2:354020,8:354020	leg=2:354019,8:354019
-Mate-me se Puder	dub=2:219167,2:218862,8:219167,8:218862	leg=2:218863,8:218863
+Mate-me se Puder	dub=2:219167,8:219167,2:218862,8:218862	leg=2:218863,8:218863
 Mate-me se Puder (2023)	dub=6:1309642	leg=6:1309643
 Matilda	dub=2:20669,8:20669
 Matilda (1996)	dub=6:1300277
-Matilda: O Musical	dub=2:184019,2:182913,8:184019,8:182913	leg=2:182910,8:182910
+Matilda: O Musical	dub=2:184019,8:184019,2:182913,8:182913	leg=2:182910,8:182910
 Matilda: O Musical (2022)	dub=6:1300861
 Matilha Voraz	dub=2:350389,8:350389	leg=2:350388,8:350388
 Matinee: Uma Sessão Muito Louca	dub=2:361821,8:361821	leg=2:361820,8:361820
@@ -605,7 +605,7 @@ Mato Seco em Chamas	dub=2:200805,8:200805
 Mato Seco em Chamas (2023)	dub=6:1306852
 Mato Sem Cachorro	dub=2:26447,8:26447
 Mato Sem Cachorro (2013)	dub=6:1299747
-Matrimilhas	dub=2:181452,8:251972,8:181452	leg=2:181449,8:181449
+Matrimilhas	dub=8:251972,2:181452,8:181452	leg=2:181449,8:181449
 Matrimilhas (2022)	dub=6:1300793
 Matrix	dub=2:88686,8:390181,8:88686	leg=8:390180
 Matrix (1999)	dub=6:1312691	leg=6:1312690
@@ -613,7 +613,7 @@ Matrix 2 Reloaded (2003)	dub=6:1312692
 Matrix 3 Revolutions (2003)	dub=6:1312694	leg=6:1312693
 Matrix 4 Resurrections (2021)	dub=6:1312696	leg=6:1312695
 Matrix Reloaded	dub=8:390183	leg=8:390182
-Matrix Resurrections	dub=2:146809,2:146808,8:390185,8:146809,8:146808	leg=2:144035,8:390184,8:144035
+Matrix Resurrections	dub=2:146809,8:146809,2:146808,8:390185,8:146808	leg=2:144035,8:390184,8:144035
 Matrix Revolutions	dub=2:88681,8:390187,8:88681	leg=8:390186
 Matt and Mara	leg=2:339407,8:339407
 Matter of Time	leg=2:365863,8:365863
@@ -624,7 +624,7 @@ Mau-olhado	dub=2:76695,8:76695
 Maudie: Sua Vida e Sua Arte	dub=2:339291,8:339291	leg=2:339290,8:339290
 Maudie: Sua Vida e Sua Arte (2016)	dub=6:1313337	leg=6:1313336
 Mauricio de Sousa O Filme (2025)	dub=6:1314145
-Mauricio de Sousa: O Filme	dub=2:357798,2:357797,2:357120,8:357798,8:357797,8:357120
+Mauricio de Sousa: O Filme	dub=2:357798,2:357797,8:357798,8:357797,2:357120,8:357120
 Maus Momentos no Hotel Royale	dub=2:22044,8:22044
 Maus Momentos no Hotel Royale (2018)	dub=6:1307758
 Maverick	dub=2:341061,2:105249,8:341061,8:105249	leg=2:341060,8:341060
@@ -744,7 +744,7 @@ Me Sinto Bem Com Voce (2021)	dub=6:1303381
 Me Sinto Bem com Você	dub=2:108690,8:108690
 Me Tira da Mira	dub=2:160412,8:160412
 Me Tira da Mira (2022)	dub=6:1299436
-Mea Culpa	dub=2:249795,8:249904,8:249795	leg=2:249796,8:249796
+Mea Culpa	dub=8:249904,2:249795,8:249795	leg=2:249796,8:249796
 Mea Culpa (2024)	dub=6:1303176
 Meal Ticket	leg=2:370684,8:370684
 Mean Spirited	dub=2:194205,8:194205
@@ -759,7 +759,7 @@ Medidas Desesperadas (1998)	dub=6:1302356
 Medidas Extremas	dub=2:267755,2:133799,8:267755,8:133799	leg=2:267756,8:267756
 Medidas Extremas (1996)	dub=6:1298865
 Medidas Extremas (2022)	dub=6:1311604	leg=6:1311605
-Medieval	dub=2:179786,2:179767,8:179786,8:179767	leg=2:179788,8:179788
+Medieval	dub=2:179767,8:179767,2:179786,8:179786	leg=2:179788,8:179788
 Medieval (2022)	dub=6:1300351
 Medo	dub=2:359056,2:319847,2:217555,8:359056,8:319847,8:217555	leg=2:359055,2:319874,8:359055,8:319874
 Medo (1996)	dub=6:1309320
@@ -809,10 +809,10 @@ Megarromantico	dub=2:21443,8:21443
 Megarromântico (2019)	dub=6:1310467
 Megaterremoto	dub=2:267757,8:267757	leg=2:267758,8:267758
 Megaterremoto (2023)	dub=6:1309082
-Megatubarao	dub=2:98635,2:98619,8:98635,8:98619
+Megatubarao	dub=2:98635,8:98635,2:98619,8:98619
 Megatubarao (2018)	dub=6:1297577
 Megatubarao 2 (2023)	dub=6:1302337	leg=6:1302251
-Megatubarão 2	dub=2:211630,2:211629,8:211630,8:211629	leg=2:211632,8:211632
+Megatubarão 2	dub=2:211630,8:211630,2:211629,8:211629	leg=2:211632,8:211632
 Meia Irma	dub=2:87121,8:87121
 Meia Noite e Um (1993)	dub=6:1304308
 Meia Noite e um	dub=2:130267,8:130267
@@ -884,7 +884,7 @@ Memórias de uma Gueixa	dub=2:207702,8:207702
 Memórias de uma Gueixa (2005)	dub=6:1309928
 Men Faces do Medo (2022)	dub=6:1303453
 Men In Black International Legendado	dub=2:28285,8:28285
-Men: Faces do Medo	dub=2:179813,2:178855,8:179813,8:178855	leg=2:178842,8:178842
+Men: Faces do Medo	dub=2:179813,8:179813,2:178855,8:178855	leg=2:178842,8:178842
 Menarca	dub=2:249252,8:249252
 Menarca (2020)	dub=6:1311019
 Menashe (2017)	dub=6:1302373
@@ -894,7 +894,7 @@ Menina Dos Olhos	dub=2:330402,8:330402	leg=2:330401,8:330401
 Menina Dos Olhos (2017)	dub=6:1310415	leg=6:1310416
 Menina de Ouro	dub=2:120676,2:25102,8:120676,8:25102
 Menina de Ouro (2004)	dub=6:1300021
-Meninas Malvadas	dub=2:250699,2:250698,2:20704,8:250699,8:250698,8:20704	leg=2:250700,8:250700
+Meninas Malvadas	dub=2:250699,8:250699,2:250698,2:20704,8:250698,8:20704	leg=2:250700,8:250700
 Meninas Malvadas (2004)	dub=6:1298302
 Meninas Malvadas (2024)	dub=6:1303191	leg=6:1303190
 Meninas Malvadas 2	dub=2:20703,8:20703
@@ -935,7 +935,7 @@ Mentira Incondicional	dub=2:75043,8:75043
 Mentira Incondicional (2018)	dub=6:1298494,6:1301128
 Mentira Nada Inocente	dub=2:223091,8:223091	leg=2:223083,8:223083
 Mentira Nada Inocente (2019)	leg=6:1308388
-Mentiras Perigosas	dub=2:46142,2:44607,8:46142,8:44607
+Mentiras Perigosas	dub=2:46142,8:46142,2:44607,8:44607
 Mentiras Perigosas (2020)	dub=6:1297880
 Mentiras Secretas	dub=2:191477,8:191477	leg=2:191482,8:191482
 Mentiras Secretas (2022)	dub=6:1306478	leg=6:1306479
@@ -954,17 +954,17 @@ Mercenário (2017)	dub=6:1307816
 Mercy	leg=2:202578,8:202578
 Mercy Black	dub=2:129531,8:129531	leg=2:92016,8:92016
 Mercy Golpe de Misericórdia (2023)	dub=6:1302805
-Mercy: Golpe de Misericórdia	dub=2:227017,2:226083,8:227017,8:226083	leg=2:226073,8:226073
-Mergulhando no Amor	dub=2:295391,2:274996,8:295391,8:274996	leg=2:274997,8:274997
+Mercy: Golpe de Misericórdia	dub=2:227017,8:227017,2:226083,8:226083	leg=2:226073,8:226073
+Mergulhando no Amor	dub=2:295391,8:295391,2:274996,8:274996	leg=2:274997,8:274997
 Mergulhando no Amor (2024)	dub=6:1309158	leg=6:1309157
 Mergulho	dub=2:182626,8:182626	leg=2:182623,8:182623
 Mergulho (2022)	dub=6:1305424	leg=6:1305425
-Mergulho Noturno	dub=2:253539,2:252064,8:253539,8:252064	leg=2:246436,8:246436
+Mergulho Noturno	dub=2:253539,8:253539,2:252064,8:252064	leg=2:246436,8:246436
 Mergulho Noturno (2024)	dub=6:1303220
 Mergulho Profundo	dub=8:388693	leg=8:388692
 Mergulho Radical	dub=2:20103,8:20103
 Mergulho Radical (2005)	dub=6:1302961
-Merv	dub=2:357799,2:356898,8:357799,8:356898	leg=2:356897,8:356897
+Merv	dub=2:357799,8:357799,2:356898,8:356898	leg=2:356897,8:356897
 Merv (2025)	dub=6:1314136
 Mesa Maldita	dub=2:345061,8:345061	leg=2:345060,8:345060
 Mesa para Quatro	dub=2:145920,8:145920	leg=2:145923,8:145923
@@ -980,10 +980,10 @@ Mestre Z: O Legado de Ip Man (2018)	dub=6:1307777
 Mestre do Disfarce (2002)	dub=6:1309804
 Mestre dos Mares - O Lado Mais Distante do Mundo	dub=2:45120,8:394521,8:45120	leg=8:394520
 Mestre dos Mares: O Lado Mais Distante do Mundo (2003)	dub=6:1300724
-Mestres do Assalto	dub=2:316913,2:316912,8:316913,8:316912	leg=2:316914,8:316914
+Mestres do Assalto	dub=2:316913,8:316913,2:316912,8:316912	leg=2:316914,8:316914
 Mestres do Assalto (2025)	dub=6:1313390
 Mestres do Cinema Indiano: SS Rajamouli	leg=2:282101,8:282101
-Mestres do Universo	dub=2:382562,2:365262,8:388434,8:388433,8:388391,8:382562,8:365262	leg=2:382561,2:365261,8:388293,8:382561,8:365261
+Mestres do Universo	dub=8:388433,8:388391,2:382562,2:365262,8:388434,8:382562,8:365262	leg=2:382561,2:365261,8:388293,8:382561,8:365261
 Mestres do Universo (2026)	dub=6:1501236	leg=6:1501235
 Metal Lords	dub=2:157421,8:157421	leg=2:157425,8:157425
 Metal Lords (2022)	dub=6:1306361	leg=6:1306362
@@ -993,7 +993,7 @@ Metaleiros de Jesus (2020)	dub=6:1306350	leg=6:1306351
 Metalocalypse: Army of the Doomstar	dub=2:255988,8:255988	leg=2:255989,8:255989
 Metalocalypse: Army of the Doomstar (2023)	dub=6:1311332	leg=6:1311333
 Metamorphosis	leg=2:73281,8:73281
-Metas de Relacionamento	dub=2:365651,2:365404,8:365651,8:365404	leg=2:365403,8:365403
+Metas de Relacionamento	dub=2:365651,8:365651,2:365404,8:365404	leg=2:365403,8:365403
 Metas de Relacionamento (2026)	dub=6:1314297
 Meteoro: A Fuga	dub=2:140497,8:140497
 Meteoro: O Fim dos Tempos	dub=2:278688,8:278688	leg=2:278689,8:278689
@@ -1006,10 +1006,10 @@ Meu Amigaozao O Filme (2022)	dub=6:1301670
 Meu Amigo Dahmer	dub=2:45099,8:45099
 Meu Amigo Dino	dub=8:394123	leg=8:394126
 Meu Amigo Dino: Retorno ao Mundo Perdido	dub=8:394122	leg=8:394124
-Meu Amigo Enzo	dub=2:341036,2:340467,2:210389,2:30663,8:341036,8:340467,8:210389,8:30663	leg=2:340466,8:340466
+Meu Amigo Enzo	dub=2:341036,2:210389,8:341036,8:210389,2:340467,2:30663,8:340467,8:30663	leg=2:340466,8:340466
 Meu Amigo Enzo (2019)	dub=6:1297575
 Meu Amigo Harvey	dub=2:350994,8:350994	leg=2:350993,8:350993
-Meu Amigo Lutcha	dub=2:208206,2:191128,8:208206,8:191128	leg=2:191448,8:191448
+Meu Amigo Lutcha	dub=2:208206,8:208206,2:191128,8:191128	leg=2:191448,8:191448
 Meu Amigo Lutcha (2023)	dub=6:1301087
 Meu Amigo Nietzsche	dub=8:393694
 Meu Amigo Ninja	dub=2:198720,8:198720	leg=2:182899,8:182899
@@ -1037,7 +1037,7 @@ Meu Amor e um Principe (2017)	dub=6:1301885
 Meu Amor É Um Príncipe	dub=2:31449,8:31449
 Meu Anjo (2018)	leg=6:1307939
 Meu Ano em Nova York (2020)	leg=6:1308583
-Meu Ano em Oxford	dub=2:341037,2:337418,8:341037,8:337418	leg=2:337417,8:337417
+Meu Ano em Oxford	dub=2:341037,8:341037,2:337418,8:337418	leg=2:337417,8:337417
 Meu Ano em Oxford (2025)	dub=6:1313709
 Meu Avô Stanislau	dub=2:365296,8:365296
 Meu Bebe (2019)	dub=6:1297471
@@ -1054,14 +1054,14 @@ Meu Coração Só Irá Bater Se Você Pedir	dub=2:297092,2:195617,8:297092,8:195
 Meu Coração Só Irá Bater Se Você Pedir (2020)	dub=6:1306260	leg=6:1306261
 Meu Coração é um Pouco Mais Vazio na Cheia	dub=8:386258
 Meu Corpo, Minha Vida	dub=2:366101,8:366101
-Meu Cunhado é Um Vampiro	dub=2:239788,2:235501,8:239788,8:235501
+Meu Cunhado é Um Vampiro	dub=2:239788,8:239788,2:235501,8:235501
 Meu Cunhado é Um Vampiro (2023)	dub=6:1309697
 Meu Elefante da Sorte (2013)	dub=6:1302064
 Meu Eterno Primeiro Amor	dub=2:176809,2:107000,8:176809,8:107000	leg=2:176807,8:176807
 Meu Eterno Primeiro Amor (2020)	dub=6:1303539
-Meu Eterno Talvez	dub=2:189907,2:24162,8:189907,8:24162
+Meu Eterno Talvez	dub=2:189907,8:189907,2:24162,8:24162
 Meu Eterno Talvez (2019)	dub=6:1305779
-Meu Eu do Futuro	dub=2:329195,2:328958,8:329195,8:328958	leg=2:328957,2:294169,8:328957,8:294169
+Meu Eu do Futuro	dub=2:329195,8:329195,2:328958,8:328958	leg=2:328957,2:294169,8:328957,8:294169
 Meu Eu do Futuro (2024)	dub=6:1313869	leg=6:1312387
 Meu Ex e um Espiao	dub=2:20104,8:20104
 Meu Ex e um Espiao (2018)	dub=6:1297759
@@ -1073,7 +1073,7 @@ Meu Filho Nosso Mundo (2024)	dub=6:1312236	leg=6:1311947
 Meu Filho O Estuprador (1995)	dub=6:1302372
 Meu Filho e Eu	dub=2:338601,8:338601	leg=2:338600,8:338600
 Meu Filho e Eu (2016)	dub=6:1312863
-Meu Filho, Nosso Mundo	dub=2:294126,2:288576,8:294126,8:288576	leg=2:288577,8:288577
+Meu Filho, Nosso Mundo	dub=2:294126,8:294126,2:288576,8:288576	leg=2:288577,8:288577
 Meu Filho, O Estuprador	dub=2:338603,8:338603	leg=2:338602,8:338602
 Meu Irmão e Eu	leg=2:284331,2:266655,8:284331,8:266655
 Meu Irmão e Eu (2023)	leg=6:1309243
@@ -1090,7 +1090,7 @@ Meu Malvado Favorito 2	dub=2:21407,8:21407
 Meu Malvado Favorito 2 (2013)	dub=6:1298583
 Meu Malvado Favorito 3	dub=2:21408,8:21408
 Meu Malvado Favorito 3 (2017)	dub=6:1298584
-Meu Malvado Favorito 4	dub=2:281510,2:281509,8:281510,8:281509	leg=2:281511,8:281511
+Meu Malvado Favorito 4	dub=2:281510,8:281510,2:281509,8:281509	leg=2:281511,8:281511
 Meu Malvado Favorito 4 (2024)	dub=6:1311897	leg=6:1311896
 Meu Marciano Favorito (1999)	dub=6:1312538
 Meu Marido Bilionario De Duas Caras	leg=8:389577
@@ -1108,7 +1108,7 @@ Meu Monstro de Estimação	dub=2:92020,8:92020
 Meu Namorado Fake	dub=2:162023,2:162022,8:162023,8:162022
 Meu Namorado Fake (2022)	dub=6:1299628
 Meu Namorado e um Zumbi (2013)	dub=6:1299823
-Meu Nome Era Eileen	dub=2:267629,2:255567,8:267629,8:255567	leg=2:255568,8:255568
+Meu Nome Era Eileen	dub=2:267629,8:267629,2:255567,8:255567	leg=2:255568,8:255568
 Meu Nome Era Eileen (2023)	dub=6:1303373	leg=6:1303372
 Meu Nome Nao E Johnny	dub=2:24937,8:24937
 Meu Nome Não é Johnny (2008)	dub=6:1309896
@@ -1121,7 +1121,7 @@ Meu Nome e Ray (2016)	dub=6:1299515
 Meu Nome e Vinganca (2022)	dub=6:1300682
 Meu Nome É Emily	dub=2:35265,8:35265
 Meu Nome É Emily (2016)	dub=6:1307525
-Meu Nome é Agneta	dub=2:376602,2:376517,8:376602,8:376517	leg=2:376516,8:376516
+Meu Nome é Agneta	dub=2:376602,8:376602,2:376517,8:376517	leg=2:376516,8:376516
 Meu Nome é Bagdá	dub=2:157963,8:157963
 Meu Nome é Bagdá (2021)	dub=6:1306181
 Meu Nome é Chihiro	dub=2:187855,8:187855	leg=2:187854,8:187854
@@ -1136,7 +1136,7 @@ Meu Nome é Greta (2020)	dub=6:1311057	leg=6:1311058
 Meu Nome é Jeeg Robot	dub=2:330026,8:330026	leg=2:330025,8:330025
 Meu Nome é Khan	dub=2:264150,8:264150
 Meu Nome é Khan (2010)	dub=6:1310069
-Meu Nome é Loh Kiwan	dub=2:251176,8:392669,8:251176	leg=2:251177,8:251177
+Meu Nome é Loh Kiwan	dub=8:392669,2:251176,8:251176	leg=2:251177,8:251177
 Meu Nome é Loh Kiwan (2024)	dub=6:1303199
 Meu Nome é Maria	leg=2:324544,8:324544
 Meu Nome é Ninguém	dub=2:370344,2:20706,8:370344,8:20706
@@ -1153,7 +1153,7 @@ Meu Não Tão Perfeito Marido (2019)	dub=6:1308641
 Meu Odio Sera Sua Heranca (1969)	dub=6:1299317
 Meu Padrasto Malvado	dub=2:48266,8:48266
 Meu Padrasto Malvado (2019)	dub=6:1308479
-Meu Pai	dub=2:101187,2:101178,8:101187,8:101178
+Meu Pai	dub=2:101187,8:101187,2:101178,8:101178
 Meu Pai (2020)	dub=6:1298394	leg=6:1298377
 Meu Pai E O Magnata Misterioso	leg=8:389579
 Meu Pai Trabalha Como Seguranca	leg=8:389580
@@ -1171,7 +1171,7 @@ Meu País (2011)	dub=6:1307051
 Meu Pedaço de Terra	dub=2:242160,2:242159,8:242160,8:242159
 Meu Pedaço de Terra (2022)	dub=6:1311505	leg=6:1311506
 Meu Pobre Esposo E Bilionario	dub=8:389581
-Meu Policial	dub=2:179783,2:178829,8:179783,8:178829	leg=2:178808,8:178808
+Meu Policial	dub=2:179783,8:179783,2:178829,8:178829	leg=2:178808,8:178808
 Meu Policial (2022)	dub=6:1300350
 Meu Porto Seguro	dub=2:155718,8:155718	leg=2:155725,8:155725
 Meu Porto Seguro (2022)	dub=6:1301712
@@ -1193,9 +1193,9 @@ Meu Próprio Filho (2026)	dub=6:1502276
 Meu Psicologo Imaginario (2021)	dub=6:1302376
 Meu Psicólogo Imaginário	dub=2:161522,2:161518,8:161522,8:161518
 Meu Pé de Laranja Lima	dub=2:358834,8:358834
-Meu Querido Assassino	dub=2:378014,2:377102,8:378014,8:377102	leg=2:377101,8:377101
+Meu Querido Assassino	dub=2:378014,8:378014,2:377102,8:377102	leg=2:377101,8:377101
 Meu Querido Assassino (2026)	dub=6:1314563
-Meu Querido Bobby: Era Tudo uma Farsa	dub=2:291164,8:394747,8:291164
+Meu Querido Bobby: Era Tudo uma Farsa	dub=8:394747,2:291164,8:291164
 Meu Querido Bobby: Era Tudo uma Farsa (2024)	dub=6:1312308
 Meu Querido Demônio	dub=2:319000,8:319000
 Meu Querido Elfo (2019)	dub=6:1299501
@@ -1241,7 +1241,7 @@ Meus Heróis Eram Cowboys	dub=2:128888,2:128875,8:128888,8:128875
 Meus Irmãos	dub=2:229142,8:229142	leg=2:229141,8:229141
 Meus Irmãos (2018)	dub=6:1310621	leg=6:1310622
 Meus Sogros Tao pro Crime (2023)	dub=6:1301588
-Meus Sogros Tão pro Crime	dub=2:370725,2:202582,2:202002,8:370725,8:202582,8:202002	leg=2:370724,2:202003,8:370724,8:202003
+Meus Sogros Tão pro Crime	dub=2:202582,8:202582,2:370725,2:202002,8:370725,8:202002	leg=2:370724,2:202003,8:370724,8:202003
 Meus Tios Magnatas Me Mimam	leg=8:389582
 Meus Vizinhos Sao um Terror	dub=2:20709,8:20709
 Meus Vizinhos São um Terror (1989)	dub=6:1304058
@@ -1252,13 +1252,13 @@ Mexida (2024)	dub=6:1303885
 Mi mejor escena	leg=8:395859
 Miami Vice	dub=2:198532,8:385794,8:198532	leg=8:385793
 Miami Vice (2006)	dub=6:1301814
-Michael	dub=2:382542,2:382530,2:381984,8:382542,8:382530,8:381984	leg=2:381983,8:381983
+Michael	dub=2:382542,2:382530,8:382542,8:382530,2:381984,8:381984	leg=2:381983,8:381983
 Michael (2026)	dub=6:1314627	leg=6:1314626
 Michael Anjo e Sedutor (1996)	dub=6:1302258
 Michael Jackson's This Is It	leg=2:307737,8:307737
 Michael Jackson's: This is It (2009)	leg=6:1309786
 Michigan Hell House	dub=2:328507,8:328507	leg=2:328506,8:328506
-Mickey 17	dub=2:318104,2:317721,8:318104,8:317721	leg=2:317697,8:317697
+Mickey 17	dub=2:318104,8:318104,2:317721,8:317721	leg=2:317697,8:317697
 Mickey 17 (2025)	dub=6:1313409	leg=6:1313408
 Mickey Salva o Natal	dub=2:182287,8:182287	leg=2:182284,8:182284
 Mickey Salva o Natal (2022)	dub=6:1305427	leg=6:1305428
@@ -1273,14 +1273,14 @@ Midnight in the Switchgrass	leg=2:115495,8:115495
 Midsommar: O Mal Não Espera a Noite	dub=2:32243,8:383347,8:32243	leg=8:383346
 Midsommar: O Mal Não Espera a Noite (2019)	dub=6:1308150
 Midway	leg=2:35266,8:35266
-Midway - Batalha em Alto Mar	dub=2:35983,2:35982,8:35983,8:35982
+Midway - Batalha em Alto Mar	dub=2:35983,8:35983,2:35982,8:35982
 Midway Batalha em Alto Mar (2019)	dub=6:1302375
 Midwinter Break	dub=8:386607	leg=8:386608
 Migrações Animais Épicas: Patagônia	leg=2:246430,8:246430
 Migrações Animais Épicas: Patagônia (2023)	leg=6:1309620
 Miguel Angel Blanco The 48 Hours That Changed Spain	leg=8:386716
 Mikaela	dub=2:376734,8:376734	leg=2:376733,2:325913,8:376733,8:325913
-Mike & Nick & Nick & Alice	dub=2:372418,2:371511,8:372418,8:371511	leg=2:371510,8:371510
+Mike & Nick & Nick & Alice	dub=2:372418,8:372418,2:371511,8:371511	leg=2:371510,8:371510
 Mike Birbiglia: The Good Life	leg=2:323715,8:323715
 Mike Epps: Sem Noção	leg=2:364619,8:364619
 Mike Nick Nick Alice (2026)	dub=6:1314420
@@ -1334,7 +1334,7 @@ Minari - Em Busca da Felicidade	dub=2:126543,8:126543	leg=2:126542,8:126542
 Minari: Em Busca da Felicidade (2021)	dub=6:1310799	leg=6:1310800
 Mind Body Spirit	leg=2:286606,8:286606
 Mind Body Spirit (2023)	leg=6:1312105
-Mindcage	dub=2:185170,2:185169,8:185170,8:185169	leg=2:185168,8:185168
+Mindcage	dub=2:185169,8:185169,2:185170,8:185170	leg=2:185168,8:185168
 Mine 9	leg=2:33387,8:33387
 Mineirinho, Vivo ou Morto	dub=2:348808,8:348808
 Minha Amada Imortal	dub=2:98819,8:98819
@@ -1353,9 +1353,9 @@ Minha Casa	dub=2:204446,8:204446	leg=2:204452,8:204452
 Minha Casa (2023)	dub=6:1301639
 Minha Casa Rosa	dub=2:22045,8:22045
 Minha Casa Rosa (2018)	dub=6:1310471
-Minha Culpa	dub=2:198192,2:197639,8:198192,8:197639	leg=2:197638,8:197638
+Minha Culpa	dub=2:198192,8:198192,2:197639,8:197639	leg=2:197638,8:197638
 Minha Culpa (2023)	dub=6:1301493
-Minha Culpa: Londres	dub=2:310765,2:310613,8:310765,8:310613	leg=2:310614,8:310614
+Minha Culpa: Londres	dub=2:310765,8:310765,2:310613,8:310613	leg=2:310614,8:310614
 Minha Culpa: Londres (2025)	dub=6:1313041	leg=6:1313040
 Minha Estranha Família	dub=2:233509,8:233509	leg=2:233514,8:233514
 Minha Estranha Família (2021)	dub=6:1311128	leg=6:1311129
@@ -1408,7 +1408,7 @@ Minha Querida Nora (2020)	dub=6:1308662
 Minha Querida Oni	dub=2:262353,8:262353	leg=2:262354,8:262354
 Minha Querida Oni (2024)	dub=6:1304070
 Minha Querida Primeira Dama (2016)	dub=6:1299922
-Minha Querida Senhorita	dub=2:376724,2:376604,8:376724,8:376604	leg=2:376603,8:376603
+Minha Querida Senhorita	dub=2:376724,8:376724,2:376604,8:376604	leg=2:376603,8:376603
 Minha Rainha Tregua Nunca Mais	leg=8:389590
 Minha Solidao Tem Asas (2023)	dub=6:1303094
 Minha Solidão Tem Asas	dub=2:241787,2:241786,8:241787,8:241786
@@ -1456,7 +1456,7 @@ Minions (2015)	dub=6:1299962
 Minions 2: A Origem de Gru (2022)	dub=6:1299824
 Minions Curta: Ajudantes do Papai Noel (2019)	dub=6:1310709
 Minions Curta: Amarelo é o Novo Preto (2018)	dub=6:1310668
-Minions: A Origem de Gru	dub=2:169766,2:169695,8:169766,8:169695	leg=2:169699,8:169699
+Minions: A Origem de Gru	dub=2:169695,8:169695,2:169766,8:169766	leg=2:169699,8:169699
 Minor Premise	leg=2:89582,8:89582
 Minority Report: A Nova Lei	dub=2:98252,8:98252
 Minority Report: A Nova Lei (2002)	dub=6:1297625
@@ -1565,11 +1565,11 @@ Missão Para Salvar o Mundo (2023)	leg=6:1312000
 Missão Pet	dub=2:361364,2:356861,8:361364,8:356861	leg=2:361363,2:356860,8:361363,8:356860
 Missão Pijamas	dub=2:68455,8:68455
 Missão Pijamas (2020)	dub=6:1308601
-Missão Porto Seguro	dub=2:305582,2:301995,8:305582,8:301995	leg=2:301996,8:301996
+Missão Porto Seguro	dub=2:305582,8:305582,2:301995,8:301995	leg=2:301996,8:301996
 Missão Porto Seguro (2025)	dub=6:1312918
-Missão Presente de Natal	dub=2:193269,2:85161,8:193269,8:85161
+Missão Presente de Natal	dub=2:193269,8:193269,2:85161,8:85161
 Missão Presente de Natal (2020)	dub=6:1306358
-Missão Refúgio	dub=2:380677,2:376608,2:376528,8:380677,8:376608,8:376528	leg=2:376527,2:367832,8:376527,8:367832
+Missão Refúgio	dub=2:380677,2:376608,8:380677,8:376608,2:376528,8:376528	leg=2:376527,2:367832,8:376527,8:367832
 Missão Resgate	dub=2:149407,8:149407	leg=2:149411,8:149411
 Missão Resgate (2021)	dub=6:1306122	leg=6:1306123
 Missão Resgate 2: Vingança	leg=2:330512,8:330512
@@ -1578,14 +1578,14 @@ Missão Suicida	dub=2:279177,8:279177	leg=2:279178,8:279178
 Missão Titã	dub=2:338308,8:338308	leg=2:338307,8:338307
 Missão Titã (2024)	dub=6:1313712
 Missão de Honra	dub=2:33572,8:33572
-Missão de Sobrevivência	dub=2:215063,2:215061,8:215063,8:215061	leg=2:215062,8:215062
+Missão de Sobrevivência	dub=2:215061,8:215061,2:215063,8:215063	leg=2:215062,8:215062
 Missão no Mar Vermelho	dub=2:26686,8:26686
 Missão no Mar Vermelho (2019)	dub=6:1307840
 Missão: Impossível	dub=2:108232,8:108232
-Missão: Impossível - Acerto de Contas Parte 1	dub=2:219168,2:219165,2:219162,8:219168,8:219165,8:219162	leg=2:219163,8:219163
+Missão: Impossível - Acerto de Contas Parte 1	dub=2:219168,2:219165,8:219168,8:219165,2:219162,8:219162	leg=2:219163,8:219163
 Missão: Impossível - Efeito Fallout	dub=2:108237,8:108237
 Missão: Impossível - Nação Secreta	dub=2:108236,8:108236
-Missão: Impossível - O Acerto Final	dub=2:340244,2:340153,8:340244,8:340153	leg=2:340152,8:340152
+Missão: Impossível - O Acerto Final	dub=2:340244,8:340244,2:340153,8:340153	leg=2:340152,8:340152
 Missão: Impossível - Protocolo Fantasma	dub=2:108235,8:108235
 Missão: Impossível 2	dub=2:108233,8:108233
 Missão: Impossível 3	dub=2:108234,8:108234
@@ -1610,7 +1610,7 @@ Mistério em Alto Mar	dub=2:203310,8:203310	leg=2:203309,8:203309
 Mistério em Paris	dub=2:190640,8:190640	leg=2:190647,8:190647
 Mistério em Paris {Hybrid]	dub=2:190973,8:190973
 Mistério na TV: Um Assassinato em Questão	dub=2:144397,8:144397	leg=2:144386,8:144386
-Mistério no Mediterrâneo	dub=2:190979,2:109171,8:190979,8:109171
+Mistério no Mediterrâneo	dub=2:190979,8:190979,2:109171,8:109171
 Mistério no Necrotério	dub=8:384696	leg=8:384695
 Mistério no Set	leg=2:360044,8:360044
 Mistério no Ártico	dub=2:297448,8:297448	leg=2:297449,8:297449
@@ -1634,7 +1634,7 @@ Mo Amer: Wild World	leg=2:350378,8:350378
 Mo Gilligan: Momentum	dub=2:30415,8:30415
 Mo Gilligan: Momentum (2019)	dub=6:1308630
 Moana	dub=8:389801
-Moana 2	dub=2:315199,2:315170,8:315199,8:315170	leg=2:315171,8:315171
+Moana 2	dub=2:315199,8:315199,2:315170,8:315170	leg=2:315171,8:315171
 Moana 2 (2024)	dub=6:1313209	leg=6:1313000
 Moana Um Mar de Aventuras	dub=2:20392,8:20392
 Moana: Um Mar de Aventuras (2016)	dub=6:1297314
@@ -1646,7 +1646,7 @@ Mod Squad - O Filme (1999)	dub=6:1304302
 Model House A Morte Segue Voce (2024)	dub=6:1314207
 Model House: A Morte Segue Você	dub=2:359297,8:359297	leg=2:359296,8:359296
 Modest Heroes	dub=2:29555,8:29555
-Modo Avião	dub=2:41560,2:33577,8:41560,8:33577
+Modo Avião	dub=2:41560,8:41560,2:33577,8:33577
 Modo Avião (2020)	dub=6:1308682
 Modo Herói	dub=2:169138,8:169138	leg=2:169150,8:169150
 Modo Herói (2021)	dub=6:1306424	leg=6:1306425
@@ -1694,7 +1694,7 @@ Monster	dub=2:336139,8:336139	leg=2:336138,2:251178,8:336138,8:251178
 Monster (2023)	leg=6:1309311
 Monster Desejo Assassino (2003)	dub=6:1302351
 Monster High 13 Monster Desejos (2013)	dub=6:1314519
-Monster High 2	dub=2:223110,2:223090,8:223110,8:223090	leg=2:223095,8:223095
+Monster High 2	dub=2:223090,8:223090,2:223110,8:223110	leg=2:223095,8:223095
 Monster High 2 (2023)	dub=6:1302670
 Monster High A Assustadora Barreira de Coral (2016)	dub=6:1314518
 Monster High Assombrada (2015)	dub=6:1314515
@@ -1714,7 +1714,7 @@ Monster High: Monster Fusion (2014)	dub=6:1313644
 Monster High: O Filme	dub=2:176801,8:176801	leg=2:176800,8:176800
 Monster High: O Filme (2022)	dub=6:1300201
 Monster High: Scaris, a Cidade Sem Luz	dub=2:286868,8:286868
-Monster Hunter	dub=2:99891,2:99890,8:99891,8:99890	leg=2:95915,8:95915
+Monster Hunter	dub=2:99890,8:99890,2:99891,8:99891	leg=2:95915,8:95915
 Monster Hunter (2020)	dub=6:1298331	leg=6:1298279
 Monster Hunter: Legends of the Guild	dub=2:120666,8:120666	leg=2:120675,8:120675
 Monster Hunter: Legends of the Guild (2021)	dub=6:1311385
@@ -1734,7 +1734,7 @@ Monstro a Bordo	dub=2:375948,8:375948	leg=2:375947,8:375947
 Monstros S.A	dub=2:20393,8:20393
 Monstros SA (2001)	dub=6:1301556
 Monstros da Califórnia	dub=2:376723,8:376723	leg=2:376722,8:376722
-Monstros do Homem	dub=2:197134,2:196733,8:197134,8:196733	leg=2:196731,8:196731
+Monstros do Homem	dub=2:197134,8:197134,2:196733,8:196733	leg=2:196731,8:196731
 Monstros do Homem (2020)	dub=6:1305212	leg=6:1305213
 Monstros vs Alienigenas (2009)	dub=6:1300022
 Monstros vs Alienígenas	dub=2:152009,8:152009
@@ -1753,11 +1753,11 @@ Morando Com o Ex	dub=2:349740,8:349740	leg=2:349739,8:349739
 Morando Com o Medo (2016)	dub=6:1300389
 Morando com Inimigo	dub=2:368944,8:368944	leg=2:368943,8:368943
 Morando com a Sogra	dub=2:295709,8:295709	leg=2:295710,8:295710
-Morando com o Crush	dub=2:269956,2:269812,8:269956,8:269812
+Morando com o Crush	dub=2:269956,8:269956,2:269812,8:269812
 Morando com o Crush (2024)	dub=6:1309124
 Moranguinho e o Monstro do Pântano	dub=2:220054,8:220054
 Moranguinho e o Monstro do Pântano (2023)	dub=6:1309659
-Morbius	dub=2:160618,2:160416,8:160618,8:160416	leg=2:160425,8:160425
+Morbius	dub=2:160618,8:160618,2:160416,8:160416	leg=2:160425,8:160425
 Morbius (2022)	dub=6:1299404	leg=6:1299405
 Morcego Negro	dub=2:363460,8:363460
 Morcegos (1999)	dub=6:1302388
@@ -1767,17 +1767,17 @@ Morituri (1965)	dub=6:1300111
 Mormaco (2018)	dub=6:1297474
 Mormaço	dub=8:394526
 Morra Amor (2025)	dub=6:1314180	leg=6:1314179
-Morra, Amor	dub=2:358132,2:358130,8:358132,8:358130	leg=2:358131,2:356885,8:358131,8:356885
+Morra, Amor	dub=2:358130,8:358130,2:358132,8:358132	leg=2:358131,2:356885,8:358131,8:356885
 Morrer Mil Vezes	dub=2:309537,2:128563,8:309537,8:128563
 Morrer Mil Vezes (1986)	dub=6:1305037
 Morrison (2024)	leg=6:1312156
 Mortal	dub=2:98359,8:98359	leg=2:85115,8:85115
 Mortal (2020)	dub=6:1298560	leg=6:1298561
-Mortal Kombat	dub=2:111610,2:111551,2:111550,8:111610,8:111551,8:111550	leg=2:103984,8:103984
+Mortal Kombat	dub=2:111610,2:111551,8:111610,8:111551,2:111550,8:111550	leg=2:103984,8:103984
 Mortal Kombat (1995)	dub=6:1311574
 Mortal Kombat (2021)	dub=6:1298557	leg=6:1298397
 Mortal Kombat 1	dub=2:20112,8:20112
-Mortal Kombat 2	dub=2:382494,2:382418,2:381986,8:382494,8:382418,8:381986	leg=2:381985,8:381985
+Mortal Kombat 2	dub=2:382494,2:382418,8:382494,8:382418,2:381986,8:381986	leg=2:381985,8:381985
 Mortal Kombat 2 (2026)	dub=6:1314625	leg=6:1314624
 Mortal Kombat A Aniquilacao (1997)	dub=6:1302386
 Mortal Kombat Legends Cage Bom de Briga (2023)	dub=6:1302737
@@ -1785,10 +1785,10 @@ Mortal Kombat Legends Cegueira Glacial (2022)	dub=6:1301629
 Mortal Kombat Legends Scorpions Revenge	leg=2:43810,8:43810
 Mortal Kombat Legends: A Vingança de Scorpion	dub=2:43841,8:43841
 Mortal Kombat Legends: A Vingança de Scorpion (2020)	dub=6:1308731	leg=6:1308732
-Mortal Kombat Legends: Batalha dos Reinos	dub=2:127401,2:125988,8:127401,8:125988
+Mortal Kombat Legends: Batalha dos Reinos	dub=2:127401,8:127401,2:125988,8:125988
 Mortal Kombat Legends: Batalha dos Reinos (2021)	dub=6:1311359
-Mortal Kombat Legends: Cage Bom de Luta	dub=2:286358,2:223883,8:286358,8:223883	leg=2:223881,8:223881
-Mortal Kombat Legends: Cegueira Glacial	dub=2:179792,2:177224,8:179792,8:177224
+Mortal Kombat Legends: Cage Bom de Luta	dub=2:286358,8:286358,2:223883,8:223883	leg=2:223881,8:223881
+Mortal Kombat Legends: Cegueira Glacial	dub=2:179792,8:179792,2:177224,8:177224
 Mortal Kombat Legends: Snow Blind	leg=2:175615,8:175615
 Mortal Kombat: A Aniquilação	dub=2:338629,8:338629
 Mortdecai: A Arte da Trapaça	dub=2:347153,8:347153	leg=2:347152,8:347152
@@ -1812,7 +1812,7 @@ Morte de um Operador de TeleMarketing (2021)	dub=6:1306349
 Morte de um Unicórnio	leg=2:333241,8:333241
 Morte e Vida de Um Ativista Político	dub=2:258322,8:258322	leg=2:258323,8:258323
 Morte e Vida de Um Ativista Político (2021)	dub=6:1311449	leg=6:1311450
-Morte em LaRoy, Texas	dub=2:295392,2:294988,8:295392,8:294988	leg=2:294989,8:294989
+Morte em LaRoy, Texas	dub=2:295392,8:295392,2:294988,8:294988	leg=2:294989,8:294989
 Morte na Fronteira	dub=8:383957	leg=8:383958
 Morte no Funeral	dub=2:122872,2:20714,8:122872,8:20714
 Morte no Funeral (2010)	dub=6:1298752
@@ -1860,7 +1860,7 @@ Motoqueiro Fantasma 2 (2011)	dub=6:1297560
 Motoqueiros Selvagens	dub=2:20115,8:20115
 Motoqueiros Selvagens (2007)	dub=6:1297561
 Motor City	leg=8:394266,8:389251
-Motorista de Fuga	dub=2:370348,2:341040,2:340974,8:370348,8:341040,8:340974	leg=2:370347,8:370347
+Motorista de Fuga	dub=2:341040,2:340974,8:341040,8:340974,2:370348,8:370348	leg=2:370347,8:370347
 Motorista de Fuga (2025)	dub=6:1313760	leg=6:1313759
 Motorrad	dub=2:344508,8:344508
 Motståndaren	leg=8:391673
@@ -1905,7 +1905,7 @@ Mudança Mortal (2021)	dub=6:1311171	leg=6:1311172
 Mudança no Jogo (2017)	dub=6:1307782
 Mudo	dub=2:21045,8:21045
 Mudo (2018)	dub=6:1310338
-Mufasa: O Rei Leão	dub=2:316847,2:316762,8:316847,8:316762	leg=2:316763,8:316763
+Mufasa: O Rei Leão	dub=2:316847,8:316847,2:316762,8:316762	leg=2:316763,8:316763
 Mufasa: O Rei Leão (2024)	dub=6:1313377	leg=6:1313059
 Muita Calma Nessa Hora	dub=2:20718,8:20718
 Muita Calma Nessa Hora (2010)	dub=6:1312322
@@ -1930,7 +1930,7 @@ Muito Ralph: Vida e Obra de Ralph Lauren	dub=2:31929,8:31929
 Muito Ralph: Vida e Obra de Ralph Lauren (2019)	dub=6:1308576
 Mula sa Buwan	dub=2:194211,8:194211
 Mula sa Buwan (2023)	dub=6:1309422
-Mulan	dub=2:72650,2:71079,8:72650,8:71079
+Mulan	dub=2:72650,8:72650,2:71079,8:71079
 Mulan (1998)	dub=6:1297566
 Mulan (2020)	dub=6:1297961
 Mulan 1	dub=2:20394,8:20394
@@ -1950,9 +1950,9 @@ Mulher Solteira Procura	dub=2:328984,8:328984	leg=2:328983,8:328983
 Mulher Valente (2023)	leg=6:1313618
 Mulher-Gato (2004)	dub=6:1297981
 Mulher-Gato: A Cacada (2022)	dub=6:1299262
-Mulher-Gato: A Caçada	dub=2:155477,2:149577,8:155477,8:149577	leg=2:149581,8:149581
-Mulher-Maravilha	dub=2:379472,2:350926,2:100001,2:22512,2:20117,8:379472,8:350926,8:100001,8:22512,8:20117	leg=2:379471,8:379471
-Mulher-Maravilha (1984)	dub=2:297828,2:98637,2:93485,6:1313310,8:297828,8:98637,8:93485	leg=6:1313309
+Mulher-Gato: A Caçada	dub=2:155477,8:155477,2:149577,8:149577	leg=2:149581,8:149581
+Mulher-Maravilha	dub=2:22512,8:22512,2:379472,2:350926,2:100001,2:20117,8:379472,8:350926,8:100001,8:20117	leg=2:379471,8:379471
+Mulher-Maravilha (1984)	dub=2:93485,8:93485,2:297828,2:98637,6:1313310,8:297828,8:98637	leg=6:1313309
 Mulher-Maravilha - Linhagem de Sangue	dub=2:68458,2:30416,8:68458,8:30416
 Mulher-Maravilha - Linhagem de Sangue (2019)	dub=6:1298795
 Mulher?	dub=2:198189,8:198189	leg=2:198188,8:198188
@@ -1980,13 +1980,13 @@ Mundo Cão	dub=2:382467,2:252899,8:382467,8:252899	leg=2:252900,8:252900
 Mundo Cão (2021)	dub=6:1311099	leg=6:1311100
 Mundo Duplo (2020)	leg=6:1308544
 Mundo Escondido	dub=2:297451,8:297451
-Mundo Estranho	dub=2:184017,2:182634,8:184017,8:182634	leg=2:182633,8:182633
+Mundo Estranho	dub=2:184017,8:184017,2:182634,8:182634	leg=2:182633,8:182633
 Mundo Estranho (2022)	dub=6:1300926
 Mundo Futuro: Ano 2003, Operação Terra	dub=2:315682,8:315682	leg=2:317685,2:315683,8:317685,8:315683
 Mundo Novo	dub=2:382993,8:382993
 Mundo Proibido (1992)	dub=6:1314589
 Mundo Sombrio: Equilibrium	dub=2:374299,8:374299	leg=2:374298,8:374298
-Mundo em Caos	dub=2:115507,2:115504,8:115507,8:115504
+Mundo em Caos	dub=2:115507,8:115507,2:115504,8:115504
 Mundo em Caos (2021)	dub=6:1298665
 Mundo em Chamas	dub=2:313600,8:313600	leg=2:313601,8:313601
 Mundos Opostos (2012)	dub=6:1314309
@@ -2057,7 +2057,7 @@ My Special One (2025)	leg=6:1314329
 My Spy	leg=2:69604,8:69604
 My Teacher My Love	leg=2:69605,8:69605
 My True Fairytale	dub=2:335237,8:335237	leg=2:335236,8:335236
-Má Educação	dub=2:196771,2:69945,8:196771,8:69945
+Má Educação	dub=2:196771,8:196771,2:69945,8:69945
 Má Educação (2019)	dub=6:1305126
 Má Influência	dub=2:320772,8:320772	leg=2:320771,8:320771
 Má Influência (2025)	dub=6:1313498
@@ -2092,11 +2092,11 @@ Mãe de Aluguel	dub=2:254852,8:254852	leg=2:254853,8:254853
 Mãe de Aluguel (2021)	dub=6:1310966	leg=6:1310967
 Mãe e Filha	dub=2:160614,8:160614
 Mãe e Filha (2021)	dub=6:1306270
-Mãe e Muito Mais	dub=2:193281,2:26864,8:193281,8:26864
+Mãe e Muito Mais	dub=2:193281,8:193281,2:26864,8:26864
 Mãe e Pai (2018)	dub=6:1307615
 Mãe em Fúria	dub=2:256851,8:256851	leg=2:256852,8:256852
 Mãe em Fúria (2021)	dub=6:1311328	leg=6:1311329
-Mãe x Androides	dub=2:148654,2:145958,8:148654,8:145958	leg=2:145954,8:145954
+Mãe x Androides	dub=2:148654,8:148654,2:145958,8:145958	leg=2:145954,8:145954
 Mãe é Mãe (1996)	dub=6:1307376
 Mães Paralelas	dub=2:150141,8:150141	leg=2:150142,8:150142
 Mão na Cabeça	dub=2:326978,8:326978	leg=2:326977,8:326977
@@ -2104,7 +2104,7 @@ Mão na Luva	dub=8:386250
 Mãos Talentosas: A História de Ben Carson (2009)	dub=6:1309992
 México (1986)	dub=2:381790,8:381790	leg=2:381789,8:381789
 Mônica, O My Darling (2022)	dub=6:1306833	leg=6:1306834
-Música	dub=2:277861,2:255569,8:277861,8:255569	leg=2:255570,8:255570
+Música	dub=2:277861,8:277861,2:255569,8:255569	leg=2:255570,8:255570
 Música Para Morrer de Amor	dub=2:75044,8:75044
 Música a Bordo	dub=2:133019,8:133019	leg=2:133025,8:133025
 Música a Bordo (2019)	dub=6:1304516	leg=6:1304517

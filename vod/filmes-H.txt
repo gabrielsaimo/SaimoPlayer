@@ -23,7 +23,7 @@ Hail Satan	leg=2:114406,8:114406
 Hail Satan? (2019)	leg=6:1310684
 Hairspray: Em Busca da Fama	dub=2:376317,2:104412,8:376317,8:104412
 Hairspray: Em Busca da Fama (2007)	dub=6:1307412
-Hala	dub=2:367698,2:40617,2:40593,2:31596,8:367698,8:40617,8:40593,8:31596
+Hala	dub=2:367698,2:40617,2:40593,8:367698,8:40617,8:40593,2:31596,8:31596
 Hala (2019)	dub=6:1308177
 Hallelujah: Leonard Cohen, Uma Jornada, Uma canção	dub=2:252169,8:252169	leg=2:252170,8:252170
 Hallelujah: Leonard Cohen, Uma Jornada, Uma canção (2022)	dub=6:1311398	leg=6:1311399
@@ -48,12 +48,12 @@ Halloween 6: A Última Vingança (1995)	dub=6:1309439
 Halloween 7	dub=2:21750,8:21750
 Halloween 8	dub=2:21751,8:21751
 Halloween A Noite do Terror (1978)	dub=6:1301961
-Halloween Ends	dub=2:180596,2:180594,8:180596,8:180594	leg=2:177222,8:177222
+Halloween Ends	dub=2:180594,8:180594,2:180596,8:180596	leg=2:177222,8:177222
 Halloween Ends (2022)	dub=6:1300503	leg=6:1300288
 Halloween H20: Vinte Anos Depois (1998)	dub=6:1309605
 Halloween II (2009)	dub=6:1310021
 Halloween II: O Pesadelo Continua	dub=2:285811,8:285811
-Halloween Kills: O Terror Continua	dub=2:147462,2:146812,8:387054,8:147462,8:146812	leg=2:140799,8:387053,8:140799
+Halloween Kills: O Terror Continua	dub=2:147462,8:147462,2:146812,8:387054,8:146812	leg=2:140799,8:387053,8:140799
 Halloween Kills: O Terror Continua (2021)	dub=6:1299151	leg=6:1298885
 Halloween na Casa da Tia Ethel (2019)	dub=6:1299083
 Halloween: O Início	dub=2:377231,2:21752,8:377231,8:21752	leg=2:377230,8:377230
@@ -69,10 +69,10 @@ Hamlet	dub=8:385849	leg=8:385848
 Hamlet (1990)	dub=6:1300593
 Hammer: Heroes, Legends and Monsters	leg=8:383887
 Hamnet A Vida Antes de Hamlet (2025)	dub=6:1314317	leg=6:1314291,6:1314316
-Hamnet: A Vida Antes de Hamlet	dub=2:367000,2:366998,8:367000,8:366998	leg=2:366999,2:365650,8:366999,8:365650
+Hamnet: A Vida Antes de Hamlet	dub=2:366998,8:366998,2:367000,8:367000	leg=2:366999,2:365650,8:366999,8:365650
 Hampstead: Nunca é Tarde para Amar	dub=2:94726,8:94726
 Hampstead: Nunca é Tarde para Amar (2017)	dub=6:1307746
-Han Solo - Uma Historia Star Wars	dub=2:21484,2:21301,8:21484,8:21301
+Han Solo - Uma Historia Star Wars	dub=2:21484,8:21484,2:21301,8:21301
 Han Solo: Uma História Star Wars (2018)	dub=6:1310238
 Hanami	leg=2:373789,8:373789
 Hancock	dub=2:314675,2:45095,8:314675,8:45095	leg=2:314676,8:314676
@@ -117,7 +117,7 @@ Hardflip (2012)	dub=6:1313099
 Harmonia Silenciosa	dub=2:223100,8:223100	leg=2:223103,8:223103
 Harmonia Silenciosa (2020)	dub=6:1302725
 Harold	dub=2:316404,8:316404	leg=2:316405,8:316405
-Harold e o Lápis Mágico	dub=2:285147,2:285146,8:285147,8:285146	leg=2:285148,8:285148
+Harold e o Lápis Mágico	dub=2:285147,8:285147,2:285146,8:285146	leg=2:285148,8:285148
 Harold e o Lápis Mágico (2024)	dub=6:1312072	leg=6:1312071
 Harpia Presenca Maligna (2025)	dub=6:1314253
 Harpia: Presença Maligna	dub=2:363619,8:363619	leg=2:363618,8:363618
@@ -161,7 +161,7 @@ Hawa (2022)	dub=6:1306923	leg=6:1306924
 Hazard	leg=2:353473,8:353473
 He Went That Way	dub=2:259005,8:259005	leg=2:259006,2:246193,8:259006,8:246193
 He Went That Way (2024)	dub=6:1305254	leg=6:1305255
-Heart Eyes	dub=2:341311,2:324694,8:341311,8:324694	leg=2:324693,8:324693
+Heart Eyes	dub=2:341311,8:341311,2:324694,8:324694	leg=2:324693,8:324693
 Heart Eyes (2025)	dub=6:1313559	leg=6:1313558
 Hearts on Fire	dub=8:382948	leg=8:382945
 Heartstopper Para Sempre	dub=8:387557,8:387503	leg=8:387502
@@ -187,13 +187,13 @@ Hell Girl Legendado	dub=2:28868,8:28868
 Hell House - A Origem	dub=2:358055,8:358055	leg=2:358054,8:358054
 Hell House - A Origem (2023)	dub=6:1314172
 Hellblazers - O Inferno na Terra	dub=2:267751,8:267751	leg=2:267752,8:267752
-Hellboy	dub=2:28604,2:28287,8:28604,8:28287
+Hellboy	dub=2:28604,8:28604,2:28287,8:28287
 Hellboy (2004)	dub=2:21303,6:1297197,6:1297829,8:21303
 Hellboy (2019)	dub=6:1297830
 Hellboy 2	dub=2:21302,8:21302
 Hellboy 2 (2008)	dub=6:1297198
 Hellboy Legendado	dub=2:25487,8:25487
-Hellboy e o Homem Torto	dub=2:291899,2:291898,8:291899,8:291898	leg=2:291900,2:291255,8:291900,8:291255
+Hellboy e o Homem Torto	dub=2:291899,8:291899,2:291898,8:291898	leg=2:291900,2:291255,8:291900,8:291255
 Hellboy e o Homem Torto (2024)	dub=6:1312332	leg=6:1312331
 Hellboy: A Espada das Tempestades	dub=2:377834,8:377834	leg=2:377833,8:377833
 Hellboy: Sangue e Ferro	dub=2:378050,8:378050
@@ -232,7 +232,7 @@ Hellraiser: O Julgamento	dub=2:48264,8:48264
 Hellraiser: O Julgamento (2018)	dub=6:1303294
 Hellraiser: Renascido do Inferno	dub=2:349051,2:181439,2:96878,8:349051,8:181439,8:96878	leg=2:349050,2:181413,8:349050,8:181413
 Hellraiser: Renascido do Inferno (2022)	dub=6:1313729	leg=6:1313728
-Henry Danger: O Filme	dub=2:310580,2:310417,8:310580,8:310417	leg=2:310418,8:310418
+Henry Danger: O Filme	dub=2:310580,8:310580,2:310417,8:310417	leg=2:310418,8:310418
 Henry Danger: O Filme (2025)	dub=6:1313042
 Henry e June - Delírios Eróticos	dub=2:353929,8:353929	leg=2:353928,8:353928
 Henry e Klauss: Mestres da Mágica (2025)	dub=6:1313328
@@ -255,14 +255,14 @@ Herança de Sangue (1986)	dub=6:1309400
 Herbert de Perto (2009)	dub=6:1303047
 Herbie: Meu Fusca Turbinado	dub=2:343036,8:343036	leg=2:343035,8:343035
 Herbie: Meu Fusca Turbinado (2005)	dub=6:1298985
-Herchcovitch; Exposto	dub=2:328476,2:328474,2:283255,8:328476,8:328474,8:283255	leg=2:328475,8:328475
+Herchcovitch; Exposto	dub=2:328474,8:328474,2:328476,2:283255,8:328476,8:283255	leg=2:328475,8:328475
 Hercules em Nova York (1970)	dub=6:1301966
 Here	leg=2:318435,8:318435
 Here After	leg=2:286604,8:286604
 Here After (2024)	leg=6:1312108
 Hereditario (2018)	dub=6:1297509
 Hereditário	dub=2:382404,2:21755,8:382404,8:21755	leg=2:382403,8:382403
-Herege	dub=2:301147,2:301146,8:301147,8:301146	leg=2:301148,2:299620,8:301148,8:299620
+Herege	dub=2:301147,8:301147,2:301146,8:301146	leg=2:301148,2:299620,8:301148,8:299620
 Herege (2024)	dub=6:1312794	leg=6:1312560
 Hermanoteu na Terra de Godah: O Filme	dub=2:162028,2:149565,8:162028,8:149565
 Hermanoteu na Terra de Godah: O Filme (2021)	dub=6:1299256
@@ -284,7 +284,7 @@ Herói da Liberdade	dub=2:166210,8:166210	leg=2:166206,8:166206
 Herói de Dois Mundos	dub=2:133983,8:133983	leg=2:134011,8:134011
 Herói de Dois Mundos (2021)	dub=6:1304569	leg=6:1304570
 Herói por Acidente	dub=2:371889,8:371889	leg=2:371888,8:371888
-Herói por Encomenda	dub=2:254651,8:254658,8:254651	leg=2:254652,8:254652
+Herói por Encomenda	dub=8:254658,2:254651,8:254651	leg=2:254652,8:254652
 Heróico	leg=2:246195,8:246195
 Heróico (2023)	leg=6:1311641
 Heróis	dub=2:320228,8:320228	leg=2:320229,8:320229
@@ -339,7 +339,7 @@ Highlander 3: O Feiticeiro	dub=2:350923,8:350923
 Highlander 4: A Batalha Final	dub=2:348112,8:348112	leg=2:348111,8:348111
 Highlander, O Guerreiro Imortal	dub=2:48185,8:48185
 Highlander: O Guerreiro Imortal (1986)	dub=6:1308969
-Higuita: El camino del Escorpión	dub=2:224734,8:395311,8:224734	leg=2:224733,8:224733
+Higuita: El camino del Escorpión	dub=8:395311,2:224734,8:224734	leg=2:224733,8:224733
 Higuita: El camino del Escorpión (2023)	dub=6:1309662	leg=6:1309663
 Hijack (1971)	leg=2:288572,8:288572
 Hilda E O Rei Da Montanha	dub=2:144906,8:144906	leg=2:144912,8:144912
@@ -365,7 +365,7 @@ Historietas Assombradas - O Filme	dub=2:133764,8:133764
 Historietas Assombradas: O Filme (2017)	dub=6:1304457
 History of Evil	leg=2:251170,8:251170
 History of Evil (2023)	leg=6:1311597
-História de Amor em Copenhague	dub=2:313541,2:313160,8:313541,8:313160	leg=2:313161,8:313161
+História de Amor em Copenhague	dub=2:313541,8:313541,2:313160,8:313160	leg=2:313161,8:313161
 História de Amor em Copenhague (2025)	dub=6:1313146
 História de Amor no Inverno	dub=2:30398,8:30398
 História de Amor no Inverno (2019)	dub=6:1308346
@@ -412,7 +412,7 @@ Hoje Falaremos sobre Aquele Dia (2023)	dub=6:1301724
 Hoje Você Morre	dub=8:396206	leg=8:396205
 Hokum O Pesadelo da Bruxa (2026)	dub=6:1314639
 Hokum: O Pesadelo da Bruxa	dub=8:383816,8:383775	leg=2:381204,8:383774,8:381204
-Holland	dub=2:316909,2:316908,8:316909,8:316908	leg=2:316910,8:316910
+Holland	dub=2:316909,8:316909,2:316908,8:316908	leg=2:316910,8:316910
 Holland (2025)	dub=6:1313386	leg=6:1313385
 HollyBlood	dub=2:171922,8:171922	leg=2:171927,8:171927
 HollyBlood (2022)	dub=6:1300047
@@ -457,18 +457,18 @@ Homem onça (2021)	dub=6:1306694
 Homem-Aranha	dub=2:93643,8:93643
 Homem-Aranha 2	dub=2:93644,8:93644
 Homem-Aranha 3	dub=2:93645,8:93645
-Homem-Aranha: Através do Aranhaverso	dub=2:208235,2:207380,8:208235,8:207380	leg=2:207379,8:207379
-Homem-Aranha: De Volta ao Lar	dub=2:93648,2:22507,8:93648,8:22507
-Homem-Aranha: Longe de Casa	dub=2:317683,2:93649,2:30399,8:317683,8:93649,8:30399	leg=2:317684,8:317684
-Homem-Aranha: No Aranhaverso	dub=2:316406,2:21485,2:21439,8:316406,8:21485,8:21439	leg=2:316407,8:316407
-Homem-Aranha: Sem Volta Para Casa	dub=2:155511,2:154575,8:155511,8:154575	leg=2:152017,8:152017
+Homem-Aranha: Através do Aranhaverso	dub=2:208235,8:208235,2:207380,8:207380	leg=2:207379,8:207379
+Homem-Aranha: De Volta ao Lar	dub=2:22507,8:22507,2:93648,8:93648
+Homem-Aranha: Longe de Casa	dub=2:30399,8:30399,2:317683,2:93649,8:317683,8:93649	leg=2:317684,8:317684
+Homem-Aranha: No Aranhaverso	dub=2:21485,8:21485,2:316406,2:21439,8:316406,8:21439	leg=2:316407,8:316407
+Homem-Aranha: Sem Volta Para Casa	dub=2:155511,8:155511,2:154575,8:154575	leg=2:152017,8:152017
 Homem-Aranha: Um Novo Dia	dub=8:390307	leg=8:389765
 Homem-Formiga	dub=2:98656,8:391954	leg=8:391953
-Homem-Formiga e a Vespa	dub=2:98663,2:22508,8:98663,8:22508
+Homem-Formiga e a Vespa	dub=2:22508,8:22508,2:98663,8:98663
 Homem-Formiga e a Vespa (2018)	dub=6:1298209,6:1313256	leg=6:1313255
-Homem-Formiga e a Vespa: Quantumania	dub=2:195263,2:195262,8:195263,8:195262	leg=2:192527,8:192527
+Homem-Formiga e a Vespa: Quantumania	dub=2:195262,8:195262,2:195263,8:195263	leg=2:192527,8:192527
 Homens Brancos Nao Sabem Enterrar (2023)	dub=6:1301224
-Homens Brancos Não Sabem Enterrar	dub=2:196293,2:195880,2:102645,8:196293,8:195880,8:102645	leg=2:195879,8:195879
+Homens Brancos Não Sabem Enterrar	dub=2:196293,8:196293,2:195880,2:102645,8:195880,8:102645	leg=2:195879,8:195879
 Homens Brancos Não Sabem Enterrar (1992)	dub=6:1307023
 Homens De Honra (2000)	dub=6:1298411
 Homens Maus	dub=2:294985,8:294985	leg=2:294986,8:294986
@@ -504,10 +504,10 @@ Honey 4	dub=2:21004,8:21004
 Honey 4: No Pulsar do Ritmo (2018)	dub=6:1309105
 Honey Boy	leg=2:43807,8:43807
 Honey Nao (2025)	dub=6:1314153	leg=6:1314152
-Honey, Não!	dub=2:357795,2:357628,8:357795,8:357628	leg=2:357626,2:352966,8:357626,8:352966
+Honey, Não!	dub=2:357795,8:357795,2:357628,8:357628	leg=2:357626,2:352966,8:357626,8:352966
 Honeyland	leg=2:42919,8:42919
 Honeyland (2019)	leg=6:1308321
-Honor Society	dub=2:173315,8:249900,8:173315	leg=2:173289,8:173289
+Honor Society	dub=8:249900,2:173315,8:173315	leg=2:173289,8:173289
 Honor Society (2022)	dub=6:1300091
 Honra & Coragem - As Quatro Plumas	dub=2:128632,8:128632
 Honra ao Merito	dub=2:21006,8:21006
@@ -539,7 +539,7 @@ Horas de Desespero (1990)	dub=6:1309100
 Horas de Desespero (2015)	dub=6:1314217
 Hordas Selvagens	dub=2:343065,8:343065
 Horizon: Uma Saga Americana - Capitulo 1 (2024)	dub=6:1312303	leg=6:1309159
-Horizon: Uma Saga Americana - Capítulo 1	dub=2:291157,2:291156,8:291157,8:291156	leg=2:291158,2:275505,8:291158,8:275505
+Horizon: Uma Saga Americana - Capítulo 1	dub=2:291157,8:291157,2:291156,8:291156	leg=2:291158,2:275505,8:291158,8:275505
 Horizonte	dub=2:376513,8:376513
 Horizonte Profundo	dub=2:20052,8:20052
 Horizonte Profundo Desastre no Golfo (2016)	dub=6:1302520
@@ -570,7 +570,7 @@ Hot Seat	dub=2:164224,8:164224	leg=2:164227,8:164227
 Hot Wheels AcceleRacers Ignicao (2005)	dub=6:1314320
 Hot Wheels AcceleRacers: A Velocidade Do Silêncio	dub=2:356264,8:356264
 Hot Wheels AcceleRacers: Ponto De Ruptura	dub=8:384664
-Hotel Artemis	dub=2:333439,2:21619,2:21487,8:333439,8:21619,8:21487	leg=2:333438,8:333438
+Hotel Artemis	dub=2:21487,8:21487,2:333439,2:21619,8:333439,8:21619	leg=2:333438,8:333438
 Hotel Artemis (2018)	dub=6:1302172
 Hotel Coolgardie (2016)	leg=6:1312118
 Hotel Coppelia	dub=2:186800,8:186800	leg=2:186801,8:186801
@@ -599,7 +599,7 @@ Housekeeping for Beginners	dub=2:286492,8:286492	leg=2:286493,8:286493
 Houve uma Vez Dois Veroes (2002)	dub=6:1300369
 Hovering Blade	leg=2:266652,8:266652
 Hovering Blade (2024)	leg=6:1309488
-How to Have Sex	dub=2:301173,2:301172,8:301173,8:301172	leg=2:301174,2:246196,8:301174,8:246196
+How to Have Sex	dub=2:301173,8:301173,2:301172,8:301172	leg=2:301174,2:246196,8:301174,8:246196
 How to Have Sex (2023)	dub=6:1312788	leg=6:1309379,6:1312787
 How to Train Your Dragon: The Hidden World Legendado	dub=2:22009,8:22009
 Howard: Sons de um Gênio	dub=2:352406,8:352406	leg=2:352405,8:352405
@@ -613,7 +613,7 @@ Hulk (2003)	dub=6:1297081
 Hulk: Onde os Monstros Habitam	dub=2:382405,8:382405
 Humane	leg=2:261684,8:261684
 Humane (2024)	dub=6:1314021	leg=6:1305299
-Humane: Até Onde O Ser Humano Pode Chegar	dub=2:352969,2:352967,8:352969,8:352967	leg=2:352968,8:352968
+Humane: Até Onde O Ser Humano Pode Chegar	dub=2:352967,8:352967,2:352969,8:352969	leg=2:352968,8:352968
 Hungria: A Escolha de um Sonho	dub=8:391584
 Hungria: Lollapalooza Brasil (2024)	dub=6:1303260
 Hunted	leg=2:92578,8:92578
@@ -625,10 +625,10 @@ Hurricane O Furacao (1999)	dub=6:1301437
 Hurricane – Livre como o Vento	dub=2:182289,8:182289	leg=2:182276,8:182276
 Hurricane – Livre como o Vento (2021)	dub=6:1299385
 Hurricane: O Furacão	dub=2:204315,8:204315
-Hurry Up Tomorrow: Além dos Holofotes	dub=2:330417,2:330416,8:330417,8:330416	leg=2:330415,2:328097,8:330415,8:328097
+Hurry Up Tomorrow: Além dos Holofotes	dub=2:330416,8:330416,2:330417,8:330417	leg=2:330415,2:328097,8:330415,8:328097
 Hush - A Morte Ouve (2016)	dub=2:64384,6:1307563,8:64384
 Hustlers Legendado	dub=2:31745,8:31745
-Hypnotic	dub=2:190978,2:134589,8:190978,8:134589	leg=2:134588,8:134588
+Hypnotic	dub=2:190978,8:190978,2:134589,8:134589	leg=2:134588,8:134588
 Hypnotic (2021)	dub=6:1298922
 Hypnotic Ameaça Invisível (2023)	dub=6:1302983	leg=6:1301472
 Hypnotic: Ameaça Invisível	dub=2:233525,8:233525	leg=2:233526,8:233526

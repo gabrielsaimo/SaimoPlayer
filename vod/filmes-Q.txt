@@ -64,7 +64,7 @@ Quando o Amor Acontece (2020)	dub=6:1313696
 Quando o Amor Não É Suficiente	dub=2:352421,8:352421
 Quando o Ceu se Engana (2025)	dub=6:1314017	leg=6:1314016
 Quando o Coracao Bate Mais Forte 2	dub=2:210538,8:210538	leg=2:210539,8:210539
-Quando o Céu se Engana	dub=2:355675,2:352708,8:355675,8:352708	leg=2:352707,8:352707
+Quando o Céu se Engana	dub=2:355675,8:355675,2:352708,8:352708	leg=2:352707,8:352707
 Quando o Demonio Chama (2020)	dub=6:1299201
 Quando o Demônio Chama	dub=2:169662,8:169662	leg=2:169637,8:169637
 Quando o Mal Chega	leg=2:229153,8:229153
@@ -84,7 +84,7 @@ Quando um Estranho Chama	dub=2:128591,8:128591
 Quando um Estranho Chama (2006)	dub=6:1304929
 Quando um Homem Ama uma Mulher	dub=2:128838,8:128838
 Quando um Homem Ama uma Mulher (1994)	dub=6:1304941
-Quanto Vale?	dub=2:297472,2:125978,8:297472,8:125978	leg=2:125986,8:125986
+Quanto Vale?	dub=2:297472,8:297472,2:125978,8:125978	leg=2:125986,8:125986
 Quanto Vale? (2021)	dub=6:1310873	leg=6:1310874
 Quantos Dias Quantas Noites	dub=2:340156,8:340156
 Quarentena	dub=2:262606,8:262606
@@ -108,7 +108,7 @@ Quarto 212 (2019)	dub=6:1301992
 Quarto de Guerra	dub=2:21538,8:21538
 Quarto de Guerra (2015)	dub=6:1297057
 Quarto do Pânico	dub=2:366729,8:366729
-Quartos Vazios	dub=2:366510,2:354166,8:366510,8:354166	leg=2:354165,8:354165
+Quartos Vazios	dub=2:366510,8:366510,2:354166,8:354166	leg=2:354165,8:354165
 Quase 18	dub=2:20799,8:20799
 Quase 18 (2016)	dub=6:1310289
 Quase Amigos	dub=2:21138,8:21138
@@ -124,13 +124,13 @@ Quase Famosos (2000)	dub=2:112995,6:1299946,8:112995
 Quase Famosos (2019)	dub=2:202005,6:1306108,8:202005	leg=6:1306109
 Quase Igual aos Outros	dub=8:395294	leg=8:395293
 Quase Lendas (2017)	dub=6:1299947
-Quase Morta	dub=2:266029,2:212686,8:266029,8:212686	leg=2:212687,8:212687
+Quase Morta	dub=2:266029,8:266029,2:212686,8:212686	leg=2:212687,8:212687
 Quase Morta (2023)	dub=6:1311237	leg=6:1311238
 Quase Trinta - Em Busca do Amor	dub=2:366898,8:366898	leg=2:366897,8:366897
 Quase o Paraíso	leg=2:295724,8:295724
 Quase uma Rockstar	dub=2:69905,8:69905
 Quase uma Rockstar (2020)	dub=6:1308566
-Quasimodo	dub=2:193263,2:192600,8:193263,8:192600	leg=2:192599,8:192599
+Quasimodo	dub=2:193263,8:193263,2:192600,8:192600	leg=2:192599,8:192599
 Quasimodo (2023)	dub=6:1301183	leg=6:1301182
 Quatro Amigas Numa Fria	dub=2:312364,8:312364	leg=2:312365,8:312365
 Quatro Amigas Numa Fria (2022)	dub=6:1304097
@@ -169,14 +169,14 @@ Que Haja Luz	dub=2:105263,8:105263
 Que Haja Luz (2017)	dub=6:1307910
 Que Horas Ela Volta (2015)	dub=6:1299541
 Que Horas Ela Volta?	dub=2:129570,8:129570
-Que Horas Eu Te Pego?	dub=2:381988,2:208224,2:208223,8:381988,8:208224,8:208223	leg=2:381987,2:208221,8:381987,8:208221
+Que Horas Eu Te Pego?	dub=2:208223,8:208223,2:381988,2:208224,8:381988,8:208224	leg=2:381987,2:208221,8:381987,8:208221
 Que Horas Eu Te Pego? (2023)	dub=6:1301759	leg=6:1301758
 Que Léon (2018)	dub=6:1308329
 Que Mal Eu Fiz a Deus?	dub=2:165021,8:165021
 Que Mal Eu Fiz a Deus? (2014)	dub=6:1305630
 Que Mal Eu Fiz a Deus? 2	dub=2:165169,8:165169
 Que Mal Eu Fiz a Deus? 2 (2019)	dub=6:1305754
-Que Se Dane o Amor, De Novo!	dub=2:183733,2:160428,8:183733,8:160428	leg=2:160447,8:160447
+Que Se Dane o Amor, De Novo!	dub=2:183733,8:183733,2:160428,8:160428	leg=2:160447,8:160447
 Que Se Dane o Amor, De Novo! (2022)	dub=6:1306931	leg=6:1306932
 Que Sorte Danada!	leg=2:332693,8:332693
 Que a Força Materna Esteja com Você	leg=2:261695,8:261695
@@ -214,7 +214,7 @@ Queima de Arquivo (1996)	dub=6:1297647
 Queimando Por Dentro	dub=2:366522,8:366522
 Queimando Tudo	dub=2:311148,2:20801,8:311148,8:20801	leg=2:311149,8:311149
 Queimando Tudo (1978)	dub=6:1309542
-Queimando o Filme	dub=2:313998,2:313831,8:313998,8:313831	leg=2:313832,8:313832
+Queimando o Filme	dub=2:313998,8:313998,2:313831,8:313831	leg=2:313832,8:313832
 Queimando o Filme (2025)	dub=6:1313183	leg=6:1313182
 Queime Depois de Ler	dub=2:100944,8:100944
 Queime Depois de Ler (2008)	dub=6:1304177
@@ -264,7 +264,7 @@ Quem Vai Ficar com Masha? (2022)	dub=6:1309116
 Quem Vai Ficar com Mário?	dub=2:114403,8:114403
 Quem Vai Ficar com Mário? (2021)	dub=6:1310939
 Quem Vai Salvar o Natal 2 (2025)	dub=6:1314115
-Quem Vai Salvar o Natal? 2	dub=2:355575,8:389300,8:355575	leg=2:355574,8:355574
+Quem Vai Salvar o Natal? 2	dub=8:389300,2:355575,8:355575	leg=2:355574,8:355574
 Quem Você Levaria Para Uma Ilha Deserta	dub=2:22079,8:22079
 Quem Você Levaria para uma Ilha Deserta? (2019)	dub=6:1308434
 Quem Você Pensa que Sou?	dub=2:35967,8:35967
@@ -277,7 +277,7 @@ Quem e Quem - As Gemeas de Voz Vol.2	dub=2:26884,8:26884
 Quem vai Ficar com Mary? (1998)	dub=6:1297649
 Quem é Essa Garota? (1987)	dub=6:1303615
 Quem é Essa?	dub=2:347695,8:347695	leg=2:347694,8:347694
-Quem é Morto Sempre Aparece	dub=2:351556,2:348841,2:96026,8:351556,8:348841,8:96026	leg=2:348840,8:348840
+Quem é Morto Sempre Aparece	dub=2:351556,8:351556,2:348841,2:96026,8:348841,8:96026	leg=2:348840,8:348840
 Quem é Morto Sempre Aparece (2005)	dub=6:1309075
 Quem é seu Pai?	dub=8:393530	leg=8:393529
 Quem é você, Charlie Brown?	dub=2:140783,8:140783	leg=2:140789,8:140789
@@ -303,7 +303,7 @@ Querida Mamãe (2017)	dub=6:1307904
 Querida Zoe	dub=2:204449,8:204449	leg=2:204448,8:204448
 Querida Zoe (2022)	dub=6:1303470
 Querida! Encolhi as Crianças	dub=2:112419,2:112391,8:112419,8:112391
-Querida, Alice	dub=2:186772,2:186748,8:186772,8:186748	leg=2:186771,8:186771
+Querida, Alice	dub=2:186772,8:186772,2:186748,8:186748	leg=2:186771,8:186771
 Querida, Encolhi a Gente	dub=2:157976,8:157976
 Queridinhas	dub=2:308398,8:308398	leg=2:308399,8:308399
 Querido Companheiro (2012)	dub=6:1299682
@@ -313,11 +313,11 @@ Querido Evan Hansen	dub=2:149601,8:149601	leg=2:149602,8:149602
 Querido Evan Hansen (2021)	dub=6:1305895	leg=6:1305896
 Querido John	dub=2:21586,8:21586
 Querido John (2010)	dub=6:1298690
-Querido Menino	dub=2:281005,2:185258,2:28973,8:281005,8:185258,8:28973	leg=2:185259,8:185259
+Querido Menino	dub=2:281005,8:281005,2:185258,2:28973,8:185258,8:28973	leg=2:185259,8:185259
 Querido Menino (2018)	dub=6:1297171
 Querido Natal	dub=2:140722,8:140722	leg=2:140713,8:140713
 Querido Natal (2020)	dub=6:1304722	leg=6:1304723
-Querido Papai Noel	dub=2:297474,2:297473,8:297474,8:297473	leg=2:297475,8:297475
+Querido Papai Noel	dub=2:297474,8:297474,2:297473,8:297473	leg=2:297475,8:297475
 Querido Papai Noel (2024)	dub=6:1312500	leg=6:1312499
 Querido Rider: a História de Jake Burton	dub=2:208230,8:208230	leg=2:208234,8:208234
 Querido Rider: a História de Jake Burton (2021)	dub=6:1311463	leg=6:1311464
@@ -351,7 +351,7 @@ Quincas Berro d'Água (2010)	dub=6:1307721
 Quinze	dub=8:395710
 Quinze Dias	dub=8:393450,8:393292	leg=8:393293
 Quinze Quase Dezesseis	dub=8:395334
-Quiz Lady	dub=2:224977,2:224967,8:224977,8:224967	leg=2:224744,8:224744
+Quiz Lady	dub=2:224977,8:224977,2:224967,8:224967	leg=2:224744,8:224744
 Quiz Lady (2023)	dub=6:1302742
 Quo Vadis Aida	leg=2:100414,8:100414
 Quo Vadis, Aida? (2021)	leg=6:1308862
