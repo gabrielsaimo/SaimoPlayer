@@ -6,30 +6,32 @@ base: 4 http://desativado.invalid/hubby.cx/movie/Pdsrv-vods/726216683528qroqv/
 base: 5 http://desativado.invalid/hubby.cx/series/Pdsrv-vods/726216683528qroqv/
 base: 6 http://proxy.nr3.xyz:80/movie/daniellytvc/danielly2396/
 base: 7 http://proxy.nr3.xyz:80/series/daniellytvc/danielly2396/
-#	481	112	0
-A	5099	1210	0
-B	1153	459	0
-C	2016	721	0
-D	1534	548	0
-E	1331	306	0
-F	978	303	0
-G	594	278	0
-H	621	277	0
-I	582	204	0
-J	593	146	0
-K	227	129	0
-L	825	290	0
-M	2024	687	0
-N	935	242	0
-O	4702	870	0
-P	1618	438	0
-Q	344	86	0
-R	920	313	0
-S	1803	695	0
-T	1632	787	0
-U	1457	176	0
-V	672	199	0
-W	183	114	0
-X	36	15	0
-Y	50	64	0
-Z	110	30	0
+base: 8 http://premiumsh.pro:80/movie/9193337011tv1/123789456Ab/
+base: 9 http://premiumsh.pro:80/series/9193337011tv1/123789456Ab/
+#	503	116	971
+A	5408	1259	396
+B	1273	466	1686
+C	2100	740	545
+D	1599	562	562
+E	1379	316	176
+F	1009	310	697
+G	617	290	198
+H	643	286	777
+I	601	221	143
+J	607	149	75
+K	237	135	81
+L	854	300	170
+M	2116	715	789
+N	975	251	410
+O	4878	905	151
+P	1668	450	472
+Q	358	87	2
+R	956	321	137
+S	1882	723	502
+T	1702	839	1273
+U	1511	186	14
+V	702	205	98
+W	188	116	109
+X	242	16	482
+Y	53	70	26
+Z	113	30	18
