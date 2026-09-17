@@ -24,7 +24,14 @@ final class Telemetria {
     private struct Tocando { let tipo: Tipo; let titulo: String; let host: String? }
 
     private var tocando: Tocando?
-    private var contandoDesde = Date()
+    /// Só conta tempo com o vídeo andando: pausado ou carregando não é
+    /// assistir. `acumulado` é o que já andou desde a última batida.
+    private var acumulado: TimeInterval = 0
+    private var rodandoDesde: Date?
+    private var pausado = false
+    private var qualidade: String?
+    private var travouDesde: Date?
+    private var buscas: [String: (texto: String, espera: DispatchWorkItem?, achou: () -> Bool)] = [:]
     private var batida: Timer?
     private var intervalo: TimeInterval = 300
     private var iniciado = false
@@ -47,7 +54,9 @@ final class Telemetria {
         enviar("hello", [
             "version": versao,
             "model": Self.modelo(),
-            "os": "macOS \(ProcessInfo.processInfo.operatingSystemVersionString)"
+            "os": "macOS \(ProcessInfo.processInfo.operatingSystemVersionString)",
+            "screen": Self.tela(),
+            "lang": Locale.preferredLanguages.first ?? ""
         ]) { [weak self] corpo in
             if let s = corpo?["heartbeatSeconds"] as? Double, (60...3600).contains(s) {
                 self?.intervalo = s
@@ -76,16 +85,82 @@ final class Telemetria {
     }
 
     private func baterAgora(esperar: Bool = false) {
-        let agora = Date()
-        let segundos = tocando == nil ? 0 : Int(agora.timeIntervalSince(contandoDesde))
-        contandoDesde = agora
+        let segundos = tocando == nil ? 0 : Int(rodando)
+        acumulado = 0
+        if rodandoDesde != nil { rodandoDesde = Date() }
         var corpo: [String: Any] = ["version": versao, "seconds": segundos]
         if let t = tocando {
-            corpo["playing"] = ["kind": t.tipo.rawValue, "title": t.titulo, "host": t.host ?? ""]
+            var playing: [String: Any] = ["kind": t.tipo.rawValue, "title": t.titulo, "host": t.host ?? "", "paused": pausado]
+            if let qualidade { playing["quality"] = qualidade }
+            corpo["playing"] = playing
         } else {
             corpo["playing"] = NSNull()
         }
         enviar("beat", corpo, esperar: esperar)
+    }
+
+    private var rodando: TimeInterval {
+        acumulado + (rodandoDesde.map { Date().timeIntervalSince($0) } ?? 0)
+    }
+
+    /// O que o player está fazendo agora, a cada segundo e a cada pausa.
+    ///
+    /// `rodando` é o vídeo já confirmado na tela; `carregando` é o player
+    /// esperando dados. Pausar ou voltar bate na hora, para o painel não mostrar
+    /// como assistindo quem pausou. Carregar depois de ter começado é
+    /// travamento — menos logo depois de pular para outro ponto do filme.
+    func video(rodando: Bool, pausado: Bool, carregando: Bool, pulou: Bool, qualidade: String?) {
+        guard let t = tocando else { return }
+        let andando = rodando && !pausado && !carregando
+        if andando, rodandoDesde == nil { rodandoDesde = Date() }
+        if !andando, let desde = rodandoDesde {
+            acumulado += Date().timeIntervalSince(desde)
+            rodandoDesde = nil
+        }
+        if rodando, let qualidade { self.qualidade = qualidade }
+        if pulou {
+            travouDesde = nil
+        } else if rodando && carregando && !pausado {
+            if travouDesde == nil { travouDesde = Date() }
+        } else if let desde = travouDesde {
+            travouDesde = nil
+            let ms = Int(Date().timeIntervalSince(desde) * 1000)
+            if ms >= 500 && !pausado {
+                iniciar()
+                var corpo: [String: Any] = ["type": "stall", "version": versao, "kind": t.tipo.rawValue,
+                                            "title": t.titulo, "ms": ms, "detail": "\(ms) ms"]
+                if let h = t.host { corpo["host"] = h }
+                enviar("event", corpo)
+            }
+        }
+        if rodando, pausado != self.pausado {
+            self.pausado = pausado
+            baterAgora()
+        }
+    }
+
+    /// Busca que ficou parada 2 s sem resultado: o painel mostra o que
+    /// procuram e não acham. `achou` é lido só na hora de decidir.
+    func buscou(_ tipo: Tipo, _ texto: String, achou: @escaping () -> Bool) {
+        let texto = texto.trimmingCharacters(in: .whitespaces)
+        // Mesmo texto: só guarda a resposta mais nova (a lista pode ter chegado).
+        if buscas[tipo.rawValue]?.texto == texto {
+            buscas[tipo.rawValue]?.achou = achou
+            return
+        }
+        buscas[tipo.rawValue]?.espera?.cancel()
+        guard texto.count >= 3 else { buscas[tipo.rawValue] = (texto, nil, achou); return }
+        let espera = DispatchWorkItem { [weak self] in
+            MainActor.assumeIsolated {
+                guard let self, let busca = self.buscas[tipo.rawValue], busca.texto == texto,
+                      !busca.achou() else { return }
+                self.iniciar()
+                self.enviar("event", ["type": "search_miss", "version": self.versao,
+                                      "kind": tipo.rawValue, "query": texto])
+            }
+        }
+        buscas[tipo.rawValue] = (texto, espera, achou)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2, execute: espera)
     }
 
     /// `nova` é falso quando é só a próxima fonte do mesmo título depois de uma falha.
@@ -93,18 +168,22 @@ final class Telemetria {
         // O último canal é retomado antes de o App terminar o init; sem isto a
         // primeira abertura de cada sessão se perdia.
         iniciar()
-        let agora = Date()
-        if let anterior = tocando, anterior.titulo != titulo,
-           agora.timeIntervalSince(contandoDesde) >= minimoParaContar {
+        if let anterior = tocando, anterior.titulo != titulo, rodando >= minimoParaContar {
             baterAgora()
         }
-        if tocando?.titulo != titulo { contandoDesde = agora }
+        if tocando?.titulo != titulo {
+            acumulado = 0
+            rodandoDesde = nil
+            pausado = false
+            qualidade = nil
+        }
+        travouDesde = nil
         tocando = Tocando(tipo: tipo, titulo: titulo, host: Self.host(url))
         if nova { evento("play_start", tipo: tipo, titulo: titulo, url: url, fonte: fonte) }
     }
 
     func tocou(_ tipo: Tipo, _ titulo: String, url: URL?, fonte: Int, ms: Int) {
-        evento("play_ok", tipo: tipo, titulo: titulo, url: url, fonte: fonte, detalhe: "\(ms) ms")
+        evento("play_ok", tipo: tipo, titulo: titulo, url: url, fonte: fonte, detalhe: "\(ms) ms", ms: ms)
     }
 
     func falhou(_ tipo: Tipo, _ titulo: String, url: URL?, fonte: Int, detalhe: String) {
@@ -117,13 +196,18 @@ final class Telemetria {
 
     func parou() {
         guard tocando != nil else { return }
-        if Date().timeIntervalSince(contandoDesde) >= minimoParaContar { baterAgora() }
+        if rodando >= minimoParaContar { baterAgora() }
         tocando = nil
+        acumulado = 0
+        rodandoDesde = nil
+        pausado = false
+        qualidade = nil
+        travouDesde = nil
         evento("play_stop")
     }
 
     private func evento(_ tipo: String, tipo kind: Tipo? = nil, titulo: String? = nil, url: URL? = nil,
-                        fonte: Int? = nil, detalhe: String? = nil, esperar: Bool = false) {
+                        fonte: Int? = nil, detalhe: String? = nil, ms: Int? = nil, esperar: Bool = false) {
         iniciar()
         var corpo: [String: Any] = ["type": tipo, "version": versao]
         if let kind { corpo["kind"] = kind.rawValue }
@@ -131,6 +215,7 @@ final class Telemetria {
         if let h = Self.host(url) { corpo["host"] = h }
         if let fonte { corpo["source"] = fonte }
         if let detalhe { corpo["detail"] = detalhe }
+        if let ms { corpo["ms"] = ms }
         enviar("event", corpo, esperar: esperar)
     }
 
@@ -183,6 +268,12 @@ final class Telemetria {
     private static func host(_ url: URL?) -> String? {
         guard let h = url?.host, !h.isEmpty, h != "127.0.0.1", h != "localhost" else { return nil }
         return h.hasPrefix("www.") ? String(h.dropFirst(4)) : h
+    }
+
+    private static func tela() -> String {
+        guard let s = NSScreen.main else { return "" }
+        let px = s.convertRectToBacking(s.frame).size
+        return "\(Int(px.width))x\(Int(px.height))"
     }
 
     private static func modelo() -> String {

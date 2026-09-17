@@ -236,6 +236,10 @@ struct VodGridView: View {
         let visiveis = estado.busca.isEmpty ? itens : itens.filter {
             $0.nomeCompleto.localizedCaseInsensitiveContains(estado.busca)
         }
+        if !carregando {
+            let vazio = visiveis.isEmpty
+            Telemetria.shared.buscou(.vod, estado.busca) { !vazio }
+        }
         return Group {
             if visiveis.isEmpty {
                 aviso(carregando ? "Carregando…" : "Nada aqui")
