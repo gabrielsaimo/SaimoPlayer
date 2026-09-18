@@ -44,6 +44,24 @@ final class ProxyServer {
     private var hostsRuins: [String: Date] = [:]
     private static let penalidadeDeHost: TimeInterval = 300
 
+    /// A última playlist que a fonte em uso entregou boa, e quando.
+    ///
+    /// Numa playlist de mídia ao vivo o player repete o pedido a cada poucos
+    /// segundos. Uma dessas repetições falhar não quer dizer que a fonte
+    /// morreu — é 5xx solto, rede oscilando, CDN trocando de máquina. Trocar
+    /// de fonte nesse instante joga quem está assistindo para outra linha do
+    /// tempo, e era isso que fazia o canal ficar pulando de origem sozinho.
+    /// Enquanto a fonte vinha funcionando, esta lista segura o refresh: o
+    /// player recebe o que já conhece e simplesmente espera, que é o que a
+    /// norma manda quando a playlist não mudou.
+    private var ultimaBoa: [UUID: (corpo: Payload, quando: Date, fonte: Int)] = [:]
+    /// Recusas seguidas da fonte em uso, por canal. Zera a cada lista boa.
+    private var recusasSeguidas: [UUID: Int] = [:]
+    /// Quantas recusas seguidas antes de aceitar que a fonte caiu mesmo.
+    private static let recusasParaTrocar = 3
+    /// Por quanto tempo a lista guardada ainda serve no lugar de uma troca.
+    private static let validadeDaGuardada: TimeInterval = 20
+
     func variantIndex(_ channel: Channel) -> Int {
         lock.lock(); defer { lock.unlock() }
         return min(activeVariant[channel.id] ?? 0, channel.variants.count - 1)
@@ -324,27 +342,47 @@ final class ProxyServer {
         let isSegment = segments[2] == "s"
         if !wantsRaw, !isSegment {
             let start = variantIndex(channel)
-            for offset in 0..<channel.variants.count {
+            let responder: (Payload) -> Void = { payload in
+                self.send(fd, status: 200,
+                          headers: [
+                            "Content-Type": payload.contentType,
+                            "Cache-Control": "no-cache, no-store",
+                            "Access-Control-Allow-Origin": "*",
+                          ],
+                          body: payload.body, headOnly: method == "HEAD")
+            }
+
+            // A fonte em uso tem preferência e tem crédito: enquanto ela vinha
+            // entregando, uma recusa isolada é respondida com a última lista
+            // boa em vez de uma troca. Só depois de recusas seguidas — ou de a
+            // lista guardada envelhecer — é que vale procurar outra origem.
+            if let payload = serveRoot(channel: channel, variant: channel.variants[start]) {
+                registrarBoa(channel, start, payload)
+                responder(payload)
+                return
+            }
+            if let guardada = guardadaParaSegurar(channel, start) {
+                Log.shared.write("\(channel.name): refresh da fonte \(start + 1) falhou — segurando na lista anterior")
+                responder(guardada)
+                return
+            }
+
+            for offset in 1...max(channel.variants.count, 1) {
                 let index = (start + offset) % channel.variants.count
+                if index == start { break }
                 // Committed before the attempt so /raw and /manifest resolve to
                 // the same source the attempt is testing.
                 setVariant(channel, index)
                 if let payload = serveRoot(channel: channel, variant: channel.variants[index]) {
-                    if offset > 0 {
-                        Log.shared.write("\(channel.name): usando fonte \(index + 1)")
-                    }
-                    send(fd, status: 200,
-                         headers: [
-                            "Content-Type": payload.contentType,
-                            "Cache-Control": "no-cache, no-store",
-                            "Access-Control-Allow-Origin": "*",
-                         ],
-                         body: payload.body, headOnly: method == "HEAD")
+                    Log.shared.write("\(channel.name): usando fonte \(index + 1)")
+                    registrarBoa(channel, index, payload)
+                    responder(payload)
                     return
                 }
                 Log.shared.write("\(channel.name): fonte \(index + 1) falhou")
             }
             setVariant(channel, start)
+            esquecerGuardada(channel)
             send(fd, status: 502, headers: [:],
                  body: Data("todas as fontes falharam".utf8), headOnly: method == "HEAD")
             return
@@ -416,6 +454,58 @@ final class ProxyServer {
         let body: Data
     }
 
+    /// Guarda a lista que funcionou: é ela que segura um refresh perdido.
+    private func registrarBoa(_ channel: Channel, _ index: Int, _ payload: Payload) {
+        lock.lock()
+        ultimaBoa[channel.id] = (payload, Date(), index)
+        recusasSeguidas[channel.id] = 0
+        lock.unlock()
+    }
+
+    /// A lista guardada da fonte em uso, enquanto ainda vale insistir nela.
+    ///
+    /// Conta a recusa e devolve nil quando já foram recusas demais ou quando a
+    /// lista guardada envelheceu — aí a fonte caiu de verdade e trocar é o certo.
+    private func guardadaParaSegurar(_ channel: Channel, _ index: Int) -> Payload? {
+        lock.lock(); defer { lock.unlock() }
+        let recusas = (recusasSeguidas[channel.id] ?? 0) + 1
+        recusasSeguidas[channel.id] = recusas
+        guard recusas < Self.recusasParaTrocar,
+              let guardada = ultimaBoa[channel.id],
+              guardada.fonte == index,
+              Date().timeIntervalSince(guardada.quando) < Self.validadeDaGuardada
+        else { return nil }
+        return guardada.corpo
+    }
+
+    private func esquecerGuardada(_ channel: Channel) {
+        lock.lock()
+        ultimaBoa.removeValue(forKey: channel.id)
+        recusasSeguidas[channel.id] = 0
+        lock.unlock()
+    }
+
+    /// Alguns CDNs respondem 200, com playlist válida, mas com um aviso de
+    /// manutenção no lugar do canal: lista fechada, de poucos segundos, que o
+    /// player toca até o fim e encerra. Aceitar isso como fonte viva é o que
+    /// deixava o canal reabrindo sem parar — e escondia a fonte que prestava,
+    /// mais abaixo na lista. Vale só para lista fechada e curta, para não
+    /// derrubar os canais 24h, que são longos.
+    private func ehAvisoEnlatado(_ playlist: String) -> Bool {
+        guard playlist.contains("#EXT-X-ENDLIST") else { return false }
+        let baixo = playlist.lowercased()
+        for marca in ["manutencao", "manutenção", "maintenance", "offline", "no-signal", "sem-sinal"] {
+            if baixo.contains(marca) { return true }
+        }
+        let total = playlist.split(separator: "\n").reduce(into: 0.0) { soma, linha in
+            let t = linha.trimmingCharacters(in: .whitespaces)
+            guard t.hasPrefix("#EXTINF:"),
+                  let valor = Double(t.dropFirst(8).split(separator: ",").first ?? "") else { return }
+            soma += valor
+        }
+        return total < 60
+    }
+
     /// Produces the playlist for a single source, or nil when that source is
     /// unusable and the next one should be tried.
     private func serveRoot(channel: Channel, variant: Variant) -> Payload? {
@@ -439,7 +529,13 @@ final class ProxyServer {
               res.body.prefix(7) == Data("#EXTM3U".utf8)
         else { return nil }
 
-        let rewritten = rewrite(playlist: String(decoding: res.body, as: UTF8.self),
+        let texto = String(decoding: res.body, as: UTF8.self)
+        if ehAvisoEnlatado(texto) {
+            Log.shared.write("\(channel.name): \(variant.url.host ?? "fonte") respondeu aviso enlatado — pulando")
+            return nil
+        }
+
+        let rewritten = rewrite(playlist: texto,
                                 base: res.finalURL, channelID: channel.id)
         return Payload(contentType: "application/vnd.apple.mpegurl", body: Data(rewritten.utf8))
     }
