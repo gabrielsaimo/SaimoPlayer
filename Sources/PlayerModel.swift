@@ -127,6 +127,9 @@ final class PlayerModel: NSObject, ObservableObject {
     private var statsTimer: Timer?
     private var watchdog: Timer?
     private var stalledSince: Date?
+    /// Último ponto do relógio do player, e quando ele andou pela última vez.
+    /// Relógio andando é imagem saindo — não importa o que o estado diga.
+    private var ultimoRelogio: Double = -1
     private var reconnectAttempt = 0
     /// Se a fonte atual chegou a entregar imagem desde que o canal abriu.
     /// Enquanto não chegou, uma falha significa fonte ruim, não rede ruim.
@@ -379,6 +382,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 }
             })
 
+        ultimoRelogio = -1
         player.replaceCurrentItem(with: item)
         player.rate = rate
         isPlaying = true
@@ -694,24 +698,42 @@ final class PlayerModel: NSObject, ObservableObject {
     }
 
     /// AVPlayer keeps "waiting to play" forever on a dead live source; reconnect instead.
+    ///
+    /// O estado sozinho mente: numa transmissão ao vivo o player entra em
+    /// `waitingToPlayAtSpecifiedRate` a cada respiro do buffer, e tratar isso
+    /// como queda trocava a fonte com o canal vivo na tela. Quem decide aqui é
+    /// o relógio do player: enquanto ele anda, sai imagem, e não há queda —
+    /// só depois de ele ficar parado por tempo demais é que vale reconectar.
     private func checkStall() {
-        guard isPlaying else { stalledSince = nil; return }
-        if player.timeControlStatus == .waitingToPlayAtSpecifiedRate {
-            if let since = stalledSince {
-                // Uma fonte viva entrega imagem em segundos. Esperar doze antes
-                // de desconfiar só faz sentido depois que ela já tocou uma vez.
-                let limite: TimeInterval = playedSinceOpen ? 12 : 8
-                if Date().timeIntervalSince(since) > limite {
-                    stalledSince = nil
-                    scheduleReconnect(reason: playedSinceOpen ? "travado sem dados"
-                                                             : "fonte não entregou imagem")
-                }
-            } else {
-                stalledSince = Date()
-            }
-        } else {
+        guard isPlaying else { stalledSince = nil; ultimoRelogio = -1; return }
+
+        let agora = player.currentTime().seconds
+        if agora.isFinite, agora > ultimoRelogio + 0.25 {
+            ultimoRelogio = agora
             stalledSince = nil
+            return
         }
+        // Relógio para trás é linha do tempo nova — fonte trocada por baixo ou
+        // um pulo no arquivo. Recomeça a contagem em vez de acusar travamento.
+        if agora.isFinite {
+            if agora < ultimoRelogio - 1 { ultimoRelogio = agora; stalledSince = nil; return }
+            ultimoRelogio = max(ultimoRelogio, agora)
+        }
+
+        guard player.timeControlStatus == .waitingToPlayAtSpecifiedRate else {
+            stalledSince = nil
+            return
+        }
+        guard let since = stalledSince else { stalledSince = Date(); return }
+
+        // Uma fonte que nunca entregou imagem some rápido da frente. Já a que
+        // estava tocando ganha meio minuto: quem está assistindo prefere um
+        // engasgo longo a ser jogado para outra origem sem precisar.
+        let limite: TimeInterval = playedSinceOpen ? 30 : 8
+        guard Date().timeIntervalSince(since) > limite else { return }
+        stalledSince = nil
+        scheduleReconnect(reason: playedSinceOpen ? "travado sem dados"
+                                                  : "fonte não entregou imagem")
     }
 
     // MARK: - Audio / subtitles
