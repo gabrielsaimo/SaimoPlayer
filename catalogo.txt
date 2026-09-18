@@ -1,5 +1,5 @@
 # SAIMO TV — LISTA DE CANAIS
-# 370 canais · 17/09/2026
+# 408 canais · 17/09/2026
 #
 # Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
 # precisa ser recompilado nem reinstalado.
@@ -21,7 +21,8 @@
 
 canal: A&E
 categoria: Documentários
-logo: https://www.tvlogo.org/brazil/a-and-e-br.png
+logo: https://img.faz-o-eli.online/ae.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ae.txt
 fonte: http://64.31.23.207:80/59471019/60849037/518547.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518548.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518549.m3u8
@@ -29,7 +30,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71760.m3u8
 
 canal: Adult Swim
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/adult-swim.png
+logo: https://img.faz-o-eli.online/adultswim.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/adultswim.txt
 fonte: http://64.31.23.207:80/59471019/60849037/518592.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518593.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518594.m3u8
@@ -37,7 +39,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/251957.m3u8
 
 canal: AMC
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/amc.png
+logo: https://img.faz-o-eli.online/amc.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amc.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=174&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481850-aQfTkNQAOqt0%2FDZ1N2fQuCIVuahnjtgve%2BB7F03qauI%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324427.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324429.m3u8
@@ -45,7 +48,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71768.m3u8
 
 canal: Animal Planet
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/animal-planet.png
+logo: https://img.faz-o-eli.online/animalplanet.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/animalplanet.txt
 fonte: http://64.31.23.207:80/59471019/60849037/296619.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/296620.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/296621.m3u8
@@ -62,7 +66,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324376.m3u8
 
 canal: Cartoon Network
 categoria: Infantil
-logo: https://mondrian.claro.com.br/channels/inverse/cartoon-network.png
+logo: https://img.faz-o-eli.online/cartoonnetwork.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cartoonnetwork.txt
 fonte: http://64.31.23.207:80/59471019/60849037/1882622.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/1882623.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/1882624.m3u8
@@ -70,7 +75,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71831.m3u8
 
 canal: CNN Brasil
 categoria: Notícias
-logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil.png
+logo: https://img.faz-o-eli.online/cnnbrasil.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cnnbrasil.txt
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 fonte: http://64.31.23.207:80/59471019/60849037/324379.m3u8
@@ -110,7 +116,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460157.m3u8
 
 canal: GloboNews
 categoria: Notícias
-logo: https://mondrian.claro.com.br/channels/inverse/globonews.png
+logo: https://img.faz-o-eli.online/globonews.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globonews.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -124,7 +131,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71999.m3u8
 
 canal: Globoplay Novelas
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/globoplay-novelas.png
+logo: https://img.faz-o-eli.online/globonovelas.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globonovelas.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -138,7 +146,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72429.m3u8
 
 canal: GNT
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/gnt.png
+logo: https://img.faz-o-eli.online/gnt.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/gnt.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -152,7 +161,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72102.m3u8
 
 canal: History
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/history-channel.png
+logo: https://img.faz-o-eli.online/history.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/history.txt
 fonte: http://46.151.196.223:14410
 fonte: http://45.177.114.114/HISTORY/index.m3u8
 fonte: http://170.83.16.50/HISTORY/index.m3u8
@@ -163,7 +173,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72146.m3u8
 
 canal: History 2
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/history-2.png
+logo: https://img.faz-o-eli.online/history2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/history2.txt
 fonte: http://64.31.23.207:80/59471019/60849037/296617.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/296618.m3u8
 
@@ -183,7 +194,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/134023.m3u8
 
 canal: Megapix
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/megapix.png
+logo: https://img.faz-o-eli.online/megapix.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/megapix.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -195,7 +207,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72166.m3u8
 
 canal: Multishow
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/multishow.png
+logo: https://img.faz-o-eli.online/multishow.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/multishow.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -207,7 +220,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/131193.m3u8
 
 canal: Premiere 2
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere2.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -218,7 +232,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72237.m3u8
 
 canal: Premiere 3
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere3.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -229,7 +244,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72241.m3u8
 
 canal: Premiere 4
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere4.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -240,7 +256,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72245.m3u8
 
 canal: Premiere 5
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere5.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -264,7 +281,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72253.m3u8
 
 canal: Premiere 7
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere7.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/joij38hkop/out/v1/c920c9b42af24588a253530ed2cbd6eb/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -288,7 +306,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/180158.m3u8
 
 canal: Premiere Clubes
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
+logo: https://img.faz-o-eli.online/premiere.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -324,14 +343,16 @@ fonte: http://64.31.23.207:80/59471019/60849037/3459568.m3u8
 
 canal: Sony Channel
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/sony.png
+logo: https://img.faz-o-eli.online/sonychannel.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sonychannel.txt
 fonte: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324457.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324459.m3u8
 
 canal: SporTV
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/sportv1/__index.m3u8?sv=209&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482247-IsLpWWPSCOVPJe%2BQFKfjj8ad6ME1HqQgB4Ilj8j3bIc%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324391.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460200.m3u8
@@ -341,7 +362,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72329.m3u8
 
 canal: SporTV 2
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
+logo: https://img.faz-o-eli.online/sportv2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv2.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -353,7 +375,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72321.m3u8
 
 canal: SporTV 3
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/sportv-3.png
+logo: https://img.faz-o-eli.online/sportv3.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv3.txt
 fonte: https://qw.live.pv-cdn.net/OTTB/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -366,7 +389,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72325.m3u8
 
 canal: Canal OFF
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/canal-off.png
+logo: https://img.faz-o-eli.online/off.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/off.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/off/__index.m3u8?sv=170&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482178-hTTR6m5u7tJKBv%2BhzwcRf1RlCc7gP%2Fj3%2FYDoWN1TqcA%3D
 fonte: http://64.31.23.207:80/59471019/60849037/518583.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518584.m3u8
@@ -374,7 +398,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/518585.m3u8
 
 canal: Telecine Action
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png
+logo: https://img.faz-o-eli.online/telecineaction.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecineaction.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=165&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789480849-%2BLNTW%2BYZ8D1xeEQtqqfFKMOnz%2BRjKIAMya248czYw9k%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324314.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324316.m3u8
@@ -384,7 +409,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72346.m3u8
 
 canal: Telecine Pipoca
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png
+logo: https://img.faz-o-eli.online/telecinepipoca.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinepipoca.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481420-wsQGn%2B%2BG7zXUNEt30tuVTlxLptNEGRIJLyuVr4ySGCE%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324332.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324334.m3u8
@@ -394,7 +420,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72358.m3u8
 
 canal: Telecine Premium
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png
+logo: https://img.faz-o-eli.online/telecinepremium.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinepremium.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=109&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481656-ONs6POlWKE0GJKIkx21NeahpogJD60Zlio8BIrF0cqc%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324338.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324340.m3u8
@@ -432,7 +459,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/518603.m3u8
 
 canal: Warner
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/warner-channel.png
+logo: https://img.faz-o-eli.online/warnerchannel.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/warnerchannel.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324511.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324513.m3u8
 
@@ -444,13 +472,15 @@ fonte: https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 
 canal: Globo SP
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/globo.png
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globosp.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324386.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72040.m3u8
 
 canal: Cartoonito
 categoria: Infantil
-logo: https://mondrian.claro.com.br/channels/inverse/cartoonito.png
+logo: https://img.faz-o-eli.online/cartoonito.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cartoonito.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/cartoonito/__index.m3u8?sv=7&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1788473248-7Yzu%2FtAxzRQJhmQMxTVyaqyf5vslWwRo1yq49kLi7ms%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324378.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/1882631.m3u8
@@ -460,14 +490,16 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71812.m3u8
 
 canal: Cinemax
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/cinemax.png
+logo: https://img.faz-o-eli.online/cinemax.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinemax.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324445.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324447.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71833.m3u8
 
 canal: Discovery Channel
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
+logo: https://img.faz-o-eli.online/discoverychannel.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverychannel.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297936.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297937.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297938.m3u8
@@ -476,20 +508,23 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71862.m3u8
 
 canal: Discovery Kids
 categoria: Infantil
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-kids.png
+logo: https://img.faz-o-eli.online/discoverykids.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverykids.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297946.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71871.m3u8
 
 canal: Discovery Theater
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-theater.png
+logo: https://img.faz-o-eli.online/discoverytheater.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverytheather.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297954.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297956.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71879.m3u8
 
 canal: ESPN
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn.txt
 fonte: http://181.78.197.59:8000/play/a07z/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324384.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460182.m3u8
@@ -499,7 +534,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71911.m3u8
 
 canal: ESPN 2
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn2.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460185.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460186.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460187.m3u8
@@ -507,7 +543,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71919.m3u8
 
 canal: ESPN 4
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn4.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn4.txt
 fonte: http://181.78.197.59:8000/play/a07n/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460191.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460192.m3u8
@@ -516,7 +553,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71957.m3u8
 
 canal: ESPN 5
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn5.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn5.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460194.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460195.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460196.m3u8
@@ -524,7 +562,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71952.m3u8
 
 canal: ESPN 6
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn6.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn6.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460197.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460198.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460199.m3u8
@@ -532,42 +571,48 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71915.m3u8
 
 canal: HBO
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hbo.png
+logo: https://img.faz-o-eli.online/hbo.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbo.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514107.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514108.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72118.m3u8
 
 canal: HBO2
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-2.png
+logo: https://img.faz-o-eli.online/hbo2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbo2.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514110.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514111.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72110.m3u8
 
 canal: HBO Family
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-family.png
+logo: https://img.faz-o-eli.online/hbofamily.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbofamily.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514113.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514114.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72114.m3u8
 
 canal: HBO Mundi
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-mundi.png
+logo: https://img.faz-o-eli.online/hbomundi.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbomundi.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514116.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514117.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72121.m3u8
 
 canal: HBO Plus
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hboplus.png
+logo: https://img.faz-o-eli.online/hboplus.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hboplus.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514119.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514120.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72125.m3u8
 
 canal: HBO Pop
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/hbo-pop.png
+logo: https://img.faz-o-eli.online/hbopop.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbopop.txt
 fonte: http://64.31.23.207:80/59471019/60849037/514122.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/514123.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72129.m3u8
@@ -594,28 +639,32 @@ fonte: https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 
 canal: Space
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/space.png
+logo: https://img.faz-o-eli.online/space.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/space.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324463.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324465.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72317.m3u8
 
 canal: TNT
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/tnt.png
+logo: https://img.faz-o-eli.online/tnt.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tnt.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324481.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324483.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72375.m3u8
 
 canal: TNT Séries
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/tnt-series.png
+logo: https://img.faz-o-eli.online/tntseries.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tntseries.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324493.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324495.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72380.m3u8
 
 canal: Universal TV
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/universal.png
+logo: https://img.faz-o-eli.online/universaltv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/universaltv.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/universal/__index.m3u8?sv=74&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482672-uCEvMtRV007ucHTRwZKYBOCkaXSKKT6lbExawBbmlo4%3D
 fonte: https://getcdn.clarocdn.com.br/Content/Channel/SPOUNVHD/dsc3/manifest.mpd
 referer: https://www.clarotvmais.com.br/
@@ -635,7 +684,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324531.m3u8
 
 canal: Discovery Turbo
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-turbo.png
+logo: https://img.faz-o-eli.online/discoveryturbo.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryturbo.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297942.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297943.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297944.m3u8
@@ -655,7 +705,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72338.m3u8
 
 canal: Telecine Fun
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png
+logo: https://img.faz-o-eli.online/telecinefun.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinefun.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=17&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481327-bAc95Xi1E33YuPzcP0Pfdk59FX1r3MNMJfugpAIgMyg%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324326.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324328.m3u8
@@ -665,7 +716,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72354.m3u8
 
 canal: Telecine Cult
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png
+logo: https://img.faz-o-eli.online/telecinecult.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinecult.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481098-We7WOf%2FCKC5Szz6DBJZWjWDomevUrQBhQEZeAWygp1w%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324320.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324322.m3u8
@@ -675,7 +727,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72350.m3u8
 
 canal: Telecine Touch
 categoria: Filmes e Séries
-logo: https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png
+logo: https://img.faz-o-eli.online/telecinetouch.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinetouch.txt
 fonte: https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=182&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481749-PEP6NRR3E9xH7MZHGVXlfncRXoDVCcI8fs%2F7C3d7Dds%3D
 fonte: http://64.31.23.207:80/59471019/60849037/324344.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324346.m3u8
@@ -705,7 +758,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/1882640.m3u8
 
 canal: TLC
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/tlc.png
+logo: https://img.faz-o-eli.online/tlc.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tlc.txt
 fonte: http://79.127.238.228:14433
 fonte: http://64.31.23.207:80/59471019/60849037/518586.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518587.m3u8
@@ -722,21 +776,24 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71777.m3u8
 
 canal: TNT Novelas
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/tnt-novelas.png
+logo: https://img.faz-o-eli.online/tntnovelas.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tntnovelas.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324485.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324487.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72342.m3u8
 
 canal: Discovery Science
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/discovery-science.png
+logo: https://img.faz-o-eli.online/discoveryscience.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryscience.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297951.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297952.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71875.m3u8
 
 canal: AXN
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/axn.png
+logo: https://img.faz-o-eli.online/axn.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/axn.txt
 fonte: http://170.83.16.50/AXN/index.m3u8
 fonte: http://170.83.49.66:8083/AXNHD/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324375.m3u8
@@ -746,13 +803,15 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71781.m3u8
 
 canal: TCM
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/tcm.png
+logo: https://img.faz-o-eli.online/tcm.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tcm.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324475.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324477.m3u8
 
 canal: Band News
 categoria: Notícias
-logo: https://mondrian.claro.com.br/channels/inverse/band-news.png
+logo: https://img.faz-o-eli.online/bandnews.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandnews.txt
 fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 fonte: http://45.177.114.115/BAND_NEWS/index.m3u8
 fonte: http://168.197.104.22/BAND_NEWS/index.m3u8
@@ -763,7 +822,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71789.m3u8
 
 canal: BAND SPORTS HD
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/band-sports.png
+logo: https://img.faz-o-eli.online/bandsports.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsports.txt
 fonte: http://45.162.64.114/BAND_SPORTS/index.m3u8
 fonte: http://170.83.16.50/BAND_SPORTS/index.m3u8
 fonte: http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
@@ -786,7 +846,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72297.m3u8
 
 canal: TV Cultura
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/cultura.png
+logo: https://img.faz-o-eli.online/cultura.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cultura.txt
 fonte: https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 fonte: https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 fonte: https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -812,7 +873,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72435.m3u8
 
 canal: ESPN 3
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/espn-3.png
+logo: https://img.faz-o-eli.online/espn3.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn3.txt
 fonte: http://181.78.197.59:8000/play/a081/index.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460188.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460189.m3u8
@@ -840,7 +902,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72271.m3u8
 
 canal: Canção Nova
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/cancao-nova.png
+logo: https://img.faz-o-eli.online/cancaonova.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cancaonova.txt
 fonte: http://46.151.196.223:14225
 fonte: https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 fonte: http://45.162.64.114/CANCAO_NOVA/index.m3u8
@@ -858,7 +921,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72394.m3u8
 
 canal: Rede Vida
 categoria: TV Aberta
-logo: https://www.tvlogo.org/brazil/rede-vida-br.png
+logo: https://img.faz-o-eli.online/redevida.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redevida.txt
 fonte: http://46.151.196.223:14244
 fonte: http://168.197.104.22/REDE_VIDA/index.m3u8
 fonte: http://186.219.52.187/rede_vida/index.m3u8
@@ -867,7 +931,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72293.m3u8
 
 canal: Discovery ID
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
+logo: https://img.faz-o-eli.online/discoverychannel.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryid.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297949.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297950.m3u8
 
@@ -887,7 +952,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/1882644.m3u8
 
 canal: X Sports
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/xsports.png
+logo: https://img.faz-o-eli.online/xsports.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/xsports.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460175.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460262.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460263.m3u8
@@ -909,7 +975,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72184.m3u8
 
 canal: Band SP
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/band.png
+logo: https://img.faz-o-eli.online/band.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsp.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324371.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324372.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/79311.m3u8
@@ -921,14 +988,16 @@ fonte: http://64.31.23.207:80/59471019/60849037/324368.m3u8
 
 canal: SBT SP
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
+logo: https://img.faz-o-eli.online/sbt.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtsp.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324307.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324308.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/77963.m3u8
 
 canal: Record SP
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
+logo: https://img.faz-o-eli.online/record.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordsp.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324389.m3u8
 
 canal: Canal Rural
@@ -958,7 +1027,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/3459547.m3u8
 
 canal: TV Pai Eterno
 categoria: Variedades
-logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-pai-eterno-br.png
+logo: https://img.faz-o-eli.online/tvpaieterno.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvpaieterno.txt
 fonte: https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 fonte: http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
@@ -1041,7 +1111,8 @@ fonte: http://170.83.49.66:8083/RITHD/index.m3u8
 
 canal: Discovery Home & Health
 categoria: Documentários
-logo: https://mondrian.claro.com.br/channels/inverse/discovery.png
+logo: https://img.faz-o-eli.online/discoveryhh.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryhh.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297939.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297940.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297941.m3u8
@@ -1975,12 +2046,14 @@ fonte: http://64.31.23.207:80/59471019/60849037/2945301.m3u8
 
 canal: Amazon Prime Video 01
 categoria: Esportes
-logo: http://www.fontedecanais.gs/logos/canais/primevideo.png
+logo: https://img.faz-o-eli.online/primevideo.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/primevideo.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460179.m3u8
 
 canal: Amazon Prime Video 02
 categoria: Esportes
-logo: http://www.fontedecanais.gs/logos/canais/primevideo.png
+logo: https://img.faz-o-eli.online/primevideo.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/primevideo2.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460180.m3u8
 
 canal: Amazon Prime Video 03
@@ -2005,7 +2078,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460245.m3u8
 
 canal: Combate
 categoria: Esportes
-logo: http://logos.imperioapps.top/COMBATE.png
+logo: https://img.faz-o-eli.online/combate.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/combate.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297542.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297543.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297544.m3u8
@@ -2077,7 +2151,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460254.m3u8
 
 canal: Paramount+ (Jogo 1)
 categoria: Esportes
-logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
+logo: https://img.faz-o-eli.online/paramountplus.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/paramountplus.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460171.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460273.m3u8
 
@@ -2100,13 +2175,15 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460278.m3u8
 
 canal: SportyNet 01
 categoria: Esportes
-logo: http://www.fontedecanais.gs/logos/canais/sportynet.png
+logo: https://img.faz-o-eli.online/sportynet.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynet.txt
 fonte: http://64.31.23.207:80/59471019/60849037/3460158.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/3460269.m3u8
 
 canal: UFC Fight Pass 01
 categoria: Esportes
-logo: http://logos.imperioapps.top/UFC_FIGHT_PASS.png
+logo: https://img.faz-o-eli.online/ufcfightpass.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ufcfightpass.txt
 fonte: http://64.31.23.207:80/59471019/60849037/297545.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/297548.m3u8
 
@@ -2178,7 +2255,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324517.m3u8
 
 canal: Studio Universal
 categoria: Filmes e Séries
-logo: http://logos.appscms.xyz/logos/2025/studiouniversal.png
+logo: https://img.faz-o-eli.online/studiouniversal.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/studiouniversal.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324392.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324469.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324471.m3u8
@@ -2186,7 +2264,8 @@ fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/72334.m3u8
 
 canal: Gloob
 categoria: Infantil
-logo: https://logos.imperioapps.top/GLOOB.png
+logo: https://img.faz-o-eli.online/gloob.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/gloob.txt
 fonte: http://64.31.23.207:80/59471019/60849037/1882625.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/1882626.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/1882627.m3u8
@@ -2254,7 +2333,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324365.m3u8
 
 canal: Band RJ
 categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/band.png
+logo: https://img.faz-o-eli.online/band.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandrj.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324366.m3u8
 
 canal: Band RN
@@ -2326,7 +2406,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324301.m3u8
 
 canal: SBT RJ
 categoria: TV Aberta
-logo: http://www.fontedecanais.me/logos/canais/sbt.png
+logo: https://img.faz-o-eli.online/sbt.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtrj.txt
 fonte: http://64.31.23.207:80/59471019/60849037/324302.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/324303.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/108681.m3u8
@@ -2361,7 +2442,8 @@ fonte: http://64.31.23.207:80/59471019/60849037/324380.m3u8
 
 canal: Food Network
 categoria: Variedades
-logo: http://www.fontedecanais.me/logos/canais/foodnetwork.png
+logo: https://img.faz-o-eli.online/foodnetwork.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/foodnetwork.txt
 fonte: http://64.31.23.207:80/59471019/60849037/518566.m3u8
 fonte: http://64.31.23.207:80/59471019/60849037/518567.m3u8
 fonte: http://premiumsh.pro:80/9193337011tv1/123789456Ab/71932.m3u8
@@ -2378,3 +2460,192 @@ canal: SBT+ Raiz
 categoria: Variedades
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
 fonte: http://64.31.23.207:80/59471019/60849037/324285.m3u8
+canal: 24H Chaves
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_chaves.txt
+
+canal: 24H Dragon Ball Z
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_dragonball.txt
+
+canal: 24H Naruto Clássico
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_naruto.txt
+
+canal: 24H Os Simpsons
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_simpsons.txt
+
+canal: 24H Pica Pau
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_picapau.txt
+
+canal: 24H Todo Mundo Odeia o Cris
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/24h_odeiachris.txt
+
+canal: Discovery World
+categoria: Documentários
+logo: https://img.faz-o-eli.online/discoveryworld.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryworld.txt
+
+canal: CazeTV 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/caze1.txt
+
+canal: CazeTV 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/caze2.txt
+
+canal: PT - A Bola
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_abola.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_abola.txt
+
+canal: PT - Benfica TV
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_benficatv.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_benficatv.txt
+
+canal: PT - Canal 11
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_canal11.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_canal11.txt
+
+canal: PT - Eleven 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven1.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_eleven1.txt
+
+canal: PT - Eleven 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_eleven2.txt
+
+canal: PT - Eleven 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/pt_eleven3.prev.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_eleven3.txt
+
+canal: PT - Sporttv 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv1.txt
+
+canal: PT - Sporttv 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv2.txt
+
+canal: PT - Sporttv 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv3.txt
+
+canal: PT - Sporttv 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv4.txt
+
+canal: PT - Sporttv 5
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv5.txt
+
+canal: PT - Sporttv 6
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv6.txt
+
+canal: PT - Sporttv 7
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pt_sportv7.txt
+
+canal: SportyNet+ 1
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynetplus1.txt
+
+canal: SportyNet+ 2
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynetplus2.txt
+
+canal: SportyNet+ 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportynet.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynetplus3.txt
+
+canal: Globo AM
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoam.txt
+
+canal: Globo CE
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoce.txt
+
+canal: Globo ES
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoes.txt
+
+canal: Globo GO
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globogo.txt
+
+canal: Globo PB
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globopb.txt
+
+canal: Globo PE
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globope.txt
+
+canal: Globo RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globorj.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globorj.txt
+
+canal: Globo RS
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globors.txt
+
+canal: Record GO
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordgo.txt
+
+canal: Record MG
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordmg.txt
+
+canal: Record RJ
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/record.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordrj.txt
+
+canal: HGTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/hgtv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hgtv.txt
+
+canal: MTV
+categoria: Variedades
+logo: https://img.faz-o-eli.online/mtv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtv.txt
