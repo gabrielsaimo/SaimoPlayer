@@ -50,6 +50,8 @@ TMDB_REDIRECT = re.compile(
 )
 PRINT_LOCK = threading.Lock()
 NETWORK_LOCK = threading.Lock()
+TMDB_RATE_LOCK = threading.Lock()
+TMDB_LAST_REQUEST = 0.0
 EPISODE_TMDB_CACHE: dict[tuple[str, str], str] = {}
 SERIES_TMDB_CACHE: dict[str, tuple[str, int, int]] = {}
 
@@ -138,7 +140,13 @@ def episode_tmdb_id(
     """Obtém o TMDB do episódio diretamente da fonte que publicou o stream."""
     ids: set[str] = set()
     errors: list[str] = []
-    ordered = sorted(row.sources, key=lambda pair: ({3: 0, 7: 1}.get(pair[0], 2), pair))
+    # A base 7 responde metadados de episódios. A 3 fica como segunda opção;
+    # as demais bases de séries do índice estão desativadas/inacessíveis e
+    # esperar o timeout delas em centenas de milhares de linhas seria inútil.
+    ordered = sorted(
+        (pair for pair in row.sources if pair[0] in {7, 3}),
+        key=lambda pair: ({7: 0, 3: 1}.get(pair[0], 2), pair),
+    )
     for base_index, remainder in ordered:
         provider = providers.get(base_index)
         stream = re.match(r"(\d+)", remainder)
@@ -176,6 +184,10 @@ def episode_tmdb_id(
                 EPISODE_TMDB_CACHE[cache_key] = exact
             if exact:
                 ids.add(exact)
+                # O identificador veio da própria fonte do episódio e ainda
+                # será confirmado pelo redirecionamento oficial do TMDB. Não
+                # espere as reservas depois que essa confirmação já é possível.
+                break
         except Exception as error:
             errors.append(f"base {base_index}/{stream_id}: {type(error).__name__}")
         if len(ids) > 1:
@@ -186,18 +198,33 @@ def episode_tmdb_id(
 
 
 def series_id_from_episode(episode_tmdb: str, season: int, episode: int) -> str:
+    global TMDB_LAST_REQUEST
     with NETWORK_LOCK:
         cached = SERIES_TMDB_CACHE.get(episode_tmdb)
     if cached is not None:
         series_id, cached_season, cached_episode = cached
         return series_id if (cached_season, cached_episode) == (season, episode) else ""
-    opener = urllib.request.build_opener()
-    _, final_url = request(
-        opener,
-        f"https://www.themoviedb.org/tv/episode/{episode_tmdb}",
-        headers={"Accept": "text/html"},
-        timeout=25,
-    )
+    final_url = ""
+    for attempt in range(4):
+        # O site público do TMDB limita rajadas. Cinco inícios por segundo
+        # mantêm a geração rápida sem transformar respostas 429 em falhas.
+        with TMDB_RATE_LOCK:
+            wait = 0.2 - (time.monotonic() - TMDB_LAST_REQUEST)
+            if wait > 0:
+                time.sleep(wait)
+            TMDB_LAST_REQUEST = time.monotonic()
+        try:
+            _, final_url = request(
+                urllib.request.build_opener(),
+                f"https://www.themoviedb.org/tv/episode/{episode_tmdb}",
+                headers={"Accept": "text/html"},
+                timeout=25,
+            )
+            break
+        except urllib.error.HTTPError as error:
+            if error.code != 429 or attempt == 3:
+                raise
+            time.sleep(2.0 * (attempt + 1))
     match = TMDB_REDIRECT.search(urllib.parse.urlparse(final_url).path)
     if not match:
         return ""
