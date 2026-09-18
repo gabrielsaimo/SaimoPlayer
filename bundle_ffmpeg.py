@@ -6,6 +6,7 @@ so a machine without Homebrew would otherwise lose them. Dependencies are
 rewritten to load from Contents/Frameworks, making the bundle self-contained.
 """
 import os
+import glob
 import shutil
 import subprocess
 import sys
@@ -13,8 +14,25 @@ import sys
 SYSTEM_PREFIXES = ("/usr/lib/", "/System/")
 
 
+def resolve_dependency(path):
+    """Find the exact dylib ABI, even after Homebrew changes its opt symlink."""
+    real = os.path.realpath(path)
+    if os.path.isfile(real):
+        return real
+    for prefix in ("/opt/homebrew", "/usr/local"):
+        marker = prefix + "/opt/"
+        if path.startswith(marker):
+            formula, relative = path[len(marker):].split("/", 1)
+            candidates = sorted(glob.glob(
+                os.path.join(prefix, "Cellar", formula, "*", relative)), reverse=True)
+            for candidate in candidates:
+                if os.path.isfile(candidate):
+                    return os.path.realpath(candidate)
+    raise FileNotFoundError(f"Biblioteca necessária ao pacote não encontrada: {path}")
+
+
 def deps(binary):
-    out = subprocess.run(["otool", "-L", binary], capture_output=True, text=True).stdout
+    out = subprocess.run(["otool", "-L", binary], capture_output=True, text=True, check=True).stdout
     found = []
     for line in out.splitlines()[1:]:
         path = line.strip().split(" (")[0]
@@ -59,14 +77,12 @@ def main():
         for dep in deps(binary):
             name = os.path.basename(dep)
             if name not in copied:
-                real = os.path.realpath(dep)
-                if not os.path.exists(real):
-                    continue
+                real = resolve_dependency(dep)
                 dest = os.path.join(frameworks, name)
                 shutil.copy2(real, dest)
                 os.chmod(dest, 0o755)
                 subprocess.run(["install_name_tool", "-id",
-                                f"@loader_path/{name}", dest], capture_output=True)
+                                f"@loader_path/{name}", dest], capture_output=True, check=True)
                 copied[name] = dest
                 queue.append(dest)
 
@@ -74,10 +90,13 @@ def main():
             new = (f"@executable_path/../Frameworks/{name}"
                    if binary in targets else f"@loader_path/{name}")
             subprocess.run(["install_name_tool", "-change", dep, new, binary],
-                           capture_output=True)
+                           capture_output=True, check=True)
 
     for path in list(copied.values()) + targets:
-        subprocess.run(["codesign", "--force", "--sign", "-", path], capture_output=True)
+        subprocess.run(["codesign", "--force", "--sign", "-", path], capture_output=True, check=True)
+
+    for binary in targets:
+        subprocess.run([binary, "-version"], capture_output=True, check=True)
 
     print(f"{'+'.join(sorted(tools))} embutidos com {len(copied)} bibliotecas")
     return 0
