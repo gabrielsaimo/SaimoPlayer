@@ -3,9 +3,9 @@ G-Loc (2020)	leg=6:1308846
 G.I. Joe Origens: Snake Eyes	dub=2:130202,8:130202,2:130200,8:130200	leg=2:121156,8:121156
 G.I. Joe: A Origem de Cobra	dub=2:119723,8:119723	leg=2:119710,8:119710
 G.I. Joe: Retaliação	dub=2:119728,8:119728	leg=2:119725,8:119725
-G20	dub=2:318100,8:318100,2:318099,8:318099	leg=2:318101,8:318101
-G20 (2025)	dub=6:1313418	leg=6:1313417
-GANTZ:O (2016)	dub=6:1310323
+G20	dub=https://embedplayer2.xyz/cdn/hls/590f2dafb62ebb028718434040441c84/master.txt,2:318100,8:318100,2:318099,8:318099	leg=2:318101,8:318101
+G20 (2025)	dub=https://embedplayer2.xyz/cdn/hls/590f2dafb62ebb028718434040441c84/master.txt,6:1313418	leg=6:1313417
+GANTZ:O (2016)	dub=https://embedplayer2.xyz/cdn/hls/b1e8602562f43f9c1137f2d8060ced5a/master.txt,6:1310323
 GI Jane: Ate o Limite da Honra (1997)	dub=6:1299710
 GI Joe A Origem de Cobra (2009)	dub=6:1298073
 GI Joe Origens: Snake Eyes (2021)	dub=6:1312565	leg=6:1298676
@@ -14,8 +14,8 @@ GIMS: Ícone do Rap	dub=2:73273,8:73273
 GIMS: Ícone do Rap (2020)	dub=6:1308890
 GOAT	dub=2:350966,8:350966	leg=2:350965,2:348302,8:350965,8:348302
 GOAT (2025)	dub=6:1313966	leg=6:1313965
-GTA 6 Um Olhar Estendido (2026)	leg=6:1502434
-GTMAX	dub=2:295700,8:295700	leg=2:295701,8:295701
+GTA 6 Um Olhar Estendido (2026)	dub=https://embedplayer2.xyz/cdn/hls/8c6588cae51138d99b0442336d53c7bb/master.txt	leg=https://embedplayer2.xyz/cdn/hls/8c6588cae51138d99b0442336d53c7bb/master.txt,6:1502434
+GTMAX	dub=https://embedplayer2.xyz/cdn/hls/e29cb32264ff0427d3b786d9bad8a890/master.txt,2:295700,8:295700	leg=2:295701,8:295701
 GTOリバイバル	leg=8:388177
 Gabriel Diniz Ao Vivo em Recife	dub=2:24390,8:24390
 Gabriel Diniz – Ao Vivo em Recife (2016)	dub=6:1307980
@@ -27,7 +27,7 @@ Gabriel: A Vinganca de um Anjo (2007)	dub=6:1312226	leg=6:1312225
 Gabriela So Tem 3 Meses E Esta A Solta	leg=8:389553
 Gabriels Inferno Part II	leg=2:68447,8:68447
 Gaby Estrella: O Filme	dub=2:279204,8:279204	leg=2:279205,8:279205
-Gafanhoto	dub=2:375559,8:375559	leg=2:375558,8:375558
+Gafanhoto	dub=https://embedplayer2.xyz/cdn/hls/7181925bce36da28f871e8fe23e43c86/master.txt,2:375559,8:375559	leg=2:375558,8:375558
 Gaiola Mental (2022)	dub=6:1303114	leg=6:1303113
 Galante e Sanguinario (1957)	dub=6:1302183
 Galeria Futuro	dub=2:150120,8:150120
@@ -42,16 +42,16 @@ Galinha Pintadinha 4 (2014)	dub=6:1310118
 Galinha Pintadinha Mini - Volume 7	dub=2:30395,8:30395
 Galveston	dub=2:24391,8:24391
 Galveston: Destinos Cruzados (2018)	dub=6:1303936
-Game Mortal	dub=2:347667,8:347667	leg=2:347666,8:347666
+Game Mortal	dub=https://embedplayer2.xyz/cdn/hls/b352b41640674ec4d6308f6e3a593676/master.txt,2:347667,8:347667	leg=https://embedplayer2.xyz/cdn/hls/40fbe1d7164a4d2a18864eca52c7cd3b/master.txt,2:347666,8:347666
 Game Over Legendado	dub=2:28765,8:28765
 Game Star: A Jogada Final	dub=2:369403,2:347117,8:369403,8:347117	leg=2:369402,2:347116,8:369402,8:347116
 Game of Thrones The Last Watch	dub=2:23605,8:23605
 Game of Thrones: A Última Vigília (2019)	leg=6:1308470
 Gamer	dub=2:378047,2:352207,8:378047,8:352207	leg=2:378046,8:378046
-Gananciosos	dub=2:318102,8:318102	leg=2:318103,8:318103
-Gananciosos (2024)	dub=6:1313411
+Gananciosos	dub=https://embedplayer2.xyz/cdn/hls/e54cd5369fb8cd1d25f97bf838549d09/master.txt,2:318102,8:318102	leg=2:318103,8:318103
+Gananciosos (2024)	dub=https://embedplayer2.xyz/cdn/hls/e54cd5369fb8cd1d25f97bf838549d09/master.txt,6:1313411
 Gandhari	dub=8:395954,8:395321,8:395030	leg=8:395029
-Gandhari (2026)	dub=6:1503019
+Gandhari (2026)	dub=https://embedplayer2.xyz/cdn/hls/9cdb136300322e9f102f49ae744e6012/master.txt,6:1503019
 Gangs of Godavari	leg=2:269951,8:269951
 Gangues De Londres	dub=2:45038,8:45038
 Gangues de Londres (2019)	dub=6:1297836
@@ -68,7 +68,7 @@ Garfield - Fora de Casa (2024)	dub=6:1309117
 Garfield - O Filme	dub=2:31744,8:31744
 Garfield 2 (2006)	dub=6:1309042
 Garfield: O Filme (2004)	dub=6:1309016
-Garganta do Diabo (2003)	dub=6:1299735
+Garganta do Diabo (2003)	dub=https://embedplayer2.xyz/cdn/hls/d9b4f59a5d5d375b485165dc0032ffeb/master.txt,6:1299735
 Garis Waktu	dub=2:194201,8:194201
 Garis Waktu (2022)	dub=6:1306537
 Garo: Red Requiem	dub=2:378676,8:378676	leg=2:378675,8:378675
@@ -82,10 +82,10 @@ Garota Infernal	dub=2:20625,8:20625
 Garota Infernal (2009)	dub=6:1299769
 Garota Mimada	dub=2:239598,8:387052,8:239598	leg=8:387051
 Garota Mimada (2008)	dub=6:1301967
-Garota Rebelde	dub=2:371662,8:383329,8:371662	leg=2:371661,8:383328,8:371661
+Garota Rebelde	dub=https://embedplayer2.xyz/cdn/hls/80c764e768143199ed7fa457aad4f3a1/master.txt,2:371662,8:383329,8:371662	leg=2:371661,8:383328,8:371661
 Garota Renascida Mudando O Destino Tragico Da Mamae	dub=8:389555
-Garota Roubada	dub=2:348323,8:348323	leg=2:348322,8:348322
-Garota Roubada (2025)	dub=6:1313914	leg=6:1313913
+Garota Roubada	dub=https://embedplayer2.xyz/cdn/hls/60317d097eb3e9b9c540e2db41586318/master.txt,https://embedplayer2.xyz/cdn/hls/6929dbe9d4a36ea6cade62af8f76eb43/master.txt,2:348323,8:348323	leg=https://embedplayer2.xyz/cdn/hls/6929dbe9d4a36ea6cade62af8f76eb43/master.txt,2:348322,8:348322
+Garota Roubada (2025)	dub=https://embedplayer2.xyz/cdn/hls/60317d097eb3e9b9c540e2db41586318/master.txt,https://embedplayer2.xyz/cdn/hls/6929dbe9d4a36ea6cade62af8f76eb43/master.txt,6:1313914	leg=https://embedplayer2.xyz/cdn/hls/6929dbe9d4a36ea6cade62af8f76eb43/master.txt,6:1313913
 Garota Veneno	dub=2:162583,8:162583
 Garota Veneno (2002)	dub=6:1298415
 Garota da Moto	dub=2:139253,8:139253
@@ -106,23 +106,23 @@ Garotas Sem Rumo (2005)	dub=6:1302184
 Garotas do ABC	dub=2:367039,8:367039
 Garotas do Calendario (2003)	dub=6:1314434
 Garotas do Calendário	dub=2:372754,8:372754	leg=2:372753,8:372753
-Garotas em Fuga	dub=2:286603,8:286603,2:259335,8:259335	leg=2:259336,8:259336
-Garotas em Fuga (2024)	dub=6:1303609
+Garotas em Fuga	dub=https://embedplayer2.xyz/cdn/hls/9ef45a19523dc9b84455d61b78c81e50/master.txt,2:286603,8:286603,2:259335,8:259335	leg=2:259336,8:259336
+Garotas em Fuga (2024)	dub=https://embedplayer2.xyz/cdn/hls/9ef45a19523dc9b84455d61b78c81e50/master.txt,6:1303609
 Garotos de Bem	dub=2:173313,8:173313	leg=2:173311,8:173311
 Garotos de Bem (2021)	dub=6:1300089
 Garotos de Programa	dub=8:395062	leg=8:395061
 Garotos de Programa (1991)	dub=6:1503013
 Garotos em Guerra	dub=2:20367,8:20367
 Garotos em Guerra (2015)	dub=6:1298195
-Garra de Ferro	dub=2:263711,8:263711,2:256939,8:256939	leg=2:256940,8:256940
-Garra de Ferro (2023)	dub=6:1303444,6:1312029	leg=6:1303333,6:1312028
-Garras Vorazes	dub=2:229166,8:229166	leg=2:229156,8:229156
-Garras Vorazes (2023)	dub=6:1302862
+Garra de Ferro	dub=https://embedplayer2.xyz/cdn/hls/6b67e18ca7578cde6e789a60938b46b9/master.txt,2:263711,8:263711,2:256939,8:256939	leg=2:256940,8:256940
+Garra de Ferro (2023)	dub=https://embedplayer2.xyz/cdn/hls/6b67e18ca7578cde6e789a60938b46b9/master.txt,6:1303444,6:1312029	leg=6:1303333,6:1312028
+Garras Vorazes	dub=https://embedplayer2.xyz/cdn/hls/52e718922f6b92e0ff1fac29a116b58b/master.txt,2:229166,8:229166	leg=2:229156,8:229156
+Garras Vorazes (2023)	dub=https://embedplayer2.xyz/cdn/hls/52e718922f6b92e0ff1fac29a116b58b/master.txt,6:1302862
 Garras de Tigre	dub=2:348106,8:348106	leg=2:348105,8:348105
 Garras de Tigre 2	dub=2:348108,8:348108	leg=2:348107,8:348107
 Garras de Tigre 3	dub=2:348110,8:348110	leg=2:348109,8:348109
-Gary	dub=2:377097,8:377097,2:377099,8:377099	leg=2:377098,8:377098
-Gary (2026)	dub=6:1314553	leg=6:1314552
+Gary	dub=https://embedplayer2.xyz/cdn/hls/462b4da12b0e0dae9b9392b3c077eb05/master.txt,2:377097,8:377097,2:377099,8:377099	leg=2:377098,8:377098
+Gary (2026)	dub=https://embedplayer2.xyz/cdn/hls/462b4da12b0e0dae9b9392b3c077eb05/master.txt,6:1314553	leg=6:1314552
 Gary - Um Treinador Muito Louco	dub=2:358817,8:358817	leg=2:358816,8:358816
 Garçonete	dub=2:30577,8:30577
 Garçonete (2007)	dub=6:1307054
@@ -131,13 +131,13 @@ Gasoline Rainbow (2024)	leg=6:1304988
 Gasparzinho, o Fantasminha Camarada	dub=2:105242,8:386805,8:105242	leg=8:386804
 Gasparzinho, o Fantasminha Camarada (1995)	dub=6:1309008
 Gatao: Tal Pai, Tal Filho	leg=2:320084,8:320084
-Gatilheiro (2025)	dub=6:1313860
-Gatillero	dub=2:345275,8:345275	leg=2:345274,8:345274
+Gatilheiro (2025)	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,6:1313860
+Gatillero	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,2:345275,8:345275	leg=2:345274,8:345274
 Gatinhas Espertas (1987)	dub=6:1309780
 Gatinhas e Gatoes (1984)	dub=6:1301880
 Gato	dub=2:380467,8:380467
 Gato Galáctico e O Feitiço do Tempo	dub=2:253536,8:253536
-Gato Galáctico e o Feitiço do Tempo (2024)	dub=6:1309695
+Gato Galáctico e o Feitiço do Tempo (2024)	dub=https://embedplayer2.xyz/cdn/hls/2c0f274d990173bd25af240e1cafab98/master.txt,6:1309695
 Gato Sordido (2016)	dub=6:1297428
 Gato Sórdido	dub=2:33376,8:33376
 Gato de Botas	dub=2:112416,2:20368,8:112416,8:20368
@@ -178,12 +178,12 @@ Gente de Bem (2018)	dub=6:1297768
 Gente que Vai e Volta (2019)	dub=6:1308054
 George A. Romero's Resident Evil	leg=2:312859,8:312859
 George Clooney: Leading Man	leg=2:299619,8:299619
-George Foreman Sua Historia (2023)	dub=6:1302902
-George Foreman: Sua História	dub=2:230273,8:230273	leg=2:230296,8:230296
+George Foreman Sua Historia (2023)	dub=https://embedplayer2.xyz/cdn/hls/018188d8efccd7b3a65af04ea5ac27d8/master.txt,6:1302902
+George Foreman: Sua História	dub=https://embedplayer2.xyz/cdn/hls/018188d8efccd7b3a65af04ea5ac27d8/master.txt,2:230273,8:230273	leg=2:230296,8:230296
 George O Curioso 2 Siga Aquele Macaco (2009)	dub=6:1502857
 George O Rei da Floresta	dub=2:103139,8:103139
 George Washington	dub=8:393191,8:392264	leg=8:392263
-George Washington (2026)	dub=6:1502235	leg=6:1502234
+George Washington (2026)	dub=https://embedplayer2.xyz/cdn/hls/1c8ed7bde48a51bfaa268dd967a7a399/master.txt,6:1502235	leg=6:1502234
 George Washington - O Primeiro Presidente da América	dub=2:291896,8:291896	leg=2:291897,8:291897
 George Washington - O Primeiro Presidente da América (2022)	dub=6:1312335
 George o Curioso (2006)	dub=6:1502856
@@ -191,11 +191,11 @@ George o Curioso 3 De Volta para a Selva (2015)	dub=6:1502858
 George o Curioso Aventuras no Oeste Selvagem (2020)	dub=6:1502859
 George o Rei da Floresta (1997)	dub=6:1303848
 George o Rei da Floresta 2 (2003)	dub=6:1298272
-George, o Curioso: Aventuras no Mar	dub=2:237167,8:237167	leg=2:237164,8:237164
-George, o Curioso: Aventuras no Mar (2021)	dub=6:1311553	leg=6:1311554
+George, o Curioso: Aventuras no Mar	dub=https://embedplayer2.xyz/cdn/hls/7ee9c46e5cec22e3a265faf8534ad159/master.txt,2:237167,8:237167	leg=2:237164,8:237164
+George, o Curioso: Aventuras no Mar (2021)	dub=https://embedplayer2.xyz/cdn/hls/7ee9c46e5cec22e3a265faf8534ad159/master.txt,6:1311553	leg=6:1311554
 Geração do Futuro	dub=2:317457,8:317457	leg=2:317458,8:317458
 Geração do Futuro (2023)	dub=6:1311470	leg=6:1311471
-Gerda	dub=2:317271,8:317271	leg=2:317272,8:317272
+Gerda	dub=https://embedplayer2.xyz/cdn/hls/f8b56b5a2f91319920b0ed9d68333221/master.txt,2:317271,8:317271	leg=2:317272,8:317272
 Gertie, o Dinossauro (1914)	dub=6:1309193
 Gerônimo: Uma Lenda Americana	dub=2:377227,8:377227	leg=2:377226,8:377226
 Get Duked!	dub=2:69940,8:69940
@@ -223,26 +223,26 @@ Ghost in the Shell: O Novo Filme (2015)	dub=6:1304052
 Ghost in the Shell: SAC2045 – Guerra Sustentável (2021)	dub=6:1304054
 Ghost in the Shell: SAC_2045 – Guerra Sustentável	dub=8:395690
 Ghost: Do Outro Lado da Vida	dub=2:91416,8:91416
-Ghostbusters: Apocalipse de Gelo	dub=2:259318,8:259318,2:259317,8:259317	leg=2:259319,8:259319
-Ghostbusters: Apocalipse de Gelo (2024)	dub=6:1303598	leg=6:1303597
-Ghostbusters: Mais Alem (2021)	dub=6:1299112
-Ghostbusters: Mais Além	dub=2:146757,8:146757,2:145362,8:145362	leg=2:145363,8:145363
+Ghostbusters: Apocalipse de Gelo	dub=https://embedplayer2.xyz/cdn/hls/9288ce7353b0316907ce599aaab80d61/master.txt,2:259318,8:259318,2:259317,8:259317	leg=2:259319,8:259319
+Ghostbusters: Apocalipse de Gelo (2024)	dub=https://embedplayer2.xyz/cdn/hls/9288ce7353b0316907ce599aaab80d61/master.txt,6:1303598	leg=6:1303597
+Ghostbusters: Mais Alem (2021)	dub=https://embedplayer2.xyz/cdn/hls/33b78e7f126389612ce266b5170b255d/master.txt,6:1299112
+Ghostbusters: Mais Além	dub=https://embedplayer2.xyz/cdn/hls/33b78e7f126389612ce266b5170b255d/master.txt,2:146757,8:146757,2:145362,8:145362	leg=2:145363,8:145363
 Ghosted: Sem Resposta	dub=2:193256,8:193256	leg=2:192601,8:192601
 Ghosted: Sem Resposta (2023)	dub=6:1306742	leg=6:1306743
 Ghostland: Terra Sem Lei (2021)	dub=6:1303827
 Ghosts Of War	leg=2:63077,8:63077
 Gia: Fama e Destruição	dub=2:134028,8:134028
 Gia: Fama e Destruição (1998)	dub=6:1312076	leg=6:1312075
-Gigantes	dub=2:292296,8:292296	leg=2:292297,8:292297
-Gigantes (2024)	dub=6:1312363
+Gigantes	dub=https://embedplayer2.xyz/cdn/hls/89e85f14c352ca431abbd4764f682770/master.txt,2:292296,8:292296	leg=2:292297,8:292297
+Gigantes (2024)	dub=https://embedplayer2.xyz/cdn/hls/89e85f14c352ca431abbd4764f682770/master.txt,6:1312363
 Gigantes Solitários	dub=2:201989,8:201989	leg=2:201990,8:201990
 Gigantes Solitários (2019)	dub=6:1306032	leg=6:1306033
 Gigantes de Aço	dub=2:348801,2:20034,8:348801,8:20034	leg=2:348800,8:348800
 Gigantes de Aço (2011)	dub=6:1312981	leg=6:1312980
 Gigantes em Luta	dub=2:21381,8:388685,8:21381	leg=8:388684
 Gigantes em Luta (1967)	dub=6:1298827
-Gigi & Nate	dub=2:192595,8:192595	leg=2:192596,8:192596
-Gigi e Nate (2022)	dub=6:1302048
+Gigi & Nate	dub=https://embedplayer2.xyz/cdn/hls/16924dbdca19dda85a0da39e742a89b6/master.txt,2:192595,8:192595	leg=2:192596,8:192596
+Gigi e Nate (2022)	dub=https://embedplayer2.xyz/cdn/hls/16924dbdca19dda85a0da39e742a89b6/master.txt,6:1302048
 Gigolo Americano (1980)	dub=6:1300846
 Gigolo Europeu por Acidente (2005)	dub=6:1298416
 Gigolo por Acidente (1999)	dub=6:1298418
@@ -261,10 +261,10 @@ Gintama 2: Quebrando As Regras (2018)	dub=6:1312782
 Gintama: Yoshiwara em Chamas	dub=8:394630	leg=8:394629
 Girl	dub=2:117065,8:117065	leg=2:353472,2:117380,8:353472,8:117380
 Girl In The Basement	leg=2:110262,8:110262
-Girl Lost - A Garota de Programa	dub=2:347121,8:347121	leg=2:347120,8:347120
-Girl Lost - A Garota de Programa (2018)	dub=6:1312208
-Girl Lost 2 - Uma História de Hollywood	dub=2:288515,8:288515	leg=2:288516,8:288516
-Girl Lost 2 - Uma História de Hollywood (2020)	dub=6:1312209
+Girl Lost - A Garota de Programa	dub=https://embedplayer2.xyz/cdn/hls/d12f34bda7545139a46f44304f1e5097/master.txt,2:347121,8:347121	leg=2:347120,8:347120
+Girl Lost - A Garota de Programa (2018)	dub=https://embedplayer2.xyz/cdn/hls/d12f34bda7545139a46f44304f1e5097/master.txt,6:1312208
+Girl Lost 2 - Uma História de Hollywood	dub=https://embedplayer2.xyz/cdn/hls/e91a5d070778d384309d244e07e146e5/master.txt,2:288515,8:288515	leg=2:288516,8:288516
+Girl Lost 2 - Uma História de Hollywood (2020)	dub=https://embedplayer2.xyz/cdn/hls/e91a5d070778d384309d244e07e146e5/master.txt,6:1312209
 Girl On The Third Floor	leg=2:32239,8:32239
 Girls Like Girls	leg=8:392320
 Girls State	leg=8:256270
@@ -278,8 +278,8 @@ Gladiador	dub=2:92576,8:92576
 Gladiador (2000)	dub=6:1312631	leg=6:1312630
 Gladiador 2	dub=2:300648,8:300648,2:300644,8:300644	leg=2:300645,8:300645
 Gladiador 2 (2024)	dub=6:1312616	leg=6:1312615
-Gladiadores	dub=2:367825,8:367825	leg=2:367824,8:367824
-Gladiadores (2025)	dub=6:1314345
+Gladiadores	dub=https://embedplayer2.xyz/cdn/hls/a07c9c851be8bf3875051ff3f142cbf1/master.txt,2:367825,8:367825	leg=2:367824,8:367824
+Gladiadores (2025)	dub=https://embedplayer2.xyz/cdn/hls/a07c9c851be8bf3875051ff3f142cbf1/master.txt,6:1314345
 Gladiator O Desafio	dub=2:73274,8:73274
 Gladiator: O Desafio (1992)	dub=6:1307205
 Glamour Girls	dub=2:163589,8:163589	leg=2:163590,8:163590
@@ -295,30 +295,30 @@ Gloria Bell (2019)	dub=6:1307952
 Gloria! Acordes para a Liberdade	leg=2:343126,8:343126
 Glória	dub=2:329660,8:329660	leg=2:329659,8:329659
 Glória Feita de Sangue	dub=2:371885,8:371885	leg=2:371884,8:371884
-Gnomeu e Julieta	dub=2:20370,8:20370
-Gnomeu e Julieta (2011)	dub=6:1310480
+Gnomeu e Julieta	dub=https://embedplayer2.xyz/cdn/hls/ea3d4466b2cb9daabfa25b763e6d7da8/master.txt,2:20370,8:20370
+Gnomeu e Julieta (2011)	dub=https://embedplayer2.xyz/cdn/hls/ea3d4466b2cb9daabfa25b763e6d7da8/master.txt,6:1310480
 Gnomeu e Julieta: O Misterio do Jardim	dub=2:21465,8:21465
 Gnomeu e Julieta: O Mistério do Jardim (2018)	dub=6:1310274
 Go Where You Are Episode	leg=8:389556
 Go! Festa Inesquecível (2019)	dub=2:34184,6:1308666,8:34184
 Goblin - O Sacrifício	dub=2:348063,8:348063	leg=2:348062,8:348062
-God Complex - O Complexo Industrial da Censura	dub=2:365122,8:365122,2:365059,8:365059	leg=2:365058,8:365058
+God Complex - O Complexo Industrial da Censura	dub=https://embedplayer2.xyz/cdn/hls/0d8044962d7e0bb7d75985443f0a44e2/master.txt,2:365122,8:365122,2:365059,8:365059	leg=2:365058,8:365058
 God's Country	dub=2:194868,8:194868	leg=2:194867,8:194867
 Godard par Godard	leg=2:362256,8:362256
-Gods of the Deep	leg=2:249704,8:249704
-Gods of the Deep (2023)	leg=6:1311404
-Godzilla	dub=2:100383,8:100383
+Gods of the Deep	dub=https://embedplayer2.xyz/cdn/hls/9dd1922836b399e5be840e715dc27217/master.txt	leg=2:249704,8:249704
+Gods of the Deep (2023)	dub=https://embedplayer2.xyz/cdn/hls/9dd1922836b399e5be840e715dc27217/master.txt	leg=6:1311404
+Godzilla	dub=https://embedplayer2.xyz/cdn/hls/6604b568012945cc0e21eb3237d359b2/master.txt,2:100383,8:100383
 Godzilla (1998)	dub=6:1302165
-Godzilla (2014)	dub=6:1298246
+Godzilla (2014)	dub=https://embedplayer2.xyz/cdn/hls/6604b568012945cc0e21eb3237d359b2/master.txt,6:1298246
 Godzilla 2 Rei dos Monstros (2019)	dub=6:1297158
 Godzilla II: Rei dos Monstros	dub=2:28284,8:28284,2:100384,8:100384
 Godzilla King of the Monsters Legendado	dub=2:28107,8:28107
-Godzilla Minus One	dub=2:278120,2:263729,8:278120,8:263729	leg=2:278121,2:263730,8:278121,8:263730
-Godzilla Minus One (2023)	dub=6:1304119	leg=6:1303579
+Godzilla Minus One	dub=https://embedplayer2.xyz/cdn/hls/e3b7d42ac387d994473a243fe43c0970/master.txt,2:278120,2:263729,8:278120,8:263729	leg=2:278121,2:263730,8:278121,8:263730
+Godzilla Minus One (2023)	dub=https://embedplayer2.xyz/cdn/hls/e3b7d42ac387d994473a243fe43c0970/master.txt,6:1304119	leg=6:1303579
 Godzilla Ressurge	dub=2:180164,8:180164
 Godzilla Vs Kong	dub=2:108076,8:108076,2:108075,8:108075	leg=2:100382,8:100382
 Godzilla e Kong: O Novo Império	dub=2:260575,8:260575,2:260574,8:260574	leg=2:260576,8:260576
-Godzilla e Kong: O Novo Império (2024)	dub=6:1303690	leg=6:1303689
+Godzilla e Kong: O Novo Império (2024)	dub=https://embedplayer2.xyz/cdn/hls/4a9776cb9d3382d510fe1df74e59fa36/master.txt,6:1303690	leg=6:1303689
 Godzilla vs. Kong (2021)	dub=6:1298457	leg=6:1298353
 Going Postal: The Legacy Foretold	leg=8:384474
 Gol 1	dub=2:20993,8:20993
@@ -327,13 +327,13 @@ Gol 3	dub=2:20995,8:20995
 Gol! - O Sonho Impossivel (2005)	dub=6:1298514
 Gol! II: Vivendo o Sonho (2007)	dub=6:1311701
 Gol! III: Assumindo o Mundial (2009)	dub=6:1309932
-Golda (2023)	dub=6:1302703
-Golda - A Mulher de uma Nação	dub=2:340965,2:223086,8:340965,8:223086	leg=2:340964,2:223108,8:340964,8:223108
+Golda (2023)	dub=https://embedplayer2.xyz/cdn/hls/aa988650785348f3ac2d74331569dc3e/master.txt,6:1302703
+Golda - A Mulher de uma Nação	dub=https://embedplayer2.xyz/cdn/hls/aa988650785348f3ac2d74331569dc3e/master.txt,2:340965,2:223086,8:340965,8:223086	leg=2:340964,2:223108,8:340964,8:223108
 Golden Arm	dub=2:133963,8:133963	leg=2:133978,8:133978
 Golden Kamuy	dub=2:261644,8:261644	leg=2:261645,8:261645
 Golden Kamuy (2024)	dub=6:1303987
 Golden Kamuy 3 - Invasão a Prisão Abashiri	dub=8:386960	leg=8:386959
-Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)	dub=6:1501188
+Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)	dub=https://embedplayer2.xyz/cdn/hls/e5461b58ca604681b6d0fcba5b8c4ffb/master.txt,6:1501188
 Golfinhos de Perto com Bertie Gregory	dub=2:344529,8:344529	leg=2:344528,8:344528
 Golpe Baixo	dub=2:319157,2:20629,8:319157,8:20629
 Golpe Baixo (2005)	dub=6:1299898
@@ -342,7 +342,7 @@ Golpe De Classe	leg=2:76920,8:76920
 Golpe Duplo	dub=2:180692,2:21568,8:180692,8:21568
 Golpe Duplo (2015)	dub=6:1298699
 Golpe Explosivo	dub=8:395360,8:387398	leg=8:387401
-Golpe Explosivo (2026)	dub=6:1501282
+Golpe Explosivo (2026)	dub=https://embedplayer2.xyz/cdn/hls/0e9e1db5107a930a388f775539d23248/master.txt,6:1501282
 Golpe Fulminante	dub=2:260986,8:260986
 Golpe Fulminante (1998)	dub=6:1305074
 Golpe Parisiense	dub=2:358138,8:358138	leg=2:358137,8:358137
@@ -354,8 +354,8 @@ Golpe de Gênio (2009)	dub=6:1307095
 Golpe de Mestre (1973)	dub=6:1303780
 Golpe de Risco	dub=2:22025,8:22025
 Golpe de Risco (2017)	dub=6:1307783
-Golpe de Superação	dub=2:316361,8:316361	leg=2:316362,8:316362
-Golpe de Superação (2025)	dub=6:1313374	leg=6:1313373
+Golpe de Superação	dub=https://embedplayer2.xyz/cdn/hls/ea3aa74eea14f5599e92005618854063/master.txt,2:316361,8:316361	leg=2:316362,8:316362
+Golpe de Superação (2025)	dub=https://embedplayer2.xyz/cdn/hls/ea3aa74eea14f5599e92005618854063/master.txt,6:1313374	leg=6:1313373
 Golpes Certeiros	leg=8:394632
 Golpes de Vingança	dub=2:150126,8:150126	leg=2:150129,8:150129
 Golpes de Vingança (2022)	dub=6:1306794	leg=6:1306795
@@ -381,27 +381,27 @@ Gorongosa: O Paraíso Renasce	dub=2:334599,8:334599	leg=2:334598,8:334598
 Gospel	dub=2:208225,8:208225	leg=2:208228,8:208228
 Gospel (2022)	dub=6:1309361	leg=6:1309362
 Gospel: Fernanda Brum - Da Eternidade	dub=2:21963,8:21963
-Gosto Infernal	dub=2:372724,8:372724	leg=2:372723,8:372723
+Gosto Infernal	dub=https://embedplayer2.xyz/cdn/hls/39d67339b0e9148092a09ddbf95d3822/master.txt,2:372724,8:372724	leg=2:372723,8:372723
 Gosto de Cereja (1997)	leg=6:1501212
 Gosto se Discute (2017)	dub=6:1299899
 Gotti - O Chefe da Máfia	dub=2:30396,8:30396
 Gotti - O Chefe da Máfia (2018)	dub=6:1307485
-Goyo	dub=2:267977,8:267977	leg=2:267978,8:267978
-Goyo (2024)	dub=6:1309098
+Goyo	dub=https://embedplayer2.xyz/cdn/hls/6c3ffc91cecc7d97b9000cde55885da7/master.txt,2:267977,8:267977	leg=2:267978,8:267978
+Goyo (2024)	dub=https://embedplayer2.xyz/cdn/hls/6c3ffc91cecc7d97b9000cde55885da7/master.txt,6:1309098
 Graca e Coragem (2021)	dub=6:1300134
 Gracas a Deus (2019)	dub=6:1297290
 Grace	dub=2:30637,8:30637
 Grace (2018)	dub=6:1308231
 Grace - Entre a Fe e a Fama	dub=2:21524,8:21524
 Grace Kelly: Uma Princesa American	dub=2:360849,8:360849
-Grace by Night	dub=2:374490,8:374490	leg=2:374489,8:374489
+Grace by Night	dub=https://embedplayer2.xyz/cdn/hls/659a3769873f1e5c7c8b654b8c4eafcb/master.txt,2:374490,8:374490	leg=2:374489,8:374489
 Grace: Entre a Fé e a Fama (2013)	dub=6:1309960
 Gracinha	dub=2:312298,8:312298
 Grafted	leg=2:307930,8:307930
 Grafted (2024)	leg=6:1312997
 Gran Torino	dub=2:322005,2:175805,8:322005,8:175805
 Gran Torino (2008)	dub=6:1298515
-Gran Turismo De Jogador a Corredor (2023)	dub=6:1302536	leg=6:1302535
+Gran Turismo De Jogador a Corredor (2023)	dub=https://embedplayer2.xyz/cdn/hls/da3f9d708750c08eff6a79ddc8ffbf27/master.txt,6:1302536	leg=6:1302535
 Gran Turismo: De Jogador a Corredor	dub=2:217275,8:217275,2:217202,8:217202	leg=2:217201,8:217201
 Grand Canyon ao Extremo	dub=2:310600,2:92558,8:310600,8:92558
 Grand Canyon ao Extremo (2019)	dub=6:1308428
@@ -414,7 +414,7 @@ Grande Hotel (1995)	dub=6:1307987
 Grande Menina, Pequena Mulher	dub=2:316424,8:316424
 Grande Problema (2002)	dub=6:1300109
 Grande Saída	dub=2:365256,8:365256	leg=2:365255,8:365255
-Grande Sertao (2024)	dub=6:1312591
+Grande Sertao (2024)	dub=https://embedplayer2.xyz/cdn/hls/7ece2ca7a86dea297ccd9212b09c8316/master.txt,6:1312591
 Grande Sertão	dub=2:294984,8:294984
 Grande Tubarão Branco	dub=2:117060,8:117060	leg=2:117391,8:117391
 Grande Tubarão Branco (2021)	leg=6:1308168
@@ -428,8 +428,8 @@ Grandes Hits (2024)	leg=6:1303414
 Granizo	dub=2:369986,2:156692,8:369986,8:156692	leg=2:369985,2:156678,8:369985,8:156678
 Granizo (2022)	dub=6:1306253	leg=6:1306254
 Gravida E Casada Com Uma Estrela De Cinema	leg=8:389557
-Gravidade	dub=2:108286,8:108286
-Gravidade (2013)	dub=6:1302186
+Gravidade	dub=https://embedplayer2.xyz/cdn/hls/32784c0836f631427cd1e395f495ed50/master.txt,2:108286,8:108286
+Gravidade (2013)	dub=https://embedplayer2.xyz/cdn/hls/32784c0836f631427cd1e395f495ed50/master.txt,6:1302186
 Gravidez Inesperada	dub=2:184060,8:184060	leg=2:184078,8:184078
 Gravidez Inesperada (2021)	dub=6:1306753	leg=6:1306754
 Gravidez Monstruosa	dub=2:41198,8:41198
@@ -440,11 +440,11 @@ Graça e Coragem	dub=2:162970,8:162970	leg=2:162969,8:162969
 Graça e Perdão	dub=2:111588,8:111588
 Graça e Perdão (2010)	dub=6:1307808
 Graças a Deus	dub=2:30397,8:30397
-Grease - Nos Tempos da Brilhantina	dub=2:21569,8:21569
+Grease - Nos Tempos da Brilhantina	dub=https://embedplayer2.xyz/cdn/hls/ff42fee9247ce242745277c20f44ccce/master.txt,2:21569,8:21569
 Grease 2: Os Tempos da Brilhantina Voltaram	dub=2:317459,8:317459	leg=2:317460,8:317460
 Grease: Ao Vivo	dub=2:105243,8:105243
 Grease: Ao Vivo (2016)	dub=6:1307507
-Grease: Nos Tempos da Brilhantina (1978)	dub=6:1300484
+Grease: Nos Tempos da Brilhantina (1978)	dub=https://embedplayer2.xyz/cdn/hls/ff42fee9247ce242745277c20f44ccce/master.txt,6:1300484
 Great White	leg=2:108306,8:108306
 Great White Serial Killer: Sea of Blood	dub=2:335696,8:335696	leg=2:335695,8:335695
 Greed	dub=2:95990,8:95990	leg=2:48263,8:48263
@@ -456,14 +456,14 @@ Green Rush	leg=2:64455,8:64455
 Green Rush (2020)	leg=6:1308796
 Greenfield - Segredos Explosivos	dub=2:148655,8:148655	leg=2:148653,8:148653
 Greenfield - Segredos Explosivos (2019)	dub=6:1306069	leg=6:1306070
-Greenland	leg=2:89003,8:89003
+Greenland	dub=https://embedplayer2.xyz/cdn/hls/ba6cc385a4bad418749264c61e63d8ef/master.txt	leg=2:89003,8:89003
 Greice	dub=8:395625
 Gremlins	dub=2:94724,8:94724
 Gremlins (1984)	dub=6:1299033
 Gremlins 2: A Nova Geracao (1990)	dub=6:1299821
 Gremlins 2: A Nova Geração	dub=2:120707,8:120707
-Greta	dub=2:138902,2:69602,8:138902,8:69602
-Greta (2009)	dub=6:1300563
+Greta	dub=https://embedplayer2.xyz/cdn/hls/56e0089f57b9bc5606effb9185758979/master.txt,2:138902,2:69602,8:138902,8:69602
+Greta (2009)	dub=https://embedplayer2.xyz/cdn/hls/56e0089f57b9bc5606effb9185758979/master.txt,6:1300563
 Greta (2019)	dub=6:1308350
 Greta Legendado	dub=2:23237,8:23237
 Greta Thunberg: O Futuro e Hoje (2020)	dub=6:1298392
@@ -486,22 +486,22 @@ Grito de Horror	dub=2:105244,8:105244
 Grito de Horror (1981)	dub=6:1307090
 Grito de Horror 2	dub=2:105245,8:105245
 Grito de Horror 2 (1985)	dub=6:1307414
-Gritos Mortais	dub=2:21741,8:21741
-Gritos Mortais (2007)	dub=6:1297507
+Gritos Mortais	dub=https://embedplayer2.xyz/cdn/hls/7b9c2a309e8f7a8337f64e912486a9f9/master.txt,2:21741,8:21741
+Gritos Mortais (2007)	dub=https://embedplayer2.xyz/cdn/hls/7b9c2a309e8f7a8337f64e912486a9f9/master.txt,6:1297507
 Groenlândia: O Eldorado do Gelo	leg=2:365060,8:365060
 Grávida e Perseguida	dub=2:362859,8:362859
 Guarda Costas e Assassinos (2009)	dub=6:1312844
 Guardioes (2021)	dub=6:1303774
-Guardioes da Galáxia (2014)	dub=6:1313236	leg=6:1313235
+Guardioes da Galáxia (2014)	dub=https://embedplayer2.xyz/cdn/hls/d696fc26a2a4082b65ca7a4ae6badacf/master.txt,6:1313236	leg=6:1313235
 Guardioes da Galáxia - Vol. 2 (2017)	dub=6:1313238	leg=6:1313237
-Guardioes da Galáxia: Vol. 3 (2023)	dub=6:1313240	leg=6:1313239
+Guardioes da Galáxia: Vol. 3 (2023)	dub=https://embedplayer2.xyz/cdn/hls/acc1fd44d06c66a536822232ff190b4a/master.txt,6:1313240	leg=6:1313239
 Guardioes do Tempo (2020)	dub=6:1299537
 Guardião do Espelho	dub=2:347669,8:347669	leg=2:347668,8:347668
 Guardiões	dub=2:184080,8:184080	leg=2:184081,8:184081
 Guardiões da Galáxia	dub=2:21482,8:21482,2:98654,8:98654
 Guardiões da Galáxia - Vol. 2	dub=2:316403,2:98659,8:316403,8:98659
 Guardiões da Galáxia: Especial de Festas	dub=2:181103,8:181103	leg=2:181084,8:181084
-Guardiões da Galáxia: Vol. 3	dub=2:205923,8:386179,8:205923,2:205550,8:205550	leg=2:202243,8:202243
+Guardiões da Galáxia: Vol. 3	dub=https://embedplayer2.xyz/cdn/hls/acc1fd44d06c66a536822232ff190b4a/master.txt,2:205923,8:386179,8:205923,2:205550,8:205550	leg=2:202243,8:202243
 Guardiões das Ilhas Galápagos	leg=2:334695,8:334695
 Guardiões do Ceu (2013)	dub=6:1312005	leg=6:1312004
 Guardiões do Tempo	dub=2:163282,8:163282	leg=2:163278,8:163278
@@ -514,8 +514,8 @@ Guaxuma	dub=2:292298,8:292298
 Guerra 2	dub=2:356892,8:356892	leg=2:356891,8:356891
 Guerra Alienígena	dub=2:193050,8:193050	leg=2:193051,8:193051
 Guerra Alienígena (2018)	dub=6:1305790	leg=6:1305791
-Guerra Civil	dub=2:264347,8:264347,2:347670,2:264346,8:347670,8:264346	leg=2:264348,2:264143,8:264348,8:264143
-Guerra Civil (2024)	dub=6:1304156	leg=6:1304083
+Guerra Civil	dub=https://embedplayer2.xyz/cdn/hls/f9a466497ccc8038746ad0284978c13c/master.txt,2:264347,8:264347,2:347670,2:264346,8:347670,8:264346	leg=2:264348,2:264143,8:264348,8:264143
+Guerra Civil (2024)	dub=https://embedplayer2.xyz/cdn/hls/f9a466497ccc8038746ad0284978c13c/master.txt,6:1304156	leg=6:1304083
 Guerra Contra Aliens	dub=2:22026,8:22026
 Guerra Contra o Terror	dub=2:297426,8:297426	leg=2:297427,8:297427
 Guerra Contra o Terror (2023)	dub=6:1303833
@@ -529,7 +529,7 @@ Guerra Mundial Z (2013)	dub=6:1297508
 Guerra Oculta	dub=2:187872,8:187872	leg=2:355682,2:187873,8:355682,8:187873
 Guerra Oculta (2022)	dub=6:1301941
 Guerra Primitiva	dub=8:396146	leg=8:396145
-Guerra Primitiva (2025)	leg=6:1313933
+Guerra Primitiva (2025)	dub=https://embedplayer2.xyz/cdn/hls/8d21cb07d22eb4fc2ecada6e21842f6f/master.txt	leg=6:1313933
 Guerra Sem Fim: A Espada é a Lei	dub=2:89506,8:89506
 Guerra Sem Fim: A Espada é a Lei (2020)	dub=6:1308925
 Guerra Sem Regras	dub=2:276027,8:276027,2:276026,8:276026	leg=2:276028,8:276028
@@ -549,11 +549,11 @@ Guerra de Algodão	dub=2:92611,8:92611
 Guerra de Algodão (2020)	dub=6:1307861
 Guerra de Likes (2021)	dub=6:1308820
 Guerra dos Monstros (2015)	dub=6:1303062
-Guerra dos Mundos	dub=2:100018,8:100018
-Guerra dos Mundos (2005)	dub=6:1299570
+Guerra dos Mundos	dub=https://embedplayer2.xyz/cdn/hls/5f4abfe77846b84c541a503e5c3f98ea/master.txt,2:100018,8:100018
+Guerra dos Mundos (2005)	dub=https://embedplayer2.xyz/cdn/hls/5f4abfe77846b84c541a503e5c3f98ea/master.txt,6:1299570
 Guerra e Revolta	dub=2:289607,8:289607	leg=2:289608,8:289608
 Guerra e Revolta (2024)	dub=6:1312275
-Guerra nas Estrelas	dub=2:328183,8:328183
+Guerra nas Estrelas	dub=https://embedplayer2.xyz/cdn/hls/626efe1003123018c7714571e468ca52/master.txt,2:328183,8:328183
 Guerra nas Estrelas: O Império Contra-Ataca	dub=2:328184,8:328184
 Guerra nas Estrelas: O Império Contra-Ataca (1980)	dub=6:1309925
 Guerra nas Estrelas: O Retorno de Jedi	dub=2:328185,8:328185
@@ -564,13 +564,13 @@ Guerreira De Sangue	dub=2:20037,8:20037
 Guerreira De Sangue (2016)	dub=6:1310117
 Guerreiras Da Yoga (2016)	dub=6:1310123	leg=6:1310124
 Guerreiras do Ar	dub=2:355550,8:355550	leg=2:355549,8:355549
-Guerreiras do K Pop (2025)	dub=6:1313613
-Guerreiras do K-Pop	dub=2:341310,2:329431,8:341310,8:329431	leg=2:341309,2:329430,8:341309,8:329430
+Guerreiras do K Pop (2025)	dub=https://embedplayer2.xyz/cdn/hls/ba2b729987061c2d2eb907fe0af84b81/master.txt,6:1313613
+Guerreiras do K-Pop	dub=https://embedplayer2.xyz/cdn/hls/ba2b729987061c2d2eb907fe0af84b81/master.txt,2:341310,2:329431,8:341310,8:329431	leg=2:341309,2:329430,8:341309,8:329430
 Guerreiro	dub=2:171555,8:171555
 Guerreiro (2011)	dub=6:1298876
 Guerreiro Americano	dub=2:376781,8:376781	leg=2:376780,8:376780
-Guerreiro Virtual	dub=2:215903,8:215903	leg=2:215902,8:215902
-Guerreiro Virtual (2022)	dub=6:1311438	leg=6:1311439
+Guerreiro Virtual	dub=https://embedplayer2.xyz/cdn/hls/8c56a2533f3b6534578b08a893377d7d/master.txt,2:215903,8:215903	leg=2:215902,8:215902
+Guerreiro Virtual (2022)	dub=https://embedplayer2.xyz/cdn/hls/8c56a2533f3b6534578b08a893377d7d/master.txt,6:1311438	leg=6:1311439
 Guerreiro da Escuridao (2017)	dub=6:1301911
 Guerreiro da Escuridão	dub=2:20038,8:20038
 Guerreiros Mágicos: A Lenda das Oito Luas	leg=2:282083,8:282083
@@ -579,9 +579,9 @@ Guerreiros do Basquete (2024)	dub=6:1312213	leg=6:1312212
 Guerreiros do Céu e da Terra (2003)	dub=6:1309832
 Guerreiros do Futuro	dub=2:22577,8:22577
 Guerreiros do Futuro (2018)	dub=6:1302039
-Guerreiros em Campo (2022)	leg=6:1313200
+Guerreiros em Campo (2022)	dub=https://embedplayer2.xyz/cdn/hls/630888ed051b3e7512daa6871e7fb179/master.txt	leg=6:1313200
 Guerrilha Sem Face	dub=2:330019,8:330019	leg=2:330018,8:330018
-Gueules noires	leg=2:266662,8:266662
+Gueules noires	dub=https://embedplayer2.xyz/cdn/hls/13ad5fb60c9e05db7738c9831397984a/master.txt	leg=2:266662,8:266662
 Guia Romântico para Lugares Perdidos	dub=2:161527,2:161521,8:161527,8:161521
 Guia Romântico para Lugares Perdidos (2020)	dub=6:1306329,6:1306330
 Guia de Viagem para o Amor	dub=8:390342,2:192606,8:192606	leg=2:192605,8:192605
@@ -589,9 +589,9 @@ Guia de Viagem para o Amor (2023)	dub=6:1301125
 Guiado pelo Luar	dub=2:215885,8:215885	leg=2:215880,8:215880
 Guiado pelo Luar (2022)	dub=6:1309380	leg=6:1309381
 Guigo Offline	dub=2:353003,8:353003
-Gump 2 - Aventura em Dobro	dub=2:370145,8:370145	leg=2:370144,8:370144
-Gump: Uma Lição de Vida	dub=2:254850,8:254850	leg=2:254851,8:254851
-Gump: Uma Lição de Vida (2021)	dub=6:1311050	leg=6:1311051
+Gump 2 - Aventura em Dobro	dub=https://embedplayer2.xyz/cdn/hls/c229b6a1eaa55e33b0b15f4fadef6fb9/master.txt,2:370145,8:370145	leg=2:370144,8:370144
+Gump: Uma Lição de Vida	dub=https://embedplayer2.xyz/cdn/hls/2fa96e2e30841be74715d8e3e003fa71/master.txt,2:254850,8:254850	leg=2:254851,8:254851
+Gump: Uma Lição de Vida (2021)	dub=https://embedplayer2.xyz/cdn/hls/2fa96e2e30841be74715d8e3e003fa71/master.txt,6:1311050	leg=6:1311051
 Gunda	dub=2:340461,8:340461
 Gundala	leg=2:63101,8:63101
 Gundala: A Ascensão de um Herói (2019)	leg=6:1308083
@@ -611,7 +611,7 @@ Gênesis	dub=2:273057,8:273057
 Gênesis (1994)	dub=6:1301290
 Gênesis In Concert	dub=2:144896,8:144896
 Gênio Indomável	dub=2:352209,2:75686,8:352209,8:75686	leg=2:352208,8:352208
-Gênios da Trapaça	leg=2:376716,8:376716
+Gênios da Trapaça	dub=https://embedplayer2.xyz/cdn/hls/243bd75f3965685ee1046b4585e2b1f1/master.txt	leg=2:376716,8:376716
 Gênios do Crime	dub=2:198530,8:198530
 Gênios do Crime (2016)	dub=6:1305039
 Gölgeler ve Suretler	dub=2:313288,8:313288	leg=2:313289,8:313289

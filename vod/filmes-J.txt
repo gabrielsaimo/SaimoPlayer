@@ -13,24 +13,24 @@ Ja Fui Famoso (2022)	dub=6:1300133
 Ja Nao me Sinto em Casa Nesse Mundo	dub=2:20636,8:20636
 Jaat	leg=2:329331,8:329331
 Jack	dub=2:320231,8:320231
-Jack & Jill Nos Passos do Amor	dub=2:254783,8:254783	leg=2:254784,8:254784
+Jack & Jill Nos Passos do Amor	dub=https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt,2:254783,8:254783	leg=2:254784,8:254784
 Jack A Caixa Maldita (2019)	dub=6:1303504
 Jack Chega A Tempo Para O Natal	dub=2:297431,8:297431	leg=2:297432,8:297432
 Jack Chega A Tempo Para O Natal (2024)	dub=6:1312504	leg=6:1312503
-Jack Osbourne: Em Busca dos Ovnis (2022)	dub=6:1300925
+Jack Osbourne: Em Busca dos Ovnis (2022)	dub=https://embedplayer2.xyz/cdn/hls/f5895ec8e289f883a4680e49e198f3be/master.txt,6:1300925
 Jack Osbourne: Em Busca dos Óvnis	dub=2:182918,8:182918
-Jack Reacher o Ultimo Tiro	dub=2:20061,8:396210,8:20061	leg=8:396209
-Jack Reacher o Ultimo Tiro (2012)	dub=6:1297655
+Jack Reacher o Ultimo Tiro	dub=https://embedplayer2.xyz/cdn/hls/bff5e0f70391c2d7c8b64717fcdc889b/master.txt,2:20061,8:396210,8:20061	leg=8:396209
+Jack Reacher o Ultimo Tiro (2012)	dub=https://embedplayer2.xyz/cdn/hls/bff5e0f70391c2d7c8b64717fcdc889b/master.txt,6:1297655
 Jack Reacher: Sem Retorno	dub=2:382559,2:20060,8:382559,8:20060	leg=2:382558,8:382558
-Jack Reacher: Sem Retorno (2016)	dub=6:1297067
-Jack Ryan de Tom Clancy Guerra Fantasma (2026)	dub=6:1314594	leg=6:1314593
-Jack Ryan de Tom Clancy: Guerra Fantasma	dub=2:378994,2:378746,2:378745,8:378994,8:378746,8:378745,8:395066	leg=8:395065
+Jack Reacher: Sem Retorno (2016)	dub=https://embedplayer2.xyz/cdn/hls/6cefeb5d364ee2df026cfa2036c2f0c5/master.txt,6:1297067
+Jack Ryan de Tom Clancy Guerra Fantasma (2026)	dub=https://embedplayer2.xyz/cdn/hls/41aa9ead57f2b66a5ae7a40c3b89c53e/master.txt,6:1314594	leg=6:1314593
+Jack Ryan de Tom Clancy: Guerra Fantasma	dub=https://embedplayer2.xyz/cdn/hls/41aa9ead57f2b66a5ae7a40c3b89c53e/master.txt,2:378994,2:378746,2:378745,8:378994,8:378746,8:378745,8:395066	leg=8:395065
 Jack Walker, Um Herói em Ação	dub=2:219670,8:219670	leg=2:219669,8:219669
 Jack Walker, Um Herói em Ação (2021)	dub=6:1311322	leg=6:1311323
-Jack e Jill Nos Passos do Amor (2022)	dub=6:1303287
+Jack e Jill Nos Passos do Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/87d47a8e956b82d75b7d45dc9c7a0dba/master.txt,6:1303287
 Jack e a Mecanica do Coracao (2014)	dub=6:1301768
-Jack, O Estripador: A Historia nao Contada (2021)	dub=6:1298873
-Jack, O Estripador: A História não Contada	dub=2:133793,8:133793	leg=2:133787,8:133787
+Jack, O Estripador: A Historia nao Contada (2021)	dub=https://embedplayer2.xyz/cdn/hls/5eaf5fa1b93f2ea93f33f30ddccd6c57/master.txt,6:1298873
+Jack, O Estripador: A História não Contada	dub=https://embedplayer2.xyz/cdn/hls/5eaf5fa1b93f2ea93f33f30ddccd6c57/master.txt,2:133793,8:133793	leg=2:133787,8:133787
 Jack: A Caixa Maldita	dub=2:169632,8:384691,8:169632	leg=2:169639,8:384692,8:169639
 Jack: A Caixa Maldita 2 - O Despertar	dub=2:335993,2:212428,8:335993,8:212428	leg=2:335992,2:212427,8:335992,8:212427
 Jack: A Caixa Maldita 3 - A Ascensão	dub=2:291901,8:291901	leg=2:291902,8:291902
@@ -60,8 +60,8 @@ Jackpot: Loteria Mortal	dub=2:280999,8:280999,2:280998,8:280998	leg=2:281000,8:2
 Jackpot: Loteria Mortal! (2024)	dub=6:1311847	leg=6:1311846
 Jacquin Como Você Nunca Viu!	dub=2:356893,8:356893
 Jacó (1994)	dub=6:1313063
-Jade Black a Agente Secreta (2020)	dub=6:1303540
-Jade Black, a Agente Secreta	dub=2:249705,8:249705	leg=2:249706,8:249706
+Jade Black a Agente Secreta (2020)	dub=https://embedplayer2.xyz/cdn/hls/5dca67552cc6678f8b2f91abdd18e797/master.txt,6:1303540
+Jade Black, a Agente Secreta	dub=https://embedplayer2.xyz/cdn/hls/5dca67552cc6678f8b2f91abdd18e797/master.txt,2:249705,8:249705	leg=2:249706,8:249706
 Jade Dynasty	leg=2:67489,8:67489
 Jade Foster E Minha	leg=8:389561
 Jade: Guerreira Solitaria (2024)	dub=6:1303599
@@ -88,19 +88,19 @@ Jane Eyre	dub=2:21013,8:21013
 Jane Eyre (2011)	dub=6:1302512
 Jane Goodall: A Esperança	dub=2:163587,8:163587	leg=2:163583,8:163583
 Jane Goodall: A Esperança (2020)	dub=6:1306268	leg=6:1306269
-Jane Não Está Bem	dub=2:371665,8:371665	leg=2:371664,8:371664
+Jane Não Está Bem	dub=https://embedplayer2.xyz/cdn/hls/9907e980ec0c33259d34d29bbbea686c/master.txt,2:371665,8:371665	leg=2:371664,8:371664
 Janela Indiscreta (1998)	dub=6:1314227
 Janelas Para o Mundo	dub=2:241785,2:241784,8:241785,8:241784
 Janelas Para o Mundo (2019)	dub=6:1310725	leg=6:1310726
 Jantar com Beatriz (2017)	dub=6:1301370
-Jardim do Eden (2025)	dub=6:1314319
+Jardim do Eden (2025)	leg=https://embedplayer2.xyz/cdn/hls/d14f174c6925d6ea55ff00cbd2523967/master.txt	dub=https://embedplayer2.xyz/cdn/hls/983ebfd4269966db297a54d6e3ba89f5/master.txt,6:1314319
 Jardim do Éden	dub=2:366330,8:366330	leg=2:366329,8:366329
 Jardim dos Desejos	dub=2:300835,8:300835	leg=2:300836,8:300836
 Jardim dos Desejos (2023)	dub=6:1312597
-Jardim dos Girassóis	dub=2:305215,8:305215
+Jardim dos Girassóis	dub=https://embedplayer2.xyz/cdn/hls/bebb37f05279569ec5d4ef32ad1f3df7/master.txt,2:305215,8:305215
 Jards	dub=2:371895,8:371895
-Jason Bourne	dub=2:375051,2:79305,8:375051,8:79305	leg=2:375050,8:375050
-Jason Bourne (2016)	dub=6:1297350
+Jason Bourne	dub=https://embedplayer2.xyz/cdn/hls/341055970015ee9acc81a02c6e01b9f8/master.txt,2:375051,2:79305,8:375051,8:79305	leg=2:375050,8:375050
+Jason Bourne (2016)	dub=https://embedplayer2.xyz/cdn/hls/341055970015ee9acc81a02c6e01b9f8/master.txt,6:1297350
 Jason Vai para o Inferno: A Ultima Sexta-Feira (1993)	dub=6:1297363
 Jason Vai para o Inferno: A Última Sexta-Feira	dub=2:270425,2:134042,8:270425,8:134042
 Jason X	dub=2:317709,2:270426,8:317709,8:270426	leg=2:317710,8:317710
@@ -109,8 +109,8 @@ Jaula	dub=2:178558,8:178558	leg=2:178579,8:178579
 Jaula (2022)	dub=6:1300287
 Javier Milei: la revolución liberal	dub=2:347180,8:347180	leg=2:347179,8:347179
 Jaws vs. the Meg	dub=2:346836,8:346836	leg=2:346835,8:346835
-Jay Kelly	dub=2:355562,8:355562	leg=2:355561,8:355561
-Jay Kelly (2025)	dub=6:1314120
+Jay Kelly	dub=https://embedplayer2.xyz/cdn/hls/ab098827ccbd3aa4c291e0f9811be193/master.txt,2:355562,8:355562	leg=2:355561,8:355561
+Jay Kelly (2025)	dub=https://embedplayer2.xyz/cdn/hls/ab098827ccbd3aa4c291e0f9811be193/master.txt,6:1314120
 Jayne Mansfield, Minha Mãe	leg=2:330418,8:330418
 Je Suis Karl	dub=2:129588,8:129588	leg=2:129591,8:129591
 Je Suis Karl (2021)	dub=6:1304668	leg=6:1304669
@@ -137,10 +137,10 @@ Jesse Stone: Gelo Fino	dub=2:369411,8:369411	leg=2:369410,8:369410
 Jesse Stone: Inocentes Perdidos	dub=2:369413,8:369413	leg=2:369412,8:369412
 Jesse Stone: Sem Remorso	dub=2:369415,8:369415	leg=2:369414,8:369414
 Jesse Stone: Tempo de Despertar	dub=2:369417,8:369417	leg=2:369416,8:369416
-Jester 2 Nao Da para Enganar A Morte Duas Vezes (2025)	dub=6:1314556
-Jester A Morte Sorri (2023)	dub=6:1303002
+Jester 2 Nao Da para Enganar A Morte Duas Vezes (2025)	dub=https://embedplayer2.xyz/cdn/hls/248ce5bdd84bc27a0facde4d63a13e5f/master.txt,6:1314556
+Jester A Morte Sorri (2023)	dub=https://embedplayer2.xyz/cdn/hls/dec6f613f6e0abdc7c6c6e919806bac8/master.txt,6:1303002
 Jester: A Morte Sorri	dub=2:233789,8:233789	leg=2:233788,8:233788
-Jester: Não Dá para Enganar A Morte Duas Vezes	dub=2:377112,8:377112	leg=2:377111,8:377111
+Jester: Não Dá para Enganar A Morte Duas Vezes	dub=https://embedplayer2.xyz/cdn/hls/248ce5bdd84bc27a0facde4d63a13e5f/master.txt,2:377112,8:377112	leg=2:377111,8:377111
 Jesus	dub=2:48187,8:48187
 Jesus - A História do Nascimento	dub=2:120663,8:120663
 Jesus - A História do Nascimento (2006)	dub=6:1310033
@@ -150,11 +150,11 @@ Jesus De Nazare 3	dub=2:21527,8:21527
 Jesus De Nazare 4	dub=2:21528,8:21528
 Jesus Kid	dub=2:336841,2:185837,8:336841,8:185837
 Jesus Kid (2022)	dub=6:1306695
-Jesus: A Maior História de Todos os Tempos (1999)	dub=6:1307317
+Jesus: A Maior História de Todos os Tempos (1999)	dub=https://embedplayer2.xyz/cdn/hls/75bbee85a7f8a5bb1b0abebfd4d89581/master.txt,6:1307317
 Jesus: Seguindo os Passos do Messias	dub=2:317470,8:317470
 Jesús de Nazareth (1942)	dub=6:1310421
 Jeungin	leg=2:73278,8:73278
-Jewel Thief - The Heist Begins	dub=2:319124,8:319124	leg=2:319125,8:319125
+Jewel Thief - The Heist Begins	dub=https://embedplayer2.xyz/cdn/hls/9d2984f8edaca827c644815e8fc65d72/master.txt,2:319124,8:319124	leg=2:319125,8:319125
 Jexi	leg=2:33378,8:33378
 Jexi: Um Celular Sem Filtro	dub=2:42952,8:42952
 Jexi: Um Celular Sem Filtro (2019)	dub=6:1308584	leg=6:1308585
@@ -177,8 +177,8 @@ Joao e Maria Cacadores de Bruxas	dub=2:21304,8:21304
 Joao e Maria Depois do para Sempre (2021)	dub=6:1301784
 Joao e Maria: Cacadores de Bruxas (2013)	dub=6:1297248
 Joaquim (2017)	dub=6:1312648
-Jockey	dub=2:202592,8:202592	leg=2:202593,8:202593
-Jockey (2021)	dub=6:1301638
+Jockey	dub=https://embedplayer2.xyz/cdn/hls/bd21993372e6cb8601d3581d37b3db1d/master.txt,2:202592,8:202592	leg=2:202593,8:202593
+Jockey (2021)	dub=https://embedplayer2.xyz/cdn/hls/bd21993372e6cb8601d3581d37b3db1d/master.txt,6:1301638
 Joderism	dub=2:285087,8:285087
 Joderism (2019)	dub=6:1312052
 Joe Bell	dub=2:150135,8:150135	leg=2:150134,8:150134
@@ -189,8 +189,8 @@ Joe Kidd	dub=2:377233,8:377233	leg=2:377232,8:377232
 Joe Kidd (1972)	dub=6:1301278
 Joe Rogan: Strange Times (2018)	leg=6:1312986
 Joe Sujo (2001)	dub=6:1309431	leg=6:1309432
-Joe e a Viagem de Carro	dub=2:368088,8:368088,2:366876,8:366876	leg=2:366875,8:366875
-Joe e a Viagem de Carro (2026)	dub=6:1314321
+Joe e a Viagem de Carro	dub=https://embedplayer2.xyz/cdn/hls/11019d2377e803d2468b7a9829b8075e/master.txt,2:368088,8:368088,2:366876,8:366876	leg=2:366875,8:366875
+Joe e a Viagem de Carro (2026)	dub=https://embedplayer2.xyz/cdn/hls/11019d2377e803d2468b7a9829b8075e/master.txt,6:1314321
 Joe e as Baratas	dub=2:128893,8:128893
 Joe e as Baratas (1996)	dub=6:1304992
 Joey e Anna - Mundo de Aventuras	dub=2:267753,8:267753	leg=2:267754,8:267754
@@ -215,16 +215,16 @@ Jogador Numero 1	dub=2:22509,8:22509
 Jogador N° 1	dub=2:325912,8:325912,2:376787,8:376787
 Jogador N° 1 (2018)	dub=6:1307470
 Jogando Sujo	dub=2:251970,8:251970	leg=2:251971,8:251971
-Jogando Sujo (2020)	dub=6:1310995	leg=6:1310996
-Jogando a Linha	dub=2:219929,8:219929,2:219930,8:219930	leg=2:219928,8:219928
-Jogando a Linha (2023)	dub=6:1311422	leg=6:1311423
+Jogando Sujo (2020)	dub=https://embedplayer2.xyz/cdn/hls/8340fe83ffdfeb071d78c3b6fcc3ccec/master.txt,6:1310995	leg=6:1310996
+Jogando a Linha	dub=https://embedplayer2.xyz/cdn/hls/abbcc52c0863028dee2af16cbb703a5d/master.txt,2:219929,8:219929,2:219930,8:219930	leg=https://embedplayer2.xyz/cdn/hls/4cdd7ac98c0acf80750e81d6fd923533/master.txt,2:219928,8:219928
+Jogando a Linha (2023)	dub=https://embedplayer2.xyz/cdn/hls/abbcc52c0863028dee2af16cbb703a5d/master.txt,6:1311422	leg=https://embedplayer2.xyz/cdn/hls/4cdd7ac98c0acf80750e81d6fd923533/master.txt,6:1311423
 Jogando com Prazer	dub=2:112429,8:112429
 Jogando com Prazer (2009)	dub=6:1312542	leg=6:1312541
 Jogando com o Amor	dub=2:269808,8:269808	leg=2:269809,8:269809
 Jogando com o Amor (2020)	dub=6:1310950	leg=6:1310951
 Jogando com os Tubarões (2012)	dub=6:1312774
-Jogo Assassino	dub=2:89277,8:89277
-Jogo Assassino (2019)	dub=6:1307739
+Jogo Assassino	dub=https://embedplayer2.xyz/cdn/hls/439446e30c007b8a15ec5f0ea73b2585/master.txt,2:89277,8:89277
+Jogo Assassino (2019)	dub=https://embedplayer2.xyz/cdn/hls/439446e30c007b8a15ec5f0ea73b2585/master.txt,6:1307739
 Jogo Bonito	dub=8:392674,2:255006,8:255006	leg=2:255007,8:255007
 Jogo Bonito (2024)	dub=6:1303289
 Jogo Bruto	dub=2:101174,8:101174
@@ -236,14 +236,14 @@ Jogo Justo	dub=2:219159,8:219159,2:218864,8:218864	leg=2:218865,8:218865
 Jogo Justo (2023)	dub=6:1302582
 Jogo Pela Sobrevivência	dub=2:368219,8:368219	leg=2:368218,8:368218
 Jogo Perigoso	dub=6:1310756	leg=2:136791,8:136791
-Jogo Perigoso (2017)	dub=2:21014,8:21014	leg=6:1304394
+Jogo Perigoso (2017)	dub=https://embedplayer2.xyz/cdn/hls/12460429e4ea2ee262512a7e1a28a55e/master.txt,2:21014,8:21014	leg=6:1304394
 Jogo Perigoso (2022)	dub=2:136775,8:136775
-Jogo Perigoso Vitimas da Heranca (2022)	dub=6:1302026
-Jogo Perigoso: Vítimas da Legado	leg=2:192603,8:192603
+Jogo Perigoso Vitimas da Heranca (2022)	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt,6:1302026
+Jogo Perigoso: Vítimas da Legado	dub=https://embedplayer2.xyz/cdn/hls/7f0e905430e8e70dd5e6f3293185a2c6/master.txt	leg=2:192603,8:192603
 Jogo Perigoso: Vítimas do Legado	dub=2:192604,8:192604
 Jogo Sujo	dub=2:374340,2:373350,8:374340,8:373350,2:353932,2:346838,8:353932,8:346838	leg=2:353931,2:346837,8:353931,8:346837
-Jogo Sujo (2025)	dub=6:1313873	leg=6:1313872
-Jogo da Morte (1978)	dub=6:1307152
+Jogo Sujo (2025)	dub=https://embedplayer2.xyz/cdn/hls/aafa34357f091897d27ee0216095bdd5/master.txt,6:1313873	leg=6:1313872
+Jogo da Morte (1978)	dub=https://embedplayer2.xyz/cdn/hls/8566b1ae6389e737aaa8db12747c6596/master.txt,6:1307152
 Jogo da Morte 2 (1981)	dub=6:1307938
 Jogo da Sobrevivência (2015)	dub=6:1303752
 Jogo da Vida	dub=2:21015,8:21015
@@ -255,7 +255,7 @@ Jogo de Amor em Las Vegas	dub=2:328237,2:20637,8:328237,8:20637	leg=2:328236,8:3
 Jogo de Amor em Las Vegas (2008)	dub=6:1299670
 Jogo de Assassinato	dub=2:297434,8:297434	leg=2:297435,8:297435
 Jogo de Assassinato (2021)	dub=6:1303944
-Jogo de Bruxas	dub=2:337219,8:337219	leg=2:337218,8:337218
+Jogo de Bruxas	dub=https://embedplayer2.xyz/cdn/hls/f1f392d8170f7d8eef79b13e4c643585/master.txt,2:337219,8:337219	leg=2:337218,8:337218
 Jogo de Espioes (2001)	dub=6:1301152
 Jogo de Espiões	dub=2:100921,8:100921
 Jogo de Interesses	dub=2:144112,8:144112
@@ -265,14 +265,14 @@ Jogo de Morte (2011)	dub=6:1312846
 Jogo de Poder	dub=2:361819,2:125982,8:361819,8:125982	leg=2:361818,8:361818
 Jogo de Poder (2010)	dub=6:1302360
 Jogo de Risco	dub=2:322009,8:322009	leg=2:322010,8:322010
-Jogo de Sacrifício	dub=2:313598,8:313598	leg=2:313599,8:313599
+Jogo de Sacrifício	dub=https://embedplayer2.xyz/cdn/hls/17e414568bc03a8d45c6278fe68d991e/master.txt,2:313598,8:313598	leg=2:313599,8:313599
 Jogo de Sedução	dub=2:338626,8:338626	leg=2:338625,8:338625
 Jogo de Traições - A Origem	dub=2:313104,8:313104	leg=2:313105,8:313105
-Jogo do Amor	dub=2:352095,2:210701,8:352095,8:210701	leg=2:352094,2:210699,8:352094,8:210699
-Jogo do Amor (2022)	dub=6:1302199	leg=6:1302198
+Jogo do Amor	dub=https://embedplayer2.xyz/cdn/hls/e9611a94c5f90a765375a3e329b915b1/master.txt,2:352095,2:210701,8:352095,8:210701	leg=2:352094,2:210699,8:352094,8:210699
+Jogo do Amor (2022)	dub=https://embedplayer2.xyz/cdn/hls/e9611a94c5f90a765375a3e329b915b1/master.txt,6:1302199	leg=6:1302198
 Jogo do Destino	dub=2:258423,8:258423	leg=2:258424,8:258424
 Jogo do Destino (2023)	dub=6:1304947	leg=6:1304948
-Jogo do Dinheir (2016)	dub=6:1301413
+Jogo do Dinheir (2016)	dub=https://embedplayer2.xyz/cdn/hls/d27af81c6f46a79180a6a408a87dc352/master.txt,6:1301413
 Jogo do Dinheiro	dub=2:232161,8:232161
 Jogo na Escuridão (2019)	leg=6:1308258
 Jogos Cibernéticos (2019)	leg=6:1312764
@@ -290,20 +290,20 @@ Jogos Mortais III	dub=2:95881,8:95881
 Jogos Mortais III (2006)	dub=6:1297858
 Jogos Mortais IV	dub=2:95882,8:95882
 Jogos Mortais IV (2007)	dub=6:1297859
-Jogos Mortais V	dub=2:95883,8:95883
-Jogos Mortais V (2008)	dub=6:1297860
-Jogos Mortais VI	dub=2:95884,8:95884
-Jogos Mortais VI (2009)	dub=6:1297861
-Jogos Mortais X	dub=2:223081,2:223079,8:223081,8:223079,2:223096,8:223096	leg=2:221638,8:221638
-Jogos Mortais X (2023)	dub=6:1302707	leg=6:1302661
+Jogos Mortais V	dub=https://embedplayer2.xyz/cdn/hls/1108645130533e96a971982adc31a651/master.txt,2:95883,8:95883
+Jogos Mortais V (2008)	dub=https://embedplayer2.xyz/cdn/hls/1108645130533e96a971982adc31a651/master.txt,6:1297860
+Jogos Mortais VI	dub=https://embedplayer2.xyz/cdn/hls/2c420c48532a15aba0780b589177c730/master.txt,2:95884,8:95884
+Jogos Mortais VI (2009)	dub=https://embedplayer2.xyz/cdn/hls/2c420c48532a15aba0780b589177c730/master.txt,6:1297861
+Jogos Mortais X	dub=https://embedplayer2.xyz/cdn/hls/840ade8f9aac5db901fb309f1630c048/master.txt,2:223081,2:223079,8:223081,8:223079,2:223096,8:223096	leg=2:221638,8:221638
+Jogos Mortais X (2023)	dub=https://embedplayer2.xyz/cdn/hls/840ade8f9aac5db901fb309f1630c048/master.txt,6:1302707	leg=6:1302661
 Jogos Mortais: Jigsaw	dub=2:95886,8:95886
-Jogos Mortais: Jigsaw (2017)	dub=6:1297863
-Jogos Mortais: O Final	dub=2:95885,8:95885
-Jogos Mortais: O Final (2010)	dub=6:1297862
+Jogos Mortais: Jigsaw (2017)	dub=https://embedplayer2.xyz/cdn/hls/7666c91abb58510f2a7e7160cf0668e6/master.txt,6:1297863
+Jogos Mortais: O Final	dub=https://embedplayer2.xyz/cdn/hls/1da5e445c8fb99a8b29f43cb75365d87/master.txt,2:95885,8:95885
+Jogos Mortais: O Final (2010)	dub=https://embedplayer2.xyz/cdn/hls/1da5e445c8fb99a8b29f43cb75365d87/master.txt,6:1297862
 Jogos Patrióticos	dub=2:111591,8:111591
 Jogos Patrióticos (1992)	dub=6:1309069
-Jogos Psicologicos (2021)	dub=6:1302581
-Jogos Psicológicos	dub=2:179736,8:179736	leg=2:179759,8:179759
+Jogos Psicologicos (2021)	dub=https://embedplayer2.xyz/cdn/hls/294ede4631e1cfdfbdd886e967b276f8/master.txt,6:1302581
+Jogos Psicológicos	dub=https://embedplayer2.xyz/cdn/hls/294ede4631e1cfdfbdd886e967b276f8/master.txt,2:179736,8:179736	leg=2:179759,8:179759
 Jogos Sombrios	dub=2:287361,8:287361	leg=2:287362,8:287362
 Jogos Trapacas e Dois Canos Fumegantes	dub=2:98616,8:98616
 Jogos Trapacas e Dois Canos Fumegantes (1998)	dub=6:1302007
@@ -311,11 +311,11 @@ Jogos Virtuais: O Início	dub=2:202573,8:202573	leg=2:202572,8:202572
 Jogos Virtuais: O Início (2018)	dub=6:1305936	leg=6:1305937
 Jogos Vorazes	dub=2:95929,8:95929
 Jogos Vorazes (2012)	dub=6:1302673	leg=6:1302674
-Jogos Vorazes A Cantiga dos Passaros e das Serpentes (2023)	dub=6:1303004	leg=6:1303003
+Jogos Vorazes A Cantiga dos Passaros e das Serpentes (2023)	dub=https://embedplayer2.xyz/cdn/hls/bc5a50e7858200e6d38b59e4c4d3d153/master.txt,6:1303004	leg=6:1303003
 Jogos Vorazes A Esperanca O Final (2015)	dub=6:1302680	leg=6:1302679
 Jogos Vorazes A Esperanca Parte 1 (2014)	dub=6:1302678	leg=6:1302677
 Jogos Vorazes Em Chamas (2013)	dub=6:1302675	leg=6:1302676
-Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes	dub=2:233791,8:233791,2:233792,8:233792	leg=2:233793,8:233793
+Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes	dub=https://embedplayer2.xyz/cdn/hls/bc5a50e7858200e6d38b59e4c4d3d153/master.txt,2:233791,8:233791,2:233792,8:233792	leg=2:233793,8:233793
 Jogos Vorazes: A Esperança - O Final	dub=2:324829,2:95932,8:324829,8:95932	leg=2:324828,8:324828
 Jogos Vorazes: A Esperança - Parte 1	dub=2:95931,8:95931
 Jogos Vorazes: Em Chamas	dub=2:95930,8:95930
@@ -324,16 +324,16 @@ Jogos de Amor (2024)	dub=6:1303144
 Jogos de Caça	dub=2:351902,8:351902	leg=2:351901,8:351901
 Jogos de Estrada	dub=2:311134,8:311134	leg=2:311135,8:311135
 Jogos de Guerra O Codigo Mortal (2008)	dub=6:1303015
-Jogos de Sedução	dub=2:335680,8:335680,2:335547,8:335547	leg=2:335546,8:335546
-Jogos de Sedução (2025)	dub=6:1313682
+Jogos de Sedução	dub=https://embedplayer2.xyz/cdn/hls/0c598f73d80c169d07530ab29be944ea/master.txt,2:335680,8:335680,2:335547,8:335547	leg=2:335546,8:335546
+Jogos de Sedução (2025)	dub=https://embedplayer2.xyz/cdn/hls/0c598f73d80c169d07530ab29be944ea/master.txt,6:1313682
 Jogos do Poder	dub=2:110250,8:394780,8:110250	leg=8:394779
 Jogos do Poder (2007)	dub=6:1308694
 Jogue ou Morra	dub=2:42505,8:42505
 Jogue ou Morra (2019)	dub=6:1297797
 Johatsu - Die sich in Luft auflösen	leg=8:384731
 John Candy: Eu Me Amo	leg=2:347673,8:347673
-John Carter: Entre Dois Mundos	dub=2:77829,8:77829
-John Carter: Entre Dois Mundos (2012)	dub=6:1307968
+John Carter: Entre Dois Mundos	dub=https://embedplayer2.xyz/cdn/hls/ba53b62f0e7a37e5bafdccd65cc6d289/master.txt,2:77829,8:77829
+John Carter: Entre Dois Mundos (2012)	dub=https://embedplayer2.xyz/cdn/hls/ba53b62f0e7a37e5bafdccd65cc6d289/master.txt,6:1307968
 John Farnham: Finding the Voice	leg=2:261685,8:261685
 John Farnham: Finding the Voice (2023)	leg=6:1304952
 John McAfee: Genio Polemico e Fugitivo (2022)	dub=6:1300000
@@ -366,8 +366,8 @@ Johnny English 3.0 (2018)	dub=6:1303027
 Johnny Kapahala: De Volta ao Havaí	dub=8:394515	leg=8:394514
 Johnny Mnemonic, o Cyborg do Futuro	dub=2:105246,8:105246
 Johnny Mnemonic, o Cyborg do Futuro (1995)	dub=6:1309072
-Johnny Todos Tem Uma Missão Especial	dub=2:128609,8:128609
-Johnny Todos Tem Uma Missão Especial (2010)	dub=6:1305249
+Johnny Todos Tem Uma Missão Especial	dub=https://embedplayer2.xyz/cdn/hls/7ec5f599a0b5c1dbad9da766fbe7ed4d/master.txt,2:128609,8:128609
+Johnny Todos Tem Uma Missão Especial (2010)	dub=https://embedplayer2.xyz/cdn/hls/7ec5f599a0b5c1dbad9da766fbe7ed4d/master.txt,6:1305249
 Joias Brutas	dub=2:34233,8:34233
 Joias Brutas (2019)	dub=6:1297492
 Joika: Uma Americana no Bolshoi	dub=2:262346,8:262346	leg=2:262347,8:262347
@@ -403,10 +403,10 @@ Jornada Nas Estrelas 6	dub=2:21315,8:21315
 Jornada Nas Estrelas 7	dub=2:21316,8:21316
 Jornada Nas Estrelas 8	dub=2:21317,8:21317
 Jornada Nas Estrelas 9	dub=2:21318,8:21318
-Jornada Para Belém	dub=2:237166,8:237166	leg=2:246201,2:237184,8:246201,8:237184
-Jornada Para Belém (2023)	dub=6:1309420	leg=6:1309421
-Jornada Para o Inferno	dub=2:229478,8:229478	leg=2:229463,8:229463
-Jornada Para o Inferno (2023)	dub=6:1302876
+Jornada Para Belém	dub=https://embedplayer2.xyz/cdn/hls/7028822f6a90ccadef30004956fe27b9/master.txt,2:237166,8:237166	leg=2:246201,2:237184,8:246201,8:237184
+Jornada Para Belém (2023)	dub=https://embedplayer2.xyz/cdn/hls/7028822f6a90ccadef30004956fe27b9/master.txt,6:1309420	leg=6:1309421
+Jornada Para o Inferno	dub=https://embedplayer2.xyz/cdn/hls/c1e7e963b8adcfcf90bd6fa64e4c7694/master.txt,2:229478,8:229478	leg=2:229463,8:229463
+Jornada Para o Inferno (2023)	dub=https://embedplayer2.xyz/cdn/hls/c1e7e963b8adcfcf90bd6fa64e4c7694/master.txt,6:1302876
 Jornada Pela Justiça	dub=2:162990,8:162990
 Jornada Pela Liberdade (2006)	dub=6:1309842
 Jornada da Vida	dub=2:127404,2:36066,8:127404,8:36066
@@ -418,7 +418,7 @@ Jornada nas Estrelas IV: A Volta para Casa (1986)	dub=6:1309883
 Jornada nas Estrelas VI: A Terra Desconhecida (1991)	dub=6:1309897
 Jornada nas Estrelas: Generations (1994)	dub=6:1299792
 Jornada nas Estrelas: Insurreição (1998)	dub=6:1309950
-Jornada nas Estrelas: Nêmesis (2002)	dub=6:1309951
+Jornada nas Estrelas: Nêmesis (2002)	dub=https://embedplayer2.xyz/cdn/hls/4fa6d526b566700065511de387e31e7a/master.txt,6:1309951
 Jornada nas Estrelas: O Filme (1979)	dub=6:1309847
 Jornada nas Estrelas: Primeiro Contato (1996)	dub=6:1309948
 Jornada pela Liberdade	dub=2:21016,8:21016
@@ -429,8 +429,8 @@ Josey Wales: O Fora da Lei	dub=2:363882,2:330400,8:363882,8:330400	leg=2:363881,
 Josh Johnson: Sinfonia	leg=2:381206,8:381206
 Joshua - O Filho do Mal	dub=2:311226,8:311226
 José Aparecido de Oliveira – O Maior Mineiro do Mundo	dub=2:371896,8:371896
-José e Maria	dub=2:110778,8:110778
-José e Maria (2016)	dub=6:1307652
+José e Maria	leg=https://embedplayer2.xyz/cdn/hls/8d2922f2009aaa932f6c887166d1d2c9/master.txt	dub=https://embedplayer2.xyz/cdn/hls/8d2922f2009aaa932f6c887166d1d2c9/master.txt,2:110778,8:110778
+José e Maria (2016)	leg=https://embedplayer2.xyz/cdn/hls/8d2922f2009aaa932f6c887166d1d2c9/master.txt	dub=https://embedplayer2.xyz/cdn/hls/8d2922f2009aaa932f6c887166d1d2c9/master.txt,6:1307652
 José: O Rei dos Sonhos	dub=2:380468,2:157952,8:380468,8:157952
 Journal 64	leg=2:63078,8:63078
 Journey To China The Mystery Of Iron Mask	leg=2:63102,8:63102
@@ -449,10 +449,10 @@ Jovens Infelizes ou Um Homem que Grita Não é um Urso que Dança	dub=8:395691
 Jovens Justiceiros	dub=2:285109,8:285109
 Jovens Justiceiros (2001)	dub=6:1302319
 Jovens Loucos e Mais Rebeldes (2016)	dub=6:1300543
-Jovens Maes (2025)	dub=6:1314560
+Jovens Maes (2025)	dub=https://embedplayer2.xyz/cdn/hls/deca0f12118e9e8c29b0b56c2b3c4b8c/master.txt,6:1314560
 Jovens Mulheres	dub=2:30403,8:30403
 Jovens Mulheres (2018)	dub=6:1307916	leg=6:1311935
-Jovens Mães	dub=2:377119,8:377119	leg=2:377118,8:377118
+Jovens Mães	dub=https://embedplayer2.xyz/cdn/hls/deca0f12118e9e8c29b0b56c2b3c4b8c/master.txt,2:377119,8:377119	leg=2:377118,8:377118
 Jovens Polacas	dub=2:189944,8:189944
 Jovens Polacas (2020)	dub=6:1306230
 Jovens Titas: O Contrato de Judas (2017)	dub=6:1298517
@@ -476,13 +476,13 @@ Judy Blume Para Sempre (2023)	leg=6:1313202
 Judy Por Tras do Arco Iris (2019)	dub=6:1301420
 Judy: Muito Além do Arco-Íris	dub=2:48188,8:48188
 Jujutsu Kaisen 0: O Filme	dub=2:174618,8:174618	leg=2:174617,8:174617
-Jujutsu Kaisen 0: O Filme (2021)	dub=6:1300136	leg=6:1300150
+Jujutsu Kaisen 0: O Filme (2021)	dub=https://embedplayer2.xyz/cdn/hls/274c0492fb72a1f142bb41e2ad8a560f/master.txt,6:1300136	leg=https://embedplayer2.xyz/cdn/hls/bec00ddbed1a4e2ce5b006c47b1b3405/master.txt,6:1300150
 Julgamento (2001)	dub=6:1304001
 Julgamento: O Estado Contra Um Homem Comum	leg=2:318513,8:318513
 Julho Sangrento	dub=2:253287,8:253287
 Julho Sangrento (2014)	dub=6:1310032
-Julie & Julia	dub=2:103972,8:103972
-Julie & Julia (2009)	dub=6:1307340
+Julie & Julia	dub=https://embedplayer2.xyz/cdn/hls/fb20504b1d5e60d664805caaa158d278/master.txt,2:103972,8:103972
+Julie & Julia (2009)	dub=https://embedplayer2.xyz/cdn/hls/fb20504b1d5e60d664805caaa158d278/master.txt,6:1307340
 Julieta	dub=2:21570,8:21570
 Julieta (2016)	dub=6:1310200
 Julio Sumiu (2014)	dub=6:1299737
@@ -495,14 +495,14 @@ Jumanji: Proxima Fase (2019)	dub=6:1297706
 Jumanji: Próxima Fase	dub=2:42546,2:42016,8:42546,8:42016,2:42019,8:42019
 Jumbo	dub=2:24865,8:24865
 Jumbo (2019)	dub=6:1308482
-Jumbo: Um Coração Gigante	dub=2:370003,8:370003	leg=2:370002,8:370002
+Jumbo: Um Coração Gigante	dub=https://embedplayer2.xyz/cdn/hls/1ef12a10f763d3d748149b832124594d/master.txt,2:370003,8:370003	leg=2:370002,8:370002
 Jump (2009)	dub=6:1299902
 Jumper	dub=2:316425,8:316425
 Jumper (2008)	dub=6:1301355
 June	leg=2:246202,8:246202
 June (2023)	leg=6:1309694
-June e John	dub=2:335549,8:335549	leg=2:335548,8:335548
-June e John (2025)	dub=6:1313680
+June e John	dub=https://embedplayer2.xyz/cdn/hls/9cd78ae75120cdb830756d64f66a559f/master.txt,2:335549,8:335549	leg=2:335548,8:335548
+June e John (2025)	dub=https://embedplayer2.xyz/cdn/hls/9cd78ae75120cdb830756d64f66a559f/master.txt,6:1313680
 Junebug (2024)	leg=6:1311960
 Jung_E	dub=2:185322,8:185322	leg=2:185321,8:185321
 Jung_E (2023)	dub=6:1306664	leg=6:1306665
@@ -513,7 +513,7 @@ Jungle Cruise: A Maldicao Nos Confins Da Selva (2021)	dub=6:1298617
 Junglee - Protegendo a Selva (2019)	dub=6:1303766
 Jungleland	leg=2:88471,8:88471
 Junior	dub=2:92598,8:387059,8:92598	leg=8:387058
-Junior (1994)	dub=6:1299903
+Junior (1994)	dub=https://embedplayer2.xyz/cdn/hls/c62c17eb4a787eb54718854d0026f7f5/master.txt,6:1299903
 Juno	dub=2:112935,8:112935
 Juno (2007)	dub=6:1300485
 Juntas no Crime	dub=2:41201,8:41201
@@ -547,20 +547,20 @@ Jurassic Park 3 (2001)	dub=6:1297142
 Jurassic Park: O Parque dos Dinossauros	dub=2:112973,8:112973
 Jurassic Park: O Parque dos Dinossauros (1993)	dub=6:1297140
 Jurassic World	dub=2:20071,8:20071
-Jurassic World - Reino Ameacado	dub=2:21489,8:21489
-Jurassic World 2 - Reino Ameacado	dub=2:21319,8:21319
+Jurassic World - Reino Ameacado	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,2:21489,8:21489
+Jurassic World 2 - Reino Ameacado	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,2:21319,8:21319
 Jurassic World: Dominio (2022)	dub=6:1299635
 Jurassic World: Domínio	dub=2:165669,8:165669,2:165661,8:165661	leg=2:165673,8:165673
-Jurassic World: O Mundo dos Dinossauros (2015)	dub=6:1297179
+Jurassic World: O Mundo dos Dinossauros (2015)	dub=https://embedplayer2.xyz/cdn/hls/78ae1e3fbc0a11d5d2f7abc77602fb61/master.txt,6:1297179
 Jurassic World: Recomeço	dub=2:338673,8:338673,2:338551,8:338551	leg=2:338425,8:338425
 Jurassic World: Recomeço (2025)	dub=6:1313724	leg=6:1313723
-Jurassic World: Reino Ameacado (2018)	dub=6:1297181
+Jurassic World: Reino Ameacado (2018)	dub=https://embedplayer2.xyz/cdn/hls/61b89b7353f0ae3af850fe3b2f39f716/master.txt,6:1297181
 Just Before I Go (2015)	dub=6:1310067
 Just Mercy	leg=2:41202,8:41202
 Just Play Dead	leg=8:397476
 Just a Father	dub=2:144031,8:144031
 Justica Alem do Sistema (2021)	dub=6:1300343
-Justica Artificial (2026)	dub=6:1314313	leg=6:1314312
+Justica Artificial (2026)	dub=https://embedplayer2.xyz/cdn/hls/c83215bc95923e5e65f28f686ee4029f/master.txt,https://embedplayer2.xyz/cdn/hls/eae31dffb7fa272834c0d40bac6d6018/master.txt,6:1314313	leg=6:1314312
 Justica em Familia (2021)	dub=6:1298674	leg=6:1298713
 Justice League Snyders Cut	leg=2:98633,8:98633
 Justice League vs. the Fatal Five Legendado	dub=2:22037,8:22037
@@ -574,14 +574,14 @@ Justiça	dub=2:133030,8:133030
 Justiça (2004)	dub=6:1304334
 Justiça - Entre o Poder e a Lei	dub=2:117071,8:117071
 Justiça - Entre o Poder e a Lei (1999)	dub=6:1310122
-Justiça Artificial	dub=2:367082,8:367082,2:367002,8:367002	leg=2:367001,8:367001
+Justiça Artificial	dub=https://embedplayer2.xyz/cdn/hls/c83215bc95923e5e65f28f686ee4029f/master.txt,https://embedplayer2.xyz/cdn/hls/eae31dffb7fa272834c0d40bac6d6018/master.txt,2:367082,8:367082,2:367002,8:367002	leg=2:367001,8:367001
 Justiça Brutal	dub=2:317711,2:94170,8:317711,8:94170	leg=2:317712,8:317712
 Justiça Brutal (2019)	dub=6:1307012
 Justiça Cega	dub=2:354231,8:354231	leg=2:354230,8:354230
 Justiça Para Todos (1979)	dub=6:1305030
 Justiça Sem Fronteiras	dub=2:33379,8:33379
 Justiça Sem Fronteiras (2019)	dub=6:1308249
-Justiça Sem Limites	dub=2:361366,8:361366	leg=2:361365,8:361365
+Justiça Sem Limites	dub=https://embedplayer2.xyz/cdn/hls/542411f8b99f020fd0ea5d4c187f9110/master.txt,2:361366,8:361366	leg=2:361365,8:361365
 Justiça Urbana	dub=2:365258,8:365258	leg=2:365257,8:365257
 Justiça Urbana (2007)	dub=6:1309894	leg=6:1309895
 Justiça Vermelha	dub=2:333278,8:333278	leg=2:333277,8:333277

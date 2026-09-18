@@ -6,7 +6,7 @@ M-8: Quando a Morte Socorre a Vida (2019)	dub=6:1298326
 M. Butterfly	dub=2:138880,8:138880
 M3GAN	dub=2:188215,8:188215,2:188217,8:188217	leg=2:188216,8:188216
 M3GAN (2022)	dub=6:1301027	leg=6:1301026
-M3GAN 2.0	dub=2:338426,8:338426,2:338306,8:338306	leg=2:338305,2:335235,8:338305,8:335235
+M3GAN 2.0	dub=https://embedplayer2.xyz/cdn/hls/b7fc82040f60408d1316e3e378a530dc/master.txt,https://embedplayer2.xyz/cdn/hls/e8c2cd04a023d3ce2e96b4e80f2826e4/master.txt,2:338426,8:338426,2:338306,8:338306	leg=2:338305,2:335235,8:338305,8:335235
 MARIA (2023)	dub=6:1305535
 MASH	dub=2:337586,2:100407,8:337586,8:100407
 MASH (1970)	dub=6:1299917
@@ -16,19 +16,19 @@ MIB - Homens de Preto II (2002)	dub=6:1310780
 MIB Homens de Preto (1997)	dub=6:1297023
 MIB Homens de Preto 2 (2012)	dub=6:1297024
 MIB Homens de Preto 3 (2012)	dub=6:1297025
-MIB Homens de Preto: Internacional	dub=2:29565,2:29561,8:29565,8:29561,2:380568,2:337588,2:29553,8:380568,8:337588,8:29553	leg=2:380567,2:337587,8:380567,8:337587
+MIB Homens de Preto: Internacional	dub=https://embedplayer2.xyz/cdn/hls/1619c9b60a0877e923cd69c34d1f2fa0/master.txt,2:29565,2:29561,8:29565,8:29561,2:380568,2:337588,2:29553,8:380568,8:337588,8:29553	leg=2:380567,2:337587,8:380567,8:337587
 MIB: Homens de Preto I	dub=2:21321,8:21321
 MIB: Homens de Preto II	dub=2:21322,8:21322
 MIB: Homens de Preto III	dub=2:21323,8:21323
-MIB: Homens de Preto Internacional (2019)	dub=6:1297120
+MIB: Homens de Preto Internacional (2019)	dub=https://embedplayer2.xyz/cdn/hls/1619c9b60a0877e923cd69c34d1f2fa0/master.txt,6:1297120
 MILF	dub=2:63107,8:63107
-MILF (2018)	dub=6:1307985
+MILF (2018)	dub=https://embedplayer2.xyz/cdn/hls/143daa9742b7b6ad6a42e7be8b36e9e6/master.txt,6:1307985
 MK Ultra: Controlando Mentes	dub=2:353748,8:353748	leg=2:353747,8:353747
-MMA - Meu Melhor Amigo	dub=2:316306,8:316306,2:316236,8:316236	leg=2:316759,8:316759
-MMA - Meu Melhor Amigo (2025)	dub=6:1313356
+MMA - Meu Melhor Amigo	dub=https://embedplayer2.xyz/cdn/hls/c2825ee821d10ecfdd7620d863617c67/master.txt,2:316306,8:316306,2:316236,8:316236	leg=2:316759,8:316759
+MMA - Meu Melhor Amigo (2025)	dub=https://embedplayer2.xyz/cdn/hls/c2825ee821d10ecfdd7620d863617c67/master.txt,6:1313356
 MR9: Missao Mortal (2023)	dub=6:1304195
-MST - Terra Prometida	dub=2:322814,8:322814,2:322815,8:322815
-MST - Terra Prometida (2025)	dub=6:1313525
+MST - Terra Prometida	dub=https://embedplayer2.xyz/cdn/hls/64f625a5c2d52787888cf0d35664fff6/master.txt,2:322814,8:322814,2:322815,8:322815
+MST - Terra Prometida (2025)	dub=https://embedplayer2.xyz/cdn/hls/64f625a5c2d52787888cf0d35664fff6/master.txt,6:1313525
 MTV Europe Music Awards	dub=2:303579,8:303579
 MTV Video Music Awards	dub=2:304582,8:304582
 Ma	dub=2:185621,2:29096,8:185621,8:29096
@@ -39,12 +39,12 @@ MaXXXine (2024)	dub=6:1312085	leg=6:1311791
 Mac & Devin Vao Para a Escola (2012)	dub=6:1300003
 Macabro	dub=2:92019,8:92019
 Macabro (2019)	dub=6:1300387
-Macaco vs Maquina (2023)	dub=6:1303411
+Macaco vs Maquina (2023)	dub=https://embedplayer2.xyz/cdn/hls/bcea96be391269a51724672e10eac7d4/master.txt,6:1303411
 Macaco vs. Máquina	dub=2:256336,8:256336	leg=2:256337,8:256337
 Macacos Assassinos	dub=2:329661,8:329661
 Macacos Assassinos (2013)	dub=6:1309900
 Macaléia	dub=2:368825,8:368825
-Macbeth - Vozes do Harlem	dub=2:318592,8:318592	leg=2:318593,8:318593
+Macbeth - Vozes do Harlem	dub=https://embedplayer2.xyz/cdn/hls/337eacf964fae72d23db2390607c8ea8/master.txt,2:318592,8:318592	leg=2:318593,8:318593
 Macbeth: Ambição e Guerra	dub=2:134043,8:134043
 Macbeth: Ambição e Guerra (2015)	dub=6:1304332
 Machado do Brasil	dub=2:320899,8:320899
@@ -72,19 +72,19 @@ Madagascar 3	dub=2:20386,8:20386
 Madagascar 3 (2012)	dub=6:1299571
 Madalena	dub=2:149579,8:149579
 Madalena (2021)	dub=6:1306470
-Madame Durocher	dub=2:352673,8:352673	leg=2:347676,8:347676
+Madame Durocher	dub=https://embedplayer2.xyz/cdn/hls/e55139985595de5fe45d2702f2a28751/master.txt,2:352673,8:352673	leg=2:347676,8:347676
 Madame Sata (2002)	dub=6:1301501
 Madame Satã	dub=2:281484,8:281484
-Madame Teia	dub=2:253276,8:253276,2:253275,8:253275	leg=2:253277,8:253277
-Madame Teia (2024)	dub=6:1303245	leg=6:1303244
+Madame Teia	dub=https://embedplayer2.xyz/cdn/hls/39c0c2024a723a1a68e450f52afd7499/master.txt,2:253276,8:253276,2:253275,8:253275	leg=2:253277,8:253277
+Madame Teia (2024)	dub=https://embedplayer2.xyz/cdn/hls/39c0c2024a723a1a68e450f52afd7499/master.txt,6:1303245	leg=6:1303244
 Maddie's Secret	leg=8:392464
 Made in China (2014)	dub=6:1301972
 Made in England: The Films of Powell and Pressburger	leg=2:267700,8:267700
 Made in England: The Films of Powell and Pressburger (2024)	leg=6:1309528
-Made in Korea	dub=2:370005,8:370005	leg=2:370004,8:370004
-Made in Korea (2026)	dub=6:1314384
-Madea e o Casamento nas Bahamas	dub=2:334609,8:334609	leg=2:334608,8:334608
-Madea e o Casamento nas Bahamas (2025)	dub=6:1313667
+Made in Korea	dub=https://embedplayer2.xyz/cdn/hls/b541f48cb2229d8ed0d0b77c29a4d5d3/master.txt,2:370005,8:370005	leg=2:370004,8:370004
+Made in Korea (2026)	dub=https://embedplayer2.xyz/cdn/hls/b541f48cb2229d8ed0d0b77c29a4d5d3/master.txt,6:1314384
+Madea e o Casamento nas Bahamas	dub=https://embedplayer2.xyz/cdn/hls/8110ee8f659a60d11b0ebef7fb5ded93/master.txt,2:334609,8:334609	leg=2:334608,8:334608
+Madea e o Casamento nas Bahamas (2025)	dub=https://embedplayer2.xyz/cdn/hls/8110ee8f659a60d11b0ebef7fb5ded93/master.txt,6:1313667
 Madea: O Retorno	dub=2:150703,8:150703	leg=2:150705,8:150705
 Madea: O Retorno (2022)	dub=6:1299308
 Madeline	dub=2:127465,8:127465
@@ -101,15 +101,15 @@ Madres: Mães de Ninguém	dub=2:131220,8:131220	leg=2:131221,8:131221
 Madrinha (2017)	dub=6:1299914
 Madrinhas de Casamento Brutais	dub=2:112415,8:112415
 Madrinhas de Casamento Brutais (2020)	dub=6:1308907
-Madrugada Muito Louca (2004)	dub=6:1309502
-Madrugada Muito Louca 1	dub=2:20660,8:20660
+Madrugada Muito Louca (2004)	dub=https://embedplayer2.xyz/cdn/hls/3bb5a6e6d9a69f0b436f176a2edfdd5e/master.txt,6:1309502
+Madrugada Muito Louca 1	dub=https://embedplayer2.xyz/cdn/hls/3bb5a6e6d9a69f0b436f176a2edfdd5e/master.txt,2:20660,8:20660
 Madrugada Muito Louca 2	dub=2:20661,8:20661
 Madrugada dos Mortos	dub=2:189986,2:100342,8:189986,8:100342
 Madrugada dos Mortos (2004)	dub=6:1297512
 Madu	leg=2:255023,8:255023
 Madu (2024)	leg=6:1303298
-Mae (2017)	dub=6:1298369,6:1307573
-Mae Fora da Caixa (2025)	dub=6:1314250
+Mae (2017)	dub=https://embedplayer2.xyz/cdn/hls/025947c471b34eff4ef1d6146f012bcd/master.txt,6:1298369,6:1307573
+Mae Fora da Caixa (2025)	dub=https://embedplayer2.xyz/cdn/hls/b0209f19c50c9c73a8f4f4bc3fdf5fa2/master.txt,6:1314250
 Mae Sequestraram a Babá (2024)	dub=6:1312013
 Mae So Ha Uma (2016)	dub=6:1298330
 Mae Solteira Sou A Princesa Da Familia Do Meu Chefe	dub=8:389569
@@ -125,16 +125,16 @@ Mafia Mamma De Repente Criminosa (2023)	dub=6:1301559
 Mafia Mamma: De Repente Criminosa	dub=2:200312,8:200312	leg=2:200313,8:200313
 Mafia contra Mafia	dub=2:99886,8:99886
 Mafia contra Mafia (2019)	dub=6:1302378
-Mafia da Dor (2023)	dub=6:1302709
+Mafia da Dor (2023)	dub=https://embedplayer2.xyz/cdn/hls/e76dff2372d3d36f9c3fe98f46c18cc6/master.txt,6:1302709
 Magal e os Formigas	dub=2:376322,8:376322
 Magal e os Formigas (2016)	dub=6:1302374
-Magazine Dreams	leg=2:338427,8:338427
-Magazine Dreams (2025)	leg=6:1314086
-Maggie Moore	dub=2:292099,8:292099	leg=2:292100,8:292100
+Magazine Dreams	dub=https://embedplayer2.xyz/cdn/hls/68591c9eaf495323f4d822c2d47fbdf9/master.txt	leg=2:338427,8:338427
+Magazine Dreams (2025)	dub=https://embedplayer2.xyz/cdn/hls/68591c9eaf495323f4d822c2d47fbdf9/master.txt	leg=6:1314086
+Maggie Moore	dub=https://embedplayer2.xyz/cdn/hls/9f26cfdc6058359c989f8f4c5578eafc/master.txt,2:292099,8:292099	leg=2:292100,8:292100
 Magia Estranha	dub=2:20387,8:20387
 Magia Estranha (2015)	dub=6:1310137
-Magia Invertida	dub=2:76664,8:76664
-Magia Invertida (2020)	dub=6:1298002
+Magia Invertida	dub=https://embedplayer2.xyz/cdn/hls/fa50ec85be566428875f5e239862d136/master.txt,2:76664,8:76664
+Magia Invertida (2020)	dub=https://embedplayer2.xyz/cdn/hls/fa50ec85be566428875f5e239862d136/master.txt,6:1298002
 Magia Negra	dub=8:385015	leg=8:385014
 Magic Camp	leg=2:68453,8:68453
 Magic Farm	leg=2:339401,8:339401
@@ -189,8 +189,8 @@ Mais Que Demais Pra Mim (2021)	dub=6:1304226	leg=6:1304227
 Mais Que Especiais	dub=2:133970,8:133970	leg=2:133979,8:133979
 Mais Que Especiais (2019)	dub=6:1301931
 Mais Que Vencedor (2014)	dub=6:1311776
-Mais Um Tiro Certo	dub=2:310612,8:310612,2:239812,8:239812	leg=2:239813,8:239813
-Mais Um Tiro Certo (2024)	dub=6:1303078
+Mais Um Tiro Certo	dub=https://embedplayer2.xyz/cdn/hls/29198ce48b793563a081aa34cc038bc2/master.txt,2:310612,8:310612,2:239812,8:239812	leg=2:239813,8:239813
+Mais Um Tiro Certo (2024)	dub=https://embedplayer2.xyz/cdn/hls/29198ce48b793563a081aa34cc038bc2/master.txt,6:1303078
 Mais Um Verao com Mamae	dub=2:93064,8:93064
 Mais Um Verão Com Mamãe (2020)	dub=6:1308390
 Mais Uma Chance	dub=2:22570,8:22570
@@ -198,7 +198,7 @@ Mais Uma Chance (2018)	dub=6:1307812
 Mais Uma Sexta-Feira em Apuros	dub=2:328168,2:120668,8:328168,8:120668
 Mais Uma Sexta-Feira em Apuros (2000)	dub=6:1309306
 Mais Uma Vida	dub=2:259011,8:259011	leg=2:259012,8:259012
-Mais Uma Vida (2022)	dub=6:1305228	leg=6:1305229
+Mais Uma Vida (2022)	dub=https://embedplayer2.xyz/cdn/hls/040610d97ab0d9906b167fe8bf5ed48c/master.txt,6:1305228	leg=6:1305229
 Mais do Que um Jogo	dub=2:378053,8:378053	leg=2:378052,8:378052
 Mais do Que um Jogo (2008)	dub=6:1314576
 Mais e Melhores Blues	dub=2:48229,8:48229
@@ -228,7 +228,7 @@ Malcolm e Marie	dub=2:189923,8:189923,2:189905,8:189905	leg=2:189931,8:189931
 Malcolm e Marie (2021)	dub=6:1298229
 Maldicao (2005)	dub=6:1300721
 Maldicao da Floresta (2021)	dub=6:1300388
-Maldicao da Mumia (2026)	dub=6:1314586	leg=6:1314585
+Maldicao da Mumia (2026)	dub=https://embedplayer2.xyz/cdn/hls/0523dca66bf6abf6e900d6435ca4c883/master.txt,6:1314586	leg=6:1314585
 Maldita Aranha Gigante	dub=8:390271	leg=8:390270
 Maldita Sorte	dub=2:97187,8:384694,8:97187	leg=8:384693
 Maldita Sorte (2007)	dub=6:1307020
@@ -237,9 +237,9 @@ Malditas Aranhas! (2002)	dub=6:1303389
 Maldito Futebol Fantasy	dub=2:340992,8:340992	leg=2:340991,8:340991
 Maldição da Escola Edelvine	dub=2:177214,8:177214	leg=2:177216,8:177216
 Maldição da Escola Edelvine (2021)	dub=6:1306113	leg=6:1306114
-Maldição da Múmia	dub=2:378991,2:378716,2:378715,8:378991,8:378716,8:378715,2:378240,2:376712,8:378240	leg=2:378239,8:378239
-Maldição de Crom: A Lenda do Halloween	dub=2:307309,8:307309	leg=2:307310,8:307310
-Maldição de Família	dub=2:310419,8:310419	leg=2:310420,8:310420
+Maldição da Múmia	dub=https://embedplayer2.xyz/cdn/hls/0523dca66bf6abf6e900d6435ca4c883/master.txt,2:378991,2:378716,2:378715,8:378991,8:378716,8:378715,2:378240,2:376712,8:378240	leg=2:378239,8:378239
+Maldição de Crom: A Lenda do Halloween	dub=https://embedplayer2.xyz/cdn/hls/d3165d9d792c88e16e4426c77586f5b7/master.txt,2:307309,8:307309	leg=2:307310,8:307310
+Maldição de Família	dub=https://embedplayer2.xyz/cdn/hls/b73ad1dc409036b283a7b5f46843d1f7/master.txt,2:310419,8:310419	leg=2:310420,8:310420
 Males (2025)	dub=6:1314224
 Malevola	dub=2:21247,8:21247
 Malevola: Dona do Mal (2019)	dub=6:1297429
@@ -252,12 +252,12 @@ Mallandro: O Errado que Deu Certo	dub=2:284524,8:284524
 Mallandro: O Errado que Deu Certo (2024)	dub=6:1312017
 Malu	dub=2:344531,8:344531
 Malu de Bicicleta	dub=2:313307,8:313307
-Maluca Paixao (2009)	dub=6:1297775
-Maluca Paixão	dub=2:382415,8:382415	leg=2:382414,8:382414
-Malum	dub=2:362258,8:362258	leg=2:362257,8:362257
-Malum (2023)	dub=6:1314235
+Maluca Paixao (2009)	dub=https://embedplayer2.xyz/cdn/hls/f7d3a9da2b06e89d9cd9ab19cc755d7d/master.txt,6:1297775
+Maluca Paixão	dub=https://embedplayer2.xyz/cdn/hls/f7d3a9da2b06e89d9cd9ab19cc755d7d/master.txt,2:382415,8:382415	leg=2:382414,8:382414
+Malum	dub=https://embedplayer2.xyz/cdn/hls/7141a7501c7c12aa979d1608fcbb038c/master.txt,2:362258,8:362258	leg=2:362257,8:362257
+Malum (2023)	dub=https://embedplayer2.xyz/cdn/hls/7141a7501c7c12aa979d1608fcbb038c/master.txt,6:1314235
 Malèna	dub=2:330496,8:330496
-Malévola (2014)	dub=6:1309236
+Malévola (2014)	dub=https://embedplayer2.xyz/cdn/hls/72adeb019a241f81e91e658e5171cc1d/master.txt,6:1309236
 Malévola: Dona do Mal	dub=2:33384,2:33383,8:33384,8:33383,2:382462,2:317233,2:33382,8:382462,8:317233,8:33382	leg=2:382461,2:317234,8:382461,8:317234
 Malês	dub=2:361812,8:361812
 Malícia	dub=2:309533,2:108289,8:309533,8:108289	leg=2:309534,8:309534
@@ -270,17 +270,17 @@ Mamae E Uma Espia (2019)	dub=6:1297401
 Mamae Foi Viajar (2017)	dub=6:1298405
 Mamae Quer Que Eu Case (1997)	dub=6:1302369
 Mami Wata	leg=2:373343,8:373343
-Mamma Mia 2	dub=2:20663,8:20663
-Mamma Mia La Vamos Nos de Novo (2018)	dub=6:1302523
+Mamma Mia 2	dub=https://embedplayer2.xyz/cdn/hls/fbca0a2346bc8dd3d16924ba98c5170a/master.txt,2:20663,8:20663
+Mamma Mia La Vamos Nos de Novo (2018)	dub=https://embedplayer2.xyz/cdn/hls/fbca0a2346bc8dd3d16924ba98c5170a/master.txt,6:1302523
 Mamma Mia!	dub=2:20664,8:20664
 Mamma Mia! O Filme	dub=2:105247,8:105247
 Mamma Mia! O Filme (2008)	dub=6:1299915
-Mamma Mia!: Lá Vamos Nós de Novo	dub=2:323986,8:323986	leg=2:323985,8:323985
+Mamma Mia!: Lá Vamos Nós de Novo	dub=https://embedplayer2.xyz/cdn/hls/fbca0a2346bc8dd3d16924ba98c5170a/master.txt,2:323986,8:323986	leg=2:323985,8:323985
 Mamma Mu - Voltando Para Casa	dub=2:349738,8:349738	leg=2:349737,8:349737
 Mamonas Assassinas O Filme (2023)	dub=6:1303154
 Mamonas Assassinas: O Filme	dub=2:247277,8:247277
-Mamonas Eu Te Ai Love Iu (2026)	dub=6:1314362
-Mamonas Pra Sempre	dub=2:336846,8:336846
+Mamonas Eu Te Ai Love Iu (2026)	dub=https://embedplayer2.xyz/cdn/hls/da46496c7ba79475abf0987ecf17afc3/master.txt,6:1314362
+Mamonas Pra Sempre	dub=https://embedplayer2.xyz/cdn/hls/05cb2d7fd3176f82773f25fc1cab8423/master.txt,2:336846,8:336846
 Mamãe	dub=2:159287,8:159287	leg=2:159288,8:159288
 Mamãe Foi Viajar	dub=2:329617,8:329617	leg=2:329616,8:329616
 Mamãe Golpista	dub=2:316760,8:316760	leg=2:316761,8:316761
@@ -295,11 +295,11 @@ Man Underground	dub=8:390273	leg=8:390272
 Man of War	leg=8:393537
 ManSuang	leg=2:267701,8:267701
 ManSuang (2023)	leg=6:1309382
-Manas	dub=2:341033,8:341033
-Manas (2025)	dub=6:1313770
+Manas	dub=https://embedplayer2.xyz/cdn/hls/5bcc09476d2743b8bc3d8589d84471e7/master.txt,2:341033,8:341033
+Manas (2025)	dub=https://embedplayer2.xyz/cdn/hls/5bcc09476d2743b8bc3d8589d84471e7/master.txt,6:1313770
 Manaus Hot City	dub=2:367043,8:367043
 Manchester A Beira Mar	dub=2:24936,8:24936
-Manchester à Beira-Mar (2016)	dub=6:1307473
+Manchester à Beira-Mar (2016)	dub=https://embedplayer2.xyz/cdn/hls/22bb40f4d3af0f22765bb556e9070366/master.txt,6:1307473
 Manda Chuva O Filme	dub=2:28606,8:28606
 Manda-Chuva: O Filme (2011)	dub=6:1308957
 Mandado	dub=2:247944,8:247944
@@ -307,15 +307,15 @@ Mandando Bala	dub=2:134102,8:134102
 Mandando Bala (2007)	dub=6:1302353
 Mandela: O Caminho para a Liberdade	dub=2:350925,8:350925	leg=2:350924,8:350924
 Mandioca Frita	dub=2:366180,8:366180
-Mandioca Frita (2026)	dub=6:1502247
+Mandioca Frita (2026)	dub=https://embedplayer2.xyz/cdn/hls/80a761e5589f6cf3cae6d6630ae69de9/master.txt,6:1502247
 Mandy Sede de Vinganca (2018)	dub=6:1302621
 Mandy Sede de Vingança	dub=2:89014,8:89014
 Mandíbulas à Espreita	dub=2:365647,8:365647	leg=2:365646,8:365646
 Manequim	dub=2:208855,8:208855
 Manequim (1987)	dub=6:1309191
 Maneva: Lollapalooza Brasil (2024)	dub=6:1303268
-Manga	dub=2:352261,8:352261	leg=2:352260,8:352260
-Manga (2025)	dub=6:1313988
+Manga	dub=https://embedplayer2.xyz/cdn/hls/21c57bb2810c48ba3372afbce8bac64e/master.txt,2:352261,8:352261	leg=2:352260,8:352260
+Manga (2025)	dub=https://embedplayer2.xyz/cdn/hls/21c57bb2810c48ba3372afbce8bac64e/master.txt,6:1313988
 Mangue Negro	dub=2:320900,8:320900
 Manhattan	dub=2:95913,8:95913
 Manhattan (1979)	dub=6:1308804
@@ -333,24 +333,24 @@ Manobra Radical	dub=2:291882,8:291882	leg=2:291883,8:291883
 Manobras Radicais (2003)	dub=6:1298320
 Manobras do Destino	dub=2:192512,8:192512	leg=2:192511,8:192511
 Manobras do Destino (2018)	dub=6:1305822	leg=6:1305823
-Manodrome	dub=2:249902,8:249902	leg=2:249903,8:249903
-Manodrome (2023)	dub=6:1303178
-Mansao Mal Assombrada (2023)	dub=6:1302576
+Manodrome	dub=https://embedplayer2.xyz/cdn/hls/db75789289af78d3f3b50d9e15693b93/master.txt,2:249902,8:249902	leg=2:249903,8:249903
+Manodrome (2023)	dub=https://embedplayer2.xyz/cdn/hls/db75789289af78d3f3b50d9e15693b93/master.txt,6:1303178
+Mansao Mal Assombrada (2023)	dub=https://embedplayer2.xyz/cdn/hls/1e5f66fd07809403849db81b08781bbb/master.txt,6:1302576
 Mansao Mal-Assombrada (2003)	dub=6:1300276
-Mansão Mal-Assombrada	dub=2:218892,8:218892,2:380566,2:218267,2:99898,8:380566,8:218267,8:99898	leg=2:380565,2:218266,8:380565,8:218266
-Mantis	dub=2:345449,8:345449	leg=2:345448,8:345448
-Mantis (2025)	dub=6:1313862
-Manual Para Um Assassinato (2023)	dub=6:1309517
-Manual Pratico da Vinganca Lucrativa (2026)	dub=6:1314490	leg=6:1314489
-Manual Prático da Vingança Lucrativa	dub=2:374629,8:374629,2:374492,8:374492	leg=2:374491,8:374491
-Manual de Caca a Monstros (2020)	dub=6:1301555
-Manual de Caça a Monstros	dub=2:76693,8:76693
+Mansão Mal-Assombrada	dub=https://embedplayer2.xyz/cdn/hls/1e5f66fd07809403849db81b08781bbb/master.txt,2:218892,8:218892,2:380566,2:218267,2:99898,8:380566,8:218267,8:99898	leg=2:380565,2:218266,8:380565,8:218266
+Mantis	dub=https://embedplayer2.xyz/cdn/hls/d23187cafde63d7f73fc92726829f6b9/master.txt,2:345449,8:345449	leg=2:345448,8:345448
+Mantis (2025)	dub=https://embedplayer2.xyz/cdn/hls/d23187cafde63d7f73fc92726829f6b9/master.txt,6:1313862
+Manual Para Um Assassinato (2023)	dub=https://embedplayer2.xyz/cdn/hls/c5a6524a71844cc64eac1e338b52631e/master.txt,6:1309517
+Manual Pratico da Vinganca Lucrativa (2026)	dub=https://embedplayer2.xyz/cdn/hls/2e9830257e73939c17467cff3bc36817/master.txt,6:1314490	leg=6:1314489
+Manual Prático da Vingança Lucrativa	dub=https://embedplayer2.xyz/cdn/hls/2e9830257e73939c17467cff3bc36817/master.txt,2:374629,8:374629,2:374492,8:374492	leg=2:374491,8:374491
+Manual de Caca a Monstros (2020)	dub=https://embedplayer2.xyz/cdn/hls/eed206f8126e9acd8bafd91e790988e7/master.txt,6:1301555
+Manual de Caça a Monstros	dub=https://embedplayer2.xyz/cdn/hls/eed206f8126e9acd8bafd91e790988e7/master.txt,2:76693,8:76693
 Manufacturing Death: Birth of the Atom Bomb	leg=2:288574,8:288574
-Manutencao Necessaria (2025)	dub=6:1313891
-Manutenção Necessária	dub=2:347340,8:347340	leg=2:347339,8:347339
+Manutencao Necessaria (2025)	dub=https://embedplayer2.xyz/cdn/hls/df47d7a4d650ccc010e24f0bb0abec19/master.txt,6:1313891
+Manutenção Necessária	dub=https://embedplayer2.xyz/cdn/hls/df47d7a4d650ccc010e24f0bb0abec19/master.txt,2:347340,8:347340	leg=2:347339,8:347339
 Maníaco do Parque	dub=2:291162,8:291162,2:291161,8:291161	leg=2:291163,8:291163
 Maos Talentosas A Historia de Ben Carson	dub=2:21027,8:21027
-Maos de Pedra A Historia Verdadeira de Roberto Duran (2016)	dub=6:1302367
+Maos de Pedra A Historia Verdadeira de Roberto Duran (2016)	dub=https://embedplayer2.xyz/cdn/hls/5c1df446b59864a93b4ea2ef5e8814a9/master.txt,6:1302367
 Mapa do Sexo (2020)	dub=6:1299916
 Maquia (2018)	leg=6:1302254
 Maquina Mortifera	dub=2:20096,8:20096
@@ -361,7 +361,7 @@ Maquina Mortifera 3	dub=2:20094,8:20094
 Maquina Mortifera 3 (1992)	dub=6:1298982
 Maquina Mortifera 4	dub=2:20095,8:20095
 Maquina Mortifera 4 (1998)	dub=6:1298523
-Maquina de Guerra (2026)	dub=6:1314373	leg=6:1314372
+Maquina de Guerra (2026)	dub=https://embedplayer2.xyz/cdn/hls/4b6799bcfb83259b1730b11c08576781/master.txt,6:1314373	leg=6:1314372
 Maquinas Assassinas	leg=2:216025,8:216025
 Maquinas Assassinas (2018)	dub=6:1303971
 Maquinas Mortais	dub=2:21491,8:21491,2:21442,8:21442
@@ -372,8 +372,8 @@ Mar Infinito	dub=2:225676,8:225676
 Mar Infinito (2021)	dub=6:1311310
 Mar Negro	dub=2:257478,8:257478
 Mar Negro (2014)	dub=6:1310037	leg=6:1310038
-Mar Profundo	dub=2:341035,8:341035	leg=2:341034,8:341034
-Mar Profundo (2023)	dub=6:1313772
+Mar Profundo	dub=https://embedplayer2.xyz/cdn/hls/a2ecb31c39f948628b9f3c34d2451d86/master.txt,2:341035,8:341035	leg=2:341034,8:341034
+Mar Profundo (2023)	dub=https://embedplayer2.xyz/cdn/hls/a2ecb31c39f948628b9f3c34d2451d86/master.txt,6:1313772
 Mar de Dentro	dub=2:178858,8:178858
 Mar de Dentro (2020)	dub=6:1301171
 Mar de Fogo	dub=2:366100,2:98385,8:366100,8:98385
@@ -405,7 +405,7 @@ Marcas Da Prisão (2017)	dub=6:1307701
 Marcas da Maldição	dub=2:169650,8:169650	leg=2:169687,8:169687
 Marcas da Maldição (2022)	dub=6:1306730	leg=6:1306731
 Marcas da Vida	dub=2:251778,8:251778	leg=2:251779,8:251779
-Marcas da Vida (2022)	dub=6:1303201
+Marcas da Vida (2022)	dub=https://embedplayer2.xyz/cdn/hls/af0d4bd8d53479a19a4b74e8d1bad654/master.txt,6:1303201
 Marcas da Violencia (2005)	dub=6:1302348
 Marcas da Violência	dub=2:119713,8:383345,8:119713	leg=8:383344
 Marcas do Destino	dub=2:310754,8:310754
@@ -418,7 +418,7 @@ Marcelino Pão e Vinho	dub=2:379467,8:379467
 Marcello Mio	leg=2:341767,8:341767
 Marcelo D2: Lollapalooza Brasil (2024)	dub=6:1303265
 Marco: A Verdade Inventada	dub=8:396018	leg=8:396019
-Marco: Justiça Implacável	dub=2:378013,8:378013	leg=2:378012,8:378012
+Marco: Justiça Implacável	dub=https://embedplayer2.xyz/cdn/hls/6294959e7589366d34b95333c3ce9f28/master.txt,2:378013,8:378013	leg=2:378012,8:378012
 Marcus Cirillo - A Verdadeira Virada de Ano	dub=2:33574,8:33574
 Margaret (2011)	dub=6:1298406
 Margaux	dub=2:200741,8:200741	leg=2:200740,8:200740
@@ -430,13 +430,13 @@ Margin Call - O Dia Antes do Fim	dub=8:395247	leg=8:395246
 Maria	dub=2:195264,8:195264
 Maria Antonieta	dub=2:127458,8:127458
 Maria Antonieta (2006)	dub=6:1300722
-Maria Callas	dub=2:313829,8:313829	leg=2:313830,8:313830
-Maria Callas (2024)	dub=6:1313188	leg=6:1313187
+Maria Callas	dub=https://embedplayer2.xyz/cdn/hls/2317d990c9d6f31331f28aa248013b14/master.txt,2:313829,8:313829	leg=2:313830,8:313830
+Maria Callas (2024)	dub=https://embedplayer2.xyz/cdn/hls/2317d990c9d6f31331f28aa248013b14/master.txt,6:1313188	leg=6:1313187
 Maria Cheia de Graca (2004)	dub=6:1302350
 Maria Legendado	dub=2:22865,8:22865
 Maria Madalena	dub=2:21529,8:21529
 Maria Madalena (2018)	dub=6:1310360
-Maria Montessori - Ensinando com Amor	dub=2:361359,8:361359	leg=2:361358,8:361358
+Maria Montessori - Ensinando com Amor	dub=https://embedplayer2.xyz/cdn/hls/6f9a2005c6d6eed703b287dc5ac6eb31/master.txt,2:361359,8:361359	leg=2:361358,8:361358
 Maria do Caritó	dub=2:173301,2:34234,8:173301,8:34234
 Maria do Caritó (2019)	dub=6:1306046
 Maria e Joao - O Conto das Bruxas (2020)	dub=6:1297901
@@ -453,18 +453,18 @@ Marido e Mulher	dub=2:20665,8:20665
 Marido e Mulher (2017)	dub=6:1310451
 Marido por Acaso	dub=2:20666,8:20666
 Marido por Acaso (2008)	dub=6:1314168
-Maridos	dub=2:348994,8:348994	leg=2:348993,8:348993
+Maridos	dub=https://embedplayer2.xyz/cdn/hls/ab9dcf6904c0c56cbbe1310b7a0d7faa/master.txt,2:348994,8:348994	leg=2:348993,8:348993
 Maridos e Esposas (1992)	dub=6:1310111	leg=6:1310112
 Maridos em Ação	dub=8:384051,8:383931	leg=8:383933
-Maridos em Ação (2026)	dub=6:1500820
+Maridos em Ação (2026)	dub=https://embedplayer2.xyz/cdn/hls/5905b2718a3ba4542f90dcdf1b08f915/master.txt,6:1500820
 Marighella	dub=2:144089,2:92599,8:144089,8:92599
 Marighella (2012)	dub=6:1307279
 Marighella (2019)	dub=2:105248,8:105248
 Marighella (2021)	dub=6:1299119
 Marilia Mendonca Caldas Country	dub=2:137608,8:137608
-Marinette	dub=2:316307,8:316307	leg=2:316308,8:316308
-Marinette (2023)	dub=6:1313355
-Marinheiro das Montanhas (2023)	dub=6:1310912
+Marinette	dub=https://embedplayer2.xyz/cdn/hls/8d62ce6b9e82a999f4c8834a5b308268/master.txt,https://embedplayer2.xyz/cdn/hls/7ac632894f14bf39cebecf4b7cccd3a5/master.txt,2:316307,8:316307	leg=https://embedplayer2.xyz/cdn/hls/7ac632894f14bf39cebecf4b7cccd3a5/master.txt,2:316308,8:316308
+Marinette (2023)	leg=https://embedplayer2.xyz/cdn/hls/7ac632894f14bf39cebecf4b7cccd3a5/master.txt	dub=https://embedplayer2.xyz/cdn/hls/8d62ce6b9e82a999f4c8834a5b308268/master.txt,https://embedplayer2.xyz/cdn/hls/7ac632894f14bf39cebecf4b7cccd3a5/master.txt,6:1313355
+Marinheiro das Montanhas (2023)	dub=https://embedplayer2.xyz/cdn/hls/0196d357337c73ab49961790aef8419f/master.txt,6:1310912
 Mario Batali: A Queda do Superchef	dub=2:226070,8:226070	leg=2:226077,8:226077
 Mario Batali: A Queda do Superchef (2022)	dub=6:1309241	leg=6:1309242
 Mario e Leon: No Amor e no Jogo (2018)	dub=6:1301049
@@ -486,7 +486,7 @@ Marmaduke	dub=2:322011,2:159823,8:322011,8:159823	leg=2:322012,2:159829,8:322012
 Marmaduke (2010)	dub=6:1310302
 Marmaduke (2022)	dub=6:1299392
 Marnie E Os Amigos	dub=2:48193,8:48193
-Mars Express	dub=2:281318,8:281318,2:280613,8:280613	leg=2:280614,8:280614
+Mars Express	dub=https://embedplayer2.xyz/cdn/hls/0cb0b20cfafc86a93646d46b14aaace8/master.txt,2:281318,8:281318,2:280613,8:280613	leg=2:280614,8:280614
 Marshall - Igualdade e Justica	dub=2:21030,8:21030
 Marshall: Igualdade e Justiça (2017)	dub=6:1310316	leg=6:1310317
 Marshmallow	leg=2:329641,8:329641
@@ -503,8 +503,8 @@ Martin Short: Uma Vida de Comédia	dub=2:377997,8:377997	leg=2:377996,8:377996
 Martinho Lutero (1953)	dub=6:1313097
 Martirio (2015)	dub=6:1303814
 Marty	dub=2:371903,8:371903	leg=2:373825,8:373825
-Marty Supreme	dub=2:368942,8:368942	leg=2:368941,8:368941
-Marty Supreme (2025)	dub=6:1314369	leg=6:1314368
+Marty Supreme	dub=https://embedplayer2.xyz/cdn/hls/78bc4d5c9550755a5849eb462984322d/master.txt,2:368942,8:368942	leg=2:368941,8:368941
+Marty Supreme (2025)	dub=https://embedplayer2.xyz/cdn/hls/78bc4d5c9550755a5849eb462984322d/master.txt,6:1314369	leg=6:1314368
 Marvel Rising - Guerreiros Secretos	dub=2:30414,2:28759,8:30414,8:28759
 Marvel Rising: Batalha de Bandas	dub=8:391907	leg=8:391906
 Marvel Rising: Brincando com Fogo	dub=8:391909	leg=8:391908
@@ -518,7 +518,7 @@ Mary Kay Letourneau: Faces de Um Escândalo (2022)	dub=6:1305396
 Mary Poppins	dub=2:365260,2:359747,8:365260,8:359747	leg=2:365259,2:359746,8:365259,8:359746
 Mary Shelley	dub=2:21031,8:21031
 Mary Shelley (2017)	dub=6:1310196
-Mary e a Flor da Feiticeira (2017)	dub=6:1313925
+Mary e a Flor da Feiticeira (2017)	dub=https://embedplayer2.xyz/cdn/hls/5a94307585d03df0412fc9b5c7803f53/master.txt,6:1313925
 Mary para Prefeita	dub=2:187845,8:187845	leg=2:187844,8:187844
 Mary para Prefeita (2020)	dub=6:1306573	leg=6:1306574
 Março de (1968)	dub=2:366909,8:366909	leg=2:366908,8:366908
@@ -533,38 +533,38 @@ Maré: Nossa História de Amor	dub=2:138928,8:138928
 Maré: Nossa História de Amor (2008)	dub=6:1304339
 María Soledad: O Fim do Silêncio	dub=2:289644,8:289644	leg=2:289645,8:289645
 María Soledad: O Fim do Silêncio (2024)	dub=6:1312288
-Masameer Junior	dub=2:328299,8:328299	leg=2:328298,8:328298
+Masameer Junior	dub=https://embedplayer2.xyz/cdn/hls/9fe7c2a6c20f81c100140b7f5483fd7f/master.txt,2:328299,8:328299	leg=2:328298,8:328298
 Masha e o Urso (2016)	dub=6:1310402
 Masha e o Urso O Filme	dub=2:21406,8:21406
 Mass	leg=2:145372,8:145372
 Mass Jathara	leg=2:356896,8:356896
 Massa Cinzenta	dub=2:221648,8:221648	leg=2:221647,8:221647
 Massa Cinzenta (2023)	dub=6:1302697
-Massacre (1976)	dub=2:348996,8:348996	leg=2:348995,8:348995
+Massacre (1976)	dub=https://embedplayer2.xyz/cdn/hls/0cf32ae4cf01f5053a65ee8253a37072/master.txt,2:348996,8:348996	leg=2:348995,8:348995
 Massacre de Tulsa	dub=2:288874,8:288874
 Massacre na Ucrania	dub=2:23217,8:23217
 Massacre na Ucrânia (2017)	dub=6:1307661
-Massacre no Bairro Chines	dub=2:97188,8:97188
-Massacre no Bairro Chinês (2009)	dub=6:1307275
+Massacre no Bairro Chines	dub=https://embedplayer2.xyz/cdn/hls/f94d0a819f7ff1c5b7391cd9eb7f934a/master.txt,2:97188,8:97188
+Massacre no Bairro Chinês (2009)	dub=https://embedplayer2.xyz/cdn/hls/f94d0a819f7ff1c5b7391cd9eb7f934a/master.txt,6:1307275
 Massacre no Bairro Japones	dub=2:20097,8:20097
 Massacre no Bairro Japonês (1991)	dub=6:1309769
 Massacre no Deserto (2014)	leg=6:1304376
 Massacre no Texas	dub=2:45098,8:45098
 Massacre no Texas (2017)	dub=6:1298067
-Master Kid - O Despertar de um Herói	dub=2:301970,8:301970	leg=2:301971,8:301971
+Master Kid - O Despertar de um Herói	dub=https://embedplayer2.xyz/cdn/hls/5c6792e3d1ab03daf67aa79ee277d0ce/master.txt,2:301970,8:301970	leg=2:301971,8:301971
 Master Moley em O Convite Real	dub=2:142967,8:142967
-Master Moley em O Convite Real (2019)	dub=6:1300599
+Master Moley em O Convite Real (2019)	dub=https://embedplayer2.xyz/cdn/hls/2464ff01b567db83ea7e16e3ff9bab63/master.txt,6:1300599
 Mata	dub=2:369422,8:369422
 Mata Batin	leg=2:101177,8:101177
 Mata Batin 2	leg=2:101189,8:101189
 Mata-me de Prazer	dub=2:114399,8:114399
 Mata-me de Prazer (2002)	dub=6:1309820
-Matador de Aluguel	dub=2:254638,8:254638,2:254637,8:386257,8:254637	leg=2:254639,8:386256,8:254639
+Matador de Aluguel	dub=https://embedplayer2.xyz/cdn/hls/b91263c252ef52b31cbd27327762e77d/master.txt,2:254638,8:254638,2:254637,8:386257,8:254637	leg=2:254639,8:386256,8:254639
 Matador de Aluguel (1989)	dub=6:1500978
-Matador de Aluguel (2024)	dub=6:1303249	leg=6:1303248
+Matador de Aluguel (2024)	dub=https://embedplayer2.xyz/cdn/hls/b91263c252ef52b31cbd27327762e77d/master.txt,6:1303249	leg=6:1303248
 Matador em Perigo	dub=2:109037,8:109037
 Matador em Perigo (2010)	dub=6:1307742
-Matadores De Aliens Do Espaço Sideral	dub=2:332846,8:332846
+Matadores De Aliens Do Espaço Sideral	dub=https://embedplayer2.xyz/cdn/hls/eb711f0f7fafaf6a52aeb40bfa47df30/master.txt,2:332846,8:332846
 Matadores de Canibais	dub=2:196786,8:196786	leg=2:196782,8:196782
 Matadores de Canibais (2017)	dub=6:1305134	leg=6:1305135
 Matadores de Vampiras Lésbicas	dub=2:130254,8:130254
@@ -573,7 +573,7 @@ Matadores de Velhinha	dub=2:103973,8:103973
 Matadores de Velhinha (2004)	dub=6:1299918
 Matanca Necessaria (2010)	dub=6:1502850
 Matando Deus	dub=2:363885,8:363885	leg=2:363884,8:363884
-Matando Gunther	dub=2:64459,8:64459
+Matando Gunther	dub=https://embedplayer2.xyz/cdn/hls/02d5ae2b59538e778a9acbfd778ecc2a/master.txt,2:64459,8:64459
 Matança	dub=2:223409,8:223409	leg=2:223406,8:223406
 Matança (2020)	dub=6:1310908	leg=6:1310909
 Matança Necessária	dub=8:394519
@@ -589,7 +589,7 @@ Match Divino (2014)	dub=6:1313671
 Match Point	dub=2:379469,8:379469	leg=2:379468,8:379468
 Match de Natal	dub=2:227007,8:227007
 Match de Natal (2020)	dub=6:1311101
-Match do Amor	dub=2:363613,8:363613
+Match do Amor	dub=https://embedplayer2.xyz/cdn/hls/0244384acde462147023102feb42b2d4/master.txt,2:363613,8:363613
 Mate ou Morra	dub=2:137605,8:137605	leg=2:137588,8:137588
 Mate ou Morra (2021)	dub=6:1299089
 Mate-a, se Conseguir	dub=2:354020,8:354020	leg=2:354019,8:354019
@@ -601,60 +601,60 @@ Matilda: O Musical	dub=2:184019,8:184019,2:182913,8:182913	leg=2:182910,8:182910
 Matilda: O Musical (2022)	dub=6:1300861
 Matilha Voraz	dub=2:350389,8:350389	leg=2:350388,8:350388
 Matinee: Uma Sessão Muito Louca	dub=2:361821,8:361821	leg=2:361820,8:361820
-Mato Seco em Chamas	dub=2:200805,8:200805
-Mato Seco em Chamas (2023)	dub=6:1306852
+Mato Seco em Chamas	dub=https://embedplayer2.xyz/cdn/hls/ff3ef3b1f9969ff52a29b1c14f916351/master.txt,2:200805,8:200805
+Mato Seco em Chamas (2023)	dub=https://embedplayer2.xyz/cdn/hls/ff3ef3b1f9969ff52a29b1c14f916351/master.txt,6:1306852
 Mato Sem Cachorro	dub=2:26447,8:26447
 Mato Sem Cachorro (2013)	dub=6:1299747
 Matrimilhas	dub=8:251972,2:181452,8:181452	leg=2:181449,8:181449
 Matrimilhas (2022)	dub=6:1300793
 Matrix	dub=2:88686,8:390181,8:88686	leg=8:390180
-Matrix (1999)	dub=6:1312691	leg=6:1312690
-Matrix 2 Reloaded (2003)	dub=6:1312692
-Matrix 3 Revolutions (2003)	dub=6:1312694	leg=6:1312693
+Matrix (1999)	dub=https://embedplayer2.xyz/cdn/hls/a5e1bc71ac0d8681dd3324b39b88be33/master.txt,6:1312691	leg=6:1312690
+Matrix 2 Reloaded (2003)	dub=https://embedplayer2.xyz/cdn/hls/c1338f184d8c3c136a60e0b39f9ea77f/master.txt,6:1312692
+Matrix 3 Revolutions (2003)	dub=https://embedplayer2.xyz/cdn/hls/2f3d789d8ee584f7197719290a70b305/master.txt,6:1312694	leg=6:1312693
 Matrix 4 Resurrections (2021)	dub=6:1312696	leg=6:1312695
 Matrix Reloaded	dub=8:390183	leg=8:390182
 Matrix Resurrections	dub=2:146809,8:146809,2:146808,8:390185,8:146808	leg=2:144035,8:390184,8:144035
-Matrix Revolutions	dub=2:88681,8:390187,8:88681	leg=8:390186
+Matrix Revolutions	dub=https://embedplayer2.xyz/cdn/hls/2f3d789d8ee584f7197719290a70b305/master.txt,2:88681,8:390187,8:88681	leg=8:390186
 Matt and Mara	leg=2:339407,8:339407
 Matter of Time	leg=2:365863,8:365863
-Matthew Perry: Uma Tragédia de Hollywood	dub=2:350377,8:350377	leg=2:350376,8:350376
+Matthew Perry: Uma Tragédia de Hollywood	dub=https://embedplayer2.xyz/cdn/hls/1edcfc1c16270b23e4d1d1c809ccc5d9/master.txt,2:350377,8:350377	leg=2:350376,8:350376
 Mau Por Um Momento	leg=2:329434,8:329434
 Mau-Olhado (2020)	dub=6:1308870
 Mau-olhado	dub=2:76695,8:76695
 Maudie: Sua Vida e Sua Arte	dub=2:339291,8:339291	leg=2:339290,8:339290
 Maudie: Sua Vida e Sua Arte (2016)	dub=6:1313337	leg=6:1313336
-Mauricio de Sousa O Filme (2025)	dub=6:1314145
-Mauricio de Sousa: O Filme	dub=2:357798,2:357797,8:357798,8:357797,2:357120,8:357120
+Mauricio de Sousa O Filme (2025)	dub=https://embedplayer2.xyz/cdn/hls/4ee5da308776377f9beea5fbca31fd66/master.txt,6:1314145
+Mauricio de Sousa: O Filme	dub=https://embedplayer2.xyz/cdn/hls/4ee5da308776377f9beea5fbca31fd66/master.txt,2:357798,2:357797,8:357798,8:357797,2:357120,8:357120
 Maus Momentos no Hotel Royale	dub=2:22044,8:22044
 Maus Momentos no Hotel Royale (2018)	dub=6:1307758
 Maverick	dub=2:341061,2:105249,8:341061,8:105249	leg=2:341060,8:341060
 Maverick (1994)	dub=6:1298634
-Mavka Aventura na Floresta (2023)	dub=6:1302935
-Mavka: Aventura na Floresta	dub=2:230899,8:230899	leg=2:230898,8:230898
+Mavka Aventura na Floresta (2023)	dub=https://embedplayer2.xyz/cdn/hls/2b5ea3cdc13772d2613b4e1e41399218/master.txt,6:1302935
+Mavka: Aventura na Floresta	dub=https://embedplayer2.xyz/cdn/hls/2b5ea3cdc13772d2613b4e1e41399218/master.txt,2:230899,8:230899	leg=2:230898,8:230898
 Max 2 - Um Agente Animal (2017)	dub=6:1502848
 Max Ernst - Der Surrealist und das faschistische Trampeltier	leg=2:376052,8:376052
 Max Payne	dub=2:281752,8:281752
 Max Payne (2008)	dub=6:1300060
-Max Reload And The Nether Blasters	leg=2:67492,8:67492
-Max Reload and the Nether Blasters (2020)	leg=6:1308759
+Max Reload And The Nether Blasters	dub=https://embedplayer2.xyz/cdn/hls/bdf4dbc4d4e12482c5d3b9208b176244/master.txt	leg=2:67492,8:67492
+Max Reload and the Nether Blasters (2020)	dub=https://embedplayer2.xyz/cdn/hls/bdf4dbc4d4e12482c5d3b9208b176244/master.txt	leg=6:1308759
 Max Reload: O Jogo Começou	dub=2:322013,8:322013	leg=2:322014,8:322014
-Max Steel	dub=2:355734,8:355734	leg=2:355733,8:355733
+Max Steel	dub=https://embedplayer2.xyz/cdn/hls/06c16904a7fc951a414f063c347e0c6a/master.txt,2:355734,8:355734	leg=2:355733,8:355733
 Max: O Cão Herói	dub=2:319158,8:319158	leg=2:319159,8:319159
-Maximiliano Kolbe e Eu	dub=2:311809,8:311809	leg=2:311810,8:311810
-Maximiliano Kolbe e Eu (2023)	dub=6:1313057
+Maximiliano Kolbe e Eu	dub=https://embedplayer2.xyz/cdn/hls/688a68113fd08d7b7d8fe6cc19f9381f/master.txt,2:311809,8:311809	leg=2:311810,8:311810
+Maximiliano Kolbe e Eu (2023)	dub=https://embedplayer2.xyz/cdn/hls/688a68113fd08d7b7d8fe6cc19f9381f/master.txt,6:1313057
 Maximum Ride: Projeto Angel	dub=2:377238,8:377238	leg=2:377237,8:377237
 Maya	dub=2:42507,8:42507
 Maya (2020)	dub=6:1308781
-Mayday	dub=8:395295,8:395162	leg=2:131094,8:395161,8:131094
-Mayday (2021)	leg=6:1304649
-Mayday (2026)	dub=6:1503012
+Mayday	dub=https://embedplayer2.xyz/cdn/hls/68f62cee4aa60859c614cf1be4178eee/master.txt,8:395295,8:395162	leg=2:131094,8:395161,8:131094
+Mayday (2021)	dub=https://embedplayer2.xyz/cdn/hls/68f62cee4aa60859c614cf1be4178eee/master.txt	leg=6:1304649
+Mayday (2026)	dub=https://embedplayer2.xyz/cdn/hls/e0fca9504b4cbd9c6abdaa5272091f06/master.txt,6:1503012
 Mayhem - Senhores Do Caos	dub=2:35264,8:35264
 Maze Runner 1	dub=2:21324,8:21324
 Maze Runner 2	dub=2:21325,8:21325
 Maze Runner 3	dub=2:20101,8:20101
-Maze Runner: A Cura Mortal (2018)	dub=6:1297873
+Maze Runner: A Cura Mortal (2018)	dub=https://embedplayer2.xyz/cdn/hls/8a62b0d7b5664c6355d1f0aa5f449209/master.txt,6:1297873
 Maze Runner: Correr ou Morrer (2014)	dub=6:1297871
-Maze Runner: Prova de Fogo (2015)	dub=6:1297872
+Maze Runner: Prova de Fogo (2015)	dub=https://embedplayer2.xyz/cdn/hls/841a812517c0614eb3117b15e0fc5557/master.txt,6:1297872
 Mazinger Z – Infinito	dub=2:94757,8:94757
 Mazinger Z: Infinito (2017)	dub=6:1307785
 Mazzaropi	dub=8:395067
@@ -738,14 +738,14 @@ Me Chame Pelo Seu Nome	dub=2:98609,8:98609
 Me Chame Pelo Seu Nome (2017)	dub=6:1307605	leg=6:1307606
 Me Contro Te A Vinganca do Senhor S	dub=2:148741,8:148741	leg=2:148757,8:148757
 Me Encontrando	leg=2:348297,8:348297
-Me Mate Querido (2024)	dub=6:1303145
-Me Mate, Querido	dub=2:247316,8:247316	leg=2:247317,8:247317
+Me Mate Querido (2024)	dub=https://embedplayer2.xyz/cdn/hls/88f3de29f519e7f7703c5cef274adb22/master.txt,6:1303145
+Me Mate, Querido	dub=https://embedplayer2.xyz/cdn/hls/88f3de29f519e7f7703c5cef274adb22/master.txt,2:247316,8:247316	leg=2:247317,8:247317
 Me Sinto Bem Com Voce (2021)	dub=6:1303381
 Me Sinto Bem com Você	dub=2:108690,8:108690
 Me Tira da Mira	dub=2:160412,8:160412
 Me Tira da Mira (2022)	dub=6:1299436
-Mea Culpa	dub=8:249904,2:249795,8:249795	leg=2:249796,8:249796
-Mea Culpa (2024)	dub=6:1303176
+Mea Culpa	dub=https://embedplayer2.xyz/cdn/hls/ecafa8a49ade106c8af6f994658c14c1/master.txt,8:249904,2:249795,8:249795	leg=2:249796,8:249796
+Mea Culpa (2024)	dub=https://embedplayer2.xyz/cdn/hls/ecafa8a49ade106c8af6f994658c14c1/master.txt,6:1303176
 Meal Ticket	leg=2:370684,8:370684
 Mean Spirited	dub=2:194205,8:194205
 Mean Spirited (2023)	dub=6:1306760
@@ -764,16 +764,16 @@ Medieval (2022)	dub=6:1300351
 Medo	dub=2:359056,2:319847,2:217555,8:359056,8:319847,8:217555	leg=2:359055,2:319874,8:359055,8:319874
 Medo (1996)	dub=6:1309320
 Medo (2023)	dub=6:1303429
-Medo Da Chuva	dub=2:95980,8:95980
+Medo Da Chuva	dub=https://embedplayer2.xyz/cdn/hls/66ed34e64a779e28736adad3ded36a49/master.txt,2:95980,8:95980
 Medo Ponto Com Br	dub=2:128562,8:128562
 Medo Profundo	dub=2:130236,2:21032,8:130236,8:21032
 Medo Profundo (2008)	dub=6:1304283
 Medo Profundo (2017)	dub=6:1301201
 Medo Profundo - O Segundo Ataque	dub=2:75631,8:386344,8:75631	leg=8:386343
-Medo Profundo: O Segundo Ataque (2019)	dub=6:1297592
+Medo Profundo: O Segundo Ataque (2019)	dub=https://embedplayer2.xyz/cdn/hls/0ca05cc29f4285d113ac051eeb3461cf/master.txt,6:1297592
 Medo S.A.	dub=2:76696,8:76696
 Medo S.A. (2016)	dub=6:1307592
-Medo da Chuva (2021)	dub=6:1302804
+Medo da Chuva (2021)	dub=https://embedplayer2.xyz/cdn/hls/66ed34e64a779e28736adad3ded36a49/master.txt,6:1302804
 Medo da Verdade	dub=2:376788,2:96867,8:376788,8:96867
 Medo da Verdade (2007)	dub=6:1307887
 Medo no Pacífico	dub=2:348998,8:348998	leg=2:348997,8:348997
@@ -791,20 +791,20 @@ Megaboa	dub=2:193068,8:193068	leg=2:193067,8:193067
 Megaboa (2021)	dub=6:1306842	leg=6:1306843
 Megalodon	dub=2:224976,8:224976
 Megalodon (2018)	dub=6:1310616
-Megalomaniac	dub=2:252969,8:252969	leg=2:252970,8:252970
-Megalomaniaco (2023)	dub=6:1303239
-Megalopolis (2024)	dub=6:1313743	leg=6:1313742
+Megalomaniac	dub=https://embedplayer2.xyz/cdn/hls/8c59a9b541d97bc8908968433bae963f/master.txt,2:252969,8:252969	leg=https://embedplayer2.xyz/cdn/hls/8c59a9b541d97bc8908968433bae963f/master.txt,2:252970,8:252970
+Megalomaniaco (2023)	leg=https://embedplayer2.xyz/cdn/hls/8c59a9b541d97bc8908968433bae963f/master.txt	dub=https://embedplayer2.xyz/cdn/hls/8c59a9b541d97bc8908968433bae963f/master.txt,6:1303239
+Megalopolis (2024)	dub=https://embedplayer2.xyz/cdn/hls/b0677738e55145500a5b20e150d7e956/master.txt,6:1313743	leg=6:1313742
 Megalópolis	dub=2:339767,2:336847,8:339767,8:336847	leg=2:339766,2:295706,8:339766,8:295706
-Megamente	dub=2:20388,8:391862,8:20388	leg=8:391861
-Megamente (2010)	dub=6:1299573
-Megamente Vs. O Sindicato da Perdição	dub=2:255104,8:255104	leg=2:255105,8:255105
-Megamente Vs. O Sindicato da Perdição (2024)	dub=6:1303292
-Megan 2 (2025)	dub=6:1313719	leg=6:1313718
+Megamente	dub=https://embedplayer2.xyz/cdn/hls/b27ae7d8f859f1e3d27a11dabec4e912/master.txt,2:20388,8:391862,8:20388	leg=8:391861
+Megamente (2010)	dub=https://embedplayer2.xyz/cdn/hls/b27ae7d8f859f1e3d27a11dabec4e912/master.txt,6:1299573
+Megamente Vs. O Sindicato da Perdição	dub=https://embedplayer2.xyz/cdn/hls/1bf6dbaa2750e886849b769139b2d10a/master.txt,2:255104,8:255104	leg=2:255105,8:255105
+Megamente Vs. O Sindicato da Perdição (2024)	dub=https://embedplayer2.xyz/cdn/hls/1bf6dbaa2750e886849b769139b2d10a/master.txt,6:1303292
+Megan 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/b7fc82040f60408d1316e3e378a530dc/master.txt,https://embedplayer2.xyz/cdn/hls/e8c2cd04a023d3ce2e96b4e80f2826e4/master.txt,6:1313719	leg=6:1313718
 Megan Is Missing	leg=2:291838,8:291838
 Megan Is Missing (2011)	leg=6:1312523
 Megan Leavey	dub=2:21033,8:21033
 Megan Leavey (2017)	dub=6:1310395
-Megan Thee Stallion Por Ela Mesma	leg=2:295707,8:295707
+Megan Thee Stallion Por Ela Mesma	dub=https://embedplayer2.xyz/cdn/hls/75572d11d3b5820345d2c7878d0ddcaf/master.txt	leg=2:295707,8:295707
 Megarromantico	dub=2:21443,8:21443
 Megarromântico (2019)	dub=6:1310467
 Megaterremoto	dub=2:267757,8:267757	leg=2:267758,8:267758
@@ -825,8 +825,8 @@ Meia-Noite no Switchgrass (2021)	dub=6:1299379	leg=6:1298668
 Meia-irmã (2017)	dub=6:1307600
 Mein bester Freund, seine Freundin und ich	dub=8:392493	leg=8:392492
 Meio Expediente	dub=2:362607,8:362607
-Meio Gravida (2025)	dub=6:1313017
-Meio Grávida	dub=2:309606,8:309606	leg=2:309607,8:309607
+Meio Gravida (2025)	dub=https://embedplayer2.xyz/cdn/hls/d7446a4cb34b91479e0906b74d212247/master.txt,6:1313017
+Meio Grávida	dub=https://embedplayer2.xyz/cdn/hls/d7446a4cb34b91479e0906b74d212247/master.txt,2:309606,8:309606	leg=2:309607,8:309607
 Meio Irmão	dub=2:43850,8:43850
 Meio Irmão (2018)	dub=6:1308265
 Meio-Irmãos	dub=2:336665,8:336665
@@ -847,10 +847,10 @@ Memoria de um Crime (2018)	dub=6:1297433
 Memorial Day - Lembranças de uma Guerra	dub=2:139243,8:139243
 Memorial Day Lembrancas de uma Guerra (2011)	dub=6:1302365
 Memorias de Uma Paixao (2019)	dub=6:1300794
-Memorias de um Verao (2025)	dub=6:1314225
+Memorias de um Verao (2025)	dub=https://embedplayer2.xyz/cdn/hls/342cedee1ad1de215e974756bd664484/master.txt,6:1314225
 Memorias do Carcere (1984)	dub=6:1301349
-Memory	leg=2:251175,8:251175
-Memory (2023)	leg=6:1311697
+Memory	dub=https://embedplayer2.xyz/cdn/hls/985bcc8124ccd229875382c0d9dd8a65/master.txt	leg=2:251175,8:251175
+Memory (2023)	dub=https://embedplayer2.xyz/cdn/hls/985bcc8124ccd229875382c0d9dd8a65/master.txt	leg=6:1311697
 Memory Box	dub=2:180600,8:180600	leg=2:180599,8:180599
 Memphis Belle - A Fortaleza Voadora	dub=2:163380,8:163380
 Memphis Belle - A Fortaleza Voadora (1990)	dub=6:1305574
@@ -861,12 +861,12 @@ Memórias Ocultas	dub=2:313292,8:313292	leg=2:313293,8:313293
 Memórias Ocultas (2024)	dub=6:1313152
 Memórias Póstumas	dub=2:101354,8:101354
 Memórias Póstumas (2001)	dub=6:1308818
-Memórias Que Não Se Apagam	dub=2:286356,8:286356	leg=2:286357,8:286357
-Memórias Que Não Se Apagam (2023)	dub=6:1312107
-Memórias Secretas	dub=2:320901,2:96023,8:320901,8:96023	leg=2:320902,8:320902
+Memórias Que Não Se Apagam	dub=https://embedplayer2.xyz/cdn/hls/798f20ba00ae61332219f47bf67383ac/master.txt,2:286356,8:286356	leg=2:286357,8:286357
+Memórias Que Não Se Apagam (2023)	dub=https://embedplayer2.xyz/cdn/hls/798f20ba00ae61332219f47bf67383ac/master.txt,6:1312107
+Memórias Secretas	dub=https://embedplayer2.xyz/cdn/hls/98869f1bfdd5d2a78220b91c71a94337/master.txt,2:320901,2:96023,8:320901,8:96023	leg=2:320902,8:320902
 Memórias Secretas (2015)	dub=6:1307504
-Memórias de Natal	dub=2:292269,8:292269	leg=2:292270,8:292270
-Memórias de Natal (2022)	dub=6:1312353
+Memórias de Natal	dub=https://embedplayer2.xyz/cdn/hls/1f68d63c62deba7b6c9c12f5c8c6fb3d/master.txt,2:292269,8:292269	leg=2:292270,8:292270
+Memórias de Natal (2022)	dub=https://embedplayer2.xyz/cdn/hls/1f68d63c62deba7b6c9c12f5c8c6fb3d/master.txt,6:1312353
 Memórias de Um Amor	dub=2:191124,2:148750,8:191124,8:148750	leg=2:191135,2:148748,8:191135,8:148748
 Memórias de Um Amor (2020)	dub=6:1306115	leg=6:1306116
 Memórias de Um Espião	dub=2:129563,8:129563
@@ -877,14 +877,14 @@ Memórias de Verão (2021)	dub=6:1308956
 Memórias de um Assassino	dub=2:200581,2:95914,8:200581,8:95914	leg=2:200582,8:200582
 Memórias de um Assassino (2003)	dub=6:1307098,6:1313491	leg=6:1313490
 Memórias de um Assassino (2018)	dub=6:1305946	leg=6:1305947
-Memórias de um Caracol	leg=2:312350,8:312350
+Memórias de um Caracol	dub=https://embedplayer2.xyz/cdn/hls/b6a47a1f56a0ceab04234108e65b7335/master.txt	leg=2:312350,8:312350
 Memórias de um Esclerosado	dub=8:384354
-Memórias de um Verão	dub=2:361815,8:361815	leg=2:361814,8:361814
+Memórias de um Verão	dub=https://embedplayer2.xyz/cdn/hls/342cedee1ad1de215e974756bd664484/master.txt,2:361815,8:361815	leg=2:361814,8:361814
 Memórias de uma Gueixa	dub=2:207702,8:207702
 Memórias de uma Gueixa (2005)	dub=6:1309928
-Men Faces do Medo (2022)	dub=6:1303453
+Men Faces do Medo (2022)	dub=https://embedplayer2.xyz/cdn/hls/4c69214b507578a706d929f5ca6b07fd/master.txt,6:1303453
 Men In Black International Legendado	dub=2:28285,8:28285
-Men: Faces do Medo	dub=2:179813,8:179813,2:178855,8:178855	leg=2:178842,8:178842
+Men: Faces do Medo	dub=https://embedplayer2.xyz/cdn/hls/4c69214b507578a706d929f5ca6b07fd/master.txt,2:179813,8:179813,2:178855,8:178855	leg=2:178842,8:178842
 Menarca	dub=2:249252,8:249252
 Menarca (2020)	dub=6:1311019
 Menashe (2017)	dub=6:1302373
@@ -912,18 +912,18 @@ Mens@gem para Voce (1998)	dub=6:1298637
 Mensagem Para Voce	dub=2:20705,8:20705
 Mensagem Para a Humanidade	dub=2:218866,8:218866
 Mensagem Para a Humanidade (2023)	dub=6:1309399
-Mensagem em uma Garrafa	dub=2:328306,8:328306	leg=2:328305,8:328305
+Mensagem em uma Garrafa	dub=https://embedplayer2.xyz/cdn/hls/93bc79007bb61613184afd30b76569bb/master.txt,2:328306,8:328306	leg=2:328305,8:328305
 Mensagens para Isabelle	dub=8:384135,8:383928	leg=8:383927
-Mensagens para Isabelle (2026)	dub=6:1500737
+Mensagens para Isabelle (2026)	dub=https://embedplayer2.xyz/cdn/hls/b94794d335f912c2135b88edba123fcb/master.txt,6:1500737
 Mente Criminosa	dub=2:20102,8:20102
 Mente Criminosa (2016)	dub=6:1310136
-Mente Demôniaca	dub=2:358129,8:358129	leg=2:358128,8:358128
+Mente Demôniaca	dub=https://embedplayer2.xyz/cdn/hls/5d3d79a89eb60105ad8c9cc530e7cb8e/master.txt,2:358129,8:358129	leg=2:358128,8:358128
 Mente Obsessiva	dub=2:30568,8:30568
 Mente Obsessiva (2009)	dub=6:1300723
 Mente Perturbada	dub=2:353482,8:353482	leg=2:353481,8:353481
 Mente Perturbada (2023)	dub=6:1314036
-Mentes Brilhantes	dub=2:230902,8:230902	leg=2:230901,8:230901
-Mentes Brilhantes (2020)	dub=6:1310923	leg=6:1310924
+Mentes Brilhantes	dub=https://embedplayer2.xyz/cdn/hls/cf369fce0385d454835221d21c16535b/master.txt,2:230902,8:230902	leg=2:230901,8:230901
+Mentes Brilhantes (2020)	dub=https://embedplayer2.xyz/cdn/hls/cf369fce0385d454835221d21c16535b/master.txt,6:1310923	leg=6:1310924
 Mentes Malignas	dub=2:42017,8:42017
 Mentes Malignas (2018)	dub=6:1307720
 Mentes Perigosas	dub=2:302756,8:302756
@@ -931,8 +931,8 @@ Mentes Perigosas (1995)	dub=6:1301398
 Mentes Sombrias	dub=2:316408,2:21327,8:316408,8:21327	leg=2:316409,8:316409
 Mentes Sombrias (2018)	dub=6:1301418
 Mentir e Roubar (2019)	leg=6:1308042
-Mentira Incondicional	dub=2:75043,8:75043
-Mentira Incondicional (2018)	dub=6:1298494,6:1301128
+Mentira Incondicional	dub=https://embedplayer2.xyz/cdn/hls/24c7620a6d17ddea4f660c7dce2ebe03/master.txt,2:75043,8:75043
+Mentira Incondicional (2018)	dub=https://embedplayer2.xyz/cdn/hls/24c7620a6d17ddea4f660c7dce2ebe03/master.txt,6:1298494,6:1301128
 Mentira Nada Inocente	dub=2:223091,8:223091	leg=2:223083,8:223083
 Mentira Nada Inocente (2019)	leg=6:1308388
 Mentiras Perigosas	dub=2:46142,8:46142,2:44607,8:44607
@@ -954,19 +954,19 @@ Mercenário (2017)	dub=6:1307816
 Mercy	leg=2:202578,8:202578
 Mercy Black	dub=2:129531,8:129531	leg=2:92016,8:92016
 Mercy Golpe de Misericórdia (2023)	dub=6:1302805
-Mercy: Golpe de Misericórdia	dub=2:227017,8:227017,2:226083,8:226083	leg=2:226073,8:226073
-Mergulhando no Amor	dub=2:295391,8:295391,2:274996,8:274996	leg=2:274997,8:274997
-Mergulhando no Amor (2024)	dub=6:1309158	leg=6:1309157
+Mercy: Golpe de Misericórdia	dub=https://embedplayer2.xyz/cdn/hls/4f1310c03f31b27a415e659707b0234a/master.txt,2:227017,8:227017,2:226083,8:226083	leg=2:226073,8:226073
+Mergulhando no Amor	dub=https://embedplayer2.xyz/cdn/hls/3000c1353b73b3343a966fa85ae97a54/master.txt,2:295391,8:295391,2:274996,8:274996	leg=2:274997,8:274997
+Mergulhando no Amor (2024)	dub=https://embedplayer2.xyz/cdn/hls/3000c1353b73b3343a966fa85ae97a54/master.txt,6:1309158	leg=6:1309157
 Mergulho	dub=2:182626,8:182626	leg=2:182623,8:182623
 Mergulho (2022)	dub=6:1305424	leg=6:1305425
-Mergulho Noturno	dub=2:253539,8:253539,2:252064,8:252064	leg=2:246436,8:246436
-Mergulho Noturno (2024)	dub=6:1303220
+Mergulho Noturno	dub=https://embedplayer2.xyz/cdn/hls/83d867a693fd4ee435c0ee97c34b374f/master.txt,2:253539,8:253539,2:252064,8:252064	leg=2:246436,8:246436
+Mergulho Noturno (2024)	dub=https://embedplayer2.xyz/cdn/hls/83d867a693fd4ee435c0ee97c34b374f/master.txt,6:1303220
 Mergulho Profundo	dub=8:388693	leg=8:388692
 Mergulho Radical	dub=2:20103,8:20103
 Mergulho Radical (2005)	dub=6:1302961
-Merv	dub=2:357799,8:357799,2:356898,8:356898	leg=2:356897,8:356897
-Merv (2025)	dub=6:1314136
-Mesa Maldita	dub=2:345061,8:345061	leg=2:345060,8:345060
+Merv	dub=https://embedplayer2.xyz/cdn/hls/bb09baaa35727fcdbd339d26c90b8822/master.txt,2:357799,8:357799,2:356898,8:356898	leg=2:356897,8:356897
+Merv (2025)	dub=https://embedplayer2.xyz/cdn/hls/bb09baaa35727fcdbd339d26c90b8822/master.txt,6:1314136
+Mesa Maldita	dub=https://embedplayer2.xyz/cdn/hls/1fedfe66c345b39a996cf434f961dae5/master.txt,2:345061,8:345061	leg=2:345060,8:345060
 Mesa para Quatro	dub=2:145920,8:145920	leg=2:145923,8:145923
 Mesa para Quatro (2022)	dub=6:1299125
 Mesmo Se Nada Der Certo	dub=2:185858,8:185858
@@ -984,7 +984,7 @@ Mestres do Assalto	dub=2:316913,8:316913,2:316912,8:316912	leg=2:316914,8:316914
 Mestres do Assalto (2025)	dub=6:1313390
 Mestres do Cinema Indiano: SS Rajamouli	leg=2:282101,8:282101
 Mestres do Universo	dub=8:388433,8:388391,2:382562,2:365262,8:388434,8:382562,8:365262	leg=2:382561,2:365261,8:388293,8:382561,8:365261
-Mestres do Universo (2026)	dub=6:1501236	leg=6:1501235
+Mestres do Universo (2026)	dub=https://embedplayer2.xyz/cdn/hls/d6ba296561b5cc982daafa71137a87bc/master.txt,6:1501236	leg=6:1501235
 Metal Lords	dub=2:157421,8:157421	leg=2:157425,8:157425
 Metal Lords (2022)	dub=6:1306361	leg=6:1306362
 Metal Monsters The Righteous Redeemer (2023)	leg=6:1301741
@@ -992,12 +992,12 @@ Metaleiros de Jesus	dub=2:182891,8:182891	leg=2:182879,8:182879
 Metaleiros de Jesus (2020)	dub=6:1306350	leg=6:1306351
 Metalocalypse: Army of the Doomstar	dub=2:255988,8:255988	leg=2:255989,8:255989
 Metalocalypse: Army of the Doomstar (2023)	dub=6:1311332	leg=6:1311333
-Metamorphosis	leg=2:73281,8:73281
-Metas de Relacionamento	dub=2:365651,8:365651,2:365404,8:365404	leg=2:365403,8:365403
-Metas de Relacionamento (2026)	dub=6:1314297
+Metamorphosis	dub=https://embedplayer2.xyz/cdn/hls/24265d61a2f8847e411a1f97ce4597a7/master.txt	leg=2:73281,8:73281
+Metas de Relacionamento	dub=https://embedplayer2.xyz/cdn/hls/91a4ffab70864eba58f4cc8560da220e/master.txt,2:365651,8:365651,2:365404,8:365404	leg=2:365403,8:365403
+Metas de Relacionamento (2026)	dub=https://embedplayer2.xyz/cdn/hls/91a4ffab70864eba58f4cc8560da220e/master.txt,6:1314297
 Meteoro: A Fuga	dub=2:140497,8:140497
-Meteoro: O Fim dos Tempos	dub=2:278688,8:278688	leg=2:278689,8:278689
-Meteoro: O Fim dos Tempos (2023)	dub=6:1311810	leg=6:1311809
+Meteoro: O Fim dos Tempos	dub=https://embedplayer2.xyz/cdn/hls/515540d465be4c9c6ace37a66396ec99/master.txt,2:278688,8:278688	leg=https://embedplayer2.xyz/cdn/hls/bb303edea10e901a9da28d551c1a717c/master.txt,2:278689,8:278689
+Meteoro: O Fim dos Tempos (2023)	dub=https://embedplayer2.xyz/cdn/hls/515540d465be4c9c6ace37a66396ec99/master.txt,6:1311810	leg=https://embedplayer2.xyz/cdn/hls/bb303edea10e901a9da28d551c1a717c/master.txt,6:1311809
 Meteoros	dub=2:159832,8:159832
 Meteoros (2022)	dub=6:1299393
 Metro In Dino	leg=2:345062,8:345062
@@ -1021,8 +1021,8 @@ Meu Amigo Pinguim (2024)	dub=6:1312349	leg=6:1312348
 Meu Amigo Robo (2023)	leg=6:1312579
 Meu Amigo Robô	dub=2:76697,8:76697	leg=2:288575,8:288575
 Meu Amigo Robô (2019)	dub=6:1308394
-Meu Amigo Totoro	dub=2:309535,2:46143,8:309535,8:46143	leg=2:309536,8:309536
-Meu Amigo Totoro (1988)	dub=6:1308991
+Meu Amigo Totoro	dub=https://embedplayer2.xyz/cdn/hls/514ab92a5b404d39945fac79ea730dd1/master.txt,2:309535,2:46143,8:309535,8:46143	leg=2:309536,8:309536
+Meu Amigo Totoro (1988)	dub=https://embedplayer2.xyz/cdn/hls/514ab92a5b404d39945fac79ea730dd1/master.txt,6:1308991
 Meu Amigo Vampiro	dub=2:20389,8:20389
 Meu Amigo Vampiro (2017)	dub=6:1310445
 Meu Amigo o Unicornio (1998)	dub=6:1302362
@@ -1037,8 +1037,8 @@ Meu Amor e um Principe (2017)	dub=6:1301885
 Meu Amor É Um Príncipe	dub=2:31449,8:31449
 Meu Anjo (2018)	leg=6:1307939
 Meu Ano em Nova York (2020)	leg=6:1308583
-Meu Ano em Oxford	dub=2:341037,8:341037,2:337418,8:337418	leg=2:337417,8:337417
-Meu Ano em Oxford (2025)	dub=6:1313709
+Meu Ano em Oxford	dub=https://embedplayer2.xyz/cdn/hls/a5f2a2b76da2bfc5f49d8cfe81503364/master.txt,2:341037,8:341037,2:337418,8:337418	leg=2:337417,8:337417
+Meu Ano em Oxford (2025)	dub=https://embedplayer2.xyz/cdn/hls/a5f2a2b76da2bfc5f49d8cfe81503364/master.txt,6:1313709
 Meu Avô Stanislau	dub=2:365296,8:365296
 Meu Bebe (2019)	dub=6:1297471
 Meu Bebê	dub=2:33385,8:33385
@@ -1050,17 +1050,17 @@ Meu Casamento Feliz	leg=8:396026
 Meu Casamento Preferido	dub=2:376791,8:376791	leg=2:376790,8:376790
 Meu Ceo	leg=8:389575
 Meu Chefe Ficou Apaixonado Por Mim	leg=8:389576
-Meu Coração Só Irá Bater Se Você Pedir	dub=2:297092,2:195617,8:297092,8:195617	leg=2:297093,2:195610,8:297093,8:195610
-Meu Coração Só Irá Bater Se Você Pedir (2020)	dub=6:1306260	leg=6:1306261
+Meu Coração Só Irá Bater Se Você Pedir	dub=https://embedplayer2.xyz/cdn/hls/d8450131a97084893c906ee5703fdb90/master.txt,2:297092,2:195617,8:297092,8:195617	leg=2:297093,2:195610,8:297093,8:195610
+Meu Coração Só Irá Bater Se Você Pedir (2020)	dub=https://embedplayer2.xyz/cdn/hls/d8450131a97084893c906ee5703fdb90/master.txt,6:1306260	leg=6:1306261
 Meu Coração é um Pouco Mais Vazio na Cheia	dub=8:386258
 Meu Corpo, Minha Vida	dub=2:366101,8:366101
-Meu Cunhado é Um Vampiro	dub=2:239788,8:239788,2:235501,8:235501
-Meu Cunhado é Um Vampiro (2023)	dub=6:1309697
+Meu Cunhado é Um Vampiro	dub=https://embedplayer2.xyz/cdn/hls/7afe2e7ee04edef92f1d7f0b2b3ed456/master.txt,2:239788,8:239788,2:235501,8:235501
+Meu Cunhado é Um Vampiro (2023)	dub=https://embedplayer2.xyz/cdn/hls/7afe2e7ee04edef92f1d7f0b2b3ed456/master.txt,6:1309697
 Meu Elefante da Sorte (2013)	dub=6:1302064
 Meu Eterno Primeiro Amor	dub=2:176809,2:107000,8:176809,8:107000	leg=2:176807,8:176807
 Meu Eterno Primeiro Amor (2020)	dub=6:1303539
-Meu Eterno Talvez	dub=2:189907,8:189907,2:24162,8:24162
-Meu Eterno Talvez (2019)	dub=6:1305779
+Meu Eterno Talvez	dub=https://embedplayer2.xyz/cdn/hls/75539e7938b99bdd6be9704b13b3ec8a/master.txt,2:189907,8:189907,2:24162,8:24162
+Meu Eterno Talvez (2019)	dub=https://embedplayer2.xyz/cdn/hls/75539e7938b99bdd6be9704b13b3ec8a/master.txt,6:1305779
 Meu Eu do Futuro	dub=2:329195,8:329195,2:328958,8:328958	leg=2:328957,2:294169,8:328957,8:294169
 Meu Eu do Futuro (2024)	dub=6:1313869	leg=6:1312387
 Meu Ex e um Espiao	dub=2:20104,8:20104
@@ -1078,29 +1078,29 @@ Meu Filho, O Estuprador	dub=2:338603,8:338603	leg=2:338602,8:338602
 Meu Irmão e Eu	leg=2:284331,2:266655,8:284331,8:266655
 Meu Irmão e Eu (2023)	leg=6:1309243
 Meu Irmão é um Problema	dub=8:384729
-Meu Irmão é um Problema (2026)	dub=6:1500868
+Meu Irmão é um Problema (2026)	dub=https://embedplayer2.xyz/cdn/hls/29b79f92af1b0793c246be06f4ae3cbb/master.txt,6:1500868
 Meu Irmão, Minha Irmã	dub=2:131226,8:131226	leg=2:131227,8:131227
 Meu Irmão, Minha Irmã (2021)	dub=6:1304763	leg=6:1304764
 Meu Japão Brasileiro	dub=8:394781
 Meu Leal Companheiro	dub=2:73282,8:73282
 Meu Leal Companheiro (1961)	dub=6:1308668
-Meu Malvado Favorito	dub=2:21409,8:21409
-Meu Malvado Favorito (2010)	dub=6:1298582
-Meu Malvado Favorito 2	dub=2:21407,8:21407
-Meu Malvado Favorito 2 (2013)	dub=6:1298583
-Meu Malvado Favorito 3	dub=2:21408,8:21408
-Meu Malvado Favorito 3 (2017)	dub=6:1298584
+Meu Malvado Favorito	dub=https://embedplayer2.xyz/cdn/hls/9c6429cd7c10ee2431fce8f2876c46a1/master.txt,2:21409,8:21409
+Meu Malvado Favorito (2010)	dub=https://embedplayer2.xyz/cdn/hls/9c6429cd7c10ee2431fce8f2876c46a1/master.txt,6:1298582
+Meu Malvado Favorito 2	dub=https://embedplayer2.xyz/cdn/hls/cfea131e88091b8600e9162ee3107710/master.txt,2:21407,8:21407
+Meu Malvado Favorito 2 (2013)	dub=https://embedplayer2.xyz/cdn/hls/cfea131e88091b8600e9162ee3107710/master.txt,6:1298583
+Meu Malvado Favorito 3	dub=https://embedplayer2.xyz/cdn/hls/76c3499146a778678506f25f6706ecf2/master.txt,2:21408,8:21408
+Meu Malvado Favorito 3 (2017)	dub=https://embedplayer2.xyz/cdn/hls/76c3499146a778678506f25f6706ecf2/master.txt,6:1298584
 Meu Malvado Favorito 4	dub=2:281510,8:281510,2:281509,8:281509	leg=2:281511,8:281511
 Meu Malvado Favorito 4 (2024)	dub=6:1311897	leg=6:1311896
 Meu Marciano Favorito (1999)	dub=6:1312538
 Meu Marido Bilionario De Duas Caras	leg=8:389577
 Meu Marido Era Meu Azar	dub=8:389578
-Meu Marido Virou um Cachorro	dub=2:317310,8:317310
-Meu Marido Virou um Cachorro (2022)	dub=6:1313398
+Meu Marido Virou um Cachorro	dub=https://embedplayer2.xyz/cdn/hls/866838c91336548c714c523956a6e5f3/master.txt,2:317310,8:317310
+Meu Marido Virou um Cachorro (2022)	dub=https://embedplayer2.xyz/cdn/hls/866838c91336548c714c523956a6e5f3/master.txt,6:1313398
 Meu Melhor Amigo (2005)	dub=6:1303858
 Meu Melhor Amigo Vai Casar	dub=2:236311,8:236311	leg=2:236313,8:236313
 Meu Melhor Amigo Vai Casar (2019)	leg=6:1308272
-Meu Melhor Amigo, sua Namorada e Eu (2026)	dub=6:1502275
+Meu Melhor Amigo, sua Namorada e Eu (2026)	dub=https://embedplayer2.xyz/cdn/hls/c22e6a3716cac303e6fe7dcc936c72cd/master.txt,6:1502275
 Meu Mestre, Minha Vida	dub=2:129572,8:129572
 Meu Mestre, Minha Vida (1989)	dub=6:1304287
 Meu Monstro de Estimacao (2007)	dub=6:1300211
@@ -1108,11 +1108,11 @@ Meu Monstro de Estimação	dub=2:92020,8:92020
 Meu Namorado Fake	dub=2:162023,2:162022,8:162023,8:162022
 Meu Namorado Fake (2022)	dub=6:1299628
 Meu Namorado e um Zumbi (2013)	dub=6:1299823
-Meu Nome Era Eileen	dub=2:267629,8:267629,2:255567,8:255567	leg=2:255568,8:255568
-Meu Nome Era Eileen (2023)	dub=6:1303373	leg=6:1303372
+Meu Nome Era Eileen	dub=https://embedplayer2.xyz/cdn/hls/de0af2df3cd4212046bd88842f86bc9d/master.txt,2:267629,8:267629,2:255567,8:255567	leg=2:255568,8:255568
+Meu Nome Era Eileen (2023)	dub=https://embedplayer2.xyz/cdn/hls/de0af2df3cd4212046bd88842f86bc9d/master.txt,6:1303373	leg=6:1303372
 Meu Nome Nao E Johnny	dub=2:24937,8:24937
 Meu Nome Não é Johnny (2008)	dub=6:1309896
-Meu Nome e Agneta (2026)	dub=6:1314534
+Meu Nome e Agneta (2026)	dub=https://embedplayer2.xyz/cdn/hls/e40d2e409c5b463dd2c0a3f34d3e4510/master.txt,6:1314534
 Meu Nome e Chihiro (2023)	dub=6:1300999
 Meu Nome e Jeeg Robot (2016)	dub=6:1300669
 Meu Nome e Radio	dub=2:21037,8:21037
@@ -1121,7 +1121,7 @@ Meu Nome e Ray (2016)	dub=6:1299515
 Meu Nome e Vinganca (2022)	dub=6:1300682
 Meu Nome É Emily	dub=2:35265,8:35265
 Meu Nome É Emily (2016)	dub=6:1307525
-Meu Nome é Agneta	dub=2:376602,8:376602,2:376517,8:376517	leg=2:376516,8:376516
+Meu Nome é Agneta	dub=https://embedplayer2.xyz/cdn/hls/e40d2e409c5b463dd2c0a3f34d3e4510/master.txt,2:376602,8:376602,2:376517,8:376517	leg=2:376516,8:376516
 Meu Nome é Bagdá	dub=2:157963,8:157963
 Meu Nome é Bagdá (2021)	dub=6:1306181
 Meu Nome é Chihiro	dub=2:187855,8:187855	leg=2:187854,8:187854
@@ -1130,14 +1130,14 @@ Meu Nome é Dolemite	dub=2:30464,8:30464
 Meu Nome é Dolemite (2019)	dub=6:1308143
 Meu Nome é Eneas	dub=8:394326,8:394278
 Meu Nome é Gal	dub=2:363887,2:229467,8:363887,8:229467
-Meu Nome é Gal (2023)	dub=6:1302878
+Meu Nome é Gal (2023)	dub=https://embedplayer2.xyz/cdn/hls/4062d6bbb76dfa96cd386c0dd9b39005/master.txt,6:1302878
 Meu Nome é Greta	dub=2:119641,8:119641	leg=2:119639,8:119639
 Meu Nome é Greta (2020)	dub=6:1311057	leg=6:1311058
 Meu Nome é Jeeg Robot	dub=2:330026,8:330026	leg=2:330025,8:330025
 Meu Nome é Khan	dub=2:264150,8:264150
 Meu Nome é Khan (2010)	dub=6:1310069
-Meu Nome é Loh Kiwan	dub=8:392669,2:251176,8:251176	leg=2:251177,8:251177
-Meu Nome é Loh Kiwan (2024)	dub=6:1303199
+Meu Nome é Loh Kiwan	dub=https://embedplayer2.xyz/cdn/hls/004905e7a718ab85bc6561721f1f036c/master.txt,8:392669,2:251176,8:251176	leg=2:251177,8:251177
+Meu Nome é Loh Kiwan (2024)	dub=https://embedplayer2.xyz/cdn/hls/004905e7a718ab85bc6561721f1f036c/master.txt,6:1303199
 Meu Nome é Maria	leg=2:324544,8:324544
 Meu Nome é Ninguém	dub=2:370344,2:20706,8:370344,8:20706
 Meu Nome é Ninguém (1973)	dub=6:1311617
@@ -1153,13 +1153,13 @@ Meu Não Tão Perfeito Marido (2019)	dub=6:1308641
 Meu Odio Sera Sua Heranca (1969)	dub=6:1299317
 Meu Padrasto Malvado	dub=2:48266,8:48266
 Meu Padrasto Malvado (2019)	dub=6:1308479
-Meu Pai	dub=2:101187,8:101187,2:101178,8:101178
-Meu Pai (2020)	dub=6:1298394	leg=6:1298377
+Meu Pai	dub=https://embedplayer2.xyz/cdn/hls/cf9e41b4ec9608138c213806f1302e58/master.txt,2:101187,8:101187,2:101178,8:101178
+Meu Pai (2020)	dub=https://embedplayer2.xyz/cdn/hls/cf9e41b4ec9608138c213806f1302e58/master.txt,6:1298394	leg=6:1298377
 Meu Pai E O Magnata Misterioso	leg=8:389579
 Meu Pai Trabalha Como Seguranca	leg=8:389580
-Meu Pai e um Perigo (2023)	dub=6:1301757
+Meu Pai e um Perigo (2023)	dub=https://embedplayer2.xyz/cdn/hls/98386a06ef67f27b3f18a0c3d1aa4dec/master.txt,6:1301757
 Meu Pai o Assassino BTK (2025)	dub=6:1313931	leg=6:1313930
-Meu Pai é um Perigo	dub=2:207323,8:207323	leg=2:207322,8:207322
+Meu Pai é um Perigo	dub=https://embedplayer2.xyz/cdn/hls/98386a06ef67f27b3f18a0c3d1aa4dec/master.txt,2:207323,8:207323	leg=2:207322,8:207322
 Meu Pai, o Assassino BTK	dub=2:347679,8:347679	leg=2:347678,8:347678
 Meu Papai é Noel (1994)	dub=6:1302835
 Meu Papai é Noel 2 (2002)	dub=6:1302829
@@ -1168,8 +1168,8 @@ Meu Passado Me Condena	dub=2:26448,8:26448
 Meu Passado Me Condena: O Filme (2013)	dub=6:1300795
 Meu País	dub=2:106832,8:106832
 Meu País (2011)	dub=6:1307051
-Meu Pedaço de Terra	dub=2:242160,2:242159,8:242160,8:242159
-Meu Pedaço de Terra (2022)	dub=6:1311505	leg=6:1311506
+Meu Pedaço de Terra	dub=https://embedplayer2.xyz/cdn/hls/1db9852089b43b8a32fe625d814f2b23/master.txt,2:242160,2:242159,8:242160,8:242159
+Meu Pedaço de Terra (2022)	dub=https://embedplayer2.xyz/cdn/hls/1db9852089b43b8a32fe625d814f2b23/master.txt,6:1311505	leg=6:1311506
 Meu Pobre Esposo E Bilionario	dub=8:389581
 Meu Policial	dub=2:179783,8:179783,2:178829,8:178829	leg=2:178808,8:178808
 Meu Policial (2022)	dub=6:1300350
@@ -1180,7 +1180,7 @@ Meu Porto Seguro 2 (2024)	dub=6:1304077
 Meu Primeiro Amor	dub=2:20707,8:20707
 Meu Primeiro Amor (1991)	dub=6:1297551
 Meu Primeiro Amor - Parte 2 (1994)	dub=6:1299712
-Meu Primeiro Amor de Verão	dub=2:371177,8:371177	leg=2:371176,8:371176
+Meu Primeiro Amor de Verão	dub=https://embedplayer2.xyz/cdn/hls/b788184acfdc910f17a497312b989d0e/master.txt,2:371177,8:371177	leg=2:371176,8:371176
 Meu Primeiro Verão (2020)	leg=6:1308893
 Meu Primeiro Verão na Califórnia	dub=2:230284,8:230284	leg=2:230288,8:230288
 Meu Primeiro Verão na Califórnia (2018)	dub=6:1310657	leg=6:1310658
@@ -1189,19 +1189,19 @@ Meu Primo (2020)	dub=6:1305976	leg=6:1305977
 Meu Primo Vinny (1992)	dub=6:1299920
 Meu Professor, Minha Obsessão	dub=2:317235,8:317235
 Meu Próprio Filho	dub=8:392421	leg=8:392420
-Meu Próprio Filho (2026)	dub=6:1502276
+Meu Próprio Filho (2026)	dub=https://embedplayer2.xyz/cdn/hls/e82fabc68b7f26d74abd903c510d44c0/master.txt,6:1502276
 Meu Psicologo Imaginario (2021)	dub=6:1302376
 Meu Psicólogo Imaginário	dub=2:161522,2:161518,8:161522,8:161518
 Meu Pé de Laranja Lima	dub=2:358834,8:358834
-Meu Querido Assassino	dub=2:378014,8:378014,2:377102,8:377102	leg=2:377101,8:377101
-Meu Querido Assassino (2026)	dub=6:1314563
-Meu Querido Bobby: Era Tudo uma Farsa	dub=8:394747,2:291164,8:291164
-Meu Querido Bobby: Era Tudo uma Farsa (2024)	dub=6:1312308
+Meu Querido Assassino	dub=https://embedplayer2.xyz/cdn/hls/fc9feefc1f83e115c67db1cce1383c50/master.txt,2:378014,8:378014,2:377102,8:377102	leg=2:377101,8:377101
+Meu Querido Assassino (2026)	dub=https://embedplayer2.xyz/cdn/hls/fc9feefc1f83e115c67db1cce1383c50/master.txt,6:1314563
+Meu Querido Bobby: Era Tudo uma Farsa	dub=https://embedplayer2.xyz/cdn/hls/32c77ca2fc8a0855fe86afdc159c072e/master.txt,8:394747,2:291164,8:291164
+Meu Querido Bobby: Era Tudo uma Farsa (2024)	dub=https://embedplayer2.xyz/cdn/hls/32c77ca2fc8a0855fe86afdc159c072e/master.txt,6:1312308
 Meu Querido Demônio	dub=2:319000,8:319000
 Meu Querido Elfo (2019)	dub=6:1299501
 Meu Querido Golpista	dub=2:336969,8:336969	leg=2:336968,8:336968
-Meu Sangue Ferve por Você	dub=2:279209,8:279209
-Meu Sangue Ferve por Você (2024)	dub=6:1311828
+Meu Sangue Ferve por Você	dub=https://embedplayer2.xyz/cdn/hls/361b1dacd78371659f89b8c53e57f418/master.txt,2:279209,8:279209
+Meu Sangue Ferve por Você (2024)	dub=https://embedplayer2.xyz/cdn/hls/361b1dacd78371659f89b8c53e57f418/master.txt,6:1311828
 Meu Sangue é Vermelho	dub=2:229160,8:229160
 Meu Sangue é Vermelho (2019)	dub=6:1311170
 Meu Sonho Americano	dub=2:370714,8:370714	leg=2:370713,8:370713
@@ -1226,8 +1226,8 @@ Meu Último Desejo	dub=2:274998,8:274998	leg=2:274999,8:274999
 Meus 15 Anos	dub=2:131035,2:20708,8:131035,8:20708
 Meus 15 Anos (2006)	dub=6:1304609
 Meus 15 Anos (2017)	dub=6:1297552
-Meus 84 m	dub=2:335551,8:335551	leg=2:335550,8:335550
-Meus 84 m2 (2025)	dub=6:1313683
+Meus 84 m	dub=https://embedplayer2.xyz/cdn/hls/6ca480a5a376351f62d0919b829367b1/master.txt,2:335551,8:335551	leg=2:335550,8:335550
+Meus 84 m2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ca480a5a376351f62d0919b829367b1/master.txt,6:1313683
 Meus Amigos Dinossauros	dub=2:20390,8:20390
 Meus Amigos Dinossauros (2012)	dub=6:1309792
 Meus Amigos Dinossauros 2	dub=2:321270,8:321270
@@ -1240,20 +1240,20 @@ Meus Herois Eram Cowboys (2021)	dub=6:1298950
 Meus Heróis Eram Cowboys	dub=2:128888,2:128875,8:128888,8:128875
 Meus Irmãos	dub=2:229142,8:229142	leg=2:229141,8:229141
 Meus Irmãos (2018)	dub=6:1310621	leg=6:1310622
-Meus Sogros Tao pro Crime (2023)	dub=6:1301588
-Meus Sogros Tão pro Crime	dub=2:202582,8:202582,2:370725,2:202002,8:370725,8:202002	leg=2:370724,2:202003,8:370724,8:202003
+Meus Sogros Tao pro Crime (2023)	dub=https://embedplayer2.xyz/cdn/hls/fe3fb1dac837545872fa18be1652bfc4/master.txt,6:1301588
+Meus Sogros Tão pro Crime	dub=https://embedplayer2.xyz/cdn/hls/fe3fb1dac837545872fa18be1652bfc4/master.txt,2:202582,8:202582,2:370725,2:202002,8:370725,8:202002	leg=2:370724,2:202003,8:370724,8:202003
 Meus Tios Magnatas Me Mimam	leg=8:389582
 Meus Vizinhos Sao um Terror	dub=2:20709,8:20709
 Meus Vizinhos São um Terror (1989)	dub=6:1304058
-Mexicali Terra sem Lei (2026)	dub=6:1314528
-Mexicali: Terra sem Lei	dub=2:375709,8:375709	leg=2:375708,8:375708
+Mexicali Terra sem Lei (2026)	dub=https://embedplayer2.xyz/cdn/hls/1d392f629f2349483b91713c0531d592/master.txt,6:1314528
+Mexicali: Terra sem Lei	dub=https://embedplayer2.xyz/cdn/hls/1d392f629f2349483b91713c0531d592/master.txt,2:375709,8:375709	leg=2:375708,8:375708
 Mexida	dub=2:261339,8:261339	leg=8:261340
-Mexida (2024)	dub=6:1303885
+Mexida (2024)	dub=https://embedplayer2.xyz/cdn/hls/469af0c60176ff19acf3f36971579278/master.txt,6:1303885
 Mi mejor escena	leg=8:395859
 Miami Vice	dub=2:198532,8:385794,8:198532	leg=8:385793
 Miami Vice (2006)	dub=6:1301814
-Michael	dub=2:382542,2:382530,8:382542,8:382530,2:381984,8:381984	leg=2:381983,8:381983
-Michael (2026)	dub=6:1314627	leg=6:1314626
+Michael	dub=https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt,https://embedplayer2.xyz/cdn/hls/1a8df1e9540a7e5a30a4ec3c8059651a/master.txt,2:382542,2:382530,8:382542,8:382530,2:381984,8:381984	leg=https://embedplayer2.xyz/cdn/hls/618b3b1f2a1fe1b1e2cfe617770d7d38/master.txt,2:381983,8:381983
+Michael (2026)	dub=https://embedplayer2.xyz/cdn/hls/e9d1649813e5543616f7aec3df52d3cf/master.txt,https://embedplayer2.xyz/cdn/hls/1a8df1e9540a7e5a30a4ec3c8059651a/master.txt,6:1314627	leg=https://embedplayer2.xyz/cdn/hls/618b3b1f2a1fe1b1e2cfe617770d7d38/master.txt,6:1314626
 Michael Anjo e Sedutor (1996)	dub=6:1302258
 Michael Jackson's This Is It	leg=2:307737,8:307737
 Michael Jackson's: This is It (2009)	leg=6:1309786
@@ -1279,11 +1279,11 @@ Midwinter Break	dub=8:386607	leg=8:386608
 Migrações Animais Épicas: Patagônia	leg=2:246430,8:246430
 Migrações Animais Épicas: Patagônia (2023)	leg=6:1309620
 Miguel Angel Blanco The 48 Hours That Changed Spain	leg=8:386716
-Mikaela	dub=2:376734,8:376734	leg=2:376733,2:325913,8:376733,8:325913
-Mike & Nick & Nick & Alice	dub=2:372418,8:372418,2:371511,8:371511	leg=2:371510,8:371510
+Mikaela	dub=https://embedplayer2.xyz/cdn/hls/ef6f9348bc96de3e2a5033618e881a6e/master.txt,2:376734,8:376734	leg=2:376733,2:325913,8:376733,8:325913
+Mike & Nick & Nick & Alice	dub=https://embedplayer2.xyz/cdn/hls/0cadb19312b07012cd230f218db7b2d9/master.txt,2:372418,8:372418,2:371511,8:371511	leg=2:371510,8:371510
 Mike Birbiglia: The Good Life	leg=2:323715,8:323715
 Mike Epps: Sem Noção	leg=2:364619,8:364619
-Mike Nick Nick Alice (2026)	dub=6:1314420
+Mike Nick Nick Alice (2026)	dub=https://embedplayer2.xyz/cdn/hls/0cadb19312b07012cd230f218db7b2d9/master.txt,6:1314420
 Mike Tyson: Verdade Fora de Disputa (2013)	leg=6:1309163
 Mikolo	leg=2:246431,8:246431
 Mil Vezes Boa Noite	dub=2:341796,8:341796	leg=2:341795,8:341795
@@ -1339,8 +1339,8 @@ Mine 9	leg=2:33387,8:33387
 Mineirinho, Vivo ou Morto	dub=2:348808,8:348808
 Minha Amada Imortal	dub=2:98819,8:98819
 Minha Amada Imortal (1994)	dub=6:1307164
-Minha Amiga Morta Zoe	dub=2:323955,8:323955	leg=2:323954,2:319797,8:323954,8:319797
-Minha Amiga Morta Zoe (2024)	dub=6:1313544	leg=6:1313543
+Minha Amiga Morta Zoe	dub=https://embedplayer2.xyz/cdn/hls/096c8730592eb21a44e0cf6238da5ac5/master.txt,2:323955,8:323955	leg=2:323954,2:319797,8:323954,8:319797
+Minha Amiga Morta Zoe (2024)	dub=https://embedplayer2.xyz/cdn/hls/096c8730592eb21a44e0cf6238da5ac5/master.txt,6:1313544	leg=6:1313543
 Minha Amiga Palma	dub=2:130195,8:130195	leg=2:130194,8:130194
 Minha Amiga Palma (2021)	dub=6:1301050
 Minha Amiga é um E.T.	dub=2:373827,8:373827	leg=2:373826,8:373826
@@ -1349,16 +1349,16 @@ Minha Arma Era a Lei (2023)	dub=6:1311909	leg=6:1311908
 Minha Arvore de Natal Favorita (2022)	dub=6:1302050
 Minha Babá é uma Vampira: O Filme	dub=2:202456,8:202456
 Minha Babá é uma Vampira: O Filme (2010)	dub=6:1306097
-Minha Casa	dub=2:204446,8:204446	leg=2:204452,8:204452
-Minha Casa (2023)	dub=6:1301639
+Minha Casa	dub=https://embedplayer2.xyz/cdn/hls/278f1a087f037bee375164e7e17898a6/master.txt,2:204446,8:204446	leg=2:204452,8:204452
+Minha Casa (2023)	dub=https://embedplayer2.xyz/cdn/hls/278f1a087f037bee375164e7e17898a6/master.txt,6:1301639
 Minha Casa Rosa	dub=2:22045,8:22045
 Minha Casa Rosa (2018)	dub=6:1310471
 Minha Culpa	dub=2:198192,8:198192,2:197639,8:197639	leg=2:197638,8:197638
 Minha Culpa (2023)	dub=6:1301493
 Minha Culpa: Londres	dub=2:310765,8:310765,2:310613,8:310613	leg=2:310614,8:310614
 Minha Culpa: Londres (2025)	dub=6:1313041	leg=6:1313040
-Minha Estranha Família	dub=2:233509,8:233509	leg=2:233514,8:233514
-Minha Estranha Família (2021)	dub=6:1311128	leg=6:1311129
+Minha Estranha Família	dub=https://embedplayer2.xyz/cdn/hls/f2a66e23d6813b9c6e046d915299d536/master.txt,2:233509,8:233509	leg=2:233514,8:233514
+Minha Estranha Família (2021)	dub=https://embedplayer2.xyz/cdn/hls/f2a66e23d6813b9c6e046d915299d536/master.txt,6:1311128	leg=6:1311129
 Minha Ex Esposa E Poderosa	leg=8:389586
 Minha Ex Mulher Floresce Apos Divorcio	dub=8:389587
 Minha Fama de Mau	dub=2:23821,8:23821
@@ -1366,26 +1366,26 @@ Minha Fama de Mau (2019)	dub=6:1297578
 Minha Familia Ja Te Ama	dub=2:24938,8:24938
 Minha Familia Já Te Ama! (2016)	dub=6:1307593
 Minha Familia Perfeita (2022)	dub=6:1301947
-Minha Familia Quer que Eu Case (2023)	dub=6:1302912
+Minha Familia Quer que Eu Case (2023)	dub=https://embedplayer2.xyz/cdn/hls/0b61f1f4e69a61a5212fa887075ed9e2/master.txt,6:1302912
 Minha Família Perfeita	dub=2:192111,8:192111
-Minha Família Quer que Eu Case	dub=2:230271,8:230271	leg=2:230274,8:230274
+Minha Família Quer que Eu Case	dub=https://embedplayer2.xyz/cdn/hls/0b61f1f4e69a61a5212fa887075ed9e2/master.txt,2:230271,8:230271	leg=2:230274,8:230274
 Minha Família de Natal	dub=2:294415,2:294127,8:294415,8:294127	leg=2:294416,2:294128,8:294416,8:294128
-Minha Fera	dub=2:345479,8:345479	leg=2:345478,8:345478
+Minha Fera	dub=https://embedplayer2.xyz/cdn/hls/f6b9aaa029370ccd716877db0b75ae41/master.txt,2:345479,8:345479	leg=2:345478,8:345478
 Minha Festa de 30 Anos (2016)	dub=6:1301351
 Minha Filha É Um Quarterback	dub=2:371907,8:371907	leg=2:371906,8:371906
 Minha Irma Arrasa	dub=2:22670,8:22670
 Minha Irma Invisivel (2015)	dub=6:1300279
-Minha Irma e Eu (2023)	dub=6:1303188
-Minha Irmã e Eu	dub=2:250660,8:250660
+Minha Irma e Eu (2023)	dub=https://embedplayer2.xyz/cdn/hls/4666173effe3242be69d4afa10d0ffcf/master.txt,6:1303188
+Minha Irmã e Eu	dub=https://embedplayer2.xyz/cdn/hls/4666173effe3242be69d4afa10d0ffcf/master.txt,2:250660,8:250660
 Minha Mae e Eu (2016)	dub=6:1501065
-Minha Mae e Uma Peca 2 (2016)	dub=6:1297557
+Minha Mae e Uma Peca 2 (2016)	dub=https://embedplayer2.xyz/cdn/hls/aa2397d89436d651d9a68f6b89a820b3/master.txt,6:1297557
 Minha Mae e Uma Peca 3 (2019)	dub=6:1298245
 Minha Mae e Uma Peca: O Filme (2013)	dub=6:1297556
 Minha Melhor Amiga	dub=2:370908,8:370908	leg=2:370907,8:370907
 Minha Morte	dub=2:144079,8:144079	leg=2:144094,8:144094
 Minha Morte (2020)	dub=6:1304216	leg=6:1304217
 Minha Mãe é Uma Peça 3	dub=2:41635,8:41635
-Minha Namorada Assombrosa	leg=2:295708,8:295708
+Minha Namorada Assombrosa	dub=https://embedplayer2.xyz/cdn/hls/2f7aeb57b06ddbc313dfcaf3866c18c4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/18d361fd93c63cbc055fa0b193a20e17/master.txt,2:295708,8:295708
 Minha Namorada Favorita	dub=2:283257,8:283257	leg=2:283258,8:283258
 Minha Namorada Favorita (2022)	dub=6:1311975	leg=6:1311974
 Minha Noiva é de Matar	dub=2:160442,8:160442
@@ -1401,17 +1401,17 @@ Minha Professora de Francês (1983)	dub=6:1307295
 Minha Pátria Amada	leg=8:256271
 Minha Querida Confraria	dub=2:31928,8:31928
 Minha Querida Confraria (2018)	dub=6:1308081
-Minha Querida Esme	dub=2:299599,8:299599	leg=2:299600,8:299600
+Minha Querida Esme	dub=https://embedplayer2.xyz/cdn/hls/d9a03bd5f52ceff60889efca898f52d5/master.txt,2:299599,8:299599	leg=2:299600,8:299600
 Minha Querida Filha	leg=8:389589
 Minha Querida Nora	dub=2:93651,8:93651
 Minha Querida Nora (2020)	dub=6:1308662
 Minha Querida Oni	dub=2:262353,8:262353	leg=2:262354,8:262354
 Minha Querida Oni (2024)	dub=6:1304070
 Minha Querida Primeira Dama (2016)	dub=6:1299922
-Minha Querida Senhorita	dub=2:376724,8:376724,2:376604,8:376604	leg=2:376603,8:376603
+Minha Querida Senhorita	dub=https://embedplayer2.xyz/cdn/hls/4b583d9903ec7d6c9ca86973a9b4ff01/master.txt,2:376724,8:376724,2:376604,8:376604	leg=2:376603,8:376603
 Minha Rainha Tregua Nunca Mais	leg=8:389590
-Minha Solidao Tem Asas (2023)	dub=6:1303094
-Minha Solidão Tem Asas	dub=2:241787,2:241786,8:241787,8:241786
+Minha Solidao Tem Asas (2023)	dub=https://embedplayer2.xyz/cdn/hls/1eb449dfeda9ceae2d9622613338535e/master.txt,6:1303094
+Minha Solidão Tem Asas	dub=https://embedplayer2.xyz/cdn/hls/1eb449dfeda9ceae2d9622613338535e/master.txt,2:241787,2:241786,8:241787,8:241786
 Minha Super Ex Namorada (2006)	dub=6:1299923
 Minha Super Ex-Namorada	dub=2:105250,8:105250
 Minha Teoria da Popularidade	dub=2:256926,8:256926	leg=8:256927
@@ -1435,13 +1435,13 @@ Minha Vida em Marte	dub=2:21445,8:21445
 Minha Vida em Marte (2018)	dub=6:1297558
 Minha Vingança	dub=2:185302,8:185302	leg=2:185301,8:185301
 Minha Vingança (2021)	dub=6:1299589
-Minha Zoe Minha Vida	dub=2:101659,8:101659
-Minha Zoe, Minha Vida (2019)	dub=6:1307889
+Minha Zoe Minha Vida	dub=https://embedplayer2.xyz/cdn/hls/efd25098417db7e62df430839e58e5fe/master.txt,2:101659,8:101659
+Minha Zoe, Minha Vida (2019)	dub=https://embedplayer2.xyz/cdn/hls/efd25098417db7e62df430839e58e5fe/master.txt,6:1307889
 Minha irma de Paris (2019)	dub=6:1297460
 Minha mae e uma peca	dub=2:20711,8:20711
 Minha mae e uma peca 2	dub=2:20710,8:20710
 Minha Árvore de Natal Favorita	dub=2:190631,8:190631	leg=2:190632,8:190632
-Minhas Adoraveis Ex Namoradas (2009)	dub=6:1312172	leg=6:1312171
+Minhas Adoraveis Ex Namoradas (2009)	dub=https://embedplayer2.xyz/cdn/hls/c81600f4031c196f52356c6476d83b24/master.txt,6:1312172	leg=6:1312171
 Minhas Adoraveis Ex-Namoradas	dub=2:20712,8:20712
 Minhas Férias com Patrick	dub=2:164210,8:164210	leg=2:164217,8:164217
 Minhas Férias com Patrick (2020)	dub=6:1306214	leg=6:1306215
@@ -1451,7 +1451,7 @@ Minimalismo Já	dub=2:91269,8:392798,8:91269
 Minimalismo Já (2021)	dub=6:1308941
 Minions	dub=2:20391,8:20391
 Minions & Monstros	dub=8:394165,8:392671	leg=8:392670
-Minions & Monstros (2026)	dub=6:1502304
+Minions & Monstros (2026)	dub=https://embedplayer2.xyz/cdn/hls/dc2a301d60f7c4db22d2db2b6dc91395/master.txt,6:1502304
 Minions (2015)	dub=6:1299962
 Minions 2: A Origem de Gru (2022)	dub=6:1299824
 Minions Curta: Ajudantes do Papai Noel (2019)	dub=6:1310709
@@ -1460,16 +1460,16 @@ Minions: A Origem de Gru	dub=2:169695,8:169695,2:169766,8:169766	leg=2:169699,8:
 Minor Premise	leg=2:89582,8:89582
 Minority Report: A Nova Lei	dub=2:98252,8:98252
 Minority Report: A Nova Lei (2002)	dub=6:1297625
-Minsk em Chamas	dub=2:273071,8:273071	leg=2:273072,8:273072
-Minsk em Chamas (2022)	dub=6:1309166
+Minsk em Chamas	dub=https://embedplayer2.xyz/cdn/hls/8e32badfb77c6a445f3a83ec697a7dec/master.txt,2:273071,8:273071	leg=2:273072,8:273072
+Minsk em Chamas (2022)	dub=https://embedplayer2.xyz/cdn/hls/8e32badfb77c6a445f3a83ec697a7dec/master.txt,6:1309166
 Minta Para Mim	dub=2:174626,8:174626	leg=2:174967,8:174967
 Minta Para Mim (2022)	dub=6:1300278
-Minta se For Capaz	dub=2:196773,8:196773	leg=2:196781,8:196781
-Minta se For Capaz (2020)	dub=6:1305197	leg=6:1305198
+Minta se For Capaz	dub=https://embedplayer2.xyz/cdn/hls/5f6ffbe03ade91deaeb07e6e3203abd8/master.txt,2:196773,8:196773	leg=2:196781,8:196781
+Minta se For Capaz (2020)	dub=https://embedplayer2.xyz/cdn/hls/5f6ffbe03ade91deaeb07e6e3203abd8/master.txt,6:1305197	leg=6:1305198
 Minutemen: Viajantes do Tempo	dub=2:113023,8:113023
 Minutemen: Viajantes do Tempo (2008)	dub=6:1309985
 Minúsculos: O Filme	dub=2:353663,8:353663
-Miraculous As Aventuras de Ladybug O Filme (2023)	dub=6:1301717
+Miraculous As Aventuras de Ladybug O Filme (2023)	dub=https://embedplayer2.xyz/cdn/hls/722b835846ea602245aba00b661aa55f/master.txt,6:1301717
 Miraculous World - Xangai, a Lenda de Lady Dragon	dub=2:125648,8:125648
 Miraculous World Nova Iorque Herois Unidos (2020)	dub=6:1301470
 Miraculous World Paris As Aventuras De Shadybug e Claw Noir (2023)	dub=6:1303116
@@ -1478,22 +1478,22 @@ Miraculous World: Londres, Corrida Contra o Tempo	dub=2:307311,8:307311
 Miraculous World: Londres, Corrida Contra o Tempo (2024)	dub=6:1312987
 Miraculous World: Paris, As Aventuras De Shadybug e Claw Noir	dub=2:249797,2:245496,8:249797,8:245496	leg=2:249798,2:245497,8:249798,8:245497
 Miraculous World: Tóquio – Força Estelar	dub=2:355669,8:355669
-Miraculous: As Aventuras de Ladybug - O Filme	dub=2:205186,8:205186	leg=2:205185,8:205185
-Mirador	dub=2:336137,2:185847,8:336137,8:185847
-Mirador (2022)	dub=6:1306499
-Mirai	dub=2:370346,8:370346	leg=2:370345,8:370345
+Miraculous: As Aventuras de Ladybug - O Filme	dub=https://embedplayer2.xyz/cdn/hls/722b835846ea602245aba00b661aa55f/master.txt,2:205186,8:205186	leg=2:205185,8:205185
+Mirador	dub=https://embedplayer2.xyz/cdn/hls/8dfc2bc8ff7d603458ea4a175da0da08/master.txt,2:336137,2:185847,8:336137,8:185847
+Mirador (2022)	dub=https://embedplayer2.xyz/cdn/hls/8dfc2bc8ff7d603458ea4a175da0da08/master.txt,6:1306499
+Mirai	dub=https://embedplayer2.xyz/cdn/hls/44a5f3f58a2bb7252c8341ba594c2a95/master.txt,2:370346,8:370346	leg=2:370345,8:370345
 Mirante	dub=2:369427,8:369427
 Miroirs No. 3	leg=2:358146,8:358146
-Misdirection	dub=2:383135,8:383135	leg=2:383134,8:383134
+Misdirection	dub=https://embedplayer2.xyz/cdn/hls/d564532fc8d79e2917cbf6b7099ab1a0/master.txt,2:383135,8:383135	leg=2:383134,8:383134
 Misericórdia	leg=2:365124,2:328510,8:365124,8:328510
 Misgivings	leg=8:396139
 Miss	dub=2:185867,8:185867	leg=2:185866,8:185866
 Miss Bala	dub=2:22046,8:22046
 Miss Bala (2019)	dub=6:1301421
 Miss Fisher and the Crypt of Tears	leg=2:46146,8:46146
-Miss Fisher e a Cripta das Lágrimas (2020)	leg=6:1308096
+Miss Fisher e a Cripta das Lágrimas (2020)	dub=https://embedplayer2.xyz/cdn/hls/d2f2f230bc90b7dcd725a0759298c010/master.txt	leg=6:1308096
 Miss Franca (2020)	dub=6:1301465
-Miss Itália Não Pode Morrer	dub=2:313280,8:313280	leg=2:313281,8:313281
+Miss Itália Não Pode Morrer	dub=https://embedplayer2.xyz/cdn/hls/3a88300b2c3669406d88049d7db5db7d/master.txt,2:313280,8:313280	leg=2:313281,8:313281
 Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to Be Loved	dub=8:383943	leg=8:383942
 Miss Kobayashis Dragon Maid A Lonely Dragon Wants to be Loved	leg=2:364620,8:364620
 Miss Marco: A Garota da Capa (2009)	dub=6:1299924,6:1299925
@@ -1501,8 +1501,8 @@ Miss Março: A Garota da Capa	dub=2:382464,8:382464	leg=2:382463,8:382463
 Miss Potter	dub=2:344507,8:344507	leg=2:344506,8:344506
 Miss Revolucao (2020)	dub=6:1301990
 Miss Revolução	dub=2:162382,2:162373,8:162382,8:162373
-Miss Simpatia	dub=2:382833,2:48267,8:382833,8:48267
-Miss Simpatia (2000)	dub=6:1297232
+Miss Simpatia	dub=https://embedplayer2.xyz/cdn/hls/697e19469a0f4f3d82da8ed21e199bfa/master.txt,2:382833,2:48267,8:382833,8:48267
+Miss Simpatia (2000)	dub=https://embedplayer2.xyz/cdn/hls/697e19469a0f4f3d82da8ed21e199bfa/master.txt,6:1297232
 Miss Simpatia 2 - Armada e Poderosa (2005)	dub=6:1298267,6:1298524
 Miss Simpatia 2: Armada e Poderosa	dub=2:336667,2:48268,8:336667,8:48268	leg=2:336666,8:336666
 Miss Violence	leg=2:253284,2:148694,8:253284,8:148694
@@ -1515,89 +1515,89 @@ Missao Cupido (2021)	dub=6:1301946
 Missao Dragao - Sua Historia (2019)	dub=6:1297683
 Missao Extraordinaria	dub=2:28685,8:28685
 Missao Final	dub=2:30597,8:30597
-Missao Impossivel 4 Protocolo Fantasma (2011)	dub=6:1301535
-Missao Impossivel 6 - Efeito Fallout (2018)	dub=6:1313634
-Missao Impossivel Acerto de Contas Parte 1 (2023)	dub=6:1302586	leg=6:1302585
-Missao Impossivel Fallout	dub=2:22511,8:22511
-Missao Impossivel O Acerto Final (2025)	dub=6:1313746	leg=6:1313745
+Missao Impossivel 4 Protocolo Fantasma (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1301535
+Missao Impossivel 6 - Efeito Fallout (2018)	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,6:1313634
+Missao Impossivel Acerto de Contas Parte 1 (2023)	dub=https://embedplayer2.xyz/cdn/hls/4d544273f43bc00caa55fbc335b8a305/master.txt,6:1302586	leg=6:1302585
+Missao Impossivel Fallout	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,2:22511,8:22511
+Missao Impossivel O Acerto Final (2025)	dub=https://embedplayer2.xyz/cdn/hls/aa7d7f26ab6f420a6666cbacd4be8994/master.txt,6:1313746	leg=6:1313745
 Missao Improvavel (2025)	dub=6:1501007
-Missao Pet (2025)	dub=6:1314131
+Missao Pet (2025)	dub=https://embedplayer2.xyz/cdn/hls/bd415f5f2b6ef69c8f3771ae397ff9a5/master.txt,6:1314131
 Missao Quase Impossivel	dub=2:97189,8:97189
 Missao Quase Impossivel (2010)	dub=6:1298196
-Missao Refugio (2026)	dub=6:1314545	leg=6:1314544
+Missao Refugio (2026)	dub=https://embedplayer2.xyz/cdn/hls/fa046da085b2f37fc89f947451f6eac4/master.txt,6:1314545	leg=6:1314544
 Missao Resgate: Vingança (2025)	dub=6:1313794	leg=6:1313793
 Missao Russia	dub=2:166222,8:166222	leg=2:166218,8:166218
 Missao Suicida (2024)	dub=6:1311823	leg=6:1311822
 Missao de Honra (2018)	dub=6:1297477
-Missao de Sobrevivencia (2023)	dub=6:1302438
-Missao: Impossivel (1996)	dub=6:1298036,6:1301532
-Missao: Impossivel 2 (2000)	dub=6:1298037,6:1301533
-Missao: Impossivel 3 (2006)	dub=6:1298038,6:1301534
-Missao: Impossivel 4 (2011)	dub=6:1298039
-Missao: Impossivel 5 (2015)	dub=6:1298040
-Missao: Impossivel 6 (2018)	dub=6:1298041
+Missao de Sobrevivencia (2023)	dub=https://embedplayer2.xyz/cdn/hls/7c9c544289b0ef3ab5726c35f9c091d6/master.txt,6:1302438
+Missao: Impossivel (1996)	dub=https://embedplayer2.xyz/cdn/hls/52e0d32f184f90d358d3db5d4ba9a428/master.txt,6:1298036,6:1301532
+Missao: Impossivel 2 (2000)	dub=https://embedplayer2.xyz/cdn/hls/41832b66a030bfd87048a68759d3d236/master.txt,6:1298037,6:1301533
+Missao: Impossivel 3 (2006)	dub=https://embedplayer2.xyz/cdn/hls/448bc592c927bd8c738e044c1a5ebca2/master.txt,6:1298038,6:1301534
+Missao: Impossivel 4 (2011)	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,6:1298039
+Missao: Impossivel 5 (2015)	dub=https://embedplayer2.xyz/cdn/hls/47aecd75be404fc9b609146f386ee2ef/master.txt,6:1298040
+Missao: Impossivel 6 (2018)	dub=https://embedplayer2.xyz/cdn/hls/845903d9e2d311850c20532821df21e2/master.txt,6:1298041
 Missao: Marte (2000)	dub=6:1299713
 Mission Blue (2014)	dub=6:1313170
 Mississipi em Chamas	dub=2:43840,8:43840
 Mississipi em Chamas (1988)	dub=6:1303009
-Missão Antena: Uma Aventura Intergaláctica	dub=2:298475,2:285090,8:298475,8:285090	leg=2:298476,8:298476
-Missão Antena: Uma Aventura Intergaláctica (2022)	dub=6:1312598
-Missão Ataque	dub=2:305639,8:305639	leg=2:305640,8:305640
-Missão Ataque (2022)	dub=6:1312960
+Missão Antena: Uma Aventura Intergaláctica	dub=https://embedplayer2.xyz/cdn/hls/22d2763f037182b643a8e8db1ef2d543/master.txt,2:298475,2:285090,8:298475,8:285090	leg=2:298476,8:298476
+Missão Antena: Uma Aventura Intergaláctica (2022)	dub=https://embedplayer2.xyz/cdn/hls/22d2763f037182b643a8e8db1ef2d543/master.txt,6:1312598
+Missão Ataque	dub=https://embedplayer2.xyz/cdn/hls/4095dfa4857af59411f08cf771421673/master.txt,2:305639,8:305639	leg=2:305640,8:305640
+Missão Ataque (2022)	dub=https://embedplayer2.xyz/cdn/hls/4095dfa4857af59411f08cf771421673/master.txt,6:1312960
 Missão Baile de Natal	dub=2:185253,8:185253	leg=2:185252,8:185252
 Missão Clandestina	dub=2:212944,8:212944	leg=2:212943,8:212943
 Missão Condor	dub=2:230876,8:230876	leg=2:230867,8:230867
-Missão Cruzada	dub=2:279210,8:279210	leg=2:279211,8:279211
-Missão Cruzada (2024)	dub=6:1311838	leg=6:1311837
+Missão Cruzada	dub=https://embedplayer2.xyz/cdn/hls/7e26c917e81a27bc7cbd8080057f9021/master.txt,2:279210,8:279210	leg=2:279211,8:279211
+Missão Cruzada (2024)	dub=https://embedplayer2.xyz/cdn/hls/7e26c917e81a27bc7cbd8080057f9021/master.txt,6:1311838	leg=6:1311837
 Missão Cupido	dub=2:203901,8:203901
 Missão Despedida de Solteira	dub=2:210533,8:210533	leg=2:210534,8:210534
 Missão Despedida de Solteira (2021)	dub=6:1311188	leg=6:1311189
 Missão Dragão - Sua História	dub=2:40572,8:40572
 Missão Especial	dub=2:347151,8:347151	leg=2:347150,8:347150
 Missão Extraordinária (2017)	dub=6:1307752
-Missão Extrema	dub=2:309739,8:309739	leg=2:309740,8:309740
+Missão Extrema	dub=https://embedplayer2.xyz/cdn/hls/7b59db4f22a1db371897bf9eb666d692/master.txt,2:309739,8:309739	leg=2:309740,8:309740
 Missão Final (2018)	dub=6:1308244
-Missão Impossível 5 Nacao Secreta (2015)	dub=6:1301536
-Missão Madrinha de Casamento (2011)	dub=6:1301092
+Missão Impossível 5 Nacao Secreta (2015)	dub=https://embedplayer2.xyz/cdn/hls/47aecd75be404fc9b609146f386ee2ef/master.txt,6:1301536
+Missão Madrinha de Casamento (2011)	dub=https://embedplayer2.xyz/cdn/hls/ecdacc0f0e140859e8aea9691b219b52/master.txt,6:1301092
 Missão Majnu	dub=8:392775,8:391158	leg=8:391157
 Missão Para Salvar o Mundo	leg=2:284332,8:284332
 Missão Para Salvar o Mundo (2023)	leg=6:1312000
-Missão Pet	dub=2:361364,2:356861,8:361364,8:356861	leg=2:361363,2:356860,8:361363,8:356860
+Missão Pet	dub=https://embedplayer2.xyz/cdn/hls/bd415f5f2b6ef69c8f3771ae397ff9a5/master.txt,2:361364,2:356861,8:361364,8:356861	leg=2:361363,2:356860,8:361363,8:356860
 Missão Pijamas	dub=2:68455,8:68455
 Missão Pijamas (2020)	dub=6:1308601
-Missão Porto Seguro	dub=2:305582,8:305582,2:301995,8:301995	leg=2:301996,8:301996
-Missão Porto Seguro (2025)	dub=6:1312918
+Missão Porto Seguro	dub=https://embedplayer2.xyz/cdn/hls/fc029ffd51f4dff67aa0e6e18d003167/master.txt,2:305582,8:305582,2:301995,8:301995	leg=2:301996,8:301996
+Missão Porto Seguro (2025)	dub=https://embedplayer2.xyz/cdn/hls/fc029ffd51f4dff67aa0e6e18d003167/master.txt,6:1312918
 Missão Presente de Natal	dub=2:193269,8:193269,2:85161,8:85161
 Missão Presente de Natal (2020)	dub=6:1306358
-Missão Refúgio	dub=2:380677,2:376608,8:380677,8:376608,2:376528,8:376528	leg=2:376527,2:367832,8:376527,8:367832
-Missão Resgate	dub=2:149407,8:149407	leg=2:149411,8:149411
-Missão Resgate (2021)	dub=6:1306122	leg=6:1306123
+Missão Refúgio	dub=https://embedplayer2.xyz/cdn/hls/fa046da085b2f37fc89f947451f6eac4/master.txt,2:380677,2:376608,8:380677,8:376608,2:376528,8:376528	leg=2:376527,2:367832,8:376527,8:367832
+Missão Resgate	dub=https://embedplayer2.xyz/cdn/hls/7825ed73edb96ef943a89d11f37a3b54/master.txt,2:149407,8:149407	leg=2:149411,8:149411
+Missão Resgate (2021)	dub=https://embedplayer2.xyz/cdn/hls/7825ed73edb96ef943a89d11f37a3b54/master.txt,6:1306122	leg=6:1306123
 Missão Resgate 2: Vingança	leg=2:330512,8:330512
 Missão Resgate: Vingança	dub=2:343130,8:343130	leg=2:343129,8:343129
 Missão Suicida	dub=2:279177,8:279177	leg=2:279178,8:279178
 Missão Titã	dub=2:338308,8:338308	leg=2:338307,8:338307
 Missão Titã (2024)	dub=6:1313712
 Missão de Honra	dub=2:33572,8:33572
-Missão de Sobrevivência	dub=2:215061,8:215061,2:215063,8:215063	leg=2:215062,8:215062
+Missão de Sobrevivência	dub=https://embedplayer2.xyz/cdn/hls/7c9c544289b0ef3ab5726c35f9c091d6/master.txt,2:215061,8:215061,2:215063,8:215063	leg=2:215062,8:215062
 Missão no Mar Vermelho	dub=2:26686,8:26686
 Missão no Mar Vermelho (2019)	dub=6:1307840
 Missão: Impossível	dub=2:108232,8:108232
-Missão: Impossível - Acerto de Contas Parte 1	dub=2:219168,2:219165,8:219168,8:219165,2:219162,8:219162	leg=2:219163,8:219163
+Missão: Impossível - Acerto de Contas Parte 1	dub=https://embedplayer2.xyz/cdn/hls/4d544273f43bc00caa55fbc335b8a305/master.txt,2:219168,2:219165,8:219168,8:219165,2:219162,8:219162	leg=2:219163,8:219163
 Missão: Impossível - Efeito Fallout	dub=2:108237,8:108237
-Missão: Impossível - Nação Secreta	dub=2:108236,8:108236
-Missão: Impossível - O Acerto Final	dub=2:340244,8:340244,2:340153,8:340153	leg=2:340152,8:340152
-Missão: Impossível - Protocolo Fantasma	dub=2:108235,8:108235
-Missão: Impossível 2	dub=2:108233,8:108233
-Missão: Impossível 3	dub=2:108234,8:108234
+Missão: Impossível - Nação Secreta	dub=https://embedplayer2.xyz/cdn/hls/47aecd75be404fc9b609146f386ee2ef/master.txt,2:108236,8:108236
+Missão: Impossível - O Acerto Final	dub=https://embedplayer2.xyz/cdn/hls/aa7d7f26ab6f420a6666cbacd4be8994/master.txt,2:340244,8:340244,2:340153,8:340153	leg=2:340152,8:340152
+Missão: Impossível - Protocolo Fantasma	dub=https://embedplayer2.xyz/cdn/hls/88964d887de48c1a1e4a395d6988026f/master.txt,2:108235,8:108235
+Missão: Impossível 2	dub=https://embedplayer2.xyz/cdn/hls/41832b66a030bfd87048a68759d3d236/master.txt,2:108233,8:108233
+Missão: Impossível 3	dub=https://embedplayer2.xyz/cdn/hls/448bc592c927bd8c738e044c1a5ebca2/master.txt,2:108234,8:108234
 Missão: Pandora	dub=2:349000,8:349000	leg=2:348999,8:348999
 Misterio das Palavras Cruzadas: Enigma Mortal (2021)	dub=6:1299502
-Misterio em Alto Mar (2023)	dub=6:1301684
+Misterio em Alto Mar (2023)	dub=https://embedplayer2.xyz/cdn/hls/343e1a42339d69d50ecf53ef4ed161dc/master.txt,6:1301684
 Misterio em Paris (2023)	dub=6:1301066
 Misterio na TV: O Preco de Uma Amizade (2019)	dub=6:1298525
 Misterio na TV: Um Assassinato em Questao (2019)	dub=6:1298526
 Misterio no Artico (2023)	dub=6:1303835
 Misterio no Mediterraneo (2019)	dub=6:1301051
-Misterios da Carne (2005)	leg=6:1314290
+Misterios da Carne (2005)	dub=https://embedplayer2.xyz/cdn/hls/1b8d1d6129e908eddde5cf8094e75f36/master.txt	leg=6:1314290
 Misterios de Amor Um Romance Fatal (2020)	dub=6:1302770
 Misty – A História De Erroll Garner	leg=2:353483,8:353483
 Mistério da Rua 7	dub=2:377240,8:377240	leg=2:377239,8:377239
@@ -1606,7 +1606,7 @@ Mistério da Terra dos Doces (2022)	dub=6:1305803	leg=6:1305804
 Mistério das Palavras Cruzadas: A Queda Fatal	dub=2:157439,8:157439	leg=2:157442,8:157442
 Mistério das Palavras Cruzadas: A Queda Fatal (2021)	dub=6:1306487	leg=6:1306488
 Mistério das Palavras Cruzadas: Enigma Mortal	dub=2:162384,2:162383,8:162384,8:162383
-Mistério em Alto Mar	dub=2:203310,8:203310	leg=2:203309,8:203309
+Mistério em Alto Mar	dub=https://embedplayer2.xyz/cdn/hls/343e1a42339d69d50ecf53ef4ed161dc/master.txt,2:203310,8:203310	leg=2:203309,8:203309
 Mistério em Paris	dub=2:190640,8:190640	leg=2:190647,8:190647
 Mistério em Paris {Hybrid]	dub=2:190973,8:190973
 Mistério na TV: Um Assassinato em Questão	dub=2:144397,8:144397	leg=2:144386,8:144386
@@ -1624,18 +1624,18 @@ Mistérios de Amor: Um Romance Fatal	dub=8:390189	leg=8:390188
 Mistérios de Lisboa	dub=2:105251,8:105251
 Mistérios de Lisboa (2010)	dub=6:1308364
 Mistérios do Universo (2019)	dub=6:1304455	leg=6:1304456
-Mixed by Erry	dub=2:196751,8:196751	leg=2:196752,8:196752
-Mixed by Erry (2023)	dub=6:1305300	leg=6:1305301
+Mixed by Erry	dub=https://embedplayer2.xyz/cdn/hls/0df220b3b1f34706f7253d1c0e984e89/master.txt,2:196751,8:196751	leg=2:196752,8:196752
+Mixed by Erry (2023)	dub=https://embedplayer2.xyz/cdn/hls/0df220b3b1f34706f7253d1c0e984e89/master.txt,6:1305300	leg=6:1305301
 Miyamoto Musashi e os 400 Samurais	dub=2:230143,8:230143	leg=2:230136,8:230136
 Miyamoto Musashi e os 400 Samurais (2020)	dub=6:1310957	leg=6:1310958
-Miúcha, a Voz da Bossa Nova	dub=2:247318,8:247318
-Miúcha, a Voz da Bossa Nova (2022)	dub=6:1309218
+Miúcha, a Voz da Bossa Nova	dub=https://embedplayer2.xyz/cdn/hls/0a0694e14e6a519d10ba3397d145b7af/master.txt,2:247318,8:247318
+Miúcha, a Voz da Bossa Nova (2022)	dub=https://embedplayer2.xyz/cdn/hls/0a0694e14e6a519d10ba3397d145b7af/master.txt,6:1309218
 Mo Amer: Wild World	leg=2:350378,8:350378
 Mo Gilligan: Momentum	dub=2:30415,8:30415
 Mo Gilligan: Momentum (2019)	dub=6:1308630
 Moana	dub=8:389801
-Moana 2	dub=2:315199,8:315199,2:315170,8:315170	leg=2:315171,8:315171
-Moana 2 (2024)	dub=6:1313209	leg=6:1313000
+Moana 2	dub=https://embedplayer2.xyz/cdn/hls/634f8d7506f495ec95b040a18a8b282a/master.txt,2:315199,8:315199,2:315170,8:315170	leg=2:315171,8:315171
+Moana 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/634f8d7506f495ec95b040a18a8b282a/master.txt,6:1313209	leg=6:1313000
 Moana Um Mar de Aventuras	dub=2:20392,8:20392
 Moana: Um Mar de Aventuras (2016)	dub=6:1297314
 Mobile Suit Gundam Hathaway (2021)	dub=6:1308774
@@ -1643,8 +1643,8 @@ Mobile Suit Gundam SEED FREEDOM	leg=2:285091,8:285091
 Mobile Suit Gundam: Hathaway	dub=2:112426,8:395693,8:112426
 Mod Squad - O Filme	dub=2:138876,8:138876
 Mod Squad - O Filme (1999)	dub=6:1304302
-Model House A Morte Segue Voce (2024)	dub=6:1314207
-Model House: A Morte Segue Você	dub=2:359297,8:359297	leg=2:359296,8:359296
+Model House A Morte Segue Voce (2024)	dub=https://embedplayer2.xyz/cdn/hls/ca306d885c7ef913886494649a1f5a44/master.txt,6:1314207
+Model House: A Morte Segue Você	dub=https://embedplayer2.xyz/cdn/hls/ca306d885c7ef913886494649a1f5a44/master.txt,2:359297,8:359297	leg=2:359296,8:359296
 Modest Heroes	dub=2:29555,8:29555
 Modo Avião	dub=2:41560,8:41560,2:33577,8:33577
 Modo Avião (2020)	dub=6:1308682
@@ -1690,12 +1690,12 @@ Monos	leg=2:34192,8:34192
 Monos: Entre o Céu e o Inferno (2019)	leg=6:1307649
 Monsieur Aznavour	leg=2:347680,8:347680
 Monsieur Verdoux (1947)	leg=6:1301877
-Monster	dub=2:336139,8:336139	leg=2:336138,2:251178,8:336138,8:251178
-Monster (2023)	leg=6:1309311
+Monster	dub=https://embedplayer2.xyz/cdn/hls/0269b2fc1530ef927bad2996383ec115/master.txt,2:336139,8:336139	leg=2:336138,2:251178,8:336138,8:251178
+Monster (2023)	dub=https://embedplayer2.xyz/cdn/hls/0269b2fc1530ef927bad2996383ec115/master.txt	leg=6:1309311
 Monster Desejo Assassino (2003)	dub=6:1302351
 Monster High 13 Monster Desejos (2013)	dub=6:1314519
-Monster High 2	dub=2:223090,8:223090,2:223110,8:223110	leg=2:223095,8:223095
-Monster High 2 (2023)	dub=6:1302670
+Monster High 2	dub=https://embedplayer2.xyz/cdn/hls/8c760f6e6fd8ccb8e3a5e72be5830a82/master.txt,2:223090,8:223090,2:223110,8:223110	leg=2:223095,8:223095
+Monster High 2 (2023)	dub=https://embedplayer2.xyz/cdn/hls/8c760f6e6fd8ccb8e3a5e72be5830a82/master.txt,6:1302670
 Monster High A Assustadora Barreira de Coral (2016)	dub=6:1314518
 Monster High Assombrada (2015)	dub=6:1314515
 Monster High Choque de Cultura Presas x Pelos (2011)	dub=6:1314514
@@ -1711,8 +1711,8 @@ Monster High: Bem-Vindos a Monster High	dub=2:161498,8:161498
 Monster High: Bem-Vindos a Monster High (2016)	dub=6:1305679
 Monster High: Monster Fusion	dub=2:333281,8:333281
 Monster High: Monster Fusion (2014)	dub=6:1313644
-Monster High: O Filme	dub=2:176801,8:176801	leg=2:176800,8:176800
-Monster High: O Filme (2022)	dub=6:1300201
+Monster High: O Filme	dub=https://embedplayer2.xyz/cdn/hls/e80310c30274f0e38fa1075dd5c2f29b/master.txt,2:176801,8:176801	leg=2:176800,8:176800
+Monster High: O Filme (2022)	dub=https://embedplayer2.xyz/cdn/hls/e80310c30274f0e38fa1075dd5c2f29b/master.txt,6:1300201
 Monster High: Scaris, a Cidade Sem Luz	dub=2:286868,8:286868
 Monster Hunter	dub=2:99890,8:99890,2:99891,8:99891	leg=2:95915,8:95915
 Monster Hunter (2020)	dub=6:1298331	leg=6:1298279
@@ -1721,31 +1721,31 @@ Monster Hunter: Legends of the Guild (2021)	dub=6:1311385
 Monster Hunters	leg=2:68457,8:68457
 Monster Hunters (2020)	leg=6:1308863
 Monster Trucks	dub=2:27542,8:27542
-Monster Trucks (2016)	dub=6:1300202
+Monster Trucks (2016)	dub=https://embedplayer2.xyz/cdn/hls/1788652c5c6bac2fed74644a604d96e3/master.txt,6:1300202
 Monster: Desejo Assassino	dub=2:380476,8:380476	leg=2:380475,8:380475
 Monsters Of Man	leg=2:89583,8:89583
 Monsterville: O Armário das Almas	dub=2:131018,2:94731,8:131018,8:94731
 Monsterville: O Armário das Almas (2015)	dub=6:1304400
-Monstro	dub=2:292304,2:105065,8:292304,8:105065	leg=2:292305,8:292305
+Monstro	dub=https://embedplayer2.xyz/cdn/hls/0269b2fc1530ef927bad2996383ec115/master.txt,2:292304,2:105065,8:292304,8:105065	leg=2:292305,8:292305
 Monstro (2021)	dub=6:1307946
 Monstro Robô - Meu Melhor Amigo	dub=2:194534,8:194534	leg=2:194533,8:194533
 Monstro Robô - Meu Melhor Amigo (2018)	dub=6:1305873	leg=6:1305874
-Monstro a Bordo	dub=2:375948,8:375948	leg=2:375947,8:375947
+Monstro a Bordo	dub=https://embedplayer2.xyz/cdn/hls/7d097867d0cef74577ceaf1636e51112/master.txt,2:375948,8:375948	leg=2:375947,8:375947
 Monstros S.A	dub=2:20393,8:20393
-Monstros SA (2001)	dub=6:1301556
-Monstros da Califórnia	dub=2:376723,8:376723	leg=2:376722,8:376722
+Monstros SA (2001)	dub=https://embedplayer2.xyz/cdn/hls/1cbde71093b0169b0bc13e9113ed753e/master.txt,6:1301556
+Monstros da Califórnia	dub=https://embedplayer2.xyz/cdn/hls/79fb16442424ea0a1373ed83a9c42dc1/master.txt,2:376723,8:376723	leg=2:376722,8:376722
 Monstros do Homem	dub=2:197134,8:197134,2:196733,8:196733	leg=2:196731,8:196731
 Monstros do Homem (2020)	dub=6:1305212	leg=6:1305213
-Monstros vs Alienigenas (2009)	dub=6:1300022
+Monstros vs Alienigenas (2009)	dub=https://embedplayer2.xyz/cdn/hls/236cef34db58ddeffd2aa84c698b5e4e/master.txt,6:1300022
 Monstros vs Alienígenas	dub=2:152009,8:152009
 Montado na Bala	dub=2:311855,8:311855	leg=2:311856,8:311856
 Monte Carlo	dub=2:374297,8:374297	leg=2:374296,8:374296
 Monte Carlo (2011)	dub=6:1299714
-Monty Python em Busca do Calice Sagrado (1975)	dub=6:1314030
-Moonfall: Ameaca Lunar (2022)	dub=6:1299384
-Moonfall: Ameaça Lunar	dub=2:156707,8:156707	leg=2:156702,8:156702
-Moonlight: Sob a Luz do Luar	dub=2:328241,8:328241	leg=2:328240,8:328240
-Moonlight: Sob a Luz do Luar (2016)	dub=6:1298120
+Monty Python em Busca do Calice Sagrado (1975)	dub=https://embedplayer2.xyz/cdn/hls/a59e4e000bc04512c955f0dbba56150a/master.txt,6:1314030
+Moonfall: Ameaca Lunar (2022)	dub=https://embedplayer2.xyz/cdn/hls/aed601ba6d31f60331456c3e894498f6/master.txt,6:1299384
+Moonfall: Ameaça Lunar	dub=https://embedplayer2.xyz/cdn/hls/aed601ba6d31f60331456c3e894498f6/master.txt,2:156707,8:156707	leg=2:156702,8:156702
+Moonlight: Sob a Luz do Luar	dub=https://embedplayer2.xyz/cdn/hls/2f01b77f205d3678daafee29fd366f93/master.txt,2:328241,8:328241	leg=2:328240,8:328240
+Moonlight: Sob a Luz do Luar (2016)	dub=https://embedplayer2.xyz/cdn/hls/2f01b77f205d3678daafee29fd366f93/master.txt,6:1298120
 Moonrise Kingdom (2012)	dub=6:1301282
 Moonwalker	dub=2:318574,2:184559,8:318574,8:184559
 Moonwalker (1988)	dub=6:1305580
@@ -1766,19 +1766,19 @@ Morgan: A Evolução	dub=2:318555,2:141508,8:318555,8:141508	leg=2:318556,8:3185
 Morituri (1965)	dub=6:1300111
 Mormaco (2018)	dub=6:1297474
 Mormaço	dub=8:394526
-Morra Amor (2025)	dub=6:1314180	leg=6:1314179
-Morra, Amor	dub=2:358130,8:358130,2:358132,8:358132	leg=2:358131,2:356885,8:358131,8:356885
+Morra Amor (2025)	dub=https://embedplayer2.xyz/cdn/hls/be5832781b8350e4b6ed905a10a2556a/master.txt,https://embedplayer2.xyz/cdn/hls/54d3672e7a4d0d0fc3910d2e09858ed3/master.txt,6:1314180	leg=6:1314179
+Morra, Amor	dub=https://embedplayer2.xyz/cdn/hls/be5832781b8350e4b6ed905a10a2556a/master.txt,https://embedplayer2.xyz/cdn/hls/54d3672e7a4d0d0fc3910d2e09858ed3/master.txt,2:358130,8:358130,2:358132,8:358132	leg=2:358131,2:356885,8:358131,8:356885
 Morrer Mil Vezes	dub=2:309537,2:128563,8:309537,8:128563
 Morrer Mil Vezes (1986)	dub=6:1305037
 Morrison (2024)	leg=6:1312156
 Mortal	dub=2:98359,8:98359	leg=2:85115,8:85115
 Mortal (2020)	dub=6:1298560	leg=6:1298561
-Mortal Kombat	dub=2:111610,2:111551,8:111610,8:111551,2:111550,8:111550	leg=2:103984,8:103984
+Mortal Kombat	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt,2:111610,2:111551,8:111610,8:111551,2:111550,8:111550	leg=2:103984,8:103984
 Mortal Kombat (1995)	dub=6:1311574
-Mortal Kombat (2021)	dub=6:1298557	leg=6:1298397
+Mortal Kombat (2021)	dub=https://embedplayer2.xyz/cdn/hls/0b25919b781615f129f6ebcc6f19633c/master.txt,6:1298557	leg=6:1298397
 Mortal Kombat 1	dub=2:20112,8:20112
-Mortal Kombat 2	dub=2:382494,2:382418,8:382494,8:382418,2:381986,8:381986	leg=2:381985,8:381985
-Mortal Kombat 2 (2026)	dub=6:1314625	leg=6:1314624
+Mortal Kombat 2	dub=https://embedplayer2.xyz/cdn/hls/07e6ea58e9071376b859022fbfc6e2a0/master.txt,2:382494,2:382418,8:382494,8:382418,2:381986,8:381986	leg=2:381985,8:381985
+Mortal Kombat 2 (2026)	dub=https://embedplayer2.xyz/cdn/hls/07e6ea58e9071376b859022fbfc6e2a0/master.txt,6:1314625	leg=6:1314624
 Mortal Kombat A Aniquilacao (1997)	dub=6:1302386
 Mortal Kombat Legends Cage Bom de Briga (2023)	dub=6:1302737
 Mortal Kombat Legends Cegueira Glacial (2022)	dub=6:1301629
@@ -1794,21 +1794,21 @@ Mortal Kombat: A Aniquilação	dub=2:338629,8:338629
 Mortdecai: A Arte da Trapaça	dub=2:347153,8:347153	leg=2:347152,8:347152
 Morte Abaixo de Zero	dub=2:200992,8:200992	leg=2:200991,8:200991
 Morte Abaixo de Zero (2018)	dub=6:1301326
-Morte Antes do Casamento	dub=2:310403,8:310403	leg=2:310404,8:310404
+Morte Antes do Casamento	dub=https://embedplayer2.xyz/cdn/hls/2b00fa89e8ecf7330787b4a2d4035574/master.txt,2:310403,8:310403	leg=2:310404,8:310404
 Morte Antes do Casamento (2025)	dub=6:1313038
 Morte Imediata (2017)	dub=6:1303483
 Morte Instantanea (2019)	dub=6:1314212
 Morte Instantânea	dub=2:134006,8:391864,8:134006	leg=2:134007,8:391863,8:134007
 Morte Morte Morte (2022)	dub=6:1300670	leg=6:1300193
-Morte Subita (1995)	dub=6:1301942
+Morte Subita (1995)	dub=https://embedplayer2.xyz/cdn/hls/2ffb96f431aa7dddb72fb2363e9fb0c2/master.txt,6:1301942
 Morte Súbita	dub=2:382564,2:223813,8:382564,8:223813	leg=2:382563,2:375052,8:382563,8:375052
 Morte a Pinochet	dub=2:226078,8:226078	leg=2:226069,8:226069
 Morte a Pinochet (2020)	dub=6:1311053	leg=6:1311054
 Morte ao Biquíni!	leg=8:394743
 Morte ao Verão	dub=2:161542,2:161524,8:161542,8:161524
 Morte ao Verão (2021)	dub=6:1306098
-Morte de um Operador de TeleMarketing	dub=2:158017,8:158017	leg=2:158015,8:158015
-Morte de um Operador de TeleMarketing (2021)	dub=6:1306349
+Morte de um Operador de TeleMarketing	dub=https://embedplayer2.xyz/cdn/hls/240fbe4abed08aa215d9aa909f0c17de/master.txt,2:158017,8:158017	leg=2:158015,8:158015
+Morte de um Operador de TeleMarketing (2021)	dub=https://embedplayer2.xyz/cdn/hls/240fbe4abed08aa215d9aa909f0c17de/master.txt,6:1306349
 Morte de um Unicórnio	leg=2:333241,8:333241
 Morte e Vida de Um Ativista Político	dub=2:258322,8:258322	leg=2:258323,8:258323
 Morte e Vida de Um Ativista Político (2021)	dub=6:1311449	leg=6:1311450
@@ -1826,29 +1826,29 @@ Morte às Seis da Tarde (2018)	dub=6:1308282
 Morte, Morte, Morte	dub=2:178799,8:178799	leg=2:178849,8:178849
 Morto Não Fala	dub=2:104361,8:104361
 Morto Não Fala (2019)	dub=6:1308077
-Mortos Entre Vivos	dub=2:352965,8:352965	leg=2:352964,8:352964
+Mortos Entre Vivos	dub=https://embedplayer2.xyz/cdn/hls/7e10f99e82202c96b5c569f0f6317cbd/master.txt,2:352965,8:352965	leg=2:352964,8:352964
 Mortos de Fome	dub=2:121038,8:121038
 Mortos de Fome (1999)	dub=6:1309229
 Mortuária	dub=2:382604,8:382604
 Moscas	leg=8:395916
 Moscou Contra 007	dub=2:381951,2:94122,8:381951,8:94122	leg=2:381950,8:381950
 Moscou Contra 007 (1963)	dub=6:1297365
-Moscow - Onde o Inesperado Sempre Acontece	dub=2:136798,8:136798
-Moscow - Onde o Inesperado Sempre Acontece (2021)	dub=6:1304887
+Moscow - Onde o Inesperado Sempre Acontece	dub=https://embedplayer2.xyz/cdn/hls/a46083c015373c79e58b04e90db7a90a/master.txt,2:136798,8:136798
+Moscow - Onde o Inesperado Sempre Acontece (2021)	dub=https://embedplayer2.xyz/cdn/hls/a46083c015373c79e58b04e90db7a90a/master.txt,6:1304887
 Mosley	dub=2:361823,8:361823	leg=2:361822,8:361822
 Mosquitos Assassinos	dub=2:196324,8:196324
 Mosquitos Assassinos (2018)	dub=6:1305129
 Mostra-Me O Pai	dub=2:148623,8:148623	leg=2:148662,8:148662
 Mostra-Me O Pai (2021)	dub=6:1306716	leg=6:1306717
-Mosul	dub=2:88687,8:88687
-Mosul (2019)	dub=6:1308477
+Mosul	dub=https://embedplayer2.xyz/cdn/hls/44bbd609504550cdbd0742a2553e630e/master.txt,2:88687,8:88687
+Mosul (2019)	dub=https://embedplayer2.xyz/cdn/hls/44bbd609504550cdbd0742a2553e630e/master.txt,6:1308477
 Motel Acácia	dub=2:213935,8:213935	leg=2:213936,8:213936
 Motel Acácia (2020)	dub=6:1310820	leg=6:1310821
 Motel Destino	dub=2:288875,8:288875
 Motel Destino (2024)	dub=6:1312601
 Motel Melati	dub=2:309859,8:309859	leg=2:309860,8:309860
 Mother	leg=2:85166,8:85166
-Mother Mary	leg=2:378992,8:378992
+Mother Mary	dub=https://embedplayer2.xyz/cdn/hls/eb5fed4211af8cbc171f2cc29de62bb0/master.txt	leg=2:378992,8:378992
 Mother of Flies	leg=2:365782,8:365782
 Mother's Deadly Son	dub=2:194180,8:194180
 Mother's Deadly Son (2022)	dub=6:1305387
@@ -1867,7 +1867,7 @@ Motståndaren	leg=8:391673
 Moulin Rouge: Amor em Vermelho	dub=2:356266,8:356266	leg=2:356265,8:356265
 Moulin Rouge: Amor em Vermelho (2001)	dub=6:1298434,6:1299715
 Mountainhead	dub=2:327565,8:327565	leg=2:327564,2:324545,8:327564,8:324545
-Mountainhead (2025)	leg=6:1313553
+Mountainhead (2025)	dub=https://embedplayer2.xyz/cdn/hls/1a4b71753a4e1064b19012f1f5d535b2/master.txt	leg=6:1313553
 Mouse	dub=2:194191,8:194191
 Mouse (2022)	dub=6:1305442
 Mouse Trap: A Diversão Agora é Outra	dub=2:339572,8:339572	leg=2:339571,8:339571
@@ -1886,7 +1886,7 @@ Mr Vinganca (2002)	leg=6:1314128
 Mr. Bean - O Filme	dub=2:185622,8:387064,8:185622	leg=8:387063
 Mr. Bean - O Filme (1997)	dub=6:1305577
 Mr. Jones	leg=2:42911,8:42911
-Mr. K	dub=2:349761,8:349761	leg=2:349760,2:322813,8:349760,8:322813
+Mr. K	dub=https://embedplayer2.xyz/cdn/hls/d1160c4520b883090bc9cb53109aa2c7/master.txt,2:349761,8:349761	leg=2:349760,2:322813,8:349760,8:322813
 Mr. Magoo	dub=2:317236,8:317236	leg=2:317237,8:317237
 Mr. Nice Guy: Bom de Briga	dub=2:243254,8:243254
 Mr. Turner	dub=2:30615,8:30615
@@ -1900,13 +1900,13 @@ Mudanca de Habito (1992)	dub=6:1297562
 Mudanca de Habito 1	dub=2:20715,8:20715
 Mudanca de Habito 2	dub=2:20716,8:20716
 Mudanca de Habito 2 (1993)	dub=6:1297563
-Mudança Mortal	dub=2:117532,8:117532	leg=2:117530,8:117530
-Mudança Mortal (2021)	dub=6:1311171	leg=6:1311172
-Mudança no Jogo (2017)	dub=6:1307782
-Mudo	dub=2:21045,8:21045
-Mudo (2018)	dub=6:1310338
-Mufasa: O Rei Leão	dub=2:316847,8:316847,2:316762,8:316762	leg=2:316763,8:316763
-Mufasa: O Rei Leão (2024)	dub=6:1313377	leg=6:1313059
+Mudança Mortal	dub=https://embedplayer2.xyz/cdn/hls/fc6e100cb3b629ea6c0c586fdac37ce2/master.txt,2:117532,8:117532	leg=2:117530,8:117530
+Mudança Mortal (2021)	dub=https://embedplayer2.xyz/cdn/hls/fc6e100cb3b629ea6c0c586fdac37ce2/master.txt,6:1311171	leg=6:1311172
+Mudança no Jogo (2017)	dub=https://embedplayer2.xyz/cdn/hls/c6d46a941bd6b519fa18397b9be3ae67/master.txt,6:1307782
+Mudo	dub=https://embedplayer2.xyz/cdn/hls/ed9c71516711932ab25b4118bb158b6e/master.txt,2:21045,8:21045
+Mudo (2018)	dub=https://embedplayer2.xyz/cdn/hls/ed9c71516711932ab25b4118bb158b6e/master.txt,6:1310338
+Mufasa: O Rei Leão	dub=https://embedplayer2.xyz/cdn/hls/3f7f8372549894d430abf369eece4aa8/master.txt,2:316847,8:316847,2:316762,8:316762	leg=2:316763,8:316763
+Mufasa: O Rei Leão (2024)	dub=https://embedplayer2.xyz/cdn/hls/3f7f8372549894d430abf369eece4aa8/master.txt,6:1313377	leg=6:1313059
 Muita Calma Nessa Hora	dub=2:20718,8:20718
 Muita Calma Nessa Hora (2010)	dub=6:1312322
 Muita Calma Nessa Hora 2	dub=2:20717,8:20717
@@ -1921,7 +1921,7 @@ Muito Barulho por Nada	dub=8:386260	leg=8:386259
 Muito Bem Acompanhada	dub=2:20719,8:20719
 Muito Bem Acompanhada (2005)	dub=6:1297564
 Muito Louca	dub=2:20720,8:20720
-Muito Louca (2018)	dub=6:1310599
+Muito Louca (2018)	dub=https://embedplayer2.xyz/cdn/hls/579ce6f47c96cc91cdbdcf7696bac8f2/master.txt,6:1310599
 Muito Mais que o Esperado	dub=2:252897,8:252897	leg=2:252898,8:252898
 Muito Mais que o Esperado (2021)	dub=6:1303242
 Muito Perto para o Natal	dub=2:111594,8:111594
@@ -1930,9 +1930,9 @@ Muito Ralph: Vida e Obra de Ralph Lauren	dub=2:31929,8:31929
 Muito Ralph: Vida e Obra de Ralph Lauren (2019)	dub=6:1308576
 Mula sa Buwan	dub=2:194211,8:194211
 Mula sa Buwan (2023)	dub=6:1309422
-Mulan	dub=2:72650,8:72650,2:71079,8:71079
+Mulan	dub=https://embedplayer2.xyz/cdn/hls/40eb1e2916a3e06fd12dd975c4662fdf/master.txt,2:72650,8:72650,2:71079,8:71079
 Mulan (1998)	dub=6:1297566
-Mulan (2020)	dub=6:1297961
+Mulan (2020)	dub=https://embedplayer2.xyz/cdn/hls/40eb1e2916a3e06fd12dd975c4662fdf/master.txt,6:1297961
 Mulan 1	dub=2:20394,8:20394
 Mulan 2	dub=2:20395,8:20395
 Mulan 2: A Lenda Continua (2004)	dub=6:1297565
@@ -1944,8 +1944,8 @@ Mulher Até O Fim	dub=8:383348
 Mulher Gato	dub=2:20116,8:20116
 Mulher Maravilha (2017)	dub=6:1313300	leg=6:1313299
 Mulher Objeto	dub=2:309872,8:309872
-Mulher Oceano	dub=2:281469,8:281469	leg=2:281470,8:281470
-Mulher Proibida	dub=2:370149,2:368225,8:370149,8:368225	leg=2:370148,2:368224,8:370148,8:368224
+Mulher Oceano	dub=https://embedplayer2.xyz/cdn/hls/72ee8fd96abc484acfbd5d4a364648bb/master.txt,2:281469,8:281469	leg=2:281470,8:281470
+Mulher Proibida	dub=https://embedplayer2.xyz/cdn/hls/ffcba39fbc0cda337def8a8e976945ec/master.txt,2:370149,2:368225,8:370149,8:368225	leg=2:370148,2:368224,8:370148,8:368224
 Mulher Solteira Procura	dub=2:328984,8:328984	leg=2:328983,8:328983
 Mulher Valente (2023)	leg=6:1313618
 Mulher-Gato (2004)	dub=6:1297981
@@ -1955,8 +1955,8 @@ Mulher-Maravilha	dub=2:22512,8:22512,2:379472,2:350926,2:100001,2:20117,8:379472
 Mulher-Maravilha (1984)	dub=2:93485,8:93485,2:297828,2:98637,6:1313310,8:297828,8:98637	leg=6:1313309
 Mulher-Maravilha - Linhagem de Sangue	dub=2:68458,2:30416,8:68458,8:30416
 Mulher-Maravilha - Linhagem de Sangue (2019)	dub=6:1298795
-Mulher?	dub=2:198189,8:198189	leg=2:198188,8:198188
-Mulher? (2022)	dub=6:1301515
+Mulher?	dub=https://embedplayer2.xyz/cdn/hls/649d4c383cc9ed2639af80df1d3b1355/master.txt,2:198189,8:198189	leg=2:198188,8:198188
+Mulher? (2022)	dub=https://embedplayer2.xyz/cdn/hls/649d4c383cc9ed2639af80df1d3b1355/master.txt,6:1301515
 Mulheres Alteradas	dub=8:390274
 Mulheres Alteradas (2018)	dub=6:1303051
 Mulheres Armadas, Homens na Lata (2019)	leg=6:1308344
@@ -1977,8 +1977,8 @@ Multiverso - Realidade Paralela	dub=2:333283,8:396214,8:333283	leg=2:333282,8:39
 Mumbai Saga	leg=2:129544,8:129544
 Mumbai Saga (2021)	leg=6:1304563
 Mundo Cão	dub=2:382467,2:252899,8:382467,8:252899	leg=2:252900,8:252900
-Mundo Cão (2021)	dub=6:1311099	leg=6:1311100
-Mundo Duplo (2020)	leg=6:1308544
+Mundo Cão (2021)	dub=https://embedplayer2.xyz/cdn/hls/58c7ef7c1753959063aa39128fcb343d/master.txt,6:1311099	leg=6:1311100
+Mundo Duplo (2020)	dub=https://embedplayer2.xyz/cdn/hls/94922bbe89810632e92ca91775f7d6b4/master.txt	leg=6:1308544
 Mundo Escondido	dub=2:297451,8:297451
 Mundo Estranho	dub=2:184017,8:184017,2:182634,8:182634	leg=2:182633,8:182633
 Mundo Estranho (2022)	dub=6:1300926
@@ -1986,21 +1986,21 @@ Mundo Futuro: Ano 2003, Operação Terra	dub=2:315682,8:315682	leg=2:317685,2:31
 Mundo Novo	dub=2:382993,8:382993
 Mundo Proibido (1992)	dub=6:1314589
 Mundo Sombrio: Equilibrium	dub=2:374299,8:374299	leg=2:374298,8:374298
-Mundo em Caos	dub=2:115507,8:115507,2:115504,8:115504
-Mundo em Caos (2021)	dub=6:1298665
-Mundo em Chamas	dub=2:313600,8:313600	leg=2:313601,8:313601
+Mundo em Caos	dub=https://embedplayer2.xyz/cdn/hls/8413f0e83eb63176d763999dd17a1616/master.txt,2:115507,8:115507,2:115504,8:115504
+Mundo em Caos (2021)	dub=https://embedplayer2.xyz/cdn/hls/8413f0e83eb63176d763999dd17a1616/master.txt,6:1298665
+Mundo em Chamas	dub=https://embedplayer2.xyz/cdn/hls/62c196b20a354744d853d82bd3834b2a/master.txt,2:313600,8:313600	leg=2:313601,8:313601
 Mundos Opostos (2012)	dub=6:1314309
 Mundos Paralelos	dub=2:146836,8:146836	leg=2:146835,8:146835
 Mundos Paralelos (2019)	dub=6:1299173
 Munique: No Limite da Guerra	dub=2:148663,8:148663	leg=2:148664,8:148664
 Munique: No Limite da Guerra (2021)	dub=6:1299205
 Muppets 2: Procurados e Amados	dub=2:350998,8:350998	leg=2:350997,8:350997
-Muppets Haunted Mansion: A Festa Aterrorizante	dub=2:133028,8:133028	leg=2:133020,8:133020
-Muppets Haunted Mansion: A Festa Aterrorizante (2021)	dub=6:1299609
+Muppets Haunted Mansion: A Festa Aterrorizante	dub=https://embedplayer2.xyz/cdn/hls/f6f0391b210fbae82843cd24eeaeb9fe/master.txt,2:133028,8:133028	leg=2:133020,8:133020
+Muppets Haunted Mansion: A Festa Aterrorizante (2021)	dub=https://embedplayer2.xyz/cdn/hls/f6f0391b210fbae82843cd24eeaeb9fe/master.txt,6:1299609
 Muppets do Espaço	dub=2:351000,8:351000	leg=2:350999,8:350999
 Muppets do Espaço (1999)	dub=6:1309225
 Muppets: O Filme	dub=2:351002,2:329663,8:351002,8:329663	leg=2:351001,2:329662,8:351001,8:329662
-Murder in Monaco	dub=2:357801,8:357801	leg=2:357800,8:357800
+Murder in Monaco	dub=https://embedplayer2.xyz/cdn/hls/a89ac0298be2d7bbaee44764725c70c8/master.txt,2:357801,8:357801	leg=2:357800,8:357800
 Murder in the Dark	leg=2:378241,8:378241
 Murilo Couto	dub=2:92560,8:92560
 Murilo Couto: Leso	dub=2:199754,8:199754
@@ -2014,18 +2014,18 @@ Musica (2024)	dub=6:1303314	leg=6:1303313
 Musica Amigos e Festa (2015)	dub=6:1300796
 Musica Para Morrer de Amor (2019)	dub=6:1301353
 Mussum - Um Filme do Cacildis	dub=2:28686,8:28686
-Mussum O Filmis (2023)	dub=6:1302998
+Mussum O Filmis (2023)	dub=https://embedplayer2.xyz/cdn/hls/002774959925659e9907b7c79248ac30/master.txt,6:1302998
 Mussum: O Filmis	dub=2:233482,8:233482
 Mussum: Um Filme do Cacildis (2019)	dub=6:1308317
 Mutano: Lobo Solitário	dub=2:309931,8:309931	leg=2:309932,8:309932
-Mutação	dub=2:254854,8:254854	leg=2:254855,8:254855
-Mutação (2021)	dub=6:1310947	leg=6:1310948
-Muti Crime e Poder (2023)	dub=6:1302890
-Muti: Crime e Poder	dub=2:219661,8:219661	leg=2:219662,8:219662
+Mutação	dub=https://embedplayer2.xyz/cdn/hls/57345a66444f04398e96482550000956/master.txt,2:254854,8:254854	leg=2:254855,8:254855
+Mutação (2021)	dub=https://embedplayer2.xyz/cdn/hls/57345a66444f04398e96482550000956/master.txt,6:1310947	leg=6:1310948
+Muti Crime e Poder (2023)	dub=https://embedplayer2.xyz/cdn/hls/48e74aa9c5eb7dfd79cab42bf2aa76ea/master.txt,6:1302890
+Muti: Crime e Poder	dub=https://embedplayer2.xyz/cdn/hls/48e74aa9c5eb7dfd79cab42bf2aa76ea/master.txt,2:219661,8:219661	leg=2:219662,8:219662
 Mutt	dub=8:384550	leg=8:384549
 Mutum	dub=8:384222
 Mutum (2007)	dub=6:1300905
-Muzzle: City of Wolves	leg=2:355670,8:355670
+Muzzle: City of Wolves	dub=https://embedplayer2.xyz/cdn/hls/8dd00bf725b913af41cbb23bd301f5a4/master.txt	leg=2:355670,8:355670
 My Boyfriends Meds	leg=2:48195,8:48195
 My Call Boy Billionaire Daddy	leg=8:389591
 My First Film	leg=2:285092,8:285092
@@ -2033,12 +2033,12 @@ My First Film (2024)	leg=6:1312041
 My First Summer	leg=2:100408,8:100408
 My Grandfather Charles Manson	leg=8:388294
 My Heart Puppy	leg=2:246435,8:246435
-My Heart Puppy (2023)	leg=6:1310786
-My Hero Academia Agora e a Sua Vez (2024)	dub=6:1314473
-My Hero Academia O Filme Ascensao dos Herois (2019)	dub=6:1314472
+My Heart Puppy (2023)	dub=https://embedplayer2.xyz/cdn/hls/00f17ba8cc89ca07a443e68f867d5ebb/master.txt	leg=6:1310786
+My Hero Academia Agora e a Sua Vez (2024)	dub=https://embedplayer2.xyz/cdn/hls/962321b5126d925d16749f86dc7ec184/master.txt,6:1314473
+My Hero Academia O Filme Ascensao dos Herois (2019)	dub=https://embedplayer2.xyz/cdn/hls/afbe25d7c03d2546a06ba678c592d8ff/master.txt,6:1314472
 My Hero Academia: 2 Heróis - O Filme	dub=2:29098,8:29098
-My Hero Academia: Agora é a Sua Vez	dub=2:319067,8:319067	leg=2:312860,8:312860
-My Hero Academia: O Filme - 2 Heróis (2018)	dub=6:1308015
+My Hero Academia: Agora é a Sua Vez	dub=https://embedplayer2.xyz/cdn/hls/962321b5126d925d16749f86dc7ec184/master.txt,2:319067,8:319067	leg=2:312860,8:312860
+My Hero Academia: O Filme - 2 Heróis (2018)	dub=https://embedplayer2.xyz/cdn/hls/7d4c481ac98ed6e2590a2bf2b3909447/master.txt,6:1308015
 My Little Pony - O Filme (2017)	dub=6:1297567
 My Little Pony Equestria Girls (2013)	dub=6:1301658
 My Little Pony Equestria Girls A Lenda de Everfree (2016)	dub=6:1301666
@@ -2056,11 +2056,11 @@ My Special One	leg=2:367414,8:367414
 My Special One (2025)	leg=6:1314329
 My Spy	leg=2:69604,8:69604
 My Teacher My Love	leg=2:69605,8:69605
-My True Fairytale	dub=2:335237,8:335237	leg=2:335236,8:335236
+My True Fairytale	dub=https://embedplayer2.xyz/cdn/hls/4188c0b2e153a94a90b2ff7e11c6c5a5/master.txt,2:335237,8:335237	leg=2:335236,8:335236
 Má Educação	dub=2:196771,8:196771,2:69945,8:69945
 Má Educação (2019)	dub=6:1305126
-Má Influência	dub=2:320772,8:320772	leg=2:320771,8:320771
-Má Influência (2025)	dub=6:1313498
+Má Influência	dub=https://embedplayer2.xyz/cdn/hls/accdbe2dafc762122e9ce7db3311f79d/master.txt,2:320772,8:320772	leg=2:320771,8:320771
+Má Influência (2025)	dub=https://embedplayer2.xyz/cdn/hls/accdbe2dafc762122e9ce7db3311f79d/master.txt,6:1313498
 Máfia Digital	dub=2:339289,8:339289	leg=2:339288,8:339288
 Máfia Digital (2019)	dub=6:1308334
 Máfia S.A	dub=2:148658,8:148658	leg=2:148651,8:148651
@@ -2086,16 +2086,16 @@ Mãe Fora da Caixa	dub=2:363498,8:363498
 Mãe Obsessiva	dub=2:48192,8:48192
 Mãe Obsessiva (2019)	dub=6:1308427
 Mãe Só Há Uma	dub=2:130261,8:130261
-Mãe Terra	dub=2:255565,8:255565	leg=2:255566,8:255566
-Mãe Terra (2023)	dub=6:1311699	leg=6:1311700
+Mãe Terra	dub=https://embedplayer2.xyz/cdn/hls/05358178f4a049d32c5b9e4e6408b0e9/master.txt,2:255565,8:255565	leg=2:255566,8:255566
+Mãe Terra (2023)	dub=https://embedplayer2.xyz/cdn/hls/05358178f4a049d32c5b9e4e6408b0e9/master.txt,6:1311699	leg=6:1311700
 Mãe de Aluguel	dub=2:254852,8:254852	leg=2:254853,8:254853
 Mãe de Aluguel (2021)	dub=6:1310966	leg=6:1310967
 Mãe e Filha	dub=2:160614,8:160614
 Mãe e Filha (2021)	dub=6:1306270
 Mãe e Muito Mais	dub=2:193281,8:193281,2:26864,8:26864
 Mãe e Pai (2018)	dub=6:1307615
-Mãe em Fúria	dub=2:256851,8:256851	leg=2:256852,8:256852
-Mãe em Fúria (2021)	dub=6:1311328	leg=6:1311329
+Mãe em Fúria	dub=https://embedplayer2.xyz/cdn/hls/22e8e9b2f1e7d97df5e5a38e54e8949f/master.txt,2:256851,8:256851	leg=2:256852,8:256852
+Mãe em Fúria (2021)	dub=https://embedplayer2.xyz/cdn/hls/22e8e9b2f1e7d97df5e5a38e54e8949f/master.txt,6:1311328	leg=6:1311329
 Mãe x Androides	dub=2:148654,8:148654,2:145958,8:145958	leg=2:145954,8:145954
 Mãe é Mãe (1996)	dub=6:1307376
 Mães Paralelas	dub=2:150141,8:150141	leg=2:150142,8:150142
@@ -2113,4 +2113,4 @@ Música do Coração (1999)	dub=6:1304353
 Música, Amigos e Festa	dub=2:197451,8:197451
 maboroshi	dub=2:241302,8:241302	leg=2:241303,8:241303
 maboroshi (2023)	dub=6:1311372	leg=6:1311373
-mãe!	dub=2:110820,8:110820
+mãe!	dub=https://embedplayer2.xyz/cdn/hls/025947c471b34eff4ef1d6146f012bcd/master.txt,2:110820,8:110820

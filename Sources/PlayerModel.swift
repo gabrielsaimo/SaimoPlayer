@@ -114,8 +114,16 @@ final class PlayerModel: NSObject, ObservableObject {
     // Tracks
     @Published var audioChoices: [MediaChoice] = []
     @Published var subtitleChoices: [MediaChoice] = []
+    @Published var qualityChoices: [MediaChoice] = [
+        MediaChoice(id: "auto", title: "Automática"),
+        MediaChoice(id: "360", title: "360p"),
+        MediaChoice(id: "720", title: "720p"),
+        MediaChoice(id: "1080", title: "1080p"),
+        MediaChoice(id: "2160", title: "2160p · 4K"),
+    ]
     @Published var selectedAudio: String?
     @Published var selectedSubtitle: String?
+    @Published var selectedQuality = "auto"
 
     let player = AVPlayer()
 
@@ -142,6 +150,18 @@ final class PlayerModel: NSObject, ObservableObject {
     private var fileSourceIndex = 0
     /// Se a fonte atual já foi tentada pelo atalho local.
     private var fonteViaProxy = false
+
+    /// Um master HLS publicado como `.txt` precisa passar pelo proxy de
+    /// playlists desde o primeiro pedido. Servi-lo direto faz o AVFoundation
+    /// acreditar que é texto; mandá-lo ao proxy de MP4 também não reescreveria
+    /// variantes, áudios, legendas e segmentos relativos.
+    private func fonteDeArquivo(_ origem: URL) -> (url: URL, peloProxy: Bool) {
+        guard origem.pathExtension.lowercased() == "txt" else { return (origem, false) }
+        let canal = Channel(name: playingFileName.isEmpty ? "Filme" : playingFileName,
+                            source: origem)
+        ProxyServer.shared.register(canal)
+        return (ProxyServer.shared.link(for: canal), true)
+    }
 
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
@@ -310,14 +330,15 @@ final class PlayerModel: NSObject, ObservableObject {
         ultimoGuardado = -100
         fileSources = urls
         fileSourceIndex = 0
-        fonteViaProxy = false
-        playingFile = primeira
-        retomou = false
         playingFileName = nome
+        let preparada = fonteDeArquivo(primeira)
+        fonteViaProxy = preparada.peloProxy
+        playingFile = preparada.url
+        retomou = false
         playingFileDetail = detalhe
         duration = 0
         position = 0
-        generatedLink = primeira
+        generatedLink = preparada.url
         status = "carregando…"
         reconnectAttempt = 0
         playedSinceOpen = false
@@ -326,7 +347,7 @@ final class PlayerModel: NSObject, ObservableObject {
         sourceIndex = 0
         sourceHost = primeira.host ?? ""
         Log.shared.write("abrindo \(nome) — \(primeira.absoluteString)")
-        load(primeira, channel: nil)
+        load(preparada.url, channel: nil)
         aberturaEm = Date()
         caiuAvisado = false
         Telemetria.shared.comecou(.vod, nome, url: primeira, fonte: 1)
@@ -349,6 +370,7 @@ final class PlayerModel: NSObject, ObservableObject {
         ])
         let item = AVPlayerItem(asset: asset)
         item.preferredForwardBufferDuration = 6
+        applyQuality(to: item)
 
         itemObservers.append(item.observe(\.status, options: [.new]) { [weak self] it, _ in
             Task { @MainActor in self?.itemStatusChanged(it) }
@@ -515,17 +537,18 @@ final class PlayerModel: NSObject, ObservableObject {
             // seguinte antes de insistir na mesma.
             if !playedSinceOpen, fileSourceIndex + 1 < fileSources.count {
                 fileSourceIndex += 1
-                fonteViaProxy = false
                 let proxima = fileSources[fileSourceIndex]
-                playingFile = proxima
+                let preparada = fonteDeArquivo(proxima)
+                fonteViaProxy = preparada.peloProxy
+                playingFile = preparada.url
                 sourceIndex = fileSourceIndex
                 sourceHost = proxima.host ?? ""
                 Telemetria.shared.comecou(.vod, playingFileName, url: proxima, fonte: fileSourceIndex + 1, nova: false)
                 status = "tentando a fonte \(fileSourceIndex + 1) de \(fileSources.count)…"
                 Log.shared.write("\(playingFileName): \(reason) — indo para a fonte \(fileSourceIndex + 1)")
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
-                    guard let self, self.playingFile == proxima else { return }
-                    self.load(proxima, channel: nil)
+                    guard let self, self.playingFile == preparada.url else { return }
+                    self.load(preparada.url, channel: nil)
                 }
                 return
             }
@@ -770,6 +793,27 @@ final class PlayerModel: NSObject, ObservableObject {
             item.select(opt, in: g)
         }
         selectedSubtitle = id
+    }
+
+    /// Limita a variante escolhida pelo AVPlayer sem transformar a qualidade
+    /// numa fonte separada. Assim um master HLS com 360p/720p/1080p continua
+    /// adaptativo até o teto escolhido e volta a subir quando a rede melhora.
+    func selectQuality(_ id: String) {
+        guard qualityChoices.contains(where: { $0.id == id }) else { return }
+        selectedQuality = id
+        if let item = player.currentItem { applyQuality(to: item) }
+    }
+
+    private func applyQuality(to item: AVPlayerItem) {
+        guard let height = Double(selectedQuality) else {
+            item.preferredMaximumResolution = .zero
+            item.preferredPeakBitRate = 0
+            return
+        }
+        // 16:9 é apenas o teto pedido; conteúdo 4:3 continua preservando seu
+        // aspecto. O AVPlayer escolhe a variante real mais próxima abaixo dele.
+        item.preferredMaximumResolution = CGSize(width: height * 16 / 9, height: height)
+        item.preferredPeakBitRate = 0
     }
 
     // MARK: - Window / PiP

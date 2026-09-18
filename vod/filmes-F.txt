@@ -1,20 +1,20 @@
-F Marry Kill	dub=2:341030,8:341030	leg=2:341029,8:341029
-F Marry Kill (2025)	dub=6:1313771
-F1 - O Filme (2025)	dub=6:1313754	leg=6:1313753
+F Marry Kill	dub=https://embedplayer2.xyz/cdn/hls/e987be4d7902f16719dbc0bc3af99cef/master.txt,2:341030,8:341030	leg=https://embedplayer2.xyz/cdn/hls/29f1f609eb0f1a7575d6c1ebc17e1688/master.txt,2:341029,8:341029
+F Marry Kill (2025)	leg=https://embedplayer2.xyz/cdn/hls/29f1f609eb0f1a7575d6c1ebc17e1688/master.txt	dub=https://embedplayer2.xyz/cdn/hls/e987be4d7902f16719dbc0bc3af99cef/master.txt,6:1313771
+F1 - O Filme (2025)	dub=https://embedplayer2.xyz/cdn/hls/d13a10c67f267144fe5348866e8c93f0/master.txt,6:1313754	leg=6:1313753
 F1: Furious One	dub=2:345059,8:345059	leg=2:345058,8:345058
-F1: O Filme	dub=2:379416,2:340448,8:379416,8:340448,2:340273,8:340273	leg=2:340272,8:340272
+F1: O Filme	dub=https://embedplayer2.xyz/cdn/hls/d13a10c67f267144fe5348866e8c93f0/master.txt,2:379416,2:340448,8:379416,8:340448,2:340273,8:340273	leg=2:340272,8:340272
 F20 - Jovens e Perigosos	dub=2:75041,8:75041
 F20 Jovens e Perigosos (2018)	dub=6:1303490
 FX 2 - Ilusão Fatal	dub=2:138843,8:138843
 FX 2 - Ilusão Fatal (1991)	dub=6:1304305
 Fabiana	dub=8:395685
 Faceless	leg=2:307929,8:307929
-Faces da Guerra	dub=2:370903,8:370903	leg=2:370902,8:370902
-Faces da Morte	dub=2:362604,8:362604	leg=2:378216,2:362603,8:378216,8:362603
-Faces da Morte (2026)	leg=6:1314584
+Faces da Guerra	dub=https://embedplayer2.xyz/cdn/hls/45f588e0185183bb920e3a1d7097f0b3/master.txt,2:370903,8:370903	leg=2:370902,8:370902
+Faces da Morte	dub=https://embedplayer2.xyz/cdn/hls/f802d5a3fea06940dfd2c440ea68cccd/master.txt,2:362604,8:362604	leg=2:378216,2:362603,8:378216,8:362603
+Faces da Morte (2026)	dub=https://embedplayer2.xyz/cdn/hls/f802d5a3fea06940dfd2c440ea68cccd/master.txt	leg=6:1314584
 Faces da Verdade	dub=2:382984,8:382984	leg=2:382983,8:382983
 Faces de Uma Mulher (2017)	dub=6:1303755
-Fackham Hall	leg=2:371100,8:371100
+Fackham Hall	dub=https://embedplayer2.xyz/cdn/hls/bf1882b79d9c20705a66ebab80f00912/master.txt	leg=2:371100,8:371100
 Fada Madrinha	dub=2:89320,8:89320
 Fada Madrinha (2020)	dub=6:1298093
 Fadada Ao Meu Vampiro Proibido	dub=8:389550
@@ -27,9 +27,9 @@ Fahrenheit 451 (2018)	dub=6:1302191
 Failure - We Are Hallucinations	leg=2:212429,8:212429
 Failure - We Are Hallucinations (2022)	leg=6:1309340
 Fairyland	leg=8:393727
-Faith Hope And Love	leg=2:44557,8:44557
-Fake Famous: Uma Experiência Surreal nas Redes	dub=2:133101,8:133101	leg=2:133081,8:133081
-Fake Famous: Uma Experiência Surreal nas Redes (2021)	dub=6:1304228	leg=6:1304229
+Faith Hope And Love	dub=https://embedplayer2.xyz/cdn/hls/436319515af5fb5ef2359070f6c352dd/master.txt	leg=2:44557,8:44557
+Fake Famous: Uma Experiência Surreal nas Redes	dub=https://embedplayer2.xyz/cdn/hls/e4acfab018cf75a3602dea1a357bf4b8/master.txt,2:133101,8:133101	leg=2:133081,8:133081
+Fake Famous: Uma Experiência Surreal nas Redes (2021)	dub=https://embedplayer2.xyz/cdn/hls/e4acfab018cf75a3602dea1a357bf4b8/master.txt,6:1304228	leg=6:1304229
 Fake News - Made in Brazil	dub=2:246970,8:246970
 Fake News - Made in Brazil (2019)	dub=6:1311239
 Faking Beethoven	leg=2:365121,8:365121
@@ -45,9 +45,9 @@ Falcons em Jogo	dub=2:26587,8:26587
 Falcons em Jogo (2019)	dub=6:1307774
 Falcão - O Campeão dos Campeões	dub=2:20023,8:20023
 Falcão Negro em Perigo	dub=2:379459,2:314669,2:20024,8:379459,8:314669,8:20024	leg=2:379458,2:314670,8:379458,8:314670
-Falcões da Noite	dub=2:309523,8:309523	leg=2:309524,8:309524
+Falcões da Noite	dub=https://embedplayer2.xyz/cdn/hls/5c8f6cd50e0111f18148106450f07271/master.txt,2:309523,8:309523	leg=2:309524,8:309524
 Fale Comigo	dub=2:219960,8:219960,2:380681,2:357572,2:218878,8:380681,8:357572,8:218878	leg=2:380680,2:357571,2:216970,8:380680,8:357571,8:216970
-Fale Comigo (2023)	dub=6:1302612	leg=6:1302440
+Fale Comigo (2023)	dub=https://embedplayer2.xyz/cdn/hls/c5140466a51b14a3f30b25fe2292d017/master.txt,6:1302612	leg=6:1302440
 Fale com Ela (2002)	dub=6:1303388
 Fale com as Abelhas	leg=2:199687,8:199687
 Fale com as Abelhas (2018)	leg=6:1305721
@@ -66,26 +66,26 @@ Falsos Milionários	dub=2:134008,8:134008	leg=2:134002,8:134002
 Falsos Milionários (2020)	dub=6:1304501	leg=6:1304502
 Fama a Qualquer Preço	dub=2:196776,8:196776	leg=2:196775,8:196775
 Fama a Qualquer Preço (2018)	dub=6:1305090	leg=6:1305091
-Familia Pero no Mucho (2025)	dub=6:1313685
-Familia a Prova de Balas (2025)	dub=6:1313716	leg=6:1313715
-Familia de Aluguel (2025)	dub=6:1314311	leg=6:1314310
-Familia do Bagulho	dub=2:20619,8:20619
-Familia do Bagulho (2013)	dub=6:1297710
+Familia Pero no Mucho (2025)	dub=https://embedplayer2.xyz/cdn/hls/feba4c10c92cd2d819df95c6e5596843/master.txt,6:1313685
+Familia a Prova de Balas (2025)	dub=https://embedplayer2.xyz/cdn/hls/6538931e89a727811fb8fa08c9d87506/master.txt,https://embedplayer2.xyz/cdn/hls/5ba4a55d32df0e7f364198b79dd77cc4/master.txt,6:1313716	leg=6:1313715
+Familia de Aluguel (2025)	dub=https://embedplayer2.xyz/cdn/hls/a0a9d8758de3d1e4dc0cdbba3a350b9f/master.txt,https://embedplayer2.xyz/cdn/hls/5c0898521deeb9972df9d0646b2d1f29/master.txt,6:1314311	leg=6:1314310
+Familia do Bagulho	dub=https://embedplayer2.xyz/cdn/hls/0163ef1d307e332887ca5433f633d94b/master.txt,2:20619,8:20619
+Familia do Bagulho (2013)	dub=https://embedplayer2.xyz/cdn/hls/0163ef1d307e332887ca5433f633d94b/master.txt,6:1297710
 Familiye	dub=2:22117,8:22117
 Familiye (2017)	dub=6:1308108
 Famintos	dub=2:250615,8:250615
 Famintos (2017)	dub=6:1300386
 Família	dub=2:233517,8:233517	leg=2:320083,2:233518,8:320083,8:233518
-Família (2023)	dub=6:1309692	leg=6:1309693
+Família (2023)	dub=https://embedplayer2.xyz/cdn/hls/e933c477eb757048a3540384bb2f65f5/master.txt,6:1309692	leg=6:1309693
 Família Craft e o Código da 20	dub=2:312355,8:312355
 Família Craft e o Código da 20 (2021)	dub=6:1303879
 Família Craft em Uma Aventura das Arábias	dub=2:312356,8:312356
 Família Craft em Uma Aventura das Arábias (2021)	dub=6:1303880
 Família Não Se Escolhe	dub=2:347338,8:347338	leg=2:347337,8:347337
 Família de Aluguel	dub=2:367089,8:367089,2:367084,8:367084	leg=2:367083,8:367083
-Família à Prova de Balas	dub=2:337414,8:337414,2:337416,8:337416	leg=2:337415,2:332845,8:337415,8:332845
-Família, Pero no Mucho	dub=2:336690,8:336690,2:335545,8:335545	leg=2:335544,8:335544
-Fanatico (2019)	dub=6:1300311
+Família à Prova de Balas	dub=https://embedplayer2.xyz/cdn/hls/6538931e89a727811fb8fa08c9d87506/master.txt,https://embedplayer2.xyz/cdn/hls/5ba4a55d32df0e7f364198b79dd77cc4/master.txt,2:337414,8:337414,2:337416,8:337416	leg=2:337415,2:332845,8:337415,8:332845
+Família, Pero no Mucho	dub=https://embedplayer2.xyz/cdn/hls/feba4c10c92cd2d819df95c6e5596843/master.txt,2:336690,8:336690,2:335545,8:335545	leg=2:335544,8:335544
+Fanatico (2019)	dub=https://embedplayer2.xyz/cdn/hls/76a69a8f3b0b41f4025514ccb2285b45/master.txt,6:1300311
 Fanfic (2023)	dub=6:1305526	leg=6:1305527
 Fanfik	dub=2:195258,8:195258	leg=2:195259,8:195259
 Fanny Lye Deliverd	leg=2:63075,8:63075
@@ -96,47 +96,47 @@ Fantasma	dub=2:309525,8:309525	leg=2:309526,8:309526
 Fantasma 2 (1988)	dub=6:1311925	leg=6:1311924
 Fantasma e CIA	dub=2:188908,8:188908,2:187875,8:187875	leg=2:187874,8:187874
 Fantasma e CIA (2023)	dub=6:1300998
-Fantasma no Cemitério	dub=2:322827,8:322827	leg=2:322828,8:322828
+Fantasma no Cemitério	dub=https://embedplayer2.xyz/cdn/hls/45e550d88edb3a60891e5b3039622727/master.txt,2:322827,8:322827	leg=2:322828,8:322828
 Fantasmas	dub=2:345087,8:345087	leg=2:345086,8:345086
-Fantasmas A Solta 3: Sociedade do Mal (2016)	dub=6:1300663
+Fantasmas A Solta 3: Sociedade do Mal (2016)	dub=https://embedplayer2.xyz/cdn/hls/206248bdb09399dc93501798299d82f7/master.txt,6:1300663
 Fantasmas de Guerra	dub=2:174622,8:174622	leg=2:174621,8:174621
 Fantasmas de Guerra (2020)	dub=6:1306004	leg=6:1306005
-Fantasmas de Marte	dub=2:98399,8:384688,8:98399	leg=8:384687
-Fantasmas de Marte (2001)	dub=6:1307017
+Fantasmas de Marte	dub=https://embedplayer2.xyz/cdn/hls/3f9a1d4348cffa5af6f8661bb7b92e71/master.txt,2:98399,8:384688,8:98399	leg=8:384687
+Fantasmas de Marte (2001)	dub=https://embedplayer2.xyz/cdn/hls/3f9a1d4348cffa5af6f8661bb7b92e71/master.txt,6:1307017
 Fantasmas de Sugar Land	dub=2:30391,8:30391
 Fantasmas de Sugar Land (2019)	dub=6:1308432
 Fantasmas do Passado	dub=2:155510,8:155510	leg=2:155497,8:155497
 Fantasmas do Passado (2017)	dub=6:1303938
 Fantasmas do Passado (2022)	dub=6:1299328
 Fantasmas na Casa Branca	dub=2:328473,8:328473	leg=2:328472,8:328472
-Fantasy Football	dub=2:186479,8:186479	leg=2:186481,8:186481
-Fantasy Football (2022)	dub=6:1306774	leg=6:1306775
+Fantasy Football	dub=https://embedplayer2.xyz/cdn/hls/2fed916a023d7dfda07cb24ddeb38686/master.txt,2:186479,8:186479	leg=2:186481,8:186481
+Fantasy Football (2022)	dub=https://embedplayer2.xyz/cdn/hls/2fed916a023d7dfda07cb24ddeb38686/master.txt,6:1306774	leg=6:1306775
 Fantástica - Uma Aventura no Mundo Boonie Bears	dub=2:45091,8:45091
 Fantástica - Uma Aventura no Mundo Boonie Bears (2017)	dub=6:1307829
-Farejando Vingança	dub=2:244657,8:244657	leg=2:244658,8:244658
-Farejando Vingança (2023)	dub=6:1303715
-Farejando Vingança 2: Cidade dos Lobos	dub=2:359063,8:359063,2:359065,8:359065	leg=2:359064,8:359064
-Fargo Uma Comedia de Erros (1996)	dub=6:1302940
-Fargo: Uma Comédia de Erros	dub=2:95911,8:95911
+Farejando Vingança	dub=https://embedplayer2.xyz/cdn/hls/57857ecfeaa864f6c0d754aeef36007b/master.txt,2:244657,8:244657	leg=2:244658,8:244658
+Farejando Vingança (2023)	dub=https://embedplayer2.xyz/cdn/hls/57857ecfeaa864f6c0d754aeef36007b/master.txt,6:1303715
+Farejando Vingança 2: Cidade dos Lobos	dub=https://embedplayer2.xyz/cdn/hls/8dd00bf725b913af41cbb23bd301f5a4/master.txt,2:359063,8:359063,2:359065,8:359065	leg=2:359064,8:359064
+Fargo Uma Comedia de Erros (1996)	dub=https://embedplayer2.xyz/cdn/hls/a2e6aba32e300e6c77204dc25833f47d/master.txt,6:1302940
+Fargo: Uma Comédia de Erros	dub=https://embedplayer2.xyz/cdn/hls/a2e6aba32e300e6c77204dc25833f47d/master.txt,2:95911,8:95911
 Faroeste Caboclo	dub=2:20987,8:20987
 Faroeste Caboclo (2013)	dub=6:1297525
 Farol da Ilusão	dub=2:306700,8:306700	leg=2:306701,8:306701
-Farol da Ilusão (2024)	dub=6:1312966
+Farol da Ilusão (2024)	dub=https://embedplayer2.xyz/cdn/hls/a24b5be0dc3021f5ef8275b473f31f70/master.txt,6:1312966
 Farol das Orcas	dub=8:392793
 Farrapo Humano	dub=2:343064,8:343064
 Fartura	dub=2:286959,8:286959
 Fascinacao Mortal A Vinganca	dub=2:22024,8:22024
 Fascination Coral Reef: Mysterious Worlds Underwater	dub=2:31924,8:31924
 Fascinação Mortal: A Vingança (2018)	dub=6:1310639
-Fascinio Perigoso (2024)	dub=6:1314236
+Fascinio Perigoso (2024)	dub=https://embedplayer2.xyz/cdn/hls/a130a34366f48d54bdbe96f946802e33/master.txt,6:1314236
 Fascínio - Recifes de Corais: Mundos Misteriosos Sob as Águas (2012)	dub=6:1307262
-Fascínio Perigoso	dub=2:362262,8:362262	leg=2:362261,8:362261
+Fascínio Perigoso	dub=https://embedplayer2.xyz/cdn/hls/a130a34366f48d54bdbe96f946802e33/master.txt,2:362262,8:362262	leg=2:362261,8:362261
 Fassbinder: Ascensão e Queda de um Gênio	dub=2:169683,8:169683	leg=2:169707,8:169707
 Fassbinder: Ascensão e Queda de um Gênio (2020)	dub=6:1306194	leg=6:1306195
-Fast Charlie	leg=2:246189,8:246189
-Fast Charlie (2023)	leg=6:1311616
+Fast Charlie	dub=https://embedplayer2.xyz/cdn/hls/832f74116f979e08d3e5cfe5b6367b9f/master.txt	leg=2:246189,8:246189
+Fast Charlie (2023)	dub=https://embedplayer2.xyz/cdn/hls/832f74116f979e08d3e5cfe5b6367b9f/master.txt	leg=6:1311616
 Faster: No Limite da Velocidade	dub=2:370143,8:370143	leg=2:370142,8:370142
-Faster: No Limite da Velocidade (2025)	dub=6:1502246
+Faster: No Limite da Velocidade (2025)	dub=https://embedplayer2.xyz/cdn/hls/0ef996a5efb57c84ebdc7fae34e079ae/master.txt,6:1502246
 Fatal Countdown Reset (2017)	dub=6:1301915
 Fatal Following (2021)	dub=6:1300256
 Fatal Fury 3: A Fúria	dub=2:353925,8:353925	leg=2:353924,8:353924
@@ -155,11 +155,11 @@ Favela é Moda	dub=2:281506,8:281506
 Faye	leg=2:275502,8:275502
 Faye (2024)	leg=6:1309763
 Faz De Conta Que É Paris	leg=2:345477,8:345477
-Fazendo Meu Filme	dub=2:247312,8:247312	leg=2:247313,8:247313
-Fazendo Meu Filme (2024)	dub=6:1303147
+Fazendo Meu Filme	dub=https://embedplayer2.xyz/cdn/hls/2e07ae13e318b1083a756e3cc6e61764/master.txt,2:247312,8:247312	leg=2:247313,8:247313
+Fazendo Meu Filme (2024)	dub=https://embedplayer2.xyz/cdn/hls/2e07ae13e318b1083a756e3cc6e61764/master.txt,6:1303147
 Fazendo um Bebê	leg=8:394633
-Faça Ela Voltar	dub=2:343211,8:343211	leg=2:343210,2:332844,8:343210,8:332844
-Faça Ela Voltar (2025)	dub=6:1313805	leg=6:1313804
+Faça Ela Voltar	dub=https://embedplayer2.xyz/cdn/hls/4d89d4c2fb2c3660b8a7fda614f5fd8d/master.txt,2:343211,8:343211	leg=2:343210,2:332844,8:343210,8:332844
+Faça Ela Voltar (2025)	dub=https://embedplayer2.xyz/cdn/hls/4d89d4c2fb2c3660b8a7fda614f5fd8d/master.txt,6:1313805	leg=6:1313804
 Faça Sua Jogada	dub=2:175804,8:175804
 Faça Sua Jogada (2017)	dub=6:1304139
 Faça Um Desejo!	dub=2:173302,8:173302	leg=2:173309,8:173309
@@ -185,18 +185,18 @@ Federer: Doze Últimos Dias (2024)	leg=6:1305342
 Fedrelandet	leg=2:264119,8:264119
 Fedrelandet (2023)	leg=6:1304963
 Fedro (2021)	dub=6:1299116
-Feed: O Terror está Online	dub=2:246547,8:246547	leg=2:246548,8:246548
-Feed: O Terror está Online (2022)	dub=6:1309216	leg=6:1309217
+Feed: O Terror está Online	dub=https://embedplayer2.xyz/cdn/hls/d2c7c97fee50737429acd9e8686cbd4b/master.txt,2:246547,8:246547	leg=2:246548,8:246548
+Feed: O Terror está Online (2022)	dub=https://embedplayer2.xyz/cdn/hls/d2c7c97fee50737429acd9e8686cbd4b/master.txt,6:1309216	leg=6:1309217
 Feel the Beat	dub=2:48184,8:48184
 Feel the Beat (2020)	dub=6:1308817
 Feios	dub=8:386154,2:285812,8:285812	leg=2:285813,8:285813
 Feios (2024)	dub=6:1312089	leg=6:1312088
 Feira da Ladra	dub=2:373376,8:373376
-Feitico	dub=2:97178,8:97178
-Feitico (2020)	dub=6:1298558
+Feitico	dub=https://embedplayer2.xyz/cdn/hls/e380631fc7bac1ac15ef3cae72b6ecff/master.txt,2:97178,8:97178
+Feitico (2020)	dub=https://embedplayer2.xyz/cdn/hls/e380631fc7bac1ac15ef3cae72b6ecff/master.txt,6:1298558
 Feitico das Trevas (2021)	dub=6:1299080
 Feitiçaria	dub=2:213952,8:213952	leg=2:213951,8:213951
-Feitiçaria (2024)	dub=6:1311689	leg=6:1311690
+Feitiçaria (2024)	dub=https://embedplayer2.xyz/cdn/hls/18384a36fa17d71f4c2fde62689a4d39/master.txt,6:1311689	leg=6:1311690
 Feitiço das Trevas	dub=2:144070,8:144070	leg=2:144088,8:144088
 Feitiço do Rio	dub=2:139239,8:139239
 Feitiço do Rio (1984)	dub=6:1304286
@@ -204,7 +204,7 @@ Feitiço do Tempo	dub=2:110815,8:110815
 Feitiço do Tempo (1993)	dub=6:1307163
 Feito Cães e Gatos	dub=2:105241,8:105241
 Feito Cães e Gatos (1996)	dub=6:1309012
-Feito na America (2017)	dub=6:1297711
+Feito na America (2017)	dub=https://embedplayer2.xyz/cdn/hls/6f2b0ec68975baccf5249f646a15d928/master.txt,6:1297711
 Feito na América	dub=2:20025,8:20025
 Feitos de Plástico	dub=2:294917,8:294917	leg=2:294918,8:294918
 Feitos de Plástico (2024)	dub=6:1312408	leg=6:1312407
@@ -227,13 +227,13 @@ Felix, o Coelho de Brinquedo e a Máquina do Tempo (2006)	dub=6:1313054
 Felix, uma Volta ao Mundo (2005)	dub=6:1313055
 Feliz Aniversario Para Mim (1981)	dub=6:1302687
 Feliz Aniversário Para Mim	dub=2:353000,8:353000	leg=2:352999,8:352999
-Feliz Ano Nosso	dub=2:182906,8:182906	leg=2:182903,8:182903
-Feliz Ano Nosso (2022)	dub=6:1305464	leg=6:1305465
+Feliz Ano Nosso	dub=https://embedplayer2.xyz/cdn/hls/70f49d1127d91f9d066c8cdabd91d124/master.txt,2:182906,8:182906	leg=2:182903,8:182903
+Feliz Ano Nosso (2022)	dub=https://embedplayer2.xyz/cdn/hls/70f49d1127d91f9d066c8cdabd91d124/master.txt,6:1305464	leg=6:1305465
 Feliz Ano Novo, Charlie Brown	dub=8:386803	leg=8:386802
 Feliz Ano Novo... de Novo	dub=2:244659,8:244659,2:185307,8:185307
 Feliz Ano Novo... de Novo (2023)	dub=6:1300981
-Feliz Assalto (2025)	dub=6:1314082
-Feliz Assalto!	dub=2:354142,8:354142,2:354014,8:354014	leg=2:354013,8:354013
+Feliz Assalto (2025)	dub=https://embedplayer2.xyz/cdn/hls/ff75b8db2e4e07f7bf0e8e858afae1d4/master.txt,6:1314082
+Feliz Assalto!	dub=https://embedplayer2.xyz/cdn/hls/ff75b8db2e4e07f7bf0e8e858afae1d4/master.txt,2:354142,8:354142,2:354014,8:354014	leg=2:354013,8:354013
 Feliz Halloween Scooby-Doo!	dub=2:75052,8:75052
 Feliz Natal	dub=2:353475,2:328979,8:353475,8:328979	leg=2:353474,8:353474
 Feliz Natal (2005)	dub=6:1299105
@@ -256,40 +256,40 @@ Fenômenos Paranormais	dub=2:47451.mkv,8:47451.mkv
 Fenômenos Paranormais 2	dub=2:47453.mkv,8:47453.mkv
 Fera (2019)	leg=6:1308062
 Fera Assassina	dub=8:391854	leg=8:391853
-Feras no Jardim	dub=2:356887,8:356887	leg=2:356886,8:356886
-Feras no Jardim (2025)	dub=6:1314135
+Feras no Jardim	dub=https://embedplayer2.xyz/cdn/hls/eeb02dda7bf79216d61c28cc14cb920b/master.txt,2:356887,8:356887	leg=2:356886,8:356886
+Feras no Jardim (2025)	dub=https://embedplayer2.xyz/cdn/hls/eeb02dda7bf79216d61c28cc14cb920b/master.txt,6:1314135
 Feras no Limite	dub=8:392495	leg=8:392494
 Ferdinando: O Touro (1938)	dub=6:1310512
 Feriado Sangrento	dub=2:236323,8:236323,2:236319,8:236319	leg=2:236320,8:236320
 Feriado Sangrento (2023)	dub=6:1303035	leg=6:1303034
-Ferias Frustradas	dub=2:20622,8:20622
+Ferias Frustradas	dub=https://embedplayer2.xyz/cdn/hls/2c1c82d19a1d8b23881873aad9232a00/master.txt,2:20622,8:20622
 Ferias Frustradas (2015)	dub=6:1297712
 Ferias Frustradas de Natal (1989)	dub=6:1303329
 Ferias Frustradas de Verao	dub=2:20621,8:20621
 Ferias Frustradas de Verao (2009)	dub=6:1297713
 Ferias Frustradas em Las Vegas (1997)	dub=6:1298757
-Ferias Macabras (2024)	dub=6:1313372	leg=6:1313371
+Ferias Macabras (2024)	dub=https://embedplayer2.xyz/cdn/hls/d21ad20a133b259f5fefa0c63f522291/master.txt,6:1313372	leg=6:1313371
 Ferias da Familia Johnson (2004)	dub=6:1299897
 Ferias de Verao (2023)	dub=6:1302777
 Ferias do Barulho	dub=2:20623,8:20623
 Ferias em Alto Astral (1994)	dub=6:1303857
-Ferida	dub=2:189898,8:189898,2:140720,8:140720	leg=2:140719,8:140719
-Ferida (2020)	dub=6:1304690	leg=6:1304691
+Ferida	dub=https://embedplayer2.xyz/cdn/hls/a7f800cf4d6b3d7a4af9c59cfff45340/master.txt,2:189898,8:189898,2:140720,8:140720	leg=2:140719,8:140719
+Ferida (2020)	dub=https://embedplayer2.xyz/cdn/hls/a7f800cf4d6b3d7a4af9c59cfff45340/master.txt,6:1304690	leg=6:1304691
 Fernanda Young: Foge-me ao Controle	dub=2:291155,8:291155
 Fernanda Young: Foge-me ao Controle (2024)	dub=6:1312307
 Fernanda e Nathalia Amigas de uma Vida (2023)	dub=6:1301810
 Fernandinho - Galileu	dub=2:21961,8:21961
 Fernandinho - Galileu (2017)	dub=6:1310437
 Fernando	dub=2:336827,8:336827
-Ferrari	dub=8:256267,2:256266,8:256266	leg=2:246190,8:256268,8:246190
-Ferrari (2023)	leg=6:1303435
+Ferrari	dub=https://embedplayer2.xyz/cdn/hls/adc4243adb32bb240710b48b4085f9ff/master.txt,8:256267,2:256266,8:256266	leg=2:246190,8:256268,8:246190
+Ferrari (2023)	dub=https://embedplayer2.xyz/cdn/hls/adc4243adb32bb240710b48b4085f9ff/master.txt	leg=6:1303435
 Ferro's Bar	dub=8:395336	leg=8:395335
 Ferrugem (2018)	dub=6:1300786
 Ferrugem e Osso (2012)	dub=6:1302187
-Ferry	dub=2:106469,8:106469
-Ferry (2021)	dub=6:1302789
-Ferry 2	dub=2:300134,8:300134	leg=2:300135,8:300135
-Ferry 2 (2024)	dub=6:1312609
+Ferry	dub=https://embedplayer2.xyz/cdn/hls/6b52382bf2ceffc84510f9f6fa0f13b3/master.txt,2:106469,8:106469
+Ferry (2021)	dub=https://embedplayer2.xyz/cdn/hls/6b52382bf2ceffc84510f9f6fa0f13b3/master.txt,6:1302789
+Ferry 2	dub=https://embedplayer2.xyz/cdn/hls/8f79175e650dafd2454abea6fff0d637/master.txt,2:300134,8:300134	leg=2:300135,8:300135
+Ferry 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/8f79175e650dafd2454abea6fff0d637/master.txt,6:1312609
 Fervo	dub=2:312357,8:312357	leg=2:312358,8:312358
 Fervo (2023)	dub=6:1301788
 Festa da Salsicha (2016)	dub=6:1313927
@@ -301,14 +301,14 @@ Festa no Covil	dub=2:259003,8:259003	leg=2:259004,8:259004
 Festa no Covil (2024)	dub=6:1304985	leg=6:1304986
 Festival Eurovision da Canção: A Saga de Sigrit e Lars	dub=2:48261,8:48261
 Festival Eurovision da Canção: A Saga de Sigrit e Lars (2020)	dub=6:1308155
-Festival Sangrento	dub=2:63105,8:63105
-Festival Sangrento (2018)	dub=6:1307865
-Festival de Artes de Hazelton	dub=2:368119,8:368119
+Festival Sangrento	dub=https://embedplayer2.xyz/cdn/hls/4d1ede064ca6c43687e311e77fdc4fda/master.txt,2:63105,8:63105
+Festival Sangrento (2018)	dub=https://embedplayer2.xyz/cdn/hls/4d1ede064ca6c43687e311e77fdc4fda/master.txt,6:1307865
+Festival de Artes de Hazelton	dub=https://embedplayer2.xyz/cdn/hls/1b959d8e3703447200534c3ea14a123a/master.txt,2:368119,8:368119
 Fetiches	dub=2:159955,8:159955	leg=2:159954,8:159954
 Fetiches (2021)	dub=6:1306441	leg=6:1306442
 Fica Comigo (2017)	dub=6:1298366
-Ficção Americana	dub=2:266017,8:266017,2:266016,8:266016	leg=2:266018,8:266018
-Ficção Americana (2023)	dub=6:1303228
+Ficção Americana	dub=https://embedplayer2.xyz/cdn/hls/87ae679b1368b5a52503e2d655a168c6/master.txt,2:266017,8:266017,2:266016,8:266016	leg=2:266018,8:266018
+Ficção Americana (2023)	dub=https://embedplayer2.xyz/cdn/hls/87ae679b1368b5a52503e2d655a168c6/master.txt,6:1303228
 Fidel Castro: O Homem mais Vigiado do Mundo	dub=2:339934,8:339934
 Fido - O Mascote (2006)	dub=6:1303994
 Fieis (2022)	dub=6:1301220
@@ -323,12 +323,12 @@ Filha do Mal	dub=2:344557,2:21739,8:344557,8:21739	leg=2:344556,8:344556
 Filha do Mal (2012)	dub=6:1298452
 Filha do Prisioneiro (2023)	dub=6:1305344	leg=6:1305343
 Filhas	leg=2:282082,8:282082
-Filhas Deu Ruim (2026)	dub=6:1314618
+Filhas Deu Ruim (2026)	dub=https://embedplayer2.xyz/cdn/hls/7df952b8f9e26409b0af65533f95c60e/master.txt,6:1314618
 Filhas Roubadas: Sequestro pelo Boko Haram	dub=2:200571,8:200571	leg=2:200570,8:200570
 Filhas Roubadas: Sequestro pelo Boko Haram (2018)	dub=6:1305843	leg=6:1305844
 Filhas do Sol	dub=2:31579,8:31579
 Filhas do Sol (2018)	dub=6:1297111
-Filhas, Deu Ruim!	dub=2:381387,8:381387	leg=2:381386,8:381386
+Filhas, Deu Ruim!	dub=https://embedplayer2.xyz/cdn/hls/7df952b8f9e26409b0af65533f95c60e/master.txt,2:381387,8:381387	leg=2:381386,8:381386
 Filhinho da Mamae (2007)	dub=6:1303630
 Filhinho da Mamãe	dub=2:131008,8:131008
 Filho Nativo	dub=2:250658,8:250658,2:250657,8:250657	leg=2:250659,8:250659
@@ -346,16 +346,16 @@ Filhos da Esperança (2006)	dub=6:1302008
 Filhos da Guerra	dub=2:323695,8:323695	leg=2:323694,8:323694
 Filhos da Mafia (2001)	dub=6:1299267
 Filhos da Violência	dub=2:318625,8:318625	leg=2:318626,8:318626
-Filhos de Istambul	dub=2:98251,8:98251
-Filhos de Istambul (2021)	dub=6:1298319
+Filhos de Istambul	dub=https://embedplayer2.xyz/cdn/hls/f203522f69d3c753096480e4a32e625d/master.txt,2:98251,8:98251
+Filhos de Istambul (2021)	dub=https://embedplayer2.xyz/cdn/hls/f203522f69d3c753096480e4a32e625d/master.txt,6:1298319
 Filhos de Ninguém	dub=2:185191,8:185191	leg=2:185192,8:185192
 Filhos de Ninguém (2018)	dub=6:1305719	leg=6:1305720
-Filhos do Ecstasy (2025)	leg=6:1312916
+Filhos do Ecstasy (2025)	dub=https://embedplayer2.xyz/cdn/hls/95ec191276b6d09dd405ce85ba7626c8/master.txt	leg=6:1312916
 Filhos do Privilegio (2022)	dub=6:1299283
 Filhos do Privilégio	dub=2:149595,8:149595	leg=2:149594,8:149594
-Filhos do Verão	dub=2:355560,8:355560	leg=2:355559,8:355559
-Filhos do Ódio	dub=2:133776,8:133776	leg=2:133767,8:133767
-Filhos do Ódio (2021)	dub=6:1304673	leg=6:1304674
+Filhos do Verão	dub=https://embedplayer2.xyz/cdn/hls/caec031986fca3969cf7a61b76590101/master.txt,2:355560,8:355560	leg=2:355559,8:355559
+Filhos do Ódio	dub=https://embedplayer2.xyz/cdn/hls/e2c3b56a1e92a2e955393d10ccf5f8b0/master.txt,2:133776,8:133776	leg=2:133767,8:133767
+Filhos do Ódio (2021)	dub=https://embedplayer2.xyz/cdn/hls/e2c3b56a1e92a2e955393d10ccf5f8b0/master.txt,6:1304673	leg=6:1304674
 Filmando Casablanca	dub=2:41987,8:41987
 Filmando Casablanca (2019)	dub=6:1308301
 Filme B A Bonequinha Da Mamae	dub=2:33374,8:33374
@@ -364,8 +364,8 @@ Fim da Estrada	dub=2:172033,8:172033	leg=2:172041,8:172041
 Fim da Estrada (2022)	dub=6:1300156
 Fim da Linha	dub=2:185842,8:185842	leg=2:185813,8:185813
 Fim da Linha (2021)	dub=6:1306415	leg=6:1306416
-Fim da Sentenca (2019)	dub=6:1302192
-Fim da Sentença	dub=2:144059,8:144059	leg=2:144036,8:144036
+Fim da Sentenca (2019)	dub=https://embedplayer2.xyz/cdn/hls/db27f8781d0d60f78323355b62e7b6bf/master.txt,6:1302192
+Fim da Sentença	dub=https://embedplayer2.xyz/cdn/hls/db27f8781d0d60f78323355b62e7b6bf/master.txt,2:144059,8:144059	leg=2:144036,8:144036
 Fim de Caso	dub=2:311849,8:311849	leg=2:311850,8:311850
 Fim de Caso (1999)	dub=6:1303633
 Fim de Festa	dub=2:314672,2:44610,8:314672,8:44610
@@ -389,10 +389,10 @@ Finding Agnes	leg=2:89013,8:89013
 Finding Harmony: A King's Vision	leg=2:365781,8:365781
 Finding You	dub=2:141476,8:141476	leg=2:141480,8:141480
 Finding You (2021)	dub=6:1298996
-Finestkind	dub=2:233513,8:233513,2:233512,8:233512	leg=2:233507,8:233507
-Finestkind (2023)	dub=6:1303018
-Finja-se de Morta	dub=2:370302,8:370302	leg=2:370301,8:370301
-Finja-se de Morta (2025)	dub=6:1314388
+Finestkind	dub=https://embedplayer2.xyz/cdn/hls/83eabfb86780ee1dbb51eb36a2b842e7/master.txt,2:233513,8:233513,2:233512,8:233512	leg=2:233507,8:233507
+Finestkind (2023)	dub=https://embedplayer2.xyz/cdn/hls/83eabfb86780ee1dbb51eb36a2b842e7/master.txt,6:1303018
+Finja-se de Morta	dub=https://embedplayer2.xyz/cdn/hls/53853365c8e0275ec69062fb1982b368/master.txt,2:370302,8:370302	leg=2:370301,8:370301
+Finja-se de Morta (2025)	dub=https://embedplayer2.xyz/cdn/hls/53853365c8e0275ec69062fb1982b368/master.txt,6:1314388
 Fique Acordado	dub=2:286962,8:286962	leg=2:286965,8:286965
 Fique Acordado (2024)	dub=6:1312170	leg=6:1312169
 Fique Rico ou Morra Tentando	dub=2:20990,8:20990
@@ -404,20 +404,20 @@ Fireball	dub=2:382400,8:382400
 Firebrand	leg=2:284328,8:284328
 Firebrand (2024)	leg=6:1312022
 Firewall Seguranca em Risco (2006)	dub=6:1302181
-Fireworks	leg=2:246944,8:246944
+Fireworks	dub=https://embedplayer2.xyz/cdn/hls/1b962eec70f78f485b8d22d82b22e5a3/master.txt	leg=2:246944,8:246944
 First Cow	leg=2:62557,8:62557
 First Love: Descobrindo o Amor	dub=2:171341,8:171341	leg=2:171343,8:171343
 First Love: Descobrindo o Amor (2022)	dub=6:1306620	leg=6:1306621
-First Shift	leg=2:285083,8:285083
+First Shift	dub=https://embedplayer2.xyz/cdn/hls/47d10d700a1ed4d299ff9a7e9f520b72/master.txt	leg=2:285083,8:285083
 First Squad: A Hora da Verdade (2009)	dub=6:1310007
 Fitas (2020)	dub=6:1313339
 Fitas Proibidas - Antologia do Terror	dub=2:375093,8:375093	leg=2:375092,8:375092
 Fito Páez: El mundo cabe en una canción	leg=8:395035
 Five Feet Apart Legendado	dub=2:23739,8:23739
 Five Nights at Freddy's - O Pesadelo Sem Fim	dub=2:233508,8:233508,2:233516,8:233516	leg=2:226991,8:226991
-Five Nights at Freddy's 2	dub=2:360043,8:360043,2:359667,8:359667	leg=2:359666,2:359057,8:359666,8:359057
-Five Nights at Freddys 2 (2025)	dub=6:1314400	leg=6:1314189
-Five Nights at Freddys O Pesadelo Sem Fim (2023)	dub=6:1302990	leg=6:1302723
+Five Nights at Freddy's 2	dub=https://embedplayer2.xyz/cdn/hls/33bfd865534d200c28aa532ae0538c53/master.txt,2:360043,8:360043,2:359667,8:359667	leg=2:359666,2:359057,8:359666,8:359057
+Five Nights at Freddys 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/33bfd865534d200c28aa532ae0538c53/master.txt,6:1314400	leg=6:1314189
+Five Nights at Freddys O Pesadelo Sem Fim (2023)	dub=https://embedplayer2.xyz/cdn/hls/d39da243f3cb2a74cbd2ec375eaa5a48/master.txt,6:1302990	leg=6:1302723
 Fixacao Cruel (2019)	leg=6:1312569
 Fixies - Amigos Secretos	dub=2:43806,8:43806
 Fixies - Amigos Secretos (2017)	dub=6:1307915
@@ -446,11 +446,11 @@ Floor Jansen: Live in Amsterdam (2021)	dub=6:1309273
 Flops: Agentes Nada Secretos	dub=2:92005,8:92005
 Flops: Agentes Nada Secretos (2020)	dub=6:1308939
 Flor de Cacto	dub=2:309527,8:309527
-Flora e Filho - Música em Família	dub=2:367697,2:217198,8:367697,8:217198,2:217197,8:217197	leg=2:217196,8:217196
-Flora e Filho - Música em Família (2023)	dub=6:1309331	leg=6:1309332
+Flora e Filho - Música em Família	dub=https://embedplayer2.xyz/cdn/hls/ab1582542a59b5401b95d4338dd548be/master.txt,2:367697,2:217198,8:367697,8:217198,2:217197,8:217197	leg=2:217196,8:217196
+Flora e Filho - Música em Família (2023)	dub=https://embedplayer2.xyz/cdn/hls/ab1582542a59b5401b95d4338dd548be/master.txt,6:1309331	leg=6:1309332
 Flora e Ulysses	dub=2:95943,8:95943
-Flora e Ulysses (2021)	dub=6:1298278
-Florence: Quem é Essa Mulher?	dub=2:314690,8:314690	leg=2:314691,8:314691
+Flora e Ulysses (2021)	dub=https://embedplayer2.xyz/cdn/hls/6bdc44a6aa6877ea4fd730ccac0fe4c4/master.txt,6:1298278
+Florence: Quem é Essa Mulher?	dub=https://embedplayer2.xyz/cdn/hls/d33323c3c8c6aaabc4dff78858c946be/master.txt,2:314690,8:314690	leg=2:314691,8:314691
 Flores Humanas da Carne	leg=8:394636
 Flores Partidas	dub=2:369401,8:369401	leg=2:369400,8:369400
 Flores Raras	dub=2:333270,8:333270	leg=2:333269,8:333269
@@ -459,19 +459,19 @@ Flores de Aço (1989)	dub=6:1309405
 Flores de Natal	dub=2:31898,8:31898
 Flores de Natal (2018)	dub=6:1308216
 Flores do Oriente	dub=8:384211	leg=8:384210
-Florescendo	dub=2:267748,8:267748,2:267747,8:267747	leg=2:267749,8:267749
-Florescendo (2024)	dub=6:1309078
+Florescendo	dub=https://embedplayer2.xyz/cdn/hls/97e41fd7c55efe9e2cb2dd094ad7688d/master.txt,2:267748,8:267748,2:267747,8:267747	leg=2:267749,8:267749
+Florescendo (2024)	dub=https://embedplayer2.xyz/cdn/hls/97e41fd7c55efe9e2cb2dd094ad7688d/master.txt,6:1309078
 Floresta dos Suicidas	dub=2:162989,8:162989
 Floresta dos Suicidas (2013)	dub=6:1305622
 Florida Shark: Blood in the Water	dub=2:296747,8:296747
-Flow	dub=2:314464,2:301844,8:314464,8:301844,2:314463,2:300136,8:314463,8:300136
-Flow (2024)	dub=6:1312612
+Flow	dub=https://embedplayer2.xyz/cdn/hls/ab3577cf0b3b800c0e154d10e9ff535a/master.txt,2:314464,2:301844,8:314464,8:301844,2:314463,2:300136,8:314463,8:300136
+Flow (2024)	dub=https://embedplayer2.xyz/cdn/hls/ab3577cf0b3b800c0e154d10e9ff535a/master.txt,6:1312612
 Flubber: Uma Invenção Desmiolada (1997)	dub=6:1303843
 Fluidity	dub=2:160606,8:160606	leg=2:160607,8:160607
 Fluidity (2019)	dub=6:1305862	leg=6:1305863
 Fluminense Football Club - Centenario de uma Paixão (2002)	dub=6:1312221
 Flummels: Extintos!	dub=2:139259,8:139259	leg=2:139244,8:139244
-Flummels: Extintos! (2021)	dub=6:1304636	leg=6:1304637
+Flummels: Extintos! (2021)	dub=https://embedplayer2.xyz/cdn/hls/9207499240413c6ece71b9228cab4a43/master.txt,6:1304636	leg=6:1304637
 Flutuar	dub=8:261337,2:333272,2:261336,8:333272,8:261336	leg=2:333271,8:333271,8:261338
 Flutuar (2019)	dub=6:1313340
 Flutuar (2024)	dub=6:1305292	leg=6:1305293
@@ -486,12 +486,12 @@ Focus	dub=8:385790	leg=8:385789
 Focus (2001)	dub=6:1500985
 Fogaréu	dub=2:193074,8:193074
 Fogaréu (2022)	dub=6:1306426
-Fogo Contra Fogo	dub=2:92575,8:385815,8:92575	leg=8:385814
-Fogo Contra Fogo (1995)	dub=6:1300665
-Fogo Contra Fogo (2023)	dub=6:1501006
+Fogo Contra Fogo	dub=https://embedplayer2.xyz/cdn/hls/6cd9c8ebffde4f6e59207f74ef8e91b8/master.txt,2:92575,8:385815,8:92575	leg=8:385814
+Fogo Contra Fogo (1995)	dub=https://embedplayer2.xyz/cdn/hls/6cd9c8ebffde4f6e59207f74ef8e91b8/master.txt,6:1300665
+Fogo Contra Fogo (2023)	dub=https://embedplayer2.xyz/cdn/hls/4d66de4f71907865384078afa2b88e32/master.txt,6:1501006
 Fogo Cruzado	dub=2:314001,2:146817,8:314001,8:146817	leg=2:314002,2:146814,8:314002,8:146814
 Fogo Cruzado (2021)	dub=6:1301525
-Fogo Sombrio (2020)	leg=6:1308878
+Fogo Sombrio (2020)	dub=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt,6:1308878
 Fogo e Gelo (2008)	dub=6:1302185
 Fogo no Coracao (2018)	dub=6:1301320
 Fogo no Coração	dub=2:151971,8:151971	leg=2:151994,8:151994
@@ -504,8 +504,8 @@ Foi um Prazer	leg=2:246988,8:246988
 Foi um Prazer (2023)	leg=6:1311640
 Foi um Rápido Verão, Charlie Brown	dub=2:323980,8:323980	leg=2:323979,8:323979
 Foi um Tempo de Dor	dub=2:339763,8:339763
-Folhas de Outono	leg=2:249703,2:246188,8:249703,8:246188
-Folhas de Outono (2023)	leg=6:1311712
+Folhas de Outono	dub=https://embedplayer2.xyz/cdn/hls/b234f0c4815ff76d45170abb8563b676/master.txt	leg=2:249703,2:246188,8:249703,8:246188
+Folhas de Outono (2023)	dub=https://embedplayer2.xyz/cdn/hls/b234f0c4815ff76d45170abb8563b676/master.txt	leg=6:1311712
 Follow Me	leg=2:90736,8:90736
 Followed: Influência Maligna	dub=2:96847,8:96847
 Followed: Influência Maligna (2020)	dub=6:1308105
@@ -513,8 +513,8 @@ Following	leg=2:363800,8:363800
 Fome de Amor	dub=2:378045,8:378045
 Fome de Poder	dub=2:20991,8:20991
 Fome de Poder (2016)	dub=6:1297983
-Fome de Sucesso	dub=2:191479,8:191479	leg=2:191481,8:191481
-Fome de Sucesso (2023)	dub=6:1301089
+Fome de Sucesso	dub=https://embedplayer2.xyz/cdn/hls/7b360c9f66aeac14f3362d5680cdb31a/master.txt,2:191479,8:191479	leg=2:191481,8:191481
+Fome de Sucesso (2023)	dub=https://embedplayer2.xyz/cdn/hls/7b360c9f66aeac14f3362d5680cdb31a/master.txt,6:1301089
 Fomos Canções	dub=2:130259,8:130259	leg=2:130238,8:130238
 Fomos Heróis	dub=2:157975,8:157975
 Fomos Heróis (2002)	dub=6:1305470
@@ -534,20 +534,20 @@ Fora de Combate (2018)	dub=6:1307690
 Fora de Controle	dub=2:369225,2:352263,2:341058,2:120653,8:387608,8:369225,8:352263,8:341058,8:120653	leg=2:369224,2:352262,8:387605,8:369224,8:352262
 Fora de Controle (2002)	dub=6:1303400
 Fora de Controle (2008)	dub=6:1311489
-Fora de Controle (2023)	dub=6:1313976
-Fora de Controle (2025)	dub=6:1501283
-Fora de Mim	dub=2:297087,2:296571,8:297087,8:296571,2:296497,8:296497	leg=2:296498,8:296498
-Fora de Mim (2024)	dub=6:1312448	leg=6:1312447
+Fora de Controle (2023)	dub=https://embedplayer2.xyz/cdn/hls/49df39fc229daec60057ca451628c7f3/master.txt,6:1313976
+Fora de Controle (2025)	dub=https://embedplayer2.xyz/cdn/hls/deb7b268479c9b7984e748d782348c14/master.txt,6:1501283
+Fora de Mim	dub=https://embedplayer2.xyz/cdn/hls/64959a4130deda5bb501c1f0ca9f52b1/master.txt,2:297087,2:296571,8:297087,8:296571,2:296497,8:296497	leg=2:296498,8:296498
+Fora de Mim (2024)	dub=https://embedplayer2.xyz/cdn/hls/64959a4130deda5bb501c1f0ca9f52b1/master.txt,6:1312448	leg=6:1312447
 Fora de Serie (2019)	leg=6:1297721
 Fora de Sincronia	dub=2:320254,8:320254	leg=2:320253,8:320253
 Fora de Série	dub=2:368215,2:30393,8:368215,8:30393	leg=2:368214,8:368214
-Fora dos Muros da Escola	dub=2:279173,8:279173	leg=2:279174,8:279174
-Fora dos Muros da Escola II	dub=2:316359,8:316359	leg=2:316360,8:316360
-Fora dos Muros da Escola II (2023)	dub=6:1313368	leg=6:1305322
+Fora dos Muros da Escola	dub=https://embedplayer2.xyz/cdn/hls/840d6d028dd10ced802c1d7655ff42d9/master.txt,2:279173,8:279173	leg=2:279174,8:279174
+Fora dos Muros da Escola II	dub=https://embedplayer2.xyz/cdn/hls/b0400d26bef2522928e06c742b7fdb34/master.txt,2:316359,8:316359	leg=2:316360,8:316360
+Fora dos Muros da Escola II (2023)	dub=https://embedplayer2.xyz/cdn/hls/b0400d26bef2522928e06c742b7fdb34/master.txt,6:1313368	leg=6:1305322
 Fora dos Trilhos	dub=2:157957,8:157957	leg=2:157944,8:157944
-Fora dos Trilhos (2021)	dub=6:1306445	leg=6:1306446
-Forasteiros Malditos	dub=2:188931,8:188931	leg=2:188928,8:188928
-Forasteiros Malditos (2019)	dub=6:1303768
+Fora dos Trilhos (2021)	dub=https://embedplayer2.xyz/cdn/hls/003bb501dc511929ac85498933a8a7ad/master.txt,6:1306445	leg=6:1306446
+Forasteiros Malditos	dub=https://embedplayer2.xyz/cdn/hls/4882a4253867f8b3586eb0f22782212c/master.txt,2:188931,8:188931	leg=2:188928,8:188928
+Forasteiros Malditos (2019)	dub=https://embedplayer2.xyz/cdn/hls/4882a4253867f8b3586eb0f22782212c/master.txt,6:1303768
 Forbidden Fruits	dub=8:386192	leg=8:386191
 Forca Aerea Um (1997)	dub=6:1301397
 Forca Bruta (2022)	dub=6:1301335
@@ -711,7 +711,7 @@ Fortuna Perigosa	leg=2:275504,8:275504
 Fortuna Revelada Meu Marido E De Estouro	leg=8:389552
 Força Bruta	dub=2:196317,8:196317	leg=2:196316,8:196316
 Força Bruta: Punição	dub=2:353498,8:353498	leg=2:353497,8:353497
-Força Bruta: Sem Saída	dub=2:353496,8:353496	leg=2:353495,8:353495
+Força Bruta: Sem Saída	dub=https://embedplayer2.xyz/cdn/hls/f1fa499fed390a75213ab6d76c589ef1/master.txt,2:353496,8:353496	leg=https://embedplayer2.xyz/cdn/hls/343b9e45a67e70673bc8498ef6470843/master.txt,2:353495,8:353495
 Força Letal	dub=2:291880,8:291880	leg=2:291881,8:291881
 Força Maior	dub=2:314673,8:314673	leg=2:314674,8:314674
 Força Policial	dub=2:345122,8:345122	leg=2:345121,8:345121
@@ -725,14 +725,14 @@ Força para Viver (2014)	dub=6:1307331
 Forças Especiais	dub=2:311851,8:311851
 Forças Hostis	dub=2:343955,8:343955	leg=2:343954,8:343954
 Forças Malignas (2018)	dub=6:1308328
-Forças Obscuras	dub=2:354118,8:354118	leg=2:354117,8:354117
+Forças Obscuras	dub=https://embedplayer2.xyz/cdn/hls/edfcde6aeec939ac48f7ca10c7cde4fe/master.txt,2:354118,8:354118	leg=2:354117,8:354117
 Foster Adotados Pelo Sistema (2018)	dub=6:1302193
 Foster: Adotados Pelo Sistema	dub=2:186789,8:186789	leg=2:186778,8:186778
 Four Good Days	dub=2:136787,8:136787	leg=2:136772,8:136772
 Foxcatcher: Uma História Que Chocou o Mundo	dub=2:329611,8:329611	leg=2:329610,8:329610
 Foxcatcher: Uma História Que Chocou o Mundo (2014)	dub=6:1311436	leg=6:1311437
 Foxter & Max: Um Cachorro de Outro Mundo	dub=2:300657,8:300657
-Foxter e Max: Um Cachorro de Outro Mundo (2019)	dub=6:1312621
+Foxter e Max: Um Cachorro de Outro Mundo (2019)	dub=https://embedplayer2.xyz/cdn/hls/58ac6059dfbefc95f1a1d983e8c30e64/master.txt,6:1312621
 Fragmentado	dub=2:323724,2:21616,8:323724,8:21616	leg=2:323723,8:323723
 Fragmentado (2017)	dub=6:1297850
 Fragmentos da Vida	leg=8:394643
@@ -750,41 +750,41 @@ Frank & Penelope	dub=2:180307,8:180307	leg=2:180302,8:180302
 Frank & Penelope (2022)	dub=6:1300506
 Frank e o Robo (2012)	dub=6:1299667
 Frankenfish: Criatura Assassina (2004)	dub=6:1310208	leg=6:1310209
-Frankenstein	dub=2:352256,8:352256	leg=2:352255,8:352255
+Frankenstein	dub=https://embedplayer2.xyz/cdn/hls/8df3dacdf43752fc704d4ed933ecc04b/master.txt,2:352256,8:352256	leg=2:352255,8:352255
 Frankenstein (2004)	dub=6:1303990
 Frankenstein (2015)	dub=6:1303810
-Frankenstein (2025)	dub=6:1313982	leg=6:1313981
+Frankenstein (2025)	dub=https://embedplayer2.xyz/cdn/hls/8df3dacdf43752fc704d4ed933ecc04b/master.txt,6:1313982	leg=6:1313981
 Frankenstein Entre Anjos e Demônios (2014)	dub=6:1301159
 Frankenstein Vs A Mumia	dub=2:91415,8:91415
 Frankenstein de Mary Shelley (1994)	dub=6:1302178
 Frankenstein vs A Múmia (2015)	dub=6:1307450
 Frankenstein: Entre Anjos e Demônios	dub=2:192673,8:192673
-Frankenstein: Legacy	leg=2:254084,8:254084
-Frankenstein: Legacy (2025)	leg=6:1309470
+Frankenstein: Legacy	dub=https://embedplayer2.xyz/cdn/hls/c6df10970e3ae306c06f1c51ef3d1a60/master.txt	leg=2:254084,8:254084
+Frankenstein: Legacy (2025)	dub=https://embedplayer2.xyz/cdn/hls/c6df10970e3ae306c06f1c51ef3d1a60/master.txt	leg=6:1309470
 Frankenweenie	dub=2:352402,8:352402	leg=2:352401,8:352401
 Frankenweenie (2012)	dub=6:1300879
 Frankie	dub=2:148751,8:148751	leg=2:148749,8:148749
 Frankie (2019)	dub=6:1305757	leg=6:1305758
 Frankie e os Monstros	dub=2:359086,8:359086	leg=2:359085,8:359085
-Frankie e os Monstros (2025)	dub=6:1314186
+Frankie e os Monstros (2025)	dub=https://embedplayer2.xyz/cdn/hls/075ba8268afadd965f8543873c29525d/master.txt,6:1314186
 Franz	leg=8:386854
-Franz Klammer - A Lenda do Esqui	dub=2:280962,8:280962	leg=2:280963,8:280963
-Franz Klammer - A Lenda do Esqui (2021)	dub=6:1311851
+Franz Klammer - A Lenda do Esqui	dub=https://embedplayer2.xyz/cdn/hls/16b7092e66bbc95e283cab5229b12409/master.txt,2:280962,8:280962	leg=2:280963,8:280963
+Franz Klammer - A Lenda do Esqui (2021)	dub=https://embedplayer2.xyz/cdn/hls/16b7092e66bbc95e283cab5229b12409/master.txt,6:1311851
 Fratura	dub=2:30394,8:30394
-Fratura (2019)	dub=6:1308336
+Fratura (2019)	dub=https://embedplayer2.xyz/cdn/hls/8adc17ce37e5be1e81077c105676341e/master.txt,6:1308336
 Fração de Segundos	dub=2:47415,8:47415
 Fração de Segundos (2019)	dub=6:1303943
 Freaknik: A Festa Mais Selvagem	leg=2:254782,8:254782
 Freaknik: A Festa Mais Selvagem (2024)	leg=6:1309461
-Freaks Legendado	dub=2:31743,8:31743
+Freaks Legendado	leg=https://embedplayer2.xyz/cdn/hls/e8662e8b6e1665135a99e6d7527f2612/master.txt	dub=https://embedplayer2.xyz/cdn/hls/e8662e8b6e1665135a99e6d7527f2612/master.txt,2:31743,8:31743
 Freaks Um de Nós	dub=2:69938,8:69938
 Freaks: Um de Nós (2020)	dub=6:1308709
 Freaky	leg=2:89386,8:89386
-Freaky Friday Sexta Feira Muito Louca (2018)	dub=6:1303875
-Freaky Tales	dub=2:365030,8:365030	leg=2:365029,8:365029
-Freaky Tales (2025)	dub=6:1314272
-Freaky: No Corpo de um Assassino	dub=2:97158,8:97158
-Freaky: No Corpo de um Assassino (2020)	dub=6:1298334
+Freaky Friday Sexta Feira Muito Louca (2018)	dub=https://embedplayer2.xyz/cdn/hls/66c309fb69c81b2ac6304a61edfc9f5c/master.txt,6:1303875
+Freaky Tales	dub=https://embedplayer2.xyz/cdn/hls/e2431a5b8dc4cdf76846162c879eb9c6/master.txt,2:365030,8:365030	leg=2:365029,8:365029
+Freaky Tales (2025)	dub=https://embedplayer2.xyz/cdn/hls/e2431a5b8dc4cdf76846162c879eb9c6/master.txt,6:1314272
+Freaky: No Corpo de um Assassino	dub=https://embedplayer2.xyz/cdn/hls/b1cf2aa282aa1e4ba69eb218b3faf008/master.txt,2:97158,8:97158
+Freaky: No Corpo de um Assassino (2020)	dub=https://embedplayer2.xyz/cdn/hls/b1cf2aa282aa1e4ba69eb218b3faf008/master.txt,6:1298334
 Freddie Mercury: The Final Act (2022)	dub=6:1300591
 Freddy X Jason (2003)	dub=6:1297353
 Freddy vs. Jason	dub=8:385011	leg=8:385010
@@ -803,24 +803,24 @@ Free Willy 2 - A Aventura Continua (1995)	dub=6:1299457
 Free Willy 3 - O Resgate	dub=2:100356,8:100356
 Free Willy 3 - O Resgate (1997)	dub=6:1299458
 Freediver	dub=2:368184,8:368184	leg=2:368183,8:368183
-Freelance	leg=2:246191,8:246191
-Freelance (2023)	leg=6:1302981
+Freelance	dub=https://embedplayer2.xyz/cdn/hls/cc46f6542fcab2f32fb090769e2e5125/master.txt	leg=2:246191,8:246191
+Freelance (2023)	dub=https://embedplayer2.xyz/cdn/hls/cc46f6542fcab2f32fb090769e2e5125/master.txt	leg=6:1302981
 Freestyle	dub=2:214602,8:214602	leg=2:214607,8:214607
 Freestyle (2023)	dub=6:1302534
 Freiras em Fuga	leg=2:340460,8:340460
 Fremont	leg=2:252787,8:252787
 Fremont (2023)	leg=6:1309310
 French Girl	leg=8:256269
-French Lover	dub=2:345273,8:345273	leg=2:345272,8:345272
-French Lover (2025)	dub=6:1313863
+French Lover	dub=https://embedplayer2.xyz/cdn/hls/7770ff28cc4f8f5569284b15b765d1d7/master.txt,2:345273,8:345273	leg=2:345272,8:345272
+French Lover (2025)	dub=https://embedplayer2.xyz/cdn/hls/7770ff28cc4f8f5569284b15b765d1d7/master.txt,6:1313863
 Frente A Frente	dub=2:179812,8:394511,8:179812	leg=2:179815,8:394510,8:179815
 Frente A Frente (2022)	dub=6:1309230	leg=6:1309231
 Frente a Frente (2021)	dub=6:1303545
-Fresh	dub=2:157955,8:157955	leg=2:157977,8:157977
-Fresh (2022)	dub=6:1299366
+Fresh	dub=https://embedplayer2.xyz/cdn/hls/b89f7e1dcba24a146b3e14d1a04bfca9/master.txt,2:157955,8:157955	leg=2:157977,8:157977
+Fresh (2022)	dub=https://embedplayer2.xyz/cdn/hls/b89f7e1dcba24a146b3e14d1a04bfca9/master.txt,6:1299366
 Fresh Hell	dub=2:370723,8:370723	leg=2:370722,8:370722
-Fresh Hell: Adolescentes Mortos	dub=2:366888,8:366888	leg=2:366887,8:366887
-Fresh Hell: Lobos Contra o Mundo	dub=2:366886,8:366886	leg=2:366885,8:366885
+Fresh Hell: Adolescentes Mortos	dub=https://embedplayer2.xyz/cdn/hls/9f74ecf9b68527cd3a044c893f643a6c/master.txt,2:366888,8:366888	leg=2:366887,8:366887
+Fresh Hell: Lobos Contra o Mundo	dub=https://embedplayer2.xyz/cdn/hls/c7bbe69ed1e9ea4af8c015cb6854ac6a/master.txt,2:366886,8:366886	leg=2:366885,8:366885
 Freud: Além da Alma	dub=2:347115,8:347115	leg=2:347114,8:347114
 Frida	dub=2:333274,8:333274	leg=2:333273,2:254085,8:333273,8:254085
 Frida (2002)	dub=6:1300015
@@ -829,20 +829,20 @@ Friends The Reunion	leg=2:108586,8:108586
 Friends: A Reuniao (2021)	leg=6:1298476
 Friends: A Reunião	dub=2:255564,8:255564,2:112007,8:112007
 Frio nos Ossos	dub=2:200744,8:200744	leg=2:200745,8:200745
-Frio nos Ossos (2023)	dub=6:1301567
+Frio nos Ossos (2023)	dub=https://embedplayer2.xyz/cdn/hls/84c3321793bb3ab0aa2cb9a8e04b8cb3/master.txt,6:1301567
 Fritada Pablo Marcal	dub=2:255102,8:255102,2:255101,8:255101
 From Ground Zero Stories From Gaza	leg=2:378234,8:378234
 From The Depths	leg=2:103138,8:103138
 From Time to Time	dub=2:380466,8:380466
-From the Ashes: The Pit	dub=2:363497,8:363497	leg=2:363496,8:363496
+From the Ashes: The Pit	dub=https://embedplayer2.xyz/cdn/hls/49b2e593f73d380cbe323328db96c9a0/master.txt,2:363497,8:363497	leg=2:363496,8:363496
 From the Depths (2020)	leg=6:1308933
 From the River to the Sea - Um Filme Sobre a Guerra em Israel	dub=2:292294,8:292294,2:292293,8:292293	leg=2:292295,8:292295
 From the River to the Sea - Um Filme Sobre a Guerra em Israel (2024)	dub=6:1312370	leg=6:1312369
 Fronteira	dub=2:333574,8:333574
 Fronteira Do Medo (2019)	dub=6:1298628
-Fronteira Sombria	dub=2:297425,8:297425,2:278118,8:278118	leg=2:278119,8:278119
-Fronteira Sombria (2024)	dub=6:1311780
-Fronteira de Ódio	dub=2:341086,8:341086	leg=2:341085,8:341085
+Fronteira Sombria	dub=https://embedplayer2.xyz/cdn/hls/62d81531b75f593237279930fce1697f/master.txt,2:297425,8:297425,2:278118,8:278118	leg=2:278119,8:278119
+Fronteira Sombria (2024)	dub=https://embedplayer2.xyz/cdn/hls/62d81531b75f593237279930fce1697f/master.txt,6:1311780
+Fronteira de Ódio	dub=https://embedplayer2.xyz/cdn/hls/eaaa1f3629904efce7d2d6a445a4ff48/master.txt,2:341086,8:341086	leg=2:341085,8:341085
 Frontera	dub=2:329658,8:329658
 Frost/Nixon	dub=2:191474,8:191474
 Frost/Nixon (2008)	dub=6:1305558
@@ -850,12 +850,12 @@ Frosty: O Boneco de Neve (1969)	dub=6:1309791
 Frozen 2	dub=2:40530,8:40530,2:40376,8:40376	leg=2:35980,8:35980
 Frozen 2 - O Reino do Gelo (2019)	dub=6:1297798
 Frozen Febre Congelante	dub=2:20365,8:20365
-Frozen Hot Boys	dub=8:390551,2:318097,8:318097	leg=2:318098,8:318098
-Frozen Uma Aventura Congelante (2013)	dub=6:1297487
-Frozen, Uma Aventura Congelante	dub=2:20366,8:20366
+Frozen Hot Boys	dub=https://embedplayer2.xyz/cdn/hls/66ac5daff1735a5b86d16cbb62c00283/master.txt,8:390551,2:318097,8:318097	leg=2:318098,8:318098
+Frozen Uma Aventura Congelante (2013)	dub=https://embedplayer2.xyz/cdn/hls/32d0a3257dc869445de123a0a640ac96/master.txt,6:1297487
+Frozen, Uma Aventura Congelante	dub=https://embedplayer2.xyz/cdn/hls/32d0a3257dc869445de123a0a640ac96/master.txt,2:20366,8:20366
 Frozen: Febre Congelante (2015)	dub=6:1310187
-Frozen: O Musical	leg=2:350962,2:329640,8:350962,8:329640
-Frozen: O Musical (2025)	leg=6:1313616
+Frozen: O Musical	dub=https://embedplayer2.xyz/cdn/hls/85109e7b9dc0a15ad0acd812812b266e/master.txt	leg=2:350962,2:329640,8:350962,8:329640
+Frozen: O Musical (2025)	dub=https://embedplayer2.xyz/cdn/hls/85109e7b9dc0a15ad0acd812812b266e/master.txt	leg=6:1313616
 Fruitvale Station: A Última Parada	dub=2:373819,2:170835,8:373819,8:170835	leg=2:373818,8:373818
 Fruitvale Station: A Última Parada (2013)	dub=6:1305600
 Frutas Proibidas	dub=8:386886
@@ -863,12 +863,12 @@ Fréamhacha	leg=2:322811,8:322811
 Fuego Negro	leg=2:68446,8:68446
 Fuga	dub=2:30540,8:30540
 Fuga (2012)	dub=6:1303477
-Fuga Fatal	dub=2:354016,8:354016	leg=2:354015,8:354015
-Fuga Fatal (2025)	dub=6:1314081
+Fuga Fatal	dub=https://embedplayer2.xyz/cdn/hls/331c10b265fff08f19d9e829a8939f56/master.txt,2:354016,8:354016	leg=2:354015,8:354015
+Fuga Fatal (2025)	dub=https://embedplayer2.xyz/cdn/hls/331c10b265fff08f19d9e829a8939f56/master.txt,6:1314081
 Fuga Implacavel (2012)	dub=6:1300717
 Fuga Implacável	dub=2:104410,8:104410
 Fuga Para A Liberdade	dub=2:375930,8:375930	leg=2:375929,8:375929
-Fuga da Alemanha (2024)	dub=6:1313990
+Fuga da Alemanha (2024)	dub=https://embedplayer2.xyz/cdn/hls/82f78ac62b7b02f4207fdb77cd17d3c5/master.txt,6:1313990
 Fuga da Biblioteca do Sr. Lemoncello	dub=2:161958,8:161958
 Fuga da Biblioteca do Sr. Lemoncello (2017)	dub=6:1305722
 Fuga da Meia-Noite	dub=2:157429,8:157429	leg=2:157435,8:157435
@@ -892,25 +892,25 @@ Fuga do Passado (1947)	dub=6:1300523
 Fuga do Planeta dos Macacos (1971)	dub=6:1305027
 Fuga para a Vitoria (1981)	dub=6:1300016
 Fuga pela Fronteira	dub=2:89592,8:89592
-Fuga pela Fronteira (2020)	dub=6:1308659
+Fuga pela Fronteira (2020)	dub=https://embedplayer2.xyz/cdn/hls/edec31cd235d9a1f2c6800ab57f031f0/master.txt,6:1308659
 Fuga à Meia-Noite	dub=2:350985,8:350985
 Fugindo da Morte	dub=2:264726,8:264726	leg=2:264727,8:264727
-Fugindo da Morte (2023)	dub=6:1304143
+Fugindo da Morte (2023)	dub=https://embedplayer2.xyz/cdn/hls/5ce0798b94120b214e74fb95c976149c/master.txt,6:1304143
 Fugindo da Terra do Nunca	dub=2:288812,8:288812	leg=2:288813,8:288813
 Fugindo do Amor	dub=2:115497,8:115497
 Fugindo do Amor (2021)	dub=6:1311217
 Fugindo do Paraiso (2023)	dub=6:1311980	leg=6:1311979
 Fugindo do Paraíso	dub=2:283251,8:283251	leg=2:283252,8:283252
 Fugindo do Passado	dub=2:311852,8:311852	leg=2:311853,8:311853
-Fugitivo por Acidente	dub=2:321011,8:321011	leg=2:321010,8:321010
-Fugitivo por Acidente (2025)	dub=6:1313510	leg=6:1313509
-Fuja	dub=2:100983,8:100983,2:100943,8:390146,8:100943
-Fuja (2020)	dub=6:1298382
+Fugitivo por Acidente	dub=https://embedplayer2.xyz/cdn/hls/82c2799afc2968a081620ded6271cb00/master.txt,2:321011,8:321011	leg=2:321010,8:321010
+Fugitivo por Acidente (2025)	dub=https://embedplayer2.xyz/cdn/hls/82c2799afc2968a081620ded6271cb00/master.txt,6:1313510	leg=6:1313509
+Fuja	dub=https://embedplayer2.xyz/cdn/hls/5c490d08e01c98690ee0d4f06312bb8c/master.txt,2:100983,8:100983,2:100943,8:390146,8:100943
+Fuja (2020)	dub=https://embedplayer2.xyz/cdn/hls/5c490d08e01c98690ee0d4f06312bb8c/master.txt,6:1298382
 Fuja da Luz	dub=2:258318,8:258318	leg=2:258319,8:258319
 Fuja da Luz (2022)	dub=6:1303567
 Fuks 2	dub=2:320041,8:320041	leg=2:320040,8:320040
 Fukushima - Ameaça Nuclear	dub=2:89299,8:89299
-Fukushima: Ameaça Nuclear (2020)	dub=6:1308300
+Fukushima: Ameaça Nuclear (2020)	dub=https://embedplayer2.xyz/cdn/hls/04e5a8e257636bed414af5cb565a8b79/master.txt,6:1308300
 Fukushima: Um Pesadelo Nuclear	leg=8:395729
 Full Out 2: You Got This!	dub=2:92015,8:92015
 Full Out 2: You Got This! (2020)	dub=6:1308806
@@ -935,19 +935,19 @@ Furia Assassina (2024)	dub=6:1309146	leg=6:1309145
 Furia De Titas 2 (2012)	dub=6:1297717
 Furia Incontrolavel	dub=2:98817,8:98817
 Furia Incontrolavel (2020)	dub=6:1298564
-Furia Primitiva (2024)	dub=6:1307007	leg=6:1303502
+Furia Primitiva (2024)	dub=https://embedplayer2.xyz/cdn/hls/6e64c5c9216c631ba4e2609668eb7700/master.txt,6:1307007	leg=6:1303502
 Furia da Natureza (2023)	dub=6:1314498
 Furia de Titas (2010)	dub=6:1297716
 Furia em Alto Mar	dub=2:22504,8:22504,2:21435,8:21435
 Furia em Alto Mar (2018)	dub=6:1298354
-Furia no Asfalto (2025)	dub=6:1314616
+Furia no Asfalto (2025)	dub=https://embedplayer2.xyz/cdn/hls/89933133dee319d6bcd8f6388c8abdf2/master.txt,6:1314616
 Furiosa: A Mad Max Saga - Black & Chrome Edition	dub=2:281312,8:281312	leg=2:281313,8:281313
-Furiosa: Uma Saga Mad Max	dub=2:266649,8:266649,2:266648,8:266648	leg=2:266650,8:266650
-Furiosa: Uma Saga Mad Max (2024)	dub=6:1306988	leg=6:1306987
+Furiosa: Uma Saga Mad Max	dub=https://embedplayer2.xyz/cdn/hls/a1546d615096732eb3c33d825f66d347/master.txt,2:266649,8:266649,2:266648,8:266648	leg=2:266650,8:266650
+Furiosa: Uma Saga Mad Max (2024)	dub=https://embedplayer2.xyz/cdn/hls/a1546d615096732eb3c33d825f66d347/master.txt,6:1306988	leg=6:1306987
 Furioza	dub=2:157428,8:157428	leg=2:157427,8:157427
 Furioza (2021)	dub=6:1306740	leg=6:1306741
-Furioza 2	dub=2:348301,8:348301	leg=2:348300,8:348300
-Furioza 2 (2025)	dub=6:1313909
+Furioza 2	dub=https://embedplayer2.xyz/cdn/hls/921ac3225b0db583835b5ba6ac3e4def/master.txt,2:348301,8:348301	leg=2:348300,8:348300
+Furioza 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/921ac3225b0db583835b5ba6ac3e4def/master.txt,6:1313909
 Futebol em Apuros	dub=2:179752,8:179752	leg=2:179775,8:179775
 Futebol em Apuros (2022)	dub=6:1300666
 Futurama - A Besta de Um Bilhão de Traseiros (2008)	dub=6:1311963
@@ -963,22 +963,22 @@ Fábrica de Sonhos	dub=2:358099,8:358099	leg=2:358098,8:358098
 Fátima	dub=2:317228,8:395688,8:317228
 Fátima - A História de um Milagre	dub=2:189914,8:189914	leg=2:189912,8:189912
 Fátima no Brasil	dub=2:348795,8:348795
-Fã ou Hater?	dub=2:320754,8:320754,2:320082,8:320082	leg=2:320081,8:320081
+Fã ou Hater?	dub=https://embedplayer2.xyz/cdn/hls/a30d049b8955a5410eec9c8b486c5d2a/master.txt,2:320754,8:320754,2:320082,8:320082	leg=2:320081,8:320081
 Fé Demais Não Cheira Bem (1992)	dub=6:1307140
-Fé Para o Impossível (2025)	dub=6:1313540
+Fé Para o Impossível (2025)	dub=https://embedplayer2.xyz/cdn/hls/e91620c6470ccf27cc8e9b25b242e116/master.txt,6:1313540
 Fé nas Alturas	dub=2:190768,8:190768,2:190575,8:190575	leg=2:190576,8:190576
 Fé para o Impossível	dub=2:323402,8:323402	leg=2:323401,8:323401
-Fé. Esperança. Amor.	dub=2:212703,8:212703	leg=2:212702,8:212702
-Fé. Esperança. Amor. (2021)	dub=6:1311240	leg=6:1311241
+Fé. Esperança. Amor.	dub=https://embedplayer2.xyz/cdn/hls/765ff91e857fc9a27a88de11639ddd33/master.txt,2:212703,8:212703	leg=2:212702,8:212702
+Fé. Esperança. Amor. (2021)	dub=https://embedplayer2.xyz/cdn/hls/765ff91e857fc9a27a88de11639ddd33/master.txt,6:1311240	leg=6:1311241
 Fédro	dub=2:236317,8:236317
 Férias Forçadas	dub=2:366726,8:366726	leg=2:366725,8:366725
-Férias Frustradas (1983)	dub=2:249715,6:1303330,8:249715
-Férias Frustradas II (1985)	dub=6:1309536
+Férias Frustradas (1983)	dub=https://embedplayer2.xyz/cdn/hls/c68aae735e202c3dc912bc48fe0a7f92/master.txt,2:249715,6:1303330,8:249715
+Férias Frustradas II (1985)	dub=https://embedplayer2.xyz/cdn/hls/2c1c82d19a1d8b23881873aad9232a00/master.txt,6:1309536
 Férias Frustradas em Las Vegas	dub=2:122896,8:122896
-Férias Macabras	dub=2:316751,8:316751	leg=2:316752,8:316752
-Férias Trocadas	dub=2:276101,8:276101	leg=2:276102,8:276102
+Férias Macabras	dub=https://embedplayer2.xyz/cdn/hls/d21ad20a133b259f5fefa0c63f522291/master.txt,2:316751,8:316751	leg=2:316752,8:316752
+Férias Trocadas	dub=https://embedplayer2.xyz/cdn/hls/95ad4d0631dd3475f7796ef0243fd1aa/master.txt,2:276101,8:276101	leg=2:276102,8:276102
 Férias a Todo Custo	dub=2:254848,8:254848	leg=2:254849,8:254849
-Férias a Todo Custo (2020)	dub=6:1311665	leg=6:1311666
+Férias a Todo Custo (2020)	dub=https://embedplayer2.xyz/cdn/hls/1e1b6a557c2048bb4e40ed7190d2aae2/master.txt,6:1311665	leg=6:1311666
 Férias de Verão	dub=2:224972,8:224972	leg=2:224968,8:224968
 Férias do Barulho (1985)	dub=6:1309902
 Férias em Taipei	dub=2:211620,8:211620,2:210989,8:210989	leg=2:210990,8:210990
@@ -992,9 +992,9 @@ Fórmula selvagem	dub=2:347665,8:347665
 Fúria Assassina	dub=2:273065,8:273065	leg=2:273066,8:273066
 Fúria Mortal	dub=2:347145,2:124511,8:347145,8:124511	leg=2:347144,8:347144
 Fúria Mortal (1991)	dub=6:1309819
-Fúria Primitiva	dub=2:267750,8:267750,2:267627,8:267627	leg=2:267628,8:267628
-Fúria Sem Limites	dub=2:294919,8:294919
-Fúria Sobre Rodas	dub=2:320756,2:77613,8:320756,8:77613	leg=2:320755,8:320755
+Fúria Primitiva	dub=https://embedplayer2.xyz/cdn/hls/6e64c5c9216c631ba4e2609668eb7700/master.txt,2:267750,8:267750,2:267627,8:267627	leg=2:267628,8:267628
+Fúria Sem Limites	dub=https://embedplayer2.xyz/cdn/hls/15157c6680b8bf0b3426df25d8165ace/master.txt,2:294919,8:294919
+Fúria Sobre Rodas	dub=https://embedplayer2.xyz/cdn/hls/2de2c6c989965fd831220baf1cf891ff/master.txt,2:320756,2:77613,8:320756,8:77613	leg=2:320755,8:320755
 Fúria Sobre Rodas (2003)	dub=2:103991,6:1307043,8:103991
 Fúria Sobre Rodas (2011)	dub=6:1307873
 Fúria da Natureza	dub=2:361350,8:361350,2:343213,8:343213	leg=2:343212,8:343212
@@ -1002,7 +1002,7 @@ Fúria de Titãs	dub=2:382402,2:20028,8:382402,8:20028	leg=2:382401,8:382401
 Fúria de Titãs 2	dub=2:20029,8:390266,8:20029
 Fúria em Duas Rodas	dub=2:20030,8:20030
 Fúria em Duas Rodas (2004)	dub=6:1309372
-Fúria no Asfalto	dub=2:381391,8:381391	leg=2:381390,8:381390
+Fúria no Asfalto	dub=https://embedplayer2.xyz/cdn/hls/89933133dee319d6bcd8f6388c8abdf2/master.txt,2:381391,8:381391	leg=2:381390,8:381390
 Fúrias Femininas	dub=2:189894,8:189894	leg=2:189924,8:189924
 Fúrias Femininas (2022)	dub=6:1306958	leg=6:1306959
 Führer Ex	dub=2:370905,8:370905	leg=2:370904,8:370904
