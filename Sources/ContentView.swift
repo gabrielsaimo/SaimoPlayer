@@ -291,8 +291,15 @@ private struct ControlBar: View {
 
             Spacer(minLength: 8)
 
-            if !model.audioChoices.isEmpty || !model.subtitleChoices.isEmpty {
+            if model.isPlaying {
                 Menu {
+                    Section("Qualidade") {
+                        ForEach(model.qualityChoices) { c in
+                            Button { model.selectQuality(c.id) } label: {
+                                Label(c.title, systemImage: model.selectedQuality == c.id ? "checkmark" : "")
+                            }
+                        }
+                    }
                     if !model.audioChoices.isEmpty {
                         Section("Áudio") {
                             ForEach(model.audioChoices) { c in
@@ -312,12 +319,12 @@ private struct ControlBar: View {
                         }
                     }
                 } label: {
-                    Image(systemName: "captions.bubble")
+                    Image(systemName: "slider.horizontal.3")
                 }
                 .menuStyle(.borderlessButton)
                 .menuIndicator(.hidden)
                 .frame(width: 26)
-                .help("Áudio e legendas")
+                .help("Qualidade, áudio e legendas")
             }
 
             Menu {

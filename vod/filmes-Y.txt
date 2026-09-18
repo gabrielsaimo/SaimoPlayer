@@ -1,19 +1,19 @@
-Y2K	leg=2:305587,8:305587
-Y2K (2024)	leg=6:1312957
-Y2K: Bomba-Relógio	leg=2:246972,8:246972
-Y2K: Bomba-Relógio (2023)	leg=6:1309410
-Y2K: O Bug do Milênio	dub=2:320777,8:320777	leg=2:320776,8:320776
-Y2K: O Bug do Milênio (2024)	dub=6:1313505
+Y2K	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt	leg=2:305587,8:305587
+Y2K (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt	leg=6:1312957
+Y2K: Bomba-Relógio	dub=https://embedplayer2.xyz/cdn/hls/7fb75098a132e4a1dfdd60fc9831cacc/master.txt	leg=2:246972,8:246972
+Y2K: Bomba-Relógio (2023)	dub=https://embedplayer2.xyz/cdn/hls/7fb75098a132e4a1dfdd60fc9831cacc/master.txt	leg=6:1309410
+Y2K: O Bug do Milênio	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,2:320777,8:320777	leg=2:320776,8:320776
+Y2K: O Bug do Milênio (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,6:1313505
 YOLO: O Destino de Le Ying	dub=2:284054,8:284054	leg=2:284055,8:284055
-Yaksha: Operação Implacável	dub=2:157430,8:157430	leg=2:157424,8:157424
-Yaksha: Operação Implacável (2022)	dub=6:1305994	leg=6:1305995
+Yaksha: Operação Implacável	dub=https://embedplayer2.xyz/cdn/hls/102761ac73d74aa0adcfbcb3d8b396d4/master.txt,2:157430,8:157430	leg=2:157424,8:157424
+Yaksha: Operação Implacável (2022)	dub=https://embedplayer2.xyz/cdn/hls/102761ac73d74aa0adcfbcb3d8b396d4/master.txt,6:1305994	leg=6:1305995
 Yannick	leg=2:256858,8:256858
 Yannick (2023)	leg=6:1309463
-Yara	dub=2:136800,8:136800	leg=2:136773,8:136773
-Yara (2021)	dub=6:1298931
+Yara	dub=https://embedplayer2.xyz/cdn/hls/fe9f25cbe0266d9862d80c7d0d116379/master.txt,2:136800,8:136800	leg=2:136773,8:136773
+Yara (2021)	dub=https://embedplayer2.xyz/cdn/hls/fe9f25cbe0266d9862d80c7d0d116379/master.txt,6:1298931
 Yaõkwa - Imagem e Memória	dub=2:281523,8:281523
 Yellow Mirror	dub=8:394261	leg=8:394260
-Yellow Mirror A Realidade Paralela de Homer (2026)	dub=6:1502425
+Yellow Mirror A Realidade Paralela de Homer (2026)	dub=https://embedplayer2.xyz/cdn/hls/8818c487ae87947d4faac9c8e131914a/master.txt,6:1502425
 Yellowbird O Pequeno Herói (2014)	dub=6:1313073
 Yes (2005)	dub=6:1312594
 Yesterday	dub=2:30528,8:30528
@@ -29,18 +29,18 @@ You Can't Escape Me (2023)	dub=6:1305453
 You Hurt My Feelings	leg=2:202575,8:202575
 You Should Have Left	leg=2:48234,8:48234
 You Tubers	dub=2:353687,8:353687
-You Tubers (2020)	dub=6:1314035
-You'll Never Find Me	leg=2:255027,8:255027
-You'll Never Find Me (2023)	leg=6:1309478
+You Tubers (2020)	dub=https://embedplayer2.xyz/cdn/hls/94f84b472427e0e45533d815b6d0c5f7/master.txt,6:1314035
+You'll Never Find Me	dub=https://embedplayer2.xyz/cdn/hls/e721cb7cf69f851e30cdf5d97a98fa02/master.txt	leg=2:255027,8:255027
+You'll Never Find Me (2023)	dub=https://embedplayer2.xyz/cdn/hls/e721cb7cf69f851e30cdf5d97a98fa02/master.txt	leg=6:1309478
 You're a Good Sport, Charlie Brown	dub=2:324021,8:324021	leg=2:324020,8:324020
 You, Always	leg=8:391150
 Youngblood	leg=2:378250,8:378250
-Your Lucky Day	leg=2:246965,8:246965
-Your Lucky Day (2023)	leg=6:1311557
-Your Name (2016)	dub=6:1303288
+Your Lucky Day	dub=https://embedplayer2.xyz/cdn/hls/caf31470d484bc7ec830989130412f46/master.txt	leg=2:246965,8:246965
+Your Lucky Day (2023)	dub=https://embedplayer2.xyz/cdn/hls/caf31470d484bc7ec830989130412f46/master.txt	leg=6:1311557
+Your Name (2016)	dub=https://embedplayer2.xyz/cdn/hls/40356c7004dec9597eb6c47b0ca00cf9/master.txt,6:1303288
 Your Name Engraved Herein	leg=2:90758,8:90758
 Youth	leg=8:389681
-Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	dub=6:1297828
+Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	dub=https://embedplayer2.xyz/cdn/hls/04d62f1312ce08f0043f4e82adf358dc/master.txt,6:1297828
 Yu-Gi-Oh! O Filme: Pirâmide de Luz	dub=2:375064,8:375064
 Yucatán	dub=2:76921,8:76921
 Yucatán (2018)	dub=6:1308086
