@@ -445,12 +445,13 @@ struct VodGridView: View {
     }
 
     /// A melhor resolução anunciada entre as fontes do filme, para a capa.
+    /// Mostrar também FHD/HD/SD evita que a ausência do selo 4K pareça
+    /// qualidade desconhecida.
     private func seloDoFilme(_ filme: Filme) -> String? {
         let melhor = filme.fontes.values.flatMap { $0 }
             .compactMap(Vod.qualidade(de:))
             .min { Vod.posicao(daQualidade: $0) < Vod.posicao(daQualidade: $1) }
-        guard let melhor, Vod.posicao(daQualidade: melhor) <= 1 else { return nil }
-        return melhor.uppercased()
+        return melhor?.uppercased()
     }
 
     private func detalheFilme(_ filme: Filme) -> String {
@@ -627,12 +628,11 @@ struct VodGridView: View {
                        total: pares.count, qualidade: Vod.qualidade(de: par.1))
         }
         guard let unica = opcoes.first else { return }
-        // Só um idioma: não há escolha a fazer, e a melhor já está na frente.
-        // As outras vão junto como reserva, para o player descer sozinho
-        // quando a primeira falhar.
-        let umIdiomaSo = Set(opcoes.map(\.versao)).count == 1
-        if opcoes.count == 1 || umIdiomaSo {
-            tocar(nome, opcoes.map(\.url),
+        // Uma fonte abre direto. Duas ou mais aparecem sempre, mesmo quando
+        // todas são dubladas: servidor e resolução podem ser diferentes e a
+        // pessoa precisa escolher antes de abrir o episódio.
+        if opcoes.count == 1 {
+            tocar(nome, [unica.url],
                   detalhe: detalheDaFonte(detalhe, unica), chave: chave)
         } else {
             selecaoFonte = SelecaoFonte(nome: nome, detalhe: detalhe,
