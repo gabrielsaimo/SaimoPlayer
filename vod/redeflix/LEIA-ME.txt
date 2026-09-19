@@ -1,0 +1,17 @@
+LISTAS DE IDS REDEFLIX
+
+Esta pasta é atualizada toda segunda-feira pela automação do GitHub.
+Os arquivos ids-*.txt preservam a ordem recebida: itens novos aparecem no topo.
+Os arquivos episodios-*.txt permitem detectar episódios acrescentados a séries
+que já existiam. catalogo-series.txt, catalogo-animes.txt e
+catalogo-doramas.txt mantêm as categorias separadas para uso futuro nos apps.
+Os arquivos links-*.txt contêm somente fontes finais confirmadas e já estão no
+formato compacto aceito pelos apps; animes e doramas permanecem separados.
+
+Atualização manual dos IDs:
+python3 atualizar_redeflix.py
+
+Geração/retomada dos links e aplicação no catálogo atual:
+python3 atualizar_redeflix.py --gerar --aplicar --repetir-erros
+
+O gerador usa somente IDs TMDB/IMDb exatos; nomes nunca decidem associações.

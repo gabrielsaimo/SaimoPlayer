@@ -77,8 +77,8 @@ A Ascensão dos Mortos	dub=https://embedplayer2.xyz/cdn/hls/91a9ab2f64fbdd9f8aad
 A Assassina Perfeita (2017)	dub=6:1303968
 A Assistente	dub=2:349839,2:91452,8:349839,8:91452	leg=2:349838,8:349838
 A Assistente (2020)	dub=6:1300418
-A Astronauta	dub=2:367423,8:367423	leg=2:367422,2:349011,8:367422,8:349011
-A Astronauta (2025)	dub=6:1314325	leg=6:1313932
+A Astronauta	dub=https://embedplayer2.xyz/cdn/hls/145c42ef5fa35c4c2de64a29b1fda06d/master.txt,2:367423,8:367423	leg=2:367422,2:349011,8:367422,8:349011
+A Astronauta (2025)	dub=https://embedplayer2.xyz/cdn/hls/145c42ef5fa35c4c2de64a29b1fda06d/master.txt,6:1314325	leg=6:1313932
 A Autopsia	dub=2:21677,8:21677
 A Autopsia (2016)	dub=6:1297971
 A Avaliação	dub=https://embedplayer2.xyz/cdn/hls/0605afd828b834d333bc37dae2f80189/master.txt,2:320764,8:320764,2:320749,8:320749	leg=2:320748,8:320748
@@ -396,7 +396,7 @@ A Civil (2021)	dub=6:1300636
 A Clínica	dub=2:267952,8:267952	leg=2:267953,8:267953
 A Cobra do Alabama	dub=2:202628,8:202628	leg=2:202627,8:202627
 A Cobra do Alabama (2020)	dub=6:1302239
-A Coisa	dub=2:371842,2:348134,8:371842,8:348134	leg=2:348133,8:348133
+A Coisa	dub=https://embedplayer2.xyz/cdn/hls/743dabc4e80a40aa9d1bd06d821d6ebe/master.txt,2:371842,2:348134,8:371842,8:348134	leg=2:348133,8:348133
 A Coisa (2011)	dub=https://embedplayer2.xyz/cdn/hls/743dabc4e80a40aa9d1bd06d821d6ebe/master.txt,6:1308539
 A Colega Perfeita	dub=2:375096,8:375096,2:374637,8:374637	leg=2:374636,8:374636
 A Colega Perfeita (2026)	dub=6:1314500
@@ -804,7 +804,7 @@ A Filha do Presidente (2004)	dub=6:1297454
 A Filha do Rei	dub=2:145959,8:145959	leg=2:145955,8:145955
 A Filha do Rei (2022)	dub=6:1299136,6:1301882
 A Filha do Rei do Pantano (2023)	dub=https://embedplayer2.xyz/cdn/hls/9c5e841446be00189786c82f4efca573/master.txt	leg=6:1302891
-A Filha do Rei do Pântano	dub=2:241311,8:241311,2:241297,8:241297	leg=2:241298,8:241298
+A Filha do Rei do Pântano	dub=https://embedplayer2.xyz/cdn/hls/9c5e841446be00189786c82f4efca573/master.txt,2:241311,8:241311,2:241297,8:241297	leg=2:241298,8:241298
 A Filha dos Trapalhões	dub=2:64365,8:64365
 A Final: Caos em Wembley	dub=2:259322,8:259322	leg=2:259323,8:259323
 A Final: Caos em Wembley (2024)	dub=6:1305006	leg=6:1305007
@@ -870,7 +870,7 @@ A Fuga Das Galinhas	dub=https://embedplayer2.xyz/cdn/hls/fa999814c2ced902e9a6fa6
 A Fuga Das Galinhas (2000)	dub=https://embedplayer2.xyz/cdn/hls/fa999814c2ced902e9a6fa69daf5ddcc/master.txt,6:1297815
 A Fuga das Galinhas A Ameaça dos Nuggets (2023)	dub=6:1302992
 A Fuga das Galinhas: A Ameaça dos Nuggets	dub=2:235513,8:235513,2:233472,8:233472	leg=2:233487,8:233487
-A Fuga de Akilla	dub=2:164220,8:164220	leg=2:164219,8:164219
+A Fuga de Akilla	dub=https://embedplayer2.xyz/cdn/hls/a14f61b7df9581eecb72b1181f9a31fc/master.txt,2:164220,8:164220	leg=2:164219,8:164219
 A Fuga de Akilla (2021)	dub=https://embedplayer2.xyz/cdn/hls/a14f61b7df9581eecb72b1181f9a31fc/master.txt,6:1303772
 A Fuga de Alice	dub=https://embedplayer2.xyz/cdn/hls/95d6a16d36d968a8cfb6abd03a1ba0ae/master.txt,2:233473,8:233473	leg=2:233488,8:233488
 A Fuga de Alice (2021)	dub=https://embedplayer2.xyz/cdn/hls/95d6a16d36d968a8cfb6abd03a1ba0ae/master.txt,6:1310662	leg=6:1310663
@@ -970,7 +970,7 @@ A Glitch in the Matrix (2021)	leg=6:1308805
 A Glória Por Eles	dub=2:311807,8:311807
 A Good Person	dub=2:200861,8:200861	leg=2:200862,8:200862
 A Grand Ole Opry Christmas	leg=2:362827,8:362827
-A Grande Aposta	dub=2:101168,8:386211,8:101168
+A Grande Aposta	dub=https://embedplayer2.xyz/cdn/hls/7d157c0c808aa7f3da6678d4249c30eb/master.txt,2:101168,8:386211,8:101168
 A Grande Aposta (2015)	dub=https://embedplayer2.xyz/cdn/hls/7d157c0c808aa7f3da6678d4249c30eb/master.txt,6:1299082
 A Grande Aventura de Blue na Cidade	dub=2:180567,8:180567	leg=2:180568,8:180568
 A Grande Aventura de Blue na Cidade (2022)	dub=6:1300479
@@ -1040,7 +1040,7 @@ A Guerra dos Botões	dub=2:317041,8:317041
 A Guerra dos Caipiras (2017)	leg=6:1312833
 A Guerra dos Consoles	dub=2:114396,8:114396
 A Guerra dos Consoles (2020)	leg=6:1298439
-A Guerra dos Deuses	dub=2:316839,2:296455,8:316839,8:296455	leg=2:316840,2:296456,8:316840,8:296456
+A Guerra dos Deuses	dub=https://embedplayer2.xyz/cdn/hls/eeb87b8ec26a85b2441780b5a18061fe/master.txt,2:316839,2:296455,8:316839,8:296455	leg=2:316840,2:296456,8:316840,8:296456
 A Guerra dos Deuses (2022)	dub=https://embedplayer2.xyz/cdn/hls/eeb87b8ec26a85b2441780b5a18061fe/master.txt,6:1313383
 A Guerra dos Mundos	dub=2:337571,8:337571	leg=2:337570,8:337570
 A Guerra dos Mundos (2025)	dub=6:1313706
@@ -1072,7 +1072,7 @@ A Historia de Gabby Douglas	dub=2:26436,8:26436
 A Historia de James Brady (1991)	dub=6:1298869
 A Historia de Kaminski O Pintor Cego (2015)	dub=6:1300486
 A Historia do Hino Americano (2023)	dub=6:1301568
-A Historia do Som (2025)	dub=6:1314430	leg=6:1314429
+A Historia do Som (2025)	dub=https://embedplayer2.xyz/cdn/hls/86cecbf7fab9d6d204bdd55ee660f450/master.txt,6:1314430	leg=6:1314429
 A Historia sem Fim (1984)	dub=6:1299230
 A História Pessoal de David Copperfield	dub=2:93483,8:93483
 A História Real de um Assassino Falso	dub=2:362590,8:362590	leg=2:362589,8:362589
@@ -1417,7 +1417,7 @@ A Luta pela Esperanca (2005)	dub=6:1301429
 A Luz Divina	dub=2:21511,6:1298683,8:21511
 A Luz Entre Oceanos	dub=2:28603,8:28603
 A Luz Entre Oceanos (2016)	dub=6:1298106
-A Luz do Demonio (2022)	dub=6:1300841	leg=6:1300842
+A Luz do Demonio (2022)	dub=https://embedplayer2.xyz/cdn/hls/3f1606284af1aba965ee5e918ed0c2d5/master.txt,6:1300841	leg=6:1300842
 A Luz do Demônio	dub=https://embedplayer2.xyz/cdn/hls/3f1606284af1aba965ee5e918ed0c2d5/master.txt,2:182618,8:182618	leg=2:182622,8:182622
 A Luz no Fim do Mundo (2019)	leg=6:1298718
 A Língua do Amor	dub=https://embedplayer2.xyz/cdn/hls/e00152ab018bd9b3747b6ce84de2cdc0/master.txt,2:363183,8:363183
@@ -1902,7 +1902,7 @@ A Outra Zoey (2023)	dub=6:1302664
 A Ouvinte	dub=https://embedplayer2.xyz/cdn/hls/c0c3ccf54303c730243c73addf594613/master.txt,2:366902,8:366902	leg=2:366901,8:366901
 A Paisana (2025)	dub=https://embedplayer2.xyz/cdn/hls/568e25e4bea4da685b2cd44ee22d15ea/master.txt,6:1314395
 A Paixao de Cristo (2004)	dub=https://embedplayer2.xyz/cdn/hls/3964ba956abacf7cad159f23316a5354/master.txt,6:1297286
-A Paixão Segundo G.H.	dub=2:356879,8:356879
+A Paixão Segundo G.H.	dub=https://embedplayer2.xyz/cdn/hls/4d7321050eaf4a1e76335bf52723443c/master.txt,2:356879,8:356879
 A Paixão de Cristo	dub=https://embedplayer2.xyz/cdn/hls/3964ba956abacf7cad159f23316a5354/master.txt,2:21512,8:21512	leg=2:261387,8:261387
 A Paixão de JL	dub=2:374282,8:374282
 A Paixão de Jacobina	dub=2:382310,8:382310

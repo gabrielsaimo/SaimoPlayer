@@ -31,8 +31,8 @@ Ibiúna, Primavera Brasileira (2019)	dub=6:1311081
 Ice Cold O Caso Jessica Wongso	dub=2:216968,8:216968	leg=2:216969,8:216969
 Ice Cold: O Caso Jessica Wongso (2023)	dub=6:1309627	leg=6:1309628
 Ice: Um Dia Depois do Amanhã (2011)	dub=6:1312773
-Icefall	leg=2:371170,8:371170
-Icefall Saque no Gelo (2025)	dub=6:1314543	leg=6:1314542
+Icefall	dub=https://embedplayer2.xyz/cdn/hls/17e8f9ac7d781d7a8dd4b390f1c1d725/master.txt	leg=2:371170,8:371170
+Icefall Saque no Gelo (2025)	dub=https://embedplayer2.xyz/cdn/hls/17e8f9ac7d781d7a8dd4b390f1c1d725/master.txt,6:1314543	leg=6:1314542
 Icefall: Saque no Gelo	dub=2:376515,8:376515	leg=2:376514,8:376514
 Iceman 2 O Viajante do Tempo (2018)	dub=6:1301321
 Iceman 2: O Viajante do Tempo	dub=2:343038,8:343038	leg=2:343037,8:343037
