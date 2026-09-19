@@ -11,18 +11,24 @@ permissions:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Sincronizar filmes, séries, animes e doramas
-        run: python3 atualizar_redeflix.py
-      - name: Publicar somente quando houver IDs ou episódios novos
+      - name: Resolver IDs e episódios novos
+        run: python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96
+      - name: Atualizar animes e doramas e recuperar episódios que voltaram
+        run: >-
+          python3 atualizar_redeflix.py --gerar --categorias animes,doramas
+          --repetir-indisponiveis --workers 48
+          --tentativas-indisponiveis 2 --delay-episodio 0.05
+          --somente-titulos-publicados
+      - name: Publicar somente quando houver alterações
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vod/redeflix
+          git add vod/redeflix atualizar_redeflix.py
           git diff --cached --quiet || git commit -m "Atualiza IDs RedeFlix"
           git push

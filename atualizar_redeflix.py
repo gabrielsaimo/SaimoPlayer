@@ -381,11 +381,23 @@ def process_movie(tmdb: str, tmdb_key: str, validate: bool) -> Resolved:
         return Resolved("movie", tmdb, 0, 0, "erro", error=f"{type(error).__name__}: {error}")
 
 
-def process_episode(item: Episode, validate: bool) -> Resolved:
+def process_episode(
+    item: Episode, validate: bool, missing_attempts: int = 1, delay: float = 0.0,
+) -> Resolved:
     class Block:
         key = item.tmdb
         title = item.title
-    result = resolve_episode(Block(), item.tmdb, item.season, item.episode, validate, 0.0)
+    result = None
+    for attempt in range(max(1, missing_attempts)):
+        result = resolve_episode(
+            Block(), item.tmdb, item.season, item.episode, validate, delay
+        )
+        if result.status != "indisponivel" or attempt + 1 >= missing_attempts:
+            break
+        # Um 404 durante rajada pode ser proteção temporária do provedor. Uma
+        # segunda tentativa espaçada evita gravá-lo como ausência definitiva.
+        time.sleep(0.35 * (attempt + 1))
+    assert result is not None
     return Resolved("tv", item.tmdb, item.season, item.episode, result.status,
                     item.title, item.year, sources=result.sources, error=result.error)
 
@@ -404,24 +416,51 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
     import_legacy(db)
     cached = load_cache(db)
     terminal = {"encontrado", "indisponivel", "sem_imdb"}
-    movies = [tmdb for tmdb in movie_ids if ("movie", tmdb, 0, 0) not in cached]
-    if args.repetir_erros:
+    selected = {value.strip() for value in args.categorias.split(",") if value.strip()}
+    invalid = selected - {"filmes", "series", "animes", "doramas"}
+    if invalid:
+        raise SystemExit("categorias desconhecidas: " + ", ".join(sorted(invalid)))
+    movies = ([tmdb for tmdb in movie_ids if ("movie", tmdb, 0, 0) not in cached]
+              if "filmes" in selected else [])
+    if args.repetir_erros and "filmes" in selected:
         movies += [tmdb for tmdb in movie_ids if cached.get(("movie", tmdb, 0, 0), Resolved("movie", tmdb, 0, 0, "")).status == "erro"]
 
     episodes: list[Episode] = []
     seen: set[tuple[str, int, int]] = set()
     for category, items in collections.items():
+        if category not in selected:
+            continue
+        published: set[str] | None = None
+        if args.somente_titulos_publicados:
+            published = set()
+            try:
+                for line in (STATE / f"links-{category}.txt").read_text(
+                    encoding="utf-8"
+                ).splitlines():
+                    if line.startswith("@"):
+                        fields = line[1:].split("\t")
+                        if len(fields) >= 3 and fields[2].isdigit():
+                            published.add(fields[2])
+            except OSError:
+                pass
         for raw in items:
+            if published is not None and raw["id"] not in published:
+                continue
             for season, episode in raw["episodios"]:
                 key = (raw["id"], season, episode)
                 old = cached.get(("tv", *key))
-                if key in seen or (old and old.status in terminal and not args.reprocessar):
+                retry_unavailable = bool(
+                    old and old.status == "indisponivel" and args.repetir_indisponiveis
+                )
+                if key in seen or (
+                    old and old.status in terminal and not args.reprocessar and not retry_unavailable
+                ):
                     continue
                 if old and old.status == "erro" and not args.repetir_erros and not args.reprocessar:
                     continue
                 seen.add(key)
                 episodes.append(Episode(category, raw["id"], raw["nome"], raw["ano"], season, episode))
-    if args.reprocessar:
+    if args.reprocessar and "filmes" in selected:
         movies = list(movie_ids)
     tasks = [("movie", value) for value in dict.fromkeys(movies)] + [("tv", value) for value in episodes]
     if args.limit:
@@ -433,7 +472,10 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
         futures = {
             pool.submit(process_movie, value, tmdb_key, not args.sem_validar)
             if kind == "movie" else
-            pool.submit(process_episode, value, not args.sem_validar): (kind, value)
+            pool.submit(
+                process_episode, value, not args.sem_validar,
+                args.tentativas_indisponiveis, args.delay_episodio,
+            ): (kind, value)
             for kind, value in tasks
         }
         for done, future in enumerate(concurrent.futures.as_completed(futures), 1):
@@ -569,11 +611,25 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--gerar", action="store_true", help="resolve as fontes ainda pendentes")
     parser.add_argument("--aplicar", action="store_true", help="coloca as fontes no catálogo VOD atual")
     parser.add_argument("--workers", type=int, default=64)
+    parser.add_argument("--delay-episodio", type=float, default=0.0)
+    parser.add_argument("--tentativas-indisponiveis", type=int, default=1)
     parser.add_argument("--limit", type=int, default=0)
     parser.add_argument("--tmdb-key", default="")
     parser.add_argument("--sem-validar", action="store_true")
     parser.add_argument("--repetir-erros", action="store_true")
+    parser.add_argument(
+        "--repetir-indisponiveis", action="store_true",
+        help="consulta novamente itens antes ausentes; preserva qualquer fonte já encontrada",
+    )
     parser.add_argument("--reprocessar", action="store_true")
+    parser.add_argument(
+        "--categorias", default="filmes,series,animes,doramas",
+        help="limita a geração, por exemplo: animes,doramas",
+    )
+    parser.add_argument(
+        "--somente-titulos-publicados", action="store_true",
+        help="tenta completar apenas títulos que já têm ao menos um episódio no app",
+    )
     parser.add_argument("--cache", type=Path, default=OUTPUT / "cache.sqlite3")
     return parser.parse_args()
 
@@ -582,6 +638,8 @@ def main() -> int:
     args = parse_args()
     if not 1 <= args.workers <= 192:
         raise SystemExit("--workers deve estar entre 1 e 192")
+    if not 1 <= args.tentativas_indisponiveis <= 5:
+        raise SystemExit("--tentativas-indisponiveis deve estar entre 1 e 5")
     lock = acquire_execution_lock(OUTPUT)
     movies, collections, new_ids, new_episodes = sync_lists()
     print("Listas sincronizadas: " + ", ".join(
