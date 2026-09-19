@@ -190,6 +190,7 @@ enum Vod {
     /// Animes e doramas já trazem títulos e episódios no mesmo arquivo.
     static func colecao(_ tipo: String) async -> [(Serie, [Episodio])] {
         guard ["animes", "doramas"].contains(tipo) else { return [] }
+        if bases.isEmpty { _ = await indice() }
         let nome = "redeflix/links-\(tipo).txt"
         // A classificação e os novos episódios mudam semanalmente: rede
         // primeiro, mantendo o arquivo local somente como reserva offline.
@@ -216,7 +217,8 @@ enum Vod {
             guard identidade != nil else { continue }
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 4 else { continue }
-            let urls = campos[3].split(separator: ",").map(String.init).filter { !$0.isEmpty }
+            let urls = campos[3].split(separator: ",").map { montar(String($0)) }
+                .filter { !$0.isEmpty }
             guard !urls.isEmpty else { continue }
             episodios.append(Episodio(temporada: Int(campos[0]) ?? 0,
                                       numero: Int(campos[1]) ?? 0,
