@@ -34,8 +34,10 @@ from gerar_embedplayer_filmes import (
     acquire_execution_lock,
     atomic_write,
     catalog_providers,
+    discover_tmdb_key,
     request,
     resolve_embed_page,
+    tmdb_json,
 )
 
 
@@ -54,6 +56,13 @@ TMDB_RATE_LOCK = threading.Lock()
 TMDB_LAST_REQUEST = 0.0
 EPISODE_TMDB_CACHE: dict[tuple[str, str], str] = {}
 SERIES_TMDB_CACHE: dict[str, tuple[str, int, int]] = {}
+
+
+class NoRedirect(urllib.request.HTTPRedirectHandler):
+    """Expõe o Location do TMDB sem baixar a página final inteira."""
+
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
 
 
 @dataclass(frozen=True)
@@ -206,22 +215,25 @@ def series_id_from_episode(episode_tmdb: str, season: int, episode: int) -> str:
         return series_id if (cached_season, cached_episode) == (season, episode) else ""
     final_url = ""
     for attempt in range(4):
-        # O site público do TMDB limita rajadas. Cinco inícios por segundo
+        # O site público do TMDB limita rajadas. Menos de três inícios por segundo
         # mantêm a geração rápida sem transformar respostas 429 em falhas.
         with TMDB_RATE_LOCK:
-            wait = 0.2 - (time.monotonic() - TMDB_LAST_REQUEST)
+            wait = 0.35 - (time.monotonic() - TMDB_LAST_REQUEST)
             if wait > 0:
                 time.sleep(wait)
             TMDB_LAST_REQUEST = time.monotonic()
         try:
             _, final_url = request(
-                urllib.request.build_opener(),
+                urllib.request.build_opener(NoRedirect()),
                 f"https://www.themoviedb.org/tv/episode/{episode_tmdb}",
                 headers={"Accept": "text/html"},
                 timeout=25,
             )
             break
         except urllib.error.HTTPError as error:
+            if 300 <= error.code < 400 and error.headers.get("Location"):
+                final_url = urllib.parse.urljoin(error.url, error.headers["Location"])
+                break
             if error.code != 429 or attempt == 3:
                 raise
             time.sleep(2.0 * (attempt + 1))
@@ -234,17 +246,58 @@ def series_id_from_episode(episode_tmdb: str, season: int, episode: int) -> str:
     return result[0] if result[1:] == (season, episode) else ""
 
 
-def map_series_once(block: SeriesBlock, providers: dict[int, Provider]) -> SeriesResult:
+def series_id_from_verified_candidates(
+    title: str,
+    episode_tmdb: str,
+    season: int,
+    episode: int,
+    tmdb_key: str,
+) -> str:
+    """Descobre candidatos pelo título, mas só aceita o ID exato do episódio.
+
+    O texto nunca decide a associação: para cada candidato, o endpoint oficial
+    de detalhes precisa devolver o mesmo ``episode_tmdb`` fornecido pela origem.
+    Isso diferencia refilmagens, homônimos e temporadas com nomes semelhantes.
+    """
+    payload = tmdb_json(
+        "/search/tv",
+        {"query": title, "include_adult": "true", "language": "pt-BR"},
+        tmdb_key,
+    )
+    candidates = [str(item.get("id")) for item in payload.get("results", []) if item.get("id")]
+    for candidate in candidates[:20]:
+        try:
+            details = tmdb_json(
+                f"/tv/{candidate}/season/{season}/episode/{episode}", {}, tmdb_key
+            )
+        except urllib.error.HTTPError as error:
+            if error.code == 404:
+                continue
+            raise
+        if str(details.get("id") or "") == episode_tmdb:
+            return candidate
+    return ""
+
+
+def map_series_once(
+    block: SeriesBlock, providers: dict[int, Provider], tmdb_key: str
+) -> SeriesResult:
     errors: list[str] = []
     # Dublado primeiro porque é a rota disponibilizada pelo provedor final.
     rows = sorted(block.episodes, key=lambda row: (row.language != "dub", row.season, row.episode))
-    for row in rows[:8]:
+    # Duas linhas bastam para tolerar um episódio incompleto sem multiplicar
+    # timeouts: todas as linhas do bloco pertencem à mesma série do catálogo.
+    for row in rows[:2]:
         try:
             episode_tmdb, source_errors = episode_tmdb_id(row, providers)
             errors.extend(source_errors)
             if not episode_tmdb:
                 continue
-            series_tmdb = series_id_from_episode(episode_tmdb, row.season, row.episode)
+            # Embora a busca produza candidatos, a associação só é aceita
+            # quando o endpoint oficial devolve o ID numérico exato do episódio.
+            series_tmdb = series_id_from_verified_candidates(
+                block.title, episode_tmdb, row.season, row.episode, tmdb_key
+            )
             if series_tmdb:
                 return SeriesResult(
                     block.key, block.title, "encontrado", series_tmdb, episode_tmdb
@@ -253,6 +306,10 @@ def map_series_once(block: SeriesBlock, providers: dict[int, Provider]) -> Serie
                 f"episódio TMDB {episode_tmdb} não confirmou S{row.season:02}E{row.episode:02}"
             )
         except urllib.error.HTTPError as error:
+            if error.code == 429:
+                return SeriesResult(
+                    block.key, block.title, "erro", error="HTTP 429: limite temporário do TMDB"
+                )
             errors.append(f"HTTP {error.code}")
         except Exception as error:
             errors.append(f"{type(error).__name__}: {error}")
@@ -260,10 +317,12 @@ def map_series_once(block: SeriesBlock, providers: dict[int, Provider]) -> Serie
     return SeriesResult(block.key, block.title, status, error="; ".join(errors[:5]))
 
 
-def map_series(block: SeriesBlock, providers: dict[int, Provider]) -> SeriesResult:
+def map_series(
+    block: SeriesBlock, providers: dict[int, Provider], tmdb_key: str
+) -> SeriesResult:
     result = SeriesResult(block.key, block.title, "erro", error="não iniciado")
     for attempt in range(3):
-        result = map_series_once(block, providers)
+        result = map_series_once(block, providers, tmdb_key)
         if result.status != "erro":
             return result
         if attempt < 2:
@@ -410,11 +469,12 @@ def write_outputs(
     lines: list[str] = []
     m3u = ["#EXTM3U"]
     rows: list[list[object]] = []
+    episodes_by_series: dict[str, list[EpisodeResult]] = {}
+    for (key, _, _), item in episodes.items():
+        if item.status == "encontrado" and item.sources:
+            episodes_by_series.setdefault(key, []).append(item)
     for block in blocks:
-        found = [
-            item for (key, _, _), item in episodes.items()
-            if key == block.key and item.status == "encontrado" and item.sources
-        ]
+        found = episodes_by_series.get(block.key, [])
         if not found:
             continue
         lines.append("@" + block.title)
@@ -511,6 +571,7 @@ def progress(label: str, completed: int, total: int, started: float, status: str
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Gera fontes de séries por IDs exatos.")
     parser.add_argument("--workers", type=int, default=32)
+    parser.add_argument("--tmdb-key", default="", help="chave TMDB; também aceita TMDB_API_KEY")
     parser.add_argument("--delay", type=float, default=0.0)
     parser.add_argument("--limit-series", type=int, default=0)
     parser.add_argument("--limit-episodes", type=int, default=0)
@@ -526,12 +587,13 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
-    if args.workers < 1 or args.workers > 96:
-        raise SystemExit("--workers deve estar entre 1 e 96")
+    if args.workers < 1 or args.workers > 192:
+        raise SystemExit("--workers deve estar entre 1 e 192")
     blocks = catalog_series(set(args.serie) or None)
     if not blocks:
         raise SystemExit("Nenhuma série encontrada para os filtros informados.")
     providers = catalog_providers()
+    tmdb_key = discover_tmdb_key(args.tmdb_key)
     execution_lock = acquire_execution_lock(args.output)
     db = open_cache(args.cache)
     mappings = load_series(db)
@@ -545,7 +607,10 @@ def main() -> int:
     print(f"Catálogo: {len(blocks)} séries | identificações pendentes: {len(mapping_pending)}", flush=True)
     started = time.monotonic()
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(map_series, block, providers): block for block in mapping_pending}
+        futures = {
+            pool.submit(map_series, block, providers, tmdb_key): block
+            for block in mapping_pending
+        }
         for completed, future in enumerate(concurrent.futures.as_completed(futures), 1):
             item = future.result()
             old = mappings.get(item.key)
@@ -591,7 +656,7 @@ def main() -> int:
                 item = old
             episode_results[identity] = item
             save_episode(db, item)
-            if completed % 25 == 0 or completed == len(futures):
+            if completed % 250 == 0 or completed == len(futures):
                 db.commit()
                 progress("Episódios", completed, len(futures), started, item.status)
     db.commit()
