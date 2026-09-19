@@ -9,12 +9,14 @@ import Combine
 /// Guardando aqui fora, reabrir cai exatamente onde parou.
 /// Qual parte do acervo está aberta no lugar do vídeo.
 enum VodSecao: String, Identifiable, CaseIterable {
-    case filmes, series, extras, favoritos
+    case filmes, series, animes, doramas, extras, favoritos
     var id: String { rawValue }
     var titulo: String {
         switch self {
         case .filmes: return "Filmes"
         case .series: return "Séries"
+        case .animes: return "Animes"
+        case .doramas: return "Doramas"
         case .extras: return "Extras"
         case .favoritos: return "Favoritos"
         }
@@ -23,12 +25,14 @@ enum VodSecao: String, Identifiable, CaseIterable {
         switch self {
         case .filmes: return "film"
         case .series: return "tv"
+        case .animes: return "sparkles.tv"
+        case .doramas: return "heart.rectangle"
         case .extras: return "plus.rectangle.on.rectangle"
         case .favoritos: return "star.fill"
         }
     }
     /// Extras são filmes noutro arquivo do catálogo, não outra natureza.
-    var pedeFilmes: Bool { self != .series }
+    var pedeFilmes: Bool { ![.series, .animes, .doramas].contains(self) }
 }
 
 @MainActor
@@ -52,6 +56,8 @@ final class VodEstado: ObservableObject {
     @Published var titulosSerie: [Serie] = []
     @Published var serieAberta: Serie?
     @Published var episodios: [Episodio] = []
+    /// Episódios das coleções compactas, já publicados no mesmo arquivo.
+    @Published var episodiosColecao: [String: [Episodio]] = [:]
     /// Último título aberto: é para ele que a lista rola ao reabrir, senão a
     /// rolagem voltaria ao topo mesmo com a letra certa escolhida.
     @Published var ancora: String?
