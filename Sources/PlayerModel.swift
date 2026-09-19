@@ -115,11 +115,7 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var audioChoices: [MediaChoice] = []
     @Published var subtitleChoices: [MediaChoice] = []
     @Published var qualityChoices: [MediaChoice] = [
-        MediaChoice(id: "auto", title: "Automática"),
-        MediaChoice(id: "360", title: "360p"),
-        MediaChoice(id: "720", title: "720p"),
-        MediaChoice(id: "1080", title: "1080p"),
-        MediaChoice(id: "2160", title: "2160p · 4K"),
+        MediaChoice(id: "auto", title: "Automática")
     ]
     @Published var selectedAudio: String?
     @Published var selectedSubtitle: String?
@@ -166,6 +162,8 @@ final class PlayerModel: NSObject, ObservableObject {
     private var sleepAssertion: NSObjectProtocol?
     private var audioGroup: AVMediaSelectionGroup?
     private var subtitleGroup: AVMediaSelectionGroup?
+    private var audioOptions: [String: AVMediaSelectionOption] = [:]
+    private var subtitleOptions: [String: AVMediaSelectionOption] = [:]
 
     /// Extra line-up, present only after the code is typed. Deliberately not
     /// persisted: closing the app locks it again, so the next person to open it
@@ -764,32 +762,85 @@ final class PlayerModel: NSObject, ObservableObject {
     private func loadMediaOptions(for asset: AVURLAsset, item: AVPlayerItem) {
         Task { @MainActor in
             audioChoices = []; subtitleChoices = []
+            qualityChoices = [MediaChoice(id: "auto", title: "Automática")]
+            audioOptions = [:]; subtitleOptions = [:]
             audioGroup = try? await asset.loadMediaSelectionGroup(for: .audible)
             subtitleGroup = try? await asset.loadMediaSelectionGroup(for: .legible)
+            guard player.currentItem === item else { return }
             if let g = audioGroup {
-                audioChoices = g.options.map { MediaChoice(id: $0.displayName, title: $0.displayName) }
-                selectedAudio = item.currentMediaSelection.selectedMediaOption(in: g)?.displayName
+                audioChoices = g.options.enumerated().map { indice, opcao in
+                    let id = "audio:\(indice)"
+                    audioOptions[id] = opcao
+                    return MediaChoice(id: id, title: tituloDaFaixa(opcao, indice: indice,
+                                                                    total: g.options.count))
+                }
+                if let atual = item.currentMediaSelection.selectedMediaOption(in: g),
+                   let indice = g.options.firstIndex(of: atual) {
+                    selectedAudio = "audio:\(indice)"
+                }
             }
             if let g = subtitleGroup {
                 subtitleChoices = [MediaChoice(id: "__off__", title: "Desligado")]
-                    + g.options.map { MediaChoice(id: $0.displayName, title: $0.displayName) }
-                selectedSubtitle = item.currentMediaSelection.selectedMediaOption(in: g)?.displayName ?? "__off__"
+                    + g.options.enumerated().map { indice, opcao in
+                        let id = "subtitle:\(indice)"
+                        subtitleOptions[id] = opcao
+                        return MediaChoice(id: id, title: tituloDaFaixa(opcao, indice: indice,
+                                                                        total: g.options.count))
+                    }
+                if let atual = item.currentMediaSelection.selectedMediaOption(in: g),
+                   let indice = g.options.firstIndex(of: atual) {
+                    selectedSubtitle = "subtitle:\(indice)"
+                } else {
+                    selectedSubtitle = "__off__"
+                }
+            }
+            if let variantes = try? await asset.load(.variants), player.currentItem === item {
+                var porAltura: [Int: Double] = [:]
+                for variante in variantes {
+                    guard let video = variante.videoAttributes else { continue }
+                    let altura = Int(video.presentationSize.height.rounded())
+                    guard altura > 0 else { continue }
+                    porAltura[altura] = max(porAltura[altura] ?? 0,
+                                            variante.peakBitRate ?? 0)
+                }
+                let disponiveis = porAltura.keys.sorted(by: >).map { altura in
+                    let quatroK = altura >= 2000 ? " · 4K" : ""
+                    let taxa = (porAltura[altura] ?? 0) > 0
+                        ? String(format: " · %.1f Mbps", (porAltura[altura] ?? 0) / 1_000_000)
+                        : ""
+                    return MediaChoice(id: "\(altura)", title: "\(altura)p\(quatroK)\(taxa)")
+                }
+                qualityChoices = [MediaChoice(id: "auto", title: "Automática")] + disponiveis
+                if !qualityChoices.contains(where: { $0.id == selectedQuality }) {
+                    selectedQuality = "auto"
+                    applyQuality(to: item)
+                }
             }
         }
     }
 
+    private func tituloDaFaixa(_ opcao: AVMediaSelectionOption,
+                               indice: Int, total: Int) -> String {
+        let nome = opcao.displayName.isEmpty ? "Faixa \(indice + 1)" : opcao.displayName
+        let idioma = opcao.locale?.localizedString(forLanguageCode: opcao.locale?.language.languageCode?.identifier ?? "")
+        let base = idioma.map { nome.localizedCaseInsensitiveContains($0) ? nome : "\(nome) · \($0)" } ?? nome
+        return total > 1 && base == "Desconhecido" ? "\(base) \(indice + 1)" : base
+    }
+
     func selectAudio(_ id: String) {
         guard let g = audioGroup, let item = player.currentItem,
-              let opt = g.options.first(where: { $0.displayName == id }) else { return }
+              let opt = audioOptions[id] else { return }
+        player.appliesMediaSelectionCriteriaAutomatically = false
         item.select(opt, in: g)
         selectedAudio = id
     }
 
     func selectSubtitle(_ id: String) {
         guard let g = subtitleGroup, let item = player.currentItem else { return }
+        player.appliesMediaSelectionCriteriaAutomatically = false
         if id == "__off__" {
             item.select(nil, in: g)
-        } else if let opt = g.options.first(where: { $0.displayName == id }) {
+        } else if let opt = subtitleOptions[id] {
             item.select(opt, in: g)
         }
         selectedSubtitle = id
