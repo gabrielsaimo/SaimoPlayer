@@ -46,6 +46,7 @@ URLS = {
 PRINT_LOCK = threading.Lock()
 TMDB_RATE_LOCK = threading.Lock()
 TMDB_NEXT_REQUEST = 0.0
+ANIMATION_GENRE_ID = 16
 
 
 @dataclass(frozen=True)
@@ -97,6 +98,90 @@ def load_previous(path: Path) -> set[str]:
         return {line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
     except OSError:
         return set()
+
+
+def persist_collection(category: str, items: list[dict]) -> None:
+    """Grava a coleção já classificada no formato consumido pelos apps."""
+    ids = unique_ids(item["id"] for item in items)
+    episode_keys = [
+        f'{item["id"]}\t{season}\t{episode}'
+        for item in items for season, episode in item["episodios"]
+    ]
+    atomic_write(STATE / f"ids-{category}.txt", "\n".join(ids) + ("\n" if ids else ""))
+    atomic_write(
+        STATE / f"episodios-{category}.txt",
+        "\n".join(episode_keys) + ("\n" if episode_keys else ""),
+    )
+    lines = [
+        f'{item["id"]}\t{item["nome"]}\t{item["ano"]}\t{len(item["episodios"])}'
+        for item in items
+    ]
+    atomic_write(STATE / f"catalogo-{category}.txt", "\n".join(lines) + ("\n" if lines else ""))
+
+
+def separate_animations(collections: dict[str, list[dict]]) -> list[dict]:
+    """Move toda animação que veio em Doramas para Animes pelo ID TMDB.
+
+    A lista de origem pode repetir ou classificar incorretamente um título. A
+    decisão usa o gênero 16 do próprio TMDB e fica em cache, portanto a rotina
+    semanal só consulta IDs novos. Episódios de duplicatas são unidos em vez de
+    uma das listas apagar a outra.
+    """
+    doramas = collections.get("doramas", [])
+    if not doramas:
+        return []
+    cache_path = STATE / "classificacao-tv.json"
+    try:
+        cache = json.loads(cache_path.read_text(encoding="utf-8"))
+        if not isinstance(cache, dict):
+            cache = {}
+    except (OSError, json.JSONDecodeError):
+        cache = {}
+
+    missing = [item["id"] for item in doramas if item["id"] not in cache]
+    if missing:
+        key = discover_tmdb_key("")
+
+        def inspect(tmdb: str) -> tuple[str, bool | None]:
+            try:
+                data = tmdb_json(f"/tv/{tmdb}", {"language": "pt-BR"}, key)
+                genres = data.get("genres") or []
+                return tmdb, any(int(genre.get("id") or 0) == ANIMATION_GENRE_ID for genre in genres)
+            except Exception:
+                # Falha transitória não vira classificação definitiva: o ID
+                # fica fora do cache e será tentado novamente na próxima semana.
+                return tmdb, None
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=20) as pool:
+            for tmdb, animation in pool.map(inspect, missing):
+                if animation is None:
+                    continue
+                cache[tmdb] = {"animacao": animation, "verificado_em": int(time.time())}
+        atomic_write(cache_path, json.dumps(cache, ensure_ascii=False, indent=2) + "\n")
+
+    anime_by_id = {item["id"]: item for item in collections.get("animes", [])}
+    moved: list[dict] = []
+    kept: list[dict] = []
+    for item in doramas:
+        classified = cache.get(item["id"], {})
+        if not bool(classified.get("animacao")):
+            kept.append(item)
+            continue
+        moved.append(item)
+        existing = anime_by_id.get(item["id"])
+        if existing is None:
+            anime_by_id[item["id"]] = item
+            continue
+        pairs = {tuple(pair) for pair in existing["episodios"]}
+        existing["episodios"] = sorted(existing["episodios"] + [
+            pair for pair in item["episodios"] if tuple(pair) not in pairs
+        ])
+
+    collections["animes"] = list(anime_by_id.values())
+    collections["doramas"] = kept
+    persist_collection("animes", collections["animes"])
+    persist_collection("doramas", collections["doramas"])
+    return moved
 
 
 def sync_lists() -> tuple[list[str], dict[str, list[dict]], dict[str, set[str]], dict[str, set[str]]]:
@@ -151,6 +236,13 @@ def sync_lists() -> tuple[list[str], dict[str, list[dict]], dict[str, set[str]],
             for item in clean
         ]
         atomic_write(STATE / f"catalogo-{category}.txt", "\n".join(catalog_lines) + "\n")
+
+    moved = separate_animations(collections)
+    if moved:
+        print(
+            f"Classificação corrigida: {len(moved)} animações movidas de Doramas para Animes.",
+            flush=True,
+        )
 
     manifest = {
         "atualizado_em": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
