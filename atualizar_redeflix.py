@@ -47,6 +47,8 @@ PRINT_LOCK = threading.Lock()
 TMDB_RATE_LOCK = threading.Lock()
 TMDB_NEXT_REQUEST = 0.0
 ANIMATION_GENRE_ID = 16
+LEGACY_SERIES_CACHE = ROOT / "arquivos-gerados" / "embedplayer-series" / "cache.sqlite3"
+LEGACY_TMDB_INDEX = STATE / "series-tmdb.json"
 
 
 @dataclass(frozen=True)
@@ -509,15 +511,29 @@ def write_outputs(cache, movie_ids, collections) -> None:
     atomic_write(OUTPUT / "filmes.txt", movie_text)
     atomic_write(STATE / "links-filmes.txt", movie_text)
 
+    legacy_sources = load_legacy_series_sources()
     for category, items in collections.items():
+        category_reserves = legacy_sources if category in {"animes", "doramas"} else {}
         lines: list[str] = []
         for raw in items:
             found = []
             for season, episode in raw["episodios"]:
                 item = cache.get(("tv", raw["id"], season, episode))
+                by_language: dict[str, list[str]] = {}
                 if item and item.status == "encontrado" and item.sources:
-                    urls = ",".join(dict.fromkeys(source.url for source in item.sources))
-                    found.append(f"{season}\t{episode}\tdub\t{urls}")
+                    for source in item.sources:
+                        language = source.language if source.language in {"dub", "leg"} else "dub"
+                        by_language.setdefault(language, []).append(source.url)
+                # A fonte nova continua principal. As fontes do catálogo geral
+                # de Séries entram depois como reservas e também completam um
+                # episódio quando o EmbedPlayer ainda não o publicou.
+                for language in ("dub", "leg"):
+                    reserves = category_reserves.get(
+                        (raw["id"], season, episode, language), ()
+                    )
+                    urls = list(dict.fromkeys(by_language.get(language, []) + list(reserves)))
+                    if urls:
+                        found.append(f"{season}\t{episode}\t{language}\t{','.join(urls)}")
             if found:
                 lines.append(f'@{raw["nome"]}\t{raw["ano"]}\t{raw["id"]}')
                 lines.extend(found)
@@ -530,6 +546,95 @@ def write_outputs(cache, movie_ids, collections) -> None:
         statuses[item.status] = statuses.get(item.status, 0) + 1
     summary = {"gerado_em": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "status": statuses}
     atomic_write(OUTPUT / "resumo.json", json.dumps(summary, ensure_ascii=False, indent=2) + "\n")
+
+
+def load_legacy_series_sources() -> dict[tuple[str, int, int, str], tuple[str, ...]]:
+    """Lê as fontes já catalogadas em Séries e indexa-as pelo ID TMDB.
+
+    Os arquivos antigos comprimem cada endereço como ``base:resto``. Esse
+    formato é preservado para não repetir nem publicar as credenciais contidas
+    nas bases; cada aplicativo já expande o código usando ``vod/indice.txt``.
+    """
+    index_path = ROOT / "vod" / "indice.txt"
+    if not index_path.exists():
+        return {}
+
+    bases: dict[int, str] = {}
+    for raw in index_path.read_text(encoding="utf-8").splitlines():
+        match = re.fullmatch(r"base:\s*(\d+)\s+(.+)", raw)
+        if match and "desativado.invalid" not in match.group(2):
+            bases[int(match.group(1))] = match.group(2)
+
+    identities: dict[tuple[str, str], str] = {}
+    if LEGACY_SERIES_CACHE.exists():
+        db = sqlite3.connect(f"file:{LEGACY_SERIES_CACHE}?mode=ro", uri=True)
+        for key, title, tmdb in db.execute(
+            "SELECT key,title,tmdb_id FROM series "
+            "WHERE status='encontrado' AND tmdb_id<>''"
+        ):
+            if not str(tmdb).isdigit():
+                continue
+            parts = str(key).split("\x1f", 1)
+            if len(parts) == 2:
+                identities[(parts[0], parts[1])] = str(tmdb)
+            else:
+                identities[(parts[0], str(title))] = str(tmdb)
+        db.close()
+        # O cache SQLite é local e grande demais para o Git. Este índice leve
+        # deixa a automação semanal reconstruir as mesmas reservas na nuvem.
+        portable = {
+            f"{file_name}\x1f{title}": tmdb
+            for (file_name, title), tmdb in sorted(identities.items())
+        }
+        atomic_write(
+            LEGACY_TMDB_INDEX,
+            json.dumps(portable, ensure_ascii=False, separators=(",", ":")) + "\n",
+        )
+    elif LEGACY_TMDB_INDEX.exists():
+        try:
+            portable = json.loads(LEGACY_TMDB_INDEX.read_text(encoding="utf-8"))
+            for key, tmdb in portable.items():
+                parts = str(key).split("\x1f", 1)
+                if len(parts) == 2 and str(tmdb).isdigit():
+                    identities[(parts[0], parts[1])] = str(tmdb)
+        except (OSError, json.JSONDecodeError):
+            return {}
+    else:
+        return {}
+
+    collected: dict[tuple[str, int, int, str], list[str]] = {}
+    for file_name in sorted({file_name for file_name, _ in identities}):
+        path = ROOT / "vod" / file_name
+        if not path.exists():
+            continue
+        title = ""
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            if raw.startswith("@"):
+                title = raw[1:].split("\t", 1)[0].strip()
+                continue
+            tmdb = identities.get((file_name, title))
+            fields = raw.split("\t")
+            if not tmdb or len(fields) < 4 or not fields[0].isdigit() or not fields[1].isdigit():
+                continue
+            language = fields[2] if fields[2] in {"dub", "leg"} else "dub"
+            key = (tmdb, int(fields[0]), int(fields[1]), language)
+            urls = collected.setdefault(key, [])
+            for compact in fields[3].split(","):
+                compact = compact.strip()
+                if compact.startswith("https://"):
+                    safe_value = compact
+                elif compact.startswith("http://"):
+                    # Endereço HTTP completo pode carregar credenciais. As
+                    # reservas publicadas devem usar somente o código compacto.
+                    continue
+                else:
+                    match = re.fullmatch(r"(\d+):(.+)", compact)
+                    if not match or int(match.group(1)) not in bases:
+                        continue
+                    safe_value = compact
+                if safe_value not in urls:
+                    urls.append(safe_value)
+    return {key: tuple(urls) for key, urls in collected.items()}
 
 
 def apply_to_catalog(cache) -> dict[str, int]:
