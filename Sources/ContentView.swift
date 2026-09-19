@@ -293,27 +293,27 @@ private struct ControlBar: View {
 
             if model.isPlaying {
                 Menu {
-                    Section("Qualidade") {
+                    Section("Qualidade · \(model.selectedQualityTitle)") {
                         ForEach(model.qualityChoices) { c in
                             Button { model.selectQuality(c.id) } label: {
-                                Label(c.title, systemImage: model.selectedQuality == c.id ? "checkmark" : "")
+                                Text(model.selectedQuality == c.id ? "✓  \(c.title)" : "    \(c.title)")
                             }
                         }
                     }
                     if !model.audioChoices.isEmpty {
-                        Section("Áudio") {
+                        Section("Áudio · \(model.selectedAudioTitle)") {
                             ForEach(model.audioChoices) { c in
                                 Button { model.selectAudio(c.id) } label: {
-                                    Label(c.title, systemImage: model.selectedAudio == c.id ? "checkmark" : "")
+                                    Text(model.selectedAudio == c.id ? "✓  \(c.title)" : "    \(c.title)")
                                 }
                             }
                         }
                     }
                     if !model.subtitleChoices.isEmpty {
-                        Section("Legendas") {
+                        Section("Legendas · \(model.selectedSubtitleTitle)") {
                             ForEach(model.subtitleChoices) { c in
                                 Button { model.selectSubtitle(c.id) } label: {
-                                    Label(c.title, systemImage: model.selectedSubtitle == c.id ? "checkmark" : "")
+                                    Text(model.selectedSubtitle == c.id ? "✓  \(c.title)" : "    \(c.title)")
                                 }
                             }
                         }
