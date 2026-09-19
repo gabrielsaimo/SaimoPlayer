@@ -71,7 +71,7 @@
 1	8	dub	3:224253,9:224253
 @B.O.
 1	1	dub	3:213152,9:213152
-1	2	dub	3:213153,9:213153
+1	2	dub	https://embedplayer2.xyz/cdn/hls/03f03466bc09610f81483e909150ccf9/master.txt,3:213153,9:213153
 1	3	dub	3:213154,9:213154
 1	4	dub	https://embedplayer2.xyz/cdn/hls/7f7b7d8434e8520eeb9915e89c06f257/master.txt,3:213155,9:213155
 1	5	dub	3:213156,9:213156
@@ -2497,7 +2497,7 @@
 1	1	dub	https://embedplayer2.xyz/cdn/hls/b8706e8eb375ac7a4fe1d8f43441a6c9/master.txt,7:1424862
 1	2	dub	https://embedplayer2.xyz/cdn/hls/2b32a7df49c40a19360aa7714bb53535/master.txt,7:1424863
 1	3	dub	7:1424864
-1	4	dub	7:1424865
+1	4	dub	https://embedplayer2.xyz/cdn/hls/6e259aadd589120cfaa0c165eb6a8ae5/master.txt,7:1424865
 1	5	dub	7:1424866
 1	6	dub	7:1424867
 1	7	dub	7:1424868

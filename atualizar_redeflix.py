@@ -1,0 +1,506 @@
+#!/usr/bin/env python3
+"""Sincroniza IDs exatos da RedeFlix e resolve fontes EmbedPlayer.
+
+Não pesquisa por nome. Filmes usam TMDB -> IMDb -> EmbedPlayer; séries,
+animes e doramas usam diretamente TMDB/temporada/episódio -> EmbedPlayer.
+O cache permite retomar a execução e reaproveita os resultados dos geradores
+anteriores do projeto.
+"""
+
+from __future__ import annotations
+
+import argparse
+import concurrent.futures
+import json
+import re
+import sqlite3
+import threading
+import time
+import urllib.error
+import urllib.request
+from dataclasses import dataclass
+from pathlib import Path
+
+from gerar_embedplayer_filmes import (
+    EMBED_API,
+    USER_AGENT,
+    EmbedSource,
+    acquire_execution_lock,
+    atomic_write,
+    discover_tmdb_key,
+    resolve_embed,
+    tmdb_json,
+)
+from gerar_embedplayer_series import resolve_episode
+
+
+ROOT = Path(__file__).resolve().parent
+STATE = ROOT / "vod" / "redeflix"
+OUTPUT = ROOT / "arquivos-gerados" / "redeflix"
+URLS = {
+    "filmes": "https://redeflixapi.store/list-movie-ids.txt",
+    "series": "https://redeflixapi.store/list-tv-ids.txt",
+    "animes": "https://redeflixapi.store/list-anime-ids.txt",
+    "doramas": "https://redeflixapi.store/list-dorama-ids.txt",
+}
+PRINT_LOCK = threading.Lock()
+TMDB_RATE_LOCK = threading.Lock()
+TMDB_NEXT_REQUEST = 0.0
+
+
+@dataclass(frozen=True)
+class Episode:
+    category: str
+    tmdb: str
+    title: str
+    year: str
+    season: int
+    episode: int
+
+
+@dataclass
+class Resolved:
+    media_type: str
+    tmdb: str
+    season: int
+    episode: int
+    status: str
+    title: str = ""
+    year: str = ""
+    imdb: str = ""
+    sources: tuple[EmbedSource, ...] = ()
+    error: str = ""
+
+
+def download(url: str) -> bytes:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": USER_AGENT, "Accept": "text/plain,application/json,*/*"},
+    )
+    with urllib.request.urlopen(request, timeout=90) as response:
+        return response.read()
+
+
+def unique_ids(values) -> list[str]:
+    seen: set[str] = set()
+    output: list[str] = []
+    for value in values:
+        value = str(value).strip()
+        if value.isdigit() and value not in seen:
+            seen.add(value)
+            output.append(value)
+    return output
+
+
+def load_previous(path: Path) -> set[str]:
+    try:
+        return {line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
+    except OSError:
+        return set()
+
+
+def sync_lists() -> tuple[list[str], dict[str, list[dict]], dict[str, set[str]], dict[str, set[str]]]:
+    STATE.mkdir(parents=True, exist_ok=True)
+    movie_ids = unique_ids(download(URLS["filmes"]).decode("utf-8", "replace").splitlines())
+    collections: dict[str, list[dict]] = {}
+    new_ids: dict[str, set[str]] = {}
+    new_episodes: dict[str, set[str]] = {}
+
+    movie_path = STATE / "ids-filmes.txt"
+    old_movies = load_previous(movie_path)
+    new_ids["filmes"] = set(movie_ids) - old_movies
+    atomic_write(movie_path, "\n".join(movie_ids) + "\n")
+
+    for category in ("series", "animes", "doramas"):
+        payload = json.loads(download(URLS[category]))
+        items = payload.get("items") if isinstance(payload, dict) else None
+        if not isinstance(items, list):
+            raise RuntimeError(f"lista {category} em formato inesperado")
+        clean: list[dict] = []
+        episode_keys: list[str] = []
+        for raw in items:
+            tmdb = str(raw.get("id_tmdb") or "")
+            if not tmdb.isdigit():
+                continue
+            title = str(raw.get("nome") or f"TMDB {tmdb}").replace("\t", " ").strip()
+            year = str(raw.get("ano") or "")
+            episodes: list[list[int]] = []
+            for season, numbers in (raw.get("episodios") or {}).items():
+                if not str(season).isdigit() or not isinstance(numbers, dict):
+                    continue
+                for episode in numbers:
+                    if str(episode).isdigit():
+                        pair = [int(season), int(episode)]
+                        episodes.append(pair)
+                        episode_keys.append(f"{tmdb}\t{pair[0]}\t{pair[1]}")
+            episodes.sort()
+            clean.append({"id": tmdb, "nome": title, "ano": year, "episodios": episodes})
+        collections[category] = clean
+
+        id_path = STATE / f"ids-{category}.txt"
+        episode_path = STATE / f"episodios-{category}.txt"
+        ids = unique_ids(item["id"] for item in clean)
+        old_ids = load_previous(id_path)
+        old_episodes = load_previous(episode_path)
+        new_ids[category] = set(ids) - old_ids
+        new_episodes[category] = set(episode_keys) - old_episodes
+        atomic_write(id_path, "\n".join(ids) + ("\n" if ids else ""))
+        atomic_write(episode_path, "\n".join(episode_keys) + ("\n" if episode_keys else ""))
+        catalog_lines = [
+            f'{item["id"]}\t{item["nome"]}\t{item["ano"]}\t{len(item["episodios"])}'
+            for item in clean
+        ]
+        atomic_write(STATE / f"catalogo-{category}.txt", "\n".join(catalog_lines) + "\n")
+
+    manifest = {
+        "atualizado_em": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+        "fontes": URLS,
+        "totais": {
+            "filmes": len(movie_ids),
+            **{category: len(items) for category, items in collections.items()},
+        },
+        "episodios": {
+            category: sum(len(item["episodios"]) for item in items)
+            for category, items in collections.items()
+        },
+        "novos_ids": {category: len(values) for category, values in new_ids.items()},
+        "novos_episodios": {category: len(values) for category, values in new_episodes.items()},
+    }
+    atomic_write(STATE / "manifesto.json", json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
+    return movie_ids, collections, new_ids, new_episodes
+
+
+def open_cache(path: Path) -> sqlite3.Connection:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    db = sqlite3.connect(path)
+    db.execute("PRAGMA journal_mode=WAL")
+    db.execute("PRAGMA synchronous=NORMAL")
+    db.execute("PRAGMA busy_timeout=5000")
+    db.execute(
+        """CREATE TABLE IF NOT EXISTS resolved (
+          media_type TEXT NOT NULL, tmdb TEXT NOT NULL, season INTEGER NOT NULL,
+          episode INTEGER NOT NULL, status TEXT NOT NULL, title TEXT NOT NULL DEFAULT '',
+          year TEXT NOT NULL DEFAULT '', imdb TEXT NOT NULL DEFAULT '',
+          sources_json TEXT NOT NULL DEFAULT '[]', error TEXT NOT NULL DEFAULT '',
+          updated_at INTEGER NOT NULL,
+          PRIMARY KEY(media_type,tmdb,season,episode)
+        )"""
+    )
+    db.commit()
+    return db
+
+
+def decode_sources(raw: str) -> tuple[EmbedSource, ...]:
+    try:
+        return tuple(
+            EmbedSource(str(x["url"]), str(x.get("language") or "dub"), str(x.get("label") or "Dublado"))
+            for x in json.loads(raw or "[]") if isinstance(x, dict) and x.get("url")
+        )
+    except Exception:
+        return ()
+
+
+def load_cache(db: sqlite3.Connection) -> dict[tuple[str, str, int, int], Resolved]:
+    output = {}
+    for row in db.execute(
+        "SELECT media_type,tmdb,season,episode,status,title,year,imdb,sources_json,error FROM resolved"
+    ):
+        item = Resolved(*row[:8], sources=decode_sources(row[8]), error=row[9])
+        output[(item.media_type, item.tmdb, item.season, item.episode)] = item
+    return output
+
+
+def save(db: sqlite3.Connection, item: Resolved) -> None:
+    raw = json.dumps([source.__dict__ for source in item.sources], ensure_ascii=False, separators=(",", ":"))
+    db.execute(
+        """INSERT INTO resolved
+        (media_type,tmdb,season,episode,status,title,year,imdb,sources_json,error,updated_at)
+        VALUES(?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(media_type,tmdb,season,episode) DO UPDATE SET
+          status=excluded.status,title=excluded.title,year=excluded.year,imdb=excluded.imdb,
+          sources_json=excluded.sources_json,error=excluded.error,updated_at=excluded.updated_at""",
+        (item.media_type, item.tmdb, item.season, item.episode, item.status,
+         item.title, item.year, item.imdb, raw, item.error, int(time.time())),
+    )
+
+
+def import_legacy(db: sqlite3.Connection) -> None:
+    if db.execute("SELECT COUNT(*) FROM resolved").fetchone()[0]:
+        return
+    movie_cache = ROOT / "arquivos-gerados/embedplayer-filmes/cache.sqlite3"
+    if movie_cache.exists():
+        old = sqlite3.connect(f"file:{movie_cache}?mode=ro", uri=True)
+        for title, status, imdb, tmdb, raw, error in old.execute(
+            "SELECT title,status,imdb,tmdb_id,sources_json,error FROM movies WHERE tmdb_id<>''"
+        ):
+            if not str(tmdb).isdigit():
+                continue
+            item = Resolved("movie", str(tmdb), 0, 0, status, title=title, imdb=imdb,
+                            sources=decode_sources(raw), error=error)
+            current = db.execute(
+                "SELECT status FROM resolved WHERE media_type='movie' AND tmdb=? AND season=0 AND episode=0",
+                (str(tmdb),),
+            ).fetchone()
+            rank = {"encontrado": 4, "indisponivel": 3, "sem_imdb": 2, "erro": 1}
+            if not current or rank.get(status, 0) > rank.get(current[0], 0):
+                save(db, item)
+        old.close()
+
+    series_cache = ROOT / "arquivos-gerados/embedplayer-series/cache.sqlite3"
+    if series_cache.exists():
+        old = sqlite3.connect(f"file:{series_cache}?mode=ro", uri=True)
+        for title, season, episode, status, tmdb, raw, error in old.execute(
+            "SELECT title,season,episode,status,tmdb_id,sources_json,error FROM episodes WHERE tmdb_id<>''"
+        ):
+            if str(tmdb).isdigit():
+                save(db, Resolved("tv", str(tmdb), int(season), int(episode), status,
+                                  title=title, sources=decode_sources(raw), error=error))
+        old.close()
+    db.commit()
+
+
+def process_movie(tmdb: str, tmdb_key: str, validate: bool) -> Resolved:
+    global TMDB_NEXT_REQUEST
+    try:
+        # O TMDB aceita paralelismo, mas limita rajadas. Espaçar somente o
+        # começo dessas chamadas evita 429 sem reduzir séries/animes/doramas.
+        with TMDB_RATE_LOCK:
+            wait = TMDB_NEXT_REQUEST - time.monotonic()
+            if wait > 0:
+                time.sleep(wait)
+            TMDB_NEXT_REQUEST = time.monotonic() + 0.04
+        data = tmdb_json(
+            f"/movie/{tmdb}",
+            {"language": "pt-BR", "append_to_response": "external_ids"},
+            tmdb_key,
+        )
+        title = str(data.get("title") or data.get("original_title") or f"TMDB {tmdb}")
+        year = str(data.get("release_date") or "")[:4]
+        imdb = str((data.get("external_ids") or {}).get("imdb_id") or "")
+        if not re.fullmatch(r"tt\d{7,10}", imdb):
+            return Resolved("movie", tmdb, 0, 0, "sem_imdb", title, year)
+        sources, api_title = resolve_embed(imdb, validate)
+        if not sources:
+            return Resolved("movie", tmdb, 0, 0, "indisponivel", title, year, imdb)
+        return Resolved("movie", tmdb, 0, 0, "encontrado", title, year, imdb, sources)
+    except urllib.error.HTTPError as error:
+        status = "indisponivel" if error.code == 404 else "erro"
+        return Resolved("movie", tmdb, 0, 0, status, error=f"HTTP {error.code}")
+    except Exception as error:
+        return Resolved("movie", tmdb, 0, 0, "erro", error=f"{type(error).__name__}: {error}")
+
+
+def process_episode(item: Episode, validate: bool) -> Resolved:
+    class Block:
+        key = item.tmdb
+        title = item.title
+    result = resolve_episode(Block(), item.tmdb, item.season, item.episode, validate, 0.0)
+    return Resolved("tv", item.tmdb, item.season, item.episode, result.status,
+                    item.title, item.year, sources=result.sources, error=result.error)
+
+
+def progress(done: int, total: int, started: float, item: Resolved) -> None:
+    elapsed = max(time.monotonic() - started, 0.001)
+    rate = done / elapsed
+    eta = (total - done) / rate if rate else 0
+    with PRINT_LOCK:
+        suffix = f" S{item.season:02}E{item.episode:02}" if item.media_type == "tv" else ""
+        print(f"[{done}/{total}] {rate:.1f}/s · ETA {eta/60:.1f} min · {item.status} · TMDB {item.tmdb}{suffix}", flush=True)
+
+
+def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> dict:
+    db = open_cache(args.cache)
+    import_legacy(db)
+    cached = load_cache(db)
+    terminal = {"encontrado", "indisponivel", "sem_imdb"}
+    movies = [tmdb for tmdb in movie_ids if ("movie", tmdb, 0, 0) not in cached]
+    if args.repetir_erros:
+        movies += [tmdb for tmdb in movie_ids if cached.get(("movie", tmdb, 0, 0), Resolved("movie", tmdb, 0, 0, "")).status == "erro"]
+
+    episodes: list[Episode] = []
+    seen: set[tuple[str, int, int]] = set()
+    for category, items in collections.items():
+        for raw in items:
+            for season, episode in raw["episodios"]:
+                key = (raw["id"], season, episode)
+                old = cached.get(("tv", *key))
+                if key in seen or (old and old.status in terminal and not args.reprocessar):
+                    continue
+                if old and old.status == "erro" and not args.repetir_erros and not args.reprocessar:
+                    continue
+                seen.add(key)
+                episodes.append(Episode(category, raw["id"], raw["nome"], raw["ano"], season, episode))
+    if args.reprocessar:
+        movies = list(movie_ids)
+    tasks = [("movie", value) for value in dict.fromkeys(movies)] + [("tv", value) for value in episodes]
+    if args.limit:
+        tasks = tasks[:args.limit]
+    print(f"Cache reaproveitado: {len(cached)} itens | pendentes: {len(tasks)}", flush=True)
+    tmdb_key = discover_tmdb_key(args.tmdb_key) if any(kind == "movie" for kind, _ in tasks) else ""
+    started = time.monotonic()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = {
+            pool.submit(process_movie, value, tmdb_key, not args.sem_validar)
+            if kind == "movie" else
+            pool.submit(process_episode, value, not args.sem_validar): (kind, value)
+            for kind, value in tasks
+        }
+        for done, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            item = future.result()
+            old = cached.get((item.media_type, item.tmdb, item.season, item.episode))
+            if old and old.status == "encontrado" and item.status != "encontrado":
+                item = old
+            save(db, item)
+            cached[(item.media_type, item.tmdb, item.season, item.episode)] = item
+            if done % 25 == 0 or done == len(tasks):
+                db.commit()
+                progress(done, len(tasks), started, item)
+    db.commit()
+    write_outputs(cached, movie_ids, collections)
+    changed = apply_to_catalog(cached) if args.aplicar else {"filmes": 0, "series": 0}
+    db.close()
+    return {"pendentes_processados": len(tasks), "arquivos_alterados": changed}
+
+
+def write_outputs(cache, movie_ids, collections) -> None:
+    OUTPUT.mkdir(parents=True, exist_ok=True)
+    movie_lines = []
+    for tmdb in movie_ids:
+        item = cache.get(("movie", tmdb, 0, 0))
+        if not item or item.status != "encontrado" or not item.sources:
+            continue
+        title = item.title + (f" ({item.year})" if item.year else "")
+        urls = ",".join(dict.fromkeys(source.url for source in item.sources))
+        movie_lines.append(f"{title}\tdub={urls}\ttmdb={tmdb}\timdb={item.imdb}")
+    movie_text = "\n".join(movie_lines) + ("\n" if movie_lines else "")
+    atomic_write(OUTPUT / "filmes.txt", movie_text)
+    atomic_write(STATE / "links-filmes.txt", movie_text)
+
+    for category, items in collections.items():
+        lines: list[str] = []
+        for raw in items:
+            found = []
+            for season, episode in raw["episodios"]:
+                item = cache.get(("tv", raw["id"], season, episode))
+                if item and item.status == "encontrado" and item.sources:
+                    urls = ",".join(dict.fromkeys(source.url for source in item.sources))
+                    found.append(f"{season}\t{episode}\tdub\t{urls}")
+            if found:
+                lines.append(f'@{raw["nome"]}\t{raw["ano"]}\t{raw["id"]}')
+                lines.extend(found)
+        category_text = "\n".join(lines) + ("\n" if lines else "")
+        atomic_write(OUTPUT / f"{category}.txt", category_text)
+        atomic_write(STATE / f"links-{category}.txt", category_text)
+
+    statuses: dict[str, int] = {}
+    for item in cache.values():
+        statuses[item.status] = statuses.get(item.status, 0) + 1
+    summary = {"gerado_em": time.strftime("%Y-%m-%dT%H:%M:%S%z"), "status": statuses}
+    atomic_write(OUTPUT / "resumo.json", json.dumps(summary, ensure_ascii=False, indent=2) + "\n")
+
+
+def apply_to_catalog(cache) -> dict[str, int]:
+    movie_map: dict[str, list[str]] = {}
+    old_movie = ROOT / "arquivos-gerados/embedplayer-filmes/cache.sqlite3"
+    if old_movie.exists():
+        db = sqlite3.connect(f"file:{old_movie}?mode=ro", uri=True)
+        for title, tmdb in db.execute("SELECT title,tmdb_id FROM movies WHERE tmdb_id<>''"):
+            movie_map.setdefault(str(tmdb), []).append(title)
+        db.close()
+    by_title: dict[str, tuple[EmbedSource, ...]] = {}
+    for (kind, tmdb, season, episode), item in cache.items():
+        if kind == "movie" and item.status == "encontrado":
+            for title in movie_map.get(tmdb, []):
+                by_title[title] = item.sources
+    changed_movies = 0
+    for path in sorted((ROOT / "vod").glob("filmes-*.txt")):
+        if not re.fullmatch(r"filmes-(?:#|[A-Z])\.txt", path.name):
+            continue
+        lines, changed = [], False
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            fields = raw.split("\t")
+            sources = by_title.get(fields[0])
+            if sources:
+                urls = [source.url for source in sources if source.language == "dub"] or [source.url for source in sources]
+                for index, field in enumerate(fields[1:], 1):
+                    if field.startswith("dub="):
+                        old = field[4:].split(",") if field[4:] else []
+                        fields[index] = "dub=" + ",".join(dict.fromkeys(urls + old))
+                        break
+                else:
+                    fields.insert(1, "dub=" + ",".join(dict.fromkeys(urls)))
+            replacement = "\t".join(fields)
+            changed = changed or replacement != raw
+            lines.append(replacement)
+        if changed:
+            atomic_write(path, "\n".join(lines) + "\n")
+            changed_movies += 1
+
+    series_map: dict[str, str] = {}
+    old_series = ROOT / "arquivos-gerados/embedplayer-series/cache.sqlite3"
+    if old_series.exists():
+        db = sqlite3.connect(f"file:{old_series}?mode=ro", uri=True)
+        for title, tmdb in db.execute("SELECT title,tmdb_id FROM series WHERE status='encontrado'"):
+            series_map[title] = str(tmdb)
+        db.close()
+    changed_series = 0
+    for path in sorted((ROOT / "vod").glob("series-*-*.txt")):
+        title = ""
+        lines, changed = [], False
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            if raw.startswith("@"):
+                title = raw[1:].split("\t", 1)[0]
+                lines.append(raw)
+                continue
+            match = re.fullmatch(r"(\d+)\t(\d+)\t(dub|leg)\t(.+)", raw)
+            tmdb = series_map.get(title)
+            if not match or match.group(3) != "dub" or not tmdb:
+                lines.append(raw)
+                continue
+            item = cache.get(("tv", tmdb, int(match.group(1)), int(match.group(2))))
+            if not item or item.status != "encontrado" or not item.sources:
+                lines.append(raw)
+                continue
+            urls = [source.url for source in item.sources if source.language == "dub"] or [source.url for source in item.sources]
+            replacement = "\t".join(match.group(i) for i in range(1, 4)) + "\t" + ",".join(
+                dict.fromkeys(urls + match.group(4).split(","))
+            )
+            changed = changed or replacement != raw
+            lines.append(replacement)
+        if changed:
+            atomic_write(path, "\n".join(lines) + "\n")
+            changed_series += 1
+    return {"filmes": changed_movies, "series": changed_series}
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Atualiza IDs RedeFlix e gera fontes por IDs exatos.")
+    parser.add_argument("--gerar", action="store_true", help="resolve as fontes ainda pendentes")
+    parser.add_argument("--aplicar", action="store_true", help="coloca as fontes no catálogo VOD atual")
+    parser.add_argument("--workers", type=int, default=64)
+    parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--tmdb-key", default="")
+    parser.add_argument("--sem-validar", action="store_true")
+    parser.add_argument("--repetir-erros", action="store_true")
+    parser.add_argument("--reprocessar", action="store_true")
+    parser.add_argument("--cache", type=Path, default=OUTPUT / "cache.sqlite3")
+    return parser.parse_args()
+
+
+def main() -> int:
+    args = parse_args()
+    if not 1 <= args.workers <= 192:
+        raise SystemExit("--workers deve estar entre 1 e 192")
+    lock = acquire_execution_lock(OUTPUT)
+    movies, collections, new_ids, new_episodes = sync_lists()
+    print("Listas sincronizadas: " + ", ".join(
+        [f"{len(movies)} filmes"] + [f"{len(items)} {category}" for category, items in collections.items()]
+    ), flush=True)
+    print("Novos IDs: " + ", ".join(f"{k}={len(v)}" for k, v in new_ids.items()), flush=True)
+    result = generate(movies, collections, args) if args.gerar else {"modo": "somente sincronização"}
+    atomic_write(OUTPUT / "ultima-execucao.json", json.dumps(result, ensure_ascii=False, indent=2) + "\n")
+    lock.close()
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

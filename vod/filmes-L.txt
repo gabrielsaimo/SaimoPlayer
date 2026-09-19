@@ -218,8 +218,8 @@ Lealdade à Prova (2019)	dub=https://embedplayer2.xyz/cdn/hls/f3cad11ad4d7ae5bde
 Leao Branco: O Lutador Sem Lei (1990)	dub=6:1300020
 Leaving Neverland 2: Surviving Michael Jackson	dub=2:376519,8:376519	leg=2:376518,8:376518
 Lection	leg=2:63012,8:63012
-Lee	dub=2:315325,8:315325	leg=2:315326,2:291257,8:315326,8:291257
-Lee (2024)	dub=6:1313216	leg=6:1312314,6:1313215
+Lee	dub=https://embedplayer2.xyz/cdn/hls/3c7045f6ca79069f18d1bbb788e0d989/master.txt,2:315325,8:315325	leg=2:315326,2:291257,8:315326,8:291257
+Lee (2024)	dub=https://embedplayer2.xyz/cdn/hls/3c7045f6ca79069f18d1bbb788e0d989/master.txt,6:1313216	leg=6:1312314,6:1313215
 Lee Soo Man: Rei do K-Pop	leg=2:348305,8:348305
 Lefter: O Professor	dub=2:352712,8:352712	leg=2:352711,8:352711
 Legacy of Lies	dub=2:119733,8:119733	leg=2:119734,2:64385,8:119734,8:64385
