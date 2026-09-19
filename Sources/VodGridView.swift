@@ -41,7 +41,9 @@ struct VodGridView: View {
         VStack(spacing: 0) {
             cabecalho
             Divider()
-            if estado.secao != .favoritos { reguaDeLetras; Divider() }
+            if ![.favoritos, .animes, .doramas].contains(estado.secao) {
+                reguaDeLetras; Divider()
+            }
             conteudo
         }
         .background(Color.black)
@@ -204,6 +206,7 @@ struct VodGridView: View {
             switch estado.secao {
             case .extras: return gaveta.reservados > 0
             case .series: return gaveta.series > 0
+            case .animes, .doramas: return false
             default: return gaveta.filmes > 0
             }
         }
@@ -213,6 +216,7 @@ struct VodGridView: View {
         switch estado.secao {
         case .extras: return gaveta.reservados
         case .series: return gaveta.series
+        case .animes, .doramas: return 0
         default: return gaveta.filmes
         }
     }
@@ -227,9 +231,9 @@ struct VodGridView: View {
             grade(itensFavoritos)
         } else if estado.tudo {
             grade(itensDeTudo)
-        } else if estado.letra.isEmpty {
+        } else if estado.letra.isEmpty && ![.animes, .doramas].contains(estado.secao) {
             aviso("Escolha uma letra")
-        } else if estado.secao == .series {
+        } else if [.series, .animes, .doramas].contains(estado.secao) {
             grade(itensSeries)
         } else {
             grade(itensFilmes)
@@ -407,7 +411,12 @@ struct VodGridView: View {
                    letra: estado.letra,
                    reservado: false) {
                 estado.ancora = "s:" + serie.nomeCompleto
-                abrirSerie(serie, letra: estado.letra)
+                if let prontos = estado.episodiosColecao[serie.id] {
+                    estado.episodios = prontos
+                    estado.serieAberta = serie
+                } else {
+                    abrirSerie(serie, letra: estado.letra)
+                }
             }
         }
     }
@@ -528,6 +537,10 @@ struct VodGridView: View {
         estado.filmes = secao.pedeFilmes
         estado.reservado = secao == .extras
         guard secao != .favoritos else { return }
+        if secao == .animes || secao == .doramas {
+            await carregarColecao(secao)
+            return
+        }
         if estado.tudo {
             if estado.achados.isEmpty || estado.achadosDe != secao { await carregarTudo() }
             return
@@ -554,6 +567,19 @@ struct VodGridView: View {
                                                    reservados: estado.reservado)
             estado.titulosSerie = []
         }
+    }
+
+    private func carregarColecao(_ secao: VodSecao) async {
+        carregando = true
+        defer { carregando = false }
+        let tipo = secao == .animes ? "animes" : "doramas"
+        let itens = await Vod.colecao(tipo)
+        estado.titulosSerie = itens.map(\.0).sorted {
+            $0.titulo.localizedCaseInsensitiveCompare($1.titulo) == .orderedAscending
+        }
+        estado.episodiosColecao = Dictionary(uniqueKeysWithValues: itens.map { ($0.0.id, $0.1) })
+        estado.titulosFilme = []
+        estado.tudo = false
     }
 
     private func abrirSerie(_ serie: Serie, letra: String) {

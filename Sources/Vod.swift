@@ -187,6 +187,45 @@ enum Vod {
         }
     }
 
+    /// Animes e doramas já trazem títulos e episódios no mesmo arquivo.
+    static func colecao(_ tipo: String) async -> [(Serie, [Episodio])] {
+        guard ["animes", "doramas"].contains(tipo) else { return [] }
+        let nome = "redeflix/links-\(tipo).txt"
+        // A classificação e os novos episódios mudam semanalmente: rede
+        // primeiro, mantendo o arquivo local somente como reserva offline.
+        let texto: String?
+        if let novo = await baixar(nome) { texto = novo }
+        else { texto = await arquivo(nome) }
+        guard let texto else { return [] }
+        var out: [(Serie, [Episodio])] = []
+        var identidade: (String, String)?
+        var episodios: [Episodio] = []
+        func concluir() {
+            guard let (titulo, ano) = identidade, !episodios.isEmpty else { return }
+            out.append((Serie(titulo: titulo, ano: ano, pedaco: -1,
+                              episodios: episodios.count), episodios))
+        }
+        for linha in texto.split(separator: "\n", omittingEmptySubsequences: false) {
+            if linha.hasPrefix("@") {
+                concluir()
+                let campos = linha.dropFirst().split(separator: "\t", omittingEmptySubsequences: false)
+                identidade = campos.first.map { (String($0), campos.count > 1 ? String(campos[1]) : "") }
+                episodios = []
+                continue
+            }
+            guard identidade != nil else { continue }
+            let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
+            guard campos.count >= 4 else { continue }
+            let urls = campos[3].split(separator: ",").map(String.init).filter { !$0.isEmpty }
+            guard !urls.isEmpty else { continue }
+            episodios.append(Episodio(temporada: Int(campos[0]) ?? 0,
+                                      numero: Int(campos[1]) ?? 0,
+                                      versao: String(campos[2]), urls: urls))
+        }
+        concluir()
+        return out
+    }
+
     /// Episódios de uma série. Baixa só o pedaço em que ela está.
     static func episodios(letra: String, serie: Serie) async -> [Episodio] {
         let nome = "series-\(gaveta(letra))-\(serie.pedaco).txt"
@@ -329,6 +368,8 @@ enum Vod {
               !data.isEmpty
         else { return nil }
         let local = pasta.appendingPathComponent(nome.replacingOccurrences(of: "%23", with: "hash"))
+        try? FileManager.default.createDirectory(at: local.deletingLastPathComponent(),
+                                                 withIntermediateDirectories: true)
         try? data.write(to: local, options: .atomic)
         return String(decoding: data, as: UTF8.self)
     }
