@@ -121,6 +121,18 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var selectedSubtitle: String?
     @Published var selectedQuality = "auto"
 
+    var selectedAudioTitle: String {
+        audioChoices.first(where: { $0.id == selectedAudio })?.title ?? "Padrão"
+    }
+
+    var selectedSubtitleTitle: String {
+        subtitleChoices.first(where: { $0.id == selectedSubtitle })?.title ?? "Desligado"
+    }
+
+    var selectedQualityTitle: String {
+        qualityChoices.first(where: { $0.id == selectedQuality })?.title ?? "Automática"
+    }
+
     let player = AVPlayer()
 
     private var pip: AVPictureInPictureController?
@@ -164,6 +176,7 @@ final class PlayerModel: NSObject, ObservableObject {
     private var subtitleGroup: AVMediaSelectionGroup?
     private var audioOptions: [String: AVMediaSelectionOption] = [:]
     private var subtitleOptions: [String: AVMediaSelectionOption] = [:]
+    private var qualityBitrates: [String: Double] = [:]
 
     /// Extra line-up, present only after the code is typed. Deliberately not
     /// persisted: closing the app locks it again, so the next person to open it
@@ -379,6 +392,9 @@ final class PlayerModel: NSObject, ObservableObject {
                 if s.width > 0 { self?.stats.resolution = "\(Int(s.width))×\(Int(s.height))" }
             }
         })
+        itemObservers.append(item.observe(\.currentMediaSelection, options: [.initial, .new]) { [weak self] it, _ in
+            Task { @MainActor in self?.syncSelectedMediaOptions(for: it) }
+        })
 
         let center = NotificationCenter.default
         notificationTokens.append(center.addObserver(
@@ -415,6 +431,7 @@ final class PlayerModel: NSObject, ObservableObject {
     private func itemStatusChanged(_ item: AVPlayerItem) {
         switch item.status {
         case .readyToPlay:
+            syncSelectedMediaOptions(for: item)
             if !playedSinceOpen, let n = noAr {
                 Telemetria.shared.tocou(n.tipo, n.titulo, url: n.url, fonte: n.fonte,
                                         ms: Int(Date().timeIntervalSince(aberturaEm) * 1000))
@@ -764,6 +781,7 @@ final class PlayerModel: NSObject, ObservableObject {
             audioChoices = []; subtitleChoices = []
             qualityChoices = [MediaChoice(id: "auto", title: "Automática")]
             audioOptions = [:]; subtitleOptions = [:]
+            qualityBitrates = [:]
             audioGroup = try? await asset.loadMediaSelectionGroup(for: .audible)
             subtitleGroup = try? await asset.loadMediaSelectionGroup(for: .legible)
             guard player.currentItem === item else { return }
@@ -811,10 +829,38 @@ final class PlayerModel: NSObject, ObservableObject {
                     return MediaChoice(id: "\(altura)", title: "\(altura)p\(quatroK)\(taxa)")
                 }
                 qualityChoices = [MediaChoice(id: "auto", title: "Automática")] + disponiveis
+                qualityBitrates = Dictionary(uniqueKeysWithValues: porAltura.map {
+                    (String($0.key), $0.value)
+                })
                 if !qualityChoices.contains(where: { $0.id == selectedQuality }) {
                     selectedQuality = "auto"
-                    applyQuality(to: item)
                 }
+                // Na abertura do item os bitrates ainda não estavam
+                // disponíveis; reaplica agora com a tabela completa.
+                applyQuality(to: item)
+            }
+            syncSelectedMediaOptions(for: item)
+        }
+    }
+
+    /// Mantém o menu ligado à seleção que o AVPlayer realmente aceitou.
+    /// A confirmação pode chegar alguns instantes depois do clique, sobretudo
+    /// em HLS com faixas alternativas carregadas por playlists filhas.
+    private func syncSelectedMediaOptions(for item: AVPlayerItem) {
+        guard player.currentItem === item else { return }
+        let selection = item.currentMediaSelection
+        if let group = audioGroup {
+            if let option = selection.selectedMediaOption(in: group),
+               let index = group.options.firstIndex(of: option) {
+                selectedAudio = "audio:\(index)"
+            }
+        }
+        if let group = subtitleGroup {
+            if let option = selection.selectedMediaOption(in: group),
+               let index = group.options.firstIndex(of: option) {
+                selectedSubtitle = "subtitle:\(index)"
+            } else {
+                selectedSubtitle = "__off__"
             }
         }
     }
@@ -833,6 +879,8 @@ final class PlayerModel: NSObject, ObservableObject {
         player.appliesMediaSelectionCriteriaAutomatically = false
         item.select(opt, in: g)
         selectedAudio = id
+        Log.shared.write("áudio escolhido: \(selectedAudioTitle)")
+        confirmMediaSelection(on: item)
     }
 
     func selectSubtitle(_ id: String) {
@@ -844,6 +892,16 @@ final class PlayerModel: NSObject, ObservableObject {
             item.select(opt, in: g)
         }
         selectedSubtitle = id
+        Log.shared.write("legenda escolhida: \(selectedSubtitleTitle)")
+        confirmMediaSelection(on: item)
+    }
+
+    private func confirmMediaSelection(on item: AVPlayerItem) {
+        Task { @MainActor [weak self, weak item] in
+            try? await Task.sleep(nanoseconds: 250_000_000)
+            guard let self, let item else { return }
+            self.syncSelectedMediaOptions(for: item)
+        }
     }
 
     /// Limita a variante escolhida pelo AVPlayer sem transformar a qualidade
@@ -852,7 +910,10 @@ final class PlayerModel: NSObject, ObservableObject {
     func selectQuality(_ id: String) {
         guard qualityChoices.contains(where: { $0.id == id }) else { return }
         selectedQuality = id
-        if let item = player.currentItem { applyQuality(to: item) }
+        if let item = player.currentItem {
+            applyQuality(to: item)
+            Log.shared.write("qualidade escolhida: \(selectedQualityTitle)")
+        }
     }
 
     private func applyQuality(to item: AVPlayerItem) {
@@ -864,7 +925,11 @@ final class PlayerModel: NSObject, ObservableObject {
         // 16:9 é apenas o teto pedido; conteúdo 4:3 continua preservando seu
         // aspecto. O AVPlayer escolhe a variante real mais próxima abaixo dele.
         item.preferredMaximumResolution = CGSize(width: height * 16 / 9, height: height)
-        item.preferredPeakBitRate = 0
+        // O teto de resolução sozinho é apenas uma preferência para o
+        // AVPlayer. O bitrate da variante torna a troca efetiva no próximo
+        // segmento sem abandonar a adaptação automática abaixo desse teto.
+        let peak = qualityBitrates[selectedQuality] ?? 0
+        item.preferredPeakBitRate = peak > 0 ? peak * 1.05 : 0
     }
 
     // MARK: - Window / PiP
