@@ -1,8 +1,13 @@
-name: Atualizar IDs RedeFlix
+name: Atualizar catálogo
 
+# Duas partes, sempre nesta ordem: primeiro as fontes novas da RedeFlix,
+# depois as fileiras da tela inicial — que leem justamente o que a primeira
+# acabou de gravar em vod/redeflix. Rodar só a segunda mostraria as novidades
+# de ontem.
 on:
   schedule:
-    - cron: "17 8 * * 1"
+    # Todo dia às 5h da manhã em Brasília, quando ninguém está assistindo.
+    - cron: "17 8 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,12 +16,23 @@ permissions:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # O cache do resolvedor não fica no Git (é um sqlite de dezenas de MB),
+      # e sem ele toda execução recomeçaria do zero — uma hora por dia batendo
+      # de novo no que já foi resolvido ontem. Guardando entre as execuções, o
+      # dia seguinte só pega o que entrou.
+      - name: Recuperar o cache do resolvedor
+        uses: actions/cache@v4
+        with:
+          path: arquivos-gerados/redeflix
+          key: redeflix-${{ github.run_id }}
+          restore-keys: |
+            redeflix-
       - name: Resolver IDs e episódios novos
         run: python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96
       - name: Atualizar animes e doramas e recuperar episódios que voltaram
@@ -25,10 +41,16 @@ jobs:
           --repetir-indisponiveis --workers 48
           --tentativas-indisponiveis 2 --delay-episodio 0.05
           --somente-titulos-publicados
+      # Logo depois, e não noutro workflow: ele lê vod/redeflix/links-*.txt
+      # para montar as fileiras de animes e doramas, então precisa ver o que
+      # os passos acima acabaram de gravar.
+      - name: Montar as fileiras da tela inicial
+        run: python3 gerar_destaques.py
+
       - name: Publicar somente quando houver alterações
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vod/redeflix atualizar_redeflix.py
-          git diff --cached --quiet || git commit -m "Atualiza IDs RedeFlix"
+          git add vod/redeflix vod/destaques.txt atualizar_redeflix.py
+          git diff --cached --quiet || git commit -m "Atualiza catálogo e destaques"
           git push
