@@ -168,9 +168,10 @@ enum Vod {
             for parte in campos.dropFirst() {
                 guard let marca = parte.firstIndex(of: "=") else { continue }
                 let versao = String(parte[parte.startIndex..<marca])
-                let lista = String(parte[parte.index(after: marca)...])
-                    .split(separator: ",").map { montar(String($0)) }
-                    .filter { !$0.isEmpty }
+                let lista = FontesDesativadas.peneirar(
+                    String(parte[parte.index(after: marca)...])
+                        .split(separator: ",").map { montar(String($0)) }
+                        .filter { !$0.isEmpty })
                 if !lista.isEmpty { fontes[versao] = lista }
             }
             return fontes.isEmpty ? nil : Filme(titulo: String(campos[0]), fontes: fontes)
@@ -217,7 +218,8 @@ enum Vod {
             guard identidade != nil else { continue }
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 4 else { continue }
-            let urls = campos[3].split(separator: ",").map { montar(String($0)) }
+            let urls = FontesDesativadas.peneirar(
+                campos[3].split(separator: ",").map { montar(String($0)) })
                 .filter { !$0.isEmpty }
             guard !urls.isEmpty else { continue }
             episodios.append(Episodio(temporada: Int(campos[0]) ?? 0,
@@ -247,7 +249,8 @@ enum Vod {
             guard dentro else { continue }
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 4 else { continue }
-            let urls = campos[3].split(separator: ",").map { montar(String($0)) }
+            let urls = FontesDesativadas.peneirar(
+                campos[3].split(separator: ",").map { montar(String($0)) })
                 .filter { !$0.isEmpty }
             guard !urls.isEmpty else { continue }
             out.append(Episodio(temporada: Int(campos[0]) ?? 0,
