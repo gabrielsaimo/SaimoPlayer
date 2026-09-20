@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Descobre canais FrostView e acrescenta reservas por nome exato normalizado.
+"""Descobre canais FrostView, informa qualidade e prioriza suas fontes FHD.
 
 Uso: python3 atualizar_frostview.py --aplicar
 Sem --aplicar, somente gera o inventário e o relatório em arquivos-gerados/frostview.
 Os URLs são mantidos como retornados pela API, sem decodificar o relay.
+As demais fontes são preservadas; resolução não anunciada fica como desconhecida.
 """
 import argparse
 import concurrent.futures
@@ -41,14 +42,48 @@ def atomic(path, content):
     temporary.replace(path)
 
 
+def quality(text):
+    match = re.search(r'(?i)(?<![a-z0-9])(4K|UHD|FHD|1080[pi]?|HD|720p?|SD|480p?)(?![a-z0-9])', text)
+    if not match:
+        return 'Qualidade não informada'
+    value = match.group(1).upper()
+    if value in ('4K', 'UHD'):
+        return '4K'
+    if value.startswith('1080') or value == 'FHD':
+        return 'FHD'
+    if value.startswith('720') or value == 'HD':
+        return 'HD'
+    return 'SD'
+
+
+def label_and_prioritize(block, streams):
+    """Move blocos completos, mantendo cabeçalhos/DRM junto à respectiva fonte."""
+    qualities = {s['url']: quality(s.get('name', '')) for s in streams}
+    pieces = re.split(r'(?m)(?=^fonte: )', block)
+    sources = []
+    for piece in pieces[1:]:
+        url = piece.splitlines()[0][7:].strip()
+        previous = re.search(r'^qualidade: (.+)$', piece, re.M)
+        label = qualities.get(url) or (previous.group(1) if previous else quality(urllib.parse.urlsplit(url).path))
+        if previous and re.search(r'\d+x\d+', previous.group(1)):
+            label = previous.group(1)
+        piece = re.sub(r'(?m)^qualidade: .*\n?', '', piece).rstrip()
+        first, _, rest = piece.partition('\n')
+        piece = first + '\nqualidade: ' + label + '\n' + (rest + '\n' if rest else '')
+        sources.append((url in qualities and label.split(' · ')[0] == 'FHD', piece))
+    sources.sort(key=lambda item: not item[0])
+    return pieces[0] + ''.join(piece for _, piece in sources) + '\n'
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--aplicar', action='store_true')
+    parser.add_argument('--usar-cache', action='store_true', help='usa o inventário já coletado para reordenar e rotular')
     parser.add_argument('--workers', type=int, choices=range(1, 17), default=8, metavar='1..16')
     args = parser.parse_args()
     output = ROOT / 'arquivos-gerados/frostview'
     output.mkdir(parents=True, exist_ok=True)
-    manifest = fetch('/manifest.json')
+    manifest = {'catalogs': []} if args.usar_cache else fetch('/manifest.json')
     channels = {}
     for catalog in manifest.get('catalogs', []):
         if catalog.get('type') != 'channel':
@@ -79,7 +114,7 @@ def main():
             item['error'] = type(exc).__name__
         return item
 
-    results = []
+    results = json.loads((output / 'canais.json').read_text(encoding='utf-8')) if args.usar_cache else []
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
         for item in pool.map(resolve, channels.values()):
             results.append(item)
@@ -109,6 +144,8 @@ def main():
             blocks[index] = block.rstrip() + '\n' + ''.join('fonte: ' + url + '\n' for url in fresh) + '\n'
             updated.append({'canal': name, 'reservas_adicionadas': len(fresh)})
             added += len(fresh)
+    all_streams = [stream for item in results for stream in item['streams']]
+    blocks = [label_and_prioritize(block, all_streams) if block.startswith('canal: ') else block for block in blocks]
     report = {
         'canais_descobertos': len(results),
         'fontes_retornadas': sum(len(item['streams']) for item in results),
@@ -122,7 +159,7 @@ def main():
     }
     if args.aplicar:
         atomic(output / 'catalogo-antes.txt', original)
-        atomic(catalog_path, ''.join(blocks))
+        atomic(catalog_path, ''.join(blocks).rstrip() + '\n')
     atomic(output / 'relatorio.json', json.dumps(report, ensure_ascii=False, indent=2) + '\n')
     print(f'Concluído: {len(results)} canais, {len(updated)} correspondências com novas reservas, {added} reservas. Aplicado: {args.aplicar}', flush=True)
     print(f'Relatório: {output / "relatorio.json"}', flush=True)

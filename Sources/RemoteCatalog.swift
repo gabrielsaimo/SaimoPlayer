@@ -185,6 +185,8 @@ enum RemoteCatalog {
                 variants.append(Variant(url: url))
             case "referer":
                 if !variants.isEmpty { variants[variants.count - 1].referer = value }
+            case "qualidade":
+                if !variants.isEmpty { variants[variants.count - 1].label = value }
             case "agente":
                 if !variants.isEmpty { variants[variants.count - 1].userAgent = value }
             case "chave":
