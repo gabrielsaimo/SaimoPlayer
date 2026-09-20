@@ -13,6 +13,8 @@ struct VodGridView: View {
     @ObservedObject private var favoritos = VodFavoritos.shared
 
     @State private var carregando = false
+    /// As fileiras publicadas, baixadas uma vez por abertura da janela.
+    @State private var filasDeDestaque: [Destaques.Fila] = []
     @State private var selecaoFonte: SelecaoFonte?
 
     private let colunas = [GridItem(.adaptive(minimum: 168, maximum: 220), spacing: 18)]
@@ -41,7 +43,7 @@ struct VodGridView: View {
         VStack(spacing: 0) {
             cabecalho
             Divider()
-            if ![.favoritos, .animes, .doramas].contains(estado.secao) {
+            if ![.favoritos, .animes, .doramas, .inicio].contains(estado.secao) {
                 reguaDeLetras; Divider()
             }
             conteudo
@@ -221,12 +223,149 @@ struct VodGridView: View {
         }
     }
 
+    // MARK: - Início
+
+    /// A primeira tela do acervo: fileiras de capa que correm para o lado.
+    ///
+    /// Uma grade alfabética serve para achar o que já se sabe que existe; não
+    /// serve para descobrir. As fileiras mostram o que há — o que estava sendo
+    /// assistido, o que foi marcado, o que está em alta — e a busca continua no
+    /// mesmo lugar, filtrando dentro delas.
+    ///
+    /// As capas dos destaques chegam prontas do repositório, então abrir esta
+    /// tela não pergunta nada ao TMDB. Só "continue" e favoritos procuram capa,
+    /// e são poucas.
+    @ViewBuilder
+    private var fileiras: some View {
+        let visiveis = filasVisiveis
+        if visiveis.isEmpty {
+            aviso(carregando ? "Carregando…" : "Nada aqui")
+        } else {
+            ScrollView {
+                LazyVStack(alignment: .leading, spacing: 26) {
+                    ForEach(visiveis) { fila in
+                        VStack(alignment: .leading, spacing: 10) {
+                            Text(fila.titulo)
+                                .font(.title3.weight(.semibold))
+                                .padding(.horizontal, 18)
+                            ScrollView(.horizontal, showsIndicators: false) {
+                                LazyHStack(alignment: .top, spacing: 16) {
+                                    ForEach(fila.cartoes) { cartao in
+                                        celula(cartao).frame(width: 150)
+                                    }
+                                }
+                                .padding(.horizontal, 18)
+                            }
+                        }
+                    }
+                }
+                .padding(.vertical, 18)
+            }
+        }
+    }
+
+    private struct FilaNaTela: Identifiable {
+        let titulo: String
+        let cartoes: [Cartao]
+        var id: String { titulo }
+    }
+
+    /// As fileiras já filtradas pela busca: digitar procura dentro do que está
+    /// à vista, e a fileira que ficou sem nada sai da tela.
+    private var filasVisiveis: [FilaNaTela] {
+        var out: [FilaNaTela] = []
+        if !itensEmAndamento.isEmpty {
+            out.append(FilaNaTela(titulo: "Continue assistindo", cartoes: itensEmAndamento))
+        }
+        if !itensFavoritos.isEmpty {
+            out.append(FilaNaTela(titulo: "Favoritos", cartoes: itensFavoritos))
+        }
+        for fila in filasDeDestaque {
+            let cartoes = fila.itens.map { cartaoDeDestaque($0) }
+            if !cartoes.isEmpty { out.append(FilaNaTela(titulo: fila.titulo, cartoes: cartoes)) }
+        }
+        guard !estado.busca.isEmpty else { return out }
+        return out.compactMap { fila in
+            let filtrados = fila.cartoes.filter {
+                $0.nomeCompleto.localizedCaseInsensitiveContains(estado.busca)
+            }
+            return filtrados.isEmpty ? nil : FilaNaTela(titulo: fila.titulo, cartoes: filtrados)
+        }
+    }
+
+    private func cartaoDeDestaque(_ item: Destaques.Item) -> Cartao {
+        // O ano do filme mora dentro do próprio nome no catálogo; o da série,
+        // num campo à parte. Somar os dois sem olhar dava "Obsessao (2026)
+        // (2026)" na tela.
+        let anoNoNome = item.titulo.hasSuffix("(\(item.ano))")
+        return Cartao(titulo: item.titulo,
+               ano: anoNoNome ? "" : item.ano,
+               serie: item.serie,
+               detalhe: item.serie ? "Série" : "Filme",
+               progresso: item.serie ? nil : Progresso.fracao(Progresso.chaveFilme(item.titulo)),
+               letra: item.letra,
+               reservado: false) {
+            Task { await abrirDestaque(item) }
+        }
+    }
+
+    /// Abre um destaque.
+    ///
+    /// Filme e série passam pelo caminho da busca. Anime e dorama moram nas
+    /// coleções, que já vêm com os episódios dentro: achando o título ali, dá
+    /// para ir direto aos episódios.
+    private func abrirDestaque(_ item: Destaques.Item) async {
+        if item.daColecao {
+            await carregarColecao(item.colecao)
+            if let serie = estado.titulosSerie.first(where: {
+                $0.titulo.compare(item.titulo, options: .caseInsensitive) == .orderedSame
+            }) {
+                abrirSerie(serie, letra: "")
+                return
+            }
+            estado.secao = item.colecao
+            return
+        }
+        await abrirAchado(
+            Vod.Achado(titulo: item.titulo, serie: item.serie, letra: item.letra, ano: item.ano),
+            reservado: false)
+    }
+
+    /// O que está pela metade, do mais recente para o mais antigo.
+    private var itensEmAndamento: [Cartao] {
+        Progresso.emAndamento().prefix(20).map { andamento in
+            Cartao(titulo: andamento.rotulo,
+                   ano: "",
+                   serie: andamento.serie,
+                   detalhe: andamento.serie ? "Série" : "Filme",
+                   progresso: andamento.fracao,
+                   letra: "",
+                   reservado: false) {
+                Task { await abrirPorNome(andamento.titulo, serie: andamento.serie) }
+            }
+        }
+    }
+
+    /// O progresso guarda o nome, não a letra; a busca devolve a letra, que é
+    /// o que o acervo precisa para achar o título.
+    private func abrirPorNome(_ titulo: String, serie: Bool) async {
+        let achados = await Vod.todos()
+        let alvo = achados.first {
+            $0.titulo.compare(titulo, options: .caseInsensitive) == .orderedSame
+                && $0.serie == serie
+        } ?? achados.first
+        guard let alvo else { return }
+        await abrirAchado(alvo, reservado: false)
+    }
+
     // MARK: - Grade
 
     @ViewBuilder
     private var conteudo: some View {
         if let serie = estado.serieAberta {
             episodiosDe(serie)
+        } else if estado.secao == .inicio {
+            fileiras
         } else if estado.secao == .favoritos {
             grade(itensFavoritos)
         } else if estado.tudo {
@@ -536,6 +675,14 @@ struct VodGridView: View {
         if estado.gavetas.isEmpty { estado.gavetas = await Vod.indice() }
         estado.filmes = secao.pedeFilmes
         estado.reservado = secao == .extras
+        if secao == .inicio {
+            if filasDeDestaque.isEmpty {
+                carregando = true
+                filasDeDestaque = await Destaques.filas()
+                carregando = false
+            }
+            return
+        }
         guard secao != .favoritos else { return }
         if secao == .animes || secao == .doramas {
             await carregarColecao(secao)

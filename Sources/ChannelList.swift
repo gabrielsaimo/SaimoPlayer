@@ -168,7 +168,7 @@ extension ChannelListView {
     /// Extras só existem depois do código, e favoritos só quando há algum:
     /// uma seção vazia na lista seria um beco.
     var secoesDoAcervo: [VodSecao] {
-        var out: [VodSecao] = [.filmes, .series, .animes, .doramas]
+        var out: [VodSecao] = [.inicio, .filmes, .series, .animes, .doramas]
         if !favoritos.itens.isEmpty { out.append(.favoritos) }
         if model.restrictedUnlocked { out.append(.extras) }
         return out
