@@ -377,7 +377,13 @@ final class PlayerModel: NSObject, ObservableObject {
         tearDownItemObservers()
 
         let asset = AVURLAsset(url: link, options: [
-            "AVURLAssetHTTPHeaderFieldsKey": ["User-Agent": Upstream.userAgent]
+            // O "Accept" vai junto porque há origem que recusa quem não manda
+            // nenhum — o EmbedPlayer, dos doramas e animes novos, responde 200
+            // com "security error" no lugar da playlist.
+            "AVURLAssetHTTPHeaderFieldsKey": [
+                "User-Agent": Upstream.userAgent,
+                "Accept": "*/*",
+            ]
         ])
         let item = AVPlayerItem(asset: asset)
         item.preferredForwardBufferDuration = 6
