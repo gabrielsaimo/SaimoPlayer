@@ -9,10 +9,11 @@ import Combine
 /// Guardando aqui fora, reabrir cai exatamente onde parou.
 /// Qual parte do acervo está aberta no lugar do vídeo.
 enum VodSecao: String, Identifiable, CaseIterable {
-    case filmes, series, animes, doramas, extras, favoritos
+    case inicio, filmes, series, animes, doramas, extras, favoritos
     var id: String { rawValue }
     var titulo: String {
         switch self {
+        case .inicio: return "Início"
         case .filmes: return "Filmes"
         case .series: return "Séries"
         case .animes: return "Animes"
@@ -23,6 +24,7 @@ enum VodSecao: String, Identifiable, CaseIterable {
     }
     var icone: String {
         switch self {
+        case .inicio: return "house"
         case .filmes: return "film"
         case .series: return "tv"
         case .animes: return "sparkles.tv"
@@ -32,7 +34,7 @@ enum VodSecao: String, Identifiable, CaseIterable {
         }
     }
     /// Extras são filmes noutro arquivo do catálogo, não outra natureza.
-    var pedeFilmes: Bool { ![.series, .animes, .doramas].contains(self) }
+    var pedeFilmes: Bool { ![.series, .animes, .doramas, .inicio].contains(self) }
 }
 
 @MainActor
