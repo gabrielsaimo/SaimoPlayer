@@ -2490,6 +2490,11 @@ categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/24h_odeiachris.txt
 
+canal: 24H Friends
+categoria: 24 Horas
+logo: https://img.faz-o-eli.online/24h.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/24h_friends.txt
+
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
@@ -2649,3 +2654,28 @@ canal: MTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/mtv.png
 fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/mtv.txt
+
+canal: A Fazenda 18 1
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda.txt
+
+canal: A Fazenda 18 2
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda2.txt
+
+canal: A Fazenda 18 3
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda3.txt
+
+canal: A Fazenda 18 4
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda4.txt
+
+canal: A Fazenda 18 5
+categoria: PPV
+logo: https://img.faz-o-eli.online/afazenda2.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda5.txt
