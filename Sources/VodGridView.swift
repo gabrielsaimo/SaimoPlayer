@@ -15,6 +15,10 @@ struct VodGridView: View {
     @State private var carregando = false
     /// As fileiras publicadas, baixadas uma vez por abertura da janela.
     @State private var filasDeDestaque: [Destaques.Fila] = []
+    /// Os nomes do acervo comum. Serve de peneira para "continue assistindo":
+    /// os extras ficam de fora do índice de busca de propósito, e é justamente
+    /// esse "de fora" que não pode reaparecer numa fileira da tela inicial.
+    @State private var nomesDoAcervo: Set<String> = []
     @State private var selecaoFonte: SelecaoFonte?
 
     private let colunas = [GridItem(.adaptive(minimum: 168, maximum: 220), spacing: 18)]
@@ -242,24 +246,32 @@ struct VodGridView: View {
             aviso(carregando ? "Carregando…" : "Nada aqui")
         } else {
             ScrollView {
-                LazyVStack(alignment: .leading, spacing: 26) {
+                // O espaço entre fileiras é maior que o de dentro delas de
+                // propósito: é ele que faz o olho ler "outra fileira" em vez
+                // de uma grade contínua. Com pouco, o nome da fileira parece
+                // pertencer aos cartões de cima.
+                LazyVStack(alignment: .leading, spacing: 38) {
                     ForEach(visiveis) { fila in
-                        VStack(alignment: .leading, spacing: 10) {
+                        VStack(alignment: .leading, spacing: 14) {
                             Text(fila.titulo)
                                 .font(.title3.weight(.semibold))
-                                .padding(.horizontal, 18)
+                                .padding(.horizontal, 22)
                             ScrollView(.horizontal, showsIndicators: false) {
-                                LazyHStack(alignment: .top, spacing: 16) {
+                                LazyHStack(alignment: .top, spacing: 18) {
                                     ForEach(fila.cartoes) { cartao in
                                         celula(cartao).frame(width: 150)
                                     }
                                 }
-                                .padding(.horizontal, 18)
+                                .padding(.horizontal, 22)
+                                // A estrela e a moldura do foco passam da
+                                // borda do cartão; sem esta folga elas saem
+                                // cortadas pela rolagem.
+                                .padding(.vertical, 2)
                             }
                         }
                     }
                 }
-                .padding(.vertical, 18)
+                .padding(.vertical, 22)
             }
         }
     }
@@ -332,8 +344,17 @@ struct VodGridView: View {
     }
 
     /// O que está pela metade, do mais recente para o mais antigo.
+    ///
+    /// Só o que existe no acervo comum. O índice de busca deixa os extras de
+    /// fora de propósito — "o que não aparece sem o código também não pode
+    /// aparecer numa busca geral" —, e a mesma regra vale aqui: a tela inicial
+    /// abre sem código nenhum, e não pode ser por onde um título reservado
+    /// aparece. Enquanto o índice não chegou, a fileira fica vazia: mostrar de
+    /// menos é o erro certo a cometer.
     private var itensEmAndamento: [Cartao] {
-        Progresso.emAndamento().prefix(20).map { andamento in
+        Progresso.emAndamento()
+            .filter { nomesDoAcervo.contains($0.titulo) }
+            .prefix(20).map { andamento in
             Cartao(titulo: andamento.rotulo,
                    ano: "",
                    serie: andamento.serie,
@@ -680,6 +701,9 @@ struct VodGridView: View {
                 carregando = true
                 filasDeDestaque = await Destaques.filas()
                 carregando = false
+            }
+            if nomesDoAcervo.isEmpty {
+                nomesDoAcervo = Set(await Vod.todos().map(\.titulo))
             }
             return
         }
