@@ -189,7 +189,7 @@ final class PlayerModel: NSObject, ObservableObject {
 
     private override init() {
         super.init()
-        channels = RemoteCatalog.cached() + Store.customChannels()
+        channels = FontesDesativadas.peneirar(RemoteCatalog.cached() + Store.customChannels())
         favorites = Store.favorites()
         volume = Store.volume()
         for c in channels { ProxyServer.shared.register(c) }
@@ -203,6 +203,23 @@ final class PlayerModel: NSObject, ObservableObject {
         selection = channels.first?.id
         EPGService.shared.load(channels: channels)
         refreshCatalog()
+        vigiarFontesDesativadas()
+    }
+
+    /// Relê a lista de servidores desligados de dois em dois minutos.
+    ///
+    /// Desligar um provedor no painel tem que valer sem ninguém fechar o app:
+    /// quem está assistindo quando a fonte morre é justamente quem precisa que
+    /// ela suma. Quando a lista muda, a lista de canais é remontada na hora.
+    private func vigiarFontesDesativadas() {
+        Task { @MainActor [weak self] in
+            while !Task.isCancelled {
+                if await FontesDesativadas.atualizar() {
+                    self?.refreshCatalog()
+                }
+                try? await Task.sleep(nanoseconds: 120 * 1_000_000_000)
+            }
+        }
     }
 
     /// Picks up the published list without disturbing what is on screen: the
@@ -217,7 +234,10 @@ final class PlayerModel: NSObject, ObservableObject {
             let playing = selectedChannel?.name
             if let novos = await RemoteCatalog.baixarRestritos() { trocarRestritos(novos) }
             let extra = restrictedUnlocked ? restritos : []
-            let updated = fresh + Store.customChannels() + extra
+            // O que o painel desligou some aqui, antes de a lista chegar à
+            // tela: canal sem nenhuma fonte não abriria mesmo.
+            await FontesDesativadas.atualizar()
+            let updated = FontesDesativadas.peneirar(fresh + Store.customChannels() + extra)
             guard updated != channels else { return }
 
             channels = updated

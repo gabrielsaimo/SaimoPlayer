@@ -140,6 +140,7 @@ struct VodGridView: View {
             }
             if carregando { ProgressView().controlSize(.small) }
             Spacer()
+            secoesNoTopo
             TextField(estado.tudo ? "Buscar em todo o acervo" : "Buscar", text: $estado.busca)
                 .textFieldStyle(.roundedBorder)
                 .frame(width: 220)
@@ -152,6 +153,46 @@ struct VodGridView: View {
         }
         .padding(.horizontal, 18)
         .padding(.vertical, 12)
+    }
+
+    /// As seções ao lado da busca.
+    ///
+    /// Elas existiam só na lateral dos canais, que fica atrás do acervo: com o
+    /// acervo aberto, trocar de Filmes para Séries obrigava a fechar tudo e
+    /// voltar. Aqui em cima, ao lado da busca, ficam as duas coisas que alguém
+    /// quer enquanto procura — e é onde o site e a TV Box já as põem.
+    ///
+    /// Extras só aparece com o código digitado, como em todo lugar.
+    private var secoesNoTopo: some View {
+        HStack(spacing: 6) {
+            ForEach(secoesVisiveis) { secao in
+                Button {
+                    if estado.secao != secao {
+                        estado.serieAberta = nil
+                        estado.secao = secao
+                    }
+                } label: {
+                    Text(secao.titulo)
+                        .font(.system(size: 12, weight: .medium))
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 5)
+                        .background(
+                            Capsule().fill(estado.secao == secao
+                                           ? Color.accentColor.opacity(0.85)
+                                           : Color.white.opacity(0.10)))
+                        .foregroundStyle(estado.secao == secao ? .white : .primary)
+                }
+                .buttonStyle(.plain)
+                .help(secao.titulo)
+            }
+        }
+    }
+
+    private var secoesVisiveis: [VodSecao] {
+        var out: [VodSecao] = [.inicio, .filmes, .series, .animes, .doramas]
+        if !favoritos.itens.isEmpty { out.append(.favoritos) }
+        if model.restrictedUnlocked { out.append(.extras) }
+        return out
     }
 
     /// Vinte e sete letras não cabem numa coluna sem roubar a tela da grade;
