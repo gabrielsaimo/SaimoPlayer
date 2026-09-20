@@ -19,6 +19,8 @@ struct VodGridView: View {
     /// os extras ficam de fora do índice de busca de propósito, e é justamente
     /// esse "de fora" que não pode reaparecer numa fileira da tela inicial.
     @State private var nomesDoAcervo: Set<String> = []
+    /// O gênero escolhido na régua, ou vazio para todos.
+    @State private var genero = ""
     @State private var selecaoFonte: SelecaoFonte?
 
     private let colunas = [GridItem(.adaptive(minimum: 168, maximum: 220), spacing: 18)]
@@ -47,6 +49,7 @@ struct VodGridView: View {
         VStack(spacing: 0) {
             cabecalho
             Divider()
+            if !Generos.todos.isEmpty { reguaDeGeneros; Divider() }
             if ![.favoritos, .animes, .doramas, .inicio].contains(estado.secao) {
                 reguaDeLetras; Divider()
             }
@@ -195,6 +198,46 @@ struct VodGridView: View {
         return out
     }
 
+    /// Os gêneros, numa régua como a das letras.
+    ///
+    /// O catálogo não tem gênero; ele vem de um arquivo publicado à parte. Por
+    /// isso a régua só existe quando esse arquivo chegou — oferecer um filtro
+    /// que devolve vazio é pior que não oferecer.
+    private var reguaDeGeneros: some View {
+        ScrollView(.horizontal, showsIndicators: false) {
+            HStack(spacing: 6) {
+                pilulaDeGenero("Todos", valor: "")
+                ForEach(Generos.todos, id: \.self) { nome in
+                    pilulaDeGenero(nome, valor: nome)
+                }
+            }
+            .padding(.horizontal, 18)
+            .padding(.vertical, 7)
+        }
+    }
+
+    private func pilulaDeGenero(_ texto: String, valor: String) -> some View {
+        Button {
+            genero = (genero == valor) ? "" : valor
+        } label: {
+            Text(texto)
+                .font(.system(size: 12, weight: .medium))
+                .padding(.horizontal, 10)
+                .padding(.vertical, 4)
+                .background(Capsule().fill(genero == valor
+                                           ? Color.accentColor.opacity(0.85)
+                                           : Color.white.opacity(0.10)))
+                .foregroundStyle(genero == valor ? .white : .primary)
+        }
+        .buttonStyle(.plain)
+    }
+
+    /// A lista já sem o que o gênero escolhido deixa de fora.
+    private func porGenero(_ itens: [Cartao]) -> [Cartao] {
+        guard !genero.isEmpty else { return itens }
+        return itens.filter { Generos.tem($0.titulo, serie: $0.serie, genero: genero) }
+    }
+
     /// Vinte e sete letras não cabem numa coluna sem roubar a tela da grade;
     /// numa régua, cabem todas e sobra espaço para as capas.
     private var reguaDeLetras: some View {
@@ -334,7 +377,7 @@ struct VodGridView: View {
             out.append(FilaNaTela(titulo: "Favoritos", cartoes: itensFavoritos))
         }
         for fila in filasDeDestaque {
-            let cartoes = fila.itens.map { cartaoDeDestaque($0) }
+            let cartoes = porGenero(fila.itens.map { cartaoDeDestaque($0) })
             if !cartoes.isEmpty { out.append(FilaNaTela(titulo: fila.titulo, cartoes: cartoes)) }
         }
         guard !estado.busca.isEmpty else { return out }
@@ -457,7 +500,8 @@ struct VodGridView: View {
         var id: String { (serie ? "s:" : "f:") + nomeCompleto }
     }
 
-    private func grade(_ itens: [Cartao]) -> some View {
+    private func grade(_ todos: [Cartao]) -> some View {
+        let itens = porGenero(todos)
         let visiveis = estado.busca.isEmpty ? itens : itens.filter {
             $0.nomeCompleto.localizedCaseInsensitiveContains(estado.busca)
         }
@@ -734,6 +778,7 @@ struct VodGridView: View {
 
     private func abrir() async {
         guard let secao = estado.secao else { return }
+        await Generos.carregar()
         if estado.gavetas.isEmpty { estado.gavetas = await Vod.indice() }
         estado.filmes = secao.pedeFilmes
         estado.reservado = secao == .extras
@@ -746,6 +791,7 @@ struct VodGridView: View {
             if nomesDoAcervo.isEmpty {
                 nomesDoAcervo = Set(await Vod.todos().map(\.titulo))
             }
+            await Generos.carregar()
             return
         }
         guard secao != .favoritos else { return }
