@@ -3,21 +3,21 @@ capa: https://image.tmdb.org/t/p/w342
 fila	Em alta
 f	O Fim da Rua	O		/4kfDP13cYwCx55YP2gLGtcUFZlC.jpg
 f	Homem-Aranha: Um Novo Dia	H		/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
-f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
+f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
 f	Obsessao (2026)	O	2026	/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 f	Μινόρε	#		/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
-f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
 f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
-f	Atraidos Pelo Destino (2026)	A	2026	/99OB0p7ah8wyTphLHrghSJXtmr5.jpg
+f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
 f	Backrooms Um Nao-Lugar (2026)	B	2026	/a1pgQeEge47xrS4jGlDwIHiieVK.jpg
-f	The Fix	T		/yopXjun3ICFfJci2ukcEzceZjUs.jpg
 f	Toy Story 5 (2026)	T	2026	/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg
-f	O Convite (2026)	O	2026	/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg
+f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
+f	The Fix	T		/yopXjun3ICFfJci2ukcEzceZjUs.jpg
 f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
 f	A Morte de Robin Hood	A		/o0QndnepFPWget2kdKpzh26RBYt.jpg
 f	The Get Out	T		/keU6EsXrkcc1uAEsEt1pI8keSsO.jpg
 f	Corrida Contra o Tempo (2026)	C	2026	/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg
+f	Atraidos Pelo Destino (2026)	A	2026	/99OB0p7ah8wyTphLHrghSJXtmr5.jpg
 f	Coracao Selvagem (1990)	C	1990	/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
 f	Dia D (2026)	D	2026	/pmff1wjKrgJi92PPr346lAifzlg.jpg
 f	Céu em Fúria	C		/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
@@ -58,9 +58,9 @@ f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
 f	Céu em Fúria	C		/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
 f	Pinóquio: Maldição de Madeira	P		/wgO649swkzsI58q3ikpxYNvkwv7.jpg
 f	Minions & Monstros (2026)	M	2026	/hTowtXrkCY7FJyoj4p91JckrJSE.jpg
-f	Clash of the Thundermans	C		/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg
+f	O Confronto dos Thundermans (2026)	O	2026	/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg
 f	O Ultimo Nascer do Sol (2026)	O	2026	/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg
-f	A Captura	A		/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg
+f	La Captura (2026)	L	2026	/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg
 f	Aguas Mortais (2026)	A	2026	/dWsw0X420R6ngEcVCkNlZ189Amr.jpg
 f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
 fila	Séries novas de 2026
