@@ -249,7 +249,7 @@ def main():
     # As fileiras da tela inicial são geradas à parte, por gerar_destaques.py,
     # e sobrevivem à remontagem do catálogo: apagá-las aqui deixaria a tela
     # inicial vazia até alguém lembrar de rodar o outro script.
-    preservar = {"destaques.txt"}
+    preservar = {"destaques.txt", "generos.txt"}
     for antigo in SAIDA.glob("*.txt"):
         if antigo.name not in preservar:
             antigo.unlink()
