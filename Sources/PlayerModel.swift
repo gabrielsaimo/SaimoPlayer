@@ -218,7 +218,7 @@ final class PlayerModel: NSObject, ObservableObject {
             if let novos = await RemoteCatalog.baixarRestritos() { trocarRestritos(novos) }
             let extra = restrictedUnlocked ? restritos : []
             let updated = fresh + Store.customChannels() + extra
-            guard updated.map(\.id) != channels.map(\.id) else { return }
+            guard updated != channels else { return }
 
             channels = updated
             for c in channels { ProxyServer.shared.register(c) }

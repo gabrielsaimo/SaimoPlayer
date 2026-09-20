@@ -66,7 +66,7 @@ struct ChannelListView: View {
                         if channel.variants.count > 1 {
                             Menu("Escolher Fonte") {
                                 ForEach(Array(channel.variants.enumerated()), id: \.offset) { index, variant in
-                                    Button(variant.label ?? "Fonte \(index + 1)") {
+                                    Button("Fonte \(index + 1) · \(variant.label ?? "Qualidade não informada")") {
                                         model.playVariant(channel, index: index)
                                     }
                                 }
