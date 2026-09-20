@@ -2679,3 +2679,38 @@ canal: A Fazenda 18 5
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
 fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/afazenda5.txt
+
+canal: CazeTV 3
+categoria: Esportes
+logo: https://img.faz-o-eli.online/cazetv.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/caze3.txt
+
+canal: Globo DF
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/globodf.txt
+
+canal: Globo MG
+categoria: TV Aberta
+logo: https://img.faz-o-eli.online/globosp.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/globomg.txt
+
+canal: MAX 03
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/max.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/max3.txt
+
+canal: Amazon Prime Video 04
+categoria: Esportes
+logo: https://img.faz-o-eli.online/primevideo.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/primevideo4.txt
+
+canal: SporTV 4
+categoria: Esportes
+logo: https://img.faz-o-eli.online/sportv4.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/sportv4.txt
+
+canal: Star Channel
+categoria: Filmes e Séries
+logo: https://img.faz-o-eli.online/starchannel.png
+fonte: https://52d080a3e172c33fd6886a37e7288491.s23-cloudfront-net.lat/ss/starchannel.txt
