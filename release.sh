@@ -51,7 +51,7 @@ cp "../SaimoTV-Android/app/build/outputs/apk/release/app-release.apk" "build/rel
 
 echo "==> montando o app do Windows"
 ( cd ../SaimoWin && ./empacotar.sh >/dev/null )
-cp "../SaimoWin/dist/SaimoTV-Windows.zip" "build/release/SaimoTV-Windows.zip"
+cp "../SaimoWin/dist/SaimoTV-Instalador.msi" "build/release/SaimoTV-Instalador.msi"
 
 # O APK do celular é montado à parte (Expo) e copiado para cá antes de publicar.
 if [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" ]; then
@@ -89,7 +89,7 @@ gh release create "v$versao" \
   --notes-file "$notas" \
   $extra \
   build/release/SaimoTV.dmg build/release/SaimoTV.apk \
-  build/release/SaimoTV-Windows.zip \
+  build/release/SaimoTV-Instalador.msi \
   ${cell:-}
 
 echo "pronto: https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v$versao"
