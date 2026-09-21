@@ -43,14 +43,33 @@ final class Capas: ObservableObject {
     }
 
     /// Capa do título, se já chegou. Se ainda não, agenda a busca.
+    /// A capa de um título.
+    ///
+    /// O endereço vem da ficha publicada, resolvida pelo id do TMDB — não mais
+    /// de uma busca por nome feita aqui, que era lenta e trocava filmes de nome
+    /// igual. Sem ficha, não há o que baixar: a tela põe a marca de "sem
+    /// imagem" no lugar.
     func imagem(para titulo: String, serie: Bool) -> NSImage? {
         let chave = (serie ? "s:" : "f:") + titulo
         if let pronta = imagens[chave] { return pronta }
         guard !procurados.contains(chave) else { return nil }
+        guard let endereco = Generos.capa(titulo, serie: serie) else {
+            procurados.insert(chave)
+            return nil
+        }
         procurados.insert(chave)
-        fila.append((titulo, serie))
-        bombear()
+        Task { [weak self] in await self?.baixarDireto(endereco, chave: chave) }
         return nil
+    }
+
+    /// Baixa a capa de um endereço que já veio pronto.
+    private func baixarDireto(_ endereco: String, chave: String) async {
+        guard let url = URL(string: endereco),
+              let (dados, _) = try? await URLSession.shared.data(from: url),
+              let imagem = NSImage(data: dados)
+        else { return }
+        imagens[chave] = imagem
+        objectWillChange.send()
     }
 
     private func bombear() {

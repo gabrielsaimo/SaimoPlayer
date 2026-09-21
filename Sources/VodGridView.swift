@@ -49,10 +49,11 @@ struct VodGridView: View {
         VStack(spacing: 0) {
             cabecalho
             Divider()
-            if !Generos.todos.isEmpty { reguaDeGeneros; Divider() }
-            if ![.favoritos, .animes, .doramas, .inicio].contains(estado.secao) {
-                reguaDeLetras; Divider()
-            }
+            // A régua só onde ela filtra alguma coisa: na tela inicial as
+            // fileiras são curadoria, e peneirá-las deixa faixas com um cartão
+            // ou nenhum.
+            if !Generos.todos.isEmpty, estado.secao != .inicio { reguaDeGeneros; Divider() }
+
             conteudo
         }
         .background(Color.black)
@@ -377,7 +378,7 @@ struct VodGridView: View {
             out.append(FilaNaTela(titulo: "Favoritos", cartoes: itensFavoritos))
         }
         for fila in filasDeDestaque {
-            let cartoes = porGenero(fila.itens.map { cartaoDeDestaque($0) })
+            let cartoes = fila.itens.map { cartaoDeDestaque($0) }
             if !cartoes.isEmpty { out.append(FilaNaTela(titulo: fila.titulo, cartoes: cartoes)) }
         }
         guard !estado.busca.isEmpty else { return out }
@@ -475,8 +476,6 @@ struct VodGridView: View {
             grade(itensFavoritos)
         } else if estado.tudo {
             grade(itensDeTudo)
-        } else if estado.letra.isEmpty && ![.animes, .doramas].contains(estado.secao) {
-            aviso("Escolha uma letra")
         } else if [.series, .animes, .doramas].contains(estado.secao) {
             grade(itensSeries)
         } else {
