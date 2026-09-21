@@ -35,6 +35,8 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent
 VOD = RAIZ / "vod"
 SAIDA = VOD / "generos.txt"
+FICHAS = VOD / "fichas.txt"
+CAPA_BASE = "https://image.tmdb.org/t/p/w342"
 CACHE = RAIZ / "arquivos-gerados" / "generos.sqlite3"
 
 CHAVE = "15d2ea6d0dc1d476efbca3eba2b9bbfb"
@@ -79,7 +81,15 @@ def pedir(url: str, tentativas: int = 3):
     return None
 
 
-def generos_de(titulo: str, serie: bool) -> list[str] | None:
+def ficha_de(titulo: str, serie: bool) -> dict | None:
+    """O que o TMDB sabe deste título: id, pôster e gêneros.
+
+    Buscar a capa pelo nome, em cada aparelho, é lento e erra: nomes iguais
+    devolvem o filme errado, e o acervo tem trinta mil deles. Guardando o id e
+    o caminho do pôster aqui, o aplicativo pede a imagem direto pelo endereço,
+    sem procurar nada — e quem não tem id fica sem, com um lugar marcado na
+    tela em vez de uma busca que nunca acerta.
+    """
     nome, ano = limpo(titulo)
     if not nome:
         return None
@@ -99,9 +109,14 @@ def generos_de(titulo: str, serie: bool) -> list[str] | None:
                       f"&query={urllib.parse.quote(nome)}")
         resultados = (dados or {}).get("results") or []
     if not resultados:
-        return []
-    ids = resultados[0].get("genre_ids") or []
-    return [NOMES[i] for i in ids if i in NOMES]
+        return {}
+    melhor = resultados[0]
+    ids = melhor.get("genre_ids") or []
+    return {
+        "id": melhor.get("id") or 0,
+        "capa": melhor.get("poster_path") or "",
+        "generos": [NOMES[i] for i in ids if i in NOMES],
+    }
 
 
 def banco() -> sqlite3.Connection:
@@ -109,6 +124,11 @@ def banco() -> sqlite3.Connection:
     db = sqlite3.connect(CACHE, check_same_thread=False)
     db.execute("CREATE TABLE IF NOT EXISTS generos ("
                "chave TEXT PRIMARY KEY, valor TEXT NOT NULL)")
+    # A ficha traz id e pôster além dos gêneros; a tabela antiga fica como
+    # está para não perder o que já foi perguntado se esta execução parar.
+    db.execute("CREATE TABLE IF NOT EXISTS fichas ("
+               "chave TEXT PRIMARY KEY, tmdb INTEGER NOT NULL DEFAULT 0, "
+               "capa TEXT NOT NULL DEFAULT '', generos TEXT NOT NULL DEFAULT '')")
     db.commit()
     return db
 
@@ -133,7 +153,7 @@ def main() -> int:
         titulos.append(chave)
 
     db = banco()
-    prontos = {c for (c,) in db.execute("SELECT chave FROM generos")}
+    prontos = {c for (c,) in db.execute("SELECT chave FROM fichas")}
     faltam = [(t, s) for t, s in titulos
               if f"{'s' if s else 'f'}|{t}" not in prontos]
     if args.limite:
@@ -145,19 +165,24 @@ def main() -> int:
     feitos = 0
     comeco = time.time()
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as piscina:
-        futuros = {piscina.submit(generos_de, t, s): (t, s) for t, s in faltam}
+        futuros = {piscina.submit(ficha_de, t, s): (t, s) for t, s in faltam}
         for futuro in concurrent.futures.as_completed(futuros):
             titulo, serie = futuros[futuro]
             feitos += 1
             try:
-                lista = futuro.result()
+                ficha = futuro.result()
             except Exception:
-                lista = None
-            if lista is None:
+                ficha = None
+            if ficha is None:
                 continue
+            chave = f"{'s' if serie else 'f'}|{titulo}"
+            generos = "\t".join(ficha.get("generos") or [])
             with trava:
+                db.execute("INSERT OR REPLACE INTO fichas (chave, tmdb, capa, generos) "
+                           "VALUES (?, ?, ?, ?)",
+                           (chave, ficha.get("id") or 0, ficha.get("capa") or "", generos))
                 db.execute("INSERT OR REPLACE INTO generos (chave, valor) VALUES (?, ?)",
-                           (f"{'s' if serie else 'f'}|{titulo}", "\t".join(lista)))
+                           (chave, generos))
                 if feitos % 200 == 0:
                     db.commit()
             if feitos % 250 == 0 or feitos == len(faltam):
@@ -169,18 +194,31 @@ def main() -> int:
 
     saida = ["# Gênero de cada título, do TMDB. Gerado por gerar_generos.py — não editar à mão.",
              "# tipo\ttítulo\tgêneros separados por vírgula"]
+    fichas = ["# Ficha de cada título: id do TMDB, pôster e gêneros.",
+              "# Gerado por gerar_generos.py — não editar à mão.",
+              f"capa: {CAPA_BASE}",
+              "# tipo\ttítulo\tid\tpôster\tgêneros"]
     quantos = 0
+    com_capa = 0
     contagem: dict[str, int] = {}
-    for chave, valor in db.execute("SELECT chave, valor FROM generos ORDER BY chave"):
-        if not valor:
-            continue
+    for chave, tmdb, capa, valor in db.execute(
+            "SELECT chave, tmdb, capa, generos FROM fichas ORDER BY chave"):
         tipo, titulo = chave.split("|", 1)
-        generos = valor.split("\t")
-        saida.append(f"{tipo}\t{titulo}\t{','.join(generos)}")
-        quantos += 1
-        for g in generos:
-            contagem[g] = contagem.get(g, 0) + 1
+        generos = [g for g in (valor or "").split("\t") if g]
+        if not generos and not capa and not tmdb:
+            continue
+        fichas.append(f"{tipo}\t{titulo}\t{tmdb or ''}\t{capa or ''}\t{','.join(generos)}")
+        if capa:
+            com_capa += 1
+        if generos:
+            saida.append(f"{tipo}\t{titulo}\t{','.join(generos)}")
+            quantos += 1
+            for g in generos:
+                contagem[g] = contagem.get(g, 0) + 1
     SAIDA.write_text("\n".join(saida) + "\n", encoding="utf-8")
+    FICHAS.write_text("\n".join(fichas) + "\n", encoding="utf-8")
+    print(f"{FICHAS.name}: {len(fichas) - 4} títulos, {com_capa} com pôster, "
+          f"{FICHAS.stat().st_size / 1024 / 1024:.1f} MB")
 
     top = " · ".join(f"{g} {n}" for g, n in
                      sorted(contagem.items(), key=lambda x: -x[1])[:6])
