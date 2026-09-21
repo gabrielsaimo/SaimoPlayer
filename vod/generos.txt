@@ -106,7 +106,7 @@ f	100 Garotas	Comédia,Drama,Romance
 f	100 Garotas (2000)	Comédia,Drama,Romance
 f	100 Graus Abaixo de Zero (2013)	Ação,Ficção científica
 f	100 Medos	Romance,Comédia
-f	100 Metros	Comédia,Drama
+f	100 Metros	Comédia,Drama,Aventura
 f	100 Metros (2016)	Comédia,Drama
 f	100 Percent Wolf	Animação,Família,Fantasia,Aventura
 f	100 Quilos de Estrelas (2019)	Drama,Comédia
@@ -3177,7 +3177,7 @@ f	Abaixo o Amor (2003)	Comédia,Romance
 f	Abaixo o Pano	Comédia
 f	Abaixo o Rei	Drama,Música
 f	Abaixo o Rei (2021)	Drama,Música
-f	Abandonada	Terror,Mistério,Suspense
+f	Abandonada	Drama
 f	Abandonada (2022)	Terror,Mistério,Suspense
 f	Abandonado no Altar (2019)	Comédia,Romance
 f	Abandonados	Drama,Suspense,Aventura
@@ -3910,7 +3910,7 @@ f	Ameaça no Ar	Ação,Suspense
 f	Ameaça no Ar (2025)	Ação,Suspense
 f	Amei Um Bicheiro	Drama,Crime
 f	Amer (2009)	Suspense,Terror
-f	America	Ação,Suspense,Ficção científica
+f	America	Aventura,Ação,Ficção científica
 f	America: The Motion Picture	Animação,Ação,Comédia
 f	America: The Motion Picture (2021)	Animação,Ação,Comédia
 f	American Cherry	Suspense,Romance
@@ -9388,7 +9388,7 @@ f	Desmundo	Drama,Romance,História
 f	Desobediência	Drama,Romance
 f	Desobediência (2018)	Drama,Romance
 f	Desolados	Drama
-f	Despedida	Drama,Romance
+f	Despedida	Drama
 f	Despedida em Grande Estilo	Crime,Comédia
 f	Despedida em Grande Estilo (2017)	Crime,Comédia
 f	Despedida em Las Vegas	Drama,Romance
@@ -9829,7 +9829,6 @@ f	Do Que as Mulheres Gostam	Comédia,Romance
 f	Do Que as Mulheres Gostam (2000)	Comédia,Romance
 f	Do Que os Homens Gostam	Comédia,Romance
 f	Do Que os Homens Gostam (2019)	Comédia,Romance
-f	Doce Amor	Romance,Comédia
 f	Doce Amor de Inverno	TV,Comédia,Romance
 f	Doce Amor de Inverno (2023)	TV,Comédia,Romance
 f	Doce Argumento	Comédia,Drama,Romance
@@ -11446,7 +11445,7 @@ f	Euller Miller - Entre Dois Mundos	Documentário
 f	Eulália	Drama
 f	Eunice Gutman Tem Histórias	Documentário
 f	Euphoria: Um Olhar para Trás	Documentário
-f	Eureka	Drama
+f	Eureka	Drama,Suspense
 f	EuroTrip Passaporte Para a Confusao	Comédia
 f	Eurotrip Passaporte para a Confusao (2004)	Comédia
 f	Eva, um Novo Começo	Ficção científica,Drama
@@ -13726,7 +13725,7 @@ f	Ike: O Dia D (2004)	Drama,Guerra,História,TV
 f	Il Nibbio	Drama,Suspense
 f	Il corpo	Suspense,Mistério
 f	Il legionario	Ação,Drama
-f	Ilha	Comédia,Terror
+f	Ilha	Drama,Suspense,Mistério
 f	Ilha Christmas: O Reino do Caranguejo-Ladrão	Documentário
 f	Ilha Dos Dinossauros	Aventura,Ficção científica,Família
 f	Ilha Dos Dinossauros (2014)	Aventura,Ficção científica,Família
@@ -13748,7 +13747,7 @@ f	Ilha do Renascimento	Ação,Suspense
 f	Ilha dos Cachorros (2018)	Aventura,Comédia,Animação
 f	Ilhados	Drama
 f	Ilhados (2021)	Drama
-f	Illang A Brigada Lobo	Ficção científica,Ação,Suspense,Drama
+f	Illang A Brigada Lobo	Ficção científica,Ação,Suspense
 f	Illang: A Brigada Lobo (2018)	Ficção científica,Ação,Suspense
 f	Ilusao Macabra (2026)	Fantasia,Terror,Ficção científica,Suspense
 f	Ilusão Macabra	Fantasia,Terror,Ficção científica,Suspense
@@ -14794,7 +14793,7 @@ f	Justin Bieber: Never Say Never	Música,Documentário,Família
 f	Justin Bieber: Nosso Mundo	Música,Documentário
 f	Justin Bieber: Nosso Mundo (2021)	Música,Documentário
 f	Justin e a Espada da Coragem	Animação,Aventura
-f	Justiça	História,Crime,Drama
+f	Justiça	Ação,Aventura,Ficção científica
 f	Justiça (2004)	Documentário
 f	Justiça - Entre o Poder e a Lei	Crime,Drama,Suspense,TV
 f	Justiça - Entre o Poder e a Lei (1999)	Crime,Drama,Suspense,TV
@@ -14880,7 +14879,7 @@ f	Karate Kid 2 - A Hora da Verdade Continua (1986)	Aventura,Drama,Ação,Romance
 f	Karate Kid 4 - A Nova Aventura	Ação,Drama,Família,Aventura
 f	Karate Kid 4 A Nova Aventura (1994)	Ação,Drama,Família,Aventura
 f	Karate Kid: Lendas (2025)	Ação,Aventura,Drama
-f	Karatê Kid	Ação,Aventura,Drama,Família
+f	Karatê Kid	Ação,Aventura,Drama
 f	Karatê Kid - A Hora da Verdade	Ação,Drama,Família
 f	Karatê Kid 2 - A Hora da Verdade Continua	Aventura,Drama,Ação,Romance,Família
 f	Karatê Kid 3 - O Desafio Final	Ação,Família,Drama,Aventura
@@ -18509,7 +18508,7 @@ f	No Vale da Violencia (2016)	Ação,Drama,Faroeste
 f	No Vale das Sombras	História,Drama,Suspense,Crime,Mistério
 f	No.1 Sentai Gozyuger vs. Boonboomger	Ação,Aventura,Ficção científica
 f	Noah Kahan: Out of Body	Documentário,Música
-f	Nobody	Animação,Aventura,Fantasia,Comédia
+f	Nobody	Ação,Suspense
 f	Nocaute	Ação,Drama
 f	Nocaute (2015)	Ação,Drama
 f	Nocaute (2024)	Ação,Suspense
@@ -18824,7 +18823,7 @@ f	Nível Hard	Família,Animação,Comédia
 f	Nível Hard (2020)	Família,Animação,Comédia
 f	Nó	Ação,Suspense
 f	Nóis por Nóis	Drama,Crime
-f	Nós	Terror,Suspense
+f	Nós	Terror,Mistério
 f	Nós Acreditamos em Vocês	Drama
 f	Nós Passarinhos	Drama
 f	Nós Passarinhos (2021)	Drama
@@ -23265,7 +23264,7 @@ f	Os Suburbanos: O Filme	Comédia
 f	Os Suburbanos: O Filme (2022)	Comédia
 f	Os Super Zeróis	Comédia
 f	Os Super Zeróis (2019)	Comédia
-f	Os Suspeitos	Drama,Crime,Suspense
+f	Os Suspeitos	Drama,Suspense,Crime
 f	Os Suspeitos (1995)	Drama,Crime,Suspense
 f	Os Suspeitos (2013)	Drama,Suspense,Crime
 f	Os Transgressores	Documentário
@@ -23670,7 +23669,7 @@ f	ParaNorman (2012)	Família,Animação,Aventura,Comédia
 f	Parabens Para o Meu Ex! (2023)	Romance,Comédia
 f	Parachute	Drama,Romance
 f	Parachute (2024)	Drama,Romance
-f	Paradise Beach	Comédia,Fantasia
+f	Paradise Beach	Ação,Suspense,Crime
 f	Paradise Beach (2019)	Ação,Suspense,Crime
 f	Paradise Incêndios na Califórnia (2020)	Documentário
 f	Paraiso (2023)	Drama,Comédia,Romance
@@ -24281,7 +24280,7 @@ f	Planeta Terror (2007)	Terror,Ação,Suspense
 f	Planeta Vermelho	Suspense,Ação,Ficção científica
 f	Planeta Vermelho (2000)	Suspense,Ação,Ficção científica
 f	Planeta do Tesouro (2002)	Ficção científica,Aventura,Animação,Família,Fantasia
-f	Planeta dos Macacos	Ficção científica,Ação,Drama,Suspense
+f	Planeta dos Macacos	Suspense,Ação,Drama,Ficção científica
 f	Planeta dos Macacos (2001)	Suspense,Ficção científica,Ação,Aventura
 f	Planeta dos Macacos: A Guerra	Drama,Ficção científica,Guerra
 f	Planeta dos Macacos: A Guerra (2017)	Drama,Ficção científica,Guerra
@@ -26278,7 +26277,7 @@ f	Rustin (2023)	Drama,História
 f	Rute e Boaz	Romance,Drama,Música
 f	Rute e Boaz (2025)	Romance,Drama,Música
 f	Ruth e Alex	Drama
-f	Ruído Branco	Terror
+f	Ruído Branco	Comédia,Drama
 f	Ruído da Morte	Ação,Ficção científica,Terror,Suspense
 f	Ruídos	Terror,Suspense
 f	Rye Lane: Um Amor Inesperado	Comédia,Romance
@@ -28760,7 +28759,7 @@ f	The Mustang (2019)	Drama
 f	The Narcissist's Playbook	Documentário
 f	The New Mutants	Ficção científica,Terror
 f	The New Yorker at 100	Documentário
-f	The Night	Terror,Mistério
+f	The Night	Fantasia,Família,Comédia
 f	The Night (2021)	Terror,Mistério
 f	The Night Clerk	Suspense,Crime,Drama
 f	The Night They Knocked	Terror,Suspense
@@ -29315,7 +29314,7 @@ f	Transcendence: A Revolução	Suspense,Ficção científica,Drama,Mistério
 f	Transcendence: A Revolução (2014)	Suspense,Ficção científica,Drama,Mistério
 f	Transformação (2016)	Comédia,Terror
 f	Transformers	Animação,Ficção científica,Aventura,Família
-f	Transformers (2007)	Aventura,Ficção científica,Ação
+f	Transformers (2007)	Animação,Ficção científica,Ação,Aventura,Família
 f	Transformers - O Filme	Animação,Ficção científica,Ação,Aventura,Família
 f	Transformers - O Filme (1986)	Animação,Ficção científica,Ação,Aventura,Família
 f	Transformers 2: A Vingança dos Derrotados (2009)	Ficção científica,Ação,Aventura
@@ -32283,7 +32282,7 @@ f	À Espera da Morte	Terror,Suspense
 f	À Espreita do Mal	Terror,Suspense,Mistério
 f	À Meia Noite Levarei Sua Alma	Terror,Suspense,Fantasia
 f	À Paisana	Drama,Romance,Crime
-f	À Primeira Vista	Romance,Drama
+f	À Primeira Vista	Terror,Romance,Comédia
 f	À Primeira Vista (1999)	Drama,Romance
 f	À Procura	Drama
 f	À Procura da Perfeição	Drama,Suspense,Música
@@ -33763,7 +33762,7 @@ s	Babylon Berlin	Drama,Crime,Mistério
 s	Back Street Girls Gokudolls	Comédia,Animação
 s	BackFlip	Animação,Drama,Comédia
 s	Bad Blood	Crime,Drama
-s	Bad Boy	Comédia,Mistério
+s	Bad Boy	Drama
 s	Bad Boys e Bilionários: Índia	Crime,Documentário
 s	Bad Buddy The Series	Comédia,Drama
 s	Bad Genius The Series	Drama,Crime
@@ -37305,7 +37304,6 @@ s	Love, Death & Robots	Animação,Ficção e fantasia
 s	LoveSick	Comédia
 s	Lovecraft Country	Drama,Mistério,Ficção e fantasia
 s	Lovely Little Farm	Família,Infantil
-s	Lover Merman	Drama,Ficção e fantasia
 s	Lovestruck in the City	Drama
 s	Lu & the Bally Bunch	Infantil,Animação
 s	Lua Cheia de Amor	Novela,Drama,Comédia
@@ -39633,7 +39631,7 @@ s	Querido Edward	Drama
 s	Querido Hongrang	Drama,Mistério
 s	Querido Inimigo	Drama
 s	Querido X Que Nao Me Ama	Drama
-s	Queridos Amigos	Drama
+s	Queridos Amigos	Comédia,Drama
 s	Queridos X	Crime,Drama
 s	Questao de Tempo	Drama
 s	Quilos Mortais	Reality
@@ -39830,7 +39828,7 @@ s	Revenant	Mistério,Drama
 s	Revenge	Drama,Mistério
 s	Reverse	Mistério,Drama
 s	Revival	Ficção e fantasia,Crime,Mistério
-s	Revolucao	Ficção e fantasia,Drama
+s	Revolucao	Drama,Novela,Guerra e política
 s	Revolucao Cubana vs. O Mundo	Documentário
 s	Rey Mysterio vs A Escuridao	Animação,Ação e aventura,Comédia
 s	Reyka	Drama,Crime,Mistério
@@ -39985,7 +39983,7 @@ s	STM Seja Voce Mesma	Comédia,Drama,Família,Novela
 s	SU da Vida Selvagem	Documentário
 s	SWAT	Crime,Ação e aventura,Drama
 s	Sabadou com Virginia	Talk show,Reality
-s	Saber Marionette J	Animação,Drama,Ficção e fantasia
+s	Saber Marionette J	Animação
 s	Sabiiro no Armor Reimei	Animação,Ação e aventura
 s	Sabikui Bisco	Animação,Ação e aventura,Comédia,Ficção e fantasia
 s	Sabor Caseiro com Antoni Porowski	Documentário
