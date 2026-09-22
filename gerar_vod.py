@@ -170,6 +170,79 @@ def bases_publicadas():
     return publicadas
 
 
+def links_diretos_de_filmes(caminhos):
+    """Endereços inteiros ("https://...") de cada filme, em arquivos no formato
+    do acervo: "Título (ano)\tdub=url,url\tleg=url".
+
+    Só os inteiros interessam: os encurtados ("2:368180") vêm das listas M3U e
+    são refeitos a cada montagem. Os inteiros vêm do Redeflix e de resoluções
+    antigas por id, que nenhuma lista M3U traz de volta.
+    """
+    achados = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
+    for caminho in caminhos:
+        if not caminho.exists():
+            continue
+        for linha in caminho.read_text(encoding="utf-8").splitlines():
+            campos = linha.split("\t")
+            if len(campos) < 2 or not campos[0]:
+                continue
+            diretos = defaultdict(list)
+            for campo in campos[1:]:
+                versao, _, urls = campo.partition("=")
+                if versao in ("dub", "leg"):
+                    diretos[versao] += [u for u in urls.split(",") if u.startswith("http")]
+            # Sem endereço inteiro não há o que preservar: o título vive ou
+            # morre pelas listas M3U, como sempre.
+            if not any(diretos.values()):
+                continue
+            titulo, ano = separar_ano(campos[0])
+            registro = achados[chave(titulo, ano)]
+            registro["titulo"] = registro["titulo"] or campos[0]
+            for versao, urls in diretos.items():
+                for url in urls:
+                    if url not in registro["versoes"][versao]:
+                        registro["versoes"][versao].append(url)
+    return achados
+
+
+def links_diretos_de_series(caminhos):
+    """O mesmo para séries: "@Título\tano[\tid]" seguido de
+    "temporada\tepisódio\tversão\turl,url"."""
+    achados = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
+    for caminho in caminhos:
+        if not caminho.exists():
+            continue
+        registro = None
+        for linha in caminho.read_text(encoding="utf-8").splitlines():
+            if linha.startswith("@"):
+                campos = linha[1:].split("\t")
+                titulo = campos[0].strip()
+                ano = campos[1].strip() if len(campos) > 1 else ""
+                registro = (titulo, ano) if titulo else None
+                continue
+            if registro is None:
+                continue
+            campos = linha.split("\t")
+            if len(campos) < 4:
+                continue
+            try:
+                alvo = (int(campos[0]), int(campos[1]), campos[2] or "dub")
+            except ValueError:
+                continue
+            urls = [u for u in campos[3].split(",") if u.startswith("http")]
+            if not urls:
+                continue
+            # Só vira série quem tem ao menos um episódio com endereço inteiro.
+            titulo, ano = registro
+            serie = achados[chave(titulo, ano)]
+            serie["titulo"] = serie["titulo"] or titulo
+            serie["ano"] = serie["ano"] or ano
+            for url in urls:
+                if url not in serie["eps"][alvo]:
+                    serie["eps"][alvo].append(url)
+    return achados
+
+
 def main():
     bases = Bases(bases_publicadas())
     filmes = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
@@ -244,6 +317,69 @@ def main():
     for registro in series.values():
         for alvo, lista in registro["eps"].items():
             registro["eps"][alvo] = sorted(lista, key=por_qualidade)
+
+    # Links diretos: os que o acervo publicado já tinha e os que o Redeflix
+    # resolveu. Sem isto, remontar o acervo pelas listas M3U apagaria as fontes
+    # que vieram por id — e os títulos que só o Redeflix tem nunca entrariam.
+    # Lidos antes da limpeza logo abaixo, que apaga os arquivos de onde vêm.
+    # Entram na frente: é a fonte resolvida por id, a que costuma abrir.
+    redeflix = SAIDA / "redeflix"
+    novos_filmes = novas_series = 0
+
+    def somar_filme(k, direto):
+        registro = filmes[k]
+        registro["titulo"] = registro["titulo"] or direto["titulo"]
+        for versao, urls in direto["versoes"].items():
+            antigas = [u for u in registro["versoes"][versao] if u not in urls]
+            registro["versoes"][versao] = urls + antigas
+
+    def somar_serie(k, direto):
+        registro = series[k]
+        registro["titulo"] = registro["titulo"] or direto["titulo"]
+        registro["ano"] = registro["ano"] or direto["ano"]
+        for alvo, urls in direto["eps"].items():
+            antigas = [u for u in registro["eps"][alvo] if u not in urls]
+            registro["eps"][alvo] = urls + antigas
+
+    # Primeiro o que o acervo publicado já tinha: é ele que sabe o nome certo.
+    publicados_f = links_diretos_de_filmes(sorted(SAIDA.glob("filmes-*.txt")))
+    publicados_s = links_diretos_de_series(sorted(SAIDA.glob("series-*-*.txt")))
+    for k, direto in publicados_f.items():
+        somar_filme(k, direto)
+    for k, direto in publicados_s.items():
+        somar_serie(k, direto)
+
+    # Depois o Redeflix. O mesmo filme pode estar no acervo sem o ano
+    # ("A 5ª Vítima") e no Redeflix com ele ("A 5ª Vítima (2019)"): pelo nome
+    # seriam dois títulos. O endereço desempata — se ele já mora num filme, é
+    # aquele filme.
+    onde_mora_f = {u: k for k, r in filmes.items() for v in r["versoes"].values() for u in v
+                   if u.startswith("http")}
+    onde_mora_s = {u: k for k, r in series.items() for v in r["eps"].values() for u in v
+                   if u.startswith("http")}
+    diretos_filmes = links_diretos_de_filmes([redeflix / "links-filmes.txt"])
+    diretos_series = links_diretos_de_series([redeflix / "links-series.txt"])
+    for k, direto in diretos_filmes.items():
+        if k not in filmes:
+            dono = next((onde_mora_f[u] for v in direto["versoes"].values() for u in v
+                         if u in onde_mora_f), None)
+            if dono:
+                k = dono
+            else:
+                novos_filmes += 1
+        somar_filme(k, direto)
+    for k, direto in diretos_series.items():
+        if k not in series:
+            dono = next((onde_mora_s[u] for v in direto["eps"].values() for u in v
+                         if u in onde_mora_s), None)
+            if dono:
+                k = dono
+            else:
+                novas_series += 1
+        somar_serie(k, direto)
+    print(f"links diretos já publicados: {len(publicados_f)} filmes, {len(publicados_s)} séries")
+    print(f"Redeflix: {len(diretos_filmes)} filmes ({novos_filmes} novos no acervo) | "
+          f"{len(diretos_series)} séries ({novas_series} novas no acervo)")
 
     SAIDA.mkdir(exist_ok=True)
     # As fileiras da tela inicial são geradas à parte, por gerar_destaques.py,

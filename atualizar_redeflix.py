@@ -446,11 +446,17 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
             except OSError:
                 pass
         for raw in items:
-            if published is not None and raw["id"] not in published:
-                continue
+            # Título que ainda não está no app ganha uma tentativa por episódio
+            # nunca visto — é assim que anime e dorama novos entram. O que já
+            # foi tentado e deu indisponível fica quieto: repescar os duzentos
+            # e tantos mil episódios desses títulos todo dia levaria horas, e é
+            # para isso que a repescagem vale só para os já publicados.
+            titulo_novo = published is not None and raw["id"] not in published
             for season, episode in raw["episodios"]:
                 key = (raw["id"], season, episode)
                 old = cached.get(("tv", *key))
+                if titulo_novo and old is not None:
+                    continue
                 retry_unavailable = bool(
                     old and old.status == "indisponivel" and args.repetir_indisponiveis
                 )
@@ -733,7 +739,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--somente-titulos-publicados", action="store_true",
-        help="tenta completar apenas títulos que já têm ao menos um episódio no app",
+        help="repesca indisponíveis só de títulos já no app; título novo tenta só episódio nunca visto",
     )
     parser.add_argument("--cache", type=Path, default=OUTPUT / "cache.sqlite3")
     return parser.parse_args()
