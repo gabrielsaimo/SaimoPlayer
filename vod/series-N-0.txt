@@ -2050,12 +2050,12 @@
 @Na Mira do Júri: Retiro Corporativo	2026
 1	1	dub	https://embedplayer2.xyz/cdn/hls/e57c5300a7ccf025ec4c79b4a68ff99b/master.txt,11:2300824,7:1494247
 1	2	dub	https://embedplayer2.xyz/cdn/hls/e203688b637494b9f1d15ec1b7a505d1/master.txt,11:2300825,7:1494248
-1	3	dub	11:2300826,7:1494249
-1	4	dub	11:2300827,7:1494250
+1	3	dub	https://embedplayer2.xyz/cdn/hls/232f2f26ec913bbe5091fbadc668a0ea/master.txt,11:2300826,7:1494249
+1	4	dub	https://embedplayer2.xyz/cdn/hls/e4b46275ecf0e2568269fdc53b034bbe/master.txt,11:2300827,7:1494250
 1	5	dub	https://embedplayer2.xyz/cdn/hls/c0a6af470bf07ee7564a57ea1a11a1a1/master.txt,11:2300828,7:1494251
 1	6	dub	https://embedplayer2.xyz/cdn/hls/83fdccb21da5a0a522ecbd53db2adfa3/master.txt,7:1494252
-1	7	dub	7:1494253
-1	8	dub	7:1494254
+1	7	dub	https://embedplayer2.xyz/cdn/hls/414e4c14dab7c31ff865d0662b6de132/master.txt,7:1494253
+1	8	dub	https://embedplayer2.xyz/cdn/hls/f40133a2c8a08b8016bf93814b6e434a/master.txt,7:1494254
 @Na Mira dos Sequestradores
 1	1	dub	3:252043,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/215273.mp4,9:252043
 1	2	dub	3:252044,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/215274.mp4,9:252044
@@ -5579,8 +5579,8 @@
 1	4	dub	https://embedplayer2.xyz/cdn/hls/a6250f8a8d40a9d5d0ecbe5335567977/master.txt,3:397576,11:2470791,9:397576
 1	5	dub	https://embedplayer2.xyz/cdn/hls/7fddef807b031284fab7367318abe130/master.txt,3:397577,11:2470792,9:397577
 1	6	dub	https://embedplayer2.xyz/cdn/hls/c033f171fe20e6afc66c1d383432ecea/master.txt,3:397578,11:2470793,9:397578
-1	7	dub	3:397579,11:2470794,9:397579
-1	8	dub	3:397580,11:2470795,9:397580
+1	7	dub	https://embedplayer2.xyz/cdn/hls/bd4b424c0c72e289ddcc0287fee4e053/master.txt,3:397579,11:2470794,9:397579
+1	8	dub	https://embedplayer2.xyz/cdn/hls/e0619f6716541bc2796278b28fa304a6/master.txt,3:397580,11:2470795,9:397580
 @Neanderthal Apocalypse
 1	1	dub	3:316191,11:2228568,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147840.mp4,9:316191
 1	2	dub	3:316192,11:2228569,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147841.mp4,9:316192

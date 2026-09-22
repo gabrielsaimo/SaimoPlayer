@@ -10,8 +10,7 @@
 #Manhole - Desvio Fatal	leg=2:354146,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59479.mp4,8:354146
 #NUDES	dub=2:42508,10:2460980,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12134.mp4,8:42508
 #NUDES (2018)	dub=6:1308152
-#Natal	dub=2:292273,2:202623,2:181443,10:2446491,10:2458277,10:2459864,10:2460997,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39905.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53152.mp4,8:292273,8:202623,8:181443	leg=2:292274,2:202622,2:181420,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59456.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79989.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80160.mp4,8:292274,8:202622,8:181420
-#Natal (2022)	dub=6:1301682,6:1305456	leg=6:1305457
+#Natal (2022)	dub=https://embedplayer2.xyz/cdn/hls/016e0022d6b531533d518b229ddf7ccf/master.txt,6:1301682,6:1305456,2:292273,2:202623,2:181443,10:2446491,10:2458277,10:2459864,10:2460997,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39905.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53152.mp4,8:292273,8:202623,8:181443	leg=6:1305457,2:292274,2:202622,2:181420,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59456.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/79989.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80160.mp4,8:292274,8:202622,8:181420
 #PartiuFama: Cancelado no Amor	dub=2:251782,10:2448281,10:2460581,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12138.mp4,8:251782	leg=2:251783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59461.mp4,8:251783
 #REALITYHIGH	dub=2:30440,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12139.mp4,8:30440
 #SKYKING	leg=2:375106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253657.mp4,8:375106
@@ -238,6 +237,7 @@
 20,000 Espécies de Abelhas	leg=2:318614,10:2450523,8:318614
 20.000 Léguas Submarinas	dub=2:48161,10:2458353,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33353.mp4,8:48161
 20.000 Léguas Submarinas (1954)	dub=6:1307220
+200% Wolf (2024)	dub=https://embedplayer2.xyz/cdn/hls/6914f478572dcf5fb982a6b4e337033d/master.txt
 2000 Metros até Andriivka	leg=2:362245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59720.mp4,8:362245
 2001: Uma Odisseia no Espaco (1968)	dub=6:1298889
 2001: Uma Odisséia no Espaço	dub=2:185619,10:2459140,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35359.mp4,8:185619
@@ -476,7 +476,7 @@
 9mm: O Preço da Vingança	dub=2:347275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1512.mp4,8:347275
 9º Pelotão	dub=2:96837,10:2456153,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22213.mp4,8:96837
 9º Pelotão (2005)	dub=6:1307173
-Μινόρε (2024)	dub=https://embedplayer2.xyz/cdn/hls/3b216b1bfa26afcf872e65913f486e45/master.txt,https://embedplayer2.xyz/cdn/hls/721199f757368fefc6045c86eec45f3f/master.txt,https://embedplayer2.xyz/cdn/hls/6c7e01036e55c59cb426744a651ac1e4/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307320.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307322.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307324.mp4,6:1309624
+Μινόρε (2024)	dub=https://embedplayer2.xyz/cdn/hls/3b216b1bfa26afcf872e65913f486e45/master.txt,https://embedplayer2.xyz/cdn/hls/721199f757368fefc6045c86eec45f3f/master.txt,https://embedplayer2.xyz/cdn/hls/6627a4f6886e354b266178d85db5b285/master.txt,https://embedplayer2.xyz/cdn/hls/f05b42023d85cf475cd1cc265532e42d/master.txt,https://embedplayer2.xyz/cdn/hls/6c7e01036e55c59cb426744a651ac1e4/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307320.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307322.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307324.mp4,6:1309624
 Довлатов (2018)	leg=6:1307963,6:1308134
 एलएसडी 2: लव, सेक्स और धोखा 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/bd2aaed52af870e8b11001ade3136e9b/master.txt,https://embedplayer2.xyz/cdn/hls/4ade1491a93241de633ba2a0c0197552/master.txt
 गांधारी (2026)	dub=https://embedplayer2.xyz/cdn/hls/9c0db23bc0d91e331754eb6b7cf86cf9/master.txt,https://embedplayer2.xyz/cdn/hls/6899d556cc9d9bbdfd97721b2d77bf7f/master.txt,10:2468227
@@ -485,6 +485,7 @@
 ರ‍್ಯಾಂಬೋ 2	dub=10:2453586
 შაშვი შაშვი მაყვალი (2023)	dub=https://embedplayer2.xyz/cdn/hls/1f9907d3c1e221bf6134b362771d1832/master.txt,https://embedplayer2.xyz/cdn/hls/1fc6f6a6a9baa604159e1814aa19a4ef/master.txt,6:1311500	leg=6:1304975,6:1311501
 ハウ (2022)	dub=6:1305380,6:1306067
+东极岛 (2025)	dub=https://embedplayer2.xyz/cdn/hls/85d3c8782b3e02a7ff9e61fea6f48690/master.txt,https://embedplayer2.xyz/cdn/hls/a51ca286b93bac098f625e028bd0de7f/master.txt
 宇宙大戦争 (1959)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307323.mp4
 深海獣雷牙 対 溶岩獣王牙 (2020)	dub=6:1306284,6:1306305,6:1306324	leg=6:1308845
 通天拍檔 (1984)	dub=6:1305665

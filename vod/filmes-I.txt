@@ -130,8 +130,7 @@ Imagine Só	dub=2:353661,2:230133,10:2459844,http://dbonline.tech-cdn.top:80/mov
 Imagine Só (2009)	dub=6:1309945
 Imaginem Só! (2008)	dub=6:1312508	leg=6:1312507
 Imbécil	dub=10:2460941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15636.mp4
-Imersao (2022)	dub=6:1300788
-Imersão	dub=2:181094,10:2445880,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44687.mp4,8:181094	leg=2:181088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74994.mp4,8:181088
+Imersao (2022)	dub=https://embedplayer2.xyz/cdn/hls/1821efb51931a5dd0f5ff1fd61f1c64b/master.txt,6:1300788,2:181094,10:2445880,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44687.mp4,8:181094	leg=2:181088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74994.mp4,8:181088
 Imortais	dub=2:378027,2:94235,10:2444203,10:2454209,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4157.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254757.mp4,8:378027,8:94235	leg=2:378026,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254654.mp4,8:378026
 Imortais (2011)	dub=6:1307571
 Imortais (2025)	dub=https://embedplayer2.xyz/cdn/hls/90a56d0134565e0a6c2ea88fbd33ce60/master.txt
@@ -372,8 +371,7 @@ Instinto	dub=2:94756,10:2456552,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Instinto (1999)	dub=6:1305566
 Instinto (2019)	dub=https://embedplayer2.xyz/cdn/hls/1559c07a2a722cb9c2e2a543ceb4c5f3/master.txt,6:1298325
 Instinto Assassino (2021)	dub=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,6:1306422,2:160427,10:2454545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4250.mp4,8:160427	leg=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,6:1306423,2:160426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75352.mp4,8:160426
-Instinto Fatal	dub=2:367823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98716.mp4,8:367823	leg=2:367822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98662.mp4,8:367822
-Instinto Fatal (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251427.mp4
+Instinto Fatal (2024)	dub=https://embedplayer2.xyz/cdn/hls/4bf43b51f132bd7a953fecfd64b4ba41/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251427.mp4,2:367823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98716.mp4,8:367823	leg=2:367822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98662.mp4,8:367822
 Instinto Materno	dub=2:261646,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56346.mp4,8:261646,2:383108,2:261111,2:142426,10:2444009,10:2457884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26900.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301381.mp4,8:383108,8:261111,8:142426	leg=2:383107,2:261112,2:142419,10:2448516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75357.mp4,8:383107,8:261112,8:142419
 Instinto Materno (2019)	leg=6:1307886
 Instinto Materno (2022)	dub=https://embedplayer2.xyz/cdn/hls/a928752cafcab28ca14c15d361fa356c/master.txt,6:1303524

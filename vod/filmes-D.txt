@@ -145,7 +145,7 @@ Dama de Espadas (2016)	dub=6:1303916
 Damas De Preto	dub=2:391946,2:48176,10:2461381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14247.mp4,8:391946,8:48176	leg=2:391945,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311861.mp4,8:391945
 Damas De Preto (2018)	dub=6:1307918
 Damas do Samba	dub=2:366090,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97143.mp4,8:366090
-Damien: A Profecia 2	dub=10:2451700
+Damien: A Profecia 2 (1978)	dub=https://embedplayer2.xyz/cdn/hls/712dbed404a68c46f76fbfe14a4492dd/master.txt,10:2451700
 Damien: A Profecia II	dub=2:46128,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48423.mp4,8:46128
 Dampyr: O Filho do Vampiro	dub=2:215909,10:2452105,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48416.mp4,8:215909	leg=2:215908,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69111.mp4,8:215908
 Dampyr: O Filho do Vampiro (2022)	dub=6:1303646
@@ -325,6 +325,7 @@ De Volta ao Baile	dub=2:159943,10:2459932,http://dbonline.tech-cdn.top:80/movie/
 De Volta ao Baile (2022)	dub=6:1299412
 De Volta ao Crime	dub=2:284517,10:2449141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21287.mp4,8:284517	leg=2:284518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69351.mp4,8:284518
 De Volta ao Crime (2023)	dub=6:1312031	leg=6:1312030
+De Volta ao Espaço (2022)	dub=https://embedplayer2.xyz/cdn/hls/2e76224eea86339766fb712dccfdea1a/master.txt
 De Volta ao Início	dub=10:2447594	leg=2:254780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69361.mp4,8:254780
 De Volta ao Início (2023)	leg=6:1309538
 De Volta ao Jardim Secreto	dub=2:111586,10:2458497,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33780.mp4,8:111586
@@ -338,7 +339,7 @@ De Volta ao Sítio do Picapau Amarelo	dub=10:2445752
 De Volta ao Terror (2012)	dub=6:1303790
 De Volta ao Titanic	dub=2:200315,10:2452612,8:200315	leg=2:200314,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69366.mp4,8:200314
 De Volta ao Titanic (2020)	dub=6:1306256	leg=6:1306257
-De Volta ao Velho Oeste	dub=2:337404,10:2446915,10:2447656,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34958.mp4,8:337404	leg=2:337403,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69378.mp4,8:337403
+De Volta ao Velho Oeste (2022)	dub=https://embedplayer2.xyz/cdn/hls/1e7ad57f7e7161c230d80cf87bcd4086/master.txt,2:337404,10:2446915,10:2447656,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34958.mp4,8:337404	leg=2:337403,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69378.mp4,8:337403
 De Volta ao meu Brilho	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303277.mp4
 De Volta aos Dinossauros	dub=2:340241,10:2450154,10:2459007,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35697.mp4,8:340241	leg=2:340240,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69380.mp4,8:340240
 De Volta para Casa	dub=10:2447019,10:2455982,10:2456625	leg=2:171913,2:152004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69367.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69372.mp4,8:171913,8:152004
@@ -426,8 +427,7 @@ Decorando o Natal (2019)	dub=6:1301993
 Decoys 2: Sedução Alienígena	dub=2:392792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312573.mp4,8:392792	leg=2:392791,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312553.mp4,8:392791
 Decoys 2: Sedução Alienígena (2007)	dub=6:1309916
 Dedicada a Minha Ex	dub=2:391948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311840.mp4,8:391948	leg=2:391947,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311862.mp4,8:391947
-Deep	dub=2:112929,10:2458842,10:2459733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35704.mp4,8:112929
-Deep (2021)	dub=6:1308993
+Deep (2021)	dub=https://embedplayer2.xyz/cdn/hls/63b7ab802e28c688890d71560afa93be/master.txt,6:1308993,2:112929,10:2458842,10:2459733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35704.mp4,8:112929
 Deep Evil - Experiência Mortal	dub=2:311223,10:2458952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35709.mp4,8:311223
 Deep Sea Monster Raiga vs. Lava Beast Ohga	dub=2:194212,8:194212
 Deep Web: Show da Morte	dub=2:349728,10:2445360,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48438.mp4,8:349728	leg=2:349727,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69482.mp4,8:349727
@@ -514,7 +514,7 @@ Dennis, O Pimentinha (1993)	dub=6:1297751
 Dennis, o Pimentinha Ataca Novamente	dub=2:93618,10:2459814,8:93618
 Dennis, o Pimentinha Ataca Novamente (1998)	dub=6:1297750
 Dente Canino (2009)	dub=6:1310304
-Dente de Leite (2020)	leg=6:1308110
+Dente de Leite (2020)	dub=https://embedplayer2.xyz/cdn/hls/aacb754abc4fff87de78a8229413a357/master.txt	leg=6:1308110
 Dente por Dente	dub=2:101361,10:2454614,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3186.mp4,8:101361
 Dente por Dente (2020)	dub=6:1301865
 Dentes de Leite	dub=2:389297,10:2444125,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310518.mp4,8:389297	leg=2:389296,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310520.mp4,8:389296
@@ -619,8 +619,7 @@ Desaparecida: O Caso Lucie Blackman (2023)	dub=6:1309394	leg=6:1309395
 Desaparecidas	dub=https://embedplayer2.xyz/cdn/hls/fda0db6409f417706e535323ac0896a1/master.txt	leg=2:140801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69675.mp4,8:140801
 Desaparecidas (2003)	dub=https://embedplayer2.xyz/cdn/hls/7e017904bd42af24b012a3bd8ce2ccfa/master.txt,6:1502790
 Desaparecidas (2021)	dub=https://embedplayer2.xyz/cdn/hls/fda0db6409f417706e535323ac0896a1/master.txt	leg=6:1304694
-Desaparecidos	dub=2:227395,10:2449937,10:2454803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3202.mp4,8:227395	leg=2:227404,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69680.mp4,8:227404
-Desaparecidos (2022)	dub=6:1303705
+Desaparecidos (2022)	dub=https://embedplayer2.xyz/cdn/hls/17c3638509b2325ada59fad5e78346f3/master.txt,6:1303705,2:227395,10:2449937,10:2454803,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3202.mp4,8:227395	leg=2:227404,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69680.mp4,8:227404
 Desaparecidos na Noite	dub=2:297422,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55498.mp4,8:297422,2:270410,10:2445499,10:2448002,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44345.mp4,8:270410	leg=2:270411,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69690.mp4,8:270411
 Desaparecidos na Noite (2024)	dub=6:1309130	leg=6:1309129
 Desaparecimento	dub=10:2450354	leg=2:286607,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69710.mp4,8:286607
@@ -804,6 +803,7 @@ Destinos Tracados (2022)	dub=6:1300870
 Destinos Traçados	dub=2:182282,10:2446940,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41842.mp4,8:182282	leg=2:182311,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69943.mp4,8:182311
 Destinos a Deriva (2023)	dub=6:1302560
 Destinos à Deriva	dub=2:217274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55508.mp4,8:217274,2:217206,10:2445894,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44369.mp4,8:217206	leg=2:217205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69959.mp4,8:217205
+Destrua-me (2017)	dub=https://embedplayer2.xyz/cdn/hls/773862d5b9bbfaf27292508d2113aa31/master.txt
 Destruicao Final 2 (2026)	dub=https://embedplayer2.xyz/cdn/hls/a3e00f73f7c9258a80b76026f6fccb15/master.txt,6:1314416,2:371167,10:2444636,10:2458728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250083.mp4,8:371167	leg=6:1314415,2:371166,2:365858,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69964.mp4,8:371166,8:365858
 Destruicao Total O Fim Do Mundo	dub=2:72637,10:2457745,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25294.mp4,8:72637
 Destruição Final O Último Refúgio (2020)	dub=https://embedplayer2.xyz/cdn/hls/ba6cc385a4bad418749264c61e63d8ef/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251416.mp4,6:1298180,2:92657,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55512.mp4,8:92657,2:92658,10:2453912,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3242.mp4,8:92658
@@ -1021,13 +1021,12 @@ Dias de Inverno	dub=2:31922,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Dias de Trovão	dub=2:20000,10:2454708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3290.mp4,8:20000
 Dias de Trovão (1990)	dub=6:1301273
 Dias de Trovão (2015)	dub=6:1310482
-Dias de Verao Noites de Verao (2018)	dub=6:1301163
+Dias de Verao Noites de Verao (2018)	dub=https://embedplayer2.xyz/cdn/hls/7c6e93c9594505db8e1aaeadfa1e1e41/master.txt,6:1301163
 Dibu Martinez O Garoto que Parava o Tempo (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289523.mp4
 Dibu Martínez: O Garoto que Parava o Tempo	dub=https://embedplayer2.xyz/cdn/hls/9f199643a17ed4863acbf770d92967f4/master.txt,2:380257,10:2444208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289926.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289961.mp4,8:380257	leg=2:380256,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289939.mp4,8:380256
 Dick Dinamite	dub=10:2444286,10:2444301
 Dick Tracy	dub=2:354219,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3294.mp4,8:354219	leg=2:354218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70159.mp4,8:354218
-Diddy: A queda de um Monstro	leg=2:307748,10:2448781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70156.mp4,8:307748
-Diddy: A queda de um Monstro (2025)	leg=6:1312924
+Diddy: A queda de um Monstro (2025)	dub=https://embedplayer2.xyz/cdn/hls/3cc902f8d335952f59d98f68de812f62/master.txt	leg=6:1312924,2:307748,10:2448781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70156.mp4,8:307748
 Diddy: Como Nasce Um Bad Boy	dub=https://embedplayer2.xyz/cdn/hls/2dbbc730a10c2a54128293f9ba97bcc4/master.txt,2:318421,10:2452991,8:318421	leg=2:318422,10:2447562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70166.mp4,8:318422
 Didi Quer Ser Criança	dub=2:341789,10:2450929,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38140.mp4,8:341789
 Didi o Cupido Trapalhao (2003)	dub=6:1299818
@@ -1071,6 +1070,7 @@ Dinheiro Fácil (2019)	dub=6:1306042	leg=6:1306043
 Dinheiro Sujo	dub=2:339287,10:2449054,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21305.mp4,8:339287	leg=2:339286,2:321370,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70219.mp4,8:339286,8:321370
 Dinheiro Sujo (2002)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301081.mp4
 Dinheiro Sujo (2008)	dub=6:1312200	leg=6:1312199
+Dinheiro Sujo (2013)	dub=https://embedplayer2.xyz/cdn/hls/99eebbe3ff7ffba6c42de540aba3c224/master.txt
 Dinheiro Suspeito (2026)	dub=https://embedplayer2.xyz/cdn/hls/d63185135d4b6366482da95cb24132fd/master.txt,6:1314242,2:362830,2:362722,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55535.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55540.mp4,8:362830,8:362722,2:362586,10:2444979,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52994.mp4,8:362586	leg=2:362585,10:2444986,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70214.mp4,8:362585
 Dinheiro e Má Companhia (2002)	dub=6:1310241	leg=6:1310242
 Dinheiro e Rituais	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249282.mp4
@@ -1300,6 +1300,7 @@ Dois Amigos e uma Ameaça Alienígena	dub=2:163579,10:2458772,http://dbonline.te
 Dois Amigos e uma Ameaça Alienígena (2022)	dub=6:1306192	leg=6:1306193
 Dois Caras Legais (2016)	dub=https://embedplayer2.xyz/cdn/hls/3429d77c5c40aec184ccc96d5f3f4244/master.txt,6:1302298,2:191956,10:2461386,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14610.mp4,8:191956
 Dois Casais e um Bebê (2019)	leg=6:1308222
+Dois Chefs e um Bolo de Casamento (2023)	dub=https://embedplayer2.xyz/cdn/hls/71e80eaf790a7a95a03e7bf0fb6e1eba/master.txt
 Dois Corações	dub=2:279202,10:2446433,10:2450079,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41884.mp4,8:279202	leg=2:279203,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70436.mp4,8:279203
 Dois Doidões em Harvard (2001)	dub=https://embedplayer2.xyz/cdn/hls/b42b2be78fb145cdcfe7067d2b840150/master.txt
 Dois Homens Contra uma Cidade	dub=2:45088,10:2456668,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25417.mp4,8:45088
@@ -1526,7 +1527,7 @@ Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro	dub=https://embedplayer2.
 Dragon Ball Z: Goku, o Super Sayajin	dub=https://embedplayer2.xyz/cdn/hls/1d7598d33f0fd9b9a47ab0a388b36e5d/master.txt,2:131043,2:20350,8:131043,8:20350
 Dragon Ball Z: O Renascimento de Freeza	dub=2:131054,2:20348,10:2459410,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9379.mp4,8:131054,8:20348
 Dragon Ball Z: O Retorno dos Androides	dub=2:131046,10:2459565,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9388.mp4,8:131046
-Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)	dub=6:1312115
+Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)	dub=https://embedplayer2.xyz/cdn/hls/1767d7be0a64944443f9e08f66c55494/master.txt,https://embedplayer2.xyz/cdn/hls/1bb3bbba8ffe9ef18b6565eaacf26970/master.txt,6:1312115
 Dragon Ball: A Lenda de Shenlong (1986)	dub=https://embedplayer2.xyz/cdn/hls/9898dbc5ea616fafabfa6f55c2263c44/master.txt,6:1310312,2:20343,10:2459603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9349.mp4,8:20343
 Dragon Ball: Em Busca do Poder	dub=10:2459541
 Dragon Ball: Uma Aventura Mística (1988)	dub=https://embedplayer2.xyz/cdn/hls/6fb8cc867813970590423239ebbb462f/master.txt,https://embedplayer2.xyz/cdn/hls/2bab204f2c072ab27ee3cf451c309a0c/master.txt

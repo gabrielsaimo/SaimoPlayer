@@ -2523,9 +2523,9 @@
 7	21	dub	11:2181598
 7	22	dub	11:2181599
 @Malcolm A Vida Continua Injusta	2026
-1	1	dub	3:373516,11:2301504,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251903.mp4,7:1496912,9:373516
-1	2	dub	3:373517,11:2301505,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251904.mp4,7:1496913,9:373517
-1	3	dub	3:373518,11:2301506,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251905.mp4,7:1496914,9:373518
+1	1	dub	https://embedplayer2.xyz/cdn/hls/ec7013dfb6c73dfed9172d5ce380d1b9/master.txt,3:373516,11:2301504,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251903.mp4,7:1496912,9:373516
+1	2	dub	https://embedplayer2.xyz/cdn/hls/ea897bde44efad0af554584991fa7534/master.txt,3:373517,11:2301505,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251904.mp4,7:1496913,9:373517
+1	3	dub	https://embedplayer2.xyz/cdn/hls/9945f7c286e9f3214f486e5523f4bc01/master.txt,3:373518,11:2301506,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251905.mp4,7:1496914,9:373518
 1	4	dub	https://embedplayer2.xyz/cdn/hls/356cbebce1ec260655fd1b9d60ce4b6f/master.txt,3:373519,11:2301507,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251906.mp4,7:1496915,9:373519
 @Malcolm In The Middle
 1	1	leg	3:82796,9:82796
