@@ -28,8 +28,10 @@
 #                                    com erro, de todo título (horas, não minutos)
 #   ./atualizar_tudo.sh --completo=series        a mesma varredura, só nas
 #                                    categorias dadas (filmes,series,animes,doramas)
-#   ./atualizar_tudo.sh --faltando-series        só os episódios que faltam nas
-#                                    séries que o app já tem
+#   ./atualizar_tudo.sh --faltando-series        completa as séries que o app já
+#                                    tem, uma a uma e em ordem: para no primeiro
+#                                    episódio que não achar, para não deixar a
+#                                    série com episódios salteados
 #   ./atualizar_tudo.sh --sem-subir  faz, mostra, mas não commita nem empurra
 #
 # Sem terminal nenhum, todo dia: ver `scripts/agendar_atualizacao.sh`.
@@ -50,7 +52,8 @@ for argumento in "$@"; do
     --destaques) somente_destaques=1 ;;
     --completo) completo=1 ;;
     --completo=*) completo=1; categorias_completo="${argumento#--completo=}" ;;
-    --faltando-series) completo=1; categorias_completo="series"; so_do_acervo="--somente-series-do-acervo" ;;
+    --faltando-series) completo=1; categorias_completo="series"
+                       so_do_acervo="--somente-series-do-acervo --em-ordem" ;;
     --sem-subir) subir=0 ;;
     *) echo "opção desconhecida: $argumento" >&2; exit 2 ;;
   esac
@@ -86,7 +89,7 @@ if [ "$somente_destaques" = 0 ] && [ "$completo" = 1 ]; then
   # Uma passada só, as quatro categorias, sem --somente-titulos-publicados:
   # todo título, todo indisponível e todo erro de novo. O que já foi
   # encontrado não é tocado.
-  anotar "varredura completa ($categorias_completo): tudo que falta"
+  anotar "varredura ($categorias_completo): $([ -n "$so_do_acervo" ] && echo "completando as séries do acervo, em ordem" || echo "tudo que falta")"
   python3 atualizar_redeflix.py --gerar --categorias "$categorias_completo" $so_do_acervo \
     --repetir-indisponiveis --repetir-erros --workers 96 \
     --tentativas-indisponiveis 2 --delay-episodio 0.05 \

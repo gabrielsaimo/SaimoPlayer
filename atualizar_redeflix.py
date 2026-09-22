@@ -415,6 +415,132 @@ def progress(done: int, total: int, started: float, item: Resolved) -> None:
         print(f"[{done}/{total}] {rate:.1f}/s · ETA {eta/60:.1f} min · {item.status} · TMDB {item.tmdb}{suffix}", flush=True)
 
 
+def episodios_do_acervo() -> dict[tuple[str, str], set[tuple[int, int]]]:
+    """Que episódios o app já mostra, por série.
+
+    Lidos dos pedaços publicados (vod/series-LETRA-N.txt), que é o que os
+    aplicativos abrem. A chave é (nome comparável, ano); o ano vazio entra
+    junto, porque a lista M3U nem sempre o traz.
+    """
+    saida: dict[tuple[str, str], set[tuple[int, int]]] = {}
+    for caminho in sorted((ROOT / "vod").glob("series-*-*.txt")):
+        atual: tuple[str, str] | None = None
+        for linha in caminho.read_text(encoding="utf-8").splitlines():
+            if linha.startswith("@"):
+                campos = linha[1:].split("\t")
+                atual = (_chave_de_nome(campos[0]), campos[1].strip() if len(campos) > 1 else "")
+                saida.setdefault(atual, set())
+                continue
+            if atual is None:
+                continue
+            campos = linha.split("\t")
+            if len(campos) < 4:
+                continue
+            with contextlib.suppress(ValueError):
+                saida[atual].add((int(campos[0]), int(campos[1])))
+    return saida
+
+
+def generate_em_ordem(movie_ids: list[str], collections: dict[str, list[dict]], args) -> dict:
+    """Completa cada série em ordem, e para no primeiro episódio que falta.
+
+    Buscar episódio solto deixa a série furada: o E5 aparece na tela sem o E4,
+    e quem assiste trava ali de qualquer jeito. Então cada série é percorrida
+    da primeira temporada ao último episódio, e o que vier depois do primeiro
+    buraco não é nem consultado — na próxima passada, se o buraco tiver sido
+    tapado, a série anda mais um trecho.
+
+    Uma série por vez, mas várias séries ao mesmo tempo: a ordem que importa é
+    a de dentro da série.
+    """
+    db = open_cache(args.cache)
+    import_legacy(db)
+    cached = load_cache(db)
+    selected = {value.strip() for value in args.categorias.split(",") if value.strip()}
+    invalid = selected - {"filmes", "series", "animes", "doramas"}
+    if invalid:
+        raise SystemExit("categorias desconhecidas: " + ", ".join(sorted(invalid)))
+
+    no_app = episodios_do_acervo()
+
+    def ja_tem(raw: dict, season: int, episode: int) -> bool:
+        no_cache = cached.get(("tv", raw["id"], season, episode))
+        if no_cache and no_cache.status == "encontrado":
+            return True
+        nome = _chave_de_nome(raw["nome"])
+        for chave in ((nome, raw["ano"]), (nome, "")):
+            if (season, episode) in no_app.get(chave, ()):
+                return True
+        return False
+
+    series: list[tuple[str, dict]] = []
+    for category, items in collections.items():
+        if category not in selected:
+            continue
+        do_acervo = series_do_acervo(category, items) if args.somente_series_do_acervo else None
+        if do_acervo is not None:
+            print(f"{category}: {len(do_acervo)} de {len(items)} títulos já estão no acervo", flush=True)
+        for raw in items:
+            if do_acervo is not None and raw["id"] not in do_acervo:
+                continue
+            series.append((category, raw))
+
+    print(f"Cache reaproveitado: {len(cached)} itens | séries a completar: {len(series)}", flush=True)
+
+    def completar(category: str, raw: dict) -> tuple[list[Resolved], int, int]:
+        """Devolve o que foi resolvido, quantos episódios entraram e onde parou."""
+        achados: list[Resolved] = []
+        entraram = 0
+        for season, episode in sorted(raw["episodios"]):
+            if ja_tem(raw, season, episode):
+                continue
+            item = process_episode(
+                Episode(category, raw["id"], raw["nome"], raw["ano"], season, episode),
+                not args.sem_validar, args.tentativas_indisponiveis, args.delay_episodio,
+            )
+            achados.append(item)
+            if item.status != "encontrado":
+                # O buraco fecha a série: o resto fica para a próxima passada.
+                return achados, entraram, 1
+            entraram += 1
+        return achados, entraram, 0
+
+    started = time.monotonic()
+    entraram_total = pararam = 0
+    consultados = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = {pool.submit(completar, category, raw): raw for category, raw in series}
+        for done, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            achados, entraram, parou = future.result()
+            entraram_total += entraram
+            pararam += parou
+            consultados += len(achados)
+            for item in achados:
+                antigo = cached.get((item.media_type, item.tmdb, item.season, item.episode))
+                if antigo and antigo.status == "encontrado" and item.status != "encontrado":
+                    item = antigo
+                save(db, item)
+                cached[(item.media_type, item.tmdb, item.season, item.episode)] = item
+            if done % 25 == 0 or done == len(series):
+                db.commit()
+                decorrido = max(time.monotonic() - started, 0.001)
+                falta = (len(series) - done) / (done / decorrido)
+                with PRINT_LOCK:
+                    print(f"[{done}/{len(series)} séries] ETA {falta/60:.1f} min · "
+                          f"{entraram_total} episódios novos · {consultados} consultas · "
+                          f"{pararam} séries pararam num buraco", flush=True)
+    db.commit()
+    # Os filmes entram intactos: sem a lista deles, links-filmes.txt sairia vazio.
+    write_outputs(cached, movie_ids, collections)
+    db.close()
+    return {
+        "series_percorridas": len(series),
+        "episodios_novos": entraram_total,
+        "consultas": consultados,
+        "series_que_pararam": pararam,
+    }
+
+
 def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> dict:
     db = open_cache(args.cache)
     import_legacy(db)
@@ -755,6 +881,10 @@ def parse_args() -> argparse.Namespace:
         help="repesca indisponíveis só de títulos já no app; título novo tenta só episódio nunca visto",
     )
     parser.add_argument(
+        "--em-ordem", action="store_true",
+        help="completa cada série em ordem e para no primeiro episódio que falta",
+    )
+    parser.add_argument(
         "--somente-series-do-acervo", action="store_true",
         help="só completa episódios de séries que o app já tem; série nova nem entra",
     )
@@ -812,7 +942,12 @@ def main() -> int:
         [f"{len(movies)} filmes"] + [f"{len(items)} {category}" for category, items in collections.items()]
     ), flush=True)
     print("Novos IDs: " + ", ".join(f"{k}={len(v)}" for k, v in new_ids.items()), flush=True)
-    result = generate(movies, collections, args) if args.gerar else {"modo": "somente sincronização"}
+    if not args.gerar:
+        result = {"modo": "somente sincronização"}
+    elif args.em_ordem:
+        result = generate_em_ordem(movie_ids, collections, args)
+    else:
+        result = generate(movies, collections, args)
     atomic_write(OUTPUT / "ultima-execucao.json", json.dumps(result, ensure_ascii=False, indent=2) + "\n")
     lock.close()
     return 0
