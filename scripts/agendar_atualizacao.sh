@@ -72,7 +72,7 @@ for cache in redeflix generos.sqlite3 embedplayer-filmes embedplayer-series; do
   if [ -e "$ORIGEM/arquivos-gerados/$cache" ] && [ ! -e "$RAIZ/arquivos-gerados/$cache" ]; then
     echo "copiando o cache $cache"
     cp -R "$ORIGEM/arquivos-gerados/$cache" "$RAIZ/arquivos-gerados/"
-    rm -f "$RAIZ/arquivos-gerados/$cache/execucao.lock"
+    [ -d "$RAIZ/arquivos-gerados/$cache" ] && rm -f "$RAIZ/arquivos-gerados/$cache/execucao.lock"
   fi
 done
 
