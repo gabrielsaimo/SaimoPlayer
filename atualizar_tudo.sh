@@ -28,6 +28,8 @@
 #                                    com erro, de todo título (horas, não minutos)
 #   ./atualizar_tudo.sh --completo=series        a mesma varredura, só nas
 #                                    categorias dadas (filmes,series,animes,doramas)
+#   ./atualizar_tudo.sh --faltando-series        só os episódios que faltam nas
+#                                    séries que o app já tem
 #   ./atualizar_tudo.sh --sem-subir  faz, mostra, mas não commita nem empurra
 #
 # Sem terminal nenhum, todo dia: ver `scripts/agendar_atualizacao.sh`.
@@ -41,12 +43,14 @@ mkdir -p arquivos-gerados
 somente_destaques=0
 completo=0
 categorias_completo="filmes,series,animes,doramas"
+so_do_acervo=""
 subir=1
 for argumento in "$@"; do
   case "$argumento" in
     --destaques) somente_destaques=1 ;;
     --completo) completo=1 ;;
     --completo=*) completo=1; categorias_completo="${argumento#--completo=}" ;;
+    --faltando-series) completo=1; categorias_completo="series"; so_do_acervo="--somente-series-do-acervo" ;;
     --sem-subir) subir=0 ;;
     *) echo "opção desconhecida: $argumento" >&2; exit 2 ;;
   esac
@@ -83,7 +87,7 @@ if [ "$somente_destaques" = 0 ] && [ "$completo" = 1 ]; then
   # todo título, todo indisponível e todo erro de novo. O que já foi
   # encontrado não é tocado.
   anotar "varredura completa ($categorias_completo): tudo que falta"
-  python3 atualizar_redeflix.py --gerar --categorias "$categorias_completo" \
+  python3 atualizar_redeflix.py --gerar --categorias "$categorias_completo" $so_do_acervo \
     --repetir-indisponiveis --repetir-erros --workers 96 \
     --tentativas-indisponiveis 2 --delay-episodio 0.05 \
     >>"$REGISTRO" 2>&1 || anotar "varredura: falhou, seguindo assim mesmo"

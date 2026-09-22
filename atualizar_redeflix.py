@@ -10,6 +10,8 @@ anteriores do projeto.
 from __future__ import annotations
 
 import argparse
+import contextlib
+import unicodedata
 import concurrent.futures
 import json
 import re
@@ -449,7 +451,14 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
                             published.add(fields[2])
             except OSError:
                 pass
+        no_acervo: set[str] | None = None
+        if args.somente_series_do_acervo:
+            no_acervo = series_do_acervo(category, items)
+            print(f"{category}: {len(no_acervo)} de {len(items)} títulos já estão no acervo", flush=True)
         for raw in items:
+            # Só completar o que a pessoa já tem: série fora do acervo nem entra.
+            if no_acervo is not None and raw["id"] not in no_acervo:
+                continue
             # Título que ainda não está no app ganha uma tentativa por episódio
             # nunca visto — é assim que anime e dorama novos entram. O que já
             # foi tentado e deu indisponível fica quieto: repescar os duzentos
@@ -745,8 +754,50 @@ def parse_args() -> argparse.Namespace:
         "--somente-titulos-publicados", action="store_true",
         help="repesca indisponíveis só de títulos já no app; título novo tenta só episódio nunca visto",
     )
+    parser.add_argument(
+        "--somente-series-do-acervo", action="store_true",
+        help="só completa episódios de séries que o app já tem; série nova nem entra",
+    )
     parser.add_argument("--cache", type=Path, default=OUTPUT / "cache.sqlite3")
     return parser.parse_args()
+
+
+def _chave_de_nome(texto: str) -> str:
+    texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", texto).strip()
+
+
+def series_do_acervo(category: str, items: list[dict]) -> set[str]:
+    """Ids do Redeflix das séries que já estão no app.
+
+    Conta como "já está" a série com ao menos um episódio publicado pelo
+    Redeflix (pelo id, sem dúvida) ou a que o acervo tem pelo nome — vinda das
+    listas M3U, sem id nenhum. Pelo nome, o ano decide quando os dois lados o
+    têm; quando o acervo não tem ano, vale o nome sozinho.
+    """
+    ids: set[str] = set()
+    with contextlib.suppress(OSError):
+        for line in (STATE / f"links-{category}.txt").read_text(encoding="utf-8").splitlines():
+            if line.startswith("@"):
+                fields = line[1:].split("\t")
+                if len(fields) >= 3 and fields[2].isdigit():
+                    ids.add(fields[2])
+    com_ano: set[tuple[str, str]] = set()
+    sem_ano: set[str] = set()
+    with contextlib.suppress(OSError):
+        for line in (ROOT / "vod" / "busca.txt").read_text(encoding="utf-8").splitlines():
+            fields = line.split("\t")
+            if len(fields) >= 3 and fields[1] == "s":
+                ano = fields[3].strip() if len(fields) > 3 else ""
+                if ano:
+                    com_ano.add((_chave_de_nome(fields[0]), ano))
+                else:
+                    sem_ano.add(_chave_de_nome(fields[0]))
+    for raw in items:
+        nome = _chave_de_nome(raw["nome"])
+        if (nome, raw["ano"]) in com_ano or nome in sem_ano:
+            ids.add(raw["id"])
+    return ids
 
 
 def main() -> int:
