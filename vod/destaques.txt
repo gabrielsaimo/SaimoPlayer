@@ -1,89 +1,89 @@
 # Fileiras da tela inicial. Geradas por gerar_destaques.py — não editar à mão.
 capa: https://image.tmdb.org/t/p/w342
 fila	Em alta
-f	O Fim da Rua	O		/4kfDP13cYwCx55YP2gLGtcUFZlC.jpg
+f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
+f	O Fim da Rua (2026)	O	2026	/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg
 f	Homem-Aranha: Um Novo Dia	H		/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
+f	Você+Eu - Contra o Mundo	V		/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg
+f	Acampamento Miasma: Adolescência, Sexo e Morte (2026)	A	2026	/mAwGTx2EOdiY6AiWauGICPUrELg.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
-f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
 f	Obsessao (2026)	O	2026	/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
-f	Μινόρε	#		/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
 f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
+f	The Fix	T		/yopXjun3ICFfJci2ukcEzceZjUs.jpg
+f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
 f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
+f	गांधारी (2026)	#	2026	/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
+f	Coracao Selvagem (1990)	C	1990	/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
 f	Backrooms Um Nao-Lugar (2026)	B	2026	/a1pgQeEge47xrS4jGlDwIHiieVK.jpg
 f	Toy Story 5 (2026)	T	2026	/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg
+f	Só por Uma Noite (2026)	S	2026	/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg
+f	Quatro Histórias de Desejo 3 (2026)	Q	2026	/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg
+f	O Sorveteiro (2026)	O	2026	/3qbjuaIhlfInBd9C85yv1ss50mq.jpg
 f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
-f	The Fix	T		/yopXjun3ICFfJci2ukcEzceZjUs.jpg
-f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
 f	A Morte de Robin Hood	A		/o0QndnepFPWget2kdKpzh26RBYt.jpg
-f	The Get Out	T		/keU6EsXrkcc1uAEsEt1pI8keSsO.jpg
-f	Corrida Contra o Tempo (2026)	C	2026	/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg
-f	Atraidos Pelo Destino (2026)	A	2026	/99OB0p7ah8wyTphLHrghSJXtmr5.jpg
-f	Coracao Selvagem (1990)	C	1990	/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
-f	Dia D (2026)	D	2026	/pmff1wjKrgJi92PPr346lAifzlg.jpg
-f	Céu em Fúria	C		/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
 fila	Séries em alta
-s	Monstro: A História de Lizzie Borden	M		/zeUdYvw2DKRsiabu2ptTaUlairp.jpg
-s	Neagley: Detetive Particular	N		/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
-s	Reacher	R		/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg
-s	Terra da Mafia	T		/89DEvnUmRAZraf84jLjtkN4SH8B.jpg
-s	Lanternas	L		/wiF1C97GuJEOBSKWrtub517THjF.jpg
+s	Monstro: A História de Lizzie Borden	M	2026	/zeUdYvw2DKRsiabu2ptTaUlairp.jpg
+s	Neagley: Detetive Particular	N	2026	/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
+s	Reacher	R	2022	/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg
+s	Lanternas	L	2026	/wiF1C97GuJEOBSKWrtub517THjF.jpg
+s	Terra da Mafia	T	2025	/jM7bH9b9QT22PtkTyHzxbXx4lDI.jpg
+s	Lioness	L		/5OeI0zcsoux6VNNQzGjvDO11gHA.jpg
+s	Escândalo e Intriga	E		/fPXgwURa9dRRJDA8JzYT4K2aAaI.jpg
+s	Invasao a Paris	I	2024	/xUF1yckF44zzK0m2xKY1agZvY1a.jpg
 s	Slow Horses	S		/rdNvIaPXpkUZl5tQLsTP15osfu2.jpg
-s	One Piece	O		/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg
 s	South Park	S		/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg
-s	Invasao a Paris	I		/xUF1yckF44zzK0m2xKY1agZvY1a.jpg
 s	Cidade de Sangue	C		/qKIQ1FO7D422UAY4Ib5vFel8Vy2.jpg
-s	Silo	S		/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg
-s	Stranger Things Historias de 85	S		/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg
-s	Ted Lasso	T		/A9yoXfCOedWwvvzuad8sGyAg7Oh.jpg
-s	Materia Escura	M		/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg
-s	Against the Current	A		/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg
-s	That Time I Got Reincarnated as a Slime	T		/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg
-s	Futurama	F		/vC4gvBWA7hAvUl5ITh2tx8OhmB4.jpg
-s	Star Trek: Strange New Worlds	S		/bxuUbcM9GqvmQY1EDm5sMtLdcTv.jpg
-s	Outlander Blood of My Blood	O		/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg
-s	Um Amor Diferente do Seu	U		/vvywxGVcFihxOWxXoAxECOQ20pi.jpg
+s	Bleach	B	2004	/dx28DE7EgLy0FatOvnaUg0k9j92.jpg
+s	One Piece	O	1999	/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg
+s	Stranger Things: Histórias de 85	S	2026	/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg
+s	Silo	S	2023	/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg
+s	Golden Axe	G		/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg
+s	O Segredo de Widow's Bay	O		/hazWZ75ml5Er3MQsFetIzoeWs99.jpg
+s	American Hostage	A		/xGqGD6jIh0ubJKePXjmmMZiQ7PR.jpg
+s	Ted Lasso	T	2020	/A9yoXfCOedWwvvzuad8sGyAg7Oh.jpg
+s	Magnatas do Crime	M	2024	/3psm58xrwPAkb7NO8nmprBESB1X.jpg
 fila	Lançamentos de 2026
 f	Homem-Aranha: Um Novo Dia	H		/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
-f	O Fim da Rua	O		/4kfDP13cYwCx55YP2gLGtcUFZlC.jpg
+f	O Fim da Rua (2026)	O	2026	/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg
+f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
 f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
-f	Μινόρε	#		/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg
-f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
+f	गांधारी (2026)	#	2026	/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg
 f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
-f	Corrida Contra o Tempo (2026)	C	2026	/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg
-f	Atraidos Pelo Destino (2026)	A	2026	/99OB0p7ah8wyTphLHrghSJXtmr5.jpg
+f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
+f	Atraídos Pelo Destino (2026)	A	2026	/99OB0p7ah8wyTphLHrghSJXtmr5.jpg
 f	Toy Story 5 (2026)	T	2026	/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg
+f	Corrida Contra o Tempo (2026)	C	2026	/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg
 f	Obsessao (2026)	O	2026	/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
-f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
-f	Céu em Fúria	C		/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
 f	Pinóquio: Maldição de Madeira	P		/wgO649swkzsI58q3ikpxYNvkwv7.jpg
 f	Minions & Monstros (2026)	M	2026	/hTowtXrkCY7FJyoj4p91JckrJSE.jpg
-f	O Confronto dos Thundermans (2026)	O	2026	/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg
-f	O Ultimo Nascer do Sol (2026)	O	2026	/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg
+f	Céu em Fúria (2026)	C	2026	/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
+f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
+f	O Último Nascer do Sol (2026)	O	2026	/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg
+f	Patrulha Canina: Uma Aventura Dino (2026)	P	2026	/zyQ0KOfyuTyBYHAQ7wl7XrrOBH2.jpg
 f	La Captura (2026)	L	2026	/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg
-f	Aguas Mortais (2026)	A	2026	/dWsw0X420R6ngEcVCkNlZ189Amr.jpg
-f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
+f	Águas Mortais (2026)	A	2026	/dWsw0X420R6ngEcVCkNlZ189Amr.jpg
 fila	Séries novas de 2026
-s	Lanternas	L		/wiF1C97GuJEOBSKWrtub517THjF.jpg
-s	Neagley: Detetive Particular	N		/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
-s	Monstro: A História de Lizzie Borden	M		/zeUdYvw2DKRsiabu2ptTaUlairp.jpg
-s	The Daily Life of a Part Time Torturer	T		/bDQVbF2zrLOrbbx3FQgI5MZb8IU.jpg
-s	Agents of the Four Seasons Dance of Spring	A		/s8kMT6SmeAt7HovSJWbgIEvjmdm.jpg
+s	Escândalo e Intriga	E		/fPXgwURa9dRRJDA8JzYT4K2aAaI.jpg
+s	Lanternas	L	2026	/wiF1C97GuJEOBSKWrtub517THjF.jpg
+s	Neagley: Detetive Particular	N	2026	/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
+s	Monstro: A História de Lizzie Borden	M	2026	/zeUdYvw2DKRsiabu2ptTaUlairp.jpg
 s	Against the Current	A		/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg
+s	O Segredo de Widow's Bay	O		/hazWZ75ml5Er3MQsFetIzoeWs99.jpg
+s	The Daily Life of a Part Time Torturer	T		/bDQVbF2zrLOrbbx3FQgI5MZb8IU.jpg
+s	Off Campus Amores Improvaveis	O	2026	/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg
+s	Agents of the Four Seasons Dance of Spring	A		/s8kMT6SmeAt7HovSJWbgIEvjmdm.jpg
 s	A Garota do Remo	A		/or4ITDqz0dnd3sN9nIwuUprsRhC.jpg
+s	Stuart Não Consegue Salvar o Universo	S	2026	/7kqLBWdtCSm3rs8zj38epC6jkjH.jpg
 s	Um Amor Diferente do Seu	U		/vvywxGVcFihxOWxXoAxECOQ20pi.jpg
-s	Off Campus Amores Improvaveis	O		/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg
-s	Stuart Nao Consegue Salvar o Universo	S		/7kqLBWdtCSm3rs8zj38epC6jkjH.jpg
-s	The Exiled Heavy Knight Knows How to Game the System	T		/flcyEjfwHECnqgXMGNZsajLg1rv.jpg
-s	Um Grude de Amor	U		/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg
 s	El juicio	E		/8tim2R1DnlLz5piMosrTc3JWuGo.jpg
 s	Aprendendo a Licao	A		/oXjXhXUzwlRevYcFapt1Q2R9WRF.jpg
-s	The Early Spring	T		/nhQS3j9GDWJj7u8BR7WaR4bTspo.jpg
+s	Um Grude de Amor	U		/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg
+s	The Exiled Heavy Knight Knows How to Game the System	T		/flcyEjfwHECnqgXMGNZsajLg1rv.jpg
+s	Stranger Things: Histórias de 85	S	2026	/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg
 s	Cidade de Sangue	C		/qKIQ1FO7D422UAY4Ib5vFel8Vy2.jpg
-s	Stranger Things Historias de 85	S		/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg
-s	Akane banashi	A		/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg
-s	Coracao Acelerado	C		/dwSw1affkj4DfdqkCfyhpSa4ueP.jpg
-s	Rancho Dutton	R		/aJVroxZZKReiSlASpODQ23qrdGa.jpg
+s	Route 187	R	2026	/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg
+s	The Early Spring	T		/nhQS3j9GDWJj7u8BR7WaR4bTspo.jpg
 fila	Animes
 a	Kevin		2026	/ryvkioE754XooFO16s9SZyHZulu.jpg
 a	Star Wars: Visions Apresenta — A Nona Jedi		2026	/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg
