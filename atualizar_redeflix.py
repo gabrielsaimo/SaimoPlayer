@@ -945,7 +945,7 @@ def main() -> int:
     if not args.gerar:
         result = {"modo": "somente sincronização"}
     elif args.em_ordem:
-        result = generate_em_ordem(movie_ids, collections, args)
+        result = generate_em_ordem(movies, collections, args)
     else:
         result = generate(movies, collections, args)
     atomic_write(OUTPUT / "ultima-execucao.json", json.dumps(result, ensure_ascii=False, indent=2) + "\n")
