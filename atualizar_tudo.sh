@@ -62,6 +62,13 @@ anotar() {
 
 anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || echo "tudo"))"
 
+# O agendamento roda numa cópia à parte (ver scripts/agendar_atualizacao.sh),
+# e o que for publicado de outro lugar — um script corrigido, um catálogo
+# rodado à mão — tem que chegar nela antes. --autostash porque esta mesma
+# linha roda na cópia onde se trabalha, que pode ter coisa por commitar.
+git pull -q --rebase --autostash origin main 2>>"$REGISTRO" \
+  || anotar "não deu para puxar do GitHub; seguindo com o que há aqui"
+
 if [ "$somente_destaques" = 0 ]; then
   anotar "resolvendo filmes e séries"
   python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96 \
