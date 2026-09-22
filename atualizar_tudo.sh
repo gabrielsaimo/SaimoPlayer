@@ -1,11 +1,20 @@
 #!/bin/bash
 #
-# Atualiza o catálogo e as fileiras da tela inicial, e publica.
+# Atualiza o catálogo inteiro e as fileiras da tela inicial, e publica.
 #
-# São dois scripts que precisam rodar nesta ordem: o `atualizar_redeflix.py`
-# resolve as fontes novas e grava em vod/redeflix, e o `gerar_destaques.py` lê
-# justamente esses arquivos para montar as fileiras de animes e doramas.
-# Invertido, ou separado, o segundo mostraria as novidades de ontem.
+# Cinco passos, nesta ordem, porque cada um lê o que o anterior escreveu:
+#
+#   1. atualizar_redeflix.py  filmes e séries novos do Redeflix (vod/redeflix)
+#   2. atualizar_redeflix.py  animes e doramas: episódios novos e títulos novos
+#   3. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
+#                             o Redeflix resolveu, sem perder os links antigos
+#   4. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
+#                             pergunta ao TMDB pelos que ainda não conhece
+#   5. gerar_destaques.py     as fileiras da tela inicial
+#
+# Até 21/09/2026 só o 1, o 2 e o 5 rodavam: os filmes e séries novos ficavam
+# resolvidos em vod/redeflix sem que app nenhum os lesse, anime novo nunca
+# entrava, e título novo ficava sem capa.
 #
 # O mesmo trabalho existe num workflow do GitHub, que roda sozinho de
 # madrugada. Enquanto a conta estiver travada por cobrança, este aqui faz o
@@ -64,6 +73,16 @@ if [ "$somente_destaques" = 0 ]; then
     --tentativas-indisponiveis 2 --delay-episodio 0.05 \
     --somente-titulos-publicados \
     >>"$REGISTRO" 2>&1 || anotar "animes e doramas: falhou, seguindo assim mesmo"
+
+  # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
+  # parar a atualização inteira por causa de uma lista M3U fora do ar.
+  anotar "montando o acervo (listas M3U + Redeflix)"
+  python3 gerar_vod.py >>"$REGISTRO" 2>&1 \
+    || { anotar "acervo: falhou, voltando ao publicado"; git checkout -q -- ":(glob)vod/*.txt"; }
+
+  anotar "capas e gêneros dos títulos novos"
+  python3 gerar_generos.py >>"$REGISTRO" 2>&1 \
+    || anotar "capas e gêneros: falhou, seguindo com as de ontem"
 fi
 
 # Esta não pode falhar calada: é ela que desenha a primeira tela de todo mundo.
@@ -73,8 +92,8 @@ if ! python3 gerar_destaques.py >>"$REGISTRO" 2>&1; then
   exit 1
 fi
 
-if ! git diff --quiet -- vod/redeflix vod/destaques.txt; then
-  anotar "mudou: $(git diff --stat -- vod/redeflix vod/destaques.txt | tail -1)"
+if [ -n "$(git status --porcelain -- vod)" ]; then
+  anotar "mudou: $(git add -N vod && git diff --stat -- vod | tail -1)"
 else
   anotar "nada mudou, nada a publicar"
   exit 0
@@ -85,9 +104,10 @@ if [ "$subir" = 0 ]; then
   exit 0
 fi
 
-# Só os arquivos do catálogo: o que mais estiver mexido na árvore é trabalho
-# seu, e não pode entrar de carona num commit automático.
-git add vod/redeflix vod/destaques.txt
+# Só a pasta do catálogo: o que mais estiver mexido na árvore é trabalho seu,
+# e não pode entrar de carona num commit automático. Pasta inteira porque o
+# acervo cria e apaga arquivos (uma letra nova, um pedaço de série a mais).
+git add -A vod
 if git diff --cached --quiet; then
   anotar "nada a commitar"
   exit 0
