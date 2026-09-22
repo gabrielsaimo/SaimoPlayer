@@ -80,7 +80,14 @@ done
 # gerar_embedplayer_filmes.py), que não existem ao lado da cópia interna. Ela
 # vai para o ambiente do agendamento; sem isso os filmes novos não resolvem.
 CHAVE_TMDB="$(cd "$ORIGEM" && python3 -c 'from gerar_embedplayer_filmes import discover_tmdb_key; print(discover_tmdb_key(""))' 2>/dev/null || true)"
-[ -n "$CHAVE_TMDB" ] || echo "aviso: chave do TMDB não encontrada; filmes novos não vão resolver"
+if [ -n "$CHAVE_TMDB" ]; then
+  # Também num arquivo da cópia (ignorado pelo git), para valer quando ela for
+  # rodada à mão, fora do agendamento.
+  printf '%s\n' "$CHAVE_TMDB" > "$RAIZ/arquivos-gerados/tmdb-chave.txt"
+  chmod 600 "$RAIZ/arquivos-gerados/tmdb-chave.txt"
+else
+  echo "aviso: chave do TMDB não encontrada; filmes novos não vão resolver"
+fi
 
 cat > "$PLIST" <<PLISTA
 <?xml version="1.0" encoding="UTF-8"?>
