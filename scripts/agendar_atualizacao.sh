@@ -76,6 +76,12 @@ for cache in redeflix generos.sqlite3 embedplayer-filmes embedplayer-series; do
   fi
 done
 
+# A chave do TMDB mora nos projetos vizinhos (ver discover_tmdb_key em
+# gerar_embedplayer_filmes.py), que não existem ao lado da cópia interna. Ela
+# vai para o ambiente do agendamento; sem isso os filmes novos não resolvem.
+CHAVE_TMDB="$(cd "$ORIGEM" && python3 -c 'from gerar_embedplayer_filmes import discover_tmdb_key; print(discover_tmdb_key(""))' 2>/dev/null || true)"
+[ -n "$CHAVE_TMDB" ] || echo "aviso: chave do TMDB não encontrada; filmes novos não vão resolver"
+
 cat > "$PLIST" <<PLISTA
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -106,6 +112,8 @@ cat > "$PLIST" <<PLISTA
   <dict>
     <key>PATH</key>
     <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>TMDB_API_KEY</key>
+    <string>$CHAVE_TMDB</string>
   </dict>
   <key>StandardOutPath</key>
   <string>$HOME/Library/Logs/SaimoTV/launchd.log</string>
