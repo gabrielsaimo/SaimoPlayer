@@ -3750,7 +3750,7 @@
 @Sandman	2022
 1	1	dub	https://embedplayer2.xyz/cdn/hls/82717cc36f88c923ab0e1be065edb93c/master.txt,7:1481440
 1	1	leg	7:1481417
-1	2	dub	7:1481441
+1	2	dub	https://embedplayer2.xyz/cdn/hls/d696beb2be4c01804c6db8e68253c399/master.txt,7:1481441
 1	2	leg	7:1481418
 1	3	dub	7:1481442
 1	3	leg	7:1481419

@@ -594,11 +594,11 @@
 1	12	dub	https://embedplayer2.xyz/cdn/hls/69295f026c46df4fa9065a8791d8222d/master.txt
 1	13	dub	https://embedplayer2.xyz/cdn/hls/b3f99acd180f317e5819f041d0ed311e/master.txt
 @Horimiya: Piece	2023
-1	1	dub	3:208437,11:2397532,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38417.mp4,9:208437
+1	1	dub	https://embedplayer2.xyz/cdn/hls/16680b77c01618736d40cf4f2926a3f3/master.txt,3:208437,11:2397532,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38417.mp4,9:208437
 1	1	leg	3:209853,11:2285422,9:209853
 1	2	dub	https://embedplayer2.xyz/cdn/hls/f97dd715150113c281287f6837ae0a0b/master.txt,3:208438,11:2397533,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38419.mp4,9:208438
 1	2	leg	3:209854,11:2285423,9:209854
-1	3	dub	3:208439,11:2397534,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38420.mp4,9:208439
+1	3	dub	https://embedplayer2.xyz/cdn/hls/b45ba9c1e1a88241795a5a3217e19d3c/master.txt,3:208439,11:2397534,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38420.mp4,9:208439
 1	3	leg	3:209855,11:2285424,9:209855
 1	4	dub	3:218951,11:2397535,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38421.mp4,9:218951
 1	4	leg	3:209856,11:2285425,9:209856

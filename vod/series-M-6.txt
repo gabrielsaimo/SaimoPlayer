@@ -1892,9 +1892,9 @@
 1	2	leg	3:303938,11:2289141,7:1454926,9:303938
 1	3	leg	3:303939,11:2289142,7:1454927,9:303939
 @Murder in a Small Town	2024
-1	1	dub	3:393296,11:2466232,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312826.mp4,7:1502375,9:393296
+1	1	dub	https://embedplayer2.xyz/cdn/hls/8f34355a7f409536a232a39c58b56323/master.txt,3:393296,11:2466232,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312826.mp4,7:1502375,9:393296
 1	1	leg	3:294751,11:2289135,9:294751
-1	2	dub	3:394258,11:2467243,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313810.mp4,7:1502609,9:394258
+1	2	dub	https://embedplayer2.xyz/cdn/hls/922ecaa8094010e8aa9ebdb5534153b7/master.txt,3:394258,11:2467243,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313810.mp4,7:1502609,9:394258
 1	2	leg	3:294752,11:2289136,9:294752
 1	3	dub	7:1503142
 1	3	leg	3:294753,11:2289137,9:294753
