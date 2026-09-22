@@ -979,7 +979,7 @@
 1	9	dub	3:335733,11:2182533,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/65346.mp4,7:1366753,9:335733
 1	10	dub	3:335734,11:2182534,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/65347.mp4,7:1366754,9:335734
 @Grimm	2011
-1	1	dub	3:11768,11:2210254,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10096.mp4,7:1321047,9:11768
+1	1	dub	https://embedplayer2.xyz/cdn/hls/e49b902d37bb51fcb5d4e75620ba5503/master.txt,3:11768,11:2210254,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10096.mp4,7:1321047,9:11768
 1	1	leg	7:1405887
 1	2	dub	https://embedplayer2.xyz/cdn/hls/67ef3d9fd79ad89d096ab1fdcf0c5e48/master.txt,3:11769,11:2210255,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/10098.mp4,7:1321048,9:11769
 1	2	leg	7:1405888
