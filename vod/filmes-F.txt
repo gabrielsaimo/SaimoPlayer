@@ -221,14 +221,14 @@ Febre do Rato (2012)	dub=6:1298335
 Febre em Ibiza	dub=2:357574,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15133.mp4,8:357574	leg=2:357573,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72433.mp4,8:357573
 Febre em Ibiza (2013)	dub=6:1314130
 Federal (2010)	dub=6:1300664
-Federer: Doze Últimos Dias	dub=10:2449826	leg=2:266647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72449.mp4,8:266647
-Federer: Doze Últimos Dias (2024)	leg=6:1305342
+Federer: Doze Últimos Dias (2024)	dub=https://embedplayer2.xyz/cdn/hls/2ec28acd3488c039cbfe7e698977b54b/master.txt,10:2449826	leg=6:1305342,2:266647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72449.mp4,8:266647
 Fedrelandet	leg=2:264119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72455.mp4,8:264119
 Fedrelandet (2023)	leg=6:1304963
 Fedro (2021)	dub=6:1299116
 Feed: O Terror está Online (2022)	dub=https://embedplayer2.xyz/cdn/hls/d2c7c97fee50737429acd9e8686cbd4b/master.txt,6:1309216,2:246547,10:2449985,10:2451845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48868.mp4,8:246547	leg=6:1309217,2:246548,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72460.mp4,8:246548
 Feel the Beat	dub=2:48184,10:2460943,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15137.mp4,8:48184
 Feel the Beat (2020)	dub=6:1308817
+Feet of Death (2024)	dub=https://embedplayer2.xyz/cdn/hls/7f9ff80037995e61f21833a0634c51ce/master.txt,https://embedplayer2.xyz/cdn/hls/322e4942dc888dd0578289017e09c293/master.txt
 Feios	dub=2:386154,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308266.mp4,8:386154,2:285812,10:2450073,10:2459019,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35840.mp4,8:285812	leg=2:285813,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72464.mp4,8:285813
 Feios (2024)	dub=6:1312089	leg=6:1312088
 Feira da Ladra	dub=2:373376,10:2444562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251715.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254744.mp4,8:373376
@@ -237,6 +237,7 @@ Feitico (2020)	dub=https://embedplayer2.xyz/cdn/hls/e380631fc7bac1ac15ef3cae72b6
 Feitico das Trevas (2021)	dub=6:1299080
 Feitiçaria (2024)	dub=https://embedplayer2.xyz/cdn/hls/18384a36fa17d71f4c2fde62689a4d39/master.txt,6:1311689,2:213952,10:2452337,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48864.mp4,8:213952	leg=6:1311690,2:213951,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72469.mp4,8:213951
 Feitiço das Trevas	dub=2:144070,10:2452017,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48873.mp4,8:144070	leg=2:144088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72485.mp4,8:144088
+Feitiço de Aniversário (2023)	dub=https://embedplayer2.xyz/cdn/hls/28db90033d2a4bb4ede1c57ae6eb43cd/master.txt
 Feitiço do Rio	dub=2:139239,10:2460144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15155.mp4,8:139239
 Feitiço do Rio (1984)	dub=6:1304286
 Feitiço do Tempo	dub=2:110815,10:2446818,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41987.mp4,8:110815
@@ -259,8 +260,7 @@ Felicidade é... (2024)	dub=6:1312309
 Felinos da Tailândia	dub=2:162353,2:162352,10:2452602,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72495.mp4,8:162353,8:162352
 Felinos da Tailândia (2021)	dub=6:1306885
 Felix E O Tesouro de Morga	dub=2:156691,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53091.mp4,8:156691
-Felix e o Tesouro de Morgan	dub=10:2446885
-Felix e o Tesouro de Morgan (2021)	dub=6:1299352
+Felix e o Tesouro de Morgan (2021)	dub=https://embedplayer2.xyz/cdn/hls/e733961d69feccd75b5470145b17c5e3/master.txt,6:1299352,10:2446885
 Felix, o Coelho de Brinquedo e a Máquina do Tempo	dub=2:311925,8:311925
 Felix, o Coelho de Brinquedo e a Máquina do Tempo (2006)	dub=6:1313054
 Felix, uma Volta ao Mundo (2005)	dub=6:1313055
@@ -338,6 +338,7 @@ Festival Eurovision da Canção: A Saga de Sigrit e Lars (2020)	dub=6:1308155
 Festival Sangrento (2018)	dub=https://embedplayer2.xyz/cdn/hls/4d1ede064ca6c43687e311e77fdc4fda/master.txt,6:1307865,2:63105,10:2460086,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15187.mp4,8:63105
 Festival da Morte (2018)	dub=https://embedplayer2.xyz/cdn/hls/3983a1f9d660598ecbca9fc73a8bc98b/master.txt
 Festival de Artes de Hazelton	dub=https://embedplayer2.xyz/cdn/hls/1b959d8e3703447200534c3ea14a123a/master.txt,2:368119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98797.mp4,8:368119
+Festival of the Living Dead (2024)	dub=https://embedplayer2.xyz/cdn/hls/e968912412f859c3d647173cbe27669b/master.txt,https://embedplayer2.xyz/cdn/hls/d64b6800294ab189402c9d94fe248336/master.txt
 Fetiches	dub=2:159955,10:2460985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15192.mp4,8:159955	leg=2:159954,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72557.mp4,8:159954
 Fetiches (2021)	dub=6:1306441	leg=6:1306442
 Fica Comigo (2017)	dub=6:1298366
@@ -415,7 +416,7 @@ Final Feliz	dub=2:216030,10:2460747,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Final Feliz (2018)	dub=6:1310613	leg=6:1310614
 Final Kill	leg=2:43825,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72634.mp4,8:43825
 Final Kill (2020)	leg=6:1308753
-Final Recovery	dub=10:2445241
+Final Recovery (2025)	dub=https://embedplayer2.xyz/cdn/hls/1fbd687e73416cb0c6f9c50000321acf/master.txt,https://embedplayer2.xyz/cdn/hls/b0117f89ffcbcdd68a7da138c6a53847/master.txt,10:2445241
 Finalmente Livres (2018)	dub=6:1303941
 Finalmente Você	leg=2:378011,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254651.mp4,8:378011
 Finch	dub=2:359665,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55905.mp4,8:359665,2:136756,10:2458706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35845.mp4,8:136756	leg=2:136790,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72633.mp4,8:136790
@@ -438,7 +439,7 @@ Fire Supply	dub=10:2449977	leg=2:322724,http://dbonline.tech-cdn.top:80/movie/ke
 Fireball	dub=2:382400,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306276.mp4,8:382400
 Firebrand	leg=2:284328,10:2450370,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72653.mp4,8:284328
 Firebrand (2024)	leg=6:1312022
-Firewall Seguranca em Risco (2006)	dub=6:1302181
+Firewall Seguranca em Risco (2006)	dub=https://embedplayer2.xyz/cdn/hls/f6fb49dcf08762ef408b8e6e4838a0e1/master.txt,6:1302181
 Fireworks	dub=https://embedplayer2.xyz/cdn/hls/1b962eec70f78f485b8d22d82b22e5a3/master.txt,10:2447390	leg=2:246944,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72667.mp4,8:246944
 First Cow	leg=2:62557,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72673.mp4,8:62557
 First Love: Descobrindo o Amor	dub=2:171341,10:2446459,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41997.mp4,8:171341	leg=2:171343,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72662.mp4,8:171343
@@ -573,6 +574,7 @@ Fora de Controle	dub=2:387608,2:369225,2:352263,2:341058,2:120653,10:2444308,10:
 Fora de Controle (2002)	dub=6:1303400
 Fora de Controle (2008)	dub=6:1311489
 Fora de Controle (2023)	dub=https://embedplayer2.xyz/cdn/hls/49df39fc229daec60057ca451628c7f3/master.txt,6:1313976	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301100.mp4
+Fora de Controle (2024)	dub=https://embedplayer2.xyz/cdn/hls/c043c55c6b967b3fd5222df207c7de9f/master.txt
 Fora de Controle (2025)	dub=https://embedplayer2.xyz/cdn/hls/deb7b268479c9b7984e748d782348c14/master.txt,6:1501283
 Fora de Mim (2024)	dub=https://embedplayer2.xyz/cdn/hls/64959a4130deda5bb501c1f0ca9f52b1/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300777.mp4,6:1312448,2:297087,2:296571,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55952.mp4,8:297087,8:296571,2:296497,10:2447424,10:2455785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26214.mp4,8:296497	leg=6:1312447,2:296498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72819.mp4,8:296498
 Fora de Sincronia	dub=2:320254,10:2448399,10:2456337,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26223.mp4,8:320254	leg=2:320253,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72831.mp4,8:320253

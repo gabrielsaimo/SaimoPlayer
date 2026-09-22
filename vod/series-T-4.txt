@@ -1782,16 +1782,16 @@
 1	11	dub	3:352642,11:2391052,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/42030.mp4,9:352642
 1	12	dub	3:352643,11:2391053,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/42031.mp4,9:352643
 @The Society	2019
-1	1	dub	7:1326268
-1	2	dub	7:1326269
-1	3	dub	7:1326270
-1	4	dub	7:1326271
-1	5	dub	7:1326272
+1	1	dub	https://embedplayer2.xyz/cdn/hls/b352895328e3abd4169a334977edde4c/master.txt,7:1326268
+1	2	dub	https://embedplayer2.xyz/cdn/hls/0fbba2300f278da843588f6f963f3f19/master.txt,7:1326269
+1	3	dub	https://embedplayer2.xyz/cdn/hls/a30bda9831cbd118b5dcffe2c86d1643/master.txt,7:1326270
+1	4	dub	https://embedplayer2.xyz/cdn/hls/769d0db5f7d0e0bc4006a65bf3d6cc0a/master.txt,7:1326271
+1	5	dub	https://embedplayer2.xyz/cdn/hls/52be521ea69cc396854897582e069746/master.txt,7:1326272
 1	6	dub	https://embedplayer2.xyz/cdn/hls/6d1c3cd7b5cdc58f0ff9e178bb40d3e2/master.txt,7:1326273
-1	7	dub	7:1326274
-1	8	dub	7:1326275
-1	9	dub	7:1326276
-1	10	dub	7:1326277
+1	7	dub	https://embedplayer2.xyz/cdn/hls/1309d535ebec696d1a9aa0ce3e8d6b4b/master.txt,7:1326274
+1	8	dub	https://embedplayer2.xyz/cdn/hls/eb12d70ed1b1f0388b4c0ac05d1e23f9/master.txt,7:1326275
+1	9	dub	https://embedplayer2.xyz/cdn/hls/7b437110b49424c6bcc8925e5f948bc4/master.txt,7:1326276
+1	10	dub	https://embedplayer2.xyz/cdn/hls/dd347188b894e3a331bf4e3065fbb907/master.txt,7:1326277
 @The Son
 1	1	dub	3:24034,11:2201359,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/23905.mp4,7:1368053,9:24034
 1	2	dub	3:24035,11:2201360,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/23907.mp4,7:1368054,9:24035

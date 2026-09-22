@@ -69,12 +69,12 @@
 1	7	leg	3:239067,11:2194803,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/83369.mp4,9:239067
 1	8	leg	3:239068,11:2194804,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/83370.mp4,9:239068
 @Indomavel	2025
-1	1	dub	3:335394,11:2232450,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143440.mp4,7:1483321,9:335394
-1	2	dub	3:335395,11:2232451,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143441.mp4,7:1483322,9:335395
+1	1	dub	https://embedplayer2.xyz/cdn/hls/80567660d05a361e268d117ad5bd36c8/master.txt,3:335394,11:2232450,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143440.mp4,7:1483321,9:335394
+1	2	dub	https://embedplayer2.xyz/cdn/hls/42ec1d03a80c8609f241897b628a8302/master.txt,3:335395,11:2232451,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143441.mp4,7:1483322,9:335395
 1	3	dub	https://embedplayer2.xyz/cdn/hls/f9a496f59b397bfcf76e000ec57d3f08/master.txt,3:335396,11:2232452,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143442.mp4,7:1483323,9:335396
-1	4	dub	3:335397,11:2232453,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143443.mp4,7:1483324,9:335397
-1	5	dub	3:335398,11:2232454,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143444.mp4,7:1483325,9:335398
-1	6	dub	3:335399,11:2232455,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143445.mp4,7:1483326,9:335399
+1	4	dub	https://embedplayer2.xyz/cdn/hls/34fcf0a52871817bf36744b6b3b71191/master.txt,3:335397,11:2232453,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143443.mp4,7:1483324,9:335397
+1	5	dub	https://embedplayer2.xyz/cdn/hls/593c208cf91b9a8b2109a0392a128f2b/master.txt,3:335398,11:2232454,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143444.mp4,7:1483325,9:335398
+1	6	dub	https://embedplayer2.xyz/cdn/hls/7f75c4828a03a844899a1910084b2ebe/master.txt,3:335399,11:2232455,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143445.mp4,7:1483326,9:335399
 @Industry	2020
 1	1	dub	3:89302,11:2128691,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/122154.mp4,7:1360794,9:89302
 1	2	dub	https://embedplayer2.xyz/cdn/hls/fb7ddd37ff9d1a643dd603eeb9235c4e/master.txt,3:89303,11:2128692,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/122155.mp4,7:1360795,9:89303

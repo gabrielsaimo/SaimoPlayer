@@ -4763,12 +4763,12 @@
 1	4	dub	11:2136301
 @Fúria	2026
 1	1	dub	3:389683,3:388656,11:2468912,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310005.mp4,9:389683,9:388656
-1	2	dub	3:389692,3:388763,11:2468913,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310140.mp4,9:389692,9:388763
+1	2	dub	https://embedplayer2.xyz/cdn/hls/f25c7746f0ddf2d4410232b97837a26a/master.txt,3:389692,3:388763,11:2468913,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310140.mp4,9:389692,9:388763
 1	3	dub	3:389693,3:388764,11:2468914,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310141.mp4,9:389693,9:388764
 1	4	dub	https://embedplayer2.xyz/cdn/hls/2a0b093f904526b201b4b6b67779bae1/master.txt,3:390391,3:389694,11:2468915,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310780.mp4,9:390391,9:389694
-1	5	dub	3:391722,3:389695,11:2468916,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310781.mp4,9:391722,9:389695
+1	5	dub	https://embedplayer2.xyz/cdn/hls/3baf51025004d70badc7c8a073d0ce2f/master.txt,3:391722,3:389695,11:2468916,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310781.mp4,9:391722,9:389695
 1	6	dub	3:392776,3:389696,11:2468917,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/310782.mp4,9:392776,9:389696
-1	7	dub	3:393877,11:2468924,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313458.mp4,7:1502703,9:393877
+1	7	dub	https://embedplayer2.xyz/cdn/hls/e3436e0323881a73b092fc71659f891b/master.txt,3:393877,11:2468924,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313458.mp4,7:1502703,9:393877
 1	7	leg	7:1502704
-1	8	dub	3:394751,11:2468925,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314729.mp4,7:1502971,9:394751
+1	8	dub	https://embedplayer2.xyz/cdn/hls/b0cdbb479e90870f26793bddec6c8999/master.txt,3:394751,11:2468925,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314729.mp4,7:1502971,9:394751
 1	8	leg	7:1502972

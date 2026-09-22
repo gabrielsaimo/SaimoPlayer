@@ -158,6 +158,7 @@ King Kong	dub=2:100421,10:2457416,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 King Kong (1933)	dub=6:1300078
 King Kong (2005)	dub=6:1301269
 King Richard: Criando Campeas (2021)	dub=https://embedplayer2.xyz/cdn/hls/91bca006163a5876e9e20201e114c25e/master.txt,6:1299091,2:144387,10:2455554,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27212.mp4,8:144387	leg=2:161509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76407.mp4,8:161509
+King of Dallas (2024)	dub=https://embedplayer2.xyz/cdn/hls/faef8076982e19638fef8793905c239e/master.txt,https://embedplayer2.xyz/cdn/hls/5c46c0f4e39398dbb0e72e8c71acbf89/master.txt
 King of Fighters: A Batalha Final	dub=10:2454110
 King of Fighters: A Batalha Final (2009)	dub=6:1307757
 King of the Apocalypse	dub=10:2447566	leg=2:317090,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76396.mp4,8:317090
@@ -165,8 +166,7 @@ King's Man: A Origem (2021)	dub=https://embedplayer2.xyz/cdn/hls/abf96020f81b8a0
 King: O Rei da Selva (2005)	leg=6:1312758
 Kingdom	leg=2:344530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76412.mp4,8:344530
 Kingdom (2025)	leg=6:1313840
-Kingdom 3: A Chama do Destino	leg=2:251926,10:2447093,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76417.mp4,8:251926
-Kingdom 3: A Chama do Destino (2023)	leg=6:1309338
+Kingdom 3: A Chama do Destino (2023)	dub=https://embedplayer2.xyz/cdn/hls/d7c335a069ffc72a3ecbe325354e9393/master.txt	leg=6:1309338,2:251926,10:2447093,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76417.mp4,8:251926
 Kingdom IV Return of the Great General	leg=2:305221,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76422.mp4,8:305221
 Kingdom: Ashin of the North (2021)	dub=6:1298606
 Kingdom: Reino Ashin do Norte	dub=2:113024,10:2457575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27203.mp4,8:113024

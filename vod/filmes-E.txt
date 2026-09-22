@@ -171,8 +171,7 @@ Ei Arnold! Na Selva: O Filme	dub=10:2459953
 Ei Arnold! Na Selva: O Filme (2018)	dub=6:1307731
 Eiffel	dub=2:151973,10:2446693,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41962.mp4,8:151973	leg=2:151972,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70941.mp4,8:151972
 Eiffel (2021)	dub=6:1306172	leg=6:1306173
-Eike: Tudo ou Nada	dub=2:180629,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70957.mp4,8:180629
-Eike: Tudo ou Nada (2022)	dub=6:1300515
+Eike: Tudo ou Nada (2022)	dub=https://embedplayer2.xyz/cdn/hls/5695af81bef1f89c0f6ad1aa67e38024/master.txt,6:1300515,2:180629,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70957.mp4,8:180629
 Eileen	dub=https://embedplayer2.xyz/cdn/hls/de0af2df3cd4212046bd88842f86bc9d/master.txt,10:2448152	leg=2:246185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70952.mp4,8:246185
 Einstein e a Bomba	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55688.mp4,8:249899,2:247940,10:2449102,10:2452747,8:247940	leg=2:247941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70947.mp4,8:247941
 Einstein e a Bomba (2024)	dub=6:1309610	leg=6:1309611
@@ -291,7 +290,7 @@ Eli Manning apresenta: Os Infiltrados - Donovan Mitchell	leg=2:377094,http://dbo
 Elio (2025)	dub=https://embedplayer2.xyz/cdn/hls/373fc8eb490c214f3d535bd3c6ec050f/master.txt,6:1313824,2:343944,10:2445526,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9416.mp4,8:343944	leg=6:1313823,2:343943,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71090.mp4,8:343943
 Elis & Eu	dub=2:394163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313399.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313416.mp4,8:394163
 Elis & Eu (2026)	dub=10:2466129
-Elis & Tom - Só Tinha de Ser com Você	dub=10:2453052
+Elis & Tom: Só Tinha de Ser com Você (2023)	dub=https://embedplayer2.xyz/cdn/hls/fe815a7a1a899ae896ad8939c6e4485c/master.txt,10:2453052
 Elis (2016)	dub=6:1300297
 Elis e Tom So Tinha de Ser com Voce	dub=2:229149,8:229149
 Elis e Tom So Tinha de Ser com Voce (2023)	dub=6:1302861
@@ -357,8 +356,7 @@ Em Busca da Liberdade	dub=2:371877,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Em Busca da Liberdade (2016)	dub=6:1303753
 Em Busca da Verdade	dub=https://embedplayer2.xyz/cdn/hls/c0044eec1bb270d138def64e6f802bbc/master.txt,2:371879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250814.mp4,8:371879	leg=2:371878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250468.mp4,8:371878
 Em Busca da Verdade: A História de Amanda Knox	dub=10:2444512
-Em Busca da Vitória	dub=2:370335,2:30386,10:2453753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3483.mp4,8:370335,8:30386	leg=2:370334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249219.mp4,8:370334
-Em Busca da Vitória (2019)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251419.mp4,6:1308535,6:1314379
+Em Busca da Vitória (2019)	dub=https://embedplayer2.xyz/cdn/hls/a2182aa07f34004bf7dadfa72c44333d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251419.mp4,6:1308535,6:1314379,2:370335,2:30386,10:2453753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3483.mp4,8:370335,8:30386	leg=2:370334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249219.mp4,8:370334
 Em Busca de 'Ohana (2021)	dub=6:1308654
 Em Busca de Agnes (2020)	leg=6:1308920
 Em Busca de Carlos Zéfiro	dub=2:343034,10:2453050,8:343034
@@ -435,7 +433,7 @@ Em Nome da Lei (2016)	dub=6:1310259
 Em Nome da Razão	dub=2:340433,10:2452647,8:340433
 Em Nome do Pai	dub=2:128505,2:100441,10:2454246,10:2457738,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3491.mp4,8:128505,8:100441	leg=2:128534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71194.mp4,8:128534
 Em Nome do Pai (1993)	dub=6:1298451
-Em Nome do Pai (2020)	dub=6:1305230	leg=6:1305231
+Em Nome do Pai (2020)	dub=https://embedplayer2.xyz/cdn/hls/a7cbe140f30b4eefd27480aaa151863b/master.txt,6:1305230	leg=6:1305231
 Em Nome do Rei 2: Entre Dois Mundos	dub=2:376313,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253409.mp4,8:376313	leg=2:376312,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253425.mp4,8:376312
 Em Outra Vida	dub=2:133077,10:2446552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41913.mp4,8:133077
 Em Outra Vida (2014)	dub=6:1302299
@@ -492,7 +490,7 @@ Embattled Dias de Luta (2020)	dub=6:1301424
 Emblema da Fe	dub=2:20976,10:2451289,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40780.mp4,8:20976
 Emboscada	dub=https://embedplayer2.xyz/cdn/hls/676f2c93f5a89ba71226f8b84edc482e/master.txt,2:265415,2:148610,10:2447341,10:2453904,10:2457977,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3507.mp4,8:265415,8:148610	leg=2:265416,2:148612,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71261.mp4,8:265416,8:148612
 Emboscada (2009)	dub=6:1301196
-Emboscada (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300814.mp4,6:1299204
+Emboscada (2022)	dub=https://embedplayer2.xyz/cdn/hls/a8e50b49c239e69bb3388a7bd9a1ccda/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300814.mp4,6:1299204
 Emboscada (2023)	dub=https://embedplayer2.xyz/cdn/hls/676f2c93f5a89ba71226f8b84edc482e/master.txt,6:1305111	leg=6:1305112
 Embriagado de Amor (2002)	dub=https://embedplayer2.xyz/cdn/hls/8feda21d136ee2947cfbfd5a6a6a87ed/master.txt,6:1311267,2:355720,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41937.mp4,8:355720	leg=6:1311268,2:355719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71271.mp4,8:355719
 Emergencia (2022)	dub=6:1299455
@@ -799,7 +797,7 @@ Era Uma Vez Em Staten Island (2021)	dub=https://embedplayer2.xyz/cdn/hls/10d4333
 Era Uma Vez Eu, Verônica	dub=2:321265,10:2456758,8:321265
 Era Uma Vez Minha Mãe	dub=2:384479,10:2444533,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307255.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307348.mp4,8:384479	leg=2:384478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307284.mp4,8:384478
 Era Uma Vez Na Minha Vida	dub=2:336135,10:2448291,10:2456063,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25816.mp4,8:336135	leg=2:336134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71685.mp4,8:336134
-Era Uma Vez Um Conto de Fadas (2022)	dub=6:1299498
+Era Uma Vez Um Conto de Fadas (2022)	dub=https://embedplayer2.xyz/cdn/hls/4c88951faf89d2244b99faaaf45a7cc8/master.txt,6:1299498
 Era Uma Vez Um Principe	dub=2:22485,10:2446604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41957.mp4,8:22485
 Era Uma Vez Um Principe (2018)	dub=6:1304171
 Era Uma Vez Um Sonho (2020)	dub=6:1298350
@@ -920,8 +918,7 @@ Espada de Deus A Última Cruzada	dub=2:87101,10:2451812,http://dbonline.tech-cdn
 Espada de Deus: A Ultima Cruzada (2020)	dub=6:1303489
 Espangles (2004)	dub=6:1303056
 Espanglês	dub=2:391901,2:388683,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310018.mp4,8:391901,8:388683	leg=2:388682,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310028.mp4,8:388682
-Espantalho	dub=2:100942,10:2452262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48711.mp4,8:100942
-Espantalho (2011)	dub=6:1308343
+Espantalho (2011)	dub=https://embedplayer2.xyz/cdn/hls/2d136d2c7d44760deec9e14339edab3b/master.txt,6:1308343,2:100942,10:2452262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48711.mp4,8:100942
 Espantosa e Horrorosa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55769.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14991.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71802.mp4
 Espartalhoes	dub=2:20608,10:2460158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14999.mp4,8:20608
 Espartalhões (2008)	dub=6:1311056
@@ -944,7 +941,7 @@ Espelhos do Medo (2008)	dub=6:1304277
 Esperando Pela Chuva	dub=2:192088,10:2446922,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41973.mp4,8:192088	leg=2:192101,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71810.mp4,8:192101
 Esperando Pela Chuva (2021)	dub=6:1301203
 Esperando os Barbaros (2019)	dub=https://embedplayer2.xyz/cdn/hls/d510229c174a82ba92eabd9aa0520403/master.txt,6:1298566,2:378044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255372.mp4,8:378044	leg=2:378043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255385.mp4,8:378043
-Esperando por Voce (2016)	dub=6:1299353
+Esperando por Voce (2016)	dub=https://embedplayer2.xyz/cdn/hls/47e088108f8b1912885ea8b62e3d1d00/master.txt,6:1299353
 Espero Tua Revolta (2019)	dub=6:1301858
 Espero Tua volta	dub=2:333431,10:2453130,8:333431
 Espero que Esta te Encontre e que Estejas Bem	dub=2:384206,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307325.mp4,8:384206
@@ -1038,6 +1035,7 @@ Essa e Minha Vida (2013)	dub=6:1302297
 Essas Garotas (1988)	dub=6:1304378
 Essas Garotas!	dub=2:138897,10:2460157,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15047.mp4,8:138897
 Esse Ano Vai (2020)	dub=6:1299709
+Esse Ano Vai (2021)	dub=https://embedplayer2.xyz/cdn/hls/84b4eb5976e5ac5ca4cfc71e644b442f/master.txt
 Esse Jogo É Para Dois (2001)	dub=6:1311984	leg=6:1311983
 Esse Jogo é Para Três (2007)	dub=6:1311986	leg=6:1311985
 Esse é o Meu Lugar	dub=2:239789,10:2450113,10:2457466,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25840.mp4,8:239789	leg=2:239790,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71872.mp4,8:239790
@@ -1084,7 +1082,7 @@ Estou Pensando em Acabar com Tudo (2020)	dub=6:1307993
 Estrada Florestal 825	dub=https://embedplayer2.xyz/cdn/hls/b71e8780c5fe2a9ffe9a8377fd484285/master.txt,2:349684,10:2445284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48749.mp4,8:349684	leg=2:349683,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71913.mp4,8:349683
 Estrada Maldita (2007)	dub=6:1299666
 Estrada Maldita (2019)	dub=6:1298631
-Estrada Mortal (2018)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251421.mp4
+Estrada Mortal (2018)	dub=https://embedplayer2.xyz/cdn/hls/d8ebb12651899f9beebcbd650af76ddb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251421.mp4
 Estrada Para a Glória	dub=2:151978,10:2455001,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25881.mp4,8:151978
 Estrada Para o Natal	dub=2:31897,10:2446714,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39830.mp4,8:31897
 Estrada Para o Natal (2018)	dub=6:1308238
@@ -1223,8 +1221,7 @@ Eu Sou a Vingança	dub=2:184073,10:2453744,http://dbonline.tech-cdn.top:80/movie
 Eu Sou a Vingança (2018)	dub=6:1303760
 Eu Sou o Número Quatro (2011)	dub=https://embedplayer2.xyz/cdn/hls/13748f5745915e23ff225de4c6f520ec/master.txt,6:1305092,2:198529,10:2454357,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3618.mp4,8:198529
 Eu Sou o Segredo em Seu Coração	dub=10:2449686	leg=2:301059,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72020.mp4,8:301059
-Eu Sou: Celine Dion	dub=10:2447679	leg=2:267698,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72015.mp4,8:267698
-Eu Sou: Celine Dion (2024)	leg=6:1311455
+Eu Sou: Celine Dion (2024)	dub=https://embedplayer2.xyz/cdn/hls/2cd908cbb0aad0b9c248d55fe490c8c6/master.txt,10:2447679	leg=6:1311455,2:267698,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72015.mp4,8:267698
 Eu Só Posso Imaginar	dub=2:108285,10:2450639,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40800.mp4,8:108285
 Eu Só Posso Imaginar 2	dub=https://embedplayer2.xyz/cdn/hls/0a50f1a38add1a8352f9fa1a86b8a71d/master.txt,2:377994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254579.mp4,8:377994,2:377815,10:2444606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254309.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254748.mp4,8:377815	leg=2:377814,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254649.mp4,8:377814
 Eu Te Amo	dub=10:2461784,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15090.mp4
