@@ -39,6 +39,12 @@ ORIGENS = [
 # Servidores fora do ar para todos, sem publicar app: os links deles não entram
 # no catálogo. Para voltar, tire daqui e rode o script de novo.
 DESATIVADOS = ["up.kiwi", "hubby.cx"]
+# Servidores das fontes resolvidas por id (Redeflix). São as únicas que o
+# acervo publicado guarda e as listas M3U não trazem de volta, então são as
+# únicas preservadas de uma montagem para a outra. Endereço inteiro de outro
+# servidor vem de lista M3U e vive ou morre com ela — preservá-lo manteria
+# link morto no acervo para sempre.
+RESOLVIDOS_POR_ID = ("embedplayer",)
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
 
@@ -170,6 +176,13 @@ def bases_publicadas():
     return publicadas
 
 
+def resolvido_por_id(url):
+    if not url.startswith("http"):
+        return False
+    servidor = url.split("://", 1)[-1].split("/", 1)[0].lower()
+    return any(marca in servidor for marca in RESOLVIDOS_POR_ID)
+
+
 def links_diretos_de_filmes(caminhos):
     """Endereços inteiros ("https://...") de cada filme, em arquivos no formato
     do acervo: "Título (ano)\tdub=url,url\tleg=url".
@@ -190,7 +203,7 @@ def links_diretos_de_filmes(caminhos):
             for campo in campos[1:]:
                 versao, _, urls = campo.partition("=")
                 if versao in ("dub", "leg"):
-                    diretos[versao] += [u for u in urls.split(",") if u.startswith("http")]
+                    diretos[versao] += [u for u in urls.split(",") if resolvido_por_id(u)]
             # Sem endereço inteiro não há o que preservar: o título vive ou
             # morre pelas listas M3U, como sempre.
             if not any(diretos.values()):
@@ -229,7 +242,7 @@ def links_diretos_de_series(caminhos):
                 alvo = (int(campos[0]), int(campos[1]), campos[2] or "dub")
             except ValueError:
                 continue
-            urls = [u for u in campos[3].split(",") if u.startswith("http")]
+            urls = [u for u in campos[3].split(",") if resolvido_por_id(u)]
             if not urls:
                 continue
             # Só vira série quem tem ao menos um episódio com endereço inteiro.
@@ -354,9 +367,9 @@ def main():
     # seriam dois títulos. O endereço desempata — se ele já mora num filme, é
     # aquele filme.
     onde_mora_f = {u: k for k, r in filmes.items() for v in r["versoes"].values() for u in v
-                   if u.startswith("http")}
+                   if resolvido_por_id(u)}
     onde_mora_s = {u: k for k, r in series.items() for v in r["eps"].values() for u in v
-                   if u.startswith("http")}
+                   if resolvido_por_id(u)}
     diretos_filmes = links_diretos_de_filmes([redeflix / "links-filmes.txt"])
     diretos_series = links_diretos_de_series([redeflix / "links-series.txt"])
     for k, direto in diretos_filmes.items():
@@ -377,6 +390,46 @@ def main():
             else:
                 novas_series += 1
         somar_serie(k, direto)
+    # O mesmo título com e sem ano: a lista M3U escreve "1 Contra Todos", o
+    # Redeflix "1 Contra Todos (2016)". Pelo nome seriam dois — e seria assim
+    # a cada montagem, porque os dois continuam vindo. Quando o sem ano tem um
+    # único irmão com ano, e esse irmão traz fonte resolvida por id (ou seja,
+    # o ano veio do TMDB, não de um palpite), os dois são o mesmo título. Com
+    # dois irmãos com ano não há como saber de qual refilmagem é: ficam como
+    # estão.
+    def juntar_sem_ano(colecao, campo):
+        com_ano = defaultdict(list)
+        for k in colecao:
+            if "|" in k:
+                com_ano[k.split("|", 1)[0]].append(k)
+        juntados = 0
+        for k in [k for k in colecao if "|" not in k]:
+            irmaos = com_ano.get(k, [])
+            if len(irmaos) != 1:
+                continue
+            irmao = colecao[irmaos[0]]
+            if not any(resolvido_por_id(u) for v in irmao[campo].values() for u in v):
+                continue
+            for alvo, urls in colecao.pop(k)[campo].items():
+                irmao[campo][alvo] += [u for u in urls if u not in irmao[campo][alvo]]
+            juntados += 1
+        return juntados
+
+    juntados = juntar_sem_ano(filmes, "versoes") + juntar_sem_ano(series, "eps")
+
+    # Fonte resolvida por id sempre na frente, na ordem em que chegou. Sem esta
+    # regra a ordem dependeria de por onde a fonte entrou nesta montagem, e o
+    # acervo mudaria a cada rodada sem ter mudado nada.
+    def na_frente(lista):
+        return [u for u in lista if resolvido_por_id(u)] + [u for u in lista if not resolvido_por_id(u)]
+
+    for registro in filmes.values():
+        for versao in registro["versoes"]:
+            registro["versoes"][versao] = na_frente(registro["versoes"][versao])
+    for registro in series.values():
+        for alvo in registro["eps"]:
+            registro["eps"][alvo] = na_frente(registro["eps"][alvo])
+    print(f"títulos com e sem ano juntados: {juntados}")
     print(f"links diretos já publicados: {len(publicados_f)} filmes, {len(publicados_s)} séries")
     print(f"Redeflix: {len(diretos_filmes)} filmes ({novos_filmes} novos no acervo) | "
           f"{len(diretos_series)} séries ({novas_series} novas no acervo)")
