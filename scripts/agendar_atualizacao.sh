@@ -11,10 +11,19 @@
 #   ./scripts/agendar_atualizacao.sh --tirar    desliga
 #   ./scripts/agendar_atualizacao.sh --ver      diz se está ligado e quando rodou
 #
-# Para acompanhar: tail -f arquivos-gerados/atualizacao.log
+# Quem roda às 5h é uma cópia do repositório no disco interno, em
+# ~/Library/Application Support/SaimoTV/SaimoPlayer, e não esta aqui. O macOS
+# não deixa processo de fundo ler arquivo em disco externo ("Operation not
+# permitted"), e por isso nenhuma rodada das 5h aconteceu de fato até 21/09 —
+# todas as linhas do registro eram de rodadas manuais. A cópia é criada e
+# recebe os caches daqui na primeira vez; depois ela mesma se atualiza pelo
+# git antes de cada rodada.
+#
+# Para acompanhar: tail -f ~/Library/Application\ Support/SaimoTV/SaimoPlayer/arquivos-gerados/atualizacao.log
 set -euo pipefail
 cd "$(dirname "$0")/.."
-RAIZ="$(pwd)"
+ORIGEM="$(pwd)"
+RAIZ="$HOME/Library/Application Support/SaimoTV/SaimoPlayer"
 
 ETIQUETA="dev.saimo.atualizar-catalogo"
 PLIST="$HOME/Library/LaunchAgents/$ETIQUETA.plist"
@@ -38,9 +47,9 @@ case "${1:-}" in
     else
       echo "desligado"
     fi
-    if [ -f arquivos-gerados/atualizacao.log ]; then
+    if [ -f "$RAIZ/arquivos-gerados/atualizacao.log" ]; then
       echo "últimas linhas:"
-      grep -E "^\[" arquivos-gerados/atualizacao.log | tail -5
+      grep -E "^\[" "$RAIZ/arquivos-gerados/atualizacao.log" | tail -5
     fi
     exit 0
     ;;
@@ -48,7 +57,24 @@ case "${1:-}" in
   *) echo "opção desconhecida: $1" >&2; exit 2 ;;
 esac
 
-mkdir -p "$HOME/Library/LaunchAgents" "$RAIZ/arquivos-gerados"
+mkdir -p "$HOME/Library/LaunchAgents" "$HOME/Library/Logs/SaimoTV"
+
+if [ ! -d "$RAIZ/.git" ]; then
+  echo "criando a cópia de trabalho em $RAIZ"
+  mkdir -p "$(dirname "$RAIZ")"
+  git clone -q "$(git -C "$ORIGEM" remote get-url origin)" "$RAIZ"
+fi
+mkdir -p "$RAIZ/arquivos-gerados"
+# Os caches são o que torna a rodada curta: sem eles o resolvedor pergunta de
+# novo por duzentos e tantos mil episódios. Vão uma vez; depois cada cópia
+# cuida do seu.
+for cache in redeflix generos.sqlite3 embedplayer-filmes embedplayer-series; do
+  if [ -e "$ORIGEM/arquivos-gerados/$cache" ] && [ ! -e "$RAIZ/arquivos-gerados/$cache" ]; then
+    echo "copiando o cache $cache"
+    cp -R "$ORIGEM/arquivos-gerados/$cache" "$RAIZ/arquivos-gerados/"
+    rm -f "$RAIZ/arquivos-gerados/$cache/execucao.lock"
+  fi
+done
 
 cat > "$PLIST" <<PLISTA
 <?xml version="1.0" encoding="UTF-8"?>
@@ -57,12 +83,18 @@ cat > "$PLIST" <<PLISTA
 <dict>
   <key>Label</key>
   <string>$ETIQUETA</string>
+  <!--
+    Nada que o launchd precise abrir sozinho pode morar no disco externo: com
+    WorkingDirectory e o log apontando para lá, ele desistia antes de começar
+    (saída 78, EX_CONFIG) e nenhuma rodada das 5h aconteceu de fato. Quem entra
+    no disco é o bash, depois de já estar rodando — e o atualizar_tudo.sh faz o
+    próprio cd.
+  -->
   <key>ProgramArguments</key>
   <array>
+    <string>/bin/bash</string>
     <string>$RAIZ/atualizar_tudo.sh</string>
   </array>
-  <key>WorkingDirectory</key>
-  <string>$RAIZ</string>
   <key>StartCalendarInterval</key>
   <dict>
     <key>Hour</key><integer>$HORA</integer>
@@ -76,9 +108,9 @@ cat > "$PLIST" <<PLISTA
     <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
   </dict>
   <key>StandardOutPath</key>
-  <string>$RAIZ/arquivos-gerados/launchd.log</string>
+  <string>$HOME/Library/Logs/SaimoTV/launchd.log</string>
   <key>StandardErrorPath</key>
-  <string>$RAIZ/arquivos-gerados/launchd.log</string>
+  <string>$HOME/Library/Logs/SaimoTV/launchd.log</string>
   <key>RunAtLoad</key>
   <false/>
 </dict>
