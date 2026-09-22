@@ -23,6 +23,9 @@
 #
 #   ./atualizar_tudo.sh              tudo: fontes novas e fileiras
 #   ./atualizar_tudo.sh --destaques  só as fileiras (rápido, uns dois minutos)
+#   ./atualizar_tudo.sh --completo   varre a lista inteira do Redeflix: tenta de
+#                                    novo todo filme e episódio indisponível ou
+#                                    com erro, de todo título (horas, não minutos)
 #   ./atualizar_tudo.sh --sem-subir  faz, mostra, mas não commita nem empurra
 #
 # Sem terminal nenhum, todo dia: ver `scripts/agendar_atualizacao.sh`.
@@ -34,10 +37,12 @@ TRAVA="arquivos-gerados/atualizacao.lock"
 mkdir -p arquivos-gerados
 
 somente_destaques=0
+completo=0
 subir=1
 for argumento in "$@"; do
   case "$argumento" in
     --destaques) somente_destaques=1 ;;
+    --completo) completo=1 ;;
     --sem-subir) subir=0 ;;
     *) echo "opção desconhecida: $argumento" >&2; exit 2 ;;
   esac
@@ -60,7 +65,7 @@ anotar() {
   printf '[%s] %s\n' "$(date '+%d/%m %H:%M:%S')" "$*" | tee -a "$REGISTRO"
 }
 
-anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || echo "tudo"))"
+anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || { [ $completo = 1 ] && echo "varredura completa" || echo "tudo"; }))"
 
 # O agendamento roda numa cópia à parte (ver scripts/agendar_atualizacao.sh),
 # e o que for publicado de outro lugar — um script corrigido, um catálogo
@@ -69,7 +74,16 @@ anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || ech
 git pull -q --rebase --autostash origin main 2>>"$REGISTRO" \
   || anotar "não deu para puxar do GitHub; seguindo com o que há aqui"
 
-if [ "$somente_destaques" = 0 ]; then
+if [ "$somente_destaques" = 0 ] && [ "$completo" = 1 ]; then
+  # Uma passada só, as quatro categorias, sem --somente-titulos-publicados:
+  # todo título, todo indisponível e todo erro de novo. O que já foi
+  # encontrado não é tocado.
+  anotar "varredura completa: todo filme e episódio que falta"
+  python3 atualizar_redeflix.py --gerar --categorias filmes,series,animes,doramas \
+    --repetir-indisponiveis --repetir-erros --workers 96 \
+    --tentativas-indisponiveis 2 --delay-episodio 0.05 \
+    >>"$REGISTRO" 2>&1 || anotar "varredura: falhou, seguindo assim mesmo"
+elif [ "$somente_destaques" = 0 ]; then
   anotar "resolvendo filmes e séries"
   python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96 \
     >>"$REGISTRO" 2>&1 || anotar "filmes e séries: falhou, seguindo assim mesmo"
@@ -80,7 +94,9 @@ if [ "$somente_destaques" = 0 ]; then
     --tentativas-indisponiveis 2 --delay-episodio 0.05 \
     --somente-titulos-publicados \
     >>"$REGISTRO" 2>&1 || anotar "animes e doramas: falhou, seguindo assim mesmo"
+fi
 
+if [ "$somente_destaques" = 0 ]; then
   # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
   # parar a atualização inteira por causa de uma lista M3U fora do ar.
   anotar "montando o acervo (listas M3U + Redeflix)"

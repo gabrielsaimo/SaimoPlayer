@@ -426,6 +426,10 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
               if "filmes" in selected else [])
     if args.repetir_erros and "filmes" in selected:
         movies += [tmdb for tmdb in movie_ids if cached.get(("movie", tmdb, 0, 0), Resolved("movie", tmdb, 0, 0, "")).status == "erro"]
+    # Filme indisponível também ganha repescagem: a fonte pode ter aparecido
+    # depois. Só valia para episódio, e 20 mil filmes ficavam de fora para sempre.
+    if args.repetir_indisponiveis and "filmes" in selected:
+        movies += [tmdb for tmdb in movie_ids if cached.get(("movie", tmdb, 0, 0), Resolved("movie", tmdb, 0, 0, "")).status == "indisponivel"]
 
     episodes: list[Episode] = []
     seen: set[tuple[str, int, int]] = set()
