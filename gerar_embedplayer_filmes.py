@@ -233,6 +233,12 @@ def discover_tmdb_key(explicit: str) -> str:
     # O projeto irmão já usa a chave para enriquecer o mesmo catálogo. Ler de
     # lá evita duplicar credencial neste repositório e mantém a execução local
     # automática no workspace atual.
+    # A cópia do agendamento (fora do workspace, sem os projetos irmãos ao
+    # lado) guarda a chave aqui, num arquivo que o git ignora.
+    with contextlib.suppress(OSError):
+        guardada = (ROOT / "arquivos-gerados" / "tmdb-chave.txt").read_text(encoding="utf-8").strip()
+        if guardada:
+            return guardada
     candidates = [
         ROOT.parent / "Saimo-TV" / "scripts" / "fix-enriched-data.cjs",
         ROOT.parent / "Saimo-Cell-V2" / "services" / "tmdbService.ts",
