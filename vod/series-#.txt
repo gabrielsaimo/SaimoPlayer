@@ -2,6 +2,7 @@
 'Tis Time for		0	1
 007 Estrada para o Milhao		0	16
 011ZE Nova Geracao		0	20
+1 Contra Todos		0	32
 1 Contra Todos	2016	0	32
 1% de Alguma Coisa		0	16
 10 Segundos para Vencer		0	1
@@ -22,7 +23,8 @@
 11 de Setembro: Em Retrospectiva		0	3
 11.22.63		0	8
 12 Monkeys		0	47
-13 Reasons Why	2017	0	98
+13 Reasons Why		0	98
+13 Reasons Why	2017	0	49
 13 Reasons Why: Tentando Entender os Porques		0	3
 16 and Recovering		0	4
 1670		0	8
@@ -34,7 +36,8 @@
 19-2		0	38
 190 O Assassino Ligou		0	6
 190: Inteligência Contra o Crime		0	8
-1923	2022	0	30
+1923		0	30
+1923	2022	0	13
 1968 O Despertar		0	4
 1971: O ano em que a música mudou o mundo		0	8
 1983		0	8
@@ -115,9 +118,9 @@
 9-1-1: Nashville		0	18
 9-1-1: Nashville	2025	0	18
 90 Dias De Volta Pra Pista		0	57
-90 Dias Na Cama To na Caca		0	15
-90 Dias Para Casar		0	166
-90 Dias Para Casar A Ultima Chance		0	34
+90 Dias Na Cama To na Caca		1	15
+90 Dias Para Casar		1	166
+90 Dias Para Casar A Ultima Chance		1	34
 90 Dias Para Casar Reino Unido		1	50
 90 Dias Para Casar Seguindo Jorge e Anfisa		1	10
 90 Dias Para Ficar Milionario		1	24
