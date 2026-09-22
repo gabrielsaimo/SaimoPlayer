@@ -4,21 +4,21 @@ fila	Em alta
 f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
 f	O Fim da Rua (2026)	O	2026	/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg
 f	Homem-Aranha: Um Novo Dia	H		/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
-f	Você+Eu - Contra o Mundo	V		/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg
 f	Acampamento Miasma: Adolescência, Sexo e Morte (2026)	A	2026	/mAwGTx2EOdiY6AiWauGICPUrELg.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
 f	Obsessao (2026)	O	2026	/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
-f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
-f	The Fix	T		/yopXjun3ICFfJci2ukcEzceZjUs.jpg
 f	Moana	M		/92clN62AIYMOAKaSlkJyZmGQM4R.jpg
 f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
-f	गांधारी (2026)	#	2026	/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
+f	Você+Eu - Contra o Mundo	V		/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg
 f	Coracao Selvagem (1990)	C	1990	/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
+f	गांधारी (2026)	#	2026	/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
 f	Backrooms Um Nao-Lugar (2026)	B	2026	/a1pgQeEge47xrS4jGlDwIHiieVK.jpg
+f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
 f	Toy Story 5 (2026)	T	2026	/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg
+f	O Sorveteiro (2026)	O	2026	/3qbjuaIhlfInBd9C85yv1ss50mq.jpg
+f	A Morte do Demônio: Em Chamas (2026)	A	2026	/fteLdvfRnltfLjAEnsl5E3vImnW.jpg
 f	Só por Uma Noite (2026)	S	2026	/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg
 f	Quatro Histórias de Desejo 3 (2026)	Q	2026	/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg
-f	O Sorveteiro (2026)	O	2026	/3qbjuaIhlfInBd9C85yv1ss50mq.jpg
 f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
 f	A Morte de Robin Hood	A		/o0QndnepFPWget2kdKpzh26RBYt.jpg
 fila	Séries em alta
@@ -61,7 +61,7 @@ f	Céu em Fúria (2026)	C	2026	/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg
 f	Mayday (2026)	M	2026	/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg
 f	O Último Nascer do Sol (2026)	O	2026	/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg
 f	Patrulha Canina: Uma Aventura Dino (2026)	P	2026	/zyQ0KOfyuTyBYHAQ7wl7XrrOBH2.jpg
-f	La Captura (2026)	L	2026	/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg
+f	A Captura	A		/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg
 f	Águas Mortais (2026)	A	2026	/dWsw0X420R6ngEcVCkNlZ189Amr.jpg
 fila	Séries novas de 2026
 s	Escândalo e Intriga	E		/fPXgwURa9dRRJDA8JzYT4K2aAaI.jpg
@@ -90,8 +90,6 @@ a	Star Wars: Visions Apresenta — A Nona Jedi		2026	/1O3ExMFvf2gUPD6WIyfD3dou9e
 a	Presidente Curtis		2026	/bslvJffCHQSJxUKuEEzjkYPNrTn.jpg
 a	OS DOOMIES		2026	/8gGP5wpMKnFlyOMwzMbnI6xFzbd.jpg
 a	Among Us		2026	/ourBbG4B1dAjfFUCzuUYEZpR101.jpg
-a	Mating Season		2026	/5Pn7R2TtLka8OjsgtxAq4H2apjJ.jpg
-a	Apenas um Show: As Fitas Perdidas		2026	/pSkAZX9qqg9Wn2WaBIlQYZczymH.jpg
 a	Stranger Things: Histórias de 85		2026	/zUdykEDaQrjGKnVnAAcua3kNiAG.jpg
 a	BAKI-DOU: O Samurai Invencível		2026	/gIuCoLJSD09qx16FUn2OckjL6CA.jpg
 a	Dente-de-Leão		2026	/ts3CHOvXUmakRXxmZyOa9ifh6B0.jpg
@@ -102,27 +100,29 @@ a	Chapolin e Os Colorados		2026	/hxb5sC1ZMXN4bEs1t6RKmLWhqt0.jpg
 a	BULLET/BULLET		2025	/iHhC0D1B9IhD8beyMedHPUiakVK.jpg
 a	Can a Boy-Girl Friendship Survive?		2025	/74Oi8x6kwqgeDgfIgNVQwl9b0FT.jpg
 a	Hell Teacher: Jigoku Sensei Nube		2025	/pRrTEFXGYYBdQAXxDkb5IapjPCV.jpg
-a	Os Caras Malvados No Pedaço		2025	/2MwexoT6ErCY8CBe80dBEV866oF.jpg
-a	Disney Twisted-Wonderland: A Série		2025	/nqrPLxtgjDZjIqXKGqSUuNs4F7D.jpg
-a	O Mundo Maravilhosamente Estranho de Gumball		2025	/ltd0e9Mfll1xvVMfsJ77CDNMnWS.jpg
+a	The Fragrant Flower Blooms With Dignity		2025	/iR3kusHHeoAbjAjWrg53nSAVDx7.jpg
+a	Clevatess		2025	/avajalKjBP5QjwIEb5Xs8QXg1K.jpg
+a	Medalist		2025	/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg
+a	De Caipira a Mestre Espadachim		2025	/eAYuBIJxifz8NRkjQ2n1atpFdHq.jpg
+a	Devil May Cry		2025	/75KximV3WhtvlWFneTrf1Pw61cu.jpg
 fila	Doramas
-d	A Leste do Palácio		2026	/qxn0dgt6k0yOH3CIFqmGRwSBZYO.jpg
-d	Assustadoramente Apaixonados		2026	/iBhyQsX73fl4SUkDkaEp8MHa0dW.jpg
-d	Doce Vingança		2026	/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg
 d	Vapor Humano		2026	/cpLc0SVNL5j34X7PGEiT1sMZERU.jpg
 d	Namorado por Assinatura		2026	/iz9UJqXRDjBkrwpfdngJwzv5ub1.jpg
-d	My Royal Nemesis		2026	/v17mteTOLRWteH8FQYhLXWpP4mV.jpg
 d	O Amor Não Está Esgotado		2026	/g0mqLIAvsi88Z2RsfKEWuJC9xrd.jpg
-d	Terra do Ouro		2026	/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg
 d	Se Desejos Matassem...		2026	/l7Yqgal5v7qa7DTfPpsLTYlehXc.jpg
-d	A Gente Tenta		2026	/16SSyjUjhqQLfntsq5qbrDq3kF3.jpg
-d	O Valor Absoluto do Amor		2026	/d7A9vkmNB5vIriglF0HjOs5Vtbq.jpg
 d	O Beijo da Sereia		2026	/rParsARU91lw009qNKkgKFEEYAP.jpg
 d	Um Amor Que Ilumina		2026	/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg
 d	O Amor Pode Ser Traduzido?		2026	/psKcuLNGd5AY4pwaUFM4yACZazl.jpg
 d	Febre de Primavera		2026	/zJaMDWPhxInDKNgoLpCPtRKsaAv.jpg
-d	Amores Bandidos		2025	/foDBx89qXgVZEENrMynfLLhm6BC.jpg
 d	Beijo Explosivo		2025	/kdVqCFaENSuXI97oaDnFeciJG4j.jpg
-d	Solteiros Nunca Mais		2025	/klhjMtkHmV4CerCKPIdUrPSvUoK.jpg
-d	Amor e Batatas		2025	/3am6e0l0TRcH4QxXIxHYbZ5OzB8.jpg
 d	Desprazer em Te Conhecer		2025	/9SWkM0d5nocTD0GOZeE7R6i8NUL.jpg
+d	Pergunte às Estrelas		2025	/jO8eCh0rLGQj7c1TwHqcCAvJegD.jpg
+d	Resident Playbook		2025	/rTUxQBriK8fkr4n0qijjkSGiBb3.jpg
+d	Um Amor de Cinema		2025	/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg
+d	Você Estava Lá		2025	/utrGFclbnCqELR7GS34B4NMQkzo.jpg
+d	A Pousada Bizarra do Kian84		2025	/8C52BNqZTxGLZEWTOShkdCkCZYQ.jpg
+d	Traição e Redenção		2025	/py1HcJi82NwTAOkNPcNX6kw8DZ4.jpg
+d	Desmascarado		2025	/4BXb4okDyVWIBCAQT4KaMAIbnpx.jpg
+d	Call Me By No Name		2025	/iWRPz5nJiGYm1bi8cdHFqd9DQxa.jpg
+d	A Juíza do Inferno		2024	/iRbJ9bPnoLDgvmsVJcp4cpPzWIJ.jpg
+d	O Jogo da Pirâmide		2024	/i2QVw6Ot4ywdKcVc7EeDH3ojlzw.jpg

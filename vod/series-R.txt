@@ -3,9 +3,11 @@ RECOMPENSA DE SANGUE A HERDEIRA RETORNA		0	1
 RESET		0	21
 RFDS Royal Flying Doctor Service		0	28
 RILAKKUMA		0	7
-RIPLEY	2024	0	16
+RIPLEY		0	16
+RIPLEY	2024	0	8
 RIV4LIDADES		0	14
-RJ Decker Investigador Privado	2026	0	17
+RJ Decker Investigador Privado		0	17
+RJ Decker Investigador Privado	2026	0	5
 ROLL OVER AND DIE I Will Fight for an Ordinary Life with My Love and Cursed Sword		0	24
 RU		0	8
 RUN		0	7
@@ -21,7 +23,8 @@ Radioactive Emergency		0	5
 Rafa		0	4
 Ragdoll		0	6
 Ragna Crimson		0	24
-Ragnarok	2020	0	56
+Ragnarok		0	56
+Ragnarok	2020	0	18
 Ragnarok The Animation		0	26
 Rah-E-Junoon		0	28
 Rain Dogs		0	8
@@ -30,8 +33,10 @@ Rainha - Kraliçe		0	11
 Rainha Charlotte: Uma História Bridgerton		0	6
 Rainha Cleópatra		0	4
 Rainha Perigosa		0	8
+Rainha Vermelha		0	7
 Rainha Vermelha	2024	0	7
-Rainha Woo	2024	0	12
+Rainha Woo		0	12
+Rainha Woo	2024	0	8
 Rainha XXX		0	6
 Rainha da Cocada		0	20
 Rainha da Noite - Gecenin Kraliçesi		0	15
@@ -44,7 +49,8 @@ Rainhas da Bolsa		0	12
 Rainhas da Grana		0	8
 Rainhas do Queens		0	6
 Rainhas do Reino Animal		0	7
-Raio Negro	2018	0	116
+Raio Negro		0	116
+Raio Negro	2018	0	58
 Raio X Guerra do Ira		0	2
 Raio X do Planeta Terra		0	3
 Raised by Wolves		0	28
@@ -53,27 +59,33 @@ Raizes		0	8
 Rakshasa Street		0	50
 Ramo		0	130
 Ramo Entre o Amor e o Poder		0	170
-Rancho Dutton	2026	0	18
+Rancho Dutton		0	18
+Rancho Dutton	2026	0	9
 Random Acts of Flyness		0	12
 Ranking of Kings: Baú do Tesouro da Coragem		0	10
 Ranma 12		0	24
 Ranma ½	1989	0	161
 Ranma1 2		0	24
-Ransom	2017	0	39
-Ransom Canyon	2025	0	36
+Ransom		0	39
+Ransom	2017	0	35
+Ransom Canyon		0	36
+Ransom Canyon	2025	0	18
 Rastro Perdido		0	1
 Ratched		0	8
 Ratinho Sem Filtro		0	3
 Rattan		0	31
+Raul Seixas Eu Sou		0	8
 Raul Seixas Eu Sou	2025	0	8
 Raw Terror		0	6
+Ray Donovan		0	82
 Ray Donovan	2013	0	82
 Raymond e Companhia		0	212
 Re Monster		0	12
 Re:ZERO -Starting Life in Another World-		0	157
 Reabilitacao Canina		0	6
 Reacao - Reaksiyon		0	13
-Reacher	2022	0	62
+Reacher		0	62
+Reacher	2022	0	32
 Real Madrid Ate o Fim		0	3
 Realeza		0	8
 Reality Z		0	10
@@ -99,25 +111,28 @@ Recomeço		0	8
 Recomeço em Família		0	6
 Recommendations from Mr. Iwamoto		0	12
 Record of Ragnarok		0	42
+Recruta		0	14
 Recruta	2022	0	14
 Recursos Humanos		0	20
 Red Alert		0	8
 Red Alert	2025	0	4
 Red Election		0	10
-Red Eye	2024	0	18
-Red Light		0	10
-Red Oaks		0	26
-Red River		0	11
-Red Rose		0	8
-Rede de Escuridão		0	7
-Redescobrindo o Amor		0	12
-Reencarnado numa Máquina de Vendas, Agora Exploro a Masmorra		0	36
-Reencarne		0	9
-Reencontro do Amor		0	1
-Refem	2025	0	5
-Refens		0	16
-Refletidas		0	16
-Refollow		0	8
+Red Eye		0	18
+Red Eye	2024	1	6
+Red Light		1	10
+Red Oaks		1	26
+Red River		1	11
+Red Rose		1	8
+Rede de Escuridão		1	7
+Redescobrindo o Amor		1	12
+Reencarnado numa Máquina de Vendas, Agora Exploro a Masmorra		1	36
+Reencarne		1	9
+Reencontro do Amor		1	1
+Refem		1	5
+Refem	2025	1	5
+Refens		1	16
+Refletidas		1	16
+Refollow		1	8
 Reforma Inspirada		1	7
 Reforma a Venda		1	27
 Reforma com "R" Maiúsculo		1	6
@@ -143,7 +158,8 @@ Rei Charly		1	8
 Rei Davi		1	30
 Rei Lobo		1	16
 Rei dos Stonks		1	6
-Rei e Conquistador	2025	1	16
+Rei e Conquistador		1	16
+Rei e Conquistador	2025	1	8
 Reign		1	78
 Reign Supreme		1	6
 Reinado		1	156
@@ -178,6 +194,7 @@ Renegade Immortal		1	24
 Renovação Sem Demolição		1	22
 Rensga Hits!		1	24
 Rent-a-Girlfriend		1	144
+Reparos em Familia		1	23
 Reparos em Familia	2025	1	23
 Repatriado		1	10
 Repolho Sua Vida		1	12
@@ -187,12 +204,14 @@ República Selvagem		1	8
 Requiem		1	6
 Reservation Dogs		1	46
 Resgate 193		1	26
-Resident Alien	2021	1	88
+Resident Alien		1	88
+Resident Alien	2021	1	44
 Resident Evil: A Série		1	8
 Resident Evil: No Escuro Absoluto		1	4
 Resident Playbook		1	12
 Residential Rage		1	2
 Resistencia Negra		1	5
+Respira		1	16
 Respira	2024	1	16
 Respire!		1	6
 Ressurreição		1	21
@@ -200,11 +219,13 @@ Ressuscite Meu Coracao		1	7
 Restauradores De Rust Valley		1	20
 Restaurando Casas com Dave e Jenny		1	66
 Restaurando Casas de Fazenda		1	22
+Restaurando Casas de Fazenda Negocio Arriscado		1	4
 Restaurando Casas de Fazenda Negocio Arriscado	2024	1	4
 Restaurantes em Risco		1	6
 Restaurantes no Fim do Mundo		1	4
 Restrito, Sim! Sem Sabor, Nunca!		1	4
-Retaliacao	2019	1	32
+Retaliacao		1	32
+Retaliacao	2019	1	12
 Retidos na Fronteira		1	10
 Retorno com Tudo Minha Coroa Minha Alianca		1	1
 Retorno de Sua Majestade		1	1
@@ -217,31 +238,35 @@ Retrospectiva 2022_ Edição S01		1	3
 Retrospectiva 2023 Edicao Globoplay		1	4
 Retrospectiva 2023 Edicao S01		1	4
 Return to Paradise		1	1
-Reu		1	18
-Reuniao ao Luar		1	38
-Reunião de Família		1	44
-Revanche		1	6
-Revelacoes Pre Historicas		1	8
-Revelações de Família		1	8
-Revenant		1	12
-Revenge	2011	1	179
-Revenge Prank with Dj Pauly D e Vinny		1	24
-Reverse		1	8
-Revival		1	10
-Revolucao		1	42
-Revolucao Cubana vs. O Mundo		1	2
-Rey Mysterio vs A Escuridao		1	10
-Reyka		1	16
-Rezar e Obedecer		1	4
-Rezero Starting Life in Another World	2016	1	171
-Rhythm Flow France		1	8
-Rhythm Flow Italy		1	24
-Riacho Doce		1	40
-Ribeirão do Tempo		1	250
+Reu		2	18
+Reuniao ao Luar		2	38
+Reunião de Família		2	44
+Revanche		2	6
+Revelacoes Pre Historicas		2	8
+Revelações de Família		2	8
+Revenant		2	12
+Revenge		2	179
+Revenge	2011	2	90
+Revenge Prank with Dj Pauly D e Vinny		2	24
+Reverse		2	8
+Revival		2	10
+Revolucao		2	42
+Revolucao Cubana vs. O Mundo		2	2
+Rey Mysterio vs A Escuridao		2	10
+Reyka		2	16
+Rezar e Obedecer		2	4
+Rezero Starting Life in Another World		2	160
+Rezero Starting Life in Another World	2016	2	91
+Rhythm Flow France		2	8
+Rhythm Flow Italy		2	24
+Riacho Doce		2	40
+Ribeirão do Tempo		2	250
 Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School		2	1
 Rick and Morty The Anime		2	10
-Rick e Morty	2013	2	182
-Rick e Morty: The Anime	2024	2	4
+Rick e Morty		2	182
+Rick e Morty	2013	2	91
+Rick e Morty: The Anime		2	3
+Rick e Morty: The Anime	2024	2	2
 Ricos		2	6
 Ricos e Pobres - Zengin ve Yoksul		2	8
 Rider Gavv		2	49
@@ -251,6 +276,7 @@ Rikuoh		2	10
 Ringo. Glória e Morte		2	7
 Rio Connection		2	8
 Rio Heroes		2	10
+Rio Paris A Tragedia do Voo 447		2	4
 Rio Paris A Tragedia do Voo 447	2024	2	4
 Rio Shore		2	49
 Rio da Lua		2	14
@@ -270,7 +296,8 @@ Rivais		2	28
 Rivais do Criquete India x Paquistao		2	3
 Rivalidade Ardente		2	12
 Rivalidades Fatais		2	6
-Riverdale	2017	2	270
+Riverdale		2	270
+Riverdale	2017	2	134
 Riviera		2	28
 Rizzoli & Isles	2010	2	29
 Rizzoli e Isles		2	210
@@ -278,7 +305,8 @@ RoOT		2	10
 Road Home		2	30
 Road Trip em Duas Rodas Coreia		2	10
 Robbie Williams		2	4
-Robin Hood	2025	2	20
+Robin Hood		2	20
+Robin Hood	2025	2	10
 Robogobo		2	25
 Robô Sapiens		2	7
 Rock In Rio – A História		2	5
@@ -290,6 +318,7 @@ Rocketeer		2	6
 Rocky & Hudson: Os Caubóis Gays		2	12
 Rocky & Hudson: Os Cowboys Gays		2	12
 Roda de Fogo		2	179
+Rojst		2	17
 Rojst	2018	2	17
 Roller Coaster		2	8
 Rolling Kitchen Brasil		2	20
@@ -300,11 +329,14 @@ Romance Is A Bonus Book		2	16
 Romanceiro		2	6
 Romantic Killer		2	12
 Romanticos Anonimos		2	8
+Romario O Cara		2	6
 Romario O Cara	2024	2	6
 Romina Poderosa		2	65
+Romulus		2	10
 Romulus	2020	2	10
 Ron Kamonohashi's Forbidden Deductions		2	24
 Ron Kamonohashis Forbidden Deductions		2	26
+Ronaldinho Gaucho		2	3
 Ronaldinho Gaucho	2026	2	3
 Rooftop Prince		2	20
 Rookie Blue		2	74
@@ -312,7 +344,9 @@ Rookie Cops: Os Novatos		2	16
 Room Camp		2	12
 Roommates of Poongduck 304		2	8
 Roosevelt Um Capitulo na Historia Americana		2	3
-Rooster	2026	2	20
+Rooster		2	20
+Rooster	2026	2	10
+Rooster Fighter		2	12
 Rooster Fighter	2026	2	12
 Roque Santeiro		2	319
 Rosa Elettrica		2	6
@@ -324,40 +358,43 @@ Rosas - Roses - Ask Yarasi		2	74
 Rosas e Pecados - Guller ve Gunahlar		2	30
 Rosewood		2	44
 Roswell, New Mexico		2	104
-Roswell: O Veredito Final		2	6
-Rota 66: A Polícia que Mata		2	8
-Rotas da Escravidao		2	4
-Rotas do Odio		2	18
-Roubo - Kara		2	5
-Roubo por Vinganca		2	8
-Roubos Inacreditáveis		2	6
-Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu		2	12
-Round 6	2021	2	44
-Round 6 O Desafio	2023	2	19
-Roupa Suja - Kirli Sepeti -		2	40
-Route 187		2	4
-Route 187	2026	2	4
-Royal Crackers		2	20
-Royal Pains		2	105
-Royal Pains	2009	2	30
-RuPaul's Drag Race Global All Stars		2	12
-RuPaul's Drag Race UK		2	14
-RuPaul's Drag Race: All Stars		2	6
-RuPauls Drag Race		2	239
-RuPauls Drag Race All Stars		2	161
-RuPauls Drag Race Global All Stars	2024	2	24
-RuPauls Drag Race UK		2	14
-Rua Augusta		2	12
-Rua Do Sobe E Desce Numero Que Desaparece		2	6
-Rua Dálmatas 101		2	25
-Ruas Mundo Afora		2	46
-Rubble e Sua Turma		2	39
-Rubi		2	115
-Rubiales vs Hermoso The World Cup Kiss		2	2
-Ruby e Jodi A Cult of Sin and Influence		2	4
-Ruby e Jodi Uma Seita de Pecado e Poder		2	4
-Rubí - Rubi		2	115
-Rugby Vencer ou Morrer		2	14
+Roswell: O Veredito Final		3	6
+Rota 66: A Polícia que Mata		3	8
+Rotas da Escravidao		3	4
+Rotas do Odio		3	18
+Roubo - Kara		3	5
+Roubo por Vinganca		3	8
+Roubos Inacreditáveis		3	6
+Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu		3	12
+Round 6		3	44
+Round 6	2021	3	22
+Round 6 O Desafio		3	19
+Round 6 O Desafio	2023	3	19
+Roupa Suja - Kirli Sepeti -		3	40
+Route 187		3	4
+Route 187	2026	3	4
+Royal Crackers		3	20
+Royal Pains		3	105
+Royal Pains	2009	3	30
+RuPaul's Drag Race Global All Stars		3	12
+RuPaul's Drag Race UK		3	14
+RuPaul's Drag Race: All Stars		3	6
+RuPauls Drag Race		3	239
+RuPauls Drag Race All Stars		3	161
+RuPauls Drag Race Global All Stars		3	24
+RuPauls Drag Race Global All Stars	2024	3	12
+RuPauls Drag Race UK		3	14
+Rua Augusta		3	12
+Rua Do Sobe E Desce Numero Que Desaparece		3	6
+Rua Dálmatas 101		3	25
+Ruas Mundo Afora		3	46
+Rubble e Sua Turma		3	39
+Rubi		3	115
+Rubiales vs Hermoso The World Cup Kiss		3	2
+Ruby e Jodi A Cult of Sin and Influence		3	4
+Ruby e Jodi Uma Seita de Pecado e Poder		3	4
+Rubí - Rubi		3	115
+Rugby Vencer ou Morrer		3	14
 Rugido		3	8
 Rugrats		3	21
 Rumble Garanndoll		3	12
@@ -370,7 +407,8 @@ Rumo à Ruína: Pagar as Suas Ações		3	29
 Rumo às Estrelas		3	6
 Run Coyote Run		3	13
 Run the World		3	32
-Ruptura	2022	3	38
+Ruptura		3	38
+Ruptura	2022	3	19
 Ruri Rocks		3	13
 Rurouni Kenshin		3	117
 Rush Medicina Vip		3	10
