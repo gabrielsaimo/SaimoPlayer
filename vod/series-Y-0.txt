@@ -2792,6 +2792,9 @@
 5	11	dub	7:1358834
 5	12	dub	7:1358835
 5	13	dub	7:1358836
+@Youth	2026
+1	1	dub	https://embedplayer2.xyz/cdn/hls/be0f55e22ed6e4d7e9c341d140a490a3/master.txt
+1	2	dub	https://embedplayer2.xyz/cdn/hls/16a9d683f08255f84f6dd0f953d433c7/master.txt
 @Youth Water Polo
 1	1	leg	3:298706,11:2187627,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/92236.mp4,9:298706
 1	2	leg	3:298707,11:2187628,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/92237.mp4,9:298707
