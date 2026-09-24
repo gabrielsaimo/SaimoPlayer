@@ -22,6 +22,8 @@ struct VodGridView: View {
     /// O gênero escolhido na régua, ou vazio para todos.
     @State private var genero = ""
     @State private var selecaoFonte: SelecaoFonte?
+    /// O título cuja ficha está aberta, ou nulo.
+    @State private var fichaAberta: Cartao?
 
     private let colunas = [GridItem(.adaptive(minimum: 168, maximum: 220), spacing: 18)]
 
@@ -66,6 +68,11 @@ struct VodGridView: View {
         }
         .sheet(item: $selecaoFonte) { selecao in
             seletorDeFontes(selecao)
+        }
+        .sheet(item: $fichaAberta) { cartao in
+            FichaView(titulo: cartao.titulo, serie: cartao.serie, ano: cartao.ano) { achado in
+                Task { await abrirAchado(achado, reservado: false) }
+            }
         }
     }
 
@@ -546,6 +553,7 @@ struct VodGridView: View {
                 }
             }
             .overlay(alignment: .topTrailing) { estrela(cartao) }
+            .overlay(alignment: .bottomTrailing) { botaoFicha(cartao) }
             .overlay(alignment: .topLeading) {
                 if let selo = cartao.selo {
                     Text(selo)
@@ -584,6 +592,22 @@ struct VodGridView: View {
               let ano = capas.ano(para: cartao.nomeCompleto, serie: cartao.serie)
         else { return cartao.detalhe }
         return "\(ano) · \(cartao.detalhe)"
+    }
+
+    /// Abre a ficha sem abrir o filme: sinopse, duração, gêneros e elenco.
+    private func botaoFicha(_ cartao: Cartao) -> some View {
+        Button {
+            fichaAberta = cartao
+        } label: {
+            Image(systemName: "info.circle.fill")
+                .font(.system(size: 13, weight: .semibold))
+                .padding(5)
+                .background(.black.opacity(0.45), in: Circle())
+                .foregroundStyle(.white.opacity(0.85))
+        }
+        .buttonStyle(.plain)
+        .padding(6)
+        .help("Ver a ficha de \(cartao.nomeCompleto)")
     }
 
     private func estrela(_ cartao: Cartao) -> some View {

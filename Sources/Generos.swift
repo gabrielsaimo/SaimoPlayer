@@ -21,6 +21,15 @@ enum Generos {
     private static var mapa: [String: [String]] = [:]
     /// Título -> endereço inteiro do pôster, quando o TMDB conhece o título.
     private static var capas: [String: String] = [:]
+    /// Título -> id do TMDB. O gerador já resolveu qual título é qual; com o
+    /// id em mãos, a ficha completa é um pedido só, sem busca nem desempate.
+    private static var ids: [String: Int] = [:]
+    /// O caminho inverso: id do TMDB -> título do acervo.
+    ///
+    /// É assim que a filmografia de um ator vira uma lista clicável: o TMDB
+    /// devolve os ids dos trabalhos dele, e só entram na tela os que este mapa
+    /// conhece — ou seja, os que existem no acervo.
+    private static var porId: [Int: String] = [:]
     /// Todos os gêneros que aparecem no acervo, em ordem alfabética.
     private(set) static var todos: [String] = []
     private static var carregando = false
@@ -52,6 +61,20 @@ enum Generos {
         capas[chave(titulo, serie: serie)] ?? capas[chave(semAno(titulo), serie: serie)]
     }
 
+    /// O id do TMDB de um título, quando o gerador o resolveu.
+    static func id(_ titulo: String, serie: Bool) -> Int? {
+        ids[chave(titulo, serie: serie)] ?? ids[chave(semAno(titulo), serie: serie)]
+    }
+
+    /// O título do acervo que corresponde a um id do TMDB, se houver.
+    static func titulo(paraId id: Int, serie: Bool) -> String? {
+        porId[marca(id, serie: serie)]
+    }
+
+    private static func marca(_ id: Int, serie: Bool) -> Int {
+        serie ? -id : id
+    }
+
     static func semAno(_ titulo: String) -> String {
         titulo.replacingOccurrences(of: #"\s*\(\d{4}\)\s*$"#,
                                     with: "",
@@ -74,6 +97,8 @@ enum Generos {
 
         var novo: [String: [String]] = [:]
         var novasCapas: [String: String] = [:]
+        var novosIds: [String: Int] = [:]
+        var novoPorId: [Int: String] = [:]
         var vistos = Set<String>()
         var base = ""
         // tipo \t título \t id do TMDB \t pôster \t gêneros
@@ -87,6 +112,14 @@ enum Generos {
             guard campos.count >= 5 else { continue }
             let chave = "\(campos[0])|\(campos[1])"
             if !campos[3].isEmpty { novasCapas[chave] = base + campos[3] }
+            if let id = Int(campos[2]), id > 0 {
+                novosIds[chave] = id
+                let serie = campos[0] == "s"
+                // Um mesmo id pode aparecer duas vezes no acervo (o mesmo
+                // filme em duas grafias); o primeiro basta.
+                let marcaDoId = serie ? -id : id
+                if novoPorId[marcaDoId] == nil { novoPorId[marcaDoId] = String(campos[1]) }
+            }
             let lista = campos[4].split(separator: ",").map(String.init)
             if !lista.isEmpty {
                 novo[chave] = lista
@@ -95,6 +128,8 @@ enum Generos {
         }
         mapa = novo
         capas = novasCapas
+        ids = novosIds
+        porId = novoPorId
         todos = vistos.sorted()
     }
 
