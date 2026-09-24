@@ -110,7 +110,7 @@ Rainha do Mundo (2015)	dub=6:1298157
 Rainha do Natal	dub=2:227019,10:2458389,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40251.mp4,8:227019
 Rainha do Natal (2022)	dub=6:1311324
 Rainha do Ring	dub=10:2450084	leg=2:329643,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87659.mp4,8:329643
-Rainhas do Crime	dub=2:30438,10:2455021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6744.mp4,8:30438
+Rainhas do Crime	dub=2:30438,10:2455021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6744.mp4,8:30438,8:398545
 Rainhas do Crime (2019)	dub=6:1297947
 Rainhas em Fuga	dub=2:192105,10:2461558,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19108.mp4,8:192105	leg=2:192107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87661.mp4,8:192107
 Rainhas em Fuga (2023)	dub=6:1301176
@@ -270,6 +270,7 @@ Recompensa de Sangue a Herdeira Retorna	leg=http://dbonline.tech-cdn.top:80/movi
 Reconhecidos	dub=10:2444786
 Recontagem	dub=2:386826,10:2444069,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308624.mp4,8:386826	leg=2:386825,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308656.mp4,8:386825
 Recreo (2018)	dub=https://embedplayer2.xyz/cdn/hls/d478149a664f8e856ed5fef04b433128/master.txt,6:1301374,2:330037,10:2456398,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31093.mp4,8:330037
+Recrutas da Pesada	dub=8:398547	leg=8:398546
 Recrutas da Pesada (1981)	dub=6:1309412	leg=6:1309413
 Recuerdos del mal	leg=2:396030,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315424.mp4,8:396030
 Recuperando a Esperanca	dub=2:21144,10:2455898,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31097.mp4,8:21144
@@ -323,7 +324,7 @@ Reencontro com uma Paixao	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Reencontro de Natal	dub=2:144034,10:2456786,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40246.mp4,8:144034
 Reencontro de Natal (2017)	dub=6:1304459
 Reencontro do Amor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302907.mp4
-Refavela 40	dub=2:397931,2:31932,10:2452979,8:31932
+Refavela 40	dub=2:397931,2:31932,10:2452979,8:31932,8:397931
 Refavela 40 (2019)	dub=6:1308739
 Refazendo Laços	dub=2:343957,10:2445396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31121.mp4,8:343957	leg=2:343956,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87878.mp4,8:343956
 Refem Do Espirito	dub=2:97208,8:97208
@@ -600,6 +601,7 @@ Retrospectiva Band (2021)	dub=2:144892,8:144892
 Retrospectiva Band (2022)	dub=2:184043,8:184043
 Retrospectiva Globo	dub=10:2453223
 Retrospectiva Globo (2022)	dub=2:182916,8:182916
+Retrospectiva Globo (2024)	dub=8:301802
 Retrospectiva Globo (2025)	dub=2:359325,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1075.mp4,8:359325
 Retrospectiva Record	dub=10:2453272,10:2453329
 Retrospectiva Record (2021)	dub=2:145229,8:145229
@@ -742,7 +744,7 @@ Ritual de Inverno (2018)	dub=6:1305860	leg=6:1305861
 Rivais	dub=2:263164,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58355.mp4,8:263164,2:263157,10:2446294,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42814.mp4,8:263157	leg=2:263165,2:261698,10:2450422,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88335.mp4,8:263165,8:261698
 Rivais (2024)	dub=6:1304107	leg=6:1303946
 River	leg=2:115490,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88352.mp4,8:115490
-River Wild	dub=2:209522,10:2446015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45925.mp4,8:209522
+River Wild	dub=2:209522,10:2446015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45925.mp4,8:209522	leg=8:209521
 River Wild (2023)	dub=6:1309187
 Riverdance: Uma Aventura Dançante	dub=2:146828,10:2459218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11080.mp4,8:146828	leg=2:146827,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88350.mp4,8:146827
 Riverdance: Uma Aventura Dançante (2021)	dub=6:1304745	leg=6:1304746

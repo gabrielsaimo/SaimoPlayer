@@ -293,6 +293,7 @@
 1	9	leg	3:394932,9:394932
 1	10	leg	3:395662,9:395662
 1	11	leg	3:397471,9:397471
+1	12	leg	9:398662
 @I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
 1	1	leg	3:255680,11:2286248,9:255680
 1	2	leg	3:256568,11:2286249,9:256568
@@ -2681,14 +2682,14 @@
 2	12	dub	11:2403232
 @In Love Forever The Series
 1	1	leg	3:384031,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/307189.mp4,9:384031
-1	2	leg	3:397969
-1	3	leg	3:397970
-1	4	leg	3:397971
-1	5	leg	3:397972
-1	6	leg	3:397973
-1	7	leg	3:397974
-1	8	leg	3:397975
-1	9	leg	3:397976
+1	2	leg	3:397969,9:397969
+1	3	leg	3:397970,9:397970
+1	4	leg	3:397971,9:397971
+1	5	leg	3:397972,9:397972
+1	6	leg	3:397973,9:397973
+1	7	leg	3:397974,9:397974
+1	8	leg	3:397975,9:397975
+1	9	leg	3:397976,9:397976
 @In Your Heart
 1	1	leg	3:287777,11:2194815,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/83351.mp4,9:287777
 1	2	leg	3:287778,11:2194816,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/83352.mp4,9:287778

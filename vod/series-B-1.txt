@@ -832,7 +832,7 @@
 3	3	dub	3:396165,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315728.mp4,9:396165
 3	4	dub	3:396166,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315729.mp4,9:396166
 3	5	dub	3:396167,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315730.mp4,9:396167
-3	6	dub	3:398367
+3	6	dub	3:398367,9:398367
 @Baymax!
 1	1	dub	https://embedplayer2.xyz/cdn/hls/fc9009709c8688f5ed98427191aaf3ed/master.txt,7:1362467
 1	2	dub	https://embedplayer2.xyz/cdn/hls/a72b3d400776c8dc3587d2c2af0054b5/master.txt,7:1362468
@@ -3813,6 +3813,7 @@
 1	11	leg	3:372331,9:372331
 1	12	leg	3:382618,9:382618
 1	13	leg	3:393026,9:393026
+2	1	leg	9:398799
 @Betaal
 1	1	dub	3:392232,3:48426,11:2157799,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/205293.mp4,9:392232,9:48426
 1	2	dub	3:392233,3:48427,11:2157800,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/205294.mp4,9:392233,9:48427

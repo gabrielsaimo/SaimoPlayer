@@ -1784,7 +1784,7 @@
 4	19	leg	3:393746,9:393746
 4	20	leg	3:395312,9:395312
 4	21	leg	3:396047,9:396047
-4	22	leg	3:398359
+4	22	leg	3:398359,9:398359
 @Ascensão: Império Otomano
 1	1	dub	3:34737,11:2265041,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95974.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95990.mp4,7:1373339,9:34737
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/262225.mp4
@@ -3156,6 +3156,7 @@
 1	7	leg	3:394989,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314793.mp4,9:394989
 1	8	leg	3:395422,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314794.mp4,9:395422
 1	9	leg	3:397514,9:397514
+1	10	leg	9:398625
 @Até eu morrer - Ölene Kadar
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/262321.mp4
 1	2	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/262322.mp4

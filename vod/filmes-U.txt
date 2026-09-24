@@ -387,7 +387,7 @@ Um Escravo das Arábias em Roma	dub=2:392627,http://dbonline.tech-cdn.top:80/mov
 Um Espetáculo de Natal (2022)	dub=https://embedplayer2.xyz/cdn/hls/34c62802f0f83b2499eb84fbcce90e03/master.txt,6:1309232,2:230277,10:2448440,10:2459909,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40354.mp4,8:230277	leg=6:1309233,2:230291,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93390.mp4,8:230291
 Um Espiao Animal (2019)	dub=https://embedplayer2.xyz/cdn/hls/05198944a9cc4ca1ee8018f580b95568/master.txt,6:1297476,2:42547,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59007.mp4,8:42547,2:42515,10:2459562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11636.mp4,8:42515
 Um Espiao e Meio (2016)	dub=https://embedplayer2.xyz/cdn/hls/07df0a105ba9f7abf011125685789611/master.txt,6:1297281,2:387087,2:107784,10:2454835,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7841.mp4,8:387087,8:107784	leg=2:387086,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308835.mp4,8:387086
-Um Esquadrão Muito Louco	dub=2:398132	leg=2:398130
+Um Esquadrão Muito Louco	dub=2:398132,8:398132	leg=2:398130,8:398130
 Um Esquadrão Muito Louco (2023)	dub=10:2470946
 Um Estrangeiro no Ninho	dub=2:266681,10:2450308,10:2460608,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20265.mp4,8:266681	leg=2:266682,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93401.mp4,8:266682
 Um Estrangeiro no Ninho (2022)	dub=6:1311444	leg=6:1311445
@@ -1079,7 +1079,7 @@ Uma Jogada de Natal	dub=2:353746,10:2445688,http://dbonline.tech-cdn.top:80/movi
 Uma Jogada do Destino (1993)	dub=6:1312653	leg=6:1312652
 Uma Jornada Entre Amigos	dub=2:256347,10:2448217,10:2457051,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32823.mp4,8:256347	leg=2:256348,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94407.mp4,8:256348
 Uma Jornada Entre Amigos (2024)	dub=6:1303412
-Uma Jornada Entre Irmãos	dub=2:209517,10:2446037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46370.mp4,8:209517
+Uma Jornada Entre Irmãos	dub=2:209517,10:2446037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46370.mp4,8:209517	leg=8:209518
 Uma Jornada Entre Irmãos (2020)	dub=6:1310717
 Uma Jornada Magica (2019)	dub=6:1300919
 Uma Jornada Mágica	dub=2:182909,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12116.mp4,8:182909	leg=2:182898,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94412.mp4,8:182898
@@ -1111,7 +1111,7 @@ Uma Loira de Verdade	dub=2:374325,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Uma Loira em Minha Vida (1991)	dub=6:1299957
 Uma Loja Muito Louca	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94442.mp4
 Uma Longa Jornada (2015)	dub=https://embedplayer2.xyz/cdn/hls/032e514834287a16d71c27ff3aa90757/master.txt,6:1301452,2:21193,10:2456706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32848.mp4,8:21193
-Uma Longa Queda	dub=2:397953	leg=2:397952
+Uma Longa Queda	dub=2:397953,8:397953	leg=2:397952,8:397952
 Uma Longa Viagem	dub=2:250618,10:2456366,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32852.mp4,8:250618
 Uma Longa Viagem (2013)	dub=6:1309756
 Uma Loucura de Mulher (2016)	dub=6:1300816
@@ -1355,7 +1355,7 @@ Un coup de maître	leg=2:301061,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Un monde merveilleux	dub=2:381652,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306327.mp4,8:381652	leg=2:381651,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301279.mp4,8:381651
 Un mondo a parte	leg=2:345475,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/94844.mp4,8:345475
 Un ours dans le Jura (2025)	dub=https://embedplayer2.xyz/cdn/hls/f639ca6bed2732698e3fc2727ed8420c/master.txt,https://embedplayer2.xyz/cdn/hls/fcb119d6139e70b3ce4eccebb9af338d/master.txt
-Un été pour tout changer	dub=2:397846	leg=2:397845
+Un été pour tout changer	dub=2:397846,8:397846	leg=2:397845,8:397845
 Una famiglia sottosopra	leg=2:397716,8:397716
 Una gran voglia di vivere	dub=2:194202,8:194202
 Una gran voglia di vivere (2023)	dub=6:1305487
@@ -1486,6 +1486,7 @@ undertone (2026)	dub=https://embedplayer2.xyz/cdn/hls/be493a2a842d935a3a44698d59
 Última Chamada para Istambul	dub=2:229138,10:2446307,10:2450119,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43421.mp4,8:229138	leg=2:229154,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96558.mp4,8:229154
 Última Chance Para Emma (2016)	dub=6:1310351	leg=6:1310352
 Última Cidade	dub=2:150151,8:150151
+Última Noite em Boston	dub=8:398549	leg=8:398548
 Última Parada (2026)	dub=https://embedplayer2.xyz/cdn/hls/12b164d5b0a295391151ccd7c8b10db6/master.txt,6:1502223,10:2444092
 Última Parada 174	dub=2:372793,2:28608,10:2457333,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32413.mp4,8:372793,8:28608
 Última Parada 174 (2008)	dub=6:1307278

@@ -317,7 +317,7 @@ A Casa de Tijolos de Barro (2024)	dub=https://embedplayer2.xyz/cdn/hls/cdd6bb035
 A Casa de Verão	dub=2:381807,10:2444159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301344.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301364.mp4,8:381807	leg=2:381806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300974.mp4,8:381806
 A Casa de Verão (2026)	dub=6:1500865
 A Casa de Vidro (2001)	dub=https://embedplayer2.xyz/cdn/hls/3611d084317dc49315012dc2677ae31b/master.txt,6:1307293,2:95904,10:2457532,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22289.mp4,8:95904
-A Casa de Vidro 2	dub=10:2445380
+A Casa de Vidro 2	dub=10:2445380,8:398494	leg=8:398493
 A Casa do Engano (2024)	dub=https://embedplayer2.xyz/cdn/hls/af30a009b2030f4f353002667ccd81e8/master.txt,6:1313787,2:359047,10:2445066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/148.mp4,8:359047	leg=2:359046,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60290.mp4,8:359046
 A Casa do Lago	dub=2:21542,10:2446883,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41116.mp4,8:21542
 A Casa do Lago (2006)	dub=6:1298691
@@ -453,7 +453,7 @@ A Conquista do Planeta dos Macacos (1972)	dub=6:1305028
 A Conspiracao Antivacina (2021)	leg=6:1302477
 A Conspiração (2012)	dub=6:1304129
 A Conspiração Antivacina	dub=2:136785,10:2452897,8:136785
-A Conspiração Condor	dub=2:398364	leg=2:398363
+A Conspiração Condor	dub=2:398364,8:398364	leg=2:398363,8:398363
 A Conspiração Condor (2026)	dub=10:2470949
 A Contadora de Filmes	dub=2:305765,10:2449421,10:2455093,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22334.mp4,8:305765	leg=2:305766,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60466.mp4,8:305766
 A Contadora de Filmes (2023)	dub=6:1312961
@@ -554,7 +554,7 @@ A Dama e o Vagabundo	dub=2:41191,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 A Dama e o Vagabundo (1955)	dub=6:1300872
 A Dama e o Vagabundo (2019)	dub=6:1300871
 A Dama e o Vagabundo 2: As Aventuras de Banze (2001)	dub=6:1300933
-A Dama e o Vagabundo II: As Aventuras de Banzé	dub=10:2459343
+A Dama e o Vagabundo II: As Aventuras de Banzé	dub=10:2459343,8:398551	leg=8:398550
 A Dama na Agua (2006)	dub=6:1302210
 A Dama na Água	dub=2:138917,10:2458464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33398.mp4,8:138917
 A Danca dos Vampiros (1967)	dub=6:1300775
@@ -989,7 +989,7 @@ A Garota Na Caixa	dub=2:258344,10:2456615,http://dbonline.tech-cdn.top:80/movie/
 A Garota Na Caixa (2016)	dub=6:1310374
 A Garota Na Névoa	dub=2:347097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43543.mp4,8:347097	leg=2:347096,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60976.mp4,8:347096
 A Garota Perdida (2025)	dub=https://embedplayer2.xyz/cdn/hls/2dc9de18db1281fa693c17a3c9c6ed01/master.txt,10:2445448
-A Garota Perfeita	dub=2:397881	leg=2:397880
+A Garota Perfeita	dub=2:397881,8:397881	leg=2:397880,8:397880
 A Garota Perfeita (2017)	dub=6:1297741
 A Garota da Agulha (2024)	dub=https://embedplayer2.xyz/cdn/hls/e8fc27fdc0474367d519350a090e9fa4/master.txt,10:2448159	leg=6:1312982,2:306695,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60926.mp4,8:306695
 A Garota da Capa Vermelha	dub=2:21202,10:2458421,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33440.mp4,8:21202
@@ -1137,6 +1137,7 @@ A Heroina em Cape Cod (2015)	dub=6:1302230
 A Heroína da Fita (2026)	dub=https://embedplayer2.xyz/cdn/hls/3d74ff8cb9d5a429e683912bdd508dcf/master.txt,10:2444103,10:2444119
 A Heroína em Cape Cod	dub=2:134056,10:2453100,8:134056
 A Hidden Life	dub=https://embedplayer2.xyz/cdn/hls/3e8d57243585e6d94382f49b50cd9297/master.txt	leg=2:40616,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61098.mp4,8:40616
+A Hipótese do Amor	dub=8:398796,8:398711	leg=8:398710
 A Historia Pessoal de David Copperfield (2019)	dub=6:1298176
 A Historia Sem Fim II (1990)	dub=6:1299231
 A Historia Verdadeira	dub=2:20904,10:2457185,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22634.mp4,8:20904
@@ -1366,13 +1367,14 @@ A Jornada de Hank Williams	dub=2:91422,10:2457218,http://dbonline.tech-cdn.top:8
 A Jornada de Hank Williams (2016)	dub=6:1307413
 A Jornada de Jhalki	dub=2:168534,10:2456437,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22695.mp4,8:168534	leg=2:168521,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61255.mp4,8:168521
 A Jornada de Jhalki (2019)	dub=6:1306036	leg=6:1306037
+A Jornada de Joy	dub=8:397883	leg=8:397882
 A Jornada de Joy (2022)	dub=https://embedplayer2.xyz/cdn/hls/201f968b2881850e6d4456c63e4dd9dc/master.txt,2:397883	leg=2:397882
 A Jornada de Srikanth	dub=10:2449660	leg=2:282066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61266.mp4,8:282066
 A Jornada de Vivo	dub=2:117537,10:2461494,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12551.mp4,8:117537	leg=2:117533,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61250.mp4,8:117533
 A Jornada de Vivo (2021)	dub=6:1298669
 A Jornada: Uma Viagem Pelo Tempo (2003)	dub=6:1304000
 A Jovem Bruxa	dub=2:335749,10:2447260,10:2458844,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33458.mp4,8:335749	leg=2:335748,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61261.mp4,8:335748
-A Jovem Juliette	dub=2:144894,10:2461339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12564.mp4,8:144894	leg=2:144895,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61271.mp4,8:144895
+A Jovem Juliette	dub=2:144894,10:2461339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12564.mp4,8:144894,8:398496	leg=2:144895,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61271.mp4,8:144895,8:398495
 A Jovem Juliette (2019)	dub=6:1300356
 A Jovem Rainha Vitória	dub=2:347277,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22703.mp4,8:347277	leg=2:347276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61276.mp4,8:347276
 A Jovem Rainha Vitória (2009)	dub=6:1313791
@@ -1623,6 +1625,7 @@ A Maldição do Queen Mary (2023)	dub=https://embedplayer2.xyz/cdn/hls/bb6bcfb54
 A Maldição do Sanpaku	dub=2:370873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249894.mp4,8:370873
 A Maldição do Titanic	dub=2:256936,10:2449279,10:2451910,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47124.mp4,8:256936	leg=2:256937,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61582.mp4,8:256937
 A Maldição do Tubarão	dub=2:394477,10:2444133,10:2444149,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313979.mp4,8:394477	leg=2:394476,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313925.mp4,8:394476
+A Maldição dos Brinquedos	dub=8:398553	leg=8:398552
 A Maldição dos Esquecidos	dub=2:213953,2:114386,10:2452113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47128.mp4,8:213953,8:114386	leg=2:213954,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61592.mp4,8:213954
 A Maldição dos Minimoys	dub=https://embedplayer2.xyz/cdn/hls/6780034a975bd02be47107c1bb8724a1/master.txt,2:343123,10:2448139,10:2451296,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47133.mp4,8:343123	leg=2:343122,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61587.mp4,8:343122
 A Maldição dos Templários	dub=2:200319,10:2452293,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47136.mp4,8:200319	leg=2:200318,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61597.mp4,8:200318
@@ -1766,7 +1769,7 @@ A Morte Te Da Parabens 2 (2019)	dub=https://embedplayer2.xyz/cdn/hls/1c136453694
 A Morte Veste Vermelho	dub=2:310586,10:2451928,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47209.mp4,8:310586
 A Morte de Branca de Neve (2025)	dub=https://embedplayer2.xyz/cdn/hls/207164fd287b648949de2d8bc71df7a4/master.txt
 A Morte de Jesus: Uma Investigação Médica	dub=2:318541,10:2452886,8:318541
-A Morte de Robin Hood	leg=2:389187,10:2444172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310334.mp4,8:389187
+A Morte de Robin Hood	leg=2:389187,10:2444172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310334.mp4,8:389187	dub=8:398845
 A Morte de Stalin	dub=2:20500,10:2460535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12620.mp4,8:20500
 A Morte de Stalin (2017)	dub=6:1310346
 A Morte de um Unicornio (2025)	dub=https://embedplayer2.xyz/cdn/hls/89facaa8edc888f500fa1b57cbb1604d/master.txt,6:1313714,2:338421,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54197.mp4,8:338421,10:2444543	leg=6:1313713,10:2448534
@@ -1935,7 +1938,7 @@ A Nossa Cancao de Amor (2020)	dub=6:1299982
 A Nossa Canção de Amor	dub=2:169668,10:2446616,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41224.mp4,8:169668	leg=2:169635,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61886.mp4,8:169635
 A Nossa Guerra dos 7 Dias	dub=2:149553,10:2455466,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22859.mp4,8:149553	leg=2:149558,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61891.mp4,8:149558
 A Nossa Guerra dos 7 Dias (2019)	dub=6:1302090
-A Nova Cinderela	dub=2:397885,2:243391,10:2460812,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12662.mp4,8:243391	leg=2:397884
+A Nova Cinderela	dub=2:397885,2:243391,10:2460812,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12662.mp4,8:243391,8:397885	leg=2:397884,8:397884
 A Nova Cinderela (2004)	dub=6:1309494
 A Nova Cinderela: Era uma Vez uma Canção	dub=10:2458080,10:2461917
 A Nova Cinderela: Milagre de Natal (2019)	dub=6:1308525	leg=6:1308526
@@ -2477,6 +2480,7 @@ A TORTURA DO MEU AMANTE MODERNO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin
 A TRAVESSIA JA FICOU PARA TRAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302518.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302538.mp4
 A Tabacaria	dub=2:88693,10:2456962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23063.mp4,8:88693
 A Tabacaria (2018)	dub=6:1303765
+A Tartaruga e a Lebre: A Revanche do Século	dub=8:398498	leg=8:398497
 A Tecnologia Social	dub=2:366078,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97117.mp4,8:366078
 A Teia	dub=2:275481,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54295.mp4,8:275481,2:275480,2:265621,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21101.mp4,8:275480,8:265621	leg=2:275482,2:265622,2:256843,10:2450264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62432.mp4,8:275482,8:265622,8:256843
 A Teia (2024)	dub=6:1304920	leg=6:1303421
@@ -2784,6 +2788,7 @@ A Volta do Espírito de Natal (2017)	dub=6:1307920
 A Volta do Homem de Seis Milhões de Dólares e da Mulher Biônica	leg=2:370878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249867.mp4,8:370878
 A Volta do Incrível Hulk	dub=2:315413,10:2459065,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35472.mp4,8:315413
 A Volta do Juizo Final (2017)	dub=6:1309180
+A Volta do Mestre dos Brinquedos	dub=8:398555	leg=8:398554
 A Volta do Todo Poderoso	dub=2:101649,10:2460642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12786.mp4,8:101649
 A Volta do Todo Poderoso (2007)	dub=6:1297624
 A Volta dos Mortos Vivos	dub=2:382816,2:21702,10:2451674,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47441.mp4,8:382816,8:21702	leg=2:382815,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300998.mp4,8:382815
@@ -2877,7 +2882,7 @@ A Última Noite de Bóris Grushenko	dub=2:376750,http://dbonline.tech-cdn.top:80
 A Última Noite em Pacerville	dub=2:259326,10:2452275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47480.mp4,8:259326	leg=2:259327,10:2449162,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62845.mp4,8:259327
 A Última Nota (2020)	dub=6:1308141	leg=6:1308142
 A Última Parada No Condado De Yuma (2024)	dub=https://embedplayer2.xyz/cdn/hls/7efc00feb5ae38233b7c179734ebc0e0/master.txt	leg=6:1304943,2:261673,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62840.mp4,8:261673
-A Última Peça	dub=2:397886
+A Última Peça	dub=2:397886,8:397886
 A Última Primavera	dub=2:340261,10:2449894,10:2451151,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37608.mp4,8:340261	leg=2:340260,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62851.mp4,8:340260
 A Última Profecia	dub=2:129517,10:2451400,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47476.mp4,8:129517
 A Última Profecia (2002)	dub=6:1304355
@@ -3141,7 +3146,7 @@ Academia de Vilões	dub=2:343201,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Acampamento Intergaláctico	dub=2:178576,10:2458332,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11909.mp4,8:178576
 Acampamento Intergaláctico (2022)	dub=6:1305354
 Acampamento Maldito (2019)	dub=https://embedplayer2.xyz/cdn/hls/1d2fbfe92fff91b9277378ca508af6b2/master.txt,6:1302633,2:220053,10:2452381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47525.mp4,8:220053	leg=2:220052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62999.mp4,8:220052
-Acampamento Miasma: Adolescência, Sexo e Morte	dub=2:397870	leg=2:397869
+Acampamento Miasma: Adolescência, Sexo e Morte	dub=2:397870,8:397870	leg=2:397869,8:397869
 Acampamento Miasma: Adolescência, Sexo e Morte (2026)	dub=10:2470947
 Acampamento com a Mamãe	dub=2:297407,10:2447542,10:2461325,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12843.mp4,8:297407	leg=2:297408,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62981.mp4,8:297408
 Acampamento de Teatro (2023)	dub=https://embedplayer2.xyz/cdn/hls/42ed809c177d0d6a11353b88c2154313/master.txt,6:1302781,2:225419,10:2460542,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12839.mp4,8:225419	leg=2:225416,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62997.mp4,8:225416
@@ -3278,141 +3283,128 @@ Adriana Varejão: Entre Carnes e Mares	dub=2:340106,10:2452616,8:340106
 Adrienne (2021)	leg=6:1302478
 Adu (2020)	dub=https://embedplayer2.xyz/cdn/hls/f5dc865142308a5f614acb63df2508bf/master.txt,6:1298136,2:369383,2:48249,10:2456347,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23374.mp4,8:369383,8:48249	leg=2:369382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99486.mp4,8:369382
 Adult Swim's The Elephant	dub=2:358125,10:2445065,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256.mp4,8:358125	leg=2:358124,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63145.mp4,8:358124
-Adulto - Agirlknows - Rebecca Volpetti Emily Cutie And Kinuski	dub=10:2465016,8:31559
-Adulto - Blacked - Emily Cutie - Working Abroad	dub=10:2463867,8:31560
-Adulto - Blackedraw - Emily Cutie - Late Transit	dub=10:2462837,8:31561
-Adulto - Defloration - Emily Cutie - Hardcore Defloration	dub=8:31562
-Adulto - Hornyhostel - Emily Cutie - Find Me	dub=10:2462472,8:31563
-Adulto - Immorallive - Emily Cutie	dub=10:2463213,8:31565,8:31564
-Adulto - Immorallive Anal - Emily Cutie	dub=10:2465428,8:31566
-Adulto - Isabelle Star - New Star	dub=10:2464086,8:31567
-Adulto - O Porteiro do Dia	dub=10:2462151,8:106837
-Adulto - Thewhiteboxxx - Emily Cutie	dub=10:2463128,8:31569
-Adulto - Thewhiteboxxx - Emily Cutie - Sensual Morning	dub=10:2465154,8:31568
-Adulto - Tushy - Emily Cutie - Art And Anal	dub=10:2462152,8:31570
-Adulto - Winter Jade 01	dub=10:2465640,8:31757
-Adulto - Winter Jade 02	dub=10:2463855,8:31758
-Adulto - Winter Jade 03	dub=10:2462841,8:31759
-Adulto - Winter Jade 04	dub=10:2465424,8:31760
-Adulto - Winter Jade 05	dub=10:2464692,8:31761
-Adulto - Winter Jade 06	dub=10:2462127,8:31762
-Adulto - Winter Jade 07	dub=10:2462972,8:31763
-Adulto - Winter Jade 08	dub=10:2465918,8:31764
-Adulto - Winter Jade 09	dub=10:2464134,8:31765
-Adulto - Winter Jade 10	dub=10:2464270,8:31766
-Adulto - Winter Jade 11	dub=10:2464255,8:31767
-Adulto - Winter Jade 12	dub=10:2464756,8:31768
-Adulto - Winter Jade 13	dub=10:2465190,8:31769
-Adulto - Winter Jade 14	dub=10:2465220,8:31770
-Adulto - Winter Jade 15	dub=10:2465480,8:31771
-Adulto - Winter Jade 16	dub=10:2463773,8:31772
-Adulto - Winter Jade 17	dub=10:2465345,8:31773
-Adulto A Very Merry Bareback Christmas	dub=10:2463253,8:21861
-Adulto BCM Busty Babe Loves Black Cock	dub=10:2463437,8:21862
-Adulto Bangbros Mia Khalifa - Is Back And Ready For Black Dick	dub=10:2464183,8:25493
-Adulto Bangbros Mia Khalifa - Mia K Gives The Girlfriend Experience	dub=10:2463210,8:25494
-Adulto Bangbros Mia Khalifa - Mia Khalifa Gets Her Pussy Stretched	dub=10:2464663,8:25495
-Adulto Bareback Leather Fuck Fest	dub=10:2463585,8:21863
-Adulto Buttman - Carnaval Folia (2005)	dub=10:2463149,8:21864
-Adulto Buttman - Puro Prazer 2	dub=10:2463787,8:21865
-Adulto Buttman - Tour Porto Alegre	dub=10:2463524,8:21866
-Adulto Festa da Salsicha	dub=10:2461989,8:21867
-Adulto GloryHole Stella Cox and Jade Jantzen	dub=10:2465069,8:21868
-Adulto HarmonyVision Bentley And Stella Cox	dub=10:2462769,8:21869
-Adulto His Sons Best Friend	dub=10:2463060,8:21870
-Adulto Joshstonexxx - Mia Khalifa - Tony Rubinos Lets Make A Sex Tape	dub=10:2462476,8:25496
-Adulto Little Caprice Gaping For My Husband s Boss	dub=10:2465362,8:21871
-Adulto LittleCaprice Dreams Caprice	dub=10:2462669,8:21873
-Adulto LittleCaprice Dreams Little Caprice	dub=10:2463463,8:21872
-Adulto LittleCapriceDreams School Girl Webcam Show	dub=10:2466018,8:21875
-Adulto Maru Karv - Amateur Girlfriend Teen Sucking My Dick To Get Cum	dub=10:2465557,8:28289
-Adulto Maru Karv - Asmr Blowjob Banana Whispering And Moan - Sussurando E Gemendo	dub=10:2462674,8:28290
-Adulto Maru Karv - Asmr Porn Instagram Girl Talking Dirty And Teasing Her Body	dub=10:2465308,8:28291
-Adulto Maru Karv - Big Ass Teen Dances Funk And Gives A Blowjob For Facial	dub=10:2465586,8:28292
-Adulto Maru Karv - Big Booty Redhead Girlfriend In Yoga Pants Get Anal Fuck Awesome Girl	dub=10:2463791,8:28293
-Adulto Maru Karv - Blowjob And Asmr Ocean In The Background. Sound Good	dub=10:2464531,8:28295
-Adulto Maru Karv - Cat Blowjob Yammyyy Cosplay Cat Giving A Sloppy Blowjob In Huge Dildo	dub=10:2463354,8:28296
-Adulto Maru Karv - Cum In Mouth I Just Cant See A Big Cock And Not To Suck It. Morning Blowjob	dub=10:2462758,8:28298
+Adulto - Agirlknows - Rebecca Volpetti Emily Cutie And Kinuski	dub=10:2465016
+Adulto - Blacked - Emily Cutie - Working Abroad	dub=10:2463867
+Adulto - Blackedraw - Emily Cutie - Late Transit	dub=10:2462837
+Adulto - Hornyhostel - Emily Cutie - Find Me	dub=10:2462472
+Adulto - Immorallive - Emily Cutie	dub=10:2463213
+Adulto - Immorallive Anal - Emily Cutie	dub=10:2465428
+Adulto - Isabelle Star - New Star	dub=10:2464086
+Adulto - O Porteiro do Dia	dub=10:2462151
+Adulto - Thewhiteboxxx - Emily Cutie	dub=10:2463128
+Adulto - Thewhiteboxxx - Emily Cutie - Sensual Morning	dub=10:2465154
+Adulto - Tushy - Emily Cutie - Art And Anal	dub=10:2462152
+Adulto - Winter Jade 01	dub=10:2465640
+Adulto - Winter Jade 02	dub=10:2463855
+Adulto - Winter Jade 03	dub=10:2462841
+Adulto - Winter Jade 04	dub=10:2465424
+Adulto - Winter Jade 05	dub=10:2464692
+Adulto - Winter Jade 06	dub=10:2462127
+Adulto - Winter Jade 07	dub=10:2462972
+Adulto - Winter Jade 08	dub=10:2465918
+Adulto - Winter Jade 09	dub=10:2464134
+Adulto - Winter Jade 10	dub=10:2464270
+Adulto - Winter Jade 11	dub=10:2464255
+Adulto - Winter Jade 12	dub=10:2464756
+Adulto - Winter Jade 13	dub=10:2465190
+Adulto - Winter Jade 14	dub=10:2465220
+Adulto - Winter Jade 15	dub=10:2465480
+Adulto - Winter Jade 16	dub=10:2463773
+Adulto - Winter Jade 17	dub=10:2465345
+Adulto A Very Merry Bareback Christmas	dub=10:2463253
+Adulto BCM Busty Babe Loves Black Cock	dub=10:2463437
+Adulto Bangbros Mia Khalifa - Is Back And Ready For Black Dick	dub=10:2464183
+Adulto Bangbros Mia Khalifa - Mia K Gives The Girlfriend Experience	dub=10:2463210
+Adulto Bangbros Mia Khalifa - Mia Khalifa Gets Her Pussy Stretched	dub=10:2464663
+Adulto Bareback Leather Fuck Fest	dub=10:2463585
+Adulto Buttman - Carnaval Folia (2005)	dub=10:2463149
+Adulto Buttman - Puro Prazer 2	dub=10:2463787
+Adulto Buttman - Tour Porto Alegre	dub=10:2463524
+Adulto Festa da Salsicha	dub=10:2461989
+Adulto GloryHole Stella Cox and Jade Jantzen	dub=10:2465069
+Adulto HarmonyVision Bentley And Stella Cox	dub=10:2462769
+Adulto His Sons Best Friend	dub=10:2463060
+Adulto Joshstonexxx - Mia Khalifa - Tony Rubinos Lets Make A Sex Tape	dub=10:2462476
+Adulto Little Caprice Gaping For My Husband s Boss	dub=10:2465362
+Adulto LittleCaprice Dreams Caprice	dub=10:2462669
+Adulto LittleCaprice Dreams Little Caprice	dub=10:2463463
+Adulto LittleCapriceDreams School Girl Webcam Show	dub=10:2466018
+Adulto Maru Karv - Amateur Girlfriend Teen Sucking My Dick To Get Cum	dub=10:2465557
+Adulto Maru Karv - Asmr Blowjob Banana Whispering And Moan - Sussurando E Gemendo	dub=10:2462674
+Adulto Maru Karv - Asmr Porn Instagram Girl Talking Dirty And Teasing Her Body	dub=10:2465308
+Adulto Maru Karv - Big Ass Teen Dances Funk And Gives A Blowjob For Facial	dub=10:2465586
+Adulto Maru Karv - Big Booty Redhead Girlfriend In Yoga Pants Get Anal Fuck Awesome Girl	dub=10:2463791
+Adulto Maru Karv - Blowjob And Asmr Ocean In The Background. Sound Good	dub=10:2464531
+Adulto Maru Karv - Cat Blowjob Yammyyy Cosplay Cat Giving A Sloppy Blowjob In Huge Dildo	dub=10:2463354
+Adulto Maru Karv - Cum In Mouth I Just Cant See A Big Cock And Not To Suck It. Morning Blowjob	dub=10:2462758
 Adulto Maru Karv - Cute Redhead Girl Sucking A Big Dick And Swallowing All The Cumshot. - 1080P-1	dub=10:2465797
-Adulto Maru Karv - Doing A Footjob For Him To Cum On My Feets. Our First Footjob Here. Enjoy	dub=10:2464331,8:28300
-Adulto Maru Karv - Every Time He Look At Me He Want To Fuck Me. Blue Dress	dub=10:2465529,8:28301
-Adulto Maru Karv - Fuck My Ass Hard And Cum On My Strings - Amateur Maru Karv Redhead Teen	dub=10:2464187,8:28302
-Adulto Maru Karv - Fun With My Hot Big Boobs Friend Emanuelly Raquel In Public Butt And Boobs	dub=10:2462534,8:28303
-Adulto Maru Karv - Girlfriend Best Friend Sucking My Cock In Our Garden With Facial	dub=10:2466024,8:28304
-Adulto Maru Karv - Girlfriend Makes The Best Sloppy Blowjob And Let Me Cum All Over Her Face	dub=10:2464893,8:28305
-Adulto Maru Karv - Hardcore Blowjob And Anal Ends In Facial And Alot Of Makeup Tears	dub=10:2463470,8:28306
-Adulto Maru Karv - He Creampie My Pussy And I Eat It All. Amateur Stepsister Nerd Girl	dub=10:2465295,8:28308
-Adulto Maru Karv - He Lick All My Pussy So Good I Need To Let Him Fuck My Ass And Creampie	dub=10:2464631,8:28310
-Adulto Maru Karv - Hot Redhead Instagram Teen Sucking Cock After Gym	dub=10:2462417,8:28311
-Adulto Maru Karv - I Just Love To Suck A Big Cock Omg And Feel All That Cum On My Face	dub=10:2464603,8:28312
-Adulto Maru Karv - I Suck Him So Good He Cummed 2 Times And Cummed Alot In My Mouth	dub=10:2462622,8:28313
-Adulto Maru Karv - I Suck Stranger's Cock In Shopping Center Bathrom And He Cum On My Face	dub=10:2464467,8:28314
-Adulto Maru Karv - Just A Huge Cumshot Tease Before Going To Bed	dub=10:2464974,8:28315
-Adulto Maru Karv - Just Some Public Pussy Fun And Blowjob I Love Publics Hahaha	dub=10:2465461,8:28316
-Adulto Maru Karv - Love To Masturbate In Every Public Place I Go	dub=10:2462245,8:28317
-Adulto Maru Karv - Love To Suck And Getting That Cum	dub=10:2462569,8:28318
-Adulto Maru Karv - Maru Redhead Teen Blowjob And Huge Facial Cumshot	dub=10:2464951,8:28319
-Adulto Maru Karv - Nutaku And Redhead Anal Blowjob Mouth Cumshot	dub=10:2463135,8:28320
-Adulto Maru Karv - Ohhh That Cum Creampie Look So Good Hardcore And Romantic Sex	dub=10:2464308,8:28321
-Adulto Maru Karv - Perfect Teen Redhead Sucking With Cum In Mouth	dub=10:2463298,8:28322
-Adulto Maru Karv - Playing At The Store Dresser With A Butt Plug	dub=10:2465355,8:28323
-Adulto Maru Karv - Redhead Girlfriend The Best Blowjob Ever And Then Swallow All My Cumshot	dub=10:2464636,8:28325
-Adulto Maru Karv - Redhead Teen Whore Wants To Test Her New Phone Sucking My Cock And Cum	dub=10:2462448,8:28326
-Adulto Maru Karv - She Aways Delivery The Best Blowjob Smartphone Video	dub=10:2463648,8:28327
-Adulto Maru Karv - She Made Twerk For Me And We Ended Up Fucking Perfect Redhead Twerk Ass	dub=10:2462838,8:28329
-Adulto Maru Karv - Snapchat Redhead Amateur Teen Get Ass Fucked And Anal Creampie	dub=10:2465912,8:28333
-Adulto Maru Karv - Snapchat Teen Having Sex In The Pool	dub=10:2464085,8:28334
-Adulto Maru Karv - Step Sister Redhead Teen Ass Fucking And Cuming In That Beauty Pussy	dub=10:2463577,8:28335
-Adulto Maru Karv - Super Hot Naughty Teen Playing With Her New Huge Dildo And Toy	dub=10:2465048,8:28336
-Adulto Maru Karv - Teen Blowjob And Anal With That Big Cock Till Cum In Mouth At Night	dub=10:2465993,8:28337
-Adulto Maru Karv - Teen College Sucking A Bwc And Eating All The Cumshot Creampie	dub=10:2464895,8:28338
-Adulto Maru Karv - Teen Girlfriend Masturbates In Shower And Post It On Snapchat Leaked	dub=10:2463092,8:28339
-Adulto Maru Karv - Teen Masturbate With A Big Dildo After Streaming	dub=10:2464024,8:28340
-Adulto Maru Karv - Teen Redhead Anal Sex With My Panties On I Dont Even Take My Lingerie Off	dub=10:2463129,8:28341
-Adulto Maru Karv - Teen Step Sister Writing Her Diary Ended Up In Blowjob And Anal At Morning	dub=10:2464099,8:28342
-Adulto Maru Karv - Tinder Teen Let Me Film Her Sucking And Swallow All The Cum	dub=10:2463197,8:28343
-Adulto Maru Karv - Using My New Toy While He Fucked Me 2 Orgasms And 2 Cumshots	dub=10:2464737,8:28344
-Adulto Maru Karv - We Fucked In The Fire Escape At The Mall Cumshot Facial And Keep Fucking	dub=10:2465358,8:28345
-Adulto Maru Karv - Wood Witch Blowjob For Halloween Witch Cosplay For Halloween Public Video	dub=10:2463141,8:28346
-Adulto Mia Khalifa - Anatomy	dub=10:2464970,8:25498
-Adulto Mia Khalifa - Anatomy - Clothes	dub=10:2462490,8:25497
-Adulto Mia Khalifa - Art Imitating Life	dub=10:2462193,8:25499
-Adulto Mia Khalifa - Bath Time Is The Best Time	dub=10:2463375,8:25500
-Adulto Mia Khalifa - Bj Lessons W Mia Khalifa	dub=10:2464160,8:25501
-Adulto Mia Khalifa - Black Vs White My Ultimate Dick Challenge	dub=10:2462797,8:25502
-Adulto Mia Khalifa - Here Is My Body I Hope You Like It	dub=10:2462206,8:25503
-Adulto Mia Khalifa - I Am A Sucker For A Qb	dub=10:2465827,8:25504
-Adulto Mia Khalifa - I Popped A Fans Cherry	dub=10:2462850,8:25505
-Adulto Mia Khalifa - Masturbation	dub=10:2464492,8:25506
-Adulto Mia Khalifa - Me Getting Extra Dick Behind The Scenes	dub=10:2462383,8:25507
-Adulto Mia Khalifa - My Big Black Threesome	dub=10:2463383,8:25508
-Adulto Mia Khalifa - My First Creampie	dub=10:2464624,8:25509
-Adulto Mia Khalifa - My Porn Audition	dub=10:2465107,8:25510
-Adulto Mia Khalifa - Tries A Big Black Dick	dub=10:2463231,8:25511
-Adulto Mia Khalifa - Vagina	dub=10:2463380,8:25512
-Adulto Mike Colucci And Harry Louis	dub=10:2462336,8:21876
-Adulto Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye	dub=10:2464538,8:21877
-Adulto Ninfomaniaca Vol. 1	dub=10:2465034,8:21878
-Adulto Ninfomaniaca Vol. 2	dub=10:2462440,8:21879
-Adulto PornFidelity Stella Cox	dub=10:2465447,8:21880
-Adulto Scorehd Mia Khalifa - A Body Made For Sex	dub=10:2464784,8:25513
-Adulto Scorehd Mia Khalifa - Blow Job Mvp Award Winner	dub=10:2462418,8:25514
-Adulto Scorehd Mia Khalifa - Graduating Summa Cum Loud	dub=10:2463447,8:25515
-Adulto Scorehd Mia Khalifa - Meet The Busty Girl Who Works At The Hamburger Joint	dub=10:2465948,8:25516
-Adulto Scorehd Mia Khalifa - She Is Lovin It And Havin It Her Way	dub=10:2465326,8:25517
-Adulto The Drae Axtell Collection	dub=10:2464472,8:21881
-Adulto: LittleCaprice Dreams Paula Shy, Caprice	dub=8:21874
-Adulto: Maru Karv - All Holes Fucked Step Sister Teen - Blowjob Deepth, Pussy, Anal And Facial	dub=8:28288
-Adulto: Maru Karv - Blowjob After Waking Up Hot Readhead Teen. Cum In Mouth, Amateur Blowjob	dub=8:28294
-Adulto: Maru Karv - Chantilly, Fun, Fuck, And A Big Pussy Creampie	dub=8:28297
-Adulto: Maru Karv - Cute Redhead Girl Sucking A Big Dick And Swallowing All The Cumshot. - 1080P-12	dub=8:28299
-Adulto: Maru Karv - He Came On My Face, But I Keep Sucking His Dick And He Came Again	dub=8:28307
-Adulto: Maru Karv - He Cum To Fast, I Swallow It. Public Blowjob And Anal At Night	dub=8:28309
-Adulto: Maru Karv - Public Blowjob In The Street, And, He Cums On All My Face	dub=8:28324
-Adulto: Maru Karv - She Is So Delicious Blowjob And Analsex With That Ass, And Cum In Mouth	dub=8:28328
-Adulto: Maru Karv - She Swallow Everydrop Of Cum Blowjob And Anal With That Redhead Ass	dub=8:28330
-Adulto: Maru Karv - She Was Playing Fortnite, Them She Came Suck My Cock Big Facial In Her Face	dub=8:28331
-Adulto: Maru Karv - Sloppy Wet Blowjob Asmr With Cum On My Face And Tits	dub=8:28332
+Adulto Maru Karv - Doing A Footjob For Him To Cum On My Feets. Our First Footjob Here. Enjoy	dub=10:2464331
+Adulto Maru Karv - Every Time He Look At Me He Want To Fuck Me. Blue Dress	dub=10:2465529
+Adulto Maru Karv - Fuck My Ass Hard And Cum On My Strings - Amateur Maru Karv Redhead Teen	dub=10:2464187
+Adulto Maru Karv - Fun With My Hot Big Boobs Friend Emanuelly Raquel In Public Butt And Boobs	dub=10:2462534
+Adulto Maru Karv - Girlfriend Best Friend Sucking My Cock In Our Garden With Facial	dub=10:2466024
+Adulto Maru Karv - Girlfriend Makes The Best Sloppy Blowjob And Let Me Cum All Over Her Face	dub=10:2464893
+Adulto Maru Karv - Hardcore Blowjob And Anal Ends In Facial And Alot Of Makeup Tears	dub=10:2463470
+Adulto Maru Karv - He Creampie My Pussy And I Eat It All. Amateur Stepsister Nerd Girl	dub=10:2465295
+Adulto Maru Karv - He Lick All My Pussy So Good I Need To Let Him Fuck My Ass And Creampie	dub=10:2464631
+Adulto Maru Karv - Hot Redhead Instagram Teen Sucking Cock After Gym	dub=10:2462417
+Adulto Maru Karv - I Just Love To Suck A Big Cock Omg And Feel All That Cum On My Face	dub=10:2464603
+Adulto Maru Karv - I Suck Him So Good He Cummed 2 Times And Cummed Alot In My Mouth	dub=10:2462622
+Adulto Maru Karv - I Suck Stranger's Cock In Shopping Center Bathrom And He Cum On My Face	dub=10:2464467
+Adulto Maru Karv - Just A Huge Cumshot Tease Before Going To Bed	dub=10:2464974
+Adulto Maru Karv - Just Some Public Pussy Fun And Blowjob I Love Publics Hahaha	dub=10:2465461
+Adulto Maru Karv - Love To Masturbate In Every Public Place I Go	dub=10:2462245
+Adulto Maru Karv - Love To Suck And Getting That Cum	dub=10:2462569
+Adulto Maru Karv - Maru Redhead Teen Blowjob And Huge Facial Cumshot	dub=10:2464951
+Adulto Maru Karv - Nutaku And Redhead Anal Blowjob Mouth Cumshot	dub=10:2463135
+Adulto Maru Karv - Ohhh That Cum Creampie Look So Good Hardcore And Romantic Sex	dub=10:2464308
+Adulto Maru Karv - Perfect Teen Redhead Sucking With Cum In Mouth	dub=10:2463298
+Adulto Maru Karv - Playing At The Store Dresser With A Butt Plug	dub=10:2465355
+Adulto Maru Karv - Redhead Girlfriend The Best Blowjob Ever And Then Swallow All My Cumshot	dub=10:2464636
+Adulto Maru Karv - Redhead Teen Whore Wants To Test Her New Phone Sucking My Cock And Cum	dub=10:2462448
+Adulto Maru Karv - She Aways Delivery The Best Blowjob Smartphone Video	dub=10:2463648
+Adulto Maru Karv - She Made Twerk For Me And We Ended Up Fucking Perfect Redhead Twerk Ass	dub=10:2462838
+Adulto Maru Karv - Snapchat Redhead Amateur Teen Get Ass Fucked And Anal Creampie	dub=10:2465912
+Adulto Maru Karv - Snapchat Teen Having Sex In The Pool	dub=10:2464085
+Adulto Maru Karv - Step Sister Redhead Teen Ass Fucking And Cuming In That Beauty Pussy	dub=10:2463577
+Adulto Maru Karv - Super Hot Naughty Teen Playing With Her New Huge Dildo And Toy	dub=10:2465048
+Adulto Maru Karv - Teen Blowjob And Anal With That Big Cock Till Cum In Mouth At Night	dub=10:2465993
+Adulto Maru Karv - Teen College Sucking A Bwc And Eating All The Cumshot Creampie	dub=10:2464895
+Adulto Maru Karv - Teen Girlfriend Masturbates In Shower And Post It On Snapchat Leaked	dub=10:2463092
+Adulto Maru Karv - Teen Masturbate With A Big Dildo After Streaming	dub=10:2464024
+Adulto Maru Karv - Teen Redhead Anal Sex With My Panties On I Dont Even Take My Lingerie Off	dub=10:2463129
+Adulto Maru Karv - Teen Step Sister Writing Her Diary Ended Up In Blowjob And Anal At Morning	dub=10:2464099
+Adulto Maru Karv - Tinder Teen Let Me Film Her Sucking And Swallow All The Cum	dub=10:2463197
+Adulto Maru Karv - Using My New Toy While He Fucked Me 2 Orgasms And 2 Cumshots	dub=10:2464737
+Adulto Maru Karv - We Fucked In The Fire Escape At The Mall Cumshot Facial And Keep Fucking	dub=10:2465358
+Adulto Maru Karv - Wood Witch Blowjob For Halloween Witch Cosplay For Halloween Public Video	dub=10:2463141
+Adulto Mia Khalifa - Anatomy	dub=10:2464970
+Adulto Mia Khalifa - Anatomy - Clothes	dub=10:2462490
+Adulto Mia Khalifa - Art Imitating Life	dub=10:2462193
+Adulto Mia Khalifa - Bath Time Is The Best Time	dub=10:2463375
+Adulto Mia Khalifa - Bj Lessons W Mia Khalifa	dub=10:2464160
+Adulto Mia Khalifa - Black Vs White My Ultimate Dick Challenge	dub=10:2462797
+Adulto Mia Khalifa - Here Is My Body I Hope You Like It	dub=10:2462206
+Adulto Mia Khalifa - I Am A Sucker For A Qb	dub=10:2465827
+Adulto Mia Khalifa - I Popped A Fans Cherry	dub=10:2462850
+Adulto Mia Khalifa - Masturbation	dub=10:2464492
+Adulto Mia Khalifa - Me Getting Extra Dick Behind The Scenes	dub=10:2462383
+Adulto Mia Khalifa - My Big Black Threesome	dub=10:2463383
+Adulto Mia Khalifa - My First Creampie	dub=10:2464624
+Adulto Mia Khalifa - My Porn Audition	dub=10:2465107
+Adulto Mia Khalifa - Tries A Big Black Dick	dub=10:2463231
+Adulto Mia Khalifa - Vagina	dub=10:2463380
+Adulto Mike Colucci And Harry Louis	dub=10:2462336
+Adulto Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye	dub=10:2464538
+Adulto Ninfomaniaca Vol. 1	dub=10:2465034
+Adulto Ninfomaniaca Vol. 2	dub=10:2462440
+Adulto PornFidelity Stella Cox	dub=10:2465447
+Adulto Scorehd Mia Khalifa - A Body Made For Sex	dub=10:2464784
+Adulto Scorehd Mia Khalifa - Blow Job Mvp Award Winner	dub=10:2462418
+Adulto Scorehd Mia Khalifa - Graduating Summa Cum Loud	dub=10:2463447
+Adulto Scorehd Mia Khalifa - Meet The Busty Girl Who Works At The Hamburger Joint	dub=10:2465948
+Adulto Scorehd Mia Khalifa - She Is Lovin It And Havin It Her Way	dub=10:2465326
+Adulto The Drae Axtell Collection	dub=10:2464472
 Adultos Inexperientes (2014)	dub=6:1299863
 Advance and Be Mechanized	dub=2:371951,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250797.mp4,8:371951
 Adverse	leg=2:101365,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63133.mp4,8:101365
@@ -3887,6 +3879,7 @@ Amante a Domicílio (2013)	dub=6:1307289
 Amante sob Suspeita	dub=10:2459633
 Amante sob Suspeita (2018)	leg=6:1312231
 Amantes	dub=2:375921,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253668.mp4,8:375921	leg=2:375920,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253679.mp4,8:375920
+Amantes & Infiéis	dub=8:398500	leg=8:398499
 Amantes Eternos (2013)	dub=6:1300477
 Amantes e Traições	dub=2:35994,10:2459990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12999.mp4,8:35994
 Amantes e Traições (2018)	dub=6:1307942
@@ -4014,7 +4007,7 @@ Amigos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37
 Amigos Alienigenas (2018)	dub=6:1500939
 Amigos Alienígenas	dub=2:355708,10:2459284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8628.mp4,8:355708
 Amigos Amigos Mulheres a Parte (2008)	dub=6:1314184
-Amigos Até A Morte	dub=2:398354	leg=2:398353
+Amigos Até A Morte	dub=2:398354,8:398354	leg=2:398353,8:398353
 Amigos Até A Morte (2023)	dub=10:2470951
 Amigos Imaginarios (2024)	dub=6:1304922	leg=6:1304921
 Amigos Imaginários	dub=2:265866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54476.mp4,8:265866,2:265865,10:2447672,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8611.mp4,8:265865	leg=2:265867,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63749.mp4,8:265867
@@ -4216,7 +4209,7 @@ Amor e Esperança	dub=2:160586,10:2455683,http://dbonline.tech-cdn.top:80/movie/
 Amor e Esperança (2019)	dub=6:1306212	leg=6:1306213
 Amor e Food Trucks	dub=2:149249,10:2446479,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41384.mp4,8:149249	leg=2:149248,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63909.mp4,8:149248
 Amor e Food Trucks (2020)	dub=6:1303277
-Amor e Inocência	dub=2:397887
+Amor e Inocência	dub=2:397887,8:397887
 Amor e Intrigas S01E1340	dub=11:2331775
 Amor e Liberdade (2018)	dub=https://embedplayer2.xyz/cdn/hls/5de69dc8a7f2224ae032238118d370f2/master.txt,6:1312204,2:288509,10:2446363,10:2449176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41393.mp4,8:288509	leg=2:288510,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63913.mp4,8:288510
 Amor e Monstros	dub=2:102427,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54530.mp4,8:102427,2:102340,10:2461474,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13079.mp4,8:102340
@@ -4816,6 +4809,7 @@ Armas e Amores aka Segundo Turno	dub=2:112917,10:2457655,http://dbonline.tech-cd
 Armas em Jogo (2020)	dub=https://embedplayer2.xyz/cdn/hls/fddcd5526398fbb4abb58e5181ea16a0/master.txt,6:1302272,2:87116,10:2460509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13217.mp4,8:87116
 Armas na Mesa	dub=2:314687,10:2447617,10:2457187,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23897.mp4,8:314687	leg=2:314688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64686.mp4,8:314688
 Armas na Mesa (2016)	dub=6:1301453
+Armações do Amor	dub=8:398501
 Armações do Amor (2006)	dub=6:1313012
 Armstrong (2019)	leg=6:1308466
 Armstrong Legendado	dub=2:26576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64696.mp4,8:26576
@@ -5376,6 +5370,7 @@ Assim é a Vida	dub=https://embedplayer2.xyz/cdn/hls/950ad4896ba0862249a7b5b9464
 Assimilados - Os Novos Invasores de Corpos (2019)	dub=https://embedplayer2.xyz/cdn/hls/0ebc0830d67d515f19539b85abcb33e4/master.txt
 Assine Aquí	dub=2:265899,10:2447781,10:2456052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24041.mp4,8:265899	leg=2:265900,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65193.mp4,8:265900
 Assine Aquí (2024)	dub=6:1310955	leg=6:1310956
+Assistente Virtual	dub=8:398816	leg=8:398815
 Assombrado Pelas Lembrancas de Voce	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302985.mp4
 Assombrosas	dub=2:192069,10:2451290,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47841.mp4,8:192069	leg=2:192068,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65202.mp4,8:192068
 Assombrosas (2023)	dub=6:1305483	leg=6:1305484
@@ -5519,7 +5514,7 @@ Atraves da Minha Janela Alem mar (2023)	dub=6:1301528
 Atraves das Sombras (2024)	dub=6:1312297
 Atraves do Universo (2007)	dub=6:1312927
 Atravessa a Vida	dub=2:382357,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301293.mp4,8:382357
-Através da Cidade Invisível	dub=2:397888
+Através da Cidade Invisível	dub=2:397888,8:397888
 Através da Minha Janela	dub=2:191478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54766.mp4,8:191478,2:149244,10:2446571,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41568.mp4,8:149244	leg=2:149242,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65322.mp4,8:149242
 Através da Minha Janela: Além-mar	dub=2:392697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312527.mp4,8:392697,2:199679,10:2446493,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41577.mp4,8:199679	leg=2:199678,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65317.mp4,8:199678
 Através da Máscara (2015)	dub=6:1310172,6:1313075	leg=6:1310173
@@ -5538,6 +5533,7 @@ Atraídos Pelo Destino	dub=2:395889,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Atraídos Pelo Destino (2026)	dub=https://embedplayer2.xyz/cdn/hls/a590a1f19ebe3d127018bf81d14bb47e/master.txt,10:2469478,6:1503125
 Atraídos pelo Desejo	dub=2:249248,10:2445673,10:2449707,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43994.mp4,8:249248	leg=2:249249,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65332.mp4,8:249249
 Atrevida: A Paixão Não Tem Regras	dub=2:341813,10:2455799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24084.mp4,8:341813	leg=2:341812,10:2448936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65339.mp4,8:341812
+Atriz	dub=8:398669
 Atrás da Estante (2019)	dub=6:1308493
 Atrás da Linha Fuga para Dunkirk	dub=2:88674,10:2454738,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2259.mp4,8:88674
 Atrás da Linha: Fuga para Dunkirk (2020)	dub=6:1308859
@@ -5710,7 +5706,7 @@ as Crianças e as Outras 26 Pessoas	leg=http://dbonline.tech-cdn.top:80/movie/ke
 À Beira da Extinção (2021)	dub=https://embedplayer2.xyz/cdn/hls/c4c4be790adb17a4a32571c7b643b7d8/master.txt,6:1311381,2:258307,10:2448408,10:2459043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36751.mp4,8:258307	leg=6:1311382,2:258308,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96416.mp4,8:258308
 À Caça do Monstro	dub=2:358082,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52749.mp4,8:358082	leg=2:358081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96419.mp4,8:358081
 À Espera Do Amanhã	dub=2:112443,10:2456967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33292.mp4,8:112443
-À Espera da Chuva	dub=2:397879	leg=2:397878
+À Espera da Chuva	dub=2:397879,8:397879	leg=2:397878,8:397878
 À Espera da Morte (2025)	dub=https://embedplayer2.xyz/cdn/hls/b7793cc5a29968176e112f830bf92fda/master.txt,https://embedplayer2.xyz/cdn/hls/6094fac0c9f2df9e873e9bfca7189e57/master.txt,2:371184,10:2444779,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250114.mp4,8:371184	leg=2:371183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250105.mp4,8:371183
 À Espreita do Mal	dub=2:380504,2:103386,10:2453659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1574.mp4,8:380504,8:103386	leg=2:380503,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290793.mp4,8:380503
 À Meia Noite Levarei Sua Alma	dub=2:370313,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249252.mp4,8:370313

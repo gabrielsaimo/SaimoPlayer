@@ -97,7 +97,7 @@
 1	22	leg	3:394657,9:394657
 1	23	leg	3:395358,9:395358
 1	24	leg	3:396098,9:396098
-1	25	leg	3:398378
+1	25	leg	3:398378,9:398378
 @MARIA OLHA POR NOS
 1	1	leg	3:276304,11:2288261,9:276304
 1	2	leg	3:276305,11:2288262,9:276305
@@ -1301,6 +1301,8 @@
 2	2	dub	3:395773,11:2470756,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314256.mp4,9:395773
 2	3	dub	3:397570,11:2470757,9:397570
 2	4	dub	3:397572,11:2470758,9:397572
+2	5	dub	9:398730
+2	6	dub	9:398731
 @Madison	2026
 1	1	dub	https://embedplayer2.xyz/cdn/hls/3d4934594a0a38e0fe46ec0df9cabc70/master.txt,3:370260,11:2100221,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/249708.mp4,7:1494028,9:370260
 1	1	leg	7:1494022
@@ -1555,7 +1557,7 @@
 1	9	leg	3:394655,9:394655
 1	10	leg	3:395382,9:395382
 1	11	leg	3:396142,9:396142
-1	12	leg	3:398391
+1	12	leg	3:398391,9:398391
 @Magicas e Pegadinhas com Justin Willman
 1	1	dub	3:255681,11:2229665,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146720.mp4,9:255681
 1	2	dub	3:255682,11:2229666,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146721.mp4,9:255682

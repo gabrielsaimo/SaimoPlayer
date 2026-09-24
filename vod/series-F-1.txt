@@ -851,6 +851,7 @@
 1	3	leg	3:394990,9:394990
 1	4	leg	3:395943,9:395943
 1	5	leg	3:397703,9:397703
+1	6	leg	9:398464
 @Filhas de Eva
 1	1	dub	3:97617,11:2260625,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102935.mp4,7:1364759,9:97617
 1	2	dub	3:97618,11:2260626,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102936.mp4,7:1364760,9:97618
@@ -2529,7 +2530,8 @@
 2	10	leg	3:396079,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316260.mp4,9:396079
 2	11	leg	3:396080,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316261.mp4,9:396080
 2	12	leg	3:396092,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316262.mp4,9:396092
-2	13	leg	3:398131
+2	13	leg	3:398131,9:398131
+2	14	leg	9:398618
 @Flint Town
 1	1	dub	3:72716,11:2235184,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140364.mp4,9:72716
 1	2	dub	3:72717,11:2235185,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140365.mp4,9:72717

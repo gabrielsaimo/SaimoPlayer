@@ -721,6 +721,7 @@
 1	2	dub	3:395573,11:2469805,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314860.mp4,9:395573
 1	3	dub	3:395869,11:2469806,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315355.mp4,9:395869
 1	4	dub	3:397656,11:2470786,9:397656
+1	5	dub	9:398821
 @Reino da Conquista
 1	1	dub	3:246859,11:2190687,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88990.mp4,9:246859
 1	2	dub	3:246860,11:2190688,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88991.mp4,9:246860
@@ -3025,6 +3026,8 @@
 4	13	dub	3:395805,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314229.mp4,9:395805
 4	14	dub	3:397602,9:397602
 4	14	leg	3:394434,9:394434
+4	15	dub	9:398733
+4	18	leg	9:398785
 @Rhythm Flow France
 1	1	dub	3:350857,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153922.mp4,9:350857
 1	2	dub	3:350858,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153923.mp4,9:350858

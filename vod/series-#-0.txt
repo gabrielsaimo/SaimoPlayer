@@ -344,11 +344,11 @@
 3	7	leg	3:392711,9:392711
 3	8	dub	3:396134,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315619.mp4,9:396134
 3	8	leg	3:393881,9:393881
-3	9	dub	3:398432
+3	9	dub	3:398432,9:398432
 3	9	leg	3:394726,9:394726
 3	10	leg	3:395400,9:395400
 3	11	leg	3:396136,9:396136
-3	12	leg	3:398437
+3	12	leg	3:398437,9:398437
 @100% Destinada Ao Amor
 1	1	dub	11:2112685
 @100-man No Inochi No Ue Ni Ore Wa Tatteiru
@@ -2832,7 +2832,7 @@
 11	17	dub	3:393860,11:2250876,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313312.mp4,9:393860
 11	18	dub	3:395415,11:2250877,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314231.mp4,9:395415
 11	19	dub	3:395416,11:2250878,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314232.mp4,9:395416
-11	20	dub	11:2250879
+11	20	dub	11:2250879,9:398678
 @90 Dias Para Casar A Ultima Chance
 1	1	dub	3:241856,11:2250505,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/47137.mp4,9:241856
 1	2	dub	3:243072,11:2250506,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/47138.mp4,9:243072

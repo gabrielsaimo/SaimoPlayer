@@ -93,7 +93,7 @@ Talvez uma História de Amor	dub=2:33556,10:2461212,http://dbonline.tech-cdn.top
 Tamanho Real (2024)	dub=https://embedplayer2.xyz/cdn/hls/25adfffad243a8eebd90f1d389f04745/master.txt,6:1314533,2:372410,10:2444664,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250928.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254835.mp4,8:372410	leg=2:372409,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250938.mp4,8:372409
 Tamara	dub=10:2461838
 Tamara (2005)	dub=6:1303308
-Também Somos Irmãos	dub=2:397935
+Também Somos Irmãos	dub=2:397935,8:397935
 Taming Mr Black	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302993.mp4
 Tammy: Fora de Controle	dub=2:387083,2:131072,10:2460987,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19704.mp4,8:387083,8:131072	leg=2:387082,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308833.mp4,8:387082
 Tammy: Fora de Controle (2014)	dub=6:1304333
@@ -237,6 +237,7 @@ Tempo	dub=2:134599,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6
 Tempo (2021)	dub=6:1313672	leg=6:1298857
 Tempo Contado (2016)	dub=https://embedplayer2.xyz/cdn/hls/0a8a4fc9a512ef734f1bf1fe55a0941f/master.txt
 Tempo De Esperanca	dub=2:30453,10:2455818,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31958.mp4,8:30453
+Tempo Esgotado	dub=8:398561
 Tempo Ruy	dub=2:374319,2:371182,10:2444785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250116.mp4,8:374319,8:371182
 Tempo de Caça	dub=2:85145,10:2453755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7459.mp4,8:85145
 Tempo de Caça (2020)	dub=6:1308355
@@ -263,8 +264,8 @@ Temporada de Furacões	dub=2:223846,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Temporada de Sangue (2025)	dub=https://embedplayer2.xyz/cdn/hls/72a8a2abd6d4871b6c0d563cad455ec6/master.txt,6:1314244,2:363181,10:2444963,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53484.mp4,8:363181	leg=2:363180,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90821.mp4,8:363180
 Temporada de Traição	dub=2:316418,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31992.mp4,8:316418	leg=2:316419,10:2450363,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90826.mp4,8:316419
 Temporada de Traição (2018)	dub=6:1313344
-Tempos Difíceis: Perdido em Long Island	dub=2:397937	leg=2:397936
-Tempos Duros na Escola Douglass: Nenhuma Criança Fica de Fora	dub=2:397939	leg=2:397938
+Tempos Difíceis: Perdido em Long Island	dub=2:397937,8:397937	leg=2:397936,8:397936
+Tempos Duros na Escola Douglass: Nenhuma Criança Fica de Fora	dub=2:397939,8:397939	leg=2:397938,8:397938
 Tempos Modernos	dub=2:128574,10:2461141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19759.mp4,8:128574
 Tempos Modernos (1936)	dub=6:1300182	leg=6:1301872
 Tempos Obscuros (2017)	dub=6:1298151
@@ -708,7 +709,7 @@ The Matrix Reloaded	dub=https://embedplayer2.xyz/cdn/hls/c1338f184d8c3c136a60e0b
 The Mauritanian	leg=2:97214,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91680.mp4,8:97214
 The Mayflower Voyagers	dub=10:2459197
 The Mean One	dub=2:247322,10:2452687,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52268.mp4,8:247322	leg=2:247323,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91691.mp4,8:247323
-The Memory Keeper	leg=2:397830
+The Memory Keeper	leg=2:397830,8:397830
 The Mill Killers (2024)	dub=https://embedplayer2.xyz/cdn/hls/d2dbc74dc4a961e1f62e68c7332120bf/master.txt
 The Mini-Munsters	dub=10:2459860
 The Mission (2023)	dub=https://embedplayer2.xyz/cdn/hls/81bbef54431998e102c611330f431241/master.txt,6:1309479,2:233783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58773.mp4,8:233783,2:233784,10:2447904,10:2452572,8:233784	leg=6:1309480,2:233785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91696.mp4,8:233785
@@ -789,7 +790,7 @@ The Remainings	dub=2:379477,8:379477
 The Rental	leg=2:69614,2:64438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91861.mp4,8:69614,8:64438
 The Requin	dub=https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b/master.txt,2:178541,2:163381,10:2445753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46175.mp4,8:178541,8:163381
 The Rescue (2021)	dub=6:1304659
-The Restoration	dub=2:397842	leg=2:397841
+The Restoration	dub=2:397842,8:397842	leg=2:397841,8:397841
 The Rising Hawk	dub=https://embedplayer2.xyz/cdn/hls/b750e2665f33b5d0b74d1532e872cfcc/master.txt	leg=2:89010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91866.mp4,8:89010
 The Rocky Horror Picture Show	dub=2:352113,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19882.mp4,8:352113	leg=2:352112,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91869.mp4,8:352112
 The Room	leg=2:41626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91879.mp4,8:41626
@@ -831,7 +832,7 @@ The Song Of Names	leg=2:44567,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 The Soul Eater	dub=https://embedplayer2.xyz/cdn/hls/c6e8f03cf77b3885d3824458e470c983/master.txt,2:310108,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52288.mp4,8:310108	leg=2:310109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91976.mp4,8:310109
 The Souvenir	dub=2:44600,10:2456843,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32156.mp4,8:44600
 The Space Race (2023)	dub=https://embedplayer2.xyz/cdn/hls/216283d5014dd29f79ca3cd9fbba5648/master.txt,6:1303146,2:247334,10:2449182,10:2452922,8:247334	leg=2:247335,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91980.mp4,8:247335
-The Spirit: O Filme	dub=2:397941,2:318570,10:2446158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46183.mp4,8:318570	leg=2:397940
+The Spirit: O Filme	dub=2:397941,2:318570,10:2446158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46183.mp4,8:318570,8:397941	leg=2:397940,8:397940
 The Standard (2020)	dub=6:1306367
 The Starling Girl	leg=2:246966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91982.mp4,8:246966
 The Surrender	dub=https://embedplayer2.xyz/cdn/hls/b34ce28e435ef87455b3738424af41a7/master.txt,10:2450218	leg=2:329645,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91987.mp4,8:329645
@@ -898,7 +899,7 @@ Thelma (2017)	leg=6:1305673
 Thelma (2024)	dub=https://embedplayer2.xyz/cdn/hls/5453d857c807b19a31478d1db9cbedd8/master.txt	leg=6:1309168
 Thelma O Unicornio (2024)	dub=6:1303926
 Thelma, O Unicórnio	dub=2:261345,10:2462001,8:261345	leg=8:261346
-There's Something Wrong with Aunt Diane	dub=2:397943	leg=2:397942
+There's Something Wrong with Aunt Diane	dub=2:397943,8:397943	leg=2:397942,8:397942
 They Called Him Mostly Harmless (2024)	dub=https://embedplayer2.xyz/cdn/hls/7ed4c788697df13bdd60aea53f4bb6ea/master.txt,6:1309452,2:251308,10:2447792,10:2453134,8:251308	leg=6:1309453,2:251309,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92132.mp4,8:251309
 They Fight	leg=2:387513,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309182.mp4,8:387513
 They Them: O Acampamento (2022)	dub=6:1300405
@@ -1092,9 +1093,9 @@ Todo Mundo em Panico 4	dub=2:20840,10:2458087,10:2461255,10:2461789,http://dbonl
 Todo Mundo em Panico 4 (2006)	dub=6:1299855
 Todo Mundo em Panico 5	dub=2:20841,10:2458049,10:2460720,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19973.mp4,8:20841
 Todo Mundo em Panico 5 (2013)	dub=6:1299856
-Todo Mundo em Pânico	dub=2:388789,2:388042,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310011.mp4,8:388789,8:388042,2:397944,2:388533,2:387603,10:2444331,10:2444705,10:2458069,10:2460990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309257.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309266.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309855.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309870.mp4,8:388533,8:387603	leg=2:388624,2:387606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309261.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309863.mp4,8:388624,8:387606
-Todo Mundo em Pânico 2	dub=2:397946,2:20838,10:2458008,10:2461593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19955.mp4,8:20838
-Todo Mundo em Pânico 3	dub=2:397948,2:20839,10:2458027,10:2460338,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19959.mp4,8:20839	leg=2:397947
+Todo Mundo em Pânico	dub=2:388789,2:388042,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310011.mp4,8:388789,8:388042,2:397944,2:388533,2:387603,10:2444331,10:2444705,10:2458069,10:2460990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309257.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309266.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309855.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309870.mp4,8:388533,8:387603,8:397944	leg=2:388624,2:387606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309261.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309863.mp4,8:388624,8:387606
+Todo Mundo em Pânico 2	dub=2:397946,2:20838,10:2458008,10:2461593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19955.mp4,8:20838,8:397946
+Todo Mundo em Pânico 3	dub=2:397948,2:20839,10:2458027,10:2460338,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19959.mp4,8:20839,8:397948	leg=2:397947,8:397947
 Todo Mundo no Rio com Lady Gaga	dub=10:2444803
 Todo Poderoso (2003)	dub=https://embedplayer2.xyz/cdn/hls/a56801c7bbd07f2b762fbc6a0173aadb/master.txt,6:1299961,2:101648,10:2457962,10:2459996,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19969.mp4,8:101648
 Todo Tempo Que Temos (2024)	dub=https://embedplayer2.xyz/cdn/hls/789c5cddbc2fea252b7cf247f4dc4d50/master.txt,6:1312606,2:300140,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58852.mp4,8:300140,2:299804,10:2446332,10:2448250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43035.mp4,8:299804	leg=6:1312489,2:299805,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92339.mp4,8:299805
@@ -1116,7 +1117,7 @@ Todos Os Caminhos Até Pearla (2019)	dub=6:1310706	leg=6:1310707
 Todos Os Mortos	dub=2:94739,10:2457197,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32226.mp4,8:94739
 Todos a Bordo	dub=2:128592,10:2455412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32206.mp4,8:128592
 Todos a Bordo (1996)	dub=6:1305105
-Todos a Bordo: Cruzeiro da Família Rosie	dub=2:397950	leg=2:397949
+Todos a Bordo: Cruzeiro da Família Rosie	dub=2:397950,8:397950	leg=2:397949,8:397949
 Todos me Amam	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311081.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46185.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92355.mp4
 Todos os Caminhos Levam a Roma	dub=2:382438,2:382437,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301265.mp4,8:382438,8:382437
 Todos os Caminhos Levam a Roma (2016)	dub=6:1298200
@@ -1260,6 +1261,7 @@ Toy Story 3 (2010)	dub=6:1298214,6:1312285
 Toy Story 30 Years and Beyond - A Special Edition of (2020)	leg=6:1501231
 Toy Story 4	dub=2:108138,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58901.mp4,8:108138,2:108091,10:2459143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11586.mp4,8:108091
 Toy Story 4 (2019)	dub=6:1297436
+Toy Story 5	dub=8:398797,8:398712,8:398708
 Toy Story 5 (2026)	dub=https://embedplayer2.xyz/cdn/hls/d52c11a60175f8b32bf3d6ea498b3989/master.txt,2:385527,10:2444060,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307703.mp4,8:385527	leg=6:1502359,2:393247,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312562.mp4,8:393247
 Toy Story de Terror (2013)	dub=https://embedplayer2.xyz/cdn/hls/5fd10fae672af321be530e9a42be786a/master.txt,6:1300243
 Toy Story: Esquecidos Pelo Tempo	dub=10:2459457
@@ -1342,7 +1344,7 @@ Traumas de Guerra (2020)	dub=6:1302705
 Traumas do Passado (2017)	dub=https://embedplayer2.xyz/cdn/hls/b143fbaafaa111de58a1c9b76be12c21/master.txt,6:1302630
 Traumfrauen	dub=10:2456622.avi
 Travesqueen - A Cultura de Ballroom no Vale do Paraíba	dub=2:340271,10:2453278,8:340271
-Travessia Brasil-Haiti	dub=2:397951
+Travessia Brasil-Haiti	dub=2:397951,8:397951
 Travessia S02E1354	dub=11:2306388
 Travessuras de Natal	dub=2:230157,10:2458333,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12102.mp4,8:230157
 Travessuras de Natal (2023)	dub=6:1311586
@@ -1560,7 +1562,7 @@ Tubarão Assassino	dub=2:122922,2:89595,10:2454764,http://dbonline.tech-cdn.top:
 Tubarão Assassino (2018)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300847.mp4,6:1308215
 Tubarão Cabeça-Chata vs. Tubarão Martelo (2023)	dub=6:1305545
 Tubarão Toxico (2017)	dub=6:1307825
-Tubarão de Guerra	dub=2:397874	leg=2:397873
+Tubarão de Guerra	dub=2:397874,8:397874	leg=2:397873,8:397873
 Tubarão de Guerra (2025)	dub=10:2470944
 Tubarão de Malibu	dub=2:312957,10:2447745,10:2451303,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52361.mp4,8:312957	leg=2:312958,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92897.mp4,8:312958
 Tubarão de Malibu (2009)	dub=6:1313131
