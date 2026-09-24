@@ -264,7 +264,7 @@ Camisa de Força	dub=2:320883,10:2456457,http://dbonline.tech-cdn.top:80/movie/k
 Camisa de Força (2005)	dub=6:1303991
 Camisa de Ouro	dub=2:160429,10:2456444,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24487.mp4,8:160429	leg=2:160441,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66932.mp4,8:160441
 Camisa de Ouro (2022)	dub=6:1306233	leg=6:1306234
-Camocim	dub=2:397894
+Camocim	dub=2:397894,8:397894
 Camp Courage	dub=2:219958,10:2453249,8:219958	leg=2:219959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66928.mp4,8:219959
 Camp Courage (2023)	dub=6:1309652	leg=6:1309653
 Camp Hideout	dub=https://embedplayer2.xyz/cdn/hls/0bb399a8db4efc188a00c0b8838776ea/master.txt,2:246544,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13709.mp4,8:246544	leg=2:246545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66936.mp4,8:246545
@@ -455,6 +455,7 @@ Carniceiro	dub=https://embedplayer2.xyz/cdn/hls/88e19695cb507dfe5d12f68a5d5ed43f
 Carnivore: O Lobisomem de Londres (2017)	dub=6:1300655
 Carol	dub=2:301797,10:2446999,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41660.mp4,8:301797
 Carol (2015)	leg=6:1312382
+Carolina Caroline	leg=8:398595
 Carona Aterrorizante (2023)	dub=https://embedplayer2.xyz/cdn/hls/7690b51587732fa3172667086557081c/master.txt,6:1311635,2:246546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55118.mp4,8:246546,2:239832,10:2448143,10:2451829,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48123.mp4,8:239832	leg=6:1311636,2:239834,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67102.mp4,8:239834
 Caros Camaradas! Trabalhadores em Luta (2020)	dub=6:1310732
 Caros Camaradas: Trabalhadores em Luta	dub=2:113036,10:2457650,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24533.mp4,8:113036
@@ -1387,6 +1388,7 @@ Como Não Perder Essa Mulher	dub=2:355714,2:93660,10:2446709,http://dbonline.tec
 Como Não Perder Essa Mulher (2013)	dub=6:1307169
 Como Os Anos Me Deixaram	dub=2:193271,10:2457158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24771.mp4,8:193271
 Como Os Anos Me Deixaram (2022)	dub=6:1301210
+Como Perder Sua Popularidade	dub=8:398820	leg=8:398819
 Como Perder um Homem em 10 Dias	dub=2:20559,10:2460721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14040.mp4,8:20559
 Como Perder um Homem em 10 Dias (2003)	dub=6:1311955	leg=6:1311954
 Como Pétalas que Caem	dub=2:155724,10:2446648,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41736.mp4,8:155724	leg=2:155720,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68066.mp4,8:155720
@@ -1534,6 +1536,7 @@ Confissões de uma Mente Perigosa	dub=2:371871,http://dbonline.tech-cdn.top:80/m
 Conflito das Aguas (2011)	dub=6:1302115
 Conflitos Em Família (2017)	dub=6:1310389
 Conflitos em Familia	dub=2:20561,10:2461268,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14096.mp4,8:20561
+Conforme a Música	dub=8:398347,8:397867	leg=8:397866
 Conforme a Música (2026)	dub=https://embedplayer2.xyz/cdn/hls/8daa8a8d5545cbab6a9eb0a13c272d02/master.txt,2:398347,2:397867	leg=2:397866
 Confrontando o Passado	dub=https://embedplayer2.xyz/cdn/hls/7e6d048a3f643c46db6e88bbc4968ad7/master.txt,2:376718,10:2444433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253793.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254721.mp4,8:376718	leg=2:376717,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253817.mp4,8:376717
 Confronto no Deserto	dub=2:151993,10:2454232,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2897.mp4,8:151993	leg=2:151970,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68221.mp4,8:151970
@@ -1576,6 +1579,7 @@ Conspiração Fatal (1999)	dub=6:1312854
 Conspiração Implacável (2021)	dub=https://embedplayer2.xyz/cdn/hls/71b5b503f32f88d06e7db7b3920f550c/master.txt,6:1304795,2:137590,10:2454728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2919.mp4,8:137590	leg=6:1304796,2:137589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68257.mp4,8:137589
 Conspiração Internacional (2019)	dub=6:1308590
 Conspiração Nazi	dub=2:326985,10:2452574,8:326985
+Conspiração Oficial: A Morte do Brigadeiro J	leg=8:398584
 Conspiração Tequila (1988)	dub=6:1307032
 Conspiração Terrorista	dub=2:394496,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313902.mp4,8:394496
 Conspiração Wander	dub=2:124498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2915.mp4,8:124498	leg=2:124516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68252.mp4,8:124516
@@ -1984,6 +1988,7 @@ Crescer Não é Brincadeira 2	dub=2:263787,10:2449646,10:2460611,http://dbonline
 Crescer e Muito Chato (2022)	dub=6:1302151
 Crescer é Muito Chato	dub=2:169659,10:2456514,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24997.mp4,8:169659	leg=2:169736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68666.mp4,8:169736
 Cresci!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308810.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308823.mp4
+Criadas	dub=8:398696
 Criancas de Deus Achados e Perdidos (2007)	dub=6:1302142
 Criando Verdades	dub=2:353480,10:2445734,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/408.mp4,8:353480	leg=2:353479,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68662.mp4,8:353479
 Criando o Natal	dub=10:2445929
@@ -2081,6 +2086,7 @@ Cronicas de Natal: Parte Dois (2020)	dub=https://embedplayer2.xyz/cdn/hls/4443ae
 Cronos - A Relíquia do Tempo	dub=2:375041,2:362253,10:2444945,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53340.mp4,8:375041,8:362253
 Cronos - A Relíquia do Tempo (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251413.mp4,6:1303532
 Crooked House	leg=2:94150,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68777.mp4,8:94150
+Crossroads: Amigas Para Sempre	dub=8:398509	leg=8:398508
 Crossroads: Amigas Para Sempre (2002)	dub=6:1501122
 Cruella (2021)	dub=https://embedplayer2.xyz/cdn/hls/1cd0ab3fe5aef2ad4ecaec325fe586bc/master.txt,6:1298458,2:108627,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55363.mp4,8:108627,2:108619,10:2460103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14185.mp4,8:108619
 Cruise: Destino em Colisão	dub=2:35260,10:2446660,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41787.mp4,8:35260

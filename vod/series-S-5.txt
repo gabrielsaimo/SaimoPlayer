@@ -1791,6 +1791,7 @@
 4	8	dub	3:395872,11:2469570,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315105.mp4,7:1503208,9:395872
 4	8	leg	7:1503210
 4	9	dub	3:397658,11:2470744,9:397658
+4	10	dub	9:398837
 @Star Wars Andor
 1	1	dub	3:178886,11:2177383,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73591.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73909.mp4,7:1366691,9:178886
 1	1	leg	3:365374,7:1366774,9:365374
@@ -4075,7 +4076,7 @@
 1	7	leg	7:1503203
 1	8	dub	3:395950,11:2469738,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315443.mp4,7:1503201,9:395950
 1	8	leg	7:1503204
-1	9	dub	3:397838,11:2470778
+1	9	dub	3:397838,11:2470778,9:397838
 @Studio Apartment Good Lighting Angel Included
 1	1	leg	3:255688,11:2295467,9:255688
 1	2	leg	3:256594,11:2295468,9:256594

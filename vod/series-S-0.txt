@@ -1899,6 +1899,7 @@
 2	6	dub	3:395106,11:2468870,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314755.mp4,9:395106
 2	7	dub	3:396063,11:2470060,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316250.mp4,9:396063
 2	8	dub	3:397657,9:397657
+2	9	dub	9:398817
 @Sagrada Família
 1	1	dub	3:177340,11:2222311,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/154277.mp4,7:1369689,9:177340
 1	2	dub	3:177341,11:2222312,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/154278.mp4,7:1369690,9:177341
@@ -1917,12 +1918,12 @@
 2	7	dub	3:227566,11:2222325,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/154291.mp4,7:1369703,9:227566
 2	8	dub	3:227567,11:2222326,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/154292.mp4,7:1369704,9:227567
 @Sai
-1	1	leg	3:398410
-1	2	leg	3:398411
-1	3	leg	3:398412
-1	4	leg	3:398413
-1	5	leg	3:398414
-1	6	leg	3:398415
+1	1	leg	3:398410,9:398410
+1	2	leg	3:398411,9:398411
+1	3	leg	3:398412,9:398412
+1	4	leg	3:398413,9:398413
+1	5	leg	3:398414,9:398414
+1	6	leg	3:398415,9:398415
 @Sai de Baixo
 1	1	dub	3:231505,11:2254027,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/110696.mp4,7:1434775,9:231505
 1	2	dub	3:231506,11:2254028,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/110697.mp4,7:1434776,9:231506

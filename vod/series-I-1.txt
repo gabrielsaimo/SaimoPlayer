@@ -2072,6 +2072,7 @@
 1	23	dub	3:394960,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314208.mp4,9:394960
 1	24	dub	3:395766,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314209.mp4,9:395766
 1	25	dub	3:397562,9:397562
+1	26	dub	9:398714
 2	1	dub	3:240185,11:2209648,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/11087.mp4,9:240185
 2	2	dub	3:240186,11:2209649,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/11088.mp4,9:240186
 2	3	dub	3:240187,11:2209650,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/11090.mp4,9:240187
@@ -3018,6 +3019,9 @@
 1	7	leg	3:393028,9:393028
 1	8	leg	3:393894,9:393894
 1	9	leg	3:394723,9:394723
+1	10	leg	9:398621
+1	11	leg	9:398622
+1	12	leg	9:398623
 @Irracional
 1	1	dub	3:297181,11:2232013,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/143968.mp4,7:1453045,9:297181
 1	1	leg	7:1453037

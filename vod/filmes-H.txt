@@ -184,7 +184,7 @@ Hedda (2025)	dub=https://embedplayer2.xyz/cdn/hls/9c9383f5b3e44d12389b91a0266e73
 Heel	dub=2:391230,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311348.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311353.mp4,8:391230	leg=2:391229,2:370711,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249743.mp4,8:391229,8:370711
 Heidi	dub=2:286866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9596.mp4,8:286866
 Heidi (2015)	dub=6:1312181
-Helen	dub=2:397907
+Helen	dub=2:397907,8:397907
 Helena de Guaratiba	dub=2:396153,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315706.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315720.mp4,8:396153
 Helena de Guaratiba (2023)	dub=10:2470652
 Heleno	dub=2:114383,10:2450832,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38318.mp4,8:114383
@@ -520,7 +520,7 @@ Hooligans	dub=2:198531,10:2456401,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Hooligans (2005)	dub=6:1305288
 Hoops, Hopes & Dreams	leg=2:363455,8:363455
 Hop: Rebelde Sem Pascoa (2011)	dub=6:1300594
-Hop: Rebelde Sem Páscoa	dub=2:251910,10:2459211,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9641.mp4,8:251910
+Hop: Rebelde Sem Páscoa	dub=2:251910,10:2459211,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9641.mp4
 Hopes & Dreams	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74644.mp4
 Hora Errada	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98086.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97995.mp4
 Hora de Brilhar	dub=2:168561,10:2460688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15578.mp4,8:168561

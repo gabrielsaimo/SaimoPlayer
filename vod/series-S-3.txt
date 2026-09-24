@@ -2389,8 +2389,8 @@
 1	7	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/282020.mp4
 1	8	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/282021.mp4
 @Sir Ranulph Fiennes: Volta à Natureza
-1	1	dub	3:398452
-1	2	dub	3:398454
+1	1	dub	3:398452,9:398452
+1	2	dub	3:398454,9:398454
 @Siren
 1	1	dub	3:23877,11:2170155,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33316.mp4,9:23877
 1	2	dub	3:23878,11:2170156,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33318.mp4,9:23878
@@ -3132,6 +3132,7 @@
 5	6	dub	3:350415,11:2170154,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33423.mp4,7:1494778,9:350415
 5	6	leg	7:1494748
 6	1	dub	3:397538,11:2470742,9:397538
+6	2	dub	9:398685
 @Small Axe
 1	1	dub	3:111900,11:2143263,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/220703.mp4,7:1363954,9:111900
 1	2	dub	3:111901,11:2143264,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/220704.mp4,7:1363955,9:111901

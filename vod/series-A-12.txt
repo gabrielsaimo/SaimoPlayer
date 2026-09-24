@@ -725,6 +725,7 @@
 2	9	leg	3:395411,9:395411
 2	10	leg	3:395412,9:395412
 2	11	leg	3:397384,9:397384
+2	12	leg	9:398467
 @a Aprendiz de Feiticeira
 1	1	dub	11:2161176,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224816.mp4
 1	2	dub	11:2161177,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224817.mp4
@@ -1425,3 +1426,6 @@
 1	5	dub	3:142573,11:2099061,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34778.mp4,7:1400146,9:142573
 1	5	leg	11:2299931
 1	6	dub	3:142574,11:2099062,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34779.mp4,9:142574
+@American Hostage
+1	1	dub	9:398416
+1	2	dub	9:398428

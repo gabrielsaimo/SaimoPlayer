@@ -2579,6 +2579,7 @@
 1	9	leg	3:394729,9:394729
 1	10	leg	3:395406,9:395406
 1	11	leg	3:397386,9:397386
+1	12	leg	9:398468
 @Goop: Muito Além do Prazer
 1	1	dub	3:134239,11:2234244,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141189.mp4,9:134239
 1	2	dub	3:134240,11:2234245,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/141190.mp4,9:134240
@@ -3429,7 +3430,7 @@
 @Grandes Relíquias da História com Mike Wolfe
 1	1	dub	3:393858,11:2466271,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313486.mp4,9:393858
 1	2	dub	3:396152,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316249.mp4,9:396152
-1	3	dub	3:398453
+1	3	dub	3:398453,9:398453
 @Grandes Roubos da História com Pierce Brosnan
 1	1	dub	3:213337,11:2247148,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/51486.mp4,9:213337
 1	2	dub	3:213338,11:2247149,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/51487.mp4,9:213338

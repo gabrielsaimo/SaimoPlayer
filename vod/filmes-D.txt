@@ -197,7 +197,7 @@ Dark Windows	dub=10:2448158	leg=2:251925,http://dbonline.tech-cdn.top:80/movie/k
 Dark Windows (2023)	leg=6:1309415
 Darken O Universo Paralelo	dub=2:28103,10:2458504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33770.mp4,8:28103
 Darken – O Universo Paralelo (2017)	dub=6:1307824
-Darkgame: O Jogo Da Morte	dub=2:398351	leg=2:398350
+Darkgame: O Jogo Da Morte	dub=2:398351,8:398351	leg=2:398350,8:398350
 Darkgame: O Jogo Da Morte (2024)	dub=10:2470952
 Darkland: O Retorno (2023)	dub=https://embedplayer2.xyz/cdn/hls/7dae6325b6b9b50050ad35323ec8d4dc/master.txt,6:1309402,2:350961,2:250696,10:2445576,10:2445808,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3129.mp4,8:350961,8:250696	leg=6:1309403,2:350960,2:250697,10:2448492,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/69194.mp4,8:350960,8:250697
 Darkman 2: O Retorno de Durant	dub=2:19990,10:2453967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3133.mp4,8:19990
@@ -1332,7 +1332,7 @@ Dois na Lona	dub=2:328976,2:64380,10:2450927,10:2461742,http://dbonline.tech-cdn
 Dois na Lona (1968)	dub=6:1307260
 Dois tesouros do Ceu o Sr Ele Esta Feliz por ser o Pai	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303459.mp4
 Dois é Bom	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249244.mp4
-Dois é Bom, Três é Demais	dub=2:397896,2:103969,8:103969	leg=2:397895
+Dois é Bom, Três é Demais	dub=2:397896,2:103969,8:103969,8:397896	leg=2:397895,8:397895
 Dois é Bom, Três é Demais (2006)	dub=6:1307238
 Dois é Demais em Orlando	dub=2:267383,10:2450845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38149.mp4,8:267383
 Dois é Demais em Orlando (2024)	dub=6:1309609
@@ -1384,7 +1384,7 @@ Donald e Pateta Os Três Mosqueteiros	dub=http://dbonline.tech-cdn.top:80/movie/
 Donas de Alegria (2020)	leg=6:1308424
 Donkey Xote	dub=2:103137,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9324.mp4,8:103137
 Donkey Xote (2007)	dub=6:1307188
-Donner Pass	dub=2:397898	leg=2:397897
+Donner Pass	dub=2:397898,8:397898	leg=2:397897,8:397897
 Donnie Brasco	dub=2:102561,10:2456319,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25436.mp4,8:102561
 Donnie Brasco (1997)	dub=6:1299513
 Donnie Darko	dub=2:342867,2:21233,10:2449650,10:2455026,10:2458564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25443.mp4,8:342867,8:21233	leg=2:342866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70487.mp4,8:342866
@@ -1530,6 +1530,7 @@ Dragon Ball Z: O Retorno dos Androides	dub=2:131046,10:2459565,http://dbonline.t
 Dragon Ball: A Bela Adormecida no Castelo do Diabo (1987)	dub=https://embedplayer2.xyz/cdn/hls/1767d7be0a64944443f9e08f66c55494/master.txt,https://embedplayer2.xyz/cdn/hls/1bb3bbba8ffe9ef18b6565eaacf26970/master.txt,6:1312115
 Dragon Ball: A Lenda de Shenlong (1986)	dub=https://embedplayer2.xyz/cdn/hls/9898dbc5ea616fafabfa6f55c2263c44/master.txt,6:1310312,2:20343,10:2459603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9349.mp4,8:20343
 Dragon Ball: Em Busca do Poder	dub=10:2459541
+Dragon Ball: Uma Aventura Mística	dub=8:398511	leg=8:398510
 Dragon Ball: Uma Aventura Mística (1988)	dub=https://embedplayer2.xyz/cdn/hls/6fb8cc867813970590423239ebbb462f/master.txt,https://embedplayer2.xyz/cdn/hls/2bab204f2c072ab27ee3cf451c309a0c/master.txt
 Dragon Fight	dub=2:112961,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3373.mp4,8:112961
 Dragon Inn Parte 1 A Cidade da Tristeza (2020)	dub=6:1301907
@@ -1563,6 +1564,7 @@ Drillbit Taylor	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF
 Drive	dub=2:390426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311088.mp4,8:390426	leg=2:390425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311091.mp4,8:390425
 Drive (2011)	dub=6:1309111	leg=6:1309110
 Drive My Car (2021)	dub=https://embedplayer2.xyz/cdn/hls/11a38f3f61363c2d777fb271452414a6/master.txt,6:1306411,2:253533,2:163379,10:2449980,10:2456845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25498.mp4,8:253533,8:163379	leg=2:253534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70675.mp4,8:253534
+Drive Through Fire	leg=8:398562
 Drive-Thru: Fast Food da Morte	dub=2:384203,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307343.mp4,8:384203	leg=2:384202,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307279.mp4,8:384202
 Driveways	leg=2:91266,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70681.mp4,8:91266
 Driveways: Uma Amizade Inesperada	dub=2:194467,10:2456750,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25494.mp4,8:194467	leg=2:194468,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70686.mp4,8:194468
@@ -1686,13 +1688,13 @@ Duplamente Penetrada Cena 02	dub=10:2461873
 Duplamente Penetrada Cena 03	dub=10:2461886
 Duplex	dub=2:20593,10:2460821,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14745.mp4,8:20593
 Duplex (2003)	dub=6:1302005
-Duplicidade	dub=2:397900	leg=2:397899
+Duplicidade	dub=2:397900,8:397900	leg=2:397899,8:397899
 Duplo Impacto	dub=2:151976,10:2457966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44440.mp4,8:151976
 Duplo Impacto (1991)	dub=6:1306916
 Duque Com Beneficios	leg=2:389539,8:389539
 Durante a Tormenta	dub=2:21431,10:2455337,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25530.mp4,8:21431
 Durante a Tormenta (2018)	dub=6:1310629
-Durazno sangrando	leg=2:398349
+Durazno sangrando	leg=2:398349,8:398349
 Duro Aprendizado (1995)	dub=6:1309872	leg=6:1309873
 Duro de Atuar	dub=2:187884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55668.mp4,8:187884,2:187878,10:2454026,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3413.mp4,8:187878	leg=2:187879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/70824.mp4,8:187879
 Duro de Atuar (2023)	dub=6:1301005

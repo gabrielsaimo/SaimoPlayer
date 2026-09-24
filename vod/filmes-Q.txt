@@ -180,7 +180,7 @@ Quatro Historias de Fantasmas (2020)	dub=https://embedplayer2.xyz/cdn/hls/3122b5
 Quatro Histórias de Desejo (2018)	dub=https://embedplayer2.xyz/cdn/hls/0b48d542c7f507f602e7706ec6f77b8d/master.txt,6:1305826,2:200750,10:2455593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30948.mp4,8:200750	leg=6:1305827,2:200751,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87335.mp4,8:200751
 Quatro Histórias de Desejo 2	dub=2:200578,10:2456469,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30953.mp4,8:200578	leg=2:200577,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87370.mp4,8:200577
 Quatro Histórias de Desejo 2 (2023)	dub=6:1305548	leg=6:1305549
-Quatro Histórias de Desejo 3	dub=2:398360,2:397872	leg=2:397871
+Quatro Histórias de Desejo 3	dub=2:398360,2:397872,8:398360,8:397872	leg=2:397871,8:397871
 Quatro Histórias de Desejo 3 (2026)	dub=10:2470945
 Quatro Irmaos (2005)	dub=6:1314336
 Quatro Irmas Imploram Me Para Ir Para Casa	dub=2:389636,8:389636	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302711.mp4
@@ -368,7 +368,7 @@ Questão de Honra (2022)	dub=6:1311856	leg=http://dbonline.tech-cdn.top:80/movie
 Questão de Sobrevivência	dub=https://embedplayer2.xyz/cdn/hls/93584e24272d5e7822a54d8979529b6b/master.txt,2:373835,2:371179,10:2444797,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250112.mp4,8:373835,8:371179	leg=2:373834,2:371178,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250098.mp4,8:373834,8:371178
 Questão de Tempo	dub=2:92677,10:2461249,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19103.mp4,8:92677
 Questões de Família	dub=https://embedplayer2.xyz/cdn/hls/a16b61be24932da3164fb8599bb37dba/master.txt,2:289650,10:2448938,10:2455632,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31025.mp4,8:289650	leg=2:289651,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87579.mp4,8:289651
-Quiero que me mantengan	leg=2:398368
+Quiero que me mantengan	leg=2:398368,8:398368
 Quincas Berro Dagua	dub=2:101667,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39170.mp4,8:101667
 Quincas Berro d'Água	dub=10:2451031
 Quincas Berro d'Água (2010)	dub=6:1307721

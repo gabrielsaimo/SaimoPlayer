@@ -1064,13 +1064,13 @@
 1	6	dub	3:394749,11:2467899,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314730.mp4,7:1502598,9:394749
 1	7	dub	3:395423,11:2469488,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314731.mp4,7:1502599,9:395423
 1	8	dub	3:396185,11:2470596,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316185.mp4,7:1502600,9:396185
-1	9	dub	7:1502601
+1	9	dub	7:1502601,9:398473
 @A Batalha dos 100: Itália
 1	1	dub	3:396049,11:2469877,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316322.mp4,7:1503343,9:396049
 1	2	dub	3:396050,11:2469878,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316323.mp4,7:1503344,9:396050
 1	3	dub	3:396051,11:2469879,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316324.mp4,7:1503345,9:396051
-1	4	dub	3:398345
-1	5	dub	3:398346
+1	4	dub	3:398345,9:398345
+1	5	dub	3:398346,9:398346
 @A Batalha dos 100: México
 1	1	dub	3:397589,9:397589
 1	2	dub	3:397590,9:397590
@@ -1079,6 +1079,8 @@
 1	5	dub	3:397593,9:397593
 1	6	dub	3:397594,9:397594
 1	7	dub	3:397595,9:397595
+1	8	dub	9:398709
+1	9	dub	9:398713
 @A Batalha dos Biscoitos Natalinos
 1	1	dub	3:300670,11:2249917,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/47429.mp4,7:1454917,9:300670
 1	2	dub	3:300671,11:2249918,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/47431.mp4,7:1454918,9:300671
@@ -3295,15 +3297,15 @@
 @A Companheira Amaldiçoada
 1	1	dub	11:2303079
 @A Comédia da Vida Privada
-1	1	dub	3:397732
-1	2	dub	3:397733
-1	3	dub	3:397734
-1	4	dub	3:397735
-1	5	dub	3:397736
-1	6	dub	3:397737
-1	7	dub	3:397738
-1	8	dub	3:397739
-1	9	dub	3:397740
+1	1	dub	3:397732,9:397732
+1	2	dub	3:397733,9:397733
+1	3	dub	3:397734,9:397734
+1	4	dub	3:397735,9:397735
+1	5	dub	3:397736,9:397736
+1	6	dub	3:397737,9:397737
+1	7	dub	3:397738,9:397738
+1	8	dub	3:397739,9:397739
+1	9	dub	3:397740,9:397740
 @A Concierge Pokemon
 1	1	dub	3:235994,11:2242908,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/131818.mp4,9:235994
 1	2	dub	3:235995,11:2242909,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/131819.mp4,9:235995
