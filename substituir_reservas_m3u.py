@@ -13,6 +13,7 @@ import unicodedata
 from pathlib import Path
 from urllib.parse import urlsplit
 from gerar_vod import nome_do_extinf, limpar, separar_ano, chave, letra, EPISODIO
+from organizar_canais_importados import canonical_name, normalized, is_open_channel
 
 ROOT = Path(__file__).resolve().parent
 EPISODIO = re.compile(r'^(.*?)\s*S(\d{1,3})\s*E(\d{1,5})\s*$', re.I)
@@ -147,7 +148,7 @@ def incorporar_novos(new, updates, bases, counts):
     updates[index]='\n'.join([l for l in read(index).splitlines() if l.startswith('base: ')]+[b+'\t'+'\t'.join(map(str,t)) for b,t in sorted(totals.items())])+'\n'
     # Os novos canais entram no fim; os existentes recebem novas reservas.
     channel_files={p:re.split(r'(?m)(?=^canal: )',read(p)) for p in [ROOT/'catalogo.txt',ROOT/'restritos.txt']}; names={}
-    def channel_key(name): return chave(limpar(name)[0])
+    def channel_key(name): return normalized(canonical_name(limpar(name)[0]))
     for p,blocks in channel_files.items():
         for i,b in enumerate(blocks):
             if b.startswith('canal: '): names.setdefault(channel_key(b.splitlines()[0][7:]),[]).append((p,i))
@@ -157,6 +158,9 @@ def incorporar_novos(new, updates, bases, counts):
         if len(positions)>1: counts['canais_ambiguos_ignorados']+=1; continue
         if not positions:
             group=norm(e['group']); name=limpar(e['name'])[0]
+            if is_open_channel(name, group):
+                counts['canais_abertos_novos_ignorados']+=1
+                continue
             cat=next((cat for words,cat in [(['adult','xxx','+18'],'Adulto'),(['24'],'24 Horas'),(['ppv'],'PPV'),(['esport','sport','premiere','espn','dazn','campeonato','futsal','nba','jogos'],'Esportes'),(['infanti','desenho','kids'],'Infantil'),(['noticia','news'],'Notícias'),(['document'],'Documentários'),(['filme','serie','hbo','telecine','max','legendado'],'Filmes e Séries'),(['abert','globo','record','sbt'],'TV Aberta'),(['relig'],'Religiosos')] if any(w in group for w in words)),'Variedades')
             p=ROOT/('restritos.txt' if cat=='Adulto' else 'catalogo.txt'); blocks=channel_files[p]
             if blocks: blocks[-1]=blocks[-1].rstrip()+'\n\n'
