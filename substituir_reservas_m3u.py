@@ -83,13 +83,18 @@ def incorporar_novos(new, updates, bases, counts):
         match = EPISODIO.match(limpar(e['name'])[0])
         if match:
             k = chave(*separar_ano(match[1]))
-            for ident, r in owners.get(compact(e['url']), {}).items():
+            for ident, r in owners.get(compact(e.get('identity_url',e['url'])), {}).items():
                 aliases.setdefault(k, {})[ident] = r
     movie_owners = {}
-    for rows in movie_files.values():
+    movies_bare = collections.defaultdict(list)
+    series_bare = collections.defaultdict(list)
+    for p,rows in movie_files.items():
         for f in rows:
+            t,y=separar_ano(f[0]);movies_bare[p.name.startswith('reservado'),chave(t)].append((f,y))
             for field in f[1:]:
                 for u in field[4:].split(','): movie_owners.setdefault(u, {})[id(f)] = f
+    for records in series_files.values():
+        for r in records:series_bare[chave(r['title'])].append(r)
     marks_path=ROOT/'vod/marcas.txt'
     marks=dict(line.split('\t',1) for line in read(marks_path).splitlines() if '\t' in line and not line.startswith('\t'))
     for e in new:
@@ -97,13 +102,19 @@ def incorporar_novos(new, updates, bases, counts):
         title,leg,adult,quality=limpar(e['name']); language='leg' if leg else 'dub'; url=compact(e['url'])
         if quality: marks[url]=quality
         if e['kind']=='movie':
-            title,year=separar_ano(title); k=(adult,chave(title,year)); candidates=list(movie_owners.get(url,{}).values()) or movies.get(k,[])
+            title,year=separar_ano(title)
+            raw_year=re.search(r'\(((?:19|20)\d{2})\)',e['name'])
+            if not year and raw_year:year=raw_year[1]
+            k=(adult,chave(title,year)); candidates=list(movie_owners.get(compact(e.get('identity_url',e['url'])),{}).values()) or movies.get(k,[])
+            if not candidates:
+                candidates=[f for f,y in movies_bare.get((adult,chave(title)),[]) if not year or not y or year==y]
             if len(candidates)>1:
                 counts['filmes_ambiguos_ignorados']+=1; continue
             if not candidates:
                 f=[f'{title} ({year})' if year else title]
                 p=ROOT/'vod'/f'{"reservado" if adult else "filmes"}-{letra(title)}.txt'
                 movie_files.setdefault(p,[]).append(f); movies[k]=[f]; counts['novos_filmes']+=1
+                movies_bare[adult,chave(title)].append((f,year))
             else: f=candidates[0]
             i=next((i for i,v in enumerate(f) if v.startswith(language+'=')),None)
             if i is None: f.append(language+'='+url); counts['novas_fontes_filmes']+=1
@@ -112,7 +123,11 @@ def incorporar_novos(new, updates, bases, counts):
             match=EPISODIO.match(title)
             if not match or adult:
                 counts['series_sem_identidade_ignoradas']+=1; continue
-            title,year=separar_ano(match[1]); k=chave(title,year); candidates=list(owners.get(url,{}).values()) or list(aliases.get(k,{}).values()) or series.get(k,[])
+            title,year=separar_ano(match[1]); k=chave(title,year); candidates=list(owners.get(compact(e.get('identity_url',e['url'])),{}).values()) or list(aliases.get(k,{}).values()) or series.get(k,[])
+            if not candidates:
+                raw_year=re.search(r'\(((?:19|20)\d{2})\)',e['name'])
+                if raw_year:year=raw_year[1]
+                candidates=[r for r in series_bare.get(chave(title),[]) if not year or not r['year'] or year==r['year']]
             if len(candidates)>1:
                 counts['series_ambiguas_ignoradas']+=1; continue
             if not candidates:
@@ -122,6 +137,7 @@ def incorporar_novos(new, updates, bases, counts):
                 if len(series_files.get(p,[]))>=120: p=p.with_name(f'series-{bucket}-{int(p.stem.rsplit("-",1)[1])+1}.txt')
                 r={'title':title,'year':year,'header':'@'+title+('\t'+year if year else ''),'eps':{},'path':p}
                 series[k]=[r]; series_files.setdefault(p,[]).append(r); counts['novas_series']+=1
+                series_bare[chave(title)].append(r)
             else: r=candidates[0]
             ep=(int(match[2]),int(match[3]),language)
             if ep not in r['eps']:

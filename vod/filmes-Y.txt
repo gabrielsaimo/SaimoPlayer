@@ -1,51 +1,51 @@
-Y2K (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,10:2449777	leg=6:1312957,2:305587,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96219.mp4,8:305587
-Y2K: Bomba-Relógio (2023)	dub=https://embedplayer2.xyz/cdn/hls/7fb75098a132e4a1dfdd60fc9831cacc/master.txt,10:2447936	leg=6:1309410,2:246972,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96230.mp4,8:246972
-Y2K: O Bug do Milênio (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,6:1313505,2:320777,10:2448899,10:2460396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20956.mp4,8:320777	leg=2:320776,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96225.mp4,8:320776
-YOLO: O Destino de Le Ying	dub=2:284054,10:2449518,10:2455383,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33262.mp4,8:284054	leg=2:284055,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96270.mp4,8:284055
+Y2K (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,10:2449777,16:2449777	leg=6:1312957,2:305587,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96219.mp4,8:305587,12:305587,14:305587
+Y2K: Bomba-Relógio (2023)	dub=https://embedplayer2.xyz/cdn/hls/7fb75098a132e4a1dfdd60fc9831cacc/master.txt,10:2447936,16:2447936	leg=6:1309410,2:246972,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96230.mp4,8:246972,12:246972,14:246972
+Y2K: O Bug do Milênio (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt,6:1313505,2:320777,10:2448899,10:2460396,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20956.mp4,8:320777,12:320777,14:320777,16:2448899,16:2460396	leg=2:320776,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96225.mp4,8:320776,12:320776,14:320776
+YOLO: O Destino de Le Ying	dub=2:284054,10:2449518,10:2455383,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33262.mp4,8:284054,12:284054,14:284054,16:2449518,16:2455383	leg=2:284055,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96270.mp4,8:284055,12:284055,14:284055
 Ya no quedan junglas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307237.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307360.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307316.mp4
-Yaksha: Operação Implacável (2022)	dub=https://embedplayer2.xyz/cdn/hls/102761ac73d74aa0adcfbcb3d8b396d4/master.txt,6:1305994,2:157430,10:2453631,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8243.mp4,8:157430	leg=6:1305995,2:157424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96242.mp4,8:157424
-Yamada-kun to 7-nin no Majo	dub=10:2459650
-Yannick	dub=10:2449318	leg=2:256858,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96243.mp4,8:256858
+Yaksha: Operação Implacável (2022)	dub=https://embedplayer2.xyz/cdn/hls/102761ac73d74aa0adcfbcb3d8b396d4/master.txt,6:1305994,2:157430,10:2453631,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8243.mp4,8:157430,12:157430,14:157430,16:2453631	leg=6:1305995,2:157424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96242.mp4,8:157424,12:157424,14:157424
+Yamada-kun to 7-nin no Majo	dub=10:2459650,16:2459650
+Yannick	dub=10:2449318,16:2449318	leg=2:256858,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96243.mp4,8:256858,12:256858,14:256858
 Yannick (2023)	leg=6:1309463
-Yara (2021)	dub=https://embedplayer2.xyz/cdn/hls/fe9f25cbe0266d9862d80c7d0d116379/master.txt,6:1298931,2:136800,10:2456277,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33267.mp4,8:136800	leg=2:136773,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96248.mp4,8:136773
-Yaõkwa - Imagem e Memória	dub=2:281523,10:2452751,8:281523
-Yellow Mirror	dub=2:394261,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313704.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313748.mp4,8:394261	leg=2:394260,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313728.mp4,8:394260
+Yara (2021)	dub=https://embedplayer2.xyz/cdn/hls/fe9f25cbe0266d9862d80c7d0d116379/master.txt,6:1298931,2:136800,10:2456277,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33267.mp4,8:136800,12:136800,14:136800,16:2456277	leg=2:136773,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96248.mp4,8:136773,12:136773,14:136773
+Yaõkwa - Imagem e Memória	dub=2:281523,10:2452751,8:281523,12:281523,14:281523,16:2452751
+Yellow Mirror	dub=2:394261,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313704.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313748.mp4,8:394261,12:394261,14:394261	leg=2:394260,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313728.mp4,8:394260,12:394260,14:394260
 Yellow Mirror A Realidade Paralela de Homer (2026)	dub=https://embedplayer2.xyz/cdn/hls/8818c487ae87947d4faac9c8e131914a/master.txt,6:1502425
 Yellowbird O Pequeno Herói (2014)	dub=6:1313073
 Yes (2005)	dub=6:1312594
 Yes Mr Knight	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302990.mp4
-Yesterday	dub=2:30528,10:2461528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20951.mp4,8:30528
+Yesterday	dub=2:30528,10:2461528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20951.mp4,8:30528,12:30528,14:30528,16:2461528
 Yesterday (2019)	dub=6:1298109
-Yesterday Legendado	dub=2:29642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96264.mp4,8:29642
-Yiya Murano: Muerte a la hora del té	dub=2:375719,10:2444545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253398.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254856.mp4,8:375719	leg=2:375718,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253689.mp4,8:375718
-Yo Yo Honey Singh: Famous	dub=10:2448460	leg=2:300144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96253.mp4,8:300144
+Yesterday Legendado	dub=2:29642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96264.mp4,8:29642,12:29642,14:29642
+Yiya Murano: Muerte a la hora del té	dub=2:375719,10:2444545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253398.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254856.mp4,8:375719,12:375719,14:375719,16:2444545	leg=2:375718,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253689.mp4,8:375718,12:375718,14:375718
+Yo Yo Honey Singh: Famous	dub=10:2448460,16:2448460	leg=2:300144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96253.mp4,8:300144,12:300144,14:300144
 Yoga Teacher Killer: The Kaitlin Armstrong Story (2024)	dub=https://embedplayer2.xyz/cdn/hls/06bd9d9977277464f9c6479c9c580c6a/master.txt,https://embedplayer2.xyz/cdn/hls/b542d473ddadc7a3409cc532a1f2ac45/master.txt
-Yonlu	dub=2:22112,10:2451483,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39633.mp4,8:22112
+Yonlu	dub=2:22112,10:2451483,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39633.mp4,8:22112,12:22112,14:22112,16:2451483
 Yonlu (2018)	dub=6:1307899
-Yorimatã	dub=2:371964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250511.mp4,8:371964
-You Can't Escape Me	dub=2:194207,8:194207
+Yorimatã	dub=2:371964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250511.mp4,8:371964,12:371964,14:371964
+You Can't Escape Me	dub=2:194207,8:194207,12:194207,14:194207
 You Can't Escape Me (2023)	dub=6:1305453
-You Hurt My Feelings	leg=2:202575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96259.mp4,8:202575
-You Should Have Left	leg=2:48234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96275.mp4,8:48234
-You Tubers (2020)	dub=https://embedplayer2.xyz/cdn/hls/94f84b472427e0e45533d815b6d0c5f7/master.txt,6:1314035,2:353687,8:353687
-You'll Never Find Me (2023)	dub=https://embedplayer2.xyz/cdn/hls/e721cb7cf69f851e30cdf5d97a98fa02/master.txt	leg=6:1309478,2:255027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96281.mp4,8:255027
-You're a Good Sport, Charlie Brown	dub=2:324021,8:324021	leg=2:324020,8:324020
-You, Always	leg=2:391150,8:391150
-Youngblood	leg=2:378250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255470.mp4,8:378250
-Your Lucky Day (2023)	dub=https://embedplayer2.xyz/cdn/hls/caf31470d484bc7ec830989130412f46/master.txt,10:2449094	leg=6:1311557,2:246965,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96297.mp4,8:246965
+You Hurt My Feelings	leg=2:202575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96259.mp4,8:202575,12:202575,14:202575
+You Should Have Left	leg=2:48234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96275.mp4,8:48234,12:48234,14:48234
+You Tubers (2020)	dub=https://embedplayer2.xyz/cdn/hls/94f84b472427e0e45533d815b6d0c5f7/master.txt,6:1314035,2:353687,8:353687,12:353687,14:353687
+You'll Never Find Me (2023)	dub=https://embedplayer2.xyz/cdn/hls/e721cb7cf69f851e30cdf5d97a98fa02/master.txt	leg=6:1309478,2:255027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96281.mp4,8:255027,12:255027,14:255027
+You're a Good Sport, Charlie Brown	dub=2:324021,8:324021,12:324021,14:324021	leg=2:324020,8:324020,12:324020,14:324020
+You, Always	leg=2:391150,8:391150,12:391150,14:391150
+Youngblood	leg=2:378250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255470.mp4,8:378250,12:378250,14:378250
+Your Lucky Day (2023)	dub=https://embedplayer2.xyz/cdn/hls/caf31470d484bc7ec830989130412f46/master.txt,10:2449094,16:2449094	leg=6:1311557,2:246965,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96297.mp4,8:246965,12:246965,14:246965
 Your Name (2016)	dub=https://embedplayer2.xyz/cdn/hls/40356c7004dec9597eb6c47b0ca00cf9/master.txt,6:1303288
-Your Name Engraved Herein	leg=2:90758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96286.mp4,8:90758
-Youth	leg=2:389681,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310633.mp4,8:389681
-Yu Yu Hakusho: Invasores do Inferno (1994)	dub=https://embedplayer2.xyz/cdn/hls/449c8690f4e664a45c53a0fdecddac5a/master.txt,https://embedplayer2.xyz/cdn/hls/468d27954cd8f688dcb1a62980bfce93/master.txt,10:2459679
-Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	dub=https://embedplayer2.xyz/cdn/hls/04d62f1312ce08f0043f4e82adf358dc/master.txt,6:1297828,2:375064,10:2459481,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253329.mp4,8:375064
+Your Name Engraved Herein	leg=2:90758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96286.mp4,8:90758,12:90758,14:90758
+Youth	leg=2:389681,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310633.mp4,8:389681,12:389681,14:389681
+Yu Yu Hakusho: Invasores do Inferno (1994)	dub=https://embedplayer2.xyz/cdn/hls/449c8690f4e664a45c53a0fdecddac5a/master.txt,https://embedplayer2.xyz/cdn/hls/468d27954cd8f688dcb1a62980bfce93/master.txt,10:2459679,16:2459679
+Yu-Gi-Oh! O Filme: Piramide de Luz (2004)	dub=https://embedplayer2.xyz/cdn/hls/04d62f1312ce08f0043f4e82adf358dc/master.txt,6:1297828,2:375064,10:2459481,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253329.mp4,8:375064,12:375064,14:375064,16:2459481
 Yu-Gi-Oh! O Lado Negro das Dimensões (2016)	dub=https://embedplayer2.xyz/cdn/hls/7a52357c8a9818964bc392b9d0e44696/master.txt
 Yu-Gi-Oh! Vínculos Além do Tempo (2010)	dub=https://embedplayer2.xyz/cdn/hls/2329cb3bb1254fc5a84628e3ed8401ef/master.txt,https://embedplayer2.xyz/cdn/hls/c107b5f972f23f4ea7878662a51e7e59/master.txt
-Yucatán	dub=2:76921,10:2461314,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20957.mp4,8:76921
+Yucatán	dub=2:76921,10:2461314,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20957.mp4,8:76921,12:76921,14:76921,16:2461314
 Yucatán (2018)	dub=6:1308086
 Yugo e Lala (2012)	dub=6:1301659
 Yugo e Lala 2 (2014)	dub=6:1301669
 Yugo e Lala 3 (2016)	dub=6:1301668
-Yummy	leg=2:68473,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96292.mp4,8:68473
-Yuri Marçal: Ledo Engano	dub=2:161982,10:2459881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20961.mp4,8:161982
+Yummy	leg=2:68473,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96292.mp4,8:68473,12:68473,14:68473
+Yuri Marçal: Ledo Engano	dub=2:161982,10:2459881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20961.mp4,8:161982,12:161982,14:161982,16:2459881
 Yuri Marçal: Ledo Engano (2022)	dub=6:1306949
-Yves Saint Laurent	dub=10:2448192	leg=2:285096,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96303.mp4,8:285096
+Yves Saint Laurent	dub=10:2448192,16:2448192	leg=2:285096,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96303.mp4,8:285096,12:285096,14:285096
