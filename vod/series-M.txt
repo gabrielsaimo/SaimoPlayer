@@ -109,12 +109,12 @@ Malhacao	2013	0	241
 Malhacao Pro Dia Nascer Feliz		0	186
 Malhacao Toda Forma de Amar		0	406
 Malhacao Vidas Brasileiras		0	284
-Malhação	1999	0	124
-Malhação	2000	0	450
-Malhação	2002	0	426
-Malhação	2004	0	249
-Malhação	2008	0	324
 Malhação	2010	0	265
+Malhação	2002	0	426
+Malhação	2000	0	450
+Malhação	2008	0	324
+Malhação	2004	0	249
+Malhação	1999	0	124
 Malhação Casa Cheia		0	241
 Malhação Conectados		0	249
 Malhação ID		0	199
@@ -471,14 +471,14 @@ Meu time e a Colombia		3	6
 Meus 15 anos - Miss XV		3	120
 Meus Clientes Fantasmas		3	19
 Meus Irmaos - Kardeşlerim		3	332
-Meus Mortos Tristes		7	4
+Meus Mortos Tristes		3	4
 Meus Pes Estao Me Matando		3	41
 Meus Pes Estao Me Matando Reino Unido		3	8
 Mevlânâ Celâleddîn-i Rûmî		3	30
 Mexicanicos		3	79
 Mexicanicos Celebridades		3	10
 Mexicanicos Sem Fronteiras		3	4
-Mexico Selvagem		3	3
+Mexico Selvagem		4	3
 Mexicánicos 10 Años		4	10
 Miami Vice		4	111
 Michael Jackson An American Tragedy		4	3
@@ -552,7 +552,7 @@ Minha Vez de Amar		4	8
 Minha Vida Animal		4	6
 Minha Vida Maravilhosa - Sahane Hayatim		4	30
 Minha Vida Nada Ortodoxa		4	18
-Minha Vida Perfeita		4	97
+Minha Vida Perfeita		4	59
 Minha Vida com a Familia Walter	2023	4	30
 Minha vida - O Hayat Benim		4	405
 Minhas Aventuras com o Superman	2023	4	30
@@ -598,7 +598,7 @@ Misterios da Antiguidade com Albert Lin		4	6
 Misterios da Arquitetura		4	6
 Misterios da Barbie		4	8
 Misterios da Fe		4	4
-Misterios da natureza		4	26
+Misterios da natureza		5	26
 Misterios do Arquivo		5	10
 Misterios do Pantano		5	6
 Misterios e Lendas da Historia		5	8
@@ -718,12 +718,12 @@ Mr. Corman		5	10
 Mr. Iglesias		5	10
 Mr. Mercedes		5	30
 Mr. Pickles		5	31
-Mr. Plankton		5	10
+Mr. Plankton		6	10
 Mr. Robot	2015	6	90
 Mr. Villain's Day Off		6	12
 Mrs Cop		6	16
 Mrs. America		6	18
-Mrs. Fletcher		7	7
+Mrs. Fletcher		6	7
 Ms Incognito		6	12
 Ms Ma Nemesis		6	32
 Ms. Marvel		6	12
@@ -838,8 +838,8 @@ Mágica para a Humanidade		6	12
 Máscaras		6	125
 Máscaras de Oxigênio Não Cairão Automaticamente	2025	6	5
 Mãe		6	86
-Mãe Só Tem Duas		6	27
-Mães A madas		6	13
+Mãe Só Tem Duas		7	27
+Mães A madas		7	13
 Mães da Máfia		7	6
 Mães: Amor e Vida		7	34
 Mão de Deus	2014	7	20
