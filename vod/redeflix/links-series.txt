@@ -1,3 +1,5 @@
+@Sereias	2025	246992
+1	5	dub	https://embedplayer2.xyz/cdn/hls/6076f89f9b8054b95c0786fbee0719ba/master.txt
 @Youth	2026	285418
 1	1	dub	https://embedplayer2.xyz/cdn/hls/be0f55e22ed6e4d7e9c341d140a490a3/master.txt
 1	2	dub	https://embedplayer2.xyz/cdn/hls/16a9d683f08255f84f6dd0f953d433c7/master.txt
@@ -5868,6 +5870,9 @@
 2	10	dub	https://embedplayer2.xyz/cdn/hls/1290af6921ba1fadd8394c81245795e8/master.txt
 2	13	dub	https://embedplayer2.xyz/cdn/hls/7308cdb739178230fe2f7da26be10b44/master.txt
 2	18	dub	https://embedplayer2.xyz/cdn/hls/2ee52da9c6cde58435697b1ee3819abc/master.txt
+@O Maestro e o Mar	2022	209504
+1	1	dub	https://embedplayer2.xyz/cdn/hls/e64f494a3bc8461740c425a06acab64d/master.txt
+1	6	dub	https://embedplayer2.xyz/cdn/hls/0397d78d541a16037e874c5575143ef6/master.txt
 @Sobreviventes	2025	284605
 1	4	dub	https://embedplayer2.xyz/cdn/hls/37d84b6ab0594417dcbd19ce0b883c51/master.txt
 1	6	dub	https://embedplayer2.xyz/cdn/hls/eef8ee8824b7f889b00be7383264cefc/master.txt
@@ -9617,6 +9622,20 @@
 3	7	dub	https://embedplayer2.xyz/cdn/hls/30327b92a9e01fa74e4dcbe518868b28/master.txt
 3	15	dub	https://embedplayer2.xyz/cdn/hls/7d277074f04cf84b471107fba79af595/master.txt
 3	21	dub	https://embedplayer2.xyz/cdn/hls/238a6b0edeb4e6f6c2b29c6bf0d14a04/master.txt
+@Sense8	2015	61664
+1	3	dub	https://embedplayer2.xyz/cdn/hls/bebe1a50684777c9d082362a493779e5/master.txt
+1	4	dub	https://embedplayer2.xyz/cdn/hls/d25db23f8796f4d0869b71983215433e/master.txt
+1	5	dub	https://embedplayer2.xyz/cdn/hls/8246bee1b28f834f5c1ca28b77078701/master.txt
+1	6	dub	https://embedplayer2.xyz/cdn/hls/6fd33971ff5c99816df8fee908dc8bdd/master.txt
+1	7	dub	https://embedplayer2.xyz/cdn/hls/5f116a88cbfbc16a0b04fa374890927f/master.txt
+1	8	dub	https://embedplayer2.xyz/cdn/hls/195ce6fc9c11ca4749e8d974eda665c5/master.txt
+2	2	dub	https://embedplayer2.xyz/cdn/hls/9e85c9a4eff935f5f7e80134c5c4a801/master.txt
+2	3	dub	https://embedplayer2.xyz/cdn/hls/d6d69c12bc7c6f8435de26463af066c4/master.txt
+2	4	dub	https://embedplayer2.xyz/cdn/hls/d415f4ce7712546291aaaccf89c7a61c/master.txt
+2	5	dub	https://embedplayer2.xyz/cdn/hls/648824e09a63f3b01eef307af94dcfac/master.txt
+2	6	dub	https://embedplayer2.xyz/cdn/hls/3101746695c4cdaa43f7d23ea400cb31/master.txt
+2	8	dub	https://embedplayer2.xyz/cdn/hls/ecf0545666ec2f44209423ecca41a639/master.txt
+2	9	dub	https://embedplayer2.xyz/cdn/hls/9ed426d5f45218987b8f3b9f8418d294/master.txt
 @SEAL Team: Soldados de Elite	2017	71789
 1	3	dub	https://embedplayer2.xyz/cdn/hls/fd4de2526ff378d4680b9f4176e9c59b/master.txt
 1	12	dub	https://embedplayer2.xyz/cdn/hls/003b30d0cdebc7143c6db972b793e02e/master.txt
@@ -11866,6 +11885,12 @@
 2	8	dub	https://embedplayer2.xyz/cdn/hls/ae8b95a24cf48170c4b939f7c851bf29/master.txt
 @Ransom Canyon	2025	240993
 1	10	dub	https://embedplayer2.xyz/cdn/hls/da8c08c22d846875c9cae02eb55dd966/master.txt
+2	2	dub	https://embedplayer2.xyz/cdn/hls/cc98f416fa2b8bf800748dbb8e3ee5a8/master.txt
+2	3	dub	https://embedplayer2.xyz/cdn/hls/be8607184aabdfea61b9a3b95c9b9ccb/master.txt
+2	4	dub	https://embedplayer2.xyz/cdn/hls/03fe9d70761ddf76851968d99faf5bec/master.txt
+2	5	dub	https://embedplayer2.xyz/cdn/hls/b74e1d831fed3daf85b6b909ff1e8f9a/master.txt
+2	6	dub	https://embedplayer2.xyz/cdn/hls/ce82c134b7b9b17a6fa99c32e640fa9d/master.txt
+2	8	dub	https://embedplayer2.xyz/cdn/hls/898f013506efc8c5fbc259b327ed0ea7/master.txt
 @O Amor Mora ao Lado	2024	241454
 1	9	dub	https://embedplayer2.xyz/cdn/hls/4ec31e273cd94b5fad7475693d55f998/master.txt
 1	11	dub	https://embedplayer2.xyz/cdn/hls/aa9ab1f0af90aa268877c679261c83bc/master.txt
