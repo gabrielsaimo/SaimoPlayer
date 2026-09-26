@@ -50,5 +50,11 @@ class ReserveImportTests(unittest.TestCase):
         self.assertEqual(normalized(clean_live('CANAL GOAT 02')),
                          normalized('Canal GOAT (Jogo 2)'))
 
+    def test_restricted_group_overrides_broken_name_markers(self):
+        entry=self.entry('A Test [Unclosed [Adulto]');entry['adult']=True
+        result,_=self.run_import(entries=[entry])
+        self.assertNotIn('1:2',result['vod/filmes-A.txt'])
+        self.assertIn('1:2',result['vod/reservado-A.txt'])
+
 
 if __name__=='__main__':unittest.main()

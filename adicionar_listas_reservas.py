@@ -112,6 +112,7 @@ def main():
             else:
                 adult_group=(any(w in norm(e['group']) for w in ('adult','xxx','+18'))
                              or bool(re.match(r'(?i)^XXX\s+\d{4}\.\d{2}\.\d{2}\b',e['name'])))
+                e['adult']=adult_group
                 if e['kind']=='series' and adult_group and not EPISODIO.match(limpar(e['name'])[0]):
                     # Alguns provedores entregam filmes na rota /series/.
                     e['kind']='movie'
