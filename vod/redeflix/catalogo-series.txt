@@ -1,3 +1,9 @@
+16286	Betty, a Feia	1999	229
+62982	Meu Nome é Liberdade	2015	6
+89959	O Inferno São as Pessoas	2019	9
+203740	O Nascer da Lua	2025	19
+94280	Steven Universo: Futuro	2019	20
+323839	东大高武学院 / Oriental Martial Academy	2026	1
 1664	Homem-Aranha: A Nova Série Animada	2003	13
 211240	The Swarm	2023	7
 98137	Aquaman: Rei de Atlântida	2021	3
@@ -840,7 +846,6 @@
 133387	I'M KODAMA KAWASHIRI	2022	1
 298103	IbiKona: Minha Madrasta e Suas Filhas Nada Malvadas	2026	5
 246748	Operação Tyrant	2024	4
-323839	东大高武学院	2026	1
 231396	Os Caras do Telemarketing	2023	1
 203344	Pandora: Além do Paraíso	2023	16
 315327	เหมันต์ตะวันรอน	2026	1
@@ -3585,7 +3590,7 @@
 73554	Liar: Rede de Mentiras	2017	13
 231505	Te Amar Dói	2023	13
 223400	O Eleito	2023	6
-85828	NooBees	2018	60
+85828	NooBees	2018	120
 74682	Eu Não Sou um Robô	2017	16
 201363	Minha Habilidade Única Me Deixa Invencível no Nível 1	2023	12
 123542	Link Click	2021	29
@@ -3934,6 +3939,7 @@
 212284	Sr. Meia-Noite: Cuidado com os Monstros	2022	1
 210942	Lookism	2022	8
 137043	Interligados	2022	1
+59309	Fudêncio e Seus Amigos	2005	137
 201948	Alasca: Em Busca da Notícia	2022	1
 111837	Willow	2022	1
 128246	Minha Vida Nada Ortodoxa	2021	1
@@ -4146,7 +4152,7 @@
 195926	As Crônicas de Usagi: O Coelho Samurai	2022	1
 195928	As 7 Vidas de Lea	2022	7
 114068	A Oferta	2022	1
-132559	A Árvore Familiar dos Croods	2021	1
+132559	A Árvore Familiar dos Croods	2021	52
 129501	Pivoting: Rodando Na Vida	2022	1
 195930	O Submarino	2022	7
 228272	Milo	2024	26
@@ -5766,7 +5772,7 @@
 241628	Ramen Akaneko		1
 241883	O Jardineiro	2025	6
 242054	Assassinato na Casa Branca	2025	8
-243316	As Quatro Estações do Ano	2025	8
+243316	As Quatro Estações do Ano	2025	16
 243403	Batalha das Solteiras	2024	6
 243881	Casa de Davi	2025	8
 243964	Um Amor de Cinema	2025	10
@@ -5852,7 +5858,7 @@
 8872	Aquarion Evol		8
 89008	História de um Crime: Colmenares		8
 89602	Cinco Quartos		16
-90761	Os Indomáveis		49
+90761	Os Indomáveis		50
 91239	Bridgerton	2020	32
 93490	Meu País: A Nova Era		16
 93818	Stand My Heroes: Piece of Truth		12
