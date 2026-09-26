@@ -100,6 +100,7 @@ def incorporar_novos(new, updates, bases, counts):
     for e in new:
         if e['kind']=='channel': continue
         title,leg,adult,quality=limpar(e['name']); language='leg' if leg else 'dub'; url=compact(e['url'])
+        adult=adult or e.get('adult',False)
         if quality: marks[url]=quality
         if e['kind']=='movie':
             title,year=separar_ano(title)
