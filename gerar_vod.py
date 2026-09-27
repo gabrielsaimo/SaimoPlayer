@@ -183,7 +183,7 @@ def resolvido_por_id(url):
     return any(marca in servidor for marca in RESOLVIDOS_POR_ID)
 
 
-def links_diretos_de_filmes(caminhos):
+def links_diretos_de_filmes(caminhos, aceita=resolvido_por_id):
     """Endereços inteiros ("https://...") de cada filme, em arquivos no formato
     do acervo: "Título (ano)\tdub=url,url\tleg=url".
 
@@ -203,7 +203,7 @@ def links_diretos_de_filmes(caminhos):
             for campo in campos[1:]:
                 versao, _, urls = campo.partition("=")
                 if versao in ("dub", "leg"):
-                    diretos[versao] += [u for u in urls.split(",") if resolvido_por_id(u)]
+                    diretos[versao] += [u for u in urls.split(",") if aceita(u)]
             # Sem endereço inteiro não há o que preservar: o título vive ou
             # morre pelas listas M3U, como sempre.
             if not any(diretos.values()):
@@ -218,7 +218,7 @@ def links_diretos_de_filmes(caminhos):
     return achados
 
 
-def links_diretos_de_series(caminhos):
+def links_diretos_de_series(caminhos, aceita=resolvido_por_id):
     """O mesmo para séries: "@Título\tano[\tid]" seguido de
     "temporada\tepisódio\tversão\turl,url"."""
     achados = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
@@ -242,7 +242,7 @@ def links_diretos_de_series(caminhos):
                 alvo = (int(campos[0]), int(campos[1]), campos[2] or "dub")
             except ValueError:
                 continue
-            urls = [u for u in campos[3].split(",") if resolvido_por_id(u)]
+            urls = [u for u in campos[3].split(",") if aceita(u)]
             if not urls:
                 continue
             # Só vira série quem tem ao menos um episódio com endereço inteiro.
@@ -390,6 +390,34 @@ def main():
             else:
                 novas_series += 1
         somar_serie(k, direto)
+    # Por fim o FenixFlix (atualizar_fenix.py): só para títulos que o acervo
+    # já tem, e atrás das fontes deles — é uma opção a mais, não a primeira.
+    # Os arquivos são refeitos pelo passo dele, então não precisam ser
+    # preservados por aqui como as fontes resolvidas por id.
+    fenix = SAIDA / "fenix"
+    def qualquer_http(url):
+        return url.startswith("http")
+    fenix_filmes = fenix_eps = 0
+    for k, direto in links_diretos_de_filmes([fenix / "links-filmes.txt"], qualquer_http).items():
+        if k not in filmes:
+            continue
+        registro = filmes[k]
+        for versao, urls in direto["versoes"].items():
+            for url in urls:
+                if url not in registro["versoes"][versao]:
+                    registro["versoes"][versao].append(url)
+        fenix_filmes += 1
+    for k, direto in links_diretos_de_series([fenix / "links-series.txt"], qualquer_http).items():
+        if k not in series:
+            continue
+        registro = series[k]
+        for alvo, urls in direto["eps"].items():
+            for url in urls:
+                if url not in registro["eps"][alvo]:
+                    registro["eps"][alvo].append(url)
+            fenix_eps += 1
+    print(f"FenixFlix: fontes a mais em {fenix_filmes} filmes e {fenix_eps} episódios")
+
     # O mesmo título com e sem ano: a lista M3U escreve "1 Contra Todos", o
     # Redeflix "1 Contra Todos (2016)". Pelo nome seriam dois — e seria assim
     # a cada montagem, porque os dois continuam vindo. Quando o sem ano tem um
