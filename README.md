@@ -2,155 +2,110 @@
 
 # Saimo TV
 
-### entretenimento em todos os dispositivos
+### canais ao vivo, filmes e séries — na TV, no celular, no computador e no navegador
 
 <p>
-  <a href="https://github.com/royopa/SaimoPlayer/releases/latest">
-    <img src="https://img.shields.io/github/v/release/royopa/SaimoPlayer?label=vers%C3%A3o" alt="Versão">
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest">
+    <img src="https://img.shields.io/github/v/release/gabrielsaimo/SaimoPlayer?label=vers%C3%A3o" alt="Versão">
   </a>
-  <a href="https://github.com/royopa/SaimoPlayer/releases">
-    <img src="https://img.shields.io/github/downloads/royopa/SaimoPlayer/total?label=downloads" alt="Downloads">
-  </a>
-  <a href="https://github.com/royopa/SaimoPlayer/stargazers">
-    <img src="https://img.shields.io/github/stars/royopa/SaimoPlayer?label=estrelas" alt="Estrelas">
-  </a>
-  <a href="https://github.com/royopa/SaimoPlayer/issues">
-    <img src="https://img.shields.io/github/issues/royopa/SaimoPlayer?label=issues" alt="Issues">
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases">
+    <img src="https://img.shields.io/github/downloads/gabrielsaimo/SaimoPlayer/total?label=downloads" alt="Downloads">
   </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white" alt="FFmpeg">
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white" alt="Windows">
 </p>
 
 </div>
 
 ## Sobre
 
-O **Saimo TV** é uma aplicação **multiplataforma** para assistir canais ao vivo, filmes, séries e conteúdo VOD, com foco em experiência completa de reprodução e navegação de catálogo em pt-BR.
+Este repositório é o centro do Saimo TV: o **app do Mac**, a **lista de canais e
+o acervo publicados** (que todos os apps leem daqui), os scripts que mantêm esses
+dados e o **release único** que distribui todos os apps.
 
-Este repositório concentra o **cliente principal**, catálogos, playlists, scripts de manutenção e automações. Outros clientes do ecossistema podem existir em projetos relacionados.
+Versão atual: **2.0.0** — [notas da versão](https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/v2.0.0).
 
-## Plataformas
+## Os apps
 
-| Plataforma | Formato de distribuição |
-| --- | --- |
-| macOS | DMG |
-| Android TV | APK |
-| Android (celular) | APK |
-| Windows | ZIP |
+| Plataforma | Onde está o código | Download |
+|---|---|---|
+| TV Box / Android TV / Google TV | [SaimoTV-Android](https://github.com/gabrielsaimo/SaimoTV-Android) | `SaimoTV.apk` |
+| Celular Android | [Saimo-Cell-V2](https://github.com/gabrielsaimo/Saimo-Cell-V2) | `SaimoCell.apk` |
+| Windows | [SaimoWin](https://github.com/gabrielsaimo/SaimoWin) | `SaimoTV-Instalador.msi` |
+| macOS | este repositório (`Sources/`) | `SaimoTV.dmg` |
+| Navegador | [Saimo-TV](https://github.com/gabrielsaimo/Saimo-TV) | <https://saimo-tv.pages.dev> |
 
-## Recursos principais
+Todos os arquivos saem juntos em
+[Releases](https://github.com/gabrielsaimo/SaimoPlayer/releases/latest), e cada
+app procura a versão nova ali e se oferece para atualizar.
 
-- TV ao vivo com suporte a múltiplas fontes
-- EPG (guia eletrônico de programação)
-- Catálogo VOD para filmes e séries
-- Favoritos
-- Fontes alternativas com fallback
-- Seleção de qualidade de vídeo
-- Seleção de áudio e legendas
-- Tela cheia
-- Picture in Picture (PiP)
-- AirPlay
-- Chromecast
-- Google TV
-- Processamento com FFmpeg quando necessário
+## O que todos têm
 
-## Demonstração
+- Canais ao vivo com várias fontes por canal e troca automática quando uma cai
+- Guia de programação (meuguia.tv, guiadetv e feeds XMLTV)
+- Filmes, séries, animes e doramas com ficha, elenco e episódios
+- Pular abertura e recapitulação com tempos do [TheIntroDB](https://theintrodb.org)
+- Próximo episódio nos créditos e continuar de onde parou
+- Favoritos, busca, áudio, legendas e qualidade
 
-Para manter a documentação organizada, capturas de tela e mídias de demonstração podem ser adicionadas em:
+## App do Mac
 
-- `docs/images/`
+SwiftUI + AVFoundation. O AVFoundation não abre DASH nem HEVC em TS, então o app
+tem um proxy HTTP local (`ProxyServer.swift`) e um ffmpeg embutido
+(`Remuxer.swift`) que remontam o que ele recusa. Também tem PiP, AirPlay e
+Chromecast (`Cast.swift`).
 
-> Este README não referencia screenshots inexistentes.
-
-## Downloads
-
-- Última versão: [Releases mais recentes](https://github.com/royopa/SaimoPlayer/releases/latest)
-- Histórico completo: [Todas as releases](https://github.com/royopa/SaimoPlayer/releases)
-
-Versão mais recente conhecida: **1.6.3**.
-
-## Arquitetura do projeto
-
-```text
-SaimoPlayer/
-├── Sources/             # Cliente principal em Swift/SwiftUI
-├── vod/                 # Dados e índices de VOD
-├── *.m3u                # Playlists
-├── canais.txt           # Lista de canais
-├── catalogo.txt         # Catálogo principal
-├── restritos.txt        # Conteúdo restrito/filtrado
-├── build.sh             # Build do app macOS
-├── make_dmg.sh          # Empacotamento DMG
-├── bundle_ffmpeg.py     # Inclusão/empacotamento do FFmpeg
-└── release.sh           # Automação de release
-```
-
-## Tecnologias
-
-- **Swift** e **SwiftUI** no cliente principal
-- **Python** nos scripts de manutenção e automação de dados
-- **FFmpeg** para fluxos e compatibilidade de mídia
-- Distribuição para **macOS**, **Android** e **Windows**
-
-## Desenvolvimento
-
-Comandos existentes no projeto:
+Na 2.0: botão de pular abertura, cartão do próximo episódio (Return assiste,
+Esc dispensa), troca de fonte quando o arquivo "termina" cedo demais e abertura
+no último canal assistido.
 
 ```bash
-./build.sh
+./build.sh        # monta build/Saimo TV.app
+./make_dmg.sh     # gera o DMG
 ```
 
-Compila o aplicativo macOS.
+## Dados publicados
+
+Os apps baixam daqui (via raw do GitHub):
+
+- `catalogo.txt` — a lista de canais, com fontes em ordem de preferência
+- `vod/` — índice e pedaços do acervo de filmes e séries, destaques e fichas
+  (gêneros, capas e ids do TMDB)
+
+Scripts principais:
+
+| Script | Faz |
+|---|---|
+| `atualizar_tudo.sh` | roda a atualização diária do acervo |
+| `gerar_vod.py`, `gerar_generos.py`, `gerar_destaques.py` | geram o acervo, as fichas e as fileiras |
+| `atualizar_redeflix.py`, `atualizar_frostview.py`, `atualizar_fenix.py` | trazem fontes novas de cada origem |
+| `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
+| `medir_fontes_local.py`, `medir_resolucao.py` | medem as fontes |
+
+## Publicar uma versão
 
 ```bash
-./make_dmg.sh
+./release.sh 2.0.0              # marca a versão e publica
+./release.sh 2.0.0 --rascunho   # cria como rascunho
 ```
 
-Gera o instalador DMG.
+O script grava a versão no `Info.plist` e no Gradle da TV, monta o DMG, o APK da
+TV (assinado com a chave de sempre, para atualizar por cima), o instalador do
+Windows e inclui o APK do celular se ele estiver montado. As notas saem de
+`build/release/NOTAS.md` quando esse arquivo existe.
 
-```bash
-./release.sh
-./release.sh 1.6.3
-./release.sh 1.6.3 --rascunho
-```
+Pré-requisitos: repositórios irmãos em `../SaimoTV-Android`, `../SaimoWin` e
+`../Saimo-Cell-V2`; JDK 17; `wixl` (`brew install msitools`); `gh` logado.
 
-Publica a release usando a versão atual ou versão explícita, com opção de criar como rascunho.
+## Avisos
 
-## Catálogos e dados
-
-Arquivos e listas são usados para abastecer canais e VOD:
-
-- Playlists `.m3u`
-- `canais.txt`
-- `catalogo.txt`
-- `restritos.txt`
-- Estrutura em `vod/`
-
-Scripts Python auxiliam atualização, limpeza de links, geração de catálogo e manutenção operacional.
-
-## Avisos importantes
-
-- Fontes externas podem ficar indisponíveis sem aviso.
-- Distribuição e uso de conteúdo devem respeitar direitos autorais e direitos de distribuição.
-- Não inclua dados privados, tokens, credenciais ou URLs sensíveis em catálogos e scripts.
-- Arquivos de catálogo grandes exigem cuidado em alterações para evitar inconsistências.
-
-## Contribuição
-
-Contribuições são bem-vindas via issues e pull requests. Prefira mudanças objetivas, com validação dos scripts e dos dados alterados.
-
-## Licença
-
-Não há licença explícita declarada neste repositório no momento.
-
-## Autor
-
-Projeto Saimo TV e colaboradores.
+- Fontes externas podem sair do ar sem aviso; o sistema de fontes reserva existe
+  por isso.
+- Respeite direitos autorais e de distribuição do conteúdo.
+- Não coloque tokens, credenciais ou dados pessoais em catálogos e scripts.
