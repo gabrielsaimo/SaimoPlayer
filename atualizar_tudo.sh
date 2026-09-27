@@ -2,18 +2,23 @@
 #
 # Atualiza o catálogo inteiro e as fileiras da tela inicial, e publica.
 #
-# Seis passos, nesta ordem, porque cada um lê o que o anterior escreveu:
+# Cinco passos, nesta ordem, porque cada um lê o que o anterior escreveu:
 #
 #   1. atualizar_redeflix.py  filmes e séries novos do Redeflix (vod/redeflix)
 #   2. atualizar_redeflix.py  animes e doramas: episódios novos e títulos novos
-#   3. atualizar_fenix.py     fontes a mais do FenixFlix para os títulos que o
-#                             acervo já tem (vod/fenix); só pergunta pelo que é
-#                             novo ou envelheceu, até um limite por rodada
-#   4. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
-#                             o Redeflix resolveu + o Fenix atrás, como opção
-#   5. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
+#   3. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
+#                             o Redeflix resolveu, sem perder os links antigos;
+#                             as fontes do FenixFlix já coletadas (vod/fenix)
+#                             entram por último em cada título
+#   4. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
 #                             pergunta ao TMDB pelos que ainda não conhece
-#   6. gerar_destaques.py     as fileiras da tela inicial
+#   5. gerar_destaques.py     as fileiras da tela inicial
+#
+# O FenixFlix (atualizar_fenix.py) saiu da rodada diária em 27/09/2026: numa
+# passada inteira ele tinha link aproveitável em 59 das 11.445 séries e em
+# quase nenhum filme — os de filme vêm com prazo e chegam vencidos —, a uns 8
+# segundos por consulta. Uma hora por dia não compensa. O script continua
+# aqui para rodar à mão se o Fenix melhorar.
 #
 # Até 21/09/2026 só o 1, o 2 e o 5 rodavam: os filmes e séries novos ficavam
 # resolvidos em vod/redeflix sem que app nenhum os lesse, anime novo nunca
@@ -108,15 +113,6 @@ elif [ "$somente_destaques" = 0 ]; then
     --tentativas-indisponiveis 2 --delay-episodio 0.05 \
     --somente-titulos-publicados \
     >>"$REGISTRO" 2>&1 || anotar "animes e doramas: falhou, seguindo assim mesmo"
-fi
-
-if [ "$somente_destaques" = 0 ]; then
-  # O Fenix leva uns 8 segundos por título que ele ainda não conhecia. O
-  # limite segura a rodada do dia em cerca de uma hora; o que ficar de fora
-  # entra na próxima, porque cada resposta fica guardada.
-  anotar "fontes a mais do FenixFlix"
-  python3 atualizar_fenix.py --limite 12000 >>"$REGISTRO" 2>&1 \
-    || anotar "Fenix: falhou, seguindo com as fontes de ontem"
 fi
 
 if [ "$somente_destaques" = 0 ]; then
