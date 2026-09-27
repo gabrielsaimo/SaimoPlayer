@@ -286,12 +286,33 @@ def consultar(caminho: str, respostas: Guardado, contador: dict) -> list[list[st
     return fontes
 
 
+# MARK: - Andamento
+
+class Andamento:
+    """Uma linha a cada tantos itens, com velocidade e quanto falta."""
+
+    def __init__(self, nome: str, total: int, a_cada: int = 100):
+        self.nome, self.total, self.a_cada = nome, total, a_cada
+        self.inicio = time.time()
+
+    def linha(self, feitos: int, extra: str) -> None:
+        if feitos % self.a_cada and feitos != self.total:
+            return
+        passou = max(time.time() - self.inicio, 0.001)
+        ritmo = feitos / passou
+        falta = (self.total - feitos) / ritmo if ritmo else 0
+        h, m = divmod(int(falta) // 60, 60)
+        print(f"[{time.strftime('%H:%M:%S')}] {self.nome}: {feitos}/{self.total} "
+              f"({100 * feitos / max(self.total, 1):.1f}%) · {extra} · "
+              f"{ritmo * 60:.0f}/min · falta ~{h}h{m:02d}", flush=True)
+
+
 # MARK: - Principal
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--limite", type=int, default=12000, help="perguntas ao Fenix nesta rodada")
-    parser.add_argument("--workers", type=int, default=32)
+    parser.add_argument("--workers", type=int, default=80)
     parser.add_argument("--so-filmes", action="store_true")
     parser.add_argument("--so-series", action="store_true")
     parser.add_argument("--amostra", type=int, default=0,
@@ -309,47 +330,7 @@ def main() -> int:
         ids.gravar()
         respostas.gravar()
 
-    # ── Filmes ──────────────────────────────────────────────────────────
-    if not args.so_series:
-        titulos = filmes_do_acervo()
-        if args.amostra:
-            titulos = titulos[:args.amostra]
-        print(f"filmes no acervo: {len(titulos)}", flush=True)
-
-        def fontes_do_filme(titulo: str):
-            # Com o limite atingido não adianta nem descobrir o IMDb: a
-            # pergunta ao Fenix não sairia, e o TMDB é que tomaria o tempo.
-            if contador["feitas"] >= contador["limite"] and not respostas.get(f"movie/{imdb_redeflix.get(titulo, '')}"):
-                return titulo, []
-            imdb = imdb_redeflix.get(titulo)
-            if not imdb:
-                tmdb = fichas.get(("f", titulo)) or fichas.get(("f", sem_ano(titulo)))
-                imdb = imdb_de(tmdb, False, ids) if tmdb else ""
-            if not imdb:
-                return titulo, []
-            return titulo, consultar(f"movie/{imdb}", respostas, contador)
-
-        achados: dict[str, list[list[str]]] = {}
-        with ThreadPoolExecutor(args.workers) as grupo:
-            for n, futuro in enumerate(as_completed(grupo.submit(fontes_do_filme, t) for t in titulos), 1):
-                titulo, fontes = futuro.result()
-                if fontes:
-                    achados[titulo] = fontes
-                if n % 2000 == 0:
-                    print(f"  filmes: {n}/{len(titulos)} · com fonte: {len(achados)} · perguntas: {contador['feitas']}", flush=True)
-                    gravar_caches()
-        linhas = []
-        for titulo in sorted(achados):
-            por_idioma: dict[str, list[str]] = {}
-            for lingua, url in achados[titulo]:
-                por_idioma.setdefault(lingua, []).append(url)
-            campos = [titulo] + [f"{l}={','.join(u)}" for l, u in sorted(por_idioma.items())]
-            linhas.append("\t".join(campos))
-        (SAIDA / "links-filmes.txt").write_text("\n".join(linhas) + ("\n" if linhas else ""), encoding="utf-8")
-        print(f"filmes com fonte do Fenix: {len(achados)}", flush=True)
-        gravar_caches()
-
-    # ── Séries ──────────────────────────────────────────────────────────
+    # ── Séries: primeiro, porque é onde o Fenix tem link que dura ──
     if not args.so_filmes:
         series = series_do_acervo()
         if args.amostra:
@@ -374,6 +355,7 @@ def main() -> int:
 
         com_fonte: dict[str, str] = {}
         resultado: dict[str, dict] = {}
+        andamento = Andamento("séries (1º episódio)", len(series))
         with ThreadPoolExecutor(args.workers) as grupo:
             futuros = [grupo.submit(sondar, t) for t in series]
             for n, futuro in enumerate(as_completed(futuros), 1):
@@ -382,8 +364,8 @@ def main() -> int:
                     com_fonte[titulo] = imdb
                     primeiro = sorted(series[titulo]["eps"])[0]
                     resultado.setdefault(titulo, {})[primeiro] = fontes
+                andamento.linha(n, f"o Fenix tem: {len(com_fonte)} · perguntas ao Fenix: {contador['feitas']}")
                 if n % 1000 == 0:
-                    print(f"  séries sondadas: {n}/{len(series)} · o Fenix tem: {len(com_fonte)} · perguntas: {contador['feitas']}", flush=True)
                     gravar_caches()
         print(f"séries que o Fenix tem: {len(com_fonte)}", flush=True)
 
@@ -394,14 +376,16 @@ def main() -> int:
 
         tarefas = [(titulo, imdb, t, e) for titulo, imdb in com_fonte.items()
                    for (t, e) in sorted(series[titulo]["eps"])[1:]]
+        andamento = Andamento("episódios", len(tarefas))
         with ThreadPoolExecutor(args.workers) as grupo:
             futuros = [grupo.submit(episodio, *tarefa) for tarefa in tarefas]
             for n, futuro in enumerate(as_completed(futuros), 1):
                 titulo, alvo, fontes = futuro.result()
                 if fontes:
                     resultado.setdefault(titulo, {})[alvo] = fontes
-                if n % 2000 == 0:
-                    print(f"  episódios: {n}/{len(tarefas)} · perguntas: {contador['feitas']}", flush=True)
+                com = sum(len(v) for v in resultado.values())
+                andamento.linha(n, f"episódios com fonte: {com} · perguntas ao Fenix: {contador['feitas']}")
+                if n % 1000 == 0:
                     gravar_caches()
 
         linhas = []
@@ -416,6 +400,47 @@ def main() -> int:
         (SAIDA / "links-series.txt").write_text("\n".join(linhas) + ("\n" if linhas else ""), encoding="utf-8")
         eps = sum(len(v) for v in resultado.values())
         print(f"séries com fonte do Fenix: {len(resultado)} ({eps} episódios)", flush=True)
+        gravar_caches()
+
+    # ── Filmes: depois; quase todo link de filme vem com prazo e é descartado ──
+    if not args.so_series:
+        titulos = filmes_do_acervo()
+        if args.amostra:
+            titulos = titulos[:args.amostra]
+        print(f"filmes no acervo: {len(titulos)}", flush=True)
+
+        def fontes_do_filme(titulo: str):
+            # Com o limite atingido não adianta nem descobrir o IMDb: a
+            # pergunta ao Fenix não sairia, e o TMDB é que tomaria o tempo.
+            if contador["feitas"] >= contador["limite"] and not respostas.get(f"movie/{imdb_redeflix.get(titulo, '')}"):
+                return titulo, []
+            imdb = imdb_redeflix.get(titulo)
+            if not imdb:
+                tmdb = fichas.get(("f", titulo)) or fichas.get(("f", sem_ano(titulo)))
+                imdb = imdb_de(tmdb, False, ids) if tmdb else ""
+            if not imdb:
+                return titulo, []
+            return titulo, consultar(f"movie/{imdb}", respostas, contador)
+
+        achados: dict[str, list[list[str]]] = {}
+        andamento = Andamento("filmes", len(titulos))
+        with ThreadPoolExecutor(args.workers) as grupo:
+            for n, futuro in enumerate(as_completed(grupo.submit(fontes_do_filme, t) for t in titulos), 1):
+                titulo, fontes = futuro.result()
+                if fontes:
+                    achados[titulo] = fontes
+                andamento.linha(n, f"com fonte: {len(achados)} · perguntas ao Fenix: {contador['feitas']}")
+                if n % 1000 == 0:
+                    gravar_caches()
+        linhas = []
+        for titulo in sorted(achados):
+            por_idioma: dict[str, list[str]] = {}
+            for lingua, url in achados[titulo]:
+                por_idioma.setdefault(lingua, []).append(url)
+            campos = [titulo] + [f"{l}={','.join(u)}" for l, u in sorted(por_idioma.items())]
+            linhas.append("\t".join(campos))
+        (SAIDA / "links-filmes.txt").write_text("\n".join(linhas) + ("\n" if linhas else ""), encoding="utf-8")
+        print(f"filmes com fonte do Fenix: {len(achados)}", flush=True)
         gravar_caches()
 
     print(f"perguntas ao Fenix nesta rodada: {contador['feitas']}"

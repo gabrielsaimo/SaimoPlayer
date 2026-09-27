@@ -398,12 +398,14 @@ def main():
     def qualquer_http(url):
         return url.startswith("http")
     fenix_filmes = fenix_eps = 0
+    do_fenix: set[str] = set()
     for k, direto in links_diretos_de_filmes([fenix / "links-filmes.txt"], qualquer_http).items():
         if k not in filmes:
             continue
         registro = filmes[k]
         for versao, urls in direto["versoes"].items():
             for url in urls:
+                do_fenix.add(url)
                 if url not in registro["versoes"][versao]:
                     registro["versoes"][versao].append(url)
         fenix_filmes += 1
@@ -413,6 +415,7 @@ def main():
         registro = series[k]
         for alvo, urls in direto["eps"].items():
             for url in urls:
+                do_fenix.add(url)
                 if url not in registro["eps"][alvo]:
                     registro["eps"][alvo].append(url)
             fenix_eps += 1
@@ -449,7 +452,11 @@ def main():
     # regra a ordem dependeria de por onde a fonte entrou nesta montagem, e o
     # acervo mudaria a cada rodada sem ter mudado nada.
     def na_frente(lista):
-        return [u for u in lista if resolvido_por_id(u)] + [u for u in lista if not resolvido_por_id(u)]
+        # Resolvidos por id na frente, o Fenix no fim: é opção a mais, e o app
+        # só chega nele quando as fontes de sempre falharem.
+        return ([u for u in lista if resolvido_por_id(u)]
+                + [u for u in lista if not resolvido_por_id(u) and u not in do_fenix]
+                + [u for u in lista if u in do_fenix])
 
     for registro in filmes.values():
         for versao in registro["versoes"]:
