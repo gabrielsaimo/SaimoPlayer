@@ -12,6 +12,7 @@ import Foundation
 ///
 /// Sem rede, o filtro simplesmente não aparece: melhor não oferecer do que
 /// oferecer uma lista que devolve vazio.
+@MainActor
 enum Generos {
 
     private static let endereco = URL(
@@ -95,10 +96,26 @@ enum Generos {
         let texto = await baixado() ?? (try? String(contentsOf: arquivo, encoding: .utf8))
         guard let texto, !texto.isEmpty else { return }
 
-        var novo: [String: [String]] = [:]
-        var novasCapas: [String: String] = [:]
-        var novosIds: [String: Int] = [:]
-        var novoPorId: [Int: String] = [:]
+        // Ler 46 mil linhas é trabalho de CPU: fora da thread principal, e só
+        // a troca dos mapas volta para ela.
+        let lido = await Task.detached(priority: .utility) { ler(texto) }.value
+        mapa = lido.mapa
+        capas = lido.capas
+        ids = lido.ids
+        porId = lido.porId
+        todos = lido.todos
+    }
+
+    private struct Lido: Sendable {
+        var mapa: [String: [String]] = [:]
+        var capas: [String: String] = [:]
+        var ids: [String: Int] = [:]
+        var porId: [Int: String] = [:]
+        var todos: [String] = []
+    }
+
+    nonisolated private static func ler(_ texto: String) -> Lido {
+        var lido = Lido()
         var vistos = Set<String>()
         var base = ""
         // tipo \t título \t id do TMDB \t pôster \t gêneros
@@ -111,26 +128,22 @@ enum Generos {
             let campos = linha.split(separator: "\t", omittingEmptySubsequences: false)
             guard campos.count >= 5 else { continue }
             let chave = "\(campos[0])|\(campos[1])"
-            if !campos[3].isEmpty { novasCapas[chave] = base + campos[3] }
+            if !campos[3].isEmpty { lido.capas[chave] = base + campos[3] }
             if let id = Int(campos[2]), id > 0 {
-                novosIds[chave] = id
-                let serie = campos[0] == "s"
+                lido.ids[chave] = id
                 // Um mesmo id pode aparecer duas vezes no acervo (o mesmo
                 // filme em duas grafias); o primeiro basta.
-                let marcaDoId = serie ? -id : id
-                if novoPorId[marcaDoId] == nil { novoPorId[marcaDoId] = String(campos[1]) }
+                let marcaDoId = campos[0] == "s" ? -id : id
+                if lido.porId[marcaDoId] == nil { lido.porId[marcaDoId] = String(campos[1]) }
             }
             let lista = campos[4].split(separator: ",").map(String.init)
             if !lista.isEmpty {
-                novo[chave] = lista
+                lido.mapa[chave] = lista
                 lista.forEach { vistos.insert($0) }
             }
         }
-        mapa = novo
-        capas = novasCapas
-        ids = novosIds
-        porId = novoPorId
-        todos = vistos.sorted()
+        lido.todos = vistos.sorted()
+        return lido
     }
 
     private static var arquivo: URL {

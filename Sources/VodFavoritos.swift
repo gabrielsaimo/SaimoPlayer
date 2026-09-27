@@ -10,6 +10,7 @@ import Combine
 ///
 /// A ordem importa — o que foi marcado por último aparece em cima —, então isto
 /// é uma lista gravada como texto, e não um conjunto.
+@MainActor
 final class VodFavoritos: ObservableObject {
 
     struct Item: Identifiable, Hashable {

@@ -971,7 +971,10 @@ final class PlayerModel: NSObject, ObservableObject {
         pip = controller
         playerObservers.append(
             controller!.observe(\.isPictureInPicturePossible, options: [.initial, .new]) { [weak self] c, _ in
-                Task { @MainActor in self?.isPiPPossible = c.isPictureInPicturePossible }
+                // Lido aqui, na thread do aviso: o controlador não pode ir
+                // junto para a principal, só o valor.
+                let possivel = c.isPictureInPicturePossible
+                Task { @MainActor in self?.isPiPPossible = possivel }
             })
         applyAlwaysOnTop()
     }

@@ -69,11 +69,25 @@ struct VodGridView: View {
         .sheet(item: $selecaoFonte) { selecao in
             seletorDeFontes(selecao)
         }
-        .sheet(item: $fichaAberta) { cartao in
-            FichaView(titulo: cartao.titulo, serie: cartao.serie, ano: cartao.ano) { achado in
-                Task { await abrirAchado(achado, reservado: false) }
+        .overlay {
+            if let cartao = fichaAberta {
+                FichaTela(
+                    alvo: FichaAlvo(titulo: cartao.titulo, serie: cartao.serie, ano: cartao.ano,
+                                    letra: cartao.letra, reservado: cartao.reservado),
+                    assistir: {
+                        fichaAberta = nil
+                        cartao.abrir()
+                    },
+                    fechar: { fichaAberta = nil },
+                    abrirTitulo: { achado in fichaAberta = cartaoDe(achado) })
+                // Uma ficha nova para cada título: sem isto, abrir um filme a
+                // partir da filmografia reaproveitava a ficha anterior, que
+                // continuava com o ator aberto por cima do título novo.
+                .id(cartao.id)
+                .transition(.opacity)
             }
         }
+        .animation(.easeInOut(duration: 0.18), value: fichaAberta?.id)
     }
 
     // MARK: - Topo
@@ -397,6 +411,19 @@ struct VodGridView: View {
         }
     }
 
+    /// Um título do acervo como cartão — é o que a filmografia de um ator abre.
+    private func cartaoDe(_ achado: Vod.Achado) -> Cartao {
+        Cartao(titulo: achado.titulo,
+               ano: achado.ano,
+               serie: achado.serie,
+               detalhe: achado.serie ? "Série" : "Filme",
+               progresso: achado.serie ? nil : Progresso.fracao(Progresso.chaveFilme(achado.titulo)),
+               letra: achado.letra,
+               reservado: false) {
+            Task { await abrirAchado(achado, reservado: false) }
+        }
+    }
+
     private func cartaoDeDestaque(_ item: Destaques.Item) -> Cartao {
         // O ano do filme mora dentro do próprio nome no catálogo; o da série,
         // num campo à parte. Somar os dois sem olhar dava "Obsessao (2026)
@@ -453,7 +480,8 @@ struct VodGridView: View {
                    detalhe: andamento.serie ? "Série" : "Filme",
                    progresso: andamento.fracao,
                    letra: "",
-                   reservado: false) {
+                   reservado: false,
+                   direto: true) {
                 Task { await abrirPorNome(andamento.titulo, serie: andamento.serie) }
             }
         }
@@ -501,6 +529,9 @@ struct VodGridView: View {
         let reservado: Bool
         /// "4K" quando alguma fonte do título anuncia essa resolução.
         var selo: String? = nil
+        /// Toca sem passar pela ficha: é o caso do "Continue assistindo", em
+        /// que a pessoa já sabe o que quer e só quer voltar ao ponto.
+        var direto = false
         let abrir: () -> Void
         var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
         var id: String { (serie ? "s:" : "f:") + nomeCompleto }
@@ -553,7 +584,6 @@ struct VodGridView: View {
                 }
             }
             .overlay(alignment: .topTrailing) { estrela(cartao) }
-            .overlay(alignment: .bottomTrailing) { botaoFicha(cartao) }
             .overlay(alignment: .topLeading) {
                 if let selo = cartao.selo {
                     Text(selo)
@@ -565,7 +595,15 @@ struct VodGridView: View {
                 }
             }
             .contentShape(Rectangle())
-            .onTapGesture { cartao.abrir() }
+            // O cartaz abre a ficha, como no celular e na TV Box: saber do que
+            // o filme trata antes de gastar dois minutos abrindo a fonte.
+            .onTapGesture { escolher(cartao) }
+            // Para o VoiceOver e o teclado o cartaz é um botão: sem isto ele
+            // era só uma imagem, e não havia como abri-lo sem o mouse.
+            .accessibilityElement(children: .combine)
+            .accessibilityAddTraits(.isButton)
+            .accessibilityLabel(cartao.nomeCompleto)
+            .accessibilityAction { escolher(cartao) }
 
             Text(cartao.nomeCompleto)
                 .font(.system(size: 13, weight: .medium))
@@ -594,20 +632,8 @@ struct VodGridView: View {
         return "\(ano) · \(cartao.detalhe)"
     }
 
-    /// Abre a ficha sem abrir o filme: sinopse, duração, gêneros e elenco.
-    private func botaoFicha(_ cartao: Cartao) -> some View {
-        Button {
-            fichaAberta = cartao
-        } label: {
-            Image(systemName: "info.circle.fill")
-                .font(.system(size: 13, weight: .semibold))
-                .padding(5)
-                .background(.black.opacity(0.45), in: Circle())
-                .foregroundStyle(.white.opacity(0.85))
-        }
-        .buttonStyle(.plain)
-        .padding(6)
-        .help("Ver a ficha de \(cartao.nomeCompleto)")
+    private func escolher(_ cartao: Cartao) {
+        if cartao.direto { cartao.abrir() } else { fichaAberta = cartao }
     }
 
     private func estrela(_ cartao: Cartao) -> some View {

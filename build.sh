@@ -13,7 +13,7 @@ cp build/AppIcon.icns "$APP/Contents/Resources/AppIcon.icns"
 
 swiftc \
   -module-cache-path build/ModuleCache \
-  -swift-version 5 \
+  -swift-version 6 \
   -target arm64-apple-macos15.0 \
   -O \
   -framework AVKit \

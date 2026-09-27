@@ -1,286 +1,466 @@
 import SwiftUI
 
-/// A ficha de um título, como uma folha sobre a grade.
-///
-/// Antes um cartaz na grade era só isso: um cartaz. Para saber do que o filme
-/// tratava, quanto durava, ou quem estava nele, só abrindo — dois minutos de
-/// fonte, player e espera para descobrir que não era aquilo.
-///
-/// Aqui estão os mesmos campos que o celular mostra, com os mesmos nomes, e o
-/// elenco leva a sério o clique: tocar num ator abre o que ele fez **e que
-/// existe neste acervo**, que é a única lista que vale de dentro do aplicativo.
-struct FichaView: View {
+/// O título que a ficha mostra, com o bastante para chegar até ele.
+struct FichaAlvo: Identifiable, Equatable {
     let titulo: String
     let serie: Bool
     let ano: String
-    /// Abre um título do acervo — usado pela filmografia do ator.
-    let abrir: (Vod.Achado) -> Void
+    let letra: String
+    let reservado: Bool
+    var id: String { (serie ? "s:" : "f:") + titulo + "|" + ano }
+    var nomeCompleto: String { ano.isEmpty ? titulo : "\(titulo) (\(ano))" }
+}
 
+/// A ficha de um título, ocupando a área do acervo.
+///
+/// Antes era uma folha pequena por cima da grade, com texto e pouco mais. Agora
+/// é o que a TV Box mostra: a imagem larga do filme ao fundo, escurecendo da
+/// esquerda para a direita, a capa, os números em selos, a sinopse, e o elenco
+/// em fotos redondas. Tocar num ator abre quem ele é e as capas de tudo que ele
+/// tem no acervo — e tocar numa dessas capas abre a ficha daquele título.
+///
+/// "Assistir" não toca daqui: devolve à grade, que é quem sabe escolher fonte
+/// e temporada. Assim o caminho até o vídeo é um só.
+struct FichaTela: View {
+    let alvo: FichaAlvo
+    let assistir: () -> Void
+    let fechar: () -> Void
+    /// Abre a ficha de outro título — vindo da filmografia de um ator.
+    let abrirTitulo: (Vod.Achado) -> Void
+
+    @ObservedObject private var favoritos = VodFavoritos.shared
     @State private var ficha: Ficha?
     @State private var carregando = true
     @State private var ator: Ficha.Pessoa?
-    @Environment(\.dismiss) private var dismiss
 
     var body: some View {
-        VStack(spacing: 0) {
-            cabecalho
-            Divider().opacity(0.2)
+        ZStack(alignment: .topLeading) {
+            Color.black
             if let ator {
-                FilmografiaView(ator: ator, abrir: { achado in
-                    dismiss()
-                    abrir(achado)
-                }, voltar: { self.ator = nil })
+                AtorTela(pessoa: ator, voltar: { self.ator = nil }, abrir: abrirTitulo)
+                    .transition(.opacity)
             } else {
+                fundo
                 conteudo
             }
         }
-        .frame(width: 720, height: 560)
-        .background(Color(nsColor: .windowBackgroundColor))
-        .task { await carregar() }
-    }
-
-    private var cabecalho: some View {
-        HStack(spacing: 10) {
-            if ator != nil {
-                Button { ator = nil } label: { Image(systemName: "chevron.left") }
-                    .buttonStyle(.plain)
-            }
-            Text(ator?.nome ?? nomeCompleto)
-                .font(.system(size: 15, weight: .semibold))
-                .lineLimit(1)
-            Spacer()
-            Button { dismiss() } label: { Image(systemName: "xmark") }
-                .buttonStyle(.plain)
+        .animation(.easeInOut(duration: 0.18), value: ator?.id)
+        .onExitCommand { if ator != nil { ator = nil } else { fechar() } }
+        .task(id: alvo.id) {
+            ficha = nil
+            carregando = true
+            ficha = await Fichas.de(alvo.titulo, serie: alvo.serie)
+            carregando = false
+            // O índice para a filmografia fica pronto enquanto se lê a ficha.
+            if !(ficha?.elenco.isEmpty ?? true) { await Fichas.aquecer() }
         }
-        .padding(14)
     }
 
-    private var nomeCompleto: String {
-        ano.isEmpty ? titulo : "\(titulo) (\(ano))"
-    }
+    // MARK: - Fundo
 
-    @ViewBuilder
-    private var conteudo: some View {
-        if carregando {
-            Spacer()
-            ProgressView().controlSize(.small)
-            Spacer()
-        } else if let ficha, !ficha.vazia {
-            ScrollView {
-                VStack(alignment: .leading, spacing: 16) {
-                    topo(ficha)
-                    if !ficha.sinopse.isEmpty {
-                        secao("Sinopse") {
-                            Text(ficha.sinopse)
-                                .font(.system(size: 12))
-                                .foregroundStyle(.secondary)
-                                .fixedSize(horizontal: false, vertical: true)
+    private var fundo: some View {
+        GeometryReader { geo in
+            ZStack {
+                if let endereco = ficha?.fundo, let url = URL(string: endereco) {
+                    AsyncImage(url: url, transaction: Transaction(animation: .easeIn(duration: 0.35))) { fase in
+                        if let imagem = fase.image {
+                            imagem.resizable().aspectRatio(contentMode: .fill)
+                                .frame(width: geo.size.width, height: geo.size.height)
+                                .clipped()
                         }
                     }
-                    creditos(ficha)
-                    if !ficha.elenco.isEmpty {
-                        secao("Elenco") { elenco(ficha) }
+                }
+                // O texto fica sobre o escuro; o filme aparece do outro lado.
+                LinearGradient(
+                    stops: [.init(color: .black.opacity(0.96), location: 0),
+                            .init(color: .black.opacity(0.82), location: 0.45),
+                            .init(color: .black.opacity(0.15), location: 1)],
+                    startPoint: .leading, endPoint: .trailing)
+                LinearGradient(colors: [.clear, .black.opacity(0.9)],
+                               startPoint: .center, endPoint: .bottom)
+            }
+        }
+        .ignoresSafeArea()
+    }
+
+    // MARK: - Conteúdo
+
+    private var conteudo: some View {
+        ScrollView {
+            VStack(alignment: .leading, spacing: 26) {
+                botaoVoltar("Voltar", acao: fechar)
+
+                HStack(alignment: .top, spacing: 30) {
+                    capa
+                    VStack(alignment: .leading, spacing: 12) {
+                        Text(tipo)
+                            .font(.system(size: 12, weight: .bold))
+                            .tracking(2)
+                            .foregroundStyle(Color.accentColor)
+                        Text(Generos.semAno(alvo.titulo))
+                            .font(.system(size: 38, weight: .bold))
+                            .lineLimit(2)
+                            .foregroundStyle(.white)
+                        if let frase = ficha?.frase, !frase.isEmpty {
+                            Text(frase).font(.system(size: 15)).italic()
+                                .foregroundStyle(.white.opacity(0.7))
+                        }
+                        selos
+                        if let generos = ficha?.generos, !generos.isEmpty {
+                            Text(generos.joined(separator: "  ·  "))
+                                .font(.system(size: 13))
+                                .foregroundStyle(.white.opacity(0.65))
+                        }
+                        botoes.padding(.top, 6)
+                        if let sinopse = ficha?.sinopse, !sinopse.isEmpty {
+                            Text(sinopse)
+                                .font(.system(size: 15))
+                                .lineSpacing(3)
+                                .foregroundStyle(.white.opacity(0.9))
+                                .frame(maxWidth: 680, alignment: .leading)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .padding(.top, 6)
+                        } else if !carregando {
+                            Text("Sem ficha para este título.")
+                                .font(.system(size: 14)).foregroundStyle(.secondary)
+                        }
+                        creditos
                     }
+                    Spacer(minLength: 0)
                 }
-                .padding(18)
-            }
-        } else {
-            Spacer()
-            Text("Sem ficha para este título.")
-                .font(.system(size: 12))
-                .foregroundStyle(.secondary)
-            Spacer()
-        }
-    }
 
-    private func topo(_ ficha: Ficha) -> some View {
-        HStack(alignment: .top, spacing: 14) {
-            AsyncImage(url: ficha.capa.flatMap(URL.init(string:))) { imagem in
-                imagem.resizable().aspectRatio(contentMode: .fill)
-            } placeholder: {
-                RoundedRectangle(cornerRadius: 6).fill(Color.white.opacity(0.07))
-            }
-            .frame(width: 120, height: 180)
-            .clipShape(RoundedRectangle(cornerRadius: 6, style: .continuous))
-
-            VStack(alignment: .leading, spacing: 8) {
-                if !ficha.frase.isEmpty {
-                    Text(ficha.frase)
-                        .font(.system(size: 12, weight: .medium))
-                        .italic()
-                        .foregroundStyle(.secondary)
-                }
-                selos(ficha)
-                if !ficha.generos.isEmpty {
-                    Text(ficha.generos.joined(separator: " · "))
-                        .font(.system(size: 11))
-                        .foregroundStyle(.secondary)
-                }
-            }
-            Spacer(minLength: 0)
-        }
-    }
-
-    private func selos(_ ficha: Ficha) -> some View {
-        HStack(spacing: 6) {
-            if !ficha.ano.isEmpty { selo(ficha.ano) }
-            if let minutos = ficha.duracao, minutos > 0 {
-                selo(serie ? "\(minutos) min/ep" : "\(minutos) min")
-            }
-            if let classificacao = ficha.classificacao, !classificacao.isEmpty {
-                selo(classificacao)
-            }
-            if ficha.nota > 0 {
-                selo(String(format: "★ %.1f", ficha.nota))
-            }
-        }
-    }
-
-    private func selo(_ texto: String) -> some View {
-        Text(texto)
-            .font(.system(size: 10, weight: .semibold))
-            .padding(.horizontal, 7).padding(.vertical, 3)
-            .overlay(Capsule().stroke(.secondary.opacity(0.4)))
-    }
-
-    @ViewBuilder
-    private func creditos(_ ficha: Ficha) -> some View {
-        let linhas: [(String, String)] = [
-            (serie ? "Criação" : "Direção", ficha.assinatura),
-            ("Roteiro", ficha.roteiro),
-            ("Produção", ficha.produtora),
-        ].filter { !$0.1.isEmpty }
-        if !linhas.isEmpty {
-            VStack(alignment: .leading, spacing: 3) {
-                ForEach(linhas, id: \.0) { rotulo, valor in
-                    Text("\(rotulo): ").font(.system(size: 11, weight: .semibold))
-                        + Text(valor).font(.system(size: 11)).foregroundColor(.secondary)
-                }
-            }
-        }
-    }
-
-    private func elenco(_ ficha: Ficha) -> some View {
-        ScrollView(.horizontal, showsIndicators: false) {
-            HStack(alignment: .top, spacing: 12) {
-                ForEach(ficha.elenco) { pessoa in
-                    Button { ator = pessoa } label: {
-                        VStack(spacing: 5) {
-                            AsyncImage(url: pessoa.foto.flatMap(URL.init(string:))) { imagem in
-                                imagem.resizable().aspectRatio(contentMode: .fill)
-                            } placeholder: {
-                                ZStack {
-                                    Circle().fill(Color.white.opacity(0.07))
-                                    Image(systemName: "person.fill")
-                                        .foregroundStyle(.secondary)
+                if let elenco = ficha?.elenco, !elenco.isEmpty {
+                    VStack(alignment: .leading, spacing: 12) {
+                        Text("Elenco").font(.system(size: 18, weight: .semibold))
+                        ScrollView(.horizontal, showsIndicators: false) {
+                            LazyHStack(alignment: .top, spacing: 18) {
+                                ForEach(elenco) { pessoa in
+                                    Button { ator = pessoa } label: { FotoDePessoa(pessoa: pessoa) }
+                                        .buttonStyle(CresceNoFoco())
+                                        .help("Ver o que \(pessoa.nome) tem no acervo")
                                 }
                             }
-                            .frame(width: 64, height: 64)
-                            .clipShape(Circle())
-                            Text(pessoa.nome)
-                                .font(.system(size: 10, weight: .medium))
-                                .lineLimit(1)
-                            Text(pessoa.papel)
-                                .font(.system(size: 9))
-                                .foregroundStyle(.secondary)
-                                .lineLimit(1)
+                            .padding(.vertical, 8)
+                            .padding(.horizontal, 4)
                         }
-                        .frame(width: 84)
                     }
-                    .buttonStyle(.plain)
-                    .help("Ver o que \(pessoa.nome) tem no acervo")
                 }
             }
-            .padding(.vertical, 2)
+            .padding(.horizontal, 40)
+            .padding(.vertical, 26)
         }
     }
 
-    private func secao<Conteudo: View>(
-        _ titulo: String, @ViewBuilder _ corpo: () -> Conteudo
-    ) -> some View {
-        VStack(alignment: .leading, spacing: 7) {
-            Text(titulo).font(.system(size: 12, weight: .semibold))
-            corpo()
+    private var tipo: String {
+        alvo.serie ? "SÉRIE" : "FILME"
+    }
+
+    private var capa: some View {
+        let endereco = ficha?.capa ?? Generos.capa(alvo.nomeCompleto, serie: alvo.serie)
+        return ZStack {
+            RoundedRectangle(cornerRadius: 10, style: .continuous).fill(Color.white.opacity(0.08))
+            Text(String(alvo.titulo.prefix(1)).uppercased())
+                .font(.system(size: 60, weight: .semibold))
+                .foregroundStyle(Color.accentColor.opacity(0.7))
+            if let endereco, let url = URL(string: endereco) {
+                AsyncImage(url: url) { imagem in
+                    imagem.resizable().aspectRatio(contentMode: .fill)
+                } placeholder: { Color.clear }
+            }
+        }
+        .frame(width: 220, height: 330)
+        .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
+        .shadow(color: .black.opacity(0.6), radius: 18, y: 8)
+    }
+
+    @ViewBuilder
+    private var selos: some View {
+        if let ficha {
+            HStack(spacing: 8) {
+                if ficha.nota > 0 {
+                    Selo(texto: String(format: "★ %.1f", ficha.nota), cor: .yellow)
+                }
+                if !ficha.ano.isEmpty { Selo(texto: ficha.ano) }
+                if let minutos = ficha.duracao, minutos > 0 {
+                    Selo(texto: alvo.serie ? "\(minutos) min/ep" : duracao(minutos))
+                }
+                if let n = ficha.temporadas {
+                    Selo(texto: n == 1 ? "1 temporada" : "\(n) temporadas")
+                }
+                if let nota = ficha.classificacao, !nota.isEmpty {
+                    Selo(texto: nota, cor: corDaClassificacao(nota))
+                }
+            }
+        } else if carregando {
+            ProgressView().controlSize(.small)
         }
     }
 
-    private func carregar() async {
-        ficha = await Fichas.de(titulo, serie: serie)
-        carregando = false
+    private var botoes: some View {
+        let item = VodFavoritos.Item(titulo: alvo.titulo, serie: alvo.serie, letra: alvo.letra,
+                                     reservado: alvo.reservado, ano: alvo.ano)
+        let marcado = favoritos.contem(alvo.titulo, serie: alvo.serie, ano: alvo.ano)
+        let andamento = alvo.serie ? nil : Progresso.fracao(Progresso.chaveFilme(alvo.titulo))
+        return HStack(spacing: 12) {
+            Button(action: assistir) {
+                Label(alvo.serie ? "Ver episódios"
+                          : (andamento ?? 0) > 0 ? "Continuar" : "Assistir",
+                      systemImage: "play.fill")
+                    .font(.system(size: 15, weight: .semibold))
+                    .padding(.horizontal, 26).padding(.vertical, 11)
+                    .background(.white, in: RoundedRectangle(cornerRadius: 9))
+                    .foregroundStyle(.black)
+            }
+            .buttonStyle(CresceNoFoco())
+            .keyboardShortcut(.defaultAction)
+
+            Button { favoritos.alternar(item) } label: {
+                Label(marcado ? "Nos favoritos" : "Favoritar",
+                      systemImage: marcado ? "star.fill" : "star")
+                    .font(.system(size: 15, weight: .semibold))
+                    .padding(.horizontal, 20).padding(.vertical, 11)
+                    .background(.white.opacity(0.14), in: RoundedRectangle(cornerRadius: 9))
+                    .foregroundStyle(marcado ? .yellow : .white)
+            }
+            .buttonStyle(CresceNoFoco())
+        }
+    }
+
+    @ViewBuilder
+    private var creditos: some View {
+        if let ficha {
+            let linhas: [(String, String)] = [
+                (alvo.serie ? "Criação" : "Direção", ficha.assinatura),
+                ("Roteiro", ficha.roteiro),
+                ("Produção", ficha.produtora),
+            ].filter { !$0.1.isEmpty }
+            if !linhas.isEmpty {
+                VStack(alignment: .leading, spacing: 4) {
+                    ForEach(linhas, id: \.0) { rotulo, valor in
+                        (Text("\(rotulo): ").font(.system(size: 13, weight: .semibold))
+                            + Text(valor).font(.system(size: 13)).foregroundColor(.white.opacity(0.65)))
+                    }
+                }
+                .padding(.top, 4)
+            }
+        }
+    }
+
+    /// 142 minutos vira "2h 22min": é assim que se lê duração de filme.
+    private func duracao(_ minutos: Int) -> String {
+        minutos < 60 ? "\(minutos) min" : "\(minutos / 60)h \(String(format: "%02d", minutos % 60))min"
+    }
+
+    /// As cores da classificação indicativa brasileira, as mesmas do celular.
+    private func corDaClassificacao(_ nota: String) -> Color {
+        switch nota.uppercased() {
+        case "L": return Color(red: 0.06, green: 0.73, blue: 0.51)
+        case "10": return Color(red: 0.23, green: 0.51, blue: 0.96)
+        case "12": return Color(red: 0.96, green: 0.62, blue: 0.04)
+        case "14": return Color(red: 0.98, green: 0.45, blue: 0.09)
+        case "16", "18": return Color(red: 0.94, green: 0.27, blue: 0.27)
+        default: return .white.opacity(0.8)
+        }
     }
 }
 
-/// O que um ator fez **e que existe neste acervo**.
-///
-/// A filmografia inteira do TMDB não serve de dentro do aplicativo: listar
-/// oitenta títulos dos quais setenta não dá para abrir é uma lista que
-/// frustra. O cruzamento é pelo id do TMDB, que o arquivo de fichas já traz
-/// para cada título do acervo — nome igual não engana, e refilmagem não vira
-/// o original.
-struct FilmografiaView: View {
-    let ator: Ficha.Pessoa
-    let abrir: (Vod.Achado) -> Void
-    let voltar: () -> Void
+// MARK: - Ator
 
-    @State private var titulos: [Vod.Achado] = []
+/// Uma pessoa e o que ela tem neste acervo, em capas.
+///
+/// Em cima, numa faixa, quem ela é: a foto, de onde é, a biografia. Embaixo,
+/// as capas do que dá para assistir daqui — e só isso: a filmografia inteira
+/// do TMDB, com setenta títulos que não abrem, seria uma lista que frustra.
+struct AtorTela: View {
+    let pessoa: Ficha.Pessoa
+    let voltar: () -> Void
+    let abrir: (Vod.Achado) -> Void
+
+    @State private var perfil: Fichas.Perfil?
+    @State private var trabalhos: [Fichas.Trabalho] = []
     @State private var carregando = true
 
+    private let colunas = [GridItem(.adaptive(minimum: 150, maximum: 190), spacing: 20)]
+
     var body: some View {
-        Group {
-            if carregando {
-                VStack { Spacer(); ProgressView().controlSize(.small); Spacer() }
-            } else if titulos.isEmpty {
-                VStack(spacing: 6) {
-                    Spacer()
-                    Text("Nada de \(ator.nome) no acervo.")
-                        .font(.system(size: 12))
-                    Text("A filmografia mostra só o que dá para abrir daqui.")
-                        .font(.system(size: 11))
-                        .foregroundStyle(.secondary)
-                    Spacer()
-                }
-            } else {
-                ScrollView {
-                    LazyVGrid(columns: [GridItem(.adaptive(minimum: 150), spacing: 14)],
-                              spacing: 14) {
-                        ForEach(titulos) { achado in
-                            Button { abrir(achado) } label: { cartao(achado) }
-                                .buttonStyle(.plain)
+        ScrollView {
+            VStack(alignment: .leading, spacing: 24) {
+                botaoVoltar("Voltar à ficha", acao: voltar)
+
+                HStack(alignment: .center, spacing: 26) {
+                    FotoRedonda(endereco: perfil?.foto ?? pessoa.foto, nome: pessoa.nome, tamanho: 140)
+                    VStack(alignment: .leading, spacing: 8) {
+                        Text(perfil?.nome.isEmpty == false ? perfil!.nome : pessoa.nome)
+                            .font(.system(size: 34, weight: .bold))
+                        if let dados = perfil?.dados, !dados.isEmpty {
+                            Text(dados).font(.system(size: 14)).foregroundStyle(Color.accentColor)
+                        }
+                        if let bio = perfil?.biografia, !bio.isEmpty {
+                            Text(bio)
+                                .font(.system(size: 14))
+                                .lineSpacing(2)
+                                .foregroundStyle(.white.opacity(0.7))
+                                .lineLimit(4)
+                                .frame(maxWidth: 820, alignment: .leading)
                         }
                     }
-                    .padding(18)
+                }
+
+                HStack(spacing: 12) {
+                    Text(carregando ? "Procurando no acervo…"
+                         : trabalhos.count == 1 ? "1 título no acervo"
+                         : "\(trabalhos.count) títulos no acervo")
+                        .font(.system(size: 19, weight: .semibold))
+                    if carregando { ProgressView().controlSize(.small) }
+                }
+
+                if !carregando && trabalhos.isEmpty {
+                    Text("Aparece aqui só o que dá para assistir neste app.")
+                        .font(.system(size: 13)).foregroundStyle(.secondary)
+                }
+
+                LazyVGrid(columns: colunas, alignment: .leading, spacing: 22) {
+                    ForEach(trabalhos) { trabalho in
+                        Button { abrir(trabalho.achado) } label: { CapaDeTrabalho(trabalho: trabalho) }
+                            .buttonStyle(CresceNoFoco())
+                    }
                 }
             }
+            .padding(.horizontal, 40)
+            .padding(.vertical, 26)
         }
-        .task { await carregar() }
+        .background(
+            LinearGradient(colors: [Color(red: 0.05, green: 0.12, blue: 0.13), .black],
+                           startPoint: .top, endPoint: .bottom)
+                .ignoresSafeArea())
+        .task(id: pessoa.id) {
+            async let perfilPedido = Fichas.perfil(pessoa.id)
+            async let obras = Fichas.acervoDe(ator: pessoa.id)
+            trabalhos = await obras
+            carregando = false
+            perfil = await perfilPedido
+        }
+    }
+}
+
+// MARK: - Peças
+
+@MainActor
+private func botaoVoltar(_ texto: String, acao: @escaping () -> Void) -> some View {
+    Button(action: acao) {
+        Label(texto, systemImage: "chevron.left")
+            .font(.system(size: 14, weight: .medium))
+            .padding(.horizontal, 12).padding(.vertical, 6)
+            .background(.white.opacity(0.1), in: Capsule())
+    }
+    .buttonStyle(.plain)
+    .foregroundStyle(.white.opacity(0.85))
+    .help("Voltar (Esc)")
+}
+
+private struct Selo: View {
+    let texto: String
+    var cor: Color = .white.opacity(0.9)
+
+    var body: some View {
+        Text(texto)
+            .font(.system(size: 13, weight: .semibold))
+            .foregroundStyle(cor)
+            .padding(.horizontal, 10).padding(.vertical, 4)
+            .background(.white.opacity(0.08), in: RoundedRectangle(cornerRadius: 6))
+            .overlay(RoundedRectangle(cornerRadius: 6).stroke(.white.opacity(0.25)))
+    }
+}
+
+/// Cresce um pouco sob o mouse e ao ser pressionado: resposta imediata, sem
+/// mexer no layout de ninguém em volta.
+private struct CresceNoFoco: ButtonStyle {
+    func makeBody(configuration: Configuration) -> some View {
+        Modificador(configuration: configuration)
     }
 
-    private func cartao(_ achado: Vod.Achado) -> some View {
+    private struct Modificador: View {
+        let configuration: Configuration
+        @State private var sobre = false
+        var body: some View {
+            configuration.label
+                .scaleEffect(configuration.isPressed ? 0.97 : (sobre ? 1.05 : 1))
+                .animation(.easeOut(duration: 0.12), value: sobre)
+                .animation(.easeOut(duration: 0.08), value: configuration.isPressed)
+                .onHover { sobre = $0 }
+                .contentShape(Rectangle())
+        }
+    }
+}
+
+private struct FotoRedonda: View {
+    let endereco: String?
+    let nome: String
+    let tamanho: CGFloat
+
+    var body: some View {
+        ZStack {
+            Circle().fill(Color.white.opacity(0.1))
+            Text(String(nome.prefix(1)).uppercased())
+                .font(.system(size: tamanho * 0.36, weight: .semibold))
+                .foregroundStyle(.white.opacity(0.5))
+            if let endereco, let url = URL(string: endereco) {
+                AsyncImage(url: url) { imagem in
+                    imagem.resizable().aspectRatio(contentMode: .fill)
+                } placeholder: { Color.clear }
+            }
+        }
+        .frame(width: tamanho, height: tamanho)
+        .clipShape(Circle())
+    }
+}
+
+private struct FotoDePessoa: View {
+    let pessoa: Ficha.Pessoa
+
+    var body: some View {
+        VStack(spacing: 7) {
+            FotoRedonda(endereco: pessoa.foto, nome: pessoa.nome, tamanho: 96)
+            Text(pessoa.nome)
+                .font(.system(size: 13, weight: .medium))
+                .foregroundStyle(.white)
+                .lineLimit(1)
+            Text(pessoa.papel)
+                .font(.system(size: 11))
+                .foregroundStyle(.white.opacity(0.5))
+                .lineLimit(1)
+        }
+        .frame(width: 116)
+    }
+}
+
+private struct CapaDeTrabalho: View {
+    let trabalho: Fichas.Trabalho
+
+    var body: some View {
         VStack(alignment: .leading, spacing: 6) {
-            AsyncImage(url: Generos.capa(achado.nomeCompleto, serie: achado.serie)
-                .flatMap(URL.init(string:))) { imagem in
-                imagem.resizable().aspectRatio(contentMode: .fill)
-            } placeholder: {
-                ZStack {
-                    RoundedRectangle(cornerRadius: 6).fill(Color.white.opacity(0.07))
-                    Image(systemName: achado.serie ? "tv" : "film")
-                        .foregroundStyle(.secondary)
+            ZStack {
+                RoundedRectangle(cornerRadius: 8, style: .continuous).fill(Color.white.opacity(0.08))
+                Text(String(trabalho.achado.titulo.prefix(1)).uppercased())
+                    .font(.system(size: 34, weight: .semibold))
+                    .foregroundStyle(Color.accentColor.opacity(0.7))
+                if let endereco = trabalho.capa, let url = URL(string: endereco) {
+                    AsyncImage(url: url) { imagem in
+                        imagem.resizable().aspectRatio(contentMode: .fill)
+                    } placeholder: { Color.clear }
                 }
             }
-            .frame(height: 210)
-            .frame(maxWidth: .infinity)
-            .clipShape(RoundedRectangle(cornerRadius: 6, style: .continuous))
-            Text(achado.nomeCompleto)
-                .font(.system(size: 11, weight: .medium))
-                .lineLimit(2, reservesSpace: true)
-            Text(achado.serie ? "Série" : "Filme")
-                .font(.system(size: 10))
-                .foregroundStyle(.secondary)
-        }
-    }
+            .aspectRatio(2.0 / 3.0, contentMode: .fit)
+            .clipShape(RoundedRectangle(cornerRadius: 8, style: .continuous))
 
-    private func carregar() async {
-        titulos = await Fichas.acervoDe(ator: ator.id)
-        carregando = false
+            Text(trabalho.achado.nomeCompleto)
+                .font(.system(size: 13, weight: .medium))
+                .foregroundStyle(.white)
+                .lineLimit(1)
+            Text(trabalho.papel.isEmpty ? (trabalho.achado.serie ? "Série" : "Filme") : trabalho.papel)
+                .font(.system(size: 11))
+                .foregroundStyle(.white.opacity(0.5))
+                .lineLimit(1)
+        }
     }
 }

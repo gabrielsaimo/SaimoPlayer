@@ -41,6 +41,8 @@ struct Ficha: Sendable {
     var elenco: [Pessoa] = []
     var capa: String?
     var fundo: String?
+    /// Quantas temporadas a série tem, segundo o TMDB.
+    var temporadas: Int?
 
     var vazia: Bool {
         sinopse.isEmpty && elenco.isEmpty && generos.isEmpty && duracao == nil
@@ -105,9 +107,12 @@ enum Fichas {
         if let caminho = json["poster_path"] as? String {
             ficha.capa = imagens + "w500" + caminho
         }
+        // w1280: no Mac o fundo ocupa a janela inteira, e em tela Retina o
+        // w780 aparecia borrado.
         if let caminho = json["backdrop_path"] as? String {
-            ficha.fundo = imagens + "w780" + caminho
+            ficha.fundo = imagens + "w1280" + caminho
         }
+        if serie, let n = json["number_of_seasons"] as? Int, n > 0 { ficha.temporadas = n }
 
         let creditos = json["credits"] as? [String: Any] ?? [:]
         let equipe = creditos["crew"] as? [[String: Any]] ?? []
@@ -134,21 +139,37 @@ enum Fichas {
         return ficha
     }
 
+    /// Um trabalho da pessoa que existe no acervo, com a capa que o TMDB já mandou.
+    struct Trabalho: Identifiable, Sendable {
+        let achado: Vod.Achado
+        let capa: String?
+        let papel: String
+        var id: String { achado.id }
+    }
+
+    /// Nome -> título do acervo, montado uma vez: são 47 mil títulos, e
+    /// remontar a cada ator aberto era o que deixava a tela lenta.
+    private static var porNome: [String: Vod.Achado] = [:]
+
+    /// Prepara o índice enquanto a pessoa lê a ficha: quando ela escolhe um
+    /// ator, o cruzamento já não espera.
+    static func aquecer() async {
+        guard porNome.isEmpty else { return }
+        var mapa: [String: Vod.Achado] = [:]
+        for achado in await Vod.todos() {
+            mapa[(achado.serie ? "s:" : "f:") + achado.titulo] = achado
+        }
+        porNome = mapa
+    }
+
     /// O que um ator fez e que existe no acervo, já pronto para abrir.
     ///
     /// O cruzamento é pelo id do TMDB: o arquivo de fichas diz o id de cada
     /// título do acervo, e a filmografia do TMDB vem em ids. Nome igual não
-    /// engana e refilmagem não vira o original.
-    static func acervoDe(ator id: Int) async -> [Vod.Achado] {
-        guard let url = URL(string:
-            "\(base)/person/\(id)/combined_credits?api_key=\(chave)&language=pt-BR")
-        else { return [] }
-        var pedido = URLRequest(url: url)
-        pedido.timeoutInterval = 8
-        pedido.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
-        guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
-              let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
-              let json = try? JSONSerialization.jsonObject(with: dados) as? [String: Any]
+    /// engana e refilmagem não vira o original. A capa vem da própria resposta
+    /// do TMDB — a do arquivo de fichas falta para boa parte desses títulos.
+    static func acervoDe(ator id: Int) async -> [Trabalho] {
+        guard let json = await pedir("\(base)/person/\(id)/combined_credits?api_key=\(chave)&language=pt-BR")
         else { return [] }
 
         let trabalhos = (json["cast"] as? [[String: Any]] ?? [])
@@ -159,25 +180,93 @@ enum Fichas {
             (($0["popularity"] as? Double) ?? 0) > (($1["popularity"] as? Double) ?? 0)
         }
 
-        let acervo = await Vod.todos()
-        var porNome: [String: Vod.Achado] = [:]
-        for achado in acervo {
-            porNome[(achado.serie ? "s:" : "f:") + achado.titulo] = achado
-        }
-
+        await aquecer()
         var vistos = Set<String>()
-        var saida: [Vod.Achado] = []
+        var saida: [Trabalho] = []
         for trabalho in ordenados {
             guard let idDoTitulo = trabalho["id"] as? Int else { continue }
             let serie = (trabalho["media_type"] as? String) == "tv"
             guard let titulo = Generos.titulo(paraId: idDoTitulo, serie: serie) else { continue }
-            guard let achado = porNome[(serie ? "s:" : "f:") + titulo]
-                ?? porNome[(serie ? "s:" : "f:") + Generos.semAno(titulo)] else { continue }
-            if vistos.contains(achado.id) { continue }
-            vistos.insert(achado.id)
-            saida.append(achado)
+            let marca = serie ? "s:" : "f:"
+            guard let achado = porNome[marca + titulo] ?? porNome[marca + Generos.semAno(titulo)]
+            else { continue }
+            if !vistos.insert(achado.id).inserted { continue }
+            let capa = (trabalho["poster_path"] as? String).map { imagens + "w342" + $0 }
+                ?? Generos.capa(achado.nomeCompleto, serie: achado.serie)
+            let papel = (trabalho["character"] as? String).flatMap { $0.isEmpty ? nil : $0 }
+                ?? (trabalho["job"] as? String) ?? ""
+            saida.append(Trabalho(achado: achado, capa: capa, papel: papel))
         }
         return saida
+    }
+
+    /// Quem é a pessoa: foto grande, biografia, nascimento, de onde é.
+    struct Perfil: Sendable {
+        var nome = ""
+        var foto: String?
+        var biografia = ""
+        var nascimento = ""
+        var falecimento = ""
+        var local = ""
+        var conhecidaPor = ""
+
+        /// "Atuação · 1956 · 70 anos · Concord, California, USA"
+        var dados: String {
+            var partes: [String] = []
+            if !conhecidaPor.isEmpty { partes.append(conhecidaPor) }
+            if let nasceu = Int(nascimento.prefix(4)) {
+                if let morreu = Int(falecimento.prefix(4)) {
+                    partes.append("\(nasceu) – \(morreu)")
+                } else {
+                    let agora = Calendar.current.component(.year, from: Date())
+                    partes.append("\(nasceu) · \(agora - nasceu) anos")
+                }
+            }
+            if !local.isEmpty { partes.append(local) }
+            return partes.joined(separator: "  ·  ")
+        }
+    }
+
+    private static var perfis: [Int: Perfil] = [:]
+
+    /// A biografia em português falta para quase todo mundo que não é
+    /// brasileiro; sem ela vale a em inglês — melhor que um vazio sob a foto.
+    static func perfil(_ id: Int) async -> Perfil? {
+        if let pronto = perfis[id] { return pronto }
+        guard let json = await pedir("\(base)/person/\(id)?api_key=\(chave)&language=pt-BR")
+        else { return nil }
+        var perfil = Perfil()
+        perfil.nome = json["name"] as? String ?? ""
+        perfil.foto = (json["profile_path"] as? String).map { imagens + "h632" + $0 }
+        perfil.biografia = json["biography"] as? String ?? ""
+        if perfil.biografia.isEmpty,
+           let ingles = await pedir("\(base)/person/\(id)?api_key=\(chave)&language=en-US") {
+            perfil.biografia = ingles["biography"] as? String ?? ""
+        }
+        perfil.nascimento = json["birthday"] as? String ?? ""
+        perfil.falecimento = json["deathday"] as? String ?? ""
+        perfil.local = json["place_of_birth"] as? String ?? ""
+        perfil.conhecidaPor = switch json["known_for_department"] as? String {
+        case "Acting": "Atuação"
+        case "Directing": "Direção"
+        case "Writing": "Roteiro"
+        case "Production": "Produção"
+        case "Sound": "Música"
+        default: ""
+        }
+        perfis[id] = perfil
+        return perfil
+    }
+
+    private static func pedir(_ endereco: String) async -> [String: Any]? {
+        guard let url = URL(string: endereco) else { return nil }
+        var pedido = URLRequest(url: url)
+        pedido.timeoutInterval = 8
+        pedido.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
+        guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
+              let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode)
+        else { return nil }
+        return try? JSONSerialization.jsonObject(with: dados) as? [String: Any]
     }
 
     private static func classificacaoBR(_ json: [String: Any], serie: Bool) -> String? {

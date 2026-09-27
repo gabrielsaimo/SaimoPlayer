@@ -243,7 +243,7 @@ final class Telemetria {
     }
 
     private func enviar(_ rota: String, _ corpo: [String: Any], esperar: Bool = false,
-                        resposta: ((([String: Any])?) -> Void)? = nil) {
+                        resposta: (@MainActor @Sendable ([String: Any]?) -> Void)? = nil) {
         var corpo = corpo
         corpo["deviceId"] = id
         corpo["platform"] = plataforma
@@ -258,8 +258,12 @@ final class Telemetria {
             defer { sinal?.signal() }
             guard let resposta else { return }
             let ok = ((resp as? HTTPURLResponse)?.statusCode ?? 0) / 100 == 2
-            let lido = ok ? data.flatMap { try? JSONSerialization.jsonObject(with: $0) as? [String: Any] } : nil
-            Task { @MainActor in resposta(lido) }
+            // Os bytes atravessam para a principal; o dicionário é montado lá,
+            // porque [String: Any] não é seguro de mandar entre threads.
+            let bruto = ok ? data : nil
+            Task { @MainActor in
+                resposta(bruto.flatMap { try? JSONSerialization.jsonObject(with: $0) as? [String: Any] })
+            }
         }.resume()
         // Só ao fechar o app: dá um instante para a última batida sair.
         _ = sinal?.wait(timeout: .now() + 2)
@@ -281,6 +285,6 @@ final class Telemetria {
         sysctlbyname("hw.model", nil, &tamanho, nil, 0)
         var bytes = [CChar](repeating: 0, count: max(tamanho, 1))
         sysctlbyname("hw.model", &bytes, &tamanho, nil, 0)
-        return String(cString: bytes)
+        return String(decoding: bytes.prefix { $0 != 0 }.map { UInt8(bitPattern: $0) }, as: UTF8.self)
     }
 }

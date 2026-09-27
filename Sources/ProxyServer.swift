@@ -9,7 +9,13 @@ import Darwin
 /// Playlists are rewritten so every segment / key / variant is routed back
 /// through this server, which means the player never talks to the upstream
 /// host directly and never has to resolve it.
-final class ProxyServer {
+///
+/// Atende cada conexão numa thread própria. Todo estado que muda depois da
+/// abertura mora atrás de `lock`; `port` e `listenFD` são escritos uma vez só,
+/// em `start`, antes de a primeira conexão ser aceita. Por isso o
+/// `@unchecked Sendable`: a segurança existe, só que feita à mão, e o
+/// compilador não tem como enxergá-la.
+final class ProxyServer: @unchecked Sendable {
     static let shared = ProxyServer()
 
     private(set) var port: UInt16 = 0
@@ -138,7 +144,7 @@ final class ProxyServer {
     /// link — and get port 0 — before `start()` had been called. The first
     /// channel then failed to play until the viewer switched away and back.
     func link(for channel: Channel) -> URL {
-        if listenFD < 0 { try? start() }
+        if listenFD < 0 { _ = try? start() }
         let id = channel.id.uuidString
         return URL(string: "http://\(advertisedHost):\(port)/proxy/\(id)/\(id).m3u8")!
     }
@@ -160,7 +166,8 @@ final class ProxyServer {
             guard getnameinfo(sa, socklen_t(sa.pointee.sa_len), &buffer,
                               socklen_t(buffer.count), nil, 0, NI_NUMERICHOST) == 0
             else { continue }
-            let address = String(cString: buffer)
+            let address = String(decoding: buffer.prefix { $0 != 0 }.map { UInt8(bitPattern: $0) },
+                                 as: UTF8.self)
             guard !address.hasPrefix("169.254.") else { continue }   // self-assigned
             candidates.append((String(cString: pointer.pointee.ifa_name), address))
         }
@@ -756,7 +763,7 @@ final class ProxyServer {
     /// AVFoundation desiste com "Operation Stopped" antes de ler um quadro.
     /// Aqui a resposta é refeita com o intervalo que realmente veio.
     func vodLink(for absolute: URL) -> URL {
-        if listenFD < 0 { try? start() }
+        if listenFD < 0 { _ = try? start() }
         let apelido = Data(absolute.absoluteString.utf8)
             .base64EncodedString()
             .replacingOccurrences(of: "+", with: "-")
@@ -851,7 +858,11 @@ final class ProxyServer {
 /// O cabeçalho é o motivo de tudo isto existir — a origem informa um
 /// `Content-Range` que termina no fim do arquivo mesmo quando manda cem bytes,
 /// e o AVFoundation trata isso como resposta truncada.
-private final class FluxoVod: NSObject, URLSessionDataDelegate {
+///
+/// O URLSession chama o delegado numa fila serial só dele, e quem espera lê
+/// `respondeu` depois do sinal de fim: a ordem é garantida pelo semáforo, não
+/// pelo compilador — daí o `@unchecked Sendable`.
+private final class FluxoVod: NSObject, URLSessionDataDelegate, @unchecked Sendable {
     private let fd: Int32
     private let headOnly: Bool
     private let faixaPedida: String?

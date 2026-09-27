@@ -12,6 +12,7 @@ import Foundation
 /// O formato de cada item é o mesmo de um resultado de busca — tipo, título,
 /// letra, ano —, então abrir um destaque passa pelo caminho que já abre um
 /// título procurado. É o mesmo arquivo que a TV Box e o Windows leem.
+@MainActor
 enum Destaques {
 
     struct Item: Identifiable, Hashable {

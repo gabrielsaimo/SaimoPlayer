@@ -7,7 +7,9 @@ enum Store {
     private static let favoritesKey = "favorites"
     private static let volumeKey = "volume"
 
-    private static let defaults = UserDefaults.standard
+    /// Calculado, não guardado: o UserDefaults é seguro entre threads, e assim
+    /// o Swift 6 não o vê como estado global compartilhado.
+    private static var defaults: UserDefaults { .standard }
 
     static func customChannels() -> [Channel] {
         guard let raw = defaults.array(forKey: customKey) as? [[String: String]] else { return [] }

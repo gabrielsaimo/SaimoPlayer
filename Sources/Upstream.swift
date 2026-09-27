@@ -30,7 +30,10 @@ enum UpstreamError: Error, CustomStringConvertible {
 /// (blocked / filtered DNS, error -1003), it falls back to resolving over
 /// DNS-over-HTTPS and speaking HTTP/1.1 directly on an NWConnection with the
 /// original hostname pinned as the TLS SNI.
-final class Upstream {
+///
+/// Usado das threads do proxy: o cache de DNS mora atrás de `lock` e a sessão
+/// não muda depois de criada — daí o `@unchecked Sendable`.
+final class Upstream: @unchecked Sendable {
     static let shared = Upstream()
 
     static let userAgent =
@@ -93,22 +96,24 @@ final class Upstream {
         if let referer { req.setValue(referer, forHTTPHeaderField: "Referer") }
 
         let sem = DispatchSemaphore(value: 0)
-        var result: Result<UpstreamResponse, Error>!
+        // Com trava, e não uma variável solta: se o tempo estourar, a resposta
+        // ainda pode chegar depois e escrever enquanto este lado lê.
+        let caixa = Caixa<Result<UpstreamResponse, Error>>()
         let task = session.dataTask(with: req) { data, response, error in
             defer { sem.signal() }
             if let error {
-                result = .failure(error)
+                caixa.valor = .failure(error)
                 return
             }
             guard let http = response as? HTTPURLResponse else {
-                result = .failure(UpstreamError.transport("resposta não-HTTP"))
+                caixa.valor = .failure(UpstreamError.transport("resposta não-HTTP"))
                 return
             }
             var headers: [String: String] = [:]
             for (k, v) in http.allHeaderFields {
                 headers[String(describing: k).lowercased()] = String(describing: v)
             }
-            result = .success(UpstreamResponse(
+            caixa.valor = .success(UpstreamResponse(
                 status: http.statusCode,
                 headers: headers,
                 body: data ?? Data(),
@@ -116,7 +121,7 @@ final class Upstream {
         }
         task.resume()
         _ = sem.wait(timeout: .now() + 45)
-        guard let result else { throw UpstreamError.transport("timeout") }
+        guard let result = caixa.valor else { throw UpstreamError.transport("timeout") }
         return try result.get()
     }
 
@@ -139,11 +144,11 @@ final class Upstream {
             req.setValue("application/dns-json", forHTTPHeaderField: "Accept")
 
             let sem = DispatchSemaphore(value: 0)
-            var payload: Data?
-            session.dataTask(with: req) { d, _, _ in payload = d; sem.signal() }.resume()
+            let caixa = Caixa<Data>()
+            session.dataTask(with: req) { d, _, _ in caixa.valor = d; sem.signal() }.resume()
             _ = sem.wait(timeout: .now() + 12)
 
-            guard let payload,
+            guard let payload = caixa.valor,
                   let json = try? JSONSerialization.jsonObject(with: payload) as? [String: Any],
                   let answers = json["Answer"] as? [[String: Any]] else { continue }
             for a in answers where (a["type"] as? Int) == 1 {
@@ -208,22 +213,19 @@ final class Upstream {
             port: NWEndpoint.Port(rawValue: port)!,
             using: params)
 
-        let sem = DispatchSemaphore(value: 0)
-        var buffer = Data()
-        var failure: Error?
-        var done = false
-        let finish = { (err: Error?) in
-            if done { return }
-            done = true
-            failure = err
-            sem.signal()
-        }
+        // Os callbacks da conexão rodam na fila dela. Antes era a fila global,
+        // que é concorrente: dois pedaços da resposta podiam mexer no buffer
+        // ao mesmo tempo. Uma fila serial própria, e tudo que ela junta mora
+        // no coletor, que só ela toca até a conexão terminar.
+        let fila = DispatchQueue(label: "dev.saimo.upstream.direto")
+        let coleta = Coleta()
+        let pedido = Data(head.utf8)
 
-        func receiveLoop() {
+        @Sendable func receiveLoop() {
             conn.receive(minimumIncompleteLength: 1, maximumLength: 1 << 16) { data, _, isComplete, error in
-                if let data, !data.isEmpty { buffer.append(data) }
-                if let error { finish(error); return }
-                if isComplete { finish(nil); return }
+                if let data, !data.isEmpty { coleta.buffer.append(data) }
+                if let error { coleta.terminar(error); return }
+                if isComplete { coleta.terminar(nil); return }
                 receiveLoop()
             }
         }
@@ -231,22 +233,25 @@ final class Upstream {
         conn.stateUpdateHandler = { state in
             switch state {
             case .ready:
-                conn.send(content: Data(head.utf8), completion: .contentProcessed { err in
-                    if let err { finish(err) }
+                conn.send(content: pedido, completion: .contentProcessed { err in
+                    if let err { coleta.terminar(err) }
                 })
                 receiveLoop()
             case .failed(let err):
-                finish(err)
+                coleta.terminar(err)
             case .cancelled:
-                finish(UpstreamError.transport("conexão cancelada"))
+                coleta.terminar(UpstreamError.transport("conexão cancelada"))
             default:
                 break
             }
         }
-        conn.start(queue: .global(qos: .userInitiated))
-        let waited = sem.wait(timeout: .now() + 25)
+        conn.start(queue: fila)
+        let waited = coleta.sinal.wait(timeout: .now() + 25)
         conn.cancel()
         if waited == .timedOut { throw UpstreamError.transport("timeout em \(host)") }
+        // Lido pela mesma fila: a conexão pode ainda estar entregando o último
+        // pedaço quando o sinal chega.
+        let (buffer, failure) = fila.sync { (coleta.buffer, coleta.falha) }
         if let failure, buffer.isEmpty { throw failure }
 
         return try parseHTTP(buffer, finalURL: url)
@@ -295,5 +300,38 @@ final class Upstream {
             i = data.index(end, offsetBy: 2, limitedBy: data.endIndex) ?? data.endIndex
         }
         return out
+    }
+}
+
+/// O que a conexão direta vai juntando.
+///
+/// Só a fila serial da conexão escreve aqui; quem esperou lê depois, pela
+/// mesma fila. É essa disciplina — e não o compilador — que garante a
+/// segurança, daí o `@unchecked Sendable`.
+private final class Coleta: @unchecked Sendable {
+    var buffer = Data()
+    var falha: Error?
+    private var terminou = false
+    let sinal = DispatchSemaphore(value: 0)
+
+    func terminar(_ erro: Error?) {
+        if terminou { return }
+        terminou = true
+        falha = erro
+        sinal.signal()
+    }
+}
+
+/// Um valor entregue por um callback e lido por quem esperou o semáforo.
+///
+/// A trava é o que torna isso seguro quando o tempo estoura: a resposta pode
+/// chegar depois da desistência e escrever enquanto o outro lado já lê.
+private final class Caixa<Valor>: @unchecked Sendable {
+    private let trava = NSLock()
+    private var guardado: Valor?
+
+    var valor: Valor? {
+        get { trava.withLock { guardado } }
+        set { trava.withLock { guardado = newValue } }
     }
 }

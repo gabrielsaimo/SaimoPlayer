@@ -1,4 +1,5 @@
 import Foundation
+import os
 
 /// Servidores desligados à mão, no painel do monitor.
 ///
@@ -23,8 +24,16 @@ enum FontesDesativadas {
     /// aguenta um canal quebrado.
     private static let validade: TimeInterval = 120
 
-    private static var hosts: Set<String> = []
-    private static var lidoEm: Date = .distantPast
+    /// Lida pelo proxy fora da thread principal e escrita por quem baixa a
+    /// lista: uma trava só, para as duas pontas verem sempre o mesmo estado.
+    private struct Estado: Sendable {
+        var hosts: Set<String> = []
+        var lidoEm: Date = .distantPast
+    }
+    private static let estado = OSAllocatedUnfairLock(initialState: Estado())
+
+    private static var hosts: Set<String> { estado.withLock { $0.hosts } }
+    private static var lidoEm: Date { estado.withLock { $0.lidoEm } }
 
     /// Os servidores desligados agora, sem ir à rede.
     static var atuais: Set<String> { hosts }
@@ -47,10 +56,14 @@ enum FontesDesativadas {
               let lista = corpo["desativados"] as? [String]
         else { return false }
 
-        lidoEm = Date()
         let novos = Set(lista.map { $0.lowercased() })
-        guard novos != hosts else { return false }
-        hosts = novos
+        let mudou = estado.withLock { atual -> Bool in
+            atual.lidoEm = Date()
+            guard novos != atual.hosts else { return false }
+            atual.hosts = novos
+            return true
+        }
+        guard mudou else { return false }
         Log.shared.write(novos.isEmpty
             ? "nenhum servidor desligado"
             : "servidores desligados: \(novos.sorted().joined(separator: ", "))")

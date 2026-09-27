@@ -4,7 +4,11 @@ import Foundation
 /// as audio over a black picture. For those streams ffmpeg is used to repackage
 /// (stream copy, no re-encode) the live TS into fMP4 HLS on disk, which the
 /// proxy then serves in place of the upstream playlist.
-final class Remuxer {
+///
+/// Chamado pelas threads do proxy. As sessões e o cache de sondagem moram
+/// atrás de `lock`; o `reaper` é escrito uma vez, na thread principal, e nunca
+/// lido fora dela. `@unchecked Sendable` porque a segurança é feita à mão.
+final class Remuxer: @unchecked Sendable {
     static let shared = Remuxer()
 
     private final class Session {

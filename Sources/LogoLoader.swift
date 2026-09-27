@@ -52,7 +52,7 @@ final class LogoLoader: ObservableObject {
                 data = nil
             }
             guard let data, let img = NSImage(data: data) else {
-                await MainActor.run { LogoLoader.shared.inFlight.remove(url) }
+                await MainActor.run { _ = LogoLoader.shared.inFlight.remove(url) }
                 return
             }
             try? data.write(to: file)

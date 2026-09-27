@@ -113,7 +113,7 @@ final class EPGService: ObservableObject {
 
     /// Tried in order; the first source carrying a channel wins, so the later
     /// ones only fill the gaps (Adult Swim, CNN Money, Universal…).
-    private static let sourceURLs = [
+    nonisolated private static let sourceURLs = [
         URL(string: "https://iptv-epg.org/files/epg-br.xml")!,
         URL(string: "https://www.open-epg.com/files/brazil3.xml")!,
     ]
@@ -125,8 +125,8 @@ final class EPGService: ObservableObject {
         URL(string: "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml")!
     private static let cacheTTL: TimeInterval = 6 * 3600
     /// Kept deliberately short: a guide only ever shows a couple of days.
-    private static let pastWindow: TimeInterval = 6 * 3600
-    private static let futureWindow: TimeInterval = 3 * 86400
+    nonisolated private static let pastWindow: TimeInterval = 6 * 3600
+    nonisolated private static let futureWindow: TimeInterval = 3 * 86400
 
     private var cacheFile: URL {
         let dir = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]

@@ -1,4 +1,5 @@
 import Foundation
+import os
 
 struct Filme: Identifiable, Hashable {
     var titulo: String
@@ -45,7 +46,21 @@ enum Vod {
         var id: String { letra }
     }
 
-    private static var bases: [String] = []
+    /// O que o acervo aprende ao abrir e todo o resto consulta: as bases dos
+    /// endereços, as marcas de qualidade e se o índice de busca envelheceu.
+    /// As funções daqui rodam em qualquer thread, então os três moram atrás
+    /// de uma trava — antes dois deles estavam só marcados `unsafe`.
+    private struct Estado: Sendable {
+        var bases: [String] = []
+        var qualidades: [String: String] = [:]
+        var indiceBuscaSujo = false
+    }
+    private static let estado = OSAllocatedUnfairLock(initialState: Estado())
+
+    private static var bases: [String] {
+        get { estado.withLock { $0.bases } }
+        set { estado.withLock { $0.bases = newValue } }
+    }
 
     /// Endereço -> qualidade anunciada na lista de origem ("4k", "fhd", "hd"…).
     ///
@@ -53,10 +68,13 @@ enum Vod {
     /// guardar isso: cada fonte é só "base:resto", e pendurar a marca ali
     /// quebraria as versões já instaladas. São três mil linhas, o que cabe
     /// numa leitura só.
-    nonisolated(unsafe) private static var qualidades: [String: String] = [:]
+    private static var qualidades: [String: String] {
+        get { estado.withLock { $0.qualidades } }
+        set { estado.withLock { $0.qualidades = newValue } }
+    }
 
     /// A qualidade de uma fonte, quando a lista de origem anuncia alguma.
-    static func qualidade(de url: String) -> String? { qualidades[url] }
+    static func qualidade(de url: String) -> String? { estado.withLock { $0.qualidades[url] } }
 
     /// Ordem de preferência: 4K primeiro, e quem não anuncia nada no meio,
     /// porque costuma ser 1080p — melhor que um "HD" declarado, que é 720p.
@@ -156,7 +174,10 @@ enum Vod {
     }
 
     /// A busca guarda o acervo inteiro em memória; ela também vence junto.
-    nonisolated(unsafe) private static var indiceBuscaSuja = false
+    private static var indiceBuscaSuja: Bool {
+        get { estado.withLock { $0.indiceBuscaSujo } }
+        set { estado.withLock { $0.indiceBuscaSujo = newValue } }
+    }
 
     static func filmes(letra: String, reservados: Bool = false) async -> [Filme] {
         let prefixo = reservados ? "reservado" : "filmes"
@@ -327,6 +348,7 @@ enum Vod {
         if valor.hasPrefix("http") { return valor }
         // Sem a base o que sobra é "0:19927", que o player aceita como URL de
         // esquema "0" e só falha na hora de tocar. Melhor não devolver fonte.
+        let bases = self.bases
         guard let corte = valor.firstIndex(of: ":"),
               let indice = Int(valor[valor.startIndex..<corte]),
               bases.indices.contains(indice) else { return "" }
