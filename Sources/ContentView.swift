@@ -86,6 +86,9 @@ struct ContentView: View {
                 .opacity(controlsVisible ? 1 : 0)
                 .animation(.easeInOut(duration: 0.22), value: controlsVisible)
                 .allowsHitTesting(controlsVisible)
+
+            // Fora da regra dos controles: o botão de pular só serve na hora.
+            PulosNaTela(model: model, acimaDosControles: controlsVisible)
         }
         .background(Color.black)
         .onContinuousHover { phase in
@@ -706,4 +709,54 @@ private struct LiveBadge: View {
 extension PlayerModel {
     func step0() { step(-1) }
     func step1() { step(1) }
+}
+
+
+/// "Pular abertura" e o cartão do próximo episódio, no canto de baixo.
+/// Os tempos vêm do TheIntroDB.
+private struct PulosNaTela: View {
+    @ObservedObject var model: PlayerModel
+    let acimaDosControles: Bool
+
+    var body: some View {
+        HStack {
+            Spacer()
+            if let trecho = model.puloNaTela {
+                Button(action: model.pularTrecho) {
+                    Text(trecho.tipo.rotulo)
+                        .font(.system(size: 14, weight: .semibold))
+                        .foregroundStyle(.black)
+                        .padding(.horizontal, 18).padding(.vertical, 11)
+                        .background(.white, in: RoundedRectangle(cornerRadius: 10, style: .continuous))
+                }
+                .buttonStyle(.plain)
+                .keyboardShortcut(.return, modifiers: [])
+            } else if let proximo = model.proximoNaTela {
+                VStack(alignment: .leading, spacing: 8) {
+                    Text("Próximo episódio em \(proximo.resta) s")
+                        .font(.system(size: 12)).foregroundStyle(.white.opacity(0.65))
+                    Text("Temporada \(proximo.episodio.temporada) · Episódio \(proximo.episodio.numero)")
+                        .font(.system(size: 15, weight: .semibold)).foregroundStyle(.white)
+                    HStack(spacing: 8) {
+                        Button { model.tocarProximo() } label: {
+                            Text("Assistir agora").font(.system(size: 13, weight: .semibold))
+                                .foregroundStyle(.black)
+                                .padding(.horizontal, 12).padding(.vertical, 7)
+                                .background(.white, in: RoundedRectangle(cornerRadius: 8, style: .continuous))
+                        }
+                        .buttonStyle(.plain)
+                        .keyboardShortcut(.return, modifiers: [])
+                        Button("Continuar vendo", action: model.dispensarProximo)
+                            .keyboardShortcut(.escape, modifiers: [])
+                    }
+                }
+                .padding(16)
+                .frame(width: 300, alignment: .leading)
+                .background(.black.opacity(0.78), in: RoundedRectangle(cornerRadius: 14, style: .continuous))
+            }
+        }
+        .padding(.trailing, 24)
+        .padding(.bottom, acimaDosControles ? 150 : 32)
+        .animation(.easeInOut(duration: 0.2), value: acimaDosControles)
+    }
 }

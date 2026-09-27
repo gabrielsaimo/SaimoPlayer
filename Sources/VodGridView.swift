@@ -813,6 +813,9 @@ struct VodGridView: View {
             }
             Spacer()
             Button("Assistir") {
+                model.episodioPendente = EpisodioNoAr(
+                    serie: serie.nomeCompleto, temporada: episodio.temporada,
+                    numero: episodio.numero, versao: episodio.versao, lista: estado.episodios)
                 escolherFonte(nome: serie.nomeCompleto,
                               fontes: [episodio.versao: episodio.urls],
                               detalhe: detalhe, chave: chave)
@@ -899,6 +902,7 @@ struct VodGridView: View {
     }
 
     private func tocarFilme(_ filme: Filme) {
+        model.episodioPendente = nil
         escolherFonte(nome: filme.titulo, fontes: filme.fontes, detalhe: "Filme",
                       chave: Progresso.chaveFilme(filme.titulo))
     }

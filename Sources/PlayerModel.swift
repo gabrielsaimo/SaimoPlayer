@@ -76,6 +76,18 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Onde o arquivo no ar deve ser guardado. Ver Progresso.
     private var chaveArquivo = ""
 
+    /// O episódio no ar, com a lista da série para achar o seguinte.
+    @Published private(set) var episodioNoAr: EpisodioNoAr?
+    /// Quem abre um episódio deixa aqui antes de chamar `playFile`: a escolha
+    /// de fonte pode passar por uma janela no meio do caminho.
+    var episodioPendente: EpisodioNoAr?
+    /// Abertura, recapitulação e créditos do que está no ar (TheIntroDB).
+    @Published private(set) var marcas: Pulos.Marcas?
+    /// Quando o cartão do próximo episódio subiu, e se foi dispensado.
+    @Published private(set) var proximoDesde: Date?
+    @Published private(set) var proximoDispensado = false
+    static let esperaDoProximo: TimeInterval = 10
+
     private var ultimoGuardado: Double = -100
 
     /// Para o monitor: quando a abertura começou e se a queda já foi contada.
@@ -200,7 +212,9 @@ final class PlayerModel: NSObject, ObservableObject {
         applyVolume()
         observePlayer()
         setupRemoteCommands()
-        selection = channels.first?.id
+        // Abre no canal que estava no ar quando o app fechou, como a TV.
+        let ultimo = UserDefaults.standard.string(forKey: "ultimoCanal")
+        selection = channels.first { $0.name == ultimo }?.id ?? channels.first?.id
         EPGService.shared.load(channels: channels)
         refreshCatalog()
         vigiarFontesDesativadas()
@@ -324,6 +338,10 @@ final class PlayerModel: NSObject, ObservableObject {
     func play() {
         guard let channel = selectedChannel else { return }
         guardarProgresso(forcado: true)
+        UserDefaults.standard.set(channel.name, forKey: "ultimoCanal")
+        episodioNoAr = nil
+        marcas = nil
+        proximoDesde = nil
         playingFile = nil
         chaveArquivo = ""
         duration = 0
@@ -357,6 +375,19 @@ final class PlayerModel: NSObject, ObservableObject {
     func playFile(_ urls: [URL], nome: String, detalhe: String = "", chave: String = "") {
         guard let primeira = urls.first else { return }
         guardarProgresso(forcado: true)
+        episodioNoAr = episodioPendente
+        episodioPendente = nil
+        marcas = nil
+        proximoDesde = nil
+        proximoDispensado = false
+        if let ep = episodioNoAr, let tmdb = Generos.id(ep.serie, serie: true) {
+            let (t, n) = (ep.temporada, ep.numero)
+            Task { @MainActor [weak self] in
+                let achadas = await Pulos.buscar(tmdb: tmdb, temporada: t, episodio: n)
+                guard let self, self.episodioNoAr == ep else { return }
+                self.marcas = achadas
+            }
+        }
         chaveArquivo = chave
         ultimoGuardado = -100
         fileSources = urls
@@ -431,6 +462,10 @@ final class PlayerModel: NSObject, ObservableObject {
                 }
             })
         notificationTokens.append(center.addObserver(
+            forName: .AVPlayerItemDidPlayToEndTime, object: item, queue: .main) { [weak self] _ in
+                Task { @MainActor in self?.terminouArquivo() }
+            })
+        notificationTokens.append(center.addObserver(
             forName: .AVPlayerItemFailedToPlayToEndTime, object: item, queue: .main) { [weak self] _ in
                 Task { @MainActor in self?.scheduleReconnect(reason: "falha ao reproduzir") }
             })
@@ -481,6 +516,69 @@ final class PlayerModel: NSObject, ObservableObject {
         default:
             break
         }
+    }
+
+    // MARK: - Pular abertura e próximo episódio
+
+    /// O trecho que dá para pular agora, se houver.
+    var puloNaTela: Pulos.Trecho? {
+        guard playingFile != nil else { return nil }
+        return marcas?.em(position, duracao: duration)
+    }
+
+    func pularTrecho() {
+        guard let trecho = puloNaTela else { return }
+        seek(to: trecho.fim ?? max(duration - 1, 0))
+    }
+
+    /// O episódio seguinte, quando o cartão dele está à vista.
+    var proximoNaTela: (episodio: Episodio, resta: Int)? {
+        guard let desde = proximoDesde, !proximoDispensado,
+              let seguinte = episodioNoAr?.seguinte() else { return nil }
+        let resta = max(1, Int((Self.esperaDoProximo - Date().timeIntervalSince(desde)).rounded(.up)))
+        return (seguinte, resta)
+    }
+
+    func dispensarProximo() { proximoDispensado = true }
+
+    @discardableResult
+    func tocarProximo() -> Bool {
+        guard let ep = episodioNoAr, let seguinte = ep.seguinte() else { return false }
+        let rotulo = seguinte.versao == "leg" ? "Legendado" : "Dublado"
+        episodioPendente = EpisodioNoAr(serie: ep.serie, temporada: seguinte.temporada,
+                                        numero: seguinte.numero, versao: seguinte.versao, lista: ep.lista)
+        playFile(seguinte.urls.compactMap(URL.init(string:)), nome: ep.serie,
+                 detalhe: "Temporada \(seguinte.temporada), episódio \(seguinte.numero) · \(rotulo)",
+                 chave: Progresso.chaveEpisodio(ep.serie, seguinte.temporada, seguinte.numero))
+        return true
+    }
+
+    /// A cada volta do relógio: sobe o cartão nos créditos e segue sozinho.
+    private func acompanharEpisodio() {
+        guard episodioNoAr?.seguinte() != nil, !proximoDispensado, playedSinceOpen else { return }
+        // Os créditos marcados; sem marca, os últimos 30 s de um episódio.
+        let creditos = marcas?.creditos ?? (duration > 300 ? duration - 30 : .infinity)
+        if position >= creditos, proximoDesde == nil {
+            proximoDesde = Date()
+        } else if position < creditos - 5, proximoDesde != nil {
+            proximoDesde = nil
+        }
+        if let desde = proximoDesde, Date().timeIntervalSince(desde) >= Self.esperaDoProximo, isPlaying {
+            tocarProximo()
+        }
+    }
+
+    /// O arquivo chegou ao fim. Nos primeiros segundos é fonte quebrada, não
+    /// fim de filme: desce para a próxima. Episódio emenda no seguinte.
+    private func terminouArquivo() {
+        guard playingFile != nil else { return }
+        let cedo = position < 30 || (duration > 0 && duration < 120)
+        if cedo, fileSourceIndex + 1 < fileSources.count {
+            playedSinceOpen = false
+            scheduleReconnect(reason: "terminou em \(Int(position)) s")
+            return
+        }
+        tocarProximo()
     }
 
     func togglePlayPause() {
@@ -739,6 +837,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 position = atual.isFinite ? atual : 0
             }
             guardarProgresso()
+            acompanharEpisodio()
         }
         // presentationSize only fires once the first frame is decoded, and the
         // KVO can land before the layer is ready, so re-read it each tick.
@@ -1190,5 +1289,23 @@ extension PlayerModel: AVPictureInPictureControllerDelegate {
     nonisolated func pictureInPictureController(_ c: AVPictureInPictureController,
                                                 failedToStartPictureInPictureWithError error: Error) {
         Task { @MainActor in Log.shared.write("PiP falhou: \(error.localizedDescription)") }
+    }
+}
+
+
+/// Um episódio no ar e a lista da série, para achar o seguinte.
+struct EpisodioNoAr: Equatable {
+    let serie: String
+    let temporada: Int
+    let numero: Int
+    let versao: String
+    let lista: [Episodio]
+
+    /// O episódio seguinte, de preferência na mesma versão (dublado/legendado).
+    func seguinte() -> Episodio? {
+        let depois = lista.filter { ($0.temporada, $0.numero) > (temporada, numero) }
+        guard let chave = depois.map({ ($0.temporada, $0.numero) }).min(by: <) else { return nil }
+        let candidatos = depois.filter { ($0.temporada, $0.numero) == chave }
+        return candidatos.first { $0.versao == versao } ?? candidatos.first
     }
 }
