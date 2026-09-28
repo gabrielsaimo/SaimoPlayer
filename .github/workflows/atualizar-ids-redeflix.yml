@@ -6,8 +6,8 @@ name: Atualizar catálogo
 # de ontem.
 on:
   schedule:
-    # Todo dia às 5h da manhã em Brasília, quando ninguém está assistindo.
-    - cron: "17 8 * * *"
+    # Todo dia às 11h17 em Brasília (14h17 UTC), junto da rodada do Mac às 11h.
+    - cron: "17 14 * * *"
   workflow_dispatch:
 
 permissions:
