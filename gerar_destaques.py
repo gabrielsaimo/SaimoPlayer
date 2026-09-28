@@ -151,9 +151,16 @@ def cruzar(itens_tmdb, catalogo, tipo_desejado):
             candidatas.append(chave(base))
         for c in candidatas:
             achado = catalogo.get(c)
-            if achado and achado[1] == tipo_desejado:
-                fila.setdefault(achado[0], (achado, poster))
-                break
+            if not achado or achado[1] != tipo_desejado:
+                continue
+            # Mesmo nome, anos diferentes, é outro título: o "Coração
+            # Selvagem" de 2026 em alta casava com o de 1990 do acervo, e a
+            # fileira mostrava a capa do novo num filme que o acervo não tem.
+            ano_acervo = achado[3]
+            if ano and ano_acervo and abs(int(ano) - int(ano_acervo)) > 1:
+                continue
+            fila.setdefault(achado[0], (achado, poster))
+            break
         if len(fila) >= POR_FILA:
             break
     return list(fila.values())
