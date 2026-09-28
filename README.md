@@ -82,7 +82,7 @@ Scripts principais:
 
 | Script | Faz |
 |---|---|
-| `atualizar_tudo.sh` | roda a atualização diária do acervo |
+| `atualizar_tudo.sh` | roda a atualização diária do acervo, às 11h (launchd no Mac; o GitHub Actions faz a parte da RedeFlix às 11h17) |
 | `gerar_vod.py`, `gerar_generos.py`, `gerar_destaques.py` | geram o acervo, as fichas e as fileiras |
 | `atualizar_redeflix.py`, `atualizar_frostview.py`, `atualizar_fenix.py` | trazem fontes novas de cada origem |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
