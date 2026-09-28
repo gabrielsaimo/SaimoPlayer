@@ -40,6 +40,7 @@ struct SaimoApp: App {
             CommandMenu("Reprodução") {
                 Button(model.isPlaying ? "Pausar" : "Tocar") { model.togglePlayPause() }
                     .keyboardShortcut("k", modifiers: .command)
+                    .disabled(model.isPlaying && !model.podePausar)
                 Button("Ir ao vivo") { model.jumpToLive() }
                     .keyboardShortcut("l", modifiers: .command)
                 Button("Recarregar fluxo") { model.reload() }

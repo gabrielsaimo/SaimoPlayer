@@ -48,6 +48,7 @@ app procura a versão nova ali e se oferece para atualizar.
 ## O que todos têm
 
 - Canais ao vivo com várias fontes por canal e troca automática quando uma cai
+- Ao vivo nunca pausa, em nenhum app: pausa só existe em filme e série
 - Guia de programação (meuguia.tv, guiadetv e feeds XMLTV)
 - Filmes, séries, animes e doramas com ficha, elenco e episódios
 - Pular abertura e recapitulação com tempos do [TheIntroDB](https://theintrodb.org)

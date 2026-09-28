@@ -263,12 +263,14 @@ private struct ControlBar: View {
 
     var body: some View {
         HStack(spacing: 14) {
-            Button(action: model.togglePlayPause) {
-                Image(systemName: model.isPlaying ? "pause.fill" : "play.fill")
-                    .font(.system(size: 17, weight: .semibold))
-                    .frame(width: 22)
+            if model.podePausar || !model.isPlaying {
+                Button(action: model.togglePlayPause) {
+                    Image(systemName: model.isPlaying ? "pause.fill" : "play.fill")
+                        .font(.system(size: 17, weight: .semibold))
+                        .frame(width: 22)
+                }
+                .help(model.isPlaying ? "Pausar (Espaço)" : "Tocar (Espaço)")
             }
-            .help(model.isPlaying ? "Pausar (Espaço)" : "Tocar (Espaço)")
 
             Button(action: model.step0) {
                 Image(systemName: "backward.end.fill")

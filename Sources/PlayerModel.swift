@@ -581,7 +581,11 @@ final class PlayerModel: NSObject, ObservableObject {
         tocarProximo()
     }
 
+    /// Ao vivo não pausa: só filme e série têm pausa.
+    var podePausar: Bool { playingFile != nil }
+
     func togglePlayPause() {
+        if isPlaying && !podePausar { return }
         if isPlaying {
             player.pause()
             isPlaying = false
