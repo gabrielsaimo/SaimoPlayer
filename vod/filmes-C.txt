@@ -268,7 +268,7 @@ Camocim	dub=2:397894,8:397894
 Camp Courage	dub=2:219958,10:2453249,8:219958	leg=2:219959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66928.mp4,8:219959
 Camp Courage (2023)	dub=6:1309652	leg=6:1309653
 Camp Hideout	dub=https://embedplayer2.xyz/cdn/hls/0bb399a8db4efc188a00c0b8838776ea/master.txt,2:246544,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13709.mp4,8:246544	leg=2:246545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66936.mp4,8:246545
-Camp Pleasant Lake (2024)	dub=https://embedplayer2.xyz/cdn/hls/0dbe9eabde0e53aff27e4d2667a0c4d4/master.txt,https://embedplayer2.xyz/cdn/hls/b753d2f68face8736f5b90002967fd26/master.txt
+Camp Pleasant Lake (2024)	dub=https://embedplayer2.xyz/cdn/hls/0dbe9eabde0e53aff27e4d2667a0c4d4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b753d2f68face8736f5b90002967fd26/master.txt
 Camp Rock	dub=10:2461691
 Camp Rock (2008)	dub=6:1502429
 Camp Rock 1	dub=2:20548,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13715.mp4,8:20548
@@ -673,7 +673,7 @@ Caça Explosiva	dub=https://embedplayer2.xyz/cdn/hls/e62e3f0da1f9a9dae832538862c
 Caça Implacável	dub=2:178825,10:2454424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2703.mp4,8:178825	leg=2:178807,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67234.mp4,8:178807
 Caça Implacável (2022)	dub=6:1306921	leg=6:1306922
 Caça Invisível	dub=2:127459,10:2454491,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2704.mp4,8:127459	leg=2:127437,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67239.mp4,8:127437
-Caça Mortal (2020)	dub=https://embedplayer2.xyz/cdn/hls/1bae26a9360cbaf03343a01b1344c816/master.txt,6:1308516,10:2454873	leg=https://embedplayer2.xyz/cdn/hls/1bae26a9360cbaf03343a01b1344c816/master.txt
+Caça Mortal (2020)	dub=6:1308516,10:2454873	leg=https://embedplayer2.xyz/cdn/hls/1bae26a9360cbaf03343a01b1344c816/master.txt
 Caça ao Terrorista	dub=2:396191,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315711.mp4,8:396191	leg=2:396190,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315679.mp4,8:396190
 Caça ao Terrorista (1997)	dub=6:1309912	leg=6:1309913
 Caça aos Gângsteres	dub=2:114380,10:2455812,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24587.mp4,8:114380
@@ -691,7 +691,7 @@ Caçada Humana (1966)	dub=6:1310167
 Caçada Humana (2019)	dub=6:1310844	leg=6:1310845
 Caçada Jurássica	leg=2:124506,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67275.mp4,8:124506
 Caçada Mortal (2014)	dub=6:1303750
-Caçada Sangrenta	dub=https://embedplayer2.xyz/cdn/hls/2ec62a069ddbcaf63c4e8e2510ce71b5/master.txt,https://embedplayer2.xyz/cdn/hls/1c05c2a09000ef7497c3a2b8323875db/master.txt,2:387042,2:352274,2:105234,10:2445569,10:2454941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/377.mp4,8:387042,8:352274,8:105234	leg=https://embedplayer2.xyz/cdn/hls/1c05c2a09000ef7497c3a2b8323875db/master.txt,2:352273,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67270.mp4,8:352273
+Caçada Sangrenta	dub=https://embedplayer2.xyz/cdn/hls/2ec62a069ddbcaf63c4e8e2510ce71b5/master.txt,2:387042,2:352274,2:105234,10:2445569,10:2454941,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/377.mp4,8:387042,8:352274,8:105234	leg=https://embedplayer2.xyz/cdn/hls/1c05c2a09000ef7497c3a2b8323875db/master.txt,2:352273,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67270.mp4,8:352273
 Caçada Selvagem	dub=2:167212,10:2453914,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2716.mp4,8:167212	leg=2:167211,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67290.mp4,8:167211
 Caçada Sem Regras	dub=2:349036,10:2445171,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2720.mp4,8:349036	leg=2:349035,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67280.mp4,8:349035
 Caçada Sinistra	dub=2:311126,10:2452274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48172.mp4,8:311126
@@ -744,7 +744,7 @@ Caçando Assassinos: O Homem Sem Rosto (2023)	dub=6:1304967	leg=6:1304968
 Caçando Ava Bravo	dub=2:169633,10:2451722,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48177.mp4,8:169633	leg=2:169697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67346.mp4,8:169697
 Caçando Fantasmas (2014)	dub=6:1312357	leg=6:1312356
 Caçula	dub=2:295382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313318.mp4,8:295382,2:289603,10:2449709,10:2461511,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13856.mp4,8:289603	leg=2:289604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67341.mp4,8:289604
-Caída libre (2024)	dub=https://embedplayer2.xyz/cdn/hls/be4d7a48d4abc53686d5494e6f65af9f/master.txt
+Caída libre (2024)	leg=https://embedplayer2.xyz/cdn/hls/be4d7a48d4abc53686d5494e6f65af9f/master.txt
 Cedo Demais (2024)	dub=https://embedplayer2.xyz/cdn/hls/02c991f3658a8006feda834f46c3e455/master.txt
 Cego Por Vingança (2020)	dub=6:1314454	leg=6:1308807
 Cegonhas A Historia que Nao te Contaram	dub=2:20336,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9123.mp4,8:20336
@@ -941,7 +941,7 @@ Chocante (2017)	dub=6:1307814
 Chocolate	dub=2:62464,10:2453547,10:2461191,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2794.mp4,8:62464
 Chocolate (2000)	dub=2:108134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13886.mp4,6:1307591,8:108134
 Chocolate (2006)	dub=6:1307451
-Cholo Zombies Monstro (2023)	dub=https://embedplayer2.xyz/cdn/hls/501035404c6545d1def5d9f1241274c0/master.txt
+Cholo Zombies Monstro (2023)	leg=https://embedplayer2.xyz/cdn/hls/501035404c6545d1def5d9f1241274c0/master.txt
 Chopin, Uma Sonata em Paris	dub=2:387431,10:2444587,8:387431	leg=2:387433,8:387433
 Choque Mortal	dub=2:365251,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96787.mp4,8:365251	leg=2:365250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99950.mp4,8:365250
 Choque e Pavor A Verdade Importa	dub=2:24157,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67556.mp4,8:24157
@@ -1153,7 +1153,7 @@ Clube de Assassinos (2023)	dub=6:1302764
 Clube de Caça (2023)	dub=https://embedplayer2.xyz/cdn/hls/9065584e3e1128bd5aab44278dd197d0/master.txt,6:1313487,2:276014,10:2447768,10:2454355,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2825.mp4,8:276014	leg=2:276015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67759.mp4,8:276015
 Clube de Compras Dallas	dub=10:2455702
 Clube de Compras Dallas (2013)	dub=2:45083,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24706.mp4,6:1307195,8:45083
-Clube do Desejo	dub=https://embedplayer2.xyz/cdn/hls/b06289fe99d5b751a4aca1ff5d8d1a3b/master.txt,2:359067,10:2445506,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/384.mp4,8:359067	leg=https://embedplayer2.xyz/cdn/hls/b06289fe99d5b751a4aca1ff5d8d1a3b/master.txt,2:359066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67765.mp4,8:359066
+Clube do Desejo	dub=2:359067,10:2445506,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/384.mp4,8:359067	leg=https://embedplayer2.xyz/cdn/hls/b06289fe99d5b751a4aca1ff5d8d1a3b/master.txt,2:359066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67765.mp4,8:359066
 Clube dos Anjos Caidos Assassinatos Misteriosos (2022)	dub=https://embedplayer2.xyz/cdn/hls/98d0e1fe2c7d6684be87bfbdc2fb5ee1/master.txt,6:1302243,2:208887,10:2445838,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44150.mp4,8:208887	leg=2:208888,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67775.mp4,8:208888
 Clube dos Anjos Caidos Herois e Viloes (2022)	dub=6:1302244
 Clube dos Anjos Caídos: Heróis e Vilões	dub=2:208899,10:2446149,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44155.mp4,8:208899	leg=2:208902,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67770.mp4,8:208902
@@ -1229,7 +1229,7 @@ Colcha de Retalhos	dub=2:341052,10:2447580,10:2456164,http://dbonline.tech-cdn.t
 Colchão D'Água	dub=2:339761,10:2450958,10:2459512,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38004.mp4,8:339761
 Cold Brook: De Volta Para Casa	dub=2:193065,10:2455477,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24743.mp4,8:193065	leg=2:193066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67882.mp4,8:193066
 Cold Brook: De Volta Para Casa (2019)	dub=6:1306106	leg=6:1306107
-Cold Copy (2024)	dub=https://embedplayer2.xyz/cdn/hls/f1f4510e2152b8f90670d2c6e021c6e6/master.txt,https://embedplayer2.xyz/cdn/hls/c6743bbf78455fab307d1e5679ba25d5/master.txt,10:2449766	leg=https://embedplayer2.xyz/cdn/hls/c6743bbf78455fab307d1e5679ba25d5/master.txt,6:1309250,2:251166,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67887.mp4,8:251166
+Cold Copy (2024)	dub=https://embedplayer2.xyz/cdn/hls/f1f4510e2152b8f90670d2c6e021c6e6/master.txt,10:2449766	leg=https://embedplayer2.xyz/cdn/hls/c6743bbf78455fab307d1e5679ba25d5/master.txt,6:1309250,2:251166,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67887.mp4,8:251166
 Cold Souls	dub=2:358095,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13974.mp4,8:358095
 Colega de Quarto	dub=2:128593,10:2452327,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48228.mp4,8:128593
 Colega de Quarto (2011)	dub=6:1299452
@@ -1243,7 +1243,7 @@ Colheita Maldita 5: Campos do Terror (1998)	dub=6:1303325
 Colheita Maldita 666 (1999)	dub=https://embedplayer2.xyz/cdn/hls/c23229d17fad7989d3aec734dfe8c309/master.txt,6:1303326
 Colheita Maldita 7: A Revelação (2001)	leg=6:1303327
 Colheita Maldita Genesis (2011)	dub=https://embedplayer2.xyz/cdn/hls/873cdd62fd2fb55aab5aa7982ebaefb6/master.txt,6:1300452
-Colheita Sombria (2023)	dub=https://embedplayer2.xyz/cdn/hls/a163098e6d93853eb6fa7944aa2722cf/master.txt,https://embedplayer2.xyz/cdn/hls/31767dcda37b0222ee84339b64244dd2/master.txt,6:1302597,2:265889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55259.mp4,8:265889,2:219924,10:2451378,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48234.mp4,8:219924	leg=https://embedplayer2.xyz/cdn/hls/31767dcda37b0222ee84339b64244dd2/master.txt,6:1302596,2:219923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67892.mp4,8:219923
+Colheita Sombria (2023)	dub=https://embedplayer2.xyz/cdn/hls/a163098e6d93853eb6fa7944aa2722cf/master.txt,6:1302597,2:265889,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55259.mp4,8:265889,2:219924,10:2451378,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48234.mp4,8:219924	leg=https://embedplayer2.xyz/cdn/hls/31767dcda37b0222ee84339b64244dd2/master.txt,6:1302596,2:219923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67892.mp4,8:219923
 Colinas de Sangue	dub=2:318524,2:311846,10:2449072,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48239.mp4,8:318524,8:311846	leg=2:318525,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67897.mp4,8:318525
 Colisao (2022)	dub=6:1299474
 Colisão	dub=2:162321,2:162320,10:2445920,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44164.mp4,8:162321,8:162320
@@ -1253,7 +1253,7 @@ Collide (2022)	dub=6:1302499
 Collide: Segredos e Mentiras (2022)	dub=https://embedplayer2.xyz/cdn/hls/d8305c7dc6f787d57c91e54f59f14477/master.txt
 Colombiana - Em Busca de Vinganca	dub=2:21607,10:2446057,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44173.mp4,8:21607
 Colombiana: Em Busca de Vinganca (2011)	dub=6:1300780
-Colonizadores (2021)	dub=https://embedplayer2.xyz/cdn/hls/41985ee6b54f720eec7614084fbc1d8c/master.txt
+Colonizadores (2021)	leg=https://embedplayer2.xyz/cdn/hls/41985ee6b54f720eec7614084fbc1d8c/master.txt
 Colonização Espacial: A Última Esperança	dub=2:164211,10:2452954,8:164211	leg=2:164218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67913.mp4,8:164218
 Colonização Espacial: A Última Esperança (2022)	dub=6:1306714	leg=6:1306715
 Colorful Stage! O Filme: Uma Miku Que Não Sabe Cantar	leg=2:365778,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96929.mp4,8:365778
@@ -1675,7 +1675,7 @@ Contrabando Brilhante (2019)	dub=6:1302659
 Contragolpe	dub=2:336659,10:2448968,10:2454815,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2943.mp4,8:336659	leg=2:336658,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68341.mp4,8:336658
 Contrato Perigoso	dub=2:159824,10:2454077,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2939.mp4,8:159824	leg=2:159833,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68351.mp4,8:159833
 Contrato Perigoso (2022)	dub=6:1299389	leg=6:1299390
-Contrato das Sombras	dub=https://embedplayer2.xyz/cdn/hls/4cb2c40157d5ca21f028bf9209ef069c/master.txt,https://embedplayer2.xyz/cdn/hls/c1f02ec8e535081616a3393ee611df5d/master.txt,2:371654,10:2444505,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250519.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254723.mp4,8:371654	leg=https://embedplayer2.xyz/cdn/hls/c1f02ec8e535081616a3393ee611df5d/master.txt,2:371653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250461.mp4,8:371653
+Contrato das Sombras	dub=https://embedplayer2.xyz/cdn/hls/4cb2c40157d5ca21f028bf9209ef069c/master.txt,2:371654,10:2444505,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250519.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254723.mp4,8:371654	leg=https://embedplayer2.xyz/cdn/hls/c1f02ec8e535081616a3393ee611df5d/master.txt,2:371653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250461.mp4,8:371653
 Contrato de Amor - Ask Sozlesmesi	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303027.mp4
 Contrato de Amor com o tio Cadeirante do meu Noivo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302810.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309775.mp4
 Contrato de Risco	dub=2:378669,2:322723,10:2446323,10:2449528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44214.mp4,8:378669,8:322723	leg=2:378668,2:322722,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68338.mp4,8:378668,8:322722
@@ -1924,7 +1924,7 @@ Cosmópolis	dub=2:103968,10:2457363,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Cosmópolis (2012)	dub=6:1307949
 Costura Rasgada	dub=https://embedplayer2.xyz/cdn/hls/0040e1780644ea90bcaafc5f6aae918b/master.txt	leg=2:371679,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250463.mp4,8:371679
 Countdown	leg=2:33980,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68581.mp4,8:33980
-County Line: No Fear (2022)	dub=https://embedplayer2.xyz/cdn/hls/f5bd9a9c46abb2af138f9082be4805d9/master.txt,https://embedplayer2.xyz/cdn/hls/51a7909a27c798ae03fb412d4d08a43a/master.txt,2:392601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312005.mp4,8:392601	leg=2:392600,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312019.mp4,8:392600
+County Line: No Fear (2022)	dub=https://embedplayer2.xyz/cdn/hls/f5bd9a9c46abb2af138f9082be4805d9/master.txt,2:392601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312005.mp4,8:392601	leg=https://embedplayer2.xyz/cdn/hls/51a7909a27c798ae03fb412d4d08a43a/master.txt,2:392600,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312019.mp4,8:392600
 Covil	dub=2:378886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256145.mp4,8:378886,10:2444042
 Covil de Ladroes (2018)	dub=https://embedplayer2.xyz/cdn/hls/fe4f83c5189cb0d469ff3a6e60c75196/master.txt,6:1297153,2:19987,10:2453471,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3017.mp4,8:19987
 Covil de Ladrões 2	dub=2:314019,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55347.mp4,8:314019,2:313996,10:2454777,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3013.mp4,8:313996	leg=2:313997,2:307928,10:2447778,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68592.mp4,8:313997,8:307928
@@ -1951,7 +1951,7 @@ Crash Pad: Dando o Troco (2017)	dub=6:1299884
 Crash: Estranhos Prazeres	dub=2:94234,2:73271,10:2456112,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24982.mp4,8:94234,8:73271
 Crash: Estranhos Prazeres (1996)	dub=6:1309009
 Crash: No Limite (2005)	dub=6:1307207,6:1307208
-Craving (2023)	dub=https://embedplayer2.xyz/cdn/hls/e8d233202a260501517259851f48f67d/master.txt,https://embedplayer2.xyz/cdn/hls/52fd7c4f2cb56a6bc10c1ac32bdec040/master.txt
+Craving (2023)	dub=https://embedplayer2.xyz/cdn/hls/e8d233202a260501517259851f48f67d/master.txt	leg=https://embedplayer2.xyz/cdn/hls/52fd7c4f2cb56a6bc10c1ac32bdec040/master.txt
 Crawl Space (2021)	dub=6:1301109
 Crazy Beggar So	dub=2:194183,8:194183
 Crazy Racing	dub=2:301960,10:2447530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9198.mp4,8:301960	leg=2:301961,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68602.mp4,8:301961
@@ -2034,7 +2034,7 @@ Crimes de Família (2020)	dub=6:1308615
 Crimes de Guerra	dub=2:374288,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253311.mp4,8:374288	leg=2:374287,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253298.mp4,8:374287
 Crimes de Luxúria (2011)	dub=6:1300702
 Crimes de Paixão	dub=2:350984,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21272.mp4,8:350984
-Crimes do Futuro (2022)	dub=https://embedplayer2.xyz/cdn/hls/f2820d54d14b3a8d478857be360ee5a7/master.txt
+Crimes do Futuro (2022)	leg=https://embedplayer2.xyz/cdn/hls/f2820d54d14b3a8d478857be360ee5a7/master.txt
 Crimes e Trapaças (2014)	dub=6:1312673
 Crimes em Chinatown	dub=https://embedplayer2.xyz/cdn/hls/8374208b011135544f61059e2581213d/master.txt,2:279130,10:2453896,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3037.mp4,8:279130	leg=2:279131,10:2448053,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68712.mp4,8:279131
 Crimes em Hollywood	dub=2:225527,10:2454052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3045.mp4,8:225527	leg=2:225524,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68722.mp4,8:225524

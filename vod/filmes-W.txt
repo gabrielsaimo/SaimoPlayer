@@ -60,7 +60,7 @@ Waves	leg=2:41214,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6X
 Way Down	leg=2:100924,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95970.mp4,8:100924
 We Bury the Dead	dub=https://embedplayer2.xyz/cdn/hls/010dbf9ed83b3250492886483de72e8e/master.txt	leg=2:365785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96950.mp4,8:365785
 We Still Steal the Old Way	dub=2:383310,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306334.mp4,8:383310	leg=2:383309,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306414.mp4,8:383309
-We Summon the Darkness (2020)	dub=https://embedplayer2.xyz/cdn/hls/8b3bd3bcd794412fac1efef2877ca0d5/master.txt
+We Summon the Darkness (2020)	leg=https://embedplayer2.xyz/cdn/hls/8b3bd3bcd794412fac1efef2877ca0d5/master.txt
 We Will Dance Again	leg=2:367429,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98381.mp4,8:367429
 We're Broke, My Lord	dub=10:2447759
 Weak Layers	dub=10:2449778	leg=2:255026,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95977.mp4,8:255026
@@ -150,8 +150,8 @@ Winter, o Golfinho 2 (2014)	dub=https://embedplayer2.xyz/cdn/hls/11fda433e8bb385
 Wintertide (2023)	dub=https://embedplayer2.xyz/cdn/hls/7187a1677eb90ca7e223d22bda496d40/master.txt,10:2449276	leg=6:1309430,2:246955,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96122.mp4,8:246955
 Wish You Were Here	dub=https://embedplayer2.xyz/cdn/hls/1e344d0d8a67bbb1c5b05976e2bd50eb/master.txt	leg=2:310111,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96110.mp4,8:310111
 Wish: O Poder dos Desejos (2023)	dub=https://embedplayer2.xyz/cdn/hls/db9229e827166394422a5fb1a4e2e226/master.txt,6:1303306,2:255265,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59328.mp4,8:255265,2:255264,10:2449340,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11811.mp4,8:255264	leg=2:252797,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96105.mp4,8:252797
-Witch (2024)	dub=https://embedplayer2.xyz/cdn/hls/612aa2ad12307d7f02d5e368bda3a1b2/master.txt,https://embedplayer2.xyz/cdn/hls/001c2f53b90e4145b2dc4d1a0cfbd954/master.txt
-Witchboard (2025)	dub=https://embedplayer2.xyz/cdn/hls/6618c0b3ee6c0cb2a05e27ba655c0006/master.txt
+Witch (2024)	dub=https://embedplayer2.xyz/cdn/hls/612aa2ad12307d7f02d5e368bda3a1b2/master.txt	leg=https://embedplayer2.xyz/cdn/hls/001c2f53b90e4145b2dc4d1a0cfbd954/master.txt
+Witchboard (2025)	leg=https://embedplayer2.xyz/cdn/hls/6618c0b3ee6c0cb2a05e27ba655c0006/master.txt
 Witches in the Woods (2019)	dub=https://embedplayer2.xyz/cdn/hls/54bdaa73dbbcd682edd246cba3923233/master.txt	leg=6:1308559,2:69949,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96112.mp4,8:69949
 Wizkid De Lagos Para o Mundo (2025)	dub=https://embedplayer2.xyz/cdn/hls/91e8729421980845168fdbd3525228ee/master.txt,6:1314245,2:362832,10:2461924,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53493.mp4,8:362832	leg=2:362831,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96117.mp4,8:362831
 Wolf	dub=2:171363,10:2446837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46480.mp4,8:171363	leg=2:171364,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96144.mp4,8:171364

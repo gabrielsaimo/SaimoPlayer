@@ -1,4 +1,4 @@
-F Marry Kill (2025)	dub=https://embedplayer2.xyz/cdn/hls/29f1f609eb0f1a7575d6c1ebc17e1688/master.txt,https://embedplayer2.xyz/cdn/hls/e987be4d7902f16719dbc0bc3af99cef/master.txt,6:1313771,2:341030,10:2448215,10:2452107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48821.mp4,8:341030	leg=https://embedplayer2.xyz/cdn/hls/29f1f609eb0f1a7575d6c1ebc17e1688/master.txt,2:341029,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72241.mp4,8:341029
+F Marry Kill (2025)	dub=https://embedplayer2.xyz/cdn/hls/e987be4d7902f16719dbc0bc3af99cef/master.txt,6:1313771,2:341030,10:2448215,10:2452107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48821.mp4,8:341030	leg=https://embedplayer2.xyz/cdn/hls/29f1f609eb0f1a7575d6c1ebc17e1688/master.txt,2:341029,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72241.mp4,8:341029
 F1 O Filme (2025)	dub=https://embedplayer2.xyz/cdn/hls/d13a10c67f267144fe5348866e8c93f0/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300775.mp4,6:1313754,2:379416,2:340448,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55840.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306256.mp4,8:379416,8:340448,2:340273,10:2454218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3653.mp4,8:340273	leg=6:1313753,2:340272,10:2449454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72247.mp4,8:340272
 F1: Furious One	dub=2:345059,10:2445470,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26025.mp4,8:345059	leg=2:345058,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72231.mp4,8:345058
 F20 - Jovens e Perigosos	dub=2:75041,10:2445795,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44534.mp4,8:75041
@@ -44,7 +44,7 @@ Fahrenheit 451	dub=2:334694,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Fahrenheit 451 (2018)	dub=6:1302191
 Failure - We Are Hallucinations	leg=2:212429,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72266.mp4,8:212429
 Failure - We Are Hallucinations (2022)	leg=6:1309340
-Fairy Tail: Dragon Cry (2017)	dub=https://embedplayer2.xyz/cdn/hls/63e186d76f1829bc296a33fd40a319cb/master.txt
+Fairy Tail: Dragon Cry (2017)	leg=https://embedplayer2.xyz/cdn/hls/63e186d76f1829bc296a33fd40a319cb/master.txt
 Fairyland	leg=2:393727,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313365.mp4,8:393727
 Faith Hope And Love	dub=https://embedplayer2.xyz/cdn/hls/436319515af5fb5ef2359070f6c352dd/master.txt	leg=2:44557,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72271.mp4,8:44557
 Fake Famous: Uma Experiência Surreal nas Redes (2021)	dub=https://embedplayer2.xyz/cdn/hls/e4acfab018cf75a3602dea1a357bf4b8/master.txt,6:1304228,2:133101,10:2452684,8:133101	leg=6:1304229,2:133081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72276.mp4,8:133081
@@ -178,7 +178,7 @@ Faster: No Limite da Velocidade (2025)	dub=https://embedplayer2.xyz/cdn/hls/0ef9
 Fatal Countdown Reset (2017)	dub=6:1301915
 Fatal Following (2021)	dub=6:1300256
 Fatal Fury 3: A Fúria	dub=2:353925,10:2458230,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3677.mp4,8:353925	leg=2:353924,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72390.mp4,8:353924
-Fatal Ties (2025)	dub=https://embedplayer2.xyz/cdn/hls/230ce35d453759e6a8e3c06ac853075e/master.txt,https://embedplayer2.xyz/cdn/hls/81f61f03b02ae9acf0a2d08ef854a100/master.txt
+Fatal Ties (2025)	dub=https://embedplayer2.xyz/cdn/hls/81f61f03b02ae9acf0a2d08ef854a100/master.txt	leg=https://embedplayer2.xyz/cdn/hls/230ce35d453759e6a8e3c06ac853075e/master.txt
 Fatale	dub=2:105240,10:2454179,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3682.mp4,8:105240	leg=2:91454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72395.mp4,8:91454
 Fatale (2020)	dub=6:1298481
 Fate-kaleid liner Prisma☆Illya Movie- Licht - Namae no Nai Shoujo	dub=10:2459573
@@ -287,7 +287,7 @@ Femme Fatale (2002)	dub=6:1303336
 Fendas	dub=2:194879,10:2451465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38239.mp4,8:194879
 Fendas (2021)	dub=6:1301047
 Fenomeno (1996)	dub=6:1301474
-Fentasy (2024)	dub=https://embedplayer2.xyz/cdn/hls/337fc2ecc8446fb30ae76cb03ddf808f/master.txt,https://embedplayer2.xyz/cdn/hls/0e0d06573b8ec708902d98aaa0991f9f/master.txt
+Fentasy (2024)	dub=https://embedplayer2.xyz/cdn/hls/337fc2ecc8446fb30ae76cb03ddf808f/master.txt	leg=https://embedplayer2.xyz/cdn/hls/0e0d06573b8ec708902d98aaa0991f9f/master.txt
 Fenômeno	dub=2:174952,10:2455640,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26070.mp4,8:174952
 Fenômeno no Gelo: Hóquei na Guerra Fria	leg=2:365295,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99975.mp4,8:365295
 Fenômenos Paranormais	dub=2:47451.mkv,10:2451272.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48878.mp4,8:47451.mkv
@@ -392,7 +392,7 @@ Filmando Casablanca	dub=2:41987,10:2455239,http://dbonline.tech-cdn.top:80/movie
 Filmando Casablanca (2019)	dub=6:1308301
 Filme B A Bonequinha Da Mamae	dub=2:33374,10:2452025,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48906.mp4,8:33374
 Filme de Amor	dub=2:397903,8:397903
-Fils de (2025)	dub=https://embedplayer2.xyz/cdn/hls/87375ea73c19270927fccb722d1147f4/master.txt,https://embedplayer2.xyz/cdn/hls/6c04c8161e6f8c9b39bb53154b5ba28c/master.txt
+Fils de (2025)	dub=https://embedplayer2.xyz/cdn/hls/87375ea73c19270927fccb722d1147f4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/6c04c8161e6f8c9b39bb53154b5ba28c/master.txt
 Filth: O Nome Da Ambicao (2013)	dub=6:1300709
 Fim da Estrada	dub=2:172033,10:2446106,10:2460133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44554.mp4,8:172033	leg=2:172041,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72608.mp4,8:172041
 Fim da Estrada (2022)	dub=6:1300156
@@ -423,7 +423,7 @@ Finch	dub=2:359665,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6
 Finch (2021)	dub=6:1304485	leg=6:1304486
 Finding Agnes	leg=2:89013,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72624.mp4,8:89013
 Finding Harmony: A King's Vision	leg=2:365781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96934.mp4,8:365781
-Finding Nicole (2025)	dub=https://embedplayer2.xyz/cdn/hls/e11664f41483b8f964fa5f9bfa57115d/master.txt,https://embedplayer2.xyz/cdn/hls/bb6bbf49c4085fbd3f0eabea95fd1fca/master.txt,10:2445223
+Finding Nicole (2025)	dub=https://embedplayer2.xyz/cdn/hls/e11664f41483b8f964fa5f9bfa57115d/master.txt,10:2445223	leg=https://embedplayer2.xyz/cdn/hls/bb6bbf49c4085fbd3f0eabea95fd1fca/master.txt
 Finding You	dub=2:141476,10:2446656,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42038.mp4,8:141476	leg=2:141480,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72639.mp4,8:141480
 Finding You (2021)	dub=6:1298996
 Finestkind (2023)	dub=https://embedplayer2.xyz/cdn/hls/83eabfb86780ee1dbb51eb36a2b842e7/master.txt,6:1303018,2:233513,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55914.mp4,8:233513,2:233512,10:2447640,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21393.mp4,8:233512	leg=2:233507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72645.mp4,8:233507
@@ -449,7 +449,7 @@ First Squad: A Hora da Verdade (2009)	dub=6:1310007
 Fitas (2020)	dub=6:1313339
 Fitas Proibidas - Antologia do Terror	dub=2:375093,10:2444511,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253348.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254745.mp4,8:375093	leg=2:375092,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253636.mp4,8:375092
 Fito Páez: El mundo cabe en una canción	leg=2:395035,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314508.mp4,8:395035
-Fito Páez: O Mundo Cabe em Uma Canção (2026)	dub=https://embedplayer2.xyz/cdn/hls/cffaaa8ce66a31ef84ef156cabab0e41/master.txt
+Fito Páez: O Mundo Cabe em Uma Canção (2026)	leg=https://embedplayer2.xyz/cdn/hls/cffaaa8ce66a31ef84ef156cabab0e41/master.txt
 Five Feet Apart Legendado	dub=2:23739,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72657.mp4,8:23739
 Five Nights at Freddy's - O Pesadelo Sem Fim	dub=2:233508,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55910.mp4,8:233508,2:233516,10:2451837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48916.mp4,8:233516	leg=2:226991,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72679.mp4,8:226991
 Five Nights at Freddy's 2	dub=https://embedplayer2.xyz/cdn/hls/33bfd865534d200c28aa532ae0538c53/master.txt,2:360043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55924.mp4,8:360043,2:359667,10:2444975,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/512.mp4,8:359667	leg=2:359666,2:359057,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72684.mp4,8:359666,8:359057
@@ -530,7 +530,7 @@ Fogo Contra Fogo (2023)	dub=https://embedplayer2.xyz/cdn/hls/4d66de4f71907865384
 Fogo Cruzado	dub=2:314001,2:146817,10:2449378,10:2454817,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3729.mp4,8:314001,8:146817	leg=2:314002,2:146814,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72754.mp4,8:314002,8:146814
 Fogo Cruzado (2021)	dub=6:1301525
 Fogo Cruzado (2023)	dub=https://embedplayer2.xyz/cdn/hls/e3ecc6cbac2d882be2d205ccf93dc767/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300817.mp4
-Fogo Sombrio (2020)	dub=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt,6:1308878
+Fogo Sombrio (2020)	leg=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt,6:1308878
 Fogo e Gelo (2008)	dub=6:1302185
 Fogo no Coracao (2018)	dub=6:1301320
 Fogo no Coração	dub=2:151971,10:2455743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26182.mp4,8:151971	leg=2:151994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72775.mp4,8:151994
@@ -563,7 +563,7 @@ Footloose	dub=2:341057,10:2456907,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Footloose: Ritmo Contagiante (2011)	dub=6:1298266
 Footloose: Ritmo Louco	dub=2:376779,2:208854,10:2455762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26219.mp4,8:376779,8:208854	leg=2:376778,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253821.mp4,8:376778
 Footloose: Ritmo Louco (1984)	dub=6:1297218
-For Worse (2026)	dub=https://embedplayer2.xyz/cdn/hls/6a5c528204b500daf08df5e07ecaa338/master.txt,https://embedplayer2.xyz/cdn/hls/1f8458f4362ad159250880a71fc7cafc/master.txt
+For Worse (2026)	dub=https://embedplayer2.xyz/cdn/hls/1f8458f4362ad159250880a71fc7cafc/master.txt	leg=https://embedplayer2.xyz/cdn/hls/6a5c528204b500daf08df5e07ecaa338/master.txt
 Fora da Jogada	dub=2:348797,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26210.mp4,8:348797	leg=2:348796,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72808.mp4,8:348796
 Fora da Névoa	leg=2:394634,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314116.mp4,8:394634
 Fora da Trilha	dub=2:106826,10:2453956,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3741.mp4,8:106826
@@ -599,8 +599,8 @@ Force Of Nature	leg=2:48262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Ford V Ferrari	leg=2:34183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72852.mp4,8:34183
 Ford vs Ferrari	dub=2:34755,2:34754,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55956.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55958.mp4,8:34755,8:34754,2:382453,2:34745,10:2455403,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26232.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306343.mp4,8:382453,8:34745	leg=2:382452,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301101.mp4,8:382452
 Ford vs Ferrari (2019)	dub=6:1297495
-Foreclosure (2023)	dub=https://embedplayer2.xyz/cdn/hls/bb59599205633abf3a4201e71e392412/master.txt,https://embedplayer2.xyz/cdn/hls/2b06a28b9fcef05e827bcba4489b1058/master.txt
-Foreclosure 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/ba600ab72e87c6e0466f9ec68818b2a5/master.txt,https://embedplayer2.xyz/cdn/hls/2f645e38e5b41e861ebf38e2f184c0c2/master.txt
+Foreclosure (2023)	dub=https://embedplayer2.xyz/cdn/hls/bb59599205633abf3a4201e71e392412/master.txt	leg=https://embedplayer2.xyz/cdn/hls/2b06a28b9fcef05e827bcba4489b1058/master.txt
+Foreclosure 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/ba600ab72e87c6e0466f9ec68818b2a5/master.txt	leg=https://embedplayer2.xyz/cdn/hls/2f645e38e5b41e861ebf38e2f184c0c2/master.txt
 Forever (2023)	leg=6:1302818
 Forever Rich	dub=2:130410,10:2460082,10:2461665,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15252.mp4,8:130410	leg=2:130419,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72847.mp4,8:130419
 Forever Rich (2021)	dub=6:1304777	leg=6:1304778
@@ -749,14 +749,14 @@ Fortaleza Hotel (2022)	dub=6:1306815
 Fortaleza O Olhar Do Sniper (2022)	dub=6:1301124
 Fortaleza: O Olhar Do Sniper	dub=2:160584,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21407.mp4,8:160584	leg=2:160603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72864.mp4,8:160603
 Fortuna Maldita (2018)	leg=6:1314304
-Fortuna Perigosa (2024)	dub=https://embedplayer2.xyz/cdn/hls/f7d0f917f8932813987da0d6ad1213a6/master.txt,https://embedplayer2.xyz/cdn/hls/abd630d56868a96dee4b85545c027dd5/master.txt,10:2448843	leg=2:275504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72863.mp4,8:275504
+Fortuna Perigosa (2024)	dub=https://embedplayer2.xyz/cdn/hls/f7d0f917f8932813987da0d6ad1213a6/master.txt,10:2448843	leg=https://embedplayer2.xyz/cdn/hls/abd630d56868a96dee4b85545c027dd5/master.txt,2:275504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72863.mp4,8:275504
 Fortuna Revelada Meu Marido E De Estouro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303478.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303504.mp4	leg=2:389552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302685.mp4,8:389552
 Fortuna e Poder em Minutos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303044.mp4
 Força Aérea Um	dub=10:2467780
 Força Bruta	dub=2:196317,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3745.mp4,8:196317	leg=2:196316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72868.mp4,8:196316
 Força Bruta Punição (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251422.mp4
 Força Bruta: Punição	dub=2:353498,10:2445706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/532.mp4,8:353498	leg=2:353497,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72872.mp4,8:353497
-Força Bruta: Sem Saída	dub=https://embedplayer2.xyz/cdn/hls/f1fa499fed390a75213ab6d76c589ef1/master.txt,https://embedplayer2.xyz/cdn/hls/343b9e45a67e70673bc8498ef6470843/master.txt,2:353496,10:2445712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/528.mp4,8:353496	leg=https://embedplayer2.xyz/cdn/hls/343b9e45a67e70673bc8498ef6470843/master.txt,2:353495,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72880.mp4,8:353495
+Força Bruta: Sem Saída	dub=https://embedplayer2.xyz/cdn/hls/f1fa499fed390a75213ab6d76c589ef1/master.txt,2:353496,10:2445712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/528.mp4,8:353496	leg=https://embedplayer2.xyz/cdn/hls/343b9e45a67e70673bc8498ef6470843/master.txt,2:353495,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72880.mp4,8:353495
 Força Destruidora	dub=10:2458054
 Força Letal	dub=2:291880,10:2449412,10:2454226,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3753.mp4,8:291880	leg=2:291881,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72890.mp4,8:291881
 Força Maior	dub=2:314673,10:2448605,10:2455100,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26246.mp4,8:314673	leg=2:314674,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72885.mp4,8:314674
@@ -815,7 +815,7 @@ Frankenweenie	dub=2:352402,10:2459285,http://dbonline.tech-cdn.top:80/movie/ke-v
 Frankenweenie (2012)	dub=6:1300879
 Frankie	dub=2:148751,10:2455974,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26264.mp4,8:148751	leg=2:148749,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72952.mp4,8:148749
 Frankie (2019)	dub=6:1305757	leg=6:1305758
-Frankie Freako (2024)	dub=https://embedplayer2.xyz/cdn/hls/c658f7abbfc268c2e80930f8e41aed5d/master.txt,10:2444154
+Frankie Freako (2024)	dub=10:2444154	leg=https://embedplayer2.xyz/cdn/hls/c658f7abbfc268c2e80930f8e41aed5d/master.txt
 Frankie e os Monstros (2025)	dub=https://embedplayer2.xyz/cdn/hls/075ba8268afadd965f8543873c29525d/master.txt,6:1314186,2:359086,10:2445061,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/539.mp4,8:359086	leg=2:359085,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72964.mp4,8:359085
 Franklin	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250905.mp4,10:2447521,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9537.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72969.mp4
 Franz	leg=2:386854,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308642.mp4,8:386854
@@ -873,7 +873,7 @@ Frida (2024)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XA
 Friends The Reunion	leg=2:108586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73033.mp4,8:108586
 Friends: A Reuniao (2021)	leg=6:1298476
 Friends: A Reunião	dub=2:255564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55965.mp4,8:255564,2:112007,10:2453131,8:112007
-Friendsgiving (2020)	dub=https://embedplayer2.xyz/cdn/hls/5b20d5cc925a6d5ec3679e36057b80d3/master.txt
+Friendsgiving (2020)	leg=https://embedplayer2.xyz/cdn/hls/5b20d5cc925a6d5ec3679e36057b80d3/master.txt
 Frio nos Ossos (2023)	dub=https://embedplayer2.xyz/cdn/hls/84c3321793bb3ab0aa2cb9a8e04b8cb3/master.txt,6:1301567,2:200744,10:2452421,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48969.mp4,8:200744	leg=2:200745,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73038.mp4,8:200745
 Fritada Pablo Marcal	dub=2:255102,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55969.mp4,8:255102,2:255101,8:255101
 From Ground Zero Stories From Gaza	leg=2:378234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256211.mp4,8:378234
@@ -926,7 +926,7 @@ Fuga de Alcatraz: A Pista Perdida	dub=2:288514,10:2452849,8:288514
 Fuga de Auschwitz	dub=2:69939,10:2457546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26312.mp4,8:69939
 Fuga de Auschwitz (2020)	dub=6:1308780
 Fuga de Los Angeles (1996)	dub=6:1301237
-Fuga de Mogadíscio (2021)	dub=https://embedplayer2.xyz/cdn/hls/f57e2df0860ef20d447e50f47a165fc3/master.txt
+Fuga de Mogadíscio (2021)	leg=https://embedplayer2.xyz/cdn/hls/f57e2df0860ef20d447e50f47a165fc3/master.txt
 Fuga de Natal	dub=2:185266,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21416.mp4,8:185266
 Fuga de Natal (2018)	dub=6:1300787
 Fuga de Nova York (1981)	dub=6:1302827
@@ -1034,7 +1034,7 @@ Fórmula Fatal	dub=2:345498,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Fórmula selvagem	dub=2:347665,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38274.mp4,8:347665
 Fúria	dub=10:2454994
 Fúria Assassina	dub=2:273065,10:2445457,10:2448209,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44606.mp4,8:273065	leg=2:273066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73271.mp4,8:273066
-Fúria Cannabis (2015)	dub=https://embedplayer2.xyz/cdn/hls/c792138193610ce10e05f4dd3b3e6312/master.txt
+Fúria Cannabis (2015)	leg=https://embedplayer2.xyz/cdn/hls/c792138193610ce10e05f4dd3b3e6312/master.txt
 Fúria Cega (1989)	dub=https://embedplayer2.xyz/cdn/hls/0384741ee4018008713900af6c8ff53f/master.txt
 Fúria Mortal	dub=2:347145,2:124511,10:2453666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3835.mp4,8:347145,8:124511	leg=2:347144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73297.mp4,8:347144
 Fúria Mortal (1991)	dub=6:1309819

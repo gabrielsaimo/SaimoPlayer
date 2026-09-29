@@ -1,24 +1,3 @@
-316197	De volta para você	2026	2
-1620	CSI: Miami	2002	232
-263079	Black Kamen Rider	1987	51
-332976	O Bom Espírito: Por Trás das Portas da Opus Dei	2026	3
-332507	O Último Juramento / The Last Oath	2026	14
-312585	The Crow Club	2026	2
-61585	Olive Kitteridge	2014	4
-14009	A Família Addams	1964	22
-57243	Doctor Who	2005	160
-84383	Totalmente Demais	2015	172
-259015	Meu Querido Nêmesis	2025	11
-258538	หยดฝนกลิ่นสนิม	2024	10
-259288	Rivalidade Amigável	2025	16
-233100	Meu Secretário Perfeito	2025	11
-233347	Grupo de Estudos	2025	10
-228547	Quando Voo em Sua Direção	2023	24
-79991	Life	2018	14
-324931	Coração Parasita / A Parasite's Heart	2026	10
-40858	Fina Estampa	2011	185
-87187	Doctor Prisoner	2019	32
-87083	F1: Dirigir para Viver	2019	78
 262445	Assassinatos na Rua Elm	2024	12
 224011	A Confidente	2024	5
 66873	Liberdade, Liberdade	2016	67
@@ -776,7 +755,7 @@
 95479	Jujutsu Kaisen	2020	59
 205050	Shangri-La Frontier	2023	25
 201429	O Assassinato Não Solucionado de Beverly Lynn Smith	2022	5
-95350	Lanternas	2026	7
+95350	Lanternas	2026	4
 290193	O Rato	2026	10
 68734	El Chema	2016	84
 50035	Clarêncio, O Otimista	2014	99
@@ -1209,7 +1188,7 @@
 296232	SNOWBALL EARTH	2026	13
 223386	Homem em Chamas	2026	7
 5690	Moonlight	2007	6
-126027	Fantasmas	2021	94
+126027	Fantasmas	2021	72
 315312	Unexpectedly Naughty Fukami	2026	3
 286361	Mahou no Shimai Lulutto Lilly	2026	3
 300845	Movimento Mágico	2026	2
@@ -1288,7 +1267,7 @@
 279082	A Promessa da Alma	2025	12
 278573	A Coroa Perfeita	2026	12
 288590	An Observation Log of My Fiancée Who Calls Herself a Villainess	2026	11
-91768	Ascendance of a Bookworm	2019	59
+91768	Ascendance of a Bookworm	2019	50
 283905	Botan Kamiina Fully Blossoms When Drunk	2026	11
 303796	GHOST CONCERT : missing Songs	2026	12
 316424	Haibara's Teenage New Game+ / Haibara e o Novo Jogo da Adolescencia	2026	11
@@ -1920,7 +1899,7 @@
 66490	Guilt	2016	10
 30898	Confronto dos Deuses	2009	10
 65302	Mundo da Lua	1991	11
-207484	Outlander: Blood of My Blood	2025	12
+207484	Outlander: Blood of My Blood	2025	10
 282022	Casos Chocantes da História	2025	8
 4239	Um Amor de Familia	1987	183
 209356	Uma Fazenda de Flores	2021	4
@@ -2823,7 +2802,7 @@
 1398	Família Soprano	1999	86
 252257	As Cheerleaders do Dallas Cowboys	2024	21
 244259	Thank You, Goodnight: A História de Bon Jovi	2024	4
-61381	Black-ish	2014	166
+61381	Black-ish	2014	153
 226745	Snoopy Vai Acampar	2024	13
 244817	Suíte Magnólia	2024	8
 239478	SAND LAND: THE SERIES	2024	13
@@ -2871,7 +2850,7 @@
 65844	KONOSUBA - God's blessing on this wonderful world!	2016	31
 252727	Kevin Spacey: A História Não Contada	2024	2
 207468	Kaiju No. 8	2024	24
-237512	Jurassic World: Teoria do Caos	2024	39
+237512	Jurassic World: Teoria do Caos	2024	20
 72745	Instinct	2018	24
 236277	Casos Arquivados: Os Assassinatos de Rifkin	2023	2
 126437	Aoashi	2022	24
@@ -3847,7 +3826,6 @@
 137040	Black Knight	2023	1
 212350	A Infância de Romeu e Julieta	2023	1
 128024	Unicorn: Warriors Eternal	2023	10
-134465	Noiva por Vingança	2022	16
 207493	Crônicas de um Aristocrata em Outro Mundo	2023	12
 196454	Rainha Charlotte: Uma História Bridgerton	2023	1
 214079	O Famoso Alfaiate	2023	23
@@ -3859,7 +3837,6 @@
 219056	Rã e Sapo	2023	18
 194829	Minha Mana Apelona	2023	1
 117465	Hell's Paradise	2023	25
-155231	Conexão: Comer, Amar e Matar	2022	16
 114922	Citadel	2023	13
 65931	Bungo Stray Dogs	2016	61
 138455	Atração Fatal	2023	1
@@ -4016,10 +3993,9 @@
 194852	Kindaichi: O Jovem Detetive	2022	1
 213272	Dubai Ostentação	2022	1
 126883	Capitães do Açúcar	2023	1
-139309	Blanca	2021	12
+139309	Blanca	2021	1
 198189	Kaçış: Fuga Terrorista	2022	8
 137872	Soundtrack #1	2022	4
-108291	Snowdrop	2021	16
 136315	O Urso	2022	46
 210939	O Sabotador	2022	1
 124714	O Rei da TV	2022	1
@@ -4056,7 +4032,6 @@
 117162	Vai, Cachorro. Vai!	2021	1
 207269	Todo o Sangue	2022	10
 133908	SkyMed	2022	1
-158053	Prisma	2022	8
 206903	O Resgate na Caverna Tailandesa	2022	1
 128485	Germinal: A Revolução	2021	1
 220586	De Férias com o Ex: América Latina	2021	58
@@ -4073,7 +4048,6 @@
 93158	Crescendo	2016	10
 114502	Carros na Estrada	2022	9
 61014	The Knick	2014	18
-9834	O Pequeno Urso	1995	64
 135198	Amber Brown	2022	1
 135187	A Guardiã da Floresta	2021	1
 84773	O Senhor dos Anéis: Os Anéis de Poder	2022	16
@@ -4225,7 +4199,7 @@
 124902	Todos Mentem	2022	1
 114925	Pam & Tommy	2022	8
 134581	Kotaro Vai Morar Sozinho	2022	10
-1434	Uma Família da Pesada / Family Guy	1999	442
+1434	Uma Família da Pesada	1999	442
 61915	Agente K.C	2015	81
 86189	Betty em Nova York	2019	123
 41815	Tropicaliente	1994	193
@@ -4297,7 +4271,6 @@
 133723	Harry Potter: O Campeonato das Casas de Hogwarts	2021	4
 139575	Gil na Califórnia	2021	1
 195922	Any Malu Show	2020	26
-127509	Insânia	2021	8
 125676	Coiotes	2021	1
 133727	Acapulco	2021	1
 137720	Os Sustos Ocultos de Frankelda	2021	5
@@ -4318,7 +4291,7 @@
 95205	The Equalizer - A Protetora	2021	73
 64264	Game Shakers	2015	63
 131927	Dexter: New Blood	2021	11
-13023	Chapolin Colorado	1973	250
+13023	Chapolin Colorado	1973	36
 132375	Um Lugar ao Sol	2021	1
 105009	Tokyo Revengers	2021	52
 117532	Hip Hop Uncovered	2021	1
@@ -4336,7 +4309,6 @@
 97525	To Your Eternity	2021	56
 103023	Eu Terei Sumido na Escuridão	2020	7
 97727	Departamento de Conspirações	2021	18
-113036	American Horror Stories	2021	23
 96715	Tico e Teco: Vida no Parque	2021	25
 119761	Q: No Olho da Tempestade	2021	6
 129680	Eu Sei o Que Vocês Fizeram no Verão Passado	2021	12
@@ -4346,7 +4318,6 @@
 90814	Extracurricular	2020	10
 1892	Um Maluco no Pedaço	1990	148
 15632	The Cleveland Show	2009	88
-46021	Tapas & Beijos	2011	169
 61865	Quando Chama o Coração	2014	90
 3172	Private Practice	2007	111
 76747	On My Block	2018	38
@@ -4501,7 +4472,6 @@
 2362	Os Jetsons	1962	75
 1546	Hora do Recreio	1997	65
 126304	Geração 30 e Poucos	2021	8
-102085	Brincando com Fogo	2020	44
 118321	Allen contra Farrow	2021	5
 103254	Yashahime: Princess Half-Demon	2020	1
 133312	Vovô e Eu	1992	1
@@ -4781,7 +4751,6 @@
 1400	Seinfeld	1989	177
 307896	Ruas Mundo Afora	2020	46
 63130	Red Oaks	2014	26
-127365	O Dono do Lar	2019	140
 114705	Night Stalker: Tortura e Terror	2021	4
 96677	Lupin	2021	17
 86897	Ideias Sinistras	2017	8
@@ -4849,7 +4818,6 @@
 4313	Três é Demais	1987	192
 97711	Desalma	2020	20
 79084	POSE	2018	26
-105177	Mistérios sem Solução	2020	22
 60572	Pokémon	1997	1081
 74323	Vampirina	2017	48
 71342	Os Dias Eram Assim	2017	88
@@ -5115,7 +5083,7 @@
 69959	Chef's Table: França	2016	30
 95071	Oi Ninja	2019	20
 87784	Em Defesa de Jacob	2020	8
-89247	Batwoman	2019	50
+89247	Batwoman	2019	40
 103659	Power Players	2019	1
 81918	Fast Layne	2019	8
 66830	Greenleaf	2016	61
@@ -5577,6 +5545,7 @@
 40293	Da Vinci's Demons	2013	27
 70523	Dark	2017	26
 2458	CSI: Nova York	2004	184
+1620	CSI: Miami	2002	232
 62858	Colony	2016	36
 58841	Chicago P.D.: Distrito 21	2014	263
 62650	Chicago Med: Atendimento de Emergência	2015	219
@@ -5598,7 +5567,7 @@
 2171	Arquivo Morto	2003	153
 4500	Anos Incríveis	1988	115
 70785	Anne com um "E"	2017	27
-1413	American Horror Story	2011	135
+1413	American Horror Story	2011	132
 72844	A Maldição da Residência Hill	2018	10
 68421	Altered Carbon	2018	18
 240022	3 Palavrinhas	2013	30
@@ -5694,7 +5663,6 @@
 112615	Cestvs: The Roman Fighter		1
 112616	Night Head 2041		1
 112888	Beleza Verdadeira	2020	16
-113240	Na Direção do Amor	2020	16
 113687	Bokutachi no Remake		1
 114471	Coração de Ferro	2025	6
 115970	50M²	2021	1
@@ -5752,7 +5720,6 @@
 200709	Classe dos Heróis Fracos	2022	16
 200875	IT: Bem-Vindos a Derry	2025	8
 201849	Island		13
-202318	Intensivão de Amor	2023	16
 202886	Terra de Ilusões: Internet, Morte e Mentiras		16
 203164	Strong Girl Nam-soon	2023	16
 205319	Uma Dose Diária de Sol		12
@@ -5814,7 +5781,7 @@
 242054	Assassinato na Casa Branca	2025	8
 243316	As Quatro Estações do Ano	2025	16
 243403	Batalha das Solteiras	2024	6
-243881	Casa de Davi	2025	16
+243881	Casa de Davi	2025	8
 243964	Um Amor de Cinema	2025	10
 244617	MAYONAKA PUNCH		1
 244620	A Nobody's Way Up to an Exploration Hero		1
@@ -6036,7 +6003,7 @@
 202555	Demolidor: Renascido	2025	17
 39272	Era Uma Vez	2011	156
 124364	Origem /  From	2022	40
-60735	Flash / The Flash	2014	182
+60735	Flash	2014	182
 129286	Jerusalém: Cidade de Fé e Guerra	2021	6
 224785	Israel - Nos Passos de Jesus	2023	5
 272236	Gugu, Toninho e Augusto	2024	5
@@ -6459,7 +6426,7 @@
 224479	Somente VIP	2023	1
 224108	Swaci		1
 118871	Baby Vampire Blues	2021	8
-212204	Melancia Cintilante	2023	17
+212204	Melancia Cintilante	2023	1
 204027	Em Busca do Unicórnio	2022	1
 218177	Amor Aqui e Agora	2023	10
 228957	A Garota do Cigarro	2023	5
@@ -6495,7 +6462,6 @@
 93846	O Rei Eterno	2020	16
 78385	Something in the Rain	2018	16
 94796	Pousando no Amor	2019	16
-74821	Manual do Presidiário	2017	16
 87527	Primeira Vez Amor	2019	16
 60957	Meu Amor das Estrelas	2013	21
 75387	A Love So Beautiful		24

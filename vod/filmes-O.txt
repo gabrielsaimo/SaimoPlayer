@@ -79,7 +79,7 @@ O Agente Faixa-Preta (2024)	dub=6:1312091
 O Agente Secreto (2025)	dub=https://embedplayer2.xyz/cdn/hls/cbb4849376c3116d9ce1312133d67a1d/master.txt,6:1314246,2:379437,2:365411,2:365410,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96759.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96761.mp4,8:379437,8:365411,8:365410,2:364724,10:2461878,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53750.mp4,8:364724	leg=2:365106,10:2450555,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96896.mp4,8:365106
 O Agente Secreto de Bixler	dub=10:2459150
 O Agente Teen (2003)	dub=6:1500979
-O Agente Teen 2: Missão Londres (2004)	dub=https://embedplayer2.xyz/cdn/hls/a3e95449d3d476764062e9e3d0c0544c/master.txt
+O Agente Teen 2: Missão Londres (2004)	leg=https://embedplayer2.xyz/cdn/hls/a3e95449d3d476764062e9e3d0c0544c/master.txt
 O Agente da U.N.C.L.E.	dub=2:108291,10:2459688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17321.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289493.mp4,8:108291
 O Agente da UNCLE (2015)	dub=6:1302395
 O Agiota (2021)	dub=https://embedplayer2.xyz/cdn/hls/78da1ac84632aa890fd74c34f447baae/master.txt,2:315535,10:2449223,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21594.mp4,8:315535	leg=2:315536,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80945.mp4,8:315536
@@ -640,7 +640,7 @@ O Chapeleiro Louco (2021)	dub=6:1300395
 O Charlatão	dub=2:128504,10:2457240,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28697.mp4,8:128504	leg=2:128532,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81433.mp4,8:128532
 O Charlatão (2020)	dub=6:1305109	leg=6:1305110
 O Charlatão Vagabundo que Virou o Temido de Todo Mundo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98482.mp4
-O Chef (2021)	dub=https://embedplayer2.xyz/cdn/hls/edad65445c554da09cfee7645ee026ed/master.txt,2:388699,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310022.mp4,8:388699	leg=2:388698,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310036.mp4,8:388698
+O Chef (2021)	dub=2:388699,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310022.mp4,8:388699	leg=https://embedplayer2.xyz/cdn/hls/edad65445c554da09cfee7645ee026ed/master.txt,2:388698,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310036.mp4,8:388698
 O Chefe	dub=2:26881,10:2460680,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17440.mp4,8:26881
 O Chefe (2018)	dub=6:1297781
 O Chefe da Mafia - The Mafia Boss	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303162.mp4
@@ -1267,7 +1267,7 @@ O Exterminador Do Futuro 1	dub=2:20144,http://dbonline.tech-cdn.top:80/movie/ke-
 O Exterminador Do Futuro 2	dub=2:20145,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5636.mp4,8:20145
 O Exterminador Do Futuro 3	dub=2:20146,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5652.mp4,8:20146
 O Exterminador Do Futuro 4	dub=2:20147,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5644.mp4,8:20147
-O Exterminador de Seitas (2022)	dub=https://embedplayer2.xyz/cdn/hls/c3b021e4e719f8acb5ea98550d77f8b5/master.txt,https://embedplayer2.xyz/cdn/hls/13cd89abff05a5da67f24a6cb50d57ca/master.txt,2:354116,10:2443949,10:2444438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/827.mp4,8:354116	leg=2:354115,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82115.mp4,8:354115
+O Exterminador de Seitas (2022)	dub=https://embedplayer2.xyz/cdn/hls/13cd89abff05a5da67f24a6cb50d57ca/master.txt,2:354116,10:2443949,10:2444438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/827.mp4,8:354116	leg=https://embedplayer2.xyz/cdn/hls/c3b021e4e719f8acb5ea98550d77f8b5/master.txt,2:354115,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82115.mp4,8:354115
 O Exterminador do Futuro	dub=10:2457870
 O Exterminador do Futuro (1984)	dub=6:1297013
 O Exterminador do Futuro - Genesis	dub=2:21331,10:2457728,10:2458594,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34324.mp4,8:21331
@@ -2256,7 +2256,7 @@ O Monge (2011)	dub=6:1303892
 O Monge à Prova de Balas	dub=2:358838,10:2453983,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5879.mp4,8:358838	leg=2:358837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83058.mp4,8:358837
 O Monge à Prova de Balas (2003)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300834.mp4,6:1304260
 O Monstro Dentro de Você (2016)	dub=6:1304016
-O Monstro da Ilha (2025)	dub=https://embedplayer2.xyz/cdn/hls/47acaf957cebeb5ea358a401d1463937/master.txt,https://embedplayer2.xyz/cdn/hls/0633b2faff5e2f87bbf02049b4b62a6c/master.txt,2:376524,10:2444406,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253457.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254798.mp4,8:376524	leg=2:376523,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253451.mp4,8:376523
+O Monstro da Ilha (2025)	dub=https://embedplayer2.xyz/cdn/hls/47acaf957cebeb5ea358a401d1463937/master.txt,2:376524,10:2444406,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253457.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254798.mp4,8:376524	leg=https://embedplayer2.xyz/cdn/hls/0633b2faff5e2f87bbf02049b4b62a6c/master.txt,2:376523,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253451.mp4,8:376523
 O Monstro da Lagoa Negra	dub=2:358839,2:105255,10:2452968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50689.mp4,8:358839,8:105255
 O Monstro da Lagoa Negra (1954)	dub=6:1307066
 O Monstro de Duas Faces	dub=2:101367,10:2451252,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50693.mp4,8:101367
@@ -3365,7 +3365,7 @@ O Suspeito da Rua Arlington	dub=2:321277,10:2448227,http://dbonline.tech-cdn.top
 O Sussurro	dub=2:381813,2:286626,10:2444106,10:2445358,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301395.mp4,8:381813,8:286626	leg=2:381812,2:286627,10:2447208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84091.mp4,8:381812,8:286627
 O Sussurro (2022)	dub=6:1312143
 O Sussurro (2026)	dub=https://embedplayer2.xyz/cdn/hls/5bdd5c3288b25606673f7c526f3ba17f/master.txt,6:1500869
-O Sussurro da Bruxa (2024)	dub=https://embedplayer2.xyz/cdn/hls/d7886eca14354f602f39d367a36ac5fa/master.txt
+O Sussurro da Bruxa (2024)	leg=https://embedplayer2.xyz/cdn/hls/d7886eca14354f602f39d367a36ac5fa/master.txt
 O Sítio	leg=2:383158,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306395.mp4,8:383158
 O TALISMA DO GOVERNADOR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301598.mp4
 O TESOURO MAIS PRECIOSO DO SR. FU	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302218.mp4
@@ -3482,7 +3482,7 @@ O Trote (2024)	dub=https://embedplayer2.xyz/cdn/hls/582b17a3e23650744257997d4416
 O Truque do Amor (2025)	dub=https://embedplayer2.xyz/cdn/hls/794ebc0df3fb2040fc7b06b98f2e074a/master.txt,6:1312755,2:301077,10:2450022,10:2460746,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18092.mp4,8:301077	leg=2:301078,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84225.mp4,8:301078
 O Tubarão: À Deriva (2022)	dub=https://embedplayer2.xyz/cdn/hls/8e97f89adc0a20f844f394391ca2e54b/master.txt,6:1306545,2:204475,10:2451331,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50946.mp4,8:204475	leg=2:204474,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84213.mp4,8:204474
 O Tunel (2016)	dub=6:1303913
-O Tunel (2019)	dub=https://embedplayer2.xyz/cdn/hls/3a3e116d1d3d412a0667d8db7f75d8b7/master.txt,6:1298108
+O Tunel (2019)	dub=6:1298108	leg=https://embedplayer2.xyz/cdn/hls/3a3e116d1d3d412a0667d8db7f75d8b7/master.txt
 O Turista	dub=2:20166,10:2454897,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6093.mp4,8:20166
 O Turista (2010)	dub=6:1310291
 O Turista Acidental	dub=2:310573,10:2449691,10:2461311,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18051.mp4,8:310573	leg=2:310574,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84220.mp4,8:310574
@@ -3600,7 +3600,7 @@ O Vilarejo (2023)	dub=6:1301530
 O Vingador	dub=2:345124,2:145977,10:2454497,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6128.mp4,8:345124,8:145977	leg=2:345123,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84319.mp4,8:345123
 O Vingador (1986)	dub=6:1500981
 O Vingador (2003)	dub=6:1302444
-O Vingador Tóxico (2025)	dub=https://embedplayer2.xyz/cdn/hls/915166f1d99c389dd4060dfac29e1b4d/master.txt,https://embedplayer2.xyz/cdn/hls/e9ec1cef7700913d709880f712ddd254/master.txt
+O Vingador Tóxico (2025)	dub=https://embedplayer2.xyz/cdn/hls/915166f1d99c389dd4060dfac29e1b4d/master.txt	leg=https://embedplayer2.xyz/cdn/hls/e9ec1cef7700913d709880f712ddd254/master.txt
 O Vingador da Iugoslavia (2017)	dub=https://embedplayer2.xyz/cdn/hls/af97b4d7df1056178c746b0a7ce0d187/master.txt,6:1299698,2:296887,10:2457939,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6124.mp4,8:296887
 O Vingador da Iugoslávia 2	dub=2:287016,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57766.mp4,8:287016,2:287015,10:2449319,10:2454593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6133.mp4,8:287015	leg=2:287017,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84314.mp4,8:287017
 O Vingador do Futuro	dub=2:200813,2:102647,10:2453383,10:2457661,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6142.mp4,8:200813,8:102647
@@ -3839,7 +3839,7 @@ Oh, Canadá	dub=https://embedplayer2.xyz/cdn/hls/bb1cf5e73cc12087ead71ab715a2a9c
 Oh, Ramona!	dub=2:23872,8:23872
 Oh, Ramona! (2019)	dub=6:1298337
 Ohio	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30078.mp4
-Ohio State: Uma História de Abusos (2025)	dub=https://embedplayer2.xyz/cdn/hls/e4fa7163c07cc4da7841a7de291a0463/master.txt,10:2448262	leg=2:329339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84584.mp4,8:329339
+Ohio State: Uma História de Abusos (2025)	dub=10:2448262	leg=https://embedplayer2.xyz/cdn/hls/e4fa7163c07cc4da7841a7de291a0463/master.txt,2:329339,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84584.mp4,8:329339
 Oi Scooby-Doo (2005)	dub=6:1301609
 Oi Sumido (2025)	dub=https://embedplayer2.xyz/cdn/hls/6dd5a407fb81acbd302c4fc029c8cf4f/master.txt,6:1314090,2:354158,10:2445207,8:354158	leg=2:354157,8:354157
 Oi, Alberto	dub=2:379413,2:137641,10:2444237,8:379413,8:137641	leg=2:137639,8:137639
@@ -3944,7 +3944,7 @@ Onde Nasce a Esperança	dub=2:278106,10:2456495,http://dbonline.tech-cdn.top:80/
 Onde Vivem os Monstros	dub=10:2458066
 Onde Vivem os Monstros (2009)	dub=6:1298677
 Onde o Amor Está	dub=2:367050,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97888.mp4,8:367050
-Onde o Mal Habita (2024)	dub=https://embedplayer2.xyz/cdn/hls/08383ad34359417f8aea2d225ae4adbf/master.txt,https://embedplayer2.xyz/cdn/hls/d765b45d1d51b44e23d88ef292c78443/master.txt
+Onde o Mal Habita (2024)	dub=https://embedplayer2.xyz/cdn/hls/08383ad34359417f8aea2d225ae4adbf/master.txt	leg=https://embedplayer2.xyz/cdn/hls/d765b45d1d51b44e23d88ef292c78443/master.txt
 Onde o Orgulho Não Chega	dub=10:2447272	leg=2:246951,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84707.mp4,8:246951
 Onde os Fracos Nao Tem Vez (2007)	dub=6:1297912
 Onde os Fracos Não Têm Vez	dub=2:323737,2:95919,10:2448337,10:2456672,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21764.mp4,8:323737,8:95919	leg=2:323736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84711.mp4,8:323736
@@ -4726,7 +4726,7 @@ Os Parentes (2020)	dub=6:1299069	leg=6:1299070
 Os Passaros (1963)	dub=6:1301974
 Os Patrulheiros em Acao Salvam o Natal (2022)	dub=6:1301631
 Os Patrulheiros em Ação Salvam o Natal	dub=2:181091,10:2459413,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10682.mp4,8:181091	leg=2:198721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85360.mp4,8:198721
-Os Pecados da Esposa do Pastor (2023)	dub=https://embedplayer2.xyz/cdn/hls/403e3eeb2fbeab40a28f7e878a23647f/master.txt,https://embedplayer2.xyz/cdn/hls/a252a7701a33577d1160406fb066e8c8/master.txt
+Os Pecados da Esposa do Pastor (2023)	dub=https://embedplayer2.xyz/cdn/hls/403e3eeb2fbeab40a28f7e878a23647f/master.txt	leg=https://embedplayer2.xyz/cdn/hls/a252a7701a33577d1160406fb066e8c8/master.txt
 Os Pecados do Padre	dub=https://embedplayer2.xyz/cdn/hls/645b19ce97f87bca7ed7b0782dc4aa2d/master.txt,2:356859,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/973.mp4,8:356859	leg=2:356858,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85358.mp4,8:356858
 Os Peludos (2022)	dub=https://embedplayer2.xyz/cdn/hls/fff65191432873a4a550bbde18170eee/master.txt,6:1302662,2:223109,10:2460010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18375.mp4,8:223109	leg=2:223111,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85371.mp4,8:223111
 Os Penetras (2012)	dub=6:1302453
@@ -4961,7 +4961,7 @@ Ouija O Jogo dos Espiritos (2014)	dub=6:1302553
 Ouija Origem do Mal (2016)	dub=6:1302555
 Ouija: A Casa Amaldiçoada	dub=2:324835,10:2448088,10:2452524,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51187.mp4,8:324835	leg=2:324834,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85551.mp4,8:324834
 Ouija: Origem do Mal	dub=2:297071,10:2452062,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51192.mp4,8:297071
-Our Man in L.A. (2024)	dub=https://embedplayer2.xyz/cdn/hls/68bb8696b25edbdcb39aec55f0e6c26e/master.txt,https://embedplayer2.xyz/cdn/hls/b9ff3a92854b4af69a952aeda3ff45a4/master.txt
+Our Man in L.A. (2024)	dub=https://embedplayer2.xyz/cdn/hls/68bb8696b25edbdcb39aec55f0e6c26e/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b9ff3a92854b4af69a952aeda3ff45a4/master.txt
 Our Son (2023)	dub=https://embedplayer2.xyz/cdn/hls/f461c6c9b41102bc1c0efe731f1ffe32/master.txt,6:1311704,2:256282,10:2455748,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30351.mp4,8:256282	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85545.mp4,8:256283
 Our Towns - Uma Viagem ao Coração dos EUA	dub=2:208207,10:2453191,8:208207	leg=2:208205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85539.mp4,8:208205
 Our Towns - Uma Viagem ao Coração dos EUA (2021)	dub=6:1311289	leg=6:1311290

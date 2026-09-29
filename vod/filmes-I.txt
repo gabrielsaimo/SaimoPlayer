@@ -3,7 +3,7 @@ I Am Mother	dub=2:24012,10:2458635,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 I Am Mother (2019)	dub=6:1308022
 I Am Vengeance: Retaliation	dub=https://embedplayer2.xyz/cdn/hls/1ce097c73399cece0c0aa923090e6e21/master.txt,2:129578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4128.mp4,8:129578	leg=2:129566,2:67488,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74830.mp4,8:129566,8:67488
 I Am What I Am 2	leg=2:358056,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74840.mp4,8:358056
-I Live Here Now (2026)	dub=https://embedplayer2.xyz/cdn/hls/81a1d7a41cc865983cace8e001556fda/master.txt,https://embedplayer2.xyz/cdn/hls/59aa494e767e2712dc1cc9563a8fdc57/master.txt
+I Live Here Now (2026)	dub=https://embedplayer2.xyz/cdn/hls/59aa494e767e2712dc1cc9563a8fdc57/master.txt	leg=https://embedplayer2.xyz/cdn/hls/81a1d7a41cc865983cace8e001556fda/master.txt
 I Love Boosters	leg=2:385850,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308125.mp4,8:385850
 I Love Us	leg=2:131091,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74835.mp4,8:131091
 I Love Us (2021)	leg=6:1304839
@@ -153,7 +153,7 @@ Imperio da Luz (2022)	dub=6:1301426
 Imperio do Sol (1987)	dub=6:1299036
 Impetigore: Herança Maldita	dub=2:183737,10:2452117,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49244.mp4,8:183737	leg=2:183729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75016.mp4,8:183729
 Impetigore: Herança Maldita (2019)	dub=6:1305904	leg=6:1305905
-Impiedoso (2023)	dub=https://embedplayer2.xyz/cdn/hls/72f873d0b42dffd9e8c9cdf2de1342d1/master.txt,https://embedplayer2.xyz/cdn/hls/ef787d64746439d55e3bb5c8cc05d094/master.txt,6:1313697,2:334607,10:2448966,10:2453806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4172.mp4,8:334607	leg=https://embedplayer2.xyz/cdn/hls/72f873d0b42dffd9e8c9cdf2de1342d1/master.txt,2:334606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75015.mp4,8:334606
+Impiedoso (2023)	dub=https://embedplayer2.xyz/cdn/hls/ef787d64746439d55e3bb5c8cc05d094/master.txt,6:1313697,2:334607,10:2448966,10:2453806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4172.mp4,8:334607	leg=https://embedplayer2.xyz/cdn/hls/72f873d0b42dffd9e8c9cdf2de1342d1/master.txt,2:334606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75015.mp4,8:334606
 Implacável	dub=2:23233,10:2447698,10:2454697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4170.mp4,8:23233	leg=2:282085,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75032.mp4,8:282085
 Implacável (2019)	dub=6:1308172
 Imported	dub=10:2448760	leg=2:341302,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75027.mp4,8:341302
@@ -246,7 +246,7 @@ Inferninho (2019)	dub=6:1305094
 Inferno	dub=2:265150,2:21620,10:2446573,10:2454472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4210.mp4,8:265150,8:21620
 Inferno (1999)	dub=6:1304962
 Inferno (2016)	dub=https://embedplayer2.xyz/cdn/hls/3d4f6623748a6bc5be732c0d2c3d9746/master.txt,6:1300614
-Inferno Abandonado (2023)	dub=https://embedplayer2.xyz/cdn/hls/28681d16b4b7a6fa4638bb209ae918d7/master.txt,https://embedplayer2.xyz/cdn/hls/d7bc3f1f2b081c83892857b4f30344e9/master.txt,2:355572,10:2445129,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/586.mp4,8:355572	leg=2:355571,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75168.mp4,8:355571
+Inferno Abandonado (2023)	dub=https://embedplayer2.xyz/cdn/hls/28681d16b4b7a6fa4638bb209ae918d7/master.txt,2:355572,10:2445129,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/586.mp4,8:355572	leg=https://embedplayer2.xyz/cdn/hls/d7bc3f1f2b081c83892857b4f30344e9/master.txt,2:355571,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75168.mp4,8:355571
 Inferno Branco	dub=2:73277,10:2456305,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26850.mp4,8:73277
 Inferno Branco (1994)	dub=6:1307595
 Inferno Carnal	dub=2:370338,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249246.mp4,8:370338
@@ -373,7 +373,7 @@ Instinct	dub=2:185267,10:2455817,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Instinto	dub=2:94756,10:2456552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26896.mp4,8:94756
 Instinto (1999)	dub=6:1305566
 Instinto (2019)	dub=https://embedplayer2.xyz/cdn/hls/1559c07a2a722cb9c2e2a543ceb4c5f3/master.txt,6:1298325
-Instinto Assassino (2021)	dub=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,6:1306422,2:160427,10:2454545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4250.mp4,8:160427	leg=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,6:1306423,2:160426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75352.mp4,8:160426
+Instinto Assassino (2021)	dub=6:1306422,2:160427,10:2454545,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4250.mp4,8:160427	leg=https://embedplayer2.xyz/cdn/hls/3b256290b76fe2d1a99794a300ec049b/master.txt,6:1306423,2:160426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75352.mp4,8:160426
 Instinto Fatal (2024)	dub=https://embedplayer2.xyz/cdn/hls/4bf43b51f132bd7a953fecfd64b4ba41/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251427.mp4,2:367823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98716.mp4,8:367823	leg=2:367822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98662.mp4,8:367822
 Instinto Materno	dub=2:261646,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56346.mp4,8:261646,2:383108,2:261111,2:142426,10:2444009,10:2457884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26900.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301381.mp4,8:383108,8:261111,8:142426	leg=2:383107,2:261112,2:142419,10:2448516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75357.mp4,8:383107,8:261112,8:142419
 Instinto Materno (2019)	leg=6:1307886
@@ -497,7 +497,7 @@ Ip Man O Mestre Do Kung Fu	dub=2:89737,10:2457942,http://dbonline.tech-cdn.top:8
 Ip Man: A Batalha Final	dub=10:2458125
 Ip Man: Nasce uma Lenda	dub=10:2457872
 Ip Man: O Mestre do Kung Fu (2019)	dub=6:1308703
-Ip Man: The Awakening (2021)	dub=https://embedplayer2.xyz/cdn/hls/9b59a1cd1e73c917b73fac65a3f336a7/master.txt
+Ip Man: The Awakening (2021)	leg=https://embedplayer2.xyz/cdn/hls/9b59a1cd1e73c917b73fac65a3f336a7/master.txt
 Iracema	dub=2:393857,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313401.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313417.mp4,8:393857	leg=2:393856,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313369.mp4,8:393856
 Iracema: Uma Transa Amazônica	dub=2:366094,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97154.mp4,8:366094
 Iris (2001)	dub=6:1312095	leg=6:1312094
@@ -564,7 +564,7 @@ Isca	dub=2:277859,10:2447290,10:2451257,http://dbonline.tech-cdn.top:80/movie/ke
 Isca (2024)	dub=6:1312302	leg=6:1312301
 Isi & Ossi	dub=2:46140,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56378.mp4,8:46140,2:35981,10:2446609,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42072.mp4,8:35981
 Isi & Ossi (2020)	dub=6:1297656
-Island Escape (2023)	dub=https://embedplayer2.xyz/cdn/hls/c55a1c3da2d9dffc8e5a6b2abdbae0a3/master.txt,https://embedplayer2.xyz/cdn/hls/845cc9c761c769d0b7c2ba429ea96a3b/master.txt
+Island Escape (2023)	dub=https://embedplayer2.xyz/cdn/hls/c55a1c3da2d9dffc8e5a6b2abdbae0a3/master.txt	leg=https://embedplayer2.xyz/cdn/hls/845cc9c761c769d0b7c2ba429ea96a3b/master.txt
 Isolado Na Pandemia	dub=2:93481,10:2452355,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49324.mp4,8:93481
 Isolado na Pandemia (2020)	dub=6:1301864
 Isolados	dub=2:31926,10:2452128,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49339.mp4,8:31926
