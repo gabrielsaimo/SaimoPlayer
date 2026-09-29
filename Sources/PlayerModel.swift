@@ -83,6 +83,17 @@ final class PlayerModel: NSObject, ObservableObject {
     var episodioPendente: EpisodioNoAr?
     /// Abertura, recapitulação e créditos do que está no ar (TheIntroDB).
     @Published private(set) var marcas: Pulos.Marcas?
+
+    // Legendas do OpenSubtitles (Legendas.swift): à parte das que vêm no
+    // próprio vídeo, e desenhadas por cima dele.
+    @Published private(set) var legendasExt: [Legendas.Opcao] = []
+    @Published private(set) var legendaExt: Legendas.Opcao?
+    @Published private(set) var legendaAtraso: Double = 0
+    @Published private(set) var legendaAviso: String?
+    /// As falas da escolhida. Não é publicada: a tela as lê a cada instante.
+    private(set) var falasExt: [Legendas.Fala] = []
+    private var legendaBusca: Task<Void, Never>?
+    private var legendaDownload: Task<Void, Never>?
     /// Quando o cartão do próximo episódio subiu, e se foi dispensado.
     @Published private(set) var proximoDesde: Date?
     @Published private(set) var proximoDispensado = false
@@ -341,6 +352,7 @@ final class PlayerModel: NSObject, ObservableObject {
         UserDefaults.standard.set(channel.name, forKey: "ultimoCanal")
         episodioNoAr = nil
         marcas = nil
+        zerarLegendasExternas()
         proximoDesde = nil
         playingFile = nil
         chaveArquivo = ""
@@ -387,6 +399,12 @@ final class PlayerModel: NSObject, ObservableObject {
                 guard let self, self.episodioNoAr == ep else { return }
                 self.marcas = achadas
             }
+        }
+        zerarLegendasExternas()
+        if let ep = episodioNoAr, let tmdb = Generos.id(ep.serie, serie: true) {
+            buscarLegendasExternas(tmdb: tmdb, serie: true, temporada: ep.temporada, episodio: ep.numero)
+        } else if episodioNoAr == nil, let tmdb = Generos.id(nome, serie: false) {
+            buscarLegendasExternas(tmdb: tmdb, serie: false, temporada: 0, episodio: 0)
         }
         chaveArquivo = chave
         ultimoGuardado = -100
@@ -1012,7 +1030,81 @@ final class PlayerModel: NSObject, ObservableObject {
         confirmMediaSelection(on: item)
     }
 
-    func selectSubtitle(_ id: String) {
+    // MARK: - Legendas do OpenSubtitles
+
+    func zerarLegendasExternas() {
+        legendaBusca?.cancel()
+        legendaDownload?.cancel()
+        legendasExt = []
+        legendaExt = nil
+        falasExt = []
+        legendaAtraso = 0
+        legendaAviso = nil
+    }
+
+    /// Busca a lista do título (uma consulta pequena) e, se a pessoa já
+    /// escolhera um idioma antes, liga a primeira versão dele sozinho.
+    func buscarLegendasExternas(tmdb: Int, serie: Bool, temporada: Int, episodio: Int) {
+        legendaBusca?.cancel()
+        legendaBusca = Task { @MainActor [weak self] in
+            let lista = await Legendas.de(tmdb: tmdb, serie: serie, temporada: temporada, episodio: episodio)
+            guard let self, !Task.isCancelled, !lista.isEmpty else { return }
+            self.legendasExt = lista
+            let idioma = Legendas.idiomaGuardado
+            if !idioma.isEmpty, self.legendaExt == nil,
+               let primeira = lista.first(where: { $0.idioma == idioma }) {
+                self.escolherLegendaExterna(primeira, guardar: false)
+            }
+        }
+    }
+
+    func escolherLegendaExterna(_ opcao: Legendas.Opcao?, guardar: Bool = true) {
+        legendaDownload?.cancel()
+        guard let opcao else {
+            legendaExt = nil
+            falasExt = []
+            legendaAviso = nil
+            legendaAtraso = 0
+            if guardar { Legendas.idiomaGuardado = "" }
+            return
+        }
+        legendaAviso = "Baixando a legenda…"
+        legendaDownload = Task { @MainActor [weak self] in
+            let falas = await Legendas.baixar(opcao)
+            guard let self, !Task.isCancelled else { return }
+            guard let falas else {
+                self.legendaAviso = "Não foi possível baixar esta legenda. Tente outra versão."
+                return
+            }
+            self.falasExt = falas
+            self.legendaExt = opcao
+            self.legendaAtraso = 0
+            self.legendaAviso = nil
+            if guardar { Legendas.idiomaGuardado = opcao.idioma }
+            // Uma legenda por vez: a do próprio vídeo, se estava ligada, sai.
+            if let atual = self.selectedSubtitle, atual != "__off__" {
+                self.selectSubtitle("__off__", limparExterna: false)
+            }
+            Log.shared.write("legenda externa: \(opcao.rotulo) — \(falas.count) falas")
+        }
+    }
+
+    /// Atraso (positivo) ou adianto (negativo) da legenda externa, em segundos.
+    func definirAtrasoLegenda(_ segundos: Double) {
+        legendaAtraso = (segundos * 100).rounded() / 100
+    }
+
+    func ajustarAtrasoLegenda(_ delta: Double) { definirAtrasoLegenda(legendaAtraso + delta) }
+
+    /// A fala externa que está no ar em [t] (segundos do player).
+    func legendaExternaEm(_ t: Double) -> String? {
+        guard legendaExt != nil, t.isFinite else { return nil }
+        return Legendas.fala(em: t - legendaAtraso, nas: falasExt)
+    }
+
+    func selectSubtitle(_ id: String, limparExterna: Bool = true) {
+        // Uma legenda por vez: escolher uma das do vídeo tira a do OpenSubtitles.
+        if limparExterna, legendaExt != nil { escolherLegendaExterna(nil, guardar: id == "__off__") }
         guard let g = subtitleGroup, let item = player.currentItem else { return }
         player.appliesMediaSelectionCriteriaAutomatically = false
         if id == "__off__" {

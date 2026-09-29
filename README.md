@@ -53,7 +53,9 @@ app procura a versão nova ali e se oferece para atualizar.
 - Filmes, séries, animes e doramas com ficha, elenco e episódios
 - Pular abertura e recapitulação com tempos do [TheIntroDB](https://theintrodb.org)
 - Próximo episódio nos créditos e continuar de onde parou
-- Favoritos, busca, áudio, legendas e qualidade
+- Favoritos, busca, áudio, legendas e qualidade; filmes e séries ganham legendas do
+  OpenSubtitles (pt-BR, pt-PT, inglês, espanhol) com ajuste de sincronia, sem chave
+  nem cadastro (`Sources/Legendas.swift`)
 
 ## App do Mac
 
@@ -86,6 +88,7 @@ Scripts principais:
 | `atualizar_tudo.sh` | roda a atualização diária do acervo, às 11h (launchd no Mac; o GitHub Actions faz a parte da RedeFlix às 11h17) |
 | `gerar_vod.py`, `gerar_generos.py`, `gerar_destaques.py` | geram o acervo, as fichas e as fileiras |
 | `atualizar_redeflix.py`, `atualizar_frostview.py`, `atualizar_fenix.py` | trazem fontes novas de cada origem |
+| `gerar_imdb.py` | publica o id do IMDb de cada título em `vod/imdb/` (fragmentos de 8 KB), para as legendas dos apps |
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
 | `medir_fontes_local.py`, `medir_resolucao.py` | medem as fontes dos canais |

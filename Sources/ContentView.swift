@@ -72,6 +72,8 @@ struct ContentView: View {
                 .background(Color.black)
                 .ignoresSafeArea()
 
+            LegendaNaTela(model: model, acimaDosControles: controlsVisible)
+
             if model.showStats {
                 statsOverlay
                     .opacity(controlsVisible ? 1 : 0)
@@ -319,6 +321,28 @@ private struct ControlBar: View {
                             ForEach(model.subtitleChoices) { c in
                                 Button { model.selectSubtitle(c.id) } label: {
                                     Text(model.selectedSubtitle == c.id ? "✓  \(c.title)" : "    \(c.title)")
+                                }
+                            }
+                        }
+                    }
+                    if !model.legendasExt.isEmpty {
+                        Section("Legendas · OpenSubtitles") {
+                            Button { model.escolherLegendaExterna(nil) } label: {
+                                Text(model.legendaExt == nil ? "✓  Desligadas" : "    Desligadas")
+                            }
+                            ForEach(model.legendasExt) { o in
+                                Button { model.escolherLegendaExterna(o) } label: {
+                                    Text(model.legendaExt == o ? "✓  \(o.rotulo)" : "    \(o.rotulo)")
+                                }
+                            }
+                            if model.legendaExt != nil {
+                                Menu("Sincronia · \(rotuloDoAtraso(model.legendaAtraso))") {
+                                    Button("Original") { model.definirAtrasoLegenda(0) }
+                                    ForEach([-2.0, -1.0, -0.5, 0.5, 1.0, 2.0], id: \.self) { passo in
+                                        Button(passo < 0 ? "Adiantar \(abs(passo).formatted()) s" : "Atrasar \(passo.formatted()) s") {
+                                            model.ajustarAtrasoLegenda(passo)
+                                        }
+                                    }
                                 }
                             }
                         }
@@ -716,6 +740,46 @@ extension PlayerModel {
 
 /// "Pular abertura" e o cartão do próximo episódio, no canto de baixo.
 /// Os tempos vêm do TheIntroDB.
+private func rotuloDoAtraso(_ segundos: Double) -> String {
+    if segundos == 0 { return "original" }
+    return "\(segundos > 0 ? "+" : "−")\(abs(segundos).formatted()) s"
+}
+
+/// A legenda do OpenSubtitles, desenhada por cima do vídeo. O texto é escolhido
+/// pelo relógio do player, cinco vezes por segundo, sem publicar nada.
+private struct LegendaNaTela: View {
+    @ObservedObject var model: PlayerModel
+    let acimaDosControles: Bool
+
+    var body: some View {
+        if model.legendaExt != nil || model.legendaAviso != nil {
+            TimelineView(.periodic(from: .now, by: 0.2)) { _ in
+                VStack {
+                    Spacer()
+                    if let aviso = model.legendaAviso {
+                        Text(aviso).font(.system(size: 12)).foregroundStyle(.white.opacity(0.8))
+                            .padding(.horizontal, 10).padding(.vertical, 5)
+                            .background(.black.opacity(0.6), in: Capsule())
+                    } else if let fala = model.legendaExternaEm(model.player.currentTime().seconds) {
+                        Text(fala)
+                            .font(.system(size: 26, weight: .medium))
+                            .multilineTextAlignment(.center)
+                            .foregroundStyle(.white)
+                            .shadow(color: .black, radius: 2, x: 0, y: 1)
+                            .padding(.horizontal, 14).padding(.vertical, 6)
+                            .background(.black.opacity(0.55), in: RoundedRectangle(cornerRadius: 8, style: .continuous))
+                            .frame(maxWidth: 900)
+                    }
+                }
+                .padding(.bottom, acimaDosControles ? 130 : 50)
+                .padding(.horizontal, 40)
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .allowsHitTesting(false)
+            }
+        }
+    }
+}
+
 private struct PulosNaTela: View {
     @ObservedObject var model: PlayerModel
     let acimaDosControles: Bool

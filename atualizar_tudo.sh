@@ -137,6 +137,12 @@ if [ "$somente_destaques" = 0 ]; then
   anotar "capas e gêneros dos títulos novos"
   python3 gerar_generos.py >>"$REGISTRO" 2>&1 \
     || anotar "capas e gêneros: falhou, seguindo com as de ontem"
+
+  # O IMDb de cada título, para as legendas: só pergunta pelos que ainda não
+  # conhece, então depois da primeira vez são segundos.
+  anotar "ids do IMDb dos títulos novos (legendas)"
+  python3 gerar_imdb.py >>"$REGISTRO" 2>&1 \
+    || anotar "ids do IMDb: falhou, seguindo com os de ontem"
 fi
 
 # Esta não pode falhar calada: é ela que desenha a primeira tela de todo mundo.
