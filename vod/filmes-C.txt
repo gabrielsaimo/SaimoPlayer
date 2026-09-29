@@ -115,7 +115,7 @@ Cabana da Possessao (2019)	dub=6:1298206
 Cabana da Possessão	dub=2:93628,10:2452033,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48063.mp4,8:93628
 Cabana do Inferno	dub=2:330011,10:2448697,10:2451453,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48073.mp4,8:330011	leg=2:330010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66836.mp4,8:330010
 Cabana do Inferno (2003)	dub=6:1302153
-Cabana do Inferno (2016)	dub=https://embedplayer2.xyz/cdn/hls/83b77e291de178c86e70a613b6539932/master.txt
+Cabana do Inferno (2016)	leg=https://embedplayer2.xyz/cdn/hls/83b77e291de178c86e70a613b6539932/master.txt
 Cabana do Medo: O Último Fim de Semana do Verão	dub=2:375233,10:2459717,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253360.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254714.mp4,8:375233	leg=2:375232,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253355.mp4,8:375232
 Cabare Eldorado O Alvo dos Nazistas (2023)	dub=6:1301569
 Cabaré Eldorado: O Alvo dos Nazistas	dub=2:200323,10:2453218,8:200323	leg=2:200322,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66833.mp4,8:200322
@@ -128,7 +128,7 @@ Cabra Cega (2004)	dub=6:1298735
 Cabra Marcado Para Morrer	dub=2:104400,10:2453066,8:104400
 Cabra Marcado Para Morrer (1984)	dub=6:1309000
 Cabra-Cega	dub=2:125985,10:2450879,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37872.mp4,8:125985
-Cabras da Morte (2023)	dub=https://embedplayer2.xyz/cdn/hls/5915059030433556bc1f6e5c52c7c00e/master.txt,https://embedplayer2.xyz/cdn/hls/cb8ead0a37826d9864877df9b565210b/master.txt,10:2445048
+Cabras da Morte (2023)	dub=https://embedplayer2.xyz/cdn/hls/5915059030433556bc1f6e5c52c7c00e/master.txt,10:2445048	leg=https://embedplayer2.xyz/cdn/hls/cb8ead0a37826d9864877df9b565210b/master.txt
 Cabras da Peste	dub=2:214017,10:2453859,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2571.mp4,8:214017
 Cabras da Peste (2021)	dub=6:1298327
 Cabrini	dub=2:302717,10:2447605,10:2457283,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24435.mp4,8:302717	leg=2:302720,2:288566,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66830.mp4,8:302720,8:288566
@@ -310,7 +310,7 @@ Canguru Jack (2003)	dub=6:1298550
 Canguru Jack: Ola EUA (2004)	dub=6:1312520
 Canibais	dub=2:330495,10:2449732,10:2452328,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48113.mp4,8:330495	leg=2:330494,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66978.mp4,8:330494
 Canibais (2013)	leg=6:1312876
-Canina (2024)	dub=https://embedplayer2.xyz/cdn/hls/e312add69b571ad0d05d6055a53d4fff/master.txt,6:1312973,2:306845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55080.mp4,8:306845,2:306696,10:2447359,10:2460274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13729.mp4,8:306696	leg=6:1312665,2:306697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66973.mp4,8:306697
+Canina (2024)	dub=6:1312973,2:306845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55080.mp4,8:306845,2:306696,10:2447359,10:2460274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13729.mp4,8:306696	leg=https://embedplayer2.xyz/cdn/hls/e312add69b571ad0d05d6055a53d4fff/master.txt,6:1312665,2:306697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66973.mp4,8:306697
 Caninos Brancos	dub=2:177166,2:25486,10:2454100,10:2459154,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2590.mp4,8:177166,8:25486
 Caninos Brancos (1991)	dub=6:1305571
 Caninos Brancos (2018)	dub=6:1307803
@@ -828,7 +828,7 @@ Chapeuzinho Vermelho: Herança de Família (2022)	dub=https://embedplayer2.xyz/c
 Chaplin e os Tempos Modernos	leg=2:387353,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309049.mp4,8:387353
 Chappie	dub=2:396197,2:19969,10:2454696,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2781.mp4,8:396197,8:19969	leg=2:396196,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315680.mp4,8:396196
 Chappie (2015)	dub=6:1301451
-Chapter X (2023)	dub=https://embedplayer2.xyz/cdn/hls/7fd2d2fce3f5e8f44466af319f5edb95/master.txt,10:2449655	leg=6:1309660,2:252785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67452.mp4,8:252785
+Chapter X (2023)	dub=10:2449655	leg=https://embedplayer2.xyz/cdn/hls/7fd2d2fce3f5e8f44466af319f5edb95/master.txt,6:1309660,2:252785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67452.mp4,8:252785
 Charada	dub=2:371867,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250802.mp4,8:371867	leg=2:371866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250459.mp4,8:371866
 Charada (1963)	dub=6:1304176
 Charles Manson Assassinatos Brutais (2018)	dub=6:1302126
@@ -874,7 +874,7 @@ Chatha Pacha: O Ringue do Caos	leg=2:388646,http://dbonline.tech-cdn.top:80/movi
 Che 2: A Guerrilha (2008)	dub=6:1299659
 Che: O Argentino	dub=2:335753,10:2449041,10:2450542,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36888.mp4,8:335753	leg=2:335752,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67483.mp4,8:335752
 Che: O Argentino (2008)	dub=6:1299660
-Cheat (2024)	dub=https://embedplayer2.xyz/cdn/hls/a7a342188f20d136a1e5513320f5754a/master.txt,https://embedplayer2.xyz/cdn/hls/56f8a4349ae61bc91e3139c52d062526/master.txt
+Cheat (2024)	dub=https://embedplayer2.xyz/cdn/hls/a7a342188f20d136a1e5513320f5754a/master.txt	leg=https://embedplayer2.xyz/cdn/hls/56f8a4349ae61bc91e3139c52d062526/master.txt
 Cheech e Chong - Os Irmãos Corsos	dub=2:138862,10:2460364,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13860.mp4,8:138862
 Cheech e Chong - Os Irmãos Corsos (1984)	dub=6:1304289
 Cheetah - Uma Aventura na África (1989)	dub=6:1308678
@@ -995,7 +995,7 @@ Cidade Perdida (2022)	dub=6:1299469
 Cidade Rabat	dub=2:394389,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313730.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313737.mp4,8:394389
 Cidade Rabat (2024)	dub=10:2467329
 Cidade Sitiada (2010)	dub=6:1303999
-Cidade Sob Ameaça (2020)	dub=https://embedplayer2.xyz/cdn/hls/d6dd04e9c8877c33dfb576b1b4ad7d9e/master.txt,6:1303972
+Cidade Sob Ameaça (2020)	dub=6:1303972	leg=https://embedplayer2.xyz/cdn/hls/d6dd04e9c8877c33dfb576b1b4ad7d9e/master.txt
 Cidade Sombria	dub=2:392790,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312540.mp4,8:392790	leg=2:392789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312552.mp4,8:392789
 Cidade Violenta	dub=10:2457668
 Cidade Virtual (2017)	dub=https://embedplayer2.xyz/cdn/hls/20529918b8d8a00faa533a46d0feb26f/master.txt,6:1299099
@@ -1250,7 +1250,7 @@ Colisão	dub=2:162321,2:162320,10:2445920,http://dbonline.tech-cdn.top:80/movie/
 Colisão: Acidente ou Homicídio?	dub=https://embedplayer2.xyz/cdn/hls/dc635d55382d68d1f597d889c055f1f6/master.txt,2:391567,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311323.mp4,8:391567,2:378247,10:2444072,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255488.mp4,8:378247	leg=2:378246,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255447.mp4,8:378246
 Collide	dub=2:189329,10:2445951,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44169.mp4,8:189329	leg=2:189336,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67902.mp4,8:189336
 Collide (2022)	dub=6:1302499
-Collide: Segredos e Mentiras (2022)	dub=https://embedplayer2.xyz/cdn/hls/d8305c7dc6f787d57c91e54f59f14477/master.txt
+Collide: Segredos e Mentiras (2022)	leg=https://embedplayer2.xyz/cdn/hls/d8305c7dc6f787d57c91e54f59f14477/master.txt
 Colombiana - Em Busca de Vinganca	dub=2:21607,10:2446057,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44173.mp4,8:21607
 Colombiana: Em Busca de Vinganca (2011)	dub=6:1300780
 Colonizadores (2021)	leg=https://embedplayer2.xyz/cdn/hls/41985ee6b54f720eec7614084fbc1d8c/master.txt
@@ -1547,7 +1547,7 @@ Congo	dub=2:115503,10:2454367,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Congo (1995)	dub=6:1309269
 Conhecendo o Sr. Natal (2022)	dub=https://embedplayer2.xyz/cdn/hls/109e9b1b6c051da4ac2202bc6b531cbb/master.txt,6:1313384,2:316845,10:2446220,10:2446974,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39752.mp4,8:316845	leg=2:316846,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68232.mp4,8:316846
 Conheça os Pickles: Nos Bastidores de "Ganhar ou Perder"	leg=2:315606,10:2450335,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68238.mp4,8:315606
-Conjuring the Cult (2024)	dub=https://embedplayer2.xyz/cdn/hls/19a742abc53fe9aaf28d94bc4862060c/master.txt,https://embedplayer2.xyz/cdn/hls/b14b5ad28f2e902b19f519e70afc11a4/master.txt
+Conjuring the Cult (2024)	dub=https://embedplayer2.xyz/cdn/hls/19a742abc53fe9aaf28d94bc4862060c/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b14b5ad28f2e902b19f519e70afc11a4/master.txt
 Conquista	dub=2:390262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311003.mp4,8:390262	leg=2:390261,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310668.mp4,8:390261
 Conquista (2021)	dub=6:1302889
 Conquistas Perigosas	dub=2:144053,10:2454125,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2905.mp4,8:144053

@@ -435,7 +435,7 @@ Like Someone In Love	leg=2:68452,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Lila e Eve - Unidas Pela Vingança (2015)	dub=https://embedplayer2.xyz/cdn/hls/c96c67369d8913ff2c16b6b9a8d80a17/master.txt
 Lilian M: Relatório Confidencial	dub=2:370343,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249247.mp4,8:370343
 Lilith Fair: Construindo um Mistério	leg=2:378010,8:378010
-Lilly Lives Alone (2025)	dub=https://embedplayer2.xyz/cdn/hls/aa8ffcb3c3ddb8e41c3ec74a87ca776d/master.txt,10:2457717
+Lilly Lives Alone (2025)	dub=10:2457717	leg=https://embedplayer2.xyz/cdn/hls/aa8ffcb3c3ddb8e41c3ec74a87ca776d/master.txt
 Lilly e o Natal Encantado (2017)	dub=6:1302973
 Lilo & Stitch	dub=https://embedplayer2.xyz/cdn/hls/35e556752717d78a474e6bd4d576a7eb/master.txt,2:343128,10:2444419,10:2448948,10:2459316,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16001.mp4,8:343128	leg=2:343127,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77046.mp4,8:343127
 Lilo & Stitch (2002)	dub=6:1297824
@@ -803,7 +803,7 @@ Lulu Live (2021)	dub=6:1300237
 Lulu, a Rinoceronte	dub=https://embedplayer2.xyz/cdn/hls/db663902b18f3685c5e29dcca07f7080/master.txt,2:365123,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97400.mp4,8:365123,2:324456,10:2444550,8:324456	leg=2:324455,8:324455
 Lumberjack the Monster	dub=10:2448130	leg=2:264728,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77401.mp4,8:264728
 Lumberjack the Monster (2023)	leg=6:1304981
-Lumina (2024)	dub=https://embedplayer2.xyz/cdn/hls/54728a75fb918d179a53e19df28950c2/master.txt,https://embedplayer2.xyz/cdn/hls/9344ebd311651148091b4cd554fb9d5e/master.txt
+Lumina (2024)	dub=https://embedplayer2.xyz/cdn/hls/54728a75fb918d179a53e19df28950c2/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9344ebd311651148091b4cd554fb9d5e/master.txt
 Lumière! A Aventura Continua	leg=2:372181,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250635.mp4,8:372181
 Luna: Em Busca da Verdade	dub=2:30411,2:21630,10:2445617,10:2446014,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44815.mp4,8:30411,8:21630
 Luna: Em Busca da Verdade (2018)	dub=6:1307607

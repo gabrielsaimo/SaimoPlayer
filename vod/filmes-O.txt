@@ -842,7 +842,7 @@ O Céu Não Pode Esperar (2023)	dub=https://embedplayer2.xyz/cdn/hls/ac0421e036f
 O Céu Não Sabe Meu Nome (2024)	dub=https://embedplayer2.xyz/cdn/hls/e96aa9d20cd24893e5c9b649e00b8a15/master.txt,2:393039,10:2444316,10:2444363,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312567.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312575.mp4,8:393039	leg=2:393038,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312557.mp4,8:393038
 O Céu Pode Esperar	dub=2:142424,10:2458443,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34301.mp4,8:142424
 O Céu Pode Esperar (1978)	dub=6:1304267
-O Céu Pode Esperar (2001)	dub=https://embedplayer2.xyz/cdn/hls/13c85be2974e5f1e42d5802b3e855773/master.txt,6:1313333
+O Céu Pode Esperar (2001)	dub=6:1313333	leg=https://embedplayer2.xyz/cdn/hls/13c85be2974e5f1e42d5802b3e855773/master.txt
 O Céu Que Nos Protege (1990)	dub=6:1307324
 O Céu de Outubro	dub=2:365268,10:2449864,10:2456789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28773.mp4,8:365268	leg=2:365267,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81642.mp4,8:365267
 O Céu de Outubro (1999)	dub=6:1307157
@@ -1296,7 +1296,7 @@ O Falcão Maltês (1931)	dub=6:1302415
 O Falsario (2025)	dub=https://embedplayer2.xyz/cdn/hls/8fd386cbf5d4acc953f9ba822d3fcdac/master.txt,6:1314256,2:363761,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57435.mp4,8:363761,2:363689,10:2444962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53600.mp4,8:363689	leg=2:363688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82132.mp4,8:363688
 O Falsificador	dub=2:212426,10:2455176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28934.mp4,8:212426	leg=2:212425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82135.mp4,8:212425
 O Falsificador (2011)	dub=6:1303793
-O Falsificador (2022)	dub=https://embedplayer2.xyz/cdn/hls/303c1d9aa12fcac3cda4b390debf3272/master.txt,6:1311537	leg=6:1311538
+O Falsificador (2022)	dub=6:1311537	leg=https://embedplayer2.xyz/cdn/hls/303c1d9aa12fcac3cda4b390debf3272/master.txt,6:1311538
 O Fantasma	dub=2:351004,2:97195,10:2453305,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5660.mp4,8:351004,8:97195	leg=2:351003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82139.mp4,8:351003
 O Fantasma (1996)	dub=6:1309064
 O Fantasma Vermelho	dub=2:169147,10:2450509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37029.mp4,8:169147	leg=2:169145,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82149.mp4,8:169145
@@ -1681,7 +1681,7 @@ O Homem na Estrada (2022)	dub=https://embedplayer2.xyz/cdn/hls/a2cf193db2c4b1df1
 O Homem nas Trevas (2016)	dub=https://embedplayer2.xyz/cdn/hls/3e3eaed96148e912b3ce45a91d49bee1/master.txt,6:1298065,2:394531,2:21641,10:2445912,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45255.mp4,8:394531,8:21641	leg=2:394530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313948.mp4,8:394530
 O Homem nas Trevas 2	dub=2:129538,10:2454578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5752.mp4,8:129538	leg=2:125980,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82483.mp4,8:125980
 O Homem nas Trevas 2 (2021)	dub=6:1299027	leg=6:1298734
-O Homem no Meu Porão (2025)	dub=https://embedplayer2.xyz/cdn/hls/c99d517feef6ebf05091cda0c4765076/master.txt,https://embedplayer2.xyz/cdn/hls/dabcb363e12c04a1ddd551c067708d3e/master.txt	leg=6:1313867,2:345480,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82478.mp4,8:345480
+O Homem no Meu Porão (2025)	dub=https://embedplayer2.xyz/cdn/hls/dabcb363e12c04a1ddd551c067708d3e/master.txt	leg=https://embedplayer2.xyz/cdn/hls/c99d517feef6ebf05091cda0c4765076/master.txt,6:1313867,2:345480,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82478.mp4,8:345480
 O Homem por Trás do Uniforme	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98131.mp4
 O Homem que Amava Discos Voadores	dub=2:291166,10:2450029,10:2455132,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29089.mp4,8:291166	leg=2:291167,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82499.mp4,8:291167
 O Homem que Amava Discos Voadores (2024)	dub=6:1312306

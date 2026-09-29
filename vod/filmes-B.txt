@@ -438,7 +438,7 @@ Becoming Cousteau	dub=2:140792,10:2452765,8:140792	leg=2:140804,http://dbonline.
 Becoming Cousteau (2021)	dub=6:1304769	leg=6:1304770
 Becoming Led Zeppelin	dub=https://embedplayer2.xyz/cdn/hls/3cf6d3abf70624131887e845e3acb0ce/master.txt	leg=2:344520,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65940.mp4,8:344520
 Becoming Madonna	dub=2:340961,10:2448258,10:2453375,8:340961	leg=2:340960,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65945.mp4,8:340960
-Bed of Nails (2024)	dub=https://embedplayer2.xyz/cdn/hls/eb6e3b5c808e8e598a6237a033463661/master.txt,https://embedplayer2.xyz/cdn/hls/30704eb0816394f09f025b89e5b17ed8/master.txt
+Bed of Nails (2024)	dub=https://embedplayer2.xyz/cdn/hls/eb6e3b5c808e8e598a6237a033463661/master.txt	leg=https://embedplayer2.xyz/cdn/hls/30704eb0816394f09f025b89e5b17ed8/master.txt
 Bedlam (1946)	dub=6:1310019
 Bee Movie A Historia de uma Abelha (2007)	dub=6:1297821
 Bee Movie: A História de uma Abelha	dub=2:92597,10:2459423,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8930.mp4,8:92597
@@ -836,7 +836,7 @@ Blueback: Uma Amizade Profunda	dub=2:276094,2:250603,10:2449390,10:2456082,http:
 Blush	dub=2:130415,10:2458714,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35597.mp4,8:130415	leg=2:130412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66419.mp4,8:130412
 Blush (2021)	dub=6:1304807	leg=6:1304808
 BoBoiBoy Movie 2	dub=2:297414,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9059.mp4,8:297414
-Boa Menina (2024)	dub=https://embedplayer2.xyz/cdn/hls/510b1a0a7df1a03bfc66f200f029561f/master.txt
+Boa Menina (2024)	leg=https://embedplayer2.xyz/cdn/hls/510b1a0a7df1a03bfc66f200f029561f/master.txt
 Boa Menina Da Mafia	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302179.mp4	leg=2:389507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302670.mp4,8:389507
 Boa Menina do Daddy Dom	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303035.mp4
 Boa Noite	dub=2:217284,10:2451057,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37816.mp4,8:217284
@@ -1321,7 +1321,7 @@ Buzz (2019)	dub=6:1302163
 By the Stream (2024)	leg=6:1312517
 Bye Bye Brasil	dub=2:328972,10:2450739,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37868.mp4,8:328972
 Bye Bye Brasil (1980)	dub=6:1301239,6:1301344
-Byzantium: Uma Vida Eterna (2013)	dub=https://embedplayer2.xyz/cdn/hls/8fefdf3334cfe37e9b8550d38f2dcec7/master.txt
+Byzantium: Uma Vida Eterna (2013)	leg=https://embedplayer2.xyz/cdn/hls/8fefdf3334cfe37e9b8550d38f2dcec7/master.txt
 Bâtiment 5	leg=2:278675,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66827.mp4,8:278675
 Börü: Esquadrão Lobo - O Filme	dub=10:2455272
 Börü: Esquadrão Lobo - O Filme (2018)	dub=6:1308340

@@ -249,7 +249,7 @@ Jogo Entre Ladrões (2009)	dub=6:1303928
 Jogo Justo	dub=2:219159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56411.mp4,8:219159,2:218864,10:2457278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27072.mp4,8:218864	leg=2:218865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75912.mp4,8:218865
 Jogo Justo (2023)	dub=6:1302582
 Jogo Pela Sobrevivência	dub=2:368219,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98824.mp4,8:368219	leg=2:368218,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99021.mp4,8:368218
-Jogo Perfeito (2022)	dub=https://embedplayer2.xyz/cdn/hls/429632244049e4b0a9aaa9b72d1006b0/master.txt
+Jogo Perfeito (2022)	leg=https://embedplayer2.xyz/cdn/hls/429632244049e4b0a9aaa9b72d1006b0/master.txt
 Jogo Perigoso	dub=10:2453477,6:1310756	leg=2:136791,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75919.mp4,8:136791
 Jogo Perigoso (2017)	dub=https://embedplayer2.xyz/cdn/hls/12460429e4ea2ee262512a7e1a28a55e/master.txt,2:21014,10:2457641,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27077.mp4,8:21014	leg=6:1304394
 Jogo Perigoso (2022)	dub=2:136775,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4378.mp4,8:136775
@@ -538,7 +538,7 @@ Juno (2007)	dub=6:1300485
 Juntas no Crime	dub=2:41201,10:2453619,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4447.mp4,8:41201
 Juntas no Crime (2019)	dub=6:1308360
 Juntos	dub=2:344352,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56491.mp4,8:344352,2:343968,10:2444657,10:2445288,10:2448020,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49467.mp4,8:343968	leg=2:343967,2:340990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76135.mp4,8:343967,8:340990
-Juntos (2021)	dub=https://embedplayer2.xyz/cdn/hls/fc26222327719ed0585263190ebdd6b7/master.txt,6:1301175
+Juntos (2021)	dub=6:1301175	leg=https://embedplayer2.xyz/cdn/hls/fc26222327719ed0585263190ebdd6b7/master.txt
 Juntos (2025)	dub=6:1313826	leg=6:1313825
 Juntos Mas Separados	dub=2:185243,10:2460384,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15855.mp4,8:185243	leg=2:185260,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76149.mp4,8:185260
 Juntos Mas Separados (2021)	dub=6:1300210
