@@ -381,6 +381,12 @@ def main():
             else:
                 novos_filmes += 1
         somar_filme(k, direto)
+        # Até 28/09/2026 o Redeflix gravava toda fonte de filme como dub=, e o
+        # acervo publicado guardou as legendadas no lugar das dubladas.
+        legendadas = set(direto["versoes"].get("leg", []))
+        if legendadas:
+            registro = filmes[k]
+            registro["versoes"]["dub"] = [u for u in registro["versoes"]["dub"] if u not in legendadas]
     for k, direto in diretos_series.items():
         if k not in series:
             dono = next((onde_mora_s[u] for v in direto["eps"].values() for u in v
@@ -390,6 +396,19 @@ def main():
             else:
                 novas_series += 1
         somar_serie(k, direto)
+    # Dublado achado para o que só havia legendado (dublar_legendados.py). Os
+    # arquivos já vêm com o título do acervo, então só entram em título que
+    # existe — nunca abrem um cartão novo.
+    dublados_f = dublados_e = 0
+    for k, direto in links_diretos_de_filmes([redeflix / "dublados-filmes.txt"]).items():
+        if k in filmes:
+            somar_filme(k, direto)
+            dublados_f += 1
+    for k, direto in links_diretos_de_series([redeflix / "dublados-series.txt"]).items():
+        if k in series:
+            somar_serie(k, direto)
+            dublados_e += len(direto["eps"])
+    print(f"dublado no lugar do só legendado: {dublados_f} filmes, {dublados_e} episódios")
     # Por fim o FenixFlix (atualizar_fenix.py): só para títulos que o acervo
     # já tem, e atrás das fontes deles — é uma opção a mais, não a primeira.
     # Os arquivos são refeitos pelo passo dele, então não precisam ser

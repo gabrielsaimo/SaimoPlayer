@@ -40,6 +40,10 @@
 #                                    tem, uma a uma e em ordem: para no primeiro
 #                                    episódio que não achar, para não deixar a
 #                                    série com episódios salteados
+#   ./atualizar_tudo.sh --dublados   tudo, e procura de novo o dublado de TODO
+#                                    filme e episódio que o app só tem legendado
+#                                    (na rodada normal, só o que não foi tentado
+#                                    na última semana)
 #   ./atualizar_tudo.sh --sem-subir  faz, mostra, mas não commita nem empurra
 #
 # Sem terminal nenhum, todo dia: ver `scripts/agendar_atualizacao.sh`.
@@ -55,8 +59,10 @@ completo=0
 categorias_completo="filmes,series,animes,doramas"
 so_do_acervo=""
 subir=1
+dias_dublados=7
 for argumento in "$@"; do
   case "$argumento" in
+    --dublados) dias_dublados=0 ;;
     --destaques) somente_destaques=1 ;;
     --completo) completo=1 ;;
     --completo=*) completo=1; categorias_completo="${argumento#--completo=}" ;;
@@ -116,6 +122,12 @@ elif [ "$somente_destaques" = 0 ]; then
 fi
 
 if [ "$somente_destaques" = 0 ]; then
+  # O que o app só tem legendado: procura o dublado pelo id do TMDB. Lê o
+  # acervo publicado, então o que entrar legendado hoje é procurado amanhã.
+  anotar "procurando dublado do que só tem legendado$([ "$dias_dublados" = 0 ] && echo " (tudo de novo)")"
+  python3 dublar_legendados.py --workers 96 --dias-repescagem "$dias_dublados" \
+    >>"$REGISTRO" 2>&1 || anotar "dublados: falhou, seguindo assim mesmo"
+
   # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
   # parar a atualização inteira por causa de uma lista M3U fora do ar.
   anotar "montando o acervo (listas M3U + Redeflix)"

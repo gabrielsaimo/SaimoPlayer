@@ -642,6 +642,20 @@ def generate(movie_ids: list[str], collections: dict[str, list[dict]], args) -> 
     return {"pendentes_processados": len(tasks), "arquivos_alterados": changed}
 
 
+def movie_versions(sources) -> list[str]:
+    """Campos "dub=..." e "leg=..." de um filme, cada fonte na versão dela.
+
+    Até 28/09/2026 tudo saía como dub=, e o filme que o EmbedPlayer só tinha
+    legendado aparecia no app como dublado.
+    """
+    fields = []
+    for language in ("dub", "leg"):
+        urls = [s.url for s in sources if (s.language == "leg") == (language == "leg")]
+        if urls:
+            fields.append(f"{language}=" + ",".join(dict.fromkeys(urls)))
+    return fields
+
+
 def write_outputs(cache, movie_ids, collections) -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     movie_lines = []
@@ -650,8 +664,8 @@ def write_outputs(cache, movie_ids, collections) -> None:
         if not item or item.status != "encontrado" or not item.sources:
             continue
         title = item.title + (f" ({item.year})" if item.year else "")
-        urls = ",".join(dict.fromkeys(source.url for source in item.sources))
-        movie_lines.append(f"{title}\tdub={urls}\ttmdb={tmdb}\timdb={item.imdb}")
+        versions = "\t".join(movie_versions(item.sources))
+        movie_lines.append(f"{title}\t{versions}\ttmdb={tmdb}\timdb={item.imdb}")
     movie_text = "\n".join(movie_lines) + ("\n" if movie_lines else "")
     atomic_write(OUTPUT / "filmes.txt", movie_text)
     atomic_write(STATE / "links-filmes.txt", movie_text)
