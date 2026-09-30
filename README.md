@@ -1,6 +1,8 @@
 <div align="center">
 
-# Saimo TV
+<a href="https://saimo-tv.pages.dev"><img src="https://raw.githubusercontent.com/gabrielsaimo/gabrielsaimo/main/saimo-tv/banner.svg" alt="Saimo TV: canais ao vivo, filmes e séries em qualquer tela" width="100%"></a>
+
+<h1>Saimo TV</h1>
 
 ### canais ao vivo, filmes e séries — na TV, no celular, no computador e no navegador
 
@@ -22,6 +24,10 @@
 </p>
 
 </div>
+
+<p align="center">
+  Saimo TV: <a href="https://github.com/gabrielsaimo/SaimoTV-Android">TV Box</a> · <a href="https://github.com/gabrielsaimo/Saimo-Cell-V2">Celular</a> · <a href="https://github.com/gabrielsaimo/SaimoWin">Windows</a> · <b>Mac e catálogo</b> · <a href="https://github.com/gabrielsaimo/Saimo-TV">Site</a> · <a href="https://github.com/gabrielsaimo">todos os apps</a>
+</p>
 
 ## Sobre
 
