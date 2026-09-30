@@ -87,7 +87,7 @@ O Albergue (2006)	dub=https://embedplayer2.xyz/cdn/hls/a7d1fb2d91852c8f206df10cb
 O Albergue 2 (2007)	dub=https://embedplayer2.xyz/cdn/hls/5b508f1fdd338b766adbfdab8e010e3c/master.txt,6:1297516,2:382996,2:104504,10:2452134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50103.mp4,8:382996,8:104504	leg=2:382995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301164.mp4,8:382995
 O Albergue 3 (2011)	dub=https://embedplayer2.xyz/cdn/hls/870d3defd7e7dc6d29707e978eb08ada/master.txt,6:1297517,2:104505,10:2451799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50108.mp4,8:104505
 O Alecrim e o Sonho	dub=2:390277,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310714.mp4,8:390277
-O Alerta	leg=2:393699,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313376.mp4,8:393699
+O Alerta	dub=https://embedplayer2.xyz/cdn/hls/5d35d964b92098b6d4c65686b85664e3/master.txt	leg=2:393699,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313376.mp4,8:393699
 O Alfa Rei e sua Noiva Virgem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302909.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302910.mp4
 O Alfaiate	dub=2:179741,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57270.mp4,8:179741,2:173294,10:2459767,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21599.mp4,8:173294	leg=2:173306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/80950.mp4,8:173306
 O Alfaiate (2022)	dub=6:1301117
@@ -3413,8 +3413,7 @@ O Tesouro Fofo Contra Ataca	dub=2:389629,http://dbonline.tech-cdn.top:80/movie/k
 O Tesouro Perdido	dub=2:162013,2:161984,10:2454273,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6072.mp4,8:162013,8:161984
 O Tesouro Perdido (2020)	dub=6:1306420
 O Tesouro da Montanha Nebulosa (2023)	dub=https://embedplayer2.xyz/cdn/hls/480db5e7ddd7441ace308b7af90b9393/master.txt,6:1303131,2:316755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57751.mp4,8:316755,2:246443,10:2449339,10:2461251,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18042.mp4,8:246443	leg=2:246444,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84149.mp4,8:246444
-O Tesouro de Natal	dub=https://embedplayer2.xyz/cdn/hls/4a25195e899d561007665728142899e5/master.txt,2:353764,2:288580,10:2445428,10:2446258,10:2447163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/937.mp4,8:353764,8:288580	leg=2:353763,2:288581,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84154.mp4,8:353763,8:288581
-O Tesouro de Natal (2021)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301197.mp4
+O Tesouro de Natal (2021)	dub=https://embedplayer2.xyz/cdn/hls/4a25195e899d561007665728142899e5/master.txt,2:353764,2:288580,10:2445428,10:2446258,10:2447163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/937.mp4,8:353764,8:288580	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301197.mp4,2:353763,2:288581,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84154.mp4,8:353763,8:288581
 O Tesouro de Sarah (2025)	dub=https://embedplayer2.xyz/cdn/hls/1f75676b66c9f064e674f510eddbdbde/master.txt,6:1314571,2:376735,2:376729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253759.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253760.mp4,8:376735,8:376729,2:376728,10:2444667,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253796.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254805.mp4,8:376728	leg=2:376727,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253836.mp4,8:376727
 O Tesouro de Sierra Madre	dub=2:108296,10:2446799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35140.mp4,8:108296
 O Tesouro de Sierra Madre (1948)	dub=6:1307437
@@ -3903,7 +3902,7 @@ Oliver e Sua Turma (1988)	dub=6:1309718
 Oliver!	dub=2:128548,10:2457597,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30093.mp4,8:128548
 Oliver! (1968)	dub=6:1305031
 Olá, Adeus e Tudo Mais	dub=2:164195,10:2446647,8:164195	leg=2:164197,8:164197
-Omniscient Reader: The Prophecy	leg=2:351555,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84653.mp4,8:351555
+Omniscient Reader: The Prophecy	dub=https://embedplayer2.xyz/cdn/hls/7fec8d94e59f8ea8240b2ef847786ed9/master.txt	leg=2:351555,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84653.mp4,8:351555
 On the Rocks	dub=2:273023,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57818.mp4,8:273023,2:134036,2:82564,10:2457312,10:2461025,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18149.mp4,8:134036,8:82564	leg=2:134088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84664.mp4,8:134088
 On the Rocks (2020)	dub=6:1304531	leg=6:1304532
 Once Halloween 3	dub=10:2451468
@@ -3954,7 +3953,7 @@ One Day At Disney	leg=2:64398,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 One Day as a Lion	dub=2:217281,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6230.mp4,8:217281	leg=2:217282,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84719.mp4,8:217282
 One Hit Wonder	dub=2:340266,10:2446167,10:2447984,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42533.mp4,8:340266	leg=2:340265,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84722.mp4,8:340265
 One Last Shot	dub=8:398597	leg=8:398596
-One Night In Bangkok	leg=2:69606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84725.mp4,8:69606
+One Night In Bangkok	dub=https://embedplayer2.xyz/cdn/hls/b9dc0a4ca23a4a18a7b25b261b2cc22d/master.txt	leg=2:69606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/84725.mp4,8:69606
 One Night Off	dub=2:160616,10:2453885,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6231.mp4,8:160616
 One Night Off (2021)	dub=6:1299437
 One Piece 3D2Y	dub=2:360865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52835.mp4,8:360865
@@ -5048,6 +5047,6 @@ os Guerreiros do Futuro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Óvnis: Tecnologias Ultrassecretas	dub=2:276009,10:2452570,8:276009
 Ônibus 174	dub=2:355749,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39656.mp4,8:355749
 Öldürdüğün Şeyler (2025)	dub=https://embedplayer2.xyz/cdn/hls/6a3bae82b5ef2e5fe397261cff762ba8/master.txt
-Öngörü	leg=2:394472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313963.mp4,8:394472
+Öngörü	dub=https://embedplayer2.xyz/cdn/hls/95c7b1fcacd4f1ea2b84e4d2536a4642/master.txt	leg=2:394472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313963.mp4,8:394472
 ‎Operação Panda: Missão Resgate	dub=10:2455119
 “O Morro dos Ventos Uivantes”	dub=https://embedplayer2.xyz/cdn/hls/eee33bf7c2af350ecc876d93e7deb817/master.txt,2:372425,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250916.mp4,8:372425,2:371685,2:303061,10:2444767,10:2456711,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29362.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250513.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254862.mp4,8:371685,8:303061	leg=2:371684,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250507.mp4,8:371684

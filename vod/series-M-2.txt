@@ -2980,7 +2980,9 @@
 1	5	leg	3:368064,9:368064
 1	6	leg	3:369290,9:369290
 1	7	leg	3:370821,9:370821
+1	8	dub	https://embedplayer2.xyz/cdn/hls/57a39af9696db1562b0196e2c88bb124/master.txt
 1	8	leg	3:371631,9:371631
+1	9	dub	https://embedplayer2.xyz/cdn/hls/efba71898a3ac2220715de4484d558c3/master.txt
 1	9	leg	3:372618,9:372618
 @Memórias de Alhambra
 1	1	leg	11:2288392

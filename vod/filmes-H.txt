@@ -34,7 +34,7 @@ Hala	dub=2:367698,2:40617,2:40593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Hala (2019)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300778.mp4,6:1308177
 Hallelujah: Leonard Cohen, Uma Jornada, Uma canção	dub=2:252169,10:2453285,8:252169	leg=2:252170,8:252170
 Hallelujah: Leonard Cohen, Uma Jornada, Uma canção (2022)	dub=6:1311398	leg=6:1311399
-Hallow Road	leg=2:340243,10:2448221,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74090.mp4,8:340243
+Hallow Road	dub=https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a819/master.txt	leg=2:340243,10:2448221,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74090.mp4,8:340243
 Hallow Road Caminho Sem Volta (2025)	dub=https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a819/master.txt,6:1314334,2:367411,10:2444501,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98402.mp4,8:367411	leg=6:1314333,2:367410,2:350964,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74095.mp4,8:367410,8:350964
 Halloween '63	dub=10:2451859
 Halloween '87	dub=10:2452412
@@ -273,8 +273,7 @@ Herdeira Unica no Mundo	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392
 Herdeira Verdadeira VS Rainha Falsa	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303236.mp4
 Herdeiro (2021)	dub=https://embedplayer2.xyz/cdn/hls/231ebba3ee5a08a01ede4a3ee19b9fab/master.txt
 Here	dub=10:2448832	leg=2:318435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74321.mp4,8:318435
-Here After	dub=https://embedplayer2.xyz/cdn/hls/16d4ead645c0c0cb0e91f56b46687097/master.txt,10:2450257	leg=2:286604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74326.mp4,8:286604
-Here After (2024)	leg=6:1312108
+Here After (2024)	dub=https://embedplayer2.xyz/cdn/hls/16d4ead645c0c0cb0e91f56b46687097/master.txt,10:2450257	leg=6:1312108,2:286604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74326.mp4,8:286604
 Hereditario (2018)	dub=6:1297509
 Hereditário	dub=2:382404,2:21755,10:2451318,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249268.mp4,8:382404,8:21755	leg=2:382403,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301111.mp4,8:382403
 Herege (2024)	dub=https://embedplayer2.xyz/cdn/hls/de30761ab7ef4379ad713edfaef20a48/master.txt,6:1312794,2:301147,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56170.mp4,8:301147,2:301146,10:2448666,10:2452360,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49169.mp4,8:301146	leg=6:1312560,2:301148,2:299620,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74337.mp4,8:301148,8:299620
@@ -328,7 +327,7 @@ Hierarquia do Crime (2025)	dub=https://embedplayer2.xyz/cdn/hls/e6bbca450cf352b7
 High Flying Bird	dub=2:22027,10:2456293,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26657.mp4,8:22027
 High Flying Bird (2019)	dub=6:1308049
 High Forces	leg=2:383777,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306382.mp4,8:383777
-High Ground	leg=2:335234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74405.mp4,8:335234
+High Ground	dub=https://embedplayer2.xyz/cdn/hls/daf23438d177466b4f441bd2021faf46/master.txt	leg=2:335234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74405.mp4,8:335234
 High Ground Cerco Fechado (2025)	dub=https://embedplayer2.xyz/cdn/hls/daf23438d177466b4f441bd2021faf46/master.txt,6:1314071,10:2445226	leg=10:2449265
 High Life - Uma Nova Vida	dub=2:88667,10:2458757,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34002.mp4,8:88667
 High Life Legendado	dub=2:22864,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74400.mp4,8:22864

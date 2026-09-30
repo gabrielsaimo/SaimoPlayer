@@ -4078,12 +4078,17 @@
 8	7	dub	https://embedplayer2.xyz/cdn/hls/f501ee05a60392b1fea433ea196b527a/master.txt,3:397086,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316171.mp4,9:397086
 8	8	dub	3:397087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316172.mp4,9:397087
 @RuPaul's Drag Race Global All Stars
+1	1	dub	https://embedplayer2.xyz/cdn/hls/1bc36009d34082d68f3586a890763fd9/master.txt
 1	1	leg	11:2293124
 1	2	leg	11:2293125
+1	3	dub	https://embedplayer2.xyz/cdn/hls/4628e932ff009b4f3b1ef3ea7a610863/master.txt
 1	3	leg	11:2293126
+1	4	dub	https://embedplayer2.xyz/cdn/hls/3ccf2694d5ccce92f2241a6191be6bfc/master.txt
 1	4	leg	11:2293127
+1	5	dub	https://embedplayer2.xyz/cdn/hls/7944474f1cdb1e303ee7d5dafcf578d9/master.txt
 1	5	leg	11:2293128
 1	6	leg	11:2293129
+1	7	dub	https://embedplayer2.xyz/cdn/hls/85c02957c7594b432ad92798635c8205/master.txt
 1	7	leg	11:2293130
 1	8	leg	11:2293131
 1	9	leg	11:2293132

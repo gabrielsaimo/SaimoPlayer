@@ -145,7 +145,7 @@ A Batalha do Biscoito PopTart (2024)	dub=6:1303591
 A Batalha do Passinho - O Filme	dub=2:340131,10:2453132,8:340131
 A Batalha do Planeta dos Macacos (1973)	dub=https://embedplayer2.xyz/cdn/hls/a4591dc4fc73b0e27a29a146f898c641/master.txt,6:1305029,2:128833,10:2458722,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35380.mp4,8:128833
 A Batida Perfeita (2020)	dub=6:1299857
-A Beautiful Day In The Neighborhood	leg=https://embedplayer2.xyz/cdn/hls/578ede3a611d792bc704617dc451b5c3/master.txt,2:34758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60168.mp4,8:34758
+A Beautiful Day In The Neighborhood	dub=https://embedplayer2.xyz/cdn/hls/578ede3a611d792bc704617dc451b5c3/master.txt	leg=https://embedplayer2.xyz/cdn/hls/578ede3a611d792bc704617dc451b5c3/master.txt,2:34758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60168.mp4,8:34758
 A Beautiful Imperfection (2024)	leg=6:1312649
 A Beira do Abismo (2012)	dub=6:1301827
 A Bela Adormecida (1959)	dub=https://embedplayer2.xyz/cdn/hls/fc5186f24243a678684b9a185e7cde7b/master.txt,6:1309409,2:21391,10:2450638,10:2459270,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37244.mp4,8:21391
@@ -1895,7 +1895,7 @@ A Noite Sempre Chega (2025)	dub=https://embedplayer2.xyz/cdn/hls/290816b5bb42044
 A Noite das Brincadeiras Mortais	dub=10:2452317,10:2452923
 A Noite das Brincadeiras Mortais (1986)	dub=6:1307342,6:1308896
 A Noite das Bruxas	dub=2:223851,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54246.mp4,8:223851,2:363863,2:223850,10:2445763,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43658.mp4,8:363863,8:223850	leg=2:363862,2:223852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61860.mp4,8:363862,8:223852
-A Noite das Bruxas (2019)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300989.mp4
+A Noite das Bruxas (2019)	dub=https://embedplayer2.xyz/cdn/hls/54bdaa73dbbcd682edd246cba3923233/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300989.mp4
 A Noite das Bruxas (2023)	dub=https://embedplayer2.xyz/cdn/hls/dc8dbe1db6fb29c183a23f3ca40b1762/master.txt,6:1302739	leg=6:1302738
 A Noite das Vampiras	dub=2:209529,10:2450853,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37557.mp4,8:209529
 A Noite das Vampiras (2023)	dub=6:1309543
@@ -2351,8 +2351,7 @@ A SUA PAIXAO SECRETA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083
 A Sabiá Sabiazinha	dub=2:140694,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8520.mp4,8:140694	leg=2:140717,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62283.mp4,8:140717
 A Sabiá Sabiazinha (2021)	dub=6:1304613	leg=6:1304614
 A Sacada (2016)	dub=https://embedplayer2.xyz/cdn/hls/8abe71a244ce2efe798b77d3f1524990/master.txt,6:1302014,2:387033,2:43803,10:2445887,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43726.mp4,8:387033,8:43803	leg=2:387032,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308817.mp4,8:387032
-A Sacrifice	dub=10:2450086	leg=2:275478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62294.mp4,8:275478
-A Sacrifice (2024)	leg=6:1311578
+A Sacrifice (2024)	dub=https://embedplayer2.xyz/cdn/hls/a3f0b1bf291f25757e165361ba3c6ff9/master.txt,10:2450086	leg=6:1311578,2:275478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62294.mp4,8:275478
 A Saga Crepusculo: Amanhecer - Parte 1 (2011)	dub=https://embedplayer2.xyz/cdn/hls/32d65ebb98e2810d44a845c20195113d/master.txt,6:1298239,10:2457645
 A Saga Crepusculo: Amanhecer - Parte 2 (2012)	dub=6:1298238
 A Saga Crepusculo: Eclipse (2010)	dub=https://embedplayer2.xyz/cdn/hls/930e5e7196c0ec839c11d1311df9eebd/master.txt,6:1298240,10:2457729
@@ -3728,7 +3727,7 @@ Alienoide: Corrida Para o Futuro (2024)	dub=https://embedplayer2.xyz/cdn/hls/bf4
 Aliens: O Resgate	dub=2:285107,10:2458460,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35486.mp4,8:285107
 Aliens: O Resgate (1986)	dub=6:1311886	leg=6:1311885
 Alienígena (2024)	dub=https://embedplayer2.xyz/cdn/hls/3bfc536c77e4479118416f1ecdceffb6/master.txt
-Alienóide: O Regresso ao Futuro	leg=2:366995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97722.mp4,8:366995
+Alienóide: O Regresso ao Futuro	dub=https://embedplayer2.xyz/cdn/hls/bf432562cf13478955ceac577aad4a15/master.txt	leg=2:366995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97722.mp4,8:366995
 Alimento de Família	leg=2:378009,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254643.mp4,8:378009
 Alita Anjo De Combate	dub=2:26569,2:26394,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54442.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54447.mp4,8:26569,8:26394,2:98809,10:2453922,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1940.mp4,8:98809
 Alita Battle Angel Legendado	dub=2:25123,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63445.mp4,8:25123
@@ -4840,7 +4839,7 @@ Arrume um Emprego (2016)	dub=6:1301881
 Arsenal (2017)	dub=https://embedplayer2.xyz/cdn/hls/fb69897dcee4c64a128f7616def6644a/master.txt,6:1307583,2:72654,10:2453274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2092.mp4,8:72654
 Arte Negra - Na Ausência da Luz	dub=2:141552,10:2453032,8:141552	leg=2:141532,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64710.mp4,8:141532
 Arte Negra - Na Ausência da Luz (2021)	dub=6:1304224	leg=6:1304225
-Artemis Fowl	leg=2:48167,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64736.mp4,8:48167
+Artemis Fowl	dub=https://embedplayer2.xyz/cdn/hls/328615e84bb93bc35d28994ab0e0e5b2/master.txt	leg=2:48167,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64736.mp4,8:48167
 Artemis Fowl: O Mundo Secreto (2020)	dub=https://embedplayer2.xyz/cdn/hls/328615e84bb93bc35d28994ab0e0e5b2/master.txt,6:1298219,2:87211,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54639.mp4,8:87211
 Arthur & Diana	leg=2:394383,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313713.mp4,8:394383
 Arthur & Merlin Cavaleiros de Camelot.1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250919.mp4

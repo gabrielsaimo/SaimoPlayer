@@ -530,7 +530,7 @@ Fogo Contra Fogo (2023)	dub=https://embedplayer2.xyz/cdn/hls/4d66de4f71907865384
 Fogo Cruzado	dub=2:314001,2:146817,10:2449378,10:2454817,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3729.mp4,8:314001,8:146817	leg=2:314002,2:146814,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72754.mp4,8:314002,8:146814
 Fogo Cruzado (2021)	dub=6:1301525
 Fogo Cruzado (2023)	dub=https://embedplayer2.xyz/cdn/hls/e3ecc6cbac2d882be2d205ccf93dc767/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300817.mp4
-Fogo Sombrio (2020)	leg=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt,6:1308878
+Fogo Sombrio (2020)	dub=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt	leg=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt,6:1308878
 Fogo e Gelo (2008)	dub=6:1302185
 Fogo no Coracao (2018)	dub=6:1301320
 Fogo no Coração	dub=2:151971,10:2455743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26182.mp4,8:151971	leg=2:151994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72775.mp4,8:151994
@@ -545,7 +545,7 @@ Foi um Prazer (2023)	leg=6:1311640
 Foi um Rápido Verão, Charlie Brown	dub=2:323980,8:323980	leg=2:323979,8:323979
 Foi um Tempo de Dor	dub=2:339763,10:2451127,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38260.mp4,8:339763
 Folhas de Outono (2023)	dub=https://embedplayer2.xyz/cdn/hls/b234f0c4815ff76d45170abb8563b676/master.txt	leg=6:1311712,2:249703,2:246188,10:2450348,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72782.mp4,8:249703,8:246188
-Follow Me	leg=2:90736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72791.mp4,8:90736
+Follow Me	dub=https://embedplayer2.xyz/cdn/hls/b1cf5b152416fcb3bfd2e5074aba409c/master.txt	leg=2:90736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72791.mp4,8:90736
 Followed: Influência Maligna	dub=2:96847,10:2451553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48945.mp4,8:96847
 Followed: Influência Maligna (2020)	dub=6:1308105
 Following	leg=2:363800,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72790.mp4,8:363800
@@ -828,7 +828,7 @@ Freaknik: A Festa Mais Selvagem (2024)	leg=6:1309461
 Freaks Legendado	dub=https://embedplayer2.xyz/cdn/hls/e8662e8b6e1665135a99e6d7527f2612/master.txt,2:31743,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72974.mp4,8:31743	leg=https://embedplayer2.xyz/cdn/hls/e8662e8b6e1665135a99e6d7527f2612/master.txt
 Freaks Um de Nós	dub=2:69938,10:2457044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26269.mp4,8:69938
 Freaks: Um de Nós (2020)	dub=6:1308709
-Freaky	leg=2:89386,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72979.mp4,8:89386
+Freaky	dub=https://embedplayer2.xyz/cdn/hls/b1cf2aa282aa1e4ba69eb218b3faf008/master.txt	leg=2:89386,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72979.mp4,8:89386
 Freaky Friday Sexta Feira Muito Louca (2018)	dub=https://embedplayer2.xyz/cdn/hls/66c309fb69c81b2ac6304a61edfc9f5c/master.txt,6:1303875
 Freaky Tales (2025)	dub=https://embedplayer2.xyz/cdn/hls/e2431a5b8dc4cdf76846162c879eb9c6/master.txt,6:1314272,2:365030,10:2444866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96630.mp4,8:365030	leg=2:365029,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99981.mp4,8:365029
 Freaky: No Corpo de um Assassino (2020)	dub=https://embedplayer2.xyz/cdn/hls/b1cf2aa282aa1e4ba69eb218b3faf008/master.txt,6:1298334,2:97158,10:2451284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48964.mp4,8:97158
@@ -905,7 +905,7 @@ Fruitvale Station: A Última Parada	dub=2:373819,2:170835,10:2456700,http://dbon
 Fruitvale Station: A Última Parada (2013)	dub=6:1305600
 Frutas Proibidas (2026)	dub=https://embedplayer2.xyz/cdn/hls/100d509ff675205bbe820a6c4b29fd27/master.txt,2:386886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308758.mp4,8:386886,10:2444094
 Fréamhacha	leg=2:322811,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73074.mp4,8:322811
-Fuego Negro	leg=2:68446,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73079.mp4,8:68446
+Fuego Negro	dub=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt	leg=2:68446,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73079.mp4,8:68446
 Fuga	dub=2:30540,10:2454932,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3765.mp4,8:30540
 Fuga (2012)	dub=6:1303477
 Fuga Fatal (2025)	dub=https://embedplayer2.xyz/cdn/hls/331c10b265fff08f19d9e829a8939f56/master.txt,6:1314081,2:354016,10:2445347,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/543.mp4,8:354016	leg=2:354015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73100.mp4,8:354015

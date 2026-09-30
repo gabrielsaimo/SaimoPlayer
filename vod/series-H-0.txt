@@ -2987,11 +2987,17 @@
 3	7	dub	3:288763,11:2195086,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/82962.mp4,7:1349415,9:288763
 3	8	dub	3:288764,11:2195087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/82964.mp4,7:1349416,9:288764
 @Heated Rivalry
+1	1	dub	https://embedplayer2.xyz/cdn/hls/482498879a7c7a07a84f552ba3113bac/master.txt
 1	1	leg	3:360412,9:360412
+1	2	dub	https://embedplayer2.xyz/cdn/hls/ce41af403cc49c68d3e91ec11bce88bf/master.txt
 1	2	leg	3:360413,9:360413
+1	3	dub	https://embedplayer2.xyz/cdn/hls/3013ca4303a18a63b278d68d4cafec96/master.txt
 1	3	leg	3:360414,9:360414
+1	4	dub	https://embedplayer2.xyz/cdn/hls/809e7ce72e169986745b3750100a45fd/master.txt
 1	4	leg	3:360415,9:360415
+1	5	dub	https://embedplayer2.xyz/cdn/hls/1a25572f38724c434527bbee3b8a9a89/master.txt
 1	5	leg	3:360416,9:360416
+1	6	dub	https://embedplayer2.xyz/cdn/hls/4855d75589c4f2e9103c85f3c94de2e8/master.txt
 1	6	leg	3:360417,9:360417
 @Heaven
 1	1	leg	3:360418,9:360418

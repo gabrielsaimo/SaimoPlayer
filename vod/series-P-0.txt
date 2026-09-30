@@ -3767,9 +3767,12 @@
 1	1	leg	3:291594,9:291594
 1	2	leg	3:291595,9:291595
 1	3	leg	3:291596,9:291596
+1	4	dub	https://embedplayer2.xyz/cdn/hls/c1b4f3f1d5d3216ccb9547746ed64fb6/master.txt
 1	4	leg	3:291597,9:291597
 1	5	leg	3:291598,9:291598
+1	6	dub	https://embedplayer2.xyz/cdn/hls/d55ca13190059f55ef85c86e1e746f0b/master.txt
 1	6	leg	3:296614,9:296614
+1	7	dub	https://embedplayer2.xyz/cdn/hls/b6c98e22e23e07f092c8ed8e59255e02/master.txt
 1	7	leg	3:296615,9:296615
 1	8	leg	3:296616,9:296616
 @Paris in Love
