@@ -2,12 +2,7 @@ import re
 with open("canais.txt", "r") as f:
     lines = f.readlines()
 
-new_entries = [
-    ('#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5', 
-     'https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/espn5/__index.m3u8?sv=155&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787869439-M0reI%2FWUrZUiSHsWxwUlePEwiXc2IRD%2FmXMl9JZJvZ8%3D'),
-    ('#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://is.gd/En5RD3" group-title="VARIEDADES", PRIME BOX BRAZIL', 
-     'https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy?container=images&refresh=10&url=https://neosoro.gq/docs/primeboxbrazil/__index.m3u8?sv=138&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1787869497-UeiDFAmfxU40dxtplC5AdwvCD%2BMT4gEHflkznQykTw4%3D')
-]
+new_entries = []
 
 channels = []
 i = 0

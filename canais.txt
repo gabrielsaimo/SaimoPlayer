@@ -5,8 +5,6 @@ http://79.127.238.228:14551
 http://79.127.238.228:14563
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
 http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
-#EXTINF:-1 tvg-id="Bis" tvg-logo="https://mondrian.claro.com.br/channels/inverse/bis.png" group-title="VARIEDADES", BIS (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/bis/__index.m3u8?sv=142&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789483086-60z684y3CLMkFjDFMVrx20Mvuo36mgB0tSPqqX61QvM%3D
 #EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
 #EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
@@ -25,23 +23,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (SS)
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="TELECINE", TELECINE ACTION (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecineaction/__index.m3u8?sv=165&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789480849-%2BLNTW%2BYZ8D1xeEQtqqfFKMOnz%2BRjKIAMya248czYw9k%3D
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="TELECINE", TELECINE CULT (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481098-We7WOf%2FCKC5Szz6DBJZWjWDomevUrQBhQEZeAWygp1w%3D
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="TELECINE", TELECINE FUN (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinefun/__index.m3u8?sv=17&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481327-bAc95Xi1E33YuPzcP0Pfdk59FX1r3MNMJfugpAIgMyg%3D
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="TELECINE", TELECINE PIPOCA (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepipoca/__index.m3u8?sv=180&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481420-wsQGn%2B%2BG7zXUNEt30tuVTlxLptNEGRIJLyuVr4ySGCE%3D
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/App-telecine-premium-252x252.png" group-title="TELECINE", TELECINE PREMIUM (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinepremium/__index.m3u8?sv=109&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481656-ONs6POlWKE0GJKIkx21NeahpogJD60Zlio8BIrF0cqc%3D
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TELECINE_Touch_Logo_2021.png" group-title="TELECINE", TELECINE TOUCH (ST)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinetouch/__index.m3u8?sv=182&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481749-PEP6NRR3E9xH7MZHGVXlfncRXoDVCcI8fs%2F7C3d7Dds%3D
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://mondrian.claro.com.br/channels/inverse/amc.png" group-title="FILMES E SÉRIES", AMC (NOVA)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/amc/__index.m3u8?sv=174&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481850-aQfTkNQAOqt0%2FDZ1N2fQuCIVuahnjtgve%2BB7F03qauI%3D
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="TELECINE", TELECINE CULT (NOVA)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/telecinecult/__index.m3u8?sv=86&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789481098-We7WOf%2FCKC5Szz6DBJZWjWDomevUrQBhQEZeAWygp1w%3D
-#EXTINF:-1 tvg-id="USA Network" tvg-logo="https://mondrian.claro.com.br/channels/inverse/usa.png" group-title="FILMES E SÉRIES", USA NETWORK (NOVA)
-https://xn--l---------------------------_________________________-2w85c.null-null.shop/tos-alisg-avt-0068/proxy.m3u8?container=images&refresh=10&url=https://neosoro.gq/docs/usa/__index.m3u8?sv=12&cc=y&secure_uri=true&nu3zAQc9HC3GbwJq=1789482616-tLQ0mx7Cv80cr%2FKJrDa7zE2ioGhYDrDuezzyI9uQlAI%3D
