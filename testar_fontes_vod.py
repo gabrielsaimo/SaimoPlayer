@@ -86,6 +86,7 @@ FFPROBE = next((p for p in (shutil.which("ffprobe"),
                 if p and os.path.exists(p)), None)
 FFPROBE_VAGAS = threading.BoundedSemaphore(12)
 TELA = threading.Lock()
+MEDIR_QUALIDADE = True
 
 
 # --------------------------------------------------------------------- acervo
@@ -325,13 +326,13 @@ def testar(url: str) -> dict:
         try:
             r = pedir(url)
         except (socket.gaierror,) as erro:
-            return {"estado": "morta", "motivo": f"DNS: {erro.strerror or erro}"}
+            return {"estado": "sem_resposta", "motivo": "DNS: falha de resolução; conexão inconclusiva"}
         except urllib.error.URLError as erro:
             razao = erro.reason
             if isinstance(razao, socket.gaierror):
-                return {"estado": "morta", "motivo": "DNS: servidor não existe mais"}
+                return {"estado": "sem_resposta", "motivo": "DNS: falha de resolução; conexão inconclusiva"}
             if isinstance(razao, ConnectionRefusedError):
-                return {"estado": "morta", "motivo": "conexão recusada"}
+                return {"estado": "recusada", "motivo": "conexão recusada"}
             ultimo = {"estado": "sem_resposta", "motivo": f"{type(razao).__name__}"}
         except (TimeoutError, socket.timeout):
             ultimo = {"estado": "sem_resposta", "motivo": "tempo esgotado"}
@@ -341,7 +342,7 @@ def testar(url: str) -> dict:
             if r.codigo in RECUSA or r.codigo >= 500:
                 ultimo = {"estado": "recusada", "motivo": f"HTTP {r.codigo}"}
             elif r.codigo not in (200, 206):
-                return {"estado": "morta", "motivo": f"HTTP {r.codigo}"}
+                return {"estado": "morta" if r.codigo in (404, 410) else "recusada", "motivo": f"HTTP {r.codigo}"}
             elif not r.corpo:
                 ultimo = {"estado": "sem_resposta", "motivo": "resposta vazia"}
             else:
@@ -364,11 +365,17 @@ def analisar(url: str, r: Resposta) -> dict:
     inicio = r.corpo[:4096]
     texto = inicio.decode("utf-8", "replace").lstrip("﻿ \r\n")
     if texto.startswith("#EXTM3U"):
+        if not MEDIR_QUALIDADE:
+            return viva(None, "hls")
         return viva(seguro(medir_hls, url, r.corpo.decode("utf-8", "replace")), "hls")
     if texto[:1] == "<" or "security error" in texto.lower():
-        return {"estado": "morta", "motivo": "responde página, não vídeo"}
+        return {"estado": "recusada", "motivo": "responde página, não vídeo"}
     if inicio[4:8] in (b"ftyp", b"moov", b"mdat", b"free", b"skip", b"wide"):
+        if not MEDIR_QUALIDADE:
+            return viva(None, "mp4")
         return viva(seguro(medir_mp4, url, r) or seguro(medir_ffprobe, url), "mp4")
+    if not MEDIR_QUALIDADE:
+        return viva(None, "outro")
     return viva(seguro(medir_ffprobe, url), "outro")
 
 
@@ -393,6 +400,11 @@ def suspeito(item: dict) -> bool:
     return item["estado"] in ("recusada", "sem_resposta") or item.get("motivo") in SUSPEITOS
 
 
+def falha_confirmada(item: dict) -> bool:
+    return (item.get("estado") == "morta" and bool(item.get("conf"))
+            and item.get("motivo") in ("HTTP 404", "HTTP 410"))
+
+
 class Servidor:
     """Quantas conexões ao mesmo tempo um servidor aguenta, ajustado no caminho.
 
@@ -408,7 +420,7 @@ class Servidor:
 
     def __init__(self, maximo: int):
         self.maximo = maximo
-        self.limite = float(maximo)
+        self.limite = float(min(2, maximo))
         self.ativos = 0
         self.limpas = 0
         self.seguidas = 0
@@ -462,7 +474,7 @@ def rodar(tipo: str, fontes: dict[str, list[str]], args) -> None:
             # Reaproveita viva e morta confirmada; o resto pode ter sido de
             # passagem e é testado de novo. Linha mais nova vale mais.
             if item.get("t", 0) >= validade and (
-                    item.get("estado") == "viva" or (item.get("estado") == "morta" and item.get("conf"))):
+                    item.get("estado") == "viva" or falha_confirmada(item)):
                 feitos[item["u"]] = item
             else:
                 feitos.pop(item.get("u"), None)
@@ -571,7 +583,13 @@ def relatorio(tipo: str, fontes: dict[str, list[str]], feitos: dict[str, dict], 
     qual = [f"{u}\t{i['q']}\t{i['wh']}" for u, i in sorted(testadas.items()) if i.get("q")]
     (SAIDA / f"qualidades-{tipo}.tsv").write_text(
         "# fonte\tqualidade\tlarguraxaltura\n" + "\n".join(qual) + "\n", encoding="utf-8")
-    mortas = [(u, i) for u, i in sorted(testadas.items()) if i["estado"] != "viva"]
+    mortas = [(u, i) for u, i in sorted(testadas.items()) if falha_confirmada(i)]
+    inconclusivas = [(u,i) for u,i in sorted(testadas.items())
+                    if i["estado"] != "viva" and not falha_confirmada(i)]
+    (SAIDA / f"inconclusivas-{tipo}.tsv").write_text(
+        "# fonte\testado\tmotivo\tservidor\ttítulos\n" + "\n".join(
+            f"{u}\t{i['estado']}\t{i.get('motivo','')}\t{i.get('s','')}\t{' | '.join(fontes[u][:3])}"
+            for u,i in inconclusivas) + "\n", encoding="utf-8")
     (SAIDA / f"mortas-{tipo}.tsv").write_text(
         "# fonte\testado\tmotivo\tservidor\ttítulos\n" + "\n".join(
             f"{u}\t{i['estado']}\t{i.get('motivo', '')}\t{i.get('s', '')}\t{' | '.join(fontes[u][:3])}"
@@ -592,7 +610,7 @@ def relatorio(tipo: str, fontes: dict[str, list[str]], feitos: dict[str, dict], 
             titulos[nome].append(u)
     # Só morta de verdade conta; recusa e silêncio podem ser o servidor barrando.
     sem_viva = sorted(t for t, us in titulos.items()
-                      if all(u in testadas and testadas[u]["estado"] == "morta" for u in us))
+                      if all(u in testadas and falha_confirmada(testadas[u]) for u in us))
     so_desativada = sorted(t for t, us in titulos.items() if all(u in desativadas for u in us))
 
     total = collections.Counter(i["estado"] for i in testadas.values())
@@ -613,9 +631,9 @@ def relatorio(tipo: str, fontes: dict[str, list[str]], feitos: dict[str, dict], 
         if c["barrou"]:
             alerta = f"   <<< BARROU O TESTE ({c['barrou']} não testadas) — rode de novo mais tarde"
         elif n >= 20 and vivas == 0:
-            alerta = "   <<< FORA DO AR"
+            alerta = "   <<< NENHUMA RESPOSTA VÁLIDA — não comprova queda do servidor"
         elif n >= 20 and vivas < n / 2:
-            alerta = "   <<< maioria morta"
+            alerta = "   <<< maioria sem resposta válida; conferir motivos"
         else:
             alerta = ""
         linhas.append(f"  {servidor:32} {n:7} fontes · {vivas / max(n, 1):6.1%} vivas · mortas {c['morta']} · "
@@ -635,6 +653,7 @@ def relatorio(tipo: str, fontes: dict[str, list[str]], feitos: dict[str, dict], 
 
 
 def main() -> int:
+    global MEDIR_QUALIDADE
     parser = argparse.ArgumentParser(description=__doc__.split("\n", 1)[0],
                                      formatter_class=argparse.RawDescriptionHelpFormatter, epilog=__doc__)
     parser.add_argument("--series", action="store_true", help="testa os episódios em vez dos filmes")
@@ -647,8 +666,11 @@ def main() -> int:
     parser.add_argument("--pausa", type=int, default=20, help="segundos antes de confirmar as mortas")
     parser.add_argument("--horas", type=int, default=24, help="reaproveita testes mais novos que isso")
     parser.add_argument("--do-zero", action="store_true")
+    parser.add_argument("--somente-disponibilidade", action="store_true",
+                        help="testa a resposta sem medir resolução nem executar ffprobe")
     parser.add_argument("--limite", type=int, default=0, help="testa só N fontes (para conferir)")
     args = parser.parse_args()
+    MEDIR_QUALIDADE = not args.somente_disponibilidade
     if not 1 <= args.workers <= 1024 or not 1 <= args.por_servidor <= 128:
         raise SystemExit("--workers entre 1 e 1024, --por-servidor entre 1 e 128")
     socket.setdefaulttimeout(TEMPO)

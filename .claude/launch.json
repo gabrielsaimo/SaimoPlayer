@@ -1,0 +1,32 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "/Volumes/SSD 1TB/DEV/Saimo/Saimo-TV",
+        "run",
+        "dev",
+        "--",
+        "--port",
+        "5174",
+        "--strictPort"
+      ],
+      "port": 5174
+    },
+    {
+      "name": "vitrine",
+      "runtimeExecutable": "/opt/homebrew/bin/python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5190",
+        "--directory",
+        "/private/tmp/claude-501/-Volumes-SSD-1TB-DEV-Saimo-SaimoPlayer/c01665ed-f10c-4ae5-a3ba-7807110de56e/scratchpad/perfil"
+      ],
+      "port": 5190
+    }
+  ]
+}
