@@ -11,7 +11,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'arquivos-gerados/nexus'
-BASE = 'https://fallback1.nexustvplay.bbroot.com/api/stream/'
+BASE = 'https://nexustvplay.bbroot.com/api/stream/'
 PROBE = '/Applications/Saimo TV.app/Contents/Resources/ffprobe'
 
 def get(url, limit=262144):
