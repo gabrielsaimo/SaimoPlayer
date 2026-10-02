@@ -32,12 +32,12 @@ LEGO Disney Princesa: Aventura no Castelo (2023)	dub=6:1309568
 LEGO Disney Princesa: Vilões Unidos	dub=https://embedplayer2.xyz/cdn/hls/02041b88921bc5d83d61079214113841/master.txt,2:340970,10:2448264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9803.mp4,8:340970	leg=2:340969,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76808.mp4,8:340969
 LEGO Liga da Justica - Combate Cosmico	dub=2:22035,10:2458238,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9819.mp4,8:22035
 LEGO Liga da Justica - Combate Cosmico (2016)	dub=6:1298519,6:1301641
-LEGO Marvel Vingadores: Código Vermelho (2023)	dub=https://embedplayer2.xyz/cdn/hls/52aa797b9cc10a3e7370c61719708b8c/master.txt,6:1309572,2:223390,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56593.mp4,8:223390,2:223393,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9815.mp4,8:223393	leg=6:1309573,2:223399,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76805.mp4,8:223399
+LEGO Marvel Vingadores: Código Vermelho (2023)	dub=https://embedplayer2.xyz/cdn/hls/52aa797b9cc10a3e7370c61719708b8c/master.txt,6:1309572,2:223390,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56593.mp4,8:223390,2:223393,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9815.mp4,8:223393,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/LEGO%20Marvel%20Vingadores_%20C_digo%20Vermelho%20_2023_%20_tmdb_1154598_a563d7fb.mp4	leg=6:1309573,2:223399,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76805.mp4,8:223399
 LEGO Marvel Vingadores: Missão Demolição	dub=2:291159,10:2447634,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9823.mp4,8:291159	leg=2:291160,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76818.mp4,8:291160
 LEGO NinjaGo O Filme	dub=2:20381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9832.mp4,8:20381
 LEGO Ninjago: Dia da Despedida	dub=2:145922,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9826.mp4,8:145922
 LEGO Star Wars Especial de Festas	dub=2:89738,10:2459589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9837.mp4,8:89738
-LEGO Star Wars The Mandalorian (2026)	dub=https://embedplayer2.xyz/cdn/hls/ef9766daf528913f871af8f41ad71e13/master.txt,6:1503022,2:395038,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314383.mp4,8:395038,2:394967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314662.mp4,8:394967	leg=2:394966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314519.mp4,8:394966
+LEGO Star Wars The Mandalorian (2026)	dub=https://embedplayer2.xyz/cdn/hls/ef9766daf528913f871af8f41ad71e13/master.txt,6:1503022,2:395038,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314383.mp4,8:395038,2:394967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314662.mp4,8:394967,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/LEGO%20Star%20Wars_%20The%20Mandalorian%20_2026_%20_tmdb_1731694_1300fd30.mp4	leg=2:394966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314519.mp4,8:394966
 LEGO Star Wars: Contos Aterrorizantes	dub=2:130608,10:2459308,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9841.mp4,8:130608	leg=2:130606,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76824.mp4,8:130606
 LEGO Star Wars: Contos Aterrorizantes (2021)	dub=6:1304835	leg=6:1304836
 LEGO Star Wars: Especial de Festas (2020)	dub=6:1308869
@@ -106,7 +106,7 @@ Labirinto: A Magia do Tempo (1986)	dub=6:1307162
 Lacos De Sangue E Vinganca	dub=2:389563,8:389563
 Lacos Desfeitos	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302925.mp4
 Lacuna	dub=2:136797,10:2455520,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27244.mp4,8:136797
-Lacuna (2021)	dub=6:1300371
+Lacuna (2021)	dub=6:1300371,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lacuna%20_2021_%20_tmdb_811782_e006c688.mp4
 Ladeira Abaixo (2016)	dub=6:1307623
 Ladies First (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289526.mp4
 Lado a Lado (1998)	dub=6:1299671
@@ -133,14 +133,14 @@ Ladrões de Cinema	dub=2:382991,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Ladrões de Ouro	dub=2:341031,2:340968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56568.mp4,8:341031,8:340968,2:340263,10:2444759,10:2449336,10:2454962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4610.mp4,8:340263	leg=2:340262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76575.mp4,8:340262
 Ladrões de Ouro (2025)	dub=6:1313758
 Lady Ballers	dub=10:2448249	leg=2:246426,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76570.mp4,8:246426
-Lady Ballers (2023)	leg=6:1309696
+Lady Ballers (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lady%20Ballers%20_2023_%20_tmdb_1210646_03d1ea6e.mp4	leg=6:1309696
 Lady Bird - A Hora de Voar	dub=2:134045,10:2456676,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27249.mp4,8:134045
 Lady Bird - A Hora de Voar (2017)	dub=6:1301048
 Lady Di (2022)	dub=6:1306831	leg=6:1306832
 Lady Gucci: A História de Patrizia Reggiani	dub=2:145961,10:2452728,8:145961
 Lady Gucci: A História de Patrizia Reggiani (2020)	dub=6:1304892
 Lady Macbeth (2016)	dub=6:1312540	leg=6:1312539
-Lady Scorpions	dub=10:2448624	leg=2:285088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76580.mp4,8:285088
+Lady Scorpions	dub=10:2448624,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lady%20Scorpions%20_2024_%20_tmdb_1252896_c992fc07.mp4	leg=2:285088,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76580.mp4,8:285088
 Lady Vinganca (2005)	leg=6:1314123
 Lady and the Tramp Legendado	dub=2:30650,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76585.mp4,8:30650
 Ladybug - Aventura dos Insetos	dub=2:239805,10:2447958,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9775.mp4,8:239805	leg=2:239806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76600.mp4,8:239806
@@ -173,7 +173,7 @@ Lansky (2021)	dub=6:1301538
 Lansky: A Mente do Crime	dub=2:133775,10:2456432,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27258.mp4,8:133775
 Lansky: A Mente do Crime (1999)	dub=6:1304758
 Lanterna Verde	dub=2:20084,10:2454792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4614.mp4,8:20084
-Lanterna Verde (2011)	dub=6:1300079
+Lanterna Verde (2011)	dub=6:1300079,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lanterna%20Verde%20_2011_%20_tmdb_44912_8ebe896b.mp4
 Lanterna Verde: Cavaleiros Esmeralda	dub=2:358819,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52815.mp4,8:358819	leg=2:358818,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76645.mp4,8:358818
 Lanterna Verde: Cavaleiros Esmeralda (2011)	dub=6:1300067
 Lanterna Verde: Cuidado Com Meu Poder	dub=2:359202,2:179807,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56573.mp4,8:359202,8:179807,2:281085,2:178552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9766.mp4,8:281085,8:178552	leg=2:281086,2:178570,10:2448275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76655.mp4,8:281086,8:178570
@@ -193,7 +193,7 @@ Lar Maldito Lar (2023)	dub=https://embedplayer2.xyz/cdn/hls/895a43e6605ef502632a
 Lar dos Esquecidos	dub=2:176789,10:2451297,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49506.mp4,8:176789	leg=2:176793,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76675.mp4,8:176793
 Lar dos Esquecidos (2022)	dub=6:1300200
 Lara	dub=2:353662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27276.mp4,8:353662	leg=2:92659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76670.mp4,8:92659
-Lara (2019)	leg=6:1308381
+Lara (2019)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lara%20_2019_%20_tmdb_576281_9c61ee2d.mp4	leg=6:1308381
 Lara Croft Tomb Raider - A Origem da Vida (2003)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300828.mp4,6:1298182
 Lara Croft: Tomb Raider (2001)	dub=https://embedplayer2.xyz/cdn/hls/7140fe90a069e97dca367abd813c6e93/master.txt,6:1298181,2:382457,2:286474,10:2454130,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4618.mp4,8:382457,8:286474	leg=2:382456,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301130.mp4,8:382456
 Lara Croft: Tomb Raider - A Origem da Vida	dub=2:358823,2:286867,10:2454262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4622.mp4,8:358823,8:286867	leg=2:358822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76676.mp4,8:358822
@@ -201,7 +201,7 @@ Laranja Mecanica (1971)	dub=6:1298518
 Laranja Mecânica	dub=2:266035,10:2458935,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36013.mp4,8:266035
 Largo Winch 2 - A Conspiração Burma (2011)	dub=6:1303931
 Largo Winch: O Preço do Dinheiro	dub=2:297441,10:2449598,10:2454489,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4626.mp4,8:297441	leg=2:297442,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76693.mp4,8:297442
-Largo Winch: O Preço do Dinheiro (2024)	dub=6:1312502
+Largo Winch: O Preço do Dinheiro (2024)	dub=6:1312502,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Largo%20Winch_%20O%20Pre_o%20do%20Dinheiro%20_2024_%20_tmdb_1000075_63a567c3.mp4
 Larissa: O Outro Lado de Anitta (2025)	dub=https://embedplayer2.xyz/cdn/hls/afa54df8163b1c017edf5965b837be02/master.txt,6:1313181,2:316911,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56578.mp4,8:316911,2:313827,10:2449040,10:2452650,8:313827	leg=2:313828,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76684.mp4,8:313828
 Larry Crowne: O Amor Está de Volta	dub=2:263099,10:2461028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15956.mp4,8:263099
 Larry Crowne: O Amor Está de Volta (2011)	dub=6:1305157
@@ -249,13 +249,13 @@ Leao Branco: O Lutador Sem Lei (1990)	dub=6:1300020
 Learning How To Fly	leg=2:398800,8:398800
 Leaving Neverland 2: Surviving Michael Jackson	dub=2:376519,10:2444435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253459.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254771.mp4,8:376519	leg=2:376518,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253449.mp4,8:376518
 Lection	leg=2:63012,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76761.mp4,8:63012
-Lee (2024)	dub=https://embedplayer2.xyz/cdn/hls/3c7045f6ca79069f18d1bbb788e0d989/master.txt,6:1313216,2:315325,10:2447777,10:2450589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36976.mp4,8:315325	leg=6:1312314,6:1313215,2:315326,2:291257,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76776.mp4,8:315326,8:291257
+Lee (2024)	dub=https://embedplayer2.xyz/cdn/hls/3c7045f6ca79069f18d1bbb788e0d989/master.txt,6:1313216,2:315325,10:2447777,10:2450589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36976.mp4,8:315325,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lee%20_2024_%20_tmdb_832964_f2b3b6e1.mp4	leg=6:1312314,6:1313215,2:315326,2:291257,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76776.mp4,8:315326,8:291257
 Lee Soo Man: Rei do K-Pop	leg=2:348305,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76781.mp4,8:348305
 Lefter: O Professor	dub=2:352712,10:2444812,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/622.mp4,8:352712	leg=2:352711,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76786.mp4,8:352711
 Legacy of Lies	dub=2:119733,10:2454212,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4642.mp4,8:119733	leg=2:119734,2:64385,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76791.mp4,8:119734,8:64385
 Legado Explosivo (2020)	dub=https://embedplayer2.xyz/cdn/hls/46fcb8b46b8578c97f2ae2b05cd17da6/master.txt,6:1298433,2:97144,10:2454290,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4646.mp4,8:97144
 Legado Italiano	dub=2:101175,10:2452840,8:101175
-Legado Italiano (2020)	dub=6:1308964,6:1314480
+Legado Italiano (2020)	dub=6:1308964,6:1314480,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Legado%20Italiano%20_2020_%20_tmdb_796536_f58aa845.mp4
 Legado Nos Ossos	dub=2:43849,10:2445980,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44785.mp4,8:43849
 Legado de Mentiras	dub=2:379466,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256508.mp4,8:379466	leg=2:379465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256481.mp4,8:379465
 Legado de Mentiras (2020)	dub=6:1298714	leg=6:1298715
@@ -271,7 +271,7 @@ Legalmente Loira 2	dub=2:103155,10:2460295,http://dbonline.tech-cdn.top:80/movie
 Legalmente Loira 2 (2003)	dub=6:1302955
 Legends and Monsters	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306385.mp4
 Legiao	dub=2:21760,10:2452494,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49501.mp4,8:21760
-Legiao (2010)	dub=6:1314592
+Legiao (2010)	dub=6:1314592,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Legi_o%20_2010_%20_tmdb_22894_fdf23e64.mp4
 Legiao de Herois (2016)	dub=https://embedplayer2.xyz/cdn/hls/7b0b4e135d5d755cd02565b3e8dd44a6/master.txt,6:1303937	leg=https://embedplayer2.xyz/cdn/hls/7b0b4e135d5d755cd02565b3e8dd44a6/master.txt
 Legiao dos Super Herois (2023)	dub=6:1301628
 Legionário	dub=2:265151,10:2458078,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4656.mp4,8:265151
@@ -285,7 +285,7 @@ Lego DC Batman: Assunto de Família (2019)	dub=6:1308513
 Lego DC Super Hero Girls: Escola de Super Vilãs (2018)	dub=https://embedplayer2.xyz/cdn/hls/34c78ead30a71de8318da8733fe57178/master.txt
 Lego Disney Frozen Operacao Papagaios do Mar	dub=10:2445231
 Lego Disney Princesa: Bagunça Mágica	dub=2:393577,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313334.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313418.mp4,8:393577	leg=2:393576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313370.mp4,8:393576
-Lego Disney Princesa: Bagunça Mágica (2026)	dub=10:2466092
+Lego Disney Princesa: Bagunça Mágica (2026)	dub=10:2466092,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lego%20Disney%20Princesa_%20Bagunca%20Magica%20_2026_%20_tmdb_1732625_94a8429d.mp4
 Lego Jurassic World A Exposicao Secreta Parte 1	dub=2:22032,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9799.mp4,8:22032
 Lego Jurassic World A Exposicao Secreta Parte 2	dub=2:22033,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9810.mp4,8:22033
 Lego Jurassic World: A Fuga do Indominus Rex	dub=10:2459442
@@ -295,7 +295,7 @@ Legítimo Rei	dub=2:190986,http://dbonline.tech-cdn.top:80/movie/ke-vin-09283920
 Legítimo Rei (2018)	dub=6:1305710
 Leibniz - Chronik eines verschollenen Bildes	leg=2:363801,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76821.mp4,8:363801
 Leila Diniz	dub=2:382992,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301313.mp4,8:382992
-Leio - A Criatura Gigante (2022)	dub=https://embedplayer2.xyz/cdn/hls/21136ff346e140ba1920c8365fab9ba1/master.txt,6:1312634,2:300661,10:2449465,10:2452081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49511.mp4,8:300661	leg=2:300662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76834.mp4,8:300662
+Leio - A Criatura Gigante (2022)	dub=https://embedplayer2.xyz/cdn/hls/21136ff346e140ba1920c8365fab9ba1/master.txt,6:1312634,2:300661,10:2449465,10:2452081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49511.mp4,8:300661,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Leio%20-%20A%20Criatura%20Gigante%20_2022_%20_tmdb_947049_fa39f5c5.mp4	leg=2:300662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76834.mp4,8:300662
 Leis da Atração	dub=2:347147,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15965.mp4,8:347147	leg=2:347146,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76843.mp4,8:347146
 Leis da Atração (2004)	dub=6:1302734
 Leitor Onisciente: A Profecia (2025)	dub=https://embedplayer2.xyz/cdn/hls/7fec8d94e59f8ea8240b2ef847786ed9/master.txt	leg=https://embedplayer2.xyz/cdn/hls/8816ea8c97d99f39b70202df0939ad14/master.txt
@@ -307,12 +307,12 @@ Lembranças de um Verão	dub=2:369419,2:26880,10:2455491,http://dbonline.tech-cd
 Lembranças de um Verão (2001)	dub=6:1307091
 Lembranças de uma Infância	dub=2:33525,10:2456866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27325.mp4,8:33525
 Lembranças de uma Infância (2016)	dub=6:1307403
-Leme do Destino	dub=2:283256,10:2450777,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38413.mp4,8:283256
+Leme do Destino	dub=2:283256,10:2450777,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38413.mp4,8:283256,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Leme%20do%20Destino%20_2023_%20_tmdb_1176878_3c51cef1.mp4
 Lemon Tree	leg=2:269955,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76848.mp4,8:269955
 Lemon Tree (2023)	leg=6:1309477
 Lena and Snowball (2021)	leg=https://embedplayer2.xyz/cdn/hls/cbf1fac301abbe7ba1ce93e3e22f660a/master.txt
 Lenda Maldita	dub=2:284031,10:2452285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49496.mp4,8:284031	leg=2:284032,10:2447590,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76883.mp4,8:284032
-Lenda Maldita (2022)	dub=6:1311992	leg=6:1311991
+Lenda Maldita (2022)	dub=6:1311992,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lenda%20Maldita%20_2022_%20_tmdb_799878_68e2b6da.mp4	leg=6:1311991
 Lenda Urbana	dub=10:2452539
 Lenda Urbana (1998)	dub=6:1297490
 Lenda Urbana 1	dub=2:21761,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49515.mp4,8:21761
@@ -377,7 +377,7 @@ Liberte-me de sua Traicao	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Libertários	dub=2:343238,10:2453427,8:343238
 Licença para Casar	dub=2:161537,10:2459823,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16010.mp4,8:161537
 Licença para Casar (2007)	dub=6:1305643
-Lick	dub=10:2447386	leg=2:303578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76912.mp4,8:303578
+Lick	dub=10:2447386,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lick%20_2024_%20_tmdb_1371789_fd41cb4b.mp4	leg=2:303578,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76912.mp4,8:303578
 Licoes Para Toda Vida	dub=2:99895,10:2460986,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16019.mp4,8:99895
 Licorice Pizza	dub=2:358143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56608.mp4,8:358143,2:358145,10:2445132,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/638.mp4,8:358145	leg=2:358144,2:162569,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76923.mp4,8:358144,8:162569
 Licorice Pizza (2021)	leg=6:1306308
@@ -416,7 +416,7 @@ Liga dos Deuses (2016)	dub=6:1307628
 Ligacoes Perigosas (2022)	dub=https://embedplayer2.xyz/cdn/hls/321153821654ed1b5c11709036e6ed24/master.txt,6:1299612,2:354233,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27344.mp4,8:354233	leg=2:354232,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38428.mp4,8:354232
 Ligada a Honra - BOUND BY HONOR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303011.mp4
 Ligadas pelo Desejo	dub=2:344562,2:130275,10:2455628,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27352.mp4,8:344562,8:130275	leg=2:344561,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77010.mp4,8:344561
-Ligadas pelo Desejo (1996)	dub=6:1298521
+Ligadas pelo Desejo (1996)	dub=6:1298521,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Ligadas%20pelo%20Desejo%20_1996_%20_tmdb_9303_7a637650.mp4
 Ligados Pelo Amor	dub=2:339939,2:112485,10:2447204,10:2455118,10:2457948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27347.mp4,8:339939,8:112485	leg=2:339938,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77005.mp4,8:339938
 Ligados Pelo Amor (2013)	dub=6:1307085
 Ligados Pelo Sangue (2020)	dub=https://embedplayer2.xyz/cdn/hls/cbb3609d80ba5f48c691707689b8056b/master.txt,6:1301379,2:381949,10:2455275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306332.mp4,8:381949	leg=2:381948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301132.mp4,8:381948
@@ -449,10 +449,10 @@ Lilo e Stitch 2: Stitch Deu Defeito (2005)	dub=6:1300792
 Lilo, Lilo, Crocodilo	dub=2:180623,8:180623	leg=2:180624,8:180624
 Lima Barreto ao Terceiro Dia	dub=2:182297,10:2455451,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27356.mp4,8:182297
 Lima Barreto ao Terceiro Dia (2019)	dub=6:1306814
-Limbo	dub=2:399155,2:150731,10:2457735,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4,8:150731	leg=2:399154,2:150729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4,8:150729
-Limbo (2020)	dub=6:1305867	leg=6:1305868
+Limbo	dub=2:399155,2:150731,10:2457735,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27367.mp4,8:150731,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/LIMBO%20_2023_%20_tmdb_1072963_5230b158.mp4	leg=2:399154,2:150729,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77052.mp4,8:150729
+Limbo (2020)	dub=6:1305867,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Limbo%20_2020_%20_tmdb_554371_3ff196da.mp4	leg=6:1305868
 Limbo Entre O Ceu E O Inferno	dub=2:30536,10:2459968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16014.mp4,8:30536
-Limbo Entre o Ceu e o Inferno (2019)	dub=6:1301330
+Limbo Entre o Ceu e o Inferno (2019)	dub=6:1301330,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Limbo%20-%20Entre%20o%20C_u%20e%20o%20Inferno%20_2019_%20_tmdb_583755_7495b4cb.mp4
 Limerence	leg=2:63080,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77062.mp4,8:63080
 Limiar	dub=2:284033,10:2452599,8:284033
 Limite Da Honra	dub=2:89006,10:2446059,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44790.mp4,8:89006
@@ -468,7 +468,7 @@ Limpa (2025)	dub=6:1313900
 Limpam com Fogo	dub=2:386249,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308406.mp4,8:386249
 Limunovo drvo	dub=10:2448546
 Lincoln	dub=2:43839,10:2456233,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27377.mp4,8:43839
-Lincoln (2012)	dub=6:1308865
+Lincoln (2012)	dub=6:1308865,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lincoln%20_2012_%20_tmdb_72976_a6ea637b.mp4
 Linda Loucura (2015)	dub=6:1310178	leg=6:1310179
 Linda de Morrer	dub=2:20649,10:2461394,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16028.mp4,8:20649
 Linda de Morrer (2015)	dub=6:1310229
@@ -495,9 +495,9 @@ Linhas Inimigas (2020)	dub=6:1304657	leg=6:1304658
 Linhas Opostas	dub=2:169724,10:2457299,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27385.mp4,8:169724	leg=2:169672,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77088.mp4,8:169672
 Linhas Opostas (2021)	dub=6:1299978
 Link Perdido	dub=2:35263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9924.mp4,8:35263
-Link Perdido (2019)	dub=6:1297586
+Link Perdido (2019)	dub=6:1297586,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Link%20Perdido%20_2019_%20_tmdb_458253_0da1a5d8.mp4
 Lino Uma Aventura de Sete Vidas	dub=2:20383,10:2459286,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9926.mp4,8:20383
-Lino: Uma Aventura de Sete Vidas (2017)	dub=6:1310484
+Lino: Uma Aventura de Sete Vidas (2017)	dub=6:1310484,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lino_%20Uma%20Aventura%20de%20Sete%20Vidas%20_2017_%20_tmdb_459788_06abc5b0.mp4
 Lion: Uma Jornada para Casa (2016)	dub=https://embedplayer2.xyz/cdn/hls/c00ecab55a43be44d5ba3e211fa900aa/master.txt,6:1300330,2:21023,10:2456667,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27387.mp4,8:21023
 Lionel Richie: The Town (2025)	dub=10:2444861
 Lisa Frankenstein (2024)	dub=https://embedplayer2.xyz/cdn/hls/35566489c3912f6efbab635d32d22646/master.txt,6:1303583,2:287012,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56661.mp4,8:287012,2:259007,10:2448725,10:2452270,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49523.mp4,8:259007	leg=6:1303582,2:259008,2:252788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77082.mp4,8:259008,8:252788
@@ -509,7 +509,7 @@ Lista de Desejos de Natal (2014)	dub=6:1307440
 Lista de Natal	dub=2:354234,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/642.mp4,8:354234
 Little Bites	dub=10:2449846	leg=2:291258,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77108.mp4,8:291258
 Little Brother	dub=2:384548,10:2444204,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307371.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307430.mp4,8:384548	leg=2:384547,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307399.mp4,8:384547
-Little Jaffna	leg=2:349772,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77124.mp4,8:349772
+Little Jaffna	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Little%20Jaffna%20_2025_%20_tmdb_1193692_68dab48c.mp4	leg=2:349772,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77124.mp4,8:349772
 Little Nick - Um Diabo Diferente	dub=2:371900,10:2462131,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250807.mp4,8:371900	leg=2:371899,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250480.mp4,8:371899
 Little Nick Um Diabo Diferente (2000)	dub=6:1302357
 Little Wing	dub=2:262349,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56671.mp4,8:262349,2:262348,10:2448124,10:2456024,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27391.mp4,8:262348	leg=2:262350,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77113.mp4,8:262350
@@ -523,7 +523,7 @@ Lively vs Baldoni: Escândalo em Hollywood (2025)	dub=https://embedplayer2.xyz/c
 Livestream from Hell	dub=2:399243,10:2472326	leg=2:399242
 Living the Land	leg=2:379424,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256482.mp4,8:379424
 Livinho e MC Davi: Lollapalooza Brasil (2024)	dub=6:1303261
-Livrai nos do Mal (2014)	dub=6:1314364
+Livrai nos do Mal (2014)	dub=6:1314364,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Livrai-nos%20do%20Mal%20_2014_%20_tmdb_184346_0ee7fa6c.mp4
 Livrai-nos do Mal	dub=2:383339,2:279478,2:185834,10:2451526,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21518.mp4,8:383339,8:279478,8:185834	leg=2:383338,2:185846,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77129.mp4,8:383338,8:185846
 Livrai-nos do Mal (2020)	dub=6:1300757
 Livrando a Cara (2004)	dub=6:1309936	leg=6:1309937
@@ -539,8 +539,8 @@ Livro de Sangue (2009)	dub=6:1314374
 Livros Restantes	dub=https://embedplayer2.xyz/cdn/hls/0ee12ee0fde88864cbc9ce30f05a48f8/master.txt,2:366517,10:2444817,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97290.mp4,8:366517
 Lixo Extraordinario (2010)	dub=6:1301279
 Liza	dub=10:2448274,10:2460208,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16032.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77142.mp4
-Lizzie	dub=2:128556,2:22038,10:2455995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27396.mp4,8:128556,8:22038
-Lizzie (2018)	dub=6:1305089
+Lizzie	dub=2:128556,2:22038,10:2455995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27396.mp4,8:128556,8:22038,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lizzie%20_2019_%20_tmdb_646329_21813b28.mp4
+Lizzie (2018)	dub=6:1305089,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lizzie%20_2019_%20_tmdb_646329_21813b28.mp4
 Lizzie McGuire Um Sonho Popstar	dub=2:101658,10:2460451,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16037.mp4,8:101658
 Lizzie McGuire: Um Sonho Popstar (2003)	dub=6:1307250
 Lição de Amor	dub=2:383337,2:377835,2:341792,10:2455660,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27401.mp4,8:383337,8:377835,8:341792
@@ -553,7 +553,7 @@ Lobisomem na Noite	dub=2:179772,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Lobisomem na Noite (2022)	dub=6:1300188
 Lobisomem: A Besta Entre Nos (2012)	dub=6:1300982
 Lobisomens	dub=2:312761,10:2460250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16046.mp4,8:312761	leg=2:312762,10:2450435,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77163.mp4,8:312762
-Lobisomens (2024)	dub=6:1312328
+Lobisomens (2024)	dub=6:1312328,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lobisomens%20_2024_%20_tmdb_1091181_37bfc327.mp4
 Lobisomens do Terceiro Reich (2018)	dub=6:1300758
 Lobo Guerreiro (2015)	leg=6:1312828
 Lobo Guerreiro 2 (2017)	dub=https://embedplayer2.xyz/cdn/hls/6e8a3d07f3bd4e98095feb52669547eb/master.txt,6:1303488,2:387062,2:22529,10:2454590,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4714.mp4,8:387062,8:22529	leg=2:387061,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308828.mp4,8:387061
@@ -562,7 +562,7 @@ Lobos (2014)	dub=6:1303800
 Lobos (2022)	dub=https://embedplayer2.xyz/cdn/hls/c97ef6aba061acf3afd2e9da92f564a8/master.txt,6:1311631	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301133.mp4,6:1311632
 Lobos (2024)	dub=6:1312193	leg=6:1312192
 Lobos e Cordeiros	dub=2:340248,10:2451098,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38434.mp4,8:340248
-Locke (2014)	dub=https://embedplayer2.xyz/cdn/hls/67e57df2a4251ce98babbeaf3bb31934/master.txt,6:1307287,2:31777,10:2456854,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27410.mp4,8:31777
+Locke (2014)	dub=https://embedplayer2.xyz/cdn/hls/67e57df2a4251ce98babbeaf3bb31934/master.txt,6:1307287,2:31777,10:2456854,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27410.mp4,8:31777,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Locke%20_2014_%20_tmdb_210479_c2df7378.mp4
 Locked Down	leg=2:92559,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77168.mp4,8:92559
 Locomía	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77179.mp4
 Logan (2017)	dub=https://embedplayer2.xyz/cdn/hls/39ce75b7247f5188a3b664153b51f33d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300830.mp4,6:1297182,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56676.mp4,2:313106,10:2447642,10:2454882,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4722.mp4,8:313106	leg=2:313107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77171.mp4,8:313107
@@ -574,7 +574,7 @@ Loki: Arnaldo Baptista	dub=2:384217,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Lolita	dub=10:2456525,10:2457259
 Lolita (1962)	dub=2:113004,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27422.mp4,6:1298130,8:113004
 Lolita (1997)	dub=2:101176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27417.mp4,6:1309060,8:101176
-Lolo e Kid (2024)	dub=https://embedplayer2.xyz/cdn/hls/db9f3323f7d53731f9d34058d7867a16/master.txt,6:1311829,2:279175,10:2447335,10:2456816,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27426.mp4,8:279175	leg=2:279176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77185.mp4,8:279176
+Lolo e Kid (2024)	dub=https://embedplayer2.xyz/cdn/hls/db9f3323f7d53731f9d34058d7867a16/master.txt,6:1311829,2:279175,10:2447335,10:2456816,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27426.mp4,8:279175,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lolo%20e%20Kid%20_2024_%20_tmdb_1317887_85453538.mp4	leg=2:279176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77185.mp4,8:279176
 Lolo: O Filho da Minha Namorada	dub=2:144092,10:2461395,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16058.mp4,8:144092
 Lolo: O Filho da Minha Namorada (2015)	dub=6:1300456
 London (2005)	dub=6:1302355
@@ -589,15 +589,15 @@ Longe do Paraíso	dub=2:386806,2:194163,10:2456721,http://dbonline.tech-cdn.top:
 Longe do Paraíso (2024)	dub=6:1306138
 Longe dos Homens	dub=2:111593,10:2457215,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27446.mp4,8:111593
 Longe dos Homens (2015)	dub=6:1307391
-Longlegs: Vinculo Mortal (2024)	dub=https://embedplayer2.xyz/cdn/hls/3aac5899b18eaa2a6a143a1cf79a176b/master.txt,6:1312298,2:290763,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56687.mp4,8:290763,2:290762,10:2447464,10:2451546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49546.mp4,8:290762	leg=https://embedplayer2.xyz/cdn/hls/f931019bd849086a052e06bb690afbde/master.txt,6:1311921,2:290764,2:282091,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77200.mp4,8:290764,8:282091
+Longlegs: Vinculo Mortal (2024)	dub=https://embedplayer2.xyz/cdn/hls/3aac5899b18eaa2a6a143a1cf79a176b/master.txt,6:1312298,2:290763,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56687.mp4,8:290763,2:290762,10:2447464,10:2451546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49546.mp4,8:290762,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Longlegs%20-%20V_nculo%20Mortal%20_2024_%20_tmdb_1226578_9d66a34c.mp4	leg=https://embedplayer2.xyz/cdn/hls/f931019bd849086a052e06bb690afbde/master.txt,6:1311921,2:290764,2:282091,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77200.mp4,8:290764,8:282091
 Look Back	dub=2:294260,10:2447235,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9920.mp4,8:294260	leg=2:294261,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77205.mp4,8:294261
-Look Back (2024)	dub=6:1312398
+Look Back (2024)	dub=6:1312398,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Look%20Back%20_2024_%20_tmdb_1244492_ba9f6b65.mp4
 Looney Tunes - O Filme: O Dia Que a Terra Explodiu	dub=https://embedplayer2.xyz/cdn/hls/cf7bbe8a8343cbcd2c75246c7b117a6d/master.txt,2:339765,10:2449105,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9911.mp4,8:339765	leg=2:339764,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77211.mp4,8:339764
 Looney Tunes De Volta a Acao	dub=2:20650,10:2459254,10:2461794,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16064.mp4,8:20650
 Looney Tunes: De Volta a Acao (2003)	dub=6:1303628
 Looney Tunes: Fuga dos Coelhos (2015)	dub=https://embedplayer2.xyz/cdn/hls/846c47f4078cf5af8ad201c3400dbb84/master.txt
 Loop	dub=2:128533,10:2458697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36018.mp4,8:128533
-Loop (2019)	dub=6:1305165
+Loop (2019)	dub=6:1305165,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Loop%20_2019_%20_tmdb_610203_f13891e3.mp4
 Loop Infinito (2024)	dub=https://embedplayer2.xyz/cdn/hls/890b6ce982b3845385877a8a81d0ad8b/master.txt,6:1312574,2:299597,10:2449432,10:2458775,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36037.mp4,8:299597	leg=https://embedplayer2.xyz/cdn/hls/b3d6324e8c16727b22be0b40755eb74a/master.txt,6:1312573,2:299598,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77216.mp4,8:299598
 Looper: Assassinos do Futuro	dub=2:104419,10:2454222,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4730.mp4,8:104419
 Looper: Assassinos do Futuro (2012)	dub=6:1308502
@@ -610,7 +610,7 @@ Lorena, dos pés ligeiros	dub=2:391956,8:391956	leg=2:391955,8:391955
 Los Angeles: Cidade Proibida	dub=2:352217,2:64386,10:2446551,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21522.mp4,8:352217,8:64386	leg=2:352216,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77226.mp4,8:352216
 Los Angeles: Cidade Proibida (1997)	dub=6:1298522
 Los Bandoleros	dub=10:2448146	leg=2:333577,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77231.mp4,8:333577
-Los Nobles: Quando os Ricos Quebram a Cara	dub=2:362861,10:2461806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53518.mp4,8:362861	leg=2:362860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77236.mp4,8:362860
+Los Nobles: Quando os Ricos Quebram a Cara	dub=2:362861,10:2461806,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53518.mp4,8:362861,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Los%20Nobles_%20Quando%20os%20Ricos%20Quebram%20a%20Cara%20_2013_%20_tmdb_180147_b615e8e8.mp4	leg=2:362860,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77236.mp4,8:362860
 Los lobos (2020)	dub=https://embedplayer2.xyz/cdn/hls/8dbaf14353fc0b8b18b6eb025783e8f3/master.txt,6:1299214	leg=2:148692,2:76666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77241.mp4,8:148692,8:76666
 Lost Girls - Os Crimes de Long Island (2020)	dub=6:1297889
 Lost Girls And Love Hotels	leg=2:75658,2:73279,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77246.mp4,8:75658,8:73279
@@ -625,10 +625,10 @@ Lou (2022)	dub=6:1300096
 Louca Obsessao (1990)	dub=6:1302945
 Loucademia de Policia (1984)	dub=https://embedplayer2.xyz/cdn/hls/ac78855b6212166ddca96ade9b963d70/master.txt,6:1299481,2:20657,10:2457905,10:2460785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16060.mp4,8:20657
 Loucademia de Policia 2 (1985)	dub=https://embedplayer2.xyz/cdn/hls/3ecfc2628e47fd4b9bf846b6061be6eb/master.txt,6:1299482
-Loucademia de Policia 2 - A Primeira Missao	dub=https://embedplayer2.xyz/cdn/hls/3ecfc2628e47fd4b9bf846b6061be6eb/master.txt,2:20651,10:2457838,10:2459891,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16069.mp4,8:20651
+Loucademia de Policia 2 - A Primeira Missao	dub=https://embedplayer2.xyz/cdn/hls/3ecfc2628e47fd4b9bf846b6061be6eb/master.txt,2:20651,10:2457838,10:2459891,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16069.mp4,8:20651,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Loucademia%20de%20Pol_cia%202_%20A%20Primeira%20Miss_o%20_1985_%20_tmdb_10157_116e284b.mp4
 Loucademia de Polícia 3: De Volta ao Treinamento (1986)	dub=https://embedplayer2.xyz/cdn/hls/c44f9deeba08faeb5e6525d7d67b69f7/master.txt,6:1309698,2:20652,10:2458079,10:2461479,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16073.mp4,8:20652
 Loucademia de Polícia 4: O Cidadão se Defende (1987)	dub=https://embedplayer2.xyz/cdn/hls/24f4d973af6b9217f77eeda08b5e61c3/master.txt,6:1309329,2:20653,10:2458112,10:2459911,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16078.mp4,8:20653
-Loucademia de Polícia 5: Missão Miami Beach (1988)	dub=https://embedplayer2.xyz/cdn/hls/20ed38f7a0a63e3e1d7996f2a0751b51/master.txt,6:1309651,2:20654,10:2458096,10:2460847,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16082.mp4,8:20654
+Loucademia de Polícia 5: Missão Miami Beach (1988)	dub=https://embedplayer2.xyz/cdn/hls/20ed38f7a0a63e3e1d7996f2a0751b51/master.txt,6:1309651,2:20654,10:2458096,10:2460847,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16082.mp4,8:20654,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Loucademia%20de%20Pol_cia%205_%20Miss_o%20Miami%20Beach%20_1988_%20_tmdb_11825_50e5c96a.mp4
 Loucademia de Polícia 6: Cidade em Estado de Sítio (1989)	dub=https://embedplayer2.xyz/cdn/hls/ea202c370b9387d080590a8b564da2b6/master.txt,6:1309667,2:20655,10:2457860,10:2461306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16087.mp4,8:20655
 Loucademia de Polícia 7: Missão Moscou (1994)	dub=https://embedplayer2.xyz/cdn/hls/2fcae901938c4979ed7c07c7bf25d31f/master.txt,6:1309574,2:20656,10:2457882,10:2461097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16091.mp4,8:20656
 Loucas Aventuras em Punjab	dub=2:270275,10:2447264,10:2460799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16095.mp4,8:270275	leg=2:270276,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77263.mp4,8:270276
@@ -648,7 +648,7 @@ Loucos Por Cinema!	leg=2:395748,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 Loucos Por Dinheiro (1998)	dub=6:1312855
 Loucos Por Ela	dub=https://embedplayer2.xyz/cdn/hls/01bfbb6d18dbb885b8962ef766023a36/master.txt,2:380474,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290728.mp4,8:380474	leg=2:380473,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290771.mp4,8:380473
 Loucos Sobre Rodas	dub=10:2461841
-Loucos de Dar Nó	dub=2:382413,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306313.mp4,8:382413	leg=2:382412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301134.mp4,8:382412
+Loucos de Dar Nó	dub=2:382413,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306313.mp4,8:382413,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Loucos%20de%20Dar%20N%20_1980_%20_tmdb_21629_e39a4ef7.mp4	leg=2:382412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301134.mp4,8:382412
 Loucos do Alabama (1999)	dub=6:1310158	leg=6:1310159
 Loucos e Perigosos	dub=10:2457760
 Loucos e Rebeldes	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16104.mp4
@@ -667,7 +667,7 @@ Loucuras em Los Angeles	dub=2:336662,http://dbonline.tech-cdn.top:80/movie/ke-vi
 Loucuras na Idade Média	dub=2:332687,2:111452,10:2449789,10:2461366,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16136.mp4,8:332687,8:111452	leg=2:332686,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77284.mp4,8:332686
 Loucuras na Idade Média (2001)	dub=6:1307100
 Loud House: Sem Tempo Para Espionar	dub=2:266027,10:2447955,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9915.mp4,8:266027	leg=2:266028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77304.mp4,8:266028
-Loud House: Sem Tempo Para Espionar (2024)	dub=6:1306989
+Loud House: Sem Tempo Para Espionar (2024)	dub=6:1306989,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Loud%20House_%20Sem%20Tempo%20Para%20Espionar%20_2024_%20_tmdb_1280768_43359690.mp4
 Louis Theroux Por Dentro da Machosfera (2026)	dub=https://embedplayer2.xyz/cdn/hls/e590f214c635bc3f830f52495d7e0cd7/master.txt,6:1314405,2:369995,10:2444832,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99871.mp4,8:369995	leg=2:369994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99838.mp4,8:369994
 Louis Theroux: The Settlers	leg=2:368824,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99254.mp4,8:368824
 Lourena: Lollapalooza Brasil (2024)	dub=6:1303267
@@ -720,7 +720,7 @@ Lua de Mel Inusitada (2024)	dub=6:1303576
 Lua de Mel com a Minha Mae (2022)	dub=6:1299378
 Lua de Mel com a Minha Mãe	dub=2:159316,10:2460926,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16145.mp4,8:159316	leg=2:159318,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77355.mp4,8:159318
 Lua de Mel por Acidente (2017)	dub=6:1300372
-Lua de Sangue	dub=2:286621,10:2449184,10:2460914,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16149.mp4,8:286621	leg=2:286622,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77364.mp4,8:286622
+Lua de Sangue	dub=2:286621,10:2449184,10:2460914,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16149.mp4,8:286621,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lua%20de%20Sangue%20_2023_%20_tmdb_1056237_df8653ad.mp4	leg=2:286622,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77364.mp4,8:286622
 Luan Santana - Viva	dub=2:29106,8:29106
 Luan Santana: VIVA (2019)	dub=6:1308598
 Luca	dub=2:111615,2:111609,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56692.mp4,8:111615,8:111609,2:111459,10:2459381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9933.mp4,8:111459
@@ -729,11 +729,11 @@ Lucas Um Intruso no Formigueiro	dub=2:21246,10:2458746,http://dbonline.tech-cdn.
 Lucas, um Intruso no Formigueiro (2006)	dub=6:1297547
 Luccas Neto Em Perdidos Na Noite De Natal	dub=2:24935,10:2450962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38467.mp4,8:24935
 Luccas Neto em - A Baba Operação Game Over (2024)	dub=6:1303577
-Luccas Neto em O Meu Aniversario (2023)	dub=6:1301687
+Luccas Neto em O Meu Aniversario (2023)	dub=6:1301687,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20O%20Meu%20Anivers_rio%20_2023_%20_tmdb_1114619_b27fb869.mp4
 Luccas Neto em Um Natal Muito Atrapalhado	dub=2:88896,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39858.mp4,8:88896
 Luccas Neto em Uma Aventura no Zoologico (2023)	dub=6:1302809
 Luccas Neto em: 2 Babás Muito Esquisitas	dub=10:2450885,10:2455124
-Luccas Neto em: 2 Babás Muito Esquisitas (2021)	dub=6:1308981
+Luccas Neto em: 2 Babás Muito Esquisitas (2021)	dub=6:1308981,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%202%20Bab_s%20Muito%20Esquisitas%20_2021_%20_tmdb_818752_9b92852a.mp4
 Luccas Neto em: A Gincana Na Netoland	dub=2:169732,10:2460880,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16140.mp4,8:169732
 Luccas Neto em: A Gincana Na Netoland (2022)	dub=6:1306974
 Luccas Neto em: Acampamento de Ferias (2019)	dub=6:1297774
@@ -745,7 +745,7 @@ Luccas Neto em: Acampamento de Férias 2	dub=2:36651,10:2460277,http://dbonline.
 Luccas Neto em: Acampamento de Férias 3	dub=2:92581,10:2458754,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36023.mp4,8:92581
 Luccas Neto em: Acampamento de Férias 4: O Desafio Final	dub=2:185821,10:2460033,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16162.mp4,8:185821
 Luccas Neto em: Dia das Crianças	dub=2:30410,10:2451041,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38448.mp4,8:30410
-Luccas Neto em: Dia das Crianças (2019)	dub=6:1308640
+Luccas Neto em: Dia das Crianças (2019)	dub=6:1308640,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20Dia%20das%20Crian_as%20_2019_%20_tmdb_638866_656e0b01.mp4
 Luccas Neto em: Duas Babás Muito Esquisitas	dub=2:112472,2:102553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4750.mp4,8:112472,8:102553
 Luccas Neto em: O Fim do Natal	dub=2:31746,10:2450948,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38450.mp4,8:31746
 Luccas Neto em: O Fim do Natal (2019)	dub=6:1308696
@@ -756,19 +756,19 @@ Luccas Neto em: O Hotel Mágico 2	dub=2:390179,2:384218,2:148745,10:2458792,http
 Luccas Neto em: O Mapa do Tesouro	dub=2:75630,10:2460890,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/16175.mp4,8:75630
 Luccas Neto em: O Mapa do Tesouro (2020)	dub=6:1308880
 Luccas Neto em: O Mapa do Tesouro 2	dub=2:124505,10:2450768,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38458.mp4,8:124505
-Luccas Neto em: O Mapa do Tesouro 2 (2021)	dub=6:1298740
+Luccas Neto em: O Mapa do Tesouro 2 (2021)	dub=6:1298740,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20O%20Mapa%20do%20Tesouro%202%20_2021_%20_tmdb_852495_dd5724f9.mp4
 Luccas Neto em: O Meu Aniversário	dub=2:196793,10:2451082,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38454.mp4,8:196793
 Luccas Neto em: O Plano dos Vilões	dub=2:161344,10:2451661,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38463.mp4,8:161344
-Luccas Neto em: O Plano dos Vilões (2022)	dub=6:1306912
-Luccas Neto em: Perdidos na Noite de Natal (2018)	dub=6:1297773
+Luccas Neto em: O Plano dos Vilões (2022)	dub=6:1306912,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20O%20Plano%20dos%20Vil_es%20_2022_%20_tmdb_954382_15962c5e.mp4
+Luccas Neto em: Perdidos na Noite de Natal (2018)	dub=6:1297773,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20Perdidos%20na%20Noite%20de%20Natal%20_2018_%20_tmdb_571009_e8b2702c.mp4
 Luccas Neto em: Um Natal Muito Atrapalhado (2020)	dub=6:1298011
 Luccas Neto em: Uma Aventura no Zoológico	dub=2:227010,10:2450949,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38468.mp4,8:227010
-Luccas Neto em: Uma Baba Muito Esquisita (2019)	dub=6:1297576
+Luccas Neto em: Uma Baba Muito Esquisita (2019)	dub=6:1297576,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20Neto%20em_%20Uma%20Bab_%20Muito%20Esquisita%20_2019_%20_tmdb_603994_d7630b92.mp4
 Luccas Neto em: Uma Babá Muito Esquisita	dub=2:22889,10:2450878,10:2459440,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38477.mp4,8:22889
 Luccas e Gi em: Amor de Mãe	dub=2:394518,10:2445472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313972.mp4,8:394518
-Luccas e Gi em: Amor de Mãe (2025)	dub=6:1313669
+Luccas e Gi em: Amor de Mãe (2025)	dub=6:1313669,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20e%20Gi%20em_%20Amor%20de%20M_e%20_2025_%20_tmdb_1511831_c9c6939b.mp4
 Luccas e Gi em: Dinossauros	dub=2:282095,10:2451110,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38438.mp4,8:282095	leg=2:282096,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77375.mp4,8:282096
-Luccas e Gi em: Dinossauros (2024)	dub=6:1311958
+Luccas e Gi em: Dinossauros (2024)	dub=6:1311958,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luccas%20e%20Gi%20em_%20Dinossauros%20_2024_%20_tmdb_1244009_3089d23c.mp4
 Luce	dub=2:40852,10:2455539,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27456.mp4,8:40852
 Luce (2019)	dub=6:1297733
 Lucia e o Cristal Mágico	dub=2:225685,10:2447062,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53127.mp4,8:225685	leg=2:225674,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77369.mp4,8:225674
@@ -798,9 +798,9 @@ Lugares Escuros (2015)	dub=6:1300720
 Luigi Mangione: O Assassino do CEO (2025)	dub=https://embedplayer2.xyz/cdn/hls/9172dc748d184a3c6d067543a07de56b/master.txt,6:1313126,2:312301,10:2452864,8:312301	leg=6:1313125,2:312302,10:2450497,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/77411.mp4,8:312302
 Luis Fernando Verissimo - O FIlme	dub=10:2444852,10:2445101
 Luiz Gonzaga: Légua Tirana	dub=https://embedplayer2.xyz/cdn/hls/19496f555216f9a15027d5c329dfd04f/master.txt,2:357783,10:2445075,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/646.mp4,8:357783
-Luiz Melodia - No Coração do Brasil	dub=2:370437,10:2444451,10:2445116,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249248.mp4,8:370437
+Luiz Melodia - No Coração do Brasil	dub=2:370437,10:2444451,10:2445116,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249248.mp4,8:370437,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luiz%20Melodia%20-%20No%20Coracao%20do%20Brasil%20_2025_%20_tmdb_1262155_112592cf.mp4
 Lukas	dub=2:22041,10:2457988,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4754.mp4,8:22041
-Lukas (2018)	dub=6:1301909
+Lukas (2018)	dub=6:1301909,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Lukas%20_2018_%20_tmdb_525554_9b4870ea.mp4
 Luke no Afeganistao (2011)	dub=6:1302364
 Lulli (2021)	dub=https://embedplayer2.xyz/cdn/hls/ae5b9ee83588277375ac63ce2df4c7fc/master.txt,6:1299093,2:144862,10:2451153,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38473.mp4,8:144862
 Lulu Live	dub=2:133086,8:133086
@@ -822,7 +822,7 @@ Lupin III: O Segredo de Mamo	dub=10:2459591
 Lupin the Third: Greatest Capers	dub=10:2460629
 Luta Pela Fe: A Historia do Padre Stu (2022)	dub=6:1300093
 Luta Pela Fé	dub=2:85156,10:2457235,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27465.mp4,8:85156
-Luta Pela Fé (2019)	dub=6:1308570
+Luta Pela Fé (2019)	dub=6:1308570,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Luta%20Pela%20F%20_2019_%20_tmdb_616464_4bf6e615.mp4
 Luta Pela Fé: A História do Padre Stu	dub=2:163293,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56707.mp4,8:163293,2:161515,2:161508,10:2456680,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27470.mp4,8:161515,8:161508
 Luta Pela Liberdade (2010)	dub=6:1301295
 Luta Pela Liberdade (2021)	dub=6:1303973

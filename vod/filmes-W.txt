@@ -28,7 +28,7 @@ Wander	dub=2:190581,10:2445825,10:2454957,http://dbonline.tech-cdn.top:80/movie/
 Wander (2020)	dub=6:1306126	leg=6:1306127
 Wander Darkly: Sem Rumo	dub=10:2446460
 Wander Darkly: Sem Rumo (2020)	dub=6:1304499	leg=6:1304500
-Wander to Wonder	dub=10:2449452	leg=2:314603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95915.mp4,8:314603
+Wander to Wonder	dub=10:2449452,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/1156605/Wander_to_Wonder_Legendado_HD.mp4	leg=2:314603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95915.mp4,8:314603
 Wanted Man: Marcado Para Morrer (2024)	dub=https://embedplayer2.xyz/cdn/hls/d0d2c6383c1da9ce58bd7df4805e829f/master.txt,6:1303695,2:281762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59301.mp4,8:281762,2:259353,10:2448890,10:2453933,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8164.mp4,8:259353	leg=6:1303694,2:259354,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95920.mp4,8:259354
 War in the USA	dub=10:2450316	leg=2:318603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95931.mp4,8:318603
 War in the USA (2025)	leg=6:1313428
@@ -48,10 +48,10 @@ Wasp Network: Rede de Espiões	dub=2:48219,10:2457281,http://dbonline.tech-cdn.t
 Wastelander - Guerreiros do Deserto	dub=2:193273,10:2458725,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36726.mp4,8:193273	leg=2:193272,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95960.mp4,8:193272
 Wastelander - Guerreiros do Deserto (2018)	dub=6:1312811
 Wastelanders (2022)	dub=6:1311618	leg=6:1311619
-Wasteman	leg=2:394745,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314606.mp4,8:394745
+Wasteman	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Wasteman%20_2026_%20_tmdb_1307373_00a46c56.mp4	leg=2:394745,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314606.mp4,8:394745
 Watchmen: Capitulo II (2024)	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt	leg=6:1312543
 Watchmen: Capítulo 1	dub=2:318451,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59306.mp4,8:318451,2:318450,10:2448655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11795.mp4,8:318450	leg=2:318452,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95949.mp4,8:318452
-Watchmen: Capítulo 1 (2024)	leg=6:1311945
+Watchmen: Capítulo 1 (2024)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Watchmen_%20Capitulo%201%20_2024_%20_tmdb_1155058_0944c44a.mp4	leg=6:1311945
 Watchmen: Capítulo 2	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt,2:318454,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59307.mp4,8:318454,2:318453,10:2450192,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11799.mp4,8:318453	leg=2:318455,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95954.mp4,8:318455
 Watchmen: O Filme	dub=2:327010,10:2458839,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36723.mp4,8:327010
 Watchmen: O Filme (2009)	dub=6:1307147
@@ -111,7 +111,7 @@ Wicked (2024)	dub=https://embedplayer2.xyz/cdn/hls/d2f93c93a207b0a1e0edc4a917268
 Wicked Parte 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt,6:1314199	leg=6:1314198
 Wicked: Parte II	dub=https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt,2:359264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59318.mp4,8:359264,2:359207,10:2445044,10:2461840,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1323.mp4,8:359207	leg=2:359206,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96058.mp4,8:359206
 Wig	dub=2:25116,10:2453186,8:25116
-Wig (2019)	dub=6:1308489
+Wig (2019)	dub=6:1308489,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Wig%20_2019_%20_tmdb_596670_ada9560f.mp4
 Wild Appalachia	dub=2:348828,8:348828
 Wild Beast	dub=2:194204,8:194204
 Wild Bill	dub=2:190628,10:2447182,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35340.mp4,8:190628
@@ -169,7 +169,7 @@ Women Is Losers	dub=2:221627,10:2457489,http://dbonline.tech-cdn.top:80/movie/ke
 Women Is Losers (2021)	dub=6:1302691
 Wonder Woman (1984)	leg=2:90757,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96154.mp4,8:90757
 Wonderland	dub=2:276116,10:2447256,10:2458846,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36738.mp4,8:276116	leg=2:276117,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96162.mp4,8:276117
-Wonderland (2024)	dub=6:1309183
+Wonderland (2024)	dub=6:1309183,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Wonderland%20_2024_%20_tmdb_635996_6e0691bf.mp4
 Wonka (2023)	dub=https://embedplayer2.xyz/cdn/hls/484e4769e3190e2326f136e9103d4463/master.txt,6:1303097,2:241912,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59338.mp4,8:241912,2:241911,10:2447217,10:2460462,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20948.mp4,8:241911	leg=6:1303096,2:241913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96167.mp4,8:241913
 Working Girls	leg=2:102483,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96200.mp4,8:102483
 Wormtown	dub=https://embedplayer2.xyz/cdn/hls/41ea51d4fcdc3100cdb68402bd75ea55/master.txt	leg=2:373799,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253598.mp4,8:373799
