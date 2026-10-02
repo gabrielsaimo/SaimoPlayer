@@ -1,0 +1,948 @@
+{
+  "filmes-#.txt": {
+    "100 Rifles (1969)": {
+      "tmdb": "37308"
+    },
+    "2101 (2014)": {
+      "tmdb": "499273"
+    }
+  },
+  "filmes-A.txt": {
+    "A Dança das Paixões (1998)": {
+      "tmdb": "5332"
+    },
+    "A Dupla Vida de Véronique (1991)": {
+      "tmdb": "1600"
+    },
+    "A Face do Predador (2007)": {
+      "tmdb": "24683"
+    },
+    "A Garota Final (2015)": {
+      "tmdb": "277558"
+    },
+    "A História de Wim de A a Z (2015)": {
+      "tmdb": "334935"
+    },
+    "A Intervenção (2016)": {
+      "tmdb": "351242"
+    },
+    "A Invasão das Aranhas Gigantes (1975)": {
+      "tmdb": "39154"
+    },
+    "A Lenda do Demônio (1989)": {
+      "tmdb": "48624"
+    },
+    "A Mais Louca Sexta-Feira em Apuros (2002)": {
+      "tmdb": "10426"
+    },
+    "A Maldição de Villisca (2017)": {
+      "tmdb": "401065"
+    },
+    "A Mulher de um Espião (2020)": {
+      "tmdb": "688301"
+    },
+    "A Música do Silêncio (2017)": {
+      "tmdb": "475242"
+    },
+    "A Noite dos Demônios 2 (1994)": {
+      "tmdb": "24925"
+    },
+    "A Pedra Mágica (2009)": {
+      "tmdb": "25132"
+    },
+    "A Polka do Pica-Pau (1951)": {
+      "tmdb": "204814"
+    },
+    "A Rainha dos Renegados (1953)": {
+      "tmdb": "77645"
+    },
+    "A Turma da Floresta 2: Ao Redor do Mundo (2023)": {
+      "tmdb": "1034055"
+    },
+    "A Turma do Boliche (2000)": {
+      "tmdb": "72753"
+    },
+    "A Um Passo da Eternidade (1953)": {
+      "tmdb": "11426"
+    },
+    "A Vida Secreta dos Orangotangos (2024)": {
+      "tmdb": "1239121"
+    },
+    "A Vingança dos Sapos Assassinos (1992)": {
+      "tmdb": "96469"
+    },
+    "A Volta de Frank James (1940)": {
+      "tmdb": "43821"
+    },
+    "Aaron Carter: O Pequeno Príncipe do Pop (2023)": {
+      "tmdb": "1119823"
+    },
+    "Acampamento com as Amigas (2024)": {
+      "tmdb": "1094009"
+    },
+    "Albert Nobbs (2011)": {
+      "tmdb": "73873"
+    },
+    "Além do Troféu (2012)": {
+      "tmdb": "179192"
+    },
+    "Almôndegas 3 (1986)": {
+      "tmdb": "40772"
+    },
+    "Amor à Toda Velocidade (1964)": {
+      "tmdb": "2098"
+    },
+    "Andron: O Labirinto Negro (2015)": {
+      "tmdb": "395883"
+    },
+    "Antes Que Eu Vá (2017)": {
+      "tmdb": "397837"
+    },
+    "Arthur - O Milionário Arruinado (1988)": {
+      "tmdb": "26044"
+    },
+    "As 7 Bruxas (2017)": {
+      "tmdb": "452895"
+    },
+    "As Faces de Helen (2009)": {
+      "tmdb": "1731"
+    },
+    "As Mercenárias (2014)": {
+      "tmdb": "277597"
+    },
+    "As Tartarugas Ninja: Caos Mutante (2023)": {
+      "tmdb": "614930"
+    },
+    "AVANTE: Nos Bastidores de Guardiões da Galáxia Volume 3 (2023)": {
+      "tmdb": "1165487"
+    }
+  },
+  "filmes-B.txt": {
+    "Bancários (2020)": {
+      "tmdb": "759331"
+    },
+    "Banquete no Inferno 2: Segundos Repulsivos (2008)": {
+      "tmdb": "13797"
+    },
+    "Beavis e Butt-Head Detonam a América (1996)": {
+      "tmdb": "3179"
+    },
+    "Ben 10 e Mutante Rex: Heróis Unidos (2011)": {
+      "tmdb": "402200"
+    },
+    "Beyoncé - I Am... World Tour (2010)": {
+      "tmdb": "51499"
+    },
+    "Bios. Vidas que Marcaram a sua: Mercedes Sosa (2022)": {
+      "tmdb": "951735"
+    },
+    "Brooklyn (2015)": {
+      "tmdb": "291678"
+    },
+    "Brutal Glory (1989)": {
+      "tmdb": "434638"
+    },
+    "Buried Secrets of Cordoba (2019)": {
+      "tmdb": "657310"
+    },
+    "Busca Explosiva 3 (2013)": {
+      "tmdb": "171581"
+    }
+  },
+  "filmes-C.txt": {
+    "Caipira (2012)": {
+      "tmdb": "94363"
+    },
+    "Caleuche: O Chamado do Mar (2012)": {
+      "tmdb": "259586"
+    },
+    "Capone, O Gângster (1975)": {
+      "tmdb": "18710"
+    },
+    "Charro! (1969)": {
+      "tmdb": "18688"
+    },
+    "Cheetah (1989)": {
+      "tmdb": "65157"
+    },
+    "Cidade Maldita (1980)": {
+      "tmdb": "28319"
+    },
+    "Cine Holliúdy - O Astista Contra o Caba do Mal (2004)": {
+      "tmdb": "410760"
+    },
+    "Ciranda de Ilusões (1987)": {
+      "tmdb": "79615"
+    },
+    "Circo dos Horrores (1960)": {
+      "tmdb": "27405"
+    },
+    "Colheita Maldita 666: Isaac Está de Volta (1999)": {
+      "tmdb": "25752"
+    },
+    "Conexão Ásia (2016)": {
+      "tmdb": "397003"
+    },
+    "Conspiração Diabólica (2020)": {
+      "tmdb": "711715"
+    },
+    "Corre, Mulher, Corre (2021)": {
+      "tmdb": "845191"
+    },
+    "Cosas Imposibles (2021)": {
+      "tmdb": "667257"
+    },
+    "Counterintelligence (2020)": {
+      "tmdb": "750809"
+    },
+    "Coup de chaud (2015)": {
+      "tmdb": "351186"
+    },
+    "Cowboys do Espaço (2000)": {
+      "tmdb": "5551"
+    },
+    "Criatura Misteriosa (2020)": {
+      "tmdb": "695452"
+    },
+    "Crimes Cibernéticos (2019)": {
+      "tmdb": "614715"
+    },
+    "Criminosos e Anjos (2016)": {
+      "tmdb": "376501"
+    },
+    "Crô: O Filme (2013)": {
+      "tmdb": "227968"
+    }
+  },
+  "filmes-D.txt": {
+    "D-War: Guerra dos Dragões (2007)": {
+      "tmdb": "10253"
+    },
+    "Daddy Cool: Join the Fun (2009)": {
+      "tmdb": "21606"
+    },
+    "Dahmer (2002)": {
+      "tmdb": "25853"
+    },
+    "Dave Chappelle: Sticks & Stones (2019)": {
+      "tmdb": "624932"
+    },
+    "David Bowie: Out of this World (2021)": {
+      "tmdb": "976867"
+    },
+    "Dead Rising: Watchtower - O Filme (2015)": {
+      "tmdb": "293771"
+    },
+    "Deer Camp '86 (2024)": {
+      "tmdb": "1041517"
+    },
+    "Deive Leonardo - Antes & Depois (2025)": {
+      "tmdb": "1525499"
+    },
+    "(des)conhecidos (2022)": {
+      "tmdb": "1141544"
+    },
+    "Destruição: Los Angeles (2020)": {
+      "tmdb": "467342"
+    },
+    "Dois Amigos Bem Chapados (2017)": {
+      "tmdb": "467431"
+    },
+    "Domínios Escuros (2017)": {
+      "tmdb": "548859"
+    },
+    "Dragões em Dose Dupla (1992)": {
+      "tmdb": "18764"
+    },
+    "Dragon Tiger Gate (2006)": {
+      "tmdb": "15860"
+    },
+    "Dresden (2008)": {
+      "tmdb": "968374"
+    },
+    "Duda e os Gnomos (2017)": {
+      "tmdb": "466876"
+    }
+  },
+  "filmes-E.txt": {
+    "Ed e Lorraine Warren: A Ordem do Demônio (2021)": {
+      "tmdb": "837780"
+    },
+    "El Pepe, Uma Vida Suprema (2019)": {
+      "tmdb": "538620"
+    },
+    "Elas São do Baralho (1977)": {
+      "tmdb": "270526"
+    },
+    "Em Defesa do Paraíso (2016)": {
+      "tmdb": "533697"
+    },
+    "Em Lados Opostos (2018)": {
+      "tmdb": "553425"
+    },
+    "Emma: Uma Menina de Fé (2019)": {
+      "tmdb": "554579"
+    },
+    "Encontro (2016)": {
+      "tmdb": "694774"
+    },
+    "Entrega Mortal (1989)": {
+      "tmdb": "31606"
+    },
+    "Ernest e As Jóias da Coroa (1993)": {
+      "tmdb": "34300"
+    },
+    "Escola: Os Piores Anos da Minha Vida (2016)": {
+      "tmdb": "369883"
+    },
+    "Espião Por Acaso (2016)": {
+      "tmdb": "414690"
+    },
+    "Esquadrão Fantasma (2015)": {
+      "tmdb": "359869"
+    },
+    "Esta Noite Encarnarei no Teu Cadáver (1967)": {
+      "tmdb": "30914"
+    },
+    "Eureka Seven Hi-Evolution 2: Anemone (2018)": {
+      "tmdb": "550080"
+    },
+    "eXistenZ (1999)": {
+      "tmdb": "1946"
+    }
+  },
+  "filmes-F.txt": {
+    "Face a Face com o Inimigo (1992)": {
+      "tmdb": "5765"
+    },
+    "Falcão: Meninos do Tráfico (2006)": {
+      "tmdb": "77782"
+    },
+    "Fatal (2002)": {
+      "tmdb": "10855"
+    },
+    "Felipe Neto: Minha Vida Não Faz Sentido (2017)": {
+      "tmdb": "448723"
+    },
+    "Ferngully - As Aventuras de Zack e Crysta na Floresta Tropical (1992)": {
+      "tmdb": "13225"
+    },
+    "Filho de Caim (2013)": {
+      "tmdb": "161823"
+    },
+    "Film balkonowy (2021)": {
+      "tmdb": "846892"
+    },
+    "Força Para Lutar (2017)": {
+      "tmdb": "611607"
+    },
+    "Frágil (2024)": {
+      "tmdb": "1078959"
+    },
+    "Fuga Alucinada (1974)": {
+      "tmdb": "19017"
+    },
+    "Fúria Silenciosa (1982)": {
+      "tmdb": "27150"
+    }
+  },
+  "filmes-G.txt": {
+    "Gata em Fuga (2011)": {
+      "tmdb": "57353"
+    },
+    "Guerra (2020)": {
+      "tmdb": "752592"
+    }
+  },
+  "filmes-H.txt": {
+    "Haut les mains ! (2025)": {
+      "tmdb": "1193450"
+    },
+    "Hawks (1988)": {
+      "tmdb": "115616"
+    },
+    "Hércules, Sansão e Ulisses (1963)": {
+      "tmdb": "44457"
+    },
+    "Herencia (2023)": {
+      "tmdb": "1089808"
+    },
+    "Herman Vermoordt Mensen (2021)": {
+      "tmdb": "922324"
+    },
+    "Highlander: A Origem (2007)": {
+      "tmdb": "13360"
+    }
+  },
+  "filmes-I.txt": {
+    "In punta di piedi (2018)": {
+      "tmdb": "502786"
+    },
+    "Inconcebível (2008)": {
+      "tmdb": "44202"
+    },
+    "Indestrutível": {
+      "tmdb": "556018"
+    },
+    "Injustice System (2021)": {
+      "tmdb": "800590"
+    },
+    "Inseparáveis (2013)": {
+      "tmdb": "217412"
+    },
+    "Insubordinados (2015)": {
+      "tmdb": "331637"
+    },
+    "Intervenção, É Proibido Morrer (2021)": {
+      "tmdb": "651915"
+    },
+    "Intrusos (2011)": {
+      "tmdb": "63207"
+    },
+    "Invincible: Atom Eve (2023)": {
+      "tmdb": "1675955"
+    }
+  },
+  "filmes-J.txt": {
+    "Jéca Tatu (1959)": {
+      "tmdb": "120753"
+    },
+    "Jecão... Um Fofoqueiro no Céu (1977)": {
+      "tmdb": "232474"
+    },
+    "Jiang Ziya (2020)": {
+      "tmdb": "635389"
+    },
+    "Jimi: Tudo a Meu Favor (2013)": {
+      "tmdb": "192133"
+    },
+    "João, o Maestro (2017)": {
+      "tmdb": "466870"
+    },
+    "Jogada da Vida (2024)": {
+      "tmdb": "856161"
+    },
+    "Jogos de Assassinos (2013)": {
+      "tmdb": "224778"
+    },
+    "Jogos Mortais 0.5 (2003)": {
+      "tmdb": "246355"
+    },
+    "Judas Collar (2018)": {
+      "tmdb": "523244"
+    },
+    "Julgamento Final (1991)": {
+      "tmdb": "15771"
+    },
+    "Juntos, Mas Nem Tanto (2018)": {
+      "tmdb": "505524"
+    }
+  },
+  "filmes-K.txt": {
+    "Kingdom 4: O Retorno do Grande General (2024)": {
+      "tmdb": "1241320"
+    },
+    "Kiriku – Os Animais Selvagens (2005)": {
+      "tmdb": "13679"
+    },
+    "Kristy (2014)": {
+      "tmdb": "146229"
+    },
+    "Kung Fu Panda: Os Segredos dos Cinco Furiosos (2008)": {
+      "tmdb": "15854"
+    }
+  },
+  "filmes-L.txt": {
+    "Ladrão de Casaca (1955)": {
+      "tmdb": "381"
+    },
+    "Ladrões de Carros (1995)": {
+      "tmdb": "39310"
+    },
+    "Lapua 1976 (2023)": {
+      "tmdb": "1068427"
+    },
+    "« Le Chevalier au dragon », le roman disparu de la Table ronde (2023)": {
+      "tmdb": "1206857"
+    },
+    "Le Routard (2025)": {
+      "tmdb": "1191666"
+    },
+    "LEGO Super Heroes: DC Liga da Justiça - Revolta em Gotham (2016)": {
+      "tmdb": "396330"
+    },
+    "Lembrança (2010)": {
+      "tmdb": "89885"
+    },
+    "Libertos: O Preço da Vida (2018)": {
+      "tmdb": "560966"
+    },
+    "Lola Contra o Mundo (2012)": {
+      "tmdb": "100529"
+    },
+    "Lorelei (2021)": {
+      "tmdb": "906237"
+    },
+    "Loucamente Por Você (2025)": {
+      "tmdb": "1489187"
+    },
+    "Louis Tomlinson: All of Those Voices (2023)": {
+      "tmdb": "1084072"
+    },
+    "Love Live! Nijigasaki High School Idol Club NEXT SKY (2023)": {
+      "tmdb": "1053075"
+    },
+    "Love Virtually (2023)": {
+      "tmdb": "1139007"
+    },
+    "Luar Sobre Parador (1988)": {
+      "tmdb": "34014"
+    },
+    "Lula, o Filho do Brasil (2010)": {
+      "tmdb": "43615"
+    },
+    "Lutando contra o Tempo (2011)": {
+      "tmdb": "50765"
+    },
+    "Luz, Câmera, 50 Anos: Lampião e Maria Bonita - O Filme (2015)": {
+      "tmdb": "327464"
+    }
+  },
+  "filmes-M.txt": {
+    "Mara Maravilha - Para os Pequeninos Vol. 3 (2007)": {
+      "tmdb": "1287251"
+    },
+    "Marui Video (2023)": {
+      "tmdb": "977155"
+    },
+    "Maxine (2023)": {
+      "tmdb": "1143516"
+    },
+    "Meninas Brutais (2018)": {
+      "tmdb": "497269"
+    },
+    "Miguel Vem pro Fight (2023)": {
+      "tmdb": "1082425"
+    },
+    "Moisés O Maior Príncipe Do Egito (1998)": {
+      "tmdb": "229354"
+    },
+    "Morte por Encomenda (2011)": {
+      "tmdb": "54271"
+    },
+    "Motoqueiro Fantasma: Espírito de Vingança (2011)": {
+      "tmdb": "71676"
+    },
+    "MR-9: Missão Mortal (2023)": {
+      "tmdb": "1016346"
+    },
+    "Muitos Homens Num Só (2015)": {
+      "tmdb": "336182"
+    },
+    "Murderville: Quem Matou o Papai Noel? (2022)": {
+      "tmdb": "1050266"
+    },
+    "Murilo Couto: 2020 (2020)": {
+      "tmdb": "780087"
+    }
+  },
+  "filmes-N.txt": {
+    "Na Mira do Medo (2018)": {
+      "tmdb": "539619"
+    },
+    "Na Trilha do Assassino (2009)": {
+      "tmdb": "22398"
+    },
+    "Noites de Amor, Dias de Confusão (1968)": {
+      "tmdb": "32831"
+    },
+    "Nossa História de Amor (2019)": {
+      "tmdb": "576583"
+    },
+    "Nosso Fiel Traidor (2016)": {
+      "tmdb": "205588"
+    },
+    "Nunca Convide o Seu Ex (2017)": {
+      "tmdb": "450477"
+    }
+  },
+  "filmes-O.txt": {
+    "O Amanhecer da Guerra (2020)": {
+      "tmdb": "592371"
+    },
+    "O Bolo do Presidente (2025)": {
+      "tmdb": "1464883"
+    },
+    "O Corredor Fantasma (2009)": {
+      "tmdb": "33326"
+    },
+    "O Corvo: Vingança Maldita (2005)": {
+      "tmdb": "16456"
+    },
+    "O Desaparecimento de Zoe (2014)": {
+      "tmdb": "265602"
+    },
+    "O Estranho Caso de Cornelius Bloom (2018)": {
+      "tmdb": "499724"
+    },
+    "O Exorcismo de Carmen Farías (2021)": {
+      "tmdb": "675024"
+    },
+    "O Expresso Blindado da S.S. Nazista (1978)": {
+      "tmdb": "22311"
+    },
+    "O Forasteiro 2 (2006)": {
+      "tmdb": "18070"
+    },
+    "O Gato de Madame (1957)": {
+      "tmdb": "232516"
+    },
+    "O Grande Tiro (2019)": {
+      "tmdb": "574894"
+    },
+    "O Guarda-Costas 2 (2007)": {
+      "tmdb": "20264"
+    },
+    "O Homem Duplo (2006)": {
+      "tmdb": "3509"
+    },
+    "O Homem Nu (1997)": {
+      "tmdb": "52347"
+    },
+    "O Homem Torto (2016)": {
+      "tmdb": "418585"
+    },
+    "O Império do Desejo (1981)": {
+      "tmdb": "163252"
+    },
+    "O Lamparina (1964)": {
+      "tmdb": "184419"
+    },
+    "O Menino Mensageiro (2020)": {
+      "tmdb": "773125"
+    },
+    "O Pequeno Grande Time (1994)": {
+      "tmdb": "20726"
+    },
+    "O Plano de Sexta à Noite (2023)": {
+      "tmdb": "1160562"
+    },
+    "O Preço do Desafio (1988)": {
+      "tmdb": "29154"
+    },
+    "O Profeta (2009)": {
+      "tmdb": "21575"
+    },
+    "O Que Fazemos nas Sombras (2014)": {
+      "tmdb": "246741"
+    },
+    "O Queridinho da Vovó (2006)": {
+      "tmdb": "9900"
+    },
+    "O Redentor (2016)": {
+      "tmdb": "464723"
+    },
+    "O Reino (2007)": {
+      "tmdb": "4349"
+    },
+    "O Retorno do Morto-Vivo (2023)": {
+      "tmdb": "691363"
+    },
+    "O Rio Selvagem (1994)": {
+      "tmdb": "8987"
+    },
+    "O Segredo das Águas (2014)": {
+      "tmdb": "265193"
+    },
+    "O Senhor dos Mares (2011)": {
+      "tmdb": "79040"
+    },
+    "O Som de Deus (2015)": {
+      "tmdb": "376009"
+    },
+    "O Testamento da Vó (2020)": {
+      "tmdb": "676838"
+    },
+    "O Vingador da Noite (2006)": {
+      "tmdb": "32740"
+    },
+    "Olhos Sonhadores (2019)": {
+      "tmdb": "618010"
+    },
+    "Olivia Rodrigo: GUTS World Tour (2024)": {
+      "tmdb": "1365141"
+    },
+    "Onde Imperam as Balas (1956)": {
+      "tmdb": "136228"
+    },
+    "Os Meninos Que Enganavam Nazistas (2017)": {
+      "tmdb": "398924"
+    },
+    "Oscar's Handmade Halloween (2023)": {
+      "tmdb": "1193978"
+    },
+    "Ouija: Onde Tudo Começou (2011)": {
+      "tmdb": "207475"
+    }
+  },
+  "filmes-P.txt": {
+    "Pagando Bem, Que Mal Tem? (2008)": {
+      "tmdb": "10358"
+    },
+    "Par ou Ímpar (1978)": {
+      "tmdb": "11367"
+    },
+    "Para Ser Sincero (2004)": {
+      "tmdb": "256422"
+    },
+    "Parceiros Até o Fim (2004)": {
+      "tmdb": "16433"
+    },
+    "Perdido na Fama (2017)": {
+      "tmdb": "430682"
+    },
+    "Pink Floyd: The Wall (1982)": {
+      "tmdb": "12104"
+    },
+    "Pódio para Todos (2020)": {
+      "tmdb": "726887"
+    },
+    "Prazeres Secretos (2018)": {
+      "tmdb": "592041"
+    },
+    "Predadores Perigosos - Os Mais Temidos Dos Oceanos (2013)": {
+      "tmdb": "237523"
+    },
+    "Primal (2010)": {
+      "tmdb": "49958"
+    },
+    "Primeira Chegada (2018)": {
+      "tmdb": "470894"
+    },
+    "Prisão 77 (2022)": {
+      "tmdb": "913991"
+    },
+    "Psicose 2 (1983)": {
+      "tmdb": "10576"
+    },
+    "Psicose 3 (1986)": {
+      "tmdb": "12662"
+    },
+    "Pumpkinhead: De Volta das Cinzas (2006)": {
+      "tmdb": "35978"
+    }
+  },
+  "filmes-Q.txt": {
+    "Quem é JonBenet (2017)": {
+      "tmdb": "430826"
+    }
+  },
+  "filmes-R.txt": {
+    "Reboot Camp (2020)": {
+      "tmdb": "750600"
+    },
+    "Red Riding Hood (1987)": {
+      "tmdb": "66176"
+    },
+    "Rigor Mortis (2013)": {
+      "tmdb": "210911"
+    },
+    "Ringo e Sua Pistola de Ouro (1966)": {
+      "tmdb": "128513"
+    },
+    "Rise - A Ressurreição (2007)": {
+      "tmdb": "1872"
+    },
+    "Rompendo Barreiras: Nosso Planeta (2021)": {
+      "tmdb": "828146"
+    },
+    "Roohi (2021)": {
+      "tmdb": "694103"
+    },
+    "Rota Comando (2009)": {
+      "tmdb": "50335"
+    },
+    "Rumble Strip (2019)": {
+      "tmdb": "584898"
+    },
+    "Rupture: Superando O Medo (2016)": {
+      "tmdb": "345925"
+    }
+  },
+  "filmes-S.txt": {
+    "Sabrina (1995)": {
+      "tmdb": "11860"
+    },
+    "Salyut 7 (2017)": {
+      "tmdb": "438740"
+    },
+    "Samba (2014)": {
+      "tmdb": "269148"
+    },
+    "Sanremo (2020)": {
+      "tmdb": "768567"
+    },
+    "Scooby-Doo! Abracadabra-Doo (2010)": {
+      "tmdb": "32916"
+    },
+    "Scooby-Doo! em Cadê a minha Múmia (2005)": {
+      "tmdb": "20558"
+    },
+    "Shadows (2025)": {
+      "tmdb": "1595679"
+    },
+    "Shark Warning (2024)": {
+      "tmdb": "1321239"
+    },
+    "SiO2 (2020)": {
+      "tmdb": "757621"
+    },
+    "Snow White and the 7 Samurai (2024)": {
+      "tmdb": "1252168"
+    },
+    "Solteiros com Filhos (2012)": {
+      "tmdb": "80038"
+    },
+    "Something's Coming: West Side Story (2021)": {
+      "tmdb": "932104"
+    },
+    "Star Wars: A Guerra dos Clones (2008)": {
+      "tmdb": "12180"
+    },
+    "Star Wars: Os Últimos Jedi (2017)": {
+      "tmdb": "181808"
+    },
+    "Sting (2024)": {
+      "tmdb": "1273633"
+    },
+    "Suaves e Discretas (2022)": {
+      "tmdb": "934131"
+    },
+    "Submersão (2018)": {
+      "tmdb": "375327"
+    }
+  },
+  "filmes-T.txt": {
+    "Tentáculos (1998)": {
+      "tmdb": "9457"
+    },
+    "Terrifier 2 (2022)": {
+      "tmdb": "663712"
+    },
+    "Texas Rangers: Acima da Lei (2001)": {
+      "tmdb": "13503"
+    },
+    "Thank You, Next (2023)": {
+      "tmdb": "1043804"
+    },
+    "The Alpines (2021)": {
+      "tmdb": "853566"
+    },
+    "The Boathouse (2021)": {
+      "tmdb": "799861"
+    },
+    "The Funniest Man in the World (1967)": {
+      "tmdb": "204474"
+    },
+    "The Islands (2019)": {
+      "tmdb": "655234"
+    },
+    "The Lady of the Lake (2024)": {
+      "tmdb": "1319651"
+    },
+    "The Matchmaker's Playbook (2018)": {
+      "tmdb": "510938"
+    },
+    "The Thinning: New World Order (2018)": {
+      "tmdb": "496274"
+    },
+    "Thomas e Seus Amigos: O Mistério da Montanha Azul (2012)": {
+      "tmdb": "132156"
+    },
+    "Tintim e o Lago dos Tubarões (1972)": {
+      "tmdb": "241004"
+    },
+    "Titane (2021)": {
+      "tmdb": "630240"
+    },
+    "Tom e Jerry: O Filme (2021)": {
+      "tmdb": "587807"
+    },
+    "Toxina Mortal (2015)": {
+      "tmdb": "322061"
+    },
+    "Trair e Coçar é Só Começar (2006)": {
+      "tmdb": "71196"
+    },
+    "Três Mulheres, Três Amores (1988)": {
+      "tmdb": "11191"
+    }
+  },
+  "filmes-U.txt": {
+    "Um Cowboy no Havaí (1974)": {
+      "tmdb": "80351"
+    },
+    "Um Crime no Concurso de Sobremesas (2017)": {
+      "tmdb": "436401"
+    },
+    "Um Homem Chamado Ove (2015)": {
+      "tmdb": "348678"
+    },
+    "Um Natal com Quebra-Nozes (2016)": {
+      "tmdb": "421623"
+    },
+    "Um Sequestro Esquecido (2020)": {
+      "tmdb": "689782"
+    },
+    "Um Verão Para Recordar (2022)": {
+      "tmdb": "706637"
+    }
+  },
+  "filmes-V.txt": {
+    "Valiant: Um Herói que Vale a Pena (2005)": {
+      "tmdb": "14175"
+    },
+    "Vampiros de Almas (1956)": {
+      "tmdb": "11549"
+    },
+    "Verão 2003 (2018)": {
+      "tmdb": "501630"
+    },
+    "Verão em Staten Island (2015)": {
+      "tmdb": "343934"
+    },
+    "Verônica: Jogo Sobrenatural (2017)": {
+      "tmdb": "441701"
+    },
+    "Vigaristas (2008)": {
+      "tmdb": "21755"
+    },
+    "Violet Evergarden: Memórias (2021)": {
+      "tmdb": "1052946"
+    },
+    "Vuelve Sebastiana (1953)": {
+      "tmdb": "129131"
+    }
+  },
+  "filmes-W.txt": {
+    "Warren Jeffs: Profeta da Lei (2014)": {
+      "tmdb": "279171"
+    },
+    "WCW Greed (2001)": {
+      "tmdb": "227138"
+    },
+    "Whindersson Nunes: Proparoxítona (2017)": {
+      "tmdb": "495026"
+    }
+  },
+  "filmes-Y.txt": {
+    "Yiya Murano: Morte na Hora do Chá (2026)": {
+      "tmdb": "1661439"
+    }
+  },
+  "filmes-Z.txt": {
+    "Zeitgeist: O Filme (2007)": {
+      "tmdb": "13016"
+    }
+  }
+}

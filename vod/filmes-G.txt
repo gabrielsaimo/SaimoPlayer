@@ -122,7 +122,7 @@ Gasoline Rainbow	dub=10:2447581	leg=2:264114,http://dbonline.tech-cdn.top:80/mov
 Gasoline Rainbow (2024)	leg=6:1304988
 Gasparzinho, o Fantasminha Camarada	dub=2:386805,2:105242,10:2458500,8:386805,8:105242	leg=2:386804,8:386804
 Gasparzinho, o Fantasminha Camarada (1995)	dub=6:1309008
-Gata em Fuga (2011)	dub=/api/proxy-video?url=https%3A%2F%2Flinktudi.com%2Fcdn%2Fhls%2F6f72f71a96a45b4241b6188474862914%2Fmaster.txt,/api/proxy-video?url=https%3A%2F%2Flinktudi.com%2Fcdn%2Fhls%2F6f72f71a96a45b4241b6188474862914%2Fmaster.txt	tmdb=57353
+Gata em Fuga (2011)	dub=https://linktudi.com/cdn/hls/6f72f71a96a45b4241b6188474862914/master.txt,https://linktudi.com/cdn/hls/6f72f71a96a45b4241b6188474862914/master.txt
 Gatao: Tal Pai, Tal Filho	leg=2:320084,8:320084
 Gatilheiro (2025)	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,6:1313860,10:2445268
 Gatillero	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,2:345275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44626.mp4,8:345275	leg=2:345274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73451.mp4,8:345274
@@ -551,7 +551,7 @@ Guarnieri	dub=2:388686,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Guaxinins Assassinos: Armados Até os Dentes	dub=2:254649,10:2447702,10:2452263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49025.mp4,8:254649	leg=2:254650,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73930.mp4,8:254650
 Guaxinins Assassinos: Armados Até os Dentes (2019)	dub=6:1310896	leg=6:1310897
 Guaxuma	dub=2:292298,10:2452949,8:292298
-Guerra (2020)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20_2020_%20_tmdb_752592_a02fe94b.mp4	tmdb=752592
+Guerra (2020)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20_2020_%20_tmdb_752592_a02fe94b.mp4
 Guerra 2	dub=2:356892,10:2445133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/551.mp4,8:356892	leg=2:356891,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73934.mp4,8:356891
 Guerra Alienígena	dub=2:193050,10:2458721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35901.mp4,8:193050	leg=2:193051,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73925.mp4,8:193051
 Guerra Alienígena (2018)	dub=6:1305790,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Alien_gena%20_2018_%20_tmdb_516237_a62a84fc.mp4	leg=6:1305791
