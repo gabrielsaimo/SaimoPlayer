@@ -1,3 +1,29 @@
+@Clique
+1	1	dub	3:33311,11:2156007,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207336.mp4,9:33311
+1	2	dub	3:33312,11:2156008,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207337.mp4,9:33312
+1	3	dub	3:33313,11:2156009,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207338.mp4,9:33313
+1	4	dub	3:33314,11:2156010,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207339.mp4,9:33314
+1	5	dub	3:33315,11:2156011,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207340.mp4,9:33315
+1	6	dub	3:33316,11:2156012,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207341.mp4,9:33316
+2	1	dub	3:33839,11:2156013,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207342.mp4,9:33839
+2	2	dub	3:33840,11:2156014,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207343.mp4,9:33840
+2	3	dub	3:33841,11:2156015,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207344.mp4,9:33841
+2	4	dub	3:33842,11:2156016,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207345.mp4,9:33842
+2	5	dub	3:33843,11:2156017,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207346.mp4,9:33843
+2	6	dub	3:33844,11:2156018,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207347.mp4,9:33844
+@Clockwork Planet
+1	1	leg	7:1458825
+1	2	leg	7:1458826
+1	3	leg	7:1458827
+1	4	leg	7:1458828
+1	5	leg	7:1458829
+1	6	leg	7:1458830
+1	7	leg	7:1458831
+1	8	leg	7:1458832
+1	9	leg	7:1458833
+1	10	leg	7:1458834
+1	11	leg	7:1458835
+1	12	leg	7:1458836
 @Club 57
 1	1	dub	3:32844,11:2167247,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226339.mp4,9:32844
 1	2	dub	3:32845,11:2167248,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/226340.mp4,9:32845
@@ -4520,21 +4546,3 @@
 1	14	dub	3:193727,11:2186836,7:1432687,9:193727
 1	15	dub	3:193728,11:2186837,7:1432688,9:193728
 1	16	dub	3:193729,11:2186838,7:1432689,9:193729
-@Conexões
-1	1	dub	3:187963,11:2173326,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28714.mp4,7:1419801,9:187963
-1	2	dub	3:188510,11:2173327,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28715.mp4,7:1419802,9:188510
-1	3	dub	3:189208,11:2173328,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28716.mp4,7:1419803,9:189208
-1	4	dub	3:189737,11:2173329,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28717.mp4,7:1419804,9:189737
-1	5	dub	3:190439,11:2173330,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28719.mp4,7:1419805,9:190439
-1	6	dub	3:191026,11:2173331,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28720.mp4,7:1419806,9:191026
-1	7	dub	3:354539,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28721.mp4,9:354539
-1	8	dub	3:354540,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/28722.mp4,9:354540
-@Conexões de Risco
-1	1	dub	11:2271378
-1	2	dub	11:2271379
-1	3	dub	11:2271380
-1	4	dub	11:2271381
-1	5	dub	11:2271382
-1	6	dub	11:2271383
-1	7	dub	11:2271384
-1	8	dub	11:2271385

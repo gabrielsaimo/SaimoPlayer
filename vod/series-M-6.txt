@@ -150,13 +150,13 @@
 1	9	dub	3:114053,11:2148366,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/215101.mp4,7:1344355,9:114053
 1	9	leg	3:92140,11:2289128,7:1342232,9:92140
 @Mrs. Fletcher
-1	1	dub	9:398564
-1	2	dub	9:398565
-1	3	dub	9:398566
-1	4	dub	9:398567
-1	5	dub	9:398568
-1	6	dub	9:398569
-1	7	dub	9:398570
+1	1	dub	3:398564,11:2471405,9:398564
+1	2	dub	3:398565,11:2471406,9:398565
+1	3	dub	3:398566,11:2471407,9:398566
+1	4	dub	3:398567,11:2471408,9:398567
+1	5	dub	3:398568,11:2471409,9:398568
+1	6	dub	3:398569,11:2471410,9:398569
+1	7	dub	3:398570,11:2471411,9:398570
 @Ms Incognito
 1	1	leg	3:346774,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/85627.mp4,9:346774
 1	2	leg	3:347080,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/85628.mp4,9:347080
@@ -1495,9 +1495,10 @@
 2	2	dub	3:394199,11:2467240,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313307.mp4,7:1502616,9:394199
 2	3	dub	3:394220,11:2467241,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313308.mp4,7:1502617,9:394220
 2	4	dub	3:394944,11:2468221,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314217.mp4,7:1502873,9:394944
-2	5	dub	3:395754,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314218.mp4,9:395754
-2	6	dub	3:397541,9:397541
-2	7	dub	9:398688
+2	5	dub	3:395754,11:2471771,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314218.mp4,9:395754
+2	6	dub	3:397541,11:2471772,9:397541
+2	7	dub	3:398688,11:2472056,9:398688
+2	8	dub	3:399235
 @Mulheres de Negro - Mujeres de Negro - Vestidas Para o Luto
 1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/295428.mp4
 1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/295429.mp4
@@ -2076,8 +2077,9 @@
 3	8	leg	3:395519,9:395519,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59589?hash=f482665563f4b07f4dbf8cf1
 3	9	dub	3:396538,11:2470446,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315620.mp4,9:396538
 3	9	leg	3:395520,9:395520,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59590?hash=9992eb64b9d0adba715f854e
-3	10	dub	3:398446,9:398446
+3	10	dub	3:398446,11:2471207,9:398446
 3	10	leg	3:395521,9:395521
+3	11	dub	3:399069
 @Mushoku no Eiyuu Betsu ni Skill Nanka Iranakatta n da ga
 1	1	leg	3:360568,9:360568
 1	2	leg	3:360569,9:360569

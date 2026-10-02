@@ -61,6 +61,7 @@ O Berserker da Gula		0	12
 O Bicho Vai Pegar O Chamado da Natureza		0	8
 O Blefe de 1 Milhão!		0	10
 O Bom Doutor		0	20
+O Bom Espírito: Por Trás das Portas da Opus Dei		0	3
 O Bombeiro Bilionario e Sua Doce Esposa		0	1
 O Bombeiro Sam		0	26
 O Bonde		0	16
@@ -117,7 +118,7 @@ O Clube		0	23
 O Clube - The Club		0	6
 O Clube - The club - Kulup		0	20
 O Clube da Meia-Noite		0	10
-O Clube das Babás		0	18
+O Clube das Babás		1	18
 O Clube das CEO		1	8
 O Clube das Coisas Mágicas		1	40
 O Clube das Divorciadas		1	29
@@ -237,7 +238,7 @@ O Grito das Mariposas		1	13
 O Grito: Origens		1	6
 O Guardiao		1	32
 O Guia Pratico do Amor		1	12
-O Gênio		1	97
+O Gênio		2	97
 O Hacker Adolescente Mais Procurado		2	4
 O Herdeiro - Veliaht		2	26
 O Herdeiro Impossivel		2	12
@@ -357,7 +358,7 @@ O Mistério de Chapelwaite		2	20
 O Mistério do Pico Victorio		2	6
 O Mistério do Triângulo das Bermudas		2	8
 O Mito de Sísifo		2	16
-O Monstro de Florenca	2025	2	4
+O Monstro de Florenca	2025	3	4
 O Monstro em Mim	2025	3	8
 O Mundo Ainda e Belo		3	3
 O Mundo E Um Teatro		3	11
@@ -446,6 +447,7 @@ O Primeiro Amor do Quarterback		3	1
 O Primo Basilio		3	16
 O Principe - The Prince - Prenz		3	23
 O Privilégio de Amar		3	155
+O Problema Final		3	4
 O Problema dos 3 Corpos	2024	3	16
 O Professor		3	23
 O Profeta		3	178
@@ -476,8 +478,8 @@ O Quinto dos Infernos		3	47
 O Rancho		3	120
 O Rastreador	2024	3	110
 O Rato		3	10
-O Rebu		3	36
-O Refugio		3	6
+O Rebu		4	36
+O Refugio		4	6
 O Refugio Atomico	2025	4	8
 O Regime	2024	4	12
 O Rei Eterno		4	16
@@ -543,7 +545,7 @@ O Sequestro do Voo 601		4	6
 O Sexo dos Anjos		4	6
 O Show da Luna		4	209
 O Show de Tom e Jerry		4	325
-O Show de Varnell Hill		4	5
+O Show de Varnell Hill		4	6
 O Show do Big Show		4	9
 O Show do Garfield		4	26
 O Show do Patrick Estrela		4	65
@@ -596,8 +598,8 @@ O Ultimo Verao		4	111
 O Ultimo Verao - Daai Crazy Somer - Son Yaz		4	26
 O Universo		4	86
 O Universo Misterios Revelados		4	4
-O Urso	2022	4	92
-O Valor Absoluto do Amor		4	16
+O Urso	2022	5	92
+O Valor Absoluto do Amor		5	16
 O Vazio		5	20
 O Velho Oeste com Kevin Costner		5	8
 O Vento Sopra		5	16
@@ -698,6 +700,7 @@ Olhos da Lei		5	32
 Olhos de Wakanda		5	4
 Olhos do Mar Negro - Gozleri Karadeniz		5	16
 Olhos que Condenam		5	4
+Olive Kitteridge		5	4
 Ollie, o Coelhinho Perdido		5	4
 Ololade		5	6
 Olympo		5	8
@@ -715,9 +718,9 @@ Once Upon a Witchs Death		5	12
 Onda - Donence		5	14
 Onda Boa com Ivete		5	5
 Onda de 100 Pés		5	12
-Onde Esta Amy Bradley		5	3
-Onde Esta a Wanda	2024	5	8
-Onde Está Meu Coração		5	10
+Onde Esta Amy Bradley		6	3
+Onde Esta a Wanda	2024	6	8
+Onde Está Meu Coração		6	10
 Onde Está Tim Lopes?		6	4
 Onde Nascem os Fortes		6	53
 Onde Seus Olhos se Prolongam		6	9
@@ -742,7 +745,7 @@ Only Boo		6	12
 Only Murders in the Building		6	100
 Onmyo Kaiten Re Birth Verse		6	12
 Onmyoji		6	13
-Oops! Mysterious Sounds		6	1
+Oops! Mysterious Sounds		6	2
 Operacao Alto Mar Estados Unidos		6	12
 Operacao Big Hero		6	46
 Operacao Encontre Meu Bebe		6	1
@@ -787,7 +790,7 @@ Orgulho e Familia		6	4
 Orgulho e Paixao		6	162
 Orgulho e Preconceito		6	6
 Orient		6	48
-Oriental Martial Academy		6	8
+Oriental Martial Academy		6	10
 Origem	2022	6	80
 Orphan Black		6	100
 Orphan Black Echoes		6	10
@@ -835,9 +838,9 @@ Os Caras Malvados No Pedaco		6	28
 Os Caras do Telemarketing		6	3
 Os Cariocas		6	10
 Os Casagrandes		6	60
-Os Casos de Harry Hole	2026	6	18
-Os Casos do Inspetor Vrenko		6	6
-Os Cavaleiros de Castelcorvo		6	15
+Os Casos de Harry Hole	2026	7	18
+Os Casos do Inspetor Vrenko		7	6
+Os Cavaleiros de Castelcorvo		7	15
 Os Cavaleiros do Zodiaco		7	114
 Os Cavaleiros do Zodiaco Alma de Ouro	2015	7	26
 Os Cavaleiros do Zodiaco Omega	2012	7	97
@@ -955,9 +958,9 @@ Os Segredos Da Biblia		7	6
 Os Segredos Por Tras da Segunda Guerra Mundial		7	6
 Os Segredos da Igreja Hillsong		7	4
 Os Segredos das Piramides		7	12
-Os Segredos de Anna		7	12
-Os Segredos de Manscheid		7	24
-Os Segredos de Tutancamon		7	3
+Os Segredos de Anna		8	12
+Os Segredos de Manscheid		8	24
+Os Segredos de Tutancamon		8	3
 Os Segredos do Everest		8	2
 Os Segredos do Zoológico		8	6
 Os Sem Nome	2025	8	6
@@ -968,6 +971,7 @@ Os Sete Relogios de Agatha Christie	2026	8	3
 Os Simpsons		8	803
 Os Smurfs		8	104
 Os Suburbanos		8	130
+Os Super Patos		8	26
 Os Supercaes e Seus Extraordinarios Trabalhos		8	5
 Os Sustos Ocultos de Frankelda		8	5
 Os Testamentos Das Filhas de Gilead	2026	8	10
@@ -978,7 +982,6 @@ Os Topuria		8	3
 Os Trapalhoes		8	203
 Os Ultimos Dias de Gilda		8	4
 Os Ultimos Lenhadores		8	9
-Os Ursinhos Carinhos		8	32
 Os Ursinhos Gummi		8	65
 Os Vingadores A Serie		8	13
 Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		8	52
@@ -1012,14 +1015,16 @@ Ousama Ranking: Yuuki no Takarabako		8	10
 Outcast	2016	8	20
 Outer Banks	2020	8	50
 Outlander	2014	8	202
-Outlander Blood of My Blood	2025	8	21
+Outlander Blood of My Blood	2025	8	22
 Outlier		8	8
 Outra Chance - Gelsin Hayat Bildiği Gibi		8	41
 Outra Vida		8	20
 Outro Amor - Bambaşka Biri		8	16
 Outros		8	10
+Outside		8	4
 Ouça me - Duy Beni		8	20
 Over There		8	13
+Overgeared		8	1
 Overlord	2015	8	104
 Oxen	2023	8	6
 Oxygen The Series		8	13

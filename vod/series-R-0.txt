@@ -2339,6 +2339,9 @@
 4	10	dub	11:2397244
 4	11	dub	11:2397245
 4	12	dub	11:2468850
+4	13	dub	11:2472053
+4	14	dub	11:2472054
+4	15	dub	11:2472055
 @Reabilitacao Canina
 1	1	dub	3:352587,11:2103597,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72584.mp4,9:352587
 1	2	dub	3:352588,11:2103598,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72585.mp4,9:352588
@@ -4437,7 +4440,8 @@
 1	9	leg	3:394977,9:394977
 1	10	leg	3:395945,9:395945
 1	11	leg	3:397545,9:397545
-1	12	leg	9:398704
+1	12	leg	3:398704,9:398704
+1	13	leg	3:399297
 @Red Rose
 1	1	dub	3:187723,11:2223178,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153677.mp4,7:1393404,9:187723
 1	2	dub	3:187724,11:2223179,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153678.mp4,7:1393405,9:187724

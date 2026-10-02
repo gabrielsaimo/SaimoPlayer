@@ -539,6 +539,9 @@
 1	6	leg	11:2280611
 1	7	leg	11:2280612
 1	8	leg	11:2280613
+@De volta para você
+1	1	leg	3:399016
+1	2	leg	3:399067
 @Dead Account
 1	1	leg	3:362492,9:362492
 1	2	leg	3:363067,9:363067
@@ -2529,8 +2532,9 @@
 1	1	leg	7:1503136
 1	2	dub	3:395753,11:2469944,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314883.mp4,7:1503135,9:395753
 1	2	leg	7:1503137
-1	3	dub	https://embedplayer2.xyz/cdn/hls/0e9b3b59759c752d05dddf88c4390564/master.txt,3:397540,9:397540
-1	4	dub	9:398681
+1	3	dub	https://embedplayer2.xyz/cdn/hls/0e9b3b59759c752d05dddf88c4390564/master.txt,3:397540,11:2471796,9:397540
+1	4	dub	3:398681,11:2471797,9:398681
+1	5	dub	3:399232,11:2472332
 @Desaparecidas Caca ao Assassino de Long Island
 1	1	dub	3:317076,11:2237091,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138426.mp4,7:1502606,9:317076
 1	2	dub	3:317077,11:2237092,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138427.mp4,7:1502607,9:317077
@@ -2647,6 +2651,3 @@
 4	5	dub	3:264326,11:2184726,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/62109.mp4,9:264326
 4	6	dub	3:264327,11:2184727,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/62111.mp4,9:264327
 4	7	dub	3:264328,11:2184728,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/62112.mp4,9:264328
-@Descobrindo o Egito
-1	1	dub	3:160481,11:2184575,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/62078.mp4,9:160481
-1	2	dub	3:160482,11:2184576,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/62079.mp4,9:160482

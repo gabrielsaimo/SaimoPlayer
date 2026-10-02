@@ -1903,11 +1903,12 @@
 11	19	dub	3:358544,11:2411228,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/205116.mp4,9:358544
 12	1	dub	3:392181,11:2411229,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312059.mp4,9:392181
 12	2	dub	3:392500,11:2411792,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312060.mp4,9:392500
-12	3	dub	3:393565,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313276.mp4,9:393565
-12	4	dub	3:395395,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314685.mp4,9:395395
-12	5	dub	3:395396,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314686.mp4,9:395396
-12	6	dub	3:396008,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315435.mp4,9:396008
-12	7	dub	9:398673
+12	3	dub	3:393565,11:2472130,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313276.mp4,9:393565
+12	4	dub	3:395395,11:2472131,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314685.mp4,9:395395
+12	5	dub	3:395396,11:2472132,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314686.mp4,9:395396
+12	6	dub	3:396008,11:2472133,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/315435.mp4,9:396008
+12	7	dub	3:398673,11:2472134,9:398673
+12	8	dub	3:398891,11:2472135
 @Baki Hanma	2021
 1	1	dub	https://embedplayer2.xyz/cdn/hls/39ea2bc5efdd0958893f448de68ef11e/master.txt,3:130280,11:2240491,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/134417.mp4,7:1410065,9:130280
 1	2	dub	https://embedplayer2.xyz/cdn/hls/59353b15cea1daebe8a66abf22c299ad/master.txt,3:130281,11:2240492,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/134418.mp4,7:1410066,9:130281
