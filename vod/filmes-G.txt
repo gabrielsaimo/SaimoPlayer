@@ -10,7 +10,7 @@ Gabriel Diniz – Ao Vivo em Recife (2016)	dub=6:1307980
 Gabriel E A Montanha	dub=2:22587,10:2450916,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38278.mp4,8:22587
 Gabriel e a Montanha (2017)	dub=6:1307788
 Gabriel Medina	dub=2:35262,10:2453168,8:35262
-Gabriel Medina (2020)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gabriel%20Medina%20_2020_%20_tmdb_670303_b396246b.mp4,6:1308743
+Gabriel Medina (2020)	dub=6:1308743,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gabriel%20Medina%20_2020_%20_tmdb_670303_b396246b.mp4
 Gabriela So Tem 3 Meses E Esta A Solta	leg=2:389553,8:389553
 Gabriels Inferno Part II	leg=2:68447,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73343.mp4,8:68447
 Gaby Estrella: O Filme	dub=2:279204,10:2450249,10:2451254,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38283.mp4,8:279204	leg=2:279205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73359.mp4,8:279205
@@ -76,7 +76,7 @@ Garota do Seculo 20 (2022)	dub=6:1300275
 Garota do Século 20	dub=2:190981,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56028.mp4,8:190981,2:178273,10:2446416,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42022.mp4,8:178273	leg=2:178269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73385.mp4,8:178269
 Garota do Terceiro Andar (2019)	leg=6:1308398
 Garota Dourada	dub=2:307944,10:2457295,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26367.mp4,8:307944
-Garota em Chamas: Rebeliao (2018)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Garota%20em%20Chamas_%20Rebeli_o%20_2018_%20_tmdb_530254_13627612.mp4,6:1303745
+Garota em Chamas: Rebeliao (2018)	dub=6:1303745,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Garota%20em%20Chamas_%20Rebeli_o%20_2018_%20_tmdb_530254_13627612.mp4
 Garota Enxuta	dub=2:349043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26372.mp4,8:349043
 Garota Exemplar	dub=2:348799,2:21617,10:2446114,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44616.mp4,8:348799,8:21617	leg=2:348798,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73399.mp4,8:348798
 Garota Exemplar (2014)	dub=6:1300667
@@ -122,7 +122,7 @@ Gasoline Rainbow	dub=10:2447581	leg=2:264114,http://dbonline.tech-cdn.top:80/mov
 Gasoline Rainbow (2024)	leg=6:1304988
 Gasparzinho, o Fantasminha Camarada	dub=2:386805,2:105242,10:2458500,8:386805,8:105242	leg=2:386804,8:386804
 Gasparzinho, o Fantasminha Camarada (1995)	dub=6:1309008
-Gata em Fuga (2011)	dub=/api/proxy-video?url=https%3A%2F%2Flinktudi.com%2Fcdn%2Fhls%2F6f72f71a96a45b4241b6188474862914%2Fmaster.txt	tmdb=57353
+Gata em Fuga (2011)	dub=/api/proxy-video?url=https%3A%2F%2Flinktudi.com%2Fcdn%2Fhls%2F6f72f71a96a45b4241b6188474862914%2Fmaster.txt,/api/proxy-video?url=https%3A%2F%2Flinktudi.com%2Fcdn%2Fhls%2F6f72f71a96a45b4241b6188474862914%2Fmaster.txt	tmdb=57353
 Gatao: Tal Pai, Tal Filho	leg=2:320084,8:320084
 Gatilheiro (2025)	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,6:1313860,10:2445268
 Gatillero	dub=https://embedplayer2.xyz/cdn/hls/21755ed45b6a3150733e04df82929af8/master.txt,2:345275,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44626.mp4,8:345275	leg=2:345274,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73451.mp4,8:345274
@@ -150,9 +150,9 @@ Gavin o Ratinho Corajoso	dub=2:20369,http://dbonline.tech-cdn.top:80/movie/ke-vi
 Gavin - Um Ratinho Corajoso (2015)	dub=6:1310336
 Gekijo-ban Boku to Roboko (2025)	leg=6:1314350
 Gelo em Chamas	dub=2:26862,10:2452914,8:26862
-Gelo em Chamas (2019)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gelo%20em%20Chamas%20_2019_%20_tmdb_599379_58c3d6e1.mp4,6:1308500
+Gelo em Chamas (2019)	dub=6:1308500,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gelo%20em%20Chamas%20_2019_%20_tmdb_599379_58c3d6e1.mp4
 Gêmea Assassina	dub=2:230591,2:138838,10:2445543,10:2447973,10:2454172,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3992.mp4,8:230591,8:138838	leg=2:230587,2:138850,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74043.mp4,8:230587,8:138850
-Gêmea Assassina (2020)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/G_mea%20Assassina%20_2020_%20_tmdb_705054_2867279d.mp4,6:1304680	leg=6:1304681
+Gêmea Assassina (2020)	dub=6:1304680,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/G_mea%20Assassina%20_2020_%20_tmdb_705054_2867279d.mp4	leg=6:1304681
 GEMEAS FOFAS E SEU PAPAI CEO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302471.mp4
 Gemeo Maligno (2022)	dub=6:1301854
 Gêmeo Maligno	dub=2:178811,10:2451481,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49034.mp4,8:178811	leg=2:178822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74054.mp4,8:178822
@@ -175,13 +175,13 @@ Gênio Indomável	dub=2:352209,2:75686,10:2457168,http://dbonline.tech-cdn.top:8
 GENIO MEDICA, NAO E ALGUEM PARA MEXER	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302481.mp4
 Gênios da Trapaça	dub=https://embedplayer2.xyz/cdn/hls/243bd75f3965685ee1046b4585e2b1f1/master.txt	leg=2:376716,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253824.mp4,8:376716
 Gênios do Crime	dub=2:198530,10:2454399,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311933.mp4,8:198530
-Gênios do Crime (2016)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/G_nios%20do%20Crime%20_2016_%20_tmdb_213681_30f6763f.mp4,6:1305039
+Gênios do Crime (2016)	dub=6:1305039,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/G_nios%20do%20Crime%20_2016_%20_tmdb_213681_30f6763f.mp4
 Genro Não! Ele é Guardião dos Três Mundos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98122.mp4
 Gente Como a Gente	dub=2:308390,10:2447541,10:2456350,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26409.mp4,8:308390	leg=2:308391,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73486.mp4,8:308391
 Gente de Bem	dub=2:20992,10:2457530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26395.mp4,8:20992
 Gente de Bem (2018)	dub=6:1297768
 Gente Grande	dub=10:2461746
-Gente Grande (2010)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gente%20Grande%20_2010_%20_tmdb_38365_68757398.mp4,6:1297143
+Gente Grande (2010)	dub=6:1297143,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gente%20Grande%20_2010_%20_tmdb_38365_68757398.mp4
 Gente Grande 1	dub=2:20627,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15354.mp4,8:20627
 Gente Grande 2	dub=2:20628,10:2461247,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15363.mp4,8:20628
 Gente Grande 2 (2013)	dub=6:1297144
@@ -200,7 +200,7 @@ George o Curioso Aventuras no Oeste Selvagem (2020)	dub=6:1502859
 George O Rei da Floresta	dub=2:103139,10:2461073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15369.mp4,8:103139
 George o Rei da Floresta (1997)	dub=6:1303848
 George o Rei da Floresta 2 (2003)	dub=6:1298272
-George Washington (2026)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/George%20Washington%20_2026_%20_tmdb_1308767_cc5fc7e0.mp4,https://embedplayer2.xyz/cdn/hls/1c8ed7bde48a51bfaa268dd967a7a399/master.txt,6:1502235,2:393191,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312531.mp4,8:393191,2:392264,10:2444230,10:2444245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311842.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311914.mp4,8:392264	leg=6:1502234,2:392263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311871.mp4,8:392263
+George Washington (2026)	dub=https://embedplayer2.xyz/cdn/hls/1c8ed7bde48a51bfaa268dd967a7a399/master.txt,6:1502235,2:393191,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312531.mp4,8:393191,2:392264,10:2444230,10:2444245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311842.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311914.mp4,8:392264,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/George%20Washington%20_2026_%20_tmdb_1308767_cc5fc7e0.mp4	leg=6:1502234,2:392263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311871.mp4,8:392263
 George Washington - O Primeiro Presidente da América	dub=2:291896,10:2449988,10:2456040,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26414.mp4,8:291896	leg=2:291897,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73511.mp4,8:291897
 George Washington - O Primeiro Presidente da América (2022)	dub=6:1312335
 Geração do Futuro	dub=2:317457,10:2448125,10:2459097,10:2459156,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35884.mp4,8:317457	leg=2:317458,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73517.mp4,8:317458
@@ -308,7 +308,7 @@ Glitter O Brilho de uma Estrela (2001)	dub=6:1302168
 Globo de Neve	dub=2:144085,10:2458320,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33917.mp4,8:144085
 Globo de Neve (2007)	dub=6:1304672
 Glória	dub=2:329660,10:2447721,10:2456539,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26452.mp4,8:329660	leg=2:329659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73657.mp4,8:329659
-Gloria! Acordes para a Liberdade	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gloria_%20Acordes%20para%20a%20Liberdade%20_2024_%20_tmdb_1231035_171f9952.mp4,10:2447839	leg=2:343126,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73652.mp4,8:343126
+Gloria! Acordes para a Liberdade	dub=10:2447839,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gloria_%20Acordes%20para%20a%20Liberdade%20_2024_%20_tmdb_1231035_171f9952.mp4	leg=2:343126,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73652.mp4,8:343126
 Gloria Bell	dub=2:26579,10:2446664,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42017.mp4,8:26579
 Gloria Bell (2019)	dub=6:1307952
 Glória Feita de Sangue	dub=2:371885,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250836.mp4,8:371885	leg=2:371884,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250473.mp4,8:371884
@@ -330,10 +330,10 @@ Godzilla (1998)	dub=6:1302165
 Godzilla (2014)	dub=https://embedplayer2.xyz/cdn/hls/6604b568012945cc0e21eb3237d359b2/master.txt,6:1298246
 Godzilla 2 Rei dos Monstros (2019)	dub=6:1297158
 Godzilla: Cidade no Limiar da Batalha (2018)	dub=https://embedplayer2.xyz/cdn/hls/937a65037b90acf598770d3e9a8a6760/master.txt
-Godzilla e Kong: O Novo Império (2024)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20e%20Kong_%20O%20Novo%20Imp_rio%20_2024_%20_tmdb_823464_1944ee90.mp4,https://embedplayer2.xyz/cdn/hls/4a9776cb9d3382d510fe1df74e59fa36/master.txt,6:1303690,2:260575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56067.mp4,8:260575,2:260574,10:2448741,10:2458976,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35877.mp4,8:260574	leg=6:1303689,2:260576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73692.mp4,8:260576
-Godzilla II: Rei dos Monstros	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20II_%20Rei%20dos%20Monstros%20_2019_%20_tmdb_373571_a6c74aa0.mp4,2:28284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56071.mp4,8:28284,2:100384,10:2454830,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3917.mp4,8:100384
+Godzilla e Kong: O Novo Império (2024)	dub=https://embedplayer2.xyz/cdn/hls/4a9776cb9d3382d510fe1df74e59fa36/master.txt,6:1303690,2:260575,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56067.mp4,8:260575,2:260574,10:2448741,10:2458976,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35877.mp4,8:260574,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20e%20Kong_%20O%20Novo%20Imp_rio%20_2024_%20_tmdb_823464_1944ee90.mp4	leg=6:1303689,2:260576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73692.mp4,8:260576
+Godzilla II: Rei dos Monstros	dub=2:28284,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56071.mp4,8:28284,2:100384,10:2454830,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3917.mp4,8:100384,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20II_%20Rei%20dos%20Monstros%20_2019_%20_tmdb_373571_a6c74aa0.mp4
 Godzilla King of the Monsters Legendado	dub=2:28107,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73688.mp4,8:28107
-Godzilla Minus One (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20Minus%20One%20_2023_%20_tmdb_940721_1d277c0d.mp4,https://embedplayer2.xyz/cdn/hls/e3b7d42ac387d994473a243fe43c0970/master.txt,6:1304119,2:278120,2:263729,10:2450177,10:2452368,10:2452546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49000.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49003.mp4,8:278120,8:263729	leg=6:1303579,2:278121,2:263730,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73698.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73702.mp4,8:278121,8:263730
+Godzilla Minus One (2023)	dub=https://embedplayer2.xyz/cdn/hls/e3b7d42ac387d994473a243fe43c0970/master.txt,6:1304119,2:278120,2:263729,10:2450177,10:2452368,10:2452546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49000.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49003.mp4,8:278120,8:263729,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Godzilla%20Minus%20One%20_2023_%20_tmdb_940721_1d277c0d.mp4	leg=6:1303579,2:278121,2:263730,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73698.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73702.mp4,8:278121,8:263730
 Godzilla Ressurge	dub=2:180164,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35881.mp4,8:180164
 Godzilla Vs Kong	dub=2:108076,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56075.mp4,8:108076,2:108075,10:2459100,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35887.mp4,8:108075	leg=2:100382,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73709.mp4,8:100382
 Godzilla vs. Kong (2021)	dub=6:1298457	leg=6:1298353
@@ -351,7 +351,7 @@ Golda - A Mulher de uma Nação	dub=https://embedplayer2.xyz/cdn/hls/aa988650785
 Golden Arm	dub=2:133963,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15388.mp4,8:133963	leg=2:133978,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73714.mp4,8:133978
 Golden Kamuy	dub=2:261644,10:2447170,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9579.mp4,8:261644	leg=2:261645,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73717.mp4,8:261645
 Golden Kamuy (2024)	dub=6:1303987
-Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Golden%20Kamuy%203%20-%20Invas_o%20a%20Pris_o%20Abashiri%20_2026_%20_tmdb_1397201_6b5c027c.mp4,https://embedplayer2.xyz/cdn/hls/e5461b58ca604681b6d0fcba5b8c4ffb/master.txt,6:1501188,2:386960,10:2443978,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308806.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308807.mp4,8:386960	leg=2:386959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308805.mp4,8:386959
+Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)	dub=https://embedplayer2.xyz/cdn/hls/e5461b58ca604681b6d0fcba5b8c4ffb/master.txt,6:1501188,2:386960,10:2443978,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308806.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308807.mp4,8:386960,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Golden%20Kamuy%203%20-%20Invas_o%20a%20Pris_o%20Abashiri%20_2026_%20_tmdb_1397201_6b5c027c.mp4	leg=2:386959,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308805.mp4,8:386959
 Golfinhos de Perto com Bertie Gregory	dub=2:344529,10:2444437,8:344529	leg=2:344528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73721.mp4,8:344528
 Gölgeler ve Suretler	dub=2:313288,10:2457722,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26578.mp4,8:313288	leg=2:313289,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74064.mp4,8:313289
 Golpe Baixo	dub=2:319157,2:20629,10:2460413,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15392.mp4,8:319157,8:20629
@@ -403,7 +403,7 @@ Gospel	dub=2:208225,10:2459938,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928
 Gospel (2022)	dub=6:1309361	leg=6:1309362
 Gospel: Fernanda Brum - Da Eternidade	dub=2:21963,8:21963
 Gosto de Cereja (1997)	leg=6:1501212
-Gosto Infernal	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gosto%20Infernal%20_2025_%20_tmdb_1365149_330b8a68.mp4,https://embedplayer2.xyz/cdn/hls/39d67339b0e9148092a09ddbf95d3822/master.txt,2:372724,10:2444535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251117.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254752.mp4,8:372724	leg=2:372723,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251111.mp4,8:372723
+Gosto Infernal	dub=https://embedplayer2.xyz/cdn/hls/39d67339b0e9148092a09ddbf95d3822/master.txt,2:372724,10:2444535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251117.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254752.mp4,8:372724,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gosto%20Infernal%20_2025_%20_tmdb_1365149_330b8a68.mp4	leg=2:372723,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251111.mp4,8:372723
 Gosto se Discute (2017)	dub=6:1299899
 Gotti - O Chefe da Máfia	dub=2:30396,10:2457394,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26507.mp4,8:30396
 Gotti - O Chefe da Máfia (2018)	dub=6:1307485
@@ -419,7 +419,7 @@ Grace	dub=2:30637,10:2460757,http://dbonline.tech-cdn.top:80/movie/ke-vin-092839
 Grace (2018)	dub=6:1308231
 Grace by Night	dub=https://embedplayer2.xyz/cdn/hls/659a3769873f1e5c7c8b654b8c4eafcb/master.txt,2:374490,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253612.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254753.mp4,8:374490	leg=2:374489,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253323.mp4,8:374489
 Grace - Entre a Fe e a Fama	dub=2:21524,10:2451217,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40804.mp4,8:21524
-Grace: Entre a Fé e a Fama (2013)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Grace_%20Entre%20a%20F_%20e%20a%20Fama%20_2013_%20_tmdb_206284_001bf61d.mp4,6:1309960
+Grace: Entre a Fé e a Fama (2013)	dub=6:1309960,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Grace_%20Entre%20a%20F_%20e%20a%20Fama%20_2013_%20_tmdb_206284_001bf61d.mp4
 Grace Kelly: Uma Princesa American	dub=2:360849,8:360849
 Gracinha	dub=2:312298,10:2456824,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26497.mp4,8:312298
 Grafted	dub=10:2449573	leg=2:307930,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73799.mp4,8:307930
@@ -436,7 +436,7 @@ Grand Theft Auto VI: Um Olhar Estendido	dub=2:394406,http://dbonline.tech-cdn.to
 Grand Theft Auto VI: Um Olhar Estendido (2026)	dub=10:2467338
 Grand Theft Hamlet	dub=10:2449661	leg=2:312852,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73794.mp4,8:312852
 Grande Hotel	dub=2:104411,10:2460294,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15415.mp4,8:104411
-Grande Hotel (1995)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Grande%20Hotel%20_1995_%20_tmdb_5_1695953e.mp4,6:1307987
+Grande Hotel (1995)	dub=6:1307987,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Grande%20Hotel%20_1995_%20_tmdb_5_1695953e.mp4
 Grande Marido Malvado por Favor Acorde 2	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302943.mp4
 Grande Menina, Pequena Mulher	dub=2:316424,10:2461772,8:316424
 Grande Problema (2002)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251425.mp4,6:1300109
@@ -468,7 +468,7 @@ Gravidade (2013)	dub=https://embedplayer2.xyz/cdn/hls/32784c0836f631427cd1e395f4
 Gravidez a Qualquer Custo	dub=2:259065,10:2450230,10:2460507,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15414.mp4,8:259065	leg=2:259066,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73825.mp4,8:259066
 Gravidez a Qualquer Custo (2023)	dub=6:1303508
 Gravidez Inesperada	dub=2:184060,10:2460464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15433.mp4,8:184060	leg=2:184078,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73820.mp4,8:184078
-Gravidez Inesperada (2021)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gravidez%20Inesperada%20_2021_%20_tmdb_872284_202d6345.mp4,6:1306753	leg=6:1306754
+Gravidez Inesperada (2021)	dub=6:1306753,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gravidez%20Inesperada%20_2021_%20_tmdb_872284_202d6345.mp4	leg=6:1306754
 GRAVIDEZ INESPERADA, PAIXAO DESTINADA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302461.mp4
 Gravidez Monstruosa	dub=2:41198,10:2458855,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33926.mp4,8:41198
 Gravidez Monstruosa (2019)	dub=6:1308399	leg=6:1308400
@@ -481,7 +481,7 @@ Grease: Nos Tempos da Brilhantina (1978)	dub=https://embedplayer2.xyz/cdn/hls/ff
 GREAT PRETENDER razbliuto (2024)	leg=https://embedplayer2.xyz/cdn/hls/42de6b0936e88178bc55ab2eda483a91/master.txt
 Great White	leg=2:108306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73832.mp4,8:108306
 Great White Serial Killer: Sea of Blood	dub=2:335696,10:2453343,8:335696	leg=2:335695,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73842.mp4,8:335695
-Greed	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Greed%20_1985_%20_tmdb_334210_82b0b99d.mp4,2:95990,10:2460780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15438.mp4,8:95990	leg=2:48263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73836.mp4,8:48263
+Greed	dub=2:95990,10:2460780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15438.mp4,8:95990,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Greed%20_1985_%20_tmdb_334210_82b0b99d.mp4	leg=2:48263,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73836.mp4,8:48263
 Greed: A Indústria da Moda (2019)	dub=6:1308330	leg=6:1308331
 Green Book O Guia	dub=2:22506,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56090.mp4,8:22506,2:21436,10:2456574,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26518.mp4,8:21436
 Green Book: O Guia (2018)	dub=6:1300337
@@ -491,7 +491,7 @@ Green Rush (2020)	leg=6:1308796
 Greenfield - Segredos Explosivos	dub=2:148655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256163.mp4,8:148655	leg=2:148653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73853.mp4,8:148653
 Greenfield - Segredos Explosivos (2019)	dub=6:1306069	leg=6:1306070
 Greenland	dub=https://embedplayer2.xyz/cdn/hls/ba6cc385a4bad418749264c61e63d8ef/master.txt	leg=2:89003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73863.mp4,8:89003
-Greice	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Greice%20_2024_%20_tmdb_1067231_4d211032.mp4,2:395625,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314619.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314657.mp4,8:395625
+Greice	dub=2:395625,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314619.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314657.mp4,8:395625,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Greice%20_2024_%20_tmdb_1067231_4d211032.mp4
 Gremlins	dub=2:94724,10:2458655,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33922.mp4,8:94724
 Gremlins (1984)	dub=6:1299033
 Gremlins 2: A Nova Geracao (1990)	dub=6:1299821
@@ -511,8 +511,8 @@ Greystoke - A Lenda de Tarzan, O Rei da Selva	dub=2:130220,10:2454751,8:130220
 Greystoke: A Lenda de Tarzan, o Rei da Selva (1984)	dub=6:1304251
 Gridman Universe	dub=10:2448506	leg=2:292862,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73878.mp4,8:292862
 Griffin in Summer	leg=2:350370,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73883.mp4,8:350370
-Gringa	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gringa%20_2018_%20_tmdb_1122121_fe31eb8b.mp4,2:284546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56095.mp4,8:284546,2:284545,10:2450358,10:2460388,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15451.mp4,8:284545	leg=2:284547,2:246192,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73888.mp4,8:284547,8:246192
-Gringa (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gringa%20_2018_%20_tmdb_1122121_fe31eb8b.mp4,6:1312044	leg=6:1311256
+Gringa	dub=2:284546,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56095.mp4,8:284546,2:284545,10:2450358,10:2460388,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15451.mp4,8:284545,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gringa%20_2018_%20_tmdb_1122121_fe31eb8b.mp4	leg=2:284547,2:246192,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73888.mp4,8:284547,8:246192
+Gringa (2023)	dub=6:1312044,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gringa%20_2018_%20_tmdb_1122121_fe31eb8b.mp4	leg=6:1311256
 Gringo Vivo ou Morto (2018)	dub=6:1302189
 Gringo: Vivo ou Morto	dub=2:333435,10:2448232,10:2461618,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15446.mp4,8:333435	leg=2:333434,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73893.mp4,8:333434
 Grisaia: Phantom Trigger The Animation	dub=10:2459466,10:2459526
@@ -525,7 +525,7 @@ Grito de Horror 2	dub=2:105245,10:2451670,http://dbonline.tech-cdn.top:80/movie/
 Grito de Horror 2 (1985)	dub=6:1307414
 Grito Silencioso	dub=2:77649,10:2451198,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49014.mp4,8:77649
 Grito Silencioso (2020)	dub=6:1303498
-Gritos Mortais (2007)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gritos%20Mortais%20_2007_%20_tmdb_14001_5d2b00ff.mp4,https://embedplayer2.xyz/cdn/hls/7b9c2a309e8f7a8337f64e912486a9f9/master.txt,6:1297507,2:21741,10:2451796,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49020.mp4,8:21741
+Gritos Mortais (2007)	dub=https://embedplayer2.xyz/cdn/hls/7b9c2a309e8f7a8337f64e912486a9f9/master.txt,6:1297507,2:21741,10:2451796,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49020.mp4,8:21741,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Gritos%20Mortais%20_2007_%20_tmdb_14001_5d2b00ff.mp4
 Grizzly Night (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289524.mp4
 Groenlândia: O Eldorado do Gelo	leg=2:365060,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99997.mp4,8:365060
 GTA 6 Um Olhar Estendido (2026)	leg=https://embedplayer2.xyz/cdn/hls/8c6588cae51138d99b0442336d53c7bb/master.txt,6:1502434
@@ -533,14 +533,14 @@ GTMAX	dub=https://embedplayer2.xyz/cdn/hls/e29cb32264ff0427d3b786d9bad8a890/mast
 GTOリバイバル	leg=2:388177,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309520.mp4,8:388177
 Guarda Costas e Assassinos (2009)	dub=6:1312844
 GUARDA-COSTAS SUPREMO UM SOCO UM JOGO NOVO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302770.mp4
-Guardião do Espelho	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_o%20do%20Espelho%20_2025_%20_tmdb_1440646_f3c9e01b.mp4,2:347669,10:2444457,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38303.mp4,8:347669	leg=2:347668,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73915.mp4,8:347668
-Guardioes (2021)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20_2021_%20_tmdb_822264_a285801f.mp4,6:1303774
+Guardião do Espelho	dub=2:347669,10:2444457,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38303.mp4,8:347669,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_o%20do%20Espelho%20_2025_%20_tmdb_1440646_f3c9e01b.mp4	leg=2:347668,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73915.mp4,8:347668
+Guardioes (2021)	dub=6:1303774,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20_2021_%20_tmdb_822264_a285801f.mp4
 Guardiões	dub=2:184080,10:2454460,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3941.mp4,8:184080	leg=2:184081,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73920.mp4,8:184081
-Guardioes da Galáxia (2014)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20da%20Gal_xia%20_2014_%20_tmdb_118340_428c9008.mp4,https://embedplayer2.xyz/cdn/hls/d696fc26a2a4082b65ca7a4ae6badacf/master.txt,6:1313236,2:21482,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56100.mp4,8:21482,2:98654,10:2453968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3945.mp4,8:98654,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51160?hash=246e97f6ec83d08bf3d6e8fa	leg=6:1313235
+Guardioes da Galáxia (2014)	dub=https://embedplayer2.xyz/cdn/hls/d696fc26a2a4082b65ca7a4ae6badacf/master.txt,6:1313236,2:21482,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56100.mp4,8:21482,2:98654,10:2453968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3945.mp4,8:98654,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51160?hash=246e97f6ec83d08bf3d6e8fa,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20da%20Gal_xia%20_2014_%20_tmdb_118340_428c9008.mp4	leg=6:1313235
 Guardiões da Galáxia: Especial de Festas (2022)	dub=https://embedplayer2.xyz/cdn/hls/ed7bbb2d2c0cddfd6d221cf402f2971f/master.txt,2:181103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15442.mp4,8:181103	leg=2:181084,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73904.mp4,8:181084
 Guardioes da Galáxia - Vol. 2 (2017)	dub=6:1313238	leg=6:1313237
 Guardiões da Galáxia - Vol. 2	dub=2:316403,2:98659,10:2454111,10:2454128,10:2458780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3935.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35892.mp4,8:316403,8:98659
-Guardioes da Galáxia: Vol. 3 (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20da%20Gal_xia_%20Vol.%203%20_2023_%20_tmdb_447365_c31c9baf.mp4,https://embedplayer2.xyz/cdn/hls/acc1fd44d06c66a536822232ff190b4a/master.txt,6:1313240,2:386179,2:205923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56105.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308267.mp4,8:386179,8:205923,2:205550,10:2459044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35896.mp4,8:205550	leg=6:1313239,2:202243,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73898.mp4,8:202243
+Guardioes da Galáxia: Vol. 3 (2023)	dub=https://embedplayer2.xyz/cdn/hls/acc1fd44d06c66a536822232ff190b4a/master.txt,6:1313240,2:386179,2:205923,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56105.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308267.mp4,8:386179,8:205923,2:205550,10:2459044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35896.mp4,8:205550,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guardi_es%20da%20Gal_xia_%20Vol.%203%20_2023_%20_tmdb_447365_c31c9baf.mp4	leg=6:1313239,2:202243,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73898.mp4,8:202243
 Guardiões das Ilhas Galápagos	dub=10:2448507	leg=2:334695,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73910.mp4,8:334695
 Guardiões do Ceu (2013)	dub=6:1312005	leg=6:1312004
 Guardioes do Tempo (2020)	dub=6:1299537
@@ -554,24 +554,24 @@ Guaxuma	dub=2:292298,10:2452949,8:292298
 Guerra (2020)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20_2020_%20_tmdb_752592_a02fe94b.mp4	tmdb=752592
 Guerra 2	dub=2:356892,10:2445133,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/551.mp4,8:356892	leg=2:356891,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73934.mp4,8:356891
 Guerra Alienígena	dub=2:193050,10:2458721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35901.mp4,8:193050	leg=2:193051,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73925.mp4,8:193051
-Guerra Alienígena (2018)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Alien_gena%20_2018_%20_tmdb_516237_a62a84fc.mp4,6:1305790	leg=6:1305791
+Guerra Alienígena (2018)	dub=6:1305790,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Alien_gena%20_2018_%20_tmdb_516237_a62a84fc.mp4	leg=6:1305791
 Guerra ao Cartel	dub=2:283253,10:2448871,10:2454203,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3953.mp4,8:283253	leg=2:283254,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73939.mp4,8:283254
 Guerra ao Cartel (2023)	dub=6:1311973	leg=6:1311972
 Guerra ao Terror	dub=2:239602,10:2456654,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26526.mp4,8:239602
 Guerra ao Terror (2008)	dub=6:1309707
 Guerra ao Tráfico	dub=2:297816,10:2447913,10:2453637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3957.mp4,8:297816	leg=2:297817,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73941.mp4,8:297817
-Guerra Civil (2024)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Civil%20_2024_%20_tmdb_929590_470a274c.mp4,https://embedplayer2.xyz/cdn/hls/f9a466497ccc8038746ad0284978c13c/master.txt,6:1304156,2:264347,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56110.mp4,8:264347,2:347670,2:264346,10:2447202,10:2450552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36928.mp4,8:347670,8:264346	leg=6:1304083,2:264348,2:264143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73956.mp4,8:264348,8:264143
+Guerra Civil (2024)	dub=https://embedplayer2.xyz/cdn/hls/f9a466497ccc8038746ad0284978c13c/master.txt,6:1304156,2:264347,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56110.mp4,8:264347,2:347670,2:264346,10:2447202,10:2450552,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36928.mp4,8:347670,8:264346,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Civil%20_2024_%20_tmdb_929590_470a274c.mp4	leg=6:1304083,2:264348,2:264143,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73956.mp4,8:264348,8:264143
 Guerra Contra Aliens	dub=2:22026,10:2454706,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3969.mp4,8:22026
 Guerra contra Aliens (2019)	dub=6:1308474
 Guerra Contra o Terror	dub=2:297426,10:2447769,10:2454068,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3961.mp4,8:297426	leg=2:297427,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73946.mp4,8:297427
-Guerra Contra o Terror (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Contra%20o%20Terror%20_2023_%20_tmdb_1077969_41d7e341.mp4,6:1303833
+Guerra Contra o Terror (2023)	dub=6:1303833,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Contra%20o%20Terror%20_2023_%20_tmdb_1077969_41d7e341.mp4
 Guerra contra Todos	dub=2:371887,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250793.mp4,8:371887	leg=2:371886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250474.mp4,8:371886
 Guerra das Colas	dub=2:82556,10:2455919,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26532.mp4,8:82556
 Guerra das Colas (2019)	dub=6:1308595
 Guerra de Algodão	dub=2:92611,10:2456785,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26541.mp4,8:398523,8:92611
 Guerra de Algodão (2020)	dub=6:1307861
 Guerra De Likes	dub=2:100349,10:2460834,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15456.mp4,8:100349
-Guerra de Likes (2021)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20de%20Likes%20_2021_%20_tmdb_709629_02b38074.mp4,6:1308820
+Guerra de Likes (2021)	dub=6:1308820,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20de%20Likes%20_2021_%20_tmdb_709629_02b38074.mp4
 Guerra Dos Monstros	dub=2:24309,10:2460660,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15460.mp4,8:24309
 Guerra dos Monstros (2015)	dub=6:1303062
 Guerra dos Mundos (2005)	dub=https://embedplayer2.xyz/cdn/hls/5f4abfe77846b84c541a503e5c3f98ea/master.txt,6:1299570,2:100018,10:2458516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33940.mp4,8:100018
@@ -584,7 +584,7 @@ Guerra Entre Herdeiros (2022)	dub=6:1311515	leg=6:1311516
 Guerra Fria (2018)	dub=6:1301886
 Guerra Mundial Z	dub=2:382988,2:21742,10:2452104,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49029.mp4,8:382988,8:21742	leg=2:382987,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301107.mp4,8:382987
 Guerra Mundial Z (2013)	dub=6:1297508
-Guerra nas Estrelas	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20nas%20Estrelas%20_1977_%20_tmdb_11_03371596.mp4,https://embedplayer2.xyz/cdn/hls/626efe1003123018c7714571e468ca52/master.txt,2:328183,10:2458931,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35906.mp4,8:328183
+Guerra nas Estrelas	dub=https://embedplayer2.xyz/cdn/hls/626efe1003123018c7714571e468ca52/master.txt,2:328183,10:2458931,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35906.mp4,8:328183,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20nas%20Estrelas%20_1977_%20_tmdb_11_03371596.mp4
 Guerra nas Estrelas: O Império Contra-Ataca	dub=2:328184,10:2458595,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35910.mp4,8:328184
 Guerra nas Estrelas: O Império Contra-Ataca (1980)	dub=6:1309925
 Guerra nas Estrelas: O Retorno de Jedi	dub=2:328185,10:2458678,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35915.mp4,8:328185
@@ -595,7 +595,7 @@ Guerra Primitiva - LEGENDADO (2025)	dub=10:2467864
 Guerra Sem Fim: A Espada é a Lei	dub=2:89506,10:2453582,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3980.mp4,8:89506
 Guerra Sem Fim: A Espada é a Lei (2020)	dub=6:1308925
 Guerra Sem Regras	dub=2:276027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56115.mp4,8:276027,2:276026,10:2448044,10:2450628,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36948.mp4,8:276026	leg=2:276028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73977.mp4,8:276028
-Guerra Sem Regras (2024)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Sem%20Regras%20_2024_%20_tmdb_799583_79e13d20.mp4,6:1309178	leg=6:1309177
+Guerra Sem Regras (2024)	dub=6:1309178,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerra%20Sem%20Regras%20_2024_%20_tmdb_799583_79e13d20.mp4	leg=6:1309177
 Guerra Sob a Terra	dub=2:142429,10:2455645,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26545.mp4,8:142429	leg=2:142434,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73982.mp4,8:142434
 Guerra Sob a Terra (2021)	dub=6:1304797	leg=6:1304798
 Guerras de Verão	dub=2:374295,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253289.mp4,8:374295	leg=2:374294,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253583.mp4,8:374294
@@ -609,7 +609,7 @@ Guerreiro (2011)	dub=6:1298876
 Guerreiro Americano	dub=2:376781,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253763.mp4,8:376781	leg=2:376780,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253823.mp4,8:376780
 Guerreiro da Escuridao (2017)	dub=6:1301911
 Guerreiro da Escuridão	dub=2:20038,10:2453994,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3984.mp4,8:20038
-Guerreiro Virtual (2022)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerreiro%20Virtual%20_2022_%20_tmdb_875279_9327cd8c.mp4,https://embedplayer2.xyz/cdn/hls/8c56a2533f3b6534578b08a893377d7d/master.txt,6:1311438,2:215903,10:2454986,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3988.mp4,8:215903	leg=6:1311439,2:215902,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73988.mp4,8:215902
+Guerreiro Virtual (2022)	dub=https://embedplayer2.xyz/cdn/hls/8c56a2533f3b6534578b08a893377d7d/master.txt,6:1311438,2:215903,10:2454986,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3988.mp4,8:215903,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guerreiro%20Virtual%20_2022_%20_tmdb_875279_9327cd8c.mp4	leg=6:1311439,2:215902,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73988.mp4,8:215902
 Guerreiros de Fogo	dub=10:2457916
 Guerreiros do Amanhã (2010)	dub=https://embedplayer2.xyz/cdn/hls/211dd88610f0238c09d0f21f099608b6/master.txt
 Guerreiros do Basquete	dub=2:288361,10:2449459,10:2457099,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26559.mp4,8:288361	leg=2:288362,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73994.mp4,8:288362
@@ -622,11 +622,11 @@ Guerreiros Mágicos: A Lenda das Oito Luas	dub=10:2448030	leg=2:282083,http://db
 Guerrilha Sem Face	dub=2:330019,10:2448625,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21428.mp4,8:330019	leg=2:330018,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74004.mp4,8:330018
 Gueules noires	dub=https://embedplayer2.xyz/cdn/hls/13ad5fb60c9e05db7738c9831397984a/master.txt	leg=2:266662,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73999.mp4,8:266662
 Guia de Viagem para o Amor	dub=2:390342,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311019.mp4,8:390342,2:192606,10:2446472,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42047.mp4,8:192606	leg=2:192605,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74018.mp4,8:192605
-Guia de Viagem para o Amor (2023)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guia%20de%20Viagem%20para%20o%20Amor%20_2023_%20_tmdb_813726_12803368.mp4,6:1301125
+Guia de Viagem para o Amor (2023)	dub=6:1301125,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guia%20de%20Viagem%20para%20o%20Amor%20_2023_%20_tmdb_813726_12803368.mp4
 Guia Romântico para Lugares Perdidos	dub=2:161527,2:161521,10:2457411,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26554.mp4,8:161527,8:161521
 Guia Romântico para Lugares Perdidos (2020)	dub=6:1306329,6:1306330
 Guiado pelo Luar	dub=2:215885,10:2456302,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26564.mp4,8:215885	leg=2:215880,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74009.mp4,8:215880
-Guiado pelo Luar (2022)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guiado%20pelo%20Luar%20_2022_%20_tmdb_1075969_ca7eb8b8.mp4,6:1309380	leg=6:1309381
+Guiado pelo Luar (2022)	dub=6:1309380,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Guiado%20pelo%20Luar%20_2022_%20_tmdb_1075969_ca7eb8b8.mp4	leg=6:1309381
 GUIANDO MINHA FAMILIA ENTRE PRAGAS E CAOS	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302645.mp4
 Guigo Offline	dub=2:353003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38304.mp4,8:353003
 Gump 2 - Aventura em Dobro	dub=https://embedplayer2.xyz/cdn/hls/c229b6a1eaa55e33b0b15f4fadef6fb9/master.txt,2:370145,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249173.mp4,8:370145	leg=2:370144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249222.mp4,8:370144

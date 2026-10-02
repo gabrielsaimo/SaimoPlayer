@@ -1,8 +1,8 @@
 Z	leg=2:72649,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96308.mp4,8:72649
-Z-O-M-B-I-E-S	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Z-O-M-B-I-E-S%20_2018_%20_tmdb_483980_8d86a68b.mp4,2:317461,2:42517,10:2458960,10:2461894,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20966.mp4,8:317461,8:42517	leg=2:317462,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96323.mp4,8:317462
+Z-O-M-B-I-E-S	dub=2:317461,2:42517,10:2458960,10:2461894,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20966.mp4,8:317461,8:42517,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Z-O-M-B-I-E-S%20_2018_%20_tmdb_483980_8d86a68b.mp4	leg=2:317462,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96323.mp4,8:317462
 Z-O-M-B-I-E-S 2	dub=https://embedplayer2.xyz/cdn/hls/5901cd58a8ba3c6105c683e37e452610/master.txt,2:317463,2:42525,10:2446402,10:2458393,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34844.mp4,8:317463,8:42525	leg=2:317464,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96314.mp4,8:317464
 Z-O-M-B-I-E-S 3	dub=2:167512,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59391.mp4,8:167512,2:166224,10:2458570,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34854.mp4,8:166224	leg=2:166232,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96333.mp4,8:166232
-Zabumba, Orquestra Popular do Nordeste	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zabumba_%20Orquestra%20Popular%20do%20Nordeste%20_1974_%20_tmdb_558070_013e711b.mp4,2:341808,10:2453184,8:341808
+Zabumba, Orquestra Popular do Nordeste	dub=2:341808,10:2453184,8:341808,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zabumba_%20Orquestra%20Popular%20do%20Nordeste%20_1974_%20_tmdb_558070_013e711b.mp4
 Zack e Cody: O Filme	dub=2:341810,10:2447420,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20964.mp4,8:341810	leg=2:341809,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96319.mp4,8:341809
 Zapped (2014)	dub=6:1303874
 Zara Larsson - Up Close	leg=2:380278,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289952.mp4,8:380278
@@ -25,14 +25,14 @@ Zenon A Corrida para a Lua (2004)	dub=6:1303863
 Zenon A Garota do Seculo 21 (1999)	dub=6:1303864
 Zenon A Zequencia (2001)	dub=6:1303862
 Zerando a Vida (2016)	dub=https://embedplayer2.xyz/cdn/hls/937a9fc6f1c4c74e39f871ed22fd1833/master.txt,6:1310306,2:20881,10:2461245,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20971.mp4,8:20881
-Zero	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zero%20_2025_%20_tmdb_891644_9e38ee0b.mp4,https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt,2:366900,10:2445564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97557.mp4,8:366900	leg=2:366899,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97600.mp4,8:366899
+Zero	dub=https://embedplayer2.xyz/cdn/hls/0a7dea15a7109fb3c65f3d188a0b9e54/master.txt,2:366900,10:2445564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97557.mp4,8:366900,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zero%20_2025_%20_tmdb_891644_9e38ee0b.mp4	leg=2:366899,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97600.mp4,8:366899
 Zero e Uns	dub=https://embedplayer2.xyz/cdn/hls/2f219098885d0ec34029f6731d2f3446/master.txt,2:141483,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8239.mp4,8:141483	leg=2:141484,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96338.mp4,8:141484
 Zeros e Uns (2021)	dub=https://embedplayer2.xyz/cdn/hls/2f219098885d0ec34029f6731d2f3446/master.txt,6:1304752,10:2454513	leg=6:1304753
 Zeroville	dub=2:88692,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20975.mp4,8:88692
 Zeroville: A Vida em Hollywood	dub=10:2461904
 Zeroville: A Vida em Hollywood (2019)	dub=6:1307402
 Zeus & Roxanne	dub=2:162317,10:2446659,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43407.mp4,8:162317
-Zeus & Roxanne (1997)	dub=https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zeus%20_%20Roxanne%20_1997_%20_tmdb_42424_f5400fce.mp4,6:1305690
+Zeus & Roxanne (1997)	dub=6:1305690,https://pub-fac5f8b51cf64a4d9f11005cbc9792d1.r2.dev/m/Zeus%20_%20Roxanne%20_1997_%20_tmdb_42424_f5400fce.mp4
 Zhang: O Bárbaro	dub=10:2458043
 Zico	dub=2:382857,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301343.mp4,8:382857
 Zico: O Samurai de Quintino (2026)	dub=https://embedplayer2.xyz/cdn/hls/1cd41e4f6403f76ebe6b1d788ae0ee8f/master.txt,6:1501294,2:392637,2:381991,10:2444021,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301342.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301421.mp4,8:392637,8:381991
