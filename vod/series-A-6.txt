@@ -256,7 +256,7 @@
 8	5	dub	3:247160,11:2138639,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/234406.mp4,9:247160
 8	6	dub	3:247161,11:2138640,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/234407.mp4,9:247161
 8	7	dub	3:247162,11:2138641,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/234408.mp4,9:247162
-@Aeroporto: Área Restrita
+@Aeroporto: Área Restrita	2017
 1	1	dub	3:150164,11:2133716,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115921.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116008.mp4,7:1348116,9:150164
 1	2	dub	3:150165,11:2133717,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115922.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116009.mp4,7:1348117,9:150165
 1	3	dub	3:150166,11:2133718,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115923.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116010.mp4,7:1348118,9:150166
@@ -2067,7 +2067,7 @@
 1	24	leg	7:1411619
 1	25	leg	7:1411620
 1	26	leg	7:1411621
-@Akame ga Kill
+@Akame ga Kill	2014
 1	1	dub	3:368479,11:2100365,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248646.mp4,7:1410921,9:368479
 1	2	dub	3:368480,11:2100366,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248647.mp4,7:1410922,9:368480
 1	3	dub	https://embedplayer2.xyz/cdn/hls/ae1074a26417613462067ac28759afb9/master.txt,3:368481,11:2100367,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248648.mp4,7:1410923,9:368481
@@ -3138,7 +3138,7 @@
 1	10	dub	3:178625,11:2136382,9:178625
 1	11	dub	3:178626,11:2136383,9:178626
 1	12	dub	3:178627,11:2136384,9:178627
-@Alguém Em Algum Lugar
+@Alguém Em Algum Lugar	2022
 1	1	dub	3:150812,11:2133632,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116101.mp4,7:1349898,9:150812
 1	2	dub	3:150813,11:2133633,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116102.mp4,7:1349899,9:150813
 1	3	dub	https://embedplayer2.xyz/cdn/hls/54eccdbea56af69ae244f1753a933775/master.txt,3:150814,11:2133634,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/116103.mp4,7:1349900,9:150814

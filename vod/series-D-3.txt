@@ -623,6 +623,14 @@
 1	52	dub	3:230810,11:2154567,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208939.mp4,9:230810
 1	53	dub	3:230811,11:2154568,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208940.mp4,9:230811
 1	54	dub	3:230812,11:2154569,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208941.mp4,9:230812
+2	10	dub	https://embedplayer2.xyz/cdn/hls/3fe87a187bf0703b3372d9b34d645dac/master.txt
+2	20	dub	https://embedplayer2.xyz/cdn/hls/3eb300d740e6c8d2702bf1603d27a359/master.txt
+2	30	dub	https://embedplayer2.xyz/cdn/hls/844792a2440d8cdbb366add309143237/master.txt
+2	40	dub	https://embedplayer2.xyz/cdn/hls/24146c502ac621bb0ee9a7fdac3dab5d/master.txt
+2	41	dub	https://embedplayer2.xyz/cdn/hls/78f11dd8338bbf1f98f978d5af65dc3e/master.txt
+2	42	dub	https://embedplayer2.xyz/cdn/hls/945843ad162efabce94c0efb39dca257/master.txt
+2	45	dub	https://embedplayer2.xyz/cdn/hls/71102b6b1ada88888be96ced172ee2dd/master.txt
+2	49	dub	https://embedplayer2.xyz/cdn/hls/a63c569a7e816de4ad1f1294057e70ce/master.txt
 @Digimon Frontier	2002
 1	1	dub	3:359126,11:2403144,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/36922.mp4,7:1428595,9:359126
 1	2	dub	3:359127,11:2403145,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/36923.mp4,7:1428596,9:359127
@@ -742,7 +750,7 @@
 1	65	leg	7:1428776
 1	66	leg	7:1428777
 1	67	leg	7:1428778
-@Digimon Savers
+@Digimon Savers	2006
 1	1	dub	3:79225,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208942.mp4,9:79225
 1	2	dub	https://embedplayer2.xyz/cdn/hls/26809cca2b9a8e9a528661f1e4ef8bbb/master.txt,3:79226,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208943.mp4,9:79226
 1	3	dub	3:79227,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/208944.mp4,9:79227

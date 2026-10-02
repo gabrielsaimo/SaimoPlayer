@@ -2202,7 +2202,7 @@
 1	133	dub	3:162869,11:2326749,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/165041.mp4,9:162869
 1	134	dub	3:162870,11:2326750,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/165042.mp4,9:162870
 1	135	dub	3:162871,11:2326751,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/165043.mp4,9:162871
-@Absentia
+@Absentia	2017
 1	1	dub	https://embedplayer2.xyz/cdn/hls/01ae20b4ba02d271f2c3cbbf0277f2d0/master.txt,3:7149,11:2215686,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/1576.mp4,7:1318282,9:7149
 1	2	dub	3:7150,11:2215687,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/1577.mp4,7:1318283,9:7150
 1	3	dub	3:7151,11:2215688,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/1579.mp4,7:1318284,9:7151
@@ -2492,7 +2492,7 @@
 1	7	dub	https://embedplayer2.xyz/cdn/hls/3be2c971bb7ea90f231d6474f8c70b1a/master.txt,3:223173,11:2265511,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95252.mp4,7:1419536,9:223173
 1	8	dub	3:223174,11:2265512,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95253.mp4,7:1419537,9:223174
 1	9	dub	3:223175,11:2265513,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95254.mp4,7:1419538,9:223175
-@Acapulco
+@Acapulco	2021
 1	1	dub	3:142210,11:2174211,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27386.mp4,7:1484780,9:142210
 1	2	dub	3:142211,11:2174212,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27388.mp4,7:1484781,9:142211
 1	3	dub	3:142212,11:2174213,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27389.mp4,7:1484782,9:142212

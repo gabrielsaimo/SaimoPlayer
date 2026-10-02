@@ -337,7 +337,7 @@
 2	5	dub	11:2252272
 2	6	dub	11:2252273
 2	7	dub	11:2252274
-@The Head: Mistério na Antártida
+@The Head: Mistério na Antártida	2020
 1	1	dub	3:95591,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112637.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112650.mp4,7:1327289,9:95591
 1	2	dub	3:95592,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112638.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112651.mp4,7:1327290,9:95592
 1	3	dub	3:95593,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112639.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112652.mp4,7:1327291,9:95593
@@ -352,7 +352,7 @@
 2	6	dub	3:216914,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112648.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112661.mp4,9:216914
 2	7	dub	3:324607,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112649.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112662.mp4,9:324607
 @The Heart Killers
-1	1	leg	3:317548,11:2189459,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90586.mp4,9:317548,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/51852?hash=e7a1f1cb97aadcea02ee14a5
+1	1	leg	3:317548,11:2189459,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90586.mp4,9:317548,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/51852?hash=e7a1f1cb97aadcea02ee14a5,https://dj0vkl2i4vsbo.cloudfront.net/convert/Heart%20of%20the%20Yakuza/en/2026-03-31%2010:50:58/1_.m3u8
 1	2	leg	3:317549,11:2189460,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90587.mp4,9:317549
 1	3	leg	3:318393,11:2189461,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90588.mp4,9:318393
 1	4	leg	3:318394,11:2189462,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90589.mp4,9:318394
@@ -795,7 +795,7 @@
 1	14	leg	11:2472294
 1	15	leg	11:2472295
 1	16	leg	11:2472296
-@The Kardashians
+@The Kardashians	2022
 1	1	dub	3:166355,11:2142060,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222093.mp4,7:1367967,9:166355
 1	1	leg	7:1413185
 1	2	dub	https://embedplayer2.xyz/cdn/hls/22b23cb5755acc8888fedbbdc5e62316/master.txt,3:166356,11:2142061,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222094.mp4,7:1367968,9:166356
@@ -2455,12 +2455,12 @@
 1	11	leg	3:232559,11:2189457,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90682.mp4,9:232559
 1	12	leg	3:232560,11:2189458,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/90683.mp4,9:232560
 @The Mick	2017
-1	1	dub	3:229076,11:2141384,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222389.mp4,9:229076
+1	1	dub	https://embedplayer2.xyz/cdn/hls/fc26535da868fc3c311f9a4183787931/master.txt,3:229076,11:2141384,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222389.mp4,9:229076
 1	2	dub	https://embedplayer2.xyz/cdn/hls/fc26535da868fc3c311f9a4183787931/master.txt,3:229077,11:2141385,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222390.mp4,9:229077
-1	3	dub	https://embedplayer2.xyz/cdn/hls/4be6bc2e7fad7ddccf0570e5c460ae0d/master.txt,3:229078,11:2141386,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222391.mp4,9:229078
+1	3	dub	https://embedplayer2.xyz/cdn/hls/4be6bc2e7fad7ddccf0570e5c460ae0d/master.txt,https://embedplayer2.xyz/cdn/hls/b6278b9b83b6fd6ee12796fa03b4b5fb/master.txt,3:229078,11:2141386,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222391.mp4,9:229078
 1	4	dub	3:229079,11:2141387,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222392.mp4,9:229079
-1	5	dub	3:229080,11:2141388,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222393.mp4,9:229080
-1	6	dub	3:229081,11:2141389,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222394.mp4,9:229081
+1	5	dub	https://embedplayer2.xyz/cdn/hls/5a733b625159dfeaf2696df350b9bfeb/master.txt,3:229080,11:2141388,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222393.mp4,9:229080
+1	6	dub	https://embedplayer2.xyz/cdn/hls/1e880a1b02965efec66310e25fda35de/master.txt,3:229081,11:2141389,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222394.mp4,9:229081
 1	7	dub	3:229082,11:2141390,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222395.mp4,9:229082
 1	8	dub	https://embedplayer2.xyz/cdn/hls/394e8d4e16b609b678d8b88abfaeb950/master.txt,3:229083,11:2141391,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222396.mp4,9:229083
 1	9	dub	3:229084,11:2141392,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222397.mp4,9:229084
@@ -3473,7 +3473,7 @@
 1	7	leg	3:40581,11:2296950,7:1342856,9:40581
 1	8	leg	3:40582,11:2296951,7:1342857,9:40582
 1	9	leg	3:40583,11:2296952,7:1342858,9:40583
-@The Newsreader
+@The Newsreader	2021
 1	1	dub	3:156831,11:2252227,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112729.mp4,7:1370357,9:156831
 1	1	leg	3:217662,11:2296965,9:217662
 1	2	dub	3:158209,11:2252228,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/112730.mp4,7:1370358,9:158209
