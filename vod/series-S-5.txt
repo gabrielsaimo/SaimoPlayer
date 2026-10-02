@@ -1751,7 +1751,7 @@
 5	8	dub	7:1365522
 5	9	dub	7:1365523
 5	10	dub	7:1365524
-@Star Trek: Prodigy
+@Star Trek: Prodigy	2021
 1	1	dub	https://embedplayer2.xyz/cdn/hls/117850824af9b2d8ec414f746ac78336/master.txt,3:155186,11:2162273,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232406.mp4,9:155186
 1	2	dub	3:155187,11:2162274,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232407.mp4,9:155187
 1	3	dub	3:155188,11:2162275,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232408.mp4,9:155188
@@ -1869,7 +1869,7 @@
 4	8	leg	7:1503210
 4	9	dub	3:397658,11:2470744,9:397658
 4	10	dub	3:398837,11:2471776,9:398837
-@Star Wars Andor
+@Star Wars Andor	2022
 1	1	dub	3:178886,11:2177383,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73591.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73909.mp4,7:1366691,9:178886
 1	1	leg	3:365374,7:1366774,9:365374
 1	2	dub	3:178887,11:2177384,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73592.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73911.mp4,7:1366692,9:178887
@@ -2256,7 +2256,7 @@
 4	14	dub	3:104699,11:2176885,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73823.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74114.mp4,7:1330274,9:104699
 4	15	dub	3:104700,11:2176886,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73824.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74115.mp4,7:1330275,9:104700
 4	16	dub	7:1330276
-@Star Wars: The Bad Batch
+@Star Wars: The Bad Batch	2021
 1	1	dub	3:116836,11:2176709,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73838.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74118.mp4,7:1341382,9:116836
 1	2	dub	3:116837,11:2176710,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73839.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74119.mp4,7:1341383,9:116837
 1	3	dub	3:116838,11:2176711,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/73840.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74120.mp4,7:1341384,9:116838

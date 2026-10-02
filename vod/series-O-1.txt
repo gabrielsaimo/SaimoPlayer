@@ -148,7 +148,7 @@
 1	7	leg	3:303960,11:2290613,7:1454904,9:303960
 1	8	dub	https://embedplayer2.xyz/cdn/hls/ff903141cc7f471ec9a1096cb86d7ca0/master.txt,3:390563,11:2411326,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/311165.mp4,9:390563
 1	8	leg	3:303961,11:2290614,7:1454905,9:303961
-@O Consultor
+@O Consultor	2023
 1	1	dub	3:188005,11:2206487,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/15075.mp4,7:1393368,9:188005
 1	2	dub	https://embedplayer2.xyz/cdn/hls/6bf73143b8aa3411e9104fc6a764b0af/master.txt,3:188006,11:2206488,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/15077.mp4,7:1393369,9:188006
 1	3	dub	https://embedplayer2.xyz/cdn/hls/b252743c131409b7139efdfa58fd7995/master.txt,3:188007,11:2206489,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/15078.mp4,7:1393370,9:188007
@@ -1094,7 +1094,7 @@
 1	3	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107606.mp4
 1	4	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107607.mp4
 1	5	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/107608.mp4
-@O Domo
+@O Domo	2013
 1	1	dub	https://embedplayer2.xyz/cdn/hls/c2fea75698e60435bc0e83f929d5480b/master.txt,7:1315797
 1	1	leg	7:1406146
 1	2	dub	https://embedplayer2.xyz/cdn/hls/230d01ada5711545c330a89e7749c75d/master.txt,7:1315798
@@ -1180,7 +1180,7 @@
 1	4	dub	3:318464,11:2227818,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148667.mp4,7:1477974,9:318464
 1	5	dub	3:318465,11:2227819,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148668.mp4,7:1477975,9:318465
 1	6	dub	3:318466,11:2227820,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/148669.mp4,7:1477976,9:318466
-@O Dono de Kingstown
+@O Dono de Kingstown	2021
 1	1	dub	https://embedplayer2.xyz/cdn/hls/a36f455522c36d0863c1d4faf8d63032/master.txt,3:158721,11:2164332,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/230337.mp4,7:1450685,9:158721
 1	1	leg	3:394055,7:1450645,9:394055
 1	2	dub	3:158722,11:2164333,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/230338.mp4,7:1450686,9:158722

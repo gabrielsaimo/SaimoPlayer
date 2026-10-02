@@ -1884,7 +1884,7 @@
 2	8	dub	11:2258408
 2	9	dub	11:2258409
 2	10	dub	11:2258410
-@Manhunt Unabomber
+@Manhunt Unabomber	2017
 1	1	dub	3:41746,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105673.mp4,9:41746
 1	2	dub	https://embedplayer2.xyz/cdn/hls/f20bbbde92bd77e08c7836483bb3245e/master.txt,3:41747,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105674.mp4,9:41747
 1	3	dub	3:41748,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105675.mp4,9:41748
@@ -5703,7 +5703,7 @@
 3	12	leg	7:1445683
 3	13	dub	https://embedplayer2.xyz/cdn/hls/6c2fb58f72421dbc5af0a5421179ff5f/master.txt,3:24435,11:2180903,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/67490.mp4,7:1445723,9:24435
 3	13	leg	7:1445684
-@Marvel - Luke Cage
+@Marvel - Luke Cage	2016
 1	1	dub	11:2181424,7:1323509
 1	1	leg	7:1369502
 1	2	dub	https://embedplayer2.xyz/cdn/hls/d9b362cff4a77a6a6506d370153d566e/master.txt,11:2181425,7:1323510
@@ -6265,7 +6265,7 @@
 5	2	dub	3:183333,11:2229449,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147012.mp4,9:183333
 5	3	dub	3:183334,11:2229450,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147013.mp4,9:183334
 5	4	dub	3:183335,11:2229451,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147014.mp4,9:183335
-@Mashle: Magia e Músculos
+@Mashle: Magia e Músculos	2023
 1	1	dub	3:193759,11:2397343,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38901.mp4,9:193759
 1	1	leg	3:241395,11:2288576,7:1476789,9:241395
 1	2	dub	https://embedplayer2.xyz/cdn/hls/5bb3ca2005afcf48f33260d192557e70/master.txt,3:194427,11:2397344,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38903.mp4,9:194427

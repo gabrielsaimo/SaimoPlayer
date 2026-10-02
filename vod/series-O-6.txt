@@ -4170,18 +4170,17 @@
 23	3	leg	11:2392690
 23	4	leg	11:2392691
 @One Piece Log Fish Man Island Saga
-1	1	dub	https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/40623?hash=a18066e9f83c0ca56c506b01
-1	1	leg	3:292917,9:292917
-1	2	dub	https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/55174?hash=493b2b25e318242eabdadd46,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/40624?hash=493b2b25e318242eabdadd46
-1	2	leg	3:296606,9:296606
+1	1	dub	https://fenixbot.squareweb.app/stream/55173?hash=a18066e9f83c0ca56c506b01,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/40623?hash=a18066e9f83c0ca56c506b01
+1	1	leg	3:292917,9:292917,https://cdn-sv01.maximaimg.online/stream/o/one-piece/01.mp4/index.m3u8
+1	2	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/55174?hash=493b2b25e318242eabdadd46,https://fenixbot.squareweb.app/stream/40624?hash=493b2b25e318242eabdadd46
+1	2	leg	3:296606,9:296606,https://cdn-sv01.maximaimg.online/stream/o/one-piece/02.mp4/index.m3u8
 1	3	dub	https://embedplayer2.xyz/cdn/hls/9185168868e268342ef1e54c4c405a81/master.txt
 1	3	leg	3:296607,9:296607
-1	4	dub	https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/55176?hash=de10f20f5e64386c4491bea7,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/40626?hash=de10f20f5e64386c4491bea7
-1	4	leg	3:296828,9:296828
-1	5	dub	https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/40628?hash=15d2517479e20942cd598cd4
+1	4	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/55176?hash=de10f20f5e64386c4491bea7,https://fenixbot.squareweb.app/stream/40626?hash=de10f20f5e64386c4491bea7
+1	4	leg	3:296828,9:296828,https://cdn-sv01.maximaimg.online/stream/o/one-piece/04.mp4/index.m3u8
 1	5	leg	3:297362,9:297362
-1	6	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/40629?hash=b031f95e9f2120c829103ba7
-1	6	leg	3:297692,9:297692
+1	6	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/55178?hash=b031f95e9f2120c829103ba7,https://fenixbot.squareweb.app/stream/40629?hash=b031f95e9f2120c829103ba7
+1	6	leg	3:297692,9:297692,https://cdn-sv01.maximaimg.online/stream/o/one-piece/06.mp4/index.m3u8
 1	7	dub	https://embedplayer2.xyz/cdn/hls/48b5d500772e767826b76baa30e723a7/master.txt
 1	7	leg	3:299242,9:299242
 1	8	dub	https://embedplayer2.xyz/cdn/hls/2d3881609f67e3db41ac8656664d9be9/master.txt
@@ -4762,7 +4761,7 @@
 1	10	leg	3:291565,11:2191765,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/87541.mp4,9:291565
 1	11	leg	3:291566,11:2191766,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/87542.mp4,9:291566
 1	12	leg	3:291567,11:2191767,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/87543.mp4,9:291567
-@Only Murders in the Building
+@Only Murders in the Building	2021
 1	1	dub	3:124608,11:2135668,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/237968.mp4,7:1359632,9:124608
 1	1	leg	7:1416007
 1	2	dub	https://embedplayer2.xyz/cdn/hls/eef02ecd826e8ec83ac9b4ff32c07ad2/master.txt,3:124609,11:2135669,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/237969.mp4,7:1359633,9:124609
@@ -6714,7 +6713,7 @@
 7	14	dub	3:104355,11:2225564,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/151154.mp4,9:104355
 7	15	dub	3:104356,11:2225565,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/151155.mp4,9:104356
 7	16	dub	3:104357,11:2225566,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/151156.mp4,9:104357
-@Os 12 Macacos
+@Os 12 Macacos	2015
 1	1	dub	7:1339562
 1	1	leg	7:1432234
 1	2	dub	7:1339563

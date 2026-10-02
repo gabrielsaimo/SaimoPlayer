@@ -433,7 +433,7 @@
 1	24	dub	3:291111,11:2205087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17953.mp4,9:291111
 1	25	dub	3:291112,11:2205088,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17955.mp4,9:291112
 1	26	dub	3:291113,11:2205089,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17956.mp4,9:291113
-@Pachinko
+@Pachinko	2022
 1	1	dub	https://embedplayer2.xyz/cdn/hls/6f582da9634b82ae99ae95a377b2b1d2/master.txt,3:156768,11:2171072,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31837.mp4,7:1362812,9:156768
 1	2	dub	https://embedplayer2.xyz/cdn/hls/1f2c86cb60e524e842979da9ef1b7e5a/master.txt,3:156769,11:2171073,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31838.mp4,7:1362813,9:156769
 1	3	dub	3:156770,11:2171074,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31839.mp4,7:1362814,9:156770
@@ -4121,7 +4121,7 @@
 1	9	leg	7:1451242
 1	10	dub	https://embedplayer2.xyz/cdn/hls/f60cdcb82abba54066f14df9d2764cf6/master.txt,3:300174,11:2171033,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31986.mp4,7:1451253,9:300174
 1	10	leg	7:1451243
-@Passageiros: A Última Viagem
+@Passageiros: A Última Viagem	2020
 1	1	dub	https://embedplayer2.xyz/cdn/hls/897239b882b2edde8a6b0b6e6bb5b89a/master.txt,3:171291,11:2255777,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108802.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108810.mp4,7:1367353,9:171291
 1	2	dub	https://embedplayer2.xyz/cdn/hls/166d247d0dadc1924192483568e838da/master.txt,3:171292,11:2255778,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108803.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108811.mp4,7:1367354,9:171292
 1	3	dub	https://embedplayer2.xyz/cdn/hls/c1d3aa5f157062cd9e34728c39408b42/master.txt,3:171293,11:2255779,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108804.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108812.mp4,7:1367355,9:171293

@@ -534,7 +534,7 @@
 3	8	dub	7:1438507
 3	9	dub	7:1438508
 3	10	dub	7:1438509
-@FBI Internacional
+@FBI Internacional	2021
 1	1	dub	7:1348869
 1	1	leg	3:249347,11:2282757,7:1405809,9:249347
 1	2	dub	https://embedplayer2.xyz/cdn/hls/8eab0f02b7f78ac04baa1a2e041c518d/master.txt,7:1348870
@@ -2448,7 +2448,7 @@
 2	8	dub	7:1364622
 2	9	dub	7:1364623
 2	10	dub	7:1364624
-@Family Law
+@Family Law	2021
 1	1	dub	3:179408,11:2261431,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102280.mp4,7:1371278,9:179408
 1	2	dub	https://embedplayer2.xyz/cdn/hls/77bc6ebbff3c28ab38f64f03434dfc4b/master.txt,3:179409,11:2261432,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102281.mp4,7:1371279,9:179409
 1	3	dub	3:179410,11:2261433,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/102282.mp4,7:1371280,9:179410
@@ -2688,7 +2688,7 @@
 1	13	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/266604.mp4
 1	14	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/266605.mp4
 @Família Soprano	1999
-1	1	dub	3:266095,11:2130286,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/120214.mp4,7:1427190,9:266095,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/1655?hash=e63eac990bb1f9792c0bd25a
+1	1	dub	3:266095,11:2130286,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/120214.mp4,7:1427190,9:266095,https://fenixbot.squareweb.app/stream/1655?hash=e63eac990bb1f9792c0bd25a
 1	1	leg	3:389971,7:1427104,9:389971
 1	2	dub	3:266096,11:2130287,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/120215.mp4,7:1427191,9:266096
 1	2	leg	3:389972,7:1427105,9:389972
@@ -2935,7 +2935,7 @@
 7	10	dub	3:362335,11:2236104,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139991.mp4,7:1348497,9:362335
 7	11	dub	3:362336,11:2236105,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139992.mp4,7:1348498,9:362336
 7	12	dub	3:362337,11:2236106,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/139993.mp4,7:1348499,9:362337
-@Família da Meia-Noite
+@Família da Meia-Noite	2024
 1	1	dub	7:1483070
 1	2	dub	https://embedplayer2.xyz/cdn/hls/9e62ee4d88243b4821c188fc7635a07c/master.txt,7:1483071
 1	3	dub	11:2270238,7:1483072

@@ -1890,7 +1890,7 @@
 3	24	dub	11:2270419
 3	25	dub	11:2270420
 3	26	dub	11:2270421
-@A Hora do Diabo
+@A Hora do Diabo	2022
 1	1	dub	3:178603,11:2216017,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/576.mp4,7:1368625,9:178603
 1	1	leg	7:1368631
 1	2	dub	https://embedplayer2.xyz/cdn/hls/04e57025e4049af6122b3871e10c65ca/master.txt,3:178604,11:2216018,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/577.mp4,7:1368626,9:178604
@@ -1959,7 +1959,7 @@
 1	10	leg	3:383192,9:383192
 1	11	leg	3:383945,9:383945
 1	12	leg	3:384865,9:384865
-@A Idade Dourada
+@A Idade Dourada	2022
 1	1	dub	https://embedplayer2.xyz/cdn/hls/12a9b1904244c421b35d133ac8094a0b/master.txt,3:149254,11:2134259,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115424.mp4,7:1349873,9:149254
 1	2	dub	https://embedplayer2.xyz/cdn/hls/70c1ed61a8b8af6ddd8b9d04b7988ce5/master.txt,3:149255,11:2134260,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115425.mp4,7:1349874,9:149255
 1	3	dub	https://embedplayer2.xyz/cdn/hls/9868015b66bf3d1a76c1ef3172c727a0/master.txt,3:149933,11:2134261,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/115426.mp4,7:1349875,9:149933
@@ -2183,7 +2183,7 @@
 1	23	dub	3:192156,11:2399206,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35513.mp4,9:192156
 1	24	dub	3:192157,11:2399207,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35514.mp4,9:192157
 1	25	dub	3:192158,11:2399208,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35516.mp4,9:192158
-@A Imperatriz
+@A Imperatriz	2022
 1	1	dub	https://embedplayer2.xyz/cdn/hls/7d29dff803111e52e05b9df9d6ea5e51/master.txt,3:176055,11:2242717,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/132114.mp4,7:1367577,9:176055
 1	2	dub	https://embedplayer2.xyz/cdn/hls/a078896f8abacc8e2e84abc42a741586/master.txt,3:176056,11:2242718,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/132115.mp4,7:1367578,9:176056
 1	3	dub	https://embedplayer2.xyz/cdn/hls/b65ae81d13b277f73e891188ec38f45a/master.txt,3:176057,11:2242719,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/132116.mp4,7:1367579,9:176057
@@ -3825,7 +3825,7 @@
 1	10	dub	3:142495,11:2160207,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203142.mp4,9:142495
 1	11	dub	3:142496,11:2160208,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203143.mp4,9:142496
 1	12	dub	3:142497,11:2160209,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203144.mp4,9:142497
-@A Lenda de Shahmaran
+@A Lenda de Shahmaran	2023
 1	1	dub	3:185390,11:2119217,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238830.mp4,7:1375323,9:185390
 1	2	dub	3:185391,11:2119218,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238831.mp4,7:1375324,9:185391
 1	3	dub	3:185392,11:2119219,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238832.mp4,7:1375325,9:185392
@@ -3880,7 +3880,7 @@
 1	37	leg	3:263140,11:2198621,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77838.mp4,9:263140
 1	38	leg	3:263141,11:2198622,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77840.mp4,9:263141
 1	39	leg	3:263142,11:2198623,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77841.mp4,9:263142
-@A Lenda de Sleepy Hollow
+@A Lenda de Sleepy Hollow	2013
 1	1	dub	3:142498,11:2174607,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27041.mp4,7:1353710,9:142498
 1	2	dub	3:142499,11:2174608,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27042.mp4,7:1353711,9:142499
 1	3	dub	3:142500,11:2174609,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/27043.mp4,7:1353712,9:142500
@@ -4101,7 +4101,7 @@
 1	5	dub	3:399315
 1	6	dub	3:399316
 1	7	dub	3:399317
-@A Linha Invisível
+@A Linha Invisível	2020
 1	1	dub	https://embedplayer2.xyz/cdn/hls/43aa295ed36e449015c626f99bf3aed0/master.txt,3:139008,11:2160192,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203145.mp4,7:1347367,9:139008
 1	2	dub	3:139009,11:2160193,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203146.mp4,7:1347368,9:139009
 1	3	dub	3:139010,11:2160194,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/203147.mp4,7:1347369,9:139010
@@ -4160,7 +4160,7 @@
 1	8	leg	3:361492,9:361492
 1	9	leg	3:361493,9:361493
 1	10	leg	3:361494,9:361494
-@A Lição
+@A Lição	2022
 1	1	dub	3:188944,11:2198497,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77894.mp4,7:1400705,9:188944
 1	2	dub	3:188945,11:2198498,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77896.mp4,7:1400706,9:188945
 1	3	dub	3:188946,11:2198499,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/77897.mp4,7:1400707,9:188946

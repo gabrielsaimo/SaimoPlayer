@@ -620,7 +620,7 @@
 1	6	leg	7:1429897
 1	7	leg	7:1429898
 1	8	leg	7:1429899
-@1883
+@1883	2021
 1	1	dub	3:159320,11:2169195,7:1349495,9:159320
 1	1	leg	3:227067,11:2275280,7:1406136,9:227067
 1	2	dub	3:159321,11:2169196,7:1349496,9:159321
@@ -2099,7 +2099,7 @@
 1	2	leg	3:351223,3:204516,11:2275392,7:1438472,9:351223,9:204516
 1	3	leg	3:351224,3:204517,11:2275393,7:1438473,9:351224,9:204517
 @56 Dias	2026
-1	1	dub	https://embedplayer2.xyz/cdn/hls/514fdb1307f120f5f027a21a7bd7e0ca/master.txt,3:367092,11:2274981,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248148.mp4,7:1492835,9:367092,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1167?hash=de0849837976310561e16ac8
+1	1	dub	https://embedplayer2.xyz/cdn/hls/514fdb1307f120f5f027a21a7bd7e0ca/master.txt,3:367092,11:2274981,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248148.mp4,7:1492835,9:367092,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/1167?hash=de0849837976310561e16ac8
 1	2	dub	https://embedplayer2.xyz/cdn/hls/1f55f82fc7fbfdff0f7e5ed1cfb5d0bb/master.txt,3:367093,11:2274982,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248149.mp4,7:1492836,9:367093
 1	3	dub	https://embedplayer2.xyz/cdn/hls/6fc9a17ef977b40578ce7fcb98eb534d/master.txt,3:367094,11:2274983,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248150.mp4,7:1492837,9:367094
 1	4	dub	https://embedplayer2.xyz/cdn/hls/360fc24ef6aff8cfdd25637377fc0f6b/master.txt,3:367095,11:2274984,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248151.mp4,7:1492838,9:367095

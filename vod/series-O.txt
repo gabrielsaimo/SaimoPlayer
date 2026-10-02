@@ -2,7 +2,7 @@ O Acampamento de Lazlo		0	53
 O Adulterio		0	32
 O Advogado de Divórcio		0	12
 O Agente Divino		0	8
-O Agente Noturno		0	60
+O Agente Noturno	2023	0	60
 O Agente de Futebol		0	6
 O Alienista	2018	0	18
 O Amanha e Eu	2024	0	4
@@ -117,7 +117,7 @@ O Clone		0	252
 O Clube		0	23
 O Clube - The Club		0	6
 O Clube - The club - Kulup		0	20
-O Clube da Meia-Noite		0	10
+O Clube da Meia-Noite	2022	0	10
 O Clube das Babás		1	18
 O Clube das CEO		1	8
 O Clube das Coisas Mágicas		1	40
@@ -128,7 +128,7 @@ O Codigo Bill Gates		1	3
 O Colapso		1	1
 O Coletor de Corpos		1	3
 O Conde de Monte Cristo	2025	1	16
-O Consultor		1	8
+O Consultor	2023	1	8
 O Continental Do Mundo de John Wick	2023	1	6
 O Conto Da Aia	2017	1	66
 O Conto da Raposa de Nove Caudas		1	29
@@ -170,9 +170,9 @@ O Dilema de Suzie		1	11
 O Direito De Nascer		1	191
 O Diretor Nu		1	8
 O Documentário		1	5
-O Domo		1	78
+O Domo	2013	1	78
 O Domo de Vidro		1	6
-O Dono de Kingstown		1	80
+O Dono de Kingstown	2021	1	80
 O Dono do Lar		1	140
 O Dono do Mundo		1	198
 O Doutrinador A Série		1	7
@@ -430,7 +430,7 @@ O Plano de Ressurreicao	2025	3	9
 O Plano é Esse		3	6
 O Poder		3	9
 O Poder de Hitler		3	3
-O Poder e a Lei		3	80
+O Poder e a Lei	2022	3	80
 O Poligamo	2026	3	22
 O Poltergeist de Enfield		3	4
 O Portal do Ollie		3	26
@@ -502,7 +502,7 @@ O Renovador		4	8
 O Repatriado		4	10
 O Repórter do Poder		4	4
 O Resgate na Caverna Tailandesa		4	6
-O Residente		4	214
+O Residente	2018	4	214
 O Resort Zoobak		4	51
 O Restaurante da Bruxa		4	8
 O Restaurante do Diabo		4	6
@@ -515,7 +515,7 @@ O Rico e Lázaro		4	181
 O Ringue		4	5
 O Roubo	2026	4	12
 O Sabor do Destino	2022	4	17
-O Sabotador		4	20
+O Sabotador	2022	4	20
 O Sacerdote Impetuoso		4	40
 O Salvador da Pátria		4	186
 O Sangue de Zeus		4	24
@@ -533,7 +533,7 @@ O Segredo de Widow's Bay		4	10
 O Segredo de Widows Bay	2026	4	20
 O Segredo do Comissario		4	8
 O Segredo do Comissario - Innocent - Masum		4	8
-O Segredo do Rancho Skinwalker		4	58
+O Segredo do Rancho Skinwalker	2020	4	58
 O Segredo do Rio	2024	4	8
 O Segredo do Templo		4	24
 O Segredo do Templo - Atiye		4	24
@@ -584,7 +584,7 @@ O Tio de Outro Mundo		4	13
 O Toque Do Silencio		4	6
 O Traficante		4	10
 O Truque de Black		4	13
-O Turista		4	24
+O Turista	2022	4	24
 O Túnel Do Tempo		4	30
 O Ultimato: Ou Casa ou Vaza		4	40
 O Ultimato: Queer Love		4	20
@@ -729,7 +729,7 @@ Onde quer que voce esteja - Her Yerde Sen		6	23
 One Dollar		6	20
 One More Happy Ending		6	16
 One Piece	1999	6	4011
-One Piece Log Fish Man Island Saga		6	40
+One Piece Log Fish Man Island Saga		6	39
 One Punch Man	2015	6	72
 One Room Angel		6	6
 One Spring Night		6	16
@@ -742,7 +742,7 @@ Onisciente		6	6
 Onision: Abuso na Internet		6	4
 Onivoros		6	8
 Only Boo		6	12
-Only Murders in the Building		6	100
+Only Murders in the Building	2021	6	100
 Onmyo Kaiten Re Birth Verse		6	12
 Onmyoji		6	13
 Oops! Mysterious Sounds		6	2
@@ -796,7 +796,7 @@ Orphan Black		6	100
 Orphan Black Echoes		6	10
 Os		6	44
 Os 100		6	100
-Os 12 Macacos		6	94
+Os 12 Macacos	2015	6	94
 Os 13 Fantasmas do Scooby Doo		6	13
 Os 20 dias de Lazaro		6	6
 Os 24 Estratagemas de Changan		6	28
