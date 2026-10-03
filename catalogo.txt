@@ -40,6 +40,27 @@
 # referer, agente e chave pertencem à fonte imediatamente acima delas.
 # Linhas em branco e linhas começadas por # são ignoradas.
 
+# SAIMO TV — LISTA DE CANAIS
+# 408 canais · 17/09/2026
+#
+# Os apps baixam este arquivo ao abrir, então trocar um link aqui basta: nada
+# precisa ser recompilado nem reinstalado.
+#
+# Uma linha por campo, no formato "chave: valor".
+#
+#   canal:    começa um canal novo
+#   logo:     imagem do canal (opcional)
+#   categoria: em que seção da lista o canal entra (opcional); sem ela a
+#             seção sai do nome do canal
+#   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
+#             para a seguinte quando ela falha
+#   referer:  cabeçalho Referer exigido por alguns CDNs
+#   agente:   User-Agent exigido por alguns CDNs
+#   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
+#
+# referer, agente e chave pertencem à fonte imediatamente acima delas.
+# Linhas em branco e linhas começadas por # são ignoradas.
+
 canal: A&E
 categoria: Documentários
 logo: https://img.faz-o-eli.online/ae.png
@@ -2643,12 +2664,11 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/8736.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30148.ts
 qualidade: HD
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryhh/discoveryhh.m3u8
+fonte: https://nexustvplay.bbroot.com/api/stream/discoverychannel/discoverychannel.m3u8
 
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
-fonte: https://nexustvplay.bbroot.com/api/stream/discoverykids/discoverykids.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg3MS5tM3U4.m3u8
 qualidade: FHD · 1920x1080
@@ -2702,11 +2722,11 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38017.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/38018.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoverykids/discoverykids.m3u8
 
 canal: Discovery Theater
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverytheater.png
-fonte: https://nexustvplay.bbroot.com/api/stream/discoverytheather/discoverytheather.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg3OS5tM3U4.m3u8
 qualidade: FHD · 1920x1080
@@ -2764,6 +2784,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93904.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30153.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoverytheather/discoverytheather.m3u8
 
 canal: ESPN
 categoria: Esportes
@@ -4060,7 +4081,6 @@ qualidade: HD · 1280x720
 canal: Discovery Turbo
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryturbo.png
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryturbo/discoveryturbo.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg4My5tM3U4.m3u8
 qualidade: FHD
@@ -4128,6 +4148,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30156.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30155.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryturbo/discoveryturbo.m3u8
 
 canal: USA Network
 categoria: Filmes e Séries
@@ -4645,7 +4666,6 @@ qualidade: HD
 canal: Discovery Science
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryscience/discoveryscience.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg3NS5tM3U4.m3u8
 qualidade: FHD · 1920x1080
@@ -4703,6 +4723,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93903.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30151.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryscience/discoveryscience.m3u8
 
 canal: AXN
 categoria: Filmes e Séries
@@ -6182,6 +6203,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93902.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30149.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryhh/discoveryhh.m3u8
 
 canal: Canal Agro
 categoria: Variedades
@@ -9468,7 +9490,6 @@ fonte: https://nexustvplay.bbroot.com/api/stream/24h_friends/24h_friends.m3u8
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
-fonte: https://nexustvplay.bbroot.com/api/stream/discoveryworld/discoveryworld.m3u8
 qualidade: SD · 768x432
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTg4Ny5tM3U4.m3u8
 qualidade: FHD
@@ -9522,6 +9543,7 @@ fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/93905.ts
 qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30157.ts
 qualidade: HD
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryworld/discoveryworld.m3u8
 
 canal: CazeTV 1
 categoria: Esportes
@@ -19305,7 +19327,6 @@ categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169255.ts
 qualidade: Qualidade não informada
-
 
 canal: Disney Plus 1
 categoria: Filmes e Séries
