@@ -19232,3 +19232,302 @@ categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/1169255.ts
 qualidade: Qualidade não informada
+
+
+canal: 24h Chaves
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/mgMgigPW43fWMqkhsOX55FmJssk.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_chaves/24h_chaves.m3u8
+
+canal: 24h Dragon Ball Z
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/kbkuYkaFsDwL6cyMgnBf77LczEo.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_dragonball/24h_dragonball.m3u8
+
+canal: 24h Friends
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_friends/24h_friends.m3u8
+
+canal: 24h Naruto Clássico
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/9ptbVZpKNy5NY9D4zq4KGiYWRQY.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_naruto/24h_naruto.m3u8
+
+canal: 24h Os Simpsons
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_simpsons/24h_simpsons.m3u8
+
+canal: 24h Pica Pau
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_picapau/24h_picapau.m3u8
+
+canal: 24h Sobrenatural
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_supernatural/24h_supernatural.m3u8
+
+canal: 24h Todo Mundo Odeia o Cris
+categoria: 24h
+logo: https://image.tmdb.org/t/p/w300/j7KcbOjhNIWOQqHGtL0P90nlfHB.jpg
+fonte: https://nexustvplay.bbroot.com/api/stream/24h_odeiachris/24h_odeiachris.m3u8
+
+canal: A Fazenda 18 - 1
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/afazenda/afazenda.m3u8
+
+canal: A Fazenda 18 - 2
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/afazenda2/afazenda2.m3u8
+
+canal: A Fazenda 18 - 3
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/afazenda3/afazenda3.m3u8
+
+canal: A Fazenda 18 - 4
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/afazenda4/afazenda4.m3u8
+
+canal: A Fazenda 18 - 5
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/afazenda5/afazenda5.m3u8
+
+canal: Aparecida
+categoria: Abertos
+logo: https://vipcanais.net/images/tvaparecida.png
+fonte: https://nexustvplay.bbroot.com/api/stream/aparecida/aparecida.m3u8
+
+canal: Band RJ
+categoria: Abertos
+logo: https://vipcanais.net/images/bandsp.png
+fonte: https://nexustvplay.bbroot.com/api/stream/bandrj/bandrj.m3u8
+
+canal: Combate
+categoria: Esportes
+logo: https://vipcanais.net/images/combate.png
+fonte: https://nexustvplay.bbroot.com/api/stream/combate/combate.m3u8
+
+canal: Discovery Channel
+categoria: Documentários
+logo: https://vipcanais.net/images/discoverychannel.png
+fonte: https://nexustvplay.bbroot.com/api/stream/discoverychannel/discoverychannel.m3u8
+
+canal: Discovery H&H
+categoria: Documentários
+logo: https://vipcanais.net/images/discoveryhh.png
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryhh/discoveryhh.m3u8
+
+canal: Discovery ID
+categoria: Documentários
+logo: https://vipcanais.net/images/discoveryid.png
+fonte: https://nexustvplay.bbroot.com/api/stream/discoveryid/discoveryid.m3u8
+
+canal: Disney Plus 1
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus1/disneyplus1.m3u8
+
+canal: Disney Plus 2
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus2/disneyplus2.m3u8
+
+canal: Disney Plus 3
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/disneyplus.png
+fonte: https://nexustvplay.bbroot.com/api/stream/disneyplus3/disneyplus3.m3u8
+
+canal: Globo AM
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globoam/globoam.m3u8
+
+canal: Globo CE
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globoce/globoce.m3u8
+
+canal: Globo GO
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globogo/globogo.m3u8
+
+canal: Globo Novelas
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globonovelas/globonovelas.m3u8
+
+canal: Globo PB
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globopb/globopb.m3u8
+
+canal: Globo PE
+categoria: Abertos
+logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/globope/globope.m3u8
+
+canal: HBO Xtreme
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/hboxtreme.png
+fonte: https://nexustvplay.bbroot.com/api/stream/hboxtreme/hboxtreme.m3u8
+
+canal: HGTV
+categoria: Entretenimento
+logo: https://vipcanais.net/images/hgtv.png
+fonte: https://nexustvplay.bbroot.com/api/stream/hgtv/hgtv.m3u8
+
+canal: History
+categoria: Documentários
+logo: https://vipcanais.net/images/history.png
+fonte: https://nexustvplay.bbroot.com/api/stream/history/history.m3u8
+
+canal: History 2
+categoria: Documentários
+logo: https://vipcanais.net/images/history2.png
+fonte: https://nexustvplay.bbroot.com/api/stream/history2/history2.m3u8
+
+canal: MasterChef
+categoria: Entretenimento
+fonte: https://nexustvplay.bbroot.com/api/stream/masterchef/masterchef.m3u8
+
+canal: Max 1
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/max.png
+fonte: https://nexustvplay.bbroot.com/api/stream/max1/max1.m3u8
+
+canal: Max 2
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/max.png
+fonte: https://nexustvplay.bbroot.com/api/stream/max2/max2.m3u8
+
+canal: Paramount Plus 1
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/paramountplus.png
+fonte: https://nexustvplay.bbroot.com/api/stream/paramountplus/paramountplus.m3u8
+
+canal: Paramount Plus 2
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/paramountplus.png
+fonte: https://nexustvplay.bbroot.com/api/stream/paramountplus2/paramountplus2.m3u8
+
+canal: Playboy TV
+categoria: Adultos
+fonte: https://nexustvplay.bbroot.com/api/stream/playboy/playboy.m3u8
+
+canal: Premiere 1
+categoria: Esportes
+logo: https://vipcanais.net/images/premiereclubes.png
+fonte: https://nexustvplay.bbroot.com/api/stream/premiere/premiere.m3u8
+
+canal: Prime Video 3
+categoria: Filmes e Séries
+logo: https://vipcanais.net/images/amazonprimevideo.png
+fonte: https://nexustvplay.bbroot.com/api/stream/primevideo3/primevideo3.m3u8
+
+canal: PT - A Bola
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_abola/pt_abola.m3u8
+
+canal: PT - Benfica TV
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_benficatv/pt_benficatv.m3u8
+
+canal: PT - Canal 11
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_canal11/pt_canal11.m3u8
+
+canal: PT - Eleven 1
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven1/pt_eleven1.m3u8
+
+canal: PT - Eleven 2
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven2/pt_eleven2.m3u8
+
+canal: PT - Eleven 3
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_eleven3/pt_eleven3.m3u8
+
+canal: PT - Sporttv 1
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv1/pt_sportv1.m3u8
+
+canal: PT - Sporttv 2
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv2/pt_sportv2.m3u8
+
+canal: PT - Sporttv 3
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv3/pt_sportv3.m3u8
+
+canal: PT - Sporttv 4
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv4/pt_sportv4.m3u8
+
+canal: PT - Sporttv 5
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv5/pt_sportv5.m3u8
+
+canal: PT - Sporttv 6
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv6/pt_sportv6.m3u8
+
+canal: PT - Sporttv 7
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/pt_sportv7/pt_sportv7.m3u8
+
+canal: Record GO
+categoria: Abertos
+logo: https://vipcanais.net/images/recordsp.png
+fonte: https://nexustvplay.bbroot.com/api/stream/recordgo/recordgo.m3u8
+
+canal: Sexy Hot
+categoria: Adultos
+fonte: https://nexustvplay.bbroot.com/api/stream/sexyhot/sexyhot.m3u8
+
+canal: SporTV 4
+categoria: Esportes
+logo: https://vipcanais.net/images/sportv.png
+fonte: https://nexustvplay.bbroot.com/api/stream/sportv4/sportv4.m3u8
+
+canal: SportyNet
+categoria: Esportes
+logo: https://vipcanais.net/images/sportynet.png
+fonte: https://nexustvplay.bbroot.com/api/stream/sportynet/sportynet.m3u8
+
+canal: SportyNet+ 1
+categoria: Esportes
+logo: https://vipcanais.net/images/sportynet.png
+fonte: https://nexustvplay.bbroot.com/api/stream/sportynetplus1/sportynetplus1.m3u8
+
+canal: SportyNet+ 2
+categoria: Esportes
+logo: https://vipcanais.net/images/sportynet.png
+fonte: https://nexustvplay.bbroot.com/api/stream/sportynetplus2/sportynetplus2.m3u8
+
+canal: SportyNet+ 3
+categoria: Esportes
+logo: https://vipcanais.net/images/sportynet.png
+fonte: https://nexustvplay.bbroot.com/api/stream/sportynetplus3/sportynetplus3.m3u8
+
+canal: Star Channel
+categoria: Filmes e Séries
+logo: https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/brazil/star-channel-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/starchannel/starchannel.m3u8
+
+canal: TCM
+categoria: Filmes e Séries
+logo: https://cdn.jsdelivr.net/gh/tv-logo/tv-logos@main/countries/brazil/tcm-br.png
+fonte: https://nexustvplay.bbroot.com/api/stream/tcm/tcm.m3u8
+
+canal: TLC
+categoria: Entretenimento
+logo: https://vipcanais.net/images/tlc.png
+fonte: https://nexustvplay.bbroot.com/api/stream/tlc/tlc.m3u8
+
+canal: UFC Fight Pass
+categoria: Esportes
+fonte: https://nexustvplay.bbroot.com/api/stream/ufcfightpass/ufcfightpass.m3u8
