@@ -191,6 +191,16 @@ def separate_animations(collections: dict[str, list[dict]]) -> list[dict]:
 def sync_lists() -> tuple[list[str], dict[str, list[dict]], dict[str, set[str]], dict[str, set[str]]]:
     STATE.mkdir(parents=True, exist_ok=True)
     movie_ids = unique_ids(download(URLS["filmes"]).decode("utf-8", "replace").splitlines())
+    
+    # Injetando os IDs achados na NexusTV
+    try:
+        with open("/Volumes/SSD 1TB/DEV/Saimo/SaimoPlayer/arquivos-gerados/nexus/ids_novos_para_adicionar.txt", "r") as f:
+            extra_ids = [line.strip() for line in f if line.strip()]
+        movie_ids = unique_ids(movie_ids + extra_ids)
+        print(f"-> Injetados {len(extra_ids)} IDs inéditos (via NexusTV) para o RedeFlix processar!")
+    except Exception as e:
+        pass
+
     collections: dict[str, list[dict]] = {}
     new_ids: dict[str, set[str]] = {}
     new_episodes: dict[str, set[str]] = {}
