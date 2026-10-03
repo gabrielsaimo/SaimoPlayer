@@ -4178,6 +4178,7 @@
 1	3	leg	3:296607,9:296607
 1	4	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/55176?hash=de10f20f5e64386c4491bea7,https://fenixbot.squareweb.app/stream/40626?hash=de10f20f5e64386c4491bea7
 1	4	leg	3:296828,9:296828,https://cdn-sv01.maximaimg.online/stream/o/one-piece/04.mp4/index.m3u8
+1	5	dub	https://embedplayer2.xyz/cdn/hls/6e462c7d9e4cd8638752852010626908/master.txt
 1	5	leg	3:297362,9:297362
 1	6	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/55178?hash=b031f95e9f2120c829103ba7,https://fenixbot.squareweb.app/stream/40629?hash=b031f95e9f2120c829103ba7
 1	6	leg	3:297692,9:297692,https://cdn-sv01.maximaimg.online/stream/o/one-piece/06.mp4/index.m3u8
