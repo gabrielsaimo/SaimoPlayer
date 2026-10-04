@@ -3,25 +3,15 @@
 http://79.127.238.228:14551
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES", AXN (S79)
 http://79.127.238.228:14563
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://mondrian.claro.com.br/channels/inverse/axn.png" group-title="FILMES E SÉRIES", AXN (ME)
-http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/6163/index.m3u8
-#EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/playlist.m3u8
 #EXTINF:-1 tvg-id="CazéTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caz%C3%A9TV_wordmark.svg?width=300" group-title="ESPORTES", CAZE TV (ST)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate " tvg-logo="https://mondrian.claro.com.br/channels/inverse/combate.png" group-title="ESPORTES", COMBATE (S46)
 http://46.151.196.223:14468
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (S46)
 http://46.151.196.223:14438
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2 (ME)
-http://s1w8pqrh.megatv.fun/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/19058/index.m3u8
-#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://mondrian.claro.com.br/channels/inverse/hgtv.png" group-title="VARIEDADES",HGTV (S200)
-http://200.229.190.189:8001/play/a01b
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (OT)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (RK)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/inverse/nsports.png" group-title="ESPORTES", N SPORTS (SS)
-https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://mondrian.claro.com.br/channels/inverse/warner-channel.png" group-title="FILMES E SÉRIES", WARNER CHANNEL (S79)
 http://79.127.238.228:14647
