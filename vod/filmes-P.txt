@@ -940,7 +940,8 @@ Plano de Fuga (2012)	dub=6:1301158
 Plano de Voo	dub=2:101665,10:2446044,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45680.mp4,8:101665
 Plano de Voo (2005)	dub=6:1300465
 Plano em Familia (2023)	dub=https://embedplayer2.xyz/cdn/hls/e0da88739bdc88192dac06800788cd52/master.txt,6:1302995,2:233523,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58114.mp4,8:233523,2:233790,10:2448617,10:2454476,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6597.mp4,8:233790	leg=2:233524,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86502.mp4,8:233524
-Plano em Familia 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/4dad6229f2518175f93dc21a482a6a94/master.txt,6:1314054,2:353491,10:2445724,10:2461991,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1021.mp4,8:353491	leg=6:1314053,2:353490,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86493.mp4,8:353490
+Plano em Familia 2 (2025)	dub=6:1314054	leg=6:1314053
+Plano em Família 2	dub=https://embedplayer2.xyz/cdn/hls/4dad6229f2518175f93dc21a482a6a94/master.txt,2:353491,10:2445724,10:2461991,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1021.mp4,8:353491	leg=2:353490,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86493.mp4,8:353490
 Planos Diabólicos	dub=2:164221,10:2451434,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51346.mp4,8:164221	leg=2:164206,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86505.mp4,8:164206
 Planos Diabólicos (2020)	dub=6:1305671	leg=6:1305672
 Plantão Noturno (2024)	dub=https://embedplayer2.xyz/cdn/hls/eea03668a29e9bbca4c7d72b148b86a2/master.txt,10:2466094,2:393747,10:2449828,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313412.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313421.mp4,8:393747	leg=2:393540,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86516.mp4,8:393540
@@ -1319,11 +1320,13 @@ Presos no Gelo 2 (2008)	dub=6:1309857
 Presos no Gelo 3	dub=2:254061,10:2452527,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51474.mp4,8:254061
 Presos no Gelo 3 (2010)	dub=6:1310689
 Pressagio (2020)	dub=6:1297945,6:1314611
-Pressagios de um Crime (2015)	dub=https://embedplayer2.xyz/cdn/hls/d73cc188cb8ab65a207a183a3d3d92a3/master.txt,6:1297640,2:385028,2:21663,10:2446120,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45737.mp4,8:385028,8:21663	leg=2:385027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307684.mp4,8:385027
-Pressao (2026)	dub=https://embedplayer2.xyz/cdn/hls/239d635c26a18057a3b76e6b814782d2/master.txt	leg=6:1501217,2:383705,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306396.mp4,8:383705
+Pressagios de um Crime (2015)	dub=6:1297640
+Pressao (2026)	leg=6:1501217
 Presságio	dub=2:47424,10:2446080,10:2458995,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45741.mp4,8:47424
 Presságio (2009)	dub=2:285114,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36395.mp4,6:1301690,8:285114
 Presságios (2021)	dub=6:1312814
+Presságios de um Crime	dub=https://embedplayer2.xyz/cdn/hls/d73cc188cb8ab65a207a183a3d3d92a3/master.txt,2:385028,2:21663,10:2446120,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45737.mp4,8:385028,8:21663	leg=2:385027,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307684.mp4,8:385027
+Pressão	leg=2:383705,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306396.mp4,8:383705
 Pressão Máxima	dub=https://embedplayer2.xyz/cdn/hls/479389e24ddeb99052603965cb2a4ae9/master.txt,2:310387,10:2445591,10:2448500,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45746.mp4,8:310387	leg=2:310388,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86874.mp4,8:310388
 Preta - Eu Não Ando Só (2026)	dub=https://embedplayer2.xyz/cdn/hls/73df59b38fdf3388de000ea93aa12257/master.txt,6:1501233,2:388378,10:2443952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309795.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309810.mp4,8:388378
 Preto do Meio-Dia Azul da Meia-Noite (2022)	dub=https://embedplayer2.xyz/cdn/hls/3de6264ca0000671756f866a71d43c28/master.txt

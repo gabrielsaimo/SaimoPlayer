@@ -265,7 +265,7 @@ Ele é Demais (2021)	dub=6:1305656
 Ele é Um Gato!	dub=https://embedplayer2.xyz/cdn/hls/1e2cace20e4a4a592c78cddf133013ef/master.txt,2:321251,10:2446226,10:2447378,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41908.mp4,8:321251	leg=2:321250,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71074.mp4,8:321250
 Electra	dub=2:347336,10:2444135,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25589.mp4,8:347336	leg=2:347335,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71085.mp4,8:347335
 Elefante	dub=2:48182,10:2453149,8:48182
-Elefante (2003)	dub=https://embedplayer2.xyz/cdn/hls/59082c7fdb4ba4280ac46eeedd3c07c6/master.txt,6:1300658
+Elefante (2003)	dub=6:1300658
 Elefante (2020)	dub=6:1308733
 Elefantes Fantasmas	leg=2:369372,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99514.mp4,8:369372
 Eleições (2018)	dub=https://embedplayer2.xyz/cdn/hls/ac89a41d04d15c74053a3a4101f896bf/master.txt
@@ -279,7 +279,8 @@ Eles Existem (2014)	dub=6:1304006
 Eles Não Envelhecerão (2018)	leg=6:1313381
 Eles Não Usam Black Tie (1981)	dub=6:1301250
 Eles Vao te Matar (2026)	dub=https://embedplayer2.xyz/cdn/hls/9a0bc37087be1fb191e1d20e6c01c05b/master.txt,6:1314532,2:376529,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253441.mp4,8:376529,2:376101,10:2444592,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253406.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254740.mp4,8:376101	leg=6:1314531,2:376100,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253698.mp4,8:376100
-Eles Vivem (1988)	dub=https://embedplayer2.xyz/cdn/hls/637131b77aed6b5a71f3c14e40614cef/master.txt,6:1302806,2:94723,10:2453913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3475.mp4,8:94723
+Eles Vivem	dub=https://embedplayer2.xyz/cdn/hls/637131b77aed6b5a71f3c14e40614cef/master.txt,2:94723,10:2453913,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3475.mp4,8:94723
+Eles Vivem (1988)	dub=6:1302806
 Eles Voltam	dub=2:377832,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254667.mp4,8:377832
 Eletrodoméstica	dub=2:355718,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38170.mp4,8:355718
 Eletronica: Alok Villa Mix Goiania (2017)	dub=2:21960,8:21960
@@ -1395,10 +1396,11 @@ Exterminador Implacavel 2: O Dia do Julgamento (1991)	dub=6:1297014
 Exterminador: Cavaleiros e Dragoes (2020)	dub=https://embedplayer2.xyz/cdn/hls/1124a2542ed99b7876ed957de163b5d0/master.txt,6:1298572,2:68445,10:2459601,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9503.mp4,8:68445
 Exterminadores do Alem Contra a Loira do Banheiro (2018)	dub=6:1297754
 Exterminadores do Além Contra a Loira do Banheiro	dub=2:73272,2:21434,10:2451404,10:2452592,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48800.mp4,8:73272,8:21434
-Exterminio (2002)	dub=https://embedplayer2.xyz/cdn/hls/53a15e17ef5f52519d38e1ac372eb446/master.txt,6:1313600,2:110841,10:2452609,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48810.mp4,8:110841	leg=6:1313599
+Exterminio (2002)	dub=6:1313600	leg=6:1313599
 Exterminio 2 (2007)	dub=https://embedplayer2.xyz/cdn/hls/fb98287caa94e81f63950721eb2eb135/master.txt,6:1313602,2:383327,2:246943,10:2452040,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48812.mp4,8:383327,8:246943	leg=6:1313601,2:383326,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306380.mp4,8:383326
 Exterminio A Evolução (2025)	dub=https://embedplayer2.xyz/cdn/hls/48e7e6f5b142c7566a7ade8ea87b7bb2/master.txt,6:1313705,2:337405,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55825.mp4,8:337405,2:337217,10:2451936,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48816.mp4,8:337217	leg=6:1313704,2:337207,10:2450204,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72195.mp4,8:337207
 Exterminio O Templo dos Ossos (2026)	dub=https://embedplayer2.xyz/cdn/hls/7117c04c91b34ac6ebd800c108438449/master.txt,6:1314315,2:367079,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97825.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250904.mp4,8:367079,2:366994,10:2444922,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97757.mp4,8:366994	leg=6:1314314,2:366993,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97738.mp4,8:366993
+Extermínio	dub=https://embedplayer2.xyz/cdn/hls/53a15e17ef5f52519d38e1ac372eb446/master.txt,2:110841,10:2452609,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48810.mp4,8:110841
 Exterritorial (2025)	dub=https://embedplayer2.xyz/cdn/hls/e1bcbd00eb44e915b95ec5d978a94d13/master.txt,6:1313470,2:392652,2:321374,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55833.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312036.mp4,8:392652,8:321374,2:320080,10:2445530,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44529.mp4,8:320080	leg=6:1313469,2:320079,10:2447812,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72205.mp4,8:320079
 Extinção (2018)	dub=https://embedplayer2.xyz/cdn/hls/91426c6504927581604ee900a94f0e52/master.txt,6:1305693,2:190968,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55835.mp4,8:190968,2:190967,10:2458901,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35835.mp4,8:190967	leg=6:1305694,2:190966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72215.mp4,8:190966
 Extra! Extra!	dub=2:317226,10:2447300,10:2456830,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26011.mp4,8:317226	leg=2:317227,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72200.mp4,8:317227

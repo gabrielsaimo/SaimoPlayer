@@ -1084,7 +1084,8 @@ O Dragão Invencível	dub=https://embedplayer2.xyz/cdn/hls/6e9c4b7281ac853bb764c
 O Dragão da Maldade contra o Santo Guerreiro (1969)	dub=6:1301243
 O Dragão do Meu Pai	dub=2:179744,10:2459517,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10323.mp4,8:179744	leg=2:179811,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81884.mp4,8:179811
 O Dragão e o Feiticeiro	dub=2:363897,10:2458946,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53732.mp4,8:363897	leg=2:363896,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81886.mp4,8:363896
-O Drama (2026)	dub=https://embedplayer2.xyz/cdn/hls/e2fb7bf0b7aabcbabb135dc4a135c266/master.txt,6:1314602,2:380285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289921.mp4,8:380285,2:380271,10:2444129,10:2444616,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289954.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289965.mp4,8:380271	leg=6:1314567,6:1314601,2:380270,2:377733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254299.mp4,8:380270,8:377733
+O Drama	dub=https://embedplayer2.xyz/cdn/hls/e2fb7bf0b7aabcbabb135dc4a135c266/master.txt,2:380285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289921.mp4,8:380285,2:380271,10:2444129,10:2444616,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289954.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289965.mp4,8:380271	leg=2:380270,2:377733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254299.mp4,8:380270,8:377733
+O Drama (2026)	dub=6:1314602	leg=6:1314567,6:1314601
 O Drama Do Banquete De Noivado	dub=2:389607,8:389607	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302047.mp4
 O Drama Menstrual de Jane Austen	leg=2:394807,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314123.mp4,8:394807
 O Duble (2024)	dub=6:1304153	leg=6:1304082
@@ -2164,8 +2165,9 @@ O Mestre do Crime	dub=2:321710,10:2449577,10:2454952,http://dbonline.tech-cdn.to
 O Mestre dos Brinquedos 4	dub=2:398558,8:398558
 O Mestre dos Brinquedos II	dub=2:398560,8:398560	leg=2:398559,8:398559
 O Mestre dos Desejos (1997)	dub=https://embedplayer2.xyz/cdn/hls/44ef9a71461aeb5d5697f8003531cbcf/master.txt,6:1307030,2:374307,2:108292,10:2451520,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50648.mp4,8:374307,8:108292	leg=2:374306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253592.mp4,8:374306
-O Mestre dos Desejos 2 (1999)	dub=https://embedplayer2.xyz/cdn/hls/7c0752a60aab316e440c190a4e1b2fc7/master.txt,6:1307134,2:374309,10:2452486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253603.mp4,8:374309	leg=2:374308,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253591.mp4,8:374308
-O Mestre dos Desejos 2 - O Mal Nunca Morre	dub=https://embedplayer2.xyz/cdn/hls/7c0752a60aab316e440c190a4e1b2fc7/master.txt,2:42000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50653.mp4,8:42000
+O Mestre dos Desejos 2	dub=2:374309,10:2452486,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253603.mp4,8:374309	leg=2:374308,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253591.mp4,8:374308
+O Mestre dos Desejos 2 (1999)	dub=6:1307134
+O Mestre dos Desejos 2 - O Mal Nunca Morre	dub=2:42000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50653.mp4,8:42000
 O Meu Nome é Bill	dub=2:395701,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314428.mp4,8:395701	leg=2:395700,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314541.mp4,8:395700
 O Meu Pequeno Eu	leg=2:373331,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249230.mp4,8:373331
 O Meu Pé de Laranja Lima	dub=2:383002,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301320.mp4,8:383002
@@ -2761,7 +2763,7 @@ O Protetor	dub=2:198584,2:21647,10:2445933,10:2454788,http://dbonline.tech-cdn.t
 O Protetor (2005)	dub=6:1305294
 O Protetor (2014)	dub=https://embedplayer2.xyz/cdn/hls/9272bf7264443fbf0e005878776f11b9/master.txt,6:1300081
 O Protetor (2015)	dub=6:1303911
-O Protetor 2	dub=https://embedplayer2.xyz/cdn/hls/a8fa143cf066194bfab34eb8daa6ddaf/master.txt,2:22514,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57623.mp4,8:22514,2:256784,2:21646,10:2446107,10:2454243,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5936.mp4,8:256784,8:21646
+O Protetor 2	dub=2:22514,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57623.mp4,8:22514,2:256784,2:21646,10:2446107,10:2454243,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5936.mp4,8:256784,8:21646
 O Protetor 2 (2013)	dub=6:1309451
 O Protetor 2 (2018)	dub=https://embedplayer2.xyz/cdn/hls/a8fa143cf066194bfab34eb8daa6ddaf/master.txt,6:1297068
 O Protetor 3 Capitulo Final (2023)	dub=6:1302660	leg=6:1302567

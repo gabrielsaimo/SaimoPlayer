@@ -346,7 +346,7 @@ Caos: Os Crimes de Manson (2025)	dub=https://embedplayer2.xyz/cdn/hls/7c11d5179e
 Cape Cod A Ameaca dos Mares (2023)	leg=6:1301720
 Capita Marvel (2019)	dub=https://embedplayer2.xyz/cdn/hls/9f5d7d55503ecd80311de653d34e4e03/master.txt,6:1297115,6:1313278,2:23815,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55095.mp4,8:23815,2:391944,10:2454279,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2618.mp4,8:391944	leg=6:1313277,2:391943,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311857.mp4,8:391943
 Capita do Seu Proprio Ceu	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302942.mp4
-Capitaes da Areia (2011)	dub=https://embedplayer2.xyz/cdn/hls/e13b7a58a9033c65b1e4c8472fe8a433/master.txt,6:1302223,2:286472,10:2455736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24513.mp4,8:286472
+Capitaes da Areia (2011)	dub=6:1302223
 Capital	dub=2:28680,10:2456699,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24509.mp4,8:28680
 Capital Humano	dub=2:90729,10:2453714,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2614.mp4,8:90729
 Capital Humano (2020)	dub=6:1298019
@@ -362,6 +362,7 @@ Capitu e o Capitulo (2023)	dub=6:1303112
 Capitu e o Capítulo	dub=2:377223,10:2444052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254282.mp4,8:377223
 Capitã Nova	dub=2:156682,10:2458210,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11930.mp4,8:156682	leg=2:156681,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67012.mp4,8:156681
 Capitã Nova (2021)	dub=6:1306778	leg=6:1306779
+Capitães da Areia	dub=https://embedplayer2.xyz/cdn/hls/e13b7a58a9033c65b1e4c8472fe8a433/master.txt,2:286472,10:2455736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24513.mp4,8:286472
 Capitão	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24519.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67002.mp4
 Capitão América	dub=2:315415,2:314662,10:2458221,10:2458354,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35603.mp4,8:315415,8:314662	leg=2:314663,10:2449719,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/67017.mp4,8:314663
 Capitão América 2: O Soldado Invernal	dub=2:98653,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2622.mp4,8:98653
@@ -572,7 +573,8 @@ Casamento Relampago Mimada Pelo Bilionario Senhor um Beijo	leg=http://dbonline.t
 Casamento Sangrento	dub=2:376097,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253399.mp4,8:376097,2:92010,10:2451708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48146.mp4,8:92010
 Casamento Sangrento (2019)	dub=6:1297413
 Casamento Sangrento 2 A Viuva (2026)	dub=https://embedplayer2.xyz/cdn/hls/33082fe78f6c297e4bcc01088303782f/master.txt	leg=6:1314551
-Casamento Sangrento: A Viúva (2026)	dub=https://embedplayer2.xyz/cdn/hls/33082fe78f6c297e4bcc01088303782f/master.txt,6:1501214,2:385820,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308085.mp4,8:385820,2:385743,10:2444020,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308144.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308155.mp4,8:385743	leg=2:385744,2:377106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254226.mp4,8:385744,8:377106
+Casamento Sangrento: A Viúva	dub=2:385820,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308085.mp4,8:385820,2:385743,10:2444020,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308144.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308155.mp4,8:385743	leg=2:385744,2:377106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254226.mp4,8:385744,8:377106
+Casamento Sangrento: A Viúva (2026)	dub=6:1501214
 Casamento as Avessas (2010)	dub=6:1300480
 Casamento as Cegas Brasil Depois do Altar (2023)	dub=6:1303020
 Casamento de Mentira com o Bilionario	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303220.mp4
@@ -1532,12 +1534,13 @@ Confissões (2023)	dub=https://embedplayer2.xyz/cdn/hls/093f4fcdd0898047b110ab36
 Confissões de Natal	dub=2:144061,10:2446766,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39747.mp4,8:144061
 Confissões de Natal (2015)	dub=6:1304401
 Confissões de Um Filho (2015)	dub=6:1307461
-Confissões de uma Garota Excluída (2021)	dub=https://embedplayer2.xyz/cdn/hls/a28d420094992401dd9cc1cbbb8f2263/master.txt,6:1304782,2:129560,10:2460713,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14105.mp4,8:129560
+Confissões de Uma Garota Excluída	dub=https://embedplayer2.xyz/cdn/hls/a28d420094992401dd9cc1cbbb8f2263/master.txt,2:129560,10:2460713,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14105.mp4,8:129560
+Confissões de uma Garota Excluída (2021)	dub=6:1304782
 Confissões de uma Mente Perigosa	dub=2:371871,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250803.mp4,8:371871	leg=2:373815,2:371870,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250460.mp4,8:373815,8:371870
 Conflito das Aguas (2011)	dub=6:1302115
 Conflitos Em Família (2017)	dub=6:1310389
 Conflitos em Familia	dub=2:20561,10:2461268,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14096.mp4,8:20561
-Conforme a Música (2026)	dub=https://embedplayer2.xyz/cdn/hls/8daa8a8d5545cbab6a9eb0a13c272d02/master.txt,2:398347,8:398347,2:397867,8:397867	leg=2:397866,8:397866
+Conforme a Música	dub=2:398347,8:398347,2:397867,8:397867	leg=2:397866,8:397866
 Confrontando o Passado	dub=https://embedplayer2.xyz/cdn/hls/7e6d048a3f643c46db6e88bbc4968ad7/master.txt,2:376718,10:2444433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253793.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254721.mp4,8:376718	leg=2:376717,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253817.mp4,8:376717
 Confronto no Deserto	dub=2:151993,10:2454232,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2897.mp4,8:151993	leg=2:151970,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68221.mp4,8:151970
 Confronto no Deserto (2019)	dub=6:1306044	leg=6:1306045
@@ -1561,9 +1564,10 @@ Conselheira do Amor (2022)	dub=6:1300745
 Conselhos De Um Serial Killer Aposentado	dub=https://embedplayer2.xyz/cdn/hls/7a8675ee13a83935b84489c244af7b50/master.txt,2:388041,10:2444791,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309513.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309524.mp4,8:388041	leg=2:388040,2:367003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97727.mp4,8:388040,8:367003
 Consentimento	dub=2:309601,10:2450140,10:2456084,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24825.mp4,8:309601	leg=2:309602,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68243.mp4,8:309602
 Consentimento (2022)	dub=6:1313016
-Consequencia (2026)	dub=https://embedplayer2.xyz/cdn/hls/e2b67bba764680862dad9a810b3526c8/master.txt,6:1314465,2:373793,2:373792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253561.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253562.mp4,8:373793,8:373792,2:373388,10:2444708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251683.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254722.mp4,8:373388	leg=6:1314464,2:373387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251690.mp4,8:373387
+Consequencia (2026)	dub=6:1314465	leg=6:1314464
 Consequencias (2019)	dub=6:1301417
 Consequencias Irreversiveis (2022)	dub=6:1303139
+Consequência	dub=https://embedplayer2.xyz/cdn/hls/e2b67bba764680862dad9a810b3526c8/master.txt,2:373793,2:373792,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253561.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253562.mp4,8:373793,8:373792,2:373388,10:2444708,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251683.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254722.mp4,8:373388	leg=2:373387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251690.mp4,8:373387
 Consequências	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55310.mp4,2:349042,2:254846,10:2447865,10:2456812,10:2457647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24830.mp4,8:349042,8:254846	leg=2:349041,2:254847,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68233.mp4,8:349041,8:254847
 Consequências (2021)	dub=https://embedplayer2.xyz/cdn/hls/c4cce6357b9e9e880b1185f1930d8d68/master.txt,6:1311344	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301066.mp4,6:1311345
 Consequências Irreversíveis	dub=2:246820,10:2448489,10:2457230,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24834.mp4,8:246820	leg=2:246821,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68244.mp4,8:246821
@@ -1607,7 +1611,8 @@ Contagio (2011)	dub=6:1297731
 Contaminacao (2009)	dub=6:1300493
 Contaminados Pelo Medo	dub=2:285078,10:2448634,10:2458755,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35642.mp4,8:285078	leg=2:285079,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68281.mp4,8:285079
 Contaminação	dub=2:106820,10:2451418,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48282.mp4,8:106820
-Contato (1997)	dub=https://embedplayer2.xyz/cdn/hls/8fc2bbc32cbd5aeb1eded0d0b02de0fd/master.txt,6:1308775,2:76918,10:2457463,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24853.mp4,8:76918
+Contato	dub=2:76918,10:2457463,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24853.mp4,8:76918
+Contato (1997)	dub=6:1308775
 Contato Mortal	dub=10:2458060
 Contato Visceral	dub=2:30379,10:2451304,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48292.mp4,8:30379
 Contato Visceral (2019)	dub=6:1308017
@@ -2142,7 +2147,6 @@ Cuidado com Quem Chama (2020)	dub=https://embedplayer2.xyz/cdn/hls/81797b622668c
 Cuidado! Eu Sou a Chefona	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98245.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302779.mp4
 Culpa	dub=2:380455,2:367827,2:28251,10:2457094,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25036.mp4,8:380455,8:367827,8:28251	leg=2:380454,2:367826,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98647.mp4,8:380454,8:367826
 Culpa (2018)	dub=6:1301888
-Culpa (2022)	dub=https://embedplayer2.xyz/cdn/hls/5fc9dfc181e6d9dcb881dde6ea4402b6/master.txt
 Culpa e Desejo (2023)	leg=6:1311291
 Cult Killer (2024)	dub=https://embedplayer2.xyz/cdn/hls/c0806f2479fc89d7a012b174fbb0b775/master.txt,10:2448933	leg=6:1309330,2:247269,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68868.mp4,8:247269
 Culto de Amityville	dub=2:229468,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48399.mp4,8:229468	leg=2:229465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/68882.mp4,8:229465

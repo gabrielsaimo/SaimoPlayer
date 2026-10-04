@@ -555,7 +555,7 @@ Sem Ar (2015)	leg=https://embedplayer2.xyz/cdn/hls/8a7f05cddacbedec4b08f1967989f
 Sem Ar (2023)	dub=https://embedplayer2.xyz/cdn/hls/f9f4277016d4ff338c9ea323ddf6e797/master.txt,6:1302883
 Sem Asas	dub=2:288521,10:2451535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39265.mp4,8:288521
 Sem Atividade Paranormal (2013)	leg=https://embedplayer2.xyz/cdn/hls/bbdba220e312aa9466a4cd30bcbb6cc3/master.txt
-Sem Censura A Historia de Robin Byrd (2026)	dub=https://embedplayer2.xyz/cdn/hls/d37e55711e181cc8d221159ef4a2c6f2/master.txt	leg=6:1501213
+Sem Censura A Historia de Robin Byrd (2026)	leg=6:1501213
 Sem Chão	leg=2:314466,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40629.mp4,8:314466
 Sem Condicional - Vida e Morte no Pavilhão A	dub=2:385805,8:385805	leg=2:385804,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308133.mp4,8:385804
 Sem Conexão	dub=2:82608,10:2452470,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51810.mp4,8:82608
@@ -954,7 +954,7 @@ Shopkins: Aventura Selvagem	dub=2:22548,10:2459627,http://dbonline.tech-cdn.top:
 Shopkins: Aventura Selvagem (2018)	dub=6:1308028
 Shortbus	dub=10:2449080	leg=2:328997,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89460.mp4,8:328997
 Shortcut	dub=2:137595,10:2452966,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51969.mp4,8:137595	leg=2:137591,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89471.mp4,8:137591
-Show Bar (2000)	dub=https://embedplayer2.xyz/cdn/hls/5805780dc54b72149c9f1d7065424357/master.txt,6:1299954
+Show Bar (2000)	dub=6:1299954
 Show Dogs: O Agente Canino (2018)	dub=https://embedplayer2.xyz/cdn/hls/b51dd33bf4483b7c90fd2029aff5033a/master.txt,6:1305080,2:329698,2:128866,2:22536,10:2447852,10:2454470,10:2455104,10:2458275,10:2459718,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7288.mp4,8:329698,8:128866,8:22536	leg=2:329697,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/89490.mp4,8:329697
 Show de Vizinha	dub=2:20819,10:2460363,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19431.mp4,8:20819
 Show de Vizinha (2004)	dub=6:1299955
@@ -1492,7 +1492,7 @@ Southland Tales: O Fim do Mundo (2007)	dub=6:1307866
 Souvenir	dub=2:102566,10:2457302,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31780.mp4,8:102566
 Souvenir (2021)	dub=6:1304029
 Sovereign	dub=10:2447132	leg=2:335229,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90095.mp4,8:335229
-Soy Frankelda	dub=https://embedplayer2.xyz/cdn/hls/f1c5791855463340b5d24412066157bc/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306296.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301255.mp4
+Soy Frankelda	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306296.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301255.mp4
 Soy Nevenka	dub=2:395186,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314461.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314676.mp4,8:395186	leg=2:395181,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314578.mp4,8:395181
 Sozinha (2020)	dub=https://embedplayer2.xyz/cdn/hls/5f8bc31ca43d7c7420f29471b343f66e/master.txt,6:1300404,2:103978,10:2454485,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7366.mp4,8:103978
 Sozinha Com Você (2022)	dub=https://embedplayer2.xyz/cdn/hls/7461b86c1afe2a3ac8131b07b274ccb8/master.txt,10:2444118
@@ -1707,7 +1707,8 @@ Street Fighter: A Última Batalha	dub=10:2458137
 Street Fighter: A Última Batalha (1994)	dub=6:1309602	leg=6:1309603
 Street Flow (2019)	dub=https://embedplayer2.xyz/cdn/hls/e9b7f775461b6bfb437574cad978af1e/master.txt,6:1308560,2:30451,10:2455043,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31834.mp4,8:30451
 Street Flow 2 (2023)	dub=https://embedplayer2.xyz/cdn/hls/041a6c49f61eb44cc9d7fb7b5da38784/master.txt,6:1309280,2:216972,10:2455602,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31829.mp4,8:216972	leg=6:1309281,2:216973,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90356.mp4,8:216973
-Street Flow 3 (2026)	dub=https://embedplayer2.xyz/cdn/hls/d365f92ab3d1bd5aed995fda3dc01f9e/master.txt,6:1314366,10:2444836
+Street Flow 3	dub=10:2444836
+Street Flow 3 (2026)	dub=6:1314366
 Street Survivors	leg=2:63091,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90346.mp4,8:63091
 Stripper Nanny Parte	leg=2:389658,8:389658
 Stripper Nanny Parte 2	leg=2:389659,8:389659
@@ -1781,7 +1782,7 @@ Suky	dub=10:2447800	leg=2:314601,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Suky (2025)	leg=6:1313192
 Sully O Heroi do Rio Hudson	dub=2:21168,10:2455177,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31873.mp4,8:21168
 Sully: O Heroi do Rio Hudson (2016)	dub=6:1298152
-Sultana (2026)	dub=https://embedplayer2.xyz/cdn/hls/8ad4fd013825f88237ee01b55151860a/master.txt,2:397605,8:397605	leg=2:397603,8:397603
+Sultana	dub=2:397605,8:397605	leg=2:397603,8:397603
 Sumala	leg=2:310107,10:2450299,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90433.mp4,8:310107
 Sumido!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1164.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90443.mp4
 Summer - Descobrindo o Meu Lugar	dub=2:22090,10:2456973,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31868.mp4,8:22090
