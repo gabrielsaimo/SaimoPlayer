@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-04T11:47:58-0300",
+  "atualizado_em": "2026-10-04T11:41:39-0300",
   "fontes": {
     "filmes": "https://redeflixapi.store/list-movie-ids.txt",
     "series": "https://redeflixapi.store/list-tv-ids.txt",
@@ -18,13 +18,13 @@
     "doramas": 17382
   },
   "novos_ids": {
-    "filmes": 2,
+    "filmes": 0,
     "series": 0,
     "animes": 0,
     "doramas": 779
   },
   "novos_episodios": {
-    "series": 421,
+    "series": 0,
     "animes": 0,
     "doramas": 21454
   }
