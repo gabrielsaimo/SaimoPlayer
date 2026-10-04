@@ -573,7 +573,7 @@ O Caso de Richard Jewell (2019)	dub=6:1297735
 O Caso dos Estrangeiros (2025)	dub=https://embedplayer2.xyz/cdn/hls/d468fb4c8777628955f54c6704d83c81/master.txt,6:1314486,2:374494,10:2444595,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253613.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254787.mp4,8:374494	leg=2:374493,2:372414,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250934.mp4,8:374493,8:372414
 O Caso dos Irmãos Menendez	dub=10:2450336	leg=2:291262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81343.mp4,8:291262
 O Caso dos Irmãos Menendez (2024)	dub=6:1501284
-O Castelo Animado (2004)	dub=https://embedplayer2.xyz/cdn/hls/d3bf350422cdeeb5a088c6a69f7bf7d1/master.txt,6:1303233,2:43842,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10264.mp4,8:43842,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/59926?hash=833015d35dbd027f7aaa2bd2
+O Castelo Animado (2004)	dub=https://embedplayer2.xyz/cdn/hls/d3bf350422cdeeb5a088c6a69f7bf7d1/master.txt,6:1303233,2:43842,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10264.mp4,8:43842
 O Castelo de Vidro	dub=2:198583,10:2454956,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28667.mp4,8:198583
 O Castelo de Vidro (2017)	dub=6:1305067
 O Castelo do Lobisomem (2022)	dub=6:1303501
@@ -752,15 +752,15 @@ O Confronto dos Thundermans (2026)	dub=https://embedplayer2.xyz/cdn/hls/eac27708
 O Congresso Futurista (2013)	dub=6:1304008
 O Conselheiro do Amor	dub=https://embedplayer2.xyz/cdn/hls/10a8279080783e4043cb213f6b7f1575/master.txt,2:378722,10:2444355,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255750.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255753.mp4,8:378722
 O Conselheiro do Crime (2013)	dub=https://embedplayer2.xyz/cdn/hls/4ea9f4fc5e53de714b6d2328d4cc9f4c/master.txt,6:1307061,2:101179,10:2445788,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45137.mp4,8:101179
-O Contador (2016)	dub=https://embedplayer2.xyz/cdn/hls/d5d9c065adaef0dd2eda64183d716a4e/master.txt,6:1313464,2:318575,2:20134,10:2454626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5500.mp4,8:318575,8:20134,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/723?hash=3276c2cc102db505b9c879c4	leg=6:1313463,2:318557,10:2449306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81537.mp4,8:318557
-O Contador 2	dub=2:325903,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57360.mp4,8:325903,2:325107,10:2444280,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21626.mp4,8:325107,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/720?hash=ca9cc42f267b21475f04f1f2	leg=2:325106,10:2447539,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81526.mp4,8:325106
-O Contador 2 (2025)	dub=6:1313576,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/720?hash=ca9cc42f267b21475f04f1f2	leg=6:1313575
+O Contador (2016)	dub=https://embedplayer2.xyz/cdn/hls/d5d9c065adaef0dd2eda64183d716a4e/master.txt,6:1313464,2:318575,2:20134,10:2454626,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5500.mp4,8:318575,8:20134	leg=6:1313463,2:318557,10:2449306,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81537.mp4,8:318557
+O Contador 2	dub=2:325903,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57360.mp4,8:325903,2:325107,10:2444280,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21626.mp4,8:325107	leg=2:325106,10:2447539,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81526.mp4,8:325106
+O Contador 2 (2025)	dub=6:1313576	leg=6:1313575
 O Contador de Cartas	dub=2:160624,2:160434,10:2457533,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28735.mp4,8:160624,8:160434
 O Contador de Cartas (2021)	dub=6:1301114
 O Contato (2002)	dub=6:1312772
 O Conto	dub=2:211925,2:21059,10:2457744,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/28738.mp4,8:211925,8:21059
 O Conto (2018)	dub=6:1302426
-O Conto da Princesa Kaguya	dub=2:281753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10277.mp4,8:281753,https://fenixbot.squareweb.app/stream/59920?hash=5b3274db3814d71aa34bf41d
+O Conto da Princesa Kaguya	dub=2:281753,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10277.mp4,8:281753
 O Conto de Natal dos Muppets	dub=2:329667,10:2448205,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10281.mp4,8:329667	leg=2:329666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81542.mp4,8:329666
 O Conto de Silyan	dub=10:2461940	leg=2:361367,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/81547.mp4,8:361367
 O Conto dos Contos	dub=2:127402,10:2458543,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34281.mp4,8:127402
@@ -1929,7 +1929,7 @@ O Livro dos Sonhos	dub=2:230576,10:2447139,10:2457602,http://dbonline.tech-cdn.t
 O Livro dos Sonhos (2023)	dub=6:1311474	leg=6:1311475
 O Lobisomem	dub=2:92660,10:2452329,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50577.mp4,8:92660
 O Lobisomem (2010)	dub=6:1300671
-O Lobo (2021)	dub=6:1300761,https://fenixbot.squareweb.app/stream/1229?hash=ffca6daa97279c1b0c79099f
+O Lobo (2021)	dub=6:1300761
 O Lobo Atras da Porta (2013)	dub=6:1298914
 O Lobo Atrás da Porta	dub=2:185268,10:2457011,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29186.mp4,8:185268
 O Lobo E O Leão	dub=2:181398,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57518.mp4,8:181398,2:180627,10:2446988,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53188.mp4,8:180627	leg=2:180641,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82745.mp4,8:180641
@@ -1941,8 +1941,8 @@ O Lobo Viking (2022)	dub=6:1300966
 O Lobo da Estepe (2024)	dub=https://embedplayer2.xyz/cdn/hls/e0982336b1a19627391137a997eabda5/master.txt,2:359074,10:2445469,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/845.mp4,8:359074	leg=2:359073,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82734.mp4,8:359073
 O Lobo de Snow Hollow	leg=10:2444202
 O Lobo de Snow Hollow (2020)	leg=6:1308681
-O Lobo de Wall Street	dub=2:104427,10:2455475,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29200.mp4,8:104427,https://fenixbot.squareweb.app/stream/1229?hash=ffca6daa97279c1b0c79099f
-O Lobo de Wall Street (2013)	dub=6:1297905,https://fenixbot.squareweb.app/stream/1229?hash=ffca6daa97279c1b0c79099f
+O Lobo de Wall Street	dub=2:104427,10:2455475,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29200.mp4,8:104427
+O Lobo de Wall Street (2013)	dub=6:1297905
 O Lobo entre Nos (2019)	dub=6:1300928
 O Lobo entre Nós	dub=2:183738,10:2456938,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29205.mp4,8:183738	leg=2:183736,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82739.mp4,8:183736
 O Longo Jogo (2024)	dub=https://embedplayer2.xyz/cdn/hls/16807533a3d8a56dea3ac4788dd2db93/master.txt,10:2449576	leg=6:1309389,2:275508,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82755.mp4,8:275508
@@ -2122,8 +2122,8 @@ O Menino de Asakusa (2021)	dub=6:1304759	leg=6:1304760
 O Menino de Ouro	dub=2:20752,10:2460211,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/17807.mp4,8:20752
 O Menino do Pijama Listrado	dub=2:21078,10:2456576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29294.mp4,8:21078
 O Menino do Pijama Listrado (2008)	dub=6:1297808
-O Menino e a Garça	dub=2:289614,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57552.mp4,8:289614,2:289613,10:2447758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10403.mp4,8:289613,https://fenixbot.squareweb.app/stream/59916?hash=5a5602abd76f0562f08b42fa	leg=2:289615,2:267702,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82902.mp4,8:289615,8:267702
-O Menino e a Garça (2023)	dub=6:1312266,https://fenixbot.squareweb.app/stream/59916?hash=5a5602abd76f0562f08b42fa	leg=6:1310580
+O Menino e a Garça	dub=2:289614,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57552.mp4,8:289614,2:289613,10:2447758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10403.mp4,8:289613	leg=2:289615,2:267702,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/82902.mp4,8:289615,8:267702
+O Menino e a Garça (2023)	dub=6:1312266	leg=6:1310580
 O Menino e a Guerra	dub=2:112459,10:2456445,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29299.mp4,8:112459
 O Menino e a Guerra (2020)	dub=6:1308123	leg=6:1308124
 O Menino e o Mestre	dub=https://embedplayer2.xyz/cdn/hls/0edb847bd3c30deed0d44ea56ae93c3a/master.txt,2:300837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10407.mp4,8:300837
@@ -2288,7 +2288,7 @@ O Mundo a Seus Pés	dub=10:2458000
 O Mundo de Jack e Rose	dub=2:378689,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255435.mp4,8:378689	leg=2:378688,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255458.mp4,8:378688
 O Mundo de Mia: A Esperança de Centopia	dub=2:318596,10:2448799,10:2459687,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/10412.mp4,8:318596	leg=2:318597,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83063.mp4,8:318597
 O Mundo dos Esquecidos (2021)	dub=https://embedplayer2.xyz/cdn/hls/c264b5c5f41fd89d7bbb620c4dfc47e9/master.txt,6:1299259,2:149598,10:2453989,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/5887.mp4,8:149598	leg=2:149596,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83064.mp4,8:149596
-O Mundo dos Pequeninos	dub=2:309720,10:2449356,10:2458399,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34379.mp4,8:309720,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59923?hash=1715142f4bb8f8040296af02	leg=2:309721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83074.mp4,8:309721
+O Mundo dos Pequeninos	dub=2:309720,10:2449356,10:2458399,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34379.mp4,8:309720	leg=2:309721,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83074.mp4,8:309721
 O My Darling	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21699.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83081.mp4
 O Mágico de Oz	dub=2:246942,10:2458298,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12037.mp4,8:246942
 O Máskara	dub=2:384712,2:92674,10:2457913,10:2461835,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307666.mp4,8:384712,8:92674	leg=2:384711,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307409.mp4,8:384711
@@ -2470,7 +2470,7 @@ O Palhaco (2011)	dub=6:1301281
 O Palhaço	dub=2:394537,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313975.mp4,8:394537
 O Palhaço de Green Bay	dub=2:192613,10:2452238,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50750.mp4,8:192613	leg=2:192610,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83210.mp4,8:192610
 O Palhaço de Green Bay (2019)	dub=6:1305730	leg=6:1305731
-O Palhaço no Milharal (2025)	dub=https://embedplayer2.xyz/cdn/hls/771d64b3ce0f62ade5b803a91ad0d0aa/master.txt,6:1313747,2:332850,10:2448261,10:2451875,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50755.mp4,8:332850,https://fenixbot.squareweb.app/stream/717?hash=1553241a900457311ed4b4b7	leg=2:332849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83205.mp4,8:332849
+O Palhaço no Milharal (2025)	dub=https://embedplayer2.xyz/cdn/hls/771d64b3ce0f62ade5b803a91ad0d0aa/master.txt,6:1313747,2:332850,10:2448261,10:2451875,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50755.mp4,8:332850	leg=2:332849,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83205.mp4,8:332849
 O Palido Olho Azul (2022)	dub=6:1300934
 O Papa do Fim do Mundo	dub=2:319853,10:2452882,8:319853
 O Papa que Venceu o Comunismo	dub=2:341992,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57607.mp4,8:341992,2:341093,10:2449128,10:2452819,8:341093	leg=2:341092,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83218.mp4,8:341092
@@ -2709,7 +2709,7 @@ O Preço do Poder	dub=2:223097,10:2455545,http://dbonline.tech-cdn.top:80/movie/
 O Preço do Poder (2021)	dub=6:1310902	leg=6:1310903
 O Preço do Silêncio (2018)	leg=6:1308483
 O Preço do Talento (2019)	dub=https://embedplayer2.xyz/cdn/hls/a0f78a24aba450c3d41f40769eee819b/master.txt,6:1308056,2:94174,10:2455734,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29570.mp4,8:94174	leg=6:1308057
-O Primata (2026)	dub=https://embedplayer2.xyz/cdn/hls/5ad73107fb1a525df9a971513362c602/master.txt,6:1314295,2:366334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97468.mp4,8:366334,2:366184,10:2444956,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97239.mp4,8:366184,https://fenixbot.squareweb.app/stream/1095?hash=8f79daab648d1c1d24a8a1b3	leg=6:1314294,2:366183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97221.mp4,8:366183
+O Primata (2026)	dub=https://embedplayer2.xyz/cdn/hls/5ad73107fb1a525df9a971513362c602/master.txt,6:1314295,2:366334,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97468.mp4,8:366334,2:366184,10:2444956,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97239.mp4,8:366184	leg=6:1314294,2:366183,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97221.mp4,8:366183
 O Primeiro Amor (2010)	dub=https://embedplayer2.xyz/cdn/hls/3d67eb5626740ff724ef2cda26c6de28/master.txt,6:1300209,2:21576,10:2446592,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42467.mp4,8:21576
 O Primeiro Amor Do Quarterback	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303192.mp4
 O Primeiro Ano do Resto de Nossas Vidas	dub=2:144108,10:2457775,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29584.mp4,8:144108
@@ -2728,7 +2728,7 @@ O Primeiro Passo	dub=2:30534,10:2461132,http://dbonline.tech-cdn.top:80/movie/ke
 O Primeiro Passo (2016)	dub=6:1308186
 O Primeiro Tiro: A Lenda de Wyatt Earp	dub=2:256277,10:2447176,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35126.mp4,8:256277	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83450.mp4,8:256278
 O Primeiro Tiro: A Lenda de Wyatt Earp (2019)	dub=6:1303684
-O Principe (2014)	dub=6:1303904,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/606?hash=ca910aa24b7d38d80b6d4df4
+O Principe (2014)	dub=6:1303904
 O Principe Encantado Esta Aqui	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303188.mp4
 O Principe Esquecido (2020)	dub=6:1301773
 O Principe Quebrantou Meu Coracao Em Meio A Guerra	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303086.mp4
@@ -2807,8 +2807,8 @@ O Quarto de Jack	dub=2:21089,10:2455121,http://dbonline.tech-cdn.top:80/movie/ke
 O Quarto de Jack (2015)	dub=6:1298135
 O Quarto de Vidro	dub=2:349056,10:2450101,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29626.mp4,8:349056	leg=2:349055,2:334423,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/83508.mp4,8:349055,8:334423
 O Quarto do Bebê	dub=2:372774,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251254.mp4,8:372774	leg=2:372773,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251234.mp4,8:372773
-O Quarto do Panico (2002)	dub=6:1301473,https://fenixbot.squareweb.app/stream/1295?hash=ddb8a3a1d6a4a205f9b96587
-O Quarto do Pânico	dub=2:179720,10:2451266,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50799.mp4,8:179720,https://fenixbot.squareweb.app/stream/1295?hash=ddb8a3a1d6a4a205f9b96587
+O Quarto do Panico (2002)	dub=6:1301473
+O Quarto do Pânico	dub=2:179720,10:2451266,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50799.mp4,8:179720
 O Quarto dos Desejos	dub=2:42002,10:2452441,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/50804.mp4,8:42002
 O Quarto dos Desejos (2019)	dub=6:1301893
 O Quatrilho (1995)	dub=6:1301241,6:1301347
