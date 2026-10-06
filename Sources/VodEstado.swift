@@ -9,7 +9,7 @@ import Combine
 /// Guardando aqui fora, reabrir cai exatamente onde parou.
 /// Qual parte do acervo está aberta no lugar do vídeo.
 enum VodSecao: String, Identifiable, CaseIterable {
-    case inicio, filmes, series, animes, doramas, extras, favoritos
+    case inicio, filmes, series, animes, doramas, extras, favoritos, eventos
     var id: String { rawValue }
     var titulo: String {
         switch self {
@@ -20,6 +20,7 @@ enum VodSecao: String, Identifiable, CaseIterable {
         case .doramas: return "Doramas"
         case .extras: return "Extras"
         case .favoritos: return "Favoritos"
+        case .eventos: return "Eventos"
         }
     }
     var icone: String {
@@ -31,10 +32,11 @@ enum VodSecao: String, Identifiable, CaseIterable {
         case .doramas: return "heart.rectangle"
         case .extras: return "plus.rectangle.on.rectangle"
         case .favoritos: return "star.fill"
+        case .eventos: return "calendar"
         }
     }
     /// Extras são filmes noutro arquivo do catálogo, não outra natureza.
-    var pedeFilmes: Bool { ![.series, .animes, .doramas, .inicio].contains(self) }
+    var pedeFilmes: Bool { ![.series, .animes, .doramas, .inicio, .eventos].contains(self) }
 }
 
 @MainActor

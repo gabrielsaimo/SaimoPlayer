@@ -214,7 +214,7 @@ struct VodGridView: View {
     }
 
     private var secoesVisiveis: [VodSecao] {
-        var out: [VodSecao] = [.inicio, .filmes, .series, .animes, .doramas]
+        var out: [VodSecao] = [.inicio, .eventos, .filmes, .series, .animes, .doramas]
         if !favoritos.itens.isEmpty { out.append(.favoritos) }
         if model.restrictedUnlocked { out.append(.extras) }
         return out
@@ -507,6 +507,8 @@ struct VodGridView: View {
             episodiosDe(serie)
         } else if estado.secao == .inicio {
             fileiras
+        } else if estado.secao == .eventos {
+            EventsView(model: model)
         } else if estado.secao == .favoritos {
             grade(itensFavoritos)
         } else if estado.tudo {
