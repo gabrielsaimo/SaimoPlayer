@@ -306,6 +306,7 @@
 2	13	leg	3:373200,9:373200
 2	14	dub	3:399030,11:2471206
 2	14	leg	3:375884,9:375884
+2	15	dub	3:399562
 2	15	leg	3:375885,9:375885
 @NCIS Sydney	2023
 1	1	dub	3:292003,11:2207395,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/14650.mp4,7:1451170,9:292003
@@ -2100,6 +2101,7 @@
 1	8	leg	3:353643,9:353643
 2	1	leg	3:398914
 2	2	leg	3:398917
+2	3	leg	3:399358
 @Na Rota do Ouro	2024
 1	1	dub	https://embedplayer2.xyz/cdn/hls/1d0d9a92e2ab3eee164c81444d76224a/master.txt,3:257684,11:2228720,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147673.mp4,7:1426559,9:257684
 1	2	dub	https://embedplayer2.xyz/cdn/hls/4f9893ab2c62acf20a27687bb44c707c/master.txt,3:257685,11:2228721,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147674.mp4,7:1426560,9:257685

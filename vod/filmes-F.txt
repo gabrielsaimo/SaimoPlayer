@@ -39,7 +39,7 @@ Fada Madrinha (2020)	dub=6:1298093
 Fadada Ao Meu Vampiro Proibido	dub=2:389550,8:389550
 Fade to Black	dub=2:266034,10:2451715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48826.mp4,8:266034
 Fade to Black (2004)	dub=6:1309944
-Fahrenheit 11 de Setembro	dub=2:189984,10:2452611,8:189984
+Fahrenheit 11 de Setembro	dub=2:399653,2:189984,10:2452611,8:189984	leg=2:399652
 Fahrenheit 11 de Setembro (2004)	dub=6:1305609
 Fahrenheit 451	dub=2:334694,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55845.mp4,8:334694,2:335759,2:91268,10:2449919,10:2457324,10:2458669,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26030.mp4,8:335759,8:91268	leg=2:335758,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72262.mp4,8:335758
 Fahrenheit 451 (2018)	dub=6:1302191
@@ -904,14 +904,13 @@ Frozen: O Musical (2025)	dub=https://embedplayer2.xyz/cdn/hls/85109e7b9dc0a15ad0
 Fruitvale Station: A Última Parada	dub=2:373819,2:170835,10:2456700,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26303.mp4,8:373819,8:170835	leg=2:373818,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253582.mp4,8:373818
 Fruitvale Station: A Última Parada (2013)	dub=6:1305600
 Frutas Proibidas (2026)	dub=https://embedplayer2.xyz/cdn/hls/100d509ff675205bbe820a6c4b29fd27/master.txt,2:386886,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308758.mp4,8:386886,10:2444094
-Fréamhacha	leg=2:322811,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73074.mp4,8:322811
+Fréamhacha	leg=2:399654,2:322811,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73074.mp4,8:322811
 Fuego Negro	dub=https://embedplayer2.xyz/cdn/hls/9851f03756b4f21b2d0a7c0c20e0cc16/master.txt	leg=2:68446,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73079.mp4,8:68446
 Fuga	dub=2:30540,10:2454932,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3765.mp4,8:30540
 Fuga (2012)	dub=6:1303477
 Fuga Fatal (2025)	dub=https://embedplayer2.xyz/cdn/hls/331c10b265fff08f19d9e829a8939f56/master.txt,6:1314081,2:354016,10:2445347,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/543.mp4,8:354016	leg=2:354015,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/73100.mp4,8:354015
 Fuga Implacavel (2012)	dub=6:1300717
 Fuga Implacável	dub=2:104410,10:2453259,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3777.mp4,8:104410
-Fuga Para a Liberdade (2016)	dub=10:2472327
 Fuga ao Passado	dub=10:2455698
 Fuga da Alemanha (2024)	dub=https://embedplayer2.xyz/cdn/hls/82f78ac62b7b02f4207fdb77cd17d3c5/master.txt,6:1313990,10:2445277
 Fuga da Biblioteca do Sr. Lemoncello	dub=2:161958,10:2458762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33902.mp4,8:161958
@@ -939,6 +938,7 @@ Fuga do Passado (1947)	dub=6:1300523
 Fuga do Planeta dos Macacos	dub=10:2458865
 Fuga do Planeta dos Macacos (1971)	dub=6:1305027
 Fuga para a Liberdade	dub=2:399239,2:375930,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253363.mp4,8:375930	leg=2:399238,2:375929,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253681.mp4,8:375929
+Fuga para a Liberdade (2024)	dub=10:2472327
 Fuga para a Vitoria (1981)	dub=6:1300016
 Fuga pela Fronteira (2020)	dub=https://embedplayer2.xyz/cdn/hls/edec31cd235d9a1f2c6800ab57f031f0/master.txt,6:1308659,2:89592,10:2453580,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3773.mp4,8:89592
 Fuga à Meia-Noite	dub=2:350985,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3778.mp4,8:350985

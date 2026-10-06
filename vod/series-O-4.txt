@@ -2424,15 +2424,25 @@
 2	8	dub	3:376551,11:2227125,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/252254.mp4,7:1477964,9:376551
 @O Segredo de Widow's Bay
 1	1	dub	11:2098951
+1	1	leg	3:399832
 1	2	dub	11:2098952
+1	2	leg	3:399833
 1	3	dub	11:2098953
+1	3	leg	3:399834
 1	4	dub	11:2098954
+1	4	leg	3:399835
 1	5	dub	11:2098955
+1	5	leg	3:399836
 1	6	dub	11:2098956
+1	6	leg	3:399837
 1	7	dub	11:2098957
+1	7	leg	3:399838
 1	8	dub	11:2098958
+1	8	leg	3:399839
 1	9	dub	11:2098959
+1	9	leg	3:399840
 1	10	dub	11:2098960
+1	10	leg	3:399841
 @O Segredo de Widows Bay	2026
 1	1	dub	3:376344,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/253127.mp4,7:1499663,9:376344
 1	1	leg	7:1499653
@@ -4273,6 +4283,8 @@
 1	4	dub	3:32069,11:2205709,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/16703.mp4,9:32069
 1	5	dub	3:32070,11:2205710,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/16704.mp4,9:32070
 1	6	dub	3:32071,11:2205711,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/16705.mp4,9:32071
+@O Tormento
+1	1	dub	11:2472476
 @O Traficante
 1	1	dub	3:97334,11:2226907,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149576.mp4,7:1326229,9:97334
 1	2	dub	3:97335,11:2226908,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/149577.mp4,7:1326230,9:97335
@@ -4854,8 +4866,3 @@
 9	2	dub	3:117107,11:2147399,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216748.mp4,9:117107
 9	3	dub	3:117108,11:2147400,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216749.mp4,9:117108
 9	4	dub	3:117109,11:2147401,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216750.mp4,9:117109
-@O Universo Misterios Revelados
-1	1	dub	3:226293,11:2147247,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216777.mp4,9:226293
-1	2	dub	3:226294,11:2147248,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216778.mp4,9:226294
-1	3	dub	3:226295,11:2147249,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216779.mp4,9:226295
-1	4	dub	3:226296,11:2147250,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/216780.mp4,9:226296

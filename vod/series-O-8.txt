@@ -1,3 +1,16 @@
+@Os Segredos das Piramides
+1	1	dub	3:170284,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217218.mp4,9:170284
+1	2	dub	3:170285,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217219.mp4,9:170285
+1	3	dub	3:170286,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217220.mp4,9:170286
+1	4	dub	3:170287,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217221.mp4,9:170287
+1	5	dub	3:170288,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217222.mp4,9:170288
+1	6	dub	3:170289,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217223.mp4,9:170289
+2	1	dub	3:283983,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217224.mp4,9:283983
+2	2	dub	3:283984,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217225.mp4,9:283984
+2	3	dub	3:283985,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217226.mp4,9:283985
+2	4	dub	3:283986,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217227.mp4,9:283986
+2	5	dub	3:283987,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217228.mp4,9:283987
+2	6	dub	3:283988,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217229.mp4,9:283988
 @Os Segredos de Anna
 1	1	dub	3:180758,11:2255897,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108380.mp4,7:1400861,9:180758
 1	2	dub	3:180759,11:2255898,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/108381.mp4,7:1400862,9:180759
@@ -2904,6 +2917,7 @@
 1	10	leg	7:1484359
 2	1	dub	3:398361,11:2470959,9:398361
 2	2	dub	3:399003,11:2471770
+2	3	dub	3:399563,11:2472564
 @Outlier
 1	1	leg	7:1429853
 1	2	leg	7:1429854
@@ -3009,6 +3023,10 @@
 1	2	leg	3:399186
 1	3	leg	3:399263
 1	4	leg	3:399307
+1	5	leg	3:399402
+1	6	leg	3:399577
+1	7	leg	3:399578
+1	8	leg	3:399579
 @Ouça me - Duy Beni
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/279264.mp4
 1	2	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/279265.mp4
@@ -3046,6 +3064,7 @@
 1	13	dub	3:337091,11:2146645,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217314.mp4,9:337091
 @Overgeared
 1	1	dub	3:399065
+1	2	dub	3:399718
 @Overlord	2015
 1	1	dub	https://embedplayer2.xyz/cdn/hls/ece149b9ea5610a81c9ea5752b05b93d/master.txt,3:89641,11:2393523,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/93211.mp4,7:1411045,9:89641
 1	1	leg	7:1410993

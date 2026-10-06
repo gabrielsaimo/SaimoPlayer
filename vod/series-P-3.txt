@@ -1361,6 +1361,15 @@
 1	2	dub	3:99871,11:2254594,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109626.mp4,7:1327610,9:99871
 1	3	dub	3:99872,11:2254595,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109627.mp4,7:1327611,9:99872
 1	4	dub	3:99873,11:2254596,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109628.mp4,7:1327612,9:99873
+@Prefiro a Morte
+1	1	dub	3:399380,11:2472518
+1	2	dub	3:399381,11:2472519
+1	3	dub	3:399382,11:2472520
+1	4	dub	3:399383,11:2472521
+1	5	dub	3:399384,11:2472522
+1	6	dub	3:399385,11:2472523
+1	7	dub	3:399386,11:2472524
+1	8	dub	3:399387,11:2472525
 @Premonicao
 1	1	dub	7:1369004
 1	2	dub	7:1369005
@@ -1503,7 +1512,7 @@
 1	7	dub	https://embedplayer2.xyz/cdn/hls/673c282a64f7ca2f8229a7810ebcd2df/master.txt,3:395417,11:2470594,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314728.mp4,9:395417
 1	8	dub	3:396170,11:2470595,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316184.mp4,9:396170
 1	9	dub	3:398465,11:2471209,9:398465
-1	10	dub	3:399094
+1	10	dub	3:399094,11:2472426
 @Presidente por Acidente
 1	1	dub	3:185527,11:2223775,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153128.mp4,9:185527
 1	2	dub	3:185528,11:2223776,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153129.mp4,9:185528
@@ -2894,6 +2903,8 @@
 5	6	dub	3:184014,11:2254730,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109686.mp4,7:1403536,9:184014
 5	7	dub	3:184015,11:2254731,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109687.mp4,7:1403537,9:184015
 5	8	dub	3:184016,11:2254732,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/109688.mp4,7:1403538,9:184016
+@Private Eyes West Coast
+1	1	leg	3:399542
 @Private Practice	2007
 1	1	dub	3:131915,11:2135512,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238116.mp4,7:1362356,9:131915
 1	2	dub	3:131916,11:2135513,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/238117.mp4,7:1362357,9:131916
@@ -3817,30 +3828,3 @@
 1	22	leg	3:339740,11:2191090,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88306.mp4,9:339740
 1	23	leg	3:339741,11:2191091,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88307.mp4,9:339741
 1	24	leg	3:339742,11:2191092,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88308.mp4,9:339742
-@Protecao e Ordem O Capitulo de Bengala
-1	1	leg	3:317002,11:2292354,9:317002
-1	2	leg	3:317003,11:2292355,9:317003
-1	3	leg	3:317004,11:2292356,9:317004
-1	4	leg	3:317005,11:2292357,9:317005
-1	5	leg	3:317006,11:2292358,9:317006
-1	6	leg	3:317007,11:2292359,9:317007
-1	7	leg	3:317008,11:2292360,9:317008
-@Protect the Boss
-1	1	leg	7:1456230
-1	2	leg	7:1456231
-1	3	leg	7:1456232
-1	4	leg	7:1456233
-1	5	leg	7:1456234
-1	6	leg	7:1456235
-1	7	leg	7:1456236
-1	8	leg	7:1456237
-1	9	leg	7:1456238
-1	10	leg	7:1456239
-1	11	leg	7:1456240
-1	12	leg	7:1456241
-1	13	leg	7:1456242
-1	14	leg	7:1456243
-1	15	leg	7:1456244
-1	16	leg	7:1456245
-1	17	leg	7:1456246
-1	18	leg	7:1456247

@@ -752,6 +752,8 @@
 1	2	dub	3:397337,11:2470642,9:397337
 1	3	dub	3:398377,9:398377
 1	4	dub	3:398442,9:398442
+1	5	dub	3:399553
+1	6	dub	3:399554
 @Um Amor Impossivel Ou nao
 1	1	leg	3:334145,11:2298195,9:334145
 1	2	leg	3:338074,11:2298196,9:338074
@@ -1595,6 +1597,7 @@
 1	1	leg	7:1503085
 1	2	dub	https://embedplayer2.xyz/cdn/hls/bb0a6b5adf8eb366ec86f58fa3c1b4a2/master.txt,3:397691,11:2470035,9:397691
 1	3	dub	3:399041,11:2472082
+1	4	dub	3:399548
 @Um Conto de Fadas Perfeito
 1	1	dub	3:205120,11:2217581,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/159367.mp4,7:1409641,9:205120
 1	2	dub	3:205121,11:2217582,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/159368.mp4,7:1409642,9:205121

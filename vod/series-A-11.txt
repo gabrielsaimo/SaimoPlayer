@@ -1,3 +1,7 @@
+@As Maldicoes
+1	1	dub	3:343298,11:2240946,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/134029.mp4,7:1486653,9:343298
+1	2	dub	3:343299,11:2240947,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/134030.mp4,7:1486654,9:343299
+1	3	dub	3:343300,11:2240948,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/134031.mp4,7:1486655,9:343300
 @As Maravilhas dos Estados Unidos
 1	1	dub	3:173093,11:2186453,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/58764.mp4,9:173093
 1	2	dub	3:173094,11:2186454,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/58765.mp4,9:173094
@@ -1974,6 +1978,7 @@
 4	21	leg	3:396047,9:396047
 4	22	leg	3:398359,9:398359
 4	23	leg	3:399002
+4	24	leg	3:399571
 @Ascensão: Império Otomano
 1	1	dub	3:34737,11:2265041,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95974.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/95990.mp4,7:1373339,9:34737
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/262225.mp4
@@ -3651,8 +3656,3 @@
 2	8	dub	3:362294,11:2168217,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/225464.mp4,9:362294
 2	9	dub	3:362295,11:2168218,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/225465.mp4,9:362295
 2	10	dub	3:362296,11:2168219,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/225466.mp4,9:362296
-@Australia: Vida Selvagem
-1	1	leg	7:1435439
-1	2	leg	7:1435440
-1	3	leg	7:1435441
-1	4	leg	7:1435442

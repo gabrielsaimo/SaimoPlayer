@@ -490,7 +490,7 @@ Embarque Imediato (2009)	dub=6:1307272
 Embattled	dub=2:119638,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255732.mp4,8:119638	leg=2:119640,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71276.mp4,8:119640
 Embattled Dias de Luta (2020)	dub=6:1301424
 Emblema da Fe	dub=2:20976,10:2451289,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40780.mp4,8:20976
-Emboscada	dub=https://embedplayer2.xyz/cdn/hls/676f2c93f5a89ba71226f8b84edc482e/master.txt,2:265415,2:148610,10:2447341,10:2453904,10:2457977,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3507.mp4,8:265415,8:148610	leg=2:265416,2:148612,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71261.mp4,8:265416,8:148612
+Emboscada	dub=https://embedplayer2.xyz/cdn/hls/676f2c93f5a89ba71226f8b84edc482e/master.txt,2:399647,2:265415,2:148610,10:2447341,10:2453904,10:2457977,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3507.mp4,8:265415,8:148610	leg=2:399646,2:265416,2:148612,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71261.mp4,8:265416,8:148612
 Emboscada (2009)	dub=6:1301196
 Emboscada (2022)	dub=https://embedplayer2.xyz/cdn/hls/a8e50b49c239e69bb3388a7bd9a1ccda/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300814.mp4,6:1299204
 Emboscada (2023)	dub=https://embedplayer2.xyz/cdn/hls/676f2c93f5a89ba71226f8b84edc482e/master.txt,6:1305111	leg=6:1305112
@@ -819,7 +819,7 @@ Era Uma Vez um Boneco de Neve	dub=2:89591,10:2459607,http://dbonline.tech-cdn.to
 Era Uma Vez um Colchão	dub=2:112919,10:2460715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14955.mp4,8:112919
 Era Uma Vez um Colchão (2005)	dub=6:1307242
 Era Uma Vez um Genio (2022)	dub=6:1312596	leg=6:1300196
-Era Uma Vez um Gênio	dub=2:181142,10:2458712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33881.mp4,8:181142	leg=2:181141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71695.mp4,8:181141
+Era Uma Vez um Gênio	dub=2:399649,2:181142,10:2458712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33881.mp4,8:181142	leg=2:399648,2:181141,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71695.mp4,8:181141
 Era Uma Vez... Um Baile de Natal	dub=https://embedplayer2.xyz/cdn/hls/fe3f2e65a64070c30f97b04b1fdb5785/master.txt,2:352947,10:2445216,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/472.mp4,8:352947	leg=2:352946,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71710.mp4,8:352946
 Era Uma vez no Mexico (2003)	dub=6:1311759	leg=6:1311758
 Era Uma vez no México	dub=2:345120,2:21380,10:2447144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3550.mp4,8:345120,8:21380
@@ -1180,6 +1180,7 @@ Eu Nao Quero Voltar Sozinho (2011)	dub=6:1301459
 Eu Nao Sou Um Homem Facil	dub=2:20614,10:2460666,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15085.mp4,8:20614
 Eu Nao Sou um Homem Facil (2018)	dub=6:1298336
 Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo com a Minha Vida	dub=2:329609,10:2456926,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25947.mp4,8:329609
+Eu Não Posso Esperar	dub=2:399651	leg=2:399650
 Eu Não Sou Tudo O Que Eu Quero Ser	leg=2:394637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314111.mp4,8:394637
 Eu Não Sou um Robô	dub=2:148685,10:2460822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15080.mp4,8:148685
 Eu Não Sou um Robô (2021)	dub=6:1306577

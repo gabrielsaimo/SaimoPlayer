@@ -135,6 +135,7 @@ Sai de Baixo: O Filme (2019)	dub=6:1299756
 Saida Proibida (2018)	dub=https://embedplayer2.xyz/cdn/hls/ec976a9a00054fae9c36becfd6ffb4a7/master.txt,6:1300413,2:195629,2:25111,10:2451954,10:2458496,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34693.mp4,8:195629,8:25111	leg=2:195628,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88847.mp4,8:195628
 Saida: Fuga em Seul (2019)	dub=6:1300764
 Saideira (2024)	dub=https://embedplayer2.xyz/cdn/hls/7c5336903ef8a9db2d2474c795b78b39/master.txt,2:328104,10:2450960,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39226.mp4,8:328104
+Saindo do Armário	dub=2:399698	leg=2:399697
 Saint Clare	leg=2:373352,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251709.mp4,8:373352
 Saint Maud	dub=https://embedplayer2.xyz/cdn/hls/47a1f19363f9555c70c5ee83302d23c5/master.txt	leg=2:94161,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88683.mp4,8:94161
 Sakura Card Captors: A Carta Selada (2000)	dub=https://embedplayer2.xyz/cdn/hls/86b414d3b681bbbcfae4509f70b6fe8a/master.txt,6:1310160,2:256644,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11111.mp4,8:256644
@@ -284,7 +285,10 @@ Scarygirl	dub=2:219962,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/P
 Scarygirl (2023)	dub=6:1302606
 Schlitter	dub=https://embedplayer2.xyz/cdn/hls/e9b6243976f741da93a76f216991186e/master.txt,2:317091,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51771.mp4,8:317091	leg=2:317092,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88864.mp4,8:317092
 Schumacher	dub=2:128636,10:2452867,8:128636	leg=2:128639,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88869.mp4,8:128639
+Schumacher '94 - Die Geburt einer Legende	dub=2:399404	leg=2:399403
+Schumacher '94 - Die Geburt einer Legende (2026)	dub=10:2472355
 Schumacher (2021)	dub=6:1305272	leg=6:1305273
+Schumacher 94: Nasce Uma Lenda	dub=2:399506
 Scoob	leg=2:46163,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88874.mp4,8:46163
 Scooby! O Filme	dub=2:343056,2:64634,10:2448271,10:2459256,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11139.mp4,8:343056,8:64634	leg=2:343055,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/88879.mp4,8:343055
 Scooby-Doo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11144.mp4
@@ -1263,7 +1267,7 @@ Sobrenatural: A Origem	dub=2:208856,10:2451442,http://dbonline.tech-cdn.top:80/m
 Sobrenatural: A Origem (2015)	dub=6:1298063,6:1310101	leg=6:1310102
 Sobrenatural: A Ultima Chave (2018)	dub=6:1298061,6:1310355	leg=6:1310356
 Sobrenatural: A Última Chave	dub=2:194535,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58551.mp4,8:194535,2:21854,10:2451603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52038.mp4,8:21854
-Sobrenatural: Agora Entre Nós (2026)	leg=https://embedplayer2.xyz/cdn/hls/da4aa1baba03552978741695fecf90e3/master.txt
+Sobrenatural: Agora Entre Nós (2026)	dub=10:2472642,2:399609	leg=https://embedplayer2.xyz/cdn/hls/da4aa1baba03552978741695fecf90e3/master.txt,2:399608
 Sobrenatural: Capitulo 2 (2013)	dub=6:1298186,6:1311529	leg=6:1311530
 Sobrenatural: Capítulo 2	dub=2:122902,10:2452523,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52033.mp4,8:122902
 Sobreviva a Noite (2019)	dub=https://embedplayer2.xyz/cdn/hls/71fb82140ce36bb139c0482ba8105a96/master.txt,6:1297954,2:31909,10:2445970,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46052.mp4,8:31909
@@ -1465,6 +1469,8 @@ Soul (2020)	dub=6:1298042
 Soul Land: O Mestre da Espada	leg=2:343569,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90043.mp4,8:343569
 Soul Surfer: Coragem de Viver	dub=2:275424,10:2455229,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31784.mp4,8:275424
 Soul Surfer: Coragem de Viver (2011)	dub=6:1300607
+Soulm8te	dub=2:399359,2:399336	leg=2:399335
+Soulm8te (2026)	dub=10:2472354
 Sound! Euphonium: Ensemble Contest	dub=10:2459392
 Sour Grapes	dub=10:2448754	leg=2:322837,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90047.mp4,8:322837
 South Park (Nao Recomendado Para Menores) (2023)	dub=6:1303007
@@ -1571,7 +1577,7 @@ Sr Costa Hoje Atendeu na Andrologia	leg=http://dbonline.tech-cdn.top:80/movie/ke
 Sr Crocket (2024)	dub=https://embedplayer2.xyz/cdn/hls/2c0248a53b0c49609f02fa14ed62ada5/master.txt,10:2448695	leg=6:1312310,2:291264,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90225.mp4,8:291264
 Sr Ninguem (2009)	leg=6:1502233
 Sr e Sra Smith (2005)	dub=6:1300216
-Sr. & Sra. Smith	dub=2:187622,10:2460586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19576.mp4,8:187622
+Sr. & Sra. Smith	dub=2:399700,2:187622,10:2460586,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19576.mp4,8:187622	leg=2:399699
 Sr. Blake Ao Seu Dispor	leg=2:380369,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289946.mp4,8:380369
 Sr. Carrinho e os Cavaleiros Templários (2023)	dub=https://embedplayer2.xyz/cdn/hls/27885207434af05acfa9f1063a63cb80/master.txt,6:1305473,2:202591,10:2458240,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12085.mp4,8:202591	leg=6:1305474,2:202590,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90230.mp4,8:202590
 Sr. Ninguém	dub=2:362619,2:313114,10:2458854,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36560.mp4,8:362619,8:313114	leg=2:362618,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90241.mp4,8:362618

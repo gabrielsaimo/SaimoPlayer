@@ -1,3 +1,5 @@
+@TANK CHAIR
+1	1	dub	3:399714
 @THE GHOST IN THE SHELL
 1	1	dub	3:386578,11:2096140,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/308480.mp4,9:386578
 1	2	dub	3:387316,11:2096141,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/309031.mp4,9:387316
@@ -4269,12 +4271,3 @@
 1	150	dub	3:248132,11:2305212,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/196815.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/299361.mp4,9:248132
 1	151	dub	3:248133,11:2305213,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/196816.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/299362.mp4,9:248133
 1	152	dub	3:248134,11:2305214,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/196817.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/299363.mp4,9:248134
-@Terra Alagada
-1	1	leg	7:1429828
-1	2	leg	7:1429829
-1	3	leg	7:1429830
-1	4	leg	7:1429831
-1	5	leg	7:1429832
-1	6	leg	7:1429833
-1	7	leg	7:1429834
-1	8	leg	7:1429835

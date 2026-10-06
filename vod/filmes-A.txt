@@ -485,6 +485,7 @@ A Corrida	dub=2:252189,2:251775,10:2448720,10:2456259,http://dbonline.tech-cdn.t
 A Corrida (2022)	dub=6:1303200
 A Corrida da Superação	dub=2:77609,10:2456974,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22372.mp4,8:77609
 A Corrida da Superação (2014)	dub=6:1307379
+A Corrida do Século	dub=2:399612
 A Corrida dos 100 Metros (2025)	dub=https://embedplayer2.xyz/cdn/hls/72f4a0f48112cd5afb7b29761cd2cb90/master.txt,6:1314202,2:359259,10:2444670,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/168.mp4,8:359259	leg=6:1500975,2:359258,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60481.mp4,8:359258
 A Corte Marcial Da Nave Da Revolta (2023)	dub=https://embedplayer2.xyz/cdn/hls/7427a741b217ee3d178bd7a6cc503f75/master.txt,6:1309222,2:255982,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53990.mp4,8:255982,2:255981,10:2450026,10:2450562,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36774.mp4,8:255981	leg=6:1309223,2:255983,10:2450283,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/60500.mp4,8:255983
 A Costa Rican Wedding	dub=https://embedplayer2.xyz/cdn/hls/b8358a35892d825bb466f76b83d1db7f/master.txt,2:378713,10:2444010,10:2444134,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255739.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255751.mp4,8:378713
@@ -1077,7 +1078,7 @@ A Gravida Queridinha Do Chefe	dub=2:389470,8:389470	leg=http://dbonline.tech-cdn
 A Graça	leg=2:368928,2:368912,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99271.mp4,8:368928,8:368912
 A Greve da Seleção da França	dub=2:391577,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311321.mp4,8:391577,2:378018,10:2444414,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254688.mp4,8:378018	leg=2:378017,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254640.mp4,8:378017
 A Greve das Camareiras	dub=2:370136,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249178.mp4,8:370136	leg=2:370135,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249199.mp4,8:370135
-A Gripe	dub=2:34228,10:2453475,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1606.mp4,8:34228
+A Gripe	dub=2:399614,2:34228,10:2453475,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1606.mp4,8:34228	leg=2:399613
 A Gripe (2013)	dub=6:1298138
 A Gruta	dub=2:84572,10:2451798,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46860.mp4,8:84572
 A Gruta (2020)	dub=6:1308922
@@ -1516,6 +1517,7 @@ A Luta de uma Vida	dub=2:178283,10:2455779,http://dbonline.tech-cdn.top:80/movie
 A Luta de uma Vida (2022)	dub=6:1300944
 A Luta do Dragão (1989)	dub=6:1310239
 A Luta pela Esperanca (2005)	dub=6:1301429
+A Luta pela Esperança	dub=2:399616	leg=2:399615
 A Luz Dela Brilha Sem Voce	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303306.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303308.mp4
 A Luz Divina	dub=2:21511,10:2450647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40680.mp4,6:1298683,8:21511
 A Luz Entre Oceanos	dub=2:28603,10:2446457,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41204.mp4,8:28603
@@ -2047,6 +2049,7 @@ A Paranoia de Lulu	dub=2:349718,http://dbonline.tech-cdn.top:80/movie/ke-vin-092
 A Paris Errada	dub=2:374356,2:374355,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253605.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253606.mp4,8:374356,8:374355,2:343198,10:2444564,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12671.mp4,8:343198	leg=2:343197,10:2448509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61976.mp4,8:343197
 A Paris Errada (2025)	dub=6:1313808	leg=6:1313807
 A Parte do Mundo Que Me Pertence	dub=2:336814,10:2453217,8:336814
+A Parte dos Anjos	dub=2:399618	leg=2:399617
 A Partida do Século	dub=2:393909,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313342.mp4,8:393909	leg=2:393908,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313353.mp4,8:393908
 A Partilha	dub=2:194474,10:2456139,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22913.mp4,8:194474	leg=2:194473,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/61981.mp4,8:194473
 A Partilha (2022)	dub=6:1306342	leg=6:1306343
@@ -2795,6 +2798,7 @@ A Volta do Juizo Final (2017)	dub=6:1309180
 A Volta do Mestre dos Brinquedos	dub=2:398555,8:398555	leg=2:398554,8:398554
 A Volta do Todo Poderoso	dub=2:101649,10:2460642,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12786.mp4,8:101649
 A Volta do Todo Poderoso (2007)	dub=6:1297624
+A Volta dos Bravos	dub=2:399620	leg=2:399619
 A Volta dos Mortos Vivos	dub=2:382816,2:21702,10:2451674,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47441.mp4,8:382816,8:21702	leg=2:382815,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300998.mp4,8:382815
 A Volta dos Mortos Vivos (1985)	dub=6:1297134
 A Volta dos Mortos Vivos 2	dub=2:21703,10:2452010,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47446.mp4,8:21703
@@ -3149,7 +3153,7 @@ Academia de Vilões	dub=2:343201,http://dbonline.tech-cdn.top:80/movie/ke-vin-09
 Acampamento Intergaláctico	dub=2:178576,10:2458332,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11909.mp4,8:178576
 Acampamento Intergaláctico (2022)	dub=6:1305354
 Acampamento Maldito (2019)	dub=https://embedplayer2.xyz/cdn/hls/1d2fbfe92fff91b9277378ca508af6b2/master.txt,6:1302633,2:220053,10:2452381,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47525.mp4,8:220053	leg=2:220052,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62999.mp4,8:220052
-Acampamento Miasma: Adolescência, Sexo e Morte	dub=2:397870,8:397870	leg=2:397869,8:397869
+Acampamento Miasma: Adolescência, Sexo e Morte	dub=2:399536,2:397870,8:397870	leg=2:397869,8:397869
 Acampamento Miasma: Adolescência, Sexo e Morte (2026)	dub=10:2470947
 Acampamento com a Mamãe	dub=2:297407,10:2447542,10:2461325,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12843.mp4,8:297407	leg=2:297408,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62981.mp4,8:297408
 Acampamento de Teatro (2023)	dub=https://embedplayer2.xyz/cdn/hls/42ed809c177d0d6a11353b88c2154313/master.txt,6:1302781,2:225419,10:2460542,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12839.mp4,8:225419	leg=2:225416,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/62997.mp4,8:225416
@@ -3436,6 +3440,7 @@ Afonso Padilha: Gerações	dub=2:237173,10:2447874,8:237173	leg=2:237192,http://
 Afonso Padilha: Gerações (2023)	dub=6:1309716	leg=6:1309717
 Afraid (2024)	dub=6:1312180	leg=6:1312179
 After (2019)	dub=https://embedplayer2.xyz/cdn/hls/009234a6cc9dd6e31df015d1e54b8701/master.txt,6:1300177,2:88694,10:2456665,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23382.mp4,8:88694
+After House - O Filme	dub=2:399621
 After Para Sempre (2023)	dub=https://embedplayer2.xyz/cdn/hls/e6b503336d268a849f012d77be7e7631/master.txt,6:1302750,2:224738,10:2446247,10:2446572,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41301.mp4,8:224738	leg=6:1302608,2:224737,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63175.mp4,8:224737
 After We Collided	dub=https://embedplayer2.xyz/cdn/hls/647ad484a55564ea5914bd9e00ff8108/master.txt	leg=2:89000,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63185.mp4,8:89000
 After the Quake	leg=2:359663,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63180.mp4,8:359663
@@ -3775,9 +3780,9 @@ Along with the Gods: The Two Worlds (2017)	dub=6:1300582
 Alpha	leg=2:371508,2:345105,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63490.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301004.mp4,8:371508,8:345105
 Alpha (2025)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307268.mp4
 Alpha Dog (2006)	dub=https://embedplayer2.xyz/cdn/hls/44442d672a1658ddb9c622acec9f13a7/master.txt,6:1308903,2:105078,10:2456028,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/23484.mp4,8:105078
-Alpinistas - Desastre No Everest	dub=2:128518,10:2455007,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1948.mp4,8:128518	leg=2:128528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63495.mp4,8:128528
 Alpinistas Desastre no Everest (2019)	dub=6:1301331
 Alpinistas Sociais	dub=2:313537,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54457.mp4,8:313537,10:2446500
+Alpinistas: Desastre no Everest	dub=2:399623,2:128518,10:2455007,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1948.mp4,8:128518	leg=2:399622,2:128528,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63495.mp4,8:128528
 Alta Ansiedade (1977)	dub=6:1312738
 Alta Fidelidade (2000)	dub=6:1301391
 Alta Frequência	dub=2:384648,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307381.mp4,8:384648	leg=2:384647,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307385.mp4,8:384647
@@ -4016,6 +4021,7 @@ Amigos Até A Morte	dub=2:398354,8:398354	leg=2:398353,8:398353
 Amigos Até A Morte (2023)	dub=10:2470951
 Amigos Imaginarios (2024)	dub=6:1304922	leg=6:1304921
 Amigos Imaginários	dub=2:265866,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54476.mp4,8:265866,2:265865,10:2447672,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8611.mp4,8:265865	leg=2:265867,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/63749.mp4,8:265867
+Amigos Indiscretos	dub=2:399625	leg=2:399624
 Amigos Inseparáveis	dub=2:122926,10:2445848,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43855.mp4,8:122926
 Amigos Inseparáveis (2012)	dub=6:1309711
 Amigos Muito Íntimos	dub=2:386226,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308338.mp4,8:386226
@@ -4275,7 +4281,7 @@ Amor à Distância	dub=2:395667,2:112950,10:2461026,http://dbonline.tech-cdn.top
 Amor à Primeira Mordida	dub=2:317213,10:2460136,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13128.mp4,8:317213
 Amor à Primeira Vista	dub=2:215065,10:2446492,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41478.mp4,8:215065	leg=2:215064,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64054.mp4,8:215064
 Amor à Queima-Roupa (1993)	dub=6:1307449
-Amor à Segunda Vista	dub=2:329595,10:2446346,10:2448637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41482.mp4,8:329595	leg=2:329594,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64059.mp4,8:329594
+Amor à Segunda Vista	dub=2:399627,2:329595,10:2446346,10:2448637,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41482.mp4,8:329595	leg=2:399626,2:329594,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64059.mp4,8:329594
 Amor à Venda	dub=2:259328,10:2445730,10:2450295,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43889.mp4,8:259328	leg=2:259329,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/64064.mp4,8:259329
 Amor à Venda (2021)	dub=6:1303603
 Amor, Casamentos e Outros Desastres	dub=2:128612,10:2461272,8:128612	leg=2:128628,8:128628
@@ -5212,6 +5218,7 @@ As Tartarugas Ninjas Caos Mutante (2023)	dub=https://embedplayer2.xyz/cdn/hls/af
 As Testemunhas de Madea (2012)	dub=6:1300749
 As Tias (2024)	dub=https://embedplayer2.xyz/cdn/hls/6f56188c676e66dc773f8bb3f8369931/master.txt,6:1312912,2:301151,10:2447751,10:2452111,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47811.mp4,8:301151	leg=2:301152,2:295692,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65012.mp4,8:301152,8:295692
 As Torres Gemeas (2006)	dub=6:1299073
+As Torres Gêmeas	dub=2:399629	leg=2:399628
 As Trambiqueiras	dub=2:155516,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54678.mp4,8:155516,2:154572,10:2460827,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13320.mp4,8:154572	leg=2:154576,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65032.mp4,8:154576
 As Trambiqueiras (2021)	dub=6:1300467
 As Trapaceiras	dub=2:44234,10:2461553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13329.mp4,8:44234
@@ -5278,7 +5285,7 @@ Assalto ao Banco Central (2011)	dub=6:1308854
 Assalto ao Banco da Espanha	dub=2:101653,10:2453679,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2155.mp4,8:101653
 Assalto ao Banco da Espanha (2021)	dub=6:1298485
 Assalto ao Carro Blindado (2009)	dub=6:1312112	leg=6:1312111
-Assalto ao Poder	dub=10:2457803
+Assalto ao Poder	dub=2:399630,10:2457803
 Assalto ao Poder (2016)	dub=6:1300175
 Assalto em Dose Dupla	dub=2:259355,10:2461417,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/13341.mp4,8:259355
 Assalto em Dose Dupla (2011)	dub=6:1303734
@@ -5474,6 +5481,7 @@ Atividade Paranormal: Marcados Pelo Mal (2014)	dub=6:1303441
 Atividade Paranormal: Toquio (2010)	dub=6:1303442
 Atividade Paranormal: Tóquio	dub=2:387039,10:2444018,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308842.mp4,8:387039	leg=2:387038,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308820.mp4,8:387038
 Atividade Sobrenatural - A Vingança De Mary	dub=2:317046,10:2447403,10:2451902,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47891.mp4,8:317046	leg=2:317047,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65291.mp4,8:317047
+Atividade Supernatural	dub=2:399632	leg=2:399631
 Atividade paranormal 1	dub=2:21719,10:2452478,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47871.mp4,8:21719
 Atividade paranormal 2	dub=2:21720,10:2452072,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47876.mp4,8:21720
 Atividade paranormal 3	dub=2:21721,10:2452420,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/47881.mp4,8:21721

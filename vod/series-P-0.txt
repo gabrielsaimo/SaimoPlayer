@@ -1391,12 +1391,12 @@
 1	119	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296452.mp4
 1	120	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296453.mp4
 1	121	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296454.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296455.mp4
-1	122	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296457.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296456.mp4
-1	123	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296458.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296459.mp4
+1	122	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296456.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296457.mp4
+1	123	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296459.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296458.mp4
 1	124	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296460.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296461.mp4
 1	125	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296462.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296463.mp4
 1	126	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296464.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296465.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296466.mp4
-1	127	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296468.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296467.mp4
+1	127	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296467.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296468.mp4
 1	128	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296469.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296470.mp4
 1	129	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296471.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296472.mp4
 1	130	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296473.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/296474.mp4
@@ -2211,6 +2211,7 @@
 1	13	leg	3:320659,11:2292095,9:320659
 @Paolo
 1	1	dub	3:398868,11:2471925
+1	2	dub	3:399481,11:2472601
 @Papai
 1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217417.mp4
 1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217418.mp4
@@ -3661,6 +3662,7 @@
 1	12	dub	3:383815,11:2098867,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/306471.mp4,9:383815
 1	13	dub	3:384505,11:2098868,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/307462.mp4,9:384505
 1	14	dub	3:385810,11:2098869,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/308193.mp4,9:385810
+2	1	dub	3:399340,11:2472417
 @Parenthood Minha Familia
 1	1	dub	3:299315,11:2224129,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152055.mp4,7:1459099,9:299315
 1	2	dub	3:299316,11:2224130,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152056.mp4,7:1459100,9:299316
