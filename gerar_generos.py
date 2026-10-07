@@ -30,6 +30,22 @@ import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
+
+KNOWN_TMDB = {}
+def carregar_tmdb_conhecidos():
+    from pathlib import Path
+    for fpath, s in [("vod/redeflix/links-filmes.txt", False), ("vod/redeflix/links-series.txt", True)]:
+        p = Path(fpath)
+        if not p.exists(): continue
+        for line in p.read_text(encoding="utf-8").splitlines():
+            campos = line.split('	')
+            if not campos: continue
+            for campo in campos[1:]:
+                if campo.startswith("tmdb="):
+                    KNOWN_TMDB[(campos[0], s)] = campo[5:]
+
+carregar_tmdb_conhecidos()
+
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent
@@ -94,6 +110,18 @@ def ficha_de(titulo: str, serie: bool) -> dict | None:
     if not nome:
         return None
     tipo = "tv" if serie else "movie"
+    
+    known_id = KNOWN_TMDB.get((titulo, serie))
+    if known_id:
+        dados = pedir(f"{TMDB}/{tipo}/{known_id}?api_key={CHAVE}&language=pt-BR")
+        if dados and not dados.get("status_code"):
+            ids = [g["id"] for g in dados.get("genres", [])]
+            return {
+                "id": dados.get("id", 0),
+                "capa": (dados.get("poster_path") or ""),
+                "generos": [traducoes.get(i) for i in ids if i in traducoes]
+            }
+
     campo = "first_air_date_year" if serie else "year"
     url = (f"{TMDB}/search/{tipo}?api_key={CHAVE}&language=pt-BR"
            f"&query={urllib.parse.quote(nome)}")
