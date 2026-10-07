@@ -59,6 +59,7 @@ final class EventsService: ObservableObject {
         guard let url = URL(string: "https://embedtv.cc/api/events") else { return }
         do {
             let (data, _) = try await URLSession.shared.data(from: url)
+                        let decoder = JSONDecoder()
             let decoded = try decoder.decode([Event].self, from: data)
             let now = Date()
             let isoFormatter = ISO8601DateFormatter()
