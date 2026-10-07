@@ -1267,8 +1267,9 @@ final class PlayerModel: NSObject, ObservableObject {
             MPMediaItemPropertyTitle: channel.name,
             MPMediaItemPropertyArtist: "Saimo TV",
             MPNowPlayingInfoPropertyIsLiveStream: true,
+            MPNowPlayingInfoPropertyPlaybackRate: isPlaying ? 1.0 : 0.0,
         ]
-        MPNowPlayingInfoCenter.default().playbackState = .playing
+        MPNowPlayingInfoCenter.default().playbackState = isPlaying ? .playing : .paused
     }
 
     private func preventSleep(_ on: Bool) {
