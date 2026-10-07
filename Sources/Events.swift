@@ -30,6 +30,16 @@ struct Event: Decodable, Identifiable {
         guard let firstPlayer = players.first, let url = URL(string: firstPlayer) else { return nil }
         return url.lastPathComponent
     }
+    
+    var formattedTime: String {
+        let formatter = ISO8601DateFormatter()
+        if let date = formatter.date(from: time_start) {
+            let df = DateFormatter()
+            df.dateFormat = "HH:mm"
+            return df.string(from: date)
+        }
+        return ""
+    }
 }
 
 @MainActor
@@ -49,8 +59,21 @@ final class EventsService: ObservableObject {
         guard let url = URL(string: "https://embedtv.cc/api/events") else { return }
         do {
             let (data, _) = try await URLSession.shared.data(from: url)
-            let decoder = JSONDecoder()
-            self.events = try decoder.decode([Event].self, from: data)
+            let decoded = try decoder.decode([Event].self, from: data)
+            let now = Date()
+            let isoFormatter = ISO8601DateFormatter()
+            
+            self.events = decoded.filter { event in
+                var fim = isoFormatter.date(from: event.time_end)
+                let inicio = isoFormatter.date(from: event.time_start)
+                
+                if fim == nil, let start = inicio {
+                    fim = start.addingTimeInterval(2 * 60 * 60) // + 2 horas
+                }
+                
+                guard let finalFim = fim else { return true }
+                return finalFim > now
+            }
         } catch {
             self.error = error.localizedDescription
         }
@@ -128,7 +151,17 @@ struct EventCell: View {
                 RoundedRectangle(cornerRadius: 8, style: .continuous)
                     .fill(Color.white.opacity(0.07))
                 
-                VStack(spacing: 12) {
+                                VStack(spacing: 12) {
+                    if !event.formattedTime.isEmpty {
+                        Text(event.formattedTime)
+                            .font(.system(size: 13, weight: .bold))
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 3)
+                            .background(Color.black.opacity(0.5))
+                            .foregroundStyle(.green)
+                            .clipShape(Capsule())
+                    }
+                    
                     HStack {
                         if let homeImage = event.teams?.home?.image, let url = URL(string: homeImage) {
                             AsyncImage(url: url) { image in
