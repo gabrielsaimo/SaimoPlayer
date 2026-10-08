@@ -18,7 +18,7 @@ base: 16 http://corruptx.org:80/movie/hfp5ejnrey/zq0u3kzads/
 base: 17 http://corruptx.org:80/series/hfp5ejnrey/zq0u3kzads/
 #	494	131	11
 A	5779	1479	117
-B	1334	513	579
+B	1333	513	579
 C	2274	856	135
 D	1735	620	411
 E	1462	381	21
@@ -29,7 +29,7 @@ I	614	266	25
 J	629	173	45
 K	241	156	44
 L	894	339	82
-M	2261	850	327
+M	2260	850	327
 N	1048	291	55
 O	5054	1045	45
 P	1654	519	252

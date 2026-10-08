@@ -1268,7 +1268,7 @@
 1	11	leg	3:253464,11:2288534,9:253464
 1	12	leg	3:253465,11:2288535,9:253465
 @Mindhunter	2017
-1	1	dub	https://embedplayer2.xyz/cdn/hls/b1b22a64b8c538d840a151df9eaf92b3/master.txt,3:28455,11:2229190,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147253.mp4,7:1321493,9:28455,https://fenixbot.squareweb.app/stream/51077?hash=4a609bb4b71962ab6ef54785
+1	1	dub	https://embedplayer2.xyz/cdn/hls/b1b22a64b8c538d840a151df9eaf92b3/master.txt,3:28455,11:2229190,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147253.mp4,7:1321493,9:28455
 1	1	leg	7:1321638
 1	2	dub	https://embedplayer2.xyz/cdn/hls/0a5a29855cbb646a041dd3ba8e584383/master.txt,3:28456,11:2229191,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/147254.mp4,7:1321494,9:28456
 1	2	leg	7:1321639

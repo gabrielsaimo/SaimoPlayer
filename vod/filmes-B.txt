@@ -165,8 +165,7 @@ Banana Split (2018)	dub=6:1307960
 Banana Splits - O Filme	dub=2:362267,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54803.mp4,8:362267,2:362598,10:2461791,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53413.mp4,8:362598	leg=2:362597,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65721.mp4,8:362597
 Banana Splits - O Filme (2019)	dub=6:1308534
 Bancários	dub=2:398950	leg=2:398949
-Band of Brothers Legacy (2026)	leg=6:1503131
-Band of Brothers: Legacy	leg=2:395783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314481.mp4,8:395783
+Band of Brothers Legacy (2026)	dub=https://embedplayer2.xyz/cdn/hls/d0b4312aef1247e74a45070cf1e73ca8/master.txt	leg=6:1503131,2:395783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314481.mp4,8:395783
 Bandida: A Número Um	dub=2:285158,10:2450339,10:2454759,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2351.mp4,8:285158	leg=2:285159,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65731.mp4,8:285159
 Bandida: A Número Um (2024)	dub=6:1312082	leg=6:1312081
 Bandidas (2006)	dub=6:1302821
@@ -408,7 +407,7 @@ Be Cool: O Outro Nome do Jogo (2005)	dub=6:1307798
 Beanie	dub=2:281079,10:2449589,10:2456685,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24159.mp4,8:281079	leg=2:281080,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65899.mp4,8:281080
 Beans - A Pequena Guerreira	dub=2:188594,10:2455385,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24172.mp4,8:188594	leg=2:188593,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/65905.mp4,8:188593
 Beans - A Pequena Guerreira (2021)	dub=6:1301006
-Beast	leg=2:379412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256471.mp4,8:379412
+Beast	dub=https://embedplayer2.xyz/cdn/hls/1f0edcc16255ea18f4ff8311123f7284/master.txt	leg=2:379412,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256471.mp4,8:379412
 Beasts of No Nation	dub=2:288354,10:2450534,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36864.mp4,8:288354
 Beatles 64 (2024)	leg=6:1312522
 Beatriz Vira-folhas	dub=2:381777,10:2444099,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301295.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301370.mp4,8:381777

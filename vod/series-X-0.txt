@@ -76,8 +76,8 @@
 5	13	dub	11:2140023
 5	14	dub	11:2140024
 @X Men 97
-1	1	dub	3:253664,11:2174998,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76433.mp4,9:253664,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/56733?hash=b5d007b523fc45d0614fc9d7
-1	2	dub	3:253665,11:2174999,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76435.mp4,9:253665,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/56734?hash=4b2b4456acb8e8a00ebae110
+1	1	dub	3:253664,11:2174998,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76433.mp4,9:253664
+1	2	dub	3:253665,11:2174999,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76435.mp4,9:253665
 1	3	dub	3:254754,11:2175000,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76436.mp4,9:254754
 1	4	dub	3:255350,11:2175001,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76437.mp4,9:255350
 1	5	dub	3:256238,11:2175002,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/76438.mp4,9:256238
@@ -253,8 +253,8 @@
 2	12	dub	3:68498,11:2139632,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224536.mp4,9:68498
 2	13	dub	3:68499,11:2139633,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/224537.mp4,9:68499
 @XMen 97	2024
-1	1	dub	https://embedplayer2.xyz/cdn/hls/f57eed98d15d624afb0a991bfa17eb2f/master.txt,7:1425481,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/56733?hash=b5d007b523fc45d0614fc9d7
-1	2	dub	https://embedplayer2.xyz/cdn/hls/eb4764b2a9cfe6b7576ce3d67f2374f3/master.txt,7:1425482,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/56734?hash=4b2b4456acb8e8a00ebae110
+1	1	dub	https://embedplayer2.xyz/cdn/hls/f57eed98d15d624afb0a991bfa17eb2f/master.txt,7:1425481
+1	2	dub	https://embedplayer2.xyz/cdn/hls/eb4764b2a9cfe6b7576ce3d67f2374f3/master.txt,7:1425482
 1	3	dub	https://embedplayer2.xyz/cdn/hls/a92303a154795d4560368f6125cf8f73/master.txt,7:1425483
 1	4	dub	https://embedplayer2.xyz/cdn/hls/2ac8bbad7b3cf32f346a98c9a1edfedb/master.txt,7:1425484
 1	5	dub	https://embedplayer2.xyz/cdn/hls/b7245f76ba27c092ab88615f805d9b16/master.txt,7:1425485

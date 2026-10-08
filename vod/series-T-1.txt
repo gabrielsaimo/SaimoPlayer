@@ -4017,7 +4017,6 @@
 1	3	dub	3:145200,11:2169640,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33918.mp4,9:145200
 1	4	dub	3:145201,11:2169641,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/33919.mp4,9:145201
 @The Chosen
-1	1	dub	https://fenixbot.squareweb.app/stream/1224?hash=8ef958df18a0f75cd3c54835
 1	1	leg	11:2296125
 1	2	dub	https://embedplayer2.xyz/cdn/hls/c82065676c029f23adff78e771b8145f/master.txt
 1	2	leg	11:2296126
@@ -4071,7 +4070,7 @@
 5	7	leg	11:2296163
 5	8	leg	11:2296164
 @The Chosen Os Escolhidos	2019
-1	1	dub	3:332989,11:2219087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157973.mp4,7:1421668,9:332989,https://fenixbot.squareweb.app/stream/1224?hash=8ef958df18a0f75cd3c54835
+1	1	dub	3:332989,11:2219087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157973.mp4,7:1421668,9:332989
 1	1	leg	3:332799,7:1348736,9:332799
 1	2	dub	https://embedplayer2.xyz/cdn/hls/c82065676c029f23adff78e771b8145f/master.txt,3:332990,11:2219088,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/157974.mp4,7:1421669,9:332990
 1	2	leg	3:332800,7:1348737,9:332800
