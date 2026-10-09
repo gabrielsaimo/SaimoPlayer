@@ -111,12 +111,14 @@ enum Destaques {
                 .map(String.init)
             guard campos.count >= 3 else { continue }
             let poster = campos.count > 4 ? campos[4] : ""
+            let trailer = campos.count > 5 ? campos[5] : ""
             itens.append(Item(
                 titulo: campos[1],
                 tipo: campos[0].first ?? "f",
                 letra: campos[2],
                 ano: campos.count > 3 ? campos[3] : "",
-                capa: poster.isEmpty ? "" : base + poster))
+                capa: poster.isEmpty ? "" : base + poster,
+                trailer: trailer))
         }
         fechar()
         return filas

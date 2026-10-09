@@ -491,8 +491,10 @@ def main():
     SAIDA.mkdir(exist_ok=True)
     # As fileiras da tela inicial são geradas à parte, por gerar_destaques.py,
     # e sobrevivem à remontagem do catálogo: apagá-las aqui deixaria a tela
-    # inicial vazia até alguém lembrar de rodar o outro script.
-    preservar = {"destaques.txt", "generos.txt", "fichas.txt"}
+    # inicial vazia até alguém lembrar de rodar o outro script. A lista de
+    # rádios é mantida à mão e também não sai daqui: na atualização de 09/10
+    # ela foi apagada e a tela de rádios ficou vazia nos aparelhos.
+    preservar = {"destaques.txt", "generos.txt", "fichas.txt", "radios.txt"}
     for antigo in SAIDA.glob("*.txt"):
         if antigo.name not in preservar:
             antigo.unlink()
