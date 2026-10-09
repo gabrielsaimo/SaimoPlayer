@@ -23,6 +23,7 @@ enum Destaques {
         let ano: String
         /// Endereço inteiro da capa, ou vazio quando o gerador não achou uma.
         let capa: String
+        let trailer: String
 
         var serie: Bool { tipo != "f" }
         var daColecao: Bool { tipo == "a" || tipo == "d" }
