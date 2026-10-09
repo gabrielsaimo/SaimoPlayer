@@ -107,6 +107,7 @@ Scripts principais:
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
 | `medir_fontes_local.py`, `medir_resolucao.py` | medem as fontes dos canais |
+| `ordenar_fontes.py` | põe as fontes do nexustvplay (o servidor mais estável) na frente de cada canal; rodar depois de qualquer script que mexa no catálogo |
 | `nomear_fontes.py` | dá nome às fontes do catálogo a partir das listas M3U ("[S03]" vira "Temporada 3"), para os canais 24h mostrarem a temporada |
 | `testar_fontes_vod.py` | testa as fontes do acervo: qualidade de cada uma e quais saíram do ar (só relatório, em `arquivos-gerados/fontes-vod/`) |
 

@@ -51,7 +51,7 @@ CATALOG_CACHE = GENERATED / "catalogo.json"
 REPORT_PATH = GENERATED / "relatorio.json"
 LOCK_FILE = GENERATED / "execucao.lock"
 
-CATALOG_BASE = "https://nexustvplay.bbroot.com/filmes-json/page-{:03d}.json"
+CATALOG_BASE = "https://fallback1.nexustvplay.bbroot.com/filmes-json/page-{:03d}.json"
 API_URL = "https://fallback1.nexustvplay.bbroot.com/api/play/{id}?t"
 
 # Domínio R2 das URLs retornadas pela API — usado para detectar
