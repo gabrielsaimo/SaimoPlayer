@@ -86,6 +86,12 @@ Os apps baixam daqui (via raw do GitHub):
 - `catalogo.txt` — a lista de canais, com fontes em ordem de preferência
 - `vod/` — índice e pedaços do acervo de filmes e séries, destaques e fichas
   (gêneros, capas e ids do TMDB)
+- `vod/destaques.txt` — as fileiras da tela inicial, uma linha por título:
+  `tipo	título	letra	ano	capa	trailer`. O sexto campo é opcional: um
+  trailer direto (`.mp4` ou `.m3u8`, nunca página do YouTube), que o TV Box e
+  o celular tocam sem som no destaque do topo
+- `vod/radios.txt` — as rádios, `nome|endereço|logo`, com o logo opcional.
+  Mantida à mão: `gerar_vod.py` preserva o arquivo ao remontar o acervo
 
 Scripts principais:
 
