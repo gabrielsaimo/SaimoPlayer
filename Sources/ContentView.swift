@@ -11,6 +11,9 @@ struct ContentView: View {
 
     @ObservedObject private var atualizacao = Atualizacao.shared
 
+    /// Em tela cheia a barra de cima (com o botão da lista) some: só o vídeo.
+    @State private var telaCheia = false
+
     var body: some View {
         principal
             .frame(minWidth: 720, minHeight: 460)
@@ -35,6 +38,13 @@ struct ContentView: View {
                     }
                     .help("Mostrar ou ocultar a lista de canais (⇧⌘L)")
                 }
+            }
+            .toolbar(telaCheia ? .hidden : .visible, for: .windowToolbar)
+            .onReceive(NotificationCenter.default.publisher(for: NSWindow.willEnterFullScreenNotification)) { _ in
+                telaCheia = true
+            }
+            .onReceive(NotificationCenter.default.publisher(for: NSWindow.willExitFullScreenNotification)) { _ in
+                telaCheia = false
             }
             .onAppear {
                 if model.detachedList { SidebarWindowController.shared.open(model: model) }
