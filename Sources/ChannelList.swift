@@ -66,7 +66,9 @@ struct ChannelListView: View {
                         if channel.variants.count > 1 {
                             Menu("Escolher Fonte") {
                                 ForEach(Array(channel.variants.enumerated()), id: \.offset) { index, variant in
-                                    Button("Fonte \(index + 1) · \(variant.label ?? "Qualidade não informada")") {
+                                    // Como no TV Box: número, qualidade e o servidor de onde vem.
+                                    Button(([("Fonte \(index + 1)")] + [variant.label, servidor(variant.url)].compactMap { $0 })
+                                        .joined(separator: " · ")) {
                                         model.playVariant(channel, index: index)
                                     }
                                 }
@@ -423,4 +425,10 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
         guard (notification.object as? NSWindow) === window else { return }
         PlayerModel.shared.detachedList = false
     }
+}
+
+/// O nome do servidor de uma fonte ("cdn.exemplo.com"), sem o "www.".
+private func servidor(_ url: URL) -> String? {
+    guard let host = url.host, !host.isEmpty else { return nil }
+    return host.hasPrefix("www.") ? String(host.dropFirst(4)) : host
 }
