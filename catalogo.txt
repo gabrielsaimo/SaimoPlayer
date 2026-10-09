@@ -12,6 +12,9 @@
 #             seção sai do nome do canal
 #   fonte:    acrescenta uma fonte; a primeira é a preferida e o player desce
 #             para a seguinte quando ela falha
+#   nome:     o que diferencia a fonte das outras do canal ("Temporada 3",
+#             "Legendado"); os apps mostram no lugar de "Fonte N". Preenchido
+#             por nomear_fontes.py a partir das listas M3U
 #   referer:  cabeçalho Referer exigido por alguns CDNs
 #   agente:   User-Agent exigido por alguns CDNs
 #   chave:    ClearKey das fontes DASH, no formato KID:CHAVE em hexadecimal
@@ -1011,14 +1014,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72167.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90680.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72169.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/131118.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/131204.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/131171.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/131104.ts
 qualidade: 4K
@@ -1734,14 +1740,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71825.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90713.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71826.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90712.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71827.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90711.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103517.ts
 qualidade: 4K
@@ -2082,14 +2091,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72347.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90668.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72348.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90667.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72349.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90666.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90239.ts
 qualidade: 4K
@@ -2159,14 +2171,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72359.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90659.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72360.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90658.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72361.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90657.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90238.ts
 qualidade: 4K
@@ -2250,14 +2265,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72363.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90656.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72364.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90655.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72365.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90654.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90237.ts
 qualidade: 4K
@@ -2394,14 +2412,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72432.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90650.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72433.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90649.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72434.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90648.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90236.ts
 qualidade: 4K
@@ -3179,14 +3200,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72119.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90698.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72120.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90697.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72133.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90696.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90247.ts
 qualidade: 4K
@@ -3390,14 +3414,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72122.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90695.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72123.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90694.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72124.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90693.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103496.ts
 qualidade: 4K
@@ -3477,14 +3504,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72126.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90692.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72127.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90691.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72128.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90690.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90635.ts
 qualidade: 4K
@@ -3561,14 +3591,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72130.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90689.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72131.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90688.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72132.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90687.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103495.ts
 qualidade: 4K
@@ -3644,14 +3677,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72135.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90686.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72136.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90685.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72137.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90684.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103494.ts
 qualidade: 4K
@@ -3727,14 +3763,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72139.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90683.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72140.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90682.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72141.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90681.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90636.ts
 qualidade: 4K
@@ -3821,14 +3860,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72318.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90677.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72319.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90676.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72320.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90675.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90633.ts
 qualidade: 4K
@@ -3907,14 +3949,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72376.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90674.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72378.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90673.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72379.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90672.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72377.ts
 qualidade: 4K
@@ -3994,14 +4039,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72381.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90671.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72383.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90670.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72384.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90669.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/72382.ts
 qualidade: 4K
@@ -4273,14 +4321,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72355.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90662.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72356.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90661.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72357.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90660.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103455.ts
 qualidade: 4K
@@ -4364,14 +4415,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72351.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90665.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72352.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90664.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72353.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90663.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103456.ts
 qualidade: 4K
@@ -4455,14 +4509,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72367.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90653.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72368.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90652.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/72369.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90651.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/103454.ts
 qualidade: 4K
@@ -4819,14 +4876,17 @@ qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71782.ts
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90716.ts
+nome: Legendado
 qualidade: FHD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71783.ts
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90715.ts
+nome: Legendado
 qualidade: HD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/71784.ts
 qualidade: SD
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/90714.ts
+nome: Legendado
 qualidade: SD
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/90645.ts
 qualidade: 4K
@@ -6377,26 +6437,37 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMzgwNjUubTN1OA.m3u8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138065.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138066.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138067.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138068.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138069.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138070.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138071.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138072.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138073.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138074.ts
+nome: Temporada 10
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138075.ts
+nome: Temporada 11
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138065.ts
 qualidade: Qualidade não informada
@@ -7313,10 +7384,13 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xNTA0ODgubTN1OA.m3u8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/150488.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/150489.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/150490.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/150488.ts
 qualidade: Qualidade não informada
@@ -8627,18 +8701,25 @@ logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_chaves.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137139.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137140.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137141.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137142.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137143.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137144.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137145.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137139.ts
 qualidade: Qualidade não informada
@@ -8696,68 +8777,100 @@ logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_simpsons.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135601.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135600.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135599.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135598.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135597.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135596.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135595.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135594.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135593.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135592.ts
+nome: Temporada 10
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135591.ts
+nome: Temporada 11
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135590.ts
+nome: Temporada 12
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135589.ts
+nome: Temporada 13
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135588.ts
+nome: Temporada 14
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135587.ts
+nome: Temporada 15
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135586.ts
+nome: Temporada 16
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135585.ts
+nome: Temporada 17
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135584.ts
+nome: Temporada 18
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135583.ts
+nome: Temporada 19
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135582.ts
+nome: Temporada 20
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135581.ts
+nome: Temporada 21
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135580.ts
+nome: Temporada 22
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135579.ts
+nome: Temporada 23
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135578.ts
+nome: Temporada 24
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135577.ts
+nome: Temporada 25
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135576.ts
+nome: Temporada 26
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135575.ts
+nome: Temporada 27
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135574.ts
+nome: Temporada 28
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135573.ts
+nome: Temporada 29
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135572.ts
+nome: Temporada 30
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135571.ts
+nome: Temporada 31
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135570.ts
+nome: Temporada 32
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135601.ts
 qualidade: Qualidade não informada
@@ -8911,12 +9024,16 @@ logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_odeiachris.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135469.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135470.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135471.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135472.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135469.ts
 qualidade: Qualidade não informada
@@ -8944,24 +9061,34 @@ logo: https://img.faz-o-eli.online/24h.png
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_friends.txt
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138814.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138815.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138816.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138817.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138818.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138819.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138820.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138821.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138822.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138823.ts
+nome: Temporada 10
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138814.ts
 qualidade: Qualidade não informada
@@ -10733,18 +10860,25 @@ canal: Chapolin Colorado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138000.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138001.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138002.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138003.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138004.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138005.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138006.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138000.ts
 qualidade: Qualidade não informada
@@ -10781,28 +10915,40 @@ canal: Dois Homens e Meio
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137623.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137624.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137625.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137626.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137627.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137628.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137629.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137630.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137631.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137632.ts
+nome: Temporada 10
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137633.ts
+nome: Temporada 11
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/137634.ts
+nome: Temporada 12
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/137623.ts
 qualidade: Qualidade não informada
@@ -10871,6 +11017,7 @@ canal: Dragon Ball Super - Saga Deus da Destruicao Bills
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135484.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135484.ts
 qualidade: Qualidade não informada
@@ -10881,6 +11028,7 @@ canal: Dragon Ball Super - Trunks do Futuro
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135487.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135487.ts
 qualidade: Qualidade não informada
@@ -10901,14 +11049,19 @@ canal: Eu a Patroa e as Criancas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138020.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138021.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138022.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138023.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138024.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138020.ts
 qualidade: Qualidade não informada
@@ -10935,10 +11088,13 @@ canal: Game Shakers
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138007.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138008.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/138009.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/138007.ts
 qualidade: Qualidade não informada
@@ -10967,26 +11123,37 @@ canal: Largados e Pelados
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145928.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145929.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145930.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145931.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145932.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145933.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145934.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145935.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145936.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145937.ts
+nome: Temporada 10
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145938.ts
+nome: Temporada 11
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145928.ts
 qualidade: Qualidade não informada
@@ -11047,12 +11214,16 @@ canal: Nicky Ricky Dicky e Dawn
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145939.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145940.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145941.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/145942.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/145939.ts
 qualidade: Qualidade não informada
@@ -11075,16 +11246,22 @@ canal: Um Maluco no Pedaco
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135445.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135446.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135448.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135449.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135450.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/135451.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/135445.ts
 qualidade: Qualidade não informada
@@ -11252,22 +11429,31 @@ canal: Carros Irado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255224.ts
+nome: Temporada 1
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255225.ts
+nome: Temporada 2
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255226.ts
+nome: Temporada 3
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255227.ts
+nome: Temporada 4
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255228.ts
+nome: Temporada 5
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255229.ts
+nome: Temporada 6
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255230.ts
+nome: Temporada 7
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255231.ts
+nome: Temporada 8
 qualidade: Qualidade não informada
 fonte: http://tvonhdbr.com:80/493754/NqCxf1/255232.ts
+nome: Temporada 9
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/5q8VUj/5BeUd8/255224.ts
 qualidade: Qualidade não informada

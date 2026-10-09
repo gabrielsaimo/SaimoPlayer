@@ -10,6 +10,9 @@ struct Variant: Hashable {
     /// ClearKey (hex) for CENC-encrypted DASH sources.
     var clearKey: String?
     var label: String?
+    /// O que diferencia a fonte das outras do canal ("Temporada 3"), quando o
+    /// catálogo sabe (campo `nome:`); senão aparece o número.
+    var nome: String?
 
     /// AVFoundation cannot play DASH at all, so those always go through the
     /// ffmpeg gateway.

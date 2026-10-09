@@ -83,7 +83,10 @@ no último canal assistido.
 
 Os apps baixam daqui (via raw do GitHub):
 
-- `catalogo.txt` — a lista de canais, com fontes em ordem de preferência
+- `catalogo.txt` — a lista de canais, com fontes em ordem de preferência. Cada
+  fonte pode ter um `nome:` ("Temporada 3", "Legendado") que os apps mostram no
+  lugar de "Fonte N"; nos canais 24h ele sai das listas M3U pelo
+  `nomear_fontes.py`
 - `vod/` — índice e pedaços do acervo de filmes e séries, destaques e fichas
   (gêneros, capas e ids do TMDB)
 - `vod/destaques.txt` — as fileiras da tela inicial, uma linha por título:
@@ -104,6 +107,7 @@ Scripts principais:
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
 | `medir_fontes_local.py`, `medir_resolucao.py` | medem as fontes dos canais |
+| `nomear_fontes.py` | dá nome às fontes do catálogo a partir das listas M3U ("[S03]" vira "Temporada 3"), para os canais 24h mostrarem a temporada |
 | `testar_fontes_vod.py` | testa as fontes do acervo: qualidade de cada uma e quais saíram do ar (só relatório, em `arquivos-gerados/fontes-vod/`) |
 
 ## Publicar uma versão

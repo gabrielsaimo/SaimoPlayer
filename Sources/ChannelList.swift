@@ -66,8 +66,10 @@ struct ChannelListView: View {
                         if channel.variants.count > 1 {
                             Menu("Escolher Fonte") {
                                 ForEach(Array(channel.variants.enumerated()), id: \.offset) { index, variant in
-                                    // Como no TV Box: número, qualidade e o servidor de onde vem.
-                                    Button(([("Fonte \(index + 1)")] + [variant.label, servidor(variant.url)].compactMap { $0 })
+                                    // Como no TV Box: o nome da fonte (a temporada, nos
+                                    // canais 24h) ou o número, a qualidade e o servidor.
+                                    let qualidade = variant.label == "Qualidade não informada" ? nil : variant.label
+                                    Button(([variant.nome ?? "Fonte \(index + 1)"] + [qualidade, servidor(variant.url)].compactMap { $0 })
                                         .joined(separator: " · ")) {
                                         model.playVariant(channel, index: index)
                                     }

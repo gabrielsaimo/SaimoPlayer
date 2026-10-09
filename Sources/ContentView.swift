@@ -673,6 +673,11 @@ private struct SourceBadge: View {
     }
 
     private var rotulo: String {
+        // Canal 24h: a temporada no ar no lugar do número da fonte.
+        if let canal = model.selectedChannel, model.sourceIndex < canal.variants.count,
+           let nome = canal.variants[model.sourceIndex].nome {
+            return model.isLoadingSource ? "carregando \(nome) · \(model.sourceHost)" : "\(nome) · \(model.sourceHost)"
+        }
         let posicao = "\(model.sourceIndex + 1)/\(model.sourceCount)"
         return model.isLoadingSource
             ? "carregando fonte \(posicao) · \(model.sourceHost)"
