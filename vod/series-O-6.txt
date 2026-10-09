@@ -4183,13 +4183,17 @@
 23	3	leg	11:2392690
 23	4	leg	11:2392691
 @One Piece Log Fish Man Island Saga
+1	1	dub	https://embedplayer2.xyz/cdn/hls/480981089cae589dc6ac9e69b495b825/master.txt
 1	1	leg	3:292917,9:292917,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/61576?hash=b68a3a06e059eb9e3f1e1cdf
+1	2	dub	https://embedplayer2.xyz/cdn/hls/9877038043721ab23e02dbb86971e3e0/master.txt
 1	2	leg	3:296606,9:296606
 1	3	dub	https://embedplayer2.xyz/cdn/hls/9185168868e268342ef1e54c4c405a81/master.txt
 1	3	leg	3:296607,9:296607
+1	4	dub	https://embedplayer2.xyz/cdn/hls/8148af31be973e78cec80455097770d6/master.txt
 1	4	leg	3:296828,9:296828,https://cdn-sv01.maximaimg.online/stream/o/one-piece/04.mp4/index.m3u8
 1	5	dub	https://embedplayer2.xyz/cdn/hls/6e462c7d9e4cd8638752852010626908/master.txt
 1	5	leg	3:297362,9:297362
+1	6	dub	https://embedplayer2.xyz/cdn/hls/9e9f157d03dbdd2509860bbdedef7683/master.txt
 1	6	leg	3:297692,9:297692,https://fenixbot.squareweb.app/stream/61581?hash=ca067f61814030df4a5fa735,https://cdn-sv01.maximaimg.online/stream/o/one-piece/06.mp4/index.m3u8
 1	7	dub	https://embedplayer2.xyz/cdn/hls/48b5d500772e767826b76baa30e723a7/master.txt
 1	7	leg	3:299242,9:299242
