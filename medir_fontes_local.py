@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
-"""Mede fontes locais com ffprobe. Uso: python3 -u medir_fontes_local.py
+"""Mede fontes locais com ffprobe.
+
+    python3 -u medir_fontes_local.py                    todas as fontes
+    python3 -u medir_fontes_local.py --sem-qualidade    só as sem qualidade
+                                                        ("Qualidade não informada"
+                                                        ou sem a linha)
 
 Salva progresso retomável e relatório em arquivos-gerados/resolucoes-local.
 Atualiza qualidade no catálogo, sem mudar links nem ordem. Não faz push.
+
+Os servidores das listas são contas Xtream com limite de conexões: no máximo
+duas consultas por servidor ao mesmo tempo, e a fonte que não deu medida é
+tentada de novo no fim, uma por servidor, antes de ficar sem qualidade.
 """
+import argparse
+import collections
 import concurrent.futures
 import datetime
 import fcntl
@@ -11,13 +22,25 @@ import hashlib
 import json
 import re
 import subprocess
+import threading
+import time
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / 'arquivos-gerados/resolucoes-local'
 FILES = [ROOT / 'catalogo.txt', ROOT / 'restritos.txt']
 UA = 'Mozilla/5.0'
 PROBE = '/Applications/Saimo TV.app/Contents/Resources/ffprobe'
+SEM_QUALIDADE = ('', 'Qualidade não informada')
+
+_travas = collections.defaultdict(lambda: threading.Semaphore(2))
+_travas_lock = threading.Lock()
+
+
+def trava(url):
+    with _travas_lock:
+        return _travas[urlsplit(url).netloc.lower()]
 
 
 def atomic(path, value):
@@ -40,10 +63,17 @@ def sources(text):
             yield current
         elif current is not None and field in ('referer', 'agente', 'chave'):
             current[field] = value
+        elif current is not None and field == 'qualidade':
+            # Fora da chave do cache: medir não depende do rótulo de antes.
+            current['_qualidade'] = value
+
+
+def sem_qualidade(source):
+    return source.get('_qualidade', '').strip() in SEM_QUALIDADE
 
 
 def key(source):
-    return hashlib.sha256(json.dumps({k: v for k, v in source.items() if k != 'canal'}, sort_keys=True).encode()).hexdigest()
+    return hashlib.sha256(json.dumps({k: v for k, v in source.items() if k != 'canal' and not k.startswith('_')}, sort_keys=True).encode()).hexdigest()
 
 
 def measure(source):
@@ -57,7 +87,8 @@ def measure(source):
     result = {'motor': PROBE, 'id': key(source), 'canal': source['canal'], 'url': source['url'],
               'data': datetime.datetime.now().isoformat(timespec='seconds')}
     try:
-        process = subprocess.run(command, capture_output=True, timeout=25)
+        with trava(source['url']):
+            process = subprocess.run(command, capture_output=True, timeout=25)
         streams = json.loads(process.stdout or b'{}').get('streams', [])
         dimensions = sorted({(s.get('width', 0), s.get('height', 0)) for s in streams if s.get('width', 0) > 0 and s.get('height', 0) > 0}, key=lambda wh: wh[0]*wh[1])
         if dimensions:
@@ -74,6 +105,9 @@ def measure(source):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--sem-qualidade', action='store_true', help='só as fontes sem qualidade')
+    args = parser.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
     lock = (OUT / 'execucao.lock').open('w')
     fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
@@ -81,6 +115,8 @@ def main():
     requests = {}
     for path in FILES:
         for item in list(sources(path.read_text(encoding='utf-8'))):
+            if args.sem_qualidade and not sem_qualidade(item):
+                continue
             requests.setdefault(key(item), item)
     cached = {}
     progress = OUT / 'progresso.jsonl'
@@ -105,6 +141,18 @@ def main():
             if done % 10 == 0 or done == len(requests):
                 measured = sum(cached[k]['estado'] == 'medida' for k in requests if k in cached)
                 print(f'[{done}/{len(requests)}] {measured} fontes com resolução medida', flush=True)
+        # Segunda chance: falha por limite de conexões some com calma.
+        falhas = [requests[k] for k in requests if cached.get(k, {}).get('estado') != 'medida']
+        if falhas:
+            print(f'{len(falhas)} sem medida; tentando de novo, uma por servidor', flush=True)
+            time.sleep(30)
+            _travas.clear()
+            _travas.default_factory = lambda: threading.Semaphore(1)
+            for item in pool.map(measure, falhas):
+                if item.get('estado') == 'medida' or cached.get(item['id'], {}).get('estado') != 'medida':
+                    cached[item['id']] = item
+                    log.write(json.dumps(item, ensure_ascii=False) + '\n')
+            log.flush()
     for path in FILES:
         # Relê para preservar alterações feitas durante a medição.
         original = path.read_text(encoding='utf-8')
