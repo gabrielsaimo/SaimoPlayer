@@ -1693,6 +1693,7 @@ A ROSA E O GELO DELE	f	A
 A Rainha	f	A
 A Rainha Guerreira (2023)	f	A
 A Rainha Nzinga Chegou	f	A
+A Rainha da Cocaina (2017)	f	A
 A Rainha da Comédia	f	A
 A Rainha da Noite	f	A
 A Rainha do Xadrez	f	A
@@ -3713,6 +3714,8 @@ Avante: Nos Bastidores de Deadpool & Wolverine (2024)	f	A
 Avante: Nos Bastidores de X-Men '97	f	A
 Avassaladoras 2.0	f	A
 Avatar	f	A
+Avatar (2009)	f	A
+Avatar 2 O Caminho da Água (2022)	f	A
 Avatar 3 Fogo e Cinzas	f	A
 Avatar Aang: O Último Mestre do Ar (2026)	f	A
 Avatar Fogo e Cinzas (2025)	f	A
@@ -4091,6 +4094,7 @@ Belo Desastre	f	B
 Belo Desastre: O Casamento	f	B
 Belov: Uma Vida no Mar	f	B
 Belowars	f	B
+Belzebuth (2019)	f	B
 Belzebuth Legendado	f	B
 Belén: Uma História de Injustiça	f	B
 Bem a Tempo para o Natal	f	B
@@ -5827,10 +5831,10 @@ Covil	f	C
 Covil de Ladroes (2018)	f	C
 Covil de Ladrões 2	f	C
 Covil de Lutadores	f	C
+Cowboy Bebop - O Filme (2001)	f	C
 Cowboys & Aliens	f	C
 Cowboys (2020)	f	C
 Coyote Lake Legendado	f	C
-Coyote vs ACME (2026)	f	C
 Coyotes (2025)	f	C
 Cozinha do Bem	f	C
 Cozinhas de Emergência	f	C
@@ -6829,6 +6833,7 @@ Diário Íntimo	f	D
 Diários de Intercâmbio	f	D
 Diários de Motocicleta	f	D
 Django Livre	f	D
+Django Livre (2012)	f	D
 Djinn: Cuidado com o que deseja	f	D
 Djon África	f	D
 Dna Assassino	f	D
@@ -7059,10 +7064,12 @@ Dreamland	f	D
 Dreamland Sonhos E Ilusoes	f	D
 Dreams	f	D
 Dredd	f	D
+Dredd: O Juiz do Apocalipse (2012)	f	D
 Drifter (2023)	f	D
 Drifting Home	f	D
 Drillbit Taylor	f	D
 Drive	f	D
+Drive (2011)	f	D
 Drive My Car	f	D
 Drive-Thru: Fast Food da Morte	f	D
 Driveways	f	D
@@ -7664,9 +7671,11 @@ Era Uma Vez... Um Baile de Natal	f	E
 Era Uma vez no México	f	E
 Era o Hotel Cambridge	f	E
 Era uma Vez no Oeste	f	E
+Era uma Vez no Oeste (1968)	f	E
 Era uma Vez um Deadpool (2018)	f	E
 Era uma Vez um Sonho	f	E
 Era uma Vez uma Estrela (2023)	f	E
+Era uma Vez... (2008)	f	E
 Era uma Vez: Anastasia	f	E
 Era uma vez em Gaza	f	E
 Era uma vez um Estúdio (2023)	f	E
@@ -9072,11 +9081,13 @@ Halloween 1	f	H
 Halloween 14	f	H
 Halloween 2	f	H
 Halloween 3	f	H
+Halloween 3 A Noite das Bruxas (1982)	f	H
 Halloween 4	f	H
 Halloween 5	f	H
 Halloween 6	f	H
 Halloween 7	f	H
 Halloween 8	f	H
+Halloween A Noite do Terror (1978)	f	H
 Halloween Ends	f	H
 Halloween H20: Vinte Anos Depois (1998)	f	H
 Halloween II: O Pesadelo Continua	f	H
@@ -9634,6 +9645,7 @@ Inferno Carnal	f	I
 Inferno Sangrento	f	I
 Inferno Tropical	f	I
 Inferno Vermelho	f	I
+Inferno de Dante Uma Animacao Epica (2010)	f	I
 Inferno de Dante: Uma Animação Épica	f	I
 Inferno na Fronteira	f	I
 Inferno na montanha	f	I
@@ -9841,6 +9853,7 @@ It	f	I
 It Blooms in June	f	I
 It Ends	f	I
 It: A Coisa	f	I
+It: A Coisa (2017)	f	I
 It: Capítulo 2	f	I
 Ivete Sangalo: The Town (2025)	f	I
 Ivy e Bean	f	I
@@ -10455,6 +10468,7 @@ LOVE BY CONTRACTAMOR POR CONTRATO	f	L
 LUCIFER MEU NAMORADO DO INFERNO - LUCIFER MY BOYFRIEND FROM HELL	f	L
 LUNA A HEROINA INESPERADA	f	L
 LUPIN III vs. CAT'S EYE	f	L
+LUPIN III vs. CAT'S EYE (2023)	f	L
 LUPIN III vs. CAT’S EYE	f	L
 LUZES, CAMERA, ACAO (2004)	f	L
 La Bamba	f	L
@@ -10861,7 +10875,6 @@ Love Sarah	f	L
 Love Sonia (2018)	f	L
 Love Will Tear Us Apart (2023)	f	L
 Love You to Debt	f	L
-Love You to Debt (2024)	f	L
 Love and Wine	f	L
 Love in the Forecast	f	L
 Love in the Maldives	f	L
@@ -11294,6 +11307,7 @@ Mamãe Foi Viajar	f	M
 Mamãe Golpista	f	M
 Mamãe Morta e Querida	f	M
 Mamãe É Uma Espiã	f	M
+Mamãe, Virei Um Peixe!	f	M
 Mamãe: Operação Balada	f	M
 Man Down - A Guerra	f	M
 Man Down: O Terror da Guerra	f	M
@@ -11641,7 +11655,6 @@ Melhores A igos: Volume 2	f	M
 Melhores Amigos	f	M
 Melodia do Mal	f	M
 Memorial Day - Lembranças de uma Guerra	f	M
-Memorial Day Lembrancas de uma Guerra (2011)	f	M
 Memorias de um Verao (2025)	f	M
 Memory (2023)	f	M
 Memory Box	f	M
@@ -12142,6 +12155,7 @@ Mo Gilligan: Momentum	f	M
 Moana	f	M
 Moana 2 (2024)	f	M
 Moana Um Mar de Aventuras	f	M
+Moana: Um Mar de Aventuras (2016)	f	M
 Mobile Suit Gundam Hathaway	f	M
 Mobile Suit Gundam SEED FREEDOM	f	M
 Mobile Suit Gundam: Cucuruz Doan's Island	f	M
@@ -12171,6 +12185,7 @@ Monica (2023)	f	M
 Monolith	f	M
 Mononoke - O Filme: Capítulo 2 - As Cinzas da Ira	f	M
 Mononoke - O Filme: O Fantasma na Chuva	f	M
+Mononoke - O Filme: O Fantasma na Chuva (2024)	f	M
 Monos	f	M
 Monsieur Aznavour	f	M
 Monster (2023)	f	M
@@ -12216,6 +12231,7 @@ Morrer Mil Vezes	f	M
 Morro!	f	M
 Mortadelo e Salaminho Missao Inacreditavel (2014)	f	M
 Mortal	f	M
+Mortal (2020)	f	M
 Mortal Kombat	f	M
 Mortal Kombat (2021)	f	M
 Mortal Kombat 1	f	M
@@ -12318,6 +12334,7 @@ Muito Mais que o Esperado (2021)	f	M
 Muito Perto para o Natal	f	M
 Muito Ralph: Vida e Obra de Ralph Lauren	f	M
 Mulan	f	M
+Mulan (1998)	f	M
 Mulan (2020)	f	M
 Mulan 1	f	M
 Mulan 2	f	M
@@ -12343,6 +12360,7 @@ Mulheres Perigosas	f	M
 Mulheres Radicais	f	M
 Mulheres Rebeldes	f	M
 Mulheres ao Ataque	f	M
+Mulheres ao Ataque (2014)	f	M
 Mulheres de Verdade Têm Curvas	f	M
 Mulheres e Filhos	f	M
 Mulheres: Jogar para Ganhar	f	M
@@ -13332,7 +13350,6 @@ O Beijo da Mulher Aranha (1985)	f	O
 O Beijo da Tarântula	f	O
 O Beijo da Traição	f	O
 O Beijo do Demônio	f	O
-O Beijo do Demônio (2023)	f	O
 O Beijo do Dragao	f	O
 O Beijo no Asfalto	f	O
 O Bem Amado	f	O
@@ -13560,6 +13577,7 @@ O Conselheiro do Amor	f	O
 O Conselheiro do Crime (2013)	f	O
 O Contador (2016)	f	O
 O Contador 2	f	O
+O Contador 2 (2025)	f	O
 O Contador de Cartas	f	O
 O Conto	f	O
 O Conto da Princesa Kaguya	f	O
@@ -14035,7 +14053,6 @@ O Grande Mestre 2	f	O
 O Grande Mestre 3	f	O
 O Grande Mestre 4	f	O
 O Grande Mestre 4: A Batalha Final	f	O
-O Grande Mestre 4: A Batalha Final (2019)	f	O
 O Grande Milagre (2012)	f	O
 O Grande Motim	f	O
 O Grande Nado	f	O
@@ -14413,6 +14430,7 @@ O Menino de Asakusa	f	O
 O Menino de Ouro	f	O
 O Menino do Pijama Listrado	f	O
 O Menino e a Garça	f	O
+O Menino e a Garça (2023)	f	O
 O Menino e a Guerra	f	O
 O Menino e o Mestre	f	O
 O Menino e o Tigre	f	O
@@ -14801,6 +14819,7 @@ O Proprio Enterro (2023)	f	O
 O Protetor	f	O
 O Protetor (2014)	f	O
 O Protetor 2	f	O
+O Protetor 2 (2013)	f	O
 O Protetor do Irmão	f	O
 O Protetor: Capitulo Final	f	O
 O Protocolo de Auschwitz (2021)	f	O
@@ -14826,6 +14845,7 @@ O Quarto ao Lado	f	O
 O Quarto de Jack	f	O
 O Quarto de Vidro	f	O
 O Quarto do Bebê	f	O
+O Quarto do Panico (2002)	f	O
 O Quarto do Pânico	f	O
 O Quarto dos Desejos	f	O
 O Que A Natureza Te Conta	f	O
@@ -15111,10 +15131,12 @@ O Sexto Homem	f	O
 O Sexto Sentido	f	O
 O Sexto Ônibus (2022)	f	O
 O Shaolin do Sertao	f	O
+O Shaolin do Sertao (2016)	f	O
 O Show Deve Continuar	f	O
 O Show da Luna: Bichos na Fazenda	f	O
 O Show de Truman	f	O
 O Show de Truman: O Show da Vida	f	O
+O Show de Truman: O Show da Vida (1998)	f	O
 O Show dos Muppets	f	O
 O Silencio E Bem Vindo	f	O
 O Silencio da Cidade Branca (2019)	f	O
@@ -15507,6 +15529,7 @@ Okko e Os Espíritos (2018)	f	O
 Olaf em uma Nova Aventura Congelante de Frozen (2017)	f	O
 Olavo Tem Razão - O Filme	f	O
 Oldboy	f	O
+Oldboy (2003)	f	O
 Oldboy: Dias de Vingança	f	O
 Olga	f	O
 Olha Nos Meus Olhos	f	O
@@ -16254,9 +16277,11 @@ Pandemonium: A Capital do Inferno	f	P
 Pandora: Fire and Ice (2025)	f	P
 Pandorum (2009)	f	P
 Pangolim: A Viagem de Kulu	f	P
+Panico (1996)	f	P
 Panico 2 (1997)	f	P
 Panico 7 (2026)	f	P
 Panico Na Floresta 6	f	P
+Panico na Floresta (2003)	f	P
 Panico na Floresta 2	f	P
 Panico na Floresta 3	f	P
 Panico na Floresta 4	f	P
@@ -16282,6 +16307,7 @@ Papillon	f	P
 Par Perfeito (2010)	f	P
 Para Aqueles que Amamos	f	P
 Para Maiores	f	P
+Para Maiores (2013)	f	P
 Para Neda	f	P
 Para Onde Vamos Quando Morremos? (2019)	f	P
 Para Onde Voam as Feiticeiras	f	P
@@ -16293,6 +16319,7 @@ Para Sempre Alice	f	P
 Para Sempre Amor	f	P
 Para Sempre Chape	f	P
 Para Sempre Cinderela	f	P
+Para Sempre Cinderela (1998)	f	P
 Para Sempre Felicidade	f	P
 Para Sempre Medo	f	P
 Para Sempre Minha (2025)	f	P
@@ -16301,6 +16328,7 @@ Para Sempre Vencedor	f	P
 Para Sempre Você	f	P
 Para Ter Onde Ir	f	P
 Para Todos os Garotos que Já Amei	f	P
+Para Todos os Garotos que Já Amei (2018)	f	P
 Para Todos os Garotos: Agora e Para Sempre	f	P
 Para Todos os Garotos: P.S. Ainda Amo Você	f	P
 Para Wong Foo, Obrigada por Tudo! Julie Newmar	f	P
@@ -16490,6 +16518,7 @@ Pequenos Mágicos (2022)	f	P
 Pequenos Pecados	f	P
 Pequenos Segredos	f	P
 Percy Jackson e Ladrao de Raios	f	P
+Percy Jackson e o Ladrao de Raios (2010)	f	P
 Percy Jackson e o Ladrão de Raios	f	P
 Percy Jackson e o Mar de Monstros (2013)	f	P
 Perda Total (2018)	f	P
@@ -17789,6 +17818,7 @@ Resgate em Medelín	f	R
 Resgate na Mina	f	R
 Resgate no Golfo (2025)	f	R
 Resgate no Oeste	f	R
+Resident Evil (2026)	f	R
 Resident Evil 2: Apocalipse	f	R
 Resident Evil 3: A Extinção	f	R
 Resident Evil 4: Recomeço	f	R
@@ -18206,6 +18236,7 @@ Salvando Leningrado	f	S
 Salvatore: Shoemaker of Dreams	f	S
 Salvação	f	S
 Salve Geral	f	S
+Salve Geral (2009)	f	S
 Salve Geral Irmandade (2026)	f	S
 Salve o Prazer!	f	S
 Salve-Se Quem Puder! (2020)	f	S
@@ -18276,6 +18307,7 @@ Sayen: A Caçadora	f	S
 Sayen: A Rota Seca	f	S
 Saída à Francesa	f	S
 Scarface	f	S
+Scarface (1983)	f	S
 Scarface - A Força do Poder	f	S
 Scarlet	f	S
 Scarlet (2023)	f	S
@@ -18293,6 +18325,7 @@ Scooby-Doo e Krypto - O Supercão (2023)	f	S
 Scooby-Doo e a Caçada Virtual	f	S
 Scooby-Doo e o Abominável Homem das Neves	f	S
 Scooby-Doo e o Fantasma da Bruxa	f	S
+Scooby-Doo e o Monstro do Lago Ness (2004)	f	S
 Scooby-Doo e os Invasores Alienígenas	f	S
 Scooby-Doo em Hollywood	f	S
 Scooby-Doo na Ilha dos Zumbis	f	S
@@ -18318,6 +18351,7 @@ Scooby-Doo! e o Lobisomem	f	S
 Scooby-Doo! em Uma Noite das Arábias	f	S
 Scooby-Doo, Cadê Você Agora!	f	S
 Scooby-Doo: O Filme	f	S
+ScoobyDoo AbracadabraDoo (2010)	f	S
 ScoobyDoo: O Filme (2002)	f	S
 Scoop: O Grande Furo	f	S
 Scott	f	S
@@ -18817,6 +18851,7 @@ Skull: A Máscara de Anhangá	f	S
 Skunk: No Limite da Violência	f	S
 Sky High: Super Escola de Heróis	f	S
 Sky Sharks	f	S
+Skyline - Alem do Horizonte (2017)	f	S
 Skyline: A Invasão	f	S
 Skylines	f	S
 Skylines 3 (2020)	f	S
@@ -18898,10 +18933,14 @@ Sobre Ontem a Noite	f	S
 Sobre Rodas	f	S
 Sobre Sonhos e Liberdade	f	S
 Sobrenatural	f	S
+Sobrenatural (2011)	f	S
 Sobrenatural A Porta Vermelha (2023)	f	S
 Sobrenatural: A Origem	f	S
+Sobrenatural: A Origem (2015)	f	S
+Sobrenatural: A Ultima Chave (2018)	f	S
 Sobrenatural: A Última Chave	f	S
 Sobrenatural: Agora Entre Nós (2026)	f	S
+Sobrenatural: Capitulo 2 (2013)	f	S
 Sobrenatural: Capítulo 2	f	S
 Sobreviva a Noite (2019)	f	S
 Sobreviva ao Jogo	f	S
@@ -19015,6 +19054,7 @@ Sookshmadarshini	f	S
 Sooryavanshi	f	S
 Soror	f	S
 Sorria	f	S
+Sorria (2022)	f	S
 Sorria 2 (2024)	f	S
 Sorria, Você Está Sendo Filmado (2015)	f	S
 Sorry, Baby (2025)	f	S
@@ -19042,6 +19082,7 @@ South Park: Guerras do Streaming Parte 2	f	S
 South Park: O Fim da Obesidade	f	S
 South Park: Post Covid	f	S
 South Park: Pós-Covid	f	S
+South Park: Pós-Covid - A Volta Da Covid (2021)	f	S
 South Park: Pós-Covid: A Volta Da Covid	f	S
 South of Heaven	f	S
 Southland Tales O Fim do Mundo	f	S
@@ -19946,6 +19987,7 @@ The Space Race (2023)	f	T
 The Spirit: O Filme	f	T
 The Starling Girl	f	T
 The Surrender	f	T
+The Swan: Behind the Mirror	f	T
 The Sweet East	f	T
 The Tax Collector	f	T
 The Terminators	f	T
@@ -21208,6 +21250,7 @@ Uma Melodia para Relembrar	f	U
 Uma Mensagem Antes do Natal	f	U
 Uma Mensagem Através do Tempo	f	U
 Uma Mente Brilhante	f	U
+Uma Mente Brilhante (2001)	f	U
 Uma Missão de Fé	f	U
 Uma Mulher Astuta	f	U
 Uma Mulher Comum (2025)	f	U
@@ -22369,6 +22412,7 @@ Zona Desmilitarizada	f	Z
 Zona Fria	f	Z
 Zona Verde (2010)	f	Z
 Zona Z	f	Z
+Zona Zero	f	Z
 Zona de Caça	f	Z
 Zona de Combate (2021)	f	Z
 Zona de Confronto	f	Z
@@ -22524,6 +22568,7 @@ xXx Reativado (2017)	f	X
 É Amor (2022)	f	E
 É Amor?	f	E
 É Assim Que Acaba	f	E
+É Assim Que Acaba (2024)	f	E
 É Como Se Ninguém Me Entendesse	f	E
 É Culpa da Alegria	f	E
 É Doce!	f	E
@@ -22560,6 +22605,7 @@ xXx Reativado (2017)	f	X
 Última Chamada para Istambul	f	U
 Última Parada (2026)	f	U
 Última Parada 174	f	U
+Última Parada 174 (2008)	f	U
 Última Viagem a Vegas	f	U
 Últimas Palavras	f	U
 Último Momento de Clareza (2020)	f	U
@@ -25268,7 +25314,6 @@ De Volta as Raizes	s	D	2023
 De Volta pra Pista	s	D
 De Volta à Terra	s	D
 De la vida al plato	s	D
-De volta para você	s	D
 Dead Like Me A Morte Lhe Cai Bem	s	D
 Dead Mount Death Play	s	D
 Deadbeat	s	D
@@ -32561,7 +32606,6 @@ Zero	s	Z
 Zero no Tsukaima	s	Z
 ZeroZeroZero	s	Z
 Zig e Sharko	s	Z
-Zmora	s	Z
 Zoe e Raven	s	Z
 Zoey e Sua Fantástica Playlist	s	Z
 Zoey e a Sua Fantástica Playlist	s	Z

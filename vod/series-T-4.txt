@@ -1337,14 +1337,14 @@
 3	38	dub	11:2176332,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74903.mp4
 3	39	dub	11:2176333,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/74904.mp4
 @Time	2021
-1	1	dub	https://embedplayer2.xyz/cdn/hls/bf1470c9b436b9322519fdc857810662/master.txt,11:2122010,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129389.mp4
+1	1	dub	https://embedplayer2.xyz/cdn/hls/bf1470c9b436b9322519fdc857810662/master.txt,11:2122010,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129389.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/61237?hash=1efb2c403eaa26dd5b9c735d
 1	1	leg	11:2297534
 1	2	dub	https://embedplayer2.xyz/cdn/hls/e563f940227513b6d6cb784bed659744/master.txt,11:2122011,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129390.mp4
 1	2	leg	11:2297535
 1	3	dub	https://embedplayer2.xyz/cdn/hls/2018c5eb8a3a95d7dbf065ce0898b076/master.txt,11:2122012,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129391.mp4
 1	3	leg	11:2297536
 1	4	dub	https://embedplayer2.xyz/cdn/hls/d49375bb7747c04e78953ed7b414a05b/master.txt,11:2122013,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129392.mp4
-2	1	dub	https://embedplayer2.xyz/cdn/hls/ace1b1c7991364d7e5f387652276de7e/master.txt,11:2122014,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129393.mp4
+2	1	dub	https://embedplayer2.xyz/cdn/hls/ace1b1c7991364d7e5f387652276de7e/master.txt,11:2122014,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129393.mp4,https://fenixbot.squareweb.app/stream/61263?hash=7d2e18cfec07c9042ee39281
 2	1	leg	11:2297537
 2	2	dub	https://embedplayer2.xyz/cdn/hls/63d0ce78a68e8f93d67c051fb8fdd4fd/master.txt,11:2122015,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129394.mp4
 2	2	leg	11:2297538
@@ -2506,7 +2506,7 @@
 1	5	dub	11:2218361,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/158810.mp4
 1	6	dub	11:2218362,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/158811.mp4
 @Tokyo Revengers
-1	1	dub	11:2141816,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222745.mp4
+1	1	dub	11:2141816,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222745.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/60046?hash=f368ab51fea3c0777693ec2c
 1	2	dub	11:2141817,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222746.mp4
 1	3	dub	11:2141818,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222747.mp4
 1	4	dub	11:2141819,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/222748.mp4

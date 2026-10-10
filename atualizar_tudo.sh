@@ -2,23 +2,24 @@
 #
 # Atualiza o catálogo inteiro e as fileiras da tela inicial, e publica.
 #
-# Cinco passos, nesta ordem, porque cada um lê o que o anterior escreveu:
+# Seis passos, nesta ordem, porque cada um lê o que o anterior escreveu:
 #
 #   1. atualizar_redeflix.py  filmes e séries novos do Redeflix (vod/redeflix)
 #   2. atualizar_redeflix.py  animes e doramas: episódios novos e títulos novos
-#   3. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
+#   3. atualizar_fenix.py     fontes do FenixFlix (vod/fenix): o que falta ou
+#                             envelheceu, no máximo 12.000 perguntas por dia
+#   4. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
 #                             o Redeflix resolveu, sem perder os links antigos;
 #                             as fontes do FenixFlix já coletadas (vod/fenix)
 #                             entram por último em cada título
-#   4. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
+#   5. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
 #                             pergunta ao TMDB pelos que ainda não conhece
-#   5. gerar_destaques.py     as fileiras da tela inicial
+#   6. gerar_destaques.py     as fileiras da tela inicial
 #
-# O FenixFlix (atualizar_fenix.py) saiu da rodada diária em 27/09/2026: numa
-# passada inteira ele tinha link aproveitável em 59 das 11.445 séries e em
-# quase nenhum filme — os de filme vêm com prazo e chegam vencidos —, a uns 8
-# segundos por consulta. Uma hora por dia não compensa. O script continua
-# aqui para rodar à mão se o Fenix melhorar.
+# O FenixFlix ficou fora da rodada de 27/09 a 10/10/2026 (cobria pouco). Voltou
+# em 10/10: o Redeflix passou a cair (HTTP 520) e o Fenix é a fonte a mais que
+# segue no ar. Cada resposta fica guardada (3 dias a que tem link, 14 a vazia),
+# então a rodada diária só pergunta o que é novo ou envelheceu.
 #
 # Até 21/09/2026 só o 1, o 2 e o 5 rodavam: os filmes e séries novos ficavam
 # resolvidos em vod/redeflix sem que app nenhum os lesse, anime novo nunca
@@ -127,6 +128,10 @@ if [ "$somente_destaques" = 0 ]; then
   anotar "procurando dublado do que só tem legendado$([ "$dias_dublados" = 0 ] && echo " (tudo de novo)")"
   python3 dublar_legendados.py --workers 96 --dias-repescagem "$dias_dublados" \
     >>"$REGISTRO" 2>&1 || anotar "dublados: falhou, seguindo assim mesmo"
+
+  anotar "fontes do FenixFlix"
+  python3 atualizar_fenix.py --limite 12000 --workers 80 \
+    >>"$REGISTRO" 2>&1 || anotar "FenixFlix: falhou, seguindo assim mesmo"
 
   # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
   # parar a atualização inteira por causa de uma lista M3U fora do ar.

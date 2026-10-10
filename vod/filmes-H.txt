@@ -29,22 +29,24 @@ Hallow Road	dub=https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a81
 Hallow Road Caminho Sem Volta (2025)	dub=https://embedplayer2.xyz/cdn/hls/c28d75064397ac4d7dd7031c8857a819/master.txt,10:2444501,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98402.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74095.mp4
 Halloween '63	dub=10:2451859
 Halloween '87	dub=10:2452412
-Halloween (2018)	dub=https://embedplayer2.xyz/cdn/hls/757a97139078877f5799aa92d2cbd55b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56126.mp4,10:2451704
-Halloween - A Noite do Terror	dub=10:2452068,10:2457866,10:2457990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49039.mp4
+Halloween (2018)	dub=https://embedplayer2.xyz/cdn/hls/757a97139078877f5799aa92d2cbd55b/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56126.mp4,10:2451704,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/61147?hash=e817d9b9e09ce9c7d601cfa9
+Halloween - A Noite do Terror	dub=10:2452068,10:2457866,10:2457990,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49039.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/61147?hash=e817d9b9e09ce9c7d601cfa9
 Halloween - O Espantalho Assassino	dub=https://embedplayer2.xyz/cdn/hls/0cb79f3d16db83f10f0331cf2fbec33b/master.txt,10:2444589,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253692.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254754.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253683.mp4
 Halloween 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49043.mp4
 Halloween 14	dub=10:2451587
 Halloween 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49049.mp4
 Halloween 3	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49045.mp4
+Halloween 3 A Noite das Bruxas (1982)	dub=https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/61149?hash=83cce97981f13e43a87580f2
 Halloween 4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49053.mp4
 Halloween 5	dub=10:2452509,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49059.mp4
 Halloween 6	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49062.mp4
 Halloween 7	dub=10:2453009,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49055.mp4
 Halloween 8	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49065.mp4
+Halloween A Noite do Terror (1978)	dub=https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/61147?hash=e817d9b9e09ce9c7d601cfa9
 Halloween Ends	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56130.mp4,10:2451504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49070.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74116.mp4
 Halloween H20: Vinte Anos Depois (1998)	dub=https://embedplayer2.xyz/cdn/hls/fc6989422ac609ff3dbe0080c838c75f/master.txt,10:2457915
 Halloween II: O Pesadelo Continua	dub=10:2451750,10:2457967,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49077.mp4
-Halloween III: A Noite das Bruxas	dub=10:2457889
+Halloween III: A Noite das Bruxas	dub=10:2457889,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/61149?hash=83cce97981f13e43a87580f2
 Halloween Kills: O Terror Continua	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56140.mp4,10:2452067,10:2457845,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74122.mp4
 Halloween Macabro	dub=10:2457824
 Halloween: A Lenda de Jack	dub=10:2457940
@@ -278,7 +280,7 @@ Hoje Consertamos o Mundo	dub=10:2457620,http://dbonline.tech-cdn.top:80/movie/ke
 Hoje Falaremos sobre Aquele Dia	dub=10:2456893,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26715.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74533.mp4
 Hoje Você Morre	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315663.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315685.mp4
 Hokum O Pesadelo da Bruxa (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306259.mp4,10:2444246,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306437.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301113.mp4
-Holland (2025)	dub=https://embedplayer2.xyz/cdn/hls/38f86ef1c73e3704122a3a3e9c98e859/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56184.mp4,10:2444386,10:2445632,10:2449285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44670.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74538.mp4
+Holland (2025)	dub=https://embedplayer2.xyz/cdn/hls/38f86ef1c73e3704122a3a3e9c98e859/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56184.mp4,10:2444386,10:2445632,10:2449285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44670.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1096?hash=316e19b2ea3372af7b2f36b3	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74538.mp4
 HollyBlood	dub=10:2461374,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15546.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74543.mp4
 Holmes e Watson	dub=10:2449350,10:2461639,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15551.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74544.mp4
 Holocausto Brasileiro	dub=10:2452862
@@ -303,10 +305,10 @@ Homem de Ferro 2 (2010)	dub=https://embedplayer2.xyz/cdn/hls/d0800940bb817ef4d20
 Homem de Ferro 3 (2013)	dub=https://embedplayer2.xyz/cdn/hls/d2d04944487b28db8cd07f48c9aca03a/master.txt,10:2453656,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4076.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311873.mp4
 Homem de Ferro: A Batalha Contra Ezekiel Stane	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256199.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256214.mp4
 Homem de Fé	dub=10:2457514,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/26720.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74554.mp4
-Homem-Aranha	dub=10:2454340,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4081.mp4
+Homem-Aranha	dub=10:2454340,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4081.mp4	leg=https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/62866?hash=cfa2881202032b131609f423
 Homem-Aranha: Sem Volta Para Casa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56220.mp4,10:2444290,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35929.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74589.mp4
-Homem-Aranha: Um Novo Dia	dub=10:2444297,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311018.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310642.mp4
-Homem-Aranha: Um Novo Dia (2026)	dub=10:2472644
+Homem-Aranha: Um Novo Dia	dub=10:2444297,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311018.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/63320?hash=18c3fd04f4166a9b8738eb60	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310642.mp4
+Homem-Aranha: Um Novo Dia (2026)	dub=10:2472644,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/63320?hash=18c3fd04f4166a9b8738eb60	leg=https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/62866?hash=cfa2881202032b131609f423
 Homem-Formiga	dub=10:2453864,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4096.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311875.mp4
 Homem-Formiga e a Vespa	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56200.mp4,10:2454285,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4088.mp4
 Homem-Formiga e a Vespa: Quantumania	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56225.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/74586.mp4

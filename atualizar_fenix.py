@@ -15,6 +15,10 @@ O que sai daqui vai para vod/fenix/, no mesmo formato do Redeflix, e o
 gerar_vod.py junta essas fontes **depois** das que o título já tinha: são
 opções a mais, não substitutas.
 
+Os filmes perguntados são todos os que têm ficha (vod/fichas.txt), não só os
+publicados: título que saiu do acervo por ficar sem fonte volta se o Fenix
+tiver.
+
 Fica de fora:
 
 - link com token de tempo no endereço (".../t/1790471865.abc.../..."): o Fenix
@@ -64,6 +68,11 @@ TOKEN_DE_TEMPO = re.compile(r"/t/\d{9,11}\.[0-9a-f]{16,}/", re.I)
 # O mesmo problema em outra forma: "?md5=...&expires=1790468146". O embedplayer
 # que o Fenix devolve vem assim, e já vencido na hora da consulta.
 VENCIMENTO = re.compile(r"[?&](?:expires|exp|e|expiry|validto|until)=\d{9,11}(?:&|$)", re.I)
+
+
+# Respostas guardadas antes desta versão só cobriam os filmes publicados:
+# valem como vencidas e são perguntadas de novo.
+VERSAO = 2
 
 
 def vence(url: str) -> bool:
@@ -178,13 +187,15 @@ def ler_imdb_do_redeflix() -> dict[str, str]:
     return achados
 
 
-def filmes_do_acervo() -> list[str]:
+def filmes_do_acervo(fichas: dict[tuple[str, str], int]) -> list[str]:
+    """Os publicados e os que têm ficha mas saíram do acervo sem fonte."""
     titulos = []
     for arquivo in sorted(VOD.glob("filmes-*.txt")):
         for linha in arquivo.read_text(encoding="utf-8").splitlines():
             titulo = linha.split("\t", 1)[0]
             if titulo:
                 titulos.append(titulo)
+    titulos += [titulo for tipo, titulo in fichas if tipo == "f"]
     return list(dict.fromkeys(titulos))
 
 
@@ -248,7 +259,7 @@ def consultar(caminho: str, respostas: Guardado, contador: dict) -> list[list[st
     """As fontes aproveitáveis de um filme ou episódio: [[idioma, url], ...]."""
     agora = time.time()
     guardada = respostas.get(caminho)
-    if guardada:
+    if guardada and guardada.get("v") == VERSAO:
         validade = VALIDADE_ACHADO if guardada["f"] else VALIDADE_VAZIO
         if agora - guardada["t"] < validade:
             return [f for f in guardada["f"] if not vence(f[1])]
@@ -282,7 +293,7 @@ def consultar(caminho: str, respostas: Guardado, contador: dict) -> list[list[st
             continue
         texto = " ".join(str(bruto.get(k) or "") for k in ("name", "title", "description"))
         fontes.append([idioma(texto), url])
-    respostas.put(caminho, {"t": agora, "f": fontes})
+    respostas.put(caminho, {"t": agora, "f": fontes, "v": VERSAO})
     return fontes
 
 
@@ -404,7 +415,7 @@ def main() -> int:
 
     # ── Filmes: depois; quase todo link de filme vem com prazo e é descartado ──
     if not args.so_series:
-        titulos = filmes_do_acervo()
+        titulos = filmes_do_acervo(fichas)
         if args.amostra:
             titulos = titulos[:args.amostra]
         print(f"filmes no acervo: {len(titulos)}", flush=True)

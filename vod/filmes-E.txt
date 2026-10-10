@@ -330,7 +330,7 @@ Encantada	dub=10:2458607,10:2461802,http://dbonline.tech-cdn.top:80/movie/ke-vin
 Encantado	dub=10:2459578
 Encantado (2018)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9444.mp4
 Encantadora de Tubarões	dub=https://embedplayer2.xyz/cdn/hls/a32dbe9f963aac43e9d713f0c055c9aa/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311822.mp4,10:2453181	leg=10:2449326,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71312.mp4
-Encanto (2021)	dub=https://embedplayer2.xyz/cdn/hls/5550cd91c5482efc96a97226569ce41d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55747.mp4,10:2459279,10:2461716,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14865.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71307.mp4
+Encanto (2021)	dub=https://embedplayer2.xyz/cdn/hls/5550cd91c5482efc96a97226569ce41d/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55747.mp4,10:2459279,10:2461716,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14865.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/60620?hash=6e1028fd61ba0ea0f20cc0cc,https://speed2.megafilmeshd9.com/midia/speed-4/2138945.mp4?tipo=movie&tmdb=568124&title=Encanto&ano=2021&idioma=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71307.mp4
 Encanto Quebrado	dub=10:2444761,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309845.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309849.mp4
 Encanto no Hollywood Bowl (2022)	leg=https://embedplayer2.xyz/cdn/hls/12fa820121f71890c7389aadf43a271e/master.txt
 Enclausurados	dub=10:2445286,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48614.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71317.mp4
@@ -500,9 +500,9 @@ Era Uma Vez Um Principe	dub=10:2446604,http://dbonline.tech-cdn.top:80/movie/ke-
 Era Uma Vez em Londres	dub=10:2459707,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21353.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71675.mp4
 Era Uma Vez em Nova York	dub=10:2455433,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25802.mp4
 Era Uma Vez em… Hollywood	dub=10:2455763,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25811.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71690.mp4
-Era Uma Vez na China 2	dub=10:2457822
-Era Uma Vez na China 3	dub=10:2447294,10:2453640,10:2458003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3545.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71689.mp4
-Era Uma Vez na China e na América	dub=10:2457867
+Era Uma Vez na China 2	dub=10:2457822	leg=https://dj0vkl2i4vsbo.cloudfront.net/convert/A%20Savage%20Bet%20for%20a%20Dangerous%20Heart/en/2025-06-11%2009:37:27/1_.m3u8
+Era Uma Vez na China 3	dub=10:2447294,10:2453640,10:2458003,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3545.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71689.mp4,https://dj0vkl2i4vsbo.cloudfront.net/convert/A%20Savage%20Bet%20for%20a%20Dangerous%20Heart/en/2025-06-11%2009:37:27/1_.m3u8
+Era Uma Vez na China e na América	dub=10:2457867	leg=https://dj0vkl2i4vsbo.cloudfront.net/convert/A%20Savage%20Bet%20for%20a%20Dangerous%20Heart/en/2025-06-11%2009:37:27/1_.m3u8
 Era Uma Vez no Natal	dub=10:2445196
 Era Uma Vez um Boneco de Neve	dub=10:2459607,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9479.mp4
 Era Uma Vez um Colchão	dub=10:2460715,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/14955.mp4
@@ -510,10 +510,12 @@ Era Uma Vez um Gênio	dub=10:2458712,http://dbonline.tech-cdn.top:80/movie/ke-vi
 Era Uma Vez... Um Baile de Natal	dub=https://embedplayer2.xyz/cdn/hls/fe3f2e65a64070c30f97b04b1fdb5785/master.txt,10:2445216,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/472.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71710.mp4
 Era Uma vez no México	dub=10:2447144,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3550.mp4
 Era o Hotel Cambridge	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301309.mp4
-Era uma Vez no Oeste	dub=10:2446909,10:2457733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35004.mp4
+Era uma Vez no Oeste	dub=10:2446909,10:2457733,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35004.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1162?hash=8292ef7b57a1be2a4e9febe5
+Era uma Vez no Oeste (1968)	dub=https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1162?hash=8292ef7b57a1be2a4e9febe5
 Era uma Vez um Deadpool (2018)	dub=https://embedplayer2.xyz/cdn/hls/82a8d4362720e1562ff07ca2bfc93966/master.txt,10:2454438,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/3552.mp4
 Era uma Vez um Sonho	dub=10:2457190,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25807.mp4
 Era uma Vez uma Estrela (2023)	dub=https://embedplayer2.xyz/cdn/hls/5aa381392c84e871998b47ca833206d6/master.txt,10:2457465,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25793.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71701.mp4
+Era uma Vez... (2008)	dub=https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/1162?hash=8292ef7b57a1be2a4e9febe5
 Era uma Vez: Anastasia	dub=10:2458390,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33886.mp4
 Era uma vez em Gaza	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71665.mp4
 Era uma vez um Estúdio (2023)	dub=https://embedplayer2.xyz/cdn/hls/7933666399166e99546530778af60bbb/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55771.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9482.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71715.mp4
@@ -726,7 +728,7 @@ Eu Não Sou Tudo O Que Eu Quero Ser	leg=http://dbonline.tech-cdn.top:80/movie/ke
 Eu Não Sou um Robô	dub=10:2460822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15080.mp4
 Eu Odeio o Big Broder	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38191.mp4
 Eu Posso Ouvir Sua Voz	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303403.mp4
-Eu Posso Ouvir o Oceano (1993)	leg=https://embedplayer2.xyz/cdn/hls/3f57e57fbecfdfaa94aec023946af2ce/master.txt
+Eu Posso Ouvir o Oceano (1993)	leg=https://embedplayer2.xyz/cdn/hls/3f57e57fbecfdfaa94aec023946af2ce/master.txt,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/59933?hash=240209c70f609f611149a5d1
 Eu Queria Ter a Sua Vida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290725.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290765.mp4
 Eu Receberia as Piores Notícias dos Seus Lindos Lábios	dub=10:2451076,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38205.mp4
 Eu Sei o Que Vocês Fizeram no Verão Passado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55806.mp4,10:2451770,10:2452504,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/48757.mp4	leg=10:2450037,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/71998.mp4
@@ -874,7 +876,8 @@ ela disse Blake Lively contra Justin Baldoni	leg=http://dbonline.tech-cdn.top:80
 eu sou do futuro	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35817.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/72025.mp4
 É Amor (2022)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307317.mp4
 É Amor?	dub=10:2445103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1334.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301287.mp4
-É Assim Que Acaba	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59425.mp4,10:2446375,10:2449229,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43416.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96488.mp4
+É Assim Que Acaba	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59425.mp4,10:2446375,10:2449229,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43416.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/557?hash=7e971bcb9933979fd9d6ab4d	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96488.mp4
+É Assim Que Acaba (2024)	dub=https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/557?hash=7e971bcb9933979fd9d6ab4d
 É Como Se Ninguém Me Entendesse	dub=10:2456182,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33312.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96509.mp4
 É Culpa da Alegria	dub=10:2461109,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21026.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96504.mp4
 É Doce!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11838.mp4

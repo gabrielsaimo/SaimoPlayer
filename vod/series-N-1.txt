@@ -170,6 +170,7 @@
 4	13	dub	11:2223021
 4	14	dub	11:2223022
 @NieR:Automata Ver1.1a
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/59745?hash=8af77b6085a46221458dd878
 1	1	leg	11:2290203
 1	2	leg	11:2290204
 1	3	leg	11:2290205
@@ -1503,7 +1504,7 @@
 2	3	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/306557.mp4
 @Noragami
 1	1	dub	11:2171396,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31337.mp4
-1	1	leg	https://fenixbot.squareweb.app/stream/50497?hash=51578687a16203ab59c58120
+1	1	leg	https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/50497?hash=51578687a16203ab59c58120
 1	2	dub	11:2171397,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31339.mp4
 1	3	dub	11:2171398,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31340.mp4
 1	4	dub	11:2171399,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31341.mp4

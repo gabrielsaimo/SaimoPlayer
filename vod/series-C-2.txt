@@ -2483,7 +2483,7 @@
 1	142	dub	11:2322028,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/173219.mp4
 1	143	dub	11:2322029,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/173220.mp4
 @Chernobyl	2019
-1	1	dub	https://embedplayer2.xyz/cdn/hls/6662d234addae5f90bf6d06cb397f603/master.txt,11:2212974,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5356.mp4
+1	1	dub	https://embedplayer2.xyz/cdn/hls/6662d234addae5f90bf6d06cb397f603/master.txt,11:2212974,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5356.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/60615?hash=9a0266daa1007175786487ea
 1	2	dub	https://embedplayer2.xyz/cdn/hls/ea185ff09209d1cc12af52da12388e6a/master.txt,11:2212975,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5357.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/d900e31166522402ee294075b7ae19ef/master.txt,11:2212976,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5358.mp4
 1	4	dub	https://embedplayer2.xyz/cdn/hls/c8963574daded126444138d12e4fff43/master.txt,11:2212977,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/5360.mp4
@@ -5014,7 +5014,7 @@
 1	3	dub	11:2272167,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/99520.mp4
 1	4	dub	11:2272168,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/99522.mp4
 @Chosen
-1	1	dub	11:2156058,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207059.mp4
+1	1	dub	11:2156058,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207059.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/1224?hash=8ef958df18a0f75cd3c54835
 1	2	dub	11:2156059,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207060.mp4
 1	3	dub	11:2156060,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207061.mp4
 1	4	dub	11:2156061,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/207062.mp4

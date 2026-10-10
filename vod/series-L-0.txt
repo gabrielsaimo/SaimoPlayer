@@ -1527,14 +1527,13 @@
 1	25	dub	11:2471440
 1	26	dub	11:2471441
 @Lanternas	2026
-1	1	dub	https://embedplayer2.xyz/cdn/hls/bea6120b4e0802e8710f7b5bb57a47dd/master.txt,11:2469516,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312812.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/50882?hash=984b5700234d0441dab2cb3a,https://fenixbot.squareweb.app/stream/54199?hash=64d36f3f08e9b21f43f33853
+1	1	dub	https://embedplayer2.xyz/cdn/hls/bea6120b4e0802e8710f7b5bb57a47dd/master.txt,11:2469516,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/312812.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/54199?hash=64d36f3f08e9b21f43f33853
 1	2	dub	https://embedplayer2.xyz/cdn/hls/f95a6ce2811727d7de1cd1d2da6d89d8/master.txt,11:2469517,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313474.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/c0a19f608a12fd1c4b08a9a6ca933f22/master.txt,11:2469518,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314741.mp4
 1	4	dub	https://embedplayer2.xyz/cdn/hls/978062a8b933cb3ab84f559d6e646ecb/master.txt,11:2469519,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/314742.mp4
 1	5	dub	https://embedplayer2.xyz/cdn/hls/64578b152c79fcfe7dac2429be169c4e/master.txt,11:2470597,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316247.mp4
 1	6	dub	11:2471013
 1	7	dub	11:2472079
-1	8	dub	https://fenixbot.squareweb.app/stream/62715?hash=efeaa5afce5b2609907a7edf
 @Lar Sombrio Lar
 1	1	dub	11:2127825,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123083.mp4
 1	2	dub	11:2127826,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123084.mp4
