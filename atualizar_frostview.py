@@ -4,7 +4,10 @@
 Uso: python3 atualizar_frostview.py --aplicar
 Sem --aplicar, somente gera o inventário e o relatório em arquivos-gerados/frostview.
 Os URLs são mantidos como retornados pela API, sem decodificar o relay.
-As demais fontes são preservadas; resolução não anunciada fica como desconhecida.
+Num canal que a API ainda entrega, a fonte FrostView que ela não devolve mais
+sai (o relay troca de endereço quando o servidor por trás muda); se a API não
+devolve nada para o canal, as antigas ficam. As demais fontes são preservadas;
+resolução não anunciada fica como desconhecida.
 """
 import argparse
 import concurrent.futures
@@ -75,6 +78,19 @@ def label_and_prioritize(block, streams):
     return pieces[0] + ''.join(piece for _, piece in sources) + '\n'
 
 
+def is_frostview(url):
+    return 'frostview' in urllib.parse.urlsplit(url).netloc.lower()
+
+
+def drop_stale(block, urls):
+    """Tira do bloco as fontes FrostView que a API não devolve mais."""
+    pieces = re.split(r'(?m)(?=^fonte: )', block)
+    kept = [piece for piece in pieces[1:]
+            if not (is_frostview(piece.splitlines()[0][7:].strip())
+                    and piece.splitlines()[0][7:].strip() not in urls)]
+    return pieces[0] + ''.join(kept), len(pieces) - 1 - len(kept)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--aplicar', action='store_true')
@@ -127,7 +143,7 @@ def main():
     catalog_path = ROOT / 'catalogo.txt'
     original = catalog_path.read_text(encoding='utf-8')
     blocks = re.split(r'(?m)(?=^canal: )', original)
-    matched, updated, added = set(), [], 0
+    matched, updated, added, removed = set(), [], 0, 0
     for index, block in enumerate(blocks):
         if not block.startswith('canal: '):
             continue
@@ -139,6 +155,11 @@ def main():
         matched.add(item['id'])
         existing = set(re.findall(r'^fonte: (.+)$', block, re.M))
         urls = list(dict.fromkeys(s['url'] for s in item['streams']))
+        if urls:
+            block, gone = drop_stale(block, set(urls))
+            if gone:
+                blocks[index] = block
+                removed += gone
         fresh = [url for url in urls if url not in existing and '\n' not in url and '\r' not in url]
         if fresh:
             blocks[index] = block.rstrip() + '\n' + ''.join('fonte: ' + url + '\n' for url in fresh) + '\n'
@@ -151,6 +172,7 @@ def main():
         'fontes_retornadas': sum(len(item['streams']) for item in results),
         'canais_atualizados': updated,
         'reservas_adicionadas': added,
+        'antigas_removidas': removed,
         'sem_correspondencia': [{'id': i['id'], 'nome': i['name']} for i in results if i['id'] not in matched],
         'sem_fontes': [i['name'] for i in results if not i['streams']],
         'erros': [i['name'] for i in results if i.get('error')],
@@ -161,7 +183,7 @@ def main():
         atomic(output / 'catalogo-antes.txt', original)
         atomic(catalog_path, ''.join(blocks).rstrip() + '\n')
     atomic(output / 'relatorio.json', json.dumps(report, ensure_ascii=False, indent=2) + '\n')
-    print(f'Concluído: {len(results)} canais, {len(updated)} correspondências com novas reservas, {added} reservas. Aplicado: {args.aplicar}', flush=True)
+    print(f'Concluído: {len(results)} canais, {len(updated)} correspondências com novas reservas, {added} reservas, {removed} antigas removidas. Aplicado: {args.aplicar}', flush=True)
     print(f'Relatório: {output / "relatorio.json"}', flush=True)
 
 
