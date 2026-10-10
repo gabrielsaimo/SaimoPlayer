@@ -299,7 +299,7 @@ canal: Band
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
 
-fonte: http://138.204.86.4:8080/BAND_HD/index.m3u8
+fonte: https://138.204.86.4/BAND_HD/index.m3u8
 fonte: https://media.cdntvms.com.br/band_sat/index.m3u8
 qualidade: SD · 1024x576
 fonte: http://64.31.23.207:80/59471019/60849037/324357.m3u8
@@ -312,7 +312,7 @@ canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
-fonte: http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+fonte: https://45.162.64.114/CARTOON_NETWORK/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cartoonnetwork/cartoonnetwork.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1Mzk5Lm0zdTg.m3u8
@@ -376,7 +376,7 @@ categoria: Notícias
 logo: https://img.faz-o-eli.online/cnnbrasil.png
 agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.71 Mobile Safari/537.36 OPR/87.0.2254.75258
 
-fonte: http://45.162.64.114/CNN_BRASIL/index.m3u8
+fonte: https://45.162.64.114/CNN_BRASIL/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cnnbrasil/cnnbrasil.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDY0Lm0zdTg.m3u8
@@ -795,7 +795,7 @@ canal: History
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history.png
 
-fonte: http://138.204.86.4:8080/HISTORY_HD/index.m3u8
+fonte: https://138.204.86.4/HISTORY_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/history/history.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDUwLm0zdTg.m3u8
@@ -1680,7 +1680,7 @@ canal: SBT
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
 
-fonte: http://138.204.86.4:8080/SBT_HD/index.m3u8
+fonte: https://138.204.86.4/SBT_HD/index.m3u8
 fonte: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://media.cdntvms.com.br/sbt_sat/index.m3u8
@@ -2338,7 +2338,7 @@ canal: TV Brasil
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
 
-fonte: http://45.162.64.114/TV_BRASIL/index.m3u8
+fonte: https://45.162.64.114/TV_BRASIL/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://tvbrasil-stream.ebc.com.br/index.m3u8
 qualidade: HD · 1280x720
@@ -2608,7 +2608,7 @@ canal: Cinemax
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/cinemax.png
 
-fonte: http://138.204.86.4:8080/CINEMAX/index.m3u8
+fonte: https://138.204.86.4/CINEMAX/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cinemax/cinemax.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzA5Lm0zdTg.m3u8
@@ -2671,7 +2671,7 @@ canal: Discovery Channel
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDE4Lm0zdTg.m3u8
@@ -2741,7 +2741,7 @@ categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
 qualidade: HD · 1280x720
 
-fonte: http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_KIDS_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDA3Lm0zdTg.m3u8
@@ -2801,7 +2801,7 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverytheater.png
 qualidade: HD · 1280x720
 
-fonte: http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_THEATER_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverytheather/discoverytheather.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDMwLm0zdTg.m3u8
@@ -2865,8 +2865,8 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/espn.png
 
 fonte: https://16-5-0-235.sslip.io/espn/index.m3u8
-fonte: http://45.162.64.114/ESPN_BRASIL/index.m3u8
-fonte: http://138.204.86.4:8080/ESPN_HD/index.m3u8
+fonte: https://45.162.64.114/ESPN_BRASIL/index.m3u8
+fonte: https://138.204.86.4/ESPN_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn/espn.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTkxMS5tM3U4.m3u8
@@ -2936,7 +2936,7 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
 
 fonte: https://16-5-0-235.sslip.io/espn2/index.m3u8
-fonte: http://138.204.86.4:8080/ESPN2_HD/index.m3u8
+fonte: https://138.204.86.4/ESPN2_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn2/espn2.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt
@@ -3002,8 +3002,8 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/espn4.png
 
 fonte: https://16-5-0-235.sslip.io/espn4/index.m3u8
-fonte: http://45.162.64.114/ESPN_4/index.m3u8
-fonte: http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+fonte: https://45.162.64.114/ESPN_4/index.m3u8
+fonte: https://138.204.86.4/ESPN4_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn4/espn4.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn4.txt
@@ -3198,7 +3198,7 @@ canal: HBO
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
 
-fonte: http://138.204.86.4:8080/HBO/index.m3u8
+fonte: https://138.204.86.4/HBO/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo/hbo.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQyLm0zdTg.m3u8
@@ -3280,7 +3280,7 @@ canal: HBO2
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo2.png
 
-fonte: http://138.204.86.4:8080/HBO2/index.m3u8
+fonte: https://138.204.86.4/HBO2/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo2/hbo2.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQ2Lm0zdTg.m3u8
@@ -3343,7 +3343,7 @@ canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
 
-fonte: http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
+fonte: https://138.204.86.4/HBO_FAMILY/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbofamily/hbofamily.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTUwLm0zdTg.m3u8
@@ -3406,7 +3406,7 @@ canal: HBO Mundi
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbomundi.png
 
-fonte: http://138.204.86.4:8080/HBO_MUNDI_HD/index.m3u8
+fonte: https://138.204.86.4/HBO_MUNDI_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbomundi/hbomundi.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTU0Lm0zdTg.m3u8
@@ -3490,7 +3490,7 @@ canal: HBO Plus
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
 
-fonte: http://138.204.86.4:8080/HBO_PLUS/index.m3u8
+fonte: https://138.204.86.4/HBO_PLUS/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hboplus/hboplus.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTU4Lm0zdTg.m3u8
@@ -3570,7 +3570,7 @@ canal: HBO Pop
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbopop.png
 
-fonte: http://138.204.86.4:8080/HBO_POP_HD/index.m3u8
+fonte: https://138.204.86.4/HBO_POP_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbopop/hbopop.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTYyLm0zdTg.m3u8
@@ -3654,7 +3654,7 @@ canal: HBO Signature
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
 
-fonte: http://138.204.86.4:8080/HBO_SIGNATURE/index.m3u8
+fonte: https://138.204.86.4/HBO_SIGNATURE/index.m3u8
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTY2Lm0zdTg.m3u8
 qualidade: FHD
 fonte: http://64.31.23.207:80/59471019/60849037/514125.m3u8
@@ -3811,7 +3811,7 @@ canal: Record
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 
-fonte: http://138.204.86.4:8080/RECORD/index.m3u8
+fonte: https://138.204.86.4/RECORD/index.m3u8
 fonte: http://79.127.238.228:14057
 qualidade: HD · 1280x720
 fonte: https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
@@ -3822,8 +3822,8 @@ canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
 
-fonte: http://45.162.64.114/SPACE/index.m3u8
-fonte: http://138.204.86.4:8080/SPACE_HD/index.m3u8
+fonte: https://45.162.64.114/SPACE/index.m3u8
+fonte: https://138.204.86.4/SPACE_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/space/space.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzI5Lm0zdTg.m3u8
@@ -3906,8 +3906,8 @@ categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
 
 fonte: https://16-5-0-235.sslip.io/tnt/index.m3u8
-fonte: http://45.162.64.114/TNT/index.m3u8
-fonte: http://138.204.86.4:8080/TNT_HD/index.m3u8
+fonte: https://45.162.64.114/TNT/index.m3u8
+fonte: https://138.204.86.4/TNT_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tnt/tnt.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzQ4Lm0zdTg.m3u8
@@ -4150,8 +4150,8 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryturbo.png
 qualidade: HD · 1280x720
 
-fonte: http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
-fonte: http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
+fonte: https://45.162.64.114/DISCOVERY_TURBO/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_TURBO_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryturbo/discoveryturbo.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDM0Lm0zdTg.m3u8
@@ -4523,7 +4523,7 @@ canal: SONY Movies
 categoria: Filmes e Séries
 logo: https://www.tvlogo.org/brazil/sony-movies-br.png
 
-fonte: http://45.162.64.114/SONY_MOVIES/index.m3u8
+fonte: https://45.162.64.114/SONY_MOVIES/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.177.114.115/SONY_MOVIES/index.m3u8
 qualidade: FHD · 1920x1080
@@ -4537,7 +4537,7 @@ canal: Globo
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 
-fonte: http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+fonte: https://138.204.86.4/GLOBO_HD/index.m3u8
 fonte: https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 qualidade: HD · 1280x720
 canal: Tooncast
@@ -4628,7 +4628,7 @@ canal: Arte 1
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
 
-fonte: http://45.162.64.114/ARTE1/index.m3u8
+fonte: https://45.162.64.114/ARTE1/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.177.114.115/ARTE1/index.m3u8
 qualidade: FHD · 1920x1080
@@ -4735,7 +4735,7 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
 qualidade: HD · 1280x720
 
-fonte: http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_SCIENCE_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryscience/discoveryscience.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDI2Lm0zdTg.m3u8
@@ -4798,7 +4798,7 @@ canal: AXN
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/axn.png
 
-fonte: http://138.204.86.4:8080/AXN_HD/index.m3u8
+fonte: https://138.204.86.4/AXN_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/axn/axn.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1Mjk4Lm0zdTg.m3u8
@@ -4908,7 +4908,7 @@ canal: Band News
 categoria: Notícias
 logo: https://img.faz-o-eli.online/bandnews.png
 
-fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
+fonte: https://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/bandnews/bandnews.m3u8
 qualidade: HD · 1280x720
@@ -4974,7 +4974,7 @@ canal: BAND SPORTS HD
 categoria: Esportes
 logo: https://img.faz-o-eli.online/bandsports.png
 
-fonte: http://45.162.64.114/BAND_SPORTS/index.m3u8
+fonte: https://45.162.64.114/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://16-5-0-235.sslip.io/bandsports/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/bandsports/bandsports.m3u8
@@ -5039,7 +5039,7 @@ canal: RedeTV!
 categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-tv-br.png
 
-fonte: http://45.162.64.114/REDE_TV/index.m3u8
+fonte: https://45.162.64.114/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
@@ -5121,7 +5121,7 @@ canal: Terra Viva
 categoria: Variedades
 logo: https://www.tvlogo.org/brazil/terraviva-br.png
 
-fonte: http://45.162.64.114/TERRAVIVA/index.m3u8
+fonte: https://45.162.64.114/TERRAVIVA/index.m3u8
 qualidade: HD · 1080x720
 fonte: https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
 qualidade: HD · 1280x720
@@ -5133,7 +5133,7 @@ canal: Woohoo
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
 
-fonte: http://45.162.64.114/WOOHOO/index.m3u8
+fonte: https://45.162.64.114/WOOHOO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTUzLm0zdTg.m3u8
 qualidade: FHD
@@ -5186,7 +5186,7 @@ categoria: Esportes
 logo: https://img.faz-o-eli.online/espn3.png
 
 fonte: https://16-5-0-235.sslip.io/espn3/index.m3u8
-fonte: http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+fonte: https://138.204.86.4/ESPN3_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn3/espn3.m3u8
 qualidade: HD · 1280x720
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.txt
@@ -5255,9 +5255,9 @@ canal: TV Gazeta
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
 
-fonte: http://45.162.64.114/GAZETA/index.m3u8
+fonte: https://45.162.64.114/GAZETA/index.m3u8
 qualidade: FHD · 1920x1080
-fonte: http://45.162.64.114/TV_GAZETA/index.m3u8
+fonte: https://45.162.64.114/TV_GAZETA/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/GAZETA/index.m3u8
 qualidade: FHD · 1920x1080
@@ -5277,7 +5277,7 @@ canal: Record News
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
 
-fonte: http://45.162.64.114/RECORD_NEWS/index.m3u8
+fonte: https://45.162.64.114/RECORD_NEWS/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDc2Lm0zdTg.m3u8
 qualidade: FHD
@@ -5337,7 +5337,7 @@ canal: Canção Nova
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/cancaonova.png
 
-fonte: http://45.162.64.114/CANCAO_NOVA/index.m3u8
+fonte: https://45.162.64.114/CANCAO_NOVA/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cancaonova/cancaonova.m3u8
 qualidade: HD · 1280x720
@@ -5367,7 +5367,7 @@ canal: TV Aparecida
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
 
-fonte: http://45.162.64.114/TV_APARECIDA/index.m3u8
+fonte: https://45.162.64.114/TV_APARECIDA/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/aparecida/aparecida.m3u8
 qualidade: Qualidade não informada
@@ -5473,8 +5473,8 @@ canal: Discovery ID
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
-fonte: http://45.162.64.114/DISCOVERY_ID/index.m3u8
-fonte: http://138.204.86.4:8080/ID_HD/index.m3u8
+fonte: https://45.162.64.114/DISCOVERY_ID/index.m3u8
+fonte: https://138.204.86.4/ID_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryid/discoveryid.m3u8
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryid.txt
@@ -5527,7 +5527,7 @@ canal: Fish TV
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
 
-fonte: http://45.162.64.114/FISH_TV/index.m3u8
+fonte: https://45.162.64.114/FISH_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTAyLm0zdTg.m3u8
 qualidade: FHD
@@ -5885,7 +5885,7 @@ canal: Agro Mais
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png
 
-fonte: http://45.162.64.114/AGROMAIS/index.m3u8
+fonte: https://45.162.64.114/AGROMAIS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc2NC5tM3U4.m3u8
 qualidade: FHD
@@ -5937,7 +5937,7 @@ canal: CNT
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png
 
-fonte: http://45.162.64.114/CNT/index.m3u8
+fonte: https://45.162.64.114/CNT/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/CNT/index.m3u8
 qualidade: HD · 1280x720
@@ -5949,7 +5949,7 @@ canal: TV Pai Eterno
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tvpaieterno.png
 
-fonte: http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+fonte: https://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tvpaieterno/tvpaieterno.m3u8
 qualidade: HD · 1280x720
@@ -6001,7 +6001,7 @@ canal: PlayTV
 categoria: TV Aberta
 logo: https://i.imgur.com/Ikrj3lk.png
 
-fonte: http://45.162.64.114/PLAY_TV/index.m3u8
+fonte: https://45.162.64.114/PLAY_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://isaocorp.cloudecast.com/playtv/index.m3u8
 qualidade: FHD · 1920x1080
@@ -6115,7 +6115,7 @@ canal: TV Câmara
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png
 
-fonte: http://45.162.64.114/TV_CAMARA/index.m3u8
+fonte: https://45.162.64.114/TV_CAMARA/index.m3u8
 qualidade: SD · 718x480
 fonte: https://stream3.camara.gov.br/tv1/manifest.m3u8
 qualidade: FHD · 1920x1080
@@ -6131,7 +6131,7 @@ canal: TV Evangelizar
 categoria: Variedades
 logo: https://i.imgur.com/IrYR7Kp.png
 
-fonte: http://45.162.64.114/EVANGELIZAR/index.m3u8
+fonte: https://45.162.64.114/EVANGELIZAR/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/EVANGELIZAR/index.m3u8
 qualidade: HD · 1280x720
@@ -6147,7 +6147,7 @@ canal: TV Justiça
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-justica.png
 
-fonte: http://45.162.64.114/TV_JUSTICA/index.m3u8
+fonte: https://45.162.64.114/TV_JUSTICA/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/TV_JUSTICA/index.m3u8
 qualidade: HD · 1280x720
@@ -6163,7 +6163,7 @@ canal: TV Novo Tempo
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png
 
-fonte: http://45.162.64.114/NOVO_TEMPO/index.m3u8
+fonte: https://45.162.64.114/NOVO_TEMPO/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/NOVO_TEMPO/index.m3u8
 qualidade: HD · 1280x720
@@ -6209,7 +6209,7 @@ canal: TV Senado
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png
 
-fonte: http://45.162.64.114/TV_SENADO/index.m3u8
+fonte: https://45.162.64.114/TV_SENADO/index.m3u8
 qualidade: SD · 718x480
 fonte: http://168.197.104.22/TV_SENADO/index.m3u8
 qualidade: SD · 718x480
@@ -6235,7 +6235,7 @@ canal: Discovery Home & Health
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryhh.png
 
-fonte: http://45.162.64.114/DISCOVERY_H_H/index.m3u8
+fonte: https://45.162.64.114/DISCOVERY_H_H/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryhh/discoveryhh.m3u8
 qualidade: Qualidade não informada
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryhh.txt
@@ -6299,7 +6299,7 @@ qualidade: HD
 canal: Canal Agro
 categoria: Variedades
 
-fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
+fonte: https://45.162.64.114/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 qualidade: HD · 1280x720
@@ -6337,7 +6337,7 @@ canal: SESC TV
 categoria: TV Aberta
 logo: https://i.imgur.com/Mu8O6CV.png
 
-fonte: http://45.162.64.114/SESC_TV/index.m3u8
+fonte: https://45.162.64.114/SESC_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.49.66:8083/SESCTVHD/index.m3u8
 qualidade: HD · 1280x720
@@ -6485,7 +6485,7 @@ canal: Canal Educacao
 categoria: TV Aberta
 logo: https://i.imgur.com/OOB7nrS.png
 
-fonte: http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+fonte: https://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
 qualidade: HD · 1280x720
@@ -6495,7 +6495,7 @@ canal: Canal Futura
 categoria: TV Aberta
 logo: https://i.imgur.com/LgynEBC.png
 
-fonte: http://45.162.64.114/FUTURA/index.m3u8
+fonte: https://45.162.64.114/FUTURA/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/FUTURA/index.m3u8
 qualidade: HD · 1280x720
@@ -6527,7 +6527,7 @@ canal: Canal do Boi
 categoria: Variedades
 logo: https://i.imgur.com/pVM5MhS.png
 
-fonte: http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+fonte: https://45.162.64.114/CANAL_DO_BOI/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/CANAL_DO_BOI/index.m3u8
 qualidade: HD · 1280x720
@@ -6598,7 +6598,7 @@ canal: DumDum
 categoria: Infantil
 logo: https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg
 
-fonte: http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+fonte: https://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/ZOOMOO/index.m3u8
 qualidade: HD · 1280x720
@@ -7173,7 +7173,7 @@ canal: Rede TV!
 categoria: TV Aberta
 logo: https://i.imgur.com/ZJgD38F.png
 
-fonte: http://45.162.64.114/REDE_TV/index.m3u8
+fonte: https://45.162.64.114/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
@@ -9096,8 +9096,8 @@ categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
 qualidade: SD · 768x432
 
-fonte: http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
-fonte: http://138.204.86.4:8080/DISCOVERY_WORLD_HD/index.m3u8
+fonte: https://45.162.64.114/DISCOVERY_WORLD/index.m3u8
+fonte: https://138.204.86.4/DISCOVERY_WORLD_HD/index.m3u8
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryworld/discoveryworld.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDM4Lm0zdTg.m3u8
