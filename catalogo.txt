@@ -307,6 +307,7 @@ qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324376.m3u8
 qualidade: FHD · 1920x1080
 
+fonte: http://138.204.86.4:8080/BAND_HD/index.m3u8
 canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
@@ -1191,6 +1192,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQyLm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/premiere2/index.m3u8
 canal: Premiere 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1260,6 +1262,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQ1Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/premiere3/index.m3u8
 canal: Premiere 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1329,6 +1332,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQ4Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/premiere4/index.m3u8
 canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1660,6 +1664,7 @@ qualidade: Qualidade não informada
 fonte: http://45.185.11.126:8000/play/a06g/index.m3u8
 qualidade: Qualidade não informada
 
+fonte: https://16-5-0-235.sslip.io/premiereclubes/index.m3u8
 canal: SBT
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
@@ -1692,6 +1697,7 @@ qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/30120.ts
 qualidade: HD
 
+fonte: http://138.204.86.4:8080/SBT_HD/index.m3u8
 canal: SBT News
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
@@ -1867,6 +1873,7 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/131132.ts
 qualidade: Qualidade não informada
 
+fonte: https://16-5-0-235.sslip.io/sportv/index.m3u8
 canal: SporTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv2.png
@@ -1938,6 +1945,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI0NzQwLm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/sportv2/index.m3u8
 canal: SporTV 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv3.png
@@ -2009,6 +2017,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI0NzQ0Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/sportv3/index.m3u8
 canal: Canal OFF
 categoria: Esportes
 logo: https://img.faz-o-eli.online/off.png
@@ -2713,6 +2722,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDIwLm0zdTg.m3u8
 qualidade: SD
 
+fonte: http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
@@ -2903,6 +2913,9 @@ qualidade: HD
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/598918.ts
 qualidade: HD
 
+fonte: https://16-5-0-235.sslip.io/espn/index.m3u8
+fonte: http://45.162.64.114/ESPN_BRASIL/index.m3u8
+fonte: http://138.204.86.4:8080/ESPN_HD/index.m3u8
 canal: ESPN 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
@@ -2967,6 +2980,8 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTI0Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/espn2/index.m3u8
+fonte: http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 canal: ESPN 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn4.png
@@ -3033,6 +3048,9 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTMyLm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/espn4/index.m3u8
+fonte: http://45.162.64.114/ESPN_4/index.m3u8
+fonte: http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 canal: ESPN 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn5.png
@@ -3099,6 +3117,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTM2Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/espn5/index.m3u8
 canal: ESPN 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn6.png
@@ -3159,6 +3178,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQwLm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/espn6/index.m3u8
 canal: HBO
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
@@ -3240,6 +3260,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQ0Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: http://138.204.86.4:8080/HBO/index.m3u8
 canal: HBO2
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo2.png
@@ -3302,6 +3323,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQ4Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: http://138.204.86.4:8080/HBO2/index.m3u8
 canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
@@ -3775,6 +3797,7 @@ qualidade: SD · 1024x576
 fonte: http://corruptx.org:80/hfp5ejnrey/zq0u3kzads/35842.ts
 qualidade: HD
 
+fonte: http://138.204.86.4:8080/RECORD/index.m3u8
 canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
@@ -3856,6 +3879,8 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzMxLm0zdTg.m3u8
 qualidade: SD
 
+fonte: http://45.162.64.114/SPACE/index.m3u8
+fonte: http://138.204.86.4:8080/SPACE_HD/index.m3u8
 canal: TNT
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
@@ -3939,6 +3964,9 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzUwLm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/tnt/index.m3u8
+fonte: http://45.162.64.114/TNT/index.m3u8
+fonte: http://138.204.86.4:8080/TNT_HD/index.m3u8
 canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
@@ -4489,6 +4517,7 @@ logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 fonte: https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 qualidade: HD · 1280x720
 
+fonte: http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 canal: Tooncast
 categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
@@ -4981,6 +5010,7 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/999913/S3CvUB/71801.ts
 qualidade: Qualidade não informada
 
+fonte: https://16-5-0-235.sslip.io/bandsports/index.m3u8
 canal: RedeTV!
 categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-tv-br.png
@@ -5195,6 +5225,8 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTI4Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/espn3/index.m3u8
+fonte: http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 canal: TV Gazeta
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
@@ -7429,6 +7461,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTE2Lm0zdTg.m3u8
 qualidade: SD
 
+fonte: https://16-5-0-235.sslip.io/combate/index.m3u8
 canal: DAZN (Jogo 1)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/dazn.png
