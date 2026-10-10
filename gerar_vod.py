@@ -47,6 +47,10 @@ DESATIVADOS = ["up.kiwi", "hubby.cx"]
 RESOLVIDOS_POR_ID = ("embedplayer",)
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
+# Fontes que o teste (testar_fontes_vod.py) confirmou mortas, uma URL inteira
+# por linha. O acervo é remontado todo dia guardando os links antigos; sem esta
+# lista uma fonte morta voltaria em toda rodada.
+MORTAS = ROOT / "fontes-mortas.txt"
 
 # A segunda lista escreve "S01 E01", com espaço antes do E; a primeira escreve
 # "S01E01", colado. O \s* aceita as duas sem precisar de um regex por origem.
@@ -154,6 +158,64 @@ class Bases:
             self.lista.append(base)
             return self.encurtar(url)
         return url
+
+
+def expandir(fonte, bases):
+    """A URL inteira de uma fonte como o acervo guarda ("2:108242" ou a URL)."""
+    if ":" in fonte and fonte.split(":", 1)[0].isdigit():
+        indice, resto = fonte.split(":", 1)
+        indice = int(indice)
+        if indice < len(bases.lista):
+            sufixo = "" if "." in resto.rsplit("/", 1)[-1] else ".mp4"
+            return bases.lista[indice] + resto + sufixo
+    return fonte
+
+
+def fontes_mortas():
+    """URLs mortas e servidores inteiros fora do ar ("servidor: host")."""
+    if not MORTAS.exists():
+        return set()
+    return {l.strip() for l in MORTAS.read_text(encoding="utf-8").splitlines()
+            if l.strip() and not l.startswith("#")}
+
+
+def _servidor(url):
+    return url.split("://", 1)[-1].split("/", 1)[0].split(":", 1)[0].lower()
+
+
+def tirar_mortas(filmes, series, reservado, bases, mortas):
+    """Tira as fontes mortas; título sem fonte que sobre sai. Devolve quantos saíram."""
+    servidores = {m.split(":", 1)[1].strip().lower() for m in mortas if m.startswith("servidor:")}
+
+    def morta(fonte):
+        url = expandir(fonte, bases)
+        return url in mortas or (servidores and _servidor(url) in servidores)
+
+    def vivas(lista):
+        return [f for f in lista if not morta(f)]
+
+    tirados_f = 0
+    for colecao in (filmes, reservado):
+        for chave in list(colecao):
+            versoes = colecao[chave]["versoes"]
+            for v in list(versoes):
+                versoes[v] = vivas(versoes[v])
+                if not versoes[v]:
+                    del versoes[v]
+            if not versoes:
+                del colecao[chave]
+                tirados_f += 1
+    tirados_s = 0
+    for chave in list(series):
+        eps = series[chave]["eps"]
+        for ep in list(eps):
+            eps[ep] = vivas(eps[ep])
+            if not eps[ep]:
+                del eps[ep]
+        if not eps:
+            del series[chave]
+            tirados_s += 1
+    return tirados_f, tirados_s
 
 
 def baixar(url):
@@ -487,6 +549,13 @@ def main():
     print(f"links diretos já publicados: {len(publicados_f)} filmes, {len(publicados_s)} séries")
     print(f"Redeflix: {len(diretos_filmes)} filmes ({novos_filmes} novos no acervo) | "
           f"{len(diretos_series)} séries ({novas_series} novas no acervo)")
+
+    # Fontes mortas saem; título que fica sem fonte nenhuma sai do acervo.
+    mortas = fontes_mortas()
+    if mortas:
+        tirados_f, tirados_s = tirar_mortas(filmes, series, reservado, bases, mortas)
+        print(f"fontes mortas: {len(mortas)} conhecidas | sem fonte e fora do acervo: "
+              f"{tirados_f} filmes, {tirados_s} séries")
 
     SAIDA.mkdir(exist_ok=True)
     # As fileiras da tela inicial são geradas à parte, por gerar_destaques.py,
