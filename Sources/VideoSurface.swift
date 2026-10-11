@@ -19,9 +19,17 @@ final class PlayerLayerView: NSView {
         wantsLayer = true
         let root = CALayer()
         root.backgroundColor = NSColor.black.cgColor
+        // Na multi tela as duas superfícies ficam lado a lado: o vídeo de uma
+        // não pode vazar por cima da outra.
+        root.masksToBounds = true
         layer = root
         playerLayer.videoGravity = .resizeAspect
         playerLayer.backgroundColor = NSColor.black.cgColor
+        // Camada hospedada não recebe `layout()` em toda mudança de tamanho
+        // (entrar em tela cheia, abrir a segunda tela): sem isto o vídeo
+        // ficava no tamanho antigo, um cobrindo a janela e o outro pequeno
+        // no canto.
+        playerLayer.autoresizingMask = [.layerWidthSizable, .layerHeightSizable]
         root.addSublayer(playerLayer)
     }
 
@@ -31,6 +39,15 @@ final class PlayerLayerView: NSView {
 
     override func layout() {
         super.layout()
+        ajustarVideo()
+    }
+
+    override func setFrameSize(_ newSize: NSSize) {
+        super.setFrameSize(newSize)
+        ajustarVideo()
+    }
+
+    private func ajustarVideo() {
         CATransaction.begin()
         CATransaction.setDisableActions(true)
         playerLayer.frame = bounds
