@@ -107,7 +107,9 @@ Scripts principais:
 | `gerar_imdb.py` | publica o id do IMDb de cada título em `vod/imdb/` (fragmentos de 8 KB), para as legendas dos apps |
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
-| `medir_fontes_local.py`, `medir_resolucao.py` | medem as fontes dos canais |
+| `limpar_canais.py` | testa cada fonte de canal como o app pede, confirma a falha uma segunda vez e, com `--aplicar`, tira as mortas (canal sem fonte sai); erro passageiro (429, 5xx) não mata fonte |
+| `medir_fontes_local.py` | mede a resolução das fontes com ffprobe; `--sem-qualidade` só as que não têm, até duas por servidor |
+| `medir_resolucao.py` | mede as fontes HLS pela playlist mestre |
 | `fontes-mortas.txt` | fontes do acervo fora do ar (URLs e `servidor: host`); o `gerar_vod.py` tira delas e título sem fonte viva sai. Vem do `testar_fontes_vod.py` |
 | `limpar_canais.py` | testa as fontes dos canais como o app pede e, com `--aplicar`, tira as mortas (canal sem fonte sai) |
 | `ordenar_fontes.py` | põe as fontes do nexustvplay (o servidor mais estável) na frente de cada canal; rodar depois de qualquer script que mexa no catálogo |
