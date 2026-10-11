@@ -22,7 +22,9 @@ extension PlayerModel {
         let fuzzyMatch = channels.first(where: { $0.name.caseInsensitiveCompare(nameToFind) == .orderedSame || $0.name.lowercased().contains(nameToFind.lowercased()) })
         
         if let match = exactMatch ?? fuzzyMatch {
-            self.selection = match.id
+            // O mesmo canal já escolhido não dispararia a seleção; com o
+            // acervo aberto ele ficaria parado.
+            if self.selection == match.id { self.play() } else { self.selection = match.id }
         }
     }
 }

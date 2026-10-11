@@ -60,7 +60,8 @@ struct ContentView: View {
 
     /// O acervo ocupa a área do vídeo quando está aberto: a capa grande é o
     /// que faz escolher filme ser escolher, e não adivinhar por uma linha de
-    /// texto. O que estava tocando continua tocando por trás, sem recomeçar.
+    /// texto. Filme no ar continua por trás, sem recomeçar; o ao vivo para
+    /// (ver `VodEstado.secao`).
     @ViewBuilder
     private var principal: some View {
         if vod.secao != nil {
@@ -74,11 +75,32 @@ struct ContentView: View {
 
     private var stage: some View {
         ZStack(alignment: .bottom) {
-            VideoSurface(
-                player: model.player,
-                gravity: model.fillScreen ? .resizeAspectFill : .resizeAspect,
-                onReady: { model.attach(surface: $0) },
-                onDoubleClick: { model.toggleFullScreen() })
+            // A principal fica sempre no mesmo lugar da árvore: recriá-la ao
+            // abrir a multi tela refaria a superfície e o PiP dela.
+            HStack(spacing: model.multiTela ? 2 : 0) {
+                VideoSurface(
+                    player: model.player,
+                    gravity: model.fillScreen ? .resizeAspectFill : .resizeAspect,
+                    onReady: { model.attach(surface: $0) },
+                    onDoubleClick: { model.toggleFullScreen() },
+                    onClick: { model.ativarTela(.principal) })
+                    .overlay {
+                        if model.multiTela {
+                            MolduraDaTela(model: model, lado: .principal, rotuloVisivel: controlsVisible)
+                        }
+                    }
+                if model.multiTela {
+                    VideoSurface(
+                        player: model.segunda.player,
+                        gravity: model.fillScreen ? .resizeAspectFill : .resizeAspect,
+                        onReady: { _ in },
+                        onDoubleClick: { model.toggleFullScreen() },
+                        onClick: { model.ativarTela(.segunda) })
+                        .overlay {
+                            MolduraDaTela(model: model, lado: .segunda, rotuloVisivel: controlsVisible)
+                        }
+                }
+            }
                 .background(Color.black)
                 .ignoresSafeArea()
 
@@ -110,7 +132,7 @@ struct ContentView: View {
             }
         }
         .onAppear { scheduleHide(after: 3) }
-        .navigationTitle(model.selectedChannel?.name ?? "Saimo TV")
+        .navigationTitle(model.canalAtivo?.name ?? "Saimo TV")
         .toolbar(removing: .title)
         .toolbarBackground(.hidden, for: .windowToolbar)
     }
@@ -296,9 +318,12 @@ private struct ControlBar: View {
 
             if model.playingFile == nil { LiveBadge(model: model) }
 
-            QualityBadge(model: model)
+            // Na multi tela cada tela mostra a própria fonte no canto dela.
+            if !model.multiTela {
+                QualityBadge(model: model)
 
-            SourceBadge(model: model)
+                SourceBadge(model: model)
+            }
 
             if model.playingFile != nil, model.duration > 0 {
                 ScrubBar(model: model)
@@ -308,7 +333,7 @@ private struct ControlBar: View {
 
             Spacer(minLength: 8)
 
-            if model.isPlaying {
+            if model.isPlaying, !model.multiTela {
                 Menu {
                     Section("Qualidade · \(model.selectedQualityTitle)") {
                         ForEach(model.qualityChoices) { c in
@@ -382,6 +407,13 @@ private struct ControlBar: View {
             .frame(width: 26)
             .help("Velocidade")
 
+            if model.playingFile == nil {
+                Button(action: model.alternarMultiTela) {
+                    Image(systemName: model.multiTela ? "rectangle.split.2x1.fill" : "rectangle.split.2x1")
+                }
+                .help(model.multiTela ? "Sair da multi tela" : "Multi tela")
+            }
+
             Button { model.fillScreen.toggle() } label: {
                 Image(systemName: model.fillScreen
                       ? "rectangle.arrowtriangle.2.inward"
@@ -394,19 +426,23 @@ private struct ControlBar: View {
             }
             .help("Manter à frente")
 
-            CastMenu(model: model)
+            // Transmitir e PiP só levam a tela principal: na multi tela
+            // ficariam pela metade.
+            if !model.multiTela {
+                CastMenu(model: model)
 
-            RoutePicker(player: model.player)
-                .frame(width: 24, height: 20)
-                .help("Transmitir para AirPlay")
+                RoutePicker(player: model.player)
+                    .frame(width: 24, height: 20)
+                    .help("Transmitir para AirPlay")
 
-            Button(action: model.togglePiP) {
-                Image(systemName: model.isPiPActive
-                      ? "pip.exit"
-                      : "pip.enter")
+                Button(action: model.togglePiP) {
+                    Image(systemName: model.isPiPActive
+                          ? "pip.exit"
+                          : "pip.enter")
+                }
+                .disabled(!model.isPiPPossible)
+                .help("Picture in Picture (⌘⇧P)")
             }
-            .disabled(!model.isPiPPossible)
-            .help("Picture in Picture (⌘⇧P)")
 
             Button(action: model.toggleFullScreen) {
                 Image(systemName: "arrow.up.left.and.arrow.down.right")
@@ -453,7 +489,7 @@ private struct NowPlayingStrip: View {
         // passando outra coisa.
         if model.playingFile != nil {
             arquivoEmCartaz
-        } else if let channel = model.selectedChannel,
+        } else if let channel = model.canalAtivo,
                   let onAir = epg.nowNext(for: channel, at: epg.clock) {
             HStack(spacing: 12) {
                 if let poster = onAir.current.poster, let image = posters.image(for: poster) {

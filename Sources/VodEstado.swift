@@ -48,7 +48,16 @@ final class VodEstado: ObservableObject {
     @Published var reservado = false
     @Published var mostrandoFavoritos = false
     /// Nula quando o vídeo está no lugar dele.
-    @Published var secao: VodSecao?
+    ///
+    /// Abrir o acervo para o ao vivo de vez — player e fluxo, nas duas telas
+    /// da multi tela —, e fechá-lo volta ao último canal. Ao vivo tocando
+    /// escondido atrás da grade era som e rede gastos com nada à vista.
+    @Published var secao: VodSecao? {
+        didSet {
+            guard (oldValue == nil) != (secao == nil) else { return }
+            if secao == nil { PlayerModel.shared.retomarAoVivo() } else { PlayerModel.shared.suspenderAoVivo() }
+        }
+    }
     @Published var letra = ""
     /// Acervo inteiro numa lista só, em vez de uma letra por vez.
     @Published var tudo = true

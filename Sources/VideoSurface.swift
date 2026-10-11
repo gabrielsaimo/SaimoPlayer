@@ -11,6 +11,8 @@ import AVFoundation
 final class PlayerLayerView: NSView {
     let playerLayer = AVPlayerLayer()
     var onDoubleClick: (() -> Void)?
+    /// Clique simples: na multi tela é o que escolhe a tela ativa.
+    var onClick: (() -> Void)?
 
     override init(frame frameRect: NSRect) {
         super.init(frame: frameRect)
@@ -36,7 +38,12 @@ final class PlayerLayerView: NSView {
     }
 
     override func mouseDown(with event: NSEvent) {
-        if event.clickCount == 2 { onDoubleClick?() } else { super.mouseDown(with: event) }
+        if event.clickCount == 2 {
+            onDoubleClick?()
+        } else {
+            onClick?()
+            super.mouseDown(with: event)
+        }
     }
 }
 
@@ -64,12 +71,14 @@ struct VideoSurface: NSViewRepresentable {
     let gravity: AVLayerVideoGravity
     let onReady: (PlayerLayerView) -> Void
     let onDoubleClick: () -> Void
+    var onClick: (() -> Void)? = nil
 
     func makeNSView(context: Context) -> PlayerLayerView {
         let view = PlayerLayerView(frame: .zero)
         view.playerLayer.player = player
         view.playerLayer.videoGravity = gravity
         view.onDoubleClick = onDoubleClick
+        view.onClick = onClick
         onReady(view)
         return view
     }
@@ -78,5 +87,6 @@ struct VideoSurface: NSViewRepresentable {
         if view.playerLayer.player !== player { view.playerLayer.player = player }
         if view.playerLayer.videoGravity != gravity { view.playerLayer.videoGravity = gravity }
         view.onDoubleClick = onDoubleClick
+        view.onClick = onClick
     }
 }

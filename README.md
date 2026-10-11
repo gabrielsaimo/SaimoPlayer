@@ -74,6 +74,12 @@ Na 2.0: botão de pular abertura, cartão do próximo episódio (Return assiste,
 Esc dispensa), troca de fonte quando o arquivo "termina" cedo demais e abertura
 no último canal assistido.
 
+Multi tela (`MultiTela.swift`): dois canais ao vivo lado a lado, pelo botão da
+barra de controles ou em Vídeo > Multi tela. Só a tela ativa (borda colorida)
+tem som e é ela que a lista e as setas trocam; cada uma mantém a troca de fonte.
+Abrir o acervo (filmes, séries etc.) para o ao vivo nas duas telas, e fechá-lo
+volta ao último canal.
+
 ```bash
 ./build.sh        # monta build/Saimo TV.app
 ./make_dmg.sh     # gera o DMG

@@ -25,7 +25,7 @@ final class PlayerModel: NSObject, ObservableObject {
     static let shared = PlayerModel()
 
     // Library
-    @Published var channels: [Channel] = []
+    @Published var channels: [Channel] = [] { didSet { conferirSegundaTela() } }
     @Published var favorites: Set<String> = []
     @Published var search: String = "" {
         didSet {
@@ -157,6 +157,17 @@ final class PlayerModel: NSObject, ObservableObject {
     }
 
     let player = AVPlayer()
+
+    /// Multi tela: um segundo canal ao lado do principal. Só uma das duas
+    /// telas está ativa por vez — é ela que tem som e que a lista e o teclado
+    /// trocam. Ver MultiTela.swift.
+    let segunda = SegundaTela()
+    @Published var multiTela = false
+    @Published var segundaAtiva = false
+
+    /// O ao vivo foi pedido com o acervo aberto: fica para quando ele fechar,
+    /// em vez de tocar escondido atrás da grade.
+    var aoVivoPendente = false
 
     private var pip: AVPictureInPictureController?
     private weak var surface: PlayerLayerView?
@@ -339,15 +350,24 @@ final class PlayerModel: NSObject, ObservableObject {
     func step(_ delta: Int) {
         let list = visibleChannels
         guard !list.isEmpty else { return }
-        let idx = list.firstIndex { $0.id == selection } ?? 0
+        // Na multi tela o passo vale para a tela ativa.
+        let naSegunda = multiTela && segundaAtiva
+        let atual = naSegunda ? (segunda.canal?.id ?? selection) : selection
+        let idx = list.firstIndex { $0.id == atual } ?? 0
         let next = (idx + delta + list.count) % list.count
-        selection = list[next].id
+        if naSegunda { tocarNaSegunda(list[next]) } else { selection = list[next].id }
     }
 
     // MARK: - Playback
 
     func play() {
         guard let channel = selectedChannel else { return }
+        // Com o acervo aberto o ao vivo não toca: fica para quando ele fechar.
+        if VodEstado.shared.secao != nil {
+            aoVivoPendente = true
+            return
+        }
+        aoVivoPendente = false
         guardarProgresso(forcado: true)
         UserDefaults.standard.set(channel.name, forKey: "ultimoCanal")
         episodioNoAr = nil
@@ -387,6 +407,7 @@ final class PlayerModel: NSObject, ObservableObject {
     func playFile(_ urls: [URL], nome: String, detalhe: String = "", chave: String = "") {
         guard let primeira = urls.first else { return }
         guardarProgresso(forcado: true)
+        aoVivoPendente = false
         episodioNoAr = episodioPendente
         episodioPendente = nil
         marcas = nil
@@ -649,6 +670,7 @@ final class PlayerModel: NSObject, ObservableObject {
 
     /// Jumps to the live edge of the sliding window.
     func jumpToLive() {
+        if multiTela && segundaAtiva { segunda.irAoVivo(); return }
         guard let item = player.currentItem,
               let range = item.seekableTimeRanges.last?.timeRangeValue else { return }
         let edge = CMTimeRangeGetEnd(range)
@@ -744,7 +766,9 @@ final class PlayerModel: NSObject, ObservableObject {
             status = "tentando a fonte \(next + 1) de \(channel.variants.count)…"
             Log.shared.write("\(channel.name): \(reason) — indo para a fonte \(next + 1)")
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) { [weak self] in
-                guard let self, let channel = self.selectedChannel else { return }
+                // Sem item no player é porque o ao vivo foi parado no meio.
+                guard let self, self.player.currentItem != nil,
+                      let channel = self.selectedChannel else { return }
                 self.load(ProxyServer.shared.link(for: channel), channel: channel)
             }
             return
@@ -761,7 +785,8 @@ final class PlayerModel: NSObject, ObservableObject {
         status = "reconectando (\(reconnectAttempt))…"
         Log.shared.write("reconectando em \(String(format: "%.1f", delay))s — \(reason)")
         DispatchQueue.main.asyncAfter(deadline: .now() + delay) { [weak self] in
-            guard let self, let channel = self.selectedChannel else { return }
+            guard let self, self.player.currentItem != nil,
+                  let channel = self.selectedChannel else { return }
             self.load(ProxyServer.shared.link(for: channel), channel: channel)
         }
     }
@@ -1218,9 +1243,13 @@ final class PlayerModel: NSObject, ObservableObject {
 
     // MARK: - System integration
 
-    private func applyVolume() {
+    func applyVolume() {
+        // Na multi tela só a tela ativa tem som. Enquanto a segunda não tem
+        // canal, o som continua com a principal.
+        let somNaSegunda = multiTela && segundaAtiva && segunda.canal != nil
         player.volume = Float(volume)
-        player.isMuted = isMuted
+        player.isMuted = isMuted || somNaSegunda
+        segunda.aplicarSom(volume: volume, mudo: isMuted || !somNaSegunda)
         Store.setVolume(volume)
     }
 

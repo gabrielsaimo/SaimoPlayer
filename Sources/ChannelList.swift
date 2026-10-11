@@ -54,7 +54,9 @@ struct ChannelListView: View {
     }
 
     private var lista: some View {
-        List(selection: $model.selection) {
+        // Na multi tela a lista mostra e troca o canal da tela ativa.
+        List(selection: Binding(get: { model.selecaoDaLista },
+                                set: { model.escolherNaLista($0) })) {
             ForEach(model.gruposDeCanais, id: \.categoria) { grupo in
             Section(grupo.categoria.rawValue) {
             ForEach(grupo.canais) { channel in

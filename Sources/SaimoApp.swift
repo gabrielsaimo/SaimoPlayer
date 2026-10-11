@@ -91,6 +91,10 @@ struct SaimoApp: App {
                     model.alwaysOnTop.toggle()
                 }
                 .keyboardShortcut("t", modifiers: [.command, .shift])
+                Button(model.multiTela ? "Sair da multi tela" : "Multi tela") {
+                    model.alternarMultiTela()
+                }
+                .disabled(model.playingFile != nil)
                 Divider()
                 Button(model.showStats ? "Ocultar estatísticas" : "Mostrar estatísticas") {
                     model.showStats.toggle()

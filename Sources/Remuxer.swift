@@ -335,6 +335,17 @@ final class Remuxer: @unchecked Sendable {
         lock.unlock()
     }
 
+    /// Encerra na hora a sessão de um canal, sem esperar o ceifador: quem
+    /// parou o ao vivo de propósito não precisa do ffmpeg rodando mais 90 s.
+    func encerrar(_ channelID: UUID) {
+        lock.lock()
+        if let session = sessions.removeValue(forKey: channelID) {
+            session.process.terminate()
+            try? FileManager.default.removeItem(at: session.dir)
+        }
+        lock.unlock()
+    }
+
     func stopAll() {
         lock.lock()
         for (_, s) in sessions {
