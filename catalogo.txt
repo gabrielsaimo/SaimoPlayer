@@ -7837,3 +7837,57 @@ categoria: Filmes e Séries
 logo: https://vipcanais.net/images/amazonprimevideo.png
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
 qualidade: Qualidade não informada
+
+canal: Anime Channel TV
+categoria: Infantil
+
+fonte: https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+qualidade: SD · 640x360
+
+canal: Otaku Sign TV
+categoria: Infantil
+
+fonte: https://stmv1.srvif.com/anime/anime/playlist.m3u8
+qualidade: SD · 1024x576
+
+canal: Geekdot
+categoria: Infantil
+
+fonte: https://stream.ichibansys.com:3764/hybrid/play.m3u8
+qualidade: HD · 1280x720
+
+canal: NBX TV Kids
+categoria: Infantil
+
+fonte: https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: SBC Kids
+categoria: Infantil
+
+fonte: https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Rede Crianças
+categoria: Infantil
+
+fonte: https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+qualidade: HD · 1280x720
+
+canal: Kuriakos Kids
+categoria: Infantil
+
+fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+qualidade: FHD · 1920x1080
+
+canal: Gospel Cartoon
+categoria: Infantil
+
+fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+qualidade: SD · 640x360
+
+canal: Jetsons TV
+categoria: Infantil
+
+fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+qualidade: SD · 640x480
