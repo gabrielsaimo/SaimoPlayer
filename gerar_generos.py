@@ -229,8 +229,16 @@ def main() -> int:
     quantos = 0
     com_capa = 0
     contagem: dict[str, int] = {}
-    for chave, tmdb, capa, valor in db.execute(
-            "SELECT chave, tmdb, capa, generos FROM fichas ORDER BY chave"):
+    # Os títulos do acervo vêm antes dos que saíram dele. Os apps guardam um
+    # nome só por id do TMDB, o primeiro que aparece, e é por ele que acham o
+    # título ao abrir o elenco de um ator: se o primeiro fosse uma grafia que
+    # já saiu do acervo ("O Misterio de Silver Lake (2018)" no lugar de "O
+    # Mistério de Silver Lake"), o filme sumia da lista do ator.
+    no_acervo = {f"{'s' if s else 'f'}|{t}" for t, s in titulos}
+    linhas_fichas = sorted(
+        db.execute("SELECT chave, tmdb, capa, generos FROM fichas"),
+        key=lambda linha: (linha[0] not in no_acervo, linha[0]))
+    for chave, tmdb, capa, valor in linhas_fichas:
         tipo, titulo = chave.split("|", 1)
         generos = [g for g in (valor or "").split("\t") if g]
         if not generos and not capa and not tmdb:
