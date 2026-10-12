@@ -3,7 +3,8 @@
 
 A primeira fonte é a que o app abre; as outras são reserva, tentadas na
 ordem quando ela falha. O nexustvplay é o servidor mais estável hoje, então
-em todo canal que tem fonte dele ela vai para o começo da fila.
+em todo canal que tem fonte dele ela vai para o começo da fila — menos nos
+canais 24 horas, onde o vivlar.me vem antes.
 
 Cada fonte anda com os atributos dela (qualidade, nome, referer, agente,
 chave). Nada é apagado nem duplicado: só a ordem muda. Rodar de novo é seguro.
@@ -16,15 +17,20 @@ CATALOGO = Path(__file__).parent / "catalogo.txt"
 
 # Em ordem de preferência: o primeiro que aparecer no endereço vai à frente.
 PREFERIDOS = ("nexustvplay.bbroot.com",)
+# Categorias com preferência própria. Nos canais 24 horas o vivlar.me vem
+# primeiro: é onde estão as temporadas inteiras, em HLS estável.
+PREFERIDOS_POR_CATEGORIA = {
+    "24 Horas": ("vivlar.me", "nexustvplay.bbroot.com"),
+}
 
 ATRIBUTOS = ("qualidade:", "referer:", "agente:", "chave:", "nome:")
 
 
-def peso(fonte: list[str]) -> int:
-    for i, host in enumerate(PREFERIDOS):
+def peso(fonte: list[str], preferidos: tuple[str, ...]) -> int:
+    for i, host in enumerate(preferidos):
         if host in fonte[0]:
             return i
-    return len(PREFERIDOS)
+    return len(preferidos)
 
 
 def ordenar(bloco: list[str]) -> list[str]:
@@ -44,8 +50,10 @@ def ordenar(bloco: list[str]) -> list[str]:
         else:
             resto.append(bloco[k])
             k += 1
-    # sorted é estável: entre as não preferidas, a ordem de antes fica.
-    fontes.sort(key=peso)
+    categoria = next((l.split(":", 1)[1].strip() for l in cabeca if l.startswith("categoria:")), "")
+    preferidos = PREFERIDOS_POR_CATEGORIA.get(categoria, PREFERIDOS)
+    # sort é estável: entre as não preferidas, a ordem de antes fica.
+    fontes.sort(key=lambda fonte: peso(fonte, preferidos))
     return cabeca + [linha for fonte in fontes for linha in fonte] + resto
 
 
