@@ -114,10 +114,10 @@ Scripts principais:
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |
 | `limpar_canais.py` | testa cada fonte de canal como o app pede, confirma a falha uma segunda vez e, com `--aplicar`, tira as mortas (canal sem fonte sai); erro passageiro (429, 5xx) não mata fonte |
+| `fontes_hls.py` | troca as fontes `.ts` das contas Xtream pelo HLS do mesmo canal (`/live/.../ID.m3u8`): o `.ts` é cortado pelo servidor a cada poucos segundos e o canal recarrega; o HLS fica estável |
 | `medir_fontes_local.py` | mede a resolução das fontes com ffprobe; `--sem-qualidade` só as que não têm, até duas por servidor |
 | `medir_resolucao.py` | mede as fontes HLS pela playlist mestre |
 | `fontes-mortas.txt` | fontes do acervo fora do ar (URLs e `servidor: host`); o `gerar_vod.py` tira delas e título sem fonte viva sai. Vem do `testar_fontes_vod.py` |
-| `limpar_canais.py` | testa as fontes dos canais como o app pede e, com `--aplicar`, tira as mortas (canal sem fonte sai) |
 | `ordenar_fontes.py` | põe as fontes do nexustvplay (o servidor mais estável) na frente de cada canal; rodar depois de qualquer script que mexa no catálogo |
 | `nomear_fontes.py` | dá nome às fontes do catálogo a partir das listas M3U ("[S03]" vira "Temporada 3"), para os canais 24h mostrarem a temporada |
 | `testar_fontes_vod.py` | testa as fontes do acervo: qualidade de cada uma e quais saíram do ar (só relatório, em `arquivos-gerados/fontes-vod/`) |
