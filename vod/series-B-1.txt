@@ -1,4 +1,4 @@
-@Baymax!
+@Baymax!	2022
 1	1	dub	https://embedplayer2.xyz/cdn/hls/fc9009709c8688f5ed98427191aaf3ed/master.txt
 1	2	dub	https://embedplayer2.xyz/cdn/hls/a72b3d400776c8dc3587d2c2af0054b5/master.txt
 1	3	dub	https://embedplayer2.xyz/cdn/hls/68fdbe3872b76eb66be432c37867f8b4/master.txt
@@ -4328,10 +4328,11 @@
 1	1	dub	https://embedplayer2.xyz/cdn/hls/6789e27beaa54dadb0941c5c386375d3/master.txt,11:2399353,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35885.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/59087?hash=08bf588d6548d1a842af1f6b
 1	1	leg	https://cdn-sv01.maximaimg.online/stream/b/black-clover/01.mp4/index.m3u8
 1	2	dub	https://embedplayer2.xyz/cdn/hls/8056ff2e1b6ef09853fe8cc5956954a0/master.txt,11:2399354,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35886.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59088?hash=60e40fda09460e656dfcb565
-1	3	dub	https://embedplayer2.xyz/cdn/hls/b31ebed9096aacdcb679ea28c39f5576/master.txt,11:2399355,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35888.mp4
-1	4	dub	https://embedplayer2.xyz/cdn/hls/98a8f0f1e72788ffdd7cbfda372e26b5/master.txt,11:2399356,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35889.mp4
+1	3	dub	https://embedplayer2.xyz/cdn/hls/b31ebed9096aacdcb679ea28c39f5576/master.txt,11:2399355,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35888.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59089?hash=ca328d3e1ec2fa5d33f01e5f
+1	4	dub	https://embedplayer2.xyz/cdn/hls/98a8f0f1e72788ffdd7cbfda372e26b5/master.txt,11:2399356,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35889.mp4,https://fenixbot.squareweb.app/stream/59090?hash=618101dc9882635c35914e1b
 1	5	dub	https://embedplayer2.xyz/cdn/hls/5967cc0688917594a80111d89ccf17f2/master.txt,11:2399357,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35890.mp4
-1	6	dub	https://embedplayer2.xyz/cdn/hls/5f198df69131ec063b9e8fbbc5203c95/master.txt,11:2399358,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35891.mp4
+1	6	dub	https://embedplayer2.xyz/cdn/hls/5f198df69131ec063b9e8fbbc5203c95/master.txt,11:2399358,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35891.mp4,https://passing-melinda-onomed1-d0cbec40.koyeb.app/stream/59092?hash=5da4c07562be4bba8c6e867a
+1	6	leg	https://cdn-sv01.maximaimg.online/stream/b/black-clover/06.mp4/index.m3u8
 1	7	dub	https://embedplayer2.xyz/cdn/hls/f3b705b9d1394719fbaac5a9d3147e5c/master.txt,11:2399359,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35893.mp4
 1	8	dub	https://embedplayer2.xyz/cdn/hls/19bbed16558ce041c4f5ceb7bdc68cac/master.txt,11:2399360,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35894.mp4
 1	9	dub	https://embedplayer2.xyz/cdn/hls/015d0b89ffaecd542fc7a7d54cf207e2/master.txt,11:2399361,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/35895.mp4

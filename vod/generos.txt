@@ -655,6 +655,7 @@ f	A Estação do Terror (2025)	Terror,Mistério
 f	A Estirpe dos Malditos	Drama,Terror,Mistério,Ficção científica
 f	A Estrada	Aventura,Drama
 f	A Estrada do Medo	Ação,Suspense,Crime,Drama
+f	A Estranha Família de Igby (2002)	Comédia,Drama
 f	A Estranha Hospedaria dos Prazeres	Terror
 f	A Estranha Perfeita	Suspense,Crime,Mistério
 f	A Estranha Perfeita (2007)	Suspense,Crime,Mistério
@@ -8614,6 +8615,7 @@ f	Jester: Não Dá para Enganar A Morte Duas Vezes	Terror,Suspense,Crime
 f	Jesus	Família,Música,Fantasia
 f	Jesus - A História do Nascimento	Drama
 f	Jesus Kid	Comédia,Faroeste
+f	Jesus: A Maior História de Todos os Tempos (1999)	Aventura,Drama,TV
 f	Jesus: Seguindo os Passos do Messias	Documentário,História
 f	Jeungin	Crime,Mistério,Drama,Guerra
 f	Jewel Thief - The Heist Begins	Ação,Suspense
@@ -12571,7 +12573,7 @@ f	O Mestre das Ilusões	Terror,Fantasia,Drama
 f	O Mestre das Sombras	Ação,Fantasia,Suspense
 f	O Mestre do Crime	Ação,Comédia,Crime
 f	O Mestre dos Desejos (1997)	Terror,Fantasia
-f	O Mestre dos Desejos 2	Fantasia,Terror
+f	O Mestre dos Desejos 2 (1999)	Fantasia,Terror
 f	O Mestre dos Desejos 2 - O Mal Nunca Morre	Fantasia,Terror
 f	O Meu Nome é Bill	Comédia,Drama,Romance
 f	O Meu Pequeno Eu	Drama,Família
@@ -16363,6 +16365,7 @@ f	Shooting Stars: A Vida de Lebron James	Drama
 f	Shopkins: Aventura Selvagem	Animação
 f	Shortbus	Romance,Comédia,Drama
 f	Shortcut	Terror,Aventura,Fantasia
+f	Show Bar (2000)	Comédia,Drama,Música,Romance
 f	Show Dogs: O Agente Canino (2018)	Aventura,Crime,Família,Comédia
 f	Show de Vizinha	Comédia,Romance
 f	Showbiz Kids	Documentário,História,Drama
@@ -19274,6 +19277,7 @@ f	Voando para Casa	Aventura,Drama,Família
 f	Voando para o Amor	Romance,Comédia
 f	Voando para o Amor (2013)	Romance,Comédia
 f	Voce Deveria Ter Partido	Terror,Suspense
+f	Voce Ja Foi a Bahia? (1944)	Animação,Família,Música
 f	Voce Vai Morrer em 6 Horas (2024)	Suspense,Mistério
 f	Voce e meu Tesouro (1967)	Aventura,Comédia,Música
 f	Voce e o Proximo	Terror,Suspense,Mistério
@@ -19281,7 +19285,6 @@ f	Você Acredita?	Drama
 f	Você Dorme Comigo	Romance,Drama
 f	Você Está Aí	Terror
 f	Você Está Sendo Filmado	Comédia
-f	Você Já Foi à Bahia?	Animação,Família,Música
 f	Você Me Deixa Louca	Comédia,Romance,Fantasia
 f	Você Nem Imagina (2020)	Comédia,Romance,Drama
 f	Você Nunca Esteve Realmente Aqui	Crime,Drama,Suspense
@@ -29551,7 +29554,6 @@ f	A Estação da Alegria	TV,Comédia,Romance,Drama
 f	A Estação do Terror	Terror,Mistério
 f	A Estrada (2009)	Aventura,Drama
 f	A Estrada 47 (2014)	Guerra,História,Drama
-f	A Estranha Família de Igby (2002)	Comédia,Drama
 f	A Estranha Vida de Timothy Green (2012)	Fantasia,Drama,Comédia,Família
 f	A Estrela de Belem (2017)	Animação,Comédia,Aventura,Família,Fantasia
 f	A Experiencia (1995)	Ficção científica,Terror,Ação
@@ -35894,7 +35896,6 @@ f	Jesse James - O Roubo do Trem Negro (2018)	Faroeste
 f	Jester: A Morte Sorri	Terror,Suspense
 f	Jesus - A História do Nascimento (2006)	Drama
 f	Jesus Kid (2022)	Comédia,Faroeste
-f	Jesus: A Maior História de Todos os Tempos (1999)	Aventura,Drama,TV
 f	Jesús de Nazareth (1942)	História,Drama
 f	Jexi: Um Celular Sem Filtro (2019)	Comédia
 f	Jigarthanda DoubleX (2023)	Ação,Drama,Comédia
@@ -38949,7 +38950,7 @@ f	O Mestre das Sombras (2022)	Ação,Fantasia,Suspense
 f	O Mestre dos Brinquedos 4	Terror
 f	O Mestre dos Brinquedos II	Terror
 f	O Mestre dos Desejos	Terror,Fantasia
-f	O Mestre dos Desejos 2 (1999)	Fantasia,Terror
+f	O Mestre dos Desejos 2	Fantasia,Terror
 f	O Milagre	Drama
 f	O Milagre de Fátima (1952)	Drama
 f	O Milagre de Natal (2021)	TV,Drama,Romance
@@ -41852,7 +41853,6 @@ f	Shooom's Odyssey (2019)	Animação,Família
 f	Shooting Heroin (2020)	Drama,Ação,Suspense
 f	Shooting Stars A Vida de Lebron James (2023)	Drama
 f	Shopkins: Aventura Selvagem (2018)	Animação
-f	Show Bar (2000)	Comédia,Drama,Música,Romance
 f	Show Dogs: O Agente Canino	Aventura,Crime,Família,Comédia
 f	Show de Vizinha (2004)	Comédia,Romance
 f	Shrek (2001)	Animação,Comédia,Fantasia,Aventura,Família
@@ -43965,7 +43965,6 @@ f	Voando Para Casa (2014)	Romance
 f	Voando para Casa (1996)	Aventura,Drama,Família
 f	Voce Acredita? (2015)	Drama
 f	Voce Deveria Ter Partido (2020)	Terror,Suspense
-f	Voce Ja Foi a Bahia? (1944)	Animação,Família,Música
 f	Voce Nao Pode Beijar a Noiva (2011)	Ação,Crime,Comédia,Romance
 f	Voce Nem Imagina (2020)	Comédia,Romance,Drama
 f	Voce Nunca Esteve Realmente Aqui (2017)	Crime,Drama,Suspense
@@ -43974,6 +43973,7 @@ f	Voce Viu Andy? (2003)	Documentário,Crime,Mistério
 f	Voce de Novo (2010)	Comédia,Romance
 f	Voce e o Proximo (2013)	Terror,Suspense,Mistério
 f	Você Está Apaixonado, Charlie Brown	Animação,Comédia,Família,Romance,TV
+f	Você Já Foi à Bahia?	Animação,Família,Música
 f	Você Já Viu Vagalumes? (2021)	Drama,Comédia
 f	Você Nao Ta Convidada pro Meu Bat Mitzva! (2023)	Comédia,Drama
 f	Você Nem Imagina	Comédia,Romance,Drama

@@ -1252,7 +1252,7 @@
 5	19	dub	11:2149844,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213589.mp4
 5	20	dub	11:2149845,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/213590.mp4
 @Magnum PI	2018
-1	3	dub	https://embedplayer2.xyz/cdn/hls/67122b10d88e4cfbf405d444e60e64de/master.txt
+1	3	dub	https://embedplayer2.xyz/cdn/hls/67122b10d88e4cfbf405d444e60e64de/master.txt,http://fenixflix.fenixhub.online/r/dT7z10AF479vUkaPXFi0HiG3FD53WVIAQ3jeTk0xl9O1Mn6yCNh8Y5xbL2TQsmpAramLuJzVB9YiPFSnPj5CwOKuRwWIboq4xmCNwd_mmpiu/video.mp4,http://fenixflix.fenixhub.online/r/3MwWwfqk79e0glDMN2svej-1Urr0dUKBdTGQgF0fstjrimJUhWpJfwiS1i3ySm8LURMySl5YQ3lkqknnh5ndQ_B4U-IzyApD-FApQA/video.mp4,http://fenixflix.fenixhub.online/r/GXoTce9lLz6xyd1Qr4buSww2tB5RE4yJHfIymvA_ZKGulSVug9mfAi92VWAnvMeTKzxlkZqSxB92GAl__q4cP903mNppNxkboxh1AvpLN24/video.mp4,http://fenixflix.fenixhub.online/r/nOI_xIIjBvPYiiQ1WC_f0rUbXNbr4-DkWybhQQG88Tl1udgm9h4fAhugKY2Bi0Qs7Eb_eF5T_aRrvza8-dV-p0FOuC9bgayLHycc0YCfMT6TUv5suEixfuRY0EImuA/video.mp4
 1	13	dub	https://embedplayer2.xyz/cdn/hls/fda1c2f82d4702dac854c5ffffae5035/master.txt
 1	14	dub	https://embedplayer2.xyz/cdn/hls/0ffeabdcceab9204ba141ce7e32489c1/master.txt
 1	15	dub	https://embedplayer2.xyz/cdn/hls/36656d198f443a3d9fdd57e074e108cf/master.txt
@@ -1303,7 +1303,7 @@
 1	27	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/270312.mp4
 1	28	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/270313.mp4
 @Magos Contos da Arcadia
-1	1	dub	11:2229647,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146734.mp4
+1	1	dub	11:2229647,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146734.mp4,http://fenixflix.fenixhub.online/r/D7aZNSGIvb2X6fM4dajtjOJ3PxDChqzb4GqNa9-SuBZMF0vorG2w74XBzw1Yfh3zFxYUD9CYs9ZWWlp7mSR-8RpMV34uZ_XUGLQ35K3XKoqr/video.mp4
 1	2	dub	11:2229648,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146735.mp4
 1	3	dub	11:2229649,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146736.mp4
 1	4	dub	11:2229650,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146737.mp4
@@ -1314,14 +1314,14 @@
 1	9	dub	11:2229655,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146742.mp4
 1	10	dub	11:2229656,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146743.mp4
 @Magpie Murders	2022
-1	1	dub	https://embedplayer2.xyz/cdn/hls/aa325f47af58c8dfe65fd1db1058ae46/master.txt,11:2301386,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251451.mp4
+1	1	dub	https://embedplayer2.xyz/cdn/hls/aa325f47af58c8dfe65fd1db1058ae46/master.txt,11:2301386,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251451.mp4,http://fenixflix.fenixhub.online/r/y_vRr7jtjjWvbO0F-NxHvu4ckynsT3qvWz18vAL4v935Bfb7yHge_JtYbNlN2ZfcLFvPiDEOPobYxlu3XZ4eazsu1AXH2HAcDHIjaG0Rs3bs/video.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/bad94b7e4b3cdee1f51ea0caf8c5c60e/master.txt,11:2301387,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251452.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/032f73b664d253bed515867a11c3aadf/master.txt,11:2301388,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251453.mp4
 1	4	dub	https://embedplayer2.xyz/cdn/hls/e6a6693c8e6bcba943747ac826ab3140/master.txt,11:2301389,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251454.mp4
 1	5	dub	https://embedplayer2.xyz/cdn/hls/acae7581dbb8bdbac0e2b5ec7a48557e/master.txt,11:2301390,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251455.mp4
 1	6	dub	https://embedplayer2.xyz/cdn/hls/7799dec162fd2983d42f2cfcdf1b053d/master.txt,11:2301391,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251456.mp4
 @Magreza na TV A Verdade de The Biggest Loser
-1	1	dub	11:2229644,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146744.mp4
+1	1	dub	11:2229644,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146744.mp4,http://fenixflix.fenixhub.online/r/CFp-LJIxRuMTd5rwWllMc6NWgSkGze5Jrg1oljk14IL5v-rW5jigYhsrdHdxQPK99Ulz-ac_KYv4vumpqwO-3Ndvj37nUsZ9tcNYdNkxpvoE/video.mp4
 1	2	dub	11:2229645,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146745.mp4
 1	3	dub	11:2229646,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146746.mp4
 @Maguila Prefiro Ficar Louco A Morrer De Fome
@@ -1394,7 +1394,7 @@
 1	11	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38866.mp4
 1	12	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/38868.mp4
 @Maid
-1	1	dub	11:2229634,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146747.mp4
+1	1	dub	11:2229634,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146747.mp4,http://fenixflix.fenixhub.online/r/B70C_cKuat32dUxRQO2mzaU5lQpy4vDUWQ1uLK69g2HM6s7WU5kSzbcP57qTIeDrURpppqccTw3aoeHoX9SD_HSDQ75jRKdHEYOwoe-4gP8w/video.mp4,http://fenixflix.fenixhub.online/r/KjISSZjf81VpPeznEeoP8qQvHinItaPPMVTLAAAu5pyJcTKDLMtJUuFmyw4Qrm7N1vbjkEjay7vtkoKKuXcc8tsurhna28zR-sCRnA/video.mp4,http://fenixflix.fenixhub.online/r/5zQ5vSXJq9_AXl7tBTx34dRWJgsjP1QHVegYw-xrYvnbwdnKnlD6WPt07bwT63S5iqgdA7tTI35r3ES9_f6G-mTKUN8pELccxI7-LpzVONc/video.mp4
 1	2	dub	11:2229635,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146748.mp4
 1	3	dub	11:2229636,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146749.mp4
 1	4	dub	11:2229637,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146750.mp4
@@ -1418,7 +1418,7 @@
 1	4	leg	11:2288185
 1	5	leg	11:2288186
 @Maior a Luta
-1	1	dub	11:2165604,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/229449.mp4
+1	1	dub	11:2165604,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/229449.mp4,http://fenixflix.fenixhub.online/r/AhdUa9oYORY4LOQKxFnOtxD3BLMbK0SNishaYZHDO1GqppEqEkb7ylfesULbszbXBLRgVb3a_RlI0NbgKLXeXUveoeCI_2Gs_fcWiw/video.mp4,http://fenixflix.fenixhub.online/r/5AodpmCMUwD7GH-2wxpUXW4TojvbIamrnKcSLSoWxlhmWQLbtgNZYCAnIea7FG5X-4ILF3DRN47trLTrJbtLVNPk_o-htTQjF_Zr9J7yEn8/video.mp4
 1	2	dub	11:2165605,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/229450.mp4
 1	3	dub	11:2165606,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/229451.mp4
 1	4	dub	11:2165607,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/229452.mp4
@@ -1508,7 +1508,7 @@
 1	9	leg	11:2288195
 1	10	leg	11:2288196
 @Mais Um Final Feliz
-1	1	leg	11:2288197
+1	1	leg	11:2288197,http://shd12.oneplayer.site/token/SHD12/65187/1x1LEG.mp4
 1	2	leg	11:2288198
 1	3	leg	11:2288199
 1	4	leg	11:2288200
@@ -1525,7 +1525,8 @@
 1	15	leg	11:2288211
 1	16	leg	11:2288212
 @Makanai: Cozinhando para A Casa Maiko
-1	1	dub	11:2194018,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84420.mp4
+1	1	dub	11:2194018,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84420.mp4,http://fenixflix.fenixhub.online/r/64gPKvBgavBLkdzVTV-7IOw4OpbUk1q8E7yjngn1hwXgREBee5O1TMqqPdGXmE9obSldgxu0XQ415vctyFbJklgadMlkglkrCzkRMtkdynUB/video.mp4,http://fenixflix.fenixhub.online/r/UYIN3Uj8popKpo_pTE-Tj3X62t94Sf5io599VllPkwLls63Y0oQje8Pf55ZZv1gLW0V3TF2vG6EzmCwb4J4tJRjzAFYNhxkWksEqig/video.mp4,http://fenixflix.fenixhub.online/r/4Ror9ZqCKntKq7rlYWHJamJqZvEfPKodESvtj42mP1P2Qth2V1iujUDUyIAVXNw7mSA0agQnyMlJ-6owobQvBRGa9thsk0oqQpXuJQpbY9I/video.mp4
+1	1	leg	https://dj0vkl2i4vsbo.cloudfront.net/convert/A%20Queen%20for%20the%20Mafia%20Kings/en/2026-03-11%2016:56:49/1_.m3u8
 1	2	dub	11:2194019,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84421.mp4
 1	3	dub	11:2194020,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84422.mp4
 1	4	dub	11:2194021,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84423.mp4
@@ -1535,7 +1536,7 @@
 1	8	dub	11:2194025,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84428.mp4
 1	9	dub	11:2194026,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84430.mp4
 @Mako Mermaids
-1	1	dub	11:2229843,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146765.mp4
+1	1	dub	11:2229843,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146765.mp4,http://fenixflix.fenixhub.online/r/kObcNio7vNJwOiaJubRcbaC5uh4nFBuIjFEvsNPgFzl0cM3Yp1MsIpmyNAF4yDIQY7UcqlmRVg_0eYH-B4VKwQxzKd-Lh97LRdiLcl8gOVu0/video.mp4,http://fenixflix.fenixhub.online/r/puAWt43vEbon9BUWmqT5vWvMb9FsnjyaVx3GMzsXte2ua58_6ZAstsvoK-9Xjo9oE3p96ySGch-xQyt7XwMnGTKSAx1mnUKKpIICKOI/video.mp4,http://fenixflix.fenixhub.online/r/RwW4_fzVOv6FbNkLnW7o7vOm4QiVMJWXZG-WAEFiWIr2PFhUF0z9x2cv1l1zOWPWdEzQtpOrfNw2o2ur2O4YfDkaApeh1DP0PQQ8LhPNjQk1/video.mp4
 1	2	dub	11:2229844,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146766.mp4
 1	3	dub	11:2229845,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146767.mp4
 1	4	dub	11:2229846,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146768.mp4
@@ -1604,7 +1605,7 @@
 4	15	dub	11:2229909,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146831.mp4
 4	16	dub	11:2229910,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146832.mp4
 @Mal de Amores
-1	1	dub	11:2470926
+1	1	dub	11:2470926,http://fenixflix.fenixhub.online/r/8-OdSthO6Ro5czsWPWErppTceH2Tod9PrRCbjWRh4-iDjVXywAc3bMjdAYL8lYv6r71KBQk63jOD-OIQoES0jNb_h6_vtz0C8_l_mOs/video.mp4,http://fenixflix.fenixhub.online/r/bUN1fRHDFmYCkFPK9uaG8_3Mnm602fEjbtA24JsuBMVjLMHssG1VHByE-g3PdyjMPl0yFamye8Us7sb2FSf5cZd-ogXE-rkgy380ti8sr5mo/video.mp4
 1	2	dub	11:2470927
 1	3	dub	11:2470928
 1	4	dub	11:2470929
@@ -1612,7 +1613,7 @@
 1	6	dub	11:2470931
 1	7	dub	11:2470932
 @Mal de Família	2022
-1	1	dub	https://embedplayer2.xyz/cdn/hls/e748013dc9f76533369470c75b14a668/master.txt,11:2171667,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31059.mp4
+1	1	dub	https://embedplayer2.xyz/cdn/hls/e748013dc9f76533369470c75b14a668/master.txt,11:2171667,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31059.mp4,http://fenixflix.fenixhub.online/r/iyQSSDZkBxELOR0nmoJ04HUQtUUEapVZcOjwLiPkTZ4u8c_PdKYC_WKNupjhrxgLq8O7-A67FJ3RFxLDqMa7Vv8Ss6EXFaVPElH-tCqnG-g3/video.mp4,http://fenixflix.fenixhub.online/r/EDBgKXjdF50jfoCN0_rNzKQjPpB33Bx_r-jiCkwBMA-zL0aUWfxOsqTUvH5FnCQwOdgmh0d9NgBsdVHwiFWm76CbBBpHQExX9FKziQ/video.mp4,http://fenixflix.fenixhub.online/r/nv3-Ndujb3SFH4TguAq1sSZLaHphGiHMvK18qbQ0COaGRQm_OvY8GPPCSyjDTegDIdESyORnKHriAICoiH7bzMavjegSWwEHNsXd6CFwtl0/video.mp4
 1	2	dub	11:2171668,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31061.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/9e91ac68c8f0ddf09c18781c65e728d1/master.txt,11:2171669,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31062.mp4
 1	4	dub	11:2171670,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31063.mp4
@@ -1631,7 +1632,7 @@
 2	7	dub	11:2171683,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31080.mp4
 2	8	dub	11:2171684,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/31081.mp4
 @MalaYerba
-1	1	dub	11:2269302,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44747.mp4
+1	1	dub	11:2269302,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44747.mp4,http://fenixflix.fenixhub.online/r/pLI1_EseX32Sp43JKxDBWu8L-HY2er7GR8U60ITlOsqbw2nOz0hg9qf6-bv47-FOnxrTw_UquceMEdsCBq2QMfJaRkTEU57YO15PYzidADu8/video.mp4,http://fenixflix.fenixhub.online/r/b_PJUeJngEb0weytuzGsMiKdaQlQqpkCnD95JnYIRBOJ39-cV6lKReW61j5zcdGg2a4c3_ApBvbsWiB8544nCSfhUtoTr3ir5-sWrA/video.mp4,http://fenixflix.fenixhub.online/r/5X3HMR2fzyAxRVQ19FU4oI_qYb2OJ-xO_8iOlXH5n0GOAWUiR_q4x_8Kb2D4OoPqL9jj4BTzoxQIBpoCFIEWKLpAevsiBCSYJKEE1UU0Q4Q/video.mp4
 1	2	dub	11:2269303,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44748.mp4
 1	3	dub	11:2269304,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44750.mp4
 1	4	dub	11:2269305,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44751.mp4
@@ -1642,8 +1643,8 @@
 1	9	dub	11:2269310,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44757.mp4
 1	10	dub	11:2269311,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44758.mp4
 @Malcolm
-1	1	dub	11:2181458,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/67180.mp4
-1	1	leg	11:2288220
+1	1	dub	11:2181458,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/67180.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/615?hash=c08795a0356d8b49e3bcc143,http://fenixflix.fenixhub.online/r/kVbtt2SSe7ek-mk23NH1kZVzX7stejNjA19EJ6aM8ZeGrQ8wmQ7q7kRfwz5p33i_rtepz5zrLEyelPwS2_Jg37UU2qGyp87VsXjQEEGKdZSy/video.mp4,http://fenixflix.fenixhub.online/r/5mtV2yisTiV8g6YLfTT88G_6A2ORm0_94lJKJT9pr0n1rBavv7MV1ko1-MqilR7GbcDjBGTlEzJ21SdRs2ZOaO3fE_TeP1MZJObx6w/video.mp4,http://fenixflix.fenixhub.online/r/ba_w9YOGMvT6b0ocwHoseTjLXZYMpWQXf35OXa6kcF0ms0at5aQNiXY49lL5xFAgEJnhAZ5BfBgjGaM7EwTCANdckAXa2x7kv67VO_g_-p8/video.mp4,http://fenixflix.fenixhub.online/r/2-azlRkG77lrssnYzltcRiqYfq96ItHPGBrshRfiI0q94i1gixFDoxRumzoKhgdP-sJY4tnxhTpXQ9-B-xj0kYz45I-0IF8QwN6k6MU0c4PpZ7Q/video.mp4,http://fenixflix.fenixhub.online/r/ACn-Y0STigYQZBU9pC3hs8XyY_9qvDy48V0fSkLMly9CmBgnBsHo1IQLJ8Df0vJMDyAx76i3lvFLdwcACPEALUL2XFpljos81zEfvrtw1zgZMHAQXd3Hyea68FF6/video.mp4
+1	1	leg	11:2288220,http://fenixflix.fenixhub.online/r/smo3ZLGBMPJ-yvwjVoGim_i_fX4vjAXIuogiKYJNmSQcbD-s3Ep2EP6SGZD6EoyhvOPV1pmE8aURolEXMwzO0Kd9pvx4tuoDq7F6jmydDALeFOz6nXRlX_i9UjqP/video.mp4,http://fenixflix.fenixhub.online/r/cPAiRW85QsLD3BN6famDZTFYMnMA2EbiO-UKOyQrfeMp_ARSWeDSwSSSVPDEAf4WwQj16iMUkt6XQYg3fSd6n_NOehHRdfs9DXFKQ2LJxOH_HQw/video.mp4
 1	2	dub	11:2181459,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/67181.mp4
 1	2	leg	11:2288221
 1	3	dub	11:2181460,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/67182.mp4
@@ -1826,19 +1827,19 @@
 7	21	dub	11:2181598
 7	22	dub	11:2181599
 @Malcolm A Vida Continua Injusta	2026
-1	1	dub	https://embedplayer2.xyz/cdn/hls/ec7013dfb6c73dfed9172d5ce380d1b9/master.txt,11:2301504,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251903.mp4
+1	1	dub	https://embedplayer2.xyz/cdn/hls/ec7013dfb6c73dfed9172d5ce380d1b9/master.txt,11:2301504,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251903.mp4,http://fenixflix.fenixhub.online/r/Fwilbh2CUXnvn8rUiNnMEexVLZyKX9KY1GXn9CvVJWUBuPo0IJZX1gw-T1yImrcyf-V9zZSQgp8tnxX9Vy8PbUezav5MkoL0A0tRDwRJOIDu/video.mp4,http://fenixflix.fenixhub.online/r/KjFRQhiwRFKCrGQYg0rpuTMrvKTMBuRXMqL5REUTAI5g28BWuLs6YWL3D7y3OBG9yDBXBSN_6ygmf8lhevwup9z23LOX8Ir2bte_zQ/video.mp4,http://fenixflix.fenixhub.online/r/U7hzji_kgHMRODATH1a8hh083Y6id_e5xUKS3L8IFiN02PfVlIswMZMAP6mdWnh0ONnLaFLkC9a5uN9-J6oskneLo0QUJqz9o3T1iOaMpdw/video.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/ea897bde44efad0af554584991fa7534/master.txt,11:2301505,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251904.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/9945f7c286e9f3214f486e5523f4bc01/master.txt,11:2301506,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251905.mp4
 1	4	dub	https://embedplayer2.xyz/cdn/hls/356cbebce1ec260655fd1b9d60ce4b6f/master.txt,11:2301507,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/251906.mp4
 @Maldade	2025
-1	1	dub	11:2409465,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12774.mp4
+1	1	dub	11:2409465,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12774.mp4,http://fenixflix.fenixhub.online/r/aSeg-QBmA2b-sLuAE0JxLmum00GJN6LrcdGDGNY7kx9u2-fgcI4fuXK0-lLzq-Ju5SczBcocrd7VZoeeoYOKVU3lsimhsMMWCx0PoHxEAV49/video.mp4,http://fenixflix.fenixhub.online/r/JkdAVQCugsrMnLI32leJ4R1vh1RfLIDyQD7imXbDpEAosyQTm9Pn_15IfsHv-d5uoz3s1utjgV6J8g5Q8IQG6eCJK0zwmZUbsxkBPx0/video.mp4,http://fenixflix.fenixhub.online/r/M8l9GQ0AZaeQ6vHKKD0DmYyaRSd7eu0TZevceBBIv2u_HtCB3koPQjyoDLfBJDNUXuryKiMa97bef67i5oFRKR3JDUxoz8en3u68Z6Ucs6h0/video.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/e5e4d37dbc1356e7c0948fdcd2a1f76e/master.txt,11:2409466,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12775.mp4
 1	3	dub	https://embedplayer2.xyz/cdn/hls/f8223e80af84092ff5f7925499c6c3d4/master.txt,11:2409467,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12777.mp4
 1	4	dub	11:2409468,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12778.mp4
 1	5	dub	https://embedplayer2.xyz/cdn/hls/80fef1fa4cfaa5a2653e37552ef182c4/master.txt,11:2409469,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12779.mp4
 1	6	dub	11:2409470,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12780.mp4
 @Maldicoes da Historia
-1	1	dub	11:2246218,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/52660.mp4
+1	1	dub	11:2246218,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/52660.mp4,http://fenixflix.fenixhub.online/r/QYsyze9EjToKNAsXAA3pPmBmI20ycRO0RXjBD3k-rVnU67q4Ud99lHmUsFchX-PXQ7uENG3mFnOiFHfzbROge94LoW1Dxw9zjuMdQOt3XaJK/video.mp4,http://fenixflix.fenixhub.online/r/l37IQHvP3MMfI31UHJZ10vmj8kNlZoiS6LORd5Cb4T-nZQvLjtBquDCudG7CkJnjuN6O5M6JLRvTmywOd5trsa7hf1mjdxkpVVQO9A/video.mp4,http://fenixflix.fenixhub.online/r/W3eqIrTcguUcyKh42HKvTtixE-MIrB7hbPNNvvz8zAb4c3YfraZWA1X727ZevntWkK9WUvBcEildzRQlhq_wgkYIQAt0PZoGOoWH5JimcQ8/video.mp4
 1	2	dub	11:2246219,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/52661.mp4
 1	3	dub	11:2246220,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/52663.mp4
 1	4	dub	11:2246221,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/52664.mp4
@@ -1856,7 +1857,7 @@
 1	9	dub	https://embedplayer2.xyz/cdn/hls/4a6e536d04946d9431000c8fb59ba18a/master.txt,11:2208447,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12793.mp4
 1	10	dub	https://embedplayer2.xyz/cdn/hls/a690bfd4e7208f88d380aaca93ccff40/master.txt,11:2208448,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12795.mp4
 @Maldito Rap
-1	1	dub	11:2127413,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123703.mp4
+1	1	dub	11:2127413,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123703.mp4,http://fenixflix.fenixhub.online/r/UQSjaFiS3XG5FAnn4ekmWtYJGsyy7xhj9U-CoNxz28xJYk89c_r2MN977tgSr5GVI7s8dBajVOKf6guOOVp4MWQqM98SmZLfvNZfn7Awa9th/video.mp4
 1	2	dub	11:2127414,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123704.mp4
 1	3	dub	11:2127415,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123705.mp4
 1	4	dub	11:2127416,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123706.mp4
@@ -1884,7 +1885,7 @@
 1	9	dub	11:2162319
 1	10	dub	11:2162320
 @Malditos
-1	1	leg	11:2288213
+1	1	leg	11:2288213,http://fenixflix.fenixhub.online/r/I_oBggnL9EZGOR1KokNikMQDDlBKl8bgvJ0ccgPhWiEyuf_S-6igk58RGZlbXQFNjU_p9QJCuoVlSsPy_QMC2kQmmgIeP10TBbqj7w/video.mp4,http://fenixflix.fenixhub.online/r/pVRgqux8i-g2kAPynzajG58LsgPg1Qg4xG3fwZ_WDCzFCp71um_b9dUf5TmdoxmoIrXoNao6Unte__Br-SsYs4EqqW5-HNqt0dsykb78Wko/video.mp4
 1	2	leg	11:2288214
 1	3	leg	11:2288215
 1	4	leg	11:2288216
@@ -1892,7 +1893,7 @@
 1	6	leg	11:2288218
 1	7	leg	11:2288219
 @Maldivas
-1	1	dub	11:2229627,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146843.mp4
+1	1	dub	11:2229627,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146843.mp4,http://fenixflix.fenixhub.online/r/y7jwMkIL8asI8g__cKPfa_7fAwl6zsg8vIVORDG0fEK-3ElvRJ5nAiWg40Uk6U89cxCCdrngxaNxaEKnPD3aKMzTGEaE1GTPt46pZQsubXd_/video.mp4,http://fenixflix.fenixhub.online/r/HrOO2dKGNgp3FZ8d1nAHFKbCjHHemJ5CtvslkH3N5L1Zn5uI6JmJLEKy1tOaVgrnAwJO4RHbx8ZYRx8BTQmkL4Cuokp9DxAUieQt/video.mp4,http://fenixflix.fenixhub.online/r/2GM_0M8IyOQ0AYU-j_62o3LhX7Mef6ykuI03uguWjHm7pJrGcTPQ-6K5uArMau-choGYAOTAM2dDcfcb9iPAn-wMO2XwseaTmhBetLC67g/video.mp4
 1	2	dub	11:2229628,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146844.mp4
 1	3	dub	11:2229629,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146845.mp4
 1	4	dub	11:2229630,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146846.mp4
@@ -2360,7 +2361,7 @@
 3	65	dub	11:2351871,11:2352647
 3	66	dub	11:2352648
 @Malhacao	1995
-1	1	dub	11:2322389
+1	1	dub	11:2322389,http://fenixflix.fenixhub.online/r/5BeqTdzEFB31qvAyKOGJrAKA0BAaznbpTtz_KHqRHQJ5ir6cMJ84qlRbG-Un_h0UQkY5r0tWmC68lXiWe7VA-sk4C_QNlq-VlpQV5nlhX98S/video.mp4,http://fenixflix.fenixhub.online/r/3LRF39wFpDYGI3xH0s5jwR0nDCTmYZp0nwCYAh_Sol8cpA5Q2GIKCAWLLFFqVIb4TNinWpQ8JMQL7PkDxeRQLuTd3VEtNHLa7C6kmA/video.mp4,http://fenixflix.fenixhub.online/r/twuVp-cIanskuBKT9hCPrHnyqUvJQp5JQgMG2fZE2oUG6TJpbmOvLbKh5dbTHb3eZrdmMK2IztEbXSSyqRtLkzOdGvQUG0BYcGBzoNCvRm8/video.mp4,http://fenixflix.fenixhub.online/r/pINlsFUrzw3kn431gedrphPYx4O5DKN4hJtJqNQSJ560xkHQXWDPCRBovuG3-SfrSvJc4BMAcpN7Uo7vVkZD7-4h_J7EqePA-ZB50XpK-wZ4L_M/video.mp4,http://fenixflix.fenixhub.online/r/rX4g2IWSu-GLPLg9yI5XBsIFjI1S5HW7ZPtb4SMYAJj-eKZUPRvGMVkUWVKBN2jJo9rHw18NaHj9pVqlFQaze8CNRqMH21j_7JAGRAVcyFXZ54o/video.mp4
 1	2	dub	11:2322390
 1	3	dub	11:2322391
 1	4	dub	11:2322392
@@ -2540,7 +2541,7 @@
 1	178	dub	11:2322566
 1	179	dub	11:2322567
 @Malhacao Pro Dia Nascer Feliz
-1	1	dub	11:2322209,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182231.mp4
+1	1	dub	11:2322209,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182231.mp4,http://fenixflix.fenixhub.online/r/uP6JSB2GDlCH8C8EF7kfwZuGkTuJHTOmj9u8aOJwMUILBXN2vysL9Ae6Nt2jESATF2JSdfUuhUFd5yMiE4vMZ1RobS5EbjjllN1D8X_94_SQ/video.mp4,http://fenixflix.fenixhub.online/r/7xW6jbTnf3YnihCsDGt9dUZMkud0SiZsPQKPCtJ0v-dRSED5yxzGLQ_oXIIx6noziKrclFVG9uow2NkQvUx73HVhp0cPxkJmiMubAw/video.mp4,http://fenixflix.fenixhub.online/r/iYyKVDapO4C_dEWH_zKelxyCHZckk8Z4_fx4uZ0dC3tBCW0TyAKMwIVIAgckUEPxHUFGd8rgKi6vOrkd7negYHR6CMxbgbq2EJmVQ3_ahLo/video.mp4,http://fenixflix.fenixhub.online/r/SzlAh7xsg7kz_jjQjS8qh3rd6oqSpfCAw-REvdCPxxqNW-KUbKrFLzHRQpSF4hFQ2vMln72upoKFxm6LIFRbT5sB8sQ9LiOQRNd-86yIugRZhCc/video.mp4,http://fenixflix.fenixhub.online/r/BRHsE1l5UAFxQbg3rCqW7mflNgh2yPlvfpgktM_iYhoCINoK3ZNuhMoLXnQObds0tNMcKkuGbE8xN_nTqFf_7XQv62pjH_o70CCOH7gHZRAkWcI/video.mp4
 1	2	dub	11:2322210,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182232.mp4
 1	3	dub	11:2322211,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182233.mp4
 1	4	dub	11:2322212,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182234.mp4
@@ -2721,7 +2722,7 @@
 1	179	dub	11:2322387,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182409.mp4
 1	180	dub	11:2322388,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182410.mp4
 @Malhacao Toda Forma de Amar
-1	1	dub	11:2323364,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182411.mp4
+1	1	dub	11:2323364,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182411.mp4,http://fenixflix.fenixhub.online/r/BARnhjqlZnkM69JXk2uC7Xb-z-iOPyDNhcK21ch_bXJj0GMMS_DI6Ozbf8SMARxws-URF9jY4WhrMqJiNItRDcksAG0DjR7t2aFy-ALnx71a/video.mp4,http://fenixflix.fenixhub.online/r/dm3aSaU7t-O2Th6Bk-hzUlUEWa2wOiqY5qQUD-Dp5UZOFIjaVTnPObm_ZIQvCIuFcZ7r4KL5OMRyV1dhUNVuRp_1pLoMg0B757Na8Q/video.mp4,http://fenixflix.fenixhub.online/r/XgKY61lF0J_zulxEhHhesSYZXK2v5ffI8dP2fyu9AvVabCbPVhOQ4d1j8EGJH-39hYuDu2Boaz4l34nsnPzHzKyd827y33C9Q9ttSUeOE0Q/video.mp4,http://fenixflix.fenixhub.online/r/hmTSGpXRJZsYsdLKH0VR7hIAKxv5nWiAsUgaIKIDy0w6ozBz5WwraFIFbQasjK7LOUQoAJf1rFiINFcG-IMnb4i9a_MUThUil4BGGk4WZV8aAQ8/video.mp4,http://fenixflix.fenixhub.online/r/9fbZkqNhZDUDSyBMZwBujha_mGrzQ6vhmDG8ggnAQpm17JnXe_VVmbrjBsu-xyMInVq05M2DCtnO-wzGdEJCZdNNnIGhBpeAB9RZ_1d8Wt8kJzQ/video.mp4
 1	2	dub	11:2323365,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182412.mp4
 1	3	dub	11:2323366,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182413.mp4
 1	4	dub	11:2323367,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182414.mp4
@@ -4140,7 +4141,7 @@
 3	50	dub	11:2321834
 3	51	dub	11:2321835
 @Malhação	1999
-1	1	dub	11:2320487
+1	1	dub	11:2320487,http://fenixflix.fenixhub.online/r/zhzyRTD0HqFsP8y5_TGLOIUrL-I_BAPQ5DX5JjG1zIbA4KvgPlF-KTpntSZufgFUb9JH-BlQUHzVIRKVaIQljYctI6qMQJw55x9p-UyyMy4p/video.mp4,http://fenixflix.fenixhub.online/r/qhus0nfrBTvaJ5ASv0hduAl436eMmMQRgqxKgBcWRfpfxwKTEhJTyU7l5-uc2WAsqlXdCoqS0gKt7R1qnagYJXtlrK9f-q2szXZcvw/video.mp4,http://fenixflix.fenixhub.online/r/q0CTEZEhsciBx5a5DitWTXKmMb3k7QkY_aUsqOX-pVwM5nidPWgEXtmSc-uNyVjg59jAMVcokf_Is1z6PLsNsK53iKyxX-x4xfdVje1EO_A/video.mp4,http://fenixflix.fenixhub.online/r/MbPJtiUhciMCGSuwicmDozDoOfV92KdyrpRPWYDSs9yFjiyQPia3aG08Pl4WHvPBKFehgPB7fmjs1O5Sr8suugacBd6LXeIrEDZ1V4O_oOxEwqw/video.mp4,http://fenixflix.fenixhub.online/r/qckVCcO-IauOQsc1CjwLcrPPEqTDgwpCSegoWPq_yu415HFUTv8VFnClLP3Euo_V4Lf561E7XifoqwVdkpwfCE3T18iiT4xW8ApUAwRhZRqr1N4/video.mp4
 1	2	dub	11:2320488
 1	3	dub	11:2320489
 1	4	dub	11:2320490
@@ -4265,7 +4266,7 @@
 1	123	dub	11:2320609
 1	124	dub	11:2320610
 @Malhação Casa Cheia
-1	1	dub	11:2350367,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182658.mp4
+1	1	dub	11:2350367,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182658.mp4,http://fenixflix.fenixhub.online/r/IpN9Ro7m0kC5fMdpYVZNuGTpq2SFWnIXubM6MjT3nu8vo_nKMbvItFBCOvseZ0D3SE2kg6LxNeKfrlABHz6zIIms9r7s9PAHJ8G61luoOe7W/video.mp4,http://fenixflix.fenixhub.online/r/y-W28zdD4dLatrLwmR6nWfrn4s9rGhmZ-0X8eSMYPwyiMBbFs-U2atpeps-QnnHre0UUAFHaCk27uOm-AoPmRTN2XKkk0h1OFY-_2g/video.mp4,http://fenixflix.fenixhub.online/r/BtxuNG_XVxMOySLffJb5pMmqtVxsDx4ZU5GTh_OWPhNgKh_T9sFpcuk5RiduaZBubIBr0cfKVwXuLbZWgIm3TaV9_ekS6DeaJbG2neBwRRc/video.mp4,http://fenixflix.fenixhub.online/r/ADF0rkVI4yLnz59U_MHCZqz7GiYrt22JPBvJ37CdPLVO5lSvUyDjcYSo32kEFex9fquxZHynX_X0QRwHwshL-eu-tesLk2f7AdxPHPwLhkGye2Q/video.mp4,http://fenixflix.fenixhub.online/r/AxJWNnfO5v_VWnGLX_w9dWaOyQUeJowQL6lsKLI1ZJBhda1Ho0fSa3PXnMfSoGAS2elFzpDJ9VT2Rmt6gvVQyOgeg04CDY67JiluSNJISgMmbM4/video.mp4
 1	2	dub	11:2350368,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182659.mp4
 1	3	dub	11:2350369,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182660.mp4
 1	4	dub	11:2350370,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182661.mp4
@@ -4507,7 +4508,7 @@
 1	240	dub	11:2350606,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182898.mp4
 1	241	dub	11:2350607,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182899.mp4
 @Malhação Conectados
-1	1	dub	11:2349023,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182900.mp4
+1	1	dub	11:2349023,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182900.mp4,http://fenixflix.fenixhub.online/r/C8MYd4GkRemBWRM7wEL3Ly-xLEfcopWvPEGc8D4DFJg-NXlCz81HzZY-QIO6EyCPzAFTaOJLaiYFUC02LX0Pe2knzD58ETStQBB44rnKThzD/video.mp4,http://fenixflix.fenixhub.online/r/EOIKYgB-485ooh8vzGZkevpCwwPfwhhpLW9YlI4Po1V14JHhRoNVBzcmMSXk5YMRGoycdoqklD3AXw1CAWNRznaKZuTTtoftdbalEA/video.mp4,http://fenixflix.fenixhub.online/r/ZxU5tBKFZR_R5_05NWux13Yi9x5eEq1niFDsIGIo7sNWuwjSalZjLMNutho9ZvOp5ilE1OC0YpxhTqcyDxk_xEvDjRHiZggolEfWD4B9oDQ/video.mp4,http://fenixflix.fenixhub.online/r/wYYadpaNv58FgwTavTEuTC9v8aeL2je-usr44ntvXEogpxORc4B5oAbOTDUw_FU3x5DZL5nXAEH8kxoifk9oT0jLmx0K7MEmPJXsLvtHIl6YvWM/video.mp4,http://fenixflix.fenixhub.online/r/PJw30QBsqJ7cGnjj6blmbFjkx7jllbvWv_9vqA8xppneQDBjdXezxrDdHgv_2xnSfV2Zr1c6RFlkIkEUklyLimsBz4yHxFE9KxwsdV9cWZu1CWg/video.mp4
 1	2	dub	11:2349024,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182901.mp4
 1	3	dub	11:2349025,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182902.mp4
 1	4	dub	11:2349026,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/182903.mp4
@@ -4757,7 +4758,7 @@
 1	248	dub	11:2349270,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183147.mp4
 1	249	dub	11:2349271,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183148.mp4
 @Malhação ID
-1	1	dub	11:2353722
+1	1	dub	11:2353722,http://fenixflix.fenixhub.online/r/1EUSL8wufLsOgLBqBE4wuwVbec9EebOtbAie4IsofXeNjt9IiRG9X8pY52qjbzWSUAOJ2OBqIIWVqdox0pcuCRLmE4GgsWvTNB3b7ugRYTpQ/video.mp4,http://fenixflix.fenixhub.online/r/KNP8r023TpYIbV1cveaMw-yFjnHWJeL-eRTOBR09LXStBRxWnnTBCWW3qK2mwY8lIjB6G_7H0qRybIfJCMlBkkMdwebzzZ7_7-0qJQ/video.mp4,http://fenixflix.fenixhub.online/r/tGAXcrSo-85uIqmH7wnDHHx_-1qLVgSVKTwJRMS3yXQcAVW2j9u6A3UOzV4gi2SD0vTEn8RXmU2zlRdbFMZKUXiRM0PCkZiROt4bWh02_7c/video.mp4,http://fenixflix.fenixhub.online/r/1OW6RwrFcWTrqnSbWsgPHSHvb2VikysdUVZURgu48mVBPO5QqxjDzo2dyHTfffyiDSbMCVOSg7gGUkxpSR5EoVWGPijNTML51ERZaPoeYNNOF1g/video.mp4,http://fenixflix.fenixhub.online/r/QDABe2f5uWpVsRiKw5UWRMibrCIiJ_HAU-k742TU-Krmsg4TJgMNbUEBfkywrSQdwehdOoSP6w4K3nGohjvHdQgHIWpACZqI2o_i6Fs9CChokEQ/video.mp4
 1	2	dub	11:2353723
 1	3	dub	11:2353724
 1	4	dub	11:2353725
@@ -4957,7 +4958,7 @@
 1	198	dub	11:2353919
 1	199	dub	11:2353920
 @Malhação Intensa Como A Vida
-1	1	dub	11:2353136,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183174.mp4
+1	1	dub	11:2353136,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183174.mp4,http://fenixflix.fenixhub.online/r/WET9LHr2FQmX6OK3hlYb6uA7ubRKVZVhVmqznxdBRUHSHXFcEFW08-tA1vgnNIoZj-80kzh6z_DwO8eMnUR0CJMCVdx7MFl_gj0rw5gYg8el/video.mp4,http://fenixflix.fenixhub.online/r/BzG1ggz63F-dxzB0BxRlAztNR3o6nyPfsfi6UC6Amlc1HR5xvu0cjwpCfAthh4O3VotULa3cwhc8Wqo_jsZ-s64GEb1c-I0VcCOamA/video.mp4,http://fenixflix.fenixhub.online/r/MkQzZ9WF1NOS3NFaOGLvW4u8RpaXa7jxVZritMxQ7MKpus0MJtMr-g9YrtG5L8fdRhUB4k95zJXKkwyuz3gdplXIXhw5vIimAJPP1H3Ghh8/video.mp4,http://fenixflix.fenixhub.online/r/XjGHbB8a6mcd2A0UuLJcmD9M3AciJAenDzIzEYPNsvR9gBkEtCbmAZ2UI3WHMmiGLDgzwTQ-Iex6YnazDvZ_PY-J4vokd80nH1PiYUMjEIldLZE/video.mp4,http://fenixflix.fenixhub.online/r/LLt2WskxbJg847Cpb7zpdRHjmiWCDu2lp8kcoFAs23i8Rd9O1Lk0QToYKIbKdn_tFpyoLdULuU3yj0jH85kBznSl09KE9cRXLiqX28yV6HjxuaI/video.mp4
 1	2	dub	11:2353137,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183175.mp4
 1	3	dub	11:2353138,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183176.mp4
 1	4	dub	11:2353139,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183177.mp4
@@ -5186,7 +5187,7 @@
 1	227	dub	11:2353362,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183400.mp4
 1	228	dub	11:2353363,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183401.mp4
 @Malhação Seu Lugar no Mundo
-1	1	dub	11:2350094,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183402.mp4
+1	1	dub	11:2350094,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183402.mp4,http://fenixflix.fenixhub.online/r/GCtaNlwNd9GOZOtgWOeLBZ_o-LCHNMQEWRfTtSLnkuXZPydxrDUOxm2wv-dYzqAg7Gr51mGxHyt3Z7nBENQPd2k2V-6fhTAGh9t2REbQN26V/video.mp4,http://fenixflix.fenixhub.online/r/ucUERas2igIiFvGTWAAxv2WqcNqHOIbuM5a5pFCeB8SNt7pkFFemMN9OrBTjq6E8taMP1Lz1OvnGZM-_G6Ss5rYyG7T4gjyxD9MOIA/video.mp4,http://fenixflix.fenixhub.online/r/XqAu4PddPceQuDJ3S70UjnvKKoRti7dwZhq23s1TrGUKqnkbSpA4NgY0fHoTOvhIUbMDWfGawUFOeqDIdD3I7WzDA2MW7hSOgsT5hVNYt24/video.mp4,http://fenixflix.fenixhub.online/r/GDSP29iav4KZiA_vpFX_b_MktWRF2TXZi1pogBlTCLginZcV1zPCXCIPhZ2aiNnBPO5nj0gSfYwT6xWw1JfUHaCqF8NLCyVFcwF_SCAaoRe_8tQ/video.mp4,http://fenixflix.fenixhub.online/r/cwpcpPZb2cXWr1jjYD24_PtnWyVWohUF7Tn5_xgmZiwUMCQhv_u1APW6rm5lb551-ju2POf3A725OfrjzlqQ5cgSvFycln1z3XDYc8D30dGnNcs/video.mp4
 1	2	dub	11:2350095,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183403.mp4
 1	3	dub	11:2350096,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183404.mp4
 1	4	dub	11:2350097,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183405.mp4
@@ -6045,7 +6046,7 @@
 3	79	dub	11:2352925
 3	80	dub	11:2352926
 @Malhação Viva a Diferença
-1	1	dub	11:2350775
+1	1	dub	11:2350775,http://fenixflix.fenixhub.online/r/JlUsoVsuIOqiyljrt1TuXCH6UtzpPrU7dyG7WpH3Y5YARWML2408xBdwvwwZ45cXgtNja84fbWBvVGR-F0wB45Qxp8J3d4AQX38qbug4kkTw/video.mp4,http://fenixflix.fenixhub.online/r/NdCB11sW5Zf5i4ULdAM8OxDGD54bKjN4Nn621Ov8WfjhQNaZankLQW9bmh6QIarCXa8zXQK8qUqW-WYz4aAC_-jEUdF9x8yR4PVn1Q/video.mp4,http://fenixflix.fenixhub.online/r/XPciZP1nO4cSykZb1swyGQexTa7qjOtSrNt9HG7jU0xkcfEj_EScGKVEjvVYdtLIQBvXcl3YfMvNYDd-bC8WgtO6LhXPtziR6y_DICuzr9M/video.mp4,http://fenixflix.fenixhub.online/r/s6r4awNhH_qgBGYwWVIbR20CmTVvZEiZpnw2H7S0kCRvOOWzJR3oIVrTMrw3jhR70kuCbY1HfAB9FprojlEaVJOgZ5qoVVA0k2lxwXwelNk-jxo/video.mp4,http://fenixflix.fenixhub.online/r/EdDvX_sQR_mpIF0kMytXsq8Wl7xEVBe0xMOPgUPFHVM8n4khz4VMKolDvJIfIp8AVWm3opBgWI4VS3-Yku2T-chwI0S6_bH9cOBaMGumzBkQ-yw/video.mp4
 1	2	dub	11:2350776
 1	3	dub	11:2350777
 1	4	dub	11:2350778
@@ -6258,7 +6259,7 @@
 1	211	dub	11:2350985
 1	212	dub	11:2350986
 @Malhação de Verão
-1	1	dub	11:2350342,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183149.mp4
+1	1	dub	11:2350342,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183149.mp4,http://fenixflix.fenixhub.online/r/Y-CpY76G2lrQwFpm1dweHqUZEzpx_8tj4_hrwRnz2NBZFLl3KeZjX1BSYgTmxL9vmoMC1mx3yeOdxR4gTimu4SdT1YzoXa2uj4VPHnYSXbDU/video.mp4,http://fenixflix.fenixhub.online/r/24N9a3SPgEIUW_t_lyu5cpO7D8g6O91PEfoqGqSUFm9sKbopysqC23tdES-lhAwcCwgREIIp8rAMQrtVAF9wt6OWD9Cb36SvlTzSxg/video.mp4,http://fenixflix.fenixhub.online/r/HdhuevCEHwYsHWVn0wpulG7481P0VjP7cYbVKCFejTMVqrS_wa4G05duC60KQHDiukZu99gvgPIY9xVt4SvW9VdjjChdFHaecvc15EBnALA/video.mp4
 1	2	dub	11:2350343,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183150.mp4
 1	3	dub	11:2350344,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183151.mp4
 1	4	dub	11:2350345,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183152.mp4
@@ -6284,7 +6285,7 @@
 1	24	dub	11:2350365,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183172.mp4
 1	25	dub	11:2350366,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183173.mp4
 @Malory Towers: Escola Para Meninas
-1	1	dub	11:2267127,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44760.mp4
+1	1	dub	11:2267127,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44760.mp4,http://fenixflix.fenixhub.online/r/KgZhaLaAkF7YcbouPFTDj-9V9N3SvvKJyN9_GDIDOkqti_UXB8xD4C7eV4HPW6vNyWxEDJe3H-FSgcKkte7Im8HB31MdWVWOuYUTrRlr5wYc/video.mp4,http://fenixflix.fenixhub.online/r/vYcQKR3KPS9zOXaWPK7I4HZbn_3mWVhb75nocyotrS91anlNc69n_P3Y6AyaL2Sp44sf_PL5LGtjX6D61kwOCXIFVD59uiuxGHBvMcY/video.mp4,http://fenixflix.fenixhub.online/r/Pp0D5rrU0fQluDujdC9JJ6BWPsmmmsKmTuxR92SDL0sFaPh64NdlsCFSUXBnSSJUhNVd1oMztzeKLlAvGkEgkrSA_7DTJOOsKG58_1kB8DxV/video.mp4
 1	2	dub	11:2267128,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44762.mp4
 1	3	dub	11:2267129,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44763.mp4
 1	4	dub	11:2267130,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44764.mp4
@@ -6311,7 +6312,7 @@
 2	12	dub	11:2267151,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44791.mp4
 2	13	dub	11:2267152,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/44792.mp4
 @Malu Mulher
-1	1	dub	11:2100465,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248807.mp4
+1	1	dub	11:2100465,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248807.mp4,http://fenixflix.fenixhub.online/r/-jrR9RL9jlzbctP1zjs1YoC5q3sz9KMd2w9mBbCSPs7QhDFGTF24SbvaQ9aAPFqJ3OyBBNPVJCw5VjWSApCPbTrl_eOocCfe5asOQuR8rcKv/video.mp4,http://fenixflix.fenixhub.online/r/a534rnq-Sv-LabZ_pIUDy63M6nKxZtXTNPU1QqWfHoeeuU8S4rWSYEtPNFgPedAwLZdKUJgKW5hBn7Oqde6L6LJ6V92HZ4mh2_3lZzc/video.mp4,http://fenixflix.fenixhub.online/r/S-pDCh9GBrcrci3uiLc7KSMPWfCInv7Jo2vpvUQAnH5GVxJZQUl-ewi4pJNy1USNfTq9gmHg0PsInW1ni728Shqs7-Vldm-E7xIKzQZO15jx/video.mp4
 1	2	dub	11:2100466,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248808.mp4
 1	3	dub	11:2100467,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248809.mp4
 1	4	dub	11:2100468,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248810.mp4
@@ -6332,7 +6333,7 @@
 @Mamae Nao Chore Papai Esta Arrependido
 1	1	dub	11:2303000
 @Mamonas Assassinas A Serie
-1	1	dub	11:2100796,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248181.mp4
+1	1	dub	11:2100796,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248181.mp4,http://fenixflix.fenixhub.online/r/MsqXMOfYMkEHlDq0J_S1caJ_Kvo4bsYZLXKaz-FXvZeM3U2G407zboYqbMNta8A1m4nsAWhWo5wBcmErDegrRJz1M88eK_bpOd1PwBKVhk1m/video.mp4
 1	2	dub	11:2100797,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248182.mp4
 1	3	dub	11:2100798,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248183.mp4
 1	4	dub	11:2100799,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/248184.mp4
@@ -6364,6 +6365,7 @@
 1	24	leg	11:2194017,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84460.mp4
 @Man to Man
 1	1	dub	11:2110956
+1	1	leg	http://fenixflix.fenixhub.online/r/jkclU_i_ad2ypP-_CeIFxttmSsuBpVfsLSQ3d6K82y1TimPTWPn5eiiD4zylANYN1VQHyigsytbW9oRE-WXDmNMF9hCem71w_ClHlB8/video.mp4,http://fenixflix.fenixhub.online/r/UMIKjmZM8C87XB7DHaGFGCrD59llqQTsWDNv-QlGwPvYaMOE6sxCqz274rEHVLPKZ5SbDqzJp5o1LqPuMsRxX8XfVRgjGseNG-BCFk2X_z73/video.mp4,https://dj0vkl2i4vsbo.cloudfront.net/convert/Mute%20Girl%20Loved%20the%20Man%20Sent%20to%20Betray%20Her/en/2025-07-16%2008:23:33/1_.m3u8
 1	2	dub	11:2110957
 1	3	dub	11:2110958
 1	4	dub	11:2110959
@@ -6380,7 +6382,7 @@
 1	15	dub	11:2110970
 1	16	dub	11:2110971
 @Manancial
-1	1	dub	11:2316440,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183931.mp4
+1	1	dub	11:2316440,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183931.mp4,http://fenixflix.fenixhub.online/r/GLSyWyTYeSL8l4F5PWhj8hKNnEutJDUQ3fJBoUpw-6TbUfCPVvZrRDYlUuJdMgGlqHvVK-2wCIETP1Bxt6J9T9ZVSDeE1PdxwAT1QZC5VqF-/video.mp4,http://fenixflix.fenixhub.online/r/ICDEpz5cdiCGmnvLk2PpUOMx-QQ-KM7vpWd4I7AB_T1o1T6znpBOI_wdmxxZQqeSI9tBZuknLCNk2hyIn3rN79hgzZpdfKPfXvtLoQ/video.mp4,http://fenixflix.fenixhub.online/r/3jH_QfMnvnyqHQbwt-8sgy0EUXQzTWpa4JHJKofw6Mc5rQuzYkmmUMXmCaFsRM6w801vsbq6ZM_0lY1sqm1VUATfzDpKQJQOAdtiHPw43pQ/video.mp4
 1	2	dub	11:2316441,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183932.mp4
 1	3	dub	11:2316442,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183933.mp4
 1	4	dub	11:2316443,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/183934.mp4
@@ -6476,7 +6478,7 @@
 1	94	dub	11:2316533,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184024.mp4
 1	95	dub	11:2316534,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184025.mp4
 @Manayek
-1	1	dub	11:2127323,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123719.mp4
+1	1	dub	11:2127323,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123719.mp4,http://fenixflix.fenixhub.online/r/tDcd9n7_cCuKauDMS0JTkLtZqvsYvfMBhgjSOOf-5fPo1pojA3OFZMc6o_MPk7YR7id9Qy4odn1v5cafyvU3hVFE3R8myYj6qK1GVkYRCXXv/video.mp4
 1	2	dub	11:2127324,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123720.mp4
 1	3	dub	11:2127325,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123721.mp4
 1	4	dub	11:2127326,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123722.mp4
@@ -6497,7 +6499,7 @@
 2	9	dub	11:2127341,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123737.mp4
 2	10	dub	11:2127342,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123738.mp4
 @Manda Chuva
-1	1	dub	11:2127383,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12797.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123739.mp4
+1	1	dub	11:2127383,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12797.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123739.mp4,http://fenixflix.fenixhub.online/r/zS15P5X1fpfDGUSfqk9uVo5XEooZAJQYh_LYFeOljwifGvQtcE6fjkBY9SZ9YQfTS15Q3kIZBQ35oxkA7zC32mVxD5PSDHfxLQTIyAg3lKcC/video.mp4,http://fenixflix.fenixhub.online/r/rZMsBY7sP0mw7nBYYJA5JiTgXmkd0hNiFoP4CqExgCsrk4Qofc4miZS5eKgiuFhSF2N8opCX0qkW7bu1VAIjm2qRBZi2nr0qq1vr/video.mp4,http://fenixflix.fenixhub.online/r/baWhnAF7ZOAtUlWh6_4z8ZCeT3aXxsqaiuQLMxq6QiM24TkM40hUACIiNqpQaAQQrA0mJmy15aHczsxAjNGCtDjFK7cKhp_4laM-UWe2Iw/video.mp4
 1	2	dub	11:2127384,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12798.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123740.mp4
 1	3	dub	11:2127385,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12800.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123741.mp4
 1	4	dub	11:2127386,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12801.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123742.mp4
@@ -6528,7 +6530,7 @@
 1	29	dub	11:2127411,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12834.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123767.mp4
 1	30	dub	11:2127412,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12835.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/123768.mp4
 @Mandacaru
-1	1	dub	11:2334274
+1	1	dub	11:2334274,http://fenixflix.fenixhub.online/r/vNEwB6LwaIxZa5kbrhzGfSaqD6aT9apmyqD5_wjO7E3oq-2wJX1o4nq-WRng4ZpURhCt4aNcWZ5qkIv-Tk0XETboOSGI5lcFP1y7Sg/video.mp4,http://fenixflix.fenixhub.online/r/-fFKiqJYAKwh8d6zQ7sfA-9VDT_YSchUKp5YasLZ4DehBAYuXow0XWZ0fMhiFzLAQaWFun5A-z-tyATa3V7jeYwypNsEAApb-uj0Ux8IoLc/video.mp4
 1	2	dub	11:2334275
 1	3	dub	11:2334276
 1	4	dub	11:2334277
@@ -6746,7 +6748,7 @@
 1	216	dub	11:2334489
 1	217	dub	11:2334490
 @Mandou Bem: Desafio dos Confeiteiros
-1	1	dub	11:2229617,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146833.mp4
+1	1	dub	11:2229617,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146833.mp4,http://fenixflix.fenixhub.online/r/q7k603d4EnbneaMNjV_dMeKDakXXfGvw1VK5k0fdpASEyKOycV4N9ZSvBR_WtSR_1T3yGPvYtqsMAFfvSRmPZvs2MpeewiPMlacVQLcAkgiw/video.mp4
 1	2	dub	11:2229618,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146834.mp4
 1	3	dub	11:2229619,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146835.mp4
 1	4	dub	11:2229620,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146836.mp4
@@ -6757,7 +6759,7 @@
 1	9	dub	11:2229625,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146841.mp4
 1	10	dub	11:2229626,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/146842.mp4
 @Manhunt
-1	1	dub	11:2258393
+1	1	dub	11:2258393,http://fenixflix.fenixhub.online/r/emYbuTgLsSnTpiv4nOg5Zt787iMgagH7wQfIPrfayG4BbxPVMy0sVoQ6NTj6OGrfAV9zymcpeobwkvqpnDSFE3WUYG42cqx1GozWrggwCXWk/video.mp4,http://fenixflix.fenixhub.online/r/KWfblI5pPPnVHsFYwVaavKZG_zRgbUaGIZw4QGz216eZ6-L2PC400kGMru2896i5BdEUnS9ovbFbhBNldsgIJQUP7pNxNCsLz_-x6g/video.mp4,http://fenixflix.fenixhub.online/r/QnyaiyyzsE4wc7C9z_XrMpR7dLHqTPU0Wp0-cNq9zsRYjRy6F4G5WY_lS7Gxet5W9I6jRybD9MOHErJy_UmZ34mrlzqHUPqCR8s6DlTgskU/video.mp4,http://fenixflix.fenixhub.online/r/o5QUzM7Gp3TJa3AW5C3RB2yZrAM8a-IaVTlvHxvy4ZL6tx4XpP1niusmR7zDTQZq98k9VUmDSw4HSDp9xcVfExZKD5bVBar8gg3s4b3RKojjbls/video.mp4
 1	2	dub	11:2258394
 1	3	dub	https://embedplayer2.xyz/cdn/hls/7b8caff2ab46ff6d648336ee2d6dec71/master.txt,11:2258395
 1	4	dub	11:2258396
@@ -6776,7 +6778,7 @@
 2	9	dub	11:2258409
 2	10	dub	11:2258410
 @Manhunt Unabomber	2017
-1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105673.mp4
+1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105673.mp4,http://fenixflix.fenixhub.online/r/emYbuTgLsSnTpiv4nOg5Zt787iMgagH7wQfIPrfayG4BbxPVMy0sVoQ6NTj6OGrfAV9zymcpeobwkvqpnDSFE3WUYG42cqx1GozWrggwCXWk/video.mp4,http://fenixflix.fenixhub.online/r/KWfblI5pPPnVHsFYwVaavKZG_zRgbUaGIZw4QGz216eZ6-L2PC400kGMru2896i5BdEUnS9ovbFbhBNldsgIJQUP7pNxNCsLz_-x6g/video.mp4,http://fenixflix.fenixhub.online/r/QnyaiyyzsE4wc7C9z_XrMpR7dLHqTPU0Wp0-cNq9zsRYjRy6F4G5WY_lS7Gxet5W9I6jRybD9MOHErJy_UmZ34mrlzqHUPqCR8s6DlTgskU/video.mp4,http://fenixflix.fenixhub.online/r/o5QUzM7Gp3TJa3AW5C3RB2yZrAM8a-IaVTlvHxvy4ZL6tx4XpP1niusmR7zDTQZq98k9VUmDSw4HSDp9xcVfExZKD5bVBar8gg3s4b3RKojjbls/video.mp4
 1	2	dub	https://embedplayer2.xyz/cdn/hls/f20bbbde92bd77e08c7836483bb3245e/master.txt,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105674.mp4
 1	3	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105675.mp4
 1	4	dub	https://embedplayer2.xyz/cdn/hls/38556bc00f92e00e1d18cb0abf9841b5/master.txt,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105676.mp4
@@ -6795,7 +6797,7 @@
 2	9	dub	https://embedplayer2.xyz/cdn/hls/a6b192d28bec56091156bded2432d8c0/master.txt,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105689.mp4
 2	10	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/105690.mp4
 @Manhãs de Setembro
-1	1	dub	11:2208428,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12837.mp4
+1	1	dub	11:2208428,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12837.mp4,http://fenixflix.fenixhub.online/r/kGcskJEQl55ulw-dq6U4NpMDE385pEFyfktKba1B9G3X5OmzGAQhYwMl1Tzttp6Lt66LrOzInawwb680MbPABBO78fdHtpn1jVNFfxr1AdWg/video.mp4,http://fenixflix.fenixhub.online/r/e64fHXk2II49znBABYtFfcFWT2Tqt-rWvRe0j22LmCha2XAaD28q3xDZK76JzJigWohEyEai6vaJCNjXsgnVbxv85nR2sxO5BWwqig/video.mp4,http://fenixflix.fenixhub.online/r/GA0e-WkmvHjIYah9ZI6Qih_iEvwr5d9--W-AeQz8zHzMzptiITccrUTKBOSRWGif2QJFVStnN51z04AuGISPobqRamwDHUbB9SIV8Tg4ebA/video.mp4
 1	2	dub	11:2208429,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12838.mp4
 1	3	dub	11:2208430,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12840.mp4
 1	4	dub	11:2208431,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12841.mp4
@@ -6807,7 +6809,7 @@
 2	5	dub	11:2208437,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12849.mp4
 2	6	dub	11:2208438,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/12850.mp4
 @Mania de Voce
-1	1	dub	11:2329084,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184026.mp4
+1	1	dub	11:2329084,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184026.mp4,http://fenixflix.fenixhub.online/r/yek-6QLGsqT6O4A515B0QoqXFIlXwA4wylnjI_Vdcc-sZhGCo-QeqbwxI2z2n2K6tCDwQLUmTKATKGkOIEjndPDz09YyEKb-CFZ6OPpFw4uj/video.mp4,http://fenixflix.fenixhub.online/r/iFqs9QXOWaUUe5Scu2oM2lOolua9hDS2ocPB1pQsynb502IaJRINzzKRz_nxC5CSXt2P_pJ7VX-V4v6a2KBB9FrJciKRjqZxr0MrQA/video.mp4,http://fenixflix.fenixhub.online/r/N2TxyAcLUv-6Go-LvzMoM7hbhSwpKjGNpUKPHB9FvSphE5jHaMB74phYjgrOQVEEBfA53MUj38MEE-_YOYvYDaE-NPjHSBHo3ThNyImyD18/video.mp4
 1	2	dub	11:2329085,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184027.mp4
 1	3	dub	11:2329086,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184028.mp4
 1	4	dub	11:2329087,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/184029.mp4
