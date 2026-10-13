@@ -73,7 +73,7 @@
 @GATE24: The Border
 1	1	leg	19:323579/1/1.mp4?lang=leg,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/311169.mp4
 @GET JIRO
-1	1	dub	19:231801/1/1
+1	1	dub	19:231801/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:231801/1/2
 3	4	dub	19:231801/3/4
 @GHOST CONCERT Missing Songs
@@ -180,7 +180,7 @@
 1	1	leg	11:2283952
 1	2	leg	11:2283953
 @GRANBELM
-1	1	dub	19:88038/1/1.m3u8
+1	1	dub	19:88038/1/1.m3u8,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:88038/1/2.m3u8
 1	3	dub	19:88038/1/3.m3u8
 1	4	dub	19:88038/1/4.m3u8
@@ -205,7 +205,7 @@
 1	9	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/268016.mp4
 1	10	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/268017.mp4
 @GaReiZero
-1	1	dub	19:26328/1/1.m3u8
+1	1	dub	19:26328/1/1.m3u8,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:26328/1/2.m3u8
 1	3	dub	19:26328/1/3.m3u8
 1	4	dub	19:26328/1/4.m3u8
@@ -519,6 +519,7 @@
 2	11	leg	19:75415/2/11.mp4?lang=leg,11:2195419,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/82724.mp4
 2	12	leg	19:75415/2/12.mp4?lang=leg,11:2195420,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/82726.mp4
 @Gals Cant Be Kind to Otaku
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:309163/1/1.mp4?lang=leg
 1	2	leg	19:309163/1/2.mp4?lang=leg
 1	3	leg	19:309163/1/3.mp4?lang=leg
@@ -872,11 +873,13 @@
 1	5	dub	19:214592/1/5,11:2234961,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140739.mp4
 1	6	dub	19:214592/1/6,11:2234962,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/140740.mp4
 @Gang War Bandidos
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:321211/1/1.mp4?lang=leg
 1	2	leg	19:321211/1/2.mp4?lang=leg
 1	3	leg	19:321211/1/3.mp4?lang=leg
 1	4	leg	19:321211/1/4.mp4?lang=leg
 @Gang War Pusher Street
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:302657/1/1.mp4?lang=leg
 1	2	leg	19:302657/1/2.mp4?lang=leg
 1	3	leg	19:302657/1/3.mp4?lang=leg
@@ -1172,7 +1175,7 @@
 1	9	dub	11:2110425
 1	10	dub	11:2110426
 @Gargantia on the Verdurous Planet
-1	1	dub	19:55011/1/1.m3u8
+1	1	dub	19:55011/1/1.m3u8,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:55011/1/2.m3u8
 1	3	dub	19:55011/1/3.m3u8
 1	4	dub	19:55011/1/4.m3u8
@@ -1267,6 +1270,7 @@
 3	12	dub	19:1719/3/12,11:2183283,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/64536.mp4
 3	13	dub	19:1719/3/13,11:2183284,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/64537.mp4
 @Garo Higashi no Kairou
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:312723/1/1.mp4?lang=leg
 1	2	leg	19:312723/1/2.mp4?lang=leg
 1	3	leg	19:312723/1/3.mp4?lang=leg
@@ -1801,7 +1805,7 @@
 1	3	dub	19:107407/1/3,11:2260454,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/103162.mp4
 1	4	dub	19:107407/1/4,11:2260455,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/103163.mp4
 @Gata Selvagem
-1	1	dub	19:15241/1/1
+1	1	dub	19:15241/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:15241/1/2
 1	3	dub	19:15241/1/3
 1	4	dub	19:15241/1/4

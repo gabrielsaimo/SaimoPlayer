@@ -66,7 +66,6 @@ Zona Fria	dub=18:437463,10:2454227,http://dbonline.tech-cdn.top:80/movie/ke-vin-
 Zona Mortal	dub=18:436274
 Zona Verde (2010)	dub=18:22972,https://embedplayer2.xyz/cdn/hls/a2fc6b8c4104bb9bcbabf364b2e262db/master.txt
 Zona Z	dub=18:1301650,https://embedplayer2.xyz/cdn/hls/f9f3d274472ffc428eee4f10f0facff6/master.txt,10:2444907,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53781.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96379.mp4
-Zona Zero	leg=https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51362?hash=0f7bdd44441ff13d6d4a68c4
 Zona de Caça	dub=https://embedplayer2.xyz/cdn/hls/02d6e6f8c32e4a4345833f9f1f345725/master.txt,10:2461952,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96650.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96805.mp4
 Zona de Combate (2021)	dub=18:775996,https://embedplayer2.xyz/cdn/hls/529baaf2f862dfdbaf3137d1a11a8f2e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256172.mp4
 Zona de Confronto	dub=18:711017,10:2454652,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8248.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96365.mp4
@@ -76,14 +75,14 @@ Zona de Perigo	dub=18:11074,10:2453561,10:2457892,http://dbonline.tech-cdn.top:8
 Zona de Risco	dub=https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59416.mp4,10:2445708,10:2450582,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37229.mp4	leg=10:2448989,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96373.mp4
 Zona de Risco (2021)	dub=18:808969,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251450.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301285.mp4
 Zona de Risco (2024)	dub=18:969492,https://embedplayer2.xyz/cdn/hls/8dcb0edf2f539a09d8d8756dbae9b19f/master.txt
-Zona de Silêncio	dub=10:2447429,10:2455873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33277.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96376.mp4
+Zona de Silêncio	dub=18:543749,10:2447429,10:2455873,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33277.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96376.mp4
 Zone 414	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36747.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96382.mp4
 Zoo - Uma Amizade Maior que a Vida	dub=18:472553,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11825.mp4
 Zoolander	dub=18:9398,10:2460795,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20983.mp4
 Zoolander 2	dub=18:329833
 Zoolander: Super Modelo	dub=18:458777,10:2449918,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11829.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96404.mp4
-Zoom (2015)	dub=18:351065,18:14113,10:2459476,10:2461727,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20995.mp4
-Zoom: Academia de Super-Heróis	dub=10:2461455,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21000.mp4
+Zoom (2015)	dub=18:351065,10:2459476,10:2461727,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20995.mp4
+Zoom: Academia de Super-Heróis	dub=18:14113,10:2461455,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21000.mp4
 Zoombies	dub=18:385320
 Zoopocalipse - Uma Aventura Animal	dub=18:1205229,10:2461992,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1330.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96388.mp4
 Zootopia 2 (2025)	dub=18:1084242,https://embedplayer2.xyz/cdn/hls/59a70b9747b11631351a53c880dbff6e/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99877.mp4,10:2461822,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99817.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96799.mp4

@@ -164,14 +164,14 @@ Pandora (2016)	dub=18:429450
 Pandora: Fire and Ice (2025)	dub=18:1591822,https://embedplayer2.xyz/cdn/hls/31593cadd3f7afe90b5577bdb4443196/master.txt	leg=https://embedplayer2.xyz/cdn/hls/50208d696bd798fac61f4e8b05f41a79/master.txt
 Pandorum (2009)	dub=18:19898,https://embedplayer2.xyz/cdn/hls/ff2230685e62df5aaf0c5815b39f6b68/master.txt,10:2458262,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51212.mp4
 Pangolim: A Viagem de Kulu	dub=18:1086637,https://embedplayer2.xyz/cdn/hls/f420f3be2e116092d81eb079c6129dfe/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311824.mp4,10:2448511,10:2453318,10:2461858	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85725.mp4
-Panico (1996)	dub=18:4232,https://speed2.megafilmeshd9.com/midia/speed-4/2164393.mp4?tipo=movie&tmdb=4232&title=P%C3%A2nico&ano=1996&idioma=dub
+Panico (1996)	dub=18:4232
 Panico (2022)	dub=18:646385
 Panico 2 (1997)	dub=18:4233,https://embedplayer2.xyz/cdn/hls/53647edeafc811d740f560b26a751d34/master.txt,10:2458024,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51515.mp4
 Panico 7 (2026)	dub=18:1159559,https://embedplayer2.xyz/cdn/hls/565a4a8bcb4f741c50569102027cbdde/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250912.mp4,10:2444652,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250600.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254818.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250590.mp4
 Panico Na Floresta 6	dub=18:259072,10:2458131,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45593.mp4
 Panico em Redwood (2014)	dub=18:339992
 Panico na Escola (2012)	dub=18:68684
-Panico na Floresta (2003)	dub=18:9902,10:2458145,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45794.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/61202?hash=7c139b4ad20a236ddeeab67f	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301229.mp4
+Panico na Floresta (2003)	dub=18:9902,10:2458145,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45794.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301229.mp4
 Panico na Floresta 2	dub=18:13186,18:8875,10:2458115,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45570.mp4
 Panico na Floresta 3	dub=18:23823,10:2458064,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45574.mp4
 Panico na Floresta 4	dub=18:71672,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45579.mp4
@@ -205,7 +205,7 @@ Par Perfeito (2010)	dub=18:37821,18:592938,18:526437,https://embedplayer2.xyz/cd
 Par ou Ímpar	dub=18:11367
 Para Aqueles que Amamos	dub=18:1009784,https://embedplayer2.xyz/cdn/hls/46ff9e698db32d4d2385089489c94874/master.txt,10:2445057,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/993.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85766.mp4
 Para Garotas de Cor (2010)	dub=18:44944
-Para Maiores (2013)	dub=18:87818,10:2461387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18556.mp4,https://speed2.megafilmeshd9.com/midia/speed-4/2134222.mp4?tipo=movie&tmdb=87818&title=Para%20Maiores&ano=2013&idioma=dub
+Para Maiores (2013)	dub=18:87818,10:2461387,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18556.mp4
 Para Neda	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313381.mp4
 Para Onde Vamos Quando Morremos? (2019)	dub=18:520203,https://embedplayer2.xyz/cdn/hls/8c5f856a0d789bd37c15ce37486cfec0/master.txt,10:2448206,10:2457341,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30441.mp4	leg=18:520203.mp4?lang=leg,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85763.mp4
 Para Onde Voam as Feiticeiras	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301323.mp4
@@ -217,7 +217,7 @@ Para Sempre (2023)	dub=18:505642	leg=http://dbonline.tech-cdn.top:80/movie/ke-vi
 Para Sempre Alice	dub=18:284293,10:2448119,10:2457080,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30446.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85778.mp4
 Para Sempre Amor (2022)	dub=18:937110,10:2446865,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53235.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85783.mp4
 Para Sempre Chape	dub=18:540136,10:2457608,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30451.mp4
-Para Sempre Cinderela (1998)	dub=18:9454,10:2446224,10:2447382,10:2455409,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30461.mp4,https://speed2.megafilmeshd9.com/midia/speed-4/2137326.mp4?tipo=movie&tmdb=9454&title=Para%20Sempre%20Cinderela&ano=1998&idioma=dub	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85789.mp4
+Para Sempre Cinderela (1998)	dub=18:9454,10:2446224,10:2447382,10:2455409,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30461.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85789.mp4
 Para Sempre Ex (2016)	dub=18:412518
 Para Sempre Felicidade	dub=18:892342,10:2446808,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42590.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85774.mp4
 Para Sempre Medo	dub=https://embedplayer2.xyz/cdn/hls/a8b2356826d77aca6f3009d407f4075c/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251676.mp4,10:2444476,10:2462059,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251721.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254810.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251707.mp4
@@ -228,7 +228,7 @@ Para Sempre Você	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZ
 Para Ser Sincero	dub=18:256422
 Para Ter Onde Ir	dub=18:417573,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30465.mp4
 Para Todo o Sempre	dub=18:530789
-Para Todos os Garotos que Já Amei (2018)	dub=18:466282,10:2446652,10:2460712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18552.mp4,https://speed2.megafilmeshd9.com/midia/speed-4/2136729.mp4?tipo=movie&tmdb=466282&title=Para%20Todos%20os%20Garotos%20que%20J%C3%A1%20Amei&ano=2018&idioma=dub
+Para Todos os Garotos que Já Amei (2018)	dub=18:466282,10:2446652,10:2460712,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18552.mp4
 Para Todos os Garotos: Agora e Para Sempre	dub=18:614409,10:2446762,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42600.mp4
 Para Todos os Garotos: P.S. Ainda Amo Você	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57977.mp4,10:2447050,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/42605.mp4
 Para Wong Foo, Obrigada por Tudo! Julie Newmar	dub=10:2459974
@@ -359,8 +359,8 @@ Peaky Blinders O Homem Imortal (2026)	dub=18:875828,https://embedplayer2.xyz/cdn
 Pearl Harbor	dub=18:676,10:2456795,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30502.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314557.mp4
 Pearl: Uma História de Origem 'X'	dub=18:949423,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58013.mp4,10:2451487,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51237.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85951.mp4
 Pecado Original	dub=18:2057,18:557945,10:2445677,10:2449553,10:2455693,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30507.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85967.mp4
-Pecadores	dub=18:1097046,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58018.mp4,10:2453521,10:2461783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6500.mp4	leg=10:2449485,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85972.mp4
-Pecadores (2023)	dub=https://embedplayer2.xyz/cdn/hls/c91f6d96223539eed8b40d1060052193/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301218.mp4
+Pecadores	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58018.mp4,10:2453521,10:2461783,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6500.mp4	leg=10:2449485,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/85972.mp4
+Pecadores (2023)	dub=18:1097046,https://embedplayer2.xyz/cdn/hls/c91f6d96223539eed8b40d1060052193/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301218.mp4
 Pecadores (2025)	dub=18:1233413,https://embedplayer2.xyz/cdn/hls/0dc807f3e1eccce53757067a6aa84975/master.txt
 Pecados Antigos, Longas Sombras	dub=18:236735
 Pecados Intimos	dub=18:1440,10:2456538,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30516.mp4
@@ -460,8 +460,8 @@ Pequenos Mágicos (2022)	dub=18:1035573,https://embedplayer2.xyz/cdn/hls/30be015
 Pequenos Pecados	dub=18:1019871,10:2443951,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309211.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255392.mp4
 Pequenos Segredos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310661.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310691.mp4
 Per questa notte	dub=18:392442
-Percy Jackson e Ladrao de Raios	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34556.mp4,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/814?hash=2c8a1bd317562065f90163dd
-Percy Jackson e o Ladrao de Raios (2010)	dub=18:32657,10:2458638,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/814?hash=2c8a1bd317562065f90163dd
+Percy Jackson e Ladrao de Raios	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34556.mp4
+Percy Jackson e o Ladrao de Raios (2010)	dub=18:32657,10:2458638
 Percy Jackson e o Mar de Monstros (2013)	dub=18:76285,https://embedplayer2.xyz/cdn/hls/9e1b84eeaf28e9fea21bf935562a6503/master.txt,10:2458603,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34569.mp4
 Perda Total (2018)	dub=18:456750,https://embedplayer2.xyz/cdn/hls/5de778847c1efeda8fb29d46b423c6c4/master.txt,10:2454737,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6509.mp4
 Perdas e Danos	dub=18:11012,10:2456051,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30549.mp4
@@ -670,7 +670,7 @@ Piratas das Galáxias	dub=18:10179,10:2458550,http://dbonline.tech-cdn.top:80/mo
 Piratas do Caribe: A Maldição do Pérola Negra	dub=10:2458089,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6574.mp4
 Piratas do Caribe: A Vingança de Salazar	dub=18:166426,10:2448235,10:2458053,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6576.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86417.mp4
 Piratas do Caribe: Navegando em Águas Misteriosas	dub=18:1865,10:2458072,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6588.mp4
-Piratas do Caribe: No Fim do Mundo	dub=10:2444993,10:2459103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6584.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86413.mp4
+Piratas do Caribe: No Fim do Mundo	dub=18:285,10:2444993,10:2459103,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6584.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86413.mp4
 Piratas do Caribe: O Baú da Morte	dub=18:58,10:2458106,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/6580.mp4
 Piratas do Vale do Silicio	dub=10:2457604,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30640.mp4
 Piripkura (2018)	dub=18:480242,https://embedplayer2.xyz/cdn/hls/ebf38eca39bf9a7c0dd4a9c97adeec8a/master.txt
@@ -708,7 +708,7 @@ Planeta Vermelho	dub=18:8870,10:2458269,http://dbonline.tech-cdn.top:80/movie/ke
 Planeta dos Macacos (2001)	dub=18:869,10:2458984,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36341.mp4
 Planeta dos Macacos: A Guerra	dub=18:281338,10:2458856,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36351.mp4
 Planeta dos Macacos: A Origem (2011)	dub=18:61791,https://embedplayer2.xyz/cdn/hls/e5c77cfc2dce5ce513ca068bc1de6e0f/master.txt,10:2459036,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36346.mp4
-Planeta dos Macacos: O Confronto	dub=10:2459122,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36355.mp4
+Planeta dos Macacos: O Confronto	dub=18:119450,10:2459122,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36355.mp4
 Planeta dos Macacos: O Reinado (2024)	dub=18:653346,https://embedplayer2.xyz/cdn/hls/a647371d607ee55d1787f4895759a4d3/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58110.mp4,10:2447785,10:2458917,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36360.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86464.mp4
 Planeta dos Solteiros: Aventura na Grécia	dub=18:1468789,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311825.mp4,10:2448698,10:2461944,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/18752.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/86458.mp4
 Planetary Defenders	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306949.mp4
@@ -1161,7 +1161,7 @@ Pronta para Amar	dub=18:45156
 Pronto pra Corrida	dub=18:77576
 Pronto, Falei (2022)	dub=18:1046011,18:467181,https://embedplayer2.xyz/cdn/hls/6c600a017be7a02023862c153e5904b6/master.txt,10:2461761
 Propeller One Way Night Coach (2026)	dub=18:1662414,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/289527.mp4
-Proposta Indecente	dub=10:2457337,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30818.mp4
+Proposta Indecente	dub=18:4478,10:2457337,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30818.mp4
 Propriedade (2023)	dub=18:1030571,https://embedplayer2.xyz/cdn/hls/565f4b79b3272e003de14a19ee7e9bfb/master.txt,10:2451162,10:2459773,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39143.mp4
 Propriedade Privada	dub=18:860860,10:2447825,10:2456961,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/30823.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87036.mp4
 Propriedades Estigmatizadas: Possessão	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/87047.mp4

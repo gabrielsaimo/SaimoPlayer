@@ -1831,7 +1831,7 @@
 1	5	dub	19:106735/1/5,11:2203319,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/20954.mp4
 1	6	dub	19:106735/1/6,11:2203320,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/20955.mp4
 @Sobrenatural	2005
-1	1	dub	19:1622/1/1
+1	1	dub	19:1622/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/62717?hash=3b36ca9b4953d815ae59b4b0
 1	1	leg	19:1622/1/1.mp4?lang=leg
 1	2	dub	19:1622/1/2
 1	2	leg	19:1622/1/2.mp4?lang=leg
@@ -2087,7 +2087,7 @@
 7	1	leg	19:1622/7/1.mp4?lang=leg
 7	2	dub	19:1622/7/2
 7	2	leg	19:1622/7/2.mp4?lang=leg
-7	3	dub	19:1622/7/3
+7	3	dub	19:1622/7/3,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/62845?hash=46690d375c92cfa79ae82b74
 7	3	leg	19:1622/7/3.mp4?lang=leg
 7	4	dub	19:1622/7/4
 7	4	leg	19:1622/7/4.mp4?lang=leg

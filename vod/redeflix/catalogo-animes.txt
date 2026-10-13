@@ -1,3 +1,5 @@
+2022	O Batman	2004	65
+43548	Esquece Isso!		13
 281512	My Melody &amp; Kuromi		12
 114466	Baymax!	2022	6
 85844	Wise Man&#039;s Grandchild		12
@@ -28,7 +30,7 @@
 317259	Vertex Force		1
 331349	Mestres do Universo: Histórias de Eternia		10
 231801	GET JIRO		3
-283692	Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!		1
+283692	Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!		2
 327765	Super Psychic Policeman Chojo	2026	1
 297903	PSYREN	2026	1
 316891	The Cold Sato-san is Only Sweet to Me	2026	1
@@ -38,63 +40,90 @@
 228671	Acampamento Mágico	2026	13
 286691	Cat's Eye	2025	12
 318918	LEGO ONE PIECE: A Série	2026	2
-324502	Overgeared	2026	2
+324502	Overgeared	2026	3
 336308	Beorne Show	2026	7
 68165	Bernard-jou Iwaku.	2016	12
 80400	Shinya! Tensai Bakabon	2018	12
 40351	Lanterna Verde: A Série Animada	2011	26
+252105	Golden Axe	2026	10
 88865	Mobile Suit Gundam: The Origin	2019	13
 70311	Mestre em Tempo Integral	2016	72
 42509	Steins;Gate	2011	25
 106691	Dogeza de Tanondemita	2020	8
+314478	Dang!	2026	8
 206484	Dinastia de Jade	2022	27
 69346	Saga of Tanya the Evil	2017	22
 293125	Sr. Crocodilo	2025	13
 66695	As Trigêmeas	1995	104
 95346	Hatena☆Illusion	2020	12
 130857	Hanabi-chan wa Okuregachi	2022	13
+327414	Monkey Wrench	2022	5
 254354	Lupi e Baduki	2024	14
 99789	High Guardian Spice	2021	12
+67098	Shimmer e Shine	2016	8
 7266	Speed Racer: Nova Geração	2008	26
 22432	Video Girl Ai	1992	6
 286346	Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!	2026	12
+217167	Karna the Guardian	2026	8
 96556	Lapis Re:LiGHTs	2020	12
+72089	Bingo e Rolly	2017	90
 106611	Yakunara Mug Cup mo	2021	24
 213044	Lupin Zero	2022	7
+104155	装甲娘戦機	2021	13
 297235	Dragon Girl Problem	2025	10
+107116	Wu Shang Shen Di	2020	9
 76121	DARLING in the FRANXX	2018	24
 30983	Detetive Conan	1996	123
+76139	Poputepipikku	2018	24
+61485	Girl Friend Beta	2014	12
 315187	O Mundo [Sem Filtro] de Any Malu	2026	10
 106126	Oh, Suddenly Egyptian God	2020	21
+274382	Super Fofos - Aventura na Cidade	2024	13
 127549	Sasaki and Miyano	2022	13
 61512	Diabolik Lovers	2013	12
+118443	Assim Falava Kishibe Rohan	2017	5
+298026	Release that Witch	2026	8
 61223	Akame ga Kill!	2014	24
 114199	Puraore! Pride of Orange	2021	12
 295142	Celestial Above All	2025	60
 275987	The Alchemist’s Rise	2025	13
 278475	The War of Cards	2024	13
 256783	Como Você Se Atreve?	2024	24
+298343	Strip Law	2026	10
+95213	Room Camp	2020	12
+108977	Project Scard: Praeter no Kizu	2021	14
 202770	Smile of the Arsnotoria the Animation	2022	13
 96042	Skate-Leading Stars	2021	12
+138882	Shoot! Goal to the Future	2022	14
 93649	Shironeko Project: Zero Chronicle	2020	12
+98584	Shachou, Battle no Jikan Desu!	2020	12
+96150	Seton Academy: Join the Pack!	2020	12
 114202	Selection Project	2021	13
 97067	Mugyutto! Black Clover	2019	8
 90366	This Boy is a Professional Wizard	2016	4
+107408	The Gymnastics Samurai	2020	11
+96655	Zashiki Warashi no Tatami-chan	2020	12
 295483	The Villainess Is Adored by the Prince of the Neighbor Kingdom	2026	6
 285743	You Can't Be in a Rom-Com with Your Childhood Friends!	2026	12
 45195	Kimi to Boku.	2011	26
+113780	Wave!! Surfing Yappe!!	2021	12
 94277	Kitsutsuki Tantei-Dokoro	2020	12
 288589	Easygoing Territory Defense by the Optimistic Lord	2026	10
 290667	An Adventurer's Daily Grind at Age 29	2026	12
+274141	A Gentle Noble's Vacation Recommendation	2026	12
 293629	Yoroi-Shinden Samurai Troopers	2026	12
 295366	There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her	2026	7
+276110	The Case Book of Arne	2026	2
 284969	Oedo Fire Slayer -The Legend of Phoenix-	2026	12
 253476	Journal with Witch	2026	13
 42573	Slam Dunk	1993	100
+285933	Tune In to the Midnight Heart	2026	12
 294867	Towa no Yugure	2025	12
 305163	The Daily Life of a Part-Time Torturer	2026	12
+239320	So You're Raising a Warrior	2025	13
 260983	Personagens Aprisionados	2024	17
 236565	Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga	2025	12
+284495	Isekai Office Worker: The Other World's Books Depend on the Bean Counter	2026	12
 229295	Five Elements God of War	2023	80
 289273	Brasas	2025	15
 292624	Além dos Reinos Divinos	2025	17
@@ -107,9 +136,16 @@
 286984	The Banished Court Magician Aims to Become the Strongest	2025	12
 278059	Shabake	2025	12
 296287	Plus-sized Misadventures in Love!	2025	12
+284644	My Status as an Assassin Obviously Exceeds the Hero's	2025	12
+117879	My Friend's Little Sister Has It In for Me!	2025	13
+287278	Mechanical Marie	2025	12
+286388	Inexpressive Kashiwada and Expressive Oota	2025	12
+283880	Hands off: Sawaranaide Kotesashi-kun	2025	12
 222624	Gintama: Mr. Ginpachi's Zany Class	2025	13
 261343	Chitose Is in the Ramune Bottle	2025	13
 284388	A Mangaka's Weirdly Wonderful Workplace	2025	11
+274810	This Monster Wants to Eat Me	2025	13
+284433	My Awkward Senpai	2025	12
 271576	Summer Pockets	2025	26
 284442	A Gatherer's Adventure in Isekai	2025	12
 36041	Bakuman	2010	75
@@ -121,20 +157,27 @@
 238892	Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Narita	2024	13
 259337	The Legend of Sky Lord [Shen Wu Tianzun]	2024	24
 222779	O império Xyrin	2023	17
+234443	Namoro de 4 Semanas	2023	11
+139173	My Heroic Husband	2023	13
 289197	Laços Celestiais	2025	5
+274548	Captivated, by You	2025	5
 285828	Onmyo Kaiten Re:Birth Verse	2025	12
+281058	Secrets of the Silent Witch	2025	14
 241811	Puniru is a Kawaii Slime	2024	24
 234176	Pon no Michi	2024	13
 274546	Let's Go Karaoke!	2025	5
+272556	Dealing with Mikadono Sisters Is a Breeze	2025	12
 279220	Cultural Exchange with a Game Centre Girl	2025	12
 283884	人妻の唇は缶チューハイの味がして	2025	4
 137065	Arknights	2022	20
 232869	A Casa do Mickey Mouse+	2025	11
 262254	With You and the Rain	2025	12
 286723	Welcome to the Outcast's Restaurant!	2025	12
+286434	Uglymug, Epicfighter	2025	12
 217247	Turkey! Time to Strike	2025	12
 281615	The Water Magician	2025	12
 274741	The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom	2025	12
+283705	The Shy Hero and the Assassin Princesses	2025	12
 284445	Takopi's Original Sin	2025	6
 280366	See You Tomorrow at the Food Court	2025	6
 284771	Scooped Up by an S-Rank Adventurer!	2025	12
@@ -142,49 +185,82 @@
 284448	Private Tutor to the Duke's Daughter	2025	13
 279993	Necronomico and the Cosmic Horror Show	2025	12
 261392	KAMITSUBAKI CITY UNDER CONSTRUCTION	2025	9
+276288	HOTEL INHUMANS	2025	13
 262377	Detectives These Days Are Crazy!	2025	12
 277581	Dekin no Mogura: The Earthbound Mole	2025	12
+279989	Betrothed to My Sister's Ex	2025	12
 333350	后西游记	2026	12
 243327	Honra dos Reis	2024	9
+280078	A Baleia Devoradora: Retorno ao Lar	2025	12
 283322	Diabo do Desemprego	2025	26
 88554	白夜玲珑	2018	25
 84737	Psychic Princess	2018	16
+85063	Lord Xue Ying	2018	78
 107463	Blades of the Guardians	2023	15
 93256	Cautious Hero: The Hero is Overpowered but Overly Cautious	2019	12
+273600	World of Immortals [Chang Sheng Jie]	2024	26
+68100	Touken Ranbu - Hanamaru	2016	24
 260569	Nian Wushuang	2024	15
+63323	SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist	2015	12
+64706	Prison School	2015	12
 63187	Monster Musume: Everyday Life with Monster Girls	2015	12
 45998	Kiss x Sis	2010	12
+62171	Hagure Yuusha no Aesthetica	2012	12
 219648	Left-Hand Layup!	2023	7
+281623	SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life	2025	1
+254853	ZatsuTabi -That's Journey-	2025	12
 275623	Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.	2025	11
+278816	The Gorilla God's Go-To Girl	2025	12
+256109	Teogonia	2025	12
+270602	Maebashi Witches	2025	12
+274069	KOWLOON GENERIC ROMANCE	2025	13
+281042	Food for the Soul	2025	12
 283360	Classic★Stars	2025	13
 262929	Apocalypse Hotel	2025	12
 278050	A Ninja and an Assassin Under One Roof	2025	12
+279731	YOUR FORMA	2025	13
 276880	Please Put Them On, Takamine-san	2025	12
 258055	Once Upon a Witch's Death	2025	12
+277222	Catch Me at the Ballpark!	2025	11
+274737	I'm the Evil Lord of an Intergalactic Empire!	2025	12
 35935	Berserk	1997	25
 9705	Hiwou War Chronicles	2000	26
 35971	Pandora Hearts	2009	25
 87476	Nobunaga Teacher's Young Bride	2019	12
 93845	Dádivas de Campanella	2010	13
+60818	O Mundo Ainda é Belo	2014	3
 80613	Back Street Girls: Gokudolls	2018	10
 65615	Nobunagun	2014	13
+117595	Fera Sagrada	2003	7
 45235	Sem asas para voar	2011	12
 218291	Sasayaku You ni Koi wo Utau	2024	12
+243743	Elf-san wa Yaserarenai.	2024	14
 45527	Nodame Cantabile	2007	11
 273332	Outra Jornada ao Oeste	2024	11
 282209	Cãezinhos no Passeio	2025	8
 80671	Cells at Work!	2018	21
+260822	From Bureaucrat to Villainess: Dad's Been Reincarnated!	2025	13
 273051	Babanba Banban Vampire	2025	12
+65333	Myriad Colors Phantom World	2016	13
 194916	Chiikawa	2022	25
 46227	Aoi Sekai no Chuushin de	2012	3
+34852	A Lei de Ueki	2005	51
 61527	Gatchaman Crowds	2013	12
+88044	Demon Lord, Retry!	2019	24
+83314	Tsurune	2018	27
+80732	The Master of Diabolism	2018	35
 236000	Kinnikuman Perfect Origin Arc	2024	24
 270487	I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!	2025	25
 42705	Hajime no Ippo: The Fighting!	2000	129
+257603	TsumaSho	2024	13
 243452	Tohai – Ura Rate Mahjong Tohai Roku	2024	12
 67853	Regalia: The Three Sacred Stars	2016	13
+74095	JUNI TAISEN: ZODIAC WAR	2017	12
+248947	FAIRY TAIL 100 YEARS QUEST	2024	26
 138357	Canções da Noite	2022	26
+249031	Welcome to Japan, Ms. Elf!	2025	11
 34163	Turma do Barulho	1981	46
+261148	The Red Ranger Becomes an Adventurer in Another World	2025	11
 106650	The Founder of Diabolism Q	2020	30
 261745	The Daily Life of a Middle-Aged Online Shopper in Another World	2025	13
 54241	Sugar Sugar Rune	2005	49
@@ -193,17 +269,27 @@
 245561	OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying	2025	12
 258228	Momentary Lily	2025	14
 258994	Medaka Kuroiwa is Impervious to My Charms	2025	13
+261301	I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic	2025	12
+273048	I'm Living with an Otaku NEET Kunoichi!?	2025	21
 257790	I'm Getting Married to a Girl I Hate in My Class	2025	13
+261311	I Want to Escape from Princess Lessons	2025	13
+249964	I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time	2025	12
+247859	Honey Lemon Soda	2025	12
 258229	HOTEL TASOKARE	2025	12
 244592	HAIGAKURA	2024	14
 280906	Grisaia Phantom Trigger	2025	13
 257609	FARMAGIA	2025	13
 249545	S-Rank Monster no “Behemoth” dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu	2025	12
+258680	Anyway, I'm Falling in Love with You.	2025	16
 250994	Ameku M.D.: Doctor Detective	2025	12
 281545	AQUARION Myth of Emotions	2025	12
+259788	A Terrified Teacher at Ghoul School!	2024	24
+259559	Headhunted to Another World: From Salaryman to Big Four!	2025	12
+276204	Bogus Skill «Fruitmaster» ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~	2025	12
 210899	UniteUp!	2023	25
 67676	Saiki Kusuo no Psi-nan	2016	48
 60654	Magi	2012	25
+88062	Joshikousei no Mudazukai	2019	12
 34662	Ginyuu Mokushiroku Meine Liebe	2004	13
 42692	A Chama de Recca	1997	42
 259787	Yakuza Fiancé: Raise wa Tanin ga Ii	2024	12
@@ -211,10 +297,12 @@
 16660	Mononoke	2007	12
 93241	Uzumaki	2024	4
 260689	Negative Positive Angler	2024	12
+270659	Kinokoinu Mushroom Pup	2024	11
 57041	Gintama	2006	362
 71194	The King's Avatar	2017	69
 239764	The Magical Girl and the Evil Lieutenant Used to Be Archenemies	2024	12
 272266	Irmão do Jorel: Shostners Show	2024	4
+119100	BOCCHI THE ROCK!	2022	12
 250598	The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible	2024	12
 95039	A Princesa Assassina	2007	6
 36157	Strawberry Panic	2006	12
@@ -223,43 +311,61 @@
 42142	Un-Go	2011	12
 83116	Ueno-san wa Bukiyou	2019	12
 76572	Douluo Dalu (Soul Land)	2018	265
+28061	School Days	2007	13
 91160	Registro de Criaturas Fantásticas	2019	13
 36836	Otome Yokai Zakuro	2010	13
 243140	Oi! Tonbo	2024	26
+68400	Nazotokine	2016	12
 61408	Nagi no Asukara: Calmaria do Mar	2013	26
 42468	Maria Olha Por Nós	2004	13
 39435	C: The Money of Soul and Possibility Control	2011	11
 45275	Arcana Famiglia	2012	13
 245285	Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells	2024	12
+239161	THE NEW GATE	2024	12
+222923	Jellyfish Can’t Swim in the Night	2024	11
 243141	YATAGARASU: The Raven Does Not Choose Its Master	2024	20
 45213	Usagi Drop	2011	11
+216272	Unnamed Memory	2024	24
 72028	Katsugeki TOUKEN RANBU	2017	45
 196287	Tonari no Yokai-san	2024	13
+209845	Our Dating Story: The Experienced You and The Inexperienced Me	2023	13
 210511	Nijiyon Animation	2023	25
 218146	Mysterious Disappearances	2024	12
 155942	Handyman Saitou in another world	2023	12
+206033	HIGHSPEED Étoile	2024	13
 239853	Grandpa and Grandma Turn Young Again	2024	10
 46004	Date A Live	2013	59
 240682	Astro Note	2024	13
+237150	As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World	2024	25
 34072	Aishiteruze Baby	2004	26
 236392	A Salad Bowl of Eccentrics	2024	12
+42916	Toradora!	2008	25
 107255	Dragon Raja	2022	27
 125712	Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout	2022	13
 76219	Miss Monochrome	2013	39
+212273	Train to the End of the World	2024	12
+236533	Studio Apartment, Good Lighting, Angel Included	2024	12
 225168	BARTENDER Glass of God	2024	12
 153697	Ayakashi Triangle	2023	13
+66103	Ace Attorney	2016	47
 123625	ARK: A Série Animada	2024	6
+229676	Spice and Wolf: MERCHANT MEETS THE WISE WOLF	2024	25
 203124	ME & ROBOCO	2022	29
 55912	Gifuu Doudou!!: Kanetsugu to Keiji	2013	25
 24458	Bamboo Blade	2007	26
+38671	Yumekui Merry	2011	13
+45801	Smile Precure!	2012	48
 34664	Tonagura!	2006	13
 76346	The Qwaser of Stigmata ⅠⅠ	2011	12
 37529	隠の王	2008	26
+139551	Kami Kuzu Idol	2022	10
 238846	Brave Bang Bravern!	2024	13
 207250	Boku no Kokoro no Yabai Yatsu	2023	25
+217755	Hikikomari Kyuuketsuki no Monmon	2023	13
 236532	The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-	2024	12
 156688	The Fire Hunter	2023	20
 112010	Muv-Luv Alternative	2021	25
+99787	Meiji Gekken: 1874	2024	10
 45950	High School DxD	2012	53
 60659	Coppelion	2013	13
 222930	Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord	2024	13
@@ -269,24 +375,36 @@
 218493	Tales of Wedding Rings	2024	24
 236930	Snack Basue	2024	14
 221165	Hyakusho Kizoku: Aristocracia Rural	2023	13
+211093	Ars no Kyojuu	2023	13
+46423	A Sacerdotisa de Outubro	2004	12
+232926	7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!	2024	13
 234995	Sengoku Youko	2024	35
 206630	Sasaki and Peeps	2024	13
 222784	Mr. Villain's Day Off	2024	13
+194665	HIGH CARD	2023	37
 35871	Gigi e a Fonte da Juventude	1982	15
+205672	Fluffy Paradise	2024	13
 221310	Doctor Elise: The Royal Lady with the Lamp	2024	12
+236142	Delusional Monthly Magazine	2024	13
 231357	The Foolish Angel Dances with the Devil	2024	12
 73833	The Ancient Magus' Bride	2017	48
 223780	Firefighter Daigo: Rescuer in Orange	2023	24
 46314	Zombie-Loan	2007	13
 230823	The Demon Prince of Momochi House	2024	12
 223565	Power of Hope ~Precure Full Bloom~	2023	13
+139060	Mato Seihei no Slave	2024	12
 236338	Fascinada por Garotas Mágicas	2024	13
+45254	Haiyore! Nyaruko-san	2012	12
 45211	Tari Tari	2012	13
+99083	Bottom-Tier Character Tomozaki	2021	27
 220286	Ishura	2024	24
 71441	Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.	2013	12
+198152	ONIMAI: I'm Now Your Sister!	2023	13
 21918	Full Moon - Buscando a Lua Cheia	2002	52
+45125	Btooom!	2012	12
 136840	Seiken Gakuin no Makentsukai	2023	10
 96402	BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.	2020	24
+209604	Tearmoon Empire	2023	13
 203045	Paradox Live THE ANIMATION	2023	13
 234740	My New Boss is Goofy	2023	13
 138180	In the Heart of Kunoichi Tsubaki	2022	13
@@ -297,7 +415,11 @@
 5863	Samurai 7	2004	26
 157571	Helck	2023	25
 64375	Mobile Suit Gundam: Iron-Blooded Orphans	2015	50
+221418	KAWAGOE BOYS SING -Now or Never-	2023	12
 206799	Dark Gathering	2023	26
+74191	Wake Up, Girls!	2014	24
+79654	Wake Up, Girl Zoo!	2014	10
+95909	Ochikobore Fruit Tart	2020	12
 78482	Kiratto Pri☆chan	2018	51
 69289	Kirakira☆Precure A La Mode	2017	49
 60667	Gundam Build Fighters	2013	50
@@ -305,21 +427,32 @@
 93875	22/7 (nanabun no nijyuuni)	2020	12
 100368	Yu-Gi-Oh! Sevens	2020	93
 77694	Umamusume: Pretty Derby	2018	39
+132917	UNDER NINJA	2023	13
+229612	The Yuzuki Family's Four Sons	2023	13
+209829	The Family Circumstances of the Irregular Witch	2023	13
 217404	Stardust Telepath	2023	13
 115236	The Saint's Magic Power is Omnipotent	2021	24
 218684	OVERTAKE!	2023	13
 100935	Idoly Pride	2021	13
 62564	Sound! Euphonium	2015	40
 112398	Heaven Official’s Blessing	2020	25
+96139	HYPNOSISMIC -Division Rap Battle- Rhyme Anima	2020	26
 76757	Golden Kamuy	2018	62
 113137	Girlfriend, Girlfriend	2021	24
+214540	Dead Mount Death Play	2023	34
+221148	Com Poções Eu Me Garanto!	2023	13
 153336	Butareba -The Story of a Man Turned into a Pig-	2023	4
+214649	BULLBUSTER	2023	13
+217512	16bit Sensation: Another Layer	2023	14
+240125	TRILLION GAME	2024	21
 222798	KamiErabi GOD.app	2023	25
 69287	Idol Jihen	2017	12
 229610	A Playthrough of a Certain Dude's VRMMO Life	2023	13
 219673	Os Reinos da Ruína	2023	12
 106301	CARDFIGHT!! VANGUARD overDress	2021	90
+196257	Yu-Gi-Oh! Go Rush!!	2022	150
 98823	Shadowverse	2020	77
+230288	Protocol: Rain	2023	13
 220779	O Grande Clérigo	2023	12
 213331	O Berserker da Gula	2023	13
 216523	Ron Kamonohashi's Forbidden Deductions	2023	25
@@ -338,10 +471,15 @@
 215956	The Gene of AI	2023	12
 218613	TenPuru	2023	14
 210181	SYNDUALITY Noir	2023	24
+135335	Sugar Apple Fairy Tale	2023	19
+153337	O Reino das Sete Magilâminas	2023	16
 202821	O Gato Prendado está Deprimido Hoje de Novo	2023	14
 138948	Malevolent Spirits: Mononogatari	2023	16
 45997	The Devil is a Part-Timer!	2013	13
 209649	É Sério Que Eu Sou o Mais Forte?	2023	13
+224207	BanG Dream! It's MyGO!!!!!	2023	14
+213233	AYAKA	2023	12
+222625	Atelier Ryza: Ever Darkness & the Secret Hideout The Animation	2023	13
 218263	Minha Crush Esqueceu os Óculos	2023	13
 217462	Louvada Seja Petey	2023	10
 222785	Undead Murder Farce	2023	14
@@ -349,17 +487,21 @@
 222783	Monster but Wild	2023	15
 117024	A Princesa Oferenda e o Rei das Feras	2023	25
 156610	Kizazi Moto: Geração Fogo	2023	10
+20451	Tenchi Muyo!	1995	26
 9980	O Novo Pica-Pau	1999	112
 31572	Lupin III	1971	25
+34841	Bucky	1999	26
+84553	Blade Runner: Black Lotus	2021	13
 902	Yu-Gi-Oh!	2000	236
 4625	As Novas Aventuras do Batman	1997	17
 32351	Ugly Americans	2010	31
 64198	Blaze e os Monster Machines	2014	20
+71000	Tsugumomo	2017	12
 135805	Gêmeos Tuttle	2021	9
 537	Ei Arnold!	1996	100
 4194	Star Wars: The Clone Wars	2008	133
 216878	Os Cavaleiros do Zodíaco - Saga do Santuário	1994	114
-203740	O Nascer da Lua	2025	1
+203740	O Nascer da Lua	2025	19
 94280	Steven Universo: Futuro	2019	20
 323839	东大高武学院 / Oriental Martial Academy	2026	10
 1664	Homem-Aranha: A Nova Série Animada	2003	13
@@ -739,6 +881,7 @@
 121720	Barbapapa - Uma Grande Família	2020	50
 61886	As Aventuras do Gato de Botas	2015	77
 8991	Digimon Frontier	2002	50
+34791	Claymore	2007	26
 709	Frango Robô	2005	217
 84587	Vampirina: O Show das Sinistras	2018	7
 65417	PJ Masks: Heróis de Pijama	2015	52
@@ -752,9 +895,11 @@
 289217	Alma-chan Wants to Be a Family!	2025	11
 418	O Pequeno Scooby-Doo	1988	27
 12225	Peppa Pig	2004	374
+302676	Dinamite, o Bionicão	1976	16
 258901	SANDA	2025	12
 291904	O Mundo Maravilhosamente Estranho de Gumball	2025	29
 286822	Clube Winx: A Magia está de volta	2025	13
+255752	Hotel Assombrado	2025	10
 670	Baby Looney Tunes	2002	102
 271607	The Fragrant Flower Blooms With Dignity	2025	13
 293703	Peixe Vermelho, Peixe Azul	2025	10
@@ -763,7 +908,11 @@
 676	As Aventuras de Tom e Jerry	2006	26
 212766	New Saga	2025	12
 232230	Lord of Mysteries	2025	30
+105797	Magos: Contos da Arcadia	2020	10
+40050	Daniel Tigre	2012	65
 101972	Our Last Crusade or the Rise of a New World	2020	24
+45790	JoJo's Bizarre Adventure	2012	194
+231003	Lazarus	2025	13
 254174	Kakushite! Makina-san!!	2025	12
 279216	Detetive da Mesa de Jantar	2025	12
 258348	Clevatess	2025	24
@@ -773,24 +922,31 @@
 229023	Eu e o Ursinho Pooh	2023	25
 21781	Esquadrão de Heróis	2009	52
 46262	Doutora Brinquedos	2012	136
+67424	Simba: O Rei Leão	1995	52
 1458	Franklin	1997	8
 236994	Dragon Ball DAIMA	2024	20
 288055	Star Wars: Histórias do Submundo	2025	6
 62273	Food Wars! Shokugeki no Soma	2015	37
 223564	100 Namoradas Que Te Amam Muuuuuito	2023	56
 271003	Yandere Dark Elf: She Chased Me All the Way from Another World!	2025	12
+5006	Bozo Show	1958	100
 156606	Gretel e o Hamster	2022	30
 216467	A Missão da Família Yozakura	2024	39
+114500	Ganhar ou Perder	2025	8
 62211	Sonic Boom	2014	104
+32605	O Show dos Looney Tunes	2011	52
 115895	Dino Ranch	2021	78
 133529	As Crônicas de Gumball	2020	6
 261298	Possibly the Greatest Alchemist of All Time	2025	12
 207332	SAKAMOTO DAYS	2025	22
 270474	Even Given the Worthless "Appraiser" Class, I'm Actually the Strongest	2025	12
+95269	Hanako-kun e os Mistérios do Colégio Kamome	2020	36
 31910	Naruto Shippuden	2007	968
 79948	O Vazio	2018	20
 218695	LEGO Friends: O Próximo Capítulo	2023	23
+65141	Futebol de Rua	2005	78
 237529	Medalist	2025	22
+60863	HAIKYU!!	2014	85
 65942	Re:ZERO -Starting Life in Another World-	2016	95
 2808	Três Espiãs Demais!	2002	182
 63301	O Show da Luna	2014	209
@@ -813,6 +969,7 @@
 261145	O Incrível Circo Digital / The Amazing Digital Circus	2023	9
 82684	That Time I Got Reincarnated as a Slime	2018	100
 2085	Coragem, o Cão Covarde	1999	53
+10938	Bob, o Construtor	1999	52
 64228	Que Legal, Scooby-Doo!	2015	52
 593	Salsicha e Scooby Atrás das Pistas	2006	26
 926	Scooby-Doo, Cadê Você?	1969	25
@@ -825,10 +982,11 @@
 239478	SAND LAND: THE SERIES	2024	13
 38693	Ninjago: Mestres do Spinjitzu	2012	98
 65844	KONOSUBA - God's blessing on this wonderful world!	2016	36
+237512	Jurassic World: Teoria do Caos	2024	39
 126437	Aoashi	2022	26
 63054	Perdidos em Oz	2015	26
 1931	Os Ursinhos Gummi	1985	65
-30984	Bleach	2004	775
+30984	Bleach	2004	778
 35790	Cardcaptor Sakura / Sakura Card Captors: Clear Card	1998	105
 46922	Ben 10: Omniverse	2012	80
 236234	Dora	2024	51
@@ -843,6 +1001,7 @@
 18848	Planeta Sheen	2010	26
 83002	Transformers Cyberverse	2018	62
 220542	Diários de uma Apotecária	2023	73
+207784	Dungeon Meshi	2024	24
 656	George, O Curioso	2006	63
 31736	Eyeshield 21	2005	145
 230025	Pequeno Príncipe e Seus Amigos	2023	39
@@ -872,9 +1031,10 @@
 107397	Gigablaster	2019	119
 21409	Dinossauro Rei	2007	79
 64401	Dora e Seus Amigos: Na Cidade!	2014	20
+27318	Breadwinners	2014	40
 7869	Os Pinguins de Madagascar	2008	79
 126824	O Show do Patrick Estrela	2021	63
-46298	Hunter x Hunter	2011	152
+46298	Hunter x Hunter	2011	270
 131378	Hora de Aventura com Fionna e Cake	2023	20
 154743	Meu Anjo de Vizinha Me Mima Demais	2023	25
 123542	Link Click	2021	29
@@ -885,11 +1045,12 @@
 207564	Reencarnado numa Máquina de Vendas, Agora Exploro a Masmorra	2023	35
 2437	Pocoyo	2005	209
 47480	O Show de Tom e Jerry	2014	324
-94664	Mushoku Tensei: Jobless Reincarnation	2021	60
+94664	Mushoku Tensei: Jobless Reincarnation	2021	62
 74415	Grizzy e os Lemmings	2016	312
 79061	O Mundo de Greg	2018	173
 97266	Go! Go! Cory Carson	2020	63
 125928	Minhas Aventuras com o Superman	2023	30
+81913	Cleo & Cuquin	2018	78
 216113	Petronix Defenders	2022	26
 20113	Os Sete Monstrinhos / Os 7 Monstrinhos	2000	42
 2723	Samurai Jack	2001	62
@@ -903,6 +1064,7 @@
 128024	Unicorn: Warriors Eternal	2023	10
 224047	Família Larva	2023	9
 3902	Shaun, o Carneiro	2007	138
+204832	MASHLE: MAGIA E MÚSCULOS	2023	24
 117465	Hell's Paradise	2023	25
 65931	Bungo Stray Dogs	2016	110
 67075	Mob Psycho 100	2016	37
@@ -983,7 +1145,7 @@
 1433	American Dad!	2005	425
 111474	A Casa Mágica da Gabby	2021	86
 931	He-Man e Os Defensores do Universo	1983	130
-2190	South Park	1997	350
+2190	South Park	1997	351
 128255	Transformers: War for Cybertron: O Reino	2021	6
 117682	Transformers: War for Cybertron: O Nascer da Terra	2020	6
 100617	Transformers: War for Cybertron: O Cerco	2020	6
@@ -1032,13 +1194,16 @@
 64365	DC Super Hero Girls: Super Hero High	2015	78
 103659	Power Players	2019	2
 95543	Rocketeer	2019	6
+85349	Amphibia	2019	58
 64752	A Guarda do Leão	2016	73
 95594	Velozes e Furiosos: Espiões do Asfalto	2019	32
 46260	Naruto	2002	291
 615	Futurama	1999	197
+82257	Cannon Busters	2019	12
 70437	Pergunte aos StoryBots	2016	22
 57532	Patrulha Canina	2013	281
 12697	Dragon Ball GT	1996	64
+3560	Blinky Bill	1993	52
 62715	Dragon Ball Super	2015	244
 213181	Hokkaido Gals Are Super Adorable!	2024	12
 63145	Charlotte	2015	13
@@ -1075,7 +1240,7 @@
 119168	B-Daman Crossfire	2011	26
 121792	Akebi's Sailor Uniform		1
 122826	Dance Dance Danseur		1
-12577	Devil May Cry		16
+12577	Devil May Cry		20
 12599	Mai-Hime		6
 12609	Dragon Ball Classico	1986	153
 128118	Deep Insanity THE LOST CHILD		1
@@ -1108,6 +1273,7 @@
 233408	Hanako-kun Depois da Escola		4
 233523	Dahlia in Bloom: Crafting a Fresh Start with Magical Tools		1
 235758	Alya Sometimes Hides Her Feelings in Russian	2024	13
+235930	Devil May Cry	2025	16
 235978	Tadaima, Okaeri		1
 241628	Ramen Akaneko		1
 244617	MAYONAKA PUNCH		1
@@ -1176,157 +1342,26 @@
 10400	Luluzinha	1995	78
 1429	Attack on Titan / Ataque dos Titãs	2013	89
 282662	With You, Our Love Will Make It Through		12
-104155	装甲娘戦機	2021	13
-107116	Wu Shang Shen Di	2020	9
-76139	Poputepipikku	2018	24
-61485	Girl Friend Beta	2014	12
-118443	Assim Falava Kishibe Rohan	2017	5
-298026	Release that Witch	2026	8
-95213	Room Camp	2020	12
 293144	Wash It All Away	2026	12
-108977	Project Scard: Praeter no Kizu	2021	14
-138882	Shoot! Goal to the Future	2022	14
-98584	Shachou, Battle no Jikan Desu!	2020	12
-96150	Seton Academy: Join the Pack!	2020	12
-107408	The Gymnastics Samurai	2020	11
-96655	Zashiki Warashi no Tatami-chan	2020	12
-113780	Wave!! Surfing Yappe!!	2021	12
-274141	A Gentle Noble's Vacation Recommendation	2026	12
-276110	The Case Book of Arne	2026	2
-285933	Tune In to the Midnight Heart	2026	12
-239320	So You're Raising a Warrior	2025	13
 258579	Let This Grieving Soul Retire	2024	25
-284495	Isekai Office Worker: The Other World's Books Depend on the Bean Counter	2026	12
-284644	My Status as an Assassin Obviously Exceeds the Hero's	2025	12
-117879	My Friend's Little Sister Has It In for Me!	2025	13
-287278	Mechanical Marie	2025	12
-286388	Inexpressive Kashiwada and Expressive Oota	2025	12
-283880	Hands off: Sawaranaide Kotesashi-kun	2025	12
 280048	Dad is a Hero, Mom is a Spirit, I'm a Reincarnator	2025	12
-274810	This Monster Wants to Eat Me	2025	13
-284433	My Awkward Senpai	2025	12
-234443	Namoro de 4 Semanas	2023	11
-139173	My Heroic Husband	2023	13
-274548	Captivated, by You	2025	5
-281058	Secrets of the Silent Witch	2025	14
-272556	Dealing with Mikadono Sisters Is a Breeze	2025	12
-286434	Uglymug, Epicfighter	2025	12
-283705	The Shy Hero and the Assassin Princesses	2025	12
-276288	HOTEL INHUMANS	2025	13
-279989	Betrothed to My Sister's Ex	2025	12
-280078	A Baleia Devoradora: Retorno ao Lar	2025	12
-85063	Lord Xue Ying	2018	78
-273600	World of Immortals [Chang Sheng Jie]	2024	26
-68100	Touken Ranbu - Hanamaru	2016	24
 254358	As Aventuras da Filha do Rei Demônio	2024	15
-63323	SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist	2015	12
-64706	Prison School	2015	12
-62171	Hagure Yuusha no Aesthetica	2012	12
 215615	#COMPASS2.0 ANIMATION PROJECT	2025	13
-281623	SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life	2025	1
-254853	ZatsuTabi -That's Journey-	2025	12
-278816	The Gorilla God's Go-To Girl	2025	12
-256109	Teogonia	2025	12
-270602	Maebashi Witches	2025	12
-274069	KOWLOON GENERIC ROMANCE	2025	13
-281042	Food for the Soul	2025	12
-279731	YOUR FORMA	2025	13
 133154	Sword of the Demon Hunter: Kijin Gentosho	2025	24
-277222	Catch Me at the Ballpark!	2025	11
-274737	I'm the Evil Lord of an Intergalactic Empire!	2025	12
-60818	O Mundo Ainda é Belo	2014	3
-117595	Fera Sagrada	2003	7
-243743	Elf-san wa Yaserarenai.	2024	14
 56352	Crônicas da Deusa Gato	2011	13
 262141	I Have a Crush at Work	2025	12
-260822	From Bureaucrat to Villainess: Dad's Been Reincarnated!	2025	13
-65333	Myriad Colors Phantom World	2016	13
-34852	A Lei de Ueki	2005	51
-88044	Demon Lord, Retry!	2019	24
-83314	Tsurune	2018	27
-80732	The Master of Diabolism	2018	35
-257603	TsumaSho	2024	13
-74095	JUNI TAISEN: ZODIAC WAR	2017	12
-248947	FAIRY TAIL 100 YEARS QUEST	2024	26
-249031	Welcome to Japan, Ms. Elf!	2025	11
-261148	The Red Ranger Becomes an Adventurer in Another World	2025	11
-261301	I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic	2025	12
-273048	I'm Living with an Otaku NEET Kunoichi!?	2025	21
-261311	I Want to Escape from Princess Lessons	2025	13
-249964	I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time	2025	12
-247859	Honey Lemon Soda	2025	12
-258680	Anyway, I'm Falling in Love with You.	2025	16
-259788	A Terrified Teacher at Ghoul School!	2024	24
-259559	Headhunted to Another World: From Salaryman to Big Four!	2025	12
-276204	Bogus Skill «Fruitmaster» ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~	2025	12
-88062	Joshikousei no Mudazukai	2019	12
 66856	Futsuu no Joshikousei ga [Locodol] Yattemita.	2014	15
-270659	Kinokoinu Mushroom Pup	2024	11
-119100	BOCCHI THE ROCK!	2022	12
 243216	Wonderful Precure!	2024	26
-28061	School Days	2007	13
-68400	Nazotokine	2016	12
 229743	VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream	2024	12
-239161	THE NEW GATE	2024	12
-222923	Jellyfish Can’t Swim in the Night	2024	11
-216272	Unnamed Memory	2024	24
-209845	Our Dating Story: The Experienced You and The Inexperienced Me	2023	13
-206033	HIGHSPEED Étoile	2024	13
 241928	GIRLS BAND CRY	2024	13
-237150	As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World	2024	25
-42916	Toradora!	2008	25
-212273	Train to the End of the World	2024	12
-236533	Studio Apartment, Good Lighting, Angel Included	2024	12
 213830	I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability	2024	23
-66103	Ace Attorney	2016	47
-229676	Spice and Wolf: MERCHANT MEETS THE WISE WOLF	2024	25
-38671	Yumekui Merry	2011	13
-45801	Smile Precure!	2012	48
-139551	Kami Kuzu Idol	2022	10
 46170	Eu não gosto nem um pouco do meu maninho!!	2011	13
 237045	Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!	2024	12
-217755	Hikikomari Kyuuketsuki no Monmon	2023	13
-99787	Meiji Gekken: 1874	2024	10
-211093	Ars no Kyojuu	2023	13
-46423	A Sacerdotisa de Outubro	2004	12
-232926	7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!	2024	13
-194665	HIGH CARD	2023	37
-205672	Fluffy Paradise	2024	13
-236142	Delusional Monthly Magazine	2024	13
 53728	Mazinkaiser SKL	2011	7
-139060	Mato Seihei no Slave	2024	12
-45254	Haiyore! Nyaruko-san	2012	12
-99083	Bottom-Tier Character Tomozaki	2021	27
-198152	ONIMAI: I'm Now Your Sister!	2023	13
-45125	Btooom!	2012	12
-209604	Tearmoon Empire	2023	13
 1042	Shoujo Kakumei Utena	1997	39
-221418	KAWAGOE BOYS SING -Now or Never-	2023	12
 156197	Delicious Party Pretty Cure	2022	46
-74191	Wake Up, Girls!	2014	24
-79654	Wake Up, Girl Zoo!	2014	10
-95909	Ochikobore Fruit Tart	2020	12
-132917	UNDER NINJA	2023	13
-229612	The Yuzuki Family's Four Sons	2023	13
-209829	The Family Circumstances of the Irregular Witch	2023	13
-96139	HYPNOSISMIC -Division Rap Battle- Rhyme Anima	2020	26
-214540	Dead Mount Death Play	2023	34
-221148	Com Poções Eu Me Garanto!	2023	13
-214649	BULLBUSTER	2023	13
 230050	A Returner’s Magic Should Be Special	2023	12
-217512	16bit Sensation: Another Layer	2023	14
-240125	TRILLION GAME	2024	21
-196257	Yu-Gi-Oh! Go Rush!!	2022	150
-230288	Protocol: Rain	2023	13
-135335	Sugar Apple Fairy Tale	2023	19
-153337	O Reino das Sete Magilâminas	2023	16
-224207	BanG Dream! It's MyGO!!!!!	2023	14
-213233	AYAKA	2023	12
-222625	Atelier Ryza: Ever Darkness & the Secret Hideout The Animation	2023	13
 158373	NieR:Automata Ver1.1a	2023	25
-20451	Tenchi Muyo!	1995	26
-34841	Bucky	1999	26
-71000	Tsugumomo	2017	12
 216760	The Many Sides of Voice Actor Radio		1
 37851	Digimon Xros Wars		53
 60826	Dai-Shogun - Great Revolution		3

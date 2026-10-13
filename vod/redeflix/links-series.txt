@@ -5415,6 +5415,11 @@
 1	24	dub	https://embedplayer2.xyz/cdn/hls/96388339ae4bd69b1c500f07057828a5/master.txt
 1	25	dub	https://embedplayer2.xyz/cdn/hls/2131c366ddfa793f35d0b5a2e5fcc828/master.txt
 1	26	dub	https://embedplayer2.xyz/cdn/hls/5b403bd1540fe827a1d3f1e03976cb07/master.txt
+1	28	dub	https://embedplayer2.xyz/cdn/hls/226e5001216ebec0788bf6d0fa2b6794/master.txt
+1	37	dub	https://embedplayer2.xyz/cdn/hls/26b4477d9b2cb0cb131cd786b0270e28/master.txt
+1	38	dub	https://embedplayer2.xyz/cdn/hls/6a10d7e0bb3b6483e698899f9e24bf03/master.txt
+1	50	dub	https://embedplayer2.xyz/cdn/hls/7eb7ade7efa1fcf3597f07152116946f/master.txt
+1	53	dub	https://embedplayer2.xyz/cdn/hls/329b2af856cbfc96340b2610eba0e897/master.txt
 @Law & Order: Crime Organizado	2021	106158
 1	4	dub	https://embedplayer2.xyz/cdn/hls/c390f6ce91b1e3eced1248440fbf9f47/master.txt
 2	7	dub	https://embedplayer2.xyz/cdn/hls/7a6bb3addb1f173b4e612206c48d3a07/master.txt
@@ -13125,6 +13130,23 @@
 1	10	dub	https://embedplayer2.xyz/cdn/hls/5ebe6ef4dae2888c6821b785c1215a90/master.txt
 1	11	dub	https://embedplayer2.xyz/cdn/hls/8b1082d4bbba641dcf37c191f216bba3/master.txt
 1	12	dub	https://embedplayer2.xyz/cdn/hls/bd052c932d846818e8ccbfd271bb84e5/master.txt
+@Devil May Cry	2025	235930
+1	1	dub	https://embedplayer2.xyz/cdn/hls/20f6b681ac2bbb129d2cb425efe5ff8a/master.txt
+1	2	dub	https://embedplayer2.xyz/cdn/hls/04c91925ddf89f3c07c647439cbe1192/master.txt
+1	3	dub	https://embedplayer2.xyz/cdn/hls/9068b02c15bf4fd01dc7e9d1e7830fe3/master.txt
+1	4	dub	https://embedplayer2.xyz/cdn/hls/c43b57f7318837ebaff14ff7576526bd/master.txt
+1	5	dub	https://embedplayer2.xyz/cdn/hls/ec2df23a8cd56dafa864ba91b099ebfe/master.txt
+1	6	dub	https://embedplayer2.xyz/cdn/hls/13150674cd0aae2a4be0c0f2a5a0eb07/master.txt
+1	7	dub	https://embedplayer2.xyz/cdn/hls/4a12b59487d6961b5b233406e70f80df/master.txt
+1	8	dub	https://embedplayer2.xyz/cdn/hls/1f46bf29123d5a293bba25554e5b44f4/master.txt
+2	1	dub	https://embedplayer2.xyz/cdn/hls/90b8ec696190a11b61b207a7cd08e524/master.txt
+2	2	dub	https://embedplayer2.xyz/cdn/hls/5d3ce7d09741b23276c41a8547530815/master.txt
+2	3	dub	https://embedplayer2.xyz/cdn/hls/bbf3d5eb2f3eb3326eebf111e47c5c43/master.txt
+2	4	dub	https://embedplayer2.xyz/cdn/hls/0b75c4b7454ad25b7db864117ad4bec1/master.txt
+2	5	dub	https://embedplayer2.xyz/cdn/hls/94aa0266c76ed6243c4d72e79729527a/master.txt
+2	6	dub	https://embedplayer2.xyz/cdn/hls/eb4231021afbfcda90b5de428e05c970/master.txt
+2	7	dub	https://embedplayer2.xyz/cdn/hls/fd860a4a666139e9bbf15415591f2898/master.txt
+2	8	dub	https://embedplayer2.xyz/cdn/hls/ae8b95a24cf48170c4b939f7c851bf29/master.txt
 @Ransom Canyon	2025	240993
 1	10	dub	https://embedplayer2.xyz/cdn/hls/da8c08c22d846875c9cae02eb55dd966/master.txt
 2	2	dub	https://embedplayer2.xyz/cdn/hls/cc98f416fa2b8bf800748dbb8e3ee5a8/master.txt
@@ -13769,6 +13791,10 @@
 @Long Bright River	2025	244628
 1	5	dub	https://embedplayer2.xyz/cdn/hls/15fdd2bcdb90d047e1a453c92a6c694d/master.txt
 1	8	dub	https://embedplayer2.xyz/cdn/hls/e03b214d77c0fcf0b2084780b38f2231/master.txt
+@Insônia		242102
+1	1	dub	https://embedplayer2.xyz/cdn/hls/0f23c65e6f14d8c7f716d96ad50cadb9/master.txt
+1	4	dub	https://embedplayer2.xyz/cdn/hls/bb48fcdc7b0dce1d07a91942e7783842/master.txt
+1	6	dub	https://embedplayer2.xyz/cdn/hls/91eeebd1b52b337f4a2274f76e5ab699/master.txt
 @Maria e o Cangaço	2025	128331
 1	1	dub	https://embedplayer2.xyz/cdn/hls/74ff328902f3dc42f8128cc1583804c0/master.txt
 1	2	dub	https://embedplayer2.xyz/cdn/hls/bc5dd02c2c901b21ecbbe8bb8bda9bdc/master.txt

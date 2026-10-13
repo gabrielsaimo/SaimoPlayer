@@ -664,6 +664,7 @@
 1	202	dub	19:41829/1/202,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/191714.mp4
 1	203	dub	19:41829/1/203,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/191715.mp4
 @Portobello
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:218557/1/1.mp4?lang=leg
 1	2	leg	19:218557/1/2.mp4?lang=leg
 1	3	leg	19:218557/1/3.mp4?lang=leg
@@ -763,7 +764,7 @@
 1	12	dub	19:296009/1/12
 1	12	leg	19:296009/1/12.mp4?lang=leg,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/247173.mp4
 @Possession
-1	1	dub	19:279089/1/1
+1	1	dub	19:279089/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:279089/1/1.mp4?lang=leg
 1	2	dub	19:279089/1/2
 1	2	leg	19:279089/1/2.mp4?lang=leg
@@ -1916,6 +1917,7 @@
 1	7	dub	19:335227/1/7,11:2472524
 1	8	dub	19:335227/1/8,11:2472525
 @Presas na Bolivia
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:300787/1/1.mp4?lang=leg
 1	2	leg	19:300787/1/2.mp4?lang=leg
 1	3	leg	19:300787/1/3.mp4?lang=leg
@@ -3167,6 +3169,7 @@
 2	22	dub	19:78058/2/22,11:2115091,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/243512.mp4
 2	23	dub	19:78058/2/23,11:2115092,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/243513.mp4
 @Prisioneira 951
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:306502/1/1.mp4?lang=leg
 1	2	leg	19:306502/1/2.mp4?lang=leg
 1	3	leg	19:306502/1/3.mp4?lang=leg
@@ -3311,6 +3314,7 @@
 1	15	leg	19:74821/1/15.mp4?lang=leg,11:2191230,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88251.mp4
 1	16	leg	19:74821/1/16.mp4?lang=leg,11:2191231,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/88252.mp4
 @Prison School
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:64706/1/1.mp4?lang=leg
 1	2	leg	19:64706/1/2.mp4?lang=leg
 1	3	leg	19:64706/1/3.mp4?lang=leg
@@ -3337,7 +3341,7 @@
 1	11	leg	11:2292844
 1	12	leg	11:2292845
 @Prisoner
-1	1	dub	19:311858/1/1
+1	1	dub	19:311858/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:311858/1/1.mp4?lang=leg
 1	2	leg	19:311858/1/2.mp4?lang=leg
 1	3	leg	19:311858/1/3.mp4?lang=leg

@@ -60,7 +60,7 @@
 @RECOMPENSA DE SANGUE A HERDEIRA RETORNA
 4	1	dub	11:2334854
 @RESET
-1	1	dub	19:71014/1/1.m3u8
+1	1	dub	19:71014/1/1.m3u8,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:71014/1/1.mp4?lang=leg
 1	2	dub	19:71014/1/2.m3u8
 1	2	leg	19:71014/1/2.mp4?lang=leg
@@ -298,6 +298,7 @@
 1	39	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/280171.mp4
 1	40	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/280172.mp4
 @Rachando o Bico com Kevin Hart
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:311991/1/1.mp4?lang=leg
 1	2	leg	19:311991/1/2.mp4?lang=leg
 1	3	leg	19:311991/1/3.mp4?lang=leg
@@ -439,7 +440,7 @@
 3	5	dub	19:91557/3/5,https://embedplayer2.xyz/cdn/hls/70990d1f46a8b3e55c9ccc3f43ff60c6/master.txt,11:2223410,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153469.mp4
 3	6	dub	19:91557/3/6,11:2223411,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/153470.mp4
 @Ragnarok The Animation
-1	1	dub	19:45615/1/1
+1	1	dub	19:45615/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:45615/1/1.mp4?lang=leg
 1	2	dub	19:45615/1/2
 1	2	leg	19:45615/1/2.mp4?lang=leg
@@ -944,6 +945,7 @@
 1	7	dub	19:269160/1/7,11:2274554,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/247822.mp4
 1	8	dub	19:269160/1/8,11:2274555,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/247823.mp4
 @Rainhas do Queens
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:286162/1/1.mp4?lang=leg
 1	2	leg	19:286162/1/2.mp4?lang=leg
 1	3	leg	19:286162/1/3.mp4?lang=leg
@@ -4290,7 +4292,8 @@
 1	35	leg	19:305386/1/35.mp4?lang=leg
 1	36	leg	19:305386/1/36.mp4?lang=leg
 @Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
-1	1	dub	19:283692/1/1
+1	1	dub	19:283692/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
+1	2	dub	19:283692/1/2
 @Rebus
 1	1	leg	19:1165/1/1.mp4?lang=leg,11:2292597
 1	2	leg	19:1165/1/2.mp4?lang=leg,11:2292598
@@ -4388,7 +4391,7 @@
 1	5	dub	19:201838/1/5,11:2177635,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72599.mp4
 1	6	dub	19:201838/1/6,11:2177636,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/72600.mp4
 @Recommendations from Mr. Iwamoto
-1	1	dub	19:324335/1/1
+1	1	dub	19:324335/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:324335/1/1.mp4?lang=leg
 1	2	dub	19:324335/1/2
 1	2	leg	19:324335/1/2.mp4?lang=leg

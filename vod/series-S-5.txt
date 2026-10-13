@@ -1723,7 +1723,7 @@
 17	8	leg	19:2190/17/8.mp4?lang=leg
 17	9	dub	19:2190/17/9,11:2162942,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232257.mp4
 17	9	leg	19:2190/17/9.mp4?lang=leg
-17	10	dub	11:2162943,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232258.mp4
+17	10	dub	19:2190/17/10,11:2162943,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232258.mp4
 17	10	leg	19:2190/17/10.mp4?lang=leg
 18	1	dub	19:2190/18/1,11:2162944,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232259.mp4
 18	1	leg	19:2190/18/1.mp4?lang=leg
@@ -1888,6 +1888,7 @@
 28	5	dub	19:2190/28/5,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/232343.mp4
 28	5	leg	19:2190/28/5.mp4?lang=leg
 29	1	dub	19:2190/29/1
+29	2	dub	19:2190/29/2
 @South Side
 1	1	dub	19:91502/1/1,11:2122874,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128437.mp4
 1	2	dub	19:91502/1/2,11:2122875,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/128438.mp4

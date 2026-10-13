@@ -1,3 +1,7 @@
+@Os Segredos de Tutancamon
+1	1	dub	19:80225/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70674.mp4
+1	2	dub	19:80225/1/2,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70676.mp4
+1	3	dub	19:80225/1/3,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70677.mp4
 @Os Segredos do Everest
 1	1	dub	19:273578/1/1,11:2205108,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17776.mp4
 1	2	dub	19:273578/1/2,11:2205109,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17777.mp4
@@ -16,6 +20,7 @@
 1	5	dub	19:273916/1/5,11:2178033,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70692.mp4
 1	6	dub	19:273916/1/6,11:2178034,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/70694.mp4
 @Os Sentinelas
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:223876/1/1.mp4?lang=leg
 1	2	leg	19:223876/1/2.mp4?lang=leg
 1	3	leg	19:223876/1/3.mp4?lang=leg
@@ -2409,6 +2414,7 @@
 1	12	leg	19:209845/1/12.mp4?lang=leg,11:2291761
 4	13	dub	19:209845/4/13
 @Our Fake Marriage
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:228919/1/1.mp4?lang=leg
 1	2	leg	19:228919/1/2.mp4?lang=leg
 1	3	leg	19:228919/1/3.mp4?lang=leg
@@ -2597,7 +2603,7 @@
 1	6	dub	19:197460/1/6,11:2205062,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17843.mp4
 1	7	dub	19:197460/1/7,11:2205063,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/17844.mp4
 @Ouro Verde
-1	1	dub	19:69692/1/1
+1	1	dub	19:69692/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:69692/1/2
 1	3	dub	19:69692/1/3
 1	4	dub	19:69692/1/4
@@ -3288,7 +3294,7 @@
 1	15	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/279262.mp4
 1	16	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/279263.mp4
 @Outside
-1	1	dub	19:333016/1/1
+1	1	dub	19:333016/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:333016/1/1.mp4?lang=leg
 1	2	dub	19:333016/1/2
 1	2	leg	19:333016/1/2.mp4?lang=leg
@@ -3349,8 +3355,9 @@
 1	7	dub	19:95897/1/7
 1	8	dub	19:95897/1/8
 @Overgeared
-1	1	dub	19:324502/1/1
+1	1	dub	19:324502/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	2	dub	19:324502/1/2
+1	3	dub	19:324502/1/3
 @Overlord	2015
 1	1	dub	19:64196/1/1,https://embedplayer2.xyz/cdn/hls/ece149b9ea5610a81c9ea5752b05b93d/master.txt,11:2393523,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/93211.mp4
 1	2	dub	19:64196/1/2,https://embedplayer2.xyz/cdn/hls/320703c0bce8796224bed43d87310292/master.txt,11:2393524,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/93212.mp4

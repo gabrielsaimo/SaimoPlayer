@@ -1,47 +1,47 @@
 # Fileiras da tela inicial. Geradas por gerar_destaques.py — não editar à mão.
 capa: https://image.tmdb.org/t/p/w342
 fila	Em alta
+f	Sobrevivência	S		/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg
 f	Homem-Aranha: Um Novo Dia (2026)	H	2026	/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
 f	Matchbox - O Filme	M		/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg
-f	Sobrevivência	S		/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg
+f	Da Magia à Sedução: Feitiço de Amor	D		/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg
+f	गांधारी (2026)	#	2026	/yDiw6WUpAdlidbQDtI09rWVvGtu.jpg
 f	Digger	D		/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg
 f	Sobrenatural: Agora Entre Nós (2026)	S	2026	/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg
 f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
-f	Da Magia à Sedução: Feitiço de Amor	D		/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg
 f	Street Fighter	S		/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg
-f	Obsessão	O		/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
-f	Moana	M		/wjAdEJoqcmyjBj8jxb3lrUN0PLJ.jpg
-f	Coyote vs ACME (2026)	C	2026	/bJRWRbaDQzxmVe9jaSB9rkiEkmq.jpg
-f	Só por Uma Noite (2026)	S	2026	/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg
-f	Toy Story 5 (2026)	T	2026	/jTN1hdfP88Km63waezqIN1uUqT3.jpg
-f	The Invite	T		/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg
-f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
+f	Obsessão	O		/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 f	Backrooms: Um Não-Lugar	B		/a1pgQeEge47xrS4jGlDwIHiieVK.jpg
-f	Cartas de Redenção (2026)	C	2026	/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg
+f	Toy Story 5 (2026)	T	2026	/jTN1hdfP88Km63waezqIN1uUqT3.jpg
+f	Moana	M		/wjAdEJoqcmyjBj8jxb3lrUN0PLJ.jpg
+f	Coração Selvagem	C		/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
 f	As Aventuras de Tadeo e a Lâmpada Mágica	A		/3TYvITZ5spd4Z0LE74XrKAsInb6.jpg
-f	Soulm8te (2026)	S	2026	/l7zdh8qUKDNCGApX3KBOBUOoIdd.jpg
+f	Cartas de Redenção (2026)	C	2026	/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg
+f	O Fim da Rua (2026)	O	2026	/aqEPRht1pZR653rmU7eHyk8wSNP.jpg
+f	The Invite	T		/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg
+f	Notícias em Perigo	N		/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg
 fila	Séries em alta
-s	Link Click	L		/8uBae3fsFRhYNrNBxuWJCXlBFKE.jpg
+s	Link Click	L		/44cNZ5PmLOwTIOkYwlAewgzn8Bl.jpg
 s	Lanternas	L	2026	/oQkXyLAYO5YWyU6gA99TynguYwL.jpg
 s	Profundezas	P		/zhaLAbSzPQchEzDGUoJoQFQaxPI.jpg
-s	Slow Horses	S	2022	/rdNvIaPXpkUZl5tQLsTP15osfu2.jpg
-s	One Piece	O	1999	/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg
 s	Dragon Ball Super: Beerus	D		/w5ai45092PIlV1Vbt7kswry2C03.jpg
 s	Ted Lasso	T	2020	/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg
-s	Avatar: Os Sete Refúgios	A		/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg
+s	Um Choque de Amor	U		/ncqFauZ8eT5jq6E7jNxsopMwd8m.jpg
+s	Doctor X: A Máfia do Jaleco Branco	D		/xFnT1WFf4y9durKpIFiwrI0lvxq.jpg
 s	Terra da Mafia	T	2025	/jM7bH9b9QT22PtkTyHzxbXx4lDI.jpg
+s	Avatar: Os Sete Refúgios	A		/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg
 s	Black Clover	B	2017	/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg
-s	Coven Academy	C		/wnyszkmpoJbwdJMSPYPtidB2Cgh.jpg
+s	One Piece	O	1999	/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg
 s	A Leste do Éden	A		/3j5f8RkkbHIoBR1W4NwAQo61giR.jpg
+s	American Horror Story	A	2011	/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg
 s	Marshals: Uma História de Yellowstone	M	2026	/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg
-s	Futurama	F		/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg
+s	Hotel Assombrado	H		/xJ3SYSzJs5n9JELZHu2kJcAg0g4.jpg
 s	South Park	S		/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg
+s	Slow Horses	S	2022	/rdNvIaPXpkUZl5tQLsTP15osfu2.jpg
+s	Diários de uma Apotecária	D	2023	/t8fC3K3XnwE6Iso6b1bi5Fdo93n.jpg
 s	Entre os Nossos Passos	E		/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg
-s	Reacher	R	2022	/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg
-s	Uma Família da Pesada	U		/j28XGzAhvJNGWEHbYrzvREw7kKd.jpg
-s	Os Simpsons	O		/1jGPgDDcmg3Xgs3WO8sfYfbnFoA.jpg
-s	Silo	S	2023	/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg
+s	Materia Escura	M	2024	/mAbuZuS4CqlTI6lvWIxPRHppbVs.jpg
 fila	Lançamentos de 2026
 f	Homem-Aranha: Um Novo Dia (2026)	H	2026	/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg
 f	Resident Evil (2026)	R	2026	/gQ76UL64RQe3oHwiwHwODTC23g4.jpg
@@ -49,25 +49,27 @@ f	Sobrenatural: Agora Entre Nós (2026)	S	2026	/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg
 f	A Odisseia	A		/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg
 f	Matchbox - O Filme	M		/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg
 f	Sobrevivência	S		/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg
-f	Coyote vs ACME (2026)	C	2026	/fqnp3doSeUFLGUFIolHVPA41O4E.jpg
+f	Coyote vs ACME (2026)	C	2026	/bJRWRbaDQzxmVe9jaSB9rkiEkmq.jpg
 f	O Fim da Rua (2026)	O	2026	/aqEPRht1pZR653rmU7eHyk8wSNP.jpg
 f	Toy Story 5 (2026)	T	2026	/jTN1hdfP88Km63waezqIN1uUqT3.jpg
 f	Obsessão	O		/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg
 f	Codigo Vinganca (2026)	C	2026	/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg
 f	Digger	D		/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg
 f	A Hipótese do Amor	A		/9TQyjZ9PHCiPR8eylF8dulUFreu.jpg
-f	गांधारी (2026)	#	2026	/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg
+f	गांधारी (2026)	#	2026	/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg
+f	Notícias em Perigo	N		/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg
 f	Moana	M		/wjAdEJoqcmyjBj8jxb3lrUN0PLJ.jpg
 f	Minions & Monstros (2026)	M	2026	/hTowtXrkCY7FJyoj4p91JckrJSE.jpg
 f	Devoradores de Estrelas (2026)	D	2026	/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg
 f	Coração Selvagem	C		/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg
 f	Dia D (2026)	D	2026	/pmff1wjKrgJi92PPr346lAifzlg.jpg
-f	O Sorveteiro (2026)	O	2026	/3qbjuaIhlfInBd9C85yv1ss50mq.jpg
 fila	Séries novas de 2026
 s	Lanternas	L	2026	/oQkXyLAYO5YWyU6gA99TynguYwL.jpg
 s	Profundezas	P		/zhaLAbSzPQchEzDGUoJoQFQaxPI.jpg
 s	Avatar: Os Sete Refúgios	A		/l8qbsNAr1CZK2tZ60l5lrJdT5mW.jpg
 s	Escândalo e Intriga	E		/fPXgwURa9dRRJDA8JzYT4K2aAaI.jpg
+s	Um Choque de Amor	U		/ncqFauZ8eT5jq6E7jNxsopMwd8m.jpg
+s	Doctor X: A Máfia do Jaleco Branco	D		/xFnT1WFf4y9durKpIFiwrI0lvxq.jpg
 s	Marshals: Uma História de Yellowstone	M	2026	/kqzWUZKQYomcJhXA5mDcaZFTWiG.jpg
 s	Dragon Ball Super: Beerus	D		/w5ai45092PIlV1Vbt7kswry2C03.jpg
 s	A Leste do Éden	A		/3j5f8RkkbHIoBR1W4NwAQo61giR.jpg
@@ -75,16 +77,15 @@ s	A Coroa Perfeita	A		/vS70MWKvCb6bT9kYj8OTmumcsWq.jpg
 s	Coven Academy	C		/wnyszkmpoJbwdJMSPYPtidB2Cgh.jpg
 s	Monstro: A História de Lizzie Borden	M	2026	/cLP2z0O78DLiMqH8pvtB8EYq8KY.jpg
 s	Off Campus Amores Improvaveis	O	2026	/iQ1WbmoC08ql4qRZkfUD2LlzNOL.jpg
-s	Neagley: Detetive Particular	N	2026	/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
 s	Aprendendo a Licao	A		/oXjXhXUzwlRevYcFapt1Q2R9WRF.jpg
-s	Um Amor Diferente do Seu	U		/vvywxGVcFihxOWxXoAxECOQ20pi.jpg
-s	Entre os Nossos Passos	E		/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg
+s	Neagley: Detetive Particular	N	2026	/kdERESUYePDvSrJ1kTNV8PiLOqJ.jpg
 s	Rancho Dutton	R	2026	/aJVroxZZKReiSlASpODQ23qrdGa.jpg
-s	O Segredo de Widow's Bay	O		/hazWZ75ml5Er3MQsFetIzoeWs99.jpg
+s	Um Amor Diferente do Seu	U		/vvywxGVcFihxOWxXoAxECOQ20pi.jpg
 s	Um Grude de Amor	U		/qITVjM7ETkIH0l8WoIApSrzDjgu.jpg
-s	Parede de Gelo	P		/d03KBIFklbUjz3aHP77dqo9iagN.jpg
-s	Desaparecida	D	2026	/hWLzO9fUFOaePehHYnCm4y0YnQA.jpg
+s	O Segredo de Widow's Bay	O		/hazWZ75ml5Er3MQsFetIzoeWs99.jpg
+s	Entre os Nossos Passos	E		/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg
 fila	Animes
+a	Dragon Ball Super: Beerus		2026	/w5ai45092PIlV1Vbt7kswry2C03.jpg
 a	Super Psychic Policeman Chojo		2026	/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg
 a	PSYREN		2026	/EQNjH4oeCm9pD58fi2s4WZyjgA.jpg
 a	The Cold Sato-san is Only Sweet to Me		2026	/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg
@@ -95,16 +96,15 @@ a	Acampamento Mágico		2026	/h4LKokTSEGsSD59E4WXYdAXpRZp.jpg
 a	LEGO ONE PIECE: A Série		2026	/lNEzS2CbwpIwMmhhlj3Utw8MhY7.jpg
 a	Overgeared		2026	/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg
 a	Beorne Show		2026	/cDeAO6i4B070qODfkt4vjrEvzdC.jpg
+a	Golden Axe		2026	/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg
+a	Dang!		2026	/spCD7BNNI9ULvncVDHReWx4Lomo.jpg
 a	Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!		2026	/1dOBL5Px9mHbS6GMqSom0fO48Yk.jpg
+a	Karna the Guardian		2026	/3M7PkwXvT2scTNUoXOaCqlIpfVM.jpg
 a	O Mundo [Sem Filtro] de Any Malu		2026	/zku7w9RL6rpE1Dp3OuKioDVSZAC.jpg
+a	Release that Witch		2026	/xoWmN0GRXtriUFMb8lJCyezQD5Y.jpg
+a	Strip Law		2026	/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg
 a	The Villainess Is Adored by the Prince of the Neighbor Kingdom		2026	/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg
 a	You Can't Be in a Rom-Com with Your Childhood Friends!		2026	/rMoMsLOTbEKCWFEzgbxryoXUgRe.jpg
-a	An Adventurer's Daily Grind at Age 29		2026	/rnwq4Z17xEV29QiT5Kwy9Sh6R8y.jpg
-a	Journal with Witch		2026	/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg
-a	东大高武学院 / Oriental Martial Academy		2026	/uwaCB4XqEFEnFGUc1Vh45Fnm8rF.jpg
-a	Kevin		2026	/ryvkioE754XooFO16s9SZyHZulu.jpg
-a	Não Tem Dinheiro que Pague		2026	/ggpdK7huzCQi8vbpAPZMSx2kYTS.jpg
-a	Agente P. Disfarçado		2026	/2lxu1vvIwpLby7vC92QxOurvOjt.jpg
 fila	Doramas
 d	Entre os Nossos Passos		2026	/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg
 d	Pega-Pega Mortal		2026	/fTqUfov4zAB8XKScpl7kQtaauTj.jpg

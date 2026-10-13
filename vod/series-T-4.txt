@@ -1,3 +1,14 @@
+@The Other Bennet Sister
+1	1	leg	19:273866/1/1.mp4?lang=leg
+1	2	leg	19:273866/1/2.mp4?lang=leg
+1	3	leg	19:273866/1/3.mp4?lang=leg
+1	4	leg	19:273866/1/4.mp4?lang=leg
+1	5	leg	19:273866/1/5.mp4?lang=leg
+1	6	leg	19:273866/1/6.mp4?lang=leg
+1	7	leg	19:273866/1/7.mp4?lang=leg
+1	8	leg	19:273866/1/8.mp4?lang=leg
+1	9	leg	19:273866/1/9.mp4?lang=leg
+1	10	leg	19:273866/1/10.mp4?lang=leg
 @The Other Two
 1	1	dub	19:85519/1/1,11:2122256,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129127.mp4
 1	2	dub	19:85519/1/2,11:2122257,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/129128.mp4
@@ -2935,5 +2946,3 @@
 4	6	dub	19:106541/4/6
 4	7	dub	19:106541/4/7
 4	8	dub	19:106541/4/8
-@The Woman in the Wall
-1	4	dub	https://embedplayer2.xyz/cdn/hls/ac931bf3c1856126b61851d285cc12e6/master.txt

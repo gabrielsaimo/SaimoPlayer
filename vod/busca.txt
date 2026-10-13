@@ -17,7 +17,6 @@
 #Sem_Filtro - Noite Sangrenta	f	#
 #UberXTáxis	f	#
 #eagoraoque	f	#
-(Des)controle (Nacional)	f	#
 (des)conhecidos	f	#
 + Velozes + Furiosos	f	#
 - O lendário Super-Saijin (1993)	f	#
@@ -735,6 +734,7 @@ A Conexao Sueca (2026)	f	A
 A Confeiteira (2021)	f	A
 A Conferência	f	A
 A Confissão	f	A
+A Confissão (2005)	f	A
 A Conquista Da Lua Parte 1	f	A
 A Conquista Da Lua Parte 2	f	A
 A Conquista da Honra	f	A
@@ -2118,7 +2118,6 @@ A ROSA E O GELO DELE	f	A
 A Rainha	f	A
 A Rainha Guerreira (2023)	f	A
 A Rainha Nzinga Chegou	f	A
-A Rainha da Cocaina (2017)	f	A
 A Rainha da Comédia	f	A
 A Rainha da Espanha	f	A
 A Rainha da Noite	f	A
@@ -2381,6 +2380,7 @@ A Versão Persa (2023)	f	A
 A Vespa	f	A
 A Via Láctea	f	A
 A Viagem	f	A
+A Viagem (2012)	f	A
 A Viagem Encantada	f	A
 A Viagem de Chihiro (2001)	f	A
 A Viagem de Ernesto e Celestine	f	A
@@ -8363,7 +8363,6 @@ Digimon Adventure: Last Evolution Kizuna (2020)	f	D
 Digimon Adventure: O Filme	f	D
 Digimon Tamers: Battle of Adventurers (2001)	f	D
 Digimon Tamers: Filme 2 - Bousou Digimon Tokkyuu (2002)	f	D
-Digimon Tamers: Runaway Locomon	f	D
 Digimon: O Filme	f	D
 Din e o Dragão Genial	f	D
 Dina Hashem: Pequenos Sussurros Sombrios	f	D
@@ -9523,7 +9522,6 @@ Era uma Vez no Oeste (1968)	f	E
 Era uma Vez um Deadpool (2018)	f	E
 Era uma Vez um Sonho	f	E
 Era uma Vez uma Estrela (2023)	f	E
-Era uma Vez... (2008)	f	E
 Era uma Vez: Anastasia	f	E
 Era uma vez em Gaza	f	E
 Era uma vez um Estúdio (2023)	f	E
@@ -10711,6 +10709,7 @@ Fúria Sem Limites	f	F
 Fúria Silenciosa	f	F
 Fúria Sobre Rodas	f	F
 Fúria Sobre Rodas (2003)	f	F
+Fúria Sobre Rodas (2011)	f	F
 Fúria da Natureza	f	F
 Fúria de Titãs	f	F
 Fúria de Titãs 2	f	F
@@ -11285,7 +11284,6 @@ Halloween 5	f	H
 Halloween 6	f	H
 Halloween 7	f	H
 Halloween 8	f	H
-Halloween A Noite do Terror (1978)	f	H
 Halloween Ends	f	H
 Halloween H20: Vinte Anos Depois (1998)	f	H
 Halloween Heroes	f	H
@@ -12057,6 +12055,7 @@ Inspetor Bugiganga 2	f	I
 Inspetor Zende	f	I
 Inspiração de Natal	f	I
 Instadocs Alex Murdaugh Unconvicted (2026)	f	I
+Instadocs: IA Rebelde	f	I
 Instadocs: O Jogo dos Palpites	f	I
 Instadocs: The Decoy Plane (2026)	f	I
 Instante	f	I
@@ -12732,7 +12731,6 @@ Justiça em Família	f	J
 Justiça para Todos	f	J
 Justiça para o Meu Filho (2023)	f	J
 Juvenal e o Dragão (2024)	f	J
-Juventude	f	J
 Juventude Perdida	f	J
 Juventude e Ternura	f	J
 Juventude em Fúria	f	J
@@ -14696,6 +14694,7 @@ Meu Primeiro Amor	f	M
 Meu Primeiro Amor de Verão	f	M
 Meu Primeiro Verão na Califórnia	f	M
 Meu Primo (2020)	f	M
+Meu Primo Vinny (1992)	f	M
 Meu Professor, Minha Obsessão	f	M
 Meu Próprio Filho (2026)	f	M
 Meu Psicólogo Imaginário	f	M
@@ -15718,7 +15717,6 @@ Natal em Nova York	f	N
 Natal em Pemberley Manor	f	N
 Natal em Springdale	f	N
 Natal em Windmill Way	f	N
-Natal na Fazenda	f	N
 Natal na Montanha Blue Ridge	f	N
 Natal na Realeza	f	N
 Natal nas Montanhas Rochosas	f	N
@@ -17707,7 +17705,7 @@ O Longo Jogo (2024)	f	O
 O Lorax: Em Busca da Trúfula Perdida	f	O
 O Lugar Onde Tudo Termina (2013)	f	O
 O Lugar da Esperança	f	O
-O Lutador	f	O
+O Lutador (1997)	f	O
 O Lutador De Auschwitz	f	O
 O MAGNATA DAS MULHERES CASADAS	f	O
 O MAIOR LIBERTINO	f	O
@@ -18891,6 +18889,7 @@ O Túnel	f	O
 O Túnel de Pombos	f	O
 O ULTIMO AMOR ESFRIA	f	O
 O Uivo	f	O
+O Uivo da Gaita	f	O
 O Ultimato Bourne (2007)	f	O
 O Ultimo Alfa - The Last Alpha	f	O
 O Ultimo Azul (2025)	f	O
@@ -21579,6 +21578,7 @@ Rainha do Ring	f	R
 Rainhas do Crime	f	R
 Rainhas em Fuga	f	R
 Raio-X Banco Master	f	R
+Raio-X Lula 3	f	R
 Raising Buchanan	f	R
 Raiva (2023)	f	R
 Raizes Do Amor	f	R
@@ -22465,6 +22465,7 @@ Sanremo	f	S
 Sansão	f	S
 Sansão e Dalila	f	S
 Santa Barbara (2012)	f	S
+Santa Buddies: Uma Aventura de Natal (2009)	f	S
 Santa Maud (2020)	f	S
 Santa Sangre	f	S
 Santana	f	S
@@ -23898,6 +23899,7 @@ TaR (2022)	f	T
 Tabuleiro das Almas	f	T
 Tainá 2 - A Aventura Continua	f	T
 Tainá 3: A Origem	f	T
+Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul	f	T
 Tainá: Uma Aventura na Amazônia	f	T
 Tal Filha	f	T
 Tal Filho (2022)	f	T
@@ -24586,7 +24588,6 @@ The Starling Girl	f	T
 The Stranger	f	T
 The Superdeep	f	T
 The Surrender	f	T
-The Swan: Behind the Mirror	f	T
 The Sweet East	f	T
 The Tambour of Retribution	f	T
 The Tangle	f	T
@@ -27488,7 +27489,6 @@ Zona Fria	f	Z
 Zona Mortal	f	Z
 Zona Verde (2010)	f	Z
 Zona Z	f	Z
-Zona Zero	f	Z
 Zona de Caça	f	Z
 Zona de Combate (2021)	f	Z
 Zona de Confronto	f	Z
@@ -27861,6 +27861,7 @@ A Amiga Genial	s	A	2018
 A Anatomia de Grey	s	A
 A Antartida	s	A
 A Arena	s	A
+A Armadilha	s	A
 A Arte da Negociacao	s	A
 A Arte de Sarah	s	A
 A Arte do Crime	s	A
@@ -31129,6 +31130,7 @@ Doctor John	s	D
 Doctor Odyssey	s	D	2024
 Doctor Prisoner	s	D
 Doctor Who	s	D	2024
+Doctor X: A Máfia do Jaleco Branco	s	D
 Doctor Zhivago	s	D
 Documentario	s	D
 Doenças Misteriosas	s	D
@@ -34877,6 +34879,7 @@ O Auto da Compadecida	s	O
 O Auto da Compadecida 2	s	O
 O Avatar do Rei	s	O
 O Baba	s	O	2023
+O Batman	s	O
 O Bebê	s	O
 O Beijo da Sereia	s	O
 O Beijo do Destino	s	O
@@ -37799,6 +37802,7 @@ TSUKIMICHI Moonlit Fantasy	s	T	2021
 TURN Os Espioes de Washington	s	T	2014
 TV Colosso	s	T
 TV Quack: Pato Donald e Seus Sobrinhos	s	T
+TYSON	s	T
 Ta Na Mente DVDs & Shows	s	T
 Taboo	s	T
 Tabula Rasa	s	T
@@ -38740,6 +38744,7 @@ Um Caminho Para o Destino	s	U
 Um Capitão	s	U
 Um Casamento Feliz	s	U
 Um Cavalheiro em Moscou	s	U	2024
+Um Choque de Amor	s	U
 Um Contador no Mundo do Crime	s	U	2024
 Um Conto Sombrio dos Grimm	s	U
 Um Conto de Duas Cidades	s	U	2026

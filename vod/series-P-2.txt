@@ -852,7 +852,7 @@
 1	9	dub	19:10942/1/9,11:2144910,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217836.mp4
 1	10	dub	19:10942/1/10,11:2144911,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217837.mp4
 @Please Excuse My Younger Brothers
-1	1	dub	19:307585/1/1
+1	1	dub	19:307585/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:307585/1/1.mp4?lang=leg
 1	2	dub	19:307585/1/2
 1	2	leg	19:307585/1/2.mp4?lang=leg
@@ -1337,6 +1337,7 @@
 1	13	leg	19:243743/1/13.mp4?lang=leg,11:2292199
 1	14	leg	19:243743/1/14.mp4?lang=leg,11:2292200
 @Plus sized Misadventures in Love
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:296287/1/1.mp4?lang=leg
 1	2	leg	19:296287/1/2.mp4?lang=leg
 1	3	leg	19:296287/1/3.mp4?lang=leg
@@ -3489,6 +3490,7 @@
 1	9	dub	19:120849/1/9,11:2223867,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152840.mp4
 1	10	dub	19:120849/1/10,11:2223868,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152841.mp4
 @Polowanie na cmy
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:222209/1/1.mp4?lang=leg
 1	2	leg	19:222209/1/2.mp4?lang=leg
 1	3	leg	19:222209/1/3.mp4?lang=leg
@@ -3498,7 +3500,7 @@
 1	7	leg	19:222209/1/7.mp4?lang=leg
 3	12	dub	19:222209/3/12
 @Polvo
-1	1	dub	19:285657/1/1
+1	1	dub	19:285657/1/1,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:285657/1/1.mp4?lang=leg
 1	2	dub	19:285657/1/2
 1	2	leg	19:285657/1/2.mp4?lang=leg
@@ -3707,6 +3709,7 @@
 1	4	dub	19:131651/1/4,11:2223809
 1	5	dub	19:131651/1/5,11:2223810
 @Pop Culture Jeopardy
+1	1	dub	https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
 1	1	leg	19:254442/1/1.mp4?lang=leg
 1	2	leg	19:254442/1/2.mp4?lang=leg
 1	3	leg	19:254442/1/3.mp4?lang=leg
