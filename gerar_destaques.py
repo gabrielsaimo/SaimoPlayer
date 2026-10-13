@@ -26,8 +26,15 @@ import unicodedata
 from collections import OrderedDict
 from datetime import date
 from pathlib import Path
+import socket
 from urllib.parse import quote
 from urllib.request import urlopen
+
+_orig_getaddrinfo = socket.getaddrinfo
+def _ipv4_first(host, port, family=0, type=0, proto=0, flags=0):
+    res = _orig_getaddrinfo(host, port, family, type, proto, flags)
+    return sorted(res, key=lambda r: 0 if r[0] == socket.AF_INET else 1)
+socket.getaddrinfo = _ipv4_first
 
 RAIZ = Path(__file__).resolve().parent
 VOD = RAIZ / "vod"

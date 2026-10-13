@@ -22,10 +22,18 @@ repete é o começo, então cada base mora uma vez no índice e o item guarda s�
 número.
 """
 import re
+import socket
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
 from urllib.request import urlopen
+
+_orig_getaddrinfo = socket.getaddrinfo
+def _ipv4_first(host, port, family=0, type=0, proto=0, flags=0):
+    res = _orig_getaddrinfo(host, port, family, type, proto, flags)
+    return sorted(res, key=lambda r: 0 if r[0] == socket.AF_INET else 1)
+socket.getaddrinfo = _ipv4_first
+
 
 ORIGENS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8",
@@ -47,6 +55,17 @@ DESATIVADOS = ["up.kiwi", "hubby.cx"]
 RESOLVIDOS_POR_ID = ("embedplayer",)
 ROOT = Path(__file__).resolve().parent
 SAIDA = ROOT / "vod"
+# A lista principal de filmes e séries (atualizar_nixplay.py). As fontes dela
+# vão na frente de todas as outras; os arquivos são refeitos da lista a cada
+# rodada e ficam fora do repositório.
+NIXPLAY = ROOT / "arquivos-gerados" / "nixplay"
+NIXPLAY_SERVIDOR = "nixplay.lat"
+# Registradas à mão: o índice só aprende base nova até a 12ª, e a de série
+# termina antes do id ("…/wrcmBDcf4/1396/1/1.mp4" vira "N:1396/1/1").
+NIXPLAY_BASES = (
+    "https://nixplay.lat/movie/cinevs-vods/wrcmBDcf4/",
+    "https://nixplay.lat/series/cinevs-vods/wrcmBDcf4/",
+)
 # Fontes que o teste (testar_fontes_vod.py) confirmou mortas, uma URL inteira
 # por linha. O acervo é remontado todo dia guardando os links antigos; sem esta
 # lista uma fonte morta voltaria em toda rodada.
@@ -219,8 +238,11 @@ def tirar_mortas(filmes, series, reservado, bases, mortas):
 
 
 def baixar(url):
-    print(f"baixando {url.rsplit('/', 1)[-1]}…")
-    with urlopen(url, timeout=180) as resposta:
+    nome = url.rsplit("/", 1)[-1]
+    print(f"baixando {nome}…")
+    if "gabrielsaimo/SaimoPlayer" in url and (ROOT / nome).exists():
+        return (ROOT / nome).read_text(encoding="utf-8", errors="replace")
+    with urlopen(url, timeout=60) as resposta:
         return resposta.read().decode("utf-8", "replace")
 
 
@@ -320,6 +342,9 @@ def links_diretos_de_series(caminhos, aceita=resolvido_por_id):
 
 def main():
     bases = Bases(bases_publicadas())
+    for base in NIXPLAY_BASES:
+        if base not in bases.lista:
+            bases.lista.append(base)
     filmes = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
     series = defaultdict(lambda: {"titulo": "", "ano": "", "eps": defaultdict(list)})
     reservado = defaultdict(lambda: {"titulo": "", "versoes": defaultdict(list)})
@@ -502,6 +527,30 @@ def main():
             fenix_eps += 1
     print(f"FenixFlix: fontes a mais em {fenix_filmes} filmes e {fenix_eps} episódios")
 
+    # A lista principal (nixplay): entra em todo título, inclusive nos que o
+    # acervo ainda não tem, e fica na frente (ver na_frente). Os arquivos já
+    # vêm com o nome do acervo, casado pelo id do TMDB das fichas.
+    def da_nixplay(url):
+        inteira = expandir(url, bases)
+        return NIXPLAY_SERVIDOR in inteira.split("://", 1)[-1].split("/", 1)[0]
+
+    nix_f = links_diretos_de_filmes([NIXPLAY / "links-filmes.txt"], da_nixplay)
+    nix_s = links_diretos_de_series([NIXPLAY / "links-series.txt"], da_nixplay)
+    for direto in nix_f.values():
+        for v, urls in direto["versoes"].items():
+            direto["versoes"][v] = [bases.encurtar(u) for u in urls]
+    for direto in nix_s.values():
+        for alvo, urls in direto["eps"].items():
+            direto["eps"][alvo] = [bases.encurtar(u) for u in urls]
+    nix_novos_f = sum(1 for k in nix_f if k not in filmes)
+    nix_novas_s = sum(1 for k in nix_s if k not in series)
+    for k, direto in nix_f.items():
+        somar_filme(k, direto)
+    for k, direto in nix_s.items():
+        somar_serie(k, direto)
+    print(f"nixplay: {len(nix_f)} filmes ({nix_novos_f} novos no acervo) | "
+          f"{len(nix_s)} séries ({nix_novas_s} novas no acervo)")
+
     # O mesmo título com e sem ano: a lista M3U escreve "1 Contra Todos", o
     # Redeflix "1 Contra Todos (2016)". Pelo nome seriam dois — e seria assim
     # a cada montagem, porque os dois continuam vindo. Quando o sem ano tem um
@@ -520,7 +569,7 @@ def main():
             if len(irmaos) != 1:
                 continue
             irmao = colecao[irmaos[0]]
-            if not any(resolvido_por_id(u) for v in irmao[campo].values() for u in v):
+            if not any(resolvido_por_id(u) or da_nixplay(u) for v in irmao[campo].values() for u in v):
                 continue
             for alvo, urls in colecao.pop(k)[campo].items():
                 irmao[campo][alvo] += [u for u in urls if u not in irmao[campo][alvo]]
@@ -533,11 +582,13 @@ def main():
     # regra a ordem dependeria de por onde a fonte entrou nesta montagem, e o
     # acervo mudaria a cada rodada sem ter mudado nada.
     def na_frente(lista):
-        # Resolvidos por id na frente, o Fenix no fim: é opção a mais, e o app
-        # só chega nele quando as fontes de sempre falharem.
-        return ([u for u in lista if resolvido_por_id(u)]
-                + [u for u in lista if not resolvido_por_id(u) and u not in do_fenix]
-                + [u for u in lista if u in do_fenix])
+        # A lista principal primeiro, depois os resolvidos por id; o Fenix no
+        # fim: é opção a mais, e o app só chega nele quando as fontes de
+        # sempre falharem.
+        return ([u for u in lista if da_nixplay(u)]
+                + [u for u in lista if resolvido_por_id(u)]
+                + [u for u in lista if not da_nixplay(u) and not resolvido_por_id(u) and u not in do_fenix]
+                + [u for u in lista if u in do_fenix and not da_nixplay(u)])
 
     for registro in filmes.values():
         for versao in registro["versoes"]:

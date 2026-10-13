@@ -31,13 +31,31 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+import socket
+_orig_getaddrinfo = socket.getaddrinfo
+def _ipv4_first(host, port, family=0, type=0, proto=0, flags=0):
+    res = _orig_getaddrinfo(host, port, family, type, proto, flags)
+    return sorted(res, key=lambda r: 0 if r[0] == socket.AF_INET else 1)
+socket.getaddrinfo = _ipv4_first
+
 KNOWN_TMDB = {}
 def carregar_tmdb_conhecidos():
     from pathlib import Path
-    for fpath, s in [("vod/redeflix/links-filmes.txt", False), ("vod/redeflix/links-series.txt", True)]:
-        p = Path(fpath)
+    raiz = Path(__file__).resolve().parent
+    fontes = [
+        (raiz / "vod/redeflix/links-filmes.txt", False),
+        (raiz / "vod/redeflix/links-series.txt", True),
+        (raiz / "arquivos-gerados/nixplay/links-filmes.txt", False),
+        (raiz / "arquivos-gerados/nixplay/links-series.txt", True),
+    ]
+    for p, s in fontes:
         if not p.exists(): continue
         for line in p.read_text(encoding="utf-8").splitlines():
+            if s and line.startswith("@"):
+                campos = line[1:].split("\t")
+                if len(campos) >= 3 and campos[0] and campos[2].isdigit():
+                    KNOWN_TMDB[(campos[0].strip(), True)] = campos[2].strip()
+                continue
             campos = line.split('	')
             if not campos: continue
             for campo in campos[1:]:
@@ -119,7 +137,7 @@ def ficha_de(titulo: str, serie: bool) -> dict | None:
             return {
                 "id": dados.get("id", 0),
                 "capa": (dados.get("poster_path") or ""),
-                "generos": [traducoes.get(i) for i in ids if i in traducoes]
+                "generos": [NOMES[i] for i in ids if i in NOMES]
             }
 
     campo = "first_air_date_year" if serie else "year"

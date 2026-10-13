@@ -133,9 +133,13 @@ if [ "$somente_destaques" = 0 ]; then
   python3 atualizar_fenix.py --limite 12000 --workers 80 \
     >>"$REGISTRO" 2>&1 || anotar "FenixFlix: falhou, seguindo assim mesmo"
 
+  anotar "fontes da lista principal (nixplay)"
+  python3 atualizar_nixplay.py \
+    >>"$REGISTRO" 2>&1 || anotar "nixplay: falhou, seguindo assim mesmo"
+
   # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
   # parar a atualização inteira por causa de uma lista M3U fora do ar.
-  anotar "montando o acervo (listas M3U + Redeflix)"
+  anotar "montando o acervo (listas M3U + Redeflix + nixplay)"
   python3 gerar_vod.py >>"$REGISTRO" 2>&1 \
     || { anotar "acervo: falhou, voltando ao publicado"; git checkout -q -- ":(glob)vod/*.txt"; }
 

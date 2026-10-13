@@ -16,30 +16,32 @@ base: 14 http://vivlar.me:80/movie/497238/KK8Kdy/
 base: 15 http://vivlar.me:80/series/497238/KK8Kdy/
 base: 16 http://corruptx.org:80/movie/hfp5ejnrey/zq0u3kzads/
 base: 17 http://corruptx.org:80/series/hfp5ejnrey/zq0u3kzads/
-#	314	108	11
-A	3510	1325	117
-B	868	426	579
-C	1424	747	135
-D	1120	517	411
-E	900	332	21
-F	602	298	17
-G	409	249	19
-H	431	266	39
-I	391	229	25
-J	397	154	45
-K	164	135	44
-L	567	296	82
-M	1479	748	327
-N	656	267	55
-O	3057	936	45
-P	1063	462	252
-Q	266	92	0
-R	650	346	94
-S	1289	732	195
-T	1174	745	551
-U	941	198	2
-V	492	229	16
-W	119	102	20
-X	232	15	425
-Y	36	69	15
-Z	78	26	4
+base: 18 https://nixplay.lat/movie/cinevs-vods/wrcmBDcf4/
+base: 19 https://nixplay.lat/series/cinevs-vods/wrcmBDcf4/
+#	397	125	11
+A	4402	1503	117
+B	1055	519	579
+C	1781	838	135
+D	1330	589	411
+E	1117	373	21
+F	756	330	17
+G	517	314	19
+H	536	327	39
+I	479	278	25
+J	501	182	45
+K	216	207	44
+L	714	360	82
+M	1771	886	327
+N	782	306	55
+O	3715	1047	45
+P	1298	541	252
+Q	294	103	0
+R	774	399	94
+S	1583	888	195
+T	1455	899	551
+U	1116	228	2
+V	593	240	16
+W	164	135	20
+X	243	17	425
+Y	39	87	15
+Z	102	38	4

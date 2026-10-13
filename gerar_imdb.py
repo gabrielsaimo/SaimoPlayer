@@ -31,9 +31,16 @@ import re
 import sqlite3
 import threading
 import time
+import socket
 import urllib.error
 import urllib.request
 from pathlib import Path
+
+_orig_getaddrinfo = socket.getaddrinfo
+def _ipv4_first(host, port, family=0, type=0, proto=0, flags=0):
+    res = _orig_getaddrinfo(host, port, family, type, proto, flags)
+    return sorted(res, key=lambda r: 0 if r[0] == socket.AF_INET else 1)
+socket.getaddrinfo = _ipv4_first
 
 RAIZ = Path(__file__).resolve().parent
 VOD = RAIZ / "vod"
