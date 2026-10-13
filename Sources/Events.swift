@@ -50,7 +50,7 @@ enum Eventos {
     struct Placar: Sendable {
         var casa, fora, casaLogo, foraLogo, ligaLogo: String
         var inicio: Date
-        var estado, placar, tempo: String
+        var estado, golsCasa, golsFora, tempo: String
     }
 
     private static func baixar(_ url: URL) async -> Data? {
@@ -130,7 +130,7 @@ enum Eventos {
                 ligaLogo: ligaLogo,
                 inicio: data(ev["date"] as? String) ?? Date(timeIntervalSince1970: 0),
                 estado: estado,
-                placar: estado == "pre" ? "" : "\(casa["score"] as? String ?? "") x \(fora["score"] as? String ?? "")",
+                golsCasa: casa["score"] as? String ?? "", golsFora: fora["score"] as? String ?? "",
                 tempo: estado == "in" ? tipo?["shortDetail"] as? String ?? "" : ""))
         }
         return saida
@@ -170,12 +170,18 @@ enum Eventos {
                     ((mesmoTime(e.casa, jogo.casa) && mesmoTime(e.fora, jogo.fora)) ||
                         (mesmoTime(e.casa, jogo.fora) && mesmoTime(e.fora, jogo.casa)))
             }) else { return jogo }
+            // A ESPN pode listar os times na ordem inversa da agenda: aí o
+            // escudo e os gols dela vão para o outro lado, senão o time
+            // mostrado ganha o escudo do adversário e o placar sai invertido.
+            let invertido = !(mesmoTime(par.casa, jogo.casa) && mesmoTime(par.fora, jogo.fora))
+            let (logoCasa, logoFora) = invertido ? (par.foraLogo, par.casaLogo) : (par.casaLogo, par.foraLogo)
+            let (golsCasa, golsFora) = invertido ? (par.golsFora, par.golsCasa) : (par.golsCasa, par.golsFora)
             var novo = jogo
-            if !par.casaLogo.isEmpty { novo.casaLogo = par.casaLogo }
-            if !par.foraLogo.isEmpty { novo.foraLogo = par.foraLogo }
+            if !logoCasa.isEmpty { novo.casaLogo = logoCasa }
+            if !logoFora.isEmpty { novo.foraLogo = logoFora }
             if novo.ligaLogo.isEmpty { novo.ligaLogo = par.ligaLogo }
             novo.estado = par.estado
-            novo.placar = par.placar
+            novo.placar = par.estado == "pre" ? "" : "\(golsCasa) x \(golsFora)"
             novo.tempo = par.tempo
             return novo
         }
