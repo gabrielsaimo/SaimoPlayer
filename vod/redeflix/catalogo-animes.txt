@@ -91,6 +91,7 @@
 256783	Como Você Se Atreve?	2024	24
 298343	Strip Law	2026	10
 95213	Room Camp	2020	12
+293144	Wash It All Away	2026	12
 108977	Project Scard: Praeter no Kizu	2021	14
 202770	Smile of the Arsnotoria the Animation	2022	13
 96042	Skate-Leading Stars	2021	12
@@ -123,6 +124,7 @@
 239320	So You're Raising a Warrior	2025	13
 260983	Personagens Aprisionados	2024	17
 236565	Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga	2025	12
+258579	Let This Grieving Soul Retire	2024	25
 284495	Isekai Office Worker: The Other World's Books Depend on the Bean Counter	2026	12
 229295	Five Elements God of War	2023	80
 289273	Brasas	2025	15
@@ -207,6 +209,7 @@
 45998	Kiss x Sis	2010	12
 62171	Hagure Yuusha no Aesthetica	2012	12
 219648	Left-Hand Layup!	2023	7
+215615	#COMPASS2.0 ANIMATION PROJECT	2025	13
 281623	SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life	2025	1
 254853	ZatsuTabi -That's Journey-	2025	12
 275623	Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.	2025	11
@@ -239,6 +242,7 @@
 273332	Outra Jornada ao Oeste	2024	11
 282209	Cãezinhos no Passeio	2025	8
 80671	Cells at Work!	2018	21
+262141	I Have a Crush at Work	2025	12
 260822	From Bureaucrat to Villainess: Dad's Been Reincarnated!	2025	13
 273051	Babanba Banban Vampire	2025	12
 65333	Myriad Colors Phantom World	2016	13
@@ -359,6 +363,7 @@
 76346	The Qwaser of Stigmata ⅠⅠ	2011	12
 37529	隠の王	2008	26
 139551	Kami Kuzu Idol	2022	10
+237045	Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!	2024	12
 238846	Brave Bang Bravern!	2024	13
 207250	Boku no Kokoro no Yabai Yatsu	2023	25
 217755	Hikikomari Kyuuketsuki no Monmon	2023	13
@@ -410,6 +415,7 @@
 138180	In the Heart of Kunoichi Tsubaki	2022	13
 10283	Archer	2009	142
 100258	Spicy Girl	2020	25
+1042	Shoujo Kakumei Utena	1997	39
 211508	Legendary Twins	2022	19
 5200	O Bombeiro Sam	1987	26
 5863	Samurai 7	2004	26
@@ -443,6 +449,7 @@
 221148	Com Poções Eu Me Garanto!	2023	13
 153336	Butareba -The Story of a Man Turned into a Pig-	2023	4
 214649	BULLBUSTER	2023	13
+230050	A Returner’s Magic Should Be Special	2023	12
 217512	16bit Sensation: Another Layer	2023	14
 240125	TRILLION GAME	2024	21
 222798	KamiErabi GOD.app	2023	25
@@ -484,6 +491,7 @@
 217462	Louvada Seja Petey	2023	10
 222785	Undead Murder Farce	2023	14
 85000	The Shivering Truth	2018	13
+158373	NieR:Automata Ver1.1a	2023	25
 222783	Monster but Wild	2023	15
 117024	A Princesa Oferenda e o Rei das Feras	2023	25
 156610	Kizazi Moto: Geração Fogo	2023	10
@@ -882,6 +890,7 @@
 61886	As Aventuras do Gato de Botas	2015	77
 8991	Digimon Frontier	2002	50
 34791	Claymore	2007	26
+219080	The Mighty Nein	2025	8
 709	Frango Robô	2005	217
 84587	Vampirina: O Show das Sinistras	2018	7
 65417	PJ Masks: Heróis de Pijama	2015	52
@@ -981,7 +990,6 @@
 66562	Yo-Kai Watch	2014	76
 239478	SAND LAND: THE SERIES	2024	13
 38693	Ninjago: Mestres do Spinjitzu	2012	98
-65844	KONOSUBA - God's blessing on this wonderful world!	2016	36
 237512	Jurassic World: Teoria do Caos	2024	39
 126437	Aoashi	2022	26
 63054	Perdidos em Oz	2015	26
@@ -997,6 +1005,7 @@
 202667	O Segundo Melhor Hospital da Galáxia	2024	16
 3320	Esquadrão Marte	1993	4
 228308	Equipe do Pavor	2023	20
+346	Jake Long: O Dragão Ocidental	2005	55
 2309	Danny Phantom	2004	53
 18848	Planeta Sheen	2010	26
 83002	Transformers Cyberverse	2018	62
@@ -1194,10 +1203,13 @@
 64365	DC Super Hero Girls: Super Hero High	2015	78
 103659	Power Players	2019	2
 95543	Rocketeer	2019	6
+71024	Castlevania	2017	32
 85349	Amphibia	2019	58
 64752	A Guarda do Leão	2016	73
+33880	A Lenda de Korra	2012	52
 95594	Velozes e Furiosos: Espiões do Asfalto	2019	32
 46260	Naruto	2002	291
+93953	Seis Punhos	2019	8
 615	Futurama	1999	197
 82257	Cannon Busters	2019	12
 70437	Pergunte aos StoryBots	2016	22
@@ -1342,26 +1354,18 @@
 10400	Luluzinha	1995	78
 1429	Attack on Titan / Ataque dos Titãs	2013	89
 282662	With You, Our Love Will Make It Through		12
-293144	Wash It All Away	2026	12
-258579	Let This Grieving Soul Retire	2024	25
 280048	Dad is a Hero, Mom is a Spirit, I'm a Reincarnator	2025	12
 254358	As Aventuras da Filha do Rei Demônio	2024	15
-215615	#COMPASS2.0 ANIMATION PROJECT	2025	13
 133154	Sword of the Demon Hunter: Kijin Gentosho	2025	24
 56352	Crônicas da Deusa Gato	2011	13
-262141	I Have a Crush at Work	2025	12
 66856	Futsuu no Joshikousei ga [Locodol] Yattemita.	2014	15
 243216	Wonderful Precure!	2024	26
 229743	VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream	2024	12
 241928	GIRLS BAND CRY	2024	13
 213830	I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability	2024	23
 46170	Eu não gosto nem um pouco do meu maninho!!	2011	13
-237045	Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!	2024	12
 53728	Mazinkaiser SKL	2011	7
-1042	Shoujo Kakumei Utena	1997	39
 156197	Delicious Party Pretty Cure	2022	46
-230050	A Returner’s Magic Should Be Special	2023	12
-158373	NieR:Automata Ver1.1a	2023	25
 216760	The Many Sides of Voice Actor Radio		1
 37851	Digimon Xros Wars		53
 60826	Dai-Shogun - Great Revolution		3
