@@ -164,7 +164,7 @@ struct EventCell: View {
                     }
                     
                     HStack {
-                        if let homeImage = event.teams?.home?.image, let url = URL(string: homeImage) {
+                        if let homeImage = event.teams?.home?.image, let url = URL(string: homeImage.emAltaResolucao) {
                             AsyncImage(url: url) { image in
                                 image.resizable().scaledToFit()
                             } placeholder: {
@@ -177,7 +177,7 @@ struct EventCell: View {
                             .font(.system(size: 14, weight: .bold))
                             .foregroundStyle(.white.opacity(0.5))
                         
-                        if let awayImage = event.teams?.away?.image, let url = URL(string: awayImage) {
+                        if let awayImage = event.teams?.away?.image, let url = URL(string: awayImage.emAltaResolucao) {
                             AsyncImage(url: url) { image in
                                 image.resizable().scaledToFit()
                             } placeholder: {
@@ -207,5 +207,25 @@ struct EventCell: View {
             }
         }
         .help(event.title)
+    }
+}
+
+extension String {
+    /// Escudos da agenda vêm do CDN do 365scores pedidos em 34 px (`w_34,h_34`)
+    /// e em qualidade econômica: borrados. O CDN monta a imagem pelo endereço,
+    /// então pedir 256 px e qualidade máxima traz o original (350 a 415 px);
+    /// `c_limit` nunca amplia além dele.
+    var emAltaResolucao: String {
+        let marca = "imagecache.365scores.com/image/upload/"
+        guard let faixa = range(of: marca) else { return self }
+        let resto = self[faixa.upperBound...]
+        let fim = resto.firstIndex(of: "/") ?? endIndex
+        let ajustes = self[faixa.upperBound..<fim].split(separator: ",").map { p -> String in
+            if p.hasPrefix("w_") { return "w_256" }
+            if p.hasPrefix("h_") { return "h_256" }
+            if p == "q_auto:eco" { return "q_auto:best" }
+            return String(p)
+        }
+        return String(self[..<faixa.upperBound]) + ajustes.joined(separator: ",") + String(self[fim...])
     }
 }
