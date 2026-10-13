@@ -125,7 +125,6 @@ Scripts principais:
 | `gerar_vod.py`, `gerar_generos.py`, `gerar_destaques.py` | geram o acervo, as fichas e as fileiras |
 | `atualizar_redeflix.py`, `atualizar_frostview.py` | trazem fontes novas de cada origem; o do FrostView troca a fonte que a API não devolve mais pela nova |
 | `atualizar_nixplay.py` | a lista principal de filmes e séries (nixplay, conta só de filmes e séries, sem canais): baixa a M3U, casa cada fonte com o título do acervo pelo id do TMDB e grava em `arquivos-gerados/nixplay/`; o `gerar_vod.py` põe essas fontes em primeiro em cada título e acrescenta os títulos que faltavam. Roda dentro do `atualizar_tudo.sh` |
-| `atualizar_fenix.py` | fontes a mais do FenixFlix, por id do IMDb, para todo título com ficha (inclusive o que saiu do acervo sem fonte); roda dentro do `atualizar_tudo.sh`, até 12.000 perguntas por dia, e só aceita link sem prazo |
 | `gerar_imdb.py` | publica o id do IMDb de cada título em `vod/imdb/` (fragmentos de 8 KB), para as legendas dos apps |
 | `dublar_legendados.py` | procura o dublado do que o acervo só tem legendado (roda dentro do `atualizar_tudo.sh`; `--dublados` refaz tudo) |
 | `limpar_fontes.py`, `remove_dead_links.py` | tiram fontes mortas |

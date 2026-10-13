@@ -6,20 +6,16 @@
 #
 #   1. atualizar_redeflix.py  filmes e séries novos do Redeflix (vod/redeflix)
 #   2. atualizar_redeflix.py  animes e doramas: episódios novos e títulos novos
-#   3. atualizar_fenix.py     fontes do FenixFlix (vod/fenix): o que falta ou
-#                             envelheceu, no máximo 12.000 perguntas por dia
-#   4. gerar_vod.py           o acervo que os apps mostram: listas M3U + o que
-#                             o Redeflix resolveu, sem perder os links antigos;
-#                             as fontes do FenixFlix já coletadas (vod/fenix)
-#                             entram por último em cada título
+#   3. atualizar_nixplay.py   a lista principal de filmes e séries (nixplay)
+#   4. gerar_vod.py           o acervo que os apps mostram: nixplay na frente,
+#                             listas M3U e o que o Redeflix resolveu, sem
+#                             perder os links antigos
 #   5. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
 #                             pergunta ao TMDB pelos que ainda não conhece
 #   6. gerar_destaques.py     as fileiras da tela inicial
 #
-# O FenixFlix ficou fora da rodada de 27/09 a 10/10/2026 (cobria pouco). Voltou
-# em 10/10: o Redeflix passou a cair (HTTP 520) e o Fenix é a fonte a mais que
-# segue no ar. Cada resposta fica guardada (3 dias a que tem link, 14 a vazia),
-# então a rodada diária só pergunta o que é novo ou envelheceu.
+# O FenixFlix saiu de vez em 13/10/2026: a nixplay virou a lista principal e
+# cobre o que ele cobria, sem as 12.000 perguntas por dia.
 #
 # Até 21/09/2026 só o 1, o 2 e o 5 rodavam: os filmes e séries novos ficavam
 # resolvidos em vod/redeflix sem que app nenhum os lesse, anime novo nunca
@@ -128,10 +124,6 @@ if [ "$somente_destaques" = 0 ]; then
   anotar "procurando dublado do que só tem legendado$([ "$dias_dublados" = 0 ] && echo " (tudo de novo)")"
   python3 dublar_legendados.py --workers 96 --dias-repescagem "$dias_dublados" \
     >>"$REGISTRO" 2>&1 || anotar "dublados: falhou, seguindo assim mesmo"
-
-  anotar "fontes do FenixFlix"
-  python3 atualizar_fenix.py --limite 12000 --workers 80 \
-    >>"$REGISTRO" 2>&1 || anotar "FenixFlix: falhou, seguindo assim mesmo"
 
   anotar "fontes da lista principal (nixplay)"
   python3 atualizar_nixplay.py \
