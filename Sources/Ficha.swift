@@ -258,6 +258,35 @@ enum Fichas {
         return perfil
     }
 
+    /// Nome, imagem e duração de um episódio, segundo o TMDB.
+    struct EpisodioTMDB: Sendable {
+        let nome: String
+        let imagem: String?
+        let duracao: Int?
+    }
+
+    private static var temporadasGuardadas: [String: [Int: EpisodioTMDB]] = [:]
+
+    /// Os episódios de uma temporada pelo número, para o painel de episódios.
+    /// Vazio quando a série não tem id do TMDB ou o pedido falhou.
+    static func temporada(_ serie: String, _ numero: Int) async -> [Int: EpisodioTMDB] {
+        guard let id = Generos.id(serie, serie: true) else { return [:] }
+        let marca = "\(id)|\(numero)"
+        if let pronta = temporadasGuardadas[marca] { return pronta }
+        guard let json = await pedir("\(base)/tv/\(id)/season/\(numero)?api_key=\(chave)&language=pt-BR")
+        else { return [:] }
+        var saida: [Int: EpisodioTMDB] = [:]
+        for ep in json["episodes"] as? [[String: Any]] ?? [] {
+            guard let n = ep["episode_number"] as? Int else { continue }
+            saida[n] = EpisodioTMDB(
+                nome: ep["name"] as? String ?? "",
+                imagem: (ep["still_path"] as? String).map { imagens + "w300" + $0 },
+                duracao: ep["runtime"] as? Int)
+        }
+        temporadasGuardadas[marca] = saida
+        return saida
+    }
+
     private static func pedir(_ endereco: String) async -> [String: Any]? {
         guard let url = URL(string: endereco) else { return nil }
         var pedido = URLRequest(url: url)

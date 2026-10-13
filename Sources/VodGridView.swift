@@ -767,21 +767,40 @@ struct VodGridView: View {
 
     // MARK: - Episódios
 
+    /// O episódio desta série que está no ar, se for ela que está tocando.
+    private func noArDe(_ serie: Serie) -> EpisodioNoAr? {
+        guard let ep = model.episodioNoAr, ep.serie == serie.nomeCompleto else { return nil }
+        return ep
+    }
+
     private func episodiosDe(_ serie: Serie) -> some View {
         let temporadas = Set(estado.episodios.map(\.temporada)).sorted()
-        return ScrollView {
-            LazyVStack(alignment: .leading, spacing: 0) {
-                ForEach(temporadas, id: \.self) { temporada in
-                    Text("Temporada \(temporada)")
-                        .font(.system(size: 15, weight: .semibold))
-                        .foregroundStyle(.white)
-                        .padding(.top, 18)
-                        .padding(.horizontal, 18)
-                    ForEach(daTemporada(temporada)) { episodio in
-                        linhaEpisodio(serie, episodio)
-                        Divider().padding(.leading, 18)
+        let noAr = noArDe(serie)
+        return ScrollViewReader { rolagem in
+            ScrollView {
+                LazyVStack(alignment: .leading, spacing: 0) {
+                    ForEach(temporadas, id: \.self) { temporada in
+                        Text("Temporada \(temporada)")
+                            .font(.system(size: 15, weight: .semibold))
+                            .foregroundStyle(.white)
+                            .padding(.top, 18)
+                            .padding(.horizontal, 18)
+                        ForEach(daTemporada(temporada)) { episodio in
+                            linhaEpisodio(serie, episodio).id(episodio.id)
+                            Divider().padding(.leading, 18)
+                        }
                     }
                 }
+            }
+            .onAppear {
+                // A série que está tocando abre na temporada e no episódio
+                // em que se está, e não na primeira temporada.
+                guard let noAr else { return }
+                let alvo = estado.episodios.first {
+                    $0.temporada == noAr.temporada && $0.numero == noAr.numero && $0.versao == noAr.versao
+                } ?? estado.episodios.first { $0.temporada == noAr.temporada && $0.numero == noAr.numero }
+                guard let alvo else { return }
+                DispatchQueue.main.async { rolagem.scrollTo(alvo.id, anchor: .center) }
             }
         }
     }
@@ -795,10 +814,20 @@ struct VodGridView: View {
         let chave = Progresso.chaveEpisodio(
             serie.nomeCompleto, episodio.temporada, episodio.numero)
         let detalhe = "Temporada \(episodio.temporada), episódio \(episodio.numero)"
+        let noAr = noArDe(serie).map {
+            $0.temporada == episodio.temporada && $0.numero == episodio.numero && $0.versao == episodio.versao
+        } ?? false
         return HStack(spacing: 12) {
             VStack(alignment: .leading, spacing: 4) {
                 HStack(spacing: 8) {
+                    if noAr {
+                        Image(systemName: "play.fill").foregroundStyle(Color.accentColor)
+                    }
                     Text("Episódio \(episodio.numero)").foregroundStyle(.white)
+                    if noAr {
+                        Text("Assistindo")
+                            .font(.caption.weight(.semibold)).foregroundStyle(Color.accentColor)
+                    }
                     Text(rotulo(episodio.versao))
                         .font(.caption).foregroundStyle(.white.opacity(0.5))
                     if episodio.urls.count > 1 {
@@ -826,6 +855,7 @@ struct VodGridView: View {
         }
         .padding(.horizontal, 18)
         .padding(.vertical, 10)
+        .background(noAr ? Color.accentColor.opacity(0.18) : Color.clear)
     }
 
     // MARK: - Ações

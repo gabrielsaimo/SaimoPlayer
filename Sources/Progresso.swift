@@ -17,6 +17,10 @@ enum Progresso {
     /// A dois minutos do fim o episódio está visto: retomar ali só irrita.
     private static let sobra: Double = 120
 
+    /// Fora do prefixo acima de propósito: "Continue assistindo" lê tudo o
+    /// que começa com ele, e o que já foi visto não continua.
+    private static let chaveVisto = "visto."
+
     static func chaveFilme(_ titulo: String) -> String { "f|\(titulo)" }
 
     static func chaveEpisodio(_ serie: String, _ temporada: Int, _ numero: Int) -> String {
@@ -28,6 +32,9 @@ enum Progresso {
         let defaults = UserDefaults.standard
         guard posicao >= minimo, posicao <= duracao - sobra else {
             // Acabou de começar ou já terminou: nada a retomar.
+            if posicao > duracao - sobra, duracao > 300 {
+                defaults.set(true, forKey: chaveVisto + chave)
+            }
             defaults.removeObject(forKey: chaveBase + chave)
             defaults.removeObject(forKey: chaveBase + chave + "|d")
             defaults.removeObject(forKey: chaveBase + chave + "|t")
@@ -90,6 +97,11 @@ enum Progresso {
         let fracao: Double
         let quando: Double
         var id: String { chave }
+    }
+
+    /// Visto até o fim (os dois minutos finais contam como fim).
+    static func visto(_ chave: String) -> Bool {
+        UserDefaults.standard.bool(forKey: chaveVisto + chave)
     }
 
     /// Quanto do título já foi visto, de 0 a 1, ou nil se nunca foi aberto.

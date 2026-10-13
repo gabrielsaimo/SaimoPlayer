@@ -81,6 +81,8 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Quem abre um episódio deixa aqui antes de chamar `playFile`: a escolha
     /// de fonte pode passar por uma janela no meio do caminho.
     var episodioPendente: EpisodioNoAr?
+    /// O painel de episódios aberto por cima do vídeo (tecla E).
+    @Published var painelEpisodios = false
     /// Abertura, recapitulação e créditos do que está no ar (TheIntroDB).
     @Published private(set) var marcas: Pulos.Marcas?
 
@@ -371,6 +373,7 @@ final class PlayerModel: NSObject, ObservableObject {
         guardarProgresso(forcado: true)
         UserDefaults.standard.set(channel.name, forKey: "ultimoCanal")
         episodioNoAr = nil
+        painelEpisodios = false
         marcas = nil
         zerarLegendasExternas()
         proximoDesde = nil
@@ -582,14 +585,21 @@ final class PlayerModel: NSObject, ObservableObject {
 
     @discardableResult
     func tocarProximo() -> Bool {
-        guard let ep = episodioNoAr, let seguinte = ep.seguinte() else { return false }
-        let rotulo = seguinte.versao == "leg" ? "Legendado" : "Dublado"
-        episodioPendente = EpisodioNoAr(serie: ep.serie, temporada: seguinte.temporada,
-                                        numero: seguinte.numero, versao: seguinte.versao, lista: ep.lista)
-        playFile(seguinte.urls.compactMap(URL.init(string:)), nome: ep.serie,
-                 detalhe: "Temporada \(seguinte.temporada), episódio \(seguinte.numero) · \(rotulo)",
-                 chave: Progresso.chaveEpisodio(ep.serie, seguinte.temporada, seguinte.numero))
+        guard let seguinte = episodioNoAr?.seguinte() else { return false }
+        tocarEpisodio(seguinte)
         return true
+    }
+
+    /// Troca o episódio no ar por outro da mesma série, pelo mesmo caminho do
+    /// próximo episódio: legendas, pulos e progresso seguem valendo.
+    func tocarEpisodio(_ escolhido: Episodio) {
+        guard let ep = episodioNoAr else { return }
+        let rotulo = escolhido.versao == "leg" ? "Legendado" : "Dublado"
+        episodioPendente = EpisodioNoAr(serie: ep.serie, temporada: escolhido.temporada,
+                                        numero: escolhido.numero, versao: escolhido.versao, lista: ep.lista)
+        playFile(escolhido.urls.compactMap(URL.init(string:)), nome: ep.serie,
+                 detalhe: "Temporada \(escolhido.temporada), episódio \(escolhido.numero) · \(rotulo)",
+                 chave: Progresso.chaveEpisodio(ep.serie, escolhido.temporada, escolhido.numero))
     }
 
     /// A cada volta do relógio: sobe o cartão nos créditos e segue sozinho.
@@ -1326,6 +1336,11 @@ final class PlayerModel: NSObject, ObservableObject {
                     self.typeDigit(digits)
                     return true
                 }
+                // Esc fecha o painel de episódios antes de qualquer outra coisa.
+                if event.keyCode == 53, self.painelEpisodios {
+                    self.painelEpisodios = false
+                    return true
+                }
                 switch event.keyCode {
                 case 49:  self.togglePlayPause(); return true                 // space
                 case 126: self.nudgeVolume(0.05); return true                 // up
@@ -1347,6 +1362,10 @@ final class PlayerModel: NSObject, ObservableObject {
                 case "p": self.togglePiP(); return true
                 case "l": self.jumpToLive(); return true
                 case "i": self.showStats.toggle(); return true
+                case "e":
+                    guard self.episodioNoAr != nil, VodEstado.shared.secao == nil else { return false }
+                    self.painelEpisodios.toggle()
+                    return true
                 default: return false
                 }
             }
@@ -1433,5 +1452,16 @@ struct EpisodioNoAr: Equatable {
         guard let chave = depois.map({ ($0.temporada, $0.numero) }).min(by: <) else { return nil }
         let candidatos = depois.filter { ($0.temporada, $0.numero) == chave }
         return candidatos.first { $0.versao == versao } ?? candidatos.first
+    }
+
+    var temporadas: [Int] { Set(lista.map(\.temporada)).sorted() }
+
+    /// Um por número, na versão do que está no ar quando ela existe.
+    func episodios(da temporada: Int) -> [Episodio] {
+        let daqui = lista.filter { $0.temporada == temporada }
+        return Set(daqui.map(\.numero)).sorted().compactMap { n in
+            let candidatos = daqui.filter { $0.numero == n }
+            return candidatos.first { $0.versao == versao } ?? candidatos.first
+        }
     }
 }

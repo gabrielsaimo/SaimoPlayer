@@ -80,6 +80,14 @@ tem som e é ela que a lista e as setas trocam; cada uma mantém a troca de font
 Abrir o acervo (filmes, séries etc.) para o ao vivo nas duas telas, e fechá-lo
 volta ao último canal.
 
+Episódios sem sair do vídeo (`PainelEpisodios.swift`): com um episódio no ar, o
+botão de episódios da barra de controles (ou a tecla E) abre um painel ao lado,
+com o vídeo tocando por trás. Ele abre na temporada em que se está, com o episódio
+no ar marcado e à vista; troca de temporada pelo seletor; cada linha tem nome,
+imagem e duração (TMDB), progresso e a marca de assistido. Um clique troca de
+episódio pelo mesmo caminho do próximo episódio; Esc ou clicar fora fecha. No
+acervo, a série que está tocando abre rolada até o episódio no ar, marcado.
+
 Eventos (`Events.swift`, seção Eventos do acervo): a mesma tela do TV Box. Junta a
 agenda da embedtv com os placares da ESPN (23 ligas, buscados juntos) e mostra só
 os jogos que passam num canal da lista (adultos fora; encerrados saem), agrupados

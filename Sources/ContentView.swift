@@ -123,7 +123,15 @@ struct ContentView: View {
 
             // Fora da regra dos controles: o botão de pular só serve na hora.
             PulosNaTela(model: model, acimaDosControles: controlsVisible)
+
+            // Por cima de tudo, com o vídeo tocando por trás.
+            if model.painelEpisodios, let episodio = model.episodioNoAr {
+                PainelEpisodios(model: model, episodio: episodio)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .transition(.move(edge: .trailing).combined(with: .opacity))
+            }
         }
+        .animation(.easeInOut(duration: 0.2), value: model.painelEpisodios)
         .background(Color.black)
         .onContinuousHover { phase in
             switch phase {
@@ -389,6 +397,13 @@ private struct ControlBar: View {
                 .menuIndicator(.hidden)
                 .frame(width: 26)
                 .help("Qualidade, áudio e legendas")
+            }
+
+            if model.episodioNoAr != nil {
+                Button { model.painelEpisodios.toggle() } label: {
+                    Image(systemName: "rectangle.stack")
+                }
+                .help("Episódios (E)")
             }
 
             Menu {
