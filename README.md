@@ -80,6 +80,13 @@ tem som e é ela que a lista e as setas trocam; cada uma mantém a troca de font
 Abrir o acervo (filmes, séries etc.) para o ao vivo nas duas telas, e fechá-lo
 volta ao último canal.
 
+Eventos (`Events.swift`, seção Eventos do acervo): a mesma tela do TV Box. Junta a
+agenda da embedtv com os placares da ESPN (23 ligas, buscados juntos) e mostra só
+os jogos que passam num canal da lista (adultos fora; encerrados saem), agrupados
+em Ao vivo agora, Começa em breve, Hoje mais tarde, Amanhã e Próximos dias. Cada
+cartão traz liga, horário ou "AO VIVO" com o tempo de jogo, escudos, placar e o
+canal; clicar abre o canal ao vivo. Com a tela aberta, atualiza a cada minuto.
+
 ```bash
 ./build.sh        # monta build/Saimo TV.app
 ./make_dmg.sh     # gera o DMG
