@@ -134,7 +134,7 @@ Scripts principais:
 | `medir_fontes_local.py` | mede a resolução das fontes com ffprobe; `--sem-qualidade` só as que não têm, até duas por servidor |
 | `medir_resolucao.py` | mede as fontes HLS pela playlist mestre |
 | `fontes-mortas.txt` | fontes do acervo fora do ar (URLs e `servidor: host`); o `gerar_vod.py` tira delas e título sem fonte viva sai. Vem do `testar_fontes_vod.py` |
-| `ordenar_fontes.py` | põe as fontes do nexustvplay (o servidor mais estável) na frente de cada canal; rodar depois de qualquer script que mexa no catálogo |
+| `ordenar_fontes.py` | o fallback1.nexustvplay nunca é a primeira opção de um canal que tem outra fonte: fica em segundo, logo depois da primeira fonte de outro servidor ligado no monitor (com `--testar`, a primeira que responde agora); nos canais 24 horas o vivlar.me vem na frente. Rodar depois de qualquer script que mexa no catálogo |
 | `nomear_fontes.py` | dá nome às fontes do catálogo a partir das listas M3U ("[S03]" vira "Temporada 3"), para os canais 24h mostrarem a temporada |
 | `testar_fontes_vod.py` | testa as fontes do acervo: qualidade de cada uma e quais saíram do ar (só relatório, em `arquivos-gerados/fontes-vod/`) |
 
