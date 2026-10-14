@@ -115,7 +115,8 @@ def main():
         return d
 
     rodada = {
-        "em": datetime.now().astimezone().isoformat(timespec="minutes"),
+        # NOVIDADES_EM: hora da rodada, quando o registro é refeito depois (recuperação).
+        "em": os.environ.get("NOVIDADES_EM") or datetime.now().astimezone().isoformat(timespec="minutes"),
         "adicionados": [item(tp, t) for tp, t in novos[:POR_LISTA]],
         "adicionados_total": len(novos),
         "atualizados": [item("s", t, {"de": a, "para": n}) for t, a, n in mais_episodios[:POR_LISTA]],
