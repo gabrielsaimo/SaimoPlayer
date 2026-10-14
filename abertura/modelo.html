@@ -1,0 +1,174 @@
+<title>Abertura Saimo TV</title>
+<style>
+/* Palco escuro em tela cheia; a logo se monta no centro a partir das camadas da arte original. */
+:root{
+  --noite:#0b0f2a; --noite2:#151a45; --ciano:#4ff3e0; --violeta:#a35cf0; --texto:#e8ecff; --suave:#9aa3d6;
+  --ui:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
+  color-scheme:dark;
+}
+html,body{height:100%}
+body{margin:0;background:var(--noite);color:var(--texto);font-family:var(--ui);overflow:hidden}
+#palco{position:fixed;inset:0;display:grid;place-items:center;background:
+  radial-gradient(60% 50% at 18% 30%, rgba(40,110,150,.35), transparent 70%),
+  radial-gradient(55% 45% at 85% 78%, rgba(120,50,150,.38), transparent 70%),
+  linear-gradient(160deg,var(--noite2),var(--noite) 60%)}
+canvas#luz{position:absolute;inset:0;width:100%;height:100%}
+svg#logo{width:min(64vmin,560px);height:auto;overflow:visible;position:relative}
+.controles{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);
+  display:flex;gap:8px;flex-wrap:wrap;justify-content:center;padding-inline:16px}
+.controles button{font:600 13px var(--ui);color:var(--texto);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);
+  padding:9px 14px;border-radius:999px;cursor:pointer;white-space:nowrap;backdrop-filter:blur(10px)}
+.controles button[aria-pressed="true"]{border-color:var(--ciano);color:var(--ciano)}
+.controles button:focus-visible{outline:2px solid var(--ciano);outline-offset:2px}
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@600&display=swap">
+<div id="palco">
+  <canvas id="luz"></canvas>
+  <svg id="logo" viewBox="129 130 766 765" aria-label="Logo Saimo TV">
+    <defs>
+      <filter id="brilho" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+      <filter id="brilhoFino" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+      <clipPath id="formaCartao"><rect x="129" y="130" width="766" height="765" rx="146"/></clipPath>
+      <mask id="mS" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+        <path id="trilhaS" d="M540 242 C 470 244 420 285 413 330 C 405 378 440 400 495 412 C 560 428 612 452 614 500 C 616 545 560 580 490 592"
+          fill="none" stroke="#fff" stroke-width="78" stroke-linecap="round"/>
+      </mask>
+      <mask id="mTv" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+        <path id="trilhaTv" d="M452 300 H 687 Q 703 300 703 316 V 536 Q 703 552 687 552 H 338 Q 322 552 322 536 V 316 Q 322 300 338 300 Z"
+          fill="none" stroke="#fff" stroke-width="40" stroke-linejoin="round"/>
+        <circle id="telaTv" cx="512" cy="426" r="0" fill="#fff"/>
+      </mask>
+      <mask id="mAnt" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024">
+        <path id="trilhaAnt" d="M455 272 L 405 214" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+        <circle id="bolaAnt" cx="405" cy="214" r="0" fill="#fff"/>
+      </mask>
+      <linearGradient id="reflexo" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect id="halo" x="129" y="130" width="766" height="765" rx="146" fill="var(--ciano)" filter="url(#brilho)" opacity="0"/>
+    <rect id="contorno" x="131" y="132" width="762" height="761" rx="144" fill="none" stroke="var(--ciano)" stroke-width="5" filter="url(#brilhoFino)"/>
+    <rect id="contornoNitido" x="131" y="132" width="762" height="761" rx="144" fill="none" stroke="#c9fff8" stroke-width="2.5"/>
+    <g id="gCartao" opacity="0"><image id="iCartao"/></g>
+    <g clip-path="url(#formaCartao)">
+      <g mask="url(#mTv)"><image id="iTv"/></g>
+      <g mask="url(#mAnt)"><image id="iAntena"/></g>
+      <g mask="url(#mS)"><image id="iS"/></g>
+      <g id="gPlay" opacity="0"><image id="iPlay"/></g>
+      <g id="letras"></g>
+      <g id="gFinal" opacity="0"><image id="iFinal"/></g>
+      <rect id="faixa" x="-400" y="80" width="260" height="900" fill="url(#reflexo)" transform="rotate(18 512 512)" opacity="0"/>
+    </g>
+    <circle id="faisca" r="0" fill="#fff" filter="url(#brilhoFino)"/>
+    <circle id="onda" cx="512" cy="512" r="380" fill="none" stroke="var(--ciano)" stroke-width="3" opacity="0"/>
+  </svg>
+  <div class="controles">
+    <button id="denovo" type="button">Ver de novo</button>
+    <button id="lento" type="button" aria-pressed="false">Câmera lenta</button>
+  </div>
+</div>
+<script>
+const C = __CAMADAS__;
+const NS = 'http://www.w3.org/2000/svg';
+const $ = id => document.getElementById(id);
+function pos(el, c){ el.setAttribute('href', c.src); el.setAttribute('x', c.x); el.setAttribute('y', c.y); el.setAttribute('width', c.w); el.setAttribute('height', c.h); }
+pos($('iCartao'), C.cartao); pos($('iFinal'), C.final); pos($('iTv'), C.tv); pos($('iS'), C.s);
+pos($('iPlay'), C.play); pos($('iAntena'), C.antena);
+// Letras de "Saimo" e "TV": colunas medidas na arte; cada uma é a mesma imagem recortada.
+const LETRAS = [[228,350,620,772],[350,455,620,772],[455,496,600,772],[496,650,620,772],[650,800,620,772],[600,681,772,875],[681,800,772,875]];
+const letras = LETRAS.map(([x0,x1,y0,y1], i) => {
+  const cp = document.createElementNS(NS,'clipPath'); cp.id = 'l'+i;
+  const r = document.createElementNS(NS,'rect'); r.setAttribute('x',x0); r.setAttribute('y',y0); r.setAttribute('width',x1-x0); r.setAttribute('height',y1-y0);
+  cp.appendChild(r); document.querySelector('defs').appendChild(cp);
+  const g = document.createElementNS(NS,'g'); const gi = document.createElementNS(NS,'g'); gi.setAttribute('clip-path','url(#l'+i+')');
+  const im = document.createElementNS(NS,'image'); pos(im, C.texto); gi.appendChild(im); g.appendChild(gi); $('letras').appendChild(g);
+  return { g, cx:(x0+x1)/2, cy:(y0+y1)/2 };
+});
+
+const comp = id => { const p = $(id); const L = p.getTotalLength(); p.style.strokeDasharray = L; return [p, L]; };
+const [pS, LS] = comp('trilhaS'), [pTv, LTv] = comp('trilhaTv'), [pAnt, LAnt] = comp('trilhaAnt');
+const [pC, LC] = comp('contorno'), [pC2, LC2] = comp('contornoNitido');
+
+const cl = t => Math.min(1, Math.max(0, t));
+const fase = (t, a, b) => cl((t - a) / (b - a));
+const sai = t => 1 - Math.pow(1 - t, 3);
+const suave = t => t < .5 ? 4*t*t*t : 1 - Math.pow(-2*t + 2, 3) / 2;
+const mola = t => t === 0 ? 0 : t === 1 ? 1 : Math.pow(2, -10*t) * Math.sin((t*10 - .75) * (2*Math.PI/3)) + 1;
+const voltaUm = t => { const c = 1.6; return 1 + (c+1)*Math.pow(t-1,3) + c*Math.pow(t-1,2); };
+
+// Partículas: pontos de luz que correm para o centro e somem lá.
+const cv = $('luz'), ctx = cv.getContext('2d');
+let P = [];
+function tamanho(){ cv.width = innerWidth * devicePixelRatio; cv.height = innerHeight * devicePixelRatio; }
+addEventListener('resize', tamanho); tamanho();
+function semear(){ P = Array.from({length: 140}, () => { const a = Math.random()*Math.PI*2, d = .55 + Math.random()*.6;
+  return { a, d, v: .5 + Math.random()*.9, s: .6 + Math.random()*1.8, h: Math.random() < .55 ? '79,243,224' : '163,92,240', atraso: Math.random()*.5 }; }); }
+
+const DUR = 4.2;
+let t0 = 0, escala = 1, parado = false;
+const reduzir = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+function quadro(agora){
+  const t = parado ? DUR : ((agora - t0) / 1000) / escala;
+  // fundo de luz
+  const W = cv.width, H = cv.height, m = Math.min(W, H);
+  ctx.clearRect(0,0,W,H);
+  for (const p of P){
+    const k = fase(t, p.atraso, p.atraso + 1.1 / p.v);
+    if (k <= 0 || k >= 1) continue;
+    const d = p.d * (1 - sai(k)) * m * .75, d2 = d + m*.05*(1-k);
+    const x = W/2 + Math.cos(p.a)*d, y = H/2 + Math.sin(p.a)*d, x2 = W/2 + Math.cos(p.a)*d2, y2 = H/2 + Math.sin(p.a)*d2;
+    ctx.strokeStyle = `rgba(${p.h},${(1-k)*.8})`; ctx.lineWidth = p.s*devicePixelRatio; ctx.lineCap = 'round';
+    ctx.beginPath(); ctx.moveTo(x2,y2); ctx.lineTo(x,y); ctx.stroke();
+  }
+  // 1. contorno do cartão se desenha e o cartão acende
+  const kC = suave(fase(t, .25, 1.15));
+  pC.style.strokeDashoffset = LC * (1 - kC); pC2.style.strokeDashoffset = LC2 * (1 - kC);
+  const kF = sai(fase(t, .9, 1.4));
+  $('gCartao').setAttribute('opacity', kF);
+  $('gCartao').setAttribute('transform', `translate(512 512) scale(${.94 + .06*kF}) translate(-512 -512)`);
+  $('halo').setAttribute('opacity', (.35*kF + .25*Math.max(0, Math.sin(Math.PI*fase(t, 3.05, 3.9)))).toFixed(3));
+  $('contorno').setAttribute('opacity', 1 - .7*fase(t, 1.2, 1.6)); $('contornoNitido').setAttribute('opacity', 1 - fase(t, 1.2, 1.6));
+  // 2. o S se desenha, com uma faísca na ponta
+  const kS = suave(fase(t, 1.2, 2.0));
+  pS.style.strokeDashoffset = LS * (1 - kS);
+  const fa = $('faisca');
+  if (kS > 0 && kS < 1){ const pt = pS.getPointAtLength(LS*kS); fa.setAttribute('cx', pt.x); fa.setAttribute('cy', pt.y); fa.setAttribute('r', 14); }
+  else fa.setAttribute('r', 0);
+  // 3. a TV se desenha por trás do S e a tela se abre do centro
+  const kTv = suave(fase(t, 1.6, 2.35));
+  pTv.style.strokeDashoffset = LTv * (1 - kTv);
+  $('telaTv').setAttribute('r', 260 * sai(fase(t, 2.0, 2.6)));
+  // 4. antena e play
+  pAnt.style.strokeDashoffset = LAnt * (1 - sai(fase(t, 2.25, 2.55)));
+  $('bolaAnt').setAttribute('r', 16 * mola(fase(t, 2.45, 2.95)));
+  const kP = fase(t, 2.35, 2.95);
+  $('gPlay').setAttribute('opacity', cl(kP*3));
+  $('gPlay').setAttribute('transform', `translate(518 427) rotate(${-25*(1-sai(kP))}) scale(${mola(kP)}) translate(-518 -427)`);
+  // 5. letras sobem uma a uma; TV no fim
+  letras.forEach((l, i) => {
+    const a = i < 5 ? 2.55 + i*.09 : 3.0 + (i-5)*.08;
+    const k = fase(t, a, a + .45);
+    l.g.setAttribute('opacity', cl(k*2.2));
+    const y = 46*(1 - voltaUm(k)), s = i < 5 ? 1 : .6 + .4*mola(k);
+    l.g.setAttribute('transform', `translate(${l.cx} ${l.cy + y}) scale(${s}) translate(${-l.cx} ${-l.cy})`);
+  });
+  // 6. reflexo atravessa, a arte original assume e uma onda sai do cartão
+  const kR = suave(fase(t, 3.05, 3.65));
+  const fx = $('faixa'); fx.setAttribute('x', -400 + 1500*kR); fx.setAttribute('opacity', kR > 0 && kR < 1 ? .55 : 0);
+  $('gFinal').setAttribute('opacity', suave(fase(t, 3.35, 3.8)));
+  const kO = fase(t, 3.2, 4.1);
+  const on = $('onda'); on.setAttribute('r', 390 + 140*sai(kO)); on.setAttribute('opacity', kO > 0 && kO < 1 ? .5*(1-kO) : 0);
+  if (!window.__gravando && t < DUR + .2) requestAnimationFrame(quadro);
+}
+function tocar(){ parado = reduzir; semear(); t0 = performance.now(); requestAnimationFrame(quadro); }
+$('denovo').onclick = tocar;
+$('lento').onclick = e => { escala = escala === 1 ? 3 : 1; e.currentTarget.setAttribute('aria-pressed', escala !== 1); tocar(); };
+// Gravação quadro a quadro (vídeo da abertura dos apps): sorteio fixo e tempo dado.
+if (location.search.includes('gravar')){
+  window.__gravando = true; document.querySelector('.controles').style.display = 'none';
+  let semente = 7; Math.random = () => (semente = (semente * 16807) % 2147483647) / 2147483647;
+  semear();
+  window.quadroEm = T => { escala = 1; const n = performance.now(); t0 = n - T*1000; quadro(n); return true; };
+} else tocar();
+</script>
