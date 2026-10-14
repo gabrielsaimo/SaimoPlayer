@@ -153,6 +153,12 @@ if ! python3 gerar_destaques.py >>"$REGISTRO" 2>&1; then
   exit 1
 fi
 
+# O que entrou e o que mudou nesta rodada, para a página de novidades do site
+# (vod/novidades.json). Não pode derrubar a publicação.
+anotar "registrando as novidades da rodada"
+python3 gerar_novidades.py >>"$REGISTRO" 2>&1 \
+  || anotar "novidades: falhou, seguindo sem o registro desta rodada"
+
 if [ -n "$(git status --porcelain -- vod)" ]; then
   anotar "mudou: $(git add -N vod && git diff --stat -- vod | tail -1)"
 else
