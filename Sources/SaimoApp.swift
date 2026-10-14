@@ -60,15 +60,35 @@ struct SaimoApp: App {
             }
 
             CommandGroup(after: .sidebar) {
-                Button(model.detachedList ? "Lista junto à janela" : "Lista em janela separada") {
-                    model.detachedList.toggle()
+                Button("Lista de canais") {
+                    if VodEstado.shared.secao != nil {
+                        Aba.aoVivo.abrir()
+                        Interface.shared.painelCanais = true
+                    } else {
+                        Interface.shared.painelCanais.toggle()
+                    }
                 }
                 .keyboardShortcut("l", modifiers: [.command, .shift])
+                Button(model.detachedList ? "Fechar a lista em janela separada" : "Lista em janela separada") {
+                    model.detachedList.toggle()
+                }
+            }
+
+            CommandMenu("Ir") {
+                ForEach(Array(Aba.allCases.filter { $0 != .extras || model.restrictedUnlocked }.enumerated()),
+                        id: \.element) { indice, aba in
+                    if indice < 9 {
+                        Button(aba.titulo) { aba.abrir() }
+                            .keyboardShortcut(KeyEquivalent(Character("\(indice + 1)")), modifiers: .command)
+                    } else {
+                        Button(aba.titulo) { aba.abrir() }
+                    }
+                }
             }
 
             CommandMenu("Guia") {
                 Button("Programação") { model.showGuide = true }
-                Button("Filmes e Séries") { VodEstado.shared.secao = .filmes }
+                Button("Filmes e Séries") { Aba.onDemand.abrir() }
                     .keyboardShortcut("f", modifiers: .command)
                     .keyboardShortcut("g", modifiers: .command)
                 Button("Procurar atualização do app…") { Atualizacao.shared.procurar(manual: true) }

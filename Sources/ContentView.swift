@@ -2,24 +2,41 @@ import SwiftUI
 import AVKit
 import AppKit
 
+/// A janela inteira, como na TV Box: a barra de vidro no topo, com as abas, e
+/// embaixo dela a tela da aba aberta. "Ao vivo" é o vídeo, com a lista de
+/// canais de vidro à esquerda e o cartão do programa no canto; as outras abas
+/// são telas em fileiras, e com uma delas aberta o ao vivo para (ver
+/// `VodEstado.secao`).
 struct ContentView: View {
     @ObservedObject private var model = PlayerModel.shared
     @State private var controlsVisible = true
     @State private var hideWork: DispatchWorkItem?
 
     @ObservedObject private var vod = VodEstado.shared
+    @ObservedObject private var interface = Interface.shared
 
     @ObservedObject private var atualizacao = Atualizacao.shared
 
-    /// Em tela cheia a barra de cima (com o botão da lista) some: só o vídeo.
+    /// Em tela cheia não há botões de janela: a barra encosta na esquerda.
     @State private var telaCheia = false
 
     /// Enquanto a abertura animada cobre a janela; a lista de canais (outra
     /// janela, ao lado) espera ela sair.
     @State private var abertura = true
+    @State private var abriu = false
 
     var body: some View {
-        principal
+        ZStack(alignment: .top) {
+            FundoDoApp()
+            principal
+            BarraDoTopo(model: model, telaCheia: telaCheia)
+                .opacity(barraVisivel ? 1 : 0)
+                .allowsHitTesting(barraVisivel)
+                .animation(.easeInOut(duration: 0.22), value: barraVisivel)
+        }
+        .ignoresSafeArea()
+        .preferredColorScheme(.dark)
+        .tint(Tema.acento)
             .background {
                 // Põe a abertura por cima da janela inteira (ver `Abertura`).
                 Abertura {
@@ -28,7 +45,7 @@ struct ContentView: View {
                 }
                 .frame(width: 0, height: 0)
             }
-            .frame(minWidth: 720, minHeight: 460)
+            .frame(minWidth: 820, minHeight: 520)
             .sheet(item: $atualizacao.disponivel) { versao in
                 AtualizacaoView(atualizacao: atualizacao, versao: versao)
             }
@@ -43,15 +60,14 @@ struct ContentView: View {
             .sheet(isPresented: $model.showGuide) {
                 EPGGuideView(model: model)
             }
-            .toolbar {
-                ToolbarItem(placement: .navigation) {
-                    Button { model.detachedList.toggle() } label: {
-                        Image(systemName: "sidebar.leading")
-                    }
-                    .help("Mostrar ou ocultar a lista de canais (⇧⌘L)")
-                }
+            .navigationTitle(vod.secao?.titulo ?? model.canalAtivo?.name ?? "Saimo TV")
+            .onAppear {
+                // Como a TV: abre na tela inicial, a menos que os ajustes
+                // digam para ir direto ao último canal.
+                guard !abriu else { return }
+                abriu = true
+                if !Preferencias.abrirNoCanal, vod.secao == nil { vod.secao = .inicio }
             }
-            .toolbar(telaCheia ? .hidden : .visible, for: .windowToolbar)
             .onReceive(NotificationCenter.default.publisher(for: NSWindow.willEnterFullScreenNotification)) { _ in
                 telaCheia = true
             }
@@ -68,14 +84,16 @@ struct ContentView: View {
             }
     }
 
-    /// O acervo ocupa a área do vídeo quando está aberto: a capa grande é o
-    /// que faz escolher filme ser escolher, e não adivinhar por uma linha de
-    /// texto. Filme no ar continua por trás, sem recomeçar; o ao vivo para
-    /// (ver `VodEstado.secao`).
+    /// No vídeo a barra some junto com os controles; nas outras telas fica.
+    private var barraVisivel: Bool {
+        vod.secao != nil || controlsVisible || interface.painelCanais
+    }
+
     @ViewBuilder
     private var principal: some View {
         if vod.secao != nil {
             VodGridView(model: model)
+                .transition(.opacity)
         } else {
             stage
         }
@@ -114,6 +132,19 @@ struct ContentView: View {
                 .background(Color.black)
                 .ignoresSafeArea()
 
+            // O véu de baixo e o de cima deixam o vidro e o texto legíveis
+            // sobre qualquer imagem, sem caixa preta.
+            VStack(spacing: 0) {
+                LinearGradient(colors: [.black.opacity(0.55), .clear], startPoint: .top, endPoint: .bottom)
+                    .frame(height: 120)
+                Spacer()
+                LinearGradient(colors: [.clear, .black.opacity(0.6)], startPoint: .top, endPoint: .bottom)
+                    .frame(height: 220)
+            }
+            .allowsHitTesting(false)
+            .opacity(controlsVisible ? 1 : 0)
+            .animation(.easeInOut(duration: 0.22), value: controlsVisible)
+
             LegendaNaTela(model: model, acimaDosControles: controlsVisible)
 
             if model.showStats {
@@ -122,17 +153,28 @@ struct ContentView: View {
                     .animation(.easeInOut(duration: 0.22), value: controlsVisible)
             }
 
-            VStack(spacing: 8) {
-                NowPlayingStrip(model: model)
+            VStack(alignment: .trailing, spacing: 12) {
+                CartaoNoAr(model: model)
+                    .frame(maxWidth: .infinity, alignment: .trailing)
                 ControlBar(model: model)
             }
-                .padding(16)
+                .padding(.horizontal, 22)
+                .padding(.bottom, 20)
+                .padding(.leading, interface.painelCanais ? 420 : 0)
                 .opacity(controlsVisible ? 1 : 0)
                 .animation(.easeInOut(duration: 0.22), value: controlsVisible)
                 .allowsHitTesting(controlsVisible)
 
             // Fora da regra dos controles: o botão de pular só serve na hora.
             PulosNaTela(model: model, acimaDosControles: controlsVisible)
+
+            if interface.painelCanais {
+                PainelDeCanais(model: model)
+                    .padding(.top, Tema.alturaDaBarra + 6)
+                    .padding([.leading, .bottom], 14)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+                    .transition(.move(edge: .leading).combined(with: .opacity))
+            }
 
             // Por cima de tudo, com o vídeo tocando por trás.
             if model.painelEpisodios, let episodio = model.episodioNoAr {
@@ -142,6 +184,7 @@ struct ContentView: View {
             }
         }
         .animation(.easeInOut(duration: 0.2), value: model.painelEpisodios)
+        .animation(.spring(response: 0.35, dampingFraction: 0.86), value: interface.painelCanais)
         .background(Color.black)
         .onContinuousHover { phase in
             switch phase {
@@ -149,10 +192,10 @@ struct ContentView: View {
             case .ended: scheduleHide(after: 0.6)
             }
         }
-        .onAppear { scheduleHide(after: 3) }
-        .navigationTitle(model.canalAtivo?.name ?? "Saimo TV")
-        .toolbar(removing: .title)
-        .toolbarBackground(.hidden, for: .windowToolbar)
+        .onAppear { revealControls() }
+        .onChange(of: interface.painelCanais) { _, aberto in
+            if aberto { revealControls() } else { scheduleHide(after: 2.8) }
+        }
     }
 
     private var statsOverlay: some View {
@@ -165,11 +208,12 @@ struct ContentView: View {
             statLine("Travamentos", "\(model.stats.stalls)")
         }
         .font(.system(size: 11, design: .monospaced))
-        .padding(10)
-        .background(.black.opacity(0.55), in: RoundedRectangle(cornerRadius: 8))
+        .padding(12)
+        .vidroPainel(raio: 14)
         .foregroundStyle(.white)
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
-        .padding(16)
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+        .padding(.top, Tema.alturaDaBarra + 8)
+        .padding(.trailing, 18)
     }
 
     private func statLine(_ k: String, _ v: String) -> some View {
@@ -191,6 +235,8 @@ struct ContentView: View {
 
     private func scheduleHide(after seconds: Double) {
         hideWork?.cancel()
+        // Com a lista aberta os controles ficam: ela é para escolher olhando.
+        guard !interface.painelCanais else { return }
         let work = DispatchWorkItem { controlsVisible = false }
         hideWork = work
         DispatchQueue.main.asyncAfter(deadline: .now() + seconds, execute: work)
@@ -313,8 +359,34 @@ struct ChannelIcon: View {
 private struct ControlBar: View {
     @ObservedObject var model: PlayerModel
 
+    @ObservedObject private var interface = Interface.shared
+
     var body: some View {
+        VStack(spacing: 10) {
+            // Filme e episódio: a barra do tempo inteira, de ponta a ponta,
+            // como no player da TV.
+            if model.playingFile != nil, model.duration > 0 {
+                ScrubBar(model: model)
+            }
+            controles
+        }
+        .padding(.horizontal, 18)
+        .padding(.vertical, 12)
+        .vidroPainel(raio: 24)
+        .environment(\.colorScheme, .dark)
+        .shadow(color: .black.opacity(0.3), radius: 14, y: 4)
+    }
+
+    private var controles: some View {
         HStack(spacing: 14) {
+            if model.playingFile == nil {
+                Button { interface.painelCanais.toggle() } label: {
+                    Image(systemName: "list.bullet.rectangle.portrait")
+                        .symbolVariant(interface.painelCanais ? .fill : .none)
+                }
+                .help("Lista de canais (⇧⌘L)")
+            }
+
             if model.podePausar || !model.isPlaying {
                 Button(action: model.togglePlayPause) {
                     Image(systemName: model.isPlaying ? "pause.fill" : "play.fill")
@@ -343,13 +415,16 @@ private struct ControlBar: View {
                 SourceBadge(model: model)
             }
 
-            if model.playingFile != nil, model.duration > 0 {
-                ScrubBar(model: model)
-            }
-
             volume
 
             Spacer(minLength: 8)
+
+            if model.playingFile == nil {
+                Button { model.showGuide = true } label: {
+                    Image(systemName: "calendar.badge.clock")
+                }
+                .help("Programação completa")
+            }
 
             if model.isPlaying, !model.multiTela {
                 Menu {
@@ -474,14 +549,9 @@ private struct ControlBar: View {
             }
             .help("Tela cheia (F)")
         }
-        .font(.system(size: 14))
+        .font(.system(size: 15))
         .buttonStyle(.plain)
         .foregroundStyle(.white)
-        .padding(.horizontal, 18)
-        .padding(.vertical, 12)
-        .background(.ultraThinMaterial, in: Capsule())
-        .environment(\.colorScheme, .dark)
-        .shadow(color: .black.opacity(0.35), radius: 14, y: 4)
     }
 
     private var volume: some View {
@@ -497,146 +567,6 @@ private struct ControlBar: View {
                 .frame(width: 80)
                 .controlSize(.mini)
         }
-    }
-}
-
-/// What is on air now, plus what follows — rides the same auto-hide as the
-/// controls so it never sits on top of the picture.
-private struct NowPlayingStrip: View {
-    @ObservedObject var model: PlayerModel
-    @ObservedObject private var epg = EPGService.shared
-    @ObservedObject private var posters = LogoLoader.shared
-    @ObservedObject private var capas = Capas.shared
-
-    var body: some View {
-        // Um filme não tem programação: no lugar dela vai o que se sabe do
-        // próprio arquivo. Deixar o guia do canal aqui seria dizer que está
-        // passando outra coisa.
-        if model.playingFile != nil {
-            arquivoEmCartaz
-        } else if let channel = model.canalAtivo,
-                  let onAir = epg.nowNext(for: channel, at: epg.clock) {
-            HStack(spacing: 12) {
-                if let poster = onAir.current.poster, let image = posters.image(for: poster) {
-                    Image(nsImage: image)
-                        .resizable()
-                        .interpolation(.high)
-                        .aspectRatio(contentMode: .fill)
-                        .frame(width: 66, height: 45)
-                        .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
-                }
-                VStack(alignment: .leading, spacing: 3) {
-                    HStack(spacing: 6) {
-                        Text(onAir.current.title)
-                            .font(.system(size: 12, weight: .semibold))
-                            .lineLimit(1)
-                        Text("faltam \(onAir.remainingMinutes) min")
-                            .font(.system(size: 10))
-                            .foregroundStyle(.white.opacity(0.65))
-                    }
-                    if let detail = onAir.current.shortDetail {
-                        Text(detail)
-                            .font(.system(size: 10))
-                            .foregroundStyle(.white.opacity(0.6))
-                            .lineLimit(1)
-                    }
-                    if let next = onAir.next {
-                        Text("a seguir · \(next.title)")
-                            .font(.system(size: 10))
-                            .foregroundStyle(.white.opacity(0.65))
-                            .lineLimit(1)
-                    }
-                }
-                Spacer(minLength: 12)
-                Button { model.showGuide = true } label: {
-                    Label("Guia", systemImage: "calendar.badge.clock")
-                        .font(.system(size: 11, weight: .medium))
-                }
-                .buttonStyle(.plain)
-                .help("Programação completa (⌘G)")
-
-                Button { VodEstado.shared.secao = .filmes } label: {
-                    Label("Filmes", systemImage: "film")
-                        .font(.system(size: 11, weight: .medium))
-                }
-                .buttonStyle(.plain)
-                .help("Filmes e séries (⌘F)")
-            }
-            .foregroundStyle(.white)
-            .padding(.horizontal, 16)
-            .padding(.vertical, 9)
-            .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 12))
-            .environment(\.colorScheme, .dark)
-            .overlay(alignment: .bottomLeading) {
-                GeometryReader { geo in
-                    Capsule()
-                        .fill(Color.red)
-                        .frame(width: geo.size.width * onAir.progress, height: 2)
-                        .offset(y: geo.size.height - 2)
-                }
-            }
-            .shadow(color: .black.opacity(0.3), radius: 10, y: 3)
-        }
-    }
-
-    private var arquivoEmCartaz: some View {
-        HStack(spacing: 12) {
-            // A capa ao lado do nome: é ela que identifica o filme de longe,
-            // antes de qualquer texto ser lido.
-            ZStack {
-                RoundedRectangle(cornerRadius: 5, style: .continuous)
-                    .fill(.white.opacity(0.1))
-                if let capa = capas.imagem(para: model.playingFileName,
-                                           serie: model.playingFileDetail.hasPrefix("Temporada")) {
-                    Image(nsImage: capa)
-                        .resizable()
-                        .interpolation(.high)
-                        .aspectRatio(contentMode: .fill)
-                        .clipShape(RoundedRectangle(cornerRadius: 5, style: .continuous))
-                } else {
-                    Image(systemName: "film")
-                        .font(.system(size: 18))
-                        .foregroundStyle(.white.opacity(0.8))
-                }
-            }
-            .frame(width: 44, height: 64)
-            VStack(alignment: .leading, spacing: 3) {
-                Text(model.playingFileName)
-                    .font(.system(size: 12, weight: .semibold))
-                    .lineLimit(1)
-                if !model.playingFileDetail.isEmpty {
-                    Text(model.playingFileDetail)
-                        .font(.system(size: 10))
-                        .foregroundStyle(.white.opacity(0.6))
-                        .lineLimit(1)
-                }
-                if model.duration > 0 {
-                    Text(restante)
-                        .font(.system(size: 10))
-                        .foregroundStyle(.white.opacity(0.65))
-                }
-            }
-            Spacer(minLength: 12)
-            Button { VodEstado.shared.secao = .filmes } label: {
-                Label("Filmes", systemImage: "film.stack")
-                    .font(.system(size: 11, weight: .medium))
-            }
-            .buttonStyle(.plain)
-            .help("Voltar à lista de filmes e séries (⌘F)")
-        }
-        .foregroundStyle(.white)
-        .padding(.horizontal, 16)
-        .padding(.vertical, 9)
-        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 12))
-        .environment(\.colorScheme, .dark)
-        .shadow(color: .black.opacity(0.3), radius: 10, y: 3)
-    }
-
-    private var restante: String {
-        let falta = max(0, model.duration - model.position)
-        let minutos = Int(falta / 60)
-        let total = Int(model.duration / 60)
-        return minutos > 0 ? "faltam \(minutos) min de \(total)" : "terminando"
     }
 }
 
@@ -681,8 +611,9 @@ private struct ScrubBar: View {
                 set: { model.seek(to: $0) }),
                    in: 0...max(model.duration, 1),
                    onEditingChanged: { arrastando in model.scrubbing = arrastando })
-                .frame(minWidth: 180)
+                .frame(maxWidth: .infinity)
                 .controlSize(.small)
+                .tint(Tema.acento)
             Text(relogio(model.duration))
                 .font(.system(size: 10, design: .monospaced))
                 .foregroundStyle(.white.opacity(0.5))

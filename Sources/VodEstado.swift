@@ -10,10 +10,18 @@ import Combine
 /// Qual parte do acervo está aberta no lugar do vídeo.
 enum VodSecao: String, Identifiable, CaseIterable {
     case inicio, filmes, series, animes, doramas, extras, favoritos, eventos
+    /// As telas da barra do topo que não são uma parte do acervo, mas moram
+    /// no mesmo lugar dele: com uma delas aberta o ao vivo para, como em
+    /// qualquer outra seção.
+    case ondemand, radios, buscar, ajustes
     var id: String { rawValue }
     var titulo: String {
         switch self {
         case .inicio: return "Início"
+        case .ondemand: return "On Demand"
+        case .radios: return "Rádios"
+        case .buscar: return "Buscar"
+        case .ajustes: return "Ajustes"
         case .filmes: return "Filmes"
         case .series: return "Séries"
         case .animes: return "Animes"
@@ -32,11 +40,20 @@ enum VodSecao: String, Identifiable, CaseIterable {
         case .doramas: return "heart.rectangle"
         case .extras: return "plus.rectangle.on.rectangle"
         case .favoritos: return "star.fill"
-        case .eventos: return "calendar"
+        case .eventos: return "sportscourt"
+        case .ondemand: return "film.stack"
+        case .radios: return "radio"
+        case .buscar: return "magnifyingglass"
+        case .ajustes: return "gearshape"
         }
     }
     /// Extras são filmes noutro arquivo do catálogo, não outra natureza.
-    var pedeFilmes: Bool { ![.series, .animes, .doramas, .inicio, .eventos].contains(self) }
+    var pedeFilmes: Bool {
+        ![.series, .animes, .doramas, .inicio, .eventos, .ondemand, .radios, .buscar, .ajustes].contains(self)
+    }
+    /// As quatro categorias do On Demand: cada uma tem a página dela, em
+    /// fileiras, e o acervo inteiro de A a Z por trás.
+    var ehCategoria: Bool { [.filmes, .series, .animes, .doramas].contains(self) }
 }
 
 @MainActor
@@ -55,6 +72,8 @@ final class VodEstado: ObservableObject {
     @Published var secao: VodSecao? {
         didSet {
             guard (oldValue == nil) != (secao == nil) else { return }
+            // O ao vivo vai voltar: a rádio não toca junto com ele.
+            if secao == nil { Radios.shared.parar() }
             if secao == nil { PlayerModel.shared.retomarAoVivo() } else { PlayerModel.shared.suspenderAoVivo() }
         }
     }
@@ -74,6 +93,14 @@ final class VodEstado: ObservableObject {
     @Published var episodios: [Episodio] = []
     /// Episódios das coleções compactas, já publicados no mesmo arquivo.
     @Published var episodiosColecao: [String: [Episodio]] = [:]
+    /// Numa categoria do On Demand: a grade de A a Z no lugar da página em
+    /// fileiras. Trocar de seção volta à página.
+    @Published var explorando = false
+    /// O gênero escolhido na grade, ou vazio para todos. Fica aqui fora para
+    /// o "Ver mais" de uma fileira de gênero abrir a grade já filtrada.
+    @Published var genero = ""
+    /// Ordem da grade: os mais novos primeiro (como na TV) ou de A a Z.
+    @Published var novosPrimeiro = false
     /// Último título aberto: é para ele que a lista rola ao reabrir, senão a
     /// rolagem voltaria ao topo mesmo com a letra certa escolhida.
     @Published var ancora: String?

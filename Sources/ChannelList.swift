@@ -41,7 +41,7 @@ struct ChannelListView: View {
                         .fontWeight(vod.secao == secao ? .semibold : .regular)
                         .padding(.vertical, 5)
                         .padding(.horizontal, 9)
-                        .background(vod.secao == secao ? Color.accentColor.opacity(0.25)
+                        .background(vod.secao == secao ? Tema.acento.opacity(0.25)
                                                        : Color.primary.opacity(0.06),
                                     in: RoundedRectangle(cornerRadius: 6))
                         .contentShape(Rectangle())

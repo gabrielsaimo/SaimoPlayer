@@ -139,7 +139,7 @@ struct PainelEpisodios: View {
                     HStack(spacing: 6) {
                         if noAr {
                             Label("Assistindo", systemImage: "play.fill")
-                                .foregroundStyle(Color.accentColor)
+                                .foregroundStyle(Tema.acento)
                         } else if visto {
                             Label("Assistido", systemImage: "checkmark.circle.fill")
                                 .foregroundStyle(.green)
@@ -158,7 +158,7 @@ struct PainelEpisodios: View {
                         ProgressView(value: fracao)
                             .progressViewStyle(.linear)
                             .controlSize(.mini)
-                            .tint(noAr ? Color.accentColor : .white.opacity(0.7))
+                            .tint(noAr ? Tema.acento : .white.opacity(0.7))
                     }
                 }
                 Spacer(minLength: 0)
@@ -166,10 +166,10 @@ struct PainelEpisodios: View {
             .padding(8)
             .background(
                 RoundedRectangle(cornerRadius: 8, style: .continuous)
-                    .fill(noAr ? Color.accentColor.opacity(0.22) : Color.white.opacity(0.05)))
+                    .fill(noAr ? Tema.acento.opacity(0.22) : Color.white.opacity(0.05)))
             .overlay(
                 RoundedRectangle(cornerRadius: 8, style: .continuous)
-                    .strokeBorder(noAr ? Color.accentColor.opacity(0.7) : .clear, lineWidth: 1))
+                    .strokeBorder(noAr ? Tema.acento.opacity(0.7) : .clear, lineWidth: 1))
             .contentShape(Rectangle())
         }
         .buttonStyle(.plain)

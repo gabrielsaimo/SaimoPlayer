@@ -192,7 +192,7 @@ struct SerieTela: View {
                         Text("SÉRIE")
                             .font(.system(size: 12, weight: .bold))
                             .tracking(2)
-                            .foregroundStyle(Color.accentColor)
+                            .foregroundStyle(Tema.acento)
                         titulo
                         if let frase = ficha?.frase, !frase.isEmpty {
                             Text(frase).font(.system(size: 15)).italic()
@@ -283,7 +283,7 @@ struct SerieTela: View {
             RoundedRectangle(cornerRadius: 10, style: .continuous).fill(Color.white.opacity(0.08))
             Text(String(serie.titulo.prefix(1)).uppercased())
                 .font(.system(size: 54, weight: .semibold))
-                .foregroundStyle(Color.accentColor.opacity(0.7))
+                .foregroundStyle(Tema.acento.opacity(0.7))
             if let endereco, let url = URL(string: endereco) {
                 AsyncImage(url: url) { imagem in
                     imagem.resizable().aspectRatio(contentMode: .fill)
@@ -500,7 +500,7 @@ struct SerieTela: View {
                     } else {
                         Text("\(ep.numero)")
                             .font(.system(size: 40, weight: .semibold, design: .rounded))
-                            .foregroundStyle(Color.accentColor.opacity(0.8))
+                            .foregroundStyle(Tema.acento.opacity(0.8))
                     }
                 }
                 .frame(width: 288, height: 162)
@@ -510,7 +510,7 @@ struct SerieTela: View {
                               systemImage: "play.fill")
                             .font(.system(size: 11, weight: .bold))
                             .padding(.horizontal, 8).padding(.vertical, 3)
-                            .background(Color.accentColor, in: Capsule())
+                            .background(Tema.acento, in: Capsule())
                             .foregroundStyle(.white)
                             .padding(8)
                     }
@@ -521,7 +521,7 @@ struct SerieTela: View {
                             .font(.system(size: 11, weight: .bold))
                             .padding(.horizontal, 8).padding(.vertical, 3)
                             .background(.black.opacity(0.7), in: Capsule())
-                            .foregroundStyle(Color.accentColor)
+                            .foregroundStyle(Tema.acento)
                             .padding(8)
                     }
                 }
@@ -530,7 +530,7 @@ struct SerieTela: View {
                         GeometryReader { geo in
                             ZStack(alignment: .leading) {
                                 Rectangle().fill(Color.white.opacity(0.25))
-                                Rectangle().fill(Color.accentColor)
+                                Rectangle().fill(Tema.acento)
                                     .frame(width: geo.size.width * fracao)
                             }
                         }
@@ -540,7 +540,7 @@ struct SerieTela: View {
                 .clipShape(RoundedRectangle(cornerRadius: 8, style: .continuous))
                 .overlay(
                     RoundedRectangle(cornerRadius: 8, style: .continuous)
-                        .strokeBorder(destaque ? Color.accentColor : .clear, lineWidth: 2))
+                        .strokeBorder(destaque ? Tema.acento : .clear, lineWidth: 2))
 
                 Text("\(ep.numero). \(nome)")
                     .font(.system(size: 14, weight: .semibold))

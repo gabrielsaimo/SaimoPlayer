@@ -54,7 +54,9 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var showLog = false
     @Published var showGuide = false
     /// Channel list living in its own window pinned to the player.
-    @Published var detachedList = true
+    /// A lista de canais numa janela à parte, ao lado do player. A lista de
+    /// sempre agora é a de vidro, dentro da janela (`PainelDeCanais`).
+    @Published var detachedList = false
     @Published var stats = PlaybackStats()
 
     /// Qual das fontes do canal está no ar, e se ela ainda está carregando.

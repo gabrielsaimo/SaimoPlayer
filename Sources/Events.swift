@@ -268,13 +268,17 @@ final class EventsService: ObservableObject {
     }
 }
 
+/// A tela de Eventos, como na TV Box: o jogo sob o ponteiro em destaque no
+/// alto (liga, placar e tempo, o canal) e os jogos em fileiras por horário —
+/// ao vivo agora, começa em breve, hoje mais tarde, amanhã, próximos dias.
+/// Clicar num cartão abre o canal do jogo.
 struct EventsView: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var service = EventsService.shared
+    @StateObject private var destaque = DestaqueEstado()
 
     /// O placar anda: com a tela aberta, busca de novo a cada minuto.
     private static let intervalo: Duration = .seconds(60)
-    private let columns = [GridItem(.adaptive(minimum: 300, maximum: 420), spacing: 18)]
 
     /// Canal adulto não entra na agenda.
     private var canais: [Channel] {
@@ -291,51 +295,17 @@ struct EventsView: View {
 
     var body: some View {
         let grupos = self.grupos
-        Group {
-            if service.jogos == nil && !service.erro {
-                VStack {
-                    Spacer()
-                    ProgressView("Carregando eventos...")
-                        .controlSize(.small)
-                        .foregroundStyle(.secondary)
-                    Spacer()
-                }
-                .frame(maxWidth: .infinity)
-            } else {
-                ScrollView {
-                    VStack(alignment: .leading, spacing: 18) {
-                        if service.jogos != nil {
-                            Text(resumo(grupos))
-                                .font(.system(size: 12))
-                                .foregroundStyle(.white.opacity(0.55))
-                        }
-                        if grupos.isEmpty {
-                            vazio
-                        }
-                        ForEach(grupos, id: \.titulo) { grupo in
-                            HStack(spacing: 7) {
-                                if grupo.titulo == Eventos.grupos[0] {
-                                    Circle().fill(Color.red).frame(width: 8, height: 8)
-                                }
-                                Text(grupo.titulo)
-                                    .font(.system(size: 17, weight: .bold))
-                                    .foregroundStyle(.white)
-                            }
-                            .padding(.top, 4)
-                            LazyVGrid(columns: columns, spacing: 18) {
-                                ForEach(grupo.jogos) { jogo in
-                                    CartaoJogo(jogo: jogo, agora: service.agora) {
-                                        model.abrirCanalDoJogo(jogo.canal)
-                                    }
-                                }
-                            }
-                        }
-                    }
-                    .padding(18)
-                    .frame(maxWidth: .infinity, alignment: .leading)
-                }
-            }
-        }
+        TelaEmFileiras(
+            destaque: destaque,
+            filas: grupos.map { grupo in
+                Fila(titulo: grupo.titulo, tipo: .evento, cartoes: grupo.jogos.map(cartao))
+            },
+            carregando: service.jogos == nil && !service.erro,
+            vazio: service.erro
+                ? "Não deu para carregar a agenda agora. Tentando de novo em um minuto."
+                : "Nenhum jogo nos canais da lista agora. A agenda se atualiza sozinha.")
+        .onAppear { padrao(grupos) }
+        .onChange(of: service.jogos?.count) { _, _ in padrao(self.grupos) }
         // Enquanto a tela está aberta; sai dela, a busca para.
         .task(id: model.channels.isEmpty) {
             while !Task.isCancelled {
@@ -345,168 +315,48 @@ struct EventsView: View {
         }
     }
 
+    /// Sem jogo sob o ponteiro, o destaque mostra o primeiro jogo ao vivo
+    /// (ou o próximo), como a TV mostra o cartão focado ao abrir.
+    private func padrao(_ grupos: [(titulo: String, jogos: [Jogo])]) {
+        if let primeiro = grupos.first?.jogos.first {
+            let c = cartao(primeiro)
+            destaque.padrao(c.titulo, c.meta ?? "", c.sinopse ?? "")
+        } else {
+            destaque.padrao("Eventos", resumo(grupos))
+        }
+    }
+
+    private func cartao(_ jogo: Jogo) -> CartaoFila {
+        let agora = service.agora
+        let vivo = jogo.aoVivo(agora)
+        let selo = vivo
+            ? (["AO VIVO", jogo.placar.replacingOccurrences(of: "-", with: "x")].filter { !$0.isEmpty }.joined(separator: "  "))
+            : Eventos.quando(jogo.inicio, agora)
+        var meta = [jogo.liga]
+        if vivo {
+            meta.append((["AO VIVO", jogo.placar, jogo.tempo].filter { !$0.isEmpty }).joined(separator: " "))
+        } else {
+            meta.append(Eventos.quando(jogo.inicio, agora))
+        }
+        return CartaoFila(
+            id: jogo.id,
+            titulo: jogo.titulo,
+            subtitulo: [jogo.canal.name, jogo.liga].filter { !$0.isEmpty }.joined(separator: " · "),
+            selo: selo,
+            seloAoVivo: vivo,
+            meta: meta.filter { !$0.isEmpty }.joined(separator: "  ·  "),
+            sinopse: "No canal \(jogo.canal.name) · clique para assistir",
+            escudos: (jogo.casaLogo, jogo.foraLogo, jogo.casa, jogo.fora),
+            logoLiga: jogo.ligaLogo
+        ) {
+            model.abrirCanalDoJogo(jogo.canal)
+        }
+    }
+
     private func resumo(_ grupos: [(titulo: String, jogos: [Jogo])]) -> String {
         let total = grupos.reduce(0) { $0 + $1.jogos.count }
         let vivos = grupos.first { $0.titulo == Eventos.grupos[0] }?.jogos.count ?? 0
         return "\(total) \(total == 1 ? "jogo" : "jogos") nos canais da lista · \(vivos) ao vivo"
-    }
-
-    private var vazio: some View {
-        VStack(spacing: 12) {
-            Image(systemName: "calendar")
-                .font(.system(size: 44))
-                .foregroundStyle(.white.opacity(0.4))
-            Text(service.erro
-                 ? "Não deu para carregar a agenda agora. Tentando de novo em um minuto."
-                 : "Nenhum jogo nos canais da lista agora. A agenda se atualiza sozinha.")
-                .font(.system(size: 13))
-                .foregroundStyle(.white.opacity(0.55))
-                .multilineTextAlignment(.center)
-        }
-        .frame(maxWidth: .infinity)
-        .padding(.top, 60)
-    }
-}
-
-/// Escudo, logo de liga: pelo mesmo carregador dos logos dos canais, que
-/// guarda em disco e não pisca a cada atualização da agenda.
-private struct LogoRemoto<Reserva: View>: View {
-    let endereco: String
-    let tamanho: CGFloat
-    @ViewBuilder let reserva: () -> Reserva
-    @ObservedObject private var logos = LogoLoader.shared
-
-    var body: some View {
-        if let url = URL(string: endereco), !endereco.isEmpty, let imagem = logos.image(for: url) {
-            Image(nsImage: imagem)
-                .resizable()
-                .interpolation(.high)
-                .aspectRatio(contentMode: .fit)
-                .frame(width: tamanho, height: tamanho)
-        } else {
-            reserva().frame(width: tamanho, height: tamanho)
-        }
-    }
-}
-
-struct CartaoJogo: View {
-    let jogo: Jogo
-    let agora: Date
-    let action: () -> Void
-
-    var body: some View {
-        let vivo = jogo.aoVivo(agora)
-        Button(action: action) {
-            VStack(spacing: 12) {
-                HStack(spacing: 6) {
-                    LogoRemoto(endereco: jogo.ligaLogo, tamanho: 18) {
-                        Image(systemName: "trophy")
-                            .font(.system(size: 12))
-                            .foregroundStyle(.white.opacity(0.55))
-                    }
-                    Text(jogo.liga)
-                        .font(.system(size: 12, weight: .semibold))
-                        .foregroundStyle(.white.opacity(0.6))
-                        .lineLimit(1)
-                    Spacer(minLength: 8)
-                    selo(vivo)
-                }
-
-                HStack(alignment: .top, spacing: 8) {
-                    time(jogo.casa, jogo.casaLogo)
-                    Group {
-                        if jogo.placar.isEmpty {
-                            Text("X")
-                                .font(.system(size: 18, weight: .black))
-                                .foregroundStyle(.white.opacity(0.4))
-                        } else {
-                            Text(jogo.placar)
-                                .font(.system(size: 24, weight: .black))
-                                .foregroundStyle(.white)
-                                .lineLimit(1)
-                                .fixedSize()
-                        }
-                    }
-                    .frame(minWidth: 70)
-                    .frame(height: 52)
-                    time(jogo.fora, jogo.foraLogo)
-                }
-
-                HStack(spacing: 8) {
-                    ChannelIcon(channel: jogo.canal, size: 24)
-                    Text(jogo.canal.name)
-                        .font(.system(size: 13, weight: .semibold))
-                        .foregroundStyle(.white)
-                        .lineLimit(1)
-                    Spacer(minLength: 8)
-                    HStack(spacing: 4) {
-                        Image(systemName: "play.fill").font(.system(size: 10))
-                        Text("Assistir").font(.system(size: 12, weight: .bold))
-                    }
-                    .foregroundStyle(.white)
-                    .padding(.horizontal, 10)
-                    .padding(.vertical, 5)
-                    .background(Capsule().fill(Color.accentColor))
-                }
-                .padding(.horizontal, 10)
-                .padding(.vertical, 7)
-                .background(RoundedRectangle(cornerRadius: 7, style: .continuous).fill(Color.white.opacity(0.06)))
-            }
-            .padding(14)
-            .background(RoundedRectangle(cornerRadius: 10, style: .continuous).fill(Color.white.opacity(0.07)))
-            .overlay(
-                RoundedRectangle(cornerRadius: 10, style: .continuous)
-                    .strokeBorder(vivo ? Color.red.opacity(0.6) : Color.white.opacity(0.08), lineWidth: 1))
-            .contentShape(Rectangle())
-        }
-        .buttonStyle(.plain)
-        .help("\(jogo.titulo), no canal \(jogo.canal.name)")
-    }
-
-    @ViewBuilder
-    private func selo(_ vivo: Bool) -> some View {
-        if vivo {
-            HStack(spacing: 5) {
-                Circle().fill(Color.red).frame(width: 7, height: 7)
-                Text(["AO VIVO", jogo.tempo].filter { !$0.isEmpty }.joined(separator: "  "))
-                    .font(.system(size: 11, weight: .bold))
-                    .foregroundStyle(.red)
-                    .lineLimit(1)
-            }
-            .padding(.horizontal, 8)
-            .padding(.vertical, 3)
-            .background(Capsule().fill(Color.red.opacity(0.14)))
-        } else {
-            HStack(spacing: 4) {
-                Image(systemName: "clock").font(.system(size: 10))
-                Text(Eventos.quando(jogo.inicio, agora))
-                    .font(.system(size: 11, weight: .semibold))
-                    .lineLimit(1)
-            }
-            .foregroundStyle(.white.opacity(0.7))
-            .padding(.horizontal, 8)
-            .padding(.vertical, 3)
-            .background(Capsule().fill(Color.white.opacity(0.07)))
-        }
-    }
-
-    private func time(_ nome: String, _ logo: String) -> some View {
-        VStack(spacing: 6) {
-            LogoRemoto(endereco: logo, tamanho: 52) {
-                Circle()
-                    .fill(Color.white.opacity(0.08))
-                    .overlay(
-                        Text(nome.prefix(1).uppercased())
-                            .font(.system(size: 20, weight: .bold, design: .rounded))
-                            .foregroundStyle(.white.opacity(0.75)))
-            }
-            Text(nome)
-                .font(.system(size: 13, weight: .bold))
-                .foregroundStyle(.white)
-                .multilineTextAlignment(.center)
-                .lineLimit(2)
-        }
-        .frame(maxWidth: .infinity)
     }
 }
 

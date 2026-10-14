@@ -196,7 +196,7 @@ struct EPGGuideView: View {
             dismiss()
         }
         .background(model.selecaoDaLista == channel.id
-                    ? Color.accentColor.opacity(0.18) : Color.clear)
+                    ? Tema.acento.opacity(0.18) : Color.clear)
     }
 
     private func row(for channel: Channel) -> some View {
@@ -256,11 +256,11 @@ struct EPGGuideView: View {
         .padding(.horizontal, 8)
         .padding(.vertical, 5)
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
-        .background(live ? Color.accentColor.opacity(0.22) : Color.primary.opacity(0.06),
+        .background(live ? Tema.acento.opacity(0.22) : Color.primary.opacity(0.06),
                     in: RoundedRectangle(cornerRadius: 7))
         .overlay(
             RoundedRectangle(cornerRadius: 7)
-                .strokeBorder(live ? Color.accentColor.opacity(0.55) : .clear, lineWidth: 1))
+                .strokeBorder(live ? Tema.acento.opacity(0.55) : .clear, lineWidth: 1))
         .contentShape(Rectangle())
         .onTapGesture {
             selected = programme

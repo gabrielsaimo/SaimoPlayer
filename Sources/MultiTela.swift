@@ -328,7 +328,7 @@ struct MolduraDaTela: View {
         .environment(\.colorScheme, .dark)
         .overlay {
             Rectangle()
-                .strokeBorder(ativa ? Color.accentColor : Color.clear, lineWidth: 3)
+                .strokeBorder(ativa ? Tema.acento : Color.clear, lineWidth: 3)
                 .allowsHitTesting(false)
         }
     }
@@ -393,8 +393,8 @@ struct MolduraDaTela: View {
                     }
                 }
                 .fixedSize()
-                if !model.detachedList {
-                    Button("Mostrar lista") { model.detachedList = true }
+                if !model.detachedList, !Interface.shared.painelCanais {
+                    Button("Mostrar lista") { Interface.shared.painelCanais = true }
                 }
             }
         }

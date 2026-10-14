@@ -96,7 +96,7 @@ struct FichaTela: View {
                         Text(tipo)
                             .font(.system(size: 12, weight: .bold))
                             .tracking(2)
-                            .foregroundStyle(Color.accentColor)
+                            .foregroundStyle(Tema.acento)
                         Text(Generos.semAno(alvo.titulo))
                             .font(.system(size: 38, weight: .bold))
                             .lineLimit(2)
@@ -161,7 +161,7 @@ struct FichaTela: View {
             RoundedRectangle(cornerRadius: 10, style: .continuous).fill(Color.white.opacity(0.08))
             Text(String(alvo.titulo.prefix(1)).uppercased())
                 .font(.system(size: 60, weight: .semibold))
-                .foregroundStyle(Color.accentColor.opacity(0.7))
+                .foregroundStyle(Tema.acento.opacity(0.7))
             if let endereco, let url = URL(string: endereco) {
                 AsyncImage(url: url) { imagem in
                     imagem.resizable().aspectRatio(contentMode: .fill)
@@ -282,7 +282,7 @@ struct AtorTela: View {
                         Text(perfil?.nome.isEmpty == false ? perfil!.nome : pessoa.nome)
                             .font(.system(size: 34, weight: .bold))
                         if let dados = perfil?.dados, !dados.isEmpty {
-                            Text(dados).font(.system(size: 14)).foregroundStyle(Color.accentColor)
+                            Text(dados).font(.system(size: 14)).foregroundStyle(Tema.acento)
                         }
                         if let bio = perfil?.biografia, !bio.isEmpty {
                             Text(bio)
@@ -444,7 +444,7 @@ private struct CapaDeTrabalho: View {
                 RoundedRectangle(cornerRadius: 8, style: .continuous).fill(Color.white.opacity(0.08))
                 Text(String(trabalho.achado.titulo.prefix(1)).uppercased())
                     .font(.system(size: 34, weight: .semibold))
-                    .foregroundStyle(Color.accentColor.opacity(0.7))
+                    .foregroundStyle(Tema.acento.opacity(0.7))
                 if let endereco = trabalho.capa, let url = URL(string: endereco) {
                     AsyncImage(url: url) { imagem in
                         imagem.resizable().aspectRatio(contentMode: .fill)
