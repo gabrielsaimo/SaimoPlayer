@@ -208,6 +208,7 @@ struct TelaOnDemand: View {
     /// As fileiras montadas uma vez por carga: varrer trinta mil títulos a
     /// cada redesenho deixaria a tela pesada.
     @State private var prontas: [Fila] = []
+    @State private var cargas = 0
 
     /// Os gêneros mais procurados primeiro; o resto entra depois.
     private static let ordemGeneros = [
@@ -235,6 +236,11 @@ struct TelaOnDemand: View {
             .onChange(of: tipo) { _, _ in padrao() }
             .onChange(of: favoritos.itens) { _, _ in prontas = filas }
             .onChange(of: filasDeDestaque) { _, _ in prontas = filas }
+            .onChange(of: nomesDoAcervo) { _, _ in prontas = filas }
+            .onChange(of: cargas) { _, _ in
+                prontas = filas
+                padrao()
+            }
             .task(id: tipo) { await carregar() }
     }
 
@@ -252,8 +258,9 @@ struct TelaOnDemand: View {
         if tipo == nil || tipo == .animes { colecoes["animes"] = await Vod.colecao("animes") }
         if tipo == nil || tipo == .doramas { colecoes["doramas"] = await Vod.colecao("doramas") }
         carregando = false
-        prontas = filas
-        padrao()
+        // Montar aqui usaria a cópia da tela de quando a tarefa começou, com
+        // os destaques de então; o `onChange` monta com a de agora.
+        cargas += 1
     }
 
     private func contagem(_ secao: VodSecao?) -> Int? {

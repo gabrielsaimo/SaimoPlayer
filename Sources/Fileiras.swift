@@ -220,7 +220,7 @@ struct TelaEmFileiras<Topo: View>: View {
 
     var body: some View {
         GeometryReader { geo in
-            let alturaDestaque = min(max(geo.size.height * 0.3, 150), 270)
+            let alturaDestaque = min(max(geo.size.height * 0.24, 140), 230)
             ZStack(alignment: .topLeading) {
                 FundoDoDestaque(estado: destaque)
                 VStack(alignment: .leading, spacing: 0) {

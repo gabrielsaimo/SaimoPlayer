@@ -67,6 +67,18 @@ struct ContentView: View {
                 guard !abriu else { return }
                 abriu = true
                 if !Preferencias.abrirNoCanal, vod.secao == nil { vod.secao = .inicio }
+                // `open -a "Saimo TV" --args -abaInicial radios`: abre direto
+                // numa aba, para conferir uma tela sem clicar até ela.
+                let padrao = UserDefaults.standard
+                if let nome = padrao.string(forKey: "abaInicial") {
+                    if let aba = Aba(rawValue: nome) {
+                        aba.abrir()
+                    } else if let secao = VodSecao(rawValue: nome) {
+                        vod.explorando = padrao.bool(forKey: "explorar")
+                        vod.secao = secao
+                    }
+                    interface.painelCanais = padrao.bool(forKey: "listaInicial")
+                }
             }
             .onReceive(NotificationCenter.default.publisher(for: NSWindow.willEnterFullScreenNotification)) { _ in
                 telaCheia = true
