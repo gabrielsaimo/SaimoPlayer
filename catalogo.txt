@@ -5233,52 +5233,14 @@ canal: Disney+ 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/296915.m3u8
-qualidade: HD · 1280x720
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169095.m3u8
+fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
 qualidade: HD
 canal: Disney+ 02
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/296916.m3u8
-qualidade: HD · 1280x720
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
-qualidade: HD
-canal: Disney+ 03
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/296917.m3u8
-qualidade: HD · 1280x720
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169097.m3u8
-qualidade: HD
-canal: Disney+ 04
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/296918.m3u8
-qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169098.m3u8
 qualidade: HD
-canal: Disney+ 05
-categoria: Esportes
-logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/296919.m3u8
-qualidade: HD · 1280x720
-fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169099.m3u8
-qualidade: HD
-canal: Mr Olympia 01
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460265.m3u8
-qualidade: HD · 1280x720
-canal: Mr Olympia 02
-categoria: Esportes
-
-fonte: http://64.31.23.207:80/59471019/60849037/3460266.m3u8
-qualidade: HD · 1280x720
 canal: NBA 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/nba.png
@@ -5400,40 +5362,24 @@ canal: Cine SKY 01
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1832882.m3u8
-qualidade: HD · 1920x816
-fonte: http://64.31.23.207:80/59471019/60849037/1882617.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13071.m3u8
 qualidade: Qualidade não informada
 canal: Cine SKY 02
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882618.m3u8
-qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13072.m3u8
 qualidade: HD · 1920x804
 canal: Cine SKY 03
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882619.m3u8
-qualidade: FHD · 1920x1080
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13073.m3u8
 qualidade: HD · 1920x800
-canal: Cine SKY 04
-categoria: Filmes e Séries
-logo: http://www.fontedecanais.org/logos/canais/cinesky.png
-
-fonte: http://64.31.23.207:80/59471019/60849037/1882620.m3u8
-qualidade: HD · 1280x720
 canal: Cine SKY 05
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
-fonte: http://64.31.23.207:80/59471019/60849037/1882621.m3u8
-qualidade: HD · 1280x934
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13075.m3u8
 qualidade: FHD · 1920x1080
 canal: Lifetime
@@ -5490,8 +5436,6 @@ fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/max1/max1.m3u8
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/594007.m3u8
 qualidade: FHD
-fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTgxLm0zdTg.m3u8
-qualidade: HD
 canal: MAX 02
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.gs/logos/canais/max.png
@@ -7161,14 +7105,6 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/112016.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTc1MjMyMC5tM3U4.m3u8
 qualidade: HD
-canal: SYFY
-categoria: Filmes e Séries
-logo: http://tvonhdbr.com/static/logos/canais/syfy.png
-
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103474.m3u8
-qualidade: 4K
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/103474.m3u8
-qualidade: 4K
 canal: UFC Fight Pass
 categoria: PPV
 
