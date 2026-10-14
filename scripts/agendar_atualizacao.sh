@@ -2,7 +2,7 @@
 #
 # Põe (ou tira) a atualização diária do catálogo no macOS.
 #
-# Quem roda é o launchd, não um terminal aberto: ele acorda às 5h, chama o
+# Quem roda é o launchd, não um terminal aberto: ele acorda às 11h e às 18h, chama o
 # `atualizar_tudo.sh` e some. Se a máquina estiver dormindo na hora marcada, o
 # launchd roda assim que ela acordar — que é o certo aqui, porque atrasar
 # algumas horas é melhor que pular o dia.
@@ -27,7 +27,9 @@ RAIZ="$HOME/Library/Application Support/SaimoTV/SaimoPlayer"
 
 ETIQUETA="dev.saimo.atualizar-catalogo"
 PLIST="$HOME/Library/LaunchAgents/$ETIQUETA.plist"
-HORA=5
+# Duas rodadas por dia: 11h e 18h.
+HORA_MANHA=11
+HORA_TARDE=18
 MINUTO=0
 
 case "${1:-}" in
@@ -109,10 +111,16 @@ cat > "$PLIST" <<PLISTA
     <string>$RAIZ/atualizar_tudo.sh</string>
   </array>
   <key>StartCalendarInterval</key>
-  <dict>
-    <key>Hour</key><integer>$HORA</integer>
-    <key>Minute</key><integer>$MINUTO</integer>
-  </dict>
+  <array>
+    <dict>
+      <key>Hour</key><integer>$HORA_MANHA</integer>
+      <key>Minute</key><integer>$MINUTO</integer>
+    </dict>
+    <dict>
+      <key>Hour</key><integer>$HORA_TARDE</integer>
+      <key>Minute</key><integer>$MINUTO</integer>
+    </dict>
+  </array>
   <!-- O git precisa achar as credenciais e o python; o launchd dá um PATH
        mínimo que não inclui o Homebrew. -->
   <key>EnvironmentVariables</key>

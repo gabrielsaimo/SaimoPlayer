@@ -187,7 +187,7 @@ Scripts principais:
 
 | Script | Faz |
 |---|---|
-| `atualizar_tudo.sh` | roda a atualização diária do acervo, às 11h (launchd no Mac; o GitHub Actions faz a parte da RedeFlix às 11h17) |
+| `atualizar_tudo.sh` | roda a atualização do acervo duas vezes por dia, às 11h e às 18h (launchd no Mac; o GitHub Actions faz a parte da RedeFlix às 11h17) |
 | `gerar_vod.py`, `gerar_generos.py`, `gerar_destaques.py` | geram o acervo, as fichas e as fileiras |
 | `atualizar_redeflix.py`, `atualizar_frostview.py` | trazem fontes novas de cada origem; o do FrostView troca a fonte que a API não devolve mais pela nova |
 | `atualizar_nixplay.py` | a lista principal de filmes e séries (nixplay, conta só de filmes e séries, sem canais): baixa a M3U, casa cada fonte com o título do acervo pelo id do TMDB e grava em `arquivos-gerados/nixplay/`; o `gerar_vod.py` põe essas fontes em primeiro em cada título e acrescenta os títulos que faltavam. Roda dentro do `atualizar_tudo.sh` |

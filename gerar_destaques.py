@@ -44,14 +44,23 @@ CHAVE_TMDB = "15d2ea6d0dc1d476efbca3eba2b9bbfb"
 TMDB = "https://api.themoviedb.org/3"
 CAPA_BASE = "https://image.tmdb.org/t/p/w342"
 
-# Quantos itens por fileira. Vinte enche a tela e não pesa: cada capa é uma
-# imagem de 342 pixels de largura, e o aparelho só baixa as que estão à vista.
-POR_FILA = 20
+# Quantos itens por fileira. Quarenta dá o que rolar sem pesar: cada capa é
+# uma imagem de 342 pixels de largura, e o aparelho só baixa as que estão à
+# vista.
+POR_FILA = 40
 ANO_ATUAL = date.today().year
 
 
 def sem_acento(texto):
     return unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode()
+
+
+def eh_latino(titulo):
+    """O nome está em alfabeto latino (acentos valem)? Título em devanágari,
+    chinês, árabe ou cirílico não entra nas fileiras: o teclado e a leitura de
+    quem usa o app não alcançam, e a capa vira uma caixa de letras estranhas."""
+    letras = [c for c in titulo if c.isalpha()]
+    return bool(letras) and all(unicodedata.name(c, "").startswith("LATIN") for c in letras)
 
 
 def chave(titulo):
@@ -113,7 +122,7 @@ def colecao(tipo):
     return out
 
 
-def tendencia(endpoint, paginas=2):
+def tendencia(endpoint, paginas=5):
     """O que está em alta no TMDB agora, em português."""
     itens = []
     for pagina in range(1, paginas + 1):
@@ -126,7 +135,7 @@ def tendencia(endpoint, paginas=2):
     return itens
 
 
-def lancamentos(endpoint, paginas=3):
+def lancamentos(endpoint, paginas=6):
     """O que estreou neste ano, do mais popular para o menos."""
     itens = []
     campo = "primary_release_year" if endpoint == "movie" else "first_air_date_year"
@@ -149,7 +158,7 @@ def cruzar(itens_tmdb, catalogo, tipo_desejado):
         data = item.get("release_date") or item.get("first_air_date") or ""
         ano = data[:4]
         poster = item.get("poster_path") or ""
-        if not nome:
+        if not nome or not eh_latino(nome):
             continue
         candidatas = []
         for base in filter(None, {nome, original}):
@@ -165,6 +174,8 @@ def cruzar(itens_tmdb, catalogo, tipo_desejado):
             # fileira mostrava a capa do novo num filme que o acervo não tem.
             ano_acervo = achado[3]
             if ano and ano_acervo and abs(int(ano) - int(ano_acervo)) > 1:
+                continue
+            if not eh_latino(achado[0]):
                 continue
             fila.setdefault(achado[0], (achado, poster))
             break
@@ -201,6 +212,7 @@ def main():
     for tipo, titulo, marca in (("animes", "Animes", "a"), ("doramas", "Doramas", "d")):
         lista = colecao(tipo)
         # Do mais novo para o mais velho: é o que alguém espera de "novidades".
+        lista = [item for item in lista if eh_latino(item[0])]
         lista.sort(key=lambda item: item[1] or "0", reverse=True)
         escolhidos = []
         for nome, ano, tmdb_id in lista[:POR_FILA]:
