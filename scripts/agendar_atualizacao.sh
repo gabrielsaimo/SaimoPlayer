@@ -45,7 +45,7 @@ case "${1:-}" in
     # cano no primeiro acerto e o launchctl morre de SIGPIPE.
     registradas="$(launchctl list || true)"
     if printf '%s' "$registradas" | grep -q "$ETIQUETA"; then
-      echo "ligado — todo dia às ${HORA}h${MINUTO}"
+      echo "ligado — todo dia às ${HORA_MANHA}h e às ${HORA_TARDE}h"
     else
       echo "desligado"
     fi
@@ -142,6 +142,6 @@ PLISTA
 
 launchctl unload "$PLIST" 2>/dev/null || true
 launchctl load "$PLIST"
-echo "ligado — todo dia às ${HORA}h${MINUTO}, rodando $RAIZ/atualizar_tudo.sh"
+echo "ligado — todo dia às ${HORA_MANHA}h e às ${HORA_TARDE}h, rodando $RAIZ/atualizar_tudo.sh"
 echo "acompanhar:  tail -f $RAIZ/arquivos-gerados/atualizacao.log"
 echo "desligar:    ./scripts/agendar_atualizacao.sh --tirar"
