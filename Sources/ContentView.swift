@@ -14,8 +14,16 @@ struct ContentView: View {
     /// Em tela cheia a barra de cima (com o botão da lista) some: só o vídeo.
     @State private var telaCheia = false
 
+    /// A abertura animada cobre a janela só na primeira vez que ela aparece.
+    @State private var abertura = true
+
     var body: some View {
         principal
+            .overlay {
+                if abertura {
+                    Abertura { abertura = false }
+                }
+            }
             .frame(minWidth: 720, minHeight: 460)
             .sheet(item: $atualizacao.disponivel) { versao in
                 AtualizacaoView(atualizacao: atualizacao, versao: versao)
