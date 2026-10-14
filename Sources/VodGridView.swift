@@ -54,7 +54,10 @@ struct VodGridView: View {
             // A régua só onde ela filtra alguma coisa: na tela inicial as
             // fileiras são curadoria, e peneirá-las deixa faixas com um cartão
             // ou nenhum.
-            if !Generos.todos.isEmpty, estado.secao != .inicio { reguaDeGeneros; Divider() }
+            if !Generos.todos.isEmpty, estado.secao != .inicio, estado.serieAberta == nil {
+                reguaDeGeneros
+                Divider()
+            }
 
             conteudo
         }
@@ -79,7 +82,7 @@ struct VodGridView: View {
                         cartao.abrir()
                     },
                     fechar: { fichaAberta = nil },
-                    abrirTitulo: { achado in fichaAberta = cartaoDe(achado) })
+                    abrirTitulo: abrirDaFilmografia)
                 // Uma ficha nova para cada título: sem isto, abrir um filme a
                 // partir da filmografia reaproveitava a ficha anterior, que
                 // continuava com o ator aberto por cima do título novo.
@@ -154,14 +157,7 @@ struct VodGridView: View {
                 .font(.system(size: 20, weight: .semibold))
             if let serie = estado.serieAberta {
                 Image(systemName: "chevron.right").foregroundStyle(.secondary)
-                Text(serie.nomeCompleto).font(.system(size: 17))
-                Button {
-                    estado.serieAberta = nil
-                } label: {
-                    Label("Voltar", systemImage: "chevron.left")
-                }
-                .buttonStyle(.plain)
-                .foregroundStyle(.secondary)
+                Text(serie.nomeCompleto).font(.system(size: 17)).lineLimit(1)
             }
             if carregando { ProgressView().controlSize(.small) }
             Spacer()
@@ -634,8 +630,10 @@ struct VodGridView: View {
         return "\(ano) · \(cartao.detalhe)"
     }
 
+    /// Série vai direto à tela dela, que já traz a ficha junto dos episódios,
+    /// como na TV Box; filme passa pela ficha.
     private func escolher(_ cartao: Cartao) {
-        if cartao.direto { cartao.abrir() } else { fichaAberta = cartao }
+        if cartao.direto || cartao.serie { cartao.abrir() } else { fichaAberta = cartao }
     }
 
     private func estrela(_ cartao: Cartao) -> some View {
@@ -707,6 +705,7 @@ struct VodGridView: View {
                    letra: estado.letra,
                    reservado: false) {
                 estado.ancora = "s:" + serie.nomeCompleto
+                estado.letraDaSerie = estado.letra
                 if let prontos = estado.episodiosColecao[serie.id] {
                     estado.episodios = prontos
                     estado.serieAberta = serie
@@ -767,95 +766,47 @@ struct VodGridView: View {
 
     // MARK: - Episódios
 
-    /// O episódio desta série que está no ar, se for ela que está tocando.
-    private func noArDe(_ serie: Serie) -> EpisodioNoAr? {
-        guard let ep = model.episodioNoAr, ep.serie == serie.nomeCompleto else { return nil }
-        return ep
-    }
-
+    /// A série aberta, com a ficha e os episódios na mesma tela (`SerieTela`).
     private func episodiosDe(_ serie: Serie) -> some View {
-        let temporadas = Set(estado.episodios.map(\.temporada)).sorted()
-        let noAr = noArDe(serie)
-        return ScrollViewReader { rolagem in
-            ScrollView {
-                LazyVStack(alignment: .leading, spacing: 0) {
-                    ForEach(temporadas, id: \.self) { temporada in
-                        Text("Temporada \(temporada)")
-                            .font(.system(size: 15, weight: .semibold))
-                            .foregroundStyle(.white)
-                            .padding(.top, 18)
-                            .padding(.horizontal, 18)
-                        ForEach(daTemporada(temporada)) { episodio in
-                            linhaEpisodio(serie, episodio).id(episodio.id)
-                            Divider().padding(.leading, 18)
-                        }
-                    }
-                }
-            }
-            .onAppear {
-                // A série que está tocando abre na temporada e no episódio
-                // em que se está, e não na primeira temporada.
-                guard let noAr else { return }
-                let alvo = estado.episodios.first {
-                    $0.temporada == noAr.temporada && $0.numero == noAr.numero && $0.versao == noAr.versao
-                } ?? estado.episodios.first { $0.temporada == noAr.temporada && $0.numero == noAr.numero }
-                guard let alvo else { return }
-                DispatchQueue.main.async { rolagem.scrollTo(alvo.id, anchor: .center) }
-            }
+        SerieTela(model: model, serie: serie, episodios: estado.episodios,
+                  letra: estado.letraDaSerie,
+                  voltar: { estado.serieAberta = nil },
+                  tocar: { tocarEpisodio(serie, $0) },
+                  abrirTitulo: abrirDaFilmografia)
+            // Uma tela nova para cada série: a temporada e a fileira de uma
+            // não podem vazar para a seguinte.
+            .id(serie.id)
+    }
+
+    private func tocarEpisodio(_ serie: Serie, _ episodio: Episodio) {
+        // O episódio que já está no ar só devolve ao vídeo: abrir de novo
+        // recomeçaria do zero o que estava tocando.
+        if let noAr = model.episodioNoAr, noAr.serie == serie.nomeCompleto,
+           noAr.temporada == episodio.temporada, noAr.numero == episodio.numero,
+           noAr.versao == episodio.versao {
+            estado.secao = nil
+            return
         }
-    }
-
-    private func daTemporada(_ temporada: Int) -> [Episodio] {
-        estado.episodios.filter { $0.temporada == temporada }
-            .sorted { ($0.numero, $0.versao) < ($1.numero, $1.versao) }
-    }
-
-    private func linhaEpisodio(_ serie: Serie, _ episodio: Episodio) -> some View {
         let chave = Progresso.chaveEpisodio(
             serie.nomeCompleto, episodio.temporada, episodio.numero)
-        let detalhe = "Temporada \(episodio.temporada), episódio \(episodio.numero)"
-        let noAr = noArDe(serie).map {
-            $0.temporada == episodio.temporada && $0.numero == episodio.numero && $0.versao == episodio.versao
-        } ?? false
-        return HStack(spacing: 12) {
-            VStack(alignment: .leading, spacing: 4) {
-                HStack(spacing: 8) {
-                    if noAr {
-                        Image(systemName: "play.fill").foregroundStyle(Color.accentColor)
-                    }
-                    Text("Episódio \(episodio.numero)").foregroundStyle(.white)
-                    if noAr {
-                        Text("Assistindo")
-                            .font(.caption.weight(.semibold)).foregroundStyle(Color.accentColor)
-                    }
-                    Text(rotulo(episodio.versao))
-                        .font(.caption).foregroundStyle(.white.opacity(0.5))
-                    if episodio.urls.count > 1 {
-                        Text("\(episodio.urls.count) fontes")
-                            .font(.caption).foregroundStyle(.white.opacity(0.5))
-                    }
-                }
-                if let visto = Progresso.fracao(chave) {
-                    ProgressView(value: visto)
-                        .progressViewStyle(.linear)
-                        .frame(width: 220)
-                        .controlSize(.mini)
-                }
-            }
-            Spacer()
-            Button("Assistir") {
-                model.episodioPendente = EpisodioNoAr(
-                    serie: serie.nomeCompleto, temporada: episodio.temporada,
-                    numero: episodio.numero, versao: episodio.versao, lista: estado.episodios)
-                escolherFonte(nome: serie.nomeCompleto,
-                              fontes: [episodio.versao: episodio.urls],
-                              detalhe: detalhe, chave: chave)
-            }
-            .controlSize(.small)
+        model.episodioPendente = EpisodioNoAr(
+            serie: serie.nomeCompleto, temporada: episodio.temporada,
+            numero: episodio.numero, versao: episodio.versao, lista: estado.episodios)
+        escolherFonte(nome: serie.nomeCompleto,
+                      fontes: [episodio.versao: episodio.urls],
+                      detalhe: "Temporada \(episodio.temporada), episódio \(episodio.numero)",
+                      chave: chave)
+    }
+
+    /// Um título vindo da filmografia de um ator: filme abre a ficha, série
+    /// abre a tela dela, que já é ficha e episódios ao mesmo tempo.
+    private func abrirDaFilmografia(_ achado: Vod.Achado) {
+        if achado.serie {
+            fichaAberta = nil
+            Task { await abrirAchado(achado, reservado: false) }
+        } else {
+            fichaAberta = cartaoDe(achado)
         }
-        .padding(.horizontal, 18)
-        .padding(.vertical, 10)
-        .background(noAr ? Color.accentColor.opacity(0.18) : Color.clear)
     }
 
     // MARK: - Ações
@@ -929,6 +880,7 @@ struct VodGridView: View {
             carregando = true
             estado.episodios = await Vod.episodios(letra: letra, serie: serie)
             carregando = false
+            estado.letraDaSerie = letra
             estado.serieAberta = serie
         }
     }
@@ -966,6 +918,7 @@ struct VodGridView: View {
                     $0.titulo == item.titulo && (item.ano.isEmpty || $0.ano == item.ano)
                 }) else { return }
             estado.episodios = await Vod.episodios(letra: item.letra, serie: achada)
+            estado.letraDaSerie = item.letra
             estado.serieAberta = achada
         } else {
             guard let achado = await Vod.filmes(letra: item.letra, reservados: item.reservado)

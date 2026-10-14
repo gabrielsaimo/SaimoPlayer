@@ -88,8 +88,29 @@ imagem e duração (TMDB), progresso e a marca de assistido. Um clique troca de
 episódio pelo mesmo caminho do próximo episódio; Esc ou clicar fora fecha. No
 acervo, a série que está tocando abre rolada até o episódio no ar, marcado.
 
+Série no acervo (`SerieTela.swift`): como na TV Box, ficha e episódios numa tela
+só. Imagem larga ao fundo, capa, logo do título (TMDB), selos, gêneros e
+sinopse; embaixo, temporadas em pílulas (e Dublado/Legendado quando há os dois)
+e os episódios em cartões com a imagem da cena, nome, resumo, duração, progresso
+e a marca de assistido, com setas para andar na fileira. Abre na temporada em
+que se está, com o episódio a continuar marcado; o botão grande diz "Continuar
+T2 E3" e toca ele. O elenco segue embaixo, como na ficha.
+
+Central de Controle (`TocandoAgora.swift`): o que está no ar aparece no "tocando
+agora" do macOS e nos apps que o leem. Canal ao vivo vai com a logo e o programa
+do guia; filme e episódio com a logo do título do TMDB (ou a capa, sem logo),
+nome do episódio, duração e posição. Pausar, pular 10 s e arrastar a posição
+valem só em filme e série; ao vivo não pausa.
+
+Atualização (`Atualizacao.swift`, `BaixadorDeAtualizacao.swift`): achada uma
+versão nova, o DMG baixa por trás para o cache do app, retomando se a rede cair
+e conferido pelo tamanho e o SHA-256 que o GitHub publica. O convite mostra o
+andamento; "Atualizar agora" abre o DMG e fecha o app, e é só arrastar o Saimo
+TV para Aplicativos. Se o download falhar, o botão abre a página da versão.
+
 Eventos (`Events.swift`, seção Eventos do acervo): a mesma tela do TV Box. Junta a
-agenda da embedtv com os placares da ESPN (23 ligas, buscados juntos) e mostra só
+agenda da embedtv e a do monitor (`/v1/eventos`: jogos da CazéTV, Disney+, Prime,
+Paramount+, GOAT, ge tv, N Sports e SportyNet, sem repetir) com os placares da ESPN (23 ligas, buscados juntos) e mostra só
 os jogos que passam num canal da lista (adultos fora; encerrados saem), agrupados
 em Ao vivo agora, Começa em breve, Hoje mais tarde, Amanhã e Próximos dias. Cada
 cartão traz liga, horário ou "AO VIVO" com o tempo de jogo, escudos, placar e o

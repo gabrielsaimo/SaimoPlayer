@@ -251,17 +251,6 @@ struct FichaTela: View {
         minutos < 60 ? "\(minutos) min" : "\(minutos / 60)h \(String(format: "%02d", minutos % 60))min"
     }
 
-    /// As cores da classificação indicativa brasileira, as mesmas do celular.
-    private func corDaClassificacao(_ nota: String) -> Color {
-        switch nota.uppercased() {
-        case "L": return Color(red: 0.06, green: 0.73, blue: 0.51)
-        case "10": return Color(red: 0.23, green: 0.51, blue: 0.96)
-        case "12": return Color(red: 0.96, green: 0.62, blue: 0.04)
-        case "14": return Color(red: 0.98, green: 0.45, blue: 0.09)
-        case "16", "18": return Color(red: 0.94, green: 0.27, blue: 0.27)
-        default: return .white.opacity(0.8)
-        }
-    }
 }
 
 // MARK: - Ator
@@ -345,8 +334,20 @@ struct AtorTela: View {
 
 // MARK: - Peças
 
+/// As cores da classificação indicativa brasileira, as mesmas do celular.
+func corDaClassificacao(_ nota: String) -> Color {
+    switch nota.uppercased() {
+    case "L": return Color(red: 0.06, green: 0.73, blue: 0.51)
+    case "10": return Color(red: 0.23, green: 0.51, blue: 0.96)
+    case "12": return Color(red: 0.96, green: 0.62, blue: 0.04)
+    case "14": return Color(red: 0.98, green: 0.45, blue: 0.09)
+    case "16", "18": return Color(red: 0.94, green: 0.27, blue: 0.27)
+    default: return .white.opacity(0.8)
+    }
+}
+
 @MainActor
-private func botaoVoltar(_ texto: String, acao: @escaping () -> Void) -> some View {
+func botaoVoltar(_ texto: String, acao: @escaping () -> Void) -> some View {
     Button(action: acao) {
         Label(texto, systemImage: "chevron.left")
             .font(.system(size: 14, weight: .medium))
@@ -358,7 +359,7 @@ private func botaoVoltar(_ texto: String, acao: @escaping () -> Void) -> some Vi
     .help("Voltar (Esc)")
 }
 
-private struct Selo: View {
+struct Selo: View {
     let texto: String
     var cor: Color = .white.opacity(0.9)
 
@@ -374,7 +375,7 @@ private struct Selo: View {
 
 /// Cresce um pouco sob o mouse e ao ser pressionado: resposta imediata, sem
 /// mexer no layout de ninguém em volta.
-private struct CresceNoFoco: ButtonStyle {
+struct CresceNoFoco: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         Modificador(configuration: configuration)
     }
@@ -415,7 +416,7 @@ private struct FotoRedonda: View {
     }
 }
 
-private struct FotoDePessoa: View {
+struct FotoDePessoa: View {
     let pessoa: Ficha.Pessoa
 
     var body: some View {

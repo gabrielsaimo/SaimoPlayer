@@ -43,6 +43,8 @@ struct Ficha: Sendable {
     var fundo: String?
     /// Quantas temporadas a série tem, segundo o TMDB.
     var temporadas: Int?
+    /// A logo do título (PNG transparente), em português quando há.
+    var logo: String?
 
     var vazia: Bool {
         sinopse.isEmpty && elenco.isEmpty && generos.isEmpty && duracao == nil
@@ -75,9 +77,11 @@ enum Fichas {
 
     private static func baixar(id: Int, serie: Bool) async -> Ficha? {
         let tipo = serie ? "tv" : "movie"
-        let extras = serie ? "credits,content_ratings" : "credits,release_dates"
+        let extras = serie ? "credits,content_ratings,images" : "credits,release_dates,images"
+        // Das imagens só as logos interessam, e só nas línguas que a tela usa.
         guard let url = URL(string:
-            "\(base)/\(tipo)/\(id)?api_key=\(chave)&language=pt-BR&append_to_response=\(extras)")
+            "\(base)/\(tipo)/\(id)?api_key=\(chave)&language=pt-BR&append_to_response=\(extras)"
+                + "&include_image_language=pt,en,null")
         else { return nil }
 
         var pedido = URLRequest(url: url)
@@ -113,6 +117,7 @@ enum Fichas {
             ficha.fundo = imagens + "w1280" + caminho
         }
         if serie, let n = json["number_of_seasons"] as? Int, n > 0 { ficha.temporadas = n }
+        ficha.logo = logoDe(json)
 
         let creditos = json["credits"] as? [String: Any] ?? [:]
         let equipe = creditos["crew"] as? [[String: Any]] ?? []
@@ -258,9 +263,10 @@ enum Fichas {
         return perfil
     }
 
-    /// Nome, imagem e duração de um episódio, segundo o TMDB.
+    /// Nome, resumo, imagem e duração de um episódio, segundo o TMDB.
     struct EpisodioTMDB: Sendable {
         let nome: String
+        let sinopse: String
         let imagem: String?
         let duracao: Int?
     }
@@ -280,11 +286,29 @@ enum Fichas {
             guard let n = ep["episode_number"] as? Int else { continue }
             saida[n] = EpisodioTMDB(
                 nome: ep["name"] as? String ?? "",
+                sinopse: ep["overview"] as? String ?? "",
                 imagem: (ep["still_path"] as? String).map { imagens + "w300" + $0 },
                 duracao: ep["runtime"] as? Int)
         }
         temporadasGuardadas[marca] = saida
         return saida
+    }
+
+    /// A logo do título: a em português, senão a em inglês, senão a sem
+    /// língua — a mesma escolha da TV Box. w500 basta para a altura em que ela
+    /// aparece na ficha.
+    private static func logoDe(_ json: [String: Any]) -> String? {
+        let logos = (json["images"] as? [String: Any])?["logos"] as? [[String: Any]] ?? []
+        for lingua in ["pt", "en", ""] {
+            let achada = logos.first {
+                let l = $0["iso_639_1"] as? String ?? ""
+                return l == lingua
+            }
+            if let caminho = achada?["file_path"] as? String, !caminho.isEmpty {
+                return imagens + "w500" + caminho
+            }
+        }
+        return nil
     }
 
     private static func pedir(_ endereco: String) async -> [String: Any]? {

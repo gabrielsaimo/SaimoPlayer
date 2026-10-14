@@ -527,7 +527,11 @@ final class PlayerModel: NSObject, ObservableObject {
         isPlaying = true
         startTimers()
         loadMediaOptions(for: asset, item: item)
-        if let channel { updateNowPlaying(channel: channel) }
+        if let channel {
+            TocandoAgora.shared.aoVivo(channel)
+        } else {
+            TocandoAgora.shared.arquivo(nome: playingFileName, episodio: episodioNoAr)
+        }
         preventSleep(true)
     }
 
@@ -649,6 +653,7 @@ final class PlayerModel: NSObject, ObservableObject {
             play()
         }
         contarVideo()
+        avisarTocandoAgora()
     }
 
     /// O monitor só conta o tempo com o vídeo andando de verdade.
@@ -671,6 +676,7 @@ final class PlayerModel: NSObject, ObservableObject {
         isPlaying = false
         status = "parado"
         preventSleep(false)
+        TocandoAgora.shared.limpar()
     }
 
     func reload() {
@@ -836,6 +842,7 @@ final class PlayerModel: NSObject, ObservableObject {
         position = seconds
         ultimoPulo = Date()
         player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero)
+        avisarTocandoAgora()
     }
 
     // MARK: - Timers
@@ -896,6 +903,7 @@ final class PlayerModel: NSObject, ObservableObject {
             guardarProgresso()
             acompanharEpisodio()
         }
+        avisarTocandoAgora()
         // presentationSize only fires once the first frame is decoded, and the
         // KVO can land before the layer is ready, so re-read it each tick.
         let size = item.presentationSize
@@ -1293,6 +1301,20 @@ final class PlayerModel: NSObject, ObservableObject {
         c.pauseCommand.addTarget { [weak self] _ in
             Task { @MainActor in if self?.isPlaying == true { self?.togglePlayPause() } }; return .success
         }
+        // Só no filme e no episódio: o TocandoAgora desliga estes no ao vivo.
+        c.changePlaybackPositionCommand.addTarget { [weak self] evento in
+            guard let alvo = (evento as? MPChangePlaybackPositionCommandEvent)?.positionTime
+            else { return .commandFailed }
+            Task { @MainActor in self?.seek(to: alvo) }; return .success
+        }
+        c.skipForwardCommand.preferredIntervals = [10]
+        c.skipForwardCommand.addTarget { [weak self] _ in
+            Task { @MainActor in self?.pular(10) }; return .success
+        }
+        c.skipBackwardCommand.preferredIntervals = [10]
+        c.skipBackwardCommand.addTarget { [weak self] _ in
+            Task { @MainActor in self?.pular(-10) }; return .success
+        }
         c.nextTrackCommand.addTarget { [weak self] _ in
             Task { @MainActor in self?.step(1) }; return .success
         }
@@ -1301,14 +1323,11 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
-    private func updateNowPlaying(channel: Channel) {
-        MPNowPlayingInfoCenter.default().nowPlayingInfo = [
-            MPMediaItemPropertyTitle: channel.name,
-            MPMediaItemPropertyArtist: "Saimo TV",
-            MPNowPlayingInfoPropertyIsLiveStream: true,
-            MPNowPlayingInfoPropertyPlaybackRate: isPlaying ? 1.0 : 0.0,
-        ]
-        MPNowPlayingInfoCenter.default().playbackState = isPlaying ? .playing : .paused
+    /// Posição, duração e pausa para a Central de Controle (TocandoAgora.swift).
+    private func avisarTocandoAgora() {
+        TocandoAgora.shared.tique(posicao: position, duracao: duration, tocando: isPlaying,
+                                  velocidade: rate,
+                                  canal: playingFile == nil ? selectedChannel : nil)
     }
 
     private func preventSleep(_ on: Bool) {

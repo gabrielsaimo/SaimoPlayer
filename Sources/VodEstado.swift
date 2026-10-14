@@ -68,6 +68,9 @@ final class VodEstado: ObservableObject {
     @Published var titulosFilme: [Filme] = []
     @Published var titulosSerie: [Serie] = []
     @Published var serieAberta: Serie?
+    /// A letra de onde a série aberta veio: é o que o favorito dela guarda
+    /// para achá-la de novo.
+    var letraDaSerie = ""
     @Published var episodios: [Episodio] = []
     /// Episódios das coleções compactas, já publicados no mesmo arquivo.
     @Published var episodiosColecao: [String: [Episodio]] = [:]

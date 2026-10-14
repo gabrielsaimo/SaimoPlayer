@@ -7,8 +7,12 @@ import AppKit
 /// então não existe atualização automática de fábrica: sem isto, uma correção
 /// só chega a quem lembra de voltar no repositório e baixar o DMG à mão.
 ///
-/// Quem aceita recebe o DMG pelo navegador, e a instalação é a de sempre
-/// (arrastar para Aplicativos). O app não baixa nem troca nada por dentro.
+/// O DMG da versão nova começa a baixar por trás assim que ela aparece
+/// (`BaixadorDeAtualizacao`), e o convite mostra o andamento. Pronto, "Atualizar
+/// agora" abre o DMG — o Finder mostra o Saimo TV ao lado do atalho para
+/// Aplicativos — e fecha o app, para o novo poder substituir o antigo. O app
+/// não troca nada por dentro: arrastar continua sendo da pessoa. Se o download
+/// não vingar, o botão abre a página da versão no navegador.
 ///
 /// Checa na abertura e de hora em hora com o app aberto: um Mac que fica dias
 /// com o app ligado também fica sabendo. "Depois" cala a versão até a próxima
@@ -23,13 +27,33 @@ final class Atualizacao: ObservableObject {
         let numero: String
         let notas: String
         let dmg: URL
+        /// Bytes do DMG segundo o GitHub; nulo quando veio pela página.
+        let tamanho: Int64?
+        /// SHA-256 do DMG segundo o GitHub (campo "digest"), em hexadecimal.
+        let sha256: String?
         var id: String { tag }
+        /// A página da versão, para quando o download aqui dentro falha.
+        var pagina: URL {
+            URL(string: "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/\(tag)")
+                ?? URL(string: "https://github.com/gabrielsaimo/SaimoPlayer/releases/latest")!
+        }
+    }
+
+    /// Onde o DMG da versão nova está.
+    enum Download: Equatable {
+        case baixando(Double)
+        case pronto(URL)
+        case falhou
     }
 
     @Published var disponivel: Versao?
     /// Resposta ao "procurar atualização" do menu: sem isto, checar à mão e já
     /// estar atualizado não dá sinal nenhum na tela.
     @Published var aviso: String?
+    /// O download da versão em `baixandoTag`, nulo antes de começar.
+    @Published private(set) var download: Download?
+    private var baixandoTag: String?
+    private var baixador: BaixadorDeAtualizacao?
 
     private let repo = "gabrielsaimo/SaimoPlayer"
     private let defaults = UserDefaults.standard
@@ -69,8 +93,12 @@ final class Atualizacao: ObservableObject {
                 if manual { self.aviso = "Você já está na versão mais recente (\(self.atual))." }
                 return
             }
+            let pulada = self.defaults.string(forKey: self.chavePulada) == lancamento.tag
+            // Baixa já, mesmo que a pessoa diga "Depois": quando ela aceitar,
+            // o instalador está pronto.
+            if manual || !pulada { self.preparar(lancamento) }
             if !manual {
-                if self.defaults.string(forKey: self.chavePulada) == lancamento.tag { return }
+                if pulada { return }
                 if self.adiada == lancamento.tag { return }
                 if self.disponivel?.tag == lancamento.tag { return }
             }
@@ -88,11 +116,76 @@ final class Atualizacao: ObservableObject {
         disponivel = nil
     }
 
-    /// Abre o DMG no navegador, que baixa pela pasta de Downloads de sempre.
-    func baixar(_ versao: Versao) {
+    /// Abre o DMG baixado (ou, se o download falhou, a página da versão) e
+    /// fecha o app: com ele aberto, arrastar o novo para Aplicativos esbarra
+    /// no "o item está em uso" na hora de substituir o antigo.
+    func atualizar(_ versao: Versao) {
+        let alvo: URL
+        switch download {
+        case .pronto(let arquivo) where baixandoTag == versao.tag: alvo = arquivo
+        case .falhou, nil: alvo = versao.pagina
+        default: return
+        }
         adiada = versao.tag
         disponivel = nil
-        NSWorkspace.shared.open(versao.dmg)
+        NSWorkspace.shared.open(alvo)
+        // O pedido sai primeiro; fechar só depois dá tempo de o Finder (ou o
+        // navegador) recebê-lo antes de o app sumir.
+        Task { @MainActor in
+            try? await Task.sleep(nanoseconds: 800_000_000)
+            NSApp.terminate(nil)
+        }
+    }
+
+    // MARK: - Download
+
+    /// A pasta dos instaladores, no cache do app: o sistema pode limpá-la, e
+    /// não há nada ali que não se baixe de novo.
+    private var pasta: URL {
+        FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
+            .appendingPathComponent(Bundle.main.bundleIdentifier ?? "dev.saimo.player")
+            .appendingPathComponent("Atualizacao", isDirectory: true)
+    }
+
+    /// Começa (ou retoma) o download do DMG desta versão. Uma vez por versão.
+    func preparar(_ versao: Versao) {
+        if baixandoTag == versao.tag, download != .falhou { return }
+        baixador?.cancelar()
+        baixandoTag = versao.tag
+        let gerente = FileManager.default
+        try? gerente.createDirectory(at: pasta, withIntermediateDirectories: true)
+        let destino = pasta.appendingPathComponent("SaimoTV-\(versao.numero).dmg")
+
+        // O que sobrou de versões anteriores sai; o .part desta fica, para retomar.
+        for item in (try? gerente.contentsOfDirectory(at: pasta, includingPropertiesForKeys: nil)) ?? []
+        where !item.lastPathComponent.hasPrefix(destino.lastPathComponent) {
+            try? gerente.removeItem(at: item)
+        }
+
+        if BaixadorDeAtualizacao.pronto(destino, tamanho: versao.tamanho, sha256: versao.sha256) {
+            download = .pronto(destino)
+            return
+        }
+        try? gerente.removeItem(at: destino)
+        download = .baixando(0)
+        let tag = versao.tag
+        let baixador = BaixadorDeAtualizacao(
+            origem: versao.dmg, destino: destino, tamanho: versao.tamanho, sha256: versao.sha256,
+            aoAvancar: { [weak self] fracao in
+                Task { @MainActor in
+                    guard let self, self.baixandoTag == tag, case .baixando = self.download else { return }
+                    self.download = .baixando(fracao)
+                }
+            },
+            aoTerminar: { [weak self] arquivo in
+                Task { @MainActor in
+                    guard let self, self.baixandoTag == tag else { return }
+                    self.download = arquivo.map { .pronto($0) } ?? .falhou
+                    self.baixador = nil
+                }
+            })
+        self.baixador = baixador
+        baixador.comecar()
     }
 
     // MARK: - GitHub
@@ -115,10 +208,15 @@ final class Atualizacao: ObservableObject {
 
         // O nome do arquivo é o contrato com o release: o DMG é a atualização
         // do Mac, e o APK do mesmo release é a do Android.
-        guard let dmg = ativos.first(where: {
+        guard let ativo = ativos.first(where: {
             ($0["name"] as? String)?.lowercased().hasSuffix(".dmg") == true
-        })?["browser_download_url"] as? String, let endereco = URL(string: dmg)
+        }), let dmg = ativo["browser_download_url"] as? String, let endereco = URL(string: dmg)
         else { return nil }
+        let tamanho = (ativo["size"] as? NSNumber)?.int64Value
+        let resumo = (ativo["digest"] as? String).flatMap { digest -> String? in
+            guard digest.hasPrefix("sha256:") else { return nil }
+            return String(digest.dropFirst("sha256:".count))
+        }
 
         // A tag precisa ter cara de versão ("v1.2" ou "1.2.3"). Um "beta-v2"
         // não diz o que é mais novo que o quê, e comparar o número solto dele
@@ -128,7 +226,9 @@ final class Atualizacao: ObservableObject {
         return Versao(tag: tag,
                       numero: numero,
                       notas: (raiz["body"] as? String) ?? "",
-                      dmg: endereco)
+                      dmg: endereco,
+                      tamanho: tamanho.flatMap { $0 > 0 ? $0 : nil },
+                      sha256: resumo)
     }
 
     /// Reserva para quando a API não responde. Sem conta, ela aceita 60
@@ -148,7 +248,7 @@ final class Atualizacao: ObservableObject {
         guard let numero = Self.numeroDaTag(tag),
               let dmg = URL(string: "https://github.com/\(repo)/releases/download/\(tag)/SaimoTV.dmg")
         else { return nil }
-        return Versao(tag: tag, numero: numero, notas: "", dmg: dmg)
+        return Versao(tag: tag, numero: numero, notas: "", dmg: dmg, tamanho: nil, sha256: nil)
     }
 
     /// "v1.2.3" e "1.2" viram "1.2.3" e "1.2"; qualquer outra coisa, nulo.

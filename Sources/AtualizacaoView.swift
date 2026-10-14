@@ -2,8 +2,9 @@ import SwiftUI
 
 /// O convite para atualizar: o que mudou, e três saídas claras.
 ///
-/// Atualizar é a pessoa quem decide, e por fora: "Baixar" abre o DMG no
-/// navegador. "Depois" volta a perguntar na próxima abertura; "Pular" cala esta
+/// O DMG já vem baixando por trás, com o andamento aqui. "Atualizar agora"
+/// abre o instalador e fecha o app, para o novo poder substituir o antigo.
+/// "Depois" volta a perguntar na próxima abertura; "Pular" cala esta
 /// versão para sempre.
 struct AtualizacaoView: View {
     @ObservedObject var atualizacao: Atualizacao
@@ -35,7 +36,9 @@ struct AtualizacaoView: View {
                 .frame(maxHeight: 160)
             }
 
-            Text("O download abre no navegador. Depois é só abrir o DMG e arrastar o Saimo TV para Aplicativos, substituindo o antigo.")
+            andamento
+
+            Text(explicacao)
                 .font(.system(size: 11))
                 .foregroundStyle(.secondary)
                 .fixedSize(horizontal: false, vertical: true)
@@ -50,14 +53,55 @@ struct AtualizacaoView: View {
                     atualizacao.depois(versao)
                     dismiss()
                 }
-                Button("Baixar") {
-                    atualizacao.baixar(versao)
+                Button(atualizacao.download == .falhou ? "Abrir no navegador" : "Atualizar agora") {
+                    atualizacao.atualizar(versao)
                     dismiss()
                 }
                 .keyboardShortcut(.defaultAction)
+                .disabled(baixando)
             }
         }
         .padding(18)
         .frame(width: 460)
+        // Aberto antes de a checagem disparar o download (ou depois de uma
+        // falha), o convite pede de novo; para a mesma versão é nada.
+        .onAppear { atualizacao.preparar(versao) }
+    }
+
+    private var baixando: Bool {
+        if case .baixando = atualizacao.download { return true }
+        return false
+    }
+
+    @ViewBuilder
+    private var andamento: some View {
+        switch atualizacao.download {
+        case .baixando(let fracao):
+            VStack(alignment: .leading, spacing: 4) {
+                ProgressView(value: fracao)
+                    .progressViewStyle(.linear)
+                Text("Baixando a versão nova… \(Int(fracao * 100))%")
+                    .font(.system(size: 11))
+                    .foregroundStyle(.secondary)
+                    .monospacedDigit()
+            }
+        case .pronto:
+            Label("Pronta para instalar", systemImage: "checkmark.circle.fill")
+                .font(.system(size: 12, weight: .medium))
+                .foregroundStyle(.green)
+        case .falhou:
+            Label("Não deu para baixar aqui dentro.", systemImage: "exclamationmark.triangle.fill")
+                .font(.system(size: 12, weight: .medium))
+                .foregroundStyle(.orange)
+        case nil:
+            EmptyView()
+        }
+    }
+
+    private var explicacao: String {
+        if atualizacao.download == .falhou {
+            return "O botão abre a página da versão no navegador e fecha o Saimo TV. Baixe o DMG, abra e arraste o Saimo TV para Aplicativos, substituindo o antigo."
+        }
+        return "Ao atualizar, o Saimo TV se fecha e abre o instalador: é só arrastar o Saimo TV para Aplicativos, substituindo o antigo."
     }
 }
