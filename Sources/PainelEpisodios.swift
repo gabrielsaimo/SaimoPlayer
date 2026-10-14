@@ -33,26 +33,34 @@ struct PainelEpisodios: View {
 
             VStack(alignment: .leading, spacing: 12) {
                 cabecalho
+                // As temporadas em pílulas, como na TV.
                 if episodio.temporadas.count > 1 {
-                    Picker("Temporada", selection: $temporada) {
-                        ForEach(episodio.temporadas, id: \.self) { t in
-                            Text("Temporada \(t)").tag(t)
+                    ScrollView(.horizontal) {
+                        HStack(spacing: 6) {
+                            ForEach(episodio.temporadas, id: \.self) { t in
+                                Button { temporada = t } label: {
+                                    Text("Temporada \(t)")
+                                        .font(.system(size: 13, weight: .medium))
+                                        .padding(.horizontal, 12).padding(.vertical, 6)
+                                        .foregroundStyle(temporada == t ? Color.black : Color.white)
+                                        .background(Capsule().fill(temporada == t ? Color.white : Color.white.opacity(0.1)))
+                                }
+                                .buttonStyle(.plain)
+                            }
                         }
                     }
-                    .labelsHidden()
-                    .pickerStyle(.menu)
-                    .frame(maxWidth: 200)
+                    .scrollIndicators(.hidden)
                 }
                 lista
             }
-            .padding(.top, 16)
+            .padding(.top, 18)
             .padding(.horizontal, 14)
             .frame(width: 400)
             .frame(maxHeight: .infinity, alignment: .top)
-            .background(Color.black.opacity(0.88))
-            .overlay(alignment: .leading) {
-                Rectangle().fill(Color.white.opacity(0.08)).frame(width: 1)
-            }
+            .vidroPainel(raio: 26, tinta: .black)
+            .padding(.top, Tema.alturaDaBarra + 6)
+            .padding([.trailing, .bottom], 14)
+            .environment(\.colorScheme, .dark)
         }
         .task(id: temporada) {
             detalhes = [:]
@@ -77,7 +85,7 @@ struct PainelEpisodios: View {
                     .font(.system(size: 12, weight: .semibold))
                     .foregroundStyle(.white.opacity(0.8))
                     .frame(width: 26, height: 26)
-                    .background(Color.white.opacity(0.1), in: Circle())
+                    .vidro(Circle(), interativo: true)
             }
             .buttonStyle(.plain)
             .help("Fechar (Esc)")

@@ -22,6 +22,11 @@ struct TelaRadios: View {
             await radios.carregar()
             destaque.padrao("Rádios", "\(radios.lista.count) rádios ao vivo",
                             "Clique para ouvir; o vídeo fica parado enquanto a rádio toca.")
+            // Para conferir a rádio tocando sem clicar: `--args -radioInicial nome`.
+            if radios.tocando == nil, let nome = UserDefaults.standard.string(forKey: "radioInicial"),
+               let radio = radios.lista.first(where: { $0.nome == nome }) {
+                radios.tocar(radio)
+            }
         }
     }
 

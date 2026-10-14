@@ -352,7 +352,7 @@ func botaoVoltar(_ texto: String, acao: @escaping () -> Void) -> some View {
         Label(texto, systemImage: "chevron.left")
             .font(.system(size: 14, weight: .medium))
             .padding(.horizontal, 12).padding(.vertical, 6)
-            .background(.white.opacity(0.1), in: Capsule())
+            .vidroCapsula(interativo: true)
     }
     .buttonStyle(.plain)
     .foregroundStyle(.white.opacity(0.85))

@@ -25,8 +25,9 @@ struct PainelDeCanais: View {
 
     var body: some View {
         let grupos = model.gruposDeCanais
-        let numeros = Dictionary(uniqueKeysWithValues:
-            grupos.flatMap(\.canais).enumerated().map { ($0.element.id, $0.offset + 1) })
+        // A mesma fonte pode aparecer duas vezes na lista: vale o primeiro número.
+        let numeros = Dictionary(grupos.flatMap(\.canais).enumerated().map { ($0.element.id, $0.offset + 1) },
+                                 uniquingKeysWith: { primeiro, _ in primeiro })
         VStack(alignment: .leading, spacing: 12) {
             HStack(alignment: .firstTextBaseline) {
                 Text("Canais")
@@ -107,7 +108,7 @@ struct PainelDeCanais: View {
                                 .padding(.top, 10)
                                 .padding(.leading, 6)
                                 .id("cat:" + grupo.categoria.rawValue)
-                                .onAppear { if categoria == nil { categoria = grupo.categoria } }
+                                .onAppear { categoria = grupo.categoria }
                             ForEach(grupo.canais) { canal in
                                 LinhaDeCanal(model: model, canal: canal, numero: numeros[canal.id] ?? 0,
                                              noAr: canal.id == model.selecaoDaLista)
@@ -133,7 +134,8 @@ struct PainelDeCanais: View {
         .padding(18)
         .frame(width: 400)
         .frame(maxHeight: .infinity)
-        .vidroPainel(raio: 26)
+        // Escurecido: sobre um gramado claro o texto branco sumia.
+        .vidroPainel(raio: 26, tinta: .black)
         .environment(\.colorScheme, .dark)
         .onExitCommand { interface.painelCanais = false }
     }
@@ -285,7 +287,7 @@ struct CartaoNoAr: View {
             .frame(maxWidth: 380, alignment: .leading)
         }
         .padding(16)
-        .vidroPainel(raio: 22)
+        .vidroPainel(raio: 22, tinta: .black)
     }
 
     private var arquivo: some View {
@@ -322,7 +324,7 @@ struct CartaoNoAr: View {
             .frame(maxWidth: 380, alignment: .leading)
         }
         .padding(16)
-        .vidroPainel(raio: 22)
+        .vidroPainel(raio: 22, tinta: .black)
     }
 
     private func hora(_ data: Date) -> String {

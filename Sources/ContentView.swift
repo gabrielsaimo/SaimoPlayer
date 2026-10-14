@@ -384,7 +384,7 @@ private struct ControlBar: View {
         }
         .padding(.horizontal, 18)
         .padding(.vertical, 12)
-        .vidroPainel(raio: 24)
+        .vidroPainel(raio: 24, tinta: .black)
         .environment(\.colorScheme, .dark)
         .shadow(color: .black.opacity(0.3), radius: 14, y: 4)
     }
@@ -564,6 +564,7 @@ private struct ControlBar: View {
         .font(.system(size: 15))
         .buttonStyle(.plain)
         .foregroundStyle(.white)
+        .tint(.white)
     }
 
     private var volume: some View {

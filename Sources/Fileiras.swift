@@ -333,7 +333,10 @@ struct FileiraView: View {
     private var setas: some View {
         if sobre, fila.cartoes.count > 3 {
             HStack {
-                seta("chevron.left", passo: -1)
+                // No começo da fileira não há para onde voltar.
+                if let primeiro, primeiro != fila.cartoes.first?.id {
+                    seta("chevron.left", passo: -1)
+                }
                 Spacer()
                 seta("chevron.right", passo: 1)
             }

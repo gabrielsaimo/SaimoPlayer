@@ -665,6 +665,9 @@ struct VodGridView: View {
             // Uma tela nova para cada série: a temporada e a fileira de uma
             // não podem vazar para a seguinte.
             .id(serie.id)
+            // O conteúdo começa abaixo da barra de vidro; a imagem larga
+            // continua passando por baixo dela.
+            .contentMargins(.top, Tema.alturaDaBarra, for: .scrollContent)
     }
 
     private func tocarEpisodio(_ serie: Serie, _ episodio: Episodio) {

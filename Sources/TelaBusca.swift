@@ -64,6 +64,8 @@ struct TelaBusca: View {
         }
         .task {
             focado = true
+            // Para conferir a tela sem digitar: `--args -buscaInicial nome`.
+            if texto.isEmpty, let inicial = UserDefaults.standard.string(forKey: "buscaInicial") { texto = inicial }
             await Generos.carregar()
             acervo = await Vod.todos()
             colecoes = await Vod.colecao("animes") + Vod.colecao("doramas")

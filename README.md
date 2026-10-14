@@ -70,6 +70,41 @@ tem um proxy HTTP local (`ProxyServer.swift`) e um ffmpeg embutido
 (`Remuxer.swift`) que remontam o que ele recusa. Também tem PiP, AirPlay e
 Chromecast (`Cast.swift`).
 
+Layout (`Tema.swift`, `BarraDoTopo.swift`, `Fileiras.swift`, `TelasDoAcervo.swift`,
+`AoVivo.swift`): o mesmo da TV Box, refeito para mouse, teclado e janela de
+qualquer tamanho, com Liquid Glass no macOS 26 (material translúcido no 15).
+No topo, a barra de vidro com o ícone, as abas (Buscar, Início, Ao vivo, Eventos,
+On Demand, Favoritos, Rádios), a engrenagem dos ajustes e o relógio; a aba aberta
+é uma cápsula que desliza até a escolhida, e ⌘1 a ⌘8 (menu Ir) levam a cada uma.
+O app abre no Início (ou no último canal, se os Ajustes mandarem):
+
+- Início, On Demand, as páginas de Filmes, Séries, Animes e Doramas, Eventos e
+  Rádios são telas em fileiras: o título sob o ponteiro em destaque no alto, com
+  nota, ano, temporadas, gêneros, sinopse e a imagem larga dele ao fundo; as
+  fileiras correm para o lado (setas de vidro aparecem com o mouse sobre elas).
+  Início: Continue assistindo, Ao vivo agora (cartões largos com logo, selo e o
+  programa no ar), Favoritos e os destaques. On Demand: cartões das quatro
+  categorias com colagem de capas, Continue assistindo, destaques, filmes por
+  gênero e o "de A a Z" de cada uma. Cada categoria tem Lançamentos, uma fileira
+  por gênero com "Ver todos" e "Todos de A a Z".
+- A grade de A a Z (e Favoritos) tem as letras numa coluna de vidro, gênero,
+  ordem (A a Z ou mais novos primeiro) e busca no alto.
+- Ao vivo é o vídeo com a lista de canais de vidro à esquerda (⇧⌘L ou o botão da
+  barra de controles): número, logo, nome, programa e progresso, categorias em
+  pílulas e busca; no canto, o cartão do programa no ar. Controles, barra do
+  tempo de filme e painel de episódios também são de vidro. A lista em janela
+  separada continua nos Ajustes.
+- Eventos: o jogo sob o ponteiro em destaque e fileiras por horário, com selo
+  (ao vivo com placar ou horário), logo da liga, escudos e canal.
+- Rádios (`Radios.swift`, `TelaRadios.swift`): a mesma lista da TV
+  (`vod/radios.txt`), em fileiras de ouvidas por último, por estilo e de A a Z;
+  a que toca aparece no alto com o equalizador e na barra do topo. Toca num
+  player só dela, e o ao vivo volta (e a rádio para) ao abrir Ao vivo.
+- Buscar: filmes, séries, animes, doramas e canais enquanto se digita, sem
+  ligar para acento, com as buscas recentes.
+- Ajustes: reprodução, o que abrir ao iniciar, lista em janela separada,
+  importar/adicionar/exportar canais, guia e atualização.
+
 Na 2.0: botão de pular abertura, cartão do próximo episódio (Return assiste,
 Esc dispensa), troca de fonte quando o arquivo "termina" cedo demais e abertura
 no último canal assistido.
