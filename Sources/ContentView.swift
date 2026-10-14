@@ -14,15 +14,19 @@ struct ContentView: View {
     /// Em tela cheia a barra de cima (com o botão da lista) some: só o vídeo.
     @State private var telaCheia = false
 
-    /// A abertura animada cobre a janela só na primeira vez que ela aparece.
+    /// Enquanto a abertura animada cobre a janela; a lista de canais (outra
+    /// janela, ao lado) espera ela sair.
     @State private var abertura = true
 
     var body: some View {
         principal
-            .overlay {
-                if abertura {
-                    Abertura { abertura = false }
+            .background {
+                // Põe a abertura por cima da janela inteira (ver `Abertura`).
+                Abertura {
+                    abertura = false
+                    if model.detachedList { SidebarWindowController.shared.open(model: model) }
                 }
+                .frame(width: 0, height: 0)
             }
             .frame(minWidth: 720, minHeight: 460)
             .sheet(item: $atualizacao.disponivel) { versao in
@@ -54,11 +58,9 @@ struct ContentView: View {
             .onReceive(NotificationCenter.default.publisher(for: NSWindow.willExitFullScreenNotification)) { _ in
                 telaCheia = false
             }
-            .onAppear {
-                if model.detachedList { SidebarWindowController.shared.open(model: model) }
-            }
             .onChange(of: model.detachedList) { _, detached in
-                if detached {
+                // A lista é outra janela: só abre quando a abertura sai.
+                if detached, !abertura {
                     SidebarWindowController.shared.open(model: model)
                 } else {
                     SidebarWindowController.shared.close()

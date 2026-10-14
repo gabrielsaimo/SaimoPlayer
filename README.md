@@ -75,9 +75,11 @@ Esc dispensa), troca de fonte quando o arquivo "termina" cedo demais e abertura
 no último canal assistido.
 
 Abertura (`Abertura.swift`): ao abrir, a animação do logo (`abertura/abertura-h.mp4`,
-copiada para o app pelo `build.sh`) ocupa a janela, sem som, com o fundo já no
-azul-marinho dela para não piscar. Clique ou qualquer tecla pula; no fim, esmaece
-para o app. Se o vídeo não começar em 1,5 s, a abertura sai da frente.
+copiada para o app pelo `build.sh`) cobre a janela inteira, barra de título e
+controles inclusive, sem som e com o fundo já no azul-marinho dela para não
+piscar. O último canal abre por baixo, mudo, e a lista de canais espera a
+abertura sair. Clique ou qualquer tecla pula; no fim, esmaece para o app. Se o
+vídeo não começar em 1,5 s, a abertura sai da frente.
 
 Multi tela (`MultiTela.swift`): dois canais ao vivo lado a lado, pelo botão da
 barra de controles ou em Vídeo > Multi tela. Só a tela ativa (borda colorida)

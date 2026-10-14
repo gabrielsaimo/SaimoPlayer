@@ -42,6 +42,9 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var generatedLink: URL?
     @Published var volume: Double = 1.0 { didSet { applyVolume() } }
     @Published var isMuted = false { didSet { applyVolume() } }
+    /// Sem som enquanto a abertura do app está na tela: o último canal já
+    /// abre por baixo dela. Não é guardado, ao contrário do mudo.
+    var silenciadoPelaAbertura = false { didSet { applyVolume() } }
     @Published var rate: Float = 1.0 { didSet { if isPlaying { player.rate = rate } } }
     @Published var fillScreen = false
     @Published var isPiPActive = false
@@ -1266,8 +1269,9 @@ final class PlayerModel: NSObject, ObservableObject {
         // canal, o som continua com a principal.
         let somNaSegunda = multiTela && segundaAtiva && segunda.canal != nil
         player.volume = Float(volume)
-        player.isMuted = isMuted || somNaSegunda
-        segunda.aplicarSom(volume: volume, mudo: isMuted || !somNaSegunda)
+        let mudo = isMuted || silenciadoPelaAbertura
+        player.isMuted = mudo || somNaSegunda
+        segunda.aplicarSom(volume: volume, mudo: mudo || !somNaSegunda)
         Store.setVolume(volume)
     }
 
