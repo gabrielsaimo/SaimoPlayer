@@ -684,10 +684,15 @@ struct VodGridView: View {
         model.episodioPendente = EpisodioNoAr(
             serie: serie.nomeCompleto, temporada: episodio.temporada,
             numero: episodio.numero, versao: episodio.versao, lista: estado.episodios)
+        let detalhe = "Temporada \(episodio.temporada), episódio \(episodio.numero)"
+        // Série que já vem tocando: a fonte de sempre vai no topo da lista,
+        // e um clique (ou Enter) a mantém. A pessoa ainda escolhe outra.
+        let preferidas = model.fontesPreferidas(serie: serie.nomeCompleto, urls: episodio.urls)
         escolherFonte(nome: serie.nomeCompleto,
-                      fontes: [episodio.versao: episodio.urls],
-                      detalhe: "Temporada \(episodio.temporada), episódio \(episodio.numero)",
-                      chave: chave)
+                      fontes: [episodio.versao: preferidas],
+                      detalhe: detalhe,
+                      chave: chave,
+                      manterOrdem: model.fonteLembrada(serie.nomeCompleto))
     }
 
     /// Um título vindo da filmografia de um ator: filme abre a ficha, série
@@ -824,7 +829,8 @@ struct VodGridView: View {
     /// Uma única fonte abre direto. Com duas ou mais, nenhuma ganha prioridade
     /// escondida: idioma, número e servidor ficam visíveis antes do play.
     private func escolherFonte(nome: String, fontes: [String: [String]],
-                               detalhe: String, chave: String) {
+                               detalhe: String, chave: String,
+                               manterOrdem: Bool = false) {
         let ordenadas = fontes.keys.sorted {
             let esquerda = ($0 == "leg" ? 1 : 0, $0)
             let direita = ($1 == "leg" ? 1 : 0, $1)
@@ -833,7 +839,8 @@ struct VodGridView: View {
         let pares = ordenadas.flatMap { versao -> [(String, String)] in
             // Dentro de um idioma, a de maior resolução primeiro: é ela que
             // toca quando ninguém escolhe nada.
-            let lista = (fontes[versao] ?? []).sorted {
+            let original = fontes[versao] ?? []
+            let lista = manterOrdem ? original : original.sorted {
                 Vod.posicao(daQualidade: Vod.qualidade(de: $0))
                     < Vod.posicao(daQualidade: Vod.qualidade(de: $1))
             }

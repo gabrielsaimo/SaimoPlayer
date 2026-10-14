@@ -59,6 +59,9 @@ app procura a versão nova ali e se oferece para atualizar.
 - Filmes, séries, animes e doramas com ficha, elenco e episódios
 - Pular abertura e recapitulação com tempos do [TheIntroDB](https://theintrodb.org)
 - Próximo episódio nos créditos e continuar de onde parou
+- O episódio seguinte (automático, botão ou painel; na tela da série vai no topo da escolha) toca pela
+  mesma fonte que vinha tocando: a do mesmo provedor, senão a da mesma posição,
+  senão a ordem de sempre; as outras ficam de reserva (`FontePreferida.swift`)
 - Favoritos, busca, áudio, legendas e qualidade; filmes e séries ganham legendas do
   OpenSubtitles (pt-BR, pt-PT, inglês, espanhol) com ajuste de sincronia, sem chave
   nem cadastro (`Sources/Legendas.swift`)

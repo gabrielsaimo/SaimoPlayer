@@ -199,6 +199,8 @@ final class PlayerModel: NSObject, ObservableObject {
     private var fileSourceIndex = 0
     /// Se a fonte atual já foi tentada pelo atalho local.
     private var fonteViaProxy = false
+    /// A fonte em que a série no ar vem tocando; vale só para esta sessão.
+    private var fontePreferida: FontePreferida.Memoria?
 
     /// Um master HLS publicado como `.txt` precisa passar pelo proxy de
     /// playlists desde o primeiro pedido. Servi-lo direto faz o AVFoundation
@@ -378,6 +380,7 @@ final class PlayerModel: NSObject, ObservableObject {
         guardarProgresso(forcado: true)
         UserDefaults.standard.set(channel.name, forKey: "ultimoCanal")
         episodioNoAr = nil
+        fontePreferida = nil
         painelEpisodios = false
         marcas = nil
         zerarLegendasExternas()
@@ -418,6 +421,8 @@ final class PlayerModel: NSObject, ObservableObject {
         aoVivoPendente = false
         episodioNoAr = episodioPendente
         episodioPendente = nil
+        // Outra série (ou um filme): a fonte lembrada deixa de valer.
+        if fontePreferida?.serie != episodioNoAr?.serie { fontePreferida = nil }
         marcas = nil
         proximoDesde = nil
         proximoDispensado = false
@@ -604,12 +609,39 @@ final class PlayerModel: NSObject, ObservableObject {
     func tocarEpisodio(_ escolhido: Episodio) {
         guard let ep = episodioNoAr else { return }
         let rotulo = escolhido.versao == "leg" ? "Legendado" : "Dublado"
+        let urls = fontesPreferidas(serie: ep.serie, urls: escolhido.urls)
         episodioPendente = EpisodioNoAr(serie: ep.serie, temporada: escolhido.temporada,
                                         numero: escolhido.numero, versao: escolhido.versao, lista: ep.lista)
-        playFile(escolhido.urls.compactMap(URL.init(string:)), nome: ep.serie,
+        playFile(urls.compactMap(URL.init(string:)), nome: ep.serie,
                  detalhe: "Temporada \(escolhido.temporada), episódio \(escolhido.numero) · \(rotulo)",
                  chave: Progresso.chaveEpisodio(ep.serie, escolhido.temporada, escolhido.numero))
     }
+
+    /// Guarda a fonte que está de fato no ar (a escolhida, a de fábrica ou a
+    /// que o player desceu sozinho) como a preferida para o resto da série.
+    private func lembrarFonteNoAr() {
+        guard let ep = episodioNoAr, playingFile != nil,
+              fileSources.indices.contains(fileSourceIndex) else { return }
+        let url = fileSources[fileSourceIndex].absoluteString
+        // A posição é na lista do próprio episódio, não na que foi reordenada.
+        let doEpisodio = ep.lista.first {
+            $0.temporada == ep.temporada && $0.numero == ep.numero && $0.versao == ep.versao
+        }?.urls ?? []
+        let posicao = doEpisodio.firstIndex { URL(string: $0)?.absoluteString == url } ?? fileSourceIndex
+        fontePreferida = FontePreferida.Memoria(
+            serie: ep.serie, host: FontePreferida.host(de: url), posicao: posicao)
+    }
+
+    /// As fontes do próximo episódio da série no ar, com a de sempre na frente.
+    /// Sem nada lembrado (ou noutra série), devolve a lista como veio.
+    func fontesPreferidas(serie: String, urls: [String]) -> [String] {
+        if episodioNoAr?.serie == serie { lembrarFonteNoAr() }
+        guard let m = fontePreferida, m.serie == serie else { return urls }
+        return FontePreferida.ordenar(urls, host: m.host, posicao: m.posicao)
+    }
+
+    /// Se há fonte lembrada para esta série.
+    func fonteLembrada(_ serie: String) -> Bool { fontePreferida?.serie == serie }
 
     /// A cada volta do relógio: sobe o cartão nos créditos e segue sozinho.
     private func acompanharEpisodio() {
