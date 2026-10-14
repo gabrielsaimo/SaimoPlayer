@@ -26,31 +26,22 @@ jobs:
       # e sem ele toda execução recomeçaria do zero — uma hora por dia batendo
       # de novo no que já foi resolvido ontem. Guardando entre as execuções, o
       # dia seguinte só pega o que entrou.
-      - name: Recuperar o cache do resolvedor
-        uses: actions/cache@v4
-        with:
-          path: arquivos-gerados/redeflix
-          key: redeflix-${{ github.run_id }}
-          restore-keys: |
-            redeflix-
-      - name: Resolver IDs e episódios novos
-        run: python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96
-      - name: Atualizar animes e doramas e recuperar episódios que voltaram
-        run: >-
-          python3 atualizar_redeflix.py --gerar --categorias animes,doramas
-          --repetir-indisponiveis --workers 48
-          --tentativas-indisponiveis 2 --delay-episodio 0.05
-          --somente-titulos-publicados
-      # Logo depois, e não noutro workflow: ele lê vod/redeflix/links-*.txt
-      # para montar as fileiras de animes e doramas, então precisa ver o que
-      # os passos acima acabaram de gravar.
+      - name: Fontes da lista principal (nixplay)
+        run: python3 atualizar_nixplay.py
+      - name: Montar o acervo consolidado
+        run: python3 gerar_vod.py
+      - name: Capas e gêneros dos títulos novos
+        run: python3 gerar_generos.py
+      - name: IDs do IMDb dos títulos novos (legendas)
+        run: python3 gerar_imdb.py
       - name: Montar as fileiras da tela inicial
         run: python3 gerar_destaques.py
-
+      - name: Registrar novidades da rodada
+        run: python3 gerar_novidades.py
       - name: Publicar somente quando houver alterações
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vod/redeflix vod/destaques.txt atualizar_redeflix.py
+          git add -A vod
           git diff --cached --quiet || git commit -m "Atualiza catálogo e destaques"
           git push

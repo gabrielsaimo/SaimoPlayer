@@ -2,45 +2,18 @@
 #
 # Atualiza o catálogo inteiro e as fileiras da tela inicial, e publica.
 #
-# Seis passos, nesta ordem, porque cada um lê o que o anterior escreveu:
-#
-#   1. atualizar_redeflix.py  filmes e séries novos do Redeflix (vod/redeflix)
-#   2. atualizar_redeflix.py  animes e doramas: episódios novos e títulos novos
-#   3. atualizar_nixplay.py   a lista principal de filmes e séries (nixplay)
-#   4. gerar_vod.py           o acervo que os apps mostram: nixplay na frente,
-#                             listas M3U e o que o Redeflix resolveu, sem
-#                             perder os links antigos
-#   5. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
+# Passos:
+#   1. atualizar_nixplay.py   a lista principal de filmes e séries (nixplay)
+#   2. gerar_vod.py           o acervo que os apps mostram: nixplay na frente,
+#                             listas M3U e o acervo consolidado existente
+#   3. gerar_generos.py       capa e gênero de cada título (fichas.txt); só
 #                             pergunta ao TMDB pelos que ainda não conhece
-#   6. gerar_destaques.py     as fileiras da tela inicial
+#   4. gerar_imdb.py          ids do IMDb dos títulos novos (legendas)
+#   5. gerar_destaques.py     as fileiras da tela inicial
+#   6. gerar_novidades.py     registra o que entrou e o que mudou na rodada
 #
-# O FenixFlix saiu de vez em 13/10/2026: a nixplay virou a lista principal e
-# cobre o que ele cobria, sem as 12.000 perguntas por dia.
-#
-# Até 21/09/2026 só o 1, o 2 e o 5 rodavam: os filmes e séries novos ficavam
-# resolvidos em vod/redeflix sem que app nenhum os lesse, anime novo nunca
-# entrava, e título novo ficava sem capa.
-#
-# O mesmo trabalho existe num workflow do GitHub, que roda sozinho de
-# madrugada. Enquanto a conta estiver travada por cobrança, este aqui faz o
-# serviço na própria máquina — e os dois podem conviver: o que um publicar, o
-# outro encontra publicado.
-#
-#   ./atualizar_tudo.sh              tudo: fontes novas e fileiras
+#   ./atualizar_tudo.sh              tudo: nixplay, acervo, capas e fileiras
 #   ./atualizar_tudo.sh --destaques  só as fileiras (rápido, uns dois minutos)
-#   ./atualizar_tudo.sh --completo   varre a lista inteira do Redeflix: tenta de
-#                                    novo todo filme e episódio indisponível ou
-#                                    com erro, de todo título (horas, não minutos)
-#   ./atualizar_tudo.sh --completo=series        a mesma varredura, só nas
-#                                    categorias dadas (filmes,series,animes,doramas)
-#   ./atualizar_tudo.sh --faltando-series        completa as séries que o app já
-#                                    tem, uma a uma e em ordem: para no primeiro
-#                                    episódio que não achar, para não deixar a
-#                                    série com episódios salteados
-#   ./atualizar_tudo.sh --dublados   tudo, e procura de novo o dublado de TODO
-#                                    filme e episódio que o app só tem legendado
-#                                    (na rodada normal, só o que não foi tentado
-#                                    na última semana)
 #   ./atualizar_tudo.sh --sem-subir  faz, mostra, mas não commita nem empurra
 #
 # Sem terminal nenhum, todo dia: ver `scripts/agendar_atualizacao.sh`.
@@ -52,19 +25,10 @@ TRAVA="arquivos-gerados/atualizacao.lock"
 mkdir -p arquivos-gerados
 
 somente_destaques=0
-completo=0
-categorias_completo="filmes,series,animes,doramas"
-so_do_acervo=""
 subir=1
-dias_dublados=7
 for argumento in "$@"; do
   case "$argumento" in
-    --dublados) dias_dublados=0 ;;
     --destaques) somente_destaques=1 ;;
-    --completo) completo=1 ;;
-    --completo=*) completo=1; categorias_completo="${argumento#--completo=}" ;;
-    --faltando-series) completo=1; categorias_completo="series"
-                       so_do_acervo="--somente-series-do-acervo --em-ordem" ;;
     --sem-subir) subir=0 ;;
     *) echo "opção desconhecida: $argumento" >&2; exit 2 ;;
   esac
@@ -87,7 +51,7 @@ anotar() {
   printf '[%s] %s\n' "$(date '+%d/%m %H:%M:%S')" "$*" | tee -a "$REGISTRO"
 }
 
-anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || { [ $completo = 1 ] && echo "varredura completa" || echo "tudo"; }))"
+anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || echo "tudo"))"
 
 # O agendamento roda numa cópia à parte (ver scripts/agendar_atualizacao.sh),
 # e o que for publicado de outro lugar — um script corrigido, um catálogo
@@ -96,42 +60,14 @@ anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || { [
 git pull -q --rebase --autostash origin main 2>>"$REGISTRO" \
   || anotar "não deu para puxar do GitHub; seguindo com o que há aqui"
 
-if [ "$somente_destaques" = 0 ] && [ "$completo" = 1 ]; then
-  # Uma passada só, as quatro categorias, sem --somente-titulos-publicados:
-  # todo título, todo indisponível e todo erro de novo. O que já foi
-  # encontrado não é tocado.
-  anotar "varredura ($categorias_completo): $([ -n "$so_do_acervo" ] && echo "completando as séries do acervo, em ordem" || echo "tudo que falta")"
-  python3 atualizar_redeflix.py --gerar --categorias "$categorias_completo" $so_do_acervo \
-    --repetir-indisponiveis --repetir-erros --workers 96 \
-    --tentativas-indisponiveis 2 --delay-episodio 0.05 \
-    >>"$REGISTRO" 2>&1 || anotar "varredura: falhou, seguindo assim mesmo"
-elif [ "$somente_destaques" = 0 ]; then
-  anotar "resolvendo filmes e séries"
-  python3 atualizar_redeflix.py --gerar --categorias filmes,series --workers 96 \
-    >>"$REGISTRO" 2>&1 || anotar "filmes e séries: falhou, seguindo assim mesmo"
-
-  anotar "resolvendo animes e doramas"
-  python3 atualizar_redeflix.py --gerar --categorias animes,doramas \
-    --repetir-indisponiveis --workers 48 \
-    --tentativas-indisponiveis 2 --delay-episodio 0.05 \
-    --somente-titulos-publicados \
-    >>"$REGISTRO" 2>&1 || anotar "animes e doramas: falhou, seguindo assim mesmo"
-fi
-
 if [ "$somente_destaques" = 0 ]; then
-  # O que o app só tem legendado: procura o dublado pelo id do TMDB. Lê o
-  # acervo publicado, então o que entrar legendado hoje é procurado amanhã.
-  anotar "procurando dublado do que só tem legendado$([ "$dias_dublados" = 0 ] && echo " (tudo de novo)")"
-  python3 dublar_legendados.py --workers 96 --dias-repescagem "$dias_dublados" \
-    >>"$REGISTRO" 2>&1 || anotar "dublados: falhou, seguindo assim mesmo"
-
   anotar "fontes da lista principal (nixplay)"
   python3 atualizar_nixplay.py \
     >>"$REGISTRO" 2>&1 || anotar "nixplay: falhou, seguindo assim mesmo"
 
   # Se o acervo não se remontar, o resto segue com o de ontem: melhor que
   # parar a atualização inteira por causa de uma lista M3U fora do ar.
-  anotar "montando o acervo (listas M3U + Redeflix + nixplay)"
+  anotar "montando o acervo consolidado (listas M3U + nixplay)"
   python3 gerar_vod.py >>"$REGISTRO" 2>&1 \
     || { anotar "acervo: falhou, voltando ao publicado"; git checkout -q -- ":(glob)vod/*.txt"; }
 
