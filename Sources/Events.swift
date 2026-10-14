@@ -57,7 +57,8 @@ enum Eventos {
     }
 
     private static func baixar(_ url: URL) async -> Data? {
-        var pedido = URLRequest(url: url, timeoutInterval: 15)
+        // Prazo de 8 s: a embedtv às vezes não responde, e a tela não espera por ela.
+        var pedido = URLRequest(url: url, timeoutInterval: 8)
         pedido.setValue("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)", forHTTPHeaderField: "User-Agent")
         guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode) else { return nil }
@@ -168,11 +169,14 @@ enum Eventos {
             for await lidos in grupo { todos += lidos }
             return todos
         }
-        guard let dados = await corpo else { return nil }
-        let daEmbed = lerAgenda(dados, canais)
+        let dados = await corpo
+        let respostaMonitor = await doMonitor
+        // Sem a embedtv a tela continua com os jogos do monitor; só some se as duas caírem.
+        if dados == nil && respostaMonitor == nil { return nil }
+        let daEmbed = dados.map { lerAgenda($0, canais) } ?? []
         // Jogo do monitor que a embedtv já tem (mesmos times, começo a menos de
         // meia hora) não entra de novo.
-        let extras = (await doMonitor).map { lerAgenda($0, canais) }?.filter { x in
+        let extras = respostaMonitor.map { lerAgenda($0, canais) }?.filter { x in
             !daEmbed.contains { e in
                 abs(e.inicio.timeIntervalSince(x.inicio)) < hora / 2 &&
                     ((mesmoTime(e.casa, x.casa) && mesmoTime(e.fora, x.fora)) ||
