@@ -111,16 +111,7 @@ struct BarraDoTopo: View {
     var body: some View {
         let atual = Aba.de(estado.secao)
         ZStack {
-            // As abas de navegação perfeitamente centralizadas na largura da tela
-            GrupoDeVidro(espacamento: 4) {
-                ViewThatFits(in: .horizontal) {
-                    fileiraDeAbas(atual, comNome: true)
-                    fileiraDeAbas(atual, comNome: false)
-                }
-            }
-            .frame(maxWidth: .infinity, alignment: .center)
-
-            // Elementos das extremidades (esquerda e direita)
+            // Elementos das extremidades (esquerda e direita) e área arrastável ao fundo
             HStack(spacing: 10) {
                 Image(nsImage: NSApp.applicationIconImage)
                     .resizable()
@@ -156,6 +147,16 @@ struct BarraDoTopo: View {
                     .padding(.leading, 4)
                     .padding(.trailing, 22)
             }
+            .zIndex(1)
+
+            // As abas de navegação perfeitamente centralizadas e no topo da pilha de cliques
+            GrupoDeVidro(espacamento: 4) {
+                ViewThatFits(in: .horizontal) {
+                    fileiraDeAbas(atual, comNome: true)
+                    fileiraDeAbas(atual, comNome: false)
+                }
+            }
+            .zIndex(10)
         }
         .frame(height: Tema.alturaDaBarra)
         .background(alignment: .top) {
