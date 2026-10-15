@@ -408,15 +408,34 @@ private struct ControlBar: View {
                 .help(model.isPlaying ? "Pausar (Espaço)" : "Tocar (Espaço)")
             }
 
-            Button(action: model.step0) {
-                Image(systemName: "backward.end.fill")
-            }
-            .help("Canal anterior")
+            if model.playingFile != nil {
+                Button { model.pular(-10) } label: {
+                    Image(systemName: "gobackward.10")
+                }
+                .help("Voltar 10 segundos (←)")
 
-            Button(action: model.step1) {
-                Image(systemName: "forward.end.fill")
+                Button { model.pular(10) } label: {
+                    Image(systemName: "goforward.10")
+                }
+                .help("Avançar 10 segundos (→)")
+
+                if model.episodioNoAr != nil {
+                    Button { model.painelEpisodios.toggle() } label: {
+                        Image(systemName: "square.stack")
+                    }
+                    .help("Episódios (E)")
+                }
+            } else {
+                Button(action: model.step0) {
+                    Image(systemName: "backward.end.fill")
+                }
+                .help("Canal anterior")
+
+                Button(action: model.step1) {
+                    Image(systemName: "forward.end.fill")
+                }
+                .help("Próximo canal")
             }
-            .help("Próximo canal")
 
             if model.playingFile == nil { LiveBadge(model: model) }
 

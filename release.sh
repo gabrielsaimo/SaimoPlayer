@@ -15,7 +15,7 @@ cd "$(dirname "$0")"
 
 PLIST="Info.plist"
 GRADLE="../SaimoTV-Android/app/build.gradle.kts"
-JAVA17="/opt/homebrew/Cellar/openjdk@17/17.0.19/libexec/openjdk.jdk/Contents/Home"
+JAVA17="/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home"
 
 versao="${1:-}"
 if [ -n "$versao" ] && [ "${versao:0:2}" != "--" ]; then

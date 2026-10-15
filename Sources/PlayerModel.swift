@@ -405,6 +405,31 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
+    /// Encerra qualquer arquivo de VOD (filme/série) em reprodução e retorna
+    /// imediatamente ao canal de TV ao vivo ativo.
+    func voltarAoVivo() {
+        guardarProgresso(forcado: true)
+        stop()
+        playingFile = nil
+        playingFileName = ""
+        playingFileDetail = ""
+        chaveArquivo = ""
+        episodioNoAr = nil
+        painelEpisodios = false
+        fileSources = []
+        fileSourceIndex = 0
+        aoVivoPendente = false
+        if let canal = canalAtivo ?? channels.first(where: { $0.id == selection }) ?? channels.first {
+            if selection != canal.id {
+                selection = canal.id
+            } else {
+                play()
+            }
+        } else {
+            play()
+        }
+    }
+
     /// Toca um arquivo — filme ou episódio — em vez de um canal.
     ///
     /// Vai direto ao endereço, sem passar pelo proxy: um mp4 progressivo o
