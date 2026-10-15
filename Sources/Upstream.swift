@@ -77,14 +77,65 @@ final class Upstream: @unchecked Sendable {
         return URL(string: texto.replacingCharacters(in: inicio..<fim, with: aberto)) ?? url
     }
 
+    private var dadinhoCache: [String: (quando: Date, m3u8: URL)] = [:]
+
+    private func resolverDadinhoSeNecessario(_ url: URL) -> (url: URL, referer: String?) {
+        let abs = url.absoluteString
+        guard abs.contains("dadinhodetapioca.fun/play/") else { return (url, nil) }
+
+        lock.lock()
+        if let entry = dadinhoCache[abs], Date().timeIntervalSince(entry.quando) < 5400 {
+            lock.unlock()
+            return (entry.m3u8, "https://dadinhodetapioca.fun/")
+        }
+        lock.unlock()
+
+        var req = URLRequest(url: url)
+        req.setValue("https://rdcanais.org/", forHTTPHeaderField: "Referer")
+        req.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
+        let sem = DispatchSemaphore(value: 0)
+        let caixaHtml = Caixa<String>()
+        session.dataTask(with: req) { data, _, _ in
+            defer { sem.signal() }
+            if let data, let str = String(data: data, encoding: .utf8) {
+                caixaHtml.valor = str
+            }
+        }.resume()
+        _ = sem.wait(timeout: .now() + 5)
+
+        if let html = caixaHtml.valor,
+           let range = html.range(of: "STREAM_URLS\\s*=\\s*\\[\\s*\"([^\"]+)\"", options: .regularExpression) {
+            let match = String(html[range])
+            if let start = match.firstIndex(of: "\""),
+               let end = match.lastIndex(of: "\""), start < end {
+                let raw = String(match[match.index(after: start)..<end]).replacingOccurrences(of: "\\/", with: "/")
+                if let m3u8Url = URL(string: raw) {
+                    lock.lock()
+                    dadinhoCache[abs] = (Date(), m3u8Url)
+                    lock.unlock()
+                    return (m3u8Url, "https://dadinhodetapioca.fun/")
+                }
+            }
+        }
+        return (url, nil)
+    }
+
     func fetch(_ endereco: URL, method: String = "GET", referer: String? = nil) throws -> UpstreamResponse {
-        let url = Upstream.hostLegivel(endereco)
+        var url = Upstream.hostLegivel(endereco)
+        var ref = referer
+        if url.absoluteString.contains("dadinhodetapioca.fun/play/") {
+            let res = resolverDadinhoSeNecessario(url)
+            url = res.url
+            if let r = res.referer { ref = r }
+        } else if url.host?.contains("tiktokcdn") == true {
+            ref = "https://dadinhodetapioca.fun/"
+        }
         do {
-            return try fetchViaURLSession(url, method: method, referer: referer)
+            return try fetchViaURLSession(url, method: method, referer: ref)
         } catch let e as NSError where e.domain == NSURLErrorDomain
             && (e.code == NSURLErrorCannotFindHost || e.code == NSURLErrorDNSLookupFailed) {
             Log.shared.write("DNS do sistema bloqueou \(url.host ?? "?") — usando DoH")
-            return try fetchViaRawTLS(url, method: method, referer: referer, redirectsLeft: 4)
+            return try fetchViaRawTLS(url, method: method, referer: ref, redirectsLeft: 4)
         }
     }
 
@@ -113,10 +164,16 @@ final class Upstream: @unchecked Sendable {
             for (k, v) in http.allHeaderFields {
                 headers[String(describing: k).lowercased()] = String(describing: v)
             }
+            var bodyData = data ?? Data()
+            if bodyData.count > 68,
+               bodyData[0] == 0x89, bodyData[1] == 0x50, bodyData[2] == 0x4e, bodyData[3] == 0x47,
+               bodyData[67] == 0x47 {
+                bodyData = bodyData.subdata(in: 67..<bodyData.count)
+            }
             caixa.valor = .success(UpstreamResponse(
                 status: http.statusCode,
                 headers: headers,
-                body: data ?? Data(),
+                body: bodyData,
                 finalURL: http.url ?? url))
         }
         task.resume()
