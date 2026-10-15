@@ -106,15 +106,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDg4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/ae.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Adult Swim
 categoria: Variedades
 logo: https://img.faz-o-eli.online/adultswim.png
 
+fonte: https://dadinhodetapioca.fun/play/adultswim.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/adultswim/adultswim.m3u8
@@ -148,15 +146,13 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQyMDQ5Lm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/adultswim.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: AMC
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/amc.png
 
+fonte: https://dadinhodetapioca.fun/play/amc.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/amc/amc.m3u8
@@ -198,15 +194,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1Mjk2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/amc.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Animal Planet
 categoria: Documentários
 logo: https://img.faz-o-eli.online/animalplanet.png
 
+fonte: https://dadinhodetapioca.fun/play/animalplanet.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/animalplanet/animalplanet.m3u8
@@ -256,15 +250,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDA4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/animalplanet.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Band
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
 
+fonte: https://dadinhodetapioca.fun/play/band.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/BAND_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324357.m3u8
@@ -274,10 +266,14 @@ qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324376.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
+
 canal: Cartoon Network
 categoria: Infantil
 logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
+fonte: https://dadinhodetapioca.fun/play/cartoonnetwork.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cartoonnetwork/cartoonnetwork.m3u8
@@ -324,11 +320,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDAxLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/cartoonnetwork.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: CNN Brasil
 categoria: Notícias
@@ -385,11 +376,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: SD
 fonte: https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01391-addigital-cnnbrasil-lgbr/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38117ced415e9d48746cf128627ec159cc4f196da11d7d28c32f85ee7360d5b762e988421a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9faab4c0d78eaf7b923c8c04fe968932a6a54d2d6641655a4e274dd8/197/1920x1080_7582265/index.m3u8
 
-fonte: https://dadinhodetapioca.fun/play/cnnbrasil.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: CNN Brasil Money
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/cnn-brasil-money.png
@@ -427,6 +413,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/295486.m3u8
 qualidade: 4K
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/295482.m3u8
 qualidade: FHD · 1920x1080
+
 canal: E!
 categoria: Variedades
 logo: https://commons.wikimedia.org/wiki/Special:FilePath/E%21_Logo_Flat_2012.svg?width=300
@@ -474,6 +461,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTAwLm0zdTg.m3u8
 qualidade: SD
+
 canal: GE TV
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/ge-tv.png
@@ -499,6 +487,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMjExODE2MS5tM3U4.m3u8
 qualidade: SD
+
 canal: GloboNews
 categoria: Notícias
 logo: https://img.faz-o-eli.online/globonews.png
@@ -555,11 +544,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDcxLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/globonews.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globoplay Novelas
 categoria: Filmes e Séries
@@ -622,11 +606,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTUxLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/globonovelas.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: GNT
 categoria: Variedades
@@ -691,15 +670,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTEyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/gnt.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: History
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history.png
 
+fonte: https://dadinhodetapioca.fun/play/history.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HISTORY_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/history/history.m3u8
@@ -755,15 +732,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDUyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/history.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: History 2
 categoria: Documentários
 logo: https://img.faz-o-eli.online/history2.png
 
+fonte: https://dadinhodetapioca.fun/play/history2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/history2/history2.m3u8
@@ -796,11 +771,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/304498.m3u8
 qualidade: FHD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/304500.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/history2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Jovem Pan News
 categoria: Notícias
@@ -846,6 +816,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDc0Lm0zdTg.m3u8
 qualidade: SD
 fonte: https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+
 canal: Megapix
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/megapix.png
@@ -905,11 +876,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzE5Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/megapix.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Multishow
 categoria: Variedades
 logo: https://img.faz-o-eli.online/multishow.png
@@ -958,11 +924,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTMyLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/multishow.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Premiere 2
 categoria: Esportes
@@ -1020,11 +981,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQyLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/premiere.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Premiere 3
 categoria: Esportes
@@ -1085,11 +1041,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQ1Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/premiere3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Premiere 4
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1145,11 +1096,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzQ4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/premiere4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Premiere 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1157,6 +1103,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 
+fonte: https://dadinhodetapioca.fun/play/premiere5.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere5/premiere5.m3u8
@@ -1208,11 +1157,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzUxLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/premiere5.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Premiere 6
 categoria: Esportes
@@ -1271,11 +1215,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzU0Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/premiere6.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Premiere 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1331,11 +1270,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzU3Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/premiere7.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Premiere 8
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/premiere.png
@@ -1387,11 +1321,6 @@ qualidade: HD
 fonte: http://45.185.11.126:8000/play/a05l/index.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/premiere8.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Premiere Clubes
 categoria: Esportes
 logo: https://img.faz-o-eli.online/premiere.png
@@ -1399,6 +1328,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 
+fonte: https://dadinhodetapioca.fun/play/premiereclubes.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://16-5-0-235.sslip.io/premiereclubes/index.m3u8
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
 qualidade: Qualidade não informada
@@ -1437,11 +1369,6 @@ qualidade: HD · 1280x720
 fonte: http://45.185.11.126:8000/play/a06g/index.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/premiere.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SBT
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/sbt.png
@@ -1468,6 +1395,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9084.m3u8
 qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30120.m3u8
 qualidade: HD
+
 canal: SBT News
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/sbt-news.png
@@ -1487,6 +1415,7 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMjE0NjU0MS5tM3U4.m3u8
 qualidade: HD
 fonte: https://sbtnews.maissbt.com/3.m3u8
+
 canal: Sony Channel
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/sonychannel.png
@@ -1532,15 +1461,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzI3Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/sonychannel.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SporTV
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
 
+fonte: https://dadinhodetapioca.fun/play/sportv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv/sportv.m3u8
@@ -1595,11 +1522,6 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/131132.m3u8
 qualidade: SD · 852x480
 
-fonte: https://dadinhodetapioca.fun/play/sportv.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SporTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv2.png
@@ -1607,6 +1529,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 
+fonte: https://dadinhodetapioca.fun/play/sportv2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv2/sportv2.m3u8
@@ -1649,11 +1574,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI0NzQwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/sportv2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SporTV 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv3.png
@@ -1661,6 +1581,9 @@ referer: https://www.primevideo.com/
 agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 chave: 902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 
+fonte: https://dadinhodetapioca.fun/play/sportv3.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv3/sportv3.m3u8
@@ -1709,11 +1632,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI0NzQ0Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/sportv3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Canal OFF
 categoria: Esportes
 logo: https://img.faz-o-eli.online/off.png
@@ -1753,15 +1671,13 @@ qualidade: HD
 fonte: http://45.185.11.126:8000/play/a07t/index.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/off.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Telecine Action
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecineaction.png
 
+fonte: https://dadinhodetapioca.fun/play/telecineaction.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecineaction/telecineaction.m3u8
@@ -1821,15 +1737,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4Mzc5Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/telecineaction.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepipoca.png
 
+fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecinepipoca/telecinepipoca.m3u8
@@ -1879,15 +1793,13 @@ qualidade: HD
 fonte: http://45.185.11.126:8000/play/a08g/index.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Telecine Premium
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepremium.png
 
+fonte: https://dadinhodetapioca.fun/play/telecinepremium.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecinepremium/telecinepremium.m3u8
@@ -1945,11 +1857,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4Mzc2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/telecinepremium.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TV Brasil
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-brasil.png
@@ -1982,6 +1889,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/33013.m3u8
 qualidade: HD · 1280x720
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71816.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Universal Premiere
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-premiere.png
@@ -1991,6 +1899,7 @@ chave: 3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
 
 fonte: http://45.185.11.126:8000/play/a08m/index.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Universal Reality
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/universal-reality.png
@@ -2008,10 +1917,14 @@ fonte: http://45.185.11.126:8000/play/a08c/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTc1MjMyNC5tM3U4.m3u8
 qualidade: HD
+
 canal: Warner
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/warnerchannel.png
 
+fonte: https://dadinhodetapioca.fun/play/warnertv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/warnerchannel/warnerchannel.m3u8
@@ -2053,11 +1966,6 @@ qualidade: FHD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9220.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/warnerchannel.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: IMPD
 categoria: Variedades
 logo: https://d5pgibznjcs0s.cloudfront.net/46d92cf6-4807-45c6-9bfd-b38f80288c86/en/images/logo_full.png
@@ -2067,6 +1975,7 @@ qualidade: FHD · 1920x1080
 fonte: https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 qualidade: HD · 1280x720
 fonte: https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w766912441_b2691072.m3u8
+
 canal: Globo SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -2104,11 +2013,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1168918.m3u8
 qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72040.m3u8
 qualidade: FHD · 1920x1080
-
-fonte: https://dadinhodetapioca.fun/play/globosp.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Cartoonito
 categoria: Infantil
@@ -2157,11 +2061,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDA1Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/cartoonito.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Cinemax
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/cinemax.png
@@ -2209,15 +2108,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzExLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/cinemax.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery Channel
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
+fonte: https://dadinhodetapioca.fun/play/discoverychannel.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
@@ -2271,16 +2168,14 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDIwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/discoverychannel.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery Kids
 categoria: Infantil
 logo: https://img.faz-o-eli.online/discoverykids.png
 qualidade: HD · 1280x720
 
+fonte: https://dadinhodetapioca.fun/play/discoverykids.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
@@ -2328,16 +2223,14 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDA5Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/discoverykids.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery Theater
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverytheater.png
 qualidade: HD · 1280x720
 
+fonte: https://dadinhodetapioca.fun/play/discoverytheater.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/DISCOVERY_THEATER_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverytheather/discoverytheather.m3u8
@@ -2388,11 +2281,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDMyLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/discoverytheather.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: ESPN
 categoria: Esportes
@@ -2456,11 +2344,6 @@ qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/598918.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/espn.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: ESPN 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn2.png
@@ -2510,11 +2393,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTI0Lm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/espn2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: ESPN 4
 categoria: Esportes
@@ -2578,11 +2456,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTMyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/espn4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: ESPN 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn5.png
@@ -2631,11 +2504,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTM2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/espn5.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: ESPN 6
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn6.png
@@ -2682,15 +2550,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/espn6.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo.png
 
+fonte: https://dadinhodetapioca.fun/play/hbo.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo/hbo.m3u8
@@ -2752,15 +2618,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQ0Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hbo.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO2
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbo2.png
 
+fonte: https://dadinhodetapioca.fun/play/hbo2.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO2/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbo2/hbo2.m3u8
@@ -2812,15 +2676,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTQ4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hbo2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO Family
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbofamily.png
 
+fonte: https://dadinhodetapioca.fun/play/hbofamily.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO_FAMILY/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbofamily/hbofamily.m3u8
@@ -2867,11 +2729,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTUyLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/hbofamily.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: HBO Mundi
 categoria: Filmes e Séries
@@ -2936,15 +2793,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTU2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hbomundi.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO Plus
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hboplus.png
 
+fonte: https://dadinhodetapioca.fun/play/hboplus.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO_PLUS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hboplus/hboplus.m3u8
@@ -3004,15 +2859,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTYwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hboplus.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO Pop
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/hbopop.png
 
+fonte: https://dadinhodetapioca.fun/play/hbopop.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO_POP_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hbopop/hbopop.m3u8
@@ -3076,15 +2929,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTY0Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hbopop.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HBO Signature
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-signature.png
 
+fonte: https://dadinhodetapioca.fun/play/hbosignature.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/HBO_SIGNATURE/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTY2Lm0zdTg.m3u8
@@ -3139,10 +2990,14 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTY4Lm0zdTg.m3u8
 qualidade: SD
+
 canal: HBO Xtreme
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/hbo-xtreme.png
 
+fonte: https://dadinhodetapioca.fun/play/hboxtreme.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://64.31.23.207:80/59471019/60849037/514128.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hboxtreme/hboxtreme.m3u8
@@ -3198,25 +3053,27 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTcyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hboxtreme.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Record
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/record-tv.png
 
+fonte: https://dadinhodetapioca.fun/play/record.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/RECORD/index.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://79.127.238.228:14057
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/35842.m3u8
 qualidade: HD
+
 canal: Space
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/space.png
 
+fonte: https://dadinhodetapioca.fun/play/space.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/SPACE/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/space/space.m3u8
@@ -3252,15 +3109,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzMxLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/space.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TNT
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tnt.png
 
+fonte: https://dadinhodetapioca.fun/play/tnt.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/TNT/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tnt/tnt.m3u8
@@ -3319,15 +3174,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzUwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/tnt.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TNT Séries
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntseries.png
 
+fonte: https://dadinhodetapioca.fun/play/tntseries.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tntseries/tntseries.m3u8
@@ -3374,11 +3227,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzU4Lm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/tntseries.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Universal TV
 categoria: Filmes e Séries
@@ -3429,11 +3277,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzYyLm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/universaltv.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Discovery Turbo
 categoria: Documentários
@@ -3499,11 +3342,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDM2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/discoveryturbo.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: USA Network
 categoria: Filmes e Séries
 logo: https://mondrian.claro.com.br/channels/inverse/usa.png
@@ -3530,6 +3368,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72340.m3u8
 qualidade: HD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/72341.m3u8
 qualidade: SD
+
 canal: Telecine Fun
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinefun.png
@@ -3589,15 +3428,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4Mzg1Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/telecinefun.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Telecine Cult
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinecult.png
 
+fonte: https://dadinhodetapioca.fun/play/telecinecult.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecinecult/telecinecult.m3u8
@@ -3649,15 +3486,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzgyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/telecinecult.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Telecine Touch
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinetouch.png
 
+fonte: https://dadinhodetapioca.fun/play/telecinetouch.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecinetouch/telecinetouch.m3u8
@@ -3715,11 +3550,6 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQ4MzkwLm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/telecinetouch.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SONY Movies
 categoria: Filmes e Séries
 logo: https://www.tvlogo.org/brazil/sony-movies-br.png
@@ -3732,16 +3562,21 @@ fonte: http://168.197.104.22/SONY_MOVIES/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzIyLm0zdTg.m3u8
 qualidade: HD
+
 canal: Globo
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/globo.png
 
 fonte: http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Tooncast
 categoria: Infantil
 logo: https://mondrian.claro.com.br/channels/inverse/tooncast.png
 
+fonte: https://dadinhodetapioca.fun/play/tooncast.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://64.31.23.207:80/59471019/60849037/1882638.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/1882639.m3u8
@@ -3756,10 +3591,14 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9150.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDMzLm0zdTg.m3u8
 qualidade: SD
+
 canal: TLC
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tlc.png
 
+fonte: https://dadinhodetapioca.fun/play/tlc.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tlc.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tlc/tlc.m3u8
@@ -3805,11 +3644,6 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72371.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/tlc.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Arte 1
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/arte1.png
@@ -3848,10 +3682,14 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71777.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTQ1NDM3Mi5tM3U4.m3u8
 qualidade: HD
+
 canal: TNT Novelas
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tntnovelas.png
 
+fonte: https://dadinhodetapioca.fun/play/tntnovelas.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tntnovelas/tntnovelas.m3u8
@@ -3893,16 +3731,14 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzU0Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/tntnovelas.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery Science
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryscience.png
 qualidade: HD · 1280x720
 
+fonte: https://dadinhodetapioca.fun/play/discoveryscience.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/DISCOVERY_SCIENCE_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryscience/discoveryscience.m3u8
@@ -3952,15 +3788,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDI4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/discoveryscience.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: AXN
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/axn.png
 
+fonte: https://dadinhodetapioca.fun/play/axn.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://138.204.86.4:8080/AXN_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/axn/axn.m3u8
@@ -4008,11 +3842,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzAwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/axn.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TCM
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/tcm.png
@@ -4030,15 +3859,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzQ3Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/tcm.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Band News
 categoria: Notícias
 logo: https://img.faz-o-eli.online/bandnews.png
 
+fonte: https://dadinhodetapioca.fun/play/bandnews.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/BAND_NEWS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/bandnews/bandnews.m3u8
@@ -4082,15 +3909,13 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDYyLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/bandnews.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: BAND SPORTS HD
 categoria: Esportes
 logo: https://img.faz-o-eli.online/bandsports.png
 
+fonte: https://dadinhodetapioca.fun/play/bandsports.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/bandsports/bandsports.m3u8
@@ -4139,11 +3964,6 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71801.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/bandsports.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: RedeTV!
 categoria: TV Aberta
 logo: https://www.tvlogo.org/brazil/rede-tv-br.png
@@ -4158,6 +3978,7 @@ fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w10746345
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDczLm0zdTg.m3u8
 qualidade: HD
+
 canal: TV Cultura
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/cultura.png
@@ -4187,11 +4008,6 @@ qualidade: SD
 fonte: https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/cultura.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Terra Viva
 categoria: Variedades
 logo: https://www.tvlogo.org/brazil/terraviva-br.png
@@ -4202,6 +4018,7 @@ fonte: https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541
 qualidade: HD · 1280x720
 fonte: http://45.177.114.115/TERRAVIVA/index.m3u8
 qualidade: HD · 1280x720
+
 canal: Woohoo
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/woohoo.png
@@ -4242,6 +4059,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTU1Lm0zdTg.m3u8
 qualidade: SD
+
 canal: ESPN 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/espn3.png
@@ -4298,11 +4116,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTI4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/espn3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TV Gazeta
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-gazeta.png
@@ -4318,6 +4131,7 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU5MDExLm0zdTg.m3u8
 qualidade: HD
 fonte: https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+
 canal: Record News
 categoria: Notícias
 logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
@@ -4363,6 +4177,7 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDc4Lm0zdTg.m3u8
 qualidade: SD
 fonte: https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
 canal: Canção Nova
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/cancaonova.png
@@ -4389,11 +4204,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/117824.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTY4Lm0zdTg.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/cancaonova.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: TV Aparecida
 categoria: TV Aberta
@@ -4434,11 +4244,6 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTc5Lm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/aparecida.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Rede Vida
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/redevida.png
@@ -4478,15 +4283,13 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTc1Lm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/redevida.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery ID
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoverychannel.png
 
+fonte: https://dadinhodetapioca.fun/play/discoveryid.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/DISCOVERY_ID/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryid/discoveryid.m3u8
@@ -4526,11 +4329,6 @@ qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30172.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/discoveryid.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Fish TV
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/fish-tv.png
@@ -4565,16 +4363,21 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71928.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTA0Lm0zdTg.m3u8
 qualidade: SD
+
 canal: Box Kids TV
 categoria: Infantil
 logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 
 fonte: http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 qualidade: HD · 1280x720
+
 canal: X Sports
 categoria: Esportes
 logo: https://img.faz-o-eli.online/xsports.png
 
+fonte: https://dadinhodetapioca.fun/play/xsports.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/xsports/xsports.m3u8
@@ -4602,11 +4405,6 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTgxMTcyOS5tM3U4.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/xsports.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: N SPORTS
 categoria: Esportes
 logo: https://mondrian.claro.com.br/channels/inverse/nsports.png
@@ -4620,6 +4418,7 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU3ODA4Lm0zdTg.m3u8
 qualidade: HD
 fonte: https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
 canal: Music Box Brazil
 categoria: Variedades
 logo: https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png
@@ -4658,6 +4457,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72187.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72184.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Band SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/band.png
@@ -4701,11 +4501,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMjIwNjc4OS5tM3U4.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/bandsp.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Band RS
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/band.png
@@ -4716,6 +4511,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/72575.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvODE2MDI2Lm0zdTg.m3u8
 qualidade: HD
+
 canal: SBT SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
@@ -4753,11 +4549,6 @@ qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/77963.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/sbtsp.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Record SP
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
@@ -4788,11 +4579,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/12888.m3u8
 qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/38065.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/recordsp.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Canal Rural
 categoria: Variedades
@@ -4830,6 +4616,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/178512.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDY0Lm0zdTg.m3u8
 qualidade: HD
+
 canal: Agro Mais
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png
@@ -4866,6 +4653,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/71767.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71764.m3u8
 qualidade: FHD · 1920x1080
+
 canal: CNT
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-cnt-br.png
@@ -4876,6 +4664,7 @@ fonte: http://168.197.104.22/CNT/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.49.66:8083/REDECNTHD/index.m3u8
 qualidade: HD · 1280x720
+
 canal: TV Pai Eterno
 categoria: Variedades
 logo: https://img.faz-o-eli.online/tvpaieterno.png
@@ -4903,11 +4692,6 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTg2Lm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/tvpaieterno.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PlayTV
 categoria: TV Aberta
 logo: https://i.imgur.com/Ikrj3lk.png
@@ -4920,6 +4704,7 @@ fonte: http://45.177.114.115/PLAY_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzEyLm0zdTg.m3u8
 qualidade: HD
+
 canal: Rede Brasil
 categoria: TV Aberta
 logo: https://i.imgur.com/TXJKwzZ.png
@@ -4929,6 +4714,7 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMjEwODc3NS5tM3U4.m3u8
 qualidade: HD
 fonte: https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
 canal: Rede Gospel
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png
@@ -4963,6 +4749,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9069.m3u8
 qualidade: FHD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMjEzNDk4Mi5tM3U4.m3u8
 qualidade: HD
+
 canal: Trace Brazuca
 categoria: Variedades
 logo: https://mondrian.claro.com.br/channels/inverse/trace-brazuca.png
@@ -4999,6 +4786,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72389.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72386.m3u8
 qualidade: FHD · 1920x1080
+
 canal: TV Câmara
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-camara-br.png
@@ -5013,6 +4801,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/69905.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDgwLm0zdTg.m3u8
 qualidade: HD
+
 canal: TV Evangelizar
 categoria: Variedades
 logo: https://i.imgur.com/IrYR7Kp.png
@@ -5027,6 +4816,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/69257.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTgyLm0zdTg.m3u8
 qualidade: HD
+
 canal: TV Justiça
 categoria: TV Aberta
 logo: https://mondrian.claro.com.br/channels/inverse/tv-justica.png
@@ -5041,6 +4831,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/69907.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzI2Lm0zdTg.m3u8
 qualidade: HD
+
 canal: TV Novo Tempo
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png
@@ -5075,6 +4866,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72408.m3u8
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzQwNTg0Lm0zdTg.m3u8
 qualidade: HD
+
 canal: TV Senado
 categoria: TV Aberta
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-senado-br.png
@@ -5089,6 +4881,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/69027.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDg0Lm0zdTg.m3u8
 qualidade: HD
+
 canal: RIT
 categoria: Variedades
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png
@@ -5100,10 +4893,14 @@ qualidade: HD · 1080x720
 fonte: http://170.83.49.66:8083/RITHD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+
 canal: Discovery Home & Health
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryhh.png
 
+fonte: https://dadinhodetapioca.fun/play/discoveryhh.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/DISCOVERY_H_H/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryhh/discoveryhh.m3u8
@@ -5157,11 +4954,6 @@ qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30149.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/discoveryhh.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Canal Agro
 categoria: Variedades
 
@@ -5171,18 +4963,21 @@ fonte: https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG47475
 qualidade: HD · 1280x720
 fonte: http://168.197.104.22/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
+
 canal: Blits TV
 categoria: Variedades
 logo: https://i.imgur.com/FO4QTRf.jpeg
 
 fonte: https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 qualidade: FHD · 1920x1080
+
 canal: CNBC
 categoria: Notícias
 logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTg2NjMyLm0zdTg.m3u8
 qualidade: HD
+
 canal: Com Brasil
 categoria: Variedades
 logo: https://i.imgur.com/GrjGwKM.png
@@ -5202,6 +4997,7 @@ fonte: http://170.83.49.66:8083/SESCTVHD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://186.219.52.187/sesc_tv/index.m3u8
 qualidade: SD · 720x576
+
 canal: TVideoNews
 categoria: Notícias
 logo: https://i.imgur.com/vstHOYx.png
@@ -5269,6 +5065,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138074.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138075.m3u8
 qualidade: HD · 1280x720
+
 canal: Boruto: Naruto Next Generations
 categoria: 24 Horas
 logo: https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png
@@ -5286,6 +5083,7 @@ fonte: https://canaleducacao-stream.ebc.com.br/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Canal Futura
 categoria: TV Aberta
 logo: https://i.imgur.com/LgynEBC.png
@@ -5298,6 +5096,7 @@ fonte: http://186.219.52.187/futura/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71962.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Canal Gov
 categoria: TV Aberta
 logo: https://i.imgur.com/rHPY0Yv.png
@@ -5310,6 +5109,7 @@ fonte: http://168.197.104.22/TV_BRASIL_2/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzAzLm0zdTg.m3u8
 qualidade: HD
+
 canal: Canal UOL
 categoria: Notícias
 logo: https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg
@@ -5318,6 +5118,7 @@ fonte: https://video24.mais.uol.com.br/live/6146.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://45.185.11.126:8000/play/a0a4/index.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Canal do Boi
 categoria: Variedades
 logo: https://i.imgur.com/pVM5MhS.png
@@ -5344,6 +5145,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71820.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDYzLm0zdTg.m3u8
 qualidade: HD
+
 canal: Chef TV
 categoria: Variedades
 logo: https://i.imgur.com/UYksTee.png
@@ -5413,6 +5215,7 @@ logo: https://i.imgur.com/Tf0vweF.png
 
 fonte: https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 qualidade: HD · 1280x720
+
 canal: MTV Biggest Pop
 categoria: Variedades
 logo: https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png
@@ -5435,11 +5238,6 @@ fonte: https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-u
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/masterchef/masterchef.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/masterchef.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: MyTime Movie Network
 categoria: Filmes e Séries
 logo: https://i.imgur.com/aiGQtzI.png
@@ -5454,12 +5252,14 @@ logo: https://x1colegal.com/logo.png
 fonte: https://x1colegal.com/hls/stream.m3u8
 qualidade: HD · 1280x720
 fonte: https://x1colegal.com/hls/0/stream.m3u8
+
 canal: NickToons Brasil
 categoria: Infantil
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png
 
 fonte: https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 qualidade: SD · 854x480
+
 canal: Nickelodeon
 categoria: Infantil
 
@@ -5494,6 +5294,7 @@ fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w10746345
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDczLm0zdTg.m3u8
 qualidade: HD
+
 canal: Runtime
 categoria: Filmes e Séries
 logo: https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png
@@ -5561,12 +5362,14 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/150489.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/150490.m3u8
 qualidade: HD · 1280x720
+
 canal: FILHINHO DA MAMAE
 categoria: 24 Horas
 logo: http://xvbroker.click:80/images/dsAt8cMDBjbP3mVNdeYR4Vln2ZyBZpf6UImqVMpJX6g5QngYjG1K5Rghi2qcfLTA.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/2945301.m3u8
 qualidade: HD · 1280x720
+
 canal: Amazon Prime Video 01
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
@@ -5579,11 +5382,6 @@ fonte: http://64.31.23.207:80/59471019/60849037/3460179.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/292698.m3u8
 qualidade: HD · 1280x720
-
-fonte: https://dadinhodetapioca.fun/play/primevideo.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Amazon Prime Video 02
 categoria: Esportes
@@ -5598,35 +5396,34 @@ qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/121180.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/primevideo2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Amazon Prime Video 03
 categoria: Esportes
 logo: http://www.fontedecanais.gs/logos/canais/primevideo.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460181.m3u8
 qualidade: HD · 1280x720
+
 canal: Canal GOAT (Jogo 1)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460243.m3u8
 qualidade: HD · 1280x720
+
 canal: Canal GOAT (Jogo 2)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460244.m3u8
 qualidade: HD · 1280x720
+
 canal: Canal GOAT (Jogo 3)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/canalgoat.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460245.m3u8
 qualidade: HD · 1280x720
+
 canal: Combate
 categoria: Esportes
 logo: https://img.faz-o-eli.online/combate.png
@@ -5683,11 +5480,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTE2Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/combate.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: DAZN (Jogo 1)
 categoria: Esportes
 logo: http://logos.appscms.xyz/logos/2025/dazn.png
@@ -5701,29 +5493,34 @@ logo: http://logos.appscms.xyz/logos/2025/dazn.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460242.m3u8
 qualidade: SD · 640x360
+
 canal: Disney+ 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169096.m3u8
 qualidade: HD
+
 canal: Disney+ 02
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/disneyplus.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169098.m3u8
 qualidade: HD
+
 canal: NBA 01
 categoria: Esportes
 logo: http://www.fontedecanais.me/logos/canais/nba.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/514097.m3u8
 qualidade: FHD · 1920x1080
+
 canal: N Sports (Jogo 1)
 categoria: Esportes
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460254.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Paramount+ (Jogo 1)
 categoria: Esportes
 logo: https://img.faz-o-eli.online/paramountplus.png
@@ -5733,29 +5530,27 @@ qualidade: Qualidade não informada
 fonte: http://64.31.23.207:80/59471019/60849037/3460273.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/paramountplus.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Paramount+ (Jogo 2)
 categoria: Esportes
 logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460172.m3u8
 qualidade: HD · 1280x720
+
 canal: Paramount+ (Jogo 3)
 categoria: Esportes
 logo: https://www.fontedecanais.gs/logos/canais/paramountplus.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460173.m3u8
 qualidade: HD · 1280x720
+
 canal: Paramount+ (Jogo 6)
 categoria: Esportes
 logo: https://logos.appscms.xyz/logos/2025/Paramount.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/3460278.m3u8
 qualidade: HD · 1280x720
+
 canal: SportyNet 01
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
@@ -5783,11 +5578,6 @@ qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/184571.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/sportynet.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: UFC Fight Pass 01
 categoria: Esportes
 logo: https://img.faz-o-eli.online/ufcfightpass.png
@@ -5801,11 +5591,6 @@ qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2403505.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/ufcfightpass.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: UFC Fight Pass 03
 categoria: Esportes
 logo: http://logos.imperioapps.top/UFC_FIGHT_PASS.png
@@ -5814,6 +5599,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/297547.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/297550.m3u8
 qualidade: HD · 1280x720
+
 canal: Canal Brasil
 categoria: Filmes e Séries
 logo: http://www.imgu.top/logos/CANAL%20BRASIL.jpg
@@ -5848,30 +5634,35 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzA0Lm0zdTg.m3u8
 qualidade: SD
+
 canal: Cine SKY 01
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.dev/logos/canais/cinesky.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13071.m3u8
 qualidade: Qualidade não informada
+
 canal: Cine SKY 02
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13072.m3u8
 qualidade: HD · 1920x804
+
 canal: Cine SKY 03
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13073.m3u8
 qualidade: HD · 1920x800
+
 canal: Cine SKY 05
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.org/logos/canais/cinesky.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/13075.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Lifetime
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.me/logos/canais/lifetime.png
@@ -5916,6 +5707,7 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTE2Lm0zdTg.m3u8
 qualidade: SD
+
 canal: MAX 01
 categoria: Filmes e Séries
 logo: http://www.fontedecanais.gs/logos/canais/max.png
@@ -5926,11 +5718,6 @@ fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/max1/max1.m3u8
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/594007.m3u8
 qualidade: FHD
-
-fonte: https://dadinhodetapioca.fun/play/max1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: MAX 02
 categoria: Filmes e Séries
@@ -5944,11 +5731,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/594010.m3u8
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTgyLm0zdTg.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/max2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Studio Universal
 categoria: Filmes e Séries
@@ -5995,11 +5777,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzM5Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/studiouniversal.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Gloob
 categoria: Infantil
 logo: https://img.faz-o-eli.online/gloob.png
@@ -6044,11 +5821,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDE3Lm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/gloob.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Gloobinho
 categoria: Infantil
@@ -6140,6 +5912,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324353.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/20522.m3u8
 qualidade: HD
+
 canal: Band Curitiba
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
@@ -6148,6 +5921,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324354.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324355.m3u8
 qualidade: SD · 854x480
+
 canal: Band MG
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
@@ -6156,12 +5930,14 @@ fonte: http://64.31.23.207:80/59471019/60849037/324359.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://64.31.23.207:80/59471019/60849037/324361.m3u8
 qualidade: HD · 1280x720
+
 canal: Band Pará
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/324362.m3u8
 qualidade: HD · 1280x720
+
 canal: Band Recife TV Tribuna
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
@@ -6170,6 +5946,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324364.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324365.m3u8
 qualidade: HD · 1280x720
+
 canal: Band RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/band.png
@@ -6183,11 +5960,6 @@ qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/20524.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/bandrj.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Band RN
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
@@ -6196,18 +5968,21 @@ fonte: http://64.31.23.207:80/59471019/60849037/324367.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTgwNTM5NC5tM3U4.m3u8
 qualidade: HD
+
 canal: Band Sergipe
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/324370.m3u8
 qualidade: HD · 1280x720
+
 canal: Rede Família
 categoria: TV Aberta
 logo: http://www.fontedecanais.gs/logos/canais/redefamilia.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzE3Lm0zdTg.m3u8
 qualidade: HD
+
 canal: SBT Alterosa
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
@@ -6222,6 +5997,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72621.m3u8
 qualidade: HD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/218366.m3u8
 qualidade: FHD
+
 canal: SBT BA
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
@@ -6230,12 +6006,14 @@ fonte: http://64.31.23.207:80/59471019/60849037/324288.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 qualidade: FHD · 1920x1080
+
 canal: SBT GO
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/324291.m3u8
 qualidade: HD · 1280x720
+
 canal: SBT Londrina
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
@@ -6249,6 +6027,7 @@ logo: http://www.fontedecanais.me/logos/canais/sbt.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/324311.m3u8
 qualidade: FHD · 1920x1080
+
 canal: SBT MG
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
@@ -6266,6 +6045,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324309.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/131432.m3u8
 qualidade: HD
+
 canal: SBT PR
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/sbt.png
@@ -6274,6 +6054,7 @@ fonte: http://64.31.23.207:80/59471019/60849037/324301.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/88432.m3u8
 qualidade: HD
+
 canal: SBT RJ
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/sbt.png
@@ -6309,11 +6090,6 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/108682.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/sbtrj.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: TVE Bahia
 categoria: TV Aberta
 logo: http://i.imgur.com/IWGyp65.jpeg
@@ -6322,12 +6098,14 @@ fonte: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTQ0NjcyMS5tM3U4.m3u8
 qualidade: HD
+
 canal: Tv Goiania
 categoria: TV Aberta
 logo: http://www.fontedecanais.me/logos/canais/band.png
 
 fonte: http://64.31.23.207:80/59471019/60849037/324373.m3u8
 qualidade: HD · 1280x720
+
 canal: BIS
 categoria: Variedades
 logo: http://www.fontedecanais.me/logos/canais/bis.png
@@ -6377,6 +6155,9 @@ canal: Food Network
 categoria: Variedades
 logo: https://img.faz-o-eli.online/foodnetwork.png
 
+fonte: https://dadinhodetapioca.fun/play/foodnetwork.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/foodnetwork.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/foodnetwork/foodnetwork.m3u8
@@ -6419,11 +6200,6 @@ fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlL
 qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTA4Lm0zdTg.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/foodnetwork.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Modo Viagem
 categoria: Variedades
@@ -6505,11 +6281,6 @@ qualidade: SD · 640x480
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169219.m3u8
 qualidade: SD · 640x480
 
-fonte: https://dadinhodetapioca.fun/play/24h_chaves.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: 24H Dragon Ball Z
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
@@ -6521,11 +6292,6 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169226.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/24h_dragonball.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: 24H Naruto Clássico
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
@@ -6534,11 +6300,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_naruto/24h_naruto.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/24h_naruto.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: 24H Os Simpsons
 categoria: 24 Horas
@@ -6679,11 +6440,6 @@ qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169244.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/24h_simpsons.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: 24H Pica Pau
 categoria: 24 Horas
 logo: https://img.faz-o-eli.online/24h.png
@@ -6698,11 +6454,6 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/136821.m3u8
 qualidade: SD · 640x480
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/136821.m3u8
 qualidade: SD · 640x480
-
-fonte: https://dadinhodetapioca.fun/play/24h_picapau.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: 24H Todo Mundo Odeia o Cris
 categoria: 24 Horas
@@ -6730,11 +6481,6 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135472.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169249.m3u8
 qualidade: SD · 624x352
-
-fonte: https://dadinhodetapioca.fun/play/24h_odeiachris.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: 24H Friends
 categoria: 24 Horas
@@ -6785,16 +6531,14 @@ qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138823.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/24h_friends.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Discovery World
 categoria: Documentários
 logo: https://img.faz-o-eli.online/discoveryworld.png
 qualidade: SD · 768x432
 
+fonte: https://dadinhodetapioca.fun/play/discoveryworld.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryworld/discoveryworld.m3u8
@@ -6844,11 +6588,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDQwLm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/discoveryworld.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: CazeTV 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
@@ -6864,11 +6603,6 @@ qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/245797.m3u8
 qualidade: FHD
 
-fonte: https://dadinhodetapioca.fun/play/caze1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: CazeTV 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
@@ -6880,11 +6614,6 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zODQ0NjMubTN1OA.m3u8
 qualidade: FHD
 
-fonte: https://dadinhodetapioca.fun/play/caze2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - A Bola
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_abola.png
@@ -6893,11 +6622,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_abola/pt_abola.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_abola.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Benfica TV
 categoria: Esportes
@@ -6908,11 +6632,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_benficatv/pt_benficatv.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_benficatv.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Canal 11
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_canal11.prev.png
@@ -6921,11 +6640,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_canal11/pt_canal11.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_canal11.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Eleven 1
 categoria: Esportes
@@ -6936,11 +6650,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven1/pt_eleven1.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_eleven1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Eleven 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/pt_eleven2.prev.png
@@ -6949,11 +6658,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven2/pt_eleven2.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_eleven2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Eleven 3
 categoria: Esportes
@@ -6964,11 +6668,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_eleven3/pt_eleven3.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_eleven3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Sporttv 1
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
@@ -6977,11 +6676,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv1/pt_sportv1.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_sportv1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Sporttv 2
 categoria: Esportes
@@ -6992,11 +6686,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv2/pt_sportv2.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_sportv2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Sporttv 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
@@ -7005,11 +6694,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv3/pt_sportv3.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_sportv3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Sporttv 4
 categoria: Esportes
@@ -7020,11 +6704,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv4/pt_sportv4.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_sportv4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Sporttv 5
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
@@ -7033,11 +6712,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv5/pt_sportv5.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_sportv5.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: PT - Sporttv 6
 categoria: Esportes
@@ -7048,11 +6722,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv6/pt_sportv6.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/pt_sportv6.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: PT - Sporttv 7
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportv.png
@@ -7061,11 +6730,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/pt_sportv7/pt_sportv7.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/pt_sportv7.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: SportyNet+ 1
 categoria: Esportes
@@ -7078,11 +6742,6 @@ qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU3Nzk5Lm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/sportynetplus1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: SportyNet+ 2
 categoria: Esportes
 logo: https://img.faz-o-eli.online/sportynet.png
@@ -7091,11 +6750,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU3ODAwLm0zdTg.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/sportynetplus2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: SportyNet+ 3
 categoria: Esportes
@@ -7108,11 +6762,6 @@ qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU3ODAxLm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/sportynetplus3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Globo AM
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -7121,11 +6770,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoam/globoam.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/globoam.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globo CE
 categoria: TV Aberta
@@ -7136,11 +6780,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoce/globoce.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/globoce.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Globo ES
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -7149,11 +6788,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globoes/globoes.m3u8
 qualidade: HD · 1280x720
-
-fonte: https://dadinhodetapioca.fun/play/globoes.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globo GO
 categoria: TV Aberta
@@ -7164,11 +6798,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globogo/globogo.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/globogo.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Globo PB
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -7178,11 +6807,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globopb/globopb.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/globopb.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Globo PE
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -7191,11 +6815,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globope/globope.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/globope.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globo RJ
 categoria: TV Aberta
@@ -7233,11 +6852,6 @@ qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72025.m3u8
 qualidade: FHD · 1920x1080
 
-fonte: https://dadinhodetapioca.fun/play/globorj.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Globo RS
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/globosp.png
@@ -7246,11 +6860,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globors/globors.m3u8
 qualidade: FHD · 1920x1080
-
-fonte: https://dadinhodetapioca.fun/play/globors.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Record GO
 categoria: TV Aberta
@@ -7271,11 +6880,6 @@ qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/106097.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/recordgo.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Record MG
 categoria: TV Aberta
 logo: https://img.faz-o-eli.online/record.png
@@ -7288,11 +6892,6 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9055.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9054.m3u8
 qualidade: HD
-
-fonte: https://dadinhodetapioca.fun/play/recordmg.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Record RJ
 categoria: TV Aberta
@@ -7309,15 +6908,13 @@ qualidade: FHD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9063.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/recordrj.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: HGTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/hgtv.png
 
+fonte: https://dadinhodetapioca.fun/play/hgtv.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hgtv/hgtv.m3u8
@@ -7357,11 +6954,6 @@ qualidade: HD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MDQ4Lm0zdTg.m3u8
 qualidade: SD
 
-fonte: https://dadinhodetapioca.fun/play/hgtv.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: MTV
 categoria: Variedades
 logo: https://img.faz-o-eli.online/mtv.png
@@ -7371,11 +6963,6 @@ qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/mtv/mtv.m3u8
 qualidade: FHD · 1536x1024
 fonte: https://16-5-0-235.sslip.io/mtv/index.m3u8
-
-fonte: https://dadinhodetapioca.fun/play/mtv.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: A Fazenda 18 1
 categoria: PPV
@@ -7388,11 +6975,6 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470061.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/afazenda.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: A Fazenda 18 2
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
@@ -7403,11 +6985,6 @@ fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/afazenda2/afazenda2.m
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470062.m3u8
 qualidade: HD · 1280x720
-
-fonte: https://dadinhodetapioca.fun/play/afazenda2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: A Fazenda 18 3
 categoria: PPV
@@ -7420,11 +6997,6 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470063.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/afazenda3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: A Fazenda 18 4
 categoria: PPV
 logo: https://img.faz-o-eli.online/afazenda2.png
@@ -7435,11 +7007,6 @@ fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/afazenda4/afazenda4.m
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470064.m3u8
 qualidade: HD · 1280x720
-
-fonte: https://dadinhodetapioca.fun/play/afazenda4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: A Fazenda 18 5
 categoria: PPV
@@ -7452,11 +7019,6 @@ qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470065.m3u8
 qualidade: HD · 1280x720
 
-fonte: https://dadinhodetapioca.fun/play/afazenda5.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: CazeTV 3
 categoria: Esportes
 logo: https://img.faz-o-eli.online/cazetv.png
@@ -7465,11 +7027,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/caze3/caze3.m3u8
 qualidade: FHD · 1920x1080
-
-fonte: https://dadinhodetapioca.fun/play/caze3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globo DF
 categoria: TV Aberta
@@ -7491,11 +7048,6 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/131164.m3u8
 qualidade: HD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/131116.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/globodf.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Globo MG
 categoria: TV Aberta
@@ -7522,11 +7074,6 @@ qualidade: HD
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1168940.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/globomg.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: MAX 03
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/max.png
@@ -7540,11 +7087,6 @@ qualidade: FHD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MTgzLm0zdTg.m3u8
 qualidade: HD
 
-fonte: https://dadinhodetapioca.fun/play/max3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Amazon Prime Video 04
 categoria: Esportes
 logo: https://img.faz-o-eli.online/primevideo.png
@@ -7553,11 +7095,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo4/primevideo4.m3u8
 qualidade: FHD · 1920x1080
-
-fonte: https://dadinhodetapioca.fun/play/primevideo4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: SporTV 4
 categoria: Esportes
@@ -7586,11 +7123,6 @@ qualidade: 4K
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/570369.m3u8
 qualidade: FHD
 
-fonte: https://dadinhodetapioca.fun/play/sportv4.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Star Channel
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/starchannel.png
@@ -7599,11 +7131,6 @@ fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea6
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/starchannel/starchannel.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/starchannel.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Curta
 categoria: Documentários
@@ -7633,6 +7160,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/12948.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71855.m3u8
 qualidade: FHD · 1920x1080
+
 canal: DOG TV
 categoria: Variedades
 logo: http://tvonhdbr.com/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg
@@ -7657,6 +7185,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/104908.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/76922.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Eurochannel
 categoria: Notícias
 logo: http://tvonhdbr.com/images/e319732e23a51cafb209d07c7a26c615.jpg
@@ -7681,6 +7210,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/104910.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTc1MjMyNy5tM3U4.m3u8
 qualidade: HD
+
 canal: FashionTV
 categoria: Variedades
 logo: https://i.imgur.com/1jtRh4S.png
@@ -7707,6 +7237,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/71924.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzA3Lm0zdTg.m3u8
 qualidade: HD
+
 canal: Film&Arts
 categoria: Filmes e Séries
 
@@ -7734,12 +7265,14 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/104914.m3u8
 qualidade: FHD · 1920x1080
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzYwNzA4Lm0zdTg.m3u8
 qualidade: HD
+
 canal: Formula 1 TV
 categoria: PPV
 logo: https://imgur.com/a/jyyyawL
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTc3MDQwLm0zdTg.m3u8
 qualidade: HD
+
 canal: France 24
 categoria: Notícias
 
@@ -7789,6 +7322,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/164027.m3u8
 qualidade: FHD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/164030.m3u8
 qualidade: FHD · 1920x1080
+
 canal: NBA League Pass 1
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
@@ -7807,6 +7341,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/140518.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/140516.m3u8
 qualidade: FHD · 1920x1080
+
 canal: NBA League Pass 2
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
@@ -7823,6 +7358,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/140520.m3u8
 qualidade: HD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/140521.m3u8
 qualidade: SD
+
 canal: NBA League Pass 3
 categoria: Esportes
 logo: https://i.imgur.com/ynW8fZF.png
@@ -7857,18 +7393,17 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/184586.m3u8
 qualidade: SD
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzU3ODAyLm0zdTg.m3u8
 qualidade: HD
+
 canal: SportyNet
 categoria: Esportes
 
+fonte: https://dadinhodetapioca.fun/play/sportynet.html
+qualidade: FHD
+referer: https://dadinhodetapioca.fun/
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1165167.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportynetplus3/sportynetplus3.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/sportynetplus3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Paramount + 4
 categoria: Variedades
@@ -7888,6 +7423,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72992.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72992.m3u8
 qualidade: SD · 852x480
+
 canal: Paramount Channel
 categoria: Filmes e Séries
 logo: http://tvonhdbr.com/static/logos/canais/paramount.png
@@ -7900,6 +7436,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72219.m3u8
 qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72219.m3u8
 qualidade: HD · 1280x720
+
 canal: Prime Box Brazil
 categoria: Variedades
 logo: http://tvonhdbr.com/static/logos/canais/primeboxbrazil.png
@@ -7922,6 +7459,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/72270.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/72269.m3u8
 qualidade: HD · 1280x720
+
 canal: Sabor & Arte
 categoria: Variedades
 
@@ -7945,6 +7483,7 @@ fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/112016.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTc1MjMyMC5tM3U4.m3u8
 qualidade: HD
+
 canal: UFC Fight Pass
 categoria: PPV
 
@@ -7962,11 +7501,6 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/184047.m3u8
 qualidade: HD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/184048.m3u8
 qualidade: SD
-
-fonte: https://dadinhodetapioca.fun/play/ufcfightpass.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Zoomoo
 categoria: Infantil
@@ -7995,6 +7529,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/9230.m3u8
 qualidade: HD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/104934.m3u8
 qualidade: FHD · 1920x1080
+
 canal: 101 Dalmatas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg
@@ -8005,6 +7540,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137614.m3u8
 qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169265.m3u8
 qualidade: HD · 1280x720
+
 canal: A Beleza Secreta dos Animais
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg
@@ -8013,6 +7549,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/138011.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138011.m3u8
 qualidade: HD · 1280x720
+
 canal: Aladdin
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/07b77f17e21144dcbd7933ee82820906.jpg
@@ -8021,6 +7558,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/138730.m3u8
 qualidade: SD · 630x480
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138730.m3u8
 qualidade: SD · 630x480
+
 canal: As Aventuras do Gato de Botas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/10eb05c9613316dfb3cb1a39efdf13e0.jpg
@@ -8029,6 +7567,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/140528.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/140528.m3u8
 qualidade: HD · 1280x720
+
 canal: Cameras Escondidas Silvio Santos
 categoria: 24 Horas
 logo: http://tvonhdbr.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg
@@ -8037,6 +7576,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/152014.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/152014.m3u8
 qualidade: HD · 1280x720
+
 canal: Caverna do Dragao
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg
@@ -8049,6 +7589,7 @@ fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169296.m3u8
 qualidade: HD · 1280x960
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169215.m3u8
 qualidade: HD · 960x720
+
 canal: Chapolin Colorado
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
@@ -8083,6 +7624,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138006.m3u8
 qualidade: HD · 960x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169217.m3u8
 qualidade: HD · 1280x720
+
 canal: Dois Homens e Meio
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66a6edec30215e33b34d9a1a1fd25393.jpg
@@ -8137,6 +7679,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137634.m3u8
 qualidade: HD · 1280x718
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169221.m3u8
 qualidade: HD · 1280x720
+
 canal: Dora Aventureira
 categoria: 24 Horas
 logo: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j30WV7vDXXorlbdKEHgl74stDml.jpg
@@ -8147,6 +7690,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/151949.m3u8
 qualidade: HD · 1280x720
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169304.m3u8
 qualidade: SD · 720x480
+
 canal: Dragon Ball Super - Saga Deus da Destruicao Bills
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
@@ -8155,6 +7699,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/135484.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135484.m3u8
 qualidade: HD · 1280x720
+
 canal: Dragon Ball Super - Trunks do Futuro
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/626e71bf1e9d0b71d194c9359413ced6.jpg
@@ -8163,6 +7708,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/135487.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135487.m3u8
 qualidade: HD · 1280x720
+
 canal: Escolinha do Professor Raimundo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/151df67d8d15f1c0c39c7779f27935b6.jpg
@@ -8171,6 +7717,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/137611.m3u8
 qualidade: SD · 594x456
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137611.m3u8
 qualidade: SD · 594x456
+
 canal: Eu a Patroa e as Criancas
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg
@@ -8195,6 +7742,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138023.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138024.m3u8
 qualidade: HD · 1280x720
+
 canal: Game Shakers
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg
@@ -8211,6 +7759,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138008.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/138009.m3u8
 qualidade: HD · 1280x720
+
 canal: He Man e Os Defensores do Universo
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/66c305ee7bff6c27854be94434b46c7e.jpg
@@ -8219,6 +7768,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/135514.m3u8
 qualidade: SD · 704x574
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/135514.m3u8
 qualidade: SD · 704x574
+
 canal: Largados e Pelados
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/2246772d199347c5251faaac1a270575.jpg
@@ -8267,6 +7817,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145937.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145938.m3u8
 qualidade: HD · 1280x720
+
 canal: Mestres da Sobrevivencia
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/401f441af8a5f5b0211c085d1d755d95.jpg
@@ -8275,6 +7826,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/137129.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/137129.m3u8
 qualidade: HD · 1280x720
+
 canal: Nicky Ricky Dicky e Dawn
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/fa42fec0efcb2f9a242913cad45ccba8.jpg
@@ -8295,6 +7847,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145941.m3u8
 qualidade: HD · 1280x720
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/145942.m3u8
 qualidade: HD · 1280x720
+
 canal: Um Maluco no Pedaco
 categoria: 24 Horas
 logo: http://24horas.cc:80/images/3e3d6036a0a8a0f316aff080eca66868.jpg
@@ -8400,6 +7953,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/295481.m3u8
 qualidade: FHD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/295477.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Brasileirao Serie A
 categoria: Variedades
 
@@ -8417,6 +7971,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/317065.m3u8
 qualidade: SD
 fonte: http://332nr7hbfu.xyz:80/live/999913/S3CvUB/317063.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Andorra x Malta
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
@@ -8432,6 +7987,7 @@ logo: http://tvonhdbr.com/static/logos/canais/jogos.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317690.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Áustria x Israel
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
@@ -8440,6 +7996,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317691.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/317691.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Kosovo x Irlanda
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
@@ -8448,6 +8005,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317692.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/317692.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Liechtenstein x Lituânia
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
@@ -8456,6 +8014,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317693.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/317693.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Informações em Breve
 categoria: Esportes
 logo: http://tvonhdbr.com/static/logos/canais/jogos.png
@@ -8492,6 +8051,7 @@ fonte: http://vivlar.me:80/live/497238/KK8Kdy/318084.m3u8
 qualidade: FHD · 1920x1080
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/318085.m3u8
 qualidade: FHD · 1920x1080
+
 canal: Gladiadores da Natureza
 categoria: 24 Horas
 
@@ -8507,6 +8067,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397317.m3u8
 qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/397317.m3u8
 qualidade: FHD
+
 canal: A Fazenda Cam 2
 categoria: Variedades
 
@@ -8514,6 +8075,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397320.m3u8
 qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/397320.m3u8
 qualidade: FHD
+
 canal: A Fazenda Cam 3
 categoria: Variedades
 
@@ -8521,6 +8083,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397321.m3u8
 qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/397321.m3u8
 qualidade: FHD
+
 canal: A Fazenda Cam 4
 categoria: Variedades
 
@@ -8528,6 +8091,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397322.m3u8
 qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/397322.m3u8
 qualidade: FHD
+
 canal: A Fazenda Cam 5
 categoria: Variedades
 
@@ -8535,6 +8099,7 @@ fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/397323.m3u8
 qualidade: FHD
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/397323.m3u8
 qualidade: FHD
+
 canal: A Fazenda Cam 6
 categoria: Variedades
 
@@ -8549,18 +8114,21 @@ logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTg2MDQ5Lm0zdTg.m3u8
 qualidade: HD
+
 canal: MAX 08
 categoria: Filmes e Séries
 logo: http://i.postimg.cc/L52gtQpb/BeDFSlD.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvMTQ0ODQzMC5tM3U4.m3u8
 qualidade: HD
+
 canal: PREMIERE 8 MOSAICO
 categoria: Esportes
 logo: http://1.bp.blogspot.com/-9NsHz_itoFc/Xk70dxuLv7I/AAAAAAAACGQ/wCExIoJZ8xgbleziCR-Guhr-AkuLgFhVQCLcBGAsYHQ/s1600/premiere_2.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/30063.m3u8
 qualidade: FHD
+
 canal: JOGOS DE HOJE
 categoria: Esportes
 logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
@@ -8574,23 +8142,20 @@ logo: https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470067.m3u8
 qualidade: HD · 1280x720
+
 canal: CHAPOLIN
 categoria: 24 Horas
 logo: http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
 qualidade: HD · 1280x720
+
 canal: Disney Plus 1
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
 
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus1/disneyplus1.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/disneyplus1.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Disney Plus 2
 categoria: Filmes e Séries
@@ -8599,22 +8164,12 @@ logo: https://vipcanais.net/images/disneyplus.png
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus2/disneyplus2.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/disneyplus2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Disney Plus 3
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/disneyplus.png
 
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/disneyplus3/disneyplus3.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/disneyplus3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Paramount Plus 1
 categoria: Filmes e Séries
@@ -8625,11 +8180,6 @@ qualidade: HD
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus/paramountplus.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/paramountplus.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Paramount Plus 2
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/paramountplus.png
@@ -8639,21 +8189,11 @@ qualidade: HD
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus2/paramountplus2.m3u8
 qualidade: Qualidade não informada
 
-fonte: https://dadinhodetapioca.fun/play/paramountplus2.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
-
 canal: Prime Video 3
 categoria: Filmes e Séries
 logo: https://vipcanais.net/images/amazonprimevideo.png
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/primevideo3/primevideo3.m3u8
 qualidade: Qualidade não informada
-
-fonte: https://dadinhodetapioca.fun/play/primevideo3.html
-nome: PirateTV (TikTok CDN)
-qualidade: FHD
-referer: https://dadinhodetapioca.fun/
 
 canal: Anime Channel TV
 categoria: Infantil
@@ -8708,3 +8248,4 @@ categoria: Infantil
 
 fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 qualidade: SD · 640x480
+
