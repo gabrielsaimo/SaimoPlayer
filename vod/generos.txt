@@ -3479,6 +3479,7 @@ f	Aranhas (2013)	Ficção científica,Suspense
 f	Aranhas de Papel	Drama
 f	Aranhas! Um Experimento Que Deu Errado (2021)	Suspense,Terror
 f	Arca de Noé (2024)	Animação,Música,Comédia,Fantasia,Família
+f	Arcade - Voce Vai Entrar Nesse Jogo (2017)	Terror,Romance,Ficção científica
 f	Arcade Girl	Drama
 f	Arcadian	Ação,Terror,Ficção científica
 f	Archive	Ficção científica,Drama,Suspense
@@ -6815,6 +6816,7 @@ f	De Perto Ela Não é Normal	Comédia
 f	De Porta em Porta (2002)	TV,Drama
 f	De Portas Abertas Para o Natal	Família,TV
 f	De Repente 70	Comédia,Fantasia,Drama
+f	De Repente Adolescente	Comédia
 f	De Repente Drag	Drama,Comédia
 f	De Repente Grande	Comédia,Família
 f	De Repente Miss (2024)	Comédia
@@ -14555,6 +14557,7 @@ f	O Amor Sertanejo	Documentário
 f	O Amor Vai Te Encontrar	Comédia,Drama,Romance
 f	O Amor Vem Devagar	Drama,Romance,Faroeste,Família,TV
 f	O Amor de Catarina	Romance,Comédia
+f	O Amor de Sua Vida	Romance,Drama
 f	O Amor de Sylvie	Romance,Drama
 f	O Amor dá Voltas	Comédia,Romance
 f	O Amor e Suas Surpresas	Comédia,Romance
@@ -18194,6 +18197,7 @@ f	Pelas Ruas de Manhattan	Drama
 f	Pelas Ruas de Paris	Drama
 f	Pele (2021)	Suspense,Ficção científica,Drama
 f	Pele de Asno	Fantasia,Comédia,Música,Romance
+f	Peles	Drama,Comédia,Fantasia
 f	Pelo Direito de Ser Feliz (2018)	Drama,TV
 f	Pelos Olhos de Maisie	Drama
 f	Pelotão de Elite	Drama,História,Guerra
@@ -23804,6 +23808,7 @@ f	V para Vingança	Terror,Ação
 f	V/H/S/2	Terror,Suspense
 f	V/H/S/94 (2021)	Terror,Suspense
 f	V/H/S/HALLOWEEN	Terror,Suspense
+f	V/H/S/Mixtape	Terror,Música
 f	VHS Beyond (2024)	Terror,Ficção científica,Suspense
 f	VHS85	Terror,Suspense
 f	VINGANCA E AMOR	Faroeste
@@ -23911,6 +23916,7 @@ f	Velozes e Furiosos: Desafio em Toquio (2006)	Ação,Crime,Suspense
 f	Velozes e Furiosos: Hobbs & Shaw (2019)	Ação,Aventura,Comédia
 f	Velozes e Mortais	Ação,Suspense,Crime,Terror
 f	Veludo Azul	Mistério,Suspense,Crime
+f	Velvet Lounge: Noites de Caça	Comédia,Terror
 f	Vem Brincar	Terror,Mistério
 f	Vem Dançar	Drama,Música
 f	Vem com o Papai	Comédia,Terror,Mistério,Suspense
@@ -23955,6 +23961,7 @@ f	Verdade ou Desafio (2017)	Terror,Fantasia,Mistério,Suspense,Ficção científ
 f	Verdades Dolorosas (2023)	Drama,Comédia,Romance
 f	Verde-Esperanza: Aborto Legal na América Latina	Documentário
 f	Vergogna Schifosi	Suspense
+f	Verity	Mistério,Suspense
 f	Vermelha	Terror,Suspense
 f	Vermelho Monet	Drama,Romance
 f	Vermelho Sol (2018)	Drama,Mistério,Suspense
@@ -37836,7 +37843,6 @@ f	Aranha Na Teia	Crime,Mistério,Suspense,Ação
 f	Aranhas de Papel (2021)	Drama
 f	Aranhas! Um Experimento Que Deu Errado	Suspense,Terror
 f	Arca de Noé	Animação,Música,Comédia,Fantasia,Família
-f	Arcade - Voce Vai Entrar Nesse Jogo (2017)	Terror,Romance,Ficção científica
 f	Arcadian (2024)	Ação,Terror,Ficção científica
 f	Archive (2020)	Ficção científica,Drama,Suspense
 f	Arco	Aventura,Animação,Família,Ficção científica

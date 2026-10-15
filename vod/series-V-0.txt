@@ -3125,6 +3125,8 @@
 @Vertex Force
 1	1	dub	19:317259/1/1
 1	1	leg	19:317259/1/1.mp4?lang=leg
+1	2	dub	19:317259/1/2
+1	2	leg	19:317259/1/2.mp4?lang=leg
 @Verão 90
 1	1	dub	19:92077/1/1,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/200457.mp4
 1	2	dub	19:92077/1/2,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/200458.mp4

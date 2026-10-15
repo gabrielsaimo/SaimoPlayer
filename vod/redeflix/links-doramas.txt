@@ -26,6 +26,7 @@
 1	14	dub	19:297982/1/14
 1	15	dub	19:297982/1/15
 1	16	dub	19:297982/1/16
+1	17	dub	19:297982/1/17
 @Your Sky: Hare Nochi Koi	2026	325110
 1	1	leg	19:325110/1/1.mp4?lang=leg
 1	2	leg	19:325110/1/2.mp4?lang=leg
@@ -113,6 +114,10 @@
 1	9	leg	19:317308/1/9.mp4?lang=leg
 1	10	dub	19:317308/1/10
 1	10	leg	19:317308/1/10.mp4?lang=leg
+1	11	dub	19:317308/1/11
+1	11	leg	19:317308/1/11.mp4?lang=leg
+1	12	dub	19:317308/1/12
+1	12	leg	19:317308/1/12.mp4?lang=leg
 @Contra a Correnteza	2026	282326
 1	1	dub	19:282326/1/1
 1	1	leg	19:282326/1/1.mp4?lang=leg
@@ -200,6 +205,14 @@
 1	42	leg	19:282326/1/42.mp4?lang=leg
 1	43	dub	19:282326/1/43
 1	43	leg	19:282326/1/43.mp4?lang=leg
+1	44	dub	19:282326/1/44
+1	44	leg	19:282326/1/44.mp4?lang=leg
+1	45	dub	19:282326/1/45
+1	45	leg	19:282326/1/45.mp4?lang=leg
+1	46	dub	19:282326/1/46
+1	46	leg	19:282326/1/46.mp4?lang=leg
+1	47	dub	19:282326/1/47
+1	47	leg	19:282326/1/47.mp4?lang=leg
 @Uma Fortuna Qualquer	2026	294636
 1	1	dub	19:294636/1/1
 1	1	leg	19:294636/1/1.mp4?lang=leg
@@ -370,6 +383,8 @@
 1	18	leg	19:332507/1/18.mp4?lang=leg
 1	19	dub	19:332507/1/19
 1	19	leg	19:332507/1/19.mp4?lang=leg
+1	20	dub	19:332507/1/20
+1	20	leg	19:332507/1/20.mp4?lang=leg
 @Canção de Amor no Inverno	2024	243028
 1	1	leg	19:243028/1/1.mp4?lang=leg
 1	2	leg	19:243028/1/2.mp4?lang=leg
@@ -488,6 +503,8 @@
 1	4	leg	19:201596/1/4.mp4?lang=leg
 1	5	dub	19:201596/1/5
 1	5	leg	19:201596/1/5.mp4?lang=leg
+1	6	dub	19:201596/1/6
+1	6	leg	19:201596/1/6.mp4?lang=leg
 1	7	dub	19:201596/1/7
 @No mundo inteiro, só você se conectou a mim	2026	239830
 1	1	dub	19:239830/1/1
@@ -9768,7 +9785,12 @@
 1	8	leg	19:308216/1/8.mp4?lang=leg
 1	9	dub	19:308216/1/9
 1	9	leg	19:308216/1/9.mp4?lang=leg
+1	10	dub	19:308216/1/10
 1	10	leg	19:308216/1/10.mp4?lang=leg
+1	11	dub	19:308216/1/11
+1	11	leg	19:308216/1/11.mp4?lang=leg
+1	12	dub	19:308216/1/12
+1	12	leg	19:308216/1/12.mp4?lang=leg
 @가족관계증명서	2026	320406
 1	1	leg	19:320406/1/1.mp4?lang=leg
 1	2	leg	19:320406/1/2.mp4?lang=leg

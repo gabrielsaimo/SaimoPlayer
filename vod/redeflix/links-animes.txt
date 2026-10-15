@@ -1268,12 +1268,16 @@
 1	1	leg	19:335194/1/1.mp4?lang=leg
 1	2	dub	19:335194/1/2
 1	2	leg	19:335194/1/2.mp4?lang=leg
+1	3	dub	19:335194/1/3
+1	3	leg	19:335194/1/3.mp4?lang=leg
 @#I&#039;m Looking for a Zombie		301139
 1	1	dub	19:301139/1/1
 1	1	leg	19:301139/1/1.mp4?lang=leg
 @Vertex Force		317259
 1	1	dub	19:317259/1/1
 1	1	leg	19:317259/1/1.mp4?lang=leg
+1	2	dub	19:317259/1/2
+1	2	leg	19:317259/1/2.mp4?lang=leg
 @Mestres do Universo: Histórias de Eternia		331349
 1	1	dub	19:331349/1/1
 1	2	dub	19:331349/1/2
@@ -13649,6 +13653,7 @@
 2	16	dub	19:32118/2/16
 2	17	dub	19:32118/2/17
 2	18	dub	19:32118/2/18
+2	19	dub	19:32118/2/19
 3	1	dub	19:32118/3/1
 3	2	dub	19:32118/3/2
 3	3	dub	19:32118/3/3
@@ -45254,6 +45259,7 @@
 3	13	dub	19:105009/3/13
 3	13	leg	19:105009/3/13.mp4?lang=leg,11:2297794
 4	1	dub	19:105009/4/1
+4	2	dub	19:105009/4/2
 @Arcane	2021	94605
 1	1	dub	19:94605/1/1,https://embedplayer2.xyz/cdn/hls/cc0e30934cf0bfc40e7d0c663d003638/master.txt
 1	2	dub	19:94605/1/2,https://embedplayer2.xyz/cdn/hls/5ccbc1f3ab671762c82c9719ace88a27/master.txt
