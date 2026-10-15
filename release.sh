@@ -71,10 +71,11 @@ cell=""
 notas="build/release/NOTAS.md"
 if [ ! -f "$notas" ]; then
   {
-    echo "## Saimo TV $versao"
+    echo "Novidades da versão $versao:"
     echo
-    git log --pretty="- %s" "$(git describe --tags --abbrev=0 2>/dev/null || echo HEAD~10)"..HEAD \
-      | grep -v "^- Merge" || true
+    git log --pretty="• %s" "$(git describe --tags --abbrev=0 2>/dev/null || echo HEAD~10)"..HEAD \
+      | grep -v "• Merge" \
+      | sed -E 's/• [a-z]+(\([^)]+\))?: /• /' || true
   } > "$notas"
 fi
 
