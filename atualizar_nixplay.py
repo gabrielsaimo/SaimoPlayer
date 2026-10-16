@@ -26,6 +26,7 @@ gerar_vod.py põe estas fontes na frente das outras, por ser a lista principal.
 import re
 import socket
 import time
+import unicodedata
 from collections import defaultdict
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode
@@ -39,19 +40,19 @@ def _ipv4_first(host, port, family=0, type=0, proto=0, flags=0):
 socket.getaddrinfo = _ipv4_first
 
 RAIZ = Path(__file__).resolve().parent
-LISTA = "https://nixplay.lat/get.php?username=cinevs-vods&password=wrcmBDcf4&type=m3u_plus"
-SERIE_BASE = "https://nixplay.lat/series/cinevs-vods/wrcmBDcf4/"
+LISTA = "https://hubby-dmca.com/get.php?username=PlayTvOficial-vods&password=op3lQ6nP76&type=m3u_plus"
+SERIE_BASE = "http://hubby-dmca.com:80/series/PlayTvOficial-vods/op3lQ6nP76/"
 SERIE_BASE_IDX = 19
 CACHE = RAIZ / "arquivos-gerados" / "nixplay" / "lista.m3u"
 SAIDA = RAIZ / "arquivos-gerados" / "nixplay"
 FICHAS = RAIZ / "vod" / "fichas.txt"
 BUSCA = RAIZ / "vod" / "busca.txt"
 REDEFLIX = RAIZ / "vod" / "redeflix"
-# "Bloom Life - S01E01" e "Born with Luck - S01E01 (Leg)": o nome da série é
-# o que vem antes do episódio; "(Leg)" no fim de filme marca só a versão.
-EPISODIO_NOME = re.compile(r"\s*-?\s*S\d{1,3}\s*E\d{1,4}\b.*$", re.I)
+EPISODIO_NOME = re.compile(r"^(.*?)\s*S(\d{1,3})\s*E(\d{1,4})\b", re.I)
 VERSAO_NOME = re.compile(r"\s*[\(\[](leg|legendado|dub|dublado|l)[\)\]]\s*$", re.I)
-ANO_PAR = re.compile(r"\(\d{4}\)\s*$")
+ANO_PAR = re.compile(r"\((?:19|20)\d{2}\)\s*$")
+ANO_FIM = re.compile(r"\s*(?:\(((?:19|20)\d{2})\)|((?:19|20)\d{2}))\s*$")
+QUALIDADE = re.compile(r"\s*\b(4k|uhd|fhd|hd|sd|h265|hevc|hdr|dv)\b\s*²?", re.I)
 
 
 def nome_do_extinf(linha: str) -> str:
@@ -101,13 +102,28 @@ def encurtar_serie(url: str) -> str:
     return url
 
 
-def fichas() -> dict[str, dict[str, str]]:
-    """id do TMDB -> título canônico do acervo, separado em filme (f) e série (s).
+def separar_ano(titulo: str) -> tuple[str, str]:
+    """Devolve título sem ano e o ano final, entre parênteses ou solto."""
+    achado = ANO_FIM.search(titulo)
+    if not achado:
+        return titulo, ""
+    sem_ano = ANO_FIM.sub("", titulo).strip()
+    sem_ano = re.sub(r"[\s\-–—:|]+$", "", sem_ano).strip()
+    if not sem_ano:
+        return titulo, ""
+    return sem_ano, achado.group(1) or achado.group(2)
 
-    Um único título por id do TMDB evita ressuscitar grafias antigas que já
-    saíram do acervo mas continuam guardadas em vod/fichas.txt. Prioriza quem
-    já está em vod/busca.txt e, entre empatados, quem traz o ano no nome.
-    """
+
+def chave(titulo: str, ano: str = "") -> str:
+    """Nome comparável entre listas, preservando o ano que separa refilmagens."""
+    texto = QUALIDADE.sub(" ", titulo)
+    texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
+    base = re.sub(r"[^a-z0-9]+", " ", texto).strip()
+    return f"{base}|{ano}" if ano else base
+
+
+def fichas():
+    """Carrega fichas indexadas por tmdb_id, poster e chave normalizada."""
     ativos: dict[str, set[str]] = {"f": set(), "s": set()}
     if BUSCA.exists():
         for linha in BUSCA.read_text(encoding="utf-8").splitlines():
@@ -116,16 +132,21 @@ def fichas() -> dict[str, dict[str, str]]:
                 ativos[campos[1]].add(campos[0])
 
     candidatos: dict[str, dict[str, list[str]]] = {"f": defaultdict(list), "s": defaultdict(list)}
+    posters: dict[str, dict[str, str]] = {"f": {}, "s": {}}
+    titulos_map: dict[str, dict[str, tuple[str, str]]] = {"f": {}, "s": {}}
+
     for linha in FICHAS.read_text(encoding="utf-8").splitlines():
         campos = linha.split("\t")
         if len(campos) >= 3 and campos[0] in candidatos and campos[2].isdigit():
-            if campos[1] not in candidatos[campos[0]][campos[2]]:
-                candidatos[campos[0]][campos[2]].append(campos[1])
+            tipo, tit, tmdb = campos[0], campos[1], campos[2]
+            if tit not in candidatos[tipo][tmdb]:
+                candidatos[tipo][tmdb].append(tit)
+            if len(campos) >= 4 and campos[3].strip() and campos[3].strip() != "-":
+                posters[tipo][campos[3].strip()] = tmdb
 
     por_id: dict[str, dict[str, str]] = {"f": {}, "s": {}}
     for tipo in ("f", "s"):
         for tmdb, lista in candidatos[tipo].items():
-            # Prioridade: (não está ativo no acervo atual, não tem ano explícito, posição original)
             melhor = min(
                 enumerate(lista),
                 key=lambda par: (
@@ -135,13 +156,15 @@ def fichas() -> dict[str, dict[str, str]]:
                 ),
             )[1]
             por_id[tipo][tmdb] = melhor
-    return por_id
+            t_sem, ano = separar_ano(melhor)
+            titulos_map[tipo][chave(t_sem, ano)] = (tmdb, melhor)
+            titulos_map[tipo][chave(t_sem)] = (tmdb, melhor)
+
+    return por_id, posters, titulos_map
 
 
 def anos_das_series() -> dict[str, str]:
-    """Título da série -> ano, como o acervo publicado escreve no cabeçalho.
-    O ano faz parte da chave da série no gerar_vod.py: sem ele a fonte abriria
-    uma série nova em vez de entrar na que existe."""
+    """Título da série -> ano, como o acervo publicado escreve no cabeçalho."""
     anos: dict[str, str] = {}
     for arquivo in sorted((RAIZ / "vod").glob("series-*.txt")):
         for linha in arquivo.read_text(encoding="utf-8").splitlines():
@@ -151,17 +174,32 @@ def anos_das_series() -> dict[str, str]:
     return anos
 
 
+def series_cadastradas() -> dict[str, tuple[str, str]]:
+    """Chave da série -> (título canônico, ano)."""
+    series: dict[str, tuple[str, str]] = {}
+    for arquivo in sorted((RAIZ / "vod").glob("series-*.txt")):
+        for linha in arquivo.read_text(encoding="utf-8").splitlines():
+            if linha.startswith("@"):
+                campos = linha[1:].split("\t")
+                t = campos[0].strip()
+                a = campos[1].strip() if len(campos) > 1 else ""
+                t_sem, a2 = separar_ano(t)
+                ano_final = a or a2
+                series[chave(t_sem, ano_final)] = (t, ano_final)
+                series[chave(t_sem)] = (t, ano_final)
+    return series
+
+
 def atualizar_colecoes_redeflix(
     eps_por_tmdb: dict[str, dict[tuple[int, int, str], list[str]]],
 ) -> None:
-    """Injeta as fontes da NixPlay na frente de animes e doramas (vod/redeflix)."""
+    """Injeta as fontes da lista principal na frente de animes e doramas (vod/redeflix)."""
     for categoria in ("animes", "doramas"):
         cat_path = REDEFLIX / f"catalogo-{categoria}.txt"
         links_path = REDEFLIX / f"links-{categoria}.txt"
         if not cat_path.exists() or not links_path.exists():
             continue
 
-        # Lê as fontes atuais já publicadas para preservá-las como reserva
         existentes: dict[str, dict[tuple[int, int, str], list[str]]] = defaultdict(lambda: defaultdict(list))
         metadados: dict[str, tuple[str, str]] = {}
         tmdb_atual = ""
@@ -182,10 +220,10 @@ def atualizar_colecoes_redeflix(
             alvo = (int(campos[0]), int(campos[1]), campos[2] or "dub")
             for u in campos[3].split(","):
                 u = u.strip()
-                if u and u not in existentes[tmdb_atual][alvo]:
+                # Remove fontes da base antiga nixplay.lat / 19:
+                if u and not u.startswith("19:") and "nixplay.lat" not in u and u not in existentes[tmdb_atual][alvo]:
                     existentes[tmdb_atual][alvo].append(u)
 
-        # Percorre o catálogo completo da categoria (inclui títulos que o EmbedPlayer não tinha)
         linhas_saida: list[str] = []
         titulos_com_fonte = 0
         for linha in cat_path.read_text(encoding="utf-8").splitlines():
@@ -216,63 +254,106 @@ def atualizar_colecoes_redeflix(
 
         if linhas_saida:
             links_path.write_text("\n".join(linhas_saida) + "\n", encoding="utf-8")
-            print(f"nixplay -> {categoria}: {titulos_com_fonte} títulos atualizados")
+            print(f"lista principal -> {categoria}: {titulos_com_fonte} títulos atualizados")
 
 
 def main() -> None:
     texto = baixar()
-    por_id = fichas()
+    por_id, posters, titulos_map = fichas()
     anos = anos_das_series()
+    series_map = series_cadastradas()
 
     filmes: dict[str, dict[str, list[str]]] = defaultdict(lambda: defaultdict(list))
     series: dict[tuple[str, str], dict[tuple[int, int, str], list[str]]] = defaultdict(lambda: defaultdict(list))
     eps_por_tmdb: dict[str, dict[tuple[int, int, str], list[str]]] = defaultdict(lambda: defaultdict(list))
     novos_f: set[str] = set()
     novas_s: set[str] = set()
-    nome_novo: dict[tuple[str, str], str] = {}
     tmdb_por_titulo: dict[tuple[str, str], str] = {}
 
     nome = ""
+    linha_extinf = ""
     for linha in texto.splitlines():
         linha = linha.strip()
         if linha.startswith("#EXTINF"):
+            linha_extinf = linha
             nome = nome_do_extinf(linha)
             continue
         if not linha.startswith("http") or not nome:
             continue
         url, versao = limpar(linha)
-        partes = url.split("?", 1)[0].split("/")
+        if any(w in nome.lower() for w in ("(leg)", "[leg]", "legendad", "lang=leg")):
+            versao = "leg"
+
         if "/movie/" in url:
-            tmdb = partes[-1].split(".")[0]
-            titulo = por_id["f"].get(tmdb)
+            logo_m = re.search(r'tvg-logo="([^"]*)"', linha_extinf)
+            logo = logo_m.group(1) if logo_m else ""
+            poster_path = "/" + logo.split("/")[-1] if "image.tmdb.org/t/p/" in logo else ""
+
+            nome_limpo = VERSAO_NOME.sub("", nome).strip()
+            t_sem_ano, ano = separar_ano(nome_limpo)
+
+            tmdb = ""
+            titulo = None
+            if poster_path and poster_path in posters["f"]:
+                tmdb = posters["f"][poster_path]
+                titulo = por_id["f"].get(tmdb)
+
             if not titulo:
-                novos_f.add(tmdb)
-                titulo = nome_novo.setdefault(("f", tmdb), VERSAO_NOME.sub("", nome).strip())
-            tmdb_por_titulo[("f", titulo)] = tmdb
+                k = chave(t_sem_ano, ano)
+                k_sem = chave(t_sem_ano)
+                if k in titulos_map["f"]:
+                    tmdb, titulo = titulos_map["f"][k]
+                elif k_sem in titulos_map["f"]:
+                    tmdb, titulo = titulos_map["f"][k_sem]
+                else:
+                    novos_f.add(nome_limpo)
+                    titulo = f"{t_sem_ano} ({ano})" if ano and not ANO_PAR.search(t_sem_ano) else t_sem_ano
+
+            if tmdb:
+                tmdb_por_titulo[("f", titulo)] = tmdb
             if url not in filmes[titulo][versao]:
                 filmes[titulo][versao].append(url)
+
         elif "/series/" in url:
-            tmdb, temporada, episodio = partes[-3], partes[-2], partes[-1].split(".")[0]
-            if not (temporada.isdigit() and episodio.isdigit()):
+            m = EPISODIO_NOME.search(nome)
+            if not m:
+                nome = ""
+                linha_extinf = ""
                 continue
-            alvo = (int(temporada), int(episodio), versao)
-            if url not in eps_por_tmdb[tmdb][alvo]:
-                eps_por_tmdb[tmdb][alvo].append(url)
-            titulo = por_id["s"].get(tmdb)
-            if titulo:
-                destino = (titulo, anos.get(titulo, ""))
+            s_nome = VERSAO_NOME.sub("", m.group(1)).strip()
+            temporada = int(m.group(2))
+            episodio = int(m.group(3))
+            alvo = (temporada, episodio, versao)
+
+            t_sem_ano, ano = separar_ano(s_nome)
+            k = chave(t_sem_ano, ano)
+            k_sem = chave(t_sem_ano)
+
+            tmdb = ""
+            if k in series_map:
+                destino = series_map[k]
+            elif k_sem in series_map:
+                destino = series_map[k_sem]
+            elif k in titulos_map["s"]:
+                tmdb, t_can = titulos_map["s"][k]
+                destino = (t_can, ano or anos.get(t_can, ""))
+            elif k_sem in titulos_map["s"]:
+                tmdb, t_can = titulos_map["s"][k_sem]
+                destino = (t_can, ano or anos.get(t_can, ""))
             else:
-                novas_s.add(tmdb)
-                # Um nome por id: o do primeiro episódio que aparecer.
-                titulo = nome_novo.setdefault(
-                    ("s", tmdb),
-                    VERSAO_NOME.sub("", EPISODIO_NOME.sub("", nome).strip()).strip(),
-                )
-                destino = (titulo, "")
-            tmdb_por_titulo[("s", destino[0])] = tmdb
+                novas_s.add(s_nome)
+                destino = (s_nome, ano or anos.get(s_nome, ""))
+
+            if tmdb:
+                tmdb_por_titulo[("s", destino[0])] = tmdb
+                if url not in eps_por_tmdb[tmdb][alvo]:
+                    eps_por_tmdb[tmdb][alvo].append(url)
+
             if url not in series[destino][alvo]:
                 series[destino][alvo].append(url)
+
         nome = ""
+        linha_extinf = ""
 
     SAIDA.mkdir(parents=True, exist_ok=True)
     with (SAIDA / "links-filmes.txt").open("w", encoding="utf-8") as f:
@@ -293,8 +374,8 @@ def main() -> None:
     atualizar_colecoes_redeflix(eps_por_tmdb)
 
     episodios = sum(len(eps) for eps in series.values())
-    print(f"nixplay: {len(filmes)} filmes ({len(novos_f)} ids novos no acervo) | "
-          f"{len(series)} séries ({len(novas_s)} ids novos), {episodios} episódios")
+    print(f"lista principal: {len(filmes)} filmes ({len(novos_f)} novos no acervo) | "
+          f"{len(series)} séries ({len(novas_s)} novas), {episodios} episódios")
 
 
 if __name__ == "__main__":

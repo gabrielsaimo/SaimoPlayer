@@ -59,12 +59,12 @@ SAIDA = ROOT / "vod"
 # vão na frente de todas as outras; os arquivos são refeitos da lista a cada
 # rodada e ficam fora do repositório.
 NIXPLAY = ROOT / "arquivos-gerados" / "nixplay"
-NIXPLAY_SERVIDOR = "nixplay.lat"
+NIXPLAY_SERVIDOR = "hubby-dmca.com"
 # Registradas à mão: o índice só aprende base nova até a 12ª, e a de série
-# termina antes do id ("…/wrcmBDcf4/1396/1/1.mp4" vira "N:1396/1/1").
+# termina antes do id.
 NIXPLAY_BASES = (
-    "https://nixplay.lat/movie/cinevs-vods/wrcmBDcf4/",
-    "https://nixplay.lat/series/cinevs-vods/wrcmBDcf4/",
+    "http://hubby-dmca.com:80/movie/PlayTvOficial-vods/op3lQ6nP76/",
+    "http://hubby-dmca.com:80/series/PlayTvOficial-vods/op3lQ6nP76/",
 )
 # Fontes que o teste (testar_fontes_vod.py) confirmou mortas, uma URL inteira
 # por linha. O acervo é remontado todo dia guardando os links antigos; sem esta
