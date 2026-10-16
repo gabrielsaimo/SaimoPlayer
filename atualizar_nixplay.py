@@ -41,7 +41,7 @@ socket.getaddrinfo = _ipv4_first
 
 RAIZ = Path(__file__).resolve().parent
 LISTA = "https://hubby-dmca.com/get.php?username=PlayTvOficial-vods&password=op3lQ6nP76&type=m3u_plus"
-SERIE_BASE = "http://hubby-dmca.com:80/series/PlayTvOficial-vods/op3lQ6nP76/"
+SERIE_BASE = "https://hubby-dmca.com/series/PlayTvOficial-vods/op3lQ6nP76/"
 SERIE_BASE_IDX = 19
 CACHE = RAIZ / "arquivos-gerados" / "nixplay" / "lista.m3u"
 SAIDA = RAIZ / "arquivos-gerados" / "nixplay"
@@ -87,7 +87,11 @@ def baixar(forcar: bool = False) -> str:
 
 
 def limpar(url: str) -> tuple[str, str]:
-    """URL sem `economy` e a versão (dub ou leg) pelo `lang`."""
+    """URL sem `economy`, normalizada em HTTPS, e a versão (dub ou leg) pelo `lang`."""
+    url = (
+        url.replace("http://hubby-dmca.com:80/", "https://hubby-dmca.com/")
+        .replace("http://hubby-dmca.com/", "https://hubby-dmca.com/")
+    )
     base, _, consulta = url.partition("?")
     params = [(k, v) for k, v in parse_qsl(consulta) if k != "economy"]
     versao = "leg" if ("lang", "leg") in params else "dub"
@@ -280,8 +284,18 @@ def main() -> None:
             continue
         if not linha.startswith("http") or not nome:
             continue
+        grupo_m = re.search(r'group-title="([^"]*)"', linha_extinf)
+        grupo = (grupo_m.group(1) if grupo_m else "").lower()
+        nome_low = nome.lower()
+        if (
+            any(w in grupo for w in ("xxx", "adult", "+18", "18+", "erot", "private"))
+            or any(w in nome_low for w in ("[xxx]", "[adulto]", "[+18]", "[18+]"))
+        ):
+            nome = ""
+            linha_extinf = ""
+            continue
         url, versao = limpar(linha)
-        if any(w in nome.lower() for w in ("(leg)", "[leg]", "legendad", "lang=leg")):
+        if any(w in nome_low for w in ("(leg)", "[leg]", "legendad", "lang=leg")):
             versao = "leg"
 
         if "/movie/" in url:

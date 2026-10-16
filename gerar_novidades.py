@@ -47,6 +47,9 @@ def ler_busca(texto):
     for linha in (texto or "").splitlines():
         campos = linha.split("\t")
         if len(campos) >= 2 and campos[1] in ("f", "s"):
+            t_low = campos[0].lower()
+            if any(w in t_low for w in ("[xxx]", "[adulto]", "[+18]", "[18+]")):
+                continue
             itens.add((campos[1], campos[0]))
     return itens
 

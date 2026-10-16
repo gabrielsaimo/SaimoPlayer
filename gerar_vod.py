@@ -63,8 +63,8 @@ NIXPLAY_SERVIDOR = "hubby-dmca.com"
 # Registradas à mão: o índice só aprende base nova até a 12ª, e a de série
 # termina antes do id.
 NIXPLAY_BASES = (
-    "http://hubby-dmca.com:80/movie/PlayTvOficial-vods/op3lQ6nP76/",
-    "http://hubby-dmca.com:80/series/PlayTvOficial-vods/op3lQ6nP76/",
+    "https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/",
+    "https://hubby-dmca.com/series/PlayTvOficial-vods/op3lQ6nP76/",
 )
 # Fontes que o teste (testar_fontes_vod.py) confirmou mortas, uma URL inteira
 # por linha. O acervo é remontado todo dia guardando os links antigos; sem esta
@@ -427,6 +427,9 @@ def main():
     novos_filmes = novas_series = 0
 
     def somar_filme(k, direto):
+        t_low = direto["titulo"].lower()
+        if any(w in t_low for w in ("[xxx]", "[adulto]", "[+18]", "[18+]")):
+            return
         registro = filmes[k]
         registro["titulo"] = registro["titulo"] or direto["titulo"]
         for versao, urls in direto["versoes"].items():
