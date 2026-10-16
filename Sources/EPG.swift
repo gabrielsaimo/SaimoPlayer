@@ -230,14 +230,14 @@ final class EPGService: ObservableObject {
                     throw UpstreamError.transport("nenhuma fonte de EPG respondeu")
                 }
 
-                // meuguia.tv first: the XMLTV feeds carry the wrong schedule
-                // for several channels, so they only fill what it does not cover.
-                var merged = await MeuGuia.fetch(wanted: wanted, from: from, to: to)
+                // guiadetv.com vem primeiro: cobre 121+ canais com horários precisos
+                // no fuso de Brasília, sem 429 e com sinopse em 99,8% dos programas.
+                var merged = await GuiaDeTv.fetch(wanted: wanted, from: from, to: to)
 
-                // Reserva do guiadetv: só para quem o meuguia não listou.
-                let faltando = wanted.filter { merged[$0.id] == nil }
-                if !faltando.isEmpty {
-                    for (id, programmes) in await GuiaDeTv.fetch(wanted: faltando, from: from, to: to) {
+                // meuguia.tv entra como reserva para os canais que o guiadetv não lista (ex: Canal Brasil)
+                let faltandoMeuGuia = wanted.filter { merged[$0.id] == nil }
+                if !faltandoMeuGuia.isEmpty {
+                    for (id, programmes) in await MeuGuia.fetch(wanted: faltandoMeuGuia, from: from, to: to) {
                         merged[id] = programmes
                     }
                 }
@@ -351,7 +351,7 @@ final class EPGService: ObservableObject {
     private var cachedSignature: String?
 
     private static func signature(of channels: [Channel]) -> String {
-        "v3:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
+        "v4:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
     }
 
     /// id da Pluto -> canal. O id tem 24 dígitos hexadecimais e aparece no link

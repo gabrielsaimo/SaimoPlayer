@@ -13,7 +13,7 @@ enum MeuGuia {
     static let codes: [String: String] = [
         "A&E": "MDO", "Animal Planet": "APL", "AXN": "AXN",
         "Band": "BAN", "Band Sports": "BSP", "Cartoon Network": "CAR",
-        "canal-brasil": "CBR", "canal-off": "OFF",
+        "canal-brasil": "CBR", "Canal Brasil": "CBR", "canal-off": "OFF", "Canal OFF": "OFF",
         "Cinemax": "MNX", "Combate": "135",
         "Discovery Channel": "DIS", "Discovery Home & Health": "HEA",
         "Discovery Kids": "DIK", "Discovery Science": "DSC",
@@ -38,7 +38,8 @@ enum MeuGuia {
     static func fetch(wanted: [(id: UUID, name: String)],
                       from: Date, to: Date) async -> [UUID: [Programme]] {
         let targets = wanted.compactMap { entry -> (UUID, String)? in
-            guard let code = codes[entry.name] else { return nil }
+            let key = XMLTVParser.normalise(entry.name)
+            guard let code = codes[entry.name] ?? codes[key] else { return nil }
             return (entry.id, code)
         }
         guard !targets.isEmpty else { return [:] }
