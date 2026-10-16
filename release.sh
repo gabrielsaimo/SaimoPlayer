@@ -30,6 +30,45 @@ PY
 )
   sed -i '' "s/versionName = \".*\"/versionName = \"$versao\"/" "$GRADLE"
   sed -i '' "s/versionCode = .*/versionCode = $codigo/" "$GRADLE"
+
+  CELL_DIR="../Saimo-Cell-V2"
+  if [ -d "$CELL_DIR" ]; then
+    python3 - "$CELL_DIR" "$versao" "$codigo" <<'PY'
+import sys, json
+
+cell_dir, versao, codigo = sys.argv[1], sys.argv[2], int(sys.argv[3])
+pkg_path = f"{cell_dir}/package.json"
+try:
+    with open(pkg_path, "r", encoding="utf-8") as f:
+        pkg = json.load(f)
+    pkg["version"] = versao
+    with open(pkg_path, "w", encoding="utf-8") as f:
+        json.dump(pkg, f, indent=2)
+        f.write("\n")
+except Exception as e:
+    print(f"Aviso ao atualizar package.json do celular: {e}")
+
+app_path = f"{cell_dir}/app.json"
+try:
+    with open(app_path, "r", encoding="utf-8") as f:
+        app = json.load(f)
+    expo = app.get("expo", {})
+    expo["version"] = versao
+    if "ios" in expo:
+        expo["ios"]["buildNumber"] = versao
+    if "android" in expo:
+        expo["android"]["versionCode"] = codigo
+    with open(app_path, "w", encoding="utf-8") as f:
+        json.dump(app, f, indent=2)
+        f.write("\n")
+except Exception as e:
+    print(f"Aviso ao atualizar app.json do celular: {e}")
+PY
+    if [ -f "$CELL_DIR/android/app/build.gradle" ]; then
+      sed -i '' "s/versionName \".*\"/versionName \"$versao\"/" "$CELL_DIR/android/app/build.gradle"
+      sed -i '' "s/versionCode .*/versionCode $codigo/" "$CELL_DIR/android/app/build.gradle"
+    fi
+  fi
   shift
 else
   versao=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$PLIST")
@@ -53,8 +92,12 @@ echo "==> montando o app do Windows"
 ( cd ../SaimoWin && ./empacotar.sh >/dev/null )
 cp "../SaimoWin/dist/SaimoTV-Windows.zip" "build/release/SaimoTV-Windows.zip"
 
-# O APK do celular é montado à parte (Expo) e copiado para cá antes de publicar.
-if [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" ]; then
+if [ -d "../Saimo-Cell-V2/android" ]; then
+  echo "==> montando o APK do celular"
+  ( cd ../Saimo-Cell-V2/android && JAVA_HOME="$JAVA17" ANDROID_HOME="$HOME/Library/Android/sdk" \
+    ./gradlew assembleRelease -q )
+  cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
+elif [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" ]; then
   cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
 fi
 
