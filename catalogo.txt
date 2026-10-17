@@ -4601,7 +4601,7 @@ qualidade: HD
 
 canal: Discovery ID
 categoria: Documentários
-logo: https://img.faz-o-eli.online/discoverychannel.png
+logo: https://mondrian.claro.com.br/channels/inverse/investigacao-discovery.png
 
 fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/d3ab4fe684be2ba18a8680ade6b4b25c/error.txt
 qualidade: HD · 1280x720
@@ -4753,7 +4753,7 @@ fonte: https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_7
 
 canal: Music Box Brazil
 categoria: Variedades
-logo: https://commons.wikimedia.org/wiki/Special:Redirect/file/MusicBoxBrazil.png
+logo: https://img.faz-o-eli.online/musicboxbrazil.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE4NC5tM3U4.m3u8
 qualidade: FHD
@@ -5294,7 +5294,6 @@ qualidade: HD
 
 canal: Canal Agro
 categoria: Variedades
-logo: https://img.faz-o-eli.online/canalrural.png
 
 fonte: http://45.162.64.114/AGRO_CANAL/index.m3u8
 qualidade: HD · 1280x720
@@ -5496,7 +5495,6 @@ qualidade: FHD · 1920x1080
 
 canal: Cultura Fast
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/tv-cultura.png
 
 fonte: https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 qualidade: HD · 1280x720
@@ -7607,7 +7605,6 @@ qualidade: FHD · 1920x1080
 
 canal: Eurochannel
 categoria: Notícias
-logo: https://mondrian.claro.com.br/channels/inverse/eurochannel.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/104910.m3u8
 qualidade: FHD
@@ -7688,7 +7685,6 @@ qualidade: HD
 
 canal: Formula 1 TV
 categoria: PPV
-logo: https://imgur.com/a/jyyyawL
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvOTc3MDQwLm0zdTg.m3u8
 qualidade: HD
@@ -7831,7 +7827,7 @@ qualidade: Qualidade não informada
 
 canal: Paramount + 4
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/paramount-network.png
+logo: https://vipcanais.net/images/paramountplus.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/103521.m3u8
 qualidade: 4K
@@ -8316,7 +8312,6 @@ qualidade: HD · 1280x960
 
 canal: FCF TV 1
 categoria: PPV
-logo: https://mondrian.claro.com.br/channels/inverse/fcf-tv.png
 
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/247976.m3u8
 qualidade: FHD
@@ -8366,7 +8361,6 @@ qualidade: HD · 1280x720
 
 canal: CNBC Brasil
 categoria: Notícias
-logo: https://mondrian.claro.com.br/channels/inverse/cnbc-brasil.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/295477.m3u8
 qualidade: FHD
@@ -8393,7 +8387,6 @@ qualidade: FHD · 1920x1080
 
 canal: Brasileirao Serie A
 categoria: Variedades
-logo: https://mondrian.claro.com.br/channels/inverse/brasileirao.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317063.m3u8
 qualidade: FHD
@@ -8412,7 +8405,6 @@ qualidade: FHD · 1920x1080
 
 canal: Andorra x Malta
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317686.m3u8
 qualidade: FHD · 1920x1080
@@ -8421,14 +8413,12 @@ qualidade: FHD · 1920x1080
 
 canal: Portugal x País de Gales
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317690.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Áustria x Israel
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317691.m3u8
 qualidade: FHD · 1920x1080
@@ -8437,7 +8427,6 @@ qualidade: FHD · 1920x1080
 
 canal: Kosovo x Irlanda
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317692.m3u8
 qualidade: FHD · 1920x1080
@@ -8446,7 +8435,6 @@ qualidade: FHD · 1920x1080
 
 canal: Liechtenstein x Lituânia
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317693.m3u8
 qualidade: FHD · 1920x1080
@@ -8455,7 +8443,6 @@ qualidade: FHD · 1920x1080
 
 canal: Informações em Breve
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/317694.m3u8
 qualidade: FHD · 1920x1080
@@ -8576,7 +8563,6 @@ qualidade: FHD
 
 canal: JOGOS DE HOJE
 categoria: Esportes
-logo: https://i.postimg.cc/cHHX4vYD/canal-futebol.png
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/339310.m3u8
 qualidade: HD · 1280x720
@@ -8590,7 +8576,7 @@ qualidade: HD · 1280x720
 
 canal: CHAPOLIN
 categoria: 24 Horas
-logo: https://img.faz-o-eli.online/24h.png
+logo: http://24horas.cc:80/images/77e8debc90dbfd7e69d9decf09b9e05e.jpg
 
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169216.m3u8
 qualidade: HD · 1280x720
@@ -8651,7 +8637,6 @@ qualidade: Qualidade não informada
 
 canal: Anime Channel TV
 categoria: Infantil
-logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
 qualidade: SD · 640x360
@@ -8660,56 +8645,48 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: Otaku Sign TV
 categoria: Infantil
-logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stmv1.srvif.com/anime/anime/playlist.m3u8
 qualidade: SD · 1024x576
 
 canal: Geekdot
 categoria: Infantil
-logo: https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1785430875394.png
 
 fonte: https://stream.ichibansys.com:3764/hybrid/play.m3u8
 qualidade: HD · 1280x720
 
 canal: NBX TV Kids
 categoria: Infantil
-logo: https://img.faz-o-eli.online/gloobinho.png
 
 fonte: https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: SBC Kids
 categoria: Infantil
-logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 
 fonte: https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Rede Crianças
 categoria: Infantil
-logo: https://img.faz-o-eli.online/cartoonito.png
 
 fonte: https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Kuriakos Kids
 categoria: Infantil
-logo: https://img.faz-o-eli.online/discoverykids.png
 
 fonte: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Gospel Cartoon
 categoria: Infantil
-logo: https://www.tvlogo.org/brazil/box-kids-tv-br.png
 
 fonte: https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 qualidade: SD · 640x360
 
 canal: Jetsons TV
 categoria: Infantil
-logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 qualidade: SD · 640x480
@@ -8725,7 +8702,6 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: TV A Crítica
 categoria: TV Aberta
-logo: https://mondrian.claro.com.br/channels/inverse/tv-a-critica.png
 
 fonte: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 qualidade: HD · 1280x720
@@ -8734,7 +8710,6 @@ agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lik
 
 canal: FIFA+ Português
 categoria: Esportes
-logo: https://mondrian.claro.com.br/channels/inverse/fifa.png
 
 fonte: https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 qualidade: SD · 384x216
@@ -8771,7 +8746,6 @@ qualidade: FHD · 1920x1080
 
 canal: Runtime Ação
 categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/telecineaction.png
 
 fonte: https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 qualidade: HD · 1280x720
@@ -8785,70 +8759,60 @@ qualidade: FHD · 1920x1080
 
 canal: Top TV
 categoria: Músicas
-logo: https://img.faz-o-eli.online/bis.png
 
 fonte: https://isaocorp.cloudecast.com/toptv/index.m3u8
 qualidade: FHD · 1920x1080
 
 canal: MovieSphere Brazil
 categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/telecinefun.png
 
 fonte: https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
 qualidade: FHD · 1920x1080
 
 canal: Trace Urban
 categoria: Músicas
-logo: https://mondrian.claro.com.br/channels/inverse/trace-urban.png
 
 fonte: https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Sony One Classics
 categoria: Filmes e Séries
-logo: https://mondrian.claro.com.br/channels/inverse/sony-channel.png
 
 fonte: https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Classique Faroeste
 categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/telecinecult.png
 
 fonte: https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Loading TV
 categoria: Infantil
-logo: https://mondrian.claro.com.br/channels/inverse/loading.png
 
 fonte: https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Retrô Cartoon
 categoria: Infantil
-logo: https://img.faz-o-eli.online/cartoonnetwork.png
 
 fonte: https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Retro Music
 categoria: Músicas
-logo: https://img.faz-o-eli.online/musicboxbrazil.png
 
 fonte: https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: Now Rock
 categoria: Músicas
-logo: https://img.faz-o-eli.online/bis.png
 
 fonte: https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 qualidade: HD · 1280x720
 
 canal: TV Clássicos
 categoria: Filmes e Séries
-logo: https://img.faz-o-eli.online/telecinecult.png
 
 fonte: https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 qualidade: HD · 1280x720
