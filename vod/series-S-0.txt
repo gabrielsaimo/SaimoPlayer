@@ -1405,6 +1405,7 @@
 2	1	dub	19:931216,11:2472635
 2	2	dub	19:931217,11:2472636
 2	3	dub	19:931479
+2	4	dub	19:932061
 @Sacrifício de Sangue	2026
 1	1	dub	19:926366,https://embedplayer2.xyz/cdn/hls/088be6b6bb23993c8434bbbc129ef944/master.txt,11:2466148,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313252.mp4
 1	2	dub	19:926367,https://embedplayer2.xyz/cdn/hls/0237b9b077ac9a2ecdac4c508f74ebfb/master.txt,11:2466149,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/313253.mp4
@@ -1576,6 +1577,9 @@
 2	7	dub	19:928256,11:2470060,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/316250.mp4
 2	8	dub	19:929744,11:2472080
 2	9	dub	19:930451,11:2472081
+2	10	dub	19:932088
+2	11	dub	19:932089
+2	12	dub	19:932090
 4	1	dub	19:931582
 @Sagrada Família
 1	1	dub	19:245538,11:2222311,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/154277.mp4

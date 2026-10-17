@@ -2083,6 +2083,7 @@
 1	1	dub	19:930413,11:2471925
 1	2	dub	19:931064,11:2472601
 1	3	dub	19:931690
+1	4	dub	19:931995
 @Papai
 1	1	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217417.mp4
 1	2	dub	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/217418.mp4
@@ -3597,6 +3598,7 @@
 1	14	dub	19:921065,11:2098869,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/308193.mp4
 2	1	dub	19:931183,11:2472417
 2	2	dub	19:931665
+2	3	dub	19:932068
 @Parenthood Minha Familia
 1	1	dub	19:524594,11:2224129,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152055.mp4
 1	2	dub	19:524595,11:2224130,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/152056.mp4
@@ -5270,6 +5272,9 @@
 @Paw & Palaces (2025)	2025
 1	1	dub	19:931854
 1	2	dub	19:931855
+1	3	dub	19:932071
+1	4	dub	19:932072
+1	5	dub	19:932073
 @Payback
 1	1	dub	19:240853,19:916810
 1	1	leg	11:2292096

@@ -7,7 +7,7 @@ A Alma Não Tem Cor		0	87
 A Amiga Genial	2018	0	19
 A Anatomia de Grey		0	2
 A Antartida		0	20
-A Arena		0	5
+A Arena		0	10
 A Armadilha		0	6
 A Arte da Negociacao		0	24
 A Arte de Sarah		0	8
@@ -130,7 +130,7 @@ A Desordem que Ficou		1	8
 A Diarista		1	119
 A Dinastia - UConn Huskies		1	4
 A Dinastia New England Patriots		1	20
-A Diplomata		1	22
+A Diplomata		1	30
 A Direita no Brasil		1	3
 A Disputa dos Confeiteiros Halloween		1	46
 A Disputa dos Confeiteiros: Primavera		1	69
@@ -320,6 +320,7 @@ A Lenda de Sleepy Hollow	2013	2	61
 A Lenda de Vox Machina	2022	2	48
 A Lenda de Zhuohua		2	80
 A Lenda do Líder Fili		2	39
+A Lenda do Soldado Cozinheiro (2026)	2026	2	12
 A Lenda do Tesouro Perdido: No Limiar da História		2	10
 A Leste do Palácio		2	8
 A Leste do Éden		2	7
@@ -357,7 +358,7 @@ A Mansao Foster para Amigos Imaginários		2	76
 A Mao do Eurico	2023	2	5
 A Maquina		2	12
 A Mascara do Bilionario		2	1
-A Matilha		2	9
+A Matilha		3	9
 A Melhor Amiga da Noiva		3	36
 A Melhor Irma	2025	3	8
 A Melhor Pior Funcionaria		3	16
@@ -401,7 +402,7 @@ A Namorada Ideal		3	6
 A Negociadora		3	12
 A Neta Escolhida		3	81
 A Ninja and an Assassin Under One Roof		3	24
-A Nobreza do Amor		3	170
+A Nobreza do Amor		3	174
 A Noiva - Gelin		3	477
 A Noiva Indesejada		3	1
 A Noiva Muda do Alfa Amaldicoado		3	1
@@ -425,7 +426,7 @@ A Pacificadora	2020	3	10
 A Paixão		3	6
 A Paixão Turca		3	6
 A Paranormal		3	130
-A Parasite's Heart		3	21
+A Parasite's Heart		3	24
 A Partitura Secreta	2024	3	8
 A Pedra dos Sonhos		3	13
 A Penúltima Palavra		3	6
@@ -454,7 +455,7 @@ A Princesa Guerreira - Destan		3	119
 A Princesa Oferenda e o Rei das Feras		3	48
 A Princesa Real		3	80
 A Prisioneira da Beleza		3	72
-A Produtora		3	8
+A Produtora		3	9
 A Promessa	2023	3	537
 A Promessa - La Promesa		3	446
 A Promessa Yemin		3	409
@@ -477,7 +478,7 @@ A Rainha da Trapaca de Hollywood		3	6
 A Rainha das Vilas	2024	3	5
 A Rainha do Flow		3	82
 A Rainha do Fluxo		3	82
-A Rainha do Misterio		3	62
+A Rainha do Misterio		4	62
 A Rainha do Sul	2016	4	62
 A Rainha do Tráfico		4	63
 A Rainha dos Golpes		4	12
@@ -597,7 +598,7 @@ A Vinganca - Can Kırıkları		4	16
 A Vinganca da Branca de Neve		4	202
 A Vinganca de Analia		4	123
 A Vinganca de Analia - La Venganza de Analia		4	114
-A Vinganca do Casamento Perfeito		4	24
+A Vinganca do Casamento Perfeito		5	24
 A Vingança de Kuzgun		5	21
 A Vingança do Nerd		5	7
 A Virada		5	4
@@ -713,11 +714,11 @@ After School Doctor		5	20
 After the Rain		5	12
 Afterglow		5	7
 Afterschool Hanakokun		5	8
-Against the Current		5	53
+Against the Current		5	54
 Agarre Seu Amor		5	48
 Agate		5	60
 Agatha Christie's Poirot		5	69
-Agatha Christies Poirot		5	69
+Agatha Christies Poirot		6	69
 Agatha Desde Sempre	2024	6	9
 Agency		6	16
 Agent P Under C		6	8
@@ -837,7 +838,7 @@ Alvo Humano		6	12
 Alvo Primario	2025	6	8
 Always a Catch		6	12
 Alya Sometimes Hides Her Feelings in Russian		6	24
-Além Das Nuvens		6	48
+Além Das Nuvens		7	48
 Além da Ilha		7	10
 Além da Ilusão		7	234
 Além da Imaginação		7	118
@@ -882,6 +883,7 @@ Amigas & Rivais		7	185
 Amigas Unidas Contra o Peso		7	26
 Amigas e Rivais		7	185
 Amigas para Sempre		7	26
+Amigos Sexo e Jogos (2026)	2026	7	8
 Amigos da Faculdade		7	16
 Amnesia		7	24
 Among Us	2026	7	10
@@ -901,7 +903,7 @@ Amor Com Falhas		7	64
 Amor Comum - Adı Sevgi		7	11
 Amor Contra o Tempo		7	2
 Amor Destinado, Case Comigo Novamente		7	10
-Amor Doce Amor (2026)	2026	7	1
+Amor Doce Amor (2026)	2026	7	2
 Amor Entre Estranhos		7	56
 Amor Entre Linhas		7	34
 Amor Eterno		7	58
@@ -956,8 +958,8 @@ Amor de Aluguel - Kiralik Ask - Love for Rent		7	23
 Amor de Mentirinha		7	24
 Amor de Mãe		7	125
 Amor de intermediario		7	16
-Amor e Anarquia		7	16
-Amor e Batatas		7	15
+Amor e Anarquia		8	16
+Amor e Batatas		8	15
 Amor e Esperanca - Ask ve Umut		8	147
 Amor e Honra		8	30
 Amor e Honra - Leke		8	39
@@ -1076,8 +1078,8 @@ Annika		8	24
 Anomalia		8	10
 Anos 90 A Decada que Mudou o Mundo		8	10
 Anos 90: A Explosão do Pagode		8	3
-Anos Dourados		8	20
-Anos Incríveis		8	131
+Anos Dourados		9	20
+Anos Incríveis		9	131
 Anos Rebeldes		9	20
 Anos-luz		9	8
 Anota Ai		9	53
@@ -1196,8 +1198,8 @@ Artistas Negros Conquistam Hollywood		9	4
 Aruanas		9	20
 Arvolandia		9	15
 As 24 Personalidades de Billy Milligan		9	4
-As 7 Vidas de Lea		9	7
-As 93 Vitimas de Samuel Little		9	2
+As 7 Vidas de Lea		10	7
+As 93 Vitimas de Samuel Little		10	2
 As Amazonas		10	63
 As Amigas do Clube		10	7
 As Aventuras Escolhidas		10	14
@@ -1316,8 +1318,8 @@ Assassination Classroom	2015	10	47
 Assassinato Tem Duas Caras		10	6
 Assassinato de uma Sexta a Noite		10	22
 Assassinato do Primeiro-Ministro		10	5
-Assassinato em Boston Raizes Furia e Acerto de Contas		10	4
-Assassinato em Middle Beach		10	4
+Assassinato em Boston Raizes Furia e Acerto de Contas		11	4
+Assassinato em Middle Beach		11	4
 Assassinato na Casa Branca	2025	11	8
 Assassinato na Cidade da Bola de Espelhos		11	3
 Assassinato no Campus		11	22
@@ -1379,12 +1381,12 @@ Auto Posto		11	20
 Avatar O Ultimo Mestre do Ar	2024	11	15
 Avatar: A Lenda De Korra		11	52
 Avatar: A Lenda de Aang		11	95
-Avatar: Os Sete Refúgios		11	3
+Avatar: Os Sete Refúgios		11	6
 Avenida Brasil		11	179
 Aventura em Matilha		11	6
 Aventuras do Didi		11	65
 Avenue 5		11	17
-Avisa Lá Que Eu Vou		11	40
+Avisa Lá Que Eu Vou		11	41
 Away		11	10
 Awkward - Os pés pelas mãos		11	89
 Awkward.		11	65
