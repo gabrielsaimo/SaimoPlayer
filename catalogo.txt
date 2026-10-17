@@ -113,6 +113,10 @@ logo: https://img.faz-o-eli.online/adultswim.png
 fonte: https://dadinhodetapioca.fun/play/adultswim.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/155c57d887e879fa1e273477160c90cc/adultswim.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/adultswim
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/adultswim/adultswim.m3u8
@@ -201,6 +205,10 @@ logo: https://img.faz-o-eli.online/animalplanet.png
 fonte: https://dadinhodetapioca.fun/play/animalplanet.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/f8aeec6dfc86c2ab66efa1ee0dcf88cf/animalplanet.m3u8
+qualidade: FHD · 1920x1080
+referer: https://meufut.top/animal-planet
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/animalplanet/animalplanet.m3u8
@@ -257,6 +265,10 @@ logo: https://mondrian.claro.com.br/channels/inverse/band.png
 fonte: https://dadinhodetapioca.fun/play/band.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/07796236cd172aa71cce222d1f7e3864/bandsp.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/band
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://138.204.86.4:8080/BAND_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324357.m3u8
@@ -274,6 +286,10 @@ logo: https://img.faz-o-eli.online/cartoonnetwork.png
 fonte: https://dadinhodetapioca.fun/play/cartoonnetwork.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/2a5902a94396cefa6fe0ce92ba674726/cartoonnetwork.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/cartoon-network
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cartoonnetwork/cartoonnetwork.m3u8
@@ -328,6 +344,10 @@ agente: Mozilla/5.0 (Linux; U; Android 13; T610K Build/TP1A.220624.014; wv) Appl
 
 fonte: http://45.162.64.114/CNN_BRASIL/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://aws.s13-s1001604.lat/stream/84fb36b0e1e31ed913812068f8b0e7e0/cnnbrasil.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/cnn-brasil
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cnnbrasil/cnnbrasil.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDY0Lm0zdTg.m3u8
@@ -497,6 +517,10 @@ chave: 57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/6ca0fa6a24a397e4b47dc8d32fb23e44/globonews.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/globo-news
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/globonews/globonews.m3u8
 qualidade: HD · 1280x720
 fonte: https://16-5-0-235.sslip.io/globonews/index.m3u8
@@ -677,6 +701,10 @@ logo: https://img.faz-o-eli.online/history.png
 fonte: https://dadinhodetapioca.fun/play/history.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/b7f760cafffad9e253824034a05a8138/history.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/history
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://138.204.86.4:8080/HISTORY_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/history/history.m3u8
@@ -826,6 +854,10 @@ chave: cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/cc13f77891f8b4080db512be42439d82/megapix.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/megapix
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/megapix/megapix.m3u8
 qualidade: HD · 1280x720
 fonte: https://16-5-0-235.sslip.io/megapix/index.m3u8
@@ -885,6 +917,10 @@ chave: 5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/f0c2adfea3778abad92dc655d5b961a9/multishow.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/multishow
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/multishow/multishow.m3u8
 qualidade: HD · 1280x720
 fonte: https://16-5-0-235.sslip.io/multishow/index.m3u8
@@ -1331,6 +1367,10 @@ chave: 56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 fonte: https://dadinhodetapioca.fun/play/premiereclubes.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/5e65f671ec576e6450321263a220056f/premiere.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/premiere
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://16-5-0-235.sslip.io/premiereclubes/index.m3u8
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
 qualidade: Qualidade não informada
@@ -1468,6 +1508,10 @@ logo: https://img.faz-o-eli.online/sportv.png
 fonte: https://dadinhodetapioca.fun/play/sportv.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/df68c287a5e76abe2df09d30cb0e9b37/sportv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/sportv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv/sportv.m3u8
@@ -2020,6 +2064,10 @@ logo: https://img.faz-o-eli.online/cartoonito.png
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/25787f329c85c3fee8876507d3b3778a/cartoonito.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/cartoonito
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/cartoonito/cartoonito.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDAzLm0zdTg.m3u8
@@ -2115,6 +2163,10 @@ logo: https://img.faz-o-eli.online/discoverychannel.png
 fonte: https://dadinhodetapioca.fun/play/discoverychannel.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/a1d16892ebba8e03b94f103b89c154c0/discoverychannel.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-channel
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://138.204.86.4:8080/DISCOVERY_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverychannel/discoverychannel.m3u8
@@ -2176,6 +2228,10 @@ qualidade: HD · 1280x720
 fonte: https://dadinhodetapioca.fun/play/discoverykids.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/5a43285f2c9b46548851d73ff8ae7190/discoverykids.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-kids
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoverykids/discoverykids.m3u8
@@ -2288,6 +2344,10 @@ logo: https://img.faz-o-eli.online/espn.png
 
 fonte: http://45.162.64.114/ESPN_BRASIL/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://aws.s13-s1001604.lat/stream/dbf76b5a3f66249763951288cbd98053/espn.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/espn
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn/espn.m3u8
 qualidade: HD · 1280x720
 fonte: https://16-5-0-235.sslip.io/espn/index.m3u8
@@ -3074,6 +3134,10 @@ logo: https://img.faz-o-eli.online/space.png
 fonte: https://dadinhodetapioca.fun/play/space.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/3fb10b8d8fb288ba13970fe302430da2/space.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/space
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://45.162.64.114/SPACE/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/space/space.m3u8
@@ -3181,6 +3245,10 @@ logo: https://img.faz-o-eli.online/tntseries.png
 fonte: https://dadinhodetapioca.fun/play/tntseries.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/a80e0d116d93c753db030e98deedf0a2/tntseries.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/tnt-series
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/tntseries/tntseries.m3u8
@@ -3237,6 +3305,10 @@ chave: 0110de67e8a43229a9afee5fbb1bf34c:14d17ea503859feb50f395a19491a2ea
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/64f3c19b505f7bebab5fd8177ced2c1e/universaltv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/universal-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/universaltv/universaltv.m3u8
 qualidade: HD · 1280x720
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1MzYwLm0zdTg.m3u8
@@ -3285,6 +3357,10 @@ qualidade: HD · 1280x720
 
 fonte: http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://aws.s13-s1001604.lat/stream/509a51408c36ab03ff0b43e6f4d571bc/discoveryturbo.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/discovery-turbo
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/discoveryturbo/discoveryturbo.m3u8
 qualidade: Qualidade não informada
 fonte: http://138.204.86.4:8080/DISCOVERY_TURBO_HD/index.m3u8
@@ -3916,6 +3992,10 @@ logo: https://img.faz-o-eli.online/bandsports.png
 fonte: https://dadinhodetapioca.fun/play/bandsports.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/63959f42a8a5be2c41cdcb84fe993800/bandsports.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/band-sports
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://45.162.64.114/BAND_SPORTS/index.m3u8
 qualidade: HD · 1280x720
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/bandsports/bandsports.m3u8
@@ -4138,6 +4218,10 @@ logo: https://mondrian.claro.com.br/channels/inverse/recordnews.png
 
 fonte: http://45.162.64.114/RECORD_NEWS/index.m3u8
 qualidade: FHD · 1920x1080
+fonte: https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+qualidade: HD · 1280x720
+referer: https://meufut.top/record-news
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NDc2Lm0zdTg.m3u8
 qualidade: FHD
 fonte: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
@@ -4211,6 +4295,10 @@ logo: https://mondrian.claro.com.br/channels/inverse/tv-aparecida.png
 
 fonte: http://45.162.64.114/TV_APARECIDA/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+qualidade: FHD · 1920x1080
+referer: https://meufut.top/aparecida
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/aparecida/aparecida.m3u8
 qualidade: Qualidade não informada
 fonte: http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
@@ -4378,6 +4466,10 @@ logo: https://img.faz-o-eli.online/xsports.png
 fonte: https://dadinhodetapioca.fun/play/xsports.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/142daec49214213d83df632a3ae41d10/xsports.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/xsports
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/xsports/xsports.m3u8
@@ -5286,6 +5378,10 @@ logo: https://i.imgur.com/ZJgD38F.png
 
 fonte: http://45.162.64.114/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
+fonte: https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+qualidade: FHD · 1920x1080
+referer: https://meufut.top/rede-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: http://168.197.104.22/REDE_TV/index.m3u8
 qualidade: HD · 1280x720
 fonte: http://170.83.16.50/REDE_TV/index.m3u8
@@ -5430,6 +5526,10 @@ logo: https://img.faz-o-eli.online/combate.png
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/a223f90f63881dde78c7f0bb46488689/combate.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/combate
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/combate/combate.m3u8
 qualidade: Qualidade não informada
 fonte: https://16-5-0-235.sslip.io/combate/index.m3u8
@@ -6158,6 +6258,10 @@ logo: https://img.faz-o-eli.online/foodnetwork.png
 fonte: https://dadinhodetapioca.fun/play/foodnetwork.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/8975189bb51c75df99a767cdecf542d0/foodnetwork.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/foodnetwork
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/foodnetwork.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/foodnetwork/foodnetwork.m3u8
@@ -6287,6 +6391,10 @@ logo: https://img.faz-o-eli.online/24h.png
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/24h_dragonball.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/f7e69dd96cbbf642e6041bc64cb8667e/24h_dragonball.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/dragon-ball-z
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_dragonball/24h_dragonball.m3u8
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/1169226.m3u8
@@ -6307,6 +6415,10 @@ logo: https://img.faz-o-eli.online/24h.png
 
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135601.m3u8
 qualidade: HD · 1280x720
+fonte: https://aws.s13-s1001604.lat/stream/a9b54966fcd76b7b3266654910bb96e0/24h_simpsons.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/os-simpsons
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_simpsons/24h_simpsons.m3u8
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135600.m3u8
@@ -6461,6 +6573,10 @@ logo: https://img.faz-o-eli.online/24h.png
 
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135469.m3u8
 qualidade: HD · 1280x720
+fonte: https://aws.s13-s1001604.lat/stream/9c7232930a640d377b286e2bfa30a03e/24h_odeiachris.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/todo-mundo-odeia-o-cris
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/24h_odeiachris/24h_odeiachris.m3u8
 qualidade: Qualidade não informada
 fonte: http://vivlar.me:80/live/497238/KK8Kdy/135470.m3u8
@@ -6915,6 +7031,10 @@ logo: https://img.faz-o-eli.online/hgtv.png
 fonte: https://dadinhodetapioca.fun/play/hgtv.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
+fonte: https://aws.s13-s1001604.lat/stream/0b7ed4f2d49df88f285464007159254d/hgtv.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/hgtv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt
 qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/hgtv/hgtv.m3u8
@@ -6970,6 +7090,10 @@ logo: https://img.faz-o-eli.online/afazenda2.png
 
 fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.txt
 qualidade: Qualidade não informada
+fonte: https://aws.s13-s1001604.lat/stream/6bcf28b4f7d5fbb81239a41192761927/afazenda.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/a-fazenda-18
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/afazenda/afazenda.m3u8
 qualidade: Qualidade não informada
 fonte: http://corruptx.org:80/live/hfp5ejnrey/zq0u3kzads/2470061.m3u8
@@ -7489,6 +7613,10 @@ categoria: PPV
 
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184046.m3u8
 qualidade: FHD
+fonte: https://aws.s13-s1001604.lat/stream/36357fc78b7c6b935fe4542eecbbfa8d/ufcfightpass.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/ufc-fight-pass
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/ufcfightpass/ufcfightpass.m3u8
 qualidade: Qualidade não informada
 fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/184047.m3u8
@@ -8177,6 +8305,10 @@ logo: https://vipcanais.net/images/paramountplus.png
 
 fonte: https://frostview.squareweb.app/relay/m/aHR0cDovL2Fic29sdXRvLnRvcC9saXZlLzIzMzczMTkyOS80MTAzMTQ1ODcvNzI1NTkwLm0zdTg.m3u8
 qualidade: HD
+fonte: https://aws.s13-s1001604.lat/stream/a3039490692b08e47bbd910816bcd954/paramountplus.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/paramount-plus-1789450199
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/paramountplus/paramountplus.m3u8
 qualidade: Qualidade não informada
 
@@ -8249,3 +8381,18 @@ categoria: Infantil
 fonte: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 qualidade: SD · 640x480
 
+canal: 24H Os Smurfs
+categoria: 24 Horas
+
+fonte: https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/the-smurfs-tv
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+
+canal: TV A Crítica
+categoria: TV Aberta
+
+fonte: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+qualidade: HD · 1280x720
+referer: https://meufut.top/tv-a-critica
+agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36

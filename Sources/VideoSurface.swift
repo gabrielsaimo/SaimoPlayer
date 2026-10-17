@@ -2,6 +2,7 @@ import SwiftUI
 import AppKit
 import AVKit
 import AVFoundation
+import CoreImage
 
 /// Video surface backed by an AVPlayerLayer.
 ///
@@ -17,6 +18,7 @@ final class PlayerLayerView: NSView {
     override init(frame frameRect: NSRect) {
         super.init(frame: frameRect)
         wantsLayer = true
+        layerUsesCoreImageFilters = true
         let root = CALayer()
         root.backgroundColor = NSColor.black.cgColor
         // Na multi tela as duas superfícies ficam lado a lado: o vídeo de uma
@@ -31,9 +33,69 @@ final class PlayerLayerView: NSView {
         // no canto.
         playerLayer.autoresizingMask = [.layerWidthSizable, .layerHeightSizable]
         root.addSublayer(playerLayer)
+        aplicarUpscaling()
+        NotificationCenter.default.addObserver(
+            self,
+            selector: #selector(upscalingMudou),
+            name: Preferencias.upscalingMudou,
+            object: nil
+        )
     }
 
     required init?(coder: NSCoder) { fatalError("unsupported") }
+
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }
+
+    @objc private func upscalingMudou() {
+        aplicarUpscaling()
+    }
+
+    func aplicarUpscaling() {
+        let modo = Preferencias.upscaling
+        var filtros: [CIFilter] = []
+        switch modo {
+        case "hd":
+            if let sharpen = CIFilter(name: "CISharpenLuminance") {
+                sharpen.setDefaults()
+                sharpen.setValue(0.65, forKey: kCIInputSharpnessKey)
+                sharpen.setValue(1.6, forKey: kCIInputRadiusKey)
+                filtros.append(sharpen)
+            }
+            if let unsharp = CIFilter(name: "CIUnsharpMask") {
+                unsharp.setDefaults()
+                unsharp.setValue(1.4, forKey: kCIInputRadiusKey)
+                unsharp.setValue(0.45, forKey: kCIInputIntensityKey)
+                filtros.append(unsharp)
+            }
+            playerLayer.magnificationFilter = .trilinear
+        case "4k":
+            if let sharpen = CIFilter(name: "CISharpenLuminance") {
+                sharpen.setDefaults()
+                sharpen.setValue(1.1, forKey: kCIInputSharpnessKey)
+                sharpen.setValue(2.0, forKey: kCIInputRadiusKey)
+                filtros.append(sharpen)
+            }
+            if let unsharp = CIFilter(name: "CIUnsharpMask") {
+                unsharp.setDefaults()
+                unsharp.setValue(1.8, forKey: kCIInputRadiusKey)
+                unsharp.setValue(0.75, forKey: kCIInputIntensityKey)
+                filtros.append(unsharp)
+            }
+            if let color = CIFilter(name: "CIColorControls") {
+                color.setDefaults()
+                color.setValue(1.035, forKey: kCIInputContrastKey)
+                color.setValue(1.03, forKey: kCIInputSaturationKey)
+                filtros.append(color)
+            }
+            playerLayer.magnificationFilter = .trilinear
+        default:
+            playerLayer.magnificationFilter = .linear
+        }
+        playerLayer.filters = filtros.isEmpty ? nil : filtros
+        layer?.filters = filtros.isEmpty ? nil : filtros
+    }
 
     override var isFlipped: Bool { true }
 

@@ -4,11 +4,30 @@ import AppKit
 /// Preferências do app que não moram no modelo do player.
 enum Preferencias {
     private static let chaveAbrirNoCanal = "ajustes.abrirNoCanal"
+    private static let chaveUpscaling = "ajustes.upscaling"
+    static let upscalingMudou = Notification.Name("SaimoUpscalingMudou")
 
     /// Ao abrir o app: a tela inicial (como na TV) ou direto o último canal.
     static var abrirNoCanal: Bool {
         get { UserDefaults.standard.bool(forKey: chaveAbrirNoCanal) }
         set { UserDefaults.standard.set(newValue, forKey: chaveAbrirNoCanal) }
+    }
+
+    /// Super Resolução (Upscaling): "off" (padrão), "hd" ou "4k".
+    static var upscaling: String {
+        get { UserDefaults.standard.string(forKey: chaveUpscaling) ?? "off" }
+        set {
+            UserDefaults.standard.set(newValue, forKey: chaveUpscaling)
+            NotificationCenter.default.post(name: upscalingMudou, object: nil)
+        }
+    }
+
+    static func rotuloUpscaling(_ modo: String) -> String {
+        switch modo {
+        case "hd": return "Nitidez HD (720p → Full HD)"
+        case "4k": return "Super Resolução Ultra (Full HD → 4K)"
+        default:   return "Desligado"
+        }
     }
 }
 
@@ -18,6 +37,7 @@ struct TelaAjustes: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
     @State private var abrirNoCanal = Preferencias.abrirNoCanal
+    @State private var upscaling = Preferencias.upscaling
 
     private var versao: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "?"
@@ -32,6 +52,17 @@ struct TelaAjustes: View {
                         .foregroundStyle(.white)
 
                     secao("Reprodução") {
+                        linha("Super Resolução (Upscaling)", Preferencias.rotuloUpscaling(upscaling),
+                              icone: "sparkles") {
+                            let proximo: String
+                            switch upscaling {
+                            case "off": proximo = "hd"
+                            case "hd":  proximo = "4k"
+                            default:    proximo = "off"
+                            }
+                            upscaling = proximo
+                            Preferencias.upscaling = proximo
+                        }
                         alternador("Preencher a tela", "Corta as bordas em vez de mostrar faixas pretas",
                                    icone: "rectangle.arrowtriangle.2.outward", valor: $model.fillScreen)
                         alternador("Manter à frente", "A janela fica por cima das outras",
