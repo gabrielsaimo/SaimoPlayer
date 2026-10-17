@@ -41,22 +41,44 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var status: String = "parado"
     @Published var generatedLink: URL?
     @Published var volume: Double = 1.0 { didSet { applyVolume() } }
-    @Published var isMuted = false { didSet { applyVolume() } }
+    @Published var isMuted: Bool = Preferencias.isMuted {
+        didSet {
+            Preferencias.isMuted = isMuted
+            applyVolume()
+        }
+    }
     /// Sem som enquanto a abertura do app está na tela: o último canal já
     /// abre por baixo dela. Não é guardado, ao contrário do mudo.
     var silenciadoPelaAbertura = false { didSet { applyVolume() } }
     @Published var rate: Float = 1.0 { didSet { if isPlaying { player.rate = rate } } }
-    @Published var fillScreen = false
+    @Published var fillScreen: Bool = Preferencias.fillScreen {
+        didSet { Preferencias.fillScreen = fillScreen }
+    }
     @Published var isPiPActive = false
     @Published var isPiPPossible = false
-    @Published var alwaysOnTop = false { didSet { applyAlwaysOnTop() } }
-    @Published var showStats = false
+    @Published var alwaysOnTop: Bool = Preferencias.alwaysOnTop {
+        didSet {
+            Preferencias.alwaysOnTop = alwaysOnTop
+            applyAlwaysOnTop()
+        }
+    }
+    @Published var showStats: Bool = Preferencias.showStats {
+        didSet { Preferencias.showStats = showStats }
+    }
     @Published var showLog = false
     @Published var showGuide = false
     /// Channel list living in its own window pinned to the player.
     /// A lista de canais numa janela à parte, ao lado do player. A lista de
     /// sempre agora é a de vidro, dentro da janela (`PainelDeCanais`).
-    @Published var detachedList = false
+    @Published var detachedList: Bool = Preferencias.detachedList {
+        didSet { Preferencias.detachedList = detachedList }
+    }
+    @Published var abrirNoCanal: Bool = Preferencias.abrirNoCanal {
+        didSet { Preferencias.abrirNoCanal = abrirNoCanal }
+    }
+    @Published var upscaling: String = Preferencias.upscaling {
+        didSet { Preferencias.upscaling = upscaling }
+    }
     @Published var stats = PlaybackStats()
 
     /// Qual das fontes do canal está no ar, e se ela ainda está carregando.
@@ -1293,7 +1315,11 @@ final class PlayerModel: NSObject, ObservableObject {
     }
 
     private func applyAlwaysOnTop() {
-        surface?.window?.level = alwaysOnTop ? .floating : .normal
+        let level: NSWindow.Level = alwaysOnTop ? .floating : .normal
+        surface?.window?.level = level
+        for w in NSApp.windows where !(w is NSPanel) && w.styleMask.contains(.titled) {
+            w.level = level
+        }
     }
 
     func openInExternalPlayer() {

@@ -66,6 +66,13 @@ struct ContentView: View {
                 // digam para ir direto ao último canal.
                 guard !abriu else { return }
                 abriu = true
+                if model.alwaysOnTop {
+                    DispatchQueue.main.async {
+                        for w in NSApp.windows where !(w is NSPanel) && w.styleMask.contains(.titled) {
+                            w.level = .floating
+                        }
+                    }
+                }
                 if !Preferencias.abrirNoCanal, vod.secao == nil { vod.secao = .inicio }
                 // `open -a "Saimo TV" --args -abaInicial radios`: abre direto
                 // numa aba, para conferir uma tela sem clicar até ela.

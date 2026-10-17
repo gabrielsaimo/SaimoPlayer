@@ -427,6 +427,7 @@ final class SidebarWindowController: NSObject, NSWindowDelegate {
 
     func windowWillClose(_ notification: Notification) {
         guard (notification.object as? NSWindow) === window else { return }
+        guard host?.isVisible == true else { return }
         PlayerModel.shared.detachedList = false
     }
 }
