@@ -69,6 +69,22 @@ PY
       sed -i '' "s/versionCode .*/versionCode $codigo/" "$CELL_DIR/android/app/build.gradle"
     fi
   fi
+
+  if [ -f "../SaimoWin/Cargo.toml" ]; then
+    sed -i '' "s/^version = \".*\"/version = \"$versao\"/" "../SaimoWin/Cargo.toml"
+  fi
+  if [ -f "../Saimo-TV/package.json" ]; then
+    python3 - "../Saimo-TV/package.json" "$versao" <<'PY'
+import sys, json
+p, v = sys.argv[1], sys.argv[2]
+with open(p, "r", encoding="utf-8") as f:
+    d = json.load(f)
+d["version"] = v
+with open(p, "w", encoding="utf-8") as f:
+    json.dump(d, f, indent=2)
+    f.write("\n")
+PY
+  fi
   shift
 else
   versao=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$PLIST")
