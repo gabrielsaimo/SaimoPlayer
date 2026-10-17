@@ -97,8 +97,8 @@ enum Preferencias {
 
     static func rotuloUpscaling(_ modo: String) -> String {
         switch modo {
-        case "hd": return "Nitidez HD (720p → Full HD)"
-        case "4k": return "Super Resolução Ultra (Full HD → 4K)"
+        case "hd": return "Nitidez HD (MetalFX · 720p → Full HD)"
+        case "4k": return "Super Resolução Ultra (MetalFX · até 4K)"
         default:   return "Desligado"
         }
     }
