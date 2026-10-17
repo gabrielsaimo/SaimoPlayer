@@ -72,7 +72,8 @@ final class Remuxer: @unchecked Sendable {
             // nenhuma, demuxer mpegts) fez o mesmo. Por isso elas só entram
             // quando a entrada é mesmo uma playlist HLS.
             var args = ["-v", "error", "-show_programs", "-show_streams", "-of", "json"]
-            if input.pathExtension.lowercased() == "m3u8" {
+            let ext = input.pathExtension.lowercased()
+            if ext == "m3u8" || ext == "txt" {
                 args += ["-allowed_extensions", "ALL", "-extension_picky", "0"]
             }
             if let ua = variant.userAgent { args += ["-user_agent", ua] }
@@ -210,7 +211,8 @@ final class Remuxer: @unchecked Sendable {
         // dos demuxers HLS/DASH, e entram cedo demais para o ffmpeg saber qual
         // vai usar — só valem quando a entrada é mesmo uma playlist HLS.
         var args = ["-hide_banner", "-loglevel", "error", "-fflags", "+genpts"]
-        if sourceURL.pathExtension.lowercased() == "m3u8" {
+        let ext = sourceURL.pathExtension.lowercased()
+        if ext == "m3u8" || ext == "txt" {
             args += ["-allowed_extensions", "ALL", "-extension_picky", "0"]
         }
         if let ua = variant.userAgent { args += ["-user_agent", ua] }
