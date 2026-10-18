@@ -35,7 +35,16 @@ struct Episodio: Identifiable, Hashable {
 /// o download acompanha o clique em vez de contrariá-lo.
 enum Vod {
 
-    private static let base = Enderecos.filmes
+    /// Endereço-base da pasta `vod/`, o que o usuário informou. Sem ele nada
+    /// daqui faz pedido de rede nem lê disco: o acervo simplesmente não existe.
+    private static var base: String? { Enderecos.filmes }
+
+    /// Endereço apagado ou trocado: some tudo o que estava em memória.
+    @MainActor
+    static func esquecer() {
+        estado.withLock { $0 = Estado() }
+        indiceBusca = []
+    }
 
     struct Gaveta: Identifiable, Hashable {
         var letra: String
@@ -147,6 +156,7 @@ enum Vod {
     /// kilobyte, então vale buscar de novo a cada abertura e deixar o disco só
     /// como reserva para quando a rede falhar.
     private static func indiceAtual() async -> String? {
+        guard base != nil else { return nil }
         if let texto = await baixar("indice.txt") { return texto }
         let local = pasta.appendingPathComponent("indice.txt")
         return try? String(contentsOf: local, encoding: .utf8)
@@ -374,6 +384,7 @@ enum Vod {
     /// vez em quando e nunca no meio de uma navegação, então o que está em
     /// disco serve: poupa a rede e faz a segunda visita abrir na hora.
     private static func arquivo(_ nome: String) async -> String? {
+        guard base != nil else { return nil }
         let local = pasta.appendingPathComponent(nome.replacingOccurrences(of: "%23", with: "hash"))
         if let texto = try? String(contentsOf: local, encoding: .utf8), !texto.isEmpty {
             return texto
@@ -384,7 +395,7 @@ enum Vod {
     /// Busca o arquivo na rede e guarda em disco.
     @discardableResult
     private static func baixar(_ nome: String) async -> String? {
-        guard let url = URL(string: base + nome) else { return nil }
+        guard let base, let url = URL(string: base + nome) else { return nil }
         var request = URLRequest(url: url)
         request.timeoutInterval = 25
         request.cachePolicy = .reloadIgnoringLocalCacheData

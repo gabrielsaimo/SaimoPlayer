@@ -38,8 +38,10 @@ enum Destaques {
         var id: String { titulo }
     }
 
-    private static let endereco = URL(
-        string: Enderecos.filmes + "destaques.txt")!
+    private static var endereco: URL? { Enderecos.filmes("destaques.txt") }
+
+    /// Endereço apagado ou trocado: some o que estava em memória.
+    static func esquecer() { emMemoria = nil }
     /// A lista muda quando o gerador roda; um dia em disco abre instantâneo sem
     /// ficar semanas desatualizado.
     private static let validade: TimeInterval = 24 * 60 * 60
@@ -62,6 +64,7 @@ enum Destaques {
     }
 
     private static func texto() async -> String? {
+        guard let endereco else { return nil }
         let local = arquivo
         if let atributos = try? FileManager.default.attributesOfItem(atPath: local.path),
            let quando = atributos[.modificationDate] as? Date,

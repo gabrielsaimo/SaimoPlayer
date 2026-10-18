@@ -11,6 +11,7 @@ struct VodGridView: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var estado = VodEstado.shared
     @ObservedObject private var favoritos = VodFavoritos.shared
+    @ObservedObject private var listas = ListasEstado.shared
 
     @State private var carregando = false
     /// As fileiras publicadas, baixadas uma vez por abertura da janela.
@@ -118,6 +119,11 @@ struct VodGridView: View {
     private var conteudo: some View {
         if let serie = estado.serieAberta {
             episodiosDe(serie)
+        } else if let secao = estado.secao, listas.filmes == nil,
+                  [.ondemand, .filmes, .series, .animes, .doramas, .extras].contains(secao) {
+            // Sem o endereço dos filmes não há acervo, nem pedido de rede.
+            SemListaView(secao: .filmes)
+                .padding(.top, Tema.alturaDaBarra)
         } else {
             switch estado.secao {
             case .inicio:

@@ -15,6 +15,7 @@ struct TelaBusca: View {
     @State private var filas: [Fila] = []
     @State private var recentes: [String] = UserDefaults.standard.stringArray(forKey: "busca.recentes") ?? []
     @FocusState private var focado: Bool
+    @ObservedObject private var listas = ListasEstado.shared
 
     var body: some View {
         TelaEmFileiras(destaque: destaque, filas: filas, vazio: vazio) {
@@ -81,7 +82,10 @@ struct TelaBusca: View {
     }
 
     private var vazio: String {
-        texto.trimmingCharacters(in: .whitespaces).isEmpty
+        if listas.canais == nil && listas.filmes == nil {
+            return "Nada para buscar. Informe o endereço das listas em Ajustes > Listas."
+        }
+        return texto.trimmingCharacters(in: .whitespaces).isEmpty
             ? "Digite o nome — os resultados aparecem enquanto você digita."
             : "Nada encontrado para \"\(texto)\". Tente outro nome ou menos letras."
     }

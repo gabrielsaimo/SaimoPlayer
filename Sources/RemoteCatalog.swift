@@ -1,35 +1,31 @@
 import Foundation
 
-/// The channel line-up, downloaded on every launch.
+/// A lista de canais, baixada do endereço que o usuário informou.
 ///
-/// Publishing the list means a dead link is fixed by editing one file, with
-/// nothing to recompile or reinstall. The built-in catalogue stays as the floor:
-/// the app opens on the last list it managed to read — cached from the previous
-/// run, or the compiled one — and swaps in the fresh one when it arrives, so a
-/// missing network never costs the user their channels.
+/// O app não traz canal nenhum: sem endereço (Ajustes > Listas) a lista fica
+/// vazia e nenhum pedido de rede é feito. Com endereço, abre na última lista
+/// lida (guardada em disco) e troca pela nova quando ela chega, então a rede
+/// fora do ar não custa os canais ao usuário.
 enum RemoteCatalog {
 
-    private static let base = Enderecos.canais
-    /// The whole catalogue, with ClearKey, Referer and User-Agent. This is the
-    /// list that rules: editing this file swaps a link with nothing to rebuild.
-    static let url = URL(string: base + "catalogo.txt")!
-    /// Extras published separately, as M3U. An M3U has nowhere to keep a key or
-    /// a header, so it joins as a spare and never replaces the catalogue.
-    static let extrasURL = URL(string: base + "canais.txt")!
-    /// Os canais que só aparecem depois do código. Publicados à parte para
-    /// renomear, tirar ou trocar link sem recompilar — a lista de fábrica
-    /// (`restrictedChannels`) fica só de reserva para a primeira abertura sem rede.
-    static let restritosURL = URL(string: base + "restritos.txt")!
+    /// A lista inteira, com ClearKey, Referer e User-Agent.
+    static var url: URL? { Enderecos.canais("catalogo.txt") }
+    /// Extras publicados à parte, em M3U. Um M3U não tem onde guardar chave ou
+    /// cabeçalho, então entra como reserva e nunca substitui o catálogo.
+    static var extrasURL: URL? { Enderecos.canais("canais.txt") }
+    /// Os canais que só aparecem depois do código, publicados à parte.
+    static var restritosURL: URL? { Enderecos.canais("restritos.txt") }
 
-    /// Os restritos que valem agora: o último baixado, ou os de fábrica.
+    /// Os restritos que valem agora: o último baixado (nenhum, sem endereço).
     static func restritosEmCache() -> [Channel] {
-        let lidos = read("restritos.txt")
-        return comoAdulto(lidos.isEmpty ? restrictedChannels : lidos)
+        guard Enderecos.canais != nil else { return [] }
+        return comoAdulto(read("restritos.txt"))
     }
 
     /// Baixa a lista restrita; nulo quando não veio nada aproveitável.
     static func baixarRestritos() async -> [Channel]? {
-        let lidos = await download(restritosURL, into: "restritos.txt")
+        guard let url = restritosURL else { return nil }
+        let lidos = await download(url, into: "restritos.txt")
         return lidos.isEmpty ? nil : comoAdulto(lidos)
     }
 
@@ -44,9 +40,10 @@ enum RemoteCatalog {
 
     /// Whatever is available right now, without touching the network.
     static func cached() -> [Channel] {
+        guard Enderecos.canais != nil else { return [] }
         let base = read("catalogo.txt")
         let extras = read("canais.txt")
-        guard !base.isEmpty || !extras.isEmpty else { return defaultChannels }
+        guard !base.isEmpty || !extras.isEmpty else { return [] }
         return merge(base: base, published: extras)
     }
 
@@ -67,7 +64,7 @@ enum RemoteCatalog {
     /// them as spares; anything that exists only in the published list joins the
     /// end as a new channel.
     static func merge(base: [Channel], published: [Channel]) -> [Channel] {
-        let principal = base.isEmpty ? defaultChannels : base
+        let principal = base
         var extra: [String: Channel] = [:]
         for channel in published { extra[chaveDeCanal(channel.name)] = channel }
 
@@ -88,8 +85,8 @@ enum RemoteCatalog {
 
     /// Nome reduzido ao que identifica o canal, para casar as duas listas.
     ///
-    /// As duas fontes escrevem o mesmo canal de jeitos diferentes: "Cinemax" e
-    /// "Cinemax HD", "SporTV 2" e "SPORTV2". Casando só pelo nome normalizado
+    /// As duas fontes escrevem o mesmo canal de jeitos diferentes: "Canal" e
+    /// "Canal HD", "Canal 2" e "CANAL2". Casando só pelo nome normalizado
     /// do EPG, esses pares não se encontravam e o canal aparecia duas vezes na
     /// lista. Aqui a marca de qualidade sai e o número gruda separado da
     /// palavra, que é o bastante para os dois lados chegarem na mesma chave.
@@ -112,7 +109,8 @@ enum RemoteCatalog {
     /// Downloads the published list. Returns nil when it cannot be read, so the
     /// caller keeps what it already had rather than emptying the list.
     static func fetch() async -> [Channel]? {
-        async let baixado = download(url, into: "catalogo.txt")
+        guard let principalURL = url, let extrasURL else { return nil }
+        async let baixado = download(principalURL, into: "catalogo.txt")
         async let extras = download(extrasURL, into: "canais.txt")
         let (base, publicados) = await (baixado, extras)
         guard !base.isEmpty || !publicados.isEmpty else { return nil }
@@ -205,7 +203,7 @@ enum RemoteCatalog {
             }
         }
         flush()
-        return withKnownLogos(channels)
+        return channels
     }
 
     private static func parseM3u(_ text: String) -> [Channel] {
@@ -283,26 +281,9 @@ enum RemoteCatalog {
                 currentLabel = nil
             }
         }
-        return withKnownLogos(Array(out.values))
+        return Array(out.values)
     }
 
-
-    /// A published entry without a `logo:` line falls back to the compiled one.
-    /// The list is edited by hand, and a channel losing its icon because a line
-    /// was dropped would be a silent regression on every screen at once.
-    private static func withKnownLogos(_ channels: [Channel]) -> [Channel] {
-        let known = Dictionary(defaultChannels.compactMap { channel in
-            channel.logo.map { (channel.name.lowercased(), $0) }
-        }, uniquingKeysWith: { first, _ in first })
-        return channels.map { channel in
-            guard channel.logo == nil, let logo = known[channel.name.lowercased()] else {
-                return channel
-            }
-            var copy = channel
-            copy.logo = logo
-            return copy
-        }
-    }
 
     // MARK: - Cache
 

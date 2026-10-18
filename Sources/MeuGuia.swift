@@ -2,44 +2,27 @@ import Foundation
 
 /// Programme guide scraped from meuguia.tv.
 ///
-/// The XMLTV feeds carry the wrong schedule for several channels — HBO was
-/// showing a line-up that did not match what was actually on air — so this
+/// The XMLTV feeds carry the wrong schedule for several channels — some
+/// showed a line-up that did not match what was actually on air — so this
 /// takes priority for the channels it covers and the feeds only fill the gaps.
 ///
 /// One page per channel, listing a couple of weeks of programming under day
 /// headers, so a fetch is cheap and the parse is a single pass over the markup.
 enum MeuGuia {
-    /// Catalog name -> meuguia channel code.
-    static let codes: [String: String] = [
-        "A&E": "MDO", "Animal Planet": "APL", "AXN": "AXN",
-        "Band": "BAN", "Band Sports": "BSP", "Cartoon Network": "CAR",
-        "canal-brasil": "CBR", "Canal Brasil": "CBR", "canal-off": "OFF", "Canal OFF": "OFF",
-        "Cinemax": "MNX", "Combate": "135",
-        "Discovery Channel": "DIS", "Discovery Home & Health": "HEA",
-        "Discovery Kids": "DIK", "Discovery Science": "DSC",
-        "Discovery Turbo": "DTU", "Discovery World": "DIW",
-        "E!": "EET", "ESPN": "ESP", "ESPN 2": "ES2", "ESPN 3": "ES3",
-        "ESPN 4": "ES4", "ESPN 5": "ES5",
-        "GNT": "GNT", "Globo RJ": "GRD", "Globo SP": "GRD", "GloboNews": "GLN",
-        "Gloob": "GOB",
-        "HBO": "HBO", "HBO Family": "HFA", "HBO Plus": "HPL", "HBO2": "HB2",
-        "History": "HIS", "Megapix": "MPX", "Multishow": "MSH",
-        "Premiere Clubes": "121", "Record": "REC",
-        "SBT": "SBT", "Sony Channel": "SET", "Space": "SPA",
-        "SporTV": "SPO", "SporTV 2": "SP2", "SporTV 3": "SP3",
-        "Studio Universal": "HAL",
-        "Telecine Action": "TC2", "Telecine Pipoca": "TC4", "Telecine Premium": "TC1",
-        "TNT": "TNT", "TNT Séries": "TBS",
-        "Universal TV": "USA", "Viva": "VIV", "Warner": "WBT", 
-    "Arte 1": "BQ5", "TLC": "TRV"]
+    /// Código do canal no meuguia.tv, da tabela `guia.txt` (nome no catálogo -> código).
+    static func codigo(para nome: String, em tabela: [String: String] = GuiaTabelas.atual.meuguia) -> String? {
+        let chave = XMLTVParser.normalise(nome)
+        return tabela[nome] ?? tabela[chave]
+            ?? tabela.first { XMLTVParser.normalise($0.key) == chave }?.value
+    }
 
     private static let timeZone = TimeZone(identifier: "America/Sao_Paulo") ?? .current
 
     static func fetch(wanted: [(id: UUID, name: String)],
                       from: Date, to: Date) async -> [UUID: [Programme]] {
+        let tabela = GuiaTabelas.atual.meuguia
         let targets = wanted.compactMap { entry -> (UUID, String)? in
-            let key = XMLTVParser.normalise(entry.name)
-            guard let code = codes[entry.name] ?? codes[key] else { return nil }
+            guard let code = codigo(para: entry.name, em: tabela) else { return nil }
             return (entry.id, code)
         }
         guard !targets.isEmpty else { return [:] }

@@ -31,7 +31,7 @@ enum Legendas {
         let texto: String
     }
 
-    private static let base = Enderecos.filmes
+    private static var base: String? { Enderecos.filmes }
     private static let servico = "https://opensubtitles-v3.strem.io/subtitles"
     private static let fragmentosPorTipo = 100
 
@@ -62,7 +62,7 @@ enum Legendas {
         if let mapa = fragmentos[nome] { return mapa[tmdb] }
         // Sem o fragmento (rede fora, título ainda não mapeado) não guarda nada:
         // a próxima abertura tenta de novo.
-        guard let dados = await texto("\(base)imdb/\(nome).txt"),
+        guard let base, let dados = await texto("\(base)imdb/\(nome).txt"),
               let corpo = String(data: dados, encoding: .utf8) else { return nil }
         var mapa: [Int: String] = [:]
         for linha in corpo.split(separator: "\n") {

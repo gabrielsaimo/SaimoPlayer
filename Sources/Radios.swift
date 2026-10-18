@@ -20,30 +20,6 @@ final class Radios: ObservableObject {
         var id: String { nome }
     }
 
-    /// Um estilo de rádio, achado pelo nome dela.
-    struct Estilo: Identifiable, Hashable {
-        let titulo: String
-        let palavras: [String]
-        var id: String { titulo }
-    }
-
-    /// A ordem conta: rádio que cabe em dois estilos fica no primeiro.
-    static let estilos: [Estilo] = [
-        Estilo(titulo: "Rock", palavras: ["rock", "metal", "kiss", "punk"]),
-        Estilo(titulo: "Notícias e esporte", palavras: ["news", "noticia", "cbn", "gaucha", "itatiaia", "tupi",
-                                                        "esporte", "jornal", "bandnews", "radio globo", "eldorado",
-                                                        "bandeirantes"]),
-        Estilo(titulo: "Gospel e católicas", palavras: ["gospel", "evangel", "catolic", "crista", "louvor", "aleluia",
-                                                         "cancao nova", "novo tempo", "aparecida", "fe ", "deus",
-                                                         "jesus", "igreja", "biblia"]),
-        Estilo(titulo: "Pop e hits", palavras: ["pop", "hits", "dance", "mix", "jovem pan", "transamerica",
-                                                 "energia", "eletro", "club", "pulse", "top"]),
-        Estilo(titulo: "Sertanejo, MPB e samba", palavras: ["sertanej", "mpb", "samba", "pagode", "forro", "nativa",
-                                                 "caipira", "brega", "axe", "piseiro", "moda de viola"]),
-        Estilo(titulo: "Clássica e jazz", palavras: ["classic", "jazz", "cultura", "educativa", "universit",
-                                                     "instrumental", "blues", "lounge"]),
-    ]
-
     @Published private(set) var lista: [Radio] = []
     @Published private(set) var tocando: Radio?
     /// Som saindo de fato: carregando ou travada, as barras param.
@@ -55,8 +31,8 @@ final class Radios: ObservableObject {
     private var observadorItem: NSKeyValueObservation?
     private var buscou = false
 
-    private static let endereco = URL(
-        string: Enderecos.canais + "radios.txt")!
+    /// Sem endereço da lista de canais não há rádio, nem pedido de rede.
+    private static var endereco: URL? { Enderecos.canais("radios.txt") }
 
     private static var arquivo: URL {
         let pasta = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
@@ -75,12 +51,13 @@ final class Radios: ObservableObject {
 
     /// A lista em disco na hora; a do repositório por trás, uma vez por abertura.
     func carregar() async {
+        guard let endereco = Self.endereco else { esquecer(); return }
         if lista.isEmpty, let guardada = try? String(contentsOf: Self.arquivo, encoding: .utf8) {
             lista = Self.ler(guardada)
         }
         guard !buscou else { return }
         buscou = true
-        var pedido = URLRequest(url: Self.endereco)
+        var pedido = URLRequest(url: endereco)
         pedido.timeoutInterval = 20
         guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
@@ -90,6 +67,12 @@ final class Radios: ObservableObject {
         guard nova.count >= 10 else { return }
         try? texto.write(to: Self.arquivo, atomically: true, encoding: .utf8)
         if nova != lista { lista = nova }
+    }
+
+    /// Endereço apagado ou trocado: some a lista e a próxima abertura da aba busca de novo.
+    func esquecer() {
+        lista = []
+        buscou = false
     }
 
     private static func ler(_ texto: String) -> [Radio] {
@@ -104,17 +87,12 @@ final class Radios: ObservableObject {
         }
     }
 
-    // MARK: - Estilo e letra
+    // MARK: - Letra
 
-    /// Nome sem acento e em minúsculas, para achar o estilo.
+    /// Nome sem acento e em minúsculas, para ordenar.
     static func chave(_ nome: String) -> String {
         nome.folding(options: [.diacriticInsensitive, .caseInsensitive], locale: Locale(identifier: "pt_BR"))
             .lowercased()
-    }
-
-    static func estilo(de radio: Radio) -> Estilo? {
-        let nome = chave(radio.nome) + " "
-        return estilos.first { e in e.palavras.contains { nome.contains($0) } }
     }
 
     /// A letra da fileira de A a Z; números e símbolos juntos, antes do A.

@@ -67,6 +67,10 @@ struct PainelDeCanais: View {
             .padding(.vertical, 8)
             .background(.white.opacity(0.08), in: Capsule())
 
+            if grupos.isEmpty && model.search.isEmpty {
+                SemListaView(secao: .canais, compacto: true)
+            }
+
             ScrollViewReader { rolagem in
                 ScrollView(.horizontal) {
                     HStack(spacing: 6) {

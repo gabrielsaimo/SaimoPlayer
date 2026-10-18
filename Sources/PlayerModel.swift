@@ -252,12 +252,16 @@ final class PlayerModel: NSObject, ObservableObject {
     /// sees the same list as everyone else.
     private(set) var restrictedUnlocked = false
     /// Lista restrita em uso: a publicada em `restritos.txt`, ou a de fábrica.
-    private var restritos: [Channel] = RemoteCatalog.restritosEmCache()
+    private var restritos: [Channel] = []
     private var typed = ""
     private var typedAt = Date.distantPast
 
     private override init() {
+        // Antes de qualquer leitura de disco: a primeira execução desta versão
+        // apaga as listas que as anteriores guardaram (ver `Migracao`).
+        Migracao.executarSeNecessario()
         super.init()
+        restritos = RemoteCatalog.restritosEmCache()
         channels = FontesDesativadas.peneirar(RemoteCatalog.cached() + Store.customChannels())
         favorites = Store.favorites()
         volume = Store.volume()
@@ -298,6 +302,8 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Picks up the published list without disturbing what is on screen: the
     /// channel being watched keeps playing if it survived the update.
     private func refreshCatalog() {
+        // Sem endereço dos canais não há pedido de rede nenhum.
+        guard Enderecos.canais != nil else { return }
         Task { @MainActor in
             guard let fresh = await RemoteCatalog.fetch() else {
                 Log.shared.write("lista publicada indisponível — usando a que já estava")
@@ -322,6 +328,26 @@ final class PlayerModel: NSObject, ObservableObject {
             }
             EPGService.shared.load(channels: channels)
         }
+    }
+
+    /// O endereço dos canais foi salvo, trocado ou apagado (Ajustes > Listas).
+    ///
+    /// Os arquivos antigos já foram apagados do disco; aqui a lista na tela
+    /// volta ao que o disco tem (nada) e, havendo endereço, a nova é buscada.
+    /// O que o usuário adicionou à mão (`Store.customChannels`) fica.
+    func recarregarListas() {
+        restritos = RemoteCatalog.restritosEmCache()
+        let extra = restrictedUnlocked ? restritos : []
+        channels = FontesDesativadas.peneirar(RemoteCatalog.cached() + Store.customChannels() + extra)
+        for c in channels { ProxyServer.shared.register(c) }
+        if selection == nil || !channels.contains(where: { $0.id == selection }) {
+            let antes = selection
+            selection = channels.first?.id
+            // Lista vazia: nada para tocar, e o canal antigo não pode ficar no ar.
+            if selection == nil, antes != nil { stop() }
+        }
+        EPGService.shared.load(channels: channels)
+        refreshCatalog()
     }
 
     // MARK: - Library

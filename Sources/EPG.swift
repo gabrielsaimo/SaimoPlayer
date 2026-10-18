@@ -111,18 +111,9 @@ final class EPGService: ObservableObject {
     private var refreshTimer: Timer?
     private var clockTimer: Timer?
 
-    /// Tried in order; the first source carrying a channel wins, so the later
-    /// ones only fill the gaps (Adult Swim, CNN Money, Universal…).
-    nonisolated private static let sourceURLs = [
-        URL(string: "https://iptv-epg.org/files/epg-br.xml")!,
-        URL(string: "https://www.open-epg.com/files/brazil3.xml")!,
-    ]
-    /// Guia da própria Pluto TV, montado pelo i.mjh.nz. Casa pelo id da Pluto,
-    /// que já está no link do canal (jmp2.uk/plu-<id>) ou no logo — nome não
-    /// serve: "Pluto TV Novelas" cairia no prefixo de canal nenhum ou no errado.
-    /// Direto no raw.githubusercontent, sem o redirecionamento do i.mjh.nz.
-    private static let plutoURL =
-        URL(string: "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml")!
+    // Os feeds XMLTV e o guia da Pluto TV vêm de `guia.txt` (ver `GuiaTabelas`):
+    // o código não conhece endereço de feed nenhum. A ordem do arquivo vale — o
+    // primeiro feed que traz um canal ganha, os outros só preenchem lacunas.
     private static let cacheTTL: TimeInterval = 6 * 3600
     /// Kept deliberately short: a guide only ever shows a couple of days.
     nonisolated private static let pastWindow: TimeInterval = 6 * 3600
@@ -181,6 +172,8 @@ final class EPGService: ObservableObject {
 
     func load(channels: [Channel]) {
         guard state != .loading else { return }
+        guard Enderecos.canais != nil else { limpar(); return }
+        GuiaTabelas.carregarDoDisco()
 
         if let cached = readCache(), !cached.isEmpty {
             byChannel = cached
@@ -195,8 +188,25 @@ final class EPGService: ObservableObject {
         scheduleRefresh(channels: channels)
     }
 
+    /// Esquece a programação (endereço dos canais apagado ou trocado).
+    func limpar() {
+        let tinha = !byChannel.isEmpty
+        byChannel = [:]
+        matchedChannels = 0
+        updatedAt = nil
+        cachedSignature = nil
+        state = .idle
+        GuiaTabelas.atual = GuiaTabelas()
+        if tinha { revision += 1 }
+    }
+
     func refresh(channels: [Channel]) {
         guard state != .loading else { return }
+        guard Enderecos.canais != nil else {
+            // Sem endereço dos canais não há lista nem guia: nada de rede.
+            limpar()
+            return
+        }
         if byChannel.isEmpty { state = .loading }
 
         let (pluto, principais) = Self.idsDaPluto(channels)
@@ -207,18 +217,22 @@ final class EPGService: ObservableObject {
         let signature = Self.signature(of: channels)
         Task.detached(priority: .utility) {
             do {
+                // As tabelas por canal vêm do `guia.txt` do endereço dos canais.
+                await GuiaTabelas.baixar()
+                let tabelas = GuiaTabelas.atual
                 let from = Date().addingTimeInterval(-EPGService.pastWindow)
                 let to = Date().addingTimeInterval(EPGService.futureWindow)
 
                 // Fetch every source at once, then merge in declared order.
                 let payloads = try await withThrowingTaskGroup(of: (Int, Data?).self) { group in
-                    for (index, url) in EPGService.sourceURLs.enumerated() {
+                    for (index, url) in tabelas.feeds.enumerated() {
                         group.addTask {
                             (index, try? await EPGService.download(url))
                         }
                     }
                     group.addTask {
-                        (-1, pluto.isEmpty ? nil : try? await EPGService.download(EPGService.plutoURL))
+                        guard !pluto.isEmpty, let url = tabelas.pluto else { return (-1, nil) }
+                        return (-1, try? await EPGService.download(url))
                     }
                     var result = [Int: Data]()
                     for try await (index, data) in group where data != nil {
@@ -226,7 +240,7 @@ final class EPGService: ObservableObject {
                     }
                     return result
                 }
-                guard !payloads.isEmpty else {
+                guard !payloads.isEmpty || tabelas.feeds.isEmpty else {
                     throw UpstreamError.transport("nenhuma fonte de EPG respondeu")
                 }
 
@@ -247,7 +261,7 @@ final class EPGService: ObservableObject {
                 // and the poster, episode and cast come along.
                 var byTitle: [String: Programme] = [:]
 
-                for index in EPGService.sourceURLs.indices {
+                for index in tabelas.feeds.indices {
                     guard let data = payloads[index] else { continue }
                     let parsed = XMLTVParser.parse(data, wanted: wanted, from: from, to: to)
                     for (channel, programmes) in parsed {
@@ -351,7 +365,7 @@ final class EPGService: ObservableObject {
     private var cachedSignature: String?
 
     private static func signature(of channels: [Channel]) -> String {
-        "v4:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
+        "v5:" + channels.map(\.id.uuidString).sorted().joined(separator: ",")
     }
 
     /// id da Pluto -> canal. O id tem 24 dígitos hexadecimais e aparece no link
@@ -416,30 +430,8 @@ final class EPGService: ObservableObject {
 /// whole 16 MB payload and only materialises text for programmes that belong to
 /// a channel we actually carry.
 enum XMLTVParser {
-    /// Display names in the feed that differ from ours.
-    static let aliases: [String: String] = [
-        "adult swim": "trutv",
-        "history": "history channel",
-        "sony channel": "sony",
-        "sportv 2": "sportv2",
-        "sportv 3": "sportv3",
-        "gnt": "gnt hd",
-        "band": "band sp",
-        "warner": "warner channel",
-        "sbt": "sbt sp",
-        "globo rj": "globo rj",
-        "globonews": "globonews",
-        // O feed chama estes de outro jeito. Sem apelido, o Discovery ID caía
-        // na regra de prefixo e pegava a programação do Discovery Channel.
-        "discovery id": "investigacao discovery",
-        "amc": "amc brasil",
-        "cnn brasil money": "cnn brasil money hd br",
-        "universal premiere": "universal premiere hd br",
-        "universal reality": "universal reality br",
-        "tnt novelas": "tnt novelas br",
-        "trace brazuca": "trace brasil hd br",
-        "record sp": "recordtv sp",
-    ]
+    /// Nomes do feed que diferem dos nossos (tabela `alias` do `guia.txt`).
+    static var aliases: [String: String] { GuiaTabelas.atual.aliases }
 
     static func normalise(_ s: String) -> String {
         var text = decodeEntities(s)
@@ -495,7 +487,7 @@ enum XMLTVParser {
             // 1. display-name -> every xmltv id carrying that name
             //
             // Feeds repeat a channel under variations that normalise to the same
-            // string ("HBO", "HBO HD", "HBO BR"). Keeping only the first id meant
+            // string ("Canal", "Canal HD", "Canal BR"). Keeping only the first id meant
             // binding to whichever copy happened to come first — and when that copy
             // carried no programmes, the channel showed an empty guide.
             var nameToXML: [String: [String]] = [:]
@@ -515,10 +507,10 @@ enum XMLTVParser {
             // 2. our channels -> xmltv id
             //
             // Two passes, because a fuzzy match must never outrank an exact one.
-            // "HBO2" normalises to "hbo2" while the feed says "HBO 2" -> "hbo 2",
-            // so the exact lookup misses and the prefix rule offers "hbo" — which
-            // belongs to plain HBO. A single-pass assignment let whichever channel
-            // came last overwrite the other, and HBO lost its own schedule.
+            // "Canal2" normalises to "canal2" while the feed says "Canal 2" -> "canal 2",
+            // so the exact lookup misses and the prefix rule offers "canal" — which
+            // belongs to the plain channel. A single-pass assignment let whichever channel
+            // came last overwrite the other, and the plain one lost its own schedule.
             var claimed: Set<String> = []
             var unresolved: [(id: UUID, key: String)] = []
             var matched = 0

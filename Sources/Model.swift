@@ -27,8 +27,7 @@ struct Channel: Identifiable, Hashable {
     var name: String
     var logo: URL?
     var variants: [Variant]
-    /// Seção declarada no catálogo publicado. Quando vem vazia, a seção sai do
-    /// nome — ver `Categoria.de(_:)`.
+    /// Seção declarada no catálogo publicado. Vazia = "Outros" — ver `Categoria.de(_:)`.
     var categoria: String?
 
     var primary: Variant { variants[0] }
@@ -67,10 +66,9 @@ struct Channel: Identifiable, Hashable {
 
 /// Como a lista de canais é dividida na tela.
 ///
-/// As regras são as mesmas do site, de propósito: quem usa os dois encontra o
-/// canal no mesmo lugar. A categoria sai do nome porque o catálogo publicado
-/// não carrega essa informação — acrescentá-la ali obrigaria a mexer em cento
-/// e sessenta linhas à mão e a manter a mão sempre que entrasse canal novo.
+/// A seção de cada canal vem do campo `categoria:` do catálogo publicado; canal
+/// sem categoria (ou com uma que o app não conhece) vai para "Outros". Nenhuma
+/// regra olha o nome do canal.
 enum Categoria: String, CaseIterable, Identifiable {
     case favoritos = "Favoritos"
     case tvAberta = "TV Aberta"
@@ -81,46 +79,25 @@ enum Categoria: String, CaseIterable, Identifiable {
     case documentarios = "Documentários"
     case plutoTV = "Pluto TV"
     case vinteQuatroHoras = "24 Horas"
+    case musicas = "Músicas"
+    case ppv = "PPV"
     case variedades = "Variedades"
     case adulto = "Adulto"
+    case outros = "Outros"
 
     var id: String { rawValue }
 
-    /// A seção do canal: a declarada no catálogo quando existe, senão a que o
-    /// nome sugere.
+    /// A seção do canal: a declarada no catálogo; senão "Outros".
     static func de(_ canal: Channel) -> Categoria {
-        if let declarada = canal.categoria,
-           let achada = Categoria(rawValue: declarada) { return achada }
-        return de(canal.name)
+        de(declarada: canal.categoria)
     }
 
-    static func de(_ nome: String) -> Categoria {
-        let n = XMLTVParser.normalise(nome)
-        func tem(_ termos: [String]) -> Bool { termos.contains { n.contains($0) } }
-        if tem(["pluto tv"]) { return .plutoTV }
-        if tem(["adulto", "sexy hot", "playboy", "sex prive", "penthouse", "venus",
-                "hustler", "private", "brasileirinhas"]) { return .adulto }
-        // O "premiere" do futebol e o Universal Premiere, de filme, dividem a
-        // palavra; quem manda aqui é o resto do nome.
-        if tem(["premiere", "sportv", "espn", "combate", "band sports", "nsports",
-                "n sports", "xsports", "x sports", "caze", "tnt sports", "fuel",
-                "ge tv", "fox sports"]), !tem(["universal"]) { return .esportes }
-        if tem(["telecine", "hbo", "megapix", "cinemax", "paramount", "space", "tnt",
-                "amc", "studio universal", "sony", "warner", "axn", "universal",
-                "cinemonde", "darkflix", "tcm", "prime box", "movies", "cine"]) { return .filmes }
-        if tem(["cartoon", "gloob", "nick", "discovery kids", "boomerang", "tooncast",
-                "infantil", "kids", "cartoonito", "box kids", "ra tim bum", "babyfirst",
-                "dumdum", "anime"]) { return .infantil }
-        if tem(["discovery", "history", "animal planet", "nat geo", "investigacao",
-                "h2", "a e", "curta", "documenta", "science", "theater", "turbo",
-                "world", "id "]) { return .documentarios }
-        if tem(["news", "globonews", "cnn", "record news", "jovem pan", "bandnews",
-                "band news", "cnbc", "euronews", "dw", "times brasil", "uol"]) { return .noticias }
-        if tem(["globo", "sbt", "record", "band", "redetv", "rede tv", "tv brasil",
-                "cultura", "gazeta", "rede vida", "cancao nova", "aparecida", "senado",
-                "camara", "justica", "escola", "futura", "pampa", "cnt", "rede brasil",
-                "play tv", "playtv", "sesc"]) { return .tvAberta }
-        return .variedades
+    static func de(declarada: String?) -> Categoria {
+        guard let declarada = declarada?.trimmingCharacters(in: .whitespaces), !declarada.isEmpty
+        else { return .outros }
+        return Categoria(rawValue: declarada)
+            ?? allCases.first { $0.rawValue.compare(declarada, options: [.caseInsensitive, .diacriticInsensitive]) == .orderedSame }
+            ?? .outros
     }
 }
 

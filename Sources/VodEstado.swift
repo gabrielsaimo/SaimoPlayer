@@ -107,6 +107,21 @@ final class VodEstado: ObservableObject {
 
     private init() {}
 
+    /// O endereço dos filmes mudou ou foi apagado: nada do que estava carregado vale mais.
+    func reiniciarAcervo() {
+        gavetas = []
+        achados = []
+        achadosDe = nil
+        titulosFilme = []
+        titulosSerie = []
+        serieAberta = nil
+        episodios = []
+        episodiosColecao = [:]
+        letra = ""
+        genero = ""
+        busca = ""
+    }
+
     /// Os títulos já carregados servem para a letra e a seção em que foram
     /// carregados; trocar qualquer uma delas obriga a buscar de novo.
     var precisaCarregar: Bool {

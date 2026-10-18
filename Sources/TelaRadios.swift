@@ -2,22 +2,31 @@ import SwiftUI
 
 /// As rádios, no formato da tela inicial, como na TV Box: o destaque em cima
 /// mostra a rádio sob o ponteiro (ou a que está tocando, com as barras do
-/// equalizador), e embaixo as fileiras — as ouvidas por último, uma por estilo
-/// e todas de A a Z, uma fileira por letra.
+/// equalizador), e embaixo as fileiras — as ouvidas por último, todas
+/// as de A a Z, uma fileira por letra.
 struct TelaRadios: View {
     @ObservedObject private var radios = Radios.shared
     @State private var destaque = DestaqueEstado()
+    @ObservedObject private var listas = ListasEstado.shared
+
+    private var semEndereco: Bool { listas.canais == nil }
 
     var body: some View {
-        TelaEmFileiras(destaque: destaque, filas: filas, carregando: radios.lista.isEmpty,
-                       vazio: "Sem rádios por enquanto. Confira a internet e abra de novo.") {
+        TelaEmFileiras(destaque: destaque, filas: filas, carregando: radios.lista.isEmpty && semEndereco == false,
+                       vazio: semEndereco ? Links.mensagemSemEndereco(.radios)
+                                          : "Sem rádios por enquanto. Confira a internet e abra de novo.") {
             if let radio = radios.tocando {
                 RadioTocando(radio: radio)
             } else {
                 DestaqueTopo(estado: destaque)
             }
         }
-        .task {
+        .task(id: listas.canais) {
+            guard !semEndereco else {
+                radios.esquecer()
+                destaque.padrao("Rádios", "Sem lista", "Informe o endereço em Ajustes > Listas.")
+                return
+            }
             destaque.padrao("Rádios", "Carregando…")
             await radios.carregar()
             destaque.padrao("Rádios", "\(radios.lista.count) rádios ao vivo",
@@ -38,13 +47,6 @@ struct TelaRadios: View {
         if !recentes.isEmpty {
             out.append(Fila(titulo: "Ouvidas por último", tipo: .largo, cartoes: recentes.map(cartao)))
         }
-        let porEstilo = Dictionary(grouping: lista) { Radios.estilo(de: $0)?.titulo ?? "" }
-        for estilo in Radios.estilos {
-            let doEstilo = porEstilo[estilo.titulo] ?? []
-            if doEstilo.count >= 4 {
-                out.append(Fila(titulo: estilo.titulo, tipo: .largo, cartoes: doEstilo.map(cartao)))
-            }
-        }
         let porLetra = Dictionary(grouping: lista, by: Radios.letra(de:))
         for letra in porLetra.keys.sorted() {
             out.append(Fila(titulo: letra == "#" ? "0 a 9" : letra, tipo: .largo,
@@ -54,16 +56,15 @@ struct TelaRadios: View {
     }
 
     private func cartao(_ radio: Radios.Radio) -> CartaoFila {
-        let estilo = Radios.estilo(de: radio)?.titulo
         let tocando = radios.tocando?.id == radio.id
         return CartaoFila(
             id: "radio:" + radio.id,
             titulo: radio.nome,
-            subtitulo: tocando ? "tocando agora" : estilo,
+            subtitulo: tocando ? "tocando agora" : nil,
             capa: radio.logo,
             selo: tocando ? "TOCANDO" : nil,
             seloAoVivo: tocando,
-            meta: (["Rádio ao vivo", estilo].compactMap { $0 }).joined(separator: "  ·  "),
+            meta: "Rádio ao vivo",
             sinopse: "Clique para ouvir."
         ) {
             radios.tocar(radio)
@@ -102,9 +103,6 @@ private struct RadioTocando: View {
                     .font(.system(size: 32, weight: .bold))
                     .foregroundStyle(.white)
                     .lineLimit(1)
-                if let estilo = Radios.estilo(de: radio)?.titulo {
-                    Text(estilo).font(.system(size: 14)).foregroundStyle(Tema.textoSecundario)
-                }
                 Equalizador(tocando: radios.noAr)
                     .frame(width: 260, height: 34)
                 GrupoDeVidro {

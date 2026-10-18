@@ -132,9 +132,13 @@ struct TelaInicio: View {
     @State private var destaque = DestaqueEstado()
     @ObservedObject private var favoritos = VodFavoritos.shared
     @ObservedObject private var epg = EPGService.shared
+    @ObservedObject private var listas = ListasEstado.shared
 
     var body: some View {
-        TelaEmFileiras(destaque: destaque, filas: filas, carregando: carregando)
+        TelaEmFileiras(destaque: destaque, filas: filas, carregando: carregando,
+                       vazio: listas.canais == nil && listas.filmes == nil
+                           ? "Nada por aqui ainda. Informe o endereço das listas em Ajustes > Listas."
+                           : "Nada aqui por enquanto")
             .onAppear { destaque.padrao(saudacao, "O que vamos assistir?",
                                         "Passe o mouse num título para ver do que se trata; clique para abrir. Botão direito favorita.") }
     }

@@ -110,6 +110,7 @@ struct TelaAjustes: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
     @ObservedObject private var connect = SaimoConnect.shared
+    @ObservedObject private var listas = ListasEstado.shared
 
     private var versao: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "?"
@@ -150,6 +151,27 @@ struct TelaAjustes: View {
                         alternador("Lista de canais em janela separada",
                                    "Uma janela ao lado do player, como antes (⇧⌘L)",
                                    icone: "sidebar.leading", valor: $model.detachedList)
+                    }
+
+                    secao("Listas") {
+                        linha("Lista de canais", listas.canais ?? "Não informado", icone: "tv") {
+                            listas.editando = true
+                        }
+                        linha("Lista de filmes e séries", listas.filmes ?? "Não informado", icone: "film.stack") {
+                            listas.editando = true
+                        }
+                        if listas.canais != nil {
+                            linha("Apagar o endereço dos canais", "Remove a lista de canais, rádios e guia deste Mac",
+                                  icone: "trash") {
+                                Links.aplicar(Links.planejar(canais: "", filmes: listas.filmes ?? ""))
+                            }
+                        }
+                        if listas.filmes != nil {
+                            linha("Apagar o endereço dos filmes e séries", "Remove a lista de filmes e séries deste Mac",
+                                  icone: "trash") {
+                                Links.aplicar(Links.planejar(canais: listas.canais ?? "", filmes: ""))
+                            }
+                        }
                     }
 
                     secao("Canais") {
@@ -200,6 +222,9 @@ struct TelaAjustes: View {
                 .frame(maxWidth: .infinity, alignment: .leading)
             }
             .scrollIndicators(.hidden)
+        }
+        .sheet(isPresented: $listas.editando) {
+            FormularioListasView(primeiraAbertura: false) { listas.editando = false }
         }
     }
 

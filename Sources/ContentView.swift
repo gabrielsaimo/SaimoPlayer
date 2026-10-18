@@ -16,6 +16,7 @@ struct ContentView: View {
     @ObservedObject private var interface = Interface.shared
 
     @ObservedObject private var atualizacao = Atualizacao.shared
+    @ObservedObject private var listas = ListasEstado.shared
 
     /// Em tela cheia não há botões de janela: a barra encosta na esquerda.
     @State private var telaCheia = false
@@ -48,6 +49,12 @@ struct ContentView: View {
             .frame(minWidth: 820, minHeight: 520)
             .sheet(item: $atualizacao.disponivel) { versao in
                 AtualizacaoView(atualizacao: atualizacao, versao: versao)
+            }
+            // Sem nenhum endereço, pergunta (depois da abertura animada).
+            .sheet(isPresented: Binding(
+                get: { listas.pedirEndereco && !abertura },
+                set: { listas.pedirEndereco = $0 })) {
+                FormularioListasView(primeiraAbertura: true) { listas.pedirEndereco = false }
             }
             .task { atualizacao.vigiar() }
             .alert("Atualização", isPresented: Binding(
@@ -112,6 +119,7 @@ struct ContentView: View {
     private var principal: some View {
         if vod.secao != nil {
             VodGridView(model: model)
+                .id(listas.geracao)
                 .transition(.opacity)
         } else {
             stage
@@ -163,6 +171,11 @@ struct ContentView: View {
             .allowsHitTesting(false)
             .opacity(controlsVisible ? 1 : 0)
             .animation(.easeInOut(duration: 0.22), value: controlsVisible)
+
+            // Sem canais (nenhum endereço, ou a lista veio vazia): o vídeo é só um fundo preto.
+            if model.channels.isEmpty, model.playingFile == nil {
+                SemListaView(secao: .canais)
+            }
 
             LegendaNaTela(model: model, acimaDosControles: controlsVisible)
 
@@ -319,15 +332,17 @@ struct ChannelIcon: View {
 
     @ObservedObject private var logos = LogoLoader.shared
 
+    /// O ícone vem da seção do canal (campo `categoria:` do catálogo), não do nome.
     private var glyph: String? {
-        let n = channel.name.lowercased()
-        if n.contains("impd") { return "globe.americas.fill" }
-        if n.contains("telecine") || n.contains("megapix") || n.contains("cine") { return "film.fill" }
-        if n.contains("cartoon") || n.contains("adult swim") { return "face.smiling.fill" }
-        if n.contains("history") { return "building.columns.fill" }
-        if n.contains("animal") || n.contains("planet") { return "pawprint.fill" }
-        if n.contains("warner") { return "sparkles.tv.fill" }
-        return nil
+        switch Categoria.de(channel) {
+        case .filmes: return "film.fill"
+        case .infantil: return "face.smiling.fill"
+        case .documentarios: return "building.columns.fill"
+        case .esportes: return "sportscourt.fill"
+        case .noticias: return "newspaper.fill"
+        case .musicas: return "music.note"
+        default: return nil
+        }
     }
 
     private var initials: String {

@@ -231,6 +231,31 @@ régua: o celular toca o som sem o acerto fino.
 ./make_dmg.sh     # gera o DMG
 ```
 
+### Listas: o app não traz nenhuma
+
+O app do Mac não carrega lista nenhuma no código nem no binário (não existe mais
+`Channels.swift`). Quem informa de onde vêm os dados é o usuário, na primeira
+abertura ou em Ajustes > Listas, com dois endereços guardados no `UserDefaults`
+(`linkCanais`, `linkFilmes`), sem valor padrão:
+
+- Canais: o app só concatena `catalogo.txt`, `canais.txt`, `restritos.txt`,
+  `radios.txt` e `guia.txt` ao endereço. A seção de cada canal vem do campo
+  `categoria:` (sem ele, "Outros").
+- Filmes e séries: a pasta `vod/` inteira, com os mesmos nomes de sempre.
+- `guia.txt` traz as tabelas do guia por canal (códigos do meuguia, endereços do
+  guiadetv, apelidos para o feed, feeds XMLTV e o guia da Pluto), em linhas com TAB;
+  `GuiaTabelas.swift` lê e guarda em cache.
+- `Links.swift` normaliza o que foi digitado (`https://` se faltar, sem `?query` nem
+  `#fragmento`, sem o nome do arquivo, `/` no fim) e `FormularioListas.swift` testa
+  (`catalogo.txt` / `indice.txt` devem dar 200). Sem endereço o app não faz pedido de
+  rede para listas e mostra o estado vazio com atalho para os Ajustes.
+- `Migracao.swift` apaga, uma vez, os caches de listas das versões anteriores; favoritos,
+  progresso e ajustes ficam. O endereço do atualizador é um só, fixo
+  (`Atualizacao.enderecoDoAnuncio`).
+
+Testes sem rede: `scripts/testar_links.sh`, `scripts/testar_versao.sh`,
+`scripts/testar_amostra.sh`.
+
 ## Dados publicados
 
 Os apps baixam estes arquivos de dois endereços fixos no Cloudflare Pages —

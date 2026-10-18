@@ -1,7 +1,7 @@
 import Foundation
 import AppKit
 
-/// Procura versão nova (`versao.json`, em `Enderecos.canais`) e pergunta se quer baixar.
+/// Procura versão nova (`versao.json`, no endereço fixo `enderecoDoAnuncio`) e pergunta se quer baixar.
 ///
 /// O app não vem da App Store nem é assinado por um desenvolvedor registrado,
 /// então não existe atualização automática de fábrica: sem isto, uma correção
@@ -192,8 +192,12 @@ final class Atualizacao: ObservableObject {
 
     /// Lê `versao.json`. Qualquer falha (rede, JSON, endereço fora da lista)
     /// vira "sem atualização": nunca trava nem derruba o app.
+    /// O anúncio da versão: um endereço só, fixo. Infraestrutura do app, não lista.
+    nonisolated static let enderecoDoAnuncio =
+        "https://github.com/saimo-tv/saimo-downloads/releases/latest/download/versao.json"
+
     private func buscar() async -> Versao? {
-        guard let url = URL(string: Enderecos.canais + "versao.json") else { return nil }
+        guard let url = URL(string: Self.enderecoDoAnuncio) else { return nil }
         var pedido = URLRequest(url: url)
         pedido.timeoutInterval = 20
         pedido.cachePolicy = .reloadIgnoringLocalCacheData

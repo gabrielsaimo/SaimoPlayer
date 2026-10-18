@@ -15,8 +15,12 @@ import Foundation
 @MainActor
 enum Generos {
 
-    private static let endereco = URL(
-        string: Enderecos.filmes + "fichas.txt")!
+    private static var endereco: URL? { Enderecos.filmes("fichas.txt") }
+
+    /// Endereço apagado ou trocado: some o que estava em memória.
+    static func esquecer() {
+        mapa = [:]; capas = [:]; ids = [:]; porId = [:]; todos = []
+    }
 
     /// "f|Nome" ou "s|Nome" -> os gêneros dele.
     private static var mapa: [String: [String]] = [:]
@@ -89,7 +93,7 @@ enum Generos {
 
     /// Baixa a lista uma vez por abertura, e guarda em disco para a seguinte.
     static func carregar() async {
-        if prontos || carregando { return }
+        if prontos || carregando || endereco == nil { return }
         carregando = true
         defer { carregando = false }
 
@@ -154,6 +158,7 @@ enum Generos {
     }
 
     private static func baixado() async -> String? {
+        guard let endereco else { return nil }
         var pedido = URLRequest(url: endereco)
         pedido.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
         pedido.setValue("*/*", forHTTPHeaderField: "Accept")
