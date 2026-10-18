@@ -1872,15 +1872,9 @@ canal: Telecine Pipoca
 categoria: Filmes e Séries
 logo: https://img.faz-o-eli.online/telecinepipoca.png
 
-fonte: https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/3e88ab38091a82cbb68ac44e5f84e1b7/error.txt
-qualidade: HD · 1280x720
-referer: https://w7.embedtv.cc/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
 fonte: https://dadinhodetapioca.fun/play/telecinepipoca.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
-fonte: https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.txt
-qualidade: Qualidade não informada
 fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/telecinepipoca/telecinepipoca.m3u8
 qualidade: HD · 1280x720
 fonte: http://64.31.23.207:80/59471019/60849037/324396.m3u8
