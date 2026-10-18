@@ -16,7 +16,7 @@ import Foundation
 enum Generos {
 
     private static let endereco = URL(
-        string: "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/vod/fichas.txt")!
+        string: Enderecos.filmes + "fichas.txt")!
 
     /// "f|Nome" ou "s|Nome" -> os gêneros dele.
     private static var mapa: [String: [String]] = [:]

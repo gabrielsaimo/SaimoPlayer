@@ -47,9 +47,25 @@ Versão atual: **2.0.0** — [notas da versão](https://github.com/gabrielsaimo/
 | macOS | este repositório (`Sources/`) | `SaimoTV.dmg` |
 | Navegador | [Saimo-TV](https://github.com/gabrielsaimo/Saimo-TV) | <https://saimo-tv.pages.dev> |
 
-Todos os arquivos saem juntos em
-[Releases](https://github.com/gabrielsaimo/SaimoPlayer/releases/latest), e cada
-app procura a versão nova ali e se oferece para atualizar.
+Os instaladores saem juntos em
+[Releases](https://github.com/gabrielsaimo/SaimoPlayer/releases/latest).
+
+### De onde o app Mac lê catálogos e atualizações
+
+O app não aponta para o GitHub: usa dois endereços estáveis, definidos num só
+lugar (`Sources/Enderecos.swift`), para o repositório poder mudar de conta sem
+quebrar quem já instalou.
+
+- `https://saimo-canais.pages.dev/`: `catalogo.txt`, `canais.txt`,
+  `restritos.txt`, `radios.txt` e `versao.json`.
+- `https://saimo-filmes.pages.dev/`: espelho da pasta `vod/` (índice, filmes,
+  séries, destaques, fichas, gêneros, imdb).
+
+A atualização lê `versao.json` (`arquivos.mac.url`, `bytes`, `sha256`). O app só
+aceita um instalador `https` em `github.com/<dono>/<repo>/releases/download/…`
+(redirecionando apenas para a CDN do GitHub) e recusa o arquivo se o SHA-256
+não bater. Se `versao.json` não puder ser lido, é como "sem atualização".
+`scripts/testar_versao.sh` testa isso sem rede.
 
 ## O que todos têm
 

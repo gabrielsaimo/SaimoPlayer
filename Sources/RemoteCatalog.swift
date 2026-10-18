@@ -9,7 +9,7 @@ import Foundation
 /// missing network never costs the user their channels.
 enum RemoteCatalog {
 
-    private static let base = "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/"
+    private static let base = Enderecos.canais
     /// The whole catalogue, with ClearKey, Referer and User-Agent. This is the
     /// list that rules: editing this file swaps a link with nothing to rebuild.
     static let url = URL(string: base + "catalogo.txt")!

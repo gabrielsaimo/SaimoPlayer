@@ -113,6 +113,10 @@ final class BaixadorDeAtualizacao: NSObject, URLSessionDataDelegate, @unchecked 
                     willPerformHTTPRedirection response: HTTPURLResponse,
                     newRequest request: URLRequest,
                     completionHandler: @escaping @Sendable (URLRequest?) -> Void) {
+        // Só segue para a CDN do GitHub; qualquer outro destino é recusado.
+        guard let destino = request.url, VersaoPublicada.redirecionamentoPermitido(destino) else {
+            completionHandler(nil); return
+        }
         var novo = request
         if recebido > 0 { novo.setValue("bytes=\(recebido)-", forHTTPHeaderField: "Range") }
         completionHandler(novo)

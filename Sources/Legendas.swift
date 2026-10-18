@@ -31,7 +31,7 @@ enum Legendas {
         let texto: String
     }
 
-    private static let base = "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/vod/"
+    private static let base = Enderecos.filmes
     private static let servico = "https://opensubtitles-v3.strem.io/subtitles"
     private static let fragmentosPorTipo = 100
 

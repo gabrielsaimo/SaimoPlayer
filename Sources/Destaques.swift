@@ -39,7 +39,7 @@ enum Destaques {
     }
 
     private static let endereco = URL(
-        string: "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/vod/destaques.txt")!
+        string: Enderecos.filmes + "destaques.txt")!
     /// A lista muda quando o gerador roda; um dia em disco abre instantâneo sem
     /// ficar semanas desatualizado.
     private static let validade: TimeInterval = 24 * 60 * 60

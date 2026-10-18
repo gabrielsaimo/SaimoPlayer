@@ -1,7 +1,7 @@
 import Foundation
 import AppKit
 
-/// Procura versão nova no GitHub e pergunta se quer baixar.
+/// Procura versão nova (`versao.json`, em `Enderecos.canais`) e pergunta se quer baixar.
 ///
 /// O app não vem da App Store nem é assinado por um desenvolvedor registrado,
 /// então não existe atualização automática de fábrica: sem isto, uma correção
@@ -27,15 +27,16 @@ final class Atualizacao: ObservableObject {
         let numero: String
         let notas: String
         let dmg: URL
-        /// Bytes do DMG segundo o GitHub; nulo quando veio pela página.
+        /// Bytes do DMG segundo o anúncio; nulo quando não veio.
         let tamanho: Int64?
-        /// SHA-256 do DMG segundo o GitHub (campo "digest"), em hexadecimal.
+        /// SHA-256 do DMG segundo o anúncio, em hexadecimal.
         let sha256: String?
         var id: String { tag }
-        /// A página da versão, para quando o download aqui dentro falha.
+        /// A página da versão, para quando o download aqui dentro falha;
+        /// derivada do endereço do instalador, sem dono fixo no código.
         var pagina: URL {
-            URL(string: "https://github.com/gabrielsaimo/SaimoPlayer/releases/tag/\(tag)")
-                ?? URL(string: "https://github.com/gabrielsaimo/SaimoPlayer/releases/latest")!
+            VersaoPublicada(tag: tag, numero: numero, notas: notas, dmg: dmg,
+                            tamanho: tamanho, sha256: sha256).pagina ?? dmg
         }
     }
 
@@ -55,7 +56,6 @@ final class Atualizacao: ObservableObject {
     private var baixandoTag: String?
     private var baixador: BaixadorDeAtualizacao?
 
-    private let repo = "gabrielsaimo/SaimoPlayer"
     private let defaults = UserDefaults.standard
     private let chavePulada = "atualizacaoPulada"
     private let intervalo: UInt64 = 60 * 60
@@ -86,7 +86,7 @@ final class Atualizacao: ObservableObject {
         Task { [weak self] in
             guard let self else { return }
             guard let lancamento = await self.buscar() else {
-                if manual { self.aviso = "Não foi possível falar com o GitHub." }
+                if manual { self.aviso = "Não foi possível verificar atualizações agora." }
                 return
             }
             guard Self.maisNova(lancamento.numero, que: self.atual) else {
@@ -188,71 +188,27 @@ final class Atualizacao: ObservableObject {
         baixador.comecar()
     }
 
-    // MARK: - GitHub
+    // MARK: - Anúncio
 
+    /// Lê `versao.json`. Qualquer falha (rede, JSON, endereço fora da lista)
+    /// vira "sem atualização": nunca trava nem derruba o app.
     private func buscar() async -> Versao? {
-        guard let url = URL(string: "https://api.github.com/repos/\(repo)/releases/latest")
-        else { return nil }
+        guard let url = URL(string: Enderecos.canais + "versao.json") else { return nil }
         var pedido = URLRequest(url: url)
         pedido.timeoutInterval = 20
         pedido.cachePolicy = .reloadIgnoringLocalCacheData
-        pedido.setValue("application/vnd.github+json", forHTTPHeaderField: "Accept")
         pedido.setValue(Upstream.userAgent, forHTTPHeaderField: "User-Agent")
 
         guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
-              let raiz = try? JSONSerialization.jsonObject(with: dados) as? [String: Any],
-              let tag = raiz["tag_name"] as? String,
-              let ativos = raiz["assets"] as? [[String: Any]]
-        else { return await buscarPeloSite() }
-
-        // O nome do arquivo é o contrato com o release: o DMG é a atualização
-        // do Mac, e o APK do mesmo release é a do Android.
-        guard let ativo = ativos.first(where: {
-            ($0["name"] as? String)?.lowercased().hasSuffix(".dmg") == true
-        }), let dmg = ativo["browser_download_url"] as? String, let endereco = URL(string: dmg)
+              let v = VersaoPublicada.ler(dados)
         else { return nil }
-        let tamanho = (ativo["size"] as? NSNumber)?.int64Value
-        let resumo = (ativo["digest"] as? String).flatMap { digest -> String? in
-            guard digest.hasPrefix("sha256:") else { return nil }
-            return String(digest.dropFirst("sha256:".count))
-        }
-
-        // A tag precisa ter cara de versão ("v1.2" ou "1.2.3"). Um "beta-v2"
-        // não diz o que é mais novo que o quê, e comparar o número solto dele
-        // com 1.0.0 ofereceria uma atualização para trás.
-        guard let numero = Self.numeroDaTag(tag) else { return nil }
-
-        return Versao(tag: tag,
-                      numero: numero,
-                      notas: (raiz["body"] as? String) ?? "",
-                      dmg: endereco,
-                      tamanho: tamanho.flatMap { $0 > 0 ? $0 : nil },
-                      sha256: resumo)
-    }
-
-    /// Reserva para quando a API não responde. Sem conta, ela aceita 60
-    /// consultas por hora por IP, e numa rede com muitos aparelhos atrás do
-    /// mesmo IP isso acaba. A página /releases/latest não tem esse limite e
-    /// redireciona para a tag da versão; o DMG mora num endereço fixo dela.
-    private func buscarPeloSite() async -> Versao? {
-        guard let url = URL(string: "https://github.com/\(repo)/releases/latest") else { return nil }
-        var pedido = URLRequest(url: url)
-        pedido.httpMethod = "HEAD"
-        pedido.timeoutInterval = 20
-        pedido.cachePolicy = .reloadIgnoringLocalCacheData
-        guard let (_, resposta) = try? await URLSession.shared.data(for: pedido),
-              let final = resposta.url, final.path.contains("/releases/tag/")
-        else { return nil }
-        let tag = final.lastPathComponent
-        guard let numero = Self.numeroDaTag(tag),
-              let dmg = URL(string: "https://github.com/\(repo)/releases/download/\(tag)/SaimoTV.dmg")
-        else { return nil }
-        return Versao(tag: tag, numero: numero, notas: "", dmg: dmg, tamanho: nil, sha256: nil)
+        return Versao(tag: v.tag, numero: v.numero, notas: v.notas, dmg: v.dmg,
+                      tamanho: v.tamanho, sha256: v.sha256)
     }
 
     /// "v1.2.3" e "1.2" viram "1.2.3" e "1.2"; qualquer outra coisa, nulo.
-    static func numeroDaTag(_ tag: String) -> String? {
+    nonisolated static func numeroDaTag(_ tag: String) -> String? {
         guard let faixa = tag.range(of: "^[vV]?\\d+\\.\\d+(\\.\\d+)?$",
                                     options: .regularExpression) else { return nil }
         return String(tag[faixa]).trimmingCharacters(in: CharacterSet(charactersIn: "vV"))
@@ -260,7 +216,7 @@ final class Atualizacao: ObservableObject {
 
     /// Compara 1.10.0 com 1.9.3 pelo número de cada parte, não pelo texto —
     /// como texto, "1.10" viria antes de "1.9".
-    static func maisNova(_ candidata: String, que atual: String) -> Bool {
+    nonisolated static func maisNova(_ candidata: String, que atual: String) -> Bool {
         let a = candidata.split(separator: ".").map { Int($0.filter(\.isNumber)) ?? 0 }
         let b = atual.split(separator: ".").map { Int($0.filter(\.isNumber)) ?? 0 }
         for i in 0..<max(a.count, b.count) {

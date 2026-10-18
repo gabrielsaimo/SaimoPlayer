@@ -35,8 +35,7 @@ struct Episodio: Identifiable, Hashable {
 /// o download acompanha o clique em vez de contrariá-lo.
 enum Vod {
 
-    private static let base =
-        "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/main/vod/"
+    private static let base = Enderecos.filmes
 
     struct Gaveta: Identifiable, Hashable {
         var letra: String
