@@ -159,7 +159,30 @@ Paramount+, GOAT, ge tv, N Sports e SportyNet, sem repetir) com os placares da E
 os jogos que passam num canal da lista (adultos fora; encerrados saem), agrupados
 em Ao vivo agora, Começa em breve, Hoje mais tarde, Amanhã e Próximos dias. Cada
 cartão traz liga, horário ou "AO VIVO" com o tempo de jogo, escudos, placar e o
-canal; clicar abre o canal ao vivo. Com a tela aberta, atualiza a cada minuto.
+canal; clicar abre o canal ao vivo. Só busca com a tela aberta e o app na
+frente: na hora ao abrir (se a última busca tem mais de um minuto) e depois a cada
+três minutos.
+
+### Telemetria por amostra
+
+O monitor é cobrado por pedido, então só uma fatia estável dos aparelhos fala
+com ele (`Amostra.swift`, `Telemetria.swift`). A conta é a mesma do servidor
+(`amostrado` no `worker.js`): FNV-1a de 32 bits sobre o `deviceId` em
+minúsculas, e entra quem tem `hash % 10000 < amostraPct * 100`. O percentual
+vem de `telemetria.json` (arquivo estático do monitor, de graça), relido no
+máximo uma vez por dia e guardado; sem leitura vale 5%. O `/v1/hello` também
+pode mandar `amostraPct`/`amostra`.
+
+- Fora da amostra: nada vai ao monitor (nem olá, nem batida, nem evento), menos
+  o relatório de quebra (`crash`), que vale de todos.
+- Na amostra: como antes, mas a batida extra (pausa, troca de título, parada)
+  sai no máximo uma a cada 30 s; a do relógio segue o `heartbeatSeconds` do
+  olá, e a do fechamento sai sempre.
+- `/v1/fontes` (servidores desligados): no máximo uma leitura por hora, com a
+  última lista boa guardada — reabrir o app dentro da hora não pergunta de novo.
+- `/v1/eventos`: ver Eventos acima.
+
+Teste da conta: `./scripts/testar_amostra.sh`.
 
 Saimo Connect (`SaimoConnect.swift`, `ConnectHls.swift`, `Historico.swift`): o
 celular com o app Saimo acha e controla o Mac do mesmo jeito que a TV Box, pelo

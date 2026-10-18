@@ -1,5 +1,6 @@
 import Foundation
 import SwiftUI
+import AppKit
 
 /// Os jogos de hoje e dos próximos dias que passam em algum canal da lista,
 /// com a mesma lógica da tela de Eventos do TV Box e do celular.
@@ -254,12 +255,15 @@ final class EventsService: ObservableObject {
     @Published private(set) var erro = false
     @Published private(set) var agora = Date()
     private var buscando = false
+    /// Quando saiu a última busca (deu certo ou não).
+    private(set) var buscouEm: Date = .distantPast
 
     private init() {}
 
     func carregar(_ canais: [Channel]) async {
         guard !buscando, !canais.isEmpty else { return }
         buscando = true
+        buscouEm = Date()
         defer { buscando = false }
         let lidos = await Eventos.buscarJogos(canais)
         agora = Date()
@@ -281,8 +285,12 @@ struct EventsView: View {
     @ObservedObject private var service = EventsService.shared
     @StateObject private var destaque = DestaqueEstado()
 
-    /// O placar anda: com a tela aberta, busca de novo a cada minuto.
-    private static let intervalo: Duration = .seconds(60)
+    /// O placar anda: com a tela aberta e o app na frente, busca de novo a
+    /// cada três minutos. Abrir a tela busca na hora se a última tem mais de
+    /// um minuto. A agenda do monitor é cobrada por pedido; app no fundo ou
+    /// outra tela aberta não busca nada.
+    private static let intervalo: TimeInterval = 180
+    private static let aoAbrir: TimeInterval = 60
 
     /// Canal adulto não entra na agenda.
     private var canais: [Channel] {
@@ -306,15 +314,23 @@ struct EventsView: View {
             },
             carregando: service.jogos == nil && !service.erro,
             vazio: service.erro
-                ? "Não deu para carregar a agenda agora. Tentando de novo em um minuto."
+                ? "Não deu para carregar a agenda agora. Tentando de novo em alguns minutos."
                 : "Nenhum jogo nos canais da lista agora. A agenda se atualiza sozinha.")
         .onAppear { padrao(grupos) }
         .onChange(of: service.jogos?.count) { _, _ in padrao(self.grupos) }
         // Enquanto a tela está aberta; sai dela, a busca para.
         .task(id: model.channels.isEmpty) {
+            // Abrir a tela só adianta a busca se a última tem mais de um
+            // minuto; senão segue o ritmo normal.
+            var prazo = Date().timeIntervalSince(service.buscouEm) >= Self.aoAbrir ? Self.aoAbrir : Self.intervalo
             while !Task.isCancelled {
-                await service.carregar(canais)
-                try? await Task.sleep(for: Self.intervalo)
+                if NSApplication.shared.isActive,
+                   Date().timeIntervalSince(service.buscouEm) >= prazo {
+                    await service.carregar(canais)
+                    prazo = Self.intervalo
+                }
+                // Confere de 15 em 15 s: voltar ao app depois do prazo busca logo.
+                try? await Task.sleep(for: .seconds(15))
             }
         }
     }

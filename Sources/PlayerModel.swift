@@ -277,7 +277,9 @@ final class PlayerModel: NSObject, ObservableObject {
         vigiarFontesDesativadas()
     }
 
-    /// Relê a lista de servidores desligados de dois em dois minutos.
+    /// Confere a lista de servidores desligados de dez em dez minutos — ela
+    /// só vai à rede quando a guardada passou de uma hora (ver
+    /// `FontesDesativadas.validade`).
     ///
     /// Desligar um provedor no painel tem que valer sem ninguém fechar o app:
     /// quem está assistindo quando a fonte morre é justamente quem precisa que
@@ -288,7 +290,7 @@ final class PlayerModel: NSObject, ObservableObject {
                 if await FontesDesativadas.atualizar() {
                     self?.refreshCatalog()
                 }
-                try? await Task.sleep(nanoseconds: 120 * 1_000_000_000)
+                try? await Task.sleep(nanoseconds: 600 * 1_000_000_000)
             }
         }
     }

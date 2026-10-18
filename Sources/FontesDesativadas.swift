@@ -20,9 +20,14 @@ enum FontesDesativadas {
 
     private static let endereco = URL(
         string: "https://saimo-monitor.gabrielsaimo68.workers.dev/v1/fontes")!
-    /// Desligar um servidor tem que valer em minutos, que é o tempo que alguém
-    /// aguenta um canal quebrado.
-    private static let validade: TimeInterval = 120
+    /// Uma leitura por hora. Cada aparelho perguntando de dois em dois minutos
+    /// custava caro no monitor (cobrado por pedido); desligar um servidor
+    /// agora leva até uma hora para chegar a todos. A última lista boa fica
+    /// guardada com a hora em que veio, e reabrir o app dentro da hora não
+    /// pergunta de novo.
+    private static let validade: TimeInterval = 3600
+    private static let chaveHosts = "fontesDesativadas.hosts"
+    private static let chaveLidoEm = "fontesDesativadas.lidoEm"
 
     /// Lida pelo proxy fora da thread principal e escrita por quem baixa a
     /// lista: uma trava só, para as duas pontas verem sempre o mesmo estado.
@@ -30,7 +35,17 @@ enum FontesDesativadas {
         var hosts: Set<String> = []
         var lidoEm: Date = .distantPast
     }
-    private static let estado = OSAllocatedUnfairLock(initialState: Estado())
+    private static let estado = OSAllocatedUnfairLock(initialState: guardado())
+
+    private static func guardado() -> Estado {
+        let d = UserDefaults.standard
+        var e = Estado()
+        e.hosts = Set(d.stringArray(forKey: chaveHosts) ?? [])
+        let lido = d.double(forKey: chaveLidoEm)
+        // Relógio que voltou para trás não prende a lista velha para sempre.
+        if lido > 0, lido <= Date().timeIntervalSince1970 { e.lidoEm = Date(timeIntervalSince1970: lido) }
+        return e
+    }
 
     private static var hosts: Set<String> { estado.withLock { $0.hosts } }
     private static var lidoEm: Date { estado.withLock { $0.lidoEm } }
@@ -46,9 +61,8 @@ enum FontesDesativadas {
         var pedido = URLRequest(url: endereco)
         pedido.setValue("*/*", forHTTPHeaderField: "Accept")
         pedido.timeoutInterval = 10
-        // A resposta vem com `max-age` de dois minutos, e o URLSession o
-        // respeita: somado ao relógio daqui, a lista podia demorar o dobro
-        // para mudar. Quem manda no ritmo é este relógio, um só.
+        // Quem manda no ritmo é este relógio, um só: o `max-age` da resposta
+        // somado a ele só atrasaria a lista nova.
         pedido.cachePolicy = .reloadIgnoringLocalCacheData
         guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
@@ -57,6 +71,8 @@ enum FontesDesativadas {
         else { return false }
 
         let novos = Set(lista.map { $0.lowercased() })
+        UserDefaults.standard.set(novos.sorted(), forKey: chaveHosts)
+        UserDefaults.standard.set(Date().timeIntervalSince1970, forKey: chaveLidoEm)
         let mudou = estado.withLock { atual -> Bool in
             atual.lidoEm = Date()
             guard novos != atual.hosts else { return false }
