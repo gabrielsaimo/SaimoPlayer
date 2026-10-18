@@ -1,0 +1,39 @@
+name: Espelhar no repositório antigo
+
+# Os apps até a 2.3.x leem o catálogo direto do GitHub antigo
+# (raw.githubusercontent.com/gabrielsaimo/SaimoPlayer). Enquanto houver gente
+# nessas versões, o repositório antigo precisa seguir recebendo o que este
+# recebe. Um sentido só: daqui para lá.
+#
+# Segredo do repositório: LEGADO_TOKEN — token (fine-grained) da conta antiga,
+# com "Contents: Read and write" só no repositório antigo, e LEGADO_REPO com o
+# nome dele (dono/repo) como variável (Settings > Variables).
+# Sem o segredo, o fluxo só avisa e termina.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: espelhar-legado
+  cancel-in-progress: false
+
+jobs:
+  espelhar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Empurrar para o antigo
+        env:
+          LEGADO_TOKEN: ${{ secrets.LEGADO_TOKEN }}
+          LEGADO_REPO: ${{ vars.LEGADO_REPO }}
+        run: |
+          if [ -z "$LEGADO_TOKEN" ] || [ -z "$LEGADO_REPO" ]; then
+            echo "::warning::sem LEGADO_TOKEN/LEGADO_REPO: o repositório antigo não foi atualizado"
+            exit 0
+          fi
+          git push "https://x-access-token:${LEGADO_TOKEN}@github.com/${LEGADO_REPO}.git" HEAD:main

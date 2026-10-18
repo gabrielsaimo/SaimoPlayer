@@ -41,8 +41,9 @@ ORIGENS = [
     "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Filmes-Series.m3u8",
     # Lista guardada neste repositório. Fica por último para os servidores dela
     # entrarem depois dos que já têm número no índice.
-    "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/3.m3u",
-    "https://raw.githubusercontent.com/gabrielsaimo/SaimoPlayer/refs/heads/main/1.m3u",
+    # (arquivos da raiz do repositório: lidos do disco, sem passar pelo GitHub)
+    "3.m3u",
+    "1.m3u",
 ]
 # Servidores fora do ar para todos, sem publicar app: os links deles não entram
 # no catálogo. Para voltar, tire daqui e rode o script de novo.
@@ -240,8 +241,9 @@ def tirar_mortas(filmes, series, reservado, bases, mortas):
 def baixar(url):
     nome = url.rsplit("/", 1)[-1]
     print(f"baixando {nome}…")
-    if "gabrielsaimo/SaimoPlayer" in url and (ROOT / nome).exists():
-        return (ROOT / nome).read_text(encoding="utf-8", errors="replace")
+    if not url.startswith("http"):
+        # Nome de arquivo da raiz do repositório.
+        return (ROOT / url).read_text(encoding="utf-8", errors="replace")
     with urlopen(url, timeout=60) as resposta:
         return resposta.read().decode("utf-8", "replace")
 

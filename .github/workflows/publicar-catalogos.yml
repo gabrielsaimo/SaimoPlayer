@@ -1,0 +1,51 @@
+name: Publicar catálogos
+
+# Os apps não leem o GitHub: leem dois endereços fixos (Cloudflare Pages) —
+# saimo-canais.pages.dev e saimo-filmes.pages.dev. Este fluxo coloca lá o que
+# estiver no repositório sempre que um desses arquivos muda, seja por commit
+# manual, pelo painel do monitor (que grava a ordem das fontes aqui) ou pela
+# rodada diária. Os mesmos arquivos também são publicados pelo Mac
+# (scripts/publicar_catalogos.sh no fim do atualizar_tudo.sh): um cobre o
+# outro, e publicar duas vezes o mesmo conteúdo não custa nada.
+#
+# Segredos do repositório (Settings > Secrets and variables > Actions):
+#   CLOUDFLARE_API_TOKEN   token com a permissão "Cloudflare Pages: Edit"
+#   CLOUDFLARE_ACCOUNT_ID  e0f6d97a9f8f4bb1b7a8ce6a7a470b3f
+# Sem eles o fluxo só avisa e termina: nada quebra.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - catalogo.txt
+      - canais.txt
+      - restritos.txt
+      - versao.json
+      - vod/**
+      - scripts/publicar_catalogos.sh
+  workflow_dispatch:
+
+concurrency:
+  group: publicar-catalogos
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Publicar nos dois links
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::warning::sem CLOUDFLARE_API_TOKEN nos segredos: nada foi publicado"
+            exit 0
+          fi
+          npm install -g wrangler@4
+          bash scripts/publicar_catalogos.sh

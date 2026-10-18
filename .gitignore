@@ -12,3 +12,6 @@ AppIcon.png
 __pycache__/
 *.pyc
 arquivos-gerados/
+
+# Cache local do wrangler
+.wrangler/

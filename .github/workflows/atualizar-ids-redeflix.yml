@@ -45,3 +45,27 @@ jobs:
           git add -A vod
           git diff --cached --quiet || git commit -m "Atualiza catálogo e destaques"
           git push
+      # Push feito com o GITHUB_TOKEN do fluxo não dispara os outros fluxos:
+      # publicar e espelhar são chamados aqui, direto. Sem os segredos, avisam e
+      # seguem (ver publicar-catalogos.yml e espelhar-legado.yml).
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Publicar nos links dos apps
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::warning::sem CLOUDFLARE_API_TOKEN: links dos apps não atualizados por aqui (o Mac publica na rodada dele)"
+            exit 0
+          fi
+          npm install -g wrangler@4
+          bash scripts/publicar_catalogos.sh
+      - name: Espelhar no repositório antigo
+        env:
+          LEGADO_TOKEN: ${{ secrets.LEGADO_TOKEN }}
+          LEGADO_REPO: ${{ vars.LEGADO_REPO }}
+        run: |
+          if [ -z "$LEGADO_TOKEN" ] || [ -z "$LEGADO_REPO" ]; then exit 0; fi
+          git push "https://x-access-token:${LEGADO_TOKEN}@github.com/${LEGADO_REPO}.git" HEAD:main

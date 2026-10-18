@@ -1,0 +1,32 @@
+{
+  "versao": "2.3.2",
+  "tag": "v2.3.2",
+  "publicadoEm": "2026-10-18T15:25:56Z",
+  "notas": "Novidades da versão 2.3.2:\n\n• Telemetria por amostra: só uma pequena parte dos aparelhos manda dados de uso ao monitor, o que deixa os apps mais leves na rede\n• Lista de servidores desligados e agenda de jogos consultadas com menos frequência\n• TV Box, celular, Mac e Windows\n",
+  "arquivos": {
+    "tvbox": {
+      "nome": "SaimoTV.apk",
+      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV.apk",
+      "bytes": 4926733,
+      "sha256": "7ef264951dc2d8339f860de7151628e82e12a322c2d3d30ca9011cf61e76aa57"
+    },
+    "celular": {
+      "nome": "SaimoCell.apk",
+      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoCell.apk",
+      "bytes": 60275048,
+      "sha256": "684f7c158a73f7486269af1afe56472d9935726672a865378cfe5c259eb3433e"
+    },
+    "mac": {
+      "nome": "SaimoTV.dmg",
+      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV.dmg",
+      "bytes": 26900694,
+      "sha256": "b9b70c06c84ae9f18754c209ac82e9e89c9fb884a96e846abfd9d0aa53edb5cb"
+    },
+    "windows": {
+      "nome": "SaimoTV-Windows.zip",
+      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV-Windows.zip",
+      "bytes": 52617909,
+      "sha256": "a04a8ff08ec6e964cf95de935cc72d2ceb92e77a748075596b56c5c70d09ef12"
+    }
+  }
+}

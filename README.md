@@ -233,7 +233,12 @@ régua: o celular toca o som sem o acerto fino.
 
 ## Dados publicados
 
-Os apps baixam daqui (via raw do GitHub):
+Os apps baixam estes arquivos de dois endereços fixos no Cloudflare Pages —
+`https://saimo-canais.pages.dev/` (`catalogo.txt`, `canais.txt`, `restritos.txt`,
+`radios.txt`, `versao.json`) e `https://saimo-filmes.pages.dev/` (o `vod/`) —, e
+não do GitHub. O `scripts/publicar_catalogos.sh` coloca lá o que está neste
+repositório (veja `docs/MIGRACAO-GITHUB.md`, também sobre trocar de GitHub).
+Os arquivos:
 
 - `catalogo.txt` — a lista de canais, com fontes em ordem de preferência. Cada
   fonte pode ter um `nome:` ("Temporada 3", "Legendado") que os apps mostram no
@@ -279,6 +284,15 @@ O script grava a versão no `Info.plist` e no Gradle da TV, monta o DMG, o APK d
 TV (assinado com a chave de sempre, para atualizar por cima), o instalador do
 Windows e inclui o APK do celular se ele estiver montado. As notas saem de
 `build/release/NOTAS.md` quando esse arquivo existe.
+
+Depois de publicar o release (no repositório principal e, durante a migração, no
+`legado`), o script grava o `versao.json` — versão, link, tamanho e SHA-256 de
+cada arquivo —, commita só esse arquivo e o publica em
+`saimo-canais.pages.dev`: é ele que os apps leem para saber que há versão nova.
+O repositório dos downloads vem de `scripts/release-repo.txt` (ou de
+`SAIMO_REPO_RELEASE`); sem eles, é o `origin`. O `make_dmg.sh` apaga `build/`, e
+com ele o `NOTAS.md` que você deixou: escreva as notas depois ou espere o
+release e troque com `gh release edit`.
 
 Pré-requisitos: repositórios irmãos em `../SaimoTV-Android`, `../SaimoWin` e
 `../Saimo-Cell-V2`; JDK 17; `wixl` (`brew install msitools`); `gh` logado.

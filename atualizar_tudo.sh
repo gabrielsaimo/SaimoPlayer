@@ -60,6 +60,14 @@ anotar "=== início ($([ $somente_destaques = 1 ] && echo "só destaques" || ech
 git pull -q --rebase --autostash origin main 2>>"$REGISTRO" \
   || anotar "não deu para puxar do GitHub; seguindo com o que há aqui"
 
+# O catálogo de canais e a versão publicada (catalogo.txt, restritos.txt,
+# versao.json…) também mudam por fora desta rodada — commit à mão, painel do
+# monitor, release — e os apps leem de saimo-canais.pages.dev, não do Git.
+# Publicar o que acabou de chegar custa segundos (o Pages só envia o que mudou).
+anotar "publicando os canais nos links dos apps"
+./scripts/publicar_catalogos.sh canais --nao-falhar >>"$REGISTRO" 2>&1 \
+  || anotar "links dos canais: não consegui publicar (a próxima rodada tenta de novo)"
+
 if [ "$somente_destaques" = 0 ]; then
   anotar "fontes da lista principal (nixplay)"
   python3 atualizar_nixplay.py \
@@ -98,7 +106,10 @@ python3 gerar_novidades.py >>"$REGISTRO" 2>&1 \
 if [ -n "$(git status --porcelain -- vod)" ]; then
   anotar "mudou: $(git add -N vod && git diff --stat -- vod | tail -1)"
 else
-  anotar "nada mudou, nada a publicar"
+  anotar "nada mudou no Git"
+  # Mesmo assim confere os links: uma publicação anterior pode ter falhado.
+  ./scripts/publicar_catalogos.sh --nao-falhar >>"$REGISTRO" 2>&1 \
+    || anotar "links dos apps: não consegui publicar (a próxima rodada tenta de novo)"
   exit 0
 fi
 
@@ -124,6 +135,19 @@ else
   # trabalho por causa de um push recusado seria pior que o atraso.
   anotar "push recusado (branch atrás do remoto?). O commit ficou aqui."
   exit 1
+fi
+
+# Filmes e séries nos links dos apps. Também quando a rodada não mudou nada
+# no Git: uma publicação anterior pode ter falhado.
+anotar "publicando filmes e séries nos links dos apps"
+./scripts/publicar_catalogos.sh --nao-falhar >>"$REGISTRO" 2>&1 \
+  || anotar "links dos filmes: não consegui publicar (a próxima rodada tenta de novo)"
+
+# O GitHub de antes da migração (remote `legado`), enquanto existir app 2.3.x
+# lendo o catálogo de lá. Sem o remote, não faz nada.
+if git remote get-url legado >/dev/null 2>&1; then
+  git push -q legado HEAD:main 2>>"$REGISTRO" \
+    && anotar "espelhado no legado" || anotar "legado: push recusado"
 fi
 
 anotar "=== fim"
