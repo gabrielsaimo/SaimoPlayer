@@ -1446,10 +1446,8 @@
 1	1	dub	19:931033
 @Magical Explorer
 1	1	dub	19:931403
-1	1	leg	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magical-explorer-legendado_S01E01.mp4
 1	2	dub	19:931404
-1	2	leg	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magical-explorer-legendado_S01E02.mp4
-1	3	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/Magical%2520Explorer%2520S01E03%2520_2026_%2520_tmdb_335194_859b1018.mp4,19:931881
+1	3	dub	19:931881
 @Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
 1	1	dub	19:920952
 1	2	dub	19:921689
@@ -7617,18 +7615,3 @@
 1	23	leg	11:2194016,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84459.mp4
 1	24	dub	19:674281
 1	24	leg	11:2194017,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/84460.mp4
-
-@Magi: As Aventuras de Sinbad	2016
-1	1	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E01.mp4
-1	2	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E02.mp4
-1	3	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E03.mp4
-1	4	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E04.mp4
-1	5	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E05.mp4
-1	6	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E06.mp4
-1	7	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E07.mp4
-1	8	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E08.mp4
-1	9	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E09.mp4
-1	10	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E10.mp4
-1	11	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E11.mp4
-1	12	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E12.mp4
-1	13	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/magi-as-aventuras-de-sinbad-dublado_S01E13.mp4

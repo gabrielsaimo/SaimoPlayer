@@ -3134,8 +3134,7 @@
 3	10	leg	11:2298931
 @Vertex Force
 1	1	dub	19:931029
-1	1	leg	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/vertex-force-legendado_S01E01.mp4
-1	2	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/Vertex%2520Force%2520S01E02%2520_2026_%2520_tmdb_317259_eea93303.mp4,19:931871
+1	2	dub	19:931871
 @Verão 90
 1	1	dub	19:125475,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/200457.mp4
 1	2	dub	19:125476,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/200458.mp4
