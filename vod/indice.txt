@@ -16,32 +16,32 @@ base: 14 http://vivlar.me:80/movie/497238/KK8Kdy/
 base: 15 http://vivlar.me:80/series/497238/KK8Kdy/
 base: 16 http://corruptx.org:80/movie/hfp5ejnrey/zq0u3kzads/
 base: 17 http://corruptx.org:80/series/hfp5ejnrey/zq0u3kzads/
-base: 18 https://hubby-dmca.com/movie/PlayTvOficial-vods/op3lQ6nP76/
-base: 19 https://hubby-dmca.com/series/PlayTvOficial-vods/op3lQ6nP76/
-#	1248	122	11
-A	4086	1415	117
-B	992	473	579
-C	1624	805	135
-D	1299	565	411
-E	1057	354	21
-F	714	323	17
-G	469	282	19
-H	506	295	39
-I	464	257	25
-J	443	161	45
-K	195	153	44
-L	669	315	82
-M	1738	808	327
-N	752	283	55
-O	3599	992	45
-P	1296	498	252
-Q	314	95	0
-R	768	370	94
-S	1528	783	195
-T	1348	849	551
-U	1127	208	2
-V	595	233	16
-W	139	116	20
-X	235	16	425
-Y	41	78	15
-Z	89	31	4
+base: 18 http://desativado.invalid/hubby-dmca.com/movie/
+base: 19 http://desativado.invalid/hubby-dmca.com/series/
+#	460	122	11
+A	4716	1415	117
+B	1140	473	579
+C	1885	805	135
+D	1432	565	411
+E	1212	354	21
+F	828	323	17
+G	568	282	19
+H	569	295	39
+I	510	257	25
+J	542	161	45
+K	228	153	44
+L	781	315	82
+M	1915	808	327
+N	842	283	55
+O	4097	992	45
+P	1459	498	252
+Q	332	95	0
+R	849	370	94
+S	1750	783	195
+T	1573	849	551
+U	1264	208	2
+V	676	233	16
+W	172	116	20
+X	244	16	425
+Y	43	78	15
+Z	113	31	4
