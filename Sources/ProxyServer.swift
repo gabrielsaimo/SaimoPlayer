@@ -420,7 +420,10 @@ final class ProxyServer: @unchecked Sendable {
 
             let looksLikePlaylist = res.body.prefix(7) == Data("#EXTM3U".utf8)
             if looksLikePlaylist {
-                let text = String(decoding: res.body, as: UTF8.self)
+                var text = String(decoding: res.body, as: UTF8.self)
+                // O que alimenta o ffmpeg vai como veio; o que vai ao player,
+                // na régua do Saimo Connect.
+                if !wantsRaw { text = naRegua(text, pedido: targetURL, base: res.finalURL) }
                 let rewritten = rewrite(playlist: text, base: res.finalURL, channelID: channelID)
                 send(fd, status: 200,
                      headers: [
@@ -542,12 +545,26 @@ final class ProxyServer: @unchecked Sendable {
             return nil
         }
 
-        let rewritten = rewrite(playlist: texto,
+        let rewritten = rewrite(playlist: naRegua(texto, pedido: variant.url, base: res.finalURL),
                                 base: res.finalURL, channelID: channel.id)
         return Payload(contentType: "application/vnd.apple.mpegurl", body: Data(rewritten.utf8))
     }
 
     // MARK: - Playlist rewriting
+
+    /// A lista de mídia na régua do Saimo Connect (`Historico`): mais longa e
+    /// com a marca de horário de cada trecho, a mesma que o celular recebe pelo
+    /// `/hls`. Assim a data que o AVPlayer informa (`currentDate()`) já é o
+    /// instante que o celular lê na lista dele, e o som no celular toca junto
+    /// com a imagem do Mac. Lista mestra passa como veio.
+    private func naRegua(_ texto: String, pedido: URL, base: URL) -> String {
+        guard !texto.contains("#EXT-X-STREAM-INF") else { return texto }
+        let baseDosTrechos = baseDosSegmentos(base)
+        return ConnectHls.listaDeMidia(
+            texto, url: pedido,
+            absoluto: { URL(string: $0, relativeTo: base)?.absoluteURL.absoluteString ?? $0 },
+            trecho: { URL(string: $0, relativeTo: baseDosTrechos)?.absoluteURL.absoluteString ?? $0 })
+    }
 
     /// Proxied links carry a synthetic extension because extension-sniffing
     /// players (ffmpeg, VLC) reject a variant playlist served as `.ts` and a
@@ -682,7 +699,7 @@ final class ProxyServer: @unchecked Sendable {
     ///
     /// Sem esse parâmetro nada muda, e a playlist continua sendo a base — que é
     /// o que a norma manda e o que todos os outros canais precisam.
-    private func baseDosSegmentos(_ playlist: URL) -> URL {
+    func baseDosSegmentos(_ playlist: URL) -> URL {
         guard let partes = URLComponents(url: playlist, resolvingAgainstBaseURL: false),
               let origem = partes.queryItems?.first(where: { $0.name == "url" })?.value,
               let caminho = URLComponents(string: origem)?.path,

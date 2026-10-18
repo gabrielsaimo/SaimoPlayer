@@ -161,6 +161,32 @@ em Ao vivo agora, Começa em breve, Hoje mais tarde, Amanhã e Próximos dias. C
 cartão traz liga, horário ou "AO VIVO" com o tempo de jogo, escudos, placar e o
 canal; clicar abre o canal ao vivo. Com a tela aberta, atualiza a cada minuto.
 
+Saimo Connect (`SaimoConnect.swift`, `ConnectHls.swift`, `Historico.swift`): o
+celular com o app Saimo acha e controla o Mac do mesmo jeito que a TV Box, pelo
+mesmo protocolo, na porta 8999. O Mac aparece na varredura da rede (`GET /info`)
+e no Bonjour (`_saimotv._tcp`) como "Saimo TV - Mac (nome do computador)".
+Celular novo só entra depois de alguém clicar Permitir no aviso que aparece na
+janela; aprovado uma vez, fica lembrado (Ajustes > Saimo Connect mostra o
+endereço, quantos estão autorizados e esquece todos). Pelo celular dá para trocar
+de canal (lista, setas, canal +/−, número), ligar a multi tela e escolher a tela
+ativa, trocar de fonte, abrir filme ou episódio do acervo, pausar e avançar,
+mudar o volume e escolher de qual tela o Mac toca o som. O estado do que está no
+ar vai para o celular a cada mudança, com a fonte de verdade de cada tela, e o
+celular pode tocar o som de uma tela (ou das duas) no fone, junto com a imagem.
+Os números do controle escolhem canal pelo número da lista e não passam pelo
+teclado: o código dos extras continua só no teclado do Mac.
+
+O acerto do som é uma régua de tempo comum. Canal com marca de horário
+(EXT-X-PROGRAM-DATE-TIME) usa a hora real; canal sem marca passa, no proxy do
+próprio Mac, pela régua do `Historico` (porte do da TV Box): a lista guarda os
+últimos dois minutos e ganha uma marca sintética contínua por trecho, contada
+pela duração real e ancorada no relógio do Mac. O player do Mac toca essa lista,
+então a data que o AVPlayer informa já é o instante na régua, e o celular recebe
+a mesma lista (mesmas marcas para os mesmos trechos) pelo `GET /hls`. Enquanto
+algum celular ouve, o Mac manda a cada segundo onde cada tela está (`pos`);
+filme usa a posição. Canal remontado pelo ffmpeg (HEVC em TS, DASH) não tem
+régua: o celular toca o som sem o acerto fino.
+
 ```bash
 ./build.sh        # monta build/Saimo TV.app
 ./make_dmg.sh     # gera o DMG

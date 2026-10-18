@@ -109,6 +109,7 @@ enum Preferencias {
 struct TelaAjustes: View {
     @ObservedObject var model: PlayerModel
     @ObservedObject private var epg = EPGService.shared
+    @ObservedObject private var connect = SaimoConnect.shared
 
     private var versao: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "?"
@@ -169,6 +170,19 @@ struct TelaAjustes: View {
                         }
                     }
 
+                    secao("Saimo Connect") {
+                        informacao("Controle pelo celular",
+                                   connect.ativo
+                                   ? "No app Saimo do celular, toque em Conectar e escolha \"\(connect.nome)\" (\(ProxyServer.lanAddress() ?? "sem rede"):\(SaimoConnect.porta))"
+                                   : "Indisponível: a porta \(SaimoConnect.porta) está ocupada",
+                                   icone: "iphone.radiowaves.left.and.right")
+                        informacao("Celulares autorizados", rotuloDosCelulares, icone: "iphone")
+                        linha("Esquecer todos os celulares", "Na próxima conexão o Mac pergunta de novo",
+                              icone: "iphone.slash") {
+                            connect.esquecerTodos()
+                        }
+                    }
+
                     secao("Sistema") {
                         linha("Procurar atualização", "v\(versao)", icone: "arrow.down.circle") {
                             Atualizacao.shared.procurar(manual: true)
@@ -187,6 +201,30 @@ struct TelaAjustes: View {
             }
             .scrollIndicators(.hidden)
         }
+    }
+
+    private var rotuloDosCelulares: String {
+        let n = connect.autorizados
+        let base = n == 0 ? "Nenhum celular autorizado" : n == 1 ? "1 celular autorizado" : "\(n) celulares autorizados"
+        guard !connect.conectados.isEmpty else { return base }
+        return base + " · conectado agora: " + connect.conectados.joined(separator: ", ")
+    }
+
+    private func informacao(_ titulo: String, _ detalhe: String, icone: String) -> some View {
+        HStack(spacing: 14) {
+            Image(systemName: icone)
+                .font(.system(size: 15, weight: .semibold))
+                .foregroundStyle(Tema.acento)
+                .frame(width: 26)
+            VStack(alignment: .leading, spacing: 2) {
+                Text(titulo).font(.system(size: 15, weight: .medium)).foregroundStyle(.white)
+                Text(detalhe).font(.system(size: 12)).foregroundStyle(Tema.textoSecundario)
+                    .textSelection(.enabled)
+            }
+            Spacer()
+        }
+        .padding(.horizontal, 18)
+        .padding(.vertical, 12)
     }
 
     private func secao<Conteudo: View>(_ titulo: String, @ViewBuilder _ conteudo: () -> Conteudo) -> some View {

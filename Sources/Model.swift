@@ -9,6 +9,9 @@ struct Variant: Hashable {
     var userAgent: String?
     /// ClearKey (hex) for CENC-encrypted DASH sources.
     var clearKey: String?
+    /// O KID da chave acima. O AVFoundation não usa, mas o celular do Saimo
+    /// Connect toca a fonte sozinho e precisa do par.
+    var clearKeyId: String?
     var label: String?
     /// O que diferencia a fonte das outras do canal ("Temporada 3"), quando o
     /// catálogo sabe (campo `nome:`); senão aparece o número.

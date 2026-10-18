@@ -26,6 +26,7 @@ struct SaimoApp: App {
             Log.shared.write("falha ao subir proxy: \(error)")
         }
         PlayerModel.shared.installKeyMonitor()
+        SaimoConnect.shared.iniciar()
         Telemetria.shared.iniciar()
     }
 

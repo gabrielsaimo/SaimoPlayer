@@ -197,6 +197,9 @@ enum RemoteCatalog {
                 guard !variants.isEmpty else { continue }
                 variants[variants.count - 1].clearKey =
                     value.contains(":") ? String(value.split(separator: ":").last!) : value
+                if value.contains(":") {
+                    variants[variants.count - 1].clearKeyId = String(value.split(separator: ":").first!)
+                }
             default:
                 continue
             }
