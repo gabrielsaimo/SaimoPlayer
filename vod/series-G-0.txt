@@ -48,8 +48,8 @@
 1	1	dub	19:924052
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/311169.mp4
 @GET JIRO
-1	1	dub	19:931355,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
-1	2	dub	19:931356
+1	1	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/get-jiro-dublado_S01E01.mp4,19:931355,https://husky-denny-fenixflixaddon-ec8e842b.koyeb.app/stream/51389?hash=7c7b56d63625f6546e0cb6d0&d=true
+1	2	dub	https://pub-bda823ef358c448ea310cdf9539f9628.r2.dev/tv/get-jiro-dublado_S01E02.mp4,19:931356
 @GHOST CONCERT Missing Songs
 1	1	dub	19:911188
 1	1	leg	11:2302329
