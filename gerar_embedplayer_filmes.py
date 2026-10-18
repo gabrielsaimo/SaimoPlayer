@@ -193,11 +193,18 @@ def catalog_embed_sources() -> dict[str, tuple[EmbedSource, ...]]:
                 for value in values.split(","):
                     value = value.strip()
                     parsed = urllib.parse.urlsplit(value)
+                    is_embed = bool(
+                        re.fullmatch(r"(?:www\.)?embedplayer\d*\.xyz", parsed.hostname or "", re.I)
+                        and parsed.path.endswith("/master.txt")
+                    )
+                    is_worker = bool(
+                        ("workers.dev" in (parsed.hostname or "") or "playercdn" in (parsed.hostname or ""))
+                        and "hls.php" in parsed.path
+                    )
                     if (
                         value in seen
                         or parsed.scheme != "https"
-                        or not re.fullmatch(r"(?:www\.)?embedplayer\d*\.xyz", parsed.hostname or "", re.I)
-                        or not parsed.path.endswith("/master.txt")
+                        or not (is_embed or is_worker)
                     ):
                         continue
                     seen.add(value)
@@ -506,16 +513,19 @@ def player_candidates(page: str, api_page: str, opener) -> list[tuple[str, str, 
 def normalize_player_source(value: str) -> str:
     source = html.unescape(str(value or "")).replace("\\/", "/")
     parts = urllib.parse.urlsplit(source)
-    if parts.scheme != "https" or not re.fullmatch(
-        r"(?:www\.)?embedplayer\d*\.xyz", parts.hostname or "", re.I
-    ):
+    if parts.scheme != "https":
         return ""
-    if parts.path.endswith("/master.m3u8"):
-        return urllib.parse.urlunsplit(
-            (parts.scheme, parts.netloc, parts.path[:-len("master.m3u8")] + "master.txt", "", "")
-        )
-    if parts.path.endswith("/master.txt"):
-        return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, parts.query, ""))
+    hostname = parts.hostname or ""
+    if re.fullmatch(r"(?:www\.)?embedplayer\d*\.xyz", hostname, re.I):
+        if parts.path.endswith("/master.m3u8"):
+            return urllib.parse.urlunsplit(
+                (parts.scheme, parts.netloc, parts.path[:-len("master.m3u8")] + "master.txt", "", "")
+            )
+        if parts.path.endswith("/master.txt"):
+            return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, parts.query, ""))
+        return ""
+    if ("workers.dev" in hostname or "playercdn" in hostname) and ("hls.php" in parts.path or parts.path.endswith((".m3u8", ".txt"))):
+        return source
     return ""
 
 
