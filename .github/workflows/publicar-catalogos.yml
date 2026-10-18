@@ -31,6 +31,9 @@ concurrency:
 
 jobs:
   publicar:
+    # Só no repositório novo: o antigo está com a conta travada por cobrança (nenhuma
+    # automação roda lá) e não deve acusar falha a cada push.
+    if: github.repository != 'gabrielsaimo/SaimoPlayer'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

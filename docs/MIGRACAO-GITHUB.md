@@ -1,5 +1,11 @@
 # Catálogos fixos e mudança de GitHub
 
+> Em 18/10/2026 o GitHub antigo avisava: *"The job was not started because your
+> account is locked due to a billing issue"*. Enquanto isso durar, nenhuma
+> automação (Actions) roda no repositório antigo — a agenda diária de lá falha desde
+> ~11/10 — e quem mantém o catálogo é o Mac (launchd). Os fluxos novos
+> (`publicar-catalogos.yml`, `espelhar-legado.yml`) só rodam no repositório novo.
+
 ## Como é agora
 
 Os apps **não leem o GitHub**. Leem dois endereços fixos, que são arquivos
