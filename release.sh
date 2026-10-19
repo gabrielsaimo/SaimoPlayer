@@ -117,6 +117,13 @@ elif [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.ap
   cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
 fi
 
+if [ -x "../Saimo-TV/scripts/montar_tv.sh" ]; then
+  echo "==> montando os pacotes das TVs Samsung e LG"
+  ( cd ../Saimo-TV && ./scripts/montar_tv.sh >/dev/null )
+  cp "../Saimo-TV/build/tv/SaimoTV-Samsung.wgt" "build/release/SaimoTV-Samsung.wgt"
+  cp "../Saimo-TV/build/tv/SaimoTV-LG.ipk" "build/release/SaimoTV-LG.ipk"
+fi
+
 echo "==> conferindo as assinaturas"
 APKSIGNER=$(ls "$HOME"/Library/Android/sdk/build-tools/*/apksigner | tail -1)
 for apk in build/release/*.apk; do
@@ -171,7 +178,8 @@ def arq(nome):
     return {"nome": nome, "url": f"https://github.com/{repo}/releases/download/v{versao}/{nome}",
             "bytes": f.stat().st_size, "sha256": h.hexdigest()}
 arquivos = {k: arq(n) for k, n in [("tvbox", "SaimoTV.apk"), ("celular", "SaimoCell.apk"),
-                                    ("mac", "SaimoTV.dmg"), ("windows", "SaimoTV-Windows.zip")]}
+                                    ("mac", "SaimoTV.dmg"), ("windows", "SaimoTV-Windows.zip"),
+                                    ("tizen", "SaimoTV-Samsung.wgt"), ("webos", "SaimoTV-LG.ipk")]}
 doc = {"versao": versao, "tag": f"v{versao}",
        "publicadoEm": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
        "notas": notas.read_text(encoding="utf-8") if notas.exists() else "",
@@ -186,6 +194,7 @@ gh release create "v$versao" --repo "$REPO_DOWNLOADS" \
   build/release/SaimoTV.dmg build/release/SaimoTV.apk \
   build/release/SaimoTV-Windows.zip \
   build/release/versao.json \
+  $(ls build/release/SaimoTV-Samsung.wgt build/release/SaimoTV-LG.ipk 2>/dev/null) \
   ${cell:-}
 
 # A ponte: o mesmo release no GitHub antigo (SAIMO_REPO_LEGADO="dono/repo"). Os apps
