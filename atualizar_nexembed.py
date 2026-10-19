@@ -212,18 +212,18 @@ def raspar_filmes(limite: int = 0, workers: int = 16) -> dict[str, dict]:
 
 def raspar_series(limite: int = 0, workers: int = 16) -> dict[str, dict]:
     """Raspa todas as séries do sitemap do NexEmbed e seus episódios."""
-    print("Obtendo sitemap de séries do NexEmbed...")
-    sm_html = pedir_html("https://nexembed.xyz/sitemap-series.xml")
-    if not sm_html:
-        print("Erro ao obter sitemap-series.xml")
-        return {}
+    print("Obtendo sitemaps de séries e animes do NexEmbed...")
+    urls = []
+    for sm_url in ["https://nexembed.xyz/sitemap-series.xml", "https://nexembed.xyz/sitemap-animes.xml"]:
+        sm_html = pedir_html(sm_url)
+        if sm_html:
+            root = ET.fromstring(sm_html)
+            urls.extend([loc.text for loc in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc") if loc.text])
 
-    root = ET.fromstring(sm_html)
-    urls = [loc.text for loc in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc") if loc.text]
     if limite > 0:
         urls = urls[:limite]
 
-    print(f"Total de séries no sitemap: {len(urls)}")
+    print(f"Total de séries e animes no sitemap: {len(urls)}")
     fichas_filmes, fichas_series = carregar_fichas()
 
     series_data: dict[str, dict] = {}
