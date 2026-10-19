@@ -144,39 +144,17 @@ for arg in "$@"; do
 done
 
 echo "==> publicando v$versao"
-# Onde os arquivos ficam para baixar. O principal vem primeiro e é o que o
-# versao.json anuncia; o legado (remote `legado`, o GitHub de antes da mudança)
-# recebe o mesmo release enquanto houver app 2.3.x procurando por lá — é a ponte
-# que leva essas instalações para uma versão que lê o versao.json.
-#   scripts/release-repo.txt  (opcional) "dono/repo" público só com os downloads
-#   SAIMO_REPO_RELEASE        o mesmo, por variável de ambiente
-repo_de() {
-  git remote get-url "$1" 2>/dev/null | sed -E 's#^(https://github.com/|git@github.com:)##; s#\.git$##'
-}
-REPO_PRINCIPAL="${SAIMO_REPO_RELEASE:-}"
-[ -z "$REPO_PRINCIPAL" ] && [ -f scripts/release-repo.txt ] && REPO_PRINCIPAL="$(tr -d ' \r\n' < scripts/release-repo.txt)"
-[ -z "$REPO_PRINCIPAL" ] && REPO_PRINCIPAL="$(repo_de origin)"
-REPO_LEGADO="$(repo_de legado)"
-repos="$REPO_PRINCIPAL"
-[ -n "$REPO_LEGADO" ] && [ "$REPO_LEGADO" != "$REPO_PRINCIPAL" ] && repos="$repos $REPO_LEGADO"
+# Os arquivos para baixar ficam num repositório público só para isso: o código
+# é privado, mas o app precisa baixar sem login. O `versao.json` vai junto, como
+# arquivo do release: o endereço fixo que os apps leem é
+#   https://github.com/saimo-tv/saimo-downloads/releases/latest/download/versao.json
+# Com mais de uma conta no gh, o release sai pela conta dona do repositório.
+REPO_DOWNLOADS="${SAIMO_REPO_DOWNLOADS:-saimo-tv/saimo-downloads}"
+export GH_TOKEN="${GH_TOKEN:-$(gh auth token -u "${REPO_DOWNLOADS%%/*}" 2>/dev/null || true)}"
+[ -n "$GH_TOKEN" ] || { echo "gh sem login na conta ${REPO_DOWNLOADS%%/*} (gh auth login)" >&2; exit 1; }
 
-for repo in $repos; do
-  echo "    -> $repo"
-  gh release create "v$versao" --repo "$repo" \
-    --title "Saimo TV $versao" \
-    --notes-file "$notas" \
-    $extra \
-    build/release/SaimoTV.dmg build/release/SaimoTV.apk \
-    build/release/SaimoTV-Windows.zip \
-    ${cell:-}
-done
-
-# O que os apps leem para saber que há versão nova (e de onde baixar). Só depois
-# de os arquivos existirem: um app que visse o versao.json antes encontraria
-# um link quebrado. Rascunho não anuncia nada.
-if [ -z "$extra" ]; then
-  echo "==> anunciando em versao.json"
-  python3 - "$versao" "$REPO_PRINCIPAL" "$notas" <<'PY'
+# O que os apps leem para saber que há versão nova e de onde baixar.
+python3 - "$versao" "$REPO_DOWNLOADS" "$notas" <<'PY'
 import hashlib, json, sys, datetime, pathlib
 versao, repo, notas = sys.argv[1], sys.argv[2], pathlib.Path(sys.argv[3])
 pasta = pathlib.Path("build/release")
@@ -196,13 +174,16 @@ doc = {"versao": versao, "tag": f"v{versao}",
        "publicadoEm": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
        "notas": notas.read_text(encoding="utf-8") if notas.exists() else "",
        "arquivos": {k: v for k, v in arquivos.items() if v}}
-pathlib.Path("versao.json").write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+(pasta / "versao.json").write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 PY
-  # Só este arquivo vai no commit: o resto da árvore é trabalho em andamento.
-  git add versao.json
-  git commit -q -m "versao.json: $versao" -- versao.json || true
-  git push -q origin HEAD || echo "aviso: não consegui empurrar o versao.json (o publicar abaixo usa o arquivo local)"
-  ./scripts/publicar_catalogos.sh canais --nao-falhar
-fi
 
-echo "pronto: https://github.com/$REPO_PRINCIPAL/releases/tag/v$versao"
+gh release create "v$versao" --repo "$REPO_DOWNLOADS" \
+  --title "Saimo TV $versao" \
+  --notes-file "$notas" \
+  $extra \
+  build/release/SaimoTV.dmg build/release/SaimoTV.apk \
+  build/release/SaimoTV-Windows.zip \
+  build/release/versao.json \
+  ${cell:-}
+
+echo "pronto: https://github.com/$REPO_DOWNLOADS/releases/tag/v$versao"
