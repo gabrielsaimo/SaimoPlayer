@@ -194,7 +194,7 @@ final class Atualizacao: ObservableObject {
     /// vira "sem atualização": nunca trava nem derruba o app.
     /// O anúncio da versão: um endereço só, fixo. Infraestrutura do app, não lista.
     nonisolated static let enderecoDoAnuncio =
-        "https://github.com/saimo-tv/saimo-downloads/releases/latest/download/versao.json"
+        "https://canais-saimo.pages.dev/versao.json"
 
     private func buscar() async -> Versao? {
         guard let url = URL(string: Self.enderecoDoAnuncio) else { return nil }

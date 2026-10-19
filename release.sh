@@ -149,9 +149,9 @@ echo "==> publicando v$versao"
 # Os arquivos para baixar ficam num repositório público só para isso: o código
 # é privado, mas o app precisa baixar sem login. O `versao.json` vai junto, como
 # arquivo do release: o endereço fixo que os apps leem é
-#   https://github.com/saimo-tv/saimo-downloads/releases/latest/download/versao.json
+#   https://canais-saimo.pages.dev/versao.json  (copia do arquivo do release, servida pelo Cloudflare)
 # Com mais de uma conta no gh, o release sai pela conta dona do repositório.
-REPO_DOWNLOADS="${SAIMO_REPO_DOWNLOADS:-saimo-tv/saimo-downloads}"
+REPO_DOWNLOADS="${SAIMO_REPO_DOWNLOADS:-gabrielsaimo/SaimoPlayer}"
 export GH_TOKEN="${GH_TOKEN:-$(gh auth token -u "${REPO_DOWNLOADS%%/*}" 2>/dev/null || true)}"
 [ -n "$GH_TOKEN" ] || { echo "gh sem login na conta ${REPO_DOWNLOADS%%/*} (gh auth login)" >&2; exit 1; }
 
@@ -200,6 +200,16 @@ if [ -n "${SAIMO_REPO_LEGADO:-}" ]; then
     build/release/SaimoTV.dmg build/release/SaimoTV.apk \
     build/release/SaimoTV-Windows.zip \
     ${cell:-}
+fi
+
+# Endereço fixo que os apps leem: o versao.json sai pelo Cloudflare Pages (conta antiga),
+# não pelo GitHub. Os arquivos para baixar continuam no release acima.
+if [ -z "${extra:-}" ] && [ -d ../SaimoCatalogos ]; then
+  echo "==> publicando versao.json em canais-saimo.pages.dev"
+  cp build/release/versao.json ../SaimoCatalogos/versao.json
+  ( cd ../SaimoCatalogos && bash scripts/montar_publico.sh canais >/dev/null \
+    && CLOUDFLARE_ACCOUNT_ID="${SAIMO_CF_CONTA:-e0f6d97a9f8f4bb1b7a8ce6a7a470b3f}" \
+       npx wrangler pages deploy publico/canais --project-name canais-saimo --branch main --commit-dirty=true >/dev/null )
 fi
 
 echo "pronto: https://github.com/$REPO_DOWNLOADS/releases/tag/v$versao"
