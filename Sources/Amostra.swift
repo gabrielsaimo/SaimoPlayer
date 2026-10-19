@@ -10,16 +10,19 @@ import Foundation
 /// `hash % 10000 < amostraPct * 100`. O mesmo aparelho fica sempre do mesmo
 /// lado, e o servidor nem grava quem ficou de fora.
 ///
+/// (Padrão 100 e chaves novas, para a versão que passou a ter percentual próprio não herdar o 5 antigo.)
 /// O percentual vem de `telemetria.json`, arquivo estático do monitor (servido
-/// sem rodar o Worker, de graça), lido no máximo uma vez por dia.
+/// sem rodar o Worker, de graça), lido no máximo uma vez por dia. O Mac tem poucos
+/// aparelhos e fica com o percentual próprio de `porPlataforma.mac` (100%), senão o
+/// painel quase nunca mostraria ninguém dele.
 enum Amostra {
-    static let padraoPct: Double = 5
+    static let padraoPct: Double = 100
 
     private static let endereco = URL(
         string: "https://saimo-monitor.gabrielsaimo68.workers.dev/telemetria.json")!
     private static let validade: TimeInterval = 24 * 3600
-    private static let chavePct = "telemetria.amostraPct"
-    private static let chaveLidoEm = "telemetria.amostraLidaEm"
+    private static let chavePct = "telemetria.amostraPctMac"
+    private static let chaveLidoEm = "telemetria.amostraLidaEmMac"
 
     /// FNV-1a de 32 bits, sem sinal, sobre os bytes UTF-8.
     static func fnv1a(_ texto: String) -> UInt32 {
@@ -60,7 +63,7 @@ enum Amostra {
         guard let (dados, resposta) = try? await URLSession.shared.data(for: pedido),
               let http = resposta as? HTTPURLResponse, (200...299).contains(http.statusCode),
               let corpo = try? JSONSerialization.jsonObject(with: dados) as? [String: Any],
-              let novo = valido(corpo["amostraPct"])
+              let novo = valido((corpo["porPlataforma"] as? [String: Any])?["mac"]) ?? valido(corpo["amostraPct"])
         else { return nil }
         guardar(novo)
         UserDefaults.standard.set(Date().timeIntervalSince1970, forKey: chaveLidoEm)

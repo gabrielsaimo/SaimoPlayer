@@ -48,6 +48,6 @@ let certo = SHA256.hash(data: dados).map { String(format: "%02x", $0) }.joined()
 conferir(BaixadorDeAtualizacao.pronto(arq, tamanho: nil, sha256: certo), "sha256 confere")
 conferir(!BaixadorDeAtualizacao.pronto(arq, tamanho: nil, sha256: h64), "sha256 diferente recusa")
 try? FileManager.default.removeItem(at: dir)
-conferir(Atualizacao.enderecoDoAnuncio == "https://github.com/saimo-tv/saimo-downloads/releases/latest/download/versao.json",
+conferir(Atualizacao.enderecoDoAnuncio == "https://canais-saimo.pages.dev/versao.json",
          "endereco fixo do anuncio")
 exit(falhas == 0 ? 0 : 1)
