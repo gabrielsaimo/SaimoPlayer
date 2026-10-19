@@ -412,9 +412,20 @@ final class PlayerLayerView: NSView {
         desenharQuadroMetalFX(forcarRedesenho: true)
     }
 
+    /// O vídeo já tem a altura do alvo (filme 4K no modo 4K, 1080p no modo HD numa tela 1080p):
+    /// aí não há o que ampliar, e o caminho MetalFX (cópia BGRA de cada quadro, escala e nitidez
+    /// em 4K, a 60 Hz na thread principal) só fazia o filme travar. Fica a imagem nativa do AVPlayer.
+    private func videoJaNoAlvo(_ item: AVPlayerItem?) -> Bool {
+        guard let altura = item?.presentationSize.height, altura > 0 else { return false }
+        let tela = window?.screen ?? NSScreen.main
+        let alturaTela = (tela?.frame.height ?? 1080) * (tela?.backingScaleFactor ?? 2)
+        let alvo = Preferencias.upscaling == "4k" ? alturaTela : min(1080, alturaTela)
+        return altura >= alvo
+    }
+
     private func sincronizarOutput() {
         let modo = Preferencias.upscaling
-        guard modo != "off", let item = playerLayer.player?.currentItem else {
+        guard modo != "off", let item = playerLayer.player?.currentItem, !videoJaNoAlvo(item) else {
             removerOutputAtual()
             metalLayer.isHidden = true
             return
@@ -476,6 +487,12 @@ final class PlayerLayerView: NSView {
 
         if attachedItem !== player.currentItem {
             sincronizarOutput()
+        }
+        // O tamanho do vídeo só se sabe depois de abrir: chegou na altura do alvo, sai do caminho.
+        if videoJaNoAlvo(player.currentItem) {
+            if videoOutput != nil { removerOutputAtual() }
+            metalLayer.isHidden = true
+            return
         }
 
         var bufferParaDesenhar: CVPixelBuffer?
