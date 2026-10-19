@@ -50,12 +50,6 @@ struct ContentView: View {
             .sheet(item: $atualizacao.disponivel) { versao in
                 AtualizacaoView(atualizacao: atualizacao, versao: versao)
             }
-            // Sem nenhum endereço, pergunta (depois da abertura animada).
-            .sheet(isPresented: Binding(
-                get: { listas.pedirEndereco && !abertura },
-                set: { listas.pedirEndereco = $0 })) {
-                FormularioListasView(primeiraAbertura: true) { listas.pedirEndereco = false }
-            }
             .task { atualizacao.vigiar() }
             .alert("Atualização", isPresented: Binding(
                 get: { atualizacao.aviso != nil },

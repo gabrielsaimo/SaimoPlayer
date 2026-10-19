@@ -44,6 +44,21 @@ enum Migracao {
 }
 
 extension Links {
+    /// Volta os dois endereços aos de fábrica e recarrega o que mudou.
+    static func restaurarPadrao() {
+        let antesCanais = Enderecos.canais, antesFilmes = Enderecos.filmes
+        Enderecos.restaurarPadroes()
+        avisar(antesCanais, antesFilmes)
+    }
+
+    private static func avisar(_ antesCanais: String?, _ antesFilmes: String?) {
+        if antesCanais != Enderecos.canais { Migracao.apagarDados(.canais) }
+        if antesFilmes != Enderecos.filmes { Migracao.apagarDados(.filmes) }
+        if antesCanais != Enderecos.canais || antesFilmes != Enderecos.filmes {
+            NotificationCenter.default.post(name: Enderecos.mudou, object: nil)
+        }
+    }
+
     /// Aplica o plano ao armazenamento e avisa o resto do app. Campo vazio
     /// apaga o endereço e os dados daquela lista.
     static func aplicar(_ plano: Plano) {
@@ -52,10 +67,6 @@ extension Links {
         let novoCanais = valor(plano.canais), novoFilmes = valor(plano.filmes)
         Enderecos.canais = novoCanais
         Enderecos.filmes = novoFilmes
-        if antesCanais != novoCanais { Migracao.apagarDados(.canais) }
-        if antesFilmes != novoFilmes { Migracao.apagarDados(.filmes) }
-        if antesCanais != novoCanais || antesFilmes != novoFilmes {
-            NotificationCenter.default.post(name: Enderecos.mudou, object: nil)
-        }
+        avisar(antesCanais, antesFilmes)
     }
 }

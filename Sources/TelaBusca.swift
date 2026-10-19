@@ -83,7 +83,7 @@ struct TelaBusca: View {
 
     private var vazio: String {
         if listas.canais == nil && listas.filmes == nil {
-            return "Nada para buscar. Informe o endereço das listas em Ajustes > Listas."
+            return "Nada para buscar. Ative as listas em Ajustes > Listas."
         }
         return texto.trimmingCharacters(in: .whitespaces).isEmpty
             ? "Digite o nome — os resultados aparecem enquanto você digita."

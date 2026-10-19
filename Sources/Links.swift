@@ -104,12 +104,6 @@ enum Links {
 
     // MARK: - Decisões de tela
 
-    /// O diálogo "Endereço das listas" aparece enquanto os dois estiverem vazios.
-    /// Com só um preenchido não se repergunta: a seção que falta mostra o estado vazio.
-    static func deveMostrarPrimeiraAbertura(canais: String?, filmes: String?) -> Bool {
-        (canais ?? "").isEmpty && (filmes ?? "").isEmpty
-    }
-
     enum Secao: Equatable {
         case canais, filmes, radios, guia
     }
@@ -124,10 +118,10 @@ enum Links {
     /// O texto do estado vazio de cada seção quando falta o endereço.
     static func mensagemSemEndereco(_ secao: Secao) -> String {
         switch secao {
-        case .canais: return "Nenhum canal. Informe o endereço da lista de canais em Ajustes > Listas."
-        case .filmes: return "Nenhum filme ou série. Informe o endereço da lista de filmes e séries em Ajustes > Listas."
-        case .radios: return "Nenhuma rádio. Informe o endereço da lista de canais em Ajustes > Listas."
-        case .guia: return "Sem programação. Informe o endereço da lista de canais em Ajustes > Listas."
+        case .canais: return "Nenhum canal. Ative a lista de canais em Ajustes > Listas."
+        case .filmes: return "Nenhum filme ou série. Ative o endereço da lista de filmes e séries em Ajustes > Listas."
+        case .radios: return "Nenhuma rádio. Ative a lista de canais em Ajustes > Listas."
+        case .guia: return "Sem programação. Ative a lista de canais em Ajustes > Listas."
         }
     }
 
@@ -148,7 +142,7 @@ enum Links {
     }
 
     static let textoDoDialogo =
-        "Informe o endereço da lista de canais e o da lista de filmes e séries. Você pode deixar em branco e informar depois em Ajustes."
+        "Endereço da lista de canais e da lista de filmes e séries. Deixe um campo em branco para desligar aquela lista, ou use Restaurar padrão."
     static let erroDeEndereco = "Não consegui abrir este endereço. Confira o link."
     static let erroDeFormato = "Endereço inválido. Confira o link."
 

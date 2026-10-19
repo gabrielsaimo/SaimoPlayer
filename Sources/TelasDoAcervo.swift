@@ -137,7 +137,7 @@ struct TelaInicio: View {
     var body: some View {
         TelaEmFileiras(destaque: destaque, filas: filas, carregando: carregando,
                        vazio: listas.canais == nil && listas.filmes == nil
-                           ? "Nada por aqui ainda. Informe o endereço das listas em Ajustes > Listas."
+                           ? "Nada por aqui ainda. Ative as listas em Ajustes > Listas."
                            : "Nada aqui por enquanto")
             .onAppear { destaque.padrao(saudacao, "O que vamos assistir?",
                                         "Passe o mouse num título para ver do que se trata; clique para abrir. Botão direito favorita.") }

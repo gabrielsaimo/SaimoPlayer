@@ -231,12 +231,15 @@ régua: o celular toca o som sem o acerto fino.
 ./make_dmg.sh     # gera o DMG
 ```
 
-### Listas: o app não traz nenhuma
+### Listas: dois endereços, sem lista no código
 
 O app do Mac não carrega lista nenhuma no código nem no binário (não existe mais
-`Channels.swift`). Quem informa de onde vêm os dados é o usuário, na primeira
-abertura ou em Ajustes > Listas, com dois endereços guardados no `UserDefaults`
-(`linkCanais`, `linkFilmes`), sem valor padrão:
+`Channels.swift`); só dois endereços-base, constantes em `Enderecos.swift`, já ativos
+de fábrica: `https://canais-saimo.pages.dev/` e `https://filmes-saimo.pages.dev/`.
+Ninguém precisa digitar nada. Em Ajustes > Listas dá para trocar cada um, deixar em
+branco para desligar aquela lista (guardado como valor vazio explícito: estado vazio,
+nenhum pedido de rede) ou usar "Restaurar padrão". Chave ausente no `UserDefaults`
+(`linkCanais`, `linkFilmes`) = padrão. Não há diálogo na primeira abertura.
 
 - Canais: o app só concatena `catalogo.txt`, `canais.txt`, `restritos.txt`,
   `radios.txt` e `guia.txt` ao endereço. A seção de cada canal vem do campo
@@ -247,8 +250,7 @@ abertura ou em Ajustes > Listas, com dois endereços guardados no `UserDefaults`
   `GuiaTabelas.swift` lê e guarda em cache.
 - `Links.swift` normaliza o que foi digitado (`https://` se faltar, sem `?query` nem
   `#fragmento`, sem o nome do arquivo, `/` no fim) e `FormularioListas.swift` testa
-  (`catalogo.txt` / `indice.txt` devem dar 200). Sem endereço o app não faz pedido de
-  rede para listas e mostra o estado vazio com atalho para os Ajustes.
+  (`catalogo.txt` / `indice.txt` devem dar 200).
 - `Migracao.swift` apaga, uma vez, os caches de listas das versões anteriores; favoritos,
   progresso e ajustes ficam. O endereço do atualizador é um só, fixo
   (`Atualizacao.enderecoDoAnuncio`).

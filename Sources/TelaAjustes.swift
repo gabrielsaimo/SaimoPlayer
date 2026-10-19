@@ -154,20 +154,23 @@ struct TelaAjustes: View {
                     }
 
                     secao("Listas") {
-                        linha("Lista de canais", listas.canais ?? "Não informado", icone: "tv") {
+                        linha("Lista de canais", listas.canais ?? "Desligada", icone: "tv") {
                             listas.editando = true
                         }
-                        linha("Lista de filmes e séries", listas.filmes ?? "Não informado", icone: "film.stack") {
+                        linha("Lista de filmes e séries", listas.filmes ?? "Desligada", icone: "film.stack") {
                             listas.editando = true
+                        }
+                        linha("Restaurar padrão", "Volta aos endereços de fábrica", icone: "arrow.counterclockwise") {
+                            Links.restaurarPadrao()
                         }
                         if listas.canais != nil {
-                            linha("Apagar o endereço dos canais", "Remove a lista de canais, rádios e guia deste Mac",
+                            linha("Desligar a lista de canais", "Remove canais, rádios e guia deste Mac",
                                   icone: "trash") {
                                 Links.aplicar(Links.planejar(canais: "", filmes: listas.filmes ?? ""))
                             }
                         }
                         if listas.filmes != nil {
-                            linha("Apagar o endereço dos filmes e séries", "Remove a lista de filmes e séries deste Mac",
+                            linha("Desligar a lista de filmes e séries", "Remove a lista de filmes e séries deste Mac",
                                   icone: "trash") {
                                 Links.aplicar(Links.planejar(canais: listas.canais ?? "", filmes: ""))
                             }
@@ -224,7 +227,7 @@ struct TelaAjustes: View {
             .scrollIndicators(.hidden)
         }
         .sheet(isPresented: $listas.editando) {
-            FormularioListasView(primeiraAbertura: false) { listas.editando = false }
+            FormularioListasView { listas.editando = false }
         }
     }
 

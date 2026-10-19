@@ -32,15 +32,30 @@ conferir(pf?.url?.absoluteString == "https://x.dev/l/indice.txt", "pedido filmes
 conferir(Links.respostaAceita(200) && !Links.respostaAceita(404) && !Links.respostaAceita(nil), "so 200")
 
 // Decisões de tela
-conferir(Links.deveMostrarPrimeiraAbertura(canais: nil, filmes: nil), "pergunta com os dois vazios")
-conferir(Links.deveMostrarPrimeiraAbertura(canais: "", filmes: nil), "vazio e nulo")
-conferir(!Links.deveMostrarPrimeiraAbertura(canais: "https://a/", filmes: nil), "so canais: nao pergunta")
-conferir(!Links.deveMostrarPrimeiraAbertura(canais: nil, filmes: "https://a/"), "so filmes: nao pergunta")
+// Padrões de fábrica e lista desligada
+conferir(Enderecos.padraoCanais == "https://canais-saimo.pages.dev/", "padrao canais")
+conferir(Enderecos.padraoFilmes == "https://filmes-saimo.pages.dev/", "padrao filmes")
+conferir(Enderecos.resolver(guardado: nil, padrao: "https://p/") == "https://p/", "chave ausente = padrao")
+conferir(Enderecos.resolver(guardado: "", padrao: "https://p/") == nil, "vazio explicito = desligada")
+conferir(Enderecos.resolver(guardado: "  ", padrao: "https://p/") == nil, "so espacos = desligada")
+conferir(Enderecos.resolver(guardado: "https://x/", padrao: "https://p/") == "https://x/", "valor do usuario")
+UserDefaults.standard.removeObject(forKey: Enderecos.chaveCanais)
+UserDefaults.standard.removeObject(forKey: Enderecos.chaveFilmes)
+conferir(Enderecos.canais == Enderecos.padraoCanais && Enderecos.filmes == Enderecos.padraoFilmes, "sem nada guardado: padroes ativos")
+conferir(Enderecos.canais("catalogo.txt")?.absoluteString == "https://canais-saimo.pages.dev/catalogo.txt", "url de arquivo")
+Enderecos.canais = "https://meu.dev/"
+Enderecos.filmes = nil
+conferir(Enderecos.canais == "https://meu.dev/" && Enderecos.filmes == nil && Enderecos.filmes("indice.txt") == nil, "trocar e desligar")
+Enderecos.restaurarPadroes()
+conferir(Enderecos.canais == Enderecos.padraoCanais && Enderecos.filmes == Enderecos.padraoFilmes, "restaurar padrao")
+UserDefaults.standard.removeObject(forKey: Enderecos.chaveCanais)
+UserDefaults.standard.removeObject(forKey: Enderecos.chaveFilmes)
 conferir(Links.semEndereco(.filmes, canais: "https://a/", filmes: nil), "filmes sem endereco")
 conferir(!Links.semEndereco(.radios, canais: "https://a/", filmes: nil), "radios com endereco")
 conferir(Links.mensagemVazia(.canais, canais: nil, filmes: nil)
-         == "Nenhum canal. Informe o endereço da lista de canais em Ajustes > Listas.", "mensagem canais")
+         == "Nenhum canal. Ative a lista de canais em Ajustes > Listas.", "mensagem canais")
 conferir(Links.mensagemVazia(.canais, canais: "https://a/", filmes: nil).contains("Confira"), "mensagem com endereco")
+conferir(Links.planejar(canais: "", filmes: "").canais == .vazio, "campo em branco desliga")
 
 // Categoria vem do campo
 conferir(Categoria.de(declarada: "Esportes") == .esportes, "categoria declarada")

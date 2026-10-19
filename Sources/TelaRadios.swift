@@ -24,7 +24,7 @@ struct TelaRadios: View {
         .task(id: listas.canais) {
             guard !semEndereco else {
                 radios.esquecer()
-                destaque.padrao("Rádios", "Sem lista", "Informe o endereço em Ajustes > Listas.")
+                destaque.padrao("Rádios", "Sem lista", "Ative a lista em Ajustes > Listas.")
                 return
             }
             destaque.padrao("Rádios", "Carregando…")

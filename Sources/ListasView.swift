@@ -10,9 +10,6 @@ final class ListasEstado: ObservableObject {
 
     @Published private(set) var canais: String? = Enderecos.canais
     @Published private(set) var filmes: String? = Enderecos.filmes
-    /// O diálogo "Endereço das listas": a cada abertura, enquanto os dois estiverem vazios.
-    @Published var pedirEndereco = Links.deveMostrarPrimeiraAbertura(
-        canais: Enderecos.canais, filmes: Enderecos.filmes)
     /// Sobe a cada mudança de endereço; telas que guardam dados da lista usam como `.id`.
     @Published private(set) var geracao = 0
     /// O formulário aberto a partir dos Ajustes.
@@ -82,13 +79,10 @@ struct SemListaView: View {
 
 /// A janela "Endereço das listas": primeira abertura e edição nos Ajustes.
 struct FormularioListasView: View {
-    /// Na primeira abertura o botão de sair é "Agora não"; nos Ajustes, "Cancelar".
-    let primeiraAbertura: Bool
     let fechar: () -> Void
     @StateObject private var form: FormularioListas
 
-    init(primeiraAbertura: Bool, fechar: @escaping () -> Void) {
-        self.primeiraAbertura = primeiraAbertura
+    init(fechar: @escaping () -> Void) {
         self.fechar = fechar
         _form = StateObject(wrappedValue: FormularioListas(
             canais: Enderecos.canais, filmes: Enderecos.filmes))
@@ -109,8 +103,12 @@ struct FormularioListasView: View {
             mensagem
 
             HStack {
-                Button(primeiraAbertura ? "Agora não" : "Cancelar", action: fechar)
+                Button("Cancelar", action: fechar)
                     .keyboardShortcut(.cancelAction)
+                Button("Restaurar padrão") {
+                    Links.restaurarPadrao()
+                    fechar()
+                }
                 Spacer()
                 botoes
             }
