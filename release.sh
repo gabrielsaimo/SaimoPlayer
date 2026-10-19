@@ -128,6 +128,8 @@ cell=""
 [ -f "build/release/SaimoCell.apk" ] && cell="build/release/SaimoCell.apk"
 
 notas="build/release/NOTAS.md"
+# Notas escritas à mão (o make_dmg.sh apaga o build/, e com ele um NOTAS.md deixado antes).
+if [ -n "${SAIMO_NOTAS_ARQUIVO:-}" ]; then mkdir -p build/release; cp "$SAIMO_NOTAS_ARQUIVO" "$notas"; fi
 if [ ! -f "$notas" ]; then
   {
     echo "Novidades da versão $versao:"
@@ -185,5 +187,19 @@ gh release create "v$versao" --repo "$REPO_DOWNLOADS" \
   build/release/SaimoTV-Windows.zip \
   build/release/versao.json \
   ${cell:-}
+
+# A ponte: o mesmo release no GitHub antigo (SAIMO_REPO_LEGADO="dono/repo"). Os apps
+# até a 2.3.x procuram a atualização lá; esta versão já aponta para o endereço novo,
+# e a partir dela eles passam a atualizar por `saimo-downloads`.
+if [ -n "${SAIMO_REPO_LEGADO:-}" ]; then
+  echo "==> ponte: $SAIMO_REPO_LEGADO"
+  GH_TOKEN="$(gh auth token -u "${SAIMO_REPO_LEGADO%%/*}")" gh release create "v$versao" --repo "$SAIMO_REPO_LEGADO" \
+    --title "Saimo TV $versao" \
+    --notes-file "$notas" \
+    $extra \
+    build/release/SaimoTV.dmg build/release/SaimoTV.apk \
+    build/release/SaimoTV-Windows.zip \
+    ${cell:-}
+fi
 
 echo "pronto: https://github.com/$REPO_DOWNLOADS/releases/tag/v$versao"
