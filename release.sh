@@ -158,7 +158,7 @@ echo "==> publicando v$versao"
 # arquivo do release: o endereço fixo que os apps leem é
 #   https://canais-saimo.pages.dev/versao.json  (copia do arquivo do release, servida pelo Cloudflare)
 # Com mais de uma conta no gh, o release sai pela conta dona do repositório.
-REPO_DOWNLOADS="${SAIMO_REPO_DOWNLOADS:-gabrielsaimo/SaimoPlayer}"
+REPO_DOWNLOADS="${SAIMO_REPO_DOWNLOADS:-SaimoTV/saimo-downloads}"
 export GH_TOKEN="${GH_TOKEN:-$(gh auth token -u "${REPO_DOWNLOADS%%/*}" 2>/dev/null || true)}"
 [ -n "$GH_TOKEN" ] || { echo "gh sem login na conta ${REPO_DOWNLOADS%%/*} (gh auth login)" >&2; exit 1; }
 
