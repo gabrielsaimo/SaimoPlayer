@@ -211,13 +211,17 @@ if [ -n "${SAIMO_REPO_LEGADO:-}" ]; then
     ${cell:-}
 fi
 
-# Endereço fixo que os apps leem: o versao.json sai pelo Cloudflare Pages (conta antiga),
+# Endereço fixo que os apps leem: o versao.json sai pelo Cloudflare Pages (conta nova, Saimo.tv.gs),
 # não pelo GitHub. Os arquivos para baixar continuam no release acima.
 if [ -z "${extra:-}" ] && [ -d ../SaimoCatalogos ]; then
   echo "==> publicando versao.json em canais-saimo.pages.dev"
   cp build/release/versao.json ../SaimoCatalogos/versao.json
+  # A cópia que o agendamento (11h/18h) publica também: senão ela republicaria o versao.json velho.
+  COPIA_AGENDADA="$HOME/Library/Application Support/SaimoTV/SaimoCatalogos"
+  [ -d "$COPIA_AGENDADA" ] && cp build/release/versao.json "$COPIA_AGENDADA/versao.json"
   ( cd ../SaimoCatalogos && bash scripts/montar_publico.sh canais >/dev/null \
-    && CLOUDFLARE_ACCOUNT_ID="${SAIMO_CF_CONTA:-e0f6d97a9f8f4bb1b7a8ce6a7a470b3f}" \
+    && XDG_CONFIG_HOME="${SAIMO_CF_CONFIG:-$HOME/Library/Application Support/SaimoTV/wrangler-novo}" \
+       CLOUDFLARE_ACCOUNT_ID="${SAIMO_CF_CONTA:-e074091e48d179d86d956620fc8fa5f6}" \
        npx wrangler pages deploy publico/canais --project-name canais-saimo --branch main --commit-dirty=true >/dev/null )
 fi
 
