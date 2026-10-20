@@ -226,30 +226,6 @@ logo: https://img.faz-o-eli.online/amc.png
 fonte: https://dadinhodetapioca.fun/play/amcseries.html
 qualidade: FHD
 referer: https://dadinhodetapioca.fun/
-fonte: https://fallback1.nexustvplay.bbroot.com/nxs/stream/amc/amc.m3u8
-qualidade: HD · 1280x720
-fonte: https://frostview.squareweb.app/relay/p/aHR0cDovL2ZvbnRlejIyLmRkbnMubmV0OjgwL2xpdmUvNDM4NzI5L1lSZU05Ti83MjAyMzMzLm0zdTg
-qualidade: 4K
-fonte: https://frostview.squareweb.app/relay/p/aHR0cDovL2ZvbnRlejIyLmRkbnMubmV0OjgwL2xpdmUvNDM4NzI5L1lSZU05Ti80Nzk0MjY1Lm0zdTg
-qualidade: FHD
-fonte: https://frostview.squareweb.app/relay/p/aHR0cDovL2ZvbnRlejIyLmRkbnMubmV0OjgwL2xpdmUvNDM4NzI5L1lSZU05Ti83MTQ0OTA2Lm0zdTg
-qualidade: FHD
-fonte: https://frostview.squareweb.app/relay/p/aHR0cDovL2ZvbnRlejIyLmRkbnMubmV0OjgwL2xpdmUvNDM4NzI5L1lSZU05Ti80Nzk0MjY3Lm0zdTg
-qualidade: HD
-fonte: https://frostview.squareweb.app/relay/p/aHR0cDovL2ZvbnRlejIyLmRkbnMubmV0OjgwL2xpdmUvNDM4NzI5L1lSZU05Ti81NjU0ODk4Lm0zdTg
-qualidade: SD
-fonte: https://deba72f99ee2133175f587fde5f947ac.s25-cloudfront-net.lat/stream/dd7890d4553d08304d69c219d7c690b2/error.txt
-qualidade: HD · 1280x720
-referer: https://w7.embedtv.cc/
-agente: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/90646.m3u8
-qualidade: 4K
-fonte: http://vaiagora.vip:80/live/5q8VUj/5BeUd8/71768.m3u8
-qualidade: FHD
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/90646.m3u8
-qualidade: 4K
-fonte: http://vivlar.me:80/live/497238/KK8Kdy/71768.m3u8
-qualidade: FHD
 canal: Animal Planet
 categoria: Documentários
 logo: https://img.faz-o-eli.online/animalplanet.png
