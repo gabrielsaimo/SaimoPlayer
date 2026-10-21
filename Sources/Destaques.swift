@@ -42,9 +42,9 @@ enum Destaques {
 
     /// Endereço apagado ou trocado: some o que estava em memória.
     static func esquecer() { emMemoria = nil }
-    /// A lista muda quando o gerador roda; um dia em disco abre instantâneo sem
-    /// ficar semanas desatualizado.
-    private static let validade: TimeInterval = 24 * 60 * 60
+    /// Validade curta (15 minutos) para que novas atualizações apareçam rapidamente
+    /// no app sem atrasos de 24h.
+    private static let validade: TimeInterval = 15 * 60
 
     private static var emMemoria: [Fila]?
 
