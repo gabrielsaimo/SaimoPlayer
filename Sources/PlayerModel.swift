@@ -855,20 +855,24 @@ final class PlayerModel: NSObject, ObservableObject {
     /// Jumps to the live edge of the sliding window.
     func jumpToLive() {
         if multiTela && segundaAtiva { segunda.irAoVivo(); return }
-        guard let item = player.currentItem,
-              let range = item.seekableTimeRanges.last?.timeRangeValue else { return }
-        let edge = CMTimeRangeGetEnd(range)
-        let alvo: CMTime
-        if zeroDelay == "equilibrado" {
-            alvo = CMTimeSubtract(edge, CMTime(seconds: 3.0, preferredTimescale: 600))
+        guard let item = player.currentItem else { return }
+        if zeroDelay == "equilibrado",
+           let range = item.seekableTimeRanges.last?.timeRangeValue {
+            let edge = CMTimeRangeGetEnd(range)
+            let alvo = CMTimeSubtract(edge, CMTime(seconds: 3.0, preferredTimescale: 600))
+            player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero) { [weak self] _ in
+                Task { @MainActor in
+                    self?.player.rate = self?.rate ?? 1
+                    self?.isPlaying = true
+                }
+            }
         } else {
-            // agressivo: ponta máxima ao vivo
-            alvo = edge
-        }
-        player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero) { [weak self] _ in
-            Task { @MainActor in
-                self?.player.rate = self?.rate ?? 1
-                self?.isPlaying = true
+            // agressivo: ponta máxima ao vivo (.positiveInfinity no AVPlayer)
+            player.seek(to: .positiveInfinity) { [weak self] _ in
+                Task { @MainActor in
+                    self?.player.rate = self?.rate ?? 1
+                    self?.isPlaying = true
+                }
             }
         }
         Log.shared.write("pulou para o ao vivo (\(zeroDelay))")
@@ -1404,28 +1408,28 @@ final class PlayerModel: NSObject, ObservableObject {
         guard edge.isFinite, current.isFinite else { return }
         let behind = max(0, edge - current)
 
-        // Guarda Anti-Starvation: se o buffer à frente estiver baixo (< 1.2s), trava em 1.0x imediatamente
-        if stats.bufferedAhead < 1.2 {
-            if player.rate != 1.0 { player.rate = 1.0 }
-            return
-        }
-
-        // Se ficou muito para trás (rede engasgou ou pausa), pula direto para o ao vivo
-        let maxDelayParaPulo: Double = zeroDelay == "agressivo" ? 7.0 : 12.0
+        // Se ficou muito para trás (mais que 1 segmento), pula direto para o ao vivo
+        let maxDelayParaPulo: Double = zeroDelay == "agressivo" ? 5.0 : 10.0
         if behind > maxDelayParaPulo {
             jumpToLive()
             return
         }
 
+        // Guarda Anti-Starvation: se o buffer à frente estiver crítico (< 0.6s), trava em 1.0x imediatamente
+        if stats.bufferedAhead < 0.6 {
+            if player.rate != 1.0 { player.rate = 1.0 }
+            return
+        }
+
         // Aceleração suave de catch-up
-        let targetDelay: Double = zeroDelay == "agressivo" ? 1.8 : 4.0
+        let targetDelay: Double = zeroDelay == "agressivo" ? 1.5 : 3.5
         let maxRate: Float = zeroDelay == "agressivo" ? 1.08 : 1.04
 
-        if behind > targetDelay + 1.2 {
+        if behind > targetDelay + 0.8 {
             if player.rate != maxRate {
                 player.rate = maxRate
             }
-        } else if behind <= targetDelay + 0.3 {
+        } else if behind <= targetDelay + 0.2 {
             if player.rate != 1.0 {
                 player.rate = 1.0
             }

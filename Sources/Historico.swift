@@ -220,18 +220,23 @@ final class Historico: @unchecked Sendable {
             }
             restante -= lido.dur
         }
+        let limiteSegs: Int
         let janelaMs: Int64
         switch Preferencias.zeroDelay {
-        case "agressivo":   janelaMs = 25_000
-        case "equilibrado": janelaMs = 50_000
-        default:            janelaMs = Self.guardaMs
+        case "agressivo":
+            limiteSegs = 2
+            janelaMs = 14_000
+        case "equilibrado":
+            limiteSegs = 4
+            janelaMs = 28_000
+        default:
+            limiteSegs = 20
+            janelaMs = Self.guardaMs
         }
         if let ultimaSeq = regua.trechos.keys.max(), let ultimo = regua.trechos[ultimaSeq] {
             let corte = ultimo.inicioMs + ultimo.duracaoMs - janelaMs
-            let minimo = Preferencias.zeroDelay == "agressivo" ? 2 : (Preferencias.zeroDelay == "equilibrado" ? 3 : lidos.count)
-            while regua.trechos.count > minimo,
-                  let primeiraSeq = regua.trechos.keys.min(),
-                  let primeiro = regua.trechos[primeiraSeq], primeiro.inicioMs < corte {
+            while regua.trechos.count > limiteSegs || (regua.trechos.count > 2 && regua.trechos[regua.trechos.keys.min()!]!.inicioMs < corte) {
+                guard let primeiraSeq = regua.trechos.keys.min() else { break }
                 regua.trechos.removeValue(forKey: primeiraSeq)
             }
         }
@@ -254,14 +259,6 @@ final class Historico: @unchecked Sendable {
         var sb = "#EXTM3U\n"
         for l in regua.cabecalho where !l.hasPrefix("#EXT-X-TARGETDURATION") && !l.hasPrefix("#EXT-X-START") { sb += l + "\n" }
         sb += "#EXT-X-TARGETDURATION:\(alvo)\n"
-        switch Preferencias.zeroDelay {
-        case "agressivo":
-            sb += "#EXT-X-START:TIME-OFFSET=-0.1,PRECISE=YES\n"
-        case "equilibrado":
-            sb += "#EXT-X-START:TIME-OFFSET=-3.0,PRECISE=YES\n"
-        default:
-            break
-        }
         sb += "#EXT-X-MEDIA-SEQUENCE:\(primeiro.seq)\n"
         sb += "#EXT-X-DISCONTINUITY-SEQUENCE:\(primeiro.sequenciaDesc - (primeiro.descontinuidade ? 1 : 0))\n"
         var chave: String?

@@ -1,32 +1,44 @@
 {
-  "versao": "2.3.2",
-  "tag": "v2.3.2",
-  "publicadoEm": "2026-10-18T15:25:56Z",
-  "notas": "Novidades da versão 2.3.2:\n\n• Telemetria por amostra: só uma pequena parte dos aparelhos manda dados de uso ao monitor, o que deixa os apps mais leves na rede\n• Lista de servidores desligados e agenda de jogos consultadas com menos frequência\n• TV Box, celular, Mac e Windows\n",
+  "versao": "2.5.1",
+  "tag": "v2.5.1",
+  "publicadoEm": "2026-10-21T23:32:00Z",
+  "notas": "Novidades da versão 2.5.1:\n• Zero Delay Calibrado (Mac e Web): corte real da janela HLS para apenas 2 segmentos no modo agressivo, garantindo sinal o mais ao vivo possível sem travamentos.\n• Salto nativo instantâneo no AVPlayer ao alternar modo e live catch-up protegido contra perda de buffer.\n• Sincronização inteligente com anti-travamento para todas as plataformas.\n",
   "arquivos": {
     "tvbox": {
       "nome": "SaimoTV.apk",
-      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV.apk",
-      "bytes": 4926733,
-      "sha256": "7ef264951dc2d8339f860de7151628e82e12a322c2d3d30ca9011cf61e76aa57"
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.0/SaimoTV.apk",
+      "bytes": 4894739,
+      "sha256": "c3175f66fe4876aad0e161c99c9dafcf0706dd57ae23a47a80204a83d56bfc34"
     },
     "celular": {
       "nome": "SaimoCell.apk",
-      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoCell.apk",
-      "bytes": 60275048,
-      "sha256": "684f7c158a73f7486269af1afe56472d9935726672a865378cfe5c259eb3433e"
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.0/SaimoCell.apk",
+      "bytes": 60235144,
+      "sha256": "cf94485edc197fbc938369ac9a1e626e600dc1a2e6d19834898b6fac431f2d8e"
     },
     "mac": {
       "nome": "SaimoTV.dmg",
-      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV.dmg",
-      "bytes": 26900694,
-      "sha256": "b9b70c06c84ae9f18754c209ac82e9e89c9fb884a96e846abfd9d0aa53edb5cb"
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.1/SaimoTV.dmg",
+      "bytes": 26899635,
+      "sha256": "c16e0092769fcd998bbf048fa2a5e79c935db36b7c4ddd00e52379417a10b5ed"
     },
     "windows": {
       "nome": "SaimoTV-Windows.zip",
-      "url": "https://github.com/gabrielsaimo/SaimoPlayer/releases/download/v2.3.2/SaimoTV-Windows.zip",
-      "bytes": 52617909,
-      "sha256": "a04a8ff08ec6e964cf95de935cc72d2ceb92e77a748075596b56c5c70d09ef12"
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.0/SaimoTV-Windows.zip",
+      "bytes": 52645569,
+      "sha256": "f50364e2f5b98c986875daa4932f2301a074b87e5335c6f133b14640325a33fd"
+    },
+    "tizen": {
+      "nome": "SaimoTV-Samsung.wgt",
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.0/SaimoTV-Samsung.wgt",
+      "bytes": 1847829,
+      "sha256": "800451f7c2d75ea52018f307722a529e578737451c7126021c0b52c030abb706"
+    },
+    "webos": {
+      "nome": "SaimoTV-LG.ipk",
+      "url": "https://github.com/SaimoTV/saimo-downloads/releases/download/v2.5.0/SaimoTV-LG.ipk",
+      "bytes": 1529430,
+      "sha256": "cfa67b7aaf3832b6c1ca8cc6075c736199b504d169bfc25ae4698dfc7faa67af"
     }
   }
 }

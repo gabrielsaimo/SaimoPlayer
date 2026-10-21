@@ -66,9 +66,8 @@ final class SegundaTela: ObservableObject {
     }
 
     func irAoVivo() {
-        guard let item = player.currentItem,
-              let faixa = item.seekableTimeRanges.last?.timeRangeValue else { return }
-        player.seek(to: CMTimeRangeGetEnd(faixa), toleranceBefore: .zero, toleranceAfter: .zero)
+        guard player.currentItem != nil else { return }
+        player.seek(to: .positiveInfinity)
         player.play()
     }
 
