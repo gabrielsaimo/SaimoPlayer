@@ -20,7 +20,7 @@ final class Telemetria {
 
     enum Tipo: String { case live, vod }
 
-    private let base = URL(string: "https://saimo-monitor.gabrielsaimo68.workers.dev/v1")!
+    private let base = URL(string: "https://saimo-tv.pages.dev/api/online/v1")!
     private let plataforma = "mac"
     /// Zapeando, cada canal que passa não vira batida: só quem ficou.
     private let minimoParaContar: TimeInterval = 20

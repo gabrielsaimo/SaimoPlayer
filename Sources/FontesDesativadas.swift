@@ -19,7 +19,7 @@ import os
 enum FontesDesativadas {
 
     private static let endereco = URL(
-        string: "https://saimo-monitor.gabrielsaimo68.workers.dev/v1/fontes")!
+        string: "https://saimo-tv.pages.dev/fontes-desativadas.json")!
     /// Uma leitura por hora. Cada aparelho perguntando de dois em dois minutos
     /// custava caro no monitor (cobrado por pedido); desligar um servidor
     /// agora leva até uma hora para chegar a todos. A última lista boa fica

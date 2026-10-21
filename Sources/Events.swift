@@ -37,7 +37,7 @@ struct Jogo: Identifiable, Sendable {
 
 enum Eventos {
     static let agenda = URL(string: "https://embedtv.cc/api/events")!
-    static let streaming = URL(string: "https://saimo-monitor.gabrielsaimo68.workers.dev/v1/eventos")!
+    static let streaming = URL(string: "https://saimo-tv.pages.dev/eventos-extra.json")!
     static let ligas = [
         "soccer/bra.1", "soccer/bra.2", "soccer/bra.copa_do_brazil", "soccer/conmebol.libertadores",
         "soccer/conmebol.sudamericana", "soccer/uefa.champions", "soccer/uefa.europa", "soccer/eng.1",
