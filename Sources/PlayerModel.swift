@@ -58,6 +58,12 @@ final class PlayerModel: NSObject, ObservableObject {
     @Published var fillScreen: Bool = Preferencias.fillScreen {
         didSet { Preferencias.fillScreen = fillScreen }
     }
+    @Published var audioInteligente: Bool = Preferencias.audioInteligente {
+        didSet {
+            Preferencias.audioInteligente = audioInteligente
+            applyVolume()
+        }
+    }
     @Published var isPiPActive = false
     @Published var isPiPPossible = false
     @Published var alwaysOnTop: Bool = Preferencias.alwaysOnTop {
@@ -1418,7 +1424,8 @@ final class PlayerModel: NSObject, ObservableObject {
         // Na multi tela só a tela ativa tem som. Enquanto a segunda não tem
         // canal, o som continua com a principal.
         var somNaSegunda = multiTela && segundaAtiva && segunda.canal != nil
-        player.volume = Float(volume)
+        let ganho: Float = audioInteligente ? 1.25 : 1.0
+        player.volume = min(1.0, Float(volume) * ganho)
         var mudo = isMuted || silenciadoPelaAbertura
         // O celular escolheu de qual tela o Mac toca o som (ou calou o Mac),
         // por exemplo para ouvir a outra no fone.
@@ -1427,7 +1434,7 @@ final class PlayerModel: NSObject, ObservableObject {
             else if multiTela { somNaSegunda = fixo == "1" && segunda.canal != nil }
         }
         player.isMuted = mudo || somNaSegunda
-        segunda.aplicarSom(volume: volume, mudo: mudo || !somNaSegunda)
+        segunda.aplicarSom(volume: min(1.0, volume * Double(ganho)), mudo: mudo || !somNaSegunda)
         Store.setVolume(volume)
     }
 

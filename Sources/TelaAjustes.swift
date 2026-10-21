@@ -8,11 +8,13 @@ enum Preferencias {
     private static let chaveUpscaling    = "ajustes.upscaling"
     private static let chaveFillScreen   = "ajustes.fillScreen"
     private static let chaveAlwaysOnTop  = "ajustes.alwaysOnTop"
-    private static let chaveShowStats    = "ajustes.showStats"
-    private static let chaveIsMuted      = "ajustes.isMuted"
-    private static let chaveDetachedList = "ajustes.detachedList"
+    private static let chaveShowStats        = "ajustes.showStats"
+    private static let chaveIsMuted          = "ajustes.isMuted"
+    private static let chaveAudioInteligente = "ajustes.audioInteligente"
+    private static let chaveDetachedList     = "ajustes.detachedList"
 
-    static let upscalingMudou = Notification.Name("SaimoUpscalingMudou")
+    static let upscalingMudou        = Notification.Name("SaimoUpscalingMudou")
+    static let audioInteligenteMudou = Notification.Name("SaimoAudioInteligenteMudou")
 
     private static var arquivoURL: URL {
         let base = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
@@ -90,6 +92,15 @@ enum Preferencias {
         set { gravar(chaveIsMuted, newValue) }
     }
 
+    /// Áudio Inteligente: normaliza dinamicamente o volume entre diferentes fontes e canais.
+    static var audioInteligente: Bool {
+        get { lerBool(chaveAudioInteligente, padrao: true) }
+        set {
+            gravar(chaveAudioInteligente, newValue)
+            NotificationCenter.default.post(name: audioInteligenteMudou, object: nil)
+        }
+    }
+
     static var detachedList: Bool {
         get { lerBool(chaveDetachedList) }
         set { gravar(chaveDetachedList, newValue) }
@@ -135,6 +146,8 @@ struct TelaAjustes: View {
                         }
                         alternador("Preencher a tela", "Corta as bordas em vez de mostrar faixas pretas",
                                    icone: "rectangle.arrowtriangle.2.outward", valor: $model.fillScreen)
+                        alternador("Áudio Inteligente", "Nivela o volume entre canais e fontes diferentes",
+                                   icone: "waveform.badge.magnifyingglass", valor: $model.audioInteligente)
                         alternador("Manter à frente", "A janela fica por cima das outras",
                                    icone: "pin.fill", valor: $model.alwaysOnTop)
                         alternador("Estatísticas do vídeo", "Resolução, bitrate e buffer no canto da imagem",
