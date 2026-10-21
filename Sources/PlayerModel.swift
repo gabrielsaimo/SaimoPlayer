@@ -64,6 +64,12 @@ final class PlayerModel: NSObject, ObservableObject {
             applyVolume()
         }
     }
+    @Published var zeroDelay: String = Preferencias.zeroDelay {
+        didSet {
+            Preferencias.zeroDelay = zeroDelay
+            aplicarZeroDelay()
+        }
+    }
     @Published var isPiPActive = false
     @Published var isPiPPossible = false
     @Published var alwaysOnTop: Bool = Preferencias.alwaysOnTop {
@@ -605,7 +611,11 @@ final class PlayerModel: NSObject, ObservableObject {
             ]
         ])
         let item = AVPlayerItem(asset: asset)
-        item.preferredForwardBufferDuration = 6
+        if channel != nil {
+            configurarLiveZeroDelay(item)
+        } else {
+            item.preferredForwardBufferDuration = 6
+        }
         applyQuality(to: item)
 
         itemObservers.append(item.observe(\.status, options: [.new]) { [weak self] it, _ in
@@ -1349,6 +1359,39 @@ final class PlayerModel: NSObject, ObservableObject {
         // segmento sem abandonar a adaptação automática abaixo desse teto.
         let peak = qualityBitrates[selectedQuality] ?? 0
         item.preferredPeakBitRate = peak > 0 ? peak * 1.05 : 0
+    }
+
+    private func configurarLiveZeroDelay(_ item: AVPlayerItem) {
+        player.automaticallyWaitsToMinimizeStalling = true
+        switch zeroDelay {
+        case "equilibrado":
+            item.preferredForwardBufferDuration = 2.5
+            item.automaticallyPreservesTimeOffsetFromLive = true
+            item.configuredTimeOffsetFromLive = CMTime(seconds: 4.0, preferredTimescale: 600)
+        case "agressivo":
+            item.preferredForwardBufferDuration = 1.2
+            item.automaticallyPreservesTimeOffsetFromLive = true
+            item.configuredTimeOffsetFromLive = CMTime(seconds: 2.0, preferredTimescale: 600)
+        default:
+            item.preferredForwardBufferDuration = 6.0
+            item.automaticallyPreservesTimeOffsetFromLive = false
+            item.configuredTimeOffsetFromLive = .invalid
+        }
+    }
+
+    func aplicarZeroDelay() {
+        guard let item = player.currentItem, selectedChannel != nil else { return }
+        configurarLiveZeroDelay(item)
+        if zeroDelay == "agressivo" {
+            if let faixa = item.seekableTimeRanges.last?.timeRangeValue {
+                let fim = CMTimeRangeGetEnd(faixa)
+                let atual = player.currentTime()
+                if CMTimeGetSeconds(CMTimeSubtract(fim, atual)) > 6.0 {
+                    let alvo = CMTimeSubtract(fim, CMTime(seconds: 2.0, preferredTimescale: 600))
+                    player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero)
+                }
+            }
+        }
     }
 
     // MARK: - Window / PiP

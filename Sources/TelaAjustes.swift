@@ -11,10 +11,12 @@ enum Preferencias {
     private static let chaveShowStats        = "ajustes.showStats"
     private static let chaveIsMuted          = "ajustes.isMuted"
     private static let chaveAudioInteligente = "ajustes.audioInteligente"
+    private static let chaveZeroDelay        = "ajustes.zeroDelay"
     private static let chaveDetachedList     = "ajustes.detachedList"
 
     static let upscalingMudou        = Notification.Name("SaimoUpscalingMudou")
     static let audioInteligenteMudou = Notification.Name("SaimoAudioInteligenteMudou")
+    static let zeroDelayMudou        = Notification.Name("SaimoZeroDelayMudou")
 
     private static var arquivoURL: URL {
         let base = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first
@@ -101,9 +103,26 @@ enum Preferencias {
         }
     }
 
+    /// Zero Delay: sincronização ultrarrápida com a ponta ao vivo ("off", "equilibrado", "agressivo").
+    static var zeroDelay: String {
+        get { lerString(chaveZeroDelay, padrao: "off") }
+        set {
+            gravar(chaveZeroDelay, newValue)
+            NotificationCenter.default.post(name: zeroDelayMudou, object: nil)
+        }
+    }
+
     static var detachedList: Bool {
         get { lerBool(chaveDetachedList) }
         set { gravar(chaveDetachedList, newValue) }
+    }
+
+    static func rotuloZeroDelay(_ modo: String) -> String {
+        switch modo {
+        case "equilibrado": return "Equilibrado (baixa latência com anti-travamento)"
+        case "agressivo":   return "Agressivo (máximo ao vivo possível)"
+        default:            return "Desligado (padrão)"
+        }
     }
 
     static func rotuloUpscaling(_ modo: String) -> String {
@@ -146,6 +165,14 @@ struct TelaAjustes: View {
                         }
                         alternador("Preencher a tela", "Corta as bordas em vez de mostrar faixas pretas",
                                    icone: "rectangle.arrowtriangle.2.outward", valor: $model.fillScreen)
+                        linha("Zero Delay (Ao Vivo)", Preferencias.rotuloZeroDelay(model.zeroDelay),
+                               icone: "bolt.badge.clock") {
+                            switch model.zeroDelay {
+                            case "off": model.zeroDelay = "equilibrado"
+                            case "equilibrado": model.zeroDelay = "agressivo"
+                            default: model.zeroDelay = "off"
+                            }
+                        }
                         alternador("Áudio Inteligente", "Nivela o volume entre canais e fontes diferentes",
                                    icone: "waveform.badge.magnifyingglass", valor: $model.audioInteligente)
                         alternador("Manter à frente", "A janela fica por cima das outras",

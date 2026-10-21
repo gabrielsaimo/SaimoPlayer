@@ -83,7 +83,20 @@ final class SegundaTela: ObservableObject {
             ]
         ])
         let item = AVPlayerItem(asset: asset)
-        item.preferredForwardBufferDuration = 6
+        switch Preferencias.zeroDelay {
+        case "equilibrado":
+            item.preferredForwardBufferDuration = 2.5
+            item.automaticallyPreservesTimeOffsetFromLive = true
+            item.configuredTimeOffsetFromLive = CMTime(seconds: 4.0, preferredTimescale: 600)
+        case "agressivo":
+            item.preferredForwardBufferDuration = 1.2
+            item.automaticallyPreservesTimeOffsetFromLive = true
+            item.configuredTimeOffsetFromLive = CMTime(seconds: 2.0, preferredTimescale: 600)
+        default:
+            item.preferredForwardBufferDuration = 6.0
+            item.automaticallyPreservesTimeOffsetFromLive = false
+            item.configuredTimeOffsetFromLive = .invalid
+        }
 
         observadores.append(item.observe(\.status, options: [.new]) { [weak self] it, _ in
             let falhou = it.status == .failed
