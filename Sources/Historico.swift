@@ -220,9 +220,16 @@ final class Historico: @unchecked Sendable {
             }
             restante -= lido.dur
         }
+        let janelaMs: Int64
+        switch Preferencias.zeroDelay {
+        case "agressivo":   janelaMs = 25_000
+        case "equilibrado": janelaMs = 50_000
+        default:            janelaMs = Self.guardaMs
+        }
         if let ultimaSeq = regua.trechos.keys.max(), let ultimo = regua.trechos[ultimaSeq] {
-            let corte = ultimo.inicioMs + ultimo.duracaoMs - Self.guardaMs
-            while regua.trechos.count > lidos.count,
+            let corte = ultimo.inicioMs + ultimo.duracaoMs - janelaMs
+            let minimo = Preferencias.zeroDelay == "agressivo" ? 2 : (Preferencias.zeroDelay == "equilibrado" ? 3 : lidos.count)
+            while regua.trechos.count > minimo,
                   let primeiraSeq = regua.trechos.keys.min(),
                   let primeiro = regua.trechos[primeiraSeq], primeiro.inicioMs < corte {
                 regua.trechos.removeValue(forKey: primeiraSeq)
@@ -232,14 +239,29 @@ final class Historico: @unchecked Sendable {
         return escreverLista(regua)
     }
 
+    /// Limpa o histórico em cache (ex: ao ligar ou desligar Zero Delay).
+    func limpar() {
+        lock.lock()
+        reguas.removeAll()
+        lock.unlock()
+    }
+
     private func escreverLista(_ regua: Regua) -> String {
         let trechos = regua.ordenados
         guard let primeiro = trechos.first else { return "#EXTM3U\n" }
         let maior = trechos.map(\.duracaoMs).max() ?? 0
         let alvo = max(regua.alvoS, Int((Double(maior) / 1000).rounded(.up)))
         var sb = "#EXTM3U\n"
-        for l in regua.cabecalho where !l.hasPrefix("#EXT-X-TARGETDURATION") { sb += l + "\n" }
+        for l in regua.cabecalho where !l.hasPrefix("#EXT-X-TARGETDURATION") && !l.hasPrefix("#EXT-X-START") { sb += l + "\n" }
         sb += "#EXT-X-TARGETDURATION:\(alvo)\n"
+        switch Preferencias.zeroDelay {
+        case "agressivo":
+            sb += "#EXT-X-START:TIME-OFFSET=-0.1,PRECISE=YES\n"
+        case "equilibrado":
+            sb += "#EXT-X-START:TIME-OFFSET=-3.0,PRECISE=YES\n"
+        default:
+            break
+        }
         sb += "#EXT-X-MEDIA-SEQUENCE:\(primeiro.seq)\n"
         sb += "#EXT-X-DISCONTINUITY-SEQUENCE:\(primeiro.sequenciaDesc - (primeiro.descontinuidade ? 1 : 0))\n"
         var chave: String?

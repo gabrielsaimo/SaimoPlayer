@@ -684,6 +684,9 @@ final class PlayerModel: NSObject, ObservableObject {
             sourcesTried = 0
             playedSinceOpen = true
             stalledSince = nil
+            if selectedChannel != nil && zeroDelay != "off" {
+                jumpToLive()
+            }
             // Volta ao ponto em que parou, uma vez só por abertura. O ponto
             // pedido pelo celular (Saimo Connect) vale mais que o guardado.
             if playingFile != nil, !retomou, !chaveArquivo.isEmpty || inicioPedido != nil {
@@ -855,13 +858,20 @@ final class PlayerModel: NSObject, ObservableObject {
         guard let item = player.currentItem,
               let range = item.seekableTimeRanges.last?.timeRangeValue else { return }
         let edge = CMTimeRangeGetEnd(range)
-        player.seek(to: edge, toleranceBefore: .zero, toleranceAfter: .zero) { [weak self] _ in
+        let alvo: CMTime
+        if zeroDelay == "equilibrado" {
+            alvo = CMTimeSubtract(edge, CMTime(seconds: 3.0, preferredTimescale: 600))
+        } else {
+            // agressivo: ponta máxima ao vivo
+            alvo = edge
+        }
+        player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero) { [weak self] _ in
             Task { @MainActor in
                 self?.player.rate = self?.rate ?? 1
                 self?.isPlaying = true
             }
         }
-        Log.shared.write("pulou para o ao vivo")
+        Log.shared.write("pulou para o ao vivo (\(zeroDelay))")
     }
 
     // MARK: - Reconnect
@@ -1087,6 +1097,9 @@ final class PlayerModel: NSObject, ObservableObject {
         if let seekable = item.seekableTimeRanges.last?.timeRangeValue {
             let edge = CMTimeGetSeconds(CMTimeRangeGetEnd(seekable))
             stats.behindLive = max(0, edge - CMTimeGetSeconds(item.currentTime()))
+        }
+        if selectedChannel != nil && isPlaying && player.timeControlStatus == .playing {
+            aplicarLiveCatchUp(item)
         }
     }
 
@@ -1379,18 +1392,54 @@ final class PlayerModel: NSObject, ObservableObject {
         }
     }
 
+    private func aplicarLiveCatchUp(_ item: AVPlayerItem) {
+        guard zeroDelay != "off" else {
+            if player.rate != 1.0 { player.rate = 1.0 }
+            return
+        }
+
+        guard let seekable = item.seekableTimeRanges.last?.timeRangeValue else { return }
+        let edge = CMTimeGetSeconds(CMTimeRangeGetEnd(seekable))
+        let current = CMTimeGetSeconds(item.currentTime())
+        guard edge.isFinite, current.isFinite else { return }
+        let behind = max(0, edge - current)
+
+        // Guarda Anti-Starvation: se o buffer à frente estiver baixo (< 1.2s), trava em 1.0x imediatamente
+        if stats.bufferedAhead < 1.2 {
+            if player.rate != 1.0 { player.rate = 1.0 }
+            return
+        }
+
+        // Se ficou muito para trás (rede engasgou ou pausa), pula direto para o ao vivo
+        let maxDelayParaPulo: Double = zeroDelay == "agressivo" ? 7.0 : 12.0
+        if behind > maxDelayParaPulo {
+            jumpToLive()
+            return
+        }
+
+        // Aceleração suave de catch-up
+        let targetDelay: Double = zeroDelay == "agressivo" ? 1.8 : 4.0
+        let maxRate: Float = zeroDelay == "agressivo" ? 1.08 : 1.04
+
+        if behind > targetDelay + 1.2 {
+            if player.rate != maxRate {
+                player.rate = maxRate
+            }
+        } else if behind <= targetDelay + 0.3 {
+            if player.rate != 1.0 {
+                player.rate = 1.0
+            }
+        }
+    }
+
     func aplicarZeroDelay() {
+        Historico.shared.limpar()
         guard let item = player.currentItem, selectedChannel != nil else { return }
         configurarLiveZeroDelay(item)
-        if zeroDelay == "agressivo" {
-            if let faixa = item.seekableTimeRanges.last?.timeRangeValue {
-                let fim = CMTimeRangeGetEnd(faixa)
-                let atual = player.currentTime()
-                if CMTimeGetSeconds(CMTimeSubtract(fim, atual)) > 6.0 {
-                    let alvo = CMTimeSubtract(fim, CMTime(seconds: 2.0, preferredTimescale: 600))
-                    player.seek(to: alvo, toleranceBefore: .zero, toleranceAfter: .zero)
-                }
-            }
+        if zeroDelay != "off" {
+            jumpToLive()
+        } else {
+            player.rate = 1.0
         }
     }
 

@@ -133,6 +133,9 @@ final class SegundaTela: ObservableObject {
         tentativas = 0
         fontesTentadas = 0
         status = "no ar"
+        if Preferencias.zeroDelay != "off" {
+            irAoVivo()
+        }
     }
 
     /// A fonte no ar (o proxy pode trocar sozinho) e o relógio do player:
