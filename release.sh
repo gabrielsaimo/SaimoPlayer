@@ -20,6 +20,7 @@ JAVA17="/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home"
 versao="${1:-}"
 if [ -n "$versao" ] && [ "${versao:0:2}" != "--" ]; then
   /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString $versao" "$PLIST"
+  /usr/libexec/PlistBuddy -c "Set :CFBundleVersion $versao" "$PLIST" 2>/dev/null || true
   # O versionCode precisa só crescer, então vira um número a partir da versão:
   # 1.2.3 -> 10203. Sem isso o Android recusa a instalação por cima.
   codigo=$(python3 - "$versao" <<'PY'
@@ -101,7 +102,7 @@ echo "==> montando o APK da TV"
 # assembleRelease, e não Debug: o APK publicado sai assinado com a chave da
 # pasta chaves, que é o que permite atualizar por cima.
 ( cd ../SaimoTV-Android && JAVA_HOME="$JAVA17" ANDROID_HOME="$HOME/Library/Android/sdk" \
-  ./gradlew assembleRelease -q )
+  ./gradlew clean assembleRelease -q )
 cp "../SaimoTV-Android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoTV.apk"
 
 echo "==> montando o app do Windows"
@@ -111,7 +112,7 @@ cp "../SaimoWin/dist/SaimoTV-Windows.zip" "build/release/SaimoTV-Windows.zip"
 if [ -d "../Saimo-Cell-V2/android" ]; then
   echo "==> montando o APK do celular"
   ( cd ../Saimo-Cell-V2/android && JAVA_HOME="$JAVA17" ANDROID_HOME="$HOME/Library/Android/sdk" \
-    ./gradlew assembleRelease -q )
+    ./gradlew clean assembleRelease -q )
   cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
 elif [ -f "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" ]; then
   cp "../Saimo-Cell-V2/android/app/build/outputs/apk/release/app-release.apk" "build/release/SaimoCell.apk"
@@ -194,7 +195,7 @@ gh release create "v$versao" --repo "$REPO_DOWNLOADS" \
   build/release/SaimoTV.dmg build/release/SaimoTV.apk \
   build/release/SaimoTV-Windows.zip \
   build/release/versao.json \
-  $(ls build/release/SaimoTV-Samsung.wgt build/release/SaimoTV-LG.ipk 2>/dev/null) \
+  $(ls build/release/SaimoTV-Samsung.wgt build/release/SaimoTV-LG.ipk 2>/dev/null || true) \
   ${cell:-}
 
 # A ponte: o mesmo release no GitHub antigo (SAIMO_REPO_LEGADO="dono/repo"). Os apps
